@@ -22,7 +22,7 @@ sources:
 # Curiosity Corner
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 11 claims (3 for, 2 mixed, 6 against) · 2 studies (2 causal), `q3` · 2 of 2 report an effect size · 11 claims rest on one study
+> **Evidence** · 7 claims (1 for, 1 mixed, 5 against) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 7 claims rest on one study
 
 ## Description
 Curiosity Corner 2nd Edition is a preschool curriculum package developed and provided by the Success for All Foundation, including interactive whiteboard lessons and other classroom materials.
@@ -41,10 +41,6 @@ Curiosity Corner 2nd Edition is a preschool curriculum package developed and pro
 - [Curiosity Corner shows no discernible effects on preschool oral language outcomes across two studies meeting WWC standards](../claims/curiosity-corner-no-discernible-oral-language-effects.md) [-W]
 - [Curiosity Corner shows no discernible effects on phonological processing in the PCER randomized trial](../claims/curiosity-corner-no-discernible-phonological-effects.md) [-W]
 - [Curiosity Corner shows no discernible effects on preschool print knowledge in the PCER randomized trial](../claims/curiosity-corner-no-discernible-print-knowledge-effects.md) [-W]
-- [Curiosity Corner improves expressive language but not receptive language in a New Jersey cluster randomized study](../claims/curiosity-corner-expressive-language-nj-study.md) [~W]
-- [Curiosity Corner shows significant positive kindergarten follow-up effects on early reading and letter-word identification, averaging +0.27](../claims/curiosity-corner-kindergarten-follow-up-effects.md) [+W]
-- [In the PCER study, Curiosity Corner showed non-significant positive effects on immediate reading and phonological measures](../claims/curiosity-corner-pcer-immediate-null-effects.md) [-W]
-- [Two cluster randomized experiments with 225 students rate Curiosity Corner as Promising with an average kindergarten follow-up effect of +0.33](../claims/curiosity-corner-promising-evidence-rating.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -169,10 +165,6 @@ Curiosity Corner is a full-day prekindergarten approach designed to develop the 
 
 ## Claims
 
-- [Curiosity Corner improves expressive language but not receptive language in a New Jersey cluster randomized study](../claims/curiosity-corner-expressive-language-nj-study.md) [~W]
-- [Curiosity Corner shows significant positive kindergarten follow-up effects on early reading and letter-word identification, averaging +0.27](../claims/curiosity-corner-kindergarten-follow-up-effects.md) [+W]
-- [In the PCER study, Curiosity Corner showed non-significant positive effects on immediate reading and phonological measures](../claims/curiosity-corner-pcer-immediate-null-effects.md) [-W]
-- [Two cluster randomized experiments with 225 students rate Curiosity Corner as Promising with an average kindergarten follow-up effect of +0.33](../claims/curiosity-corner-promising-evidence-rating.md) [+W]
 
 ## Related Elements
 

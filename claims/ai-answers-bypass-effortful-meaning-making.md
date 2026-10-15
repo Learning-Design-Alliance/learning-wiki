@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Studies indicate learners frequently consume ready-made AI knowledge rather than actively constructing understanding. [→ Shan Li 2026](#shan-li-2026)
@@ -45,4 +46,4 @@ The article asserts, citing Zhai et al. (2024), that "students often adopt AI-ge
 ## Related Claims
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — possibly the same claim (merge candidate)
 - [GenAI use collapses SRL cycle transitions, with metacognitive activity restructuring around the tool](genai-collapses-srl-cycle-transitions.md) — related
-- [Generative AI can help people finish tasks more quickly but does not accelerate learning itself](genai-speeds-tasks-not-learning.md) — related
+- Generative AI can help people finish tasks more quickly but does not accelerate learning itself — related

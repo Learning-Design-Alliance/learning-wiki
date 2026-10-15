@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: qusay-h-mahmoud-2026
-    resource: "https://arxiv.org/abs/2609.29473"
-    title: "Qusay H. Mahmoud. (2026). Judgment-Centred Software Engineering Education: A Post-Hype Review and Framework for AI-Augmented Learning. Preprint, September 2026. https://arxiv.org/abs/2609.29473"
+    resource: "https://doi.org/10.48550/arxiv.2609.29473"
+    title: "Qusay H. Mahmoud. (2026). Judgment-Centred Software Engineering Education: A Post-Hype Review and Framework for AI-Augmented Learning. Preprint, September 2026. https://arxiv.org/abs/2609.29473 [doi:10.48550/arxiv.2609.29473](https://doi.org/10.48550/arxiv.2609.29473)"
     author: Qusay H. Mahmoud
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Qusay H. Mahmoud 2026
 
-Qusay H. Mahmoud. (2026). Judgment-Centred Software Engineering Education: A Post-Hype Review and Framework for AI-Augmented Learning. Preprint, September 2026. https://arxiv.org/abs/2609.29473
+Qusay H. Mahmoud. (2026). Judgment-Centred Software Engineering Education: A Post-Hype Review and Framework for AI-Augmented Learning. Preprint, September 2026. https://arxiv.org/abs/2609.29473 [doi:10.48550/arxiv.2609.29473](https://doi.org/10.48550/arxiv.2609.29473)
 
 `q2 · i?` · `qualitative · r?`
 
@@ -48,7 +48,7 @@ The review reports Saravanan et al.'s qualitative study of three focus groups wi
 - [The review reports some evidence that over-dependence on AI contributes to cognitive offloading and decreased independent reasoning, while guided AI use can be helpful](ai-overdependence-cognitive-offloading-guided-use-helpful.md) — related
 - [Nursing students and faculty report concerns that AI use may weaken critical thinking, enable plagiarism and misinformation, and create unequal access](ai-concerns-critical-thinking-plagiarism-nursing.md) — related
 - [Faculty members and students anticipate AI will transform education and professions, sharing concerns that excessive dependence could weaken cognitive skills](long-term-ai-transformation-cognitive-skill-weakening-concerns.md) — related
-- [Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs](teacher-big-picture-genai-concerns.md) — related
+- Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs — related
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
 - [Faculty observed that students engage shallowly with AI-generated content without structure, concluding productive use must be modeled](shallow-engagement-ai-generated-content.md) — related
 - [Learning Quality & Cognitive Dependency discourse is heavily faculty-driven (Fac% 82.3), concentrated in K-12 and professor communities](cognitive-dependency-discourse-faculty-driven.md) — related

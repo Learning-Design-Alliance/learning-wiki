@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: jennie-ren-2026
-    resource: "https://arxiv.org/abs/2607.22463"
-    title: "Jennie Ren, Jordan H. McDowell, and Kyrie Zhixuan Zhou. (2026). Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education. https://arxiv.org/abs/2607.22463"
+    resource: "https://doi.org/10.48550/arxiv.2607.22463"
+    title: "Jennie Ren, Jordan H. McDowell, and Kyrie Zhixuan Zhou. (2026). Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education. https://arxiv.org/abs/2607.22463 [doi:10.48550/arxiv.2607.22463](https://doi.org/10.48550/arxiv.2607.22463)"
     author: Jennie Ren, Jordan H. McDowell, and Kyrie Zhixuan Zhou
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Jennie Ren 2026
 
-Jennie Ren, Jordan H. McDowell, and Kyrie Zhixuan Zhou. (2026). Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education. https://arxiv.org/abs/2607.22463
+Jennie Ren, Jordan H. McDowell, and Kyrie Zhixuan Zhou. (2026). Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education. https://arxiv.org/abs/2607.22463 [doi:10.48550/arxiv.2607.22463](https://doi.org/10.48550/arxiv.2607.22463)
 
 `q2 · i?` · `qualitative · r2`
 
@@ -45,4 +45,4 @@ Qualitative analysis of three recorded trio-ethnographic conversations (two educ
 ## Related Claims
 - [Both institutional and course-level guidance emphasize transparency and acknowledging or citing GenAI use, with 83% of syllabi providing explicit citation guidance](both-levels-emphasize-citation-transparency.md) — related
 - [Institutional GenAI guidance is more pro-use than computing course syllabus policies, where 92% of syllabi set explicit permissions and half prohibit use outright](institutional-pro-use-course-guarded-genai-policies.md) — related
-- [Transparency about AI involvement appeared to function as an instructional intervention, shifting student reflection from feedback quality toward authority, trust, and assessment legitimacy](transparency-pedagogical-intervention-assessment-reflection.md) — related
+- Transparency about AI involvement appeared to function as an instructional intervention, shifting student reflection from feedback quality toward authority, trust, and assessment legitimacy — related

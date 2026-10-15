@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: fang-2026
-    resource: "https://arxiv.org/abs/2606.20264"
-    title: "Fang, L., Zhang, Y., Park, J., Wang, Z., Ma, P., Zhai, X. (2026). Confidence-Aware Automated Assessment of Student-Drawn Scientific Models. https://arxiv.org/abs/2606.20264"
+    resource: "https://doi.org/10.48550/arxiv.2606.20264"
+    title: "Fang, L., Zhang, Y., Park, J., Wang, Z., Ma, P., Zhai, X. (2026). Confidence-Aware Automated Assessment of Student-Drawn Scientific Models. https://arxiv.org/abs/2606.20264 [doi:10.48550/arxiv.2606.20264](https://doi.org/10.48550/arxiv.2606.20264)"
     author: Fang, L., Zhang, Y., Park, J., Wang, Z., Ma, P., Zhai, X.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Fang 2026
 
-Fang, L., Zhang, Y., Park, J., Wang, Z., Ma, P., Zhai, X. (2026). Confidence-Aware Automated Assessment of Student-Drawn Scientific Models. https://arxiv.org/abs/2606.20264
+Fang, L., Zhang, Y., Park, J., Wang, Z., Ma, P., Zhai, X. (2026). Confidence-Aware Automated Assessment of Student-Drawn Scientific Models. https://arxiv.org/abs/2606.20264 [doi:10.48550/arxiv.2606.20264](https://doi.org/10.48550/arxiv.2606.20264)
 
 `q2 · i?` · `design · r2`
 
@@ -46,7 +46,7 @@ Numerical evaluation on six NGSS-aligned drawing items (Table 2), comparing ViT 
 - [Human-LLM agreement remains low across constructs (κ = 0.000 to 0.419), with self-efficacy showing the best alignment and Prior KSAs none](human-llm-agreement-low-construct-varying.md) — related
 - [The framework shows high scoring consistency, with 79% agreement and 81% inter-rater reliability on physics questions](framework-scoring-high-consistency-physics.md) — related
 - [In blind verification, model selection matters more than source type: Bradley-Terry ranking interleaves human coders and LLMs, with per-model win rates spanning significant human advantage to numerical LLM advantage](bradley-terry-model-selection-matters-more-than-source-type.md) — related
-- [Claude showed the highest alignment with human BREQ responses, and interview-containing prompts aligned better than baseline prompts](claude-highest-human-alignment-interview-prompts.md) — related
+- Claude showed the highest alignment with human BREQ responses, and interview-containing prompts aligned better than baseline prompts — related
 - [A Gemini-based creativity autorater scores real students' complex multimedia creativity tasks on par with human experts (item Kappa 0.66; total-score Pearson r = 0.88)](gemini-autorater-creativity-real-students.md) — related
 - [LLM alignment with expert teaching ratings does not predict, and is often negatively associated with, alignment with student learning gains](proxy-alignment-not-impact-alignment-llm-classroom.md) — reports the opposite
 - [Multimodal LLMs grading handwritten student work achieved κ = 0.90 on arithmetic but κ ≈ 0.47 on interpreting student illustrations](multimodal-llm-grading-kappa-arithmetic-illustrations.md) — related

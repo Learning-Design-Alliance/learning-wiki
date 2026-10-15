@@ -87,10 +87,6 @@
         [
           "high-mixture-increases-regressive-changes",
           "~"
-        ],
-        [
-          "limited-transfer-from-discrepant-training",
-          "~"
         ]
       ]
     }

@@ -52,4 +52,4 @@ The fact sheet states growth measures "can be combined with other educator perfo
 - [Eight early-adopting districts use alternative measures of teacher effectiveness in evaluation or performance-related compensation systems](eight-districts-use-alternative-teacher-effectiveness-measures.md) — related
 - [The most extreme district disparity: District A's high-poverty middle schools had about 1 in 20 highest-performing math teachers versus about 12 in 20 in the lowest-poverty quintile](district-a-extreme-middle-school-math-disparity.md) — related
 - [The reliability of a teacher evaluation system determines the proportion of teachers who can be identified as exceptional](evaluation-reliability-determines-exceptional-teacher-proportion.md) — related
-- [The paper compares the reliability of teacher evaluation systems that include value-added with those that do not](value-added-systems-with-versus-without-reliability.md) — related
+- The paper compares the reliability of teacher evaluation systems that include value-added with those that do not — related

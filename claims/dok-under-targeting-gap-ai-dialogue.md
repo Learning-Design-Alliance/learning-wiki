@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: alex-liu-2026
-    resource: "https://arxiv.org/abs/2604.16738"
-    title: "Alex Liu, Min Sun, Lief Esbenshade, Victor Tian, Zachary Zhang, and Kevin He. (2026). Teacher-Authored Prompts for Configuring StudentAI Dialogue: K12 Classroom Implementation. https://arxiv.org/abs/2604.16738"
+    resource: "https://doi.org/10.48550/arxiv.2604.16738"
+    title: "Alex Liu, Min Sun, Lief Esbenshade, Victor Tian, Zachary Zhang, and Kevin He. (2026). Teacher-Authored Prompts for Configuring StudentAI Dialogue: K12 Classroom Implementation. https://arxiv.org/abs/2604.16738 [doi:10.48550/arxiv.2604.16738](https://doi.org/10.48550/arxiv.2604.16738)"
     author: Alex Liu, Min Sun, Lief Esbenshade, Victor Tian, Zachary Zhang, and Kevin He
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # A design-enactment gap in cognitive demand: 37.7% of conversations under-reached the teacher-targeted DOK level, and under-targeting increased with target ambition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` 37.7% of conversations showed students performing below target DOK, with a mean DOK gap of +0.39 (SD = 0.81). [→ Alex Liu 2026](#alex-liu-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Alex Liu 2026
 
-Alex Liu, Min Sun, Lief Esbenshade, Victor Tian, Zachary Zhang, and Kevin He. (2026). Teacher-Authored Prompts for Configuring StudentAI Dialogue: K12 Classroom Implementation. https://arxiv.org/abs/2604.16738
+Alex Liu, Min Sun, Lief Esbenshade, Victor Tian, Zachary Zhang, and Kevin He. (2026). Teacher-Authored Prompts for Configuring StudentAI Dialogue: K12 Classroom Implementation. https://arxiv.org/abs/2604.16738 [doi:10.48550/arxiv.2604.16738](https://doi.org/10.48550/arxiv.2604.16738)
 
 `q2 · i?` · `design · r2`
 

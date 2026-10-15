@@ -45,6 +45,6 @@ In the TEOG booklet DIF analysis, items 2 and 13 in Booklet A occupy 3rd and 14t
 
 - [The ICC and LDF methods identify substantially different sets of items as exhibiting DIF on a state science performance assessment](icc-and-ldf-methods-identify-different-dif-items.md) — the general claim this finding bears on, with the studies behind it
 - [Items flagged as DIF were generally positioned at considerably different places between booklets, suggesting position-related DIF](dif-items-differently-positioned-across-booklets.md) — reports the opposite
-- [The polytomous DFIT framework shows Type I error rates close to nominal alpha except when the number of DIF items and DIF magnitude are highest](polytomous-dfit-type-i-error-near-alpha.md) — related
+- The polytomous DFIT framework shows Type I error rates close to nominal alpha except when the number of DIF items and DIF magnitude are highest — related
 - [An item positioned later in one booklet was found more difficult by that booklet's test takers, attributed to fatigue effect](later-position-item-more-difficult-fatigue-effect.md) — related
 - [The overall CT–PCK Survey functioned similarly across teacher characteristic groups, though some items showed raw differential item functioning above 0.64 logits](ct-pck-dif-dtf-findings.md) — related

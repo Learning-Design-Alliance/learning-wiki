@@ -10,8 +10,8 @@ generated:
 evidence_strength: strong
 sources:
   - id: kini-2016
-    resource: "https://learningpolicyinstitute.org/our-work/publications-resources/does-teaching-experience-increase-teacher-effectiveness-review-research"
-    title: "Kini, T., & Podolsky, A. (2016). Does Teaching Experience Increase Teacher Effectiveness? A Review of the Research. Learning Policy Institute. https://learningpolicyinstitute.org/our-work/publications-resources/does-teaching-experience-increase-teacher-effectiveness-review-research"
+    resource: "https://doi.org/10.54300/625.642"
+    title: "Kini, T., & Podolsky, A. (2016). Does Teaching Experience Increase Teacher Effectiveness? A Review of the Research. Learning Policy Institute. https://learningpolicyinstitute.org/our-work/publications-resources/does-teaching-experience-increase-teacher-effectiveness-review-research [doi:10.54300/625.642](https://doi.org/10.54300/625.642)"
     author: "Kini, T., & Podolsky, A."
     q: 3
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Teaching experience is positively and significantly associated with student achievement gains throughout a teacher's career, per a review of 30 studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · review `r2` · `q3`
+> **Evidence** · 2 studies · 2 review `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Of 30 reviewed studies, 28 found teaching experience positively and significantly associated with teacher effectiveness. [→ Kini 2016](#kini-2016)
@@ -40,7 +40,7 @@ sources:
 
 ### Kini 2016
 
-Kini, T., & Podolsky, A. (2016). Does Teaching Experience Increase Teacher Effectiveness? A Review of the Research. Learning Policy Institute. https://learningpolicyinstitute.org/our-work/publications-resources/does-teaching-experience-increase-teacher-effectiveness-review-research
+Kini, T., & Podolsky, A. (2016). Does Teaching Experience Increase Teacher Effectiveness? A Review of the Research. Learning Policy Institute. https://learningpolicyinstitute.org/our-work/publications-resources/does-teaching-experience-increase-teacher-effectiveness-review-research [doi:10.54300/625.642](https://doi.org/10.54300/625.642)
 
 `q3 · i?` · `review · r2`
 
@@ -62,5 +62,5 @@ Among the roughly two-thirds of reviewed studies using longitudinal datasets wit
 
 
 ## Related Claims
-- [Teachers continue to improve in their second decade of teaching, though fewer studies find improvement after 15 years](teachers-keep-improving-second-decade.md) — a narrower finding that bears on this claim
+- Teachers continue to improve in their second decade of teaching, though fewer studies find improvement after 15 years — a narrower finding that bears on this claim
 - [A Florida study found experience effects in elementary and middle school math and reading up to 0.16 SD for teachers with 15–24 years, but no returns to experience for high school teachers](florida-experience-effects-no-high-school-returns.md) — a narrower finding that bears on this claim

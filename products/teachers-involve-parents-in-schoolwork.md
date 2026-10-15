@@ -18,7 +18,7 @@ sources:
 # Teachers Involve Parents in Schoolwork
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Teachers Involve Parents in Schoolwork (TIPS) is a researcher- and educator-designed partnership programme that engages families through teacher-assigned interactive homework across grade levels and subjects.
@@ -28,10 +28,6 @@ Teachers Involve Parents in Schoolwork (TIPS) is a researcher- and educator-desi
 - **Teachers Involve Parents in Schoolwork (TIPS) interactive homework program**: TIPS is "a researcher and educator-designed, implemented and tested partnership process for teachers to regularly keep families involved in their children's education." Its core mechanism is interactive homework: "teachers provide students assignments that require them to talk to someone at home about something interesting that they are learning in class." Activities are organized by grade level (elementary, middle, high school) and subject (language arts, math, science). Implementation requires no additional staffing, training, or technology. (Teachers Involve Parents in Schoolwork (TIPS): Evidence Rating (2011))
 
 ### Claims
-- [TIPS students report significantly higher family involvement in reading and science homework than non-participants](../claims/tips-family-involvement-reading-science.md) [+W]
-- [TIPS participation raises family-reported involvement in mathematics homework (ES = +0.49)](../claims/tips-family-reported-involvement-math.md) [+W]
-- [End-of-fourth-grade mathematics achievement significantly favors TIPS students over non-participants](../claims/tips-math-achievement-favored.md) [+W]
-- [TIPS participation of any duration raises student-reported family involvement in mathematics homework (ES = +0.82)](../claims/tips-student-reported-family-involvement-math.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -65,10 +61,6 @@ TIPS is "a researcher and educator-designed, implemented and tested partnership 
 
 ## Claims
 
-- [TIPS students report significantly higher family involvement in reading and science homework than non-participants](../claims/tips-family-involvement-reading-science.md) [+W]
-- [TIPS participation raises family-reported involvement in mathematics homework (ES = +0.49)](../claims/tips-family-reported-involvement-math.md) [+W]
-- [End-of-fourth-grade mathematics achievement significantly favors TIPS students over non-participants](../claims/tips-math-achievement-favored.md) [+W]
-- [TIPS participation of any duration raises student-reported family involvement in mathematics homework (ES = +0.82)](../claims/tips-student-reported-family-involvement-math.md) [+W]
 
 ## Related Elements
 - 

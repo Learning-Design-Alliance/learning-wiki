@@ -57,13 +57,13 @@ The summary reports, citing the Phillips et al. (2017) consensus statement on pr
 
 ## Related Claims
 - [Children who attend pre-kindergarten are advanced on language, reading, writing, and math skills compared to similar children who did not attend](prek-advanced-language-reading-writing-math.md) — related
-- [Children attending early childhood education programs are far more likely to be on track in emergent literacy and numeracy](cl-early-childhood-education-improves-school-readiness.md) — a broader claim this one bears on
+- Children attending early childhood education programs are far more likely to be on track in emergent literacy and numeracy — a broader claim this one bears on
 - [Ready, Set, Leap!® effects do not persist to kindergarten follow-up on oral language, print knowledge, or math measures](ready-set-leap-null-kindergarten-followup.md) — related
-- [Fueling Brains pre-kindergarten gains persist to end of kindergarten on six of seven TX-KEA literacy and math subtests](fueling-brains-gains-persist-kindergarten.md) — related
-- [Pre-kindergarten students receiving CAPIT Reading instruction score higher on early literacy assessment than matched peers (effect size +0.19)](capit-reading-prek-literacy-es-019.md) — related
+- Fueling Brains pre-kindergarten gains persist to end of kindergarten on six of seven TX-KEA literacy and math subtests — related
+- Pre-kindergarten students receiving CAPIT Reading instruction score higher on early literacy assessment than matched peers (effect size +0.19) — related
 - [In fall 1998, five percent of children were repeating kindergarten and six percent were attending kindergarten for the first time despite being age-eligible a year earlier](five-percent-repeating-six-percent-delayed-kindergarten-1998.md) — related
 - [At the end of first grade, children whose kindergarten entry was delayed were behind their classmates who began kindergarten on time in math](delayed-entrants-behind-in-math-first-grade.md) — related
 - [At the end of first grade, children who repeated kindergarten had lower reading and math knowledge and skills than children who started on time](repeaters-lower-reading-math-end-first-grade.md) — related
 - [Full-day pre-k attendance is associated with stronger pre-k attendance and kindergarten readiness in English language development and early literacy for ELs](full-day-prek-associated-el-kindergarten-readiness.md) — a narrower finding that bears on this claim
-- [Chronically absent pre-kindergarten students (absent 10 percent or more of enrolled days) display lower academic and behavioral kindergarten readiness](chronic-prek-absence-lower-kindergarten-readiness.md) — related
+- Chronically absent pre-kindergarten students (absent 10 percent or more of enrolled days) display lower academic and behavioral kindergarten readiness — related
 - [A year of West Virginia Pre-K produced substantial gains in print awareness at kindergarten entry, and the program meets all 10 NIEER quality standards](wv-prek-print-awareness-gains.md) — a narrower finding that bears on this claim

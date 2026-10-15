@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Form-focused manipulation of input in adult second language acquisition produces temporary, superficial performance changes rather than reorganization of the learner's grammar. [→ Young-Scholten 1999](#young-scholten-1999)
@@ -48,5 +49,5 @@ The author's review of studies on input manipulation in adult second language ac
 - [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](comprehensible-input-insufficient-grammar-acquisition.md) — related
 - [A 1999 conference paper reports, citing Ellis and LaPorte (1997), that instruction has little or no effect on the route of L2 acquisition](instruction-little-effect-on-route-of-acquisition.md) — a broader claim this one bears on
 - [Informal evidence that adults do not automatically process input to develop competence reopens the role of grammar instruction (as reported by the bibliography, citing Terrell)](input-processing-insufficient-for-adult-competence-terrell.md) — reports the opposite
-- [Grammar instruction and skill drills show little carryover to composition success](grammar-drills-little-carryover-composition.md) — a narrower finding that bears on this claim
+- Grammar instruction and skill drills show little carryover to composition success — a narrower finding that bears on this claim
 - [Effects of linguistic comprehension instruction differ by outcome domain: small for vocabulary and grammar, moderate for narrative and listening comprehension](differential-language-outcomes-small-vocabulary-grammar-moderate-narrative-listening.md) — related

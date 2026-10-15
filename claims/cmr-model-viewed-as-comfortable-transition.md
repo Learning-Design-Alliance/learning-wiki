@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` When the CMR model was presented to Workers and Administrators, they viewed it as a comfortable transition into residential treatment. [→ Williams 1995](#williams-1995)

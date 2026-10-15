@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: james-soland-2020
-    resource: "https://www.nwea.org/research/publication/do-students-rapidly-guess-repeatedly-over-time-a-longitudinal-analysis-of-student-test-disengagement-background-and-attitudes/"
-    title: "James Soland, Steven Wise. (2020). Do students rapidly guess repeatedly over time? A longitudinal analysis of student test disengagement, background, and attitudes. NWEA Research presentation, 2020 National Council on Measurement in Education virtual conference. https://www.nwea.org/research/publication/do-students-rapidly-guess-repeatedly-over-time-a-longitudinal-analysis-of-student-test-disengagement-background-and-attitudes/"
+    resource: "https://doi.org/10.1080/10627197.2019.1645592"
+    title: "James Soland, Steven Wise. (2020). Do students rapidly guess repeatedly over time? A longitudinal analysis of student test disengagement, background, and attitudes. NWEA Research presentation, 2020 National Council on Measurement in Education virtual conference. https://www.nwea.org/research/publication/do-students-rapidly-guess-repeatedly-over-time-a-longitudinal-analysis-of-student-test-disengagement-background-and-attitudes/ [doi:10.1080/10627197.2019.1645592](https://doi.org/10.1080/10627197.2019.1645592)"
     author: James Soland, Steven Wise
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### James Soland 2020
 
-James Soland, Steven Wise. (2020). Do students rapidly guess repeatedly over time? A longitudinal analysis of student test disengagement, background, and attitudes. NWEA Research presentation, 2020 National Council on Measurement in Education virtual conference. https://www.nwea.org/research/publication/do-students-rapidly-guess-repeatedly-over-time-a-longitudinal-analysis-of-student-test-disengagement-background-and-attitudes/
+James Soland, Steven Wise. (2020). Do students rapidly guess repeatedly over time? A longitudinal analysis of student test disengagement, background, and attitudes. NWEA Research presentation, 2020 National Council on Measurement in Education virtual conference. https://www.nwea.org/research/publication/do-students-rapidly-guess-repeatedly-over-time-a-longitudinal-analysis-of-student-test-disengagement-background-and-attitudes/ [doi:10.1080/10627197.2019.1645592](https://doi.org/10.1080/10627197.2019.1645592)
 
 `q2 · i?` · `associational · r?`
 

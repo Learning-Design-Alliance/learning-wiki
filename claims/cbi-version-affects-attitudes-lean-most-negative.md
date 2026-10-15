@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q3 i?` A MANOVA on the 12 attitude items revealed a significant overall difference among the six treatment groups. [→ Martin 2003](#martin-2003)

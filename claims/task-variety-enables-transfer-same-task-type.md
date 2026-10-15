@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 6 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Learners acquire the ability to transfer knowledge and skill to unencountered tasks of a type by doing a variety of different tasks of that type. [→ M. David Merrill 2007](#m-david-merrill-2007)

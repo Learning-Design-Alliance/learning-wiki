@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: bang-an-2026
-    resource: "https://arxiv.org/abs/2609.19617"
-    title: "Bang An, Maria Hamdani, Joseph Fox. (2026). DataCanvas-EDU: An Agentic Framework for Instructor-Guided Synthetic Data Generation in Business Analytics Education. https://arxiv.org/abs/2609.19617"
+    resource: "https://doi.org/10.48550/arxiv.2609.19617"
+    title: "Bang An, Maria Hamdani, Joseph Fox. (2026). DataCanvas-EDU: An Agentic Framework for Instructor-Guided Synthetic Data Generation in Business Analytics Education. https://arxiv.org/abs/2609.19617 [doi:10.48550/arxiv.2609.19617](https://doi.org/10.48550/arxiv.2609.19617)"
     author: Bang An, Maria Hamdani, Joseph Fox
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Bang An 2026
 
-Bang An, Maria Hamdani, Joseph Fox. (2026). DataCanvas-EDU: An Agentic Framework for Instructor-Guided Synthetic Data Generation in Business Analytics Education. https://arxiv.org/abs/2609.19617
+Bang An, Maria Hamdani, Joseph Fox. (2026). DataCanvas-EDU: An Agentic Framework for Instructor-Guided Synthetic Data Generation in Business Analytics Education. https://arxiv.org/abs/2609.19617 [doi:10.48550/arxiv.2609.19617](https://doi.org/10.48550/arxiv.2609.19617)
 
 `q1 · i?` · `design · r2`
 

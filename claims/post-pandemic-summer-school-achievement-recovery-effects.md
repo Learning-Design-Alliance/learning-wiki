@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: emily-morton-2025
-    resource: "https://www.nwea.org/research/publication/schools-in-for-summer-a-scalable-and-effective-post-pandemic-academic-intervention/"
-    title: "Emily Morton, Dan Goldhaber, Andrew McEachin, Thomas J. Kane. (2025). School's in for Summer: A Scalable and Effective Post-Pandemic Academic Intervention. NWEA research brief. https://www.nwea.org/research/publication/schools-in-for-summer-a-scalable-and-effective-post-pandemic-academic-intervention/"
+    resource: "https://doi.org/10.63302/wsun5218"
+    title: "Emily Morton, Dan Goldhaber, Andrew McEachin, Thomas J. Kane. (2025). School's in for Summer: A Scalable and Effective Post-Pandemic Academic Intervention. NWEA research brief. https://www.nwea.org/research/publication/schools-in-for-summer-a-scalable-and-effective-post-pandemic-academic-intervention/ [doi:10.63302/wsun5218](https://doi.org/10.63302/wsun5218)"
     author: Emily Morton, Dan Goldhaber, Andrew McEachin, Thomas J. Kane
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Emily Morton 2025
 
-Emily Morton, Dan Goldhaber, Andrew McEachin, Thomas J. Kane. (2025). School's in for Summer: A Scalable and Effective Post-Pandemic Academic Intervention. NWEA research brief. https://www.nwea.org/research/publication/schools-in-for-summer-a-scalable-and-effective-post-pandemic-academic-intervention/
+Emily Morton, Dan Goldhaber, Andrew McEachin, Thomas J. Kane. (2025). School's in for Summer: A Scalable and Effective Post-Pandemic Academic Intervention. NWEA research brief. https://www.nwea.org/research/publication/schools-in-for-summer-a-scalable-and-effective-post-pandemic-academic-intervention/ [doi:10.63302/wsun5218](https://doi.org/10.63302/wsun5218)
 
 `q2 · i?` · `causal · r?`
 

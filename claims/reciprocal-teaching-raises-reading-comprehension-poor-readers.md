@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 6 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` The review reports, citing Palincsar and Brown (1984), that reciprocal teaching of reading was remarkably effective in raising reading comprehension test scores, especially those of poor readers. [→ Emmanuel Imiere 2019](#emmanuel-imiere-2019)
@@ -48,4 +49,3 @@ Narrative review attributing the finding to Palincsar and Brown (1984); the arti
 ## Related Claims
 
 - [Reciprocal Teaching Improves Reading Comprehension](reciprocal-teaching-improves-reading-comprehension.md) — possibly the same claim (merge candidate)
-- [The author reports metacognitive scaffolding facilitated and enhanced non-specialized students' learning of philosophy literature](metacognitive-scaffolding-enhanced-philosophy-learning-non-specialists.md)

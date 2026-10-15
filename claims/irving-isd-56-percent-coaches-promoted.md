@@ -41,4 +41,4 @@ A district-lead statement reported in the Irving ISD case narrative: 56% of educ
 
 
 ## Related Claims
-- [As of mid-2017 the Digital Promise micro-credential ecosystem had drawn over 5,000 submissions from educators in approximately 550 districts, with about 55 percent of portfolio submitters awarded a micro-credential](dp-ecosystem-2017-submission-uptake.md) — related
+- As of mid-2017 the Digital Promise micro-credential ecosystem had drawn over 5,000 submissions from educators in approximately 550 districts, with about 55 percent of portfolio submitters awarded a micro-credential — related

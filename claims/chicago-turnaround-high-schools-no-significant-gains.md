@@ -62,7 +62,7 @@ First-year post-intervention absence trends for reformed high schools relative t
 
 
 ## Related Claims
-- [On-track rates in Chicago improved over time alongside indicator-based data tool use](chicago-ontrack-rates-improved-over-time.md) — related
+- On-track rates in Chicago improved over time alongside indicator-based data tool use — related
 - [Reformed elementary schools made significant test-score improvements versus matched comparison schools, with gains growing gradually over four years](chicago-turnaround-elementary-test-score-gains-gradual.md) — related
 - [Six of seven recently reformed high schools showed first-year on-track improvements above comparison schools, though evidence is limited](recent-high-school-turnarounds-on-track-improvement.md) — related
 - [Ninth-grade on-track NSI positively affected GPA, core course pass rates, and credit completion after schools' second year of participation](ninth-grade-on-track-nsi-positive-gpa-pass-credits.md) — related

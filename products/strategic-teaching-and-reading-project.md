@@ -22,7 +22,7 @@ sources:
 # Strategic Teaching and Reading Project
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 7 claims (6 for, 1 against) · 2 studies (1 associational, 1 qualitative), `q2` · 0 of 2 report an effect size · 7 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A North Central Regional Educational Laboratory professional-development programme that trains teachers to use five reading-comprehension strategies: metacognition, prior knowledge, inferencing, word meaning, and text structure.
@@ -33,13 +33,8 @@ A North Central Regional Educational Laboratory professional-development program
 - **Strategic Teaching and Reading Project (STRP) and its five global reading strategies**: STRP is a research-based instructional improvement and staff development project, originally developed in 1987 by NCREL with Wisconsin agencies, that measurably improves student reading comprehension. It works with any existing curriculum, adapts to local and state objectives, suits all K-12 classrooms, and maintains teacher creativity and instructional freedom. It presents five global reading strategies: Metacognition, Prior Knowledge, Inference, Word Meaning, and Text Structure, delivered through at least two years of consultant support with twice-yearly teacher training and classroom observations. (Gil et al. (2001))
 
 ### Claims
-- [The authors conclude that the Strategic Teaching and Reading Project gives teachers metacognitive tools for before, during and after lessons](../claims/strp-teachers-metacognitive-tools-before-during-after.md) [+M]
-- [Students in grades 2-12 whose teachers received STRP training used 19 of 35 framework metacognitive behaviors in reading](../claims/students-use-19-of-35-metacognitive-behaviors.md) [+W]
-- [Percentage of metacognitive interview responses varied by grade band: 66% (grades 2-3), 97% (grade 5), 82% (grade 6), and 41% (grades 7-12)](../claims/metacognitive-response-percentages-by-grade.md) [+M]
 - [Predicting, using contextual analysis, and rereading were the most frequently used metacognitive behaviors; deciding when to stop, independent reading time, and testing were least frequent](../claims/predicting-contextual-analysis-rereading-most-frequent.md) [+W]
 - [Upper-level students most often reported contextual analysis, setting the purpose for reading, monitoring comprehension, and rereading](../claims/secondary-students-top-metacognitive-behaviors.md) [+W]
-- [Students showed deficiencies in maintaining and monitoring their reading plan within the three-element view of metacognition](../claims/students-deficient-monitoring-maintaining-plan.md) [-W]
-- [The authors conclude that bilingual students can benefit from instruction in metacognitive strategy use](../claims/bilingual-students-benefit-metacognitive-strategy-instruction.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -75,7 +70,6 @@ The Strategic Teaching and Reading Project, designed by the North Central Region
 - metacognitive strategy use
 
 ### Claims
-- [Strp Teachers Metacognitive Tools Before During After](../claims/strp-teachers-metacognitive-tools-before-during-after.md) [+M]
 
 ## Related Theories
 
@@ -116,13 +110,8 @@ STRP is a research-based instructional improvement and staff development project
 
 ### Claims
 
-- [Students in grades 2-12 whose teachers received STRP training used 19 of 35 framework metacognitive behaviors in reading](../claims/students-use-19-of-35-metacognitive-behaviors.md) [+W]
-- [Percentage of metacognitive interview responses varied by grade band: 66% (grades 2-3), 97% (grade 5), 82% (grade 6), and 41% (grades 7-12)](../claims/metacognitive-response-percentages-by-grade.md) [+M]
 - [Predicting, using contextual analysis, and rereading were the most frequently used metacognitive behaviors; deciding when to stop, independent reading time, and testing were least frequent](../claims/predicting-contextual-analysis-rereading-most-frequent.md) [+W]
 - [Upper-level students most often reported contextual analysis, setting the purpose for reading, monitoring comprehension, and rereading](../claims/secondary-students-top-metacognitive-behaviors.md) [+W]
-- [Students showed deficiencies in maintaining and monitoring their reading plan within the three-element view of metacognition](../claims/students-deficient-monitoring-maintaining-plan.md) [-W]
-- [The authors conclude that the Strategic Teaching and Reading Project gives teachers metacognitive tools for before, during and after lessons](../claims/strp-teachers-metacognitive-tools-before-during-after.md) [+W]
-- [The authors conclude that bilingual students can benefit from instruction in metacognitive strategy use](../claims/bilingual-students-benefit-metacognitive-strategy-instruction.md) [+W]
 
 ## Related Theories
 

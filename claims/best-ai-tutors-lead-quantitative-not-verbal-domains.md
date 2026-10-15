@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: curtis-northcutt-2026
-    resource: "https://arxiv.org/abs/2609.28470"
-    title: "Curtis Northcutt, Inaara Hasmani, Kevin Feng, Trevor Khangi, Andreas Plesner, Jonas Mueller. (2026). StudentBench: AI and human tutoring yield equivalent GRE learning gains. https://arxiv.org/abs/2609.28470"
+    resource: "https://doi.org/10.48550/arxiv.2609.28470"
+    title: "Curtis Northcutt, Inaara Hasmani, Kevin Feng, Trevor Khangi, Andreas Plesner, Jonas Mueller. (2026). StudentBench: AI and human tutoring yield equivalent GRE learning gains. https://arxiv.org/abs/2609.28470 [doi:10.48550/arxiv.2609.28470](https://doi.org/10.48550/arxiv.2609.28470)"
     author: Curtis Northcutt, Inaara Hasmani, Kevin Feng, Trevor Khangi, Andreas Plesner, Jonas Mueller
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Curtis Northcutt 2026
 
-Curtis Northcutt, Inaara Hasmani, Kevin Feng, Trevor Khangi, Andreas Plesner, Jonas Mueller. (2026). StudentBench: AI and human tutoring yield equivalent GRE learning gains. https://arxiv.org/abs/2609.28470
+Curtis Northcutt, Inaara Hasmani, Kevin Feng, Trevor Khangi, Andreas Plesner, Jonas Mueller. (2026). StudentBench: AI and human tutoring yield equivalent GRE learning gains. https://arxiv.org/abs/2609.28470 [doi:10.48550/arxiv.2609.28470](https://doi.org/10.48550/arxiv.2609.28470)
 
 `q2 · i?` · `causal · r2`
 

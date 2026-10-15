@@ -16,7 +16,7 @@ sources:
 # French Discourse Analysis framework of discursive formations and enunciative modalities applied to EE teacher training
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The study adopts French Discourse Analysis, in which "discourse" is written or oral text studied in terms of its meaning in a social context, and discourses are rule-bound sets of statements that impose limits on what gives meaning. The analysis uses the concepts of "discursive formation" and "conditions of production/context," treating Brazilian legislation, the pedagogical project, and the curricular matrix as "enunciative modalities" that interact with and influence pre-service teachers' discourses. Identifying recurrent discursive formations among students indicates which discourses will circulate in schools and can substantiate curricular changes.
@@ -37,10 +37,6 @@ The study adopts French Discourse Analysis, in which "discourse" is written or o
 
 ### Claims
 
-- [Ee Discourses Restricted Conservation Preservation](../claims/ee-discourses-restricted-conservation-preservation.md) [+M]
-- [Brazilian Ee Legislation Discourse Shift](../claims/brazilian-ee-legislation-discourse-shift.md) [+M]
-- [Student discourses showed little association between EE and socioeconomic issues, contrary to the interdisciplinary approach recommended by Brazilian legislation](../claims/little-ee-socioeconomic-association.md) [+W]
-- [Only 16 of 40 pre-service teachers reported contact with EE-related curriculum guidelines and parameters during their undergraduate study](../claims/poor-contact-ee-curriculum-documents.md) [+W]
 
 ## Related Theories
 

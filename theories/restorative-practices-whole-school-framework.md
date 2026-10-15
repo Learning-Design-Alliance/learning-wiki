@@ -16,7 +16,7 @@ sources:
 # Restorative practices as the grounding framework of the program
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (3 for, 1 against) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The program is grounded in restorative practices, operationalized through 11 essential elements that center on the importance of communication, responsibility, restoration, and separating the deed from the doer. The framework aims at increasing understanding of how one's actions affect others and more broadly creating a better school climate. Teachers reported stronger relationships with students because of restorative practices.
@@ -39,10 +39,6 @@ The program is grounded in restorative practices, operationalized through 11 ess
 
 ### Claims
 
-- [Whole-school restorative practices program significantly improves average daily attendance at the student level](../claims/safersanschools-improves-daily-attendance-student-level.md) [+W]
-- [Participating schools report more positive teacher and staff perceptions of teaching and learning conditions](../claims/safersanschools-improves-teacher-perceptions-conditions.md) [+W]
-- [Whole-school restorative practices program significantly reduces chronic absenteeism at the student level](../claims/safersanschools-reduces-chronic-absence-student-level.md) [+W]
-- [School-level outcomes of the whole-school restorative practices program were not significant](../claims/safersanschools-school-level-results-not-significant.md) [-W]
 
 ## Related Theories
 - 

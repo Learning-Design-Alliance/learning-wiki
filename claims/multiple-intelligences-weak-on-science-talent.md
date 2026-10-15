@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` The essay argues Gardner's seven intelligences do not pinpoint endeavors in science such as physicists, chemists, astronomers, biologists, and geologists, and that talents could be nurtured within existing subject areas instead. [→ Ediger 1995](#ediger-1995)
@@ -44,5 +45,5 @@ The essay's own critical assessment, citing Thurstone's 1938 six related intelli
 
 ## Related Claims
 - [MI theory lacks empirical theory-testing research supporting its intelligences as autonomous faculties](mi-lacks-empirical-theory-testing.md) — related
-- [A century of psychometric data consistently shows performances on intellectual tests are correlated, which MI must account for](intellectual-test-performances-correlated.md) — related
+- A century of psychometric data consistently shows performances on intellectual tests are correlated, which MI must account for — related
 - [Gardner holds intelligences are not interchangeable, so one intelligence cannot substitute for another in learning a domain](intelligences-not-interchangeable.md) — related

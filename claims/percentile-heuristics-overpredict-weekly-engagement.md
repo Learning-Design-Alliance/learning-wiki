@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: eric-s-qiu-2026
-    resource: "https://arxiv.org/abs/2605.12788"
-    title: "Eric S. Qiu, Danielle R. Thomas, Boyuan Guo, Vincent Aleven, Conrad Borchers. (2026). From Heuristics to Analytics: Forecasting Effort and Progress in Online Learning. https://arxiv.org/abs/2605.12788"
+    resource: "https://doi.org/10.48550/arxiv.2605.12788"
+    title: "Eric S. Qiu, Danielle R. Thomas, Boyuan Guo, Vincent Aleven, Conrad Borchers. (2026). From Heuristics to Analytics: Forecasting Effort and Progress in Online Learning. https://arxiv.org/abs/2605.12788 [doi:10.48550/arxiv.2605.12788](https://doi.org/10.48550/arxiv.2605.12788)"
     author: Eric S. Qiu, Danielle R. Thomas, Boyuan Guo, Vincent Aleven, Conrad Borchers
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Percentile heuristics transferred from health behavior systematically overpredict weekly K-12 engagement and underperform XGBoost by 20-30%
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Evidence** · 2 studies · 2 associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Adams-style P60 and P70 percentile predictors perform 4-33% worse than P50 across targets because their continuous-improvement assumption fails once growth slows. [→ Eric S. Qiu 2026](#eric-s-qiu-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Eric S. Qiu 2026
 
-Eric S. Qiu, Danielle R. Thomas, Boyuan Guo, Vincent Aleven, Conrad Borchers. (2026). From Heuristics to Analytics: Forecasting Effort and Progress in Online Learning. https://arxiv.org/abs/2605.12788
+Eric S. Qiu, Danielle R. Thomas, Boyuan Guo, Vincent Aleven, Conrad Borchers. (2026). From Heuristics to Analytics: Forecasting Effort and Progress in Online Learning. https://arxiv.org/abs/2605.12788 [doi:10.48550/arxiv.2605.12788](https://doi.org/10.48550/arxiv.2605.12788)
 
 `q2 · i?` · `associational · r2`
 

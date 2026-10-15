@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: divyansh-chandarana-2026
-    resource: "https://arxiv.org/abs/2609.36544"
-    title: "Divyansh Chandarana, Sandipan De, Vivek Gupta. (2026). DRAFTTRACE: A Multi-View Analytics Environment for AI-Integrated Writing. https://arxiv.org/abs/2609.36544"
+    resource: "https://doi.org/10.48550/arxiv.2609.36544"
+    title: "Divyansh Chandarana, Sandipan De, Vivek Gupta. (2026). DRAFTTRACE: A Multi-View Analytics Environment for AI-Integrated Writing. https://arxiv.org/abs/2609.36544 [doi:10.48550/arxiv.2609.36544](https://doi.org/10.48550/arxiv.2609.36544)"
     author: Divyansh Chandarana, Sandipan De, Vivek Gupta
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Divyansh Chandarana 2026
 
-Divyansh Chandarana, Sandipan De, Vivek Gupta. (2026). DRAFTTRACE: A Multi-View Analytics Environment for AI-Integrated Writing. https://arxiv.org/abs/2609.36544
+Divyansh Chandarana, Sandipan De, Vivek Gupta. (2026). DRAFTTRACE: A Multi-View Analytics Environment for AI-Integrated Writing. https://arxiv.org/abs/2609.36544 [doi:10.48550/arxiv.2609.36544](https://doi.org/10.48550/arxiv.2609.36544)
 
 `q2 · i?` · `design · r2`
 

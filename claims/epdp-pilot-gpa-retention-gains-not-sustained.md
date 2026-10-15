@@ -27,6 +27,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` In the 2010-2011 ePDP pilot, students in sections taught by faculty who received intensive professional development had significantly higher first-year GPAs and first-to-second-semester retention rates than students in non-ePDP sections. [→ epdp-pilot](#epdp-pilot)
@@ -60,8 +61,8 @@ Follow-up observation reported by the authors, citing Buyarski (2016): after the
 ## Related Claims
 - [ePortfolio produced more powerful outcomes when faculty and staff received extended intensive professional development than brief training or none](intensive-professional-development-stronger-epportfolio-outcomes.md) — a broader claim this one bears on
 - [Compared with non-ePortfolio peers, students in courses requiring ePortfolios were generally more engaged, earned higher grades, and were more likely to complete and persist, per the 26-institution project evidence](epportfolio-courses-engagement-grades-persistence.md) — a broader claim this one bears on
-- [Faculty contact relates to retention: part-time instruction lowers odds, interaction frequency raises intent to stay](faculty-contact-part-time-and-interaction-retention.md) — related
-- [First-year seminars populated by major or advisor show higher retention than unconnected seminars](fys-major-advisor-linkage-higher-retention.md) — related
-- [First-year seminar participation is associated with higher retention and graduation rates](fys-participation-higher-retention-graduation.md) — related
-- [The ePortfolio social pedagogy ecosystem appears to be an effective way for students to integrate deeper learning and document developing information literacy competencies as self-assessment](eportfolio-effective-self-assessment-information-literacy.md) — related
+- Faculty contact relates to retention: part-time instruction lowers odds, interaction frequency raises intent to stay — related
+- First-year seminars populated by major or advisor show higher retention than unconnected seminars — related
+- First-year seminar participation is associated with higher retention and graduation rates — related
+- The ePortfolio social pedagogy ecosystem appears to be an effective way for students to integrate deeper learning and document developing information literacy competencies as self-assessment — related
 - [Colleges adopted new technology platforms to increase efficiencies, but face challenges sustaining their use after the grant ends](technology-platforms-efficiency-adoption-sustainability-challenge.md) — related

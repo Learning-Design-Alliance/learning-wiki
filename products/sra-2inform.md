@@ -18,7 +18,7 @@ sources:
 # SRA 2Inform
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (1 for, 1 against) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 SRA 2Inform is a web-based, teacher-facing data-management application supporting the Corrective Reading program by tracking student performance.
@@ -27,8 +27,6 @@ SRA 2Inform is a web-based, teacher-facing data-management application supportin
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Most outcomes of Corrective Reading, including state reading tests, did not show positive effects, yielding an average effect size of only +0.06](../claims/corrective-reading-most-outcomes-null-average-es-006.md) [-W]
-- [Corrective Reading produced a significant positive effect on Woodcock Word Attack (effect size = +0.15) in its only qualifying evaluation](../claims/corrective-reading-word-attack-positive-effect.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -62,8 +60,6 @@ SRA 2Inform is "a data management application for teachers to enter and track st
 
 ## Claims
 
-- [Most outcomes of Corrective Reading, including state reading tests, did not show positive effects, yielding an average effect size of only +0.06](../claims/corrective-reading-most-outcomes-null-average-es-006.md) [-W]
-- [Corrective Reading produced a significant positive effect on Woodcock Word Attack (effect size = +0.15) in its only qualifying evaluation](../claims/corrective-reading-word-attack-positive-effect.md) [+W]
 
 ## Related Elements
 

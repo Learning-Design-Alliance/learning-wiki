@@ -16,7 +16,7 @@ sources:
 # Educator micro-credentials as a competency-based, personalized, on-demand, shareable professional learning design
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 3 studies (1 review, 1 qualitative, 1 design), `q1`–`q2` · 0 of 3 report an effect size · 4 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report defines educator micro-credentials as an emerging learning design with four defining features: "They are competency-based, personalized, on-demand, and shareable." Educators select a discrete skill tied to practice, student needs, or school goals, learn the method, and submit evidence such as a classroom video, which experts assess; earned credentials and portfolios can then be displayed to signal competence. The report frames this as an on-ramp for meeting classroom-specific professional learning needs.
@@ -41,9 +41,6 @@ The report defines educator micro-credentials as an emerging learning design wit
 ### Claims
 
 - [Micro-credentials incorporate prominent features of effective professional development: they are content-focused, job-embedded, and incorporate active learning](../claims/micro-credentials-features-of-effective-professional-development.md) [+W]
-- [Kettle Moraine School District's year-long micro-credential implementation, with base-pay increases per credential earned, was followed by greater collaboration and collegiality](../claims/kettle-moraine-micro-credential-case.md) [+W]
-- [A district micro-credential pilot was followed by organically emerging professional learning community behavior among teachers](../claims/juab-pilot-organic-learning-communities.md) [+W]
-- [Districts and universities increasingly attach concrete incentives to earning Digital Promise micro-credentials](../claims/recognizer-incentives-for-micro-credentials.md) [+W]
 
 ## Related Theories
 

@@ -18,7 +18,7 @@ sources:
 # Enhanced Core Reading Instruction
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (2 causal), `q1`–`q2` · 1 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Enhanced Core Reading Instruction is a structured literacy intervention programme with professional development materials for teachers, interventionists, and literacy leaders.
@@ -29,9 +29,6 @@ Enhanced Core Reading Instruction is a structured literacy intervention programm
 - **Enhanced Core Reading Instruction program for struggling first-grade readers**: Enhanced Core Reading Instruction is "a program for struggling first grade readers" that focuses on Tier 2 supplemental teaching. It provides teachers with professional development and materials to improve the alignment of Tier 2 with Tier 1 core instruction, with small groups of 3-5 students pretaught content soon to appear in the core classroom. (Enhanced Core Reading Instruction (2017))
 
 ### Claims
-- [Teachers and interventionists gave mostly favorable implementation ratings, with over 90% comfortable implementing and finding it supplemented the core program well](../claims/rise-teacher-favorable-implementation-ratings.md) [+W]
-- [Enhanced Core Reading Instruction improves word-level reading outcomes for first graders compared to control (average effect size +0.24)](../claims/ecri-improves-word-reading-outcomes-first-grade.md) [+W]
-- [Instructional assistants can deliver most Tier 2 small-group reading instruction under the ECRI model](../claims/instructional-assistants-deliver-tier2-small-group-reading.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -68,7 +65,6 @@ The program's materials include "professional development workbooks for teachers
 
 ## Claims
 
-- [Teachers and interventionists gave mostly favorable implementation ratings, with over 90% comfortable implementing and finding it supplemented the core program well](../claims/rise-teacher-favorable-implementation-ratings.md) [+W]
 
 ## Related Elements
 
@@ -114,8 +110,6 @@ Enhanced Core Reading Instruction is "a program for struggling first grade reade
 
 ## Claims
 
-- [Enhanced Core Reading Instruction improves word-level reading outcomes for first graders compared to control (average effect size +0.24)](../claims/ecri-improves-word-reading-outcomes-first-grade.md) [+W]
-- [Instructional assistants can deliver most Tier 2 small-group reading instruction under the ECRI model](../claims/instructional-assistants-deliver-tier2-small-group-reading.md) [+W]
 
 ## Related Elements
 

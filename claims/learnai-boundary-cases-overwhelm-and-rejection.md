@@ -10,6 +10,7 @@ generated:
 evidence_strength: weak
 sources:
   - id: boundary-1
+    resource: "https://doi.org/10.48550/arxiv.2608.19164"
     title: boundary-1
     q: 1
     i: "?"
@@ -29,7 +30,7 @@ sources:
 
 ### boundary-1
 
-Weihao Qu, Ling Zheng, Chris Buzaid, and Daniel Crawford. 2026. LearnAI: Just-in-Time AI Co-Creation Across Disciplines at a University. https://arxiv.org/abs/2608.19164
+Weihao Qu, Ling Zheng, Chris Buzaid, and Daniel Crawford. 2026. LearnAI: Just-in-Time AI Co-Creation Across Disciplines at a University. https://arxiv.org/abs/2608.19164 [doi:10.48550/arxiv.2608.19164](https://doi.org/10.48550/arxiv.2608.19164)
 
 `q1 · i?` · `design · r2`
 

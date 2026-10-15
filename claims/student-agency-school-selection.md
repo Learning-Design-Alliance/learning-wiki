@@ -45,4 +45,4 @@ Selecting a School section finding: some students framed this freedom as possibl
 ## Related Claims
 - [Student-school fit was an overarching theme in all focus groups across all phases of the high school choice process](fit-overarching-theme-high-school-choice.md) — related
 - [School location, distance from home, and transportation logistics constrained which high schools students considered and their ultimate choice](location-constrains-high-school-choice-set.md) — related
-- [Participants in Minnesota's choice options express a high degree of satisfaction, and preliminary studies suggest positive academic outcomes](choice-participants-high-satisfaction-preliminary-positive-outcomes.md) — related
+- Participants in Minnesota's choice options express a high degree of satisfaction, and preliminary studies suggest positive academic outcomes — related

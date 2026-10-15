@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: ndidi-bianca-ogbo-2026
-    resource: "https://arxiv.org/abs/2605.27400"
-    title: "Ndidi Bianca Ogbo, Zhao Song, Shatha Ghareeb, and The Anh Han. (2026). Mathematical Modelling of Ethical AI Use in Higher Education: A Coordination Game Framework for Future-Facing Learning. https://arxiv.org/abs/2605.27400"
+    resource: "https://doi.org/10.48550/arxiv.2605.27400"
+    title: "Ndidi Bianca Ogbo, Zhao Song, Shatha Ghareeb, and The Anh Han. (2026). Mathematical Modelling of Ethical AI Use in Higher Education: A Coordination Game Framework for Future-Facing Learning. https://arxiv.org/abs/2605.27400 [doi:10.48550/arxiv.2605.27400](https://doi.org/10.48550/arxiv.2605.27400)"
     author: Ndidi Bianca Ogbo, Zhao Song, Shatha Ghareeb, and The Anh Han
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Ndidi Bianca Ogbo 2026
 
-Ndidi Bianca Ogbo, Zhao Song, Shatha Ghareeb, and The Anh Han. (2026). Mathematical Modelling of Ethical AI Use in Higher Education: A Coordination Game Framework for Future-Facing Learning. https://arxiv.org/abs/2605.27400
+Ndidi Bianca Ogbo, Zhao Song, Shatha Ghareeb, and The Anh Han. (2026). Mathematical Modelling of Ethical AI Use in Higher Education: A Coordination Game Framework for Future-Facing Learning. https://arxiv.org/abs/2605.27400 [doi:10.48550/arxiv.2605.27400](https://doi.org/10.48550/arxiv.2605.27400)
 
 `q2 · i?` · `theoretical · r3`
 

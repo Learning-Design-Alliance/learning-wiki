@@ -77,14 +77,14 @@ This meta-analysis isolates the "added value" of dialogic (interactive) shared r
 - [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — feedback-rich interactions, including parent–child dialogic questioning, mirror formative-assessment mechanisms
 - [Activation improves learning](activation-improves-learning.md) — dialogic reading activates and builds on the child's prior knowledge during shared reading
 - [In teacher-led big-book reading, children exercise cognitive autonomy by making their own connections between spoken and written words within the activity's boundaries](big-book-reading-cognitive-autonomy.md) — related
-- [Children attending early childhood education programs are far more likely to be on track in emergent literacy and numeracy](cl-early-childhood-education-improves-school-readiness.md) — related
+- Children attending early childhood education programs are far more likely to be on track in emergent literacy and numeracy — related
 - [Dialogic Reading Improves Language Outcomes](dialogic-reading-improves-language-outcomes.md) — related
 - [Joint Book Reading Predicts Literacy Success](joint-book-reading-predicts-literacy-success.md) — related
 - [Parent Coaching Outperforms Information Only](parent-coaching-outperforms-information-only.md) — related
 - [Parent Implemented Intervention Improves Outcomes](parent-implemented-intervention-improves-outcomes.md) — related
 - [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](parent-involvement-improves-achievement.md) — related
 - [Using Little Books in kindergarten produces potentially positive effects on general reading achievement, with all three delivery variations (home only, school only, and home and school) outperforming a comparison condition on the Metropolitan Readiness Test](little-books-potentially-positive-general-reading-achievement.md) — a narrower finding that bears on this claim
-- [READY4K! improves teacher-reported parental involvement at school](ready4k-improves-teacher-reported-involvement.md) — related
+- READY4K! improves teacher-reported parental involvement at school — related
 - [Parent-delivered READY4K! text messages improve preschool children's early literacy performance](ready4k-texts-improve-preschool-literacy.md) — a narrower finding that bears on this claim
 - [Parents play an important role in young children's math development](parents-role-early-math-development.md) — related
 - [The BELL summer program increases the extent to which parents encourage their children to read during the subsequent school year](bell-summer-program-increases-parent-reading-encouragement.md) — a narrower finding that bears on this claim
@@ -92,5 +92,5 @@ This meta-analysis isolates the "added value" of dialogic (interactive) shared r
 - [Early childhood education programs often yield larger benefits for children most in need, such as low-income children, children of color, and those with fewer educational resources](ece-larger-benefits-children-most-in-need.md) — related
 - [Understanding kindergarten expectations and acquiring tools to support children at home were especially beneficial for families without prior preschool or structured school experience](transition-program-benefits-families-without-preschool-experience.md) — related
 - [Children who engaged in the program at both home and school made significantly more improvement in science learning than children who implemented at school only](home-and-school-engagement-greater-science-improvement.md) — related
-- [ParentCorps improves parent involvement in early learning by teacher report but shows a smaller, non-significant effect by parent report](parentcorps-parent-involvement-rater-mixed.md) — related
+- ParentCorps improves parent involvement in early learning by teacher report but shows a smaller, non-significant effect by parent report — related
 - [Child age, caregiver education and country income level do not moderate book-sharing intervention effects on child language](book-sharing-effects-invariant-age-education-income.md) — related

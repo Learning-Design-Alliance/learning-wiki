@@ -43,6 +43,6 @@ This is the article's own promotional assertion about the book's argument, not a
 
 
 ## Related Claims
-- [BARR reduces ninth-grade chronic absenteeism in a large school-level randomized study](barr-reduces-ninth-grade-chronic-absenteeism.md) — a narrower finding that bears on this claim
+- BARR reduces ninth-grade chronic absenteeism in a large school-level randomized study — a narrower finding that bears on this claim
 - [Improvements in ninth-grade course performance—credits earned, pass rates, and attendance—account for most graduation improvements beyond student background changes](ninth-grade-course-performance-explains-recent-gains.md) — related
 - [High schools that foster 8th-to-9th-grade student growth across multiple dimensions positively influence students' social and academic trajectories](multidimensional-growth-schools-improve-long-run-outcomes.md) — related

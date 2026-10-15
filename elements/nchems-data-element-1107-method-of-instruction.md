@@ -17,7 +17,7 @@ sources:
 # NCHEMS Data Element Dictionary Element No. 1107: Method of Instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 Element No. 1107 of the WICHE/NCHEMS Data Element Dictionary (November 1973) defines the categorization of methods by which organized instruction is conducted, reflecting educational technology and the use of facilities, materials, and equipment. It codes seven methods: lecture, laboratory, recitation/discussion, seminar, independent study, tutorial, and programmed instruction, with categories pilot tested by the Faculty Activity Analysis project. The author reproduces it in his appendix and critiques it as needing revision toward generic post-secondary instructional formats.
@@ -38,7 +38,6 @@ Element No. 1107 of the WICHE/NCHEMS Data Element Dictionary (November 1973) def
 
 ## Claims
 
-- [Data Element 1107 (Method of Instruction) shows three deficiencies: higher-education bias, non-descriptive morphology, and no stated relation between instructional methods and learning outcomes](../claims/element-1107-three-deficiencies-method-of-instruction.md) [~W]
 
 ## Related Elements
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: liu-2026
-    resource: "https://arxiv.org/abs/2607.28890"
-    title: "Liu, A., Esbenshade, L., Xiao, M., Tian, V., Zhang, Z., He, K., & Sun, M. (2026). Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground Truth. Preprint, no identifier printed in text. https://arxiv.org/abs/2607.28890"
+    resource: "https://doi.org/10.48550/arxiv.2607.28890"
+    title: "Liu, A., Esbenshade, L., Xiao, M., Tian, V., Zhang, Z., He, K., & Sun, M. (2026). Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground Truth. Preprint, no identifier printed in text. https://arxiv.org/abs/2607.28890 [doi:10.48550/arxiv.2607.28890](https://doi.org/10.48550/arxiv.2607.28890)"
     author: "Liu, A., Esbenshade, L., Xiao, M., Tian, V., Zhang, Z., He, K., & Sun, M."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Human-LLM agreement on a complex multi-label codebook falls well below human-human agreement, while LLM-LLM agreement is comparable to human-human agreement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Mean human-LLM Jaccard across five models was 0.30 versus approximately 0.52 for human-human pairs, a gap of roughly 0.22 Jaccard points. [→ Liu 2026](#liu-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Liu 2026
 
-Liu, A., Esbenshade, L., Xiao, M., Tian, V., Zhang, Z., He, K., & Sun, M. (2026). Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground Truth. Preprint, no identifier printed in text. https://arxiv.org/abs/2607.28890
+Liu, A., Esbenshade, L., Xiao, M., Tian, V., Zhang, Z., He, K., & Sun, M. (2026). Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground Truth. Preprint, no identifier printed in text. https://arxiv.org/abs/2607.28890 [doi:10.48550/arxiv.2607.28890](https://doi.org/10.48550/arxiv.2607.28890)
 
 `q2 · i?` · `design · r2`
 
@@ -80,7 +80,7 @@ Same agreement analysis at the model level. LLM-LLM Jaccard ranged from 0.37 to 
 - [Gemini-2.5-Pro can effectively replicate human expert judgments when answering SLM-generated MCQs](gemini-surrogate-judge-replicates-human-answers.md) — related
 - Multi-label intercoder agreement measured by Jaccard similarity reached a mean pairwise 0.52 at item level, with agreement rising at coarser granularity — related
 - [Cosine similarity has opposing effects on LLM coding accuracy: lower similarity within codebooks helps, higher similarity within excerpts helps](claim-opposing-cosine-similarity-codebook-excerpt.md) — related
-- [An open-source Llama3 model reached substantial agreement with a human coder when sentiment-labeling pre-extracted student reflection quotes](llama3-substantial-kappa-sentiment-labeling-quotes.md) — a narrower finding that bears on this claim
+- An open-source Llama3 model reached substantial agreement with a human coder when sentiment-labeling pre-extracted student reflection quotes — a narrower finding that bears on this claim
 - Human–human screening agreement on the coverage overlap was low (36/51; Cohen's κ=0.11; PABAK=0.41), and coverage labels do not recode the corpus — related
 - [The LLM-judge scoring pipeline for the two metrics aligns with human labels and human raters](llm-judge-pipeline-validated-against-human-raters.md) — related
 - [SHAP and LLM explanation methods show consistently low alignment, with mean top-10 Jaccard similarity of 0.085](low-alignment-shap-llm-sentence-selection.md) — related

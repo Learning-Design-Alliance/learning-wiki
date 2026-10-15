@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: shenqi-lu-and-liangwei-zhang-2026
-    resource: "https://arxiv.org/abs/2601.01196"
-    title: "Shenqi Lu and Liangwei Zhang. (2026). EduSim-LLM: An Educational Platform Integrating Large Language Models and Robotic Simulation for Beginners. https://arxiv.org/abs/2601.01196"
+    resource: "https://doi.org/10.48550/arxiv.2601.01196"
+    title: "Shenqi Lu and Liangwei Zhang. (2026). EduSim-LLM: An Educational Platform Integrating Large Language Models and Robotic Simulation for Beginners. https://arxiv.org/abs/2601.01196 [doi:10.48550/arxiv.2601.01196](https://doi.org/10.48550/arxiv.2601.01196)"
     author: Shenqi Lu and Liangwei Zhang
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Shenqi Lu and Liangwei Zhang 2026
 
-Shenqi Lu and Liangwei Zhang. (2026). EduSim-LLM: An Educational Platform Integrating Large Language Models and Robotic Simulation for Beginners. https://arxiv.org/abs/2601.01196
+Shenqi Lu and Liangwei Zhang. (2026). EduSim-LLM: An Educational Platform Integrating Large Language Models and Robotic Simulation for Beginners. https://arxiv.org/abs/2601.01196 [doi:10.48550/arxiv.2601.01196](https://doi.org/10.48550/arxiv.2601.01196)
 
 `q2 · i?` · `design · r2`
 

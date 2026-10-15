@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: abdelghani-2026
-    resource: "https://arxiv.org/abs/2606.28472"
-    title: "Abdelghani, R., Kaiser, P., Murayama, K. (2026). Changes in Help-Seeking Strategies Predict unaided Performance during AI-based Mathematical Learning. https://arxiv.org/abs/2606.28472"
+    resource: "https://doi.org/10.48550/arxiv.2606.28472"
+    title: "Abdelghani, R., Kaiser, P., Murayama, K. (2026). Changes in Help-Seeking Strategies Predict unaided Performance during AI-based Mathematical Learning. https://arxiv.org/abs/2606.28472 [doi:10.48550/arxiv.2606.28472](https://doi.org/10.48550/arxiv.2606.28472)"
     author: Abdelghani, R., Kaiser, P., Murayama, K.
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Within a single LLM session, students' help-seeking shifts toward answer- and verification-seeking while explicit self-regulation modestly increases
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r?` · `q2`
+> **Evidence** · 2 studies · 2 associational `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Help-seeking shifted away from conceptual and procedural assistance toward answer- and verification-seeking as the interaction progressed (population slope = -.40, p < .001). [→ Abdelghani 2026](#abdelghani-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Abdelghani 2026
 
-Abdelghani, R., Kaiser, P., Murayama, K. (2026). Changes in Help-Seeking Strategies Predict unaided Performance during AI-based Mathematical Learning. https://arxiv.org/abs/2606.28472
+Abdelghani, R., Kaiser, P., Murayama, K. (2026). Changes in Help-Seeking Strategies Predict unaided Performance during AI-based Mathematical Learning. https://arxiv.org/abs/2606.28472 [doi:10.48550/arxiv.2606.28472](https://doi.org/10.48550/arxiv.2606.28472)
 
 `q2 · i?` · `associational · r?`
 
@@ -71,13 +71,13 @@ Same mixed-effects analysis of within-session position for SRL functions. The au
 - [Within-session SRL change shows no detectable association with unaided post-test performance](srl-change-no-posttest-association.md) — related
 - [Students use the integrated AI assistant differently across writing stages: clarification early, verification late](assistant-use-varies-by-writing-stage.md) — related
 - [Low comment rewriting does not imply a smooth process: students describe the main effort as verifying generated code rather than revising prompts](verification-burden-shifts-work-from-rewriting-to-reviewing.md) — related
-- [Students shifted AI usage toward debugging and concept explanation over the semester, with 31 of 89 reporting more debugging use](cs1-ai-usage-shift-debugging.md) — related
+- Students shifted AI usage toward debugging and concept explanation over the semester, with 31 of 89 reporting more debugging use — related
 - [Student GenAI use patterns shifted across assessments: Learning and Formatting dominated under purpose-specific use, while Feedback became the dominant use (66.7%) under open use](genai-use-functions-shift-toward-feedback-across-assessments.md) — related
 - [LLM scaffolding level is associated with the student's next dialogue act, and the association persists within broad request categories](scaffolding-associated-with-next-student-move.md) — related
 - [LLM scaffolding level varies systematically across student request types and across assignments, but high-assistance responses remain dominant](scaffolding-varies-by-request-and-assignment.md) — related
 - [Students' help requests to the AI tutor were predominantly instrumental rather than executive, with procedural content and low verification](instrumental-help-seeking-procedural-low-verification.md) — related
 - [Students' AI workflows shifted toward guided, step-by-step use and more sophisticated prompting and critical evaluation over the semester](ai-workflows-shifted-toward-guided-use.md) — related
-- [Self-efficacy, reflective thinking, and help-seeking were associated with topic understanding at the cohort level (r = 0.427, 0.369, 0.168; d = 0.479)](behavioral-signals-associated-topic-understanding.md) — related
+- Self-efficacy, reflective thinking, and help-seeking were associated with topic understanding at the cohort level (r = 0.427, 0.369, 0.168; d = 0.479) — related
 - [Educators redefined AI's educational role from answer provider to learning partner and tutor supporting conceptual understanding](ai-learning-partner-tutor-redefinition.md) — related
 - [Direct student requests for answers significantly increased the AI's provision of direct answers (26.1% vs. 12.5% baseline; r = 0.14), though the AI maintained scaffolding in most cases](student-pressure-shifts-ai-toward-answers.md) — related
 - [Robot embodiment changes verification and debugging: learners treat robot execution as perceptual evidence for hypothesis-driven revisions, while AI-Only learners rely on generic help-seeking](robot-embodiment-perceptual-evidence-debugging.md) — related

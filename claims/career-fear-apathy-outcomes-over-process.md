@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: kate-hamilton-2026
-    resource: "https://arxiv.org/abs/2606.14920"
-    title: "Kate Hamilton, Irene Hou, Dev Patel, Sheena Nnam, Hena Patel, and Stephen MacNeil. (2026). “Stuck in a Spiral”: Shame and Guilt as Social Regulators of AI Use in Computing Education. https://arxiv.org/abs/2606.14920"
+    resource: "https://doi.org/10.48550/arxiv.2606.14920"
+    title: "Kate Hamilton, Irene Hou, Dev Patel, Sheena Nnam, Hena Patel, and Stephen MacNeil. (2026). “Stuck in a Spiral”: Shame and Guilt as Social Regulators of AI Use in Computing Education. https://arxiv.org/abs/2606.14920 [doi:10.48550/arxiv.2606.14920](https://doi.org/10.48550/arxiv.2606.14920)"
     author: Kate Hamilton, Irene Hou, Dev Patel, Sheena Nnam, Hena Patel, and Stephen MacNeil
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Kate Hamilton 2026
 
-Kate Hamilton, Irene Hou, Dev Patel, Sheena Nnam, Hena Patel, and Stephen MacNeil. (2026). “Stuck in a Spiral”: Shame and Guilt as Social Regulators of AI Use in Computing Education. https://arxiv.org/abs/2606.14920
+Kate Hamilton, Irene Hou, Dev Patel, Sheena Nnam, Hena Patel, and Stephen MacNeil. (2026). “Stuck in a Spiral”: Shame and Guilt as Social Regulators of AI Use in Computing Education. https://arxiv.org/abs/2606.14920 [doi:10.48550/arxiv.2606.14920](https://doi.org/10.48550/arxiv.2606.14920)
 
 `q2 · i?` · `qualitative · r3`
 
@@ -44,6 +44,6 @@ Results on fear and apathy: the interview study reports "students frequently exp
 
 ## Related Claims
 - [Agency metaphors expressed fear that GenAI steals human agency and threatens jobs, reflecting a binary human-versus-machine model](agency-metaphors-genai-fear-of-agency-loss.md) — related
-- [Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs](teacher-big-picture-genai-concerns.md) — related
+- Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs — related
 - [Respondents overestimate apathy in their field: for most ethical issues, students' own concern exceeds the concern they perceive among CS peers](field-apathy-overestimation-ethical-concerns.md) — related
 - [Engineering students come to view mastering GenAI as crucial as other engineering skills, driven by labour-market expectations, alongside widespread uncertainty about over-reliance](genai-mastery-new-learning-objective-engineering.md) — reports the opposite

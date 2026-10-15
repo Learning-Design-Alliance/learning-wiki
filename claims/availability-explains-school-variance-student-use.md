@@ -44,5 +44,5 @@ Quantitative analysis of district survey and administrative data reports that av
 
 
 ## Related Claims
-- [Teacher technology use and school culture explain an additional 18 percent of school-by-school differences in high school student technology use](teacher-use-culture-explain-school-variance-student-tech-use.md) — related
+- Teacher technology use and school culture explain an additional 18 percent of school-by-school differences in high school student technology use — related
 - [School-related factors influence teachers' digital data use only indirectly, mediated by teacher will-skill-tool characteristics, in a model explaining 50% of variance](school-factors-mediated-by-teacher-characteristics.md) — related

@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 9 design pages cite it; treat it as a lead to check, not an established finding.
 <!-- deprecated title (2026-10-05, overstated its evidence): Structuring positive interdependence (role, reward, or both) does not affect achievement for adult reentry students in asynchronous online small group work -->
 
 ## Subclaims
@@ -48,7 +49,7 @@ Experiment with 280 undergraduate business majors blocked by high/low affiliatio
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | Brewer 2003 | q3 · causal · r2 | i? | this claim; [In one experiment with undergraduate business majors in asynchronous online small groups, ](reward-interdependence-benefit-attitudes.md) (qualifies); [Higher numbers of interactions are associated with higher posttest scores in asynchronous ](interaction-quantity-correlates-posttest-online-groups.md) (qualifies) |
-| Pittaway 2014 | q2 · design · r2 | i? | [A student-led small-group discussion assessment sustained online participation and produce](student-led-discussion-task-sustains-online-participation.md) (qualifies); [Fortnightly web conferences with open-ended discussion supported students' academic and so](web-conferences-support-online-community.md) (qualifies) |
+| [Pittaway 2014](https://doi.org/10.14221/ajte.2014v39n7.10) | q2 · design · r2 | i? | [A student-led small-group discussion assessment sustained online participation and produce](student-led-discussion-task-sustains-online-participation.md) (qualifies); [Fortnightly web conferences with open-ended discussion supported students' academic and so](web-conferences-support-online-community.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

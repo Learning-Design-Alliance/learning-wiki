@@ -43,5 +43,5 @@ The report's rationale section attributes this figure to one study it cites, alo
 
 
 ## Related Claims
-- [California would need roughly $4,000 more per pupil—an additional $26.5 billion annually—to meet its K–12 education goals](california-funding-gap-26-5-billion.md) — related
+- California would need roughly $4,000 more per pupil—an additional $26.5 billion annually—to meet its K–12 education goals — related
 - [The report's loss estimates are conservative because they exclude health, psychological, family, community, and broader societal costs that cannot be monetized](arizona-loss-estimates-conservative-exclusions.md) — related

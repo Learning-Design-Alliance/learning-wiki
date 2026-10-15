@@ -33,7 +33,7 @@ sources:
 # ASSISTments
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 26 claims (25 for, 1 mixed) · 10 studies (5 causal, 3 qualitative, 1 associational, 1 design), `q2`–`q3` · 4 of 10 report an effect size · 26 claims rest on one study
+> **Evidence** · 11 claims (10 for, 1 mixed) · 8 studies (3 causal, 3 qualitative, 1 associational, 1 design), `q2`–`q3` · 3 of 8 report an effect size · 11 claims rest on one study
 
 ## Description
 ASSISTments is a free web-based platform developed and operated by the ASSISTments Project for assigning mathematics practice, providing feedback, and reporting student-performance data to teachers.
@@ -58,24 +58,9 @@ ASSISTments is a free web-based platform developed and operated by the ASSISTmen
 - [Practitioner interaction shaped the fundamental research question of the ASSISTments online math homework randomized controlled trial](../claims/assistments-homework-question-from-practitioners.md) [+W]
 - [A possible mediating effect of teacher homework review practices was observed in the ASSISTments trial, but the planned mediation analysis failed to show an effect](../claims/assistments-teacher-review-mediation-null.md) [~W]
 - [In an IES-funded randomized controlled trial, students with lower prior mathematics achievement gained more from ASSISTments homework support than students with higher prior achievement](../claims/assistments-greater-gains-lower-prior-achievement.md) [+W]
-- [After Benjamini-Hochberg false-discovery-rate adjustment, covariate-adjusted estimators detect more significant effects than t-tests (LOOP 11, ReLOOP+ 10, ReLOOP 8, T-Test 3 of 227 contrasts)](../claims/bh-adjusted-discoveries-by-estimator.md) [+W]
-- [Prior assignment statistics were the most predictive remnant data type for assignment performance, followed by prior student statistics, with daily action history least predictive; combining datasets improved predictions over any single dataset](../claims/prior-assignment-statistics-most-predictive.md) [+W]
-- [Remnant-based adjustment still adds precision beyond within-sample-only machine-learning adjustment (LOOP), equivalent to roughly a 10–20% sample-size increase in about half of cases](../claims/reloop-gains-beyond-within-sample-loop.md) [+W]
-- [Remnant-based covariate adjustment (ReLOOP/ReLOOP+) reduces estimated sampling variance in A/B effect estimates relative to t-tests, equivalent to roughly a 20% average sample-size increase](../claims/reloop-remnant-imputation-variance-reduction-vs-ttest.md) [+W]
-- [Among remnant data types, the combined ensemble model reduced sampling variance most, the action-level model least, and the assignment-level model performed nearly as well as the combined model](../claims/remnant-data-type-contribution-variance.md) [+W]
-- [ASSISTments use for 7th-grade math homework significantly raises TerraNova mathematics scores in Maine (effect size +0.18)](../claims/assistments-maine-terranova-effect-018.md) [+W]
-- [Across two randomized studies, ASSISTments averages a mean effect size of +0.13, meeting Strong evidence standards](../claims/assistments-mean-effect-013-strong-badge.md) [+W]
-- [A North Carolina replication found ASSISTments 7th-grade use raised 8th-grade end-of-grade math scores (effect size +0.10) despite COVID-19 disruption](../claims/assistments-north-carolina-replication-eog-010.md) [+W]
-- [The relationship between bottom-out hint use and wheel-spinning is nuanced, depending on whether students avoid hints entirely](../claims/bottom-out-hint-use-nuanced-wheel-spinning.md) [+W]
 - [Not requesting any hints in at least one problem is related to greater wheel-spinning, consistent with help avoidance](../claims/hint-avoidance-related-greater-wheel-spinning.md) [+W]
-- [A 15-feature J48 decision tree model distinguishes wheel-spinning from productive persistence in ASSISTments Skill Builders at AUC ROC 0.684 under student-skill-level cross-validation](../claims/j48-model-distinguishes-wheel-spinning-productive-persistence.md) [+W]
-- [A retention-based definition of wheel-spinning classifies a much lower proportion of students as wheel-spinning than Beck and Gong's opportunity-count definition](../claims/retention-based-wheel-spinning-definition-lower-proportion.md) [+W]
-- [Consistently short delays between problems of the same skill are associated with greater wheel-spinning](../claims/short-consistent-delays-associated-wheel-spinning.md) [+W]
-- [Two distinct feature combinations identify two types of wheel-spinning students in ASSISTments Skill Builders](../claims/two-types-wheel-spinning-students-assistments.md) [+W]
 - [Perceptions of feedback characteristics vary between researcher and teacher coders, with agreement shaped by professional background](../claims/coder-background-varies-feedback-interpretation.md) [+W]
-- [Exploratory factor analysis of coder-assigned feedback codes yields 12 latent factors, several combining multiple codes with inverse loadings](../claims/efa-twelve-feedback-factors.md) [+W]
 - [Some teacher feedback codes commonly co-occur, such as Confirmation with Positive Affect and Mathematical Suggestions with Hints](../claims/feedback-codes-co-occurrence-patterns.md) [+W]
-- [K-means clustering of factor scores identifies 10 distinct types of teacher feedback content, mostly scaffolding-oriented](../claims/ten-cluster-feedback-types.md) [+W]
 
 ## Related Products and Programmes
 
@@ -176,11 +161,6 @@ A dataset assembled for testing remnant-based estimators, drawn from the ASSISTm
 
 ## Claims
 
-- [After Benjamini-Hochberg false-discovery-rate adjustment, covariate-adjusted estimators detect more significant effects than t-tests (LOOP 11, ReLOOP+ 10, ReLOOP 8, T-Test 3 of 227 contrasts)](../claims/bh-adjusted-discoveries-by-estimator.md) [+W]
-- [Prior assignment statistics were the most predictive remnant data type for assignment performance, followed by prior student statistics, with daily action history least predictive; combining datasets improved predictions over any single dataset](../claims/prior-assignment-statistics-most-predictive.md) [+W]
-- [Remnant-based adjustment still adds precision beyond within-sample-only machine-learning adjustment (LOOP), equivalent to roughly a 10–20% sample-size increase in about half of cases](../claims/reloop-gains-beyond-within-sample-loop.md) [+W]
-- [Remnant-based covariate adjustment (ReLOOP/ReLOOP+) reduces estimated sampling variance in A/B effect estimates relative to t-tests, equivalent to roughly a 20% average sample-size increase](../claims/reloop-remnant-imputation-variance-reduction-vs-ttest.md) [+W]
-- [Among remnant data types, the combined ensemble model reduced sampling variance most, the action-level model least, and the assignment-level model performed nearly as well as the combined model](../claims/remnant-data-type-contribution-variance.md) [+W]
 
 ## Related Elements
 
@@ -221,9 +201,6 @@ ASSISTments is an online homework tool coupled with teacher training that "provi
 
 ## Claims
 
-- [ASSISTments use for 7th-grade math homework significantly raises TerraNova mathematics scores in Maine (effect size +0.18)](../claims/assistments-maine-terranova-effect-018.md) [+W]
-- [Across two randomized studies, ASSISTments averages a mean effect size of +0.13, meeting Strong evidence standards](../claims/assistments-mean-effect-013-strong-badge.md) [+W]
-- [A North Carolina replication found ASSISTments 7th-grade use raised 8th-grade end-of-grade math scores (effect size +0.10) despite COVID-19 disruption](../claims/assistments-north-carolina-replication-eog-010.md) [+W]
 - [A possible mediating effect of teacher homework review practices was observed in the ASSISTments trial, but the planned mediation analysis failed to show an effect](../claims/assistments-teacher-review-mediation-null.md) [~W]
 
 ## Related Elements
@@ -266,12 +243,7 @@ ASSISTments is a free online formative assessment and tutoring system for middle
 
 ## Claims
 
-- [The relationship between bottom-out hint use and wheel-spinning is nuanced, depending on whether students avoid hints entirely](../claims/bottom-out-hint-use-nuanced-wheel-spinning.md) [+W]
 - [Not requesting any hints in at least one problem is related to greater wheel-spinning, consistent with help avoidance](../claims/hint-avoidance-related-greater-wheel-spinning.md) [+W]
-- [A 15-feature J48 decision tree model distinguishes wheel-spinning from productive persistence in ASSISTments Skill Builders at AUC ROC 0.684 under student-skill-level cross-validation](../claims/j48-model-distinguishes-wheel-spinning-productive-persistence.md) [+W]
-- [A retention-based definition of wheel-spinning classifies a much lower proportion of students as wheel-spinning than Beck and Gong's opportunity-count definition](../claims/retention-based-wheel-spinning-definition-lower-proportion.md) [+W]
-- [Consistently short delays between problems of the same skill are associated with greater wheel-spinning](../claims/short-consistent-delays-associated-wheel-spinning.md) [+W]
-- [Two distinct feature combinations identify two types of wheel-spinning students in ASSISTments Skill Builders](../claims/two-types-wheel-spinning-students-assistments.md) [+W]
 
 ## Related Elements
 
@@ -314,9 +286,7 @@ QUICK-Comments is a teacher-augmentation tool within the ASSISTments web-based K
 ## Claims
 
 - [Perceptions of feedback characteristics vary between researcher and teacher coders, with agreement shaped by professional background](../claims/coder-background-varies-feedback-interpretation.md) [+W]
-- [Exploratory factor analysis of coder-assigned feedback codes yields 12 latent factors, several combining multiple codes with inverse loadings](../claims/efa-twelve-feedback-factors.md) [+W]
 - [Some teacher feedback codes commonly co-occur, such as Confirmation with Positive Affect and Mathematical Suggestions with Hints](../claims/feedback-codes-co-occurrence-patterns.md) [+W]
-- [K-means clustering of factor scores identifies 10 distinct types of teacher feedback content, mostly scaffolding-oriented](../claims/ten-cluster-feedback-types.md) [+W]
 
 ## Related Elements
 

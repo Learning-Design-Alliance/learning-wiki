@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: zohal-shah-2024
-    resource: "https://digitalpromise.dspacedirect.org/items/2a854754-2233-4d09-9112-5b2f668321e8"
-    title: "Zohal Shah, Marilys Galindo, Chioma Aso-Hernandez, Christina Luke Luna, Keun-woo Lee, Josh Weisgrau, Teresa Solorzano, Britney Jacobs. (2024). The Promise of Micro-credentials and Learning and Employment Record Technologies for Youth and K-12 Schools. Digital Promise. https://digitalpromise.dspacedirect.org/items/2a854754-2233-4d09-9112-5b2f668321e8"
+    resource: "https://doi.org/10.51388/20.500.12265/224"
+    title: "Zohal Shah, Marilys Galindo, Chioma Aso-Hernandez, Christina Luke Luna, Keun-woo Lee, Josh Weisgrau, Teresa Solorzano, Britney Jacobs. (2024). The Promise of Micro-credentials and Learning and Employment Record Technologies for Youth and K-12 Schools. Digital Promise. https://digitalpromise.dspacedirect.org/items/2a854754-2233-4d09-9112-5b2f668321e8 [doi:10.51388/20.500.12265/224](https://doi.org/10.51388/20.500.12265/224)"
     author: Zohal Shah, Marilys Galindo, Chioma Aso-Hernandez, Christina Luke Luna, Keun-woo Lee, Josh Weisgrau, Teresa Solorzano, Britney Jacobs
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Zohal Shah 2024
 
-Zohal Shah, Marilys Galindo, Chioma Aso-Hernandez, Christina Luke Luna, Keun-woo Lee, Josh Weisgrau, Teresa Solorzano, Britney Jacobs. (2024). The Promise of Micro-credentials and Learning and Employment Record Technologies for Youth and K-12 Schools. Digital Promise. https://digitalpromise.dspacedirect.org/items/2a854754-2233-4d09-9112-5b2f668321e8
+Zohal Shah, Marilys Galindo, Chioma Aso-Hernandez, Christina Luke Luna, Keun-woo Lee, Josh Weisgrau, Teresa Solorzano, Britney Jacobs. (2024). The Promise of Micro-credentials and Learning and Employment Record Technologies for Youth and K-12 Schools. Digital Promise. https://digitalpromise.dspacedirect.org/items/2a854754-2233-4d09-9112-5b2f668321e8 [doi:10.51388/20.500.12265/224](https://doi.org/10.51388/20.500.12265/224)
 
 `q2 · i?` · `qualitative · r?`
 
@@ -46,5 +46,5 @@ Qualitative findings section of a mixed-methods landscape study with listening t
 - [A consortium led by Sinclair Community College implemented competency-based information technology programs in three community colleges, documented at or near baseline](sinclair-consortium-competency-based-it-programs-baseline.md) — related
 - [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — related
 - [Digital Promise research reports significant cross-sector alignment on four mindsets and six skill sets vital to lifelong success](four-mindsets-six-skillsets-alignment.md) — related
-- [Focus group stakeholders across roles see statewide summative assessments as only one indicator of college readiness and want information on additional skills](assessments-one-indicator-college-readiness-stakeholders.md) — a narrower finding that bears on this claim
-- [Teacher enthusiasm is one of the variables most highly correlated with student achievement](teacher-enthusiasm-correlated-achievement.md) — related
+- Focus group stakeholders across roles see statewide summative assessments as only one indicator of college readiness and want information on additional skills — a narrower finding that bears on this claim
+- Teacher enthusiasm is one of the variables most highly correlated with student achievement — related

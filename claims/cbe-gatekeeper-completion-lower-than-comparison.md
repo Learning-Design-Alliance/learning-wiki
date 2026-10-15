@@ -113,7 +113,7 @@ Key finding comparing credential completion between CBE participants and nonpart
 |---|---|---|---|
 | Person 2016 | q2 · causal · r1 | i? | this claim; [Consortium-wide, 35 percent of participants completed a grant-funded program of study, wit](cbe-participants-completion-employment-wages.md) (qualifies); [CBE participants completed programs quickly, averaging less than two terms to a first indu](cbe-fast-completion-two-terms-certification-four-terms-credentials.md) (qualifies) |
 | [Pane et al. 2017](https://doi.org/10.7249/rr2042) | q2 · causal · r2 | i0 · negligible-to-small, overall effect size 0.09 SD (math, sig.) / 0.07 SD (reading, n.s.) | [Personalized Learning Effects Vary With Fidelity](personalized-learning-effects-vary-with-fidelity.md) (qualifies) |
-| John F. Pane 2015 | q2 · causal · r2 | i? | [Implementation of competency-based progression was limited by a perceived need to emphasiz](competency-progression-limited-grade-level-emphasis.md) (qualifies) |
+| [John F. Pane 2015](https://doi.org/10.7249/rr1365) | q2 · causal · r2 | i? | [Implementation of competency-based progression was limited by a perceived need to emphasiz](competency-progression-limited-grade-level-emphasis.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

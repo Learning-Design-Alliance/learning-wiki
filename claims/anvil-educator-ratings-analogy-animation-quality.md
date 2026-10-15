@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: noviello-2026
-    resource: "https://arxiv.org/abs/2605.16295"
-    title: "Noviello, Y., Birillo, A., Migut, G. (2026). ANVIL: Analogies and Videos for Lecturers. https://arxiv.org/abs/2605.16295"
+    resource: "https://doi.org/10.48550/arxiv.2605.16295"
+    title: "Noviello, Y., Birillo, A., Migut, G. (2026). ANVIL: Analogies and Videos for Lecturers. https://arxiv.org/abs/2605.16295 [doi:10.48550/arxiv.2605.16295](https://doi.org/10.48550/arxiv.2605.16295)"
     author: Noviello, Y., Birillo, A., Migut, G.
     q: 3
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # CS/SE educators rate ANVIL analogies highly and animations as generally faithful, with disagreement concentrated in borderline and visual-clarity judgments
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q3`
+> **Evidence** · 2 studies · 2 design `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In a rubric-based evaluation with 11 CS/SE educators across nine CS topics, analogy criteria TCC and MS had medians of 3-4 for most topics (BST lower), animations showed high ATA medians, and VC medians were generally 3 with lower clarity for Stack. [→ Noviello 2026](#noviello-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Noviello 2026
 
-Noviello, Y., Birillo, A., Migut, G. (2026). ANVIL: Analogies and Videos for Lecturers. https://arxiv.org/abs/2605.16295
+Noviello, Y., Birillo, A., Migut, G. (2026). ANVIL: Analogies and Videos for Lecturers. https://arxiv.org/abs/2605.16295 [doi:10.48550/arxiv.2605.16295](https://doi.org/10.48550/arxiv.2605.16295)
 
 `q3 · i?` · `design · r2`
 

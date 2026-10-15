@@ -18,7 +18,7 @@ sources:
 # Mathematical Imagery Trainer for Proportion
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 An embodied mathematics-learning environment developed by Dor Abrahamson and colleagues in which learners manipulate on-screen cursors to construct proportional relationships through staged visual and numerical overlays.
@@ -28,8 +28,6 @@ An embodied mathematics-learning environment developed by Dor Abrahamson and col
 - **Mathematical Imagery Trainer for Proportion (MIT-P): an embodied-interaction environment where the screen turns green only when cursor heights relate by a target ratio**: The MIT-P is a design solution to students' enduring challenges with proportional relations: a student sits before a large red screen and is asked to 'make the screen green', which occurs only when the cursors' heights relate by the correct ratio (e.g., 1:2). The activity advances through stages, each launched when the instructor introduces a new display overlay — cursors, a grid, numerals along the y-axis — after the student satisfies a protocol criterion, with a full design including a ratio table for indirect control. An iPad version was released at the printed URL. (Dor Abrahamson et al. (2015))
 
 ### Claims
-- [Eye-tracking results confirm that just before students articulate a new manipulation strategy, their visual attention shifts from figural screen elements to a newly invented attentional-anchor location](../claims/eye-tracking-confirms-attentional-anchor-shift.md) [+W]
-- [Overlaying a grid onto the MIT-P display reifies the attentional anchor and abruptly shifts students into a new unit-based interaction routine](../claims/grid-overlay-reifies-anchor-shifts-routine.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -66,8 +64,6 @@ The MIT-P is a design solution to students' enduring challenges with proportiona
 
 ## Claims
 
-- [Eye-tracking results confirm that just before students articulate a new manipulation strategy, their visual attention shifts from figural screen elements to a newly invented attentional-anchor location](../claims/eye-tracking-confirms-attentional-anchor-shift.md) [+W]
-- [Overlaying a grid onto the MIT-P display reifies the attentional anchor and abruptly shifts students into a new unit-based interaction routine](../claims/grid-overlay-reifies-anchor-shifts-routine.md) [+W]
 
 ## Related Elements
 - 

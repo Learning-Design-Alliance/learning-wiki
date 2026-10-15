@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: dowdy-2007
-    resource: "https://eric.ed.gov/?id=EJ896649"
-    title: "Dowdy, E., & Kamphaus, R. W. (2007). A Comparison of Classification Methods for Use in Predicting School-Based Outcomes. The California School Psychologist, 12, 121-132. https://eric.ed.gov/?id=EJ896649"
+    resource: "https://doi.org/10.1007/bf03340936"
+    title: "Dowdy, E., & Kamphaus, R. W. (2007). A Comparison of Classification Methods for Use in Predicting School-Based Outcomes. The California School Psychologist, 12, 121-132. https://eric.ed.gov/?id=EJ896649 [doi:10.1007/bf03340936](https://doi.org/10.1007/bf03340936)"
     author: "Dowdy, E., & Kamphaus, R. W."
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Dowdy 2007
 
-Dowdy, E., & Kamphaus, R. W. (2007). A Comparison of Classification Methods for Use in Predicting School-Based Outcomes. The California School Psychologist, 12, 121-132. https://eric.ed.gov/?id=EJ896649
+Dowdy, E., & Kamphaus, R. W. (2007). A Comparison of Classification Methods for Use in Predicting School-Based Outcomes. The California School Psychologist, 12, 121-132. https://eric.ed.gov/?id=EJ896649 [doi:10.1007/bf03340936](https://doi.org/10.1007/bf03340936)
 
 `q3 · i?` · `associational · r2`
 

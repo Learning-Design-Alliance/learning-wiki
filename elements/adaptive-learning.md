@@ -18,7 +18,7 @@ sources:
 # Adaptive Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 16 claims (11 for, 5 mixed) · 15 studies (4 review, 4 qualitative, 3 associational, 2 causal, 1 design, 1 theoretical), `q1`–`q3` · 0 of 15 report an effect size · 16 claims rest on one study
+> **Evidence** · 14 claims (10 for, 4 mixed) · 13 studies (4 review, 3 associational, 3 qualitative, 1 causal, 1 design, 1 theoretical), `q1`–`q3` · 0 of 13 report an effect size · 14 claims rest on one study
 
 ## Description
 Adaptive learning tailors content, pacing, support, or task sequence in response to evidence about a learner's current performance, needs, or prior knowledge.
@@ -53,7 +53,6 @@ Adaptive learning tailors content, pacing, support, or task sequence in response
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- [Prior use of adaptive courseware in blended STEM courses eased the transition to fully remote instruction for instructors and students](../claims/adaptive-courseware-eased-covid-transition.md) [~W]
 - [Learner engagement was strengthened when the AI tutor adapted to learners' pace and prior knowledge](../claims/ai-tutor-pace-adaptation-strengthened-engagement.md) [+W]
 - [Included studies suggest engagement increases when adaptive platform activities are tailored to learners' personal needs and emotional state](../claims/adaptivity-emotional-tailoring-increases-engagement.md) [+W]
 - [Analyzing practical-measure data across student groups helps teachers tailor CRSE instruction](../claims/practical-measure-data-tailors-crse-instruction.md) [+W]
@@ -62,7 +61,6 @@ Adaptive learning tailors content, pacing, support, or task sequence in response
 - [AI-driven personalized and adaptive learning pathways support learner engagement and satisfaction in online courses](../claims/ai-adaptive-pathways-support-engagement.md) [+W]
 - [Intelligent tutoring systems are a mature, technologically sophisticated implementation of AI-driven personalized learning with mostly positive outcomes in programming, mathematics, and STEM](../claims/its-mature-implementation-personalized-learning.md) [+W]
 - [Adaptive learning systems report academic performance gains of 15–25% and engagement increases of up to 40%](../claims/adaptive-learning-gains-15-25-percent.md) [+W]
-- [NGCC adaptive courseware had a small positive, statistically significant average impact on course grades, with the top 25% of implementations showing impacts equivalent to 12 percentile points.](../claims/ngcc-courseware-small-positive-grade-impact.md) [+W]
 - [Most instructors using adaptive courseware believed it improved student learning and would use it again](../claims/instructors-positive-perceptions-adaptive-courseware.md) [+W]
 - [Negative emotional associations of AI-adaptive environments are pronounced among students with low AI literacy but substantially attenuated among those with high AI literacy](../claims/simple-slopes-ai-literacy-low-high.md) [~W]
 - [Students in focus groups were positive about adaptive courseware but reported alignment, access, and reliability concerns](../claims/student-focus-group-perceptions-courseware.md) [~W]

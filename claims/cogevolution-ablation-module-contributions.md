@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: wei-zhang-2026
-    resource: "https://arxiv.org/abs/2604.14786"
-    title: "Wei Zhang, Yihang Cheng, Zhirong Ye & Kezhen Huang. (2026). CogEvolution: A Human-like Generative Educational Agent to Simulate Student's Cognitive Evolution. https://arxiv.org/abs/2604.14786"
+    resource: "https://doi.org/10.48550/arxiv.2604.14786"
+    title: "Wei Zhang, Yihang Cheng, Zhirong Ye & Kezhen Huang. (2026). CogEvolution: A Human-like Generative Educational Agent to Simulate Student's Cognitive Evolution. https://arxiv.org/abs/2604.14786 [doi:10.48550/arxiv.2604.14786](https://doi.org/10.48550/arxiv.2604.14786)"
     author: "Wei Zhang, Yihang Cheng, Zhirong Ye & Kezhen Huang"
     q: 2
     i: "?"
@@ -38,7 +38,7 @@ sources:
 # Ablations show each CogEvolution module contributes: removing ICAP perception, structured retrieval, or evolutionary update degrades mistake precision, learning-curve fit, and alignment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies (3 entries) · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Removing ICAP cognitive depth perception drops R²LC sharply to 0.58 (from 0.92). [→ Wei Zhang 2026](#wei-zhang-2026)
@@ -49,7 +49,7 @@ sources:
 
 ### Wei Zhang 2026
 
-Wei Zhang, Yihang Cheng, Zhirong Ye & Kezhen Huang. (2026). CogEvolution: A Human-like Generative Educational Agent to Simulate Student's Cognitive Evolution. https://arxiv.org/abs/2604.14786
+Wei Zhang, Yihang Cheng, Zhirong Ye & Kezhen Huang. (2026). CogEvolution: A Human-like Generative Educational Agent to Simulate Student's Cognitive Evolution. https://arxiv.org/abs/2604.14786 [doi:10.48550/arxiv.2604.14786](https://doi.org/10.48550/arxiv.2604.14786)
 
 `q2 · i?` · `design · r2`
 

@@ -18,7 +18,7 @@ sources:
 # Mobl21
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Mobl21 is a mobile learning platform that teachers use to create and manage multimedia study materials, while students use it for note-taking, self-paced review, tests, and quizzes.
@@ -28,9 +28,6 @@ Mobl21 is a mobile learning platform that teachers use to create and manage mult
 - **Mobl21 mobile-assisted learning platform**: Mobl21 is a mobile-assisted learning platform usable by teachers to create study materials and by students to create lesson notes. The article lists its functions: creating "study materials in the form of multimedia educational textbooks", access to materials at any convenient time and place, self-paced review, teacher management of content and users, and tests and quizzes. It was the platform used in the article's implementation study. (Wagner et al. (2016))
 
 ### Claims
-- [MALL implementation with Mobl21 was psychologically comfortable for students and facilitated actualization of their learning potential](../claims/mall-implementation-psychological-comfort-learning-potential.md) [+W]
-- [Students showed a high level of interest and rated the MALL technology as significant in the implementation survey](../claims/mall-student-interest-significance-survey.md) [+W]
-- [Independent work on personal mobile devices mobilized attention, improved perception, and turned students into initiative actors and controllers of their own learning](../claims/mobile-independent-work-initiative-actors.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -64,9 +61,6 @@ Mobl21 is a mobile-assisted learning platform usable by teachers to create study
 
 ## Claims
 
-- [MALL implementation with Mobl21 was psychologically comfortable for students and facilitated actualization of their learning potential](../claims/mall-implementation-psychological-comfort-learning-potential.md) [+W]
-- [Students showed a high level of interest and rated the MALL technology as significant in the implementation survey](../claims/mall-student-interest-significance-survey.md) [+W]
-- [Independent work on personal mobile devices mobilized attention, improved perception, and turned students into initiative actors and controllers of their own learning](../claims/mobile-independent-work-initiative-actors.md) [+W]
 
 ## Related Elements
 - 

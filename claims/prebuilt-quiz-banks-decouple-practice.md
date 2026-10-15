@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: sidney-shapiro-and-joshua-lindemann-2026
-    resource: "https://arxiv.org/abs/2610.02510"
-    title: "Sidney Shapiro and Joshua Lindemann. (2026). On-Premises Multi-Course RAG Tutoring for Business Education: Hardware–Software Trade-offs in a Campus AI Tutor. arXiv. https://arxiv.org/abs/2610.02510"
+    resource: "https://doi.org/10.48550/arxiv.2610.02510"
+    title: "Sidney Shapiro and Joshua Lindemann. (2026). On-Premises Multi-Course RAG Tutoring for Business Education: Hardware–Software Trade-offs in a Campus AI Tutor. arXiv. https://arxiv.org/abs/2610.02510 [doi:10.48550/arxiv.2610.02510](https://doi.org/10.48550/arxiv.2610.02510)"
     author: Sidney Shapiro and Joshua Lindemann
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Prebuilt quiz banks of 435 questions across 65 modules decouple practice from live generation, with warm practice-request medians of 4.8 and 5.8 ms
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The deployed banks total 435 prepared items covering 65 configured modules, and practice uses stored keys and feedback without live generation. [→ Sidney Shapiro and Joshua Lindemann 2026](#sidney-shapiro-and-joshua-lindemann-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Sidney Shapiro and Joshua Lindemann 2026
 
-Sidney Shapiro and Joshua Lindemann. (2026). On-Premises Multi-Course RAG Tutoring for Business Education: Hardware–Software Trade-offs in a Campus AI Tutor. arXiv. https://arxiv.org/abs/2610.02510
+Sidney Shapiro and Joshua Lindemann. (2026). On-Premises Multi-Course RAG Tutoring for Business Education: Hardware–Software Trade-offs in a Campus AI Tutor. arXiv. https://arxiv.org/abs/2610.02510 [doi:10.48550/arxiv.2610.02510](https://doi.org/10.48550/arxiv.2610.02510)
 
 `q2 · i?` · `design · r2`
 

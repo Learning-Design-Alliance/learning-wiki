@@ -21,25 +21,6 @@ provenance:
   extracted_at: '2026-09-24'
   extraction_method: ingest-pipeline-v130 (claude-code-agent/opus-5.5)
   verification: unverified
-appears_in:
-- claim: pe-teacher-educational-philosophy-beliefs-differ-by-gender
-  bearing: supports
-  anchor: isikgoz-2020
-- claim: pe-teacher-educational-philosophy-beliefs-differ-by-gender
-  bearing: supports
-  anchor: isikgoz-2020-2
-- claim: high-school-pe-teachers-endorse-perennialism-more-than-secondary-school-teachers
-  bearing: supports
-  anchor: isikgoz-2020
-- claim: graduate-educated-pe-teachers-endorse-progressivism-perennialism-and-essentialism-more
-  bearing: supports
-  anchor: isikgoz-2020
-- claim: pe-teacher-essentialism-rises-and-progressivism-falls-with-seniority
-  bearing: supports
-  anchor: isikgoz-2020
-- claim: pe-teacher-essentialism-rises-and-progressivism-falls-with-seniority
-  bearing: supports
-  anchor: isikgoz-2020-2
 evidence_base:
   unit: participants
   size:

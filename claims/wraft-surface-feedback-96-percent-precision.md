@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: adnan-labib-2026
-    resource: "https://arxiv.org/abs/2607.14524"
-    title: "Adnan Labib, Yixuan Huang, Jiahui Wu, John Maurice Gayed, Zheng Yuan, Qiao Wang. (2026). WrAFT: a Modularized Automated Writing Evaluation System for Argumentative Essays. arXiv preprint. https://arxiv.org/abs/2607.14524"
+    resource: "https://doi.org/10.48550/arxiv.2607.14524"
+    title: "Adnan Labib, Yixuan Huang, Jiahui Wu, John Maurice Gayed, Zheng Yuan, Qiao Wang. (2026). WrAFT: a Modularized Automated Writing Evaluation System for Argumentative Essays. arXiv preprint. https://arxiv.org/abs/2607.14524 [doi:10.48550/arxiv.2607.14524](https://doi.org/10.48550/arxiv.2607.14524)"
     author: Adnan Labib, Yixuan Huang, Jiahui Wu, John Maurice Gayed, Zheng Yuan, Qiao Wang
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Adnan Labib 2026
 
-Adnan Labib, Yixuan Huang, Jiahui Wu, John Maurice Gayed, Zheng Yuan, Qiao Wang. (2026). WrAFT: a Modularized Automated Writing Evaluation System for Argumentative Essays. arXiv preprint. https://arxiv.org/abs/2607.14524
+Adnan Labib, Yixuan Huang, Jiahui Wu, John Maurice Gayed, Zheng Yuan, Qiao Wang. (2026). WrAFT: a Modularized Automated Writing Evaluation System for Argumentative Essays. arXiv preprint. https://arxiv.org/abs/2607.14524 [doi:10.48550/arxiv.2607.14524](https://doi.org/10.48550/arxiv.2607.14524)
 
 `q2 · i?` · `design · r2`
 

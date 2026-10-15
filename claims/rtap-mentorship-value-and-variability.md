@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Apprentices valued mentors' feedback, emotional support, and gradual release of responsibility, but some experienced disjointed support, disengaged mentors, or too little time alongside mentors due to substitute or teacher-of-record assignments. [→ Nathan Kriha 2025](#nathan-kriha-2025)
@@ -43,5 +44,5 @@ Interview finding on mentorship: mentors offered real-world examples, consistent
 
 
 ## Related Claims
-- [Apprentices most valued paid, job-embedded in-classroom experience with students as the central component of their preparation](rtap-in-classroom-experience-most-valued.md) — related
+- Apprentices most valued paid, job-embedded in-classroom experience with students as the central component of their preparation — related
 - [Mentors of color were especially valuable to apprentices of color, who wanted more intentional mentor matching](rtap-mentors-of-color-especially-valuable.md) — a narrower finding that bears on this claim

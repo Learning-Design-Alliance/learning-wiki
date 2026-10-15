@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: wei-zhang-2026
-    resource: "https://arxiv.org/abs/2604.14786"
-    title: "Wei Zhang, Yihang Cheng, Zhirong Ye & Kezhen Huang. (2026). CogEvolution: A Human-like Generative Educational Agent to Simulate Student's Cognitive Evolution. https://arxiv.org/abs/2604.14786"
+    resource: "https://doi.org/10.48550/arxiv.2604.14786"
+    title: "Wei Zhang, Yihang Cheng, Zhirong Ye & Kezhen Huang. (2026). CogEvolution: A Human-like Generative Educational Agent to Simulate Student's Cognitive Evolution. https://arxiv.org/abs/2604.14786 [doi:10.48550/arxiv.2604.14786](https://doi.org/10.48550/arxiv.2604.14786)"
     author: "Wei Zhang, Yihang Cheng, Zhirong Ye & Kezhen Huang"
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # CogEvolution performs comparably to the KT-based PEERS model on mastery prediction (AUC 0.80 vs 0.82) while achieving higher mistake precision (76.8%) on CogMath-948
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` CogEvolution performs comparably to the knowledge tracing-based PEERS model in mastery perception precision (AUC 0.80 vs 0.82), and both significantly outperform static persona models. [→ Wei Zhang 2026](#wei-zhang-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Wei Zhang 2026
 
-Wei Zhang, Yihang Cheng, Zhirong Ye & Kezhen Huang. (2026). CogEvolution: A Human-like Generative Educational Agent to Simulate Student's Cognitive Evolution. https://arxiv.org/abs/2604.14786
+Wei Zhang, Yihang Cheng, Zhirong Ye & Kezhen Huang. (2026). CogEvolution: A Human-like Generative Educational Agent to Simulate Student's Cognitive Evolution. https://arxiv.org/abs/2604.14786 [doi:10.48550/arxiv.2604.14786](https://doi.org/10.48550/arxiv.2604.14786)
 
 `q2 · i?` · `design · r2`
 

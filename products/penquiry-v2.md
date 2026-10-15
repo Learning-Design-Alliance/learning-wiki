@@ -13,7 +13,7 @@ generated:
 # Penquiry V2
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 3 studies (1 associational, 1 qualitative, 1 design), `q3` · 0 of 3 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (1 associational, 1 qualitative), `q3` · 0 of 2 report an effect size · 1 claim rests on one study
 
 ## Description
 Penquiry V2 is a pen-based interactive in-situ question-and-answer system developed for learners to query an LLM while studying digital PDF materials.

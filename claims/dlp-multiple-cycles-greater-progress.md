@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: bakhshaei-2018
-    resource: "https://digitalpromise.dspacedirect.org/items/540c3325-fd5f-408e-a347-2409f57848dd"
-    title: "Bakhshaei, M., Hardy, A., Francisco, A., Noakes, S., & Fusco, J. (2018). Fostering Powerful Use of Technology Through Instructional Coaching: Results from the Pilot Year of the Dynamic Learning Project. Digital Promise. https://digitalpromise.dspacedirect.org/items/540c3325-fd5f-408e-a347-2409f57848dd"
+    resource: "https://doi.org/10.51388/20.500.12265/48"
+    title: "Bakhshaei, M., Hardy, A., Francisco, A., Noakes, S., & Fusco, J. (2018). Fostering Powerful Use of Technology Through Instructional Coaching: Results from the Pilot Year of the Dynamic Learning Project. Digital Promise. https://digitalpromise.dspacedirect.org/items/540c3325-fd5f-408e-a347-2409f57848dd [doi:10.51388/20.500.12265/48](https://doi.org/10.51388/20.500.12265/48)"
     author: "Bakhshaei, M., Hardy, A., Francisco, A., Noakes, S., & Fusco, J."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Bakhshaei 2018
 
-Bakhshaei, M., Hardy, A., Francisco, A., Noakes, S., & Fusco, J. (2018). Fostering Powerful Use of Technology Through Instructional Coaching: Results from the Pilot Year of the Dynamic Learning Project. Digital Promise. https://digitalpromise.dspacedirect.org/items/540c3325-fd5f-408e-a347-2409f57848dd
+Bakhshaei, M., Hardy, A., Francisco, A., Noakes, S., & Fusco, J. (2018). Fostering Powerful Use of Technology Through Instructional Coaching: Results from the Pilot Year of the Dynamic Learning Project. Digital Promise. https://digitalpromise.dspacedirect.org/items/540c3325-fd5f-408e-a347-2409f57848dd [doi:10.51388/20.500.12265/48](https://doi.org/10.51388/20.500.12265/48)
 
 `q2 · i?` · `associational · r1`
 

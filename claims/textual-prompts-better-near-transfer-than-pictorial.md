@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i2` medium
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i2` On the near-transfer posttest, participants with text-based prompts scored significantly higher (M = 9.08) than those with pictorial prompts (M = 6.89), with Cohen's f = .37. [→ Reisslein 2004](#reisslein-2004)

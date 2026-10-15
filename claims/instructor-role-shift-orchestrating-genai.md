@@ -42,7 +42,7 @@ The article argues from its synthesis that GenAI can facilitate teaching by gene
 
 ## Related Claims
 - [Practitioners near-universally reject AI as a replacement for instructor expertise while affirming its supportive, collaborative role](rejection-of-ai-replacing-instructor-expertise.md) — a narrower finding that bears on this claim
-- [Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs](human-guidance-ethical-grounding-ai.md) — related
+- Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs — related
 - [GenAI's immediate answers reduce engineering students' teacher-student interactions for generalizable tasks, while teachers remain preferred for complex problem-solving](genai-immediacy-reduces-teacher-interactions.md) — related
 - [Sysadmins shift from producing solutions to evaluating, correcting, and refining GenAI output, which still requires human expertise](sysadmin-expertise-shifts-to-validating-genai-output.md) — related
 - [Generative AI-generated hints can be as effective as human-generated hints for mathematics performance, but ensuring accuracy requires validation procedures that discard a substantial share of generated hints](genai-hints-effective-but-require-validation.md) — related

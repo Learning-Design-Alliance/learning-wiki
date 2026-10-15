@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 <!-- title before 2026-10-14: Coaching is more effective when sustained over time, with coached teachers receiving substantial weekly and yearly contact hours -->
 
 ## Subclaims
@@ -64,7 +65,7 @@ Descriptive survey data from DLP coached teachers on coaching dosage: "more than
 
 ## Related Claims
 - [Teachers who report coaching as a voluntary, non-evaluative partnership report more improvement in classroom challenges and higher technology-use confidence](coaching-partnership-voluntary-non-evaluative.md) — related
-- [Coached teachers report significantly higher confidence in their ability to implement impactful technology use](coaching-raises-teacher-itu-confidence.md) — related
+- Coached teachers report significantly higher confidence in their ability to implement impactful technology use — related
 - [Coaching is more effective when it is job-embedded with frequent face-to-face interaction between coach and teacher](job-embedded-coaching-active-learning.md) — related
 - [Coaching is more effective when support is personalized to teachers' needs and classroom contexts](personalized-coaching-coherence-fit.md) — related
 - [Coached teachers report increases in how often students and teachers use technology, compared to non-coached peers](coaching-increases-technology-use-frequency.md) — related

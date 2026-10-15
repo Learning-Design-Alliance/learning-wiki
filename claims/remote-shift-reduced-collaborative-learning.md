@@ -43,7 +43,7 @@ Qualitative case studies of 29 courses at 10 institutions based on instructor in
 
 
 ## Related Claims
-- [Opportunities for peer collaboration largely disappeared when STEM courses went remote, with few instructors sustaining collaborative activities online](covid-stem-collaboration-reduced-remote.md) — possibly the same claim (merge candidate)
+- Opportunities for peer collaboration largely disappeared when STEM courses went remote, with few instructors sustaining collaborative activities online — possibly the same claim (merge candidate)
 - [Staying motivated was the most pervasive challenge of learning remotely, and students missed instructor feedback, peer collaboration, and hands-on experiences](motivation-and-lost-interaction-challenges-remote.md) — related
 - [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — related
 - [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — related

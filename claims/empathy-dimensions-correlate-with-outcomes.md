@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: li-siyan-2026
-    resource: "https://arxiv.org/abs/2606.26641"
-    title: "Li Siyan, Kai-Hui Liang, Shopnil Shahriar, Yilin Ye, Shiyoh Goetsu, Wei-Wei Du, Masahiro Yoshida, Tsunayuki Ohwa, Xuhai Xu, and Zhou Yu. (2026). Invisible Impact of Empathy on Behavioral Change: Isolating the Effect of Empathy in Long-term Physical Activity Coaching Chatbot Interactions. https://arxiv.org/abs/2606.26641"
+    resource: "https://doi.org/10.48550/arxiv.2606.26641"
+    title: "Li Siyan, Kai-Hui Liang, Shopnil Shahriar, Yilin Ye, Shiyoh Goetsu, Wei-Wei Du, Masahiro Yoshida, Tsunayuki Ohwa, Xuhai Xu, and Zhou Yu. (2026). Invisible Impact of Empathy on Behavioral Change: Isolating the Effect of Empathy in Long-term Physical Activity Coaching Chatbot Interactions. https://arxiv.org/abs/2606.26641 [doi:10.48550/arxiv.2606.26641](https://doi.org/10.48550/arxiv.2606.26641)"
     author: Li Siyan, Kai-Hui Liang, Shopnil Shahriar, Yilin Ye, Shiyoh Goetsu, Wei-Wei Du, Masahiro Yoshida, Tsunayuki Ohwa, Xuhai Xu, and Zhou Yu
     q: 2
     i: 1
@@ -30,7 +30,7 @@ sources:
 # LLM-annotated empathy dimensions correlate positively with intention to follow, self-efficacy, and chatbot usefulness despite participants not preferring empathetic chatbots
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r1` · `q2` · `i1` small
+> **Evidence** · 2 studies · 2 causal `r1` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i1` Emotional reaction correlates significantly with intention to follow (ρ = 0.156), self-efficacy (ρ = 0.139), and usefulness (ρ = 0.249). [→ Li Siyan 2026](#li-siyan-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Li Siyan 2026
 
-Li Siyan, Kai-Hui Liang, Shopnil Shahriar, Yilin Ye, Shiyoh Goetsu, Wei-Wei Du, Masahiro Yoshida, Tsunayuki Ohwa, Xuhai Xu, and Zhou Yu. (2026). Invisible Impact of Empathy on Behavioral Change: Isolating the Effect of Empathy in Long-term Physical Activity Coaching Chatbot Interactions. https://arxiv.org/abs/2606.26641
+Li Siyan, Kai-Hui Liang, Shopnil Shahriar, Yilin Ye, Shiyoh Goetsu, Wei-Wei Du, Masahiro Yoshida, Tsunayuki Ohwa, Xuhai Xu, and Zhou Yu. (2026). Invisible Impact of Empathy on Behavioral Change: Isolating the Effect of Empathy in Long-term Physical Activity Coaching Chatbot Interactions. https://arxiv.org/abs/2606.26641 [doi:10.48550/arxiv.2606.26641](https://doi.org/10.48550/arxiv.2606.26641)
 
 `q2 · i1` · `causal · r1`
 

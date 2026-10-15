@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` High relational trust was associated with educators more likely to try new practices and collaborate with parents on school improvement. [→ Bryk 2002](#bryk-2002)
@@ -43,9 +44,9 @@ From the study's overview of the 12 Chicago elementary schools: in high-relation
 
 
 ## Related Claims
-- [Teachers are more likely to stay in schools where they perceive colleagues as collaborators, feel influence over their work environment, and trust their principal as an instructional leader](work-environment-predicts-teacher-retention-chicago.md) — related
-- [Teachers are more likely to stay in schools where parents support their work and where students feel safe and peers behave appropriately](parent-partnerships-and-climate-predict-teacher-staying.md) — related
+- Teachers are more likely to stay in schools where they perceive colleagues as collaborators, feel influence over their work environment, and trust their principal as an instructional leader — related
+- Teachers are more likely to stay in schools where parents support their work and where students feel safe and peers behave appropriately — related
 - [Chicago charter high school teachers report leadership perceptions similar to non-charter peers but higher trust and collective responsibility among colleagues, and their schools differ most in future preparation: more promotion/graduation requirements, innovative instruction, and college-going emphasis](cps-charter-organizational-capacity-differences.md) — related
-- [Relational trust appears to materialize in schools regardless of vast differences in environments](relational-trust-materializes-regardless-of-environments.md) — related
+- Relational trust appears to materialize in schools regardless of vast differences in environments — related
 - [Teachers and principals in CHSRI small schools describe an environment marked by trust, commitment, and strong professional community in year two](chsri-small-schools-trust-professional-community.md) — related
 - [Schools that mitigated proximity-to-homicide effects had stronger, more positive school climates, including engaging instruction and trusting relationships](positive-school-climate-mitigates-homicide-effects.md) — related

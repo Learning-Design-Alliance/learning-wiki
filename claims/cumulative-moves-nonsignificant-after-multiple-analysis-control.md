@@ -43,5 +43,5 @@ In the longitudinal analysis of cumulative moves across elementary school, effec
 
 
 ## Related Claims
-- [No significant correlations were found between MDC speech articulation disorders and paternal separation time, family moves, rank, father's age, child's familial placement, or military occupation](mdc-articulation-null-correlates-paternal-factors.md) — related
+- No significant correlations were found between MDC speech articulation disorders and paternal separation time, family moves, rank, father's age, child's familial placement, or military occupation — related
 - The study design separately examined recent-year moves and cumulative moves across elementary school in relation to child functioning — a broader claim this one bears on

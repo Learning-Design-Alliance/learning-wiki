@@ -61,7 +61,7 @@ Issue-type breakdown of AI-teacher agreement across cycles. The highest Cycle 3 
 - [The Diagnostic Review class scored higher on diagnostic accuracy, actionability, comprehension, revision quality, and self-assessment accuracy across all three cycles](diagnostic-review-higher-process-indicators.md) — related
 - [Diagnostic Review revisions contained larger shares of meaning-change, organization, and content/argument work, while Control revisions remained more dependent on surface-level editing](revision-architecture-meaning-change-versus-surface.md) — related
 - [Human-LLM agreement is moderated by code properties, multi-model consensus, and model-reported confidence](agreement-moderators-tiers-consensus-confidence.md) — related
-- [LLMs align better with human coding on concise theories with discrete concepts than on more complex ones](theory-complexity-affects-llm-coding-agreement.md) — related
+- LLMs align better with human coding on concise theories with discrete concepts than on more complex ones — related
 - [Fine-tuned PLMs measure high-inference teaching practices better when the variable requires less pedagogical expertise, matching human-rater agreement on lexical variables but degrading on inference-heavy ones](plm-performance-depends-on-pedagogical-expertise-required.md) — related
 - [The Diagnostic Review class gained more writing points across three cycles than the Control class (Hedges' g = 1.12)](diagnostic-review-larger-writing-gains.md) — related
 - [Teacher review workload was higher in the Diagnostic Review class in review minutes, added instruction, and review intensity](teacher-review-workload-higher-diagnostic-review.md) — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: baicheng-lin-2026
-    resource: "https://arxiv.org/abs/2608.01783"
-    title: "Baicheng Lin, Lingxi Jin, and Kyung-Seok Min. (2026). Comparative Validation of GPT-4o-mini and Teacher Mean Scores for Automated Scoring of Music Analysis Responses: Single-Pass Deployment, Repeatability, and Strategy-Specific Bias. arXiv preprint. https://arxiv.org/abs/2608.01783"
+    resource: "https://doi.org/10.48550/arxiv.2608.01783"
+    title: "Baicheng Lin, Lingxi Jin, and Kyung-Seok Min. (2026). Comparative Validation of GPT-4o-mini and Teacher Mean Scores for Automated Scoring of Music Analysis Responses: Single-Pass Deployment, Repeatability, and Strategy-Specific Bias. arXiv preprint. https://arxiv.org/abs/2608.01783 [doi:10.48550/arxiv.2608.01783](https://doi.org/10.48550/arxiv.2608.01783)"
     author: Baicheng Lin, Lingxi Jin, and Kyung-Seok Min
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Baicheng Lin 2026
 
-Baicheng Lin, Lingxi Jin, and Kyung-Seok Min. (2026). Comparative Validation of GPT-4o-mini and Teacher Mean Scores for Automated Scoring of Music Analysis Responses: Single-Pass Deployment, Repeatability, and Strategy-Specific Bias. arXiv preprint. https://arxiv.org/abs/2608.01783
+Baicheng Lin, Lingxi Jin, and Kyung-Seok Min. (2026). Comparative Validation of GPT-4o-mini and Teacher Mean Scores for Automated Scoring of Music Analysis Responses: Single-Pass Deployment, Repeatability, and Strategy-Specific Bias. arXiv preprint. https://arxiv.org/abs/2608.01783 [doi:10.48550/arxiv.2608.01783](https://doi.org/10.48550/arxiv.2608.01783)
 
 `q2 · i?` · `design · r2`
 
@@ -44,7 +44,7 @@ Dimension-level analysis in Results Table 2 for the 300 responses: e.g., Fs+CoT 
 
 ## Related Claims
 - [The automated scoring system's agreement with human raters varied widely by dimension, with information fidelity showing a weak, non-significant correlation](yunyi-human-agreement-varies-by-dimension.md) — a broader claim this one bears on
-- [LLM-human agreement is highest for identifying whether students listed a concept and lowest for judging definition correctness](coding-dimension-listing-easier-than-correct-defining.md) — a broader claim this one bears on
+- LLM-human agreement is highest for identifying whether students listed a concept and lowest for judging definition correctness — a broader claim this one bears on
 - [Across rubric dimensions, content scored highest (A = 4.03) while production scored lowest (D = 3.41), driven by synthetic voice quality (D1 = 3.16)](bespoke-content-strongest-production-weakest-voice.md) — related
 - [Under single-pass deployment, Fs+CoT prompting yields the strongest agreement with teacher mean scores for music-analysis essay scoring (r = 0.795, ICC (2,1) = 0.657)](fscot-strongest-teacher-agreement-run1.md) — related
 - Median aggregation across three runs produces only minor changes in agreement and does not alter the ordering of prompting strategies — related

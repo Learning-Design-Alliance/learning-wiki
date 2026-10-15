@@ -17,7 +17,7 @@ sources:
 # Four leader actions to retain teachers of color: financial incentives, disaggregated data, diverse leader investment, and inclusive environments
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 6 studies (3 associational, 2 review, 1 qualitative), `q1`–`q2` · 0 of 6 report an effect size · 3 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report closes with four recommended actions for state, district, and school leaders: value teachers of color through loan forgiveness, service scholarships, loan repayment and relocation incentives; collect and disaggregate recruitment, hiring, and retention data by race/ethnicity; invest in recruiting and developing diverse leaders committed to positive working conditions; and ensure curriculum and work environments are inclusive and respectful of all racial and ethnic groups.
@@ -38,9 +38,6 @@ The report closes with four recommended actions for state, district, and school 
 
 ## Claims
 
-- [Existing race and ethnicity data standards render some Indigenous students and diverse Asian American and Native Hawaiian/Pacific Islander students invisible, concealing disparities that disaggregated data would reveal](../claims/data-standards-render-marginalized-students-invisible.md) [+W]
-- [Nearly 80% of U.S. principals are White, so students of color are far less likely than White peers to encounter a leader matching their race or ethnicity](../claims/principals-nearly-80-percent-white.md) [+W]
-- [Teacher diversity benefits all students regardless of race or ethnicity, while only about 20% of U.S. teachers are of color](../claims/teacher-diversity-benefits-all-students.md) [+W]
 - [Teachers of color face retention pressures including placement in high-poverty schools, pigeonholing into race-based roles, undervalued ideas, and an unrecognized invisible tax of extra duties.](../claims/toc-retention-hostile-conditions.md) [+W]
 
 ## Related Strategies

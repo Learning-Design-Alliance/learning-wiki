@@ -16,7 +16,7 @@ sources:
 # Lawson's problem-solving definition of pragmatism as applied to Washington
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article recounts Bill Lawson's account of pragmatism, which locates "solving basic life problems" as fundamental to the tradition and requires a pragmatist to understand the problem being solved and then think creatively. On this basis Lawson calls Washington a "true pragmatist": no "mere puppet," but a creative, flawed leader who fused theory and practice to address difficult educational and racial problems in the South. The article uses this definition to justify placing Washington in the pragmatist camp.
@@ -37,8 +37,6 @@ The article recounts Bill Lawson's account of pragmatism, which locates "solving
 
 ### Claims
 
-- [Washington Educational Pragmatist](../claims/washington-educational-pragmatist.md) [+M]
-- [Washington's Tuskegee practice anticipated the project method, building an institution around it decades before Kilpatrick](../claims/washington-anticipated-project-method.md) [+W]
 
 ## Related Theories
 - 

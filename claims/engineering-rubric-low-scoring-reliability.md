@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: morzinski-2010
-    resource: "https://arxiv.org/abs/1009.3296"
-    title: "Morzinski, K., Azucena, O., Downs, C., Favaloro, T., Park, J., & U, V. (2010). Circuit Design: An inquiry lab activity at Maui Community College. ASP Conference Series. https://arxiv.org/abs/1009.3296"
+    resource: "https://doi.org/10.48550/arxiv.1009.3296"
+    title: "Morzinski, K., Azucena, O., Downs, C., Favaloro, T., Park, J., & U, V. (2010). Circuit Design: An inquiry lab activity at Maui Community College. ASP Conference Series. https://arxiv.org/abs/1009.3296 [doi:10.48550/arxiv.1009.3296](https://doi.org/10.48550/arxiv.1009.3296)"
     author: "Morzinski, K., Azucena, O., Downs, C., Favaloro, T., Park, J., & U, V."
     q: 2
     i: "?"
@@ -32,7 +32,7 @@ sources:
 
 ### Morzinski 2010
 
-Morzinski, K., Azucena, O., Downs, C., Favaloro, T., Park, J., & U, V. (2010). Circuit Design: An inquiry lab activity at Maui Community College. ASP Conference Series. https://arxiv.org/abs/1009.3296
+Morzinski, K., Azucena, O., Downs, C., Favaloro, T., Park, J., & U, V. (2010). Circuit Design: An inquiry lab activity at Maui Community College. ASP Conference Series. https://arxiv.org/abs/1009.3296 [doi:10.48550/arxiv.1009.3296](https://doi.org/10.48550/arxiv.1009.3296)
 
 `q2 · i?` · `design · r2`
 
@@ -54,9 +54,9 @@ The one entry is a single class at Maui Community College: six scorers, six team
 - [A Wheatstone bridge inquiry lab accomplished many of its learning goals and students seemed to enjoy it](circuit-design-inquiry-accomplished-learning-goals.md) — related
 - [The framework shows high scoring consistency, with 79% agreement and 81% inter-rater reliability on physics questions](framework-scoring-high-consistency-physics.md) — related
 - [Expert former math teachers rated GPT-4o's dialogue annotations very highly for student correctness and moderate-to-high for knowledge components, with volatile inter-rater reliability.](expert-teachers-rate-gpt-4o-dialogue-annotations-as-largely-accurate.md) — related
-- [The Reflective Judgment Model coding rubric achieves high inter-rater reliability (alpha .93) when applied to teacher educators' interview narratives](rjm-high-interrater-reliability-teacher-educators.md) — related
+- The Reflective Judgment Model coding rubric achieves high inter-rater reliability (alpha .93) when applied to teacher educators' interview narratives — related
 - [The GED essay is scored holistically on a six-point scale by two independent readers](ged-essay-holistic-six-point-two-readers.md) — related
-- [Reviewer scores of grant proposals show low overall reliability across six large studies, though reviewers become more consistent with experience](low-reliability-grant-reviewer-scores.md) — related
+- Reviewer scores of grant proposals show low overall reliability across six large studies, though reviewers become more consistent with experience — related
 - [Trained scorers applied the historical thinking skills rubrics with good overall inter-rater consistency](hts-rubrics-good-inter-rater-consistency.md) — related
 - [Three independent expert instructors reached exceptionally high inter-rater reliability when grading 1200 bash exam responses, establishing a reliable human reference standard](expert-triad-high-inter-rater-reliability-bash-grading.md) — related
 - [Human inter-rater agreement for FRISCO essay scoring was reliable, with mean kappa 0.78–0.84 and percentage of agreement above 75% in all six dimensions](frisco-rater-agreement-reliable.md) — related

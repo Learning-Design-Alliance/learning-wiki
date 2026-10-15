@@ -18,7 +18,7 @@ sources:
 # Mathematics-Related Beliefs Questionnaire
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The MRBQ is a 58-item, six-point Likert-scale questionnaire developed by Op ’t Eynde and colleagues to measure students’ beliefs about mathematics, themselves as mathematics learners, and their classroom social context.
@@ -29,10 +29,6 @@ The MRBQ is a 58-item, six-point Likert-scale questionnaire developed by Op ’t
 
 ### Claims
 - [Belief factors are positively intercorrelated: a social-dynamic view of mathematics co-occurs with higher task value and confidence (r = .48) and more positive teacher beliefs (r = .41)](../claims/mrbq-factor-correlations-positive.md) [+W]
-- [Teacher-belief and competence/value scales show high internal consistency (alphas .92 and .89), while the social-activity and excellence scales are weaker (.65 and .69)](../claims/mrbq-scale-reliability-mixed.md) [+W]
-- [Socio-constructivist and absolutist views of mathematics are only mildly related (r = .21) and cannot be treated as opposite poles of one dimension](../claims/socio-constructivist-absolutist-views-not-opposite-poles.md) [+W]
-- [Students' beliefs about the cognitive, motivational and affective dimensions of their teacher's functioning load on a single factor](../claims/teacher-belief-dimensions-single-factor.md) [+W]
-- [A four-factor principal component model of the MRBQ provides some empirical ground for the proposed structure of students' mathematics-related beliefs](../claims/mrbq-four-factor-model-partial-support.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -70,10 +66,6 @@ The MRBQ is an integrated questionnaire developed to measure students' beliefs a
 ### Claims
 <!- - Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] - ->
 - [Belief factors are positively intercorrelated: a social-dynamic view of mathematics co-occurs with higher task value and confidence (r = .48) and more positive teacher beliefs (r = .41)](../claims/mrbq-factor-correlations-positive.md) [+W]
-- [Teacher-belief and competence/value scales show high internal consistency (alphas .92 and .89), while the social-activity and excellence scales are weaker (.65 and .69)](../claims/mrbq-scale-reliability-mixed.md) [+W]
-- [Socio-constructivist and absolutist views of mathematics are only mildly related (r = .21) and cannot be treated as opposite poles of one dimension](../claims/socio-constructivist-absolutist-views-not-opposite-poles.md) [+W]
-- [Students' beliefs about the cognitive, motivational and affective dimensions of their teacher's functioning load on a single factor](../claims/teacher-belief-dimensions-single-factor.md) [+W]
-- [A four-factor principal component model of the MRBQ provides some empirical ground for the proposed structure of students' mathematics-related beliefs](../claims/mrbq-four-factor-model-partial-support.md) [+W]
 
 ## Related Elements
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: seyed-parsa-neshaei-2026
-    resource: "https://arxiv.org/abs/2606.15902"
-    title: "Seyed Parsa Neshaei, Abhinand Shibu, and Fatma Betül Güres. (2026). The Missing Layer: Why EdTech Needs Design-Time Generative UI, Not Just Runtime Personalization. https://arxiv.org/abs/2606.15902"
+    resource: "https://doi.org/10.48550/arxiv.2606.15902"
+    title: "Seyed Parsa Neshaei, Abhinand Shibu, and Fatma Betül Güres. (2026). The Missing Layer: Why EdTech Needs Design-Time Generative UI, Not Just Runtime Personalization. https://arxiv.org/abs/2606.15902 [doi:10.48550/arxiv.2606.15902](https://doi.org/10.48550/arxiv.2606.15902)"
     author: Seyed Parsa Neshaei, Abhinand Shibu, and Fatma Betül Güres
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Seyed Parsa Neshaei 2026
 
-Seyed Parsa Neshaei, Abhinand Shibu, and Fatma Betül Güres. (2026). The Missing Layer: Why EdTech Needs Design-Time Generative UI, Not Just Runtime Personalization. https://arxiv.org/abs/2606.15902
+Seyed Parsa Neshaei, Abhinand Shibu, and Fatma Betül Güres. (2026). The Missing Layer: Why EdTech Needs Design-Time Generative UI, Not Just Runtime Personalization. https://arxiv.org/abs/2606.15902 [doi:10.48550/arxiv.2606.15902](https://doi.org/10.48550/arxiv.2606.15902)
 
 `q2 · i?` · `theoretical · r2`
 
@@ -43,7 +43,7 @@ The paper's related-work synthesis attributes this conclusion to instructor-faci
 
 
 ## Related Claims
-- [Practitioners hold near-universal commitments to human oversight and critical evaluation of AI outputs](practitioner-oversight-governance-norms.md) — a broader claim this one bears on
+- Practitioners hold near-universal commitments to human oversight and critical evaluation of AI outputs — a broader claim this one bears on
 - [Generative AI-generated hints can be as effective as human-generated hints for mathematics performance, but ensuring accuracy requires validation procedures that discard a substantial share of generated hints](genai-hints-effective-but-require-validation.md) — related
 - [Runtime GenUI adaptation is too late, too costly, and accuracy-risky to be equitable at scale for learners needing non-default representations](runtime-genui-too-late-costly-inequitable.md) — related
 - [MAIC-UI, generating interactive STEM courseware from instructor documents, reported gains in learning agency in classroom deployment (attributed)](maic-ui-learning-agency-gains-attributed.md) — related

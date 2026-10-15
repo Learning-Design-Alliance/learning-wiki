@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: shwetha-singaravelu-2026
-    resource: "https://arxiv.org/abs/2607.23322"
-    title: "Shwetha Singaravelu, Gayathri Muruganantham, Lakshmi Rajendran, Santhosh Sivasubramani. (2026). IKS-Instruct: A 24,000-Example Multilingual Dataset for Teaching Language Models Indian Knowledge Systems. arXiv. https://arxiv.org/abs/2607.23322"
+    resource: "https://doi.org/10.48550/arxiv.2607.23322"
+    title: "Shwetha Singaravelu, Gayathri Muruganantham, Lakshmi Rajendran, Santhosh Sivasubramani. (2026). IKS-Instruct: A 24,000-Example Multilingual Dataset for Teaching Language Models Indian Knowledge Systems. arXiv. https://arxiv.org/abs/2607.23322 [doi:10.48550/arxiv.2607.23322](https://doi.org/10.48550/arxiv.2607.23322)"
     author: Shwetha Singaravelu, Gayathri Muruganantham, Lakshmi Rajendran, Santhosh Sivasubramani
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Shwetha Singaravelu 2026
 
-Shwetha Singaravelu, Gayathri Muruganantham, Lakshmi Rajendran, Santhosh Sivasubramani. (2026). IKS-Instruct: A 24,000-Example Multilingual Dataset for Teaching Language Models Indian Knowledge Systems. arXiv. https://arxiv.org/abs/2607.23322
+Shwetha Singaravelu, Gayathri Muruganantham, Lakshmi Rajendran, Santhosh Sivasubramani. (2026). IKS-Instruct: A 24,000-Example Multilingual Dataset for Teaching Language Models Indian Knowledge Systems. arXiv. https://arxiv.org/abs/2607.23322 [doi:10.48550/arxiv.2607.23322](https://doi.org/10.48550/arxiv.2607.23322)
 
 `q2 · i?` · `design · r3`
 

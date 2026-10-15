@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: noviello-2026
-    resource: "https://arxiv.org/abs/2605.16295"
-    title: "Noviello, Y., Birillo, A., Migut, G. (2026). ANVIL: Analogies and Videos for Lecturers. https://arxiv.org/abs/2605.16295"
+    resource: "https://doi.org/10.48550/arxiv.2605.16295"
+    title: "Noviello, Y., Birillo, A., Migut, G. (2026). ANVIL: Analogies and Videos for Lecturers. https://arxiv.org/abs/2605.16295 [doi:10.48550/arxiv.2605.16295](https://doi.org/10.48550/arxiv.2605.16295)"
     author: Noviello, Y., Birillo, A., Migut, G.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Noviello 2026
 
-Noviello, Y., Birillo, A., Migut, G. (2026). ANVIL: Analogies and Videos for Lecturers. https://arxiv.org/abs/2605.16295
+Noviello, Y., Birillo, A., Migut, G. (2026). ANVIL: Analogies and Videos for Lecturers. https://arxiv.org/abs/2605.16295 [doi:10.48550/arxiv.2605.16295](https://doi.org/10.48550/arxiv.2605.16295)
 
 `q2 · i?` · `qualitative · r2`
 
@@ -45,5 +45,5 @@ Theme 3 of the focus-group thematic analysis, in which educators critiqued ANVIL
 ## Related Claims
 - [CS/SE educators rate ANVIL analogies highly and animations as generally faithful, with disagreement concentrated in borderline and visual-clarity judgments](anvil-educator-ratings-analogy-animation-quality.md) — related
 - [Educators view ANVIL as a creative collaborator requiring instructor control and editability, not an autonomous content creator](anvil-educators-instructor-control-editability.md) — related
-- [The range of multiplatform activity types and multiple representations of NGSS-aligned concepts engaged students with different learning preferences and abilities](multiplatform-activity-range-engaged-diverse-learners.md) — related
+- The range of multiplatform activity types and multiple representations of NGSS-aligned concepts engaged students with different learning preferences and abilities — related
 - [A VLM-based screenplay-to-video fidelity proxy shows scene and element structure are usually preserved while action-level fidelity is the primary failure mode](anvil-video-fidelity-proxy-action-failure.md) — related

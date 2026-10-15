@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Constructing the strongest imaginable objections to one's own argument is, per the author, the hardest CRITO stage because it requires imagining one's own objections and revising accordingly. [→ Johnson 1995](#johnson-1995)

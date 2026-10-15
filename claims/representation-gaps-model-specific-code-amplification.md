@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: sagnik-nath-2026
-    resource: "https://github.com/sagniknath91/HCI-2026-dataset/blob/main/datasheet.csv"
-    title: "Sagnik Nath, Edith Aurora Graf, Liang Zhang and Diego Zapata-Rivera. (2026). Representation Robustness under Executable Reasoning Constraints in Large Language Models for Mathematical Problem Solving. https://github.com/sagniknath91/HCI-2026-dataset/blob/main/datasheet.csv"
+    resource: "https://doi.org/10.1007/978-3-032-30860-3_11"
+    title: "Sagnik Nath, Edith Aurora Graf, Liang Zhang and Diego Zapata-Rivera. (2026). Representation Robustness under Executable Reasoning Constraints in Large Language Models for Mathematical Problem Solving. https://github.com/sagniknath91/HCI-2026-dataset/blob/main/datasheet.csv [doi:10.1007/978-3-032-30860-3_11](https://doi.org/10.1007/978-3-032-30860-3_11)"
     author: Sagnik Nath, Edith Aurora Graf, Liang Zhang and Diego Zapata-Rivera
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Sagnik Nath 2026
 
-Sagnik Nath, Edith Aurora Graf, Liang Zhang and Diego Zapata-Rivera. (2026). Representation Robustness under Executable Reasoning Constraints in Large Language Models for Mathematical Problem Solving. https://github.com/sagniknath91/HCI-2026-dataset/blob/main/datasheet.csv
+Sagnik Nath, Edith Aurora Graf, Liang Zhang and Diego Zapata-Rivera. (2026). Representation Robustness under Executable Reasoning Constraints in Large Language Models for Mathematical Problem Solving. https://github.com/sagniknath91/HCI-2026-dataset/blob/main/datasheet.csv [doi:10.1007/978-3-032-30860-3_11](https://doi.org/10.1007/978-3-032-30860-3_11)
 
 `q2 · i?` · `causal · r2`
 

@@ -17,7 +17,7 @@ sources:
 # Five-agent DPT simulated classroom on a static-friction problem
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 A simulated class of five AI students, each embodying a distinct point of failure in the reasoning process: Davide (Hazards A+B), Elena (Hazard C), Tommaso (Hazard D), Chiara (in transition) and Andrea (a near-expert peer). It runs on an LLM via a Gradio application on Hugging Face Spaces, with personas defined entirely in the system prompt, session reset and one-click export of the anonymised conversation log. Named agents respond, with roughly 30% probability a second agent intervenes, and an open question draws two to four responses.
@@ -38,8 +38,6 @@ A simulated class of five AI students, each embodying a distinct point of failur
 - responding in real time to student reasoning with differentiated questioning strategies
 
 ### Claims
-- [Knowing Doing Gap In Live Questioning](../claims/knowing-doing-gap-in-live-questioning.md) [+M]
-- [Residual Doubt Marker Signals Convergence](../claims/residual-doubt-marker-signals-convergence.md) [+M]
 
 ## Related Designs
 - 

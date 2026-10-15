@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: shuanghong-shen-2021
-    resource: "https://arxiv.org/abs/2105.15106"
-    title: "Shuanghong Shen, Qi Liu, Zhenya Huang, Yonghe Zheng, Minghao Yin, Minjuan Wang, and Enhong Chen. (2021). A Survey of Knowledge Tracing: Models, Variants, and Applications. https://arxiv.org/abs/2105.15106"
+    resource: "https://doi.org/10.48550/arxiv.2105.15106"
+    title: "Shuanghong Shen, Qi Liu, Zhenya Huang, Yonghe Zheng, Minghao Yin, Minjuan Wang, and Enhong Chen. (2021). A Survey of Knowledge Tracing: Models, Variants, and Applications. https://arxiv.org/abs/2105.15106 [doi:10.48550/arxiv.2105.15106](https://doi.org/10.48550/arxiv.2105.15106)"
     author: Shuanghong Shen, Qi Liu, Zhenya Huang, Yonghe Zheng, Minghao Yin, Minjuan Wang, and Enhong Chen
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Shuanghong Shen 2021
 
-Shuanghong Shen, Qi Liu, Zhenya Huang, Yonghe Zheng, Minghao Yin, Minjuan Wang, and Enhong Chen. (2021). A Survey of Knowledge Tracing: Models, Variants, and Applications. https://arxiv.org/abs/2105.15106
+Shuanghong Shen, Qi Liu, Zhenya Huang, Yonghe Zheng, Minghao Yin, Minjuan Wang, and Enhong Chen. (2021). A Survey of Knowledge Tracing: Models, Variants, and Applications. https://arxiv.org/abs/2105.15106 [doi:10.48550/arxiv.2105.15106](https://doi.org/10.48550/arxiv.2105.15106)
 
 `q2 · i?` · `review · r2`
 
@@ -44,4 +44,4 @@ Narrative review attributing this to Pu and Becker: attentive knowledge tracing 
 
 ## Related Claims
 - [Deep Learning Knowledge Tracing Outperforms But Lacks Interpretability](deep-learning-knowledge-tracing-outperforms-but-lacks-interpretability.md)
-- [Replacing concept/skill tags with question identifiers significantly degrades DKT and DKVMN performance, while DynEmb tracks knowledge using pretrained question embeddings instead of tags](dynemb-tracks-knowledge-without-skill-tags.md) — related
+- Replacing concept/skill tags with question identifiers significantly degrades DKT and DKVMN performance, while DynEmb tracks knowledge using pretrained question embeddings instead of tags — related

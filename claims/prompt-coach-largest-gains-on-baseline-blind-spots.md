@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: rohit-mehra-2026
-    resource: "https://arxiv.org/abs/2607.06074"
-    title: "Rohit Mehra, Kapil Singi, Vikrant Kaulgud, Vibhu Saujanya Sharma, Swapnajeet Gon Choudhury, Swati Sharma, Adam P. Burden, Majd Sakr. (2026). Prompt Coach: An Empirical Evaluation of an Agentic Tutor for Learning Prompt Engineering in Software Development. https://arxiv.org/abs/2607.06074"
+    resource: "https://doi.org/10.48550/arxiv.2607.06074"
+    title: "Rohit Mehra, Kapil Singi, Vikrant Kaulgud, Vibhu Saujanya Sharma, Swapnajeet Gon Choudhury, Swati Sharma, Adam P. Burden, Majd Sakr. (2026). Prompt Coach: An Empirical Evaluation of an Agentic Tutor for Learning Prompt Engineering in Software Development. https://arxiv.org/abs/2607.06074 [doi:10.48550/arxiv.2607.06074](https://doi.org/10.48550/arxiv.2607.06074)"
     author: Rohit Mehra, Kapil Singi, Vikrant Kaulgud, Vibhu Saujanya Sharma, Swapnajeet Gon Choudhury, Swati Sharma, Adam P. Burden, Majd Sakr
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Rohit Mehra 2026
 
-Rohit Mehra, Kapil Singi, Vikrant Kaulgud, Vibhu Saujanya Sharma, Swapnajeet Gon Choudhury, Swati Sharma, Adam P. Burden, Majd Sakr. (2026). Prompt Coach: An Empirical Evaluation of an Agentic Tutor for Learning Prompt Engineering in Software Development. https://arxiv.org/abs/2607.06074
+Rohit Mehra, Kapil Singi, Vikrant Kaulgud, Vibhu Saujanya Sharma, Swapnajeet Gon Choudhury, Swati Sharma, Adam P. Burden, Majd Sakr. (2026). Prompt Coach: An Empirical Evaluation of an Agentic Tutor for Learning Prompt Engineering in Software Development. https://arxiv.org/abs/2607.06074 [doi:10.48550/arxiv.2607.06074](https://doi.org/10.48550/arxiv.2607.06074)
 
 `q2 · i?` · `causal · r1`
 
@@ -44,4 +44,4 @@ Dimension-wise results of the 15-developer pre/post study (Table 2): Inclusion o
 
 ## Related Claims
 - [A 60-minute session with Prompt Coach significantly improved professional developers' prompt quality, a 13.73% relative gain overall](prompt-coach-significant-overall-prompt-quality-gain.md) — related
-- [Learning gains were highest for students whose background knowledge was lowest at pre-test](haiti-pilot-highest-gains-lowest-background-knowledge.md) — a broader claim this one bears on
+- Learning gains were highest for students whose background knowledge was lowest at pre-test — a broader claim this one bears on

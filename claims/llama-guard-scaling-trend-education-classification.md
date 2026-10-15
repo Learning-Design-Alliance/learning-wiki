@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: haein-kong-2026
-    resource: "https://arxiv.org/abs/2607.00395"
-    title: "Haein Kong. (2026). Child Safety in Generative AI: An Expert-Guided and Incident-Grounded Evaluation Framework. HEAL@CHI, April 2026, Barcelona. https://arxiv.org/abs/2607.00395"
+    resource: "https://doi.org/10.48550/arxiv.2607.00395"
+    title: "Haein Kong. (2026). Child Safety in Generative AI: An Expert-Guided and Incident-Grounded Evaluation Framework. HEAL@CHI, April 2026, Barcelona. https://arxiv.org/abs/2607.00395 [doi:10.48550/arxiv.2607.00395](https://doi.org/10.48550/arxiv.2607.00395)"
     author: Haein Kong
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Haein Kong 2026
 
-Haein Kong. (2026). Child Safety in Generative AI: An Expert-Guided and Incident-Grounded Evaluation Framework. HEAL@CHI, April 2026, Barcelona. https://arxiv.org/abs/2607.00395
+Haein Kong. (2026). Child Safety in Generative AI: An Expert-Guided and Incident-Grounded Evaluation Framework. HEAL@CHI, April 2026, Barcelona. https://arxiv.org/abs/2607.00395 [doi:10.48550/arxiv.2607.00395](https://doi.org/10.48550/arxiv.2607.00395)
 
 `q2 · i?` · `design · r2`
 

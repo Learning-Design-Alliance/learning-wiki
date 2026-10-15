@@ -62,8 +62,8 @@ Subgroup comparison by school racial composition reported in the key findings, s
 
 
 ## Related Claims
-- [Funding is a top procurement challenge for districts, and many districts treat learning technology as a supplemental purchase rather than part of core curriculum budgets](funding-top-edtech-procurement-challenge.md) — related
+- Funding is a top procurement challenge for districts, and many districts treat learning technology as a supplemental purchase rather than part of core curriculum budgets — related
 - [Most teachers and principals reported satisfaction with professional opportunities, school environment, and the TIF program](tif-most-educators-satisfied.md) — related
-- [Most coaches rate their professional development as effective, and administrators describe it as tailored, timely, and multi-year](coach-professional-development-perceived-effective.md) — related
+- Most coaches rate their professional development as effective, and administrators describe it as tailored, timely, and multi-year — related
 - [Most U.S. elementary school principals report access to professional development content identified as important for building leadership capacity](principals-access-pd-content-leadership-capacity.md) — related
 - [Far fewer elementary principals participate in authentic, job-embedded professional learning than have access to professional development content](principals-lack-authentic-job-embedded-learning.md) — related

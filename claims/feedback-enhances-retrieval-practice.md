@@ -114,7 +114,7 @@ Pashler, H., Cepeda, N. J., Wixted, J. T., & Rohrer, D. (2005). When does feedba
 - [High-confidence errors lead to better retention after correction than low-confidence errors.](high-confidence-errors-improve-retention.md) — related
 - [Overt correction of errors speeds young children's learning compared with knowledge of correctness alone](overt-error-correction-speeds-young-children-learning.md) — related
 - [Guiding analytics for learners can improve mathematics achievement, retention, learning strategies, and reduce math anxiety](guiding-analytics-improves-achievement-and-strategies.md) — related
-- [Retrieval practice strengthens memory and produces stronger, more enduring learning](retrieval-practice-strengthens-memory.md) — a broader claim this one bears on
+- Retrieval practice strengthens memory and produces stronger, more enduring learning — a broader claim this one bears on
 - [Timely feedback on homework increases learning, and computer platforms providing immediate feedback help teachers adapt](timely-feedback-improves-homework-learning.md) — related
 - [Struggling to encode, retrieve, and reorganize information produces deeper comprehension and retention, and AI-supplied ready-made solutions short-circuit these processes](ai-removing-struggle-short-circuits-desirable-difficulties.md) — related
 - [Classroom testing (quizzing) significantly boosts student academic achievement to a medium extent (g = 0.499).](classroom-quizzing-medium-effect-achievement.md) — related

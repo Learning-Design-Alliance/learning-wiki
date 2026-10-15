@@ -17,7 +17,7 @@ sources:
 # Assess early development with sequential ordinal scales that disentangle development from age
 
 > **Design Method** · [All design methods](index.md)
-> **Evidence** · 6 claims (6 for) · 1 study (1 review), `q2` · 1 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Hunt recommends sequential ordinal scales, inspired by Piaget's observations, as an alternative to norm-referenced mental-age and IQ metrics. Because such scales "mak[e] no assumption of automatic developmental progress with time," they disentangle psychological development from age, permitting age to be used as a dependent variable for assessing the development-fostering impact of environmental conditions. Hunt presents them as tools for investigating plasticity, the experiential bases of each developmental line, and cognitive-affective relations.
@@ -38,12 +38,7 @@ Hunt recommends sequential ordinal scales, inspired by Piaget's observations, as
 
 ### Claims
 
-- [Rearing Conditions Shift Object Construction Ages](../claims/rearing-conditions-shift-object-construction-ages.md) [+M]
-- [Interventions Hasten One Line Not Others](../claims/interventions-hasten-one-line-not-others.md) [+M]
 - [Norm-referenced mental-age and IQ metrics distract investigators from the structural and hierarchical aspects of developing abilities](../claims/norm-referenced-metrics-hide-structural-development.md) [+W]
-- [Advances in object construction lead advances in other developmental lines when steps anchor the comparison](../claims/object-construction-leads-other-lines.md) [+W]
-- [An enrichment program advanced poverty-sector infants in object construction ahead of middle-class infants](../claims/mt-carmel-enrichment-advances-object-construction.md) [+W]
-- [Scale scores for object construction and imitation intercorrelate highly in the Greek sample](../claims/greek-scale-intercorrelations-high.md) [+W]
 
 ## Related Principles
 - 

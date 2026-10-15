@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: peter-z-schochet-2011
-    resource: "https://www.mathematica.org/publications/ja-do-typical-rcts-of-education-interventions-have-sufficient-statistical-power-for-linking-impacts"
-    title: "Peter Z. Schochet. (2011). Do Typical RCTs of Education Interventions Have Sufficient Statistical Power for Linking Impacts on Teacher Practice and Student Achievement Outcomes? Journal of Educational and Behavioral Statistics, vol. 36, no. 4. https://www.mathematica.org/publications/ja-do-typical-rcts-of-education-interventions-have-sufficient-statistical-power-for-linking-impacts"
+    resource: "https://doi.org/10.3102/1076998610375840"
+    title: "Peter Z. Schochet. (2011). Do Typical RCTs of Education Interventions Have Sufficient Statistical Power for Linking Impacts on Teacher Practice and Student Achievement Outcomes? Journal of Educational and Behavioral Statistics, vol. 36, no. 4. https://www.mathematica.org/publications/ja-do-typical-rcts-of-education-interventions-have-sufficient-statistical-power-for-linking-impacts [doi:10.3102/1076998610375840](https://doi.org/10.3102/1076998610375840)"
     author: Peter Z. Schochet
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Peter Z. Schochet 2011
 
-Peter Z. Schochet. (2011). Do Typical RCTs of Education Interventions Have Sufficient Statistical Power for Linking Impacts on Teacher Practice and Student Achievement Outcomes? Journal of Educational and Behavioral Statistics, vol. 36, no. 4. https://www.mathematica.org/publications/ja-do-typical-rcts-of-education-interventions-have-sufficient-statistical-power-for-linking-impacts
+Peter Z. Schochet. (2011). Do Typical RCTs of Education Interventions Have Sufficient Statistical Power for Linking Impacts on Teacher Practice and Student Achievement Outcomes? Journal of Educational and Behavioral Statistics, vol. 36, no. 4. https://www.mathematica.org/publications/ja-do-typical-rcts-of-education-interventions-have-sufficient-statistical-power-for-linking-impacts [doi:10.3102/1076998610375840](https://doi.org/10.3102/1076998610375840)
 
 `q2 · i?` · `theoretical · r2`
 

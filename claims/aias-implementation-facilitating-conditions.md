@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: perkins-2026
-    resource: "https://arxiv.org/abs/2606.26729"
-    title: "Perkins, M., Postma, D., Roe, J., Sisay, S., & Holdcroft, C. (2026). 'A bit of chaos and madness': The AI Assessment Scale and the work of assessment reform. Preprint. https://arxiv.org/abs/2606.26729"
+    resource: "https://doi.org/10.48550/arxiv.2606.26729"
+    title: "Perkins, M., Postma, D., Roe, J., Sisay, S., & Holdcroft, C. (2026). 'A bit of chaos and madness': The AI Assessment Scale and the work of assessment reform. Preprint. https://arxiv.org/abs/2606.26729 [doi:10.48550/arxiv.2606.26729](https://doi.org/10.48550/arxiv.2606.26729)"
     author: "Perkins, M., Postma, D., Roe, J., Sisay, S., & Holdcroft, C."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Perkins 2026
 
-Perkins, M., Postma, D., Roe, J., Sisay, S., & Holdcroft, C. (2026). 'A bit of chaos and madness': The AI Assessment Scale and the work of assessment reform. Preprint. https://arxiv.org/abs/2606.26729
+Perkins, M., Postma, D., Roe, J., Sisay, S., & Holdcroft, C. (2026). 'A bit of chaos and madness': The AI Assessment Scale and the work of assessment reform. Preprint. https://arxiv.org/abs/2606.26729 [doi:10.48550/arxiv.2606.26729](https://doi.org/10.48550/arxiv.2606.26729)
 
 `q2 · i?` · `qualitative · r3`
 
@@ -49,7 +49,7 @@ Theme 2 of the hybrid thematic analysis of five focus groups. Staff reported mar
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
 - [Retrofitting an AIAS level to an unchanged assessment task creates a validity risk in which the assessment measures use of the scale rather than intended learning outcomes](aias-retrofit-validity-risk-compliance-layer.md) — related
 - [Multi-institutional case study analysis of five Australian higher education institutions revealed a lack of governance-level information on student assessment and integrity](case-study-reveals-lack-assessment-integrity-information.md) — related
-- [Australian university policy environments yield mostly restrictive or indeterminate GenAI classifications, with no combination clearly permitted](genai-policy-vignettes-mostly-restrictive-indeterminate.md) — related
+- Australian university policy environments yield mostly restrictive or indeterminate GenAI classifications, with no combination clearly permitted — related
 - [Perceived policy clarity amplifies both the protective association of reflective use and the risk association of unreflective use with impostor syndrome](policy-clarity-amplifies-use-style-effects.md) — related
 - [Assessment validity is a deeper problem than AI-output detection, and disallowed use clusters with time pressure and unclear expectations](assessment-validity-over-detection.md) — related
 - [Open questions for learnity graphs include validation, legitimacy, grading avoidance, algorithmic guidance balance, and privacy](learnity-graph-open-questions.md) — related

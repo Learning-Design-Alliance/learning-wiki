@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i1` small
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i1` Students using short CSOs scored significantly higher on 40-item multiple-choice posttests than students using long CSOs, with means separated by 1.50 points. [→ Furukawa 1978](#furukawa-1978)

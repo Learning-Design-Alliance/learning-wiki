@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: sidney-shapiro-and-joshua-lindemann-2026
-    resource: "https://arxiv.org/abs/2610.02510"
-    title: "Sidney Shapiro and Joshua Lindemann. (2026). On-Premises Multi-Course RAG Tutoring for Business Education: Hardware–Software Trade-offs in a Campus AI Tutor. arXiv. https://arxiv.org/abs/2610.02510"
+    resource: "https://doi.org/10.48550/arxiv.2610.02510"
+    title: "Sidney Shapiro and Joshua Lindemann. (2026). On-Premises Multi-Course RAG Tutoring for Business Education: Hardware–Software Trade-offs in a Campus AI Tutor. arXiv. https://arxiv.org/abs/2610.02510 [doi:10.48550/arxiv.2610.02510](https://doi.org/10.48550/arxiv.2610.02510)"
     author: Sidney Shapiro and Joshua Lindemann
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Qwen 7B and Mistral Nemo 12B passed the classroom speed gate in round 2 and were retained as candidates pending faculty review
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r3` · `q2`
+> **Evidence** · 2 studies · 2 design `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Qwen 7B and Mistral Nemo 12B both passed 12/12 probes with latency ratios of 1.01 and 1.24, and Qwen completeness was 0.93 versus 0.91 for 8B. [→ Sidney Shapiro and Joshua Lindemann 2026](#sidney-shapiro-and-joshua-lindemann-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Sidney Shapiro and Joshua Lindemann 2026
 
-Sidney Shapiro and Joshua Lindemann. (2026). On-Premises Multi-Course RAG Tutoring for Business Education: Hardware–Software Trade-offs in a Campus AI Tutor. arXiv. https://arxiv.org/abs/2610.02510
+Sidney Shapiro and Joshua Lindemann. (2026). On-Premises Multi-Course RAG Tutoring for Business Education: Hardware–Software Trade-offs in a Campus AI Tutor. arXiv. https://arxiv.org/abs/2610.02510 [doi:10.48550/arxiv.2610.02510](https://doi.org/10.48550/arxiv.2610.02510)
 
 `q2 · i?` · `design · r3`
 

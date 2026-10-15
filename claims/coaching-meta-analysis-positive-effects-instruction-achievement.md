@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q3 i?` Coaching programs show large positive effects on teachers' instructional practice and a meaningful positive impact on student achievement per the first meta-analysis of causal coaching studies. [→ Tina Ehsanipour & Florencia Gomez Zaccarelli 2017](#tina-ehsanipour-florencia-gomez-zaccarelli-2017)

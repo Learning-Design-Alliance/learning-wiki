@@ -16,7 +16,7 @@ sources:
 # Hanvey's attainable global perspective: four components of global awareness
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The bibliography annotates Robert G. Hanvey's ATTAINABLE GLOBAL PERSPECTIVE (Center for Global Perspectives, 1979) as an effort to define global perspective through four components. The annotation reads: "An effort to define global perspective as having a 'state of the planet' awareness, cross cultural awareness, knowledge of global dynamics, and awareness of numan choice." This framework gives educators a vocabulary for the dimensions of global perspective that materials for K-8 programs can target.
@@ -38,9 +38,6 @@ The bibliography annotates Robert G. Hanvey's ATTAINABLE GLOBAL PERSPECTIVE (Cen
 
 ### Claims
 
-- [Understanding technical world conditions such as stratospheric ozone depletion requires a level of education most publics lack](../claims/technical-world-data-require-education.md) [+W]
-- [Contact between societies does not by itself produce cross-cultural understanding](../claims/contact-does-not-yield-understanding.md) [+W]
-- [Event-centered news media limit and distort public perception of long-term world phenomena](../claims/event-centered-media-distort-perception.md) [+W]
 
 ## Related Theories
 

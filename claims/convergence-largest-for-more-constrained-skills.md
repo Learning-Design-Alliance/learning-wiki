@@ -48,4 +48,4 @@ The study of pre-K graduates and nonattenders (n = 2,581) reports that "converge
 - [Pre-K graduates outperform nonattending peers in achievement and executive functioning at the end of kindergarten](pre-k-graduates-outperform-nonattenders-end-of-kindergarten.md) — related
 - [Kindergarten convergence is not attributable to pre-K children's kindergarten classroom experiences but is attributable to preexisting individual differences](convergence-attributable-to-preexisting-differences-not-kindergarten-classrooms.md) — related
 - [Pre-K benefits were studied among children from low-income homes in a large and diverse county (n = 2,581)](pre-k-benefits-study-low-income-county-sample-2581.md) — related
-- [Curiosity Corner shows significant positive kindergarten follow-up effects on early reading and letter-word identification, averaging +0.27](curiosity-corner-kindergarten-follow-up-effects.md) — related
+- Curiosity Corner shows significant positive kindergarten follow-up effects on early reading and letter-word identification, averaging +0.27 — related

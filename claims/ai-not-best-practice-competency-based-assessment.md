@@ -22,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` The authors state that using AI for competency-based assessments is currently not best practice because AI lacks contextual understanding and subject-matter expertise, limiting it to pattern recognition and statistical analysis. [→ ai-1](#ai-1)

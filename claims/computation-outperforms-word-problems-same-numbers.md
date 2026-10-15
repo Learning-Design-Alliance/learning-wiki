@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Students scored significantly better on computation tests than on word problem pre-tests that used the same numbers and operations. [→ Stein 1998](#stein-1998)

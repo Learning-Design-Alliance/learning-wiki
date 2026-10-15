@@ -39,7 +39,7 @@ sources:
 # Learner Variability Project
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 20 claims (19 for, 1 mixed) · 7 studies (2 qualitative, 2 design, 1 review, 1 associational, 1 theoretical), `q1`–`q2` · 0 of 7 report an effect size · 20 claims rest on one study
+> **Evidence** · 15 claims (14 for, 1 mixed) · 5 studies (2 qualitative, 2 design, 1 associational), `q1`–`q2` · 0 of 5 report an effect size · 15 claims rest on one study
 
 ## Description
 The Learner Variability Project, developed by Digital Promise, provides the Learner Variability Navigator web app and related research-based tools to help educators understand learner differences and select strategies.
@@ -66,11 +66,6 @@ The Learner Variability Project, developed by Digital Promise, provides the Lear
 - [Time to plan, more than tools or training, was the largest reported barrier to implementing LVN strategies](../claims/time-biggest-barrier-strategy-implementation.md) [~W]
 - [Classroom teachers rarely consult research when making decisions about their classroom practices, citing time constraints, the vastness of research, paywalls, and perceived distance from practice](../claims/teachers-rarely-consult-research-decision-making.md) [+W]
 - [In the Learner Variability Navigator case, feedback loops across multiple partners generated an output of need that the authors say simple surveys may not have produced](../claims/lvn-generator-feedback-loop-case.md) [+W]
-- [Working memory is a strong predictor of decoding skills](../claims/working-memory-strong-predictor-decoding.md) [+W]
-- [Bilingual children acquire vocabulary and syntax in each language more slowly than monolingual children, yet show cognitive advantages and can match or surpass monolingual peers with support](../claims/bilingual-vocabulary-syntax-slower-with-cognitive-advantages.md) [+W]
-- [Students with lower Attention skills struggle to learn Alphabet Knowledge and Phonological Awareness, both important for Decoding](../claims/low-attention-hinders-alphabet-knowledge-phonological-awareness.md) [+W]
-- [Reading development proceeds from oral language through decoding and fluency to comprehension, but as an interwoven lattice rather than a simple linear process](../claims/reading-development-interwoven-lattice-not-linear.md) [+W]
-- [Implementing specific SEL curricula can improve academic performance, including learning to read](../claims/sel-curricula-improve-academic-performance.md) [+W]
 - [In the district study, teachers assigned articles above students' STAR Lexile levels (about 375 points higher on average), and greater STAR growth related to completing more, harder, and more accurate ReadWorks assignments](../claims/readworks-assignment-difficulty-growth-association.md) [+W]
 - [Changing the audio default from opt-in to opt-out raised audio availability from 72% to 99% of assignments and student audio use from 68% to 84%](../claims/readworks-audio-default-change-increased-use.md) [+W]
 - [Feature use related to a slight increase in multiple choice accuracy, larger for lower-Lexile students and for easier articles](../claims/readworks-feature-use-accuracy-gains.md) [+W]
@@ -257,7 +252,6 @@ Digital Promise Global's Learner Positioning Systems (LPS) initiative aims to bu
 - Improving the personalization of teaching practices and product designs to support learner variability
 
 ### Claims
-- [Working Memory Strong Predictor Decoding](../claims/working-memory-strong-predictor-decoding.md) [+M]
 
 ## Related Theories
 
@@ -397,10 +391,6 @@ The Learner Positioning Systems K-3 Reading Learner Model is a framework synthes
 
 ### Claims
 
-- [Bilingual children acquire vocabulary and syntax in each language more slowly than monolingual children, yet show cognitive advantages and can match or surpass monolingual peers with support](../claims/bilingual-vocabulary-syntax-slower-with-cognitive-advantages.md) [+W]
-- [Students with lower Attention skills struggle to learn Alphabet Knowledge and Phonological Awareness, both important for Decoding](../claims/low-attention-hinders-alphabet-knowledge-phonological-awareness.md) [+W]
-- [Reading development proceeds from oral language through decoding and fluency to comprehension, but as an interwoven lattice rather than a simple linear process](../claims/reading-development-interwoven-lattice-not-linear.md) [+W]
-- [Implementing specific SEL curricula can improve academic performance, including learning to read](../claims/sel-curricula-improve-academic-performance.md) [+W]
 
 ## Related Theories
 

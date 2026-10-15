@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Students answering questions such as 'How did the cotton gin affect the spread of slavery?' must infer causal links that the textbook does not state explicitly. [→ Armbruster 1984](#armbruster-1984)
@@ -43,7 +44,7 @@ The authors' analysis of a worked example (cotton gin and spread of slavery) sho
 
 
 ## Related Claims
-- [Students typically receive little or no instruction in how to analyze, answer, and write answers to questions](little-instruction-in-answering-questions.md) — related
+- Students typically receive little or no instruction in how to analyze, answer, and write answers to questions — related
 - [Generative Learning Improves Retention](generative-processing-improves-learning.md) — related
 - [Elaborative Interrogation Improves Learning](elaborative-interrogation-improves-learning.md) — related
 - [Fifth-grade history textbook excerpts largely fail to answer the frame slot questions, presenting detailed action but missing main ideas](history-textbooks-lack-explanatory-structure.md) — related

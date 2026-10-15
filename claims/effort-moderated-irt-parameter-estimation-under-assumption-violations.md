@@ -41,5 +41,5 @@ A conference presentation by Soland and Rios at the 2020 NCME virtual conference
 
 
 ## Related Claims
-- [Ability-distribution mismatch with the TESTFACT default does not significantly affect item difficulty estimates but slightly improves discrimination estimates](ability-distribution-mismatch-mirt-estimates.md) — related
+- Ability-distribution mismatch with the TESTFACT default does not significantly affect item difficulty estimates but slightly improves discrimination estimates — related
 - [Current measurement models underlying achievement testing assume students respond effortfully to test items](measurement-models-assume-effortful-responding.md) — related

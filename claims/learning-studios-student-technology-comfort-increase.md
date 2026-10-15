@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Student comfort using the Sprout computer and 3D printer, teaching others the technology, and troubleshooting technology issues increased significantly over the pilot year. [→ Student Growth through Design-Centered Learning: Report from the Learning Studios Pilot 2017](#student-growth-through-design-centered-learning-report-from-the-learning-studios-pilot-2017)
@@ -46,8 +47,8 @@ Exploratory pilot-year research in the Learning Studios using pre/post/follow-up
 - [Digital Literacy](../learner-variables/digital-literacy.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Learning Studio participation was associated with stronger maker/designer identity and design-related confidence](learning-studios-maker-identity-confidence-gains.md) — related
+- Learning Studio participation was associated with stronger maker/designer identity and design-related confidence — related
 - [More time with coaches was significantly associated with better teaching outcomes and higher teacher self-reported technological proficiency](vils-coach-time-associated-better-teaching-outcomes.md) — related
 - [Self-reported average level of technology use rose across three administrations of the LoA survey, though not for every technology](loa-pilot-self-reported-increase-all-20-technologies.md) — related
 - [Educators reported large increases in comfort leveraging their knowledge of the topics to share with peer educators](edcamp-dfl-comfort-sharing-with-peers.md) — related
-- [Baseline survey found only about 35% of teachers felt all their students were comfortable with technology, while 85% wanted more technology-training](haiti-pilot-baseline-teacher-technology-survey.md) — related
+- Baseline survey found only about 35% of teachers felt all their students were comfortable with technology, while 85% wanted more technology-training — related

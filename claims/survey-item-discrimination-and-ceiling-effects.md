@@ -63,6 +63,6 @@ The same item analysis found all item means exceeded 3, with some above 4. The a
 
 ## Related Claims
 - [The full 32-item computing career intentions survey shows very good internal consistency (alpha = 0.94) in a large-scale field test](full-survey-internal-consistency-alpha-094.md) — related
-- [Correlations between estimated and true scores diminish over time mainly with easy items, especially with a true slope of .5 and only four items, likely due to ceiling effects](score-true-correlations-diminish-easy-items-ceiling.md) — related
-- [Evidence for collaboration and communication growth was positive but limited by ceiling effects, while design-thinking growth was mixed](learning-studios-collaboration-design-thinking-mixed.md) — related
+- Correlations between estimated and true scores diminish over time mainly with easy items, especially with a true slope of .5 and only four items, likely due to ceiling effects — related
+- Evidence for collaboration and communication growth was positive but limited by ceiling effects, while design-thinking growth was mixed — related
 - [Negative affective experience items were dropped due to floor effects and poor discrimination](negative-affect-items-floor-effect-removed.md) — related

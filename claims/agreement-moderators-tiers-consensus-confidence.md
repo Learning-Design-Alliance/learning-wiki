@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: liu-2026
-    resource: "https://arxiv.org/abs/2607.28890"
-    title: "Liu, A., Esbenshade, L., Xiao, M., Tian, V., Zhang, Z., He, K., & Sun, M. (2026). Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground Truth. Preprint, no identifier printed in text. https://arxiv.org/abs/2607.28890"
+    resource: "https://doi.org/10.48550/arxiv.2607.28890"
+    title: "Liu, A., Esbenshade, L., Xiao, M., Tian, V., Zhang, Z., He, K., & Sun, M. (2026). Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground Truth. Preprint, no identifier printed in text. https://arxiv.org/abs/2607.28890 [doi:10.48550/arxiv.2607.28890](https://doi.org/10.48550/arxiv.2607.28890)"
     author: "Liu, A., Esbenshade, L., Xiao, M., Tian, V., Zhang, Z., He, K., & Sun, M."
     q: 2
     i: "?"
@@ -38,7 +38,7 @@ sources:
 # Human-LLM agreement is moderated by code properties, multi-model consensus, and model-reported confidence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · design `r2` · `q2` · `i1` small
+> **Evidence** · 2 studies (3 entries) · 1 associational `r2`, 1 design `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i?` The 72 codes stratify into three agreement tiers: surface-identifiable codes exceed 0.4 Jaccard, inference-dependent codes fall below 0.2, with high-frequency codes such as Non-Educational at 0.05. [→ Liu 2026](#liu-2026)
@@ -49,7 +49,7 @@ sources:
 
 ### Liu 2026
 
-Liu, A., Esbenshade, L., Xiao, M., Tian, V., Zhang, Z., He, K., & Sun, M. (2026). Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground Truth. Preprint, no identifier printed in text. https://arxiv.org/abs/2607.28890
+Liu, A., Esbenshade, L., Xiao, M., Tian, V., Zhang, Z., He, K., & Sun, M. (2026). Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground Truth. Preprint, no identifier printed in text. https://arxiv.org/abs/2607.28890 [doi:10.48550/arxiv.2607.28890](https://doi.org/10.48550/arxiv.2607.28890)
 
 `q2 · i?` · `design · r2`
 
@@ -83,10 +83,10 @@ Confidence-bin analysis with identical bins for every model (Figure 2). Pooled a
 ## Related Claims
 - [Human-LLM agreement on a complex multi-label codebook falls well below human-human agreement, while LLM-LLM agreement is comparable to human-human agreement](human-llm-agreement-gap-jaccard.md) — related
 - [In blind verification, model selection matters more than source type: Bradley-Terry ranking interleaves human coders and LLMs, with per-model win rates spanning significant human advantage to numerical LLM advantage](bradley-terry-model-selection-matters-more-than-source-type.md) — related
-- [LLM choice significantly influences human-AI coding correspondence, with Claude Sonnet 4 performing best and GPT 4.1 Mini worst](llm-choice-affects-human-ai-coding-correspondence.md) — related
+- LLM choice significantly influences human-AI coding correspondence, with Claude Sonnet 4 performing best and GPT 4.1 Mini worst — related
 - [Human-LLM agreement remains low across constructs (κ = 0.000 to 0.419), with self-efficacy showing the best alignment and Prior KSAs none](human-llm-agreement-low-construct-varying.md) — related
 - [AI-teacher diagnostic agreement was higher in the Diagnostic Review class and varied by issue type, with local language issues best diagnosed](ai-teacher-agreement-issue-type-variation.md) — related
 - [The LLM observation function's per-answer mastery evidence correlates with true mastery at r = 0.68 pooled, but only r ≈ 0.15 within the weak tier, making it least reliable for low-ability learners](collearn-observation-function-within-tier-reliability.md) — related
-- [Systematic human coding added five codes the LLM-assisted phases had not surfaced, extending the codebook from 67 to 72 items and 18 to 19 categories](human-coding-added-five-codes-llm-missed.md) — related
+- Systematic human coding added five codes the LLM-assisted phases had not surfaced, extending the codebook from 67 to 72 items and 18 to 19 categories — related
 - Multi-label intercoder agreement measured by Jaccard similarity reached a mean pairwise 0.52 at item level, with agreement rising at coarser granularity — related
 - [A multimodal LLM achieves moderate-to-substantial agreement with human consensus on well-defined CT practices but lower agreement on multi-component constructs like Physics Correctness and Systems Thinking](llm-human-agreement-ct-practices.md) — related

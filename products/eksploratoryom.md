@@ -18,7 +18,7 @@ sources:
 # Eksploratoryòm
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Eksploratoryòm is Suzanne Cole et al.'s Haitian Creole digital science curriculum for early-grade learners, using story-based, culturally relevant interactive lessons that integrate STEM, literacy, and social-emotional learning.
@@ -27,8 +27,6 @@ Eksploratoryòm is Suzanne Cole et al.'s Haitian Creole digital science curricul
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Learning gains were highest for students whose background knowledge was lowest at pre-test](../claims/haiti-pilot-highest-gains-lowest-background-knowledge.md) [+W]
-- [Teachers and school directors were uniformly satisfied with digital content training, and coaches observed 96% fidelity in blended-learning implementation](../claims/haiti-pilot-training-satisfaction-96-fidelity.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -64,8 +62,6 @@ Eksploratoryòm is the project's digital science content for early grade learner
 
 ## Claims
 
-- [Learning gains were highest for students whose background knowledge was lowest at pre-test](../claims/haiti-pilot-highest-gains-lowest-background-knowledge.md) [+W]
-- [Teachers and school directors were uniformly satisfied with digital content training, and coaches observed 96% fidelity in blended-learning implementation](../claims/haiti-pilot-training-satisfaction-96-fidelity.md) [+W]
 
 ## Related Elements
 

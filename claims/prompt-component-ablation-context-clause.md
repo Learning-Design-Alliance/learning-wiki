@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: hongrui-bao-2026
-    resource: "https://arxiv.org/abs/2608.05741"
-    title: "Hongrui Bao, Yubing Ren, Jinhan You, Fang Fang, Shi Wang, Yanan Cao. (2026). ONCE A RESPONSE, ALWAYS A RESPONSE: DETECTING LLM-GENERATED TEXT VIA LATENT PROMPT RESTORATION. arXiv preprint. https://arxiv.org/abs/2608.05741"
+    resource: "https://doi.org/10.48550/arxiv.2608.05741"
+    title: "Hongrui Bao, Yubing Ren, Jinhan You, Fang Fang, Shi Wang, Yanan Cao. (2026). ONCE A RESPONSE, ALWAYS A RESPONSE: DETECTING LLM-GENERATED TEXT VIA LATENT PROMPT RESTORATION. arXiv preprint. https://arxiv.org/abs/2608.05741 [doi:10.48550/arxiv.2608.05741](https://doi.org/10.48550/arxiv.2608.05741)"
     author: Hongrui Bao, Yubing Ren, Jinhan You, Fang Fang, Shi Wang, Yanan Cao
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Hongrui Bao 2026
 
-Hongrui Bao, Yubing Ren, Jinhan You, Fang Fang, Shi Wang, Yanan Cao. (2026). ONCE A RESPONSE, ALWAYS A RESPONSE: DETECTING LLM-GENERATED TEXT VIA LATENT PROMPT RESTORATION. arXiv preprint. https://arxiv.org/abs/2608.05741
+Hongrui Bao, Yubing Ren, Jinhan You, Fang Fang, Shi Wang, Yanan Cao. (2026). ONCE A RESPONSE, ALWAYS A RESPONSE: DETECTING LLM-GENERATED TEXT VIA LATENT PROMPT RESTORATION. arXiv preprint. https://arxiv.org/abs/2608.05741 [doi:10.48550/arxiv.2608.05741](https://doi.org/10.48550/arxiv.2608.05741)
 
 `q2 · i?` · `causal · r2`
 

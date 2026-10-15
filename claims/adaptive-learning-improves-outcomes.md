@@ -70,7 +70,7 @@ A meta-analysis of 50 controlled evaluations of intelligent computer tutoring sy
 | [Ma et al. 2014](https://doi.org/10.1037/a0037123) | q4 · quant-synthesis · r2 | i2 · medium effect, g=0.42 vs teacher-led large-group instruction | this claim |
 | [Kulik & Fletcher 2016](https://doi.org/10.3102/0034654315581420) | q4 · quant-synthesis · r? | i2 · medium effect, median 0.66 SD | this claim |
 | [Feng Z and Huang K 2026](https://doi.org/10.3389/fpsyg.2026.1879982) | q3 · causal · r2 | i3; i2 | [In a randomized experiment, personalized paths reduced learning time by 22.0% and improved](personalized-paths-experiment-outcomes.md) (supports); [Personalized paths reduced self-reported cognitive load on all six adapted NASA-TLX dimens](personalized-paths-lower-cognitive-load.md) (supports) |
-| Tithi 2026 | q3 · causal · r2 | i? | [Adaptive scaffolding policies (BKT and DRL) significantly improve posttest performance ove](adaptive-icap-scaffolding-improves-posttest-logic-tutor.md) (supports) |
+| [Tithi 2026](https://doi.org/10.48550/arxiv.2602.07308) | q3 · causal · r2 | i? | [Adaptive scaffolding policies (BKT and DRL) significantly improve posttest performance ove](adaptive-icap-scaffolding-improves-posttest-logic-tutor.md) (supports) |
 | Digital Promise 2015 | q3 · causal · r? | i? | [A multi-site randomized controlled trial found Woot Math's adaptivity contributed signific](woot-math-rct-adaptivity-significant-effects.md) (supports) |
 | [Ikram M 2026](https://doi.org/10.3389/feduc.2026.1782626) | q2 · review · r2 | i2 | [Meta-analytic evidence reviewed reports medium-to-large positive effects of AI-enabled ada](ai-adaptive-learning-medium-large-effects-reviewed.md) (supports) |
 | [Simon Baradziej 2026](https://doi.org/10.1016/j.ssaho.2026.103418) | q2 · review · r3 | i? | [Adaptive learning systems report academic performance gains of 15–25% and engagement incre](adaptive-learning-gains-15-25-percent.md) (supports) |
@@ -104,12 +104,12 @@ A meta-analysis of 50 controlled evaluations of intelligent computer tutoring sy
 - [The survey reports, citing Lee and Brunskill, that individualized BKT in an intelligent tutoring system reduced by about half the questions required for 20% of students to achieve mastery.](individualized-bkt-reduces-questions-needed-for-mastery.md) — related
 - [Peer Tutoring Improves Achievement](peer-tutoring-improves-achievement.md) — related
 - [Scaffolding improves learning](scaffolding-improves-learning.md) — related
-- [Early objective and subjective feedback helps evaluate program effectiveness and prevents small problems from growing](early-objective-subjective-feedback-program-effectiveness.md) — related
+- Early objective and subjective feedback helps evaluate program effectiveness and prevents small problems from growing — related
 - [The survey reports, citing Long and Aleven, that students who used DragonBox enjoyed the experience more, while students who used the Lynnette intelligent tutoring system performed significantly better on the test.](intelligent-tutor-lynnette-outperformed-dragonbox-on-test.md) — related
 - [Mastery Learning Improves Outcomes](mastery-learning-improves-outcomes.md) — related
 - [The measured advantage of computer-based instruction over conventional teaching shrinks when the same teacher teaches both versions](cbi-advantage-shrinks-same-teacher-comparisons.md) — related
 - [System compensation as implemented is not a satisfactory adaptive variable](system-compensation-unsatisfactory-adaptive-variable.md) — related
-- [Strategic speeded practice outperformed strategic non-speeded practice within Galaxy Math, with a +0.57 effect size for the disseminated speeded version](galaxy-math-speeded-practice-advantage.md) — related
+- Strategic speeded practice outperformed strategic non-speeded practice within Galaxy Math, with a +0.57 effect size for the disseminated speeded version — related
 - [Platform-enabled experimentation research draws on multiple intellectual lineages, including intelligent tutoring systems, formative feedback, and exemplar platforms like ASSISTments](multiple-intellectual-lineages-shared-foundations.md) — related
 - [An intelligent reading tutor used 20 minutes a day offered time efficiencies over conventional human tutoring of 30 or more minutes a day](intelligent-reading-tutor-time-efficiency-over-human-tutoring.md) — related
 - [Adaptive scaffolding policies (BKT and DRL) significantly improve posttest performance over a non-adaptive control in a logic ITS](adaptive-icap-scaffolding-improves-posttest-logic-tutor.md) — a narrower finding that bears on this claim

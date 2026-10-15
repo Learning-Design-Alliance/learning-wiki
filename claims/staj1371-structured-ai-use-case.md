@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: binkowski-2026
-    resource: "https://arxiv.org/abs/2605.07056"
-    title: "Binkowski, K. P., & Hopkins, A. (2026). The University AI Didn't Replace: Rethinking Universities in the AI Era. Macquarie University. https://arxiv.org/abs/2605.07056"
+    resource: "https://doi.org/10.48550/arxiv.2605.07056"
+    title: "Binkowski, K. P., & Hopkins, A. (2026). The University AI Didn't Replace: Rethinking Universities in the AI Era. Macquarie University. https://arxiv.org/abs/2605.07056 [doi:10.48550/arxiv.2605.07056](https://doi.org/10.48550/arxiv.2605.07056)"
     author: "Binkowski, K. P., & Hopkins, A."
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Binkowski 2026
 
-Binkowski, K. P., & Hopkins, A. (2026). The University AI Didn't Replace: Rethinking Universities in the AI Era. Macquarie University. https://arxiv.org/abs/2605.07056
+Binkowski, K. P., & Hopkins, A. (2026). The University AI Didn't Replace: Rethinking Universities in the AI Era. Macquarie University. https://arxiv.org/abs/2605.07056 [doi:10.48550/arxiv.2605.07056](https://doi.org/10.48550/arxiv.2605.07056)
 
 `q1 · i?` · `design · r1`
 

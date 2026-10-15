@@ -62,9 +62,9 @@ Participants also reported "the lack of emotional connection and dependence on t
 
 ## Related Claims
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — a broader claim this one bears on
-- [Reviewed studies consistently raise concerns about AI accuracy, overreliance, academic integrity, and reduced critical engagement in Arab EL2 contexts](ai-concerns-overreliance-integrity-arab-el2.md) — a broader claim this one bears on
+- Reviewed studies consistently raise concerns about AI accuracy, overreliance, academic integrity, and reduced critical engagement in Arab EL2 contexts — a broader claim this one bears on
 - [Students identified weaknesses in the AI feedback model: lack of real-time feedback, software/economic access barriers, and occasional incorrect or inconsistent outputs](genai-feedback-weaknesses-realtime-and-errors.md) — related
-- [Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs](teacher-big-picture-genai-concerns.md) — related
+- Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs — related
 - [Students experience a perceived sense of support and connectedness through conversational ChatGPT interaction, though this is not genuine human relatedness](chatgpt-perceived-relatedness-support.md) — related
 - [LLMs expressed unjustified confidence in recommendations based on visual inputs, asserting incorrect pin-connection diagnoses with high stated certainty](llm-unjustified-confidence-visual-recommendations.md) — related
 - [Teachers report concerns about infrastructure, reliability, age appropriateness, teacher competence, and student over-reliance on AI](teacher-constraints-responsible-ai-integration.md) — related
@@ -86,7 +86,7 @@ Participants also reported "the lack of emotional connection and dependence on t
 - [Academics and students experienced both positive and negative emotions in relation to GenAI.](genai-assessment-positive-negative-emotions.md) — related
 - [Before instruction, physics students show skepticism about LLM learning impacts, agreeing that over-reliance risks dependence, false confidence, and reduced conceptual understanding](pre-instruction-skepticism-llm-learning-impacts.md) — related
 - [Emotion was the rarest essay theme, raised ambivalently by a minority of students](emotion-rarest-essay-theme.md) — related
-- [Most participants articulated technical and contextual limitations of AI evaluation, including handwriting misreading and unawareness of the instructor's rating system](students-aware-ai-evaluation-limitations.md) — related
+- Most participants articulated technical and contextual limitations of AI evaluation, including handwriting misreading and unawareness of the instructor's rating system — related
 - [AI-assisted scientific writing assignments risk fabricated references and altered chemical meaning](genai-writing-fabricated-references.md) — related
 - [Institutional approval processes, privacy regulations, technology access, and limited classroom time constrained chatbot adoption beyond instructional value](institutional-privacy-practical-barriers-chatbot-adoption.md) — related
 - [AI use also carries negative outcomes: technical instability, negative emotional impacts, over-reliance, and contextual contingency](ai-wtc-negative-outcomes-challenges.md) — related

@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` 9 of 15 interviewed students could provide specific and physically correct examples connecting physics to their interests. [→ O'Shea 2013](#oshea-2013)
@@ -48,8 +49,7 @@ Post-semester interviews conducted by a co-author with no course association; in
 ## Related Claims
 
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — a broader claim this one bears on
-- [Student dissatisfaction with the draft textbook stemmed from lack of practice problems and confusing explanations, not from its life science focus](textbook-dissatisfaction-practice-problems-not-focus.md) — related
-- [Under the life-science curriculum, MPEX attitudes showed no meaningful change in five of six clusters, avoiding the reality-link decline seen in previous semesters, while the effort cluster declined significantly](mpex-attitudes-stable-reality-link.md)
+- Student dissatisfaction with the draft textbook stemmed from lack of practice problems and confusing explanations, not from its life science focus — related
 - [Students want curriculum connected to real life, careers, and life skills, and report that the majority of the high school curriculum lacks real-world application](students-want-curricular-relevance-and-life-skills.md) — a broader claim this one bears on
 - [Students and faculty value real-world examples in gateway math, but limited resources and training often lead to procedural instruction](real-world-relevance-gateway-math-procedural-instruction.md) — related
 - [AI exploration assignments helped students connect physics content to their personal lives and interests](ai-exploration-personal-connections.md) — possibly the same claim (merge candidate)

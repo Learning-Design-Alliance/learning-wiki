@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` A rank ordering of students does not serve the instructor's task, which is identifying who has and has not achieved the objectives and teaching the latter. [→ Gentile 1971](#gentile-1971)

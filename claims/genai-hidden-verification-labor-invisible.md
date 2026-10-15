@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: rana-abou-khamis-2026
-    resource: "https://arxiv.org/abs/2607.28650"
-    title: "Rana Abou Khamis, Hala Assal, and Ashraf Matrawy. (2026). Unanticipated Effects of Generative AI on Expertise Pathways and Performance Perception in System Administration. https://arxiv.org/abs/2607.28650"
+    resource: "https://doi.org/10.48550/arxiv.2607.28650"
+    title: "Rana Abou Khamis, Hala Assal, and Ashraf Matrawy. (2026). Unanticipated Effects of Generative AI on Expertise Pathways and Performance Perception in System Administration. https://arxiv.org/abs/2607.28650 [doi:10.48550/arxiv.2607.28650](https://doi.org/10.48550/arxiv.2607.28650)"
     author: Rana Abou Khamis, Hala Assal, and Ashraf Matrawy
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Rana Abou Khamis 2026
 
-Rana Abou Khamis, Hala Assal, and Ashraf Matrawy. (2026). Unanticipated Effects of Generative AI on Expertise Pathways and Performance Perception in System Administration. https://arxiv.org/abs/2607.28650
+Rana Abou Khamis, Hala Assal, and Ashraf Matrawy. (2026). Unanticipated Effects of Generative AI on Expertise Pathways and Performance Perception in System Administration. https://arxiv.org/abs/2607.28650 [doi:10.48550/arxiv.2607.28650](https://doi.org/10.48550/arxiv.2607.28650)
 
 `q2 · i?` · `qualitative · r2`
 
@@ -49,7 +49,7 @@ Interview theme on hidden productivity costs: P14 must "explain the context repe
 - [Engineering students treat GenAI as acceptable when it stimulates reflection but view directly copying outputs as cheating, leveraging its fallibility to prompt double-checking](genai-ethics-reflection-versus-copying-boundaries.md) — related
 - [Students' main AI challenges are content reliability and depth, and most expect AI to serve as tutor, creative partner, and critical thinking partner rather than mere content generator](student-critical-ai-role-expectations.md) — related
 - [Effective AI use in nursing education depends on prompting skills, which participants identify as critical for obtaining accurate and reliable outputs](prompting-skills-shape-ai-output-quality.md) — related
-- [Students, not AI, are the actors associated with knowing, judging and verifying in GenAI higher-education abstracts](students-associated-with-epistemic-predicates.md) — related
+- Students, not AI, are the actors associated with knowing, judging and verifying in GenAI higher-education abstracts — related
 - [Sysadmins shift from producing solutions to evaluating, correcting, and refining GenAI output, which still requires human expertise](sysadmin-expertise-shifts-to-validating-genai-output.md) — related
 - [Design students report low trust in GenAI outputs and systematically modify and verify them, with inaccuracy the main deterrent](low-trust-systematic-verification-genai-outputs.md) — related
 - [Students' stated beliefs about AI use diverge from their actual practice, including hidden or unrecognized policy-violating use](ai-belief-behavior-mismatch-writing.md) — related

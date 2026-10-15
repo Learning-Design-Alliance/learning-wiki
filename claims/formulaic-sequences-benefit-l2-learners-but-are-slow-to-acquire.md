@@ -45,11 +45,11 @@ A review of experimental and intervention studies on formulaic sequences in a se
 
 ## Discussion
 
-The claim rests on one narrative review read from its abstract, and the abstract states the benefit and the slow uptake as background rather than reporting the evidence for them. The review's verdicts on which treatments work (attention-drawing, lookups, memorisation) are in its body and are not recorded here; reading the full text is what would turn this into a claim about instruction. The involvement load framing links it to [tasks that raise involvement load improving word retention](involvement-load-tasks-improve-word-retention.md). For children in immersion, formulaic utterances appear first and are later analysed into parts ([formulaic utterances dominate early immersion speech](formulaic-utterances-dominate-early-immersion-speech.md)), which is a different proposition from the slow uptake the review describes.
+The claim rests on one narrative review read from its abstract, and the abstract states the benefit and the slow uptake as background rather than reporting the evidence for them. The review's verdicts on which treatments work (attention-drawing, lookups, memorisation) are in its body and are not recorded here; reading the full text is what would turn this into a claim about instruction. The involvement load framing links it to [tasks that raise involvement load improving word retention](involvement-load-tasks-improve-word-retention.md). For children in immersion, formulaic utterances appear first and are later analysed into parts (formulaic utterances dominate early immersion speech), which is a different proposition from the slow uptake the review describes.
 
 ## Related Claims
 
-- [Children acquiring a second language through immersion begin with formulaic utterances used as wholes, which are gradually analyzed into component words](formulaic-utterances-dominate-early-immersion-speech.md) — related
+- Children acquiring a second language through immersion begin with formulaic utterances used as wholes, which are gradually analyzed into component words — related
 - [Tasks with higher involvement load, involving search and evaluation, are conducive to better word retention, with marginal glosses efficient for incidental learning](involvement-load-tasks-improve-word-retention.md) — related
 - [Mere exposure to the target language does not automatically lead to native-like communicative competence in adult learners](mere-exposure-insufficient-advanced-l2-communicative-competence.md) — related
 - [Vocabulary-focused programs are probably insufficient to accelerate vocabulary development and close the vocabulary gap](vocabulary-programs-insufficient-to-close-vocabulary-gap.md) — related

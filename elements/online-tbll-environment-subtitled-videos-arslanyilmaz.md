@@ -17,7 +17,7 @@ sources:
 # Online TBLL environment with four interactive dyad tasks and learner-controlled subtitled videos
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 3 studies (2 causal, 1 review), `q2` · 1 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (2 causal), `q2` · 1 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 A purpose-built online task-based language learning environment presenting four tasks ("Compare the Maps", "Christmas Break Trip", "Gifts for a Family", "Garage Sale") designed using the Pica, Kanagy, & Falodun (1993) topology, with dyads communicating via the WebCT-Vista chat tool. The article states "Subtitled videos in the environment were available only to the experimental group through the 'Similar Tasks' button", and students could "rewind, fast forward, play, stop, pause, or re-play each video at their will". Videos showed native speakers in similar, not identical, tasks recorded in natural settings without prescribed language.
@@ -40,7 +40,6 @@ A purpose-built online task-based language learning environment presenting four 
 
 - [Non-native speaker dyads provided with subtitled videos before tasks produce a significantly higher percentage of negotiated turns in online TBLL than dyads without videos](../claims/subtitled-videos-increase-negotiation-of-meaning-online-tbll.md) [+W]
 - [Completing meaning-focused tasks through CMC fosters negotiated interactions in all three modes (discussion board, text chat, videoconferencing)](../claims/cmc-meaning-focused-tasks-foster-negotiated-interactions.md) [+W]
-- [Native-speaker conversations with learners show more interactional modification than native-speaker conversations in two-way information-exchange tasks, but not in tasks without information exchange](../claims/two-way-tasks-promote-interactional-restructuring.md) [+W]
 
 ## Related Elements
 - 

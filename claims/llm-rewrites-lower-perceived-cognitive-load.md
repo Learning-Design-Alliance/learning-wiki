@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: alexandru-radu-moraru-2026
-    resource: "https://arxiv.org/abs/2608.20896"
-    title: "Alexandru-Radu Moraru, Shreyan Biswas, Ujwal Gadiraju. (2026). Beyond the Traceback: Using LLMs for Adaptive Explanations of Programming Errors. https://arxiv.org/abs/2608.20896"
+    resource: "https://doi.org/10.48550/arxiv.2608.20896"
+    title: "Alexandru-Radu Moraru, Shreyan Biswas, Ujwal Gadiraju. (2026). Beyond the Traceback: Using LLMs for Adaptive Explanations of Programming Errors. https://arxiv.org/abs/2608.20896 [doi:10.48550/arxiv.2608.20896](https://doi.org/10.48550/arxiv.2608.20896)"
     author: Alexandru-Radu Moraru, Shreyan Biswas, Ujwal Gadiraju
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Pragmatic and contingent LLM rewrites reduced perceived cognitive load relative to standard interpreter messages
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Evidence** · 2 studies · 2 causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across the full sample, intrinsic load was lower for Pragmatic vs. Standard (p=0.0017) and Contingent vs. Standard (p=0.0431), and extraneous load differed only for Pragmatic vs. Standard (p=0.0064). [→ Alexandru-Radu Moraru 2026](#alexandru-radu-moraru-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Alexandru-Radu Moraru 2026
 
-Alexandru-Radu Moraru, Shreyan Biswas, Ujwal Gadiraju. (2026). Beyond the Traceback: Using LLMs for Adaptive Explanations of Programming Errors. https://arxiv.org/abs/2608.20896
+Alexandru-Radu Moraru, Shreyan Biswas, Ujwal Gadiraju. (2026). Beyond the Traceback: Using LLMs for Adaptive Explanations of Programming Errors. https://arxiv.org/abs/2608.20896 [doi:10.48550/arxiv.2608.20896](https://doi.org/10.48550/arxiv.2608.20896)
 
 `q2 · i?` · `causal · r2`
 

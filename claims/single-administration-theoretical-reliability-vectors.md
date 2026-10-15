@@ -62,5 +62,5 @@ Comparison of reliability estimates on the same data: split-half reliability rgh
 
 ## Related Claims
 - [Test difficulty value defined as ratio of observed to maximum score vector length times cosine of their angle equals test mean divided by number of items](test-difficulty-value-cosine-definition.md) — related
-- [No statistically significant differences among the four Knowledge/Judgment item scores (ANOVA p=.549), confirming similar rank scores](no-item-differences-anova-rjm.md) — related
+- No statistically significant differences among the four Knowledge/Judgment item scores (ANOVA p=.549), confirming similar rank scores — related
 - [A pilot study (N = 10) established timed-administration parameters, showing high internal consistency and minimal speededness for the SCS1 12-item subset](pilot-timed-scs1-subset-reliability-speededness.md) — related

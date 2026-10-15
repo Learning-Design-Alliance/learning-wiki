@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: darling-hammond-2018
-    resource: "https://learningpolicyinstitute.org/product/educating-whole-child"
-    title: "Darling-Hammond, L., & Cook-Harvey, C. M. (2018). Educating the whole child: Improving school climate to support student success. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/educating-whole-child"
+    resource: "https://doi.org/10.54300/145.655"
+    title: "Darling-Hammond, L., & Cook-Harvey, C. M. (2018). Educating the whole child: Improving school climate to support student success. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/educating-whole-child [doi:10.54300/145.655](https://doi.org/10.54300/145.655)"
     author: "Darling-Hammond, L., & Cook-Harvey, C. M."
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Darling-Hammond 2018
 
-Darling-Hammond, L., & Cook-Harvey, C. M. (2018). Educating the whole child: Improving school climate to support student success. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/educating-whole-child
+Darling-Hammond, L., & Cook-Harvey, C. M. (2018). Educating the whole child: Improving school climate to support student success. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/educating-whole-child [doi:10.54300/145.655](https://doi.org/10.54300/145.655)
 
 `q3 · i?` · `review · r2`
 

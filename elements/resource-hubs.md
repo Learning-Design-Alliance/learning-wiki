@@ -13,7 +13,7 @@ generated:
 # Resource Hubs
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 Resource hubs are centralized collections of materials, links, tools, or references that learners can return to during a course or project. They are useful when learners need organized access to shared resources.
@@ -36,7 +36,6 @@ Resource hubs are centralized collections of materials, links, tools, or referen
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- [Users have difficulty distinguishing between the various kinds of document types, resource types and formats in a faceted taxonomy](../claims/users-difficulty-distinguishing-resource-type-facets.md) [~W]
 
 ## Related Elements
 - [Task Management](task-management.md)

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: vy-le-2026
-    resource: "https://arxiv.org/abs/2609.09584"
-    title: "Vy Le, Jayson M. Nissen, Jason W. Morphew, Hua Hua Chang, and Ben Van Dusen. (2026). Mechanics Cognitive Diagnostic: Testing Fine-Grained Learning Objectives in Introductory Physics. https://arxiv.org/abs/2609.09584"
+    resource: "https://doi.org/10.48550/arxiv.2609.09584"
+    title: "Vy Le, Jayson M. Nissen, Jason W. Morphew, Hua Hua Chang, and Ben Van Dusen. (2026). Mechanics Cognitive Diagnostic: Testing Fine-Grained Learning Objectives in Introductory Physics. https://arxiv.org/abs/2609.09584 [doi:10.48550/arxiv.2609.09584](https://doi.org/10.48550/arxiv.2609.09584)"
     author: Vy Le, Jayson M. Nissen, Jason W. Morphew, Hua Hua Chang, and Ben Van Dusen
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Vy Le 2026
 
-Vy Le, Jayson M. Nissen, Jason W. Morphew, Hua Hua Chang, and Ben Van Dusen. (2026). Mechanics Cognitive Diagnostic: Testing Fine-Grained Learning Objectives in Introductory Physics. https://arxiv.org/abs/2609.09584
+Vy Le, Jayson M. Nissen, Jason W. Morphew, Hua Hua Chang, and Ben Van Dusen. (2026). Mechanics Cognitive Diagnostic: Testing Fine-Grained Learning Objectives in Introductory Physics. https://arxiv.org/abs/2609.09584 [doi:10.48550/arxiv.2609.09584](https://doi.org/10.48550/arxiv.2609.09584)
 
 `q2 · i?` · `design · r2`
 

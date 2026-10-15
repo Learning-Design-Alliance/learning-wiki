@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: wise-2020
-    resource: "https://www.nwea.org/research/publication/a-cessation-of-measurement-identifying-test-taker-disengagement-using-response-time-book/"
-    title: "Wise, S., & Kuhfeld, M. (2020). A cessation of measurement: Identifying test taker disengagement using response time. In M. Margolis, & R. Feinberg (Eds.), Integrating Timing Considerations to Improve Testing Practices, Routledge. https://www.nwea.org/research/publication/a-cessation-of-measurement-identifying-test-taker-disengagement-using-response-time-book/"
+    resource: "https://doi.org/10.4324/9781351064781-11"
+    title: "Wise, S., & Kuhfeld, M. (2020). A cessation of measurement: Identifying test taker disengagement using response time. In M. Margolis, & R. Feinberg (Eds.), Integrating Timing Considerations to Improve Testing Practices, Routledge. https://www.nwea.org/research/publication/a-cessation-of-measurement-identifying-test-taker-disengagement-using-response-time-book/ [doi:10.4324/9781351064781-11](https://doi.org/10.4324/9781351064781-11)"
     author: "Wise, S., & Kuhfeld, M."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Wise 2020
 
-Wise, S., & Kuhfeld, M. (2020). A cessation of measurement: Identifying test taker disengagement using response time. In M. Margolis, & R. Feinberg (Eds.), Integrating Timing Considerations to Improve Testing Practices, Routledge. https://www.nwea.org/research/publication/a-cessation-of-measurement-identifying-test-taker-disengagement-using-response-time-book/
+Wise, S., & Kuhfeld, M. (2020). A cessation of measurement: Identifying test taker disengagement using response time. In M. Margolis, & R. Feinberg (Eds.), Integrating Timing Considerations to Improve Testing Practices, Routledge. https://www.nwea.org/research/publication/a-cessation-of-measurement-identifying-test-taker-disengagement-using-response-time-book/ [doi:10.4324/9781351064781-11](https://doi.org/10.4324/9781351064781-11)
 
 `q2 · i?` · `review · r?`
 

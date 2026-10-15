@@ -18,7 +18,7 @@ sources:
 # Magnetic Reading
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Magnetic Reading is a print-based supplemental grades 3–5 reading-comprehension curriculum developed by Great Minds, with grade-level texts, educator resources, and scaffolds for whole-class and differentiated instruction.
@@ -27,9 +27,6 @@ Magnetic Reading is a print-based supplemental grades 3–5 reading-comprehensio
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Magnetic Reading use had a positive, statistically significant effect on spring i-Ready Diagnostic scores (ES = +0.23) in a 2021-2022 Iowa quasi-experiment](../claims/magnetic-reading-iowa-quasi-experiment-023.md) [+W]
-- [Magnetic Reading qualifies for a Moderate evidence rating based on two studies with an average effect size of +0.22](../claims/magnetic-reading-moderate-evidence-rating.md) [+W]
-- [Students in Magnetic Reading schools scored significantly higher on the Iowa state ELA test (ES = +0.22) in a 2022-2023 prospective matched study](../claims/magnetic-reading-prospective-iowa-study-022.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -64,9 +61,6 @@ Magnetic Reading is a print-based, supplemental reading program intended for 30-
 
 ## Claims
 
-- [Magnetic Reading use had a positive, statistically significant effect on spring i-Ready Diagnostic scores (ES = +0.23) in a 2021-2022 Iowa quasi-experiment](../claims/magnetic-reading-iowa-quasi-experiment-023.md) [+W]
-- [Magnetic Reading qualifies for a Moderate evidence rating based on two studies with an average effect size of +0.22](../claims/magnetic-reading-moderate-evidence-rating.md) [+W]
-- [Students in Magnetic Reading schools scored significantly higher on the Iowa state ELA test (ES = +0.22) in a 2022-2023 prospective matched study](../claims/magnetic-reading-prospective-iowa-study-022.md) [+W]
 
 ## Related Elements
 

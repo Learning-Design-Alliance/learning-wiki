@@ -13,7 +13,7 @@ generated:
 # Learning Analytics-Driven Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 30 claims (12 for, 9 mixed, 9 against) · 27 studies (10 review, 7 associational, 4 qualitative, 4 theoretical, 2 design), `q1`–`q3` · 1 of 27 report an effect size · 29 claims rest on one study
+> **Evidence** · 26 claims (9 for, 9 mixed, 8 against) · 23 studies (9 review, 5 associational, 4 theoretical, 3 qualitative, 2 design), `q1`–`q3` · 1 of 23 report an effect size · 25 claims rest on one study
 
 ## Description
 In face-to-face instruction, a teacher can visually notice disengagement or confusion; a distance instructor cannot, and many learners fail to recognize their own need for help or fail to seek it even when it is available (Baker & Inventado, 2016). Educational data mining (EDM) and learning analytics (LA) address this by mining the large amounts of interaction data online and distance courses generate — content-management, discussion-forum, gradebook, and clickstream data — to build models that predict which learners are at risk and to surface feedback that would otherwise depend on an instructor noticing in person.
@@ -56,11 +56,9 @@ These models feed three uses that benefit learners directly: **automated feedbac
 - [Using predictive analytics while ignoring teacher knowledge may misidentify students at risk of dropping out and negatively influence teacher views](../claims/ignoring-teacher-knowledge-misidentifies-risk-students.md) [-W]
 - [Predictive learning analytics can generate early warnings of dropout risk and trigger targeted interventions in adult education](../claims/predictive-analytics-early-warning-dropout-adults.md) [+W]
 - [Predictive models trained on one semester's offering of a course identified at-risk students in the subsequent semester with high prediction accuracy](../claims/cross-semester-at-risk-prediction-high-accuracy.md) [+W]
-- [EDM methods have enabled real-time inference of a broader range of student attributes, including gaming the system, self-efficacy, off-task behavior, boredom, and frustration](../claims/edm-infers-broader-student-attributes.md) [+W]
 - [Predictive analytics can benefit education only if educators heed how their use should differ from industry](../claims/predictive-analytics-benefit-heed-schooling-differences.md) [~W]
 - [Secondary outcomes differed in predictability: near-term related-task performance was hardest while 7–28-day performance showed a longitudinal signal](../claims/secondary-outcomes-varied-predictability.md) [~W]
 - [AI technologies in education enhance teaching and learning through personalization and data analytics while reshaping administrative functions and decision-making](../claims/ai-enhances-teaching-administration-education.md) [+W]
-- [Students' reservations about AI feedback centre on trustworthiness (data privacy) and goodwill (impersonal, demotivating feedback)](../claims/ai-feedback-trustworthiness-goodwill-concerns.md) [-W]
 - [AI tools such as chatbots, intelligent tutoring systems, and early alert systems are identified as having potential to serve marginalized students, contingent on ethical governance and infrastructure](../claims/ai-tools-potential-marginalized-students-contingent-safeguards.md) [~W]
 - [At-risk identification is demographically patterned, with Black, Hispanic, and male students more likely to be identified](../claims/at-risk-identification-demographic-patterns.md) [-W]
 - [Algorithmic bias and data privacy are central ethical risks of AI in adult education](../claims/algorithmic-bias-privacy-risks-adult-education.md) [~W]
@@ -70,12 +68,10 @@ These models feed three uses that benefit learners directly: **automated feedbac
 - [Exploratory heat maps reveal three student groups, including disengaged-but-successful students more prevalent in the Python courses, showing low content completion can link to both positive and negative outcomes](../claims/interaction-patterns-three-student-groups-heatmaps.md) [~W]
 - [Learning Analytics Dashboards are the most frequently reported AI system type supporting lecturer decisions, primarily for monitoring, feedback, and assessment](../claims/lad-dominant-system-type-lecturer-decision-support.md) [+W]
 - [Monitoring all students and proactively intervening on early warning signs has minimal-level evidence of improving dropout-related outcomes](../claims/proactive-monitoring-minimal-evidence.md) [-W]
-- [Course-module views, assignment submissions, and video-access days are the most stable predictors, all lower in the high-risk group (Cliff's delta values from 0.50 to 0.60)](../claims/stable-lms-features-lower-in-high-risk-group.md) [+W]
 - [Established feedback frameworks do not address the epistemic status of feedback tasks relevant to automation decisions](../claims/existing-feedback-frameworks-silent-on-epistemic-status.md) [~W]
 - [Data-based recording of educational processes risks narrowing education to quantifiable output indicators and raises data sovereignty and algorithmic ethics issues](../claims/datafication-risks-narrowing-educational-processes.md) [-W]
 - [Adult education programs used product-generated learner data minimally, mostly tracking usage time rather than diagnosing struggles](../claims/adult-ed-minimal-learner-data-use.md) [-W]
 - [Privacy protections lag behind reputational concerns: institutions rarely consider implications of capturing audio-visual and behavioral data from private spaces, and AI algorithms are seldom transparent about error rates](../claims/privacy-transparency-lags-proctoring-adoption.md) [-W]
-- [In the SISTC Logistic Regression model, student-visa holders and longer study duration were linked to retention, while Pakistani nationality and subjects failed were linked to dropout risk](../claims/visa-nationality-failed-subjects-dropout-features.md) [+W]
 - [The agent's predictions show a performance gap versus a regression reference that uses real students' post-test data](../claims/agent-gap-versus-regression-reference.md) [~W]
 - [Random-forest models trained on a prior semester showed significantly lower AUC when tested on a new semester's data without retraining](../claims/cross-semester-auc-decline-without-retraining.md) [-W]
 - [The approach offers a large real-time intervention window, with a median of 176.2-196.1 hours between the prediction point and the final problem deadline](../claims/large-prediction-window-real-time-intervention.md) [+W]

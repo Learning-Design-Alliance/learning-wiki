@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: saptarshi-basu-2026
-    resource: "https://arxiv.org/abs/2609.03402"
-    title: "Saptarshi Basu, Sandeep Kakar, Ashok Goel. (2026). A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Personalization in a General Purpose AI Teaching Assistant. https://arxiv.org/abs/2609.03402"
+    resource: "https://doi.org/10.48550/arxiv.2609.03402"
+    title: "Saptarshi Basu, Sandeep Kakar, Ashok Goel. (2026). A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Personalization in a General Purpose AI Teaching Assistant. https://arxiv.org/abs/2609.03402 [doi:10.48550/arxiv.2609.03402](https://doi.org/10.48550/arxiv.2609.03402)"
     author: Saptarshi Basu, Sandeep Kakar, Ashok Goel
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Saptarshi Basu 2026
 
-Saptarshi Basu, Sandeep Kakar, Ashok Goel. (2026). A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Personalization in a General Purpose AI Teaching Assistant. https://arxiv.org/abs/2609.03402
+Saptarshi Basu, Sandeep Kakar, Ashok Goel. (2026). A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Personalization in a General Purpose AI Teaching Assistant. https://arxiv.org/abs/2609.03402 [doi:10.48550/arxiv.2609.03402](https://doi.org/10.48550/arxiv.2609.03402)
 
 `q2 · i?` · `design · r2`
 

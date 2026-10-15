@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Subjects in strong treatments, whose acquisition tasks included marking organizational charts and arranging items into a chart, significantly outperformed weak-treatment subjects who wrote a structured summary. [→ Eylon 1979](#eylon-1979)

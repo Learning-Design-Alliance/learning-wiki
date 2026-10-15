@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: spilerman-1970
-    resource: "https://eric.ed.gov/?id=ED133396"
-    title: "Spilerman, Seymour. (1970). Raising Academic Motivation in Lower Class Adolescents: A Convergence of Two Research Traditions. Discussion Papers 75-70. https://eric.ed.gov/?id=ED133396"
+    resource: "https://doi.org/10.2307/2111965"
+    title: "Spilerman, Seymour. (1970). Raising Academic Motivation in Lower Class Adolescents: A Convergence of Two Research Traditions. Discussion Papers 75-70. https://eric.ed.gov/?id=ED133396 [doi:10.2307/2111965](https://doi.org/10.2307/2111965)"
     author: Spilerman, Seymour
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Spilerman 1970
 
-Spilerman, Seymour. (1970). Raising Academic Motivation in Lower Class Adolescents: A Convergence of Two Research Traditions. Discussion Papers 75-70. https://eric.ed.gov/?id=ED133396
+Spilerman, Seymour. (1970). Raising Academic Motivation in Lower Class Adolescents: A Convergence of Two Research Traditions. Discussion Papers 75-70. https://eric.ed.gov/?id=ED133396 [doi:10.2307/2111965](https://doi.org/10.2307/2111965)
 
 `q2 · i?` · `review · r1`
 

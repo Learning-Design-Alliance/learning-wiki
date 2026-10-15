@@ -50,6 +50,6 @@ Student subgroup analysis for students in poverty, 2018-19, row comparing with s
 - [Houston charter school ELL students outperformed district-school ELL students in both subjects, while magnet ELL students trailed](houston-ell-charter-advantage-magnet-trails.md) — related
 - [Black students in Houston charter and magnet schools outperformed Black students in Houston district schools in reading and math](houston-black-students-charter-magnet-beat-district.md) — related
 - [Austin charter students in poverty outperformed Austin district students in poverty in reading, with a non-significant math advantage](austin-charter-poverty-students-outperform-district-peers.md) — related
-- [Substantial learning inequalities persist: TPS students in poverty, TPS English learners, and special education students in either setting show significant learning gaps](ri-learning-gaps-tps-subgroups.md) — related
+- Substantial learning inequalities persist: TPS students in poverty, TPS English learners, and special education students in either setting show significant learning gaps — related
 - [Fort Worth charter school students in poverty significantly outgrew district-school students in poverty in reading growth](fort-worth-poverty-students-charter-advantage-reading.md) — related
 - [Houston CMO-affiliated charter students outgrew the state average in both subjects while independent charter students did not differ significantly](houston-cmo-charters-outgrow-state-independents-null.md) — related

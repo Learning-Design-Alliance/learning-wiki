@@ -69,8 +69,8 @@ Webb et al. (2023) qualify this claim at the level of studies: across second-lan
 - [Incidental vocabulary learning anxiety positively predicts L2 incidental vocabulary acquisition through reading](incidental-vocabulary-anxiety-positive-predictor.md) — related
 - [L2 proficiency, anxiety, and mastery of strategies jointly explain 18% of variance in incidental vocabulary acquisition](learner-factors-model-18-percent-variance.md) — related
 - [Higher L2 reading proficiency, motivation, and involvement load are associated with larger incidental vocabulary gains](proficiency-motivation-involvement-gains.md) — possibly the same claim (merge candidate)
-- [Listening proficiency transfers to other language skills, including reading and writing, in second language learners](listening-transfer-to-other-language-skills.md) — related
+- Listening proficiency transfers to other language skills, including reading and writing, in second language learners — related
 - [Reading and listening yield similar proportions of incidental vocabulary learning, with reading ahead only on some immediate posttests](reading-versus-listening-incidental-vocabulary-gains.md) — related
 - [Mastery of incidental vocabulary learning strategies positively predicts L2 incidental vocabulary acquisition through reading](strategy-mastery-predicts-incidental-vocabulary-acquisition.md) — related
-- [Teacher ratings predicted reading achievement better than common language proficiency tests (41% vs 0-4% additional variance)](teacher-ratings-outpredict-language-tests.md) — related
-- [Learners' vocabulary size is significantly and positively related to both L2 video comprehension and incidental vocabulary learning](vocabulary-size-predicts-comprehension-and-gains.md) — related
+- Teacher ratings predicted reading achievement better than common language proficiency tests (41% vs 0-4% additional variance) — related
+- Learners' vocabulary size is significantly and positively related to both L2 video comprehension and incidental vocabulary learning — related

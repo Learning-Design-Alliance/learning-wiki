@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: daniele-verí-2026
-    resource: "https://arxiv.org/abs/2609.15624"
-    title: "Daniele Verí. (2026). Beyond AI Literacy: A Structured Review and Exploratory Meta-Analysis of Measures for Competent Generative-AI Use. arXiv. https://arxiv.org/abs/2609.15624"
+    resource: "https://doi.org/10.48550/arxiv.2609.15624"
+    title: "Daniele Verí. (2026). Beyond AI Literacy: A Structured Review and Exploratory Meta-Analysis of Measures for Competent Generative-AI Use. arXiv. https://arxiv.org/abs/2609.15624 [doi:10.48550/arxiv.2609.15624](https://doi.org/10.48550/arxiv.2609.15624)"
     author: Daniele Verí
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Daniele Verí 2026
 
-Daniele Verí. (2026). Beyond AI Literacy: A Structured Review and Exploratory Meta-Analysis of Measures for Competent Generative-AI Use. arXiv. https://arxiv.org/abs/2609.15624
+Daniele Verí. (2026). Beyond AI Literacy: A Structured Review and Exploratory Meta-Analysis of Measures for Competent Generative-AI Use. arXiv. https://arxiv.org/abs/2609.15624 [doi:10.48550/arxiv.2609.15624](https://doi.org/10.48550/arxiv.2609.15624)
 
 `q2 · i?` · `quant-synthesis · r1`
 

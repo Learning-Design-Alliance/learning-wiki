@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: rana-abou-khamis-2026
-    resource: "https://arxiv.org/abs/2607.28650"
-    title: "Rana Abou Khamis, Hala Assal, and Ashraf Matrawy. (2026). Unanticipated Effects of Generative AI on Expertise Pathways and Performance Perception in System Administration. https://arxiv.org/abs/2607.28650"
+    resource: "https://doi.org/10.48550/arxiv.2607.28650"
+    title: "Rana Abou Khamis, Hala Assal, and Ashraf Matrawy. (2026). Unanticipated Effects of Generative AI on Expertise Pathways and Performance Perception in System Administration. https://arxiv.org/abs/2607.28650 [doi:10.48550/arxiv.2607.28650](https://doi.org/10.48550/arxiv.2607.28650)"
     author: Rana Abou Khamis, Hala Assal, and Ashraf Matrawy
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Rana Abou Khamis 2026
 
-Rana Abou Khamis, Hala Assal, and Ashraf Matrawy. (2026). Unanticipated Effects of Generative AI on Expertise Pathways and Performance Perception in System Administration. https://arxiv.org/abs/2607.28650
+Rana Abou Khamis, Hala Assal, and Ashraf Matrawy. (2026). Unanticipated Effects of Generative AI on Expertise Pathways and Performance Perception in System Administration. https://arxiv.org/abs/2607.28650 [doi:10.48550/arxiv.2607.28650](https://doi.org/10.48550/arxiv.2607.28650)
 
 `q2 · i?` · `qualitative · r2`
 
@@ -45,5 +45,5 @@ Interview finding from the 14-participant study: participants relied on GenAI to
 ## Related Claims
 - [Sysadmins shift from producing solutions to evaluating, correcting, and refining GenAI output, which still requires human expertise](sysadmin-expertise-shifts-to-validating-genai-output.md) — related
 - [AI-assisted speed becomes a recalibrated performance baseline, making manual work feel slow and inadequate](genai-speed-recalibrates-performance-baseline.md) — related
-- [Generative AI can help people finish tasks more quickly but does not accelerate learning itself](genai-speeds-tasks-not-learning.md) — a broader claim this one bears on
+- Generative AI can help people finish tasks more quickly but does not accelerate learning itself — a broader claim this one bears on
 - [Synergy is more likely in simpler content generation tasks and when humans exceed AI performance](synergy-conditions-task-complexity-human-superiority.md) — related

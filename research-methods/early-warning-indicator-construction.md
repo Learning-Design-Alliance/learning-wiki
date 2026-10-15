@@ -19,7 +19,7 @@ sources:
 # Early-warning indicator construction
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 14 claims (12 for, 2 mixed) · 9 studies (5 associational, 2 design, 1 review, 1 qualitative), `q2`–`q3` · 0 of 9 report an effect size · 14 claims rest on one study
+> **Evidence** · 12 claims (11 for, 1 mixed) · 7 studies (4 associational, 2 design, 1 review), `q2`–`q3` · 0 of 7 report an effect size · 12 claims rest on one study
 
 ## Description
 A Consortium report cited in the paper outlines five characteristics of effective indicators: predictiveness, usability and clarity, real time/right time availability, direct causal linkage to outcomes, and malleability. Predictiveness alone is insufficient — researchers must also show which indicators are less predictive and therefore poor targets — and even rigorously predictive indicators fail if they are not understandable, simple, and applicable in schools, since complexity that becomes a barrier to action undermines use. Indicators should be available in real time or at the right time, should have a direct causal linkage so that improving them changes the ultimate outcome, and must be malleable, meaning educators can move them with known strategies. The paper grounds the framework in the assumption that indicators' predictive power is practical rather than deterministic: indicators estimate likely outcomes to trigger support, with the goal that the predicted outcome does not correspond with the student's actual outcome.
@@ -39,7 +39,6 @@ A Consortium report cited in the paper outlines five characteristics of effectiv
 ### Claims
 
 - [The Freshman OnTrack indicator is more predictive of graduation than eighth-grade test scores, SES, race/ethnicity, gender, and school mobility combined, and raising it raises graduation rates](../claims/freshman-ontrack-predictive-and-causal-indicator.md) [+M]
-- [Charter school authorizers most frequently identify distress indicators in leadership, board governance, operations, and finance rather than talent, culture, or instruction](../claims/authorizers-focus-upper-stratosphere-distress-indicators.md) [+M]
 - [The report examines how in-school and out-of-school predictors relate individually to each type of near-term academic problem](../claims/in-school-out-of-school-predictors-examined.md) [+W]
 - [Near-term academic problems targeted include absenteeism, suspensions, poor grades, and low state-test performance](../claims/near-term-academic-problem-types-defined.md) [+W]
 - [A predictive model built on school and child welfare data was assessed for identifying at-risk students in two Allegheny County education agencies](../claims/risk-model-assessed-two-allegheny-agencies.md) [+W]
@@ -51,7 +50,6 @@ A Consortium report cited in the paper outlines five characteristics of effectiv
 - [Adding ACT scores to models with HSGPA does not improve prediction of college graduation or reduce high-school variance](../claims/act-adds-little-beyond-hsgpa.md) [~W]
 - [In a Chicago middle-grades study, the combination of grades and attendance provided the best prediction of high school on-track rates, and adding test scores and grit measures did not further improve prediction](../claims/middle-grades-grades-attendance-best-prediction.md) [+W]
 - [The approach offers a large real-time intervention window, with a median of 176.2-196.1 hours between the prediction point and the final problem deadline](../claims/large-prediction-window-real-time-intervention.md) [+W]
-- [Combining GPA with attendance, or course failure rates with attendance, gives the best prediction of high school graduation for most English Learner groups but not long-term English Learners with IEPs](../claims/gpa-attendance-combination-best-graduation-prediction-el.md) [~W]
 
 ## Related Research Methods
 -

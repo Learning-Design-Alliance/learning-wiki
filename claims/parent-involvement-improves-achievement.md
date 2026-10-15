@@ -132,14 +132,14 @@ Meta-analysis of 41 studies on parental involvement and academic achievement in 
 - [Parent Involvement Improves Early Reading](parent-involvement-improves-early-reading.md) — related
 - [Parent involvement increased for three consecutive years under family-centered engagement approaches](parent-involvement-increased-three-years.md) — a narrower finding that bears on this claim
 - [Positive teacher–student relationships are associated with greater student engagement and, more weakly, with achievement](teacher-student-relationships-improve-engagement.md) — related
-- [READY4K! improves teacher-reported parental involvement at school](ready4k-improves-teacher-reported-involvement.md) — related
+- READY4K! improves teacher-reported parental involvement at school — related
 - [Parent-delivered READY4K! text messages improve preschool children's early literacy performance](ready4k-texts-improve-preschool-literacy.md) — related
-- [TIPS students report significantly higher family involvement in reading and science homework than non-participants](tips-family-involvement-reading-science.md) — a narrower finding that bears on this claim
+- TIPS students report significantly higher family involvement in reading and science homework than non-participants — a narrower finding that bears on this claim
 - [Current ideas about the home/school relation and parent involvement may inhibit justice, equity, and excellence in education](parent-involvement-ideas-inhibit-equity.md) — related
 - [Family engagement in schools is closely linked to improved student academic achievement, social skills, and fewer behavior issues](family-engagement-linked-student-outcomes.md) — related
-- [Homework is more effective for middle and high school students than elementary students](homework-more-effective-secondary-than-elementary.md) — related
-- [Individualized homework outperforms non-individualized homework in achievement, attitudes, and conduct](individualized-homework-outperforms-generic.md) — related
+- Homework is more effective for middle and high school students than elementary students — related
+- Individualized homework outperforms non-individualized homework in achievement, attitudes, and conduct — related
 - [Parental focus on compliance harms homework learning, while supporting effort and process helps](parent-compliance-versus-process-support.md) — related
-- [ParentCorps improves parent involvement in early learning by teacher report but shows a smaller, non-significant effect by parent report](parentcorps-parent-involvement-rater-mixed.md) — related
+- ParentCorps improves parent involvement in early learning by teacher report but shows a smaller, non-significant effect by parent report — related
 - [Meta-analyses find parental involvement associated with better student outcomes, effect sizes 0.2 to 0.75 standard deviations](parental-involvement-meta-analyses-effect-sizes.md) — related
-- [Redwood City family engagement participation linked to larger math gains, better attendance, and stronger sense of care](redwood-city-family-engagement-gains-attendance-care.md) — related
+- Redwood City family engagement participation linked to larger math gains, better attendance, and stronger sense of care — related

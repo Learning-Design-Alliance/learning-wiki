@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: clark-2010
-    resource: "https://arxiv.org/abs/1009.0260"
-    title: "Clark, J. W., Sayre, E. C., and Franklin, S. V. (2010). Fluctuations in Student Understanding of Newton's 3rd Law. arXiv preprint. https://arxiv.org/abs/1009.0260"
+    resource: "https://doi.org/10.48550/arxiv.1009.0260"
+    title: "Clark, J. W., Sayre, E. C., and Franklin, S. V. (2010). Fluctuations in Student Understanding of Newton's 3rd Law. arXiv preprint. https://arxiv.org/abs/1009.0260 [doi:10.48550/arxiv.1009.0260](https://doi.org/10.48550/arxiv.1009.0260)"
     author: Clark, J. W., Sayre, E. C., and Franklin, S. V.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Clark 2010
 
-Clark, J. W., Sayre, E. C., and Franklin, S. V. (2010). Fluctuations in Student Understanding of Newton's 3rd Law. arXiv preprint. https://arxiv.org/abs/1009.0260
+Clark, J. W., Sayre, E. C., and Franklin, S. V. (2010). Fluctuations in Student Understanding of Newton's 3rd Law. arXiv preprint. https://arxiv.org/abs/1009.0260 [doi:10.48550/arxiv.1009.0260](https://doi.org/10.48550/arxiv.1009.0260)
 
 `q2 · i?` · `associational · r2`
 

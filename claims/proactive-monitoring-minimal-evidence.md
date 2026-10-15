@@ -45,7 +45,7 @@ The guide's Summary of Evidence for Recommendation 1 reports six contributing st
 ## Related Claims
 - [Individualized advocacy support and engagement curricula each have direct tests from multiple studies, giving stronger evidence than the other recommendations](advocacy-and-engagement-direct-test-evidence.md) — related
 - [Students show signs of dropout risk early in high school, and schools that reach out in the ninth-grade year can keep them on track to graduate](ninth-grade-early-outreach-keeps-students-on-track.md) — a broader claim this one bears on
-- [BARR reduces ninth-grade chronic absenteeism in a large school-level randomized study](barr-reduces-ninth-grade-chronic-absenteeism.md) — a narrower finding that bears on this claim
+- BARR reduces ninth-grade chronic absenteeism in a large school-level randomized study — a narrower finding that bears on this claim
 - [Check & Connect has statistically significant positive effects on staying in school for high school students with disabilities](check-and-connect-reduces-dropout-staying-in-school.md) — a narrower finding that bears on this claim
 - [Attendance, behavior, and course performance (the ABC indicators) reliably predict which secondary students are at risk of dropping out](abc-early-warning-indicators-predict-dropout.md) — related
 - [Demopolis High School's Google Sheets-based student tracker was followed by a 7% drop in chronic absenteeism and over 3% change in graduation rate](dhs-sheets-tracker-absenteeism-graduation-gains.md) — related

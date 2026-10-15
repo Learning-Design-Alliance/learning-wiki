@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: learnlm-team-2024
-    resource: "https://arxiv.org/abs/2412.16429"
-    title: "LearnLM Team, Google. (2024). LearnLM: Improving Gemini for Learning. arXiv. https://arxiv.org/abs/2412.16429"
+    resource: "https://doi.org/10.48550/arxiv.2412.16429"
+    title: "LearnLM Team, Google. (2024). LearnLM: Improving Gemini for Learning. arXiv. https://arxiv.org/abs/2412.16429 [doi:10.48550/arxiv.2412.16429](https://doi.org/10.48550/arxiv.2412.16429)"
     author: LearnLM Team, Google
     q: 3
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Pedagogy experts prefer LearnLM over contemporaneous flagship models across comparative assessment categories
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Evidence** · 2 studies · 1 causal `r2`, 1 design `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Expert assessors showed a strong preference toward LearnLM over GPT-4o for all five comparative assessment categories, with smaller preferences over Claude 3.5 Sonnet and Gemini 1.5 Pro. [→ LearnLM Team 2024](#learnlm-team-2024)
@@ -40,7 +40,7 @@ sources:
 
 ### LearnLM Team 2024
 
-LearnLM Team, Google. (2024). LearnLM: Improving Gemini for Learning. arXiv. https://arxiv.org/abs/2412.16429
+LearnLM Team, Google. (2024). LearnLM: Improving Gemini for Learning. arXiv. https://arxiv.org/abs/2412.16429 [doi:10.48550/arxiv.2412.16429](https://doi.org/10.48550/arxiv.2412.16429)
 
 `q3 · i?` · `design · r2`
 

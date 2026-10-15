@@ -17,7 +17,7 @@ sources:
 # Challenge-based Coaching Model
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The Challenge-based Coaching Model is a coaching cycle in which each coach works with teachers to "establish goals, identify challenges, create strategies, refect on the results" and support earning aligned micro-credentials. Its graphic depicts five phases: identify and understand challenge, investigate possible strategies, select personalized strategy and tool(s), implement strategy and make improvements, and reflect on experience and outcomes. It was developed through Digital Promise's Dynamic Learning Project work and implemented in the Puerto Rico pilot with meetings every 1-2 weeks.
@@ -38,10 +38,6 @@ The Challenge-based Coaching Model is a coaching cycle in which each coach works
 
 ## Claims
 
-- [Coaches in the pilot expressed commitment to helping peers integrate technology and reported satisfaction with the coaching pilot experience and support from GEEO and the professional learning community](../claims/pr-coaching-pilot-coach-satisfaction.md) [+W]
-- [The coaching pilot strengthened school leaders' relationships with coaches and led leaders to advocate for full-time dedicated coaches to scale the model](../claims/pr-coaching-pilot-relationships-systems-impact.md) [+W]
-- [Teachers in the Puerto Rico coaching pilot reported positive coaching experiences, with 100% agreeing their experience was simple, clear, and rewarding and that coaching improved their teaching practices](../claims/pr-coaching-pilot-teacher-survey-positive.md) [+W]
-- [Pilot participants earned micro-credentials aligned to their coaching challenges, and a school leader described micro-credentials as a strategy for increasing teachers' professional development](../claims/pr-pilot-microcredential-earning-and-value.md) [+W]
 
 ## Related Elements
 

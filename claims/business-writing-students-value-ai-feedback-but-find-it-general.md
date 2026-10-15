@@ -43,7 +43,7 @@ Trends and comments from the Job or Graduate/Professional School Application ass
 
 ## Related Claims
 - [Three multilingual international students critically evaluated AI feedback, recognized peer-AI agreement, and maintained their voices while revising](multilingual-students-critically-evaluate-ai-feedback-pairr.md) — related
-- [EFL students perceive AI-generated writing feedback as a competent source that improves vocabulary, grammar, structure, coherence, and values its immediacy](ai-feedback-perceived-expertise-efl-writing.md) — related
+- EFL students perceive AI-generated writing feedback as a competent source that improves vocabulary, grammar, structure, coherence, and values its immediacy — related
 - [K-12 students across five schools valued CyberScholar's detailed, specific, rubric-aligned feedback as helpful for identifying areas to revise](students-value-detailed-rubric-aligned-genai-feedback.md) — related
 - [After PAIRR, most students prefer combined peer and AI feedback over either source alone](pairr-builds-confidence-in-ai-while-affirming-human-feedback.md) — related
 - [ChatGPT-3.5 feedback on EAP argumentative essays aligns closely with human instructor scoring and identifies surface-level issues, but is less effective on rhetorical structure and contextual nuance](chatgpt-feedback-aligns-with-human-scoring-but-weak-on-rhetorical-structure.md) — related

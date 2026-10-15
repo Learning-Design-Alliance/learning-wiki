@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: smadar-szekely-2018
-    resource: "https://arxiv.org/abs/2608.08543"
-    title: "Smadar Szekely, Judith Gal-Ezer, and David Harel. (2018). Rethinking Higher Education: From Fixed Curricula to Learnity Graphs. J. ACM 37, 4, Article 111. https://arxiv.org/abs/2608.08543"
+    resource: "https://doi.org/10.48550/arxiv.2608.08543"
+    title: "Smadar Szekely, Judith Gal-Ezer, and David Harel. (2018). Rethinking Higher Education: From Fixed Curricula to Learnity Graphs. J. ACM 37, 4, Article 111. https://arxiv.org/abs/2608.08543 [doi:10.48550/arxiv.2608.08543](https://doi.org/10.48550/arxiv.2608.08543)"
     author: Smadar Szekely, Judith Gal-Ezer, and David Harel
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Smadar Szekely 2018
 
-Smadar Szekely, Judith Gal-Ezer, and David Harel. (2018). Rethinking Higher Education: From Fixed Curricula to Learnity Graphs. J. ACM 37, 4, Article 111. https://arxiv.org/abs/2608.08543
+Smadar Szekely, Judith Gal-Ezer, and David Harel. (2018). Rethinking Higher Education: From Fixed Curricula to Learnity Graphs. J. ACM 37, 4, Article 111. https://arxiv.org/abs/2608.08543 [doi:10.48550/arxiv.2608.08543](https://doi.org/10.48550/arxiv.2608.08543)
 
 `q1 · i?` · `theoretical · r2`
 
@@ -43,5 +43,5 @@ Theoretical argument in the introduction, citing higher-education research: rigi
 
 
 ## Related Claims
-- [Interdisciplinary studies are hindered by proliferating definitions and competing instrumental versus conceptual approaches](interdisciplinarity-competing-definitions-approaches.md) — related
+- Interdisciplinary studies are hindered by proliferating definitions and competing instrumental versus conceptual approaches — related
 - [Community colleges' dual mission of degrees and workforce development is a competitive advantage for piloting new credentials](dual-mission-advantage-new-credentials.md) — related

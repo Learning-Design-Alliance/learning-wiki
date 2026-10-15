@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: daniel-long-2025
-    resource: "https://www.nwea.org/research-publications/"
-    title: "Daniel Long, Megan Kuhfeld, Scott J. Peters. (2025). Technical Appendix: Unequal Access to 8th-Grade Algebra: How School Offerings and Placement Practices Limit Opportunity. NWEA Research. https://www.nwea.org/research-publications/"
+    resource: "https://doi.org/10.18356/9788865220696c011"
+    title: "Daniel Long, Megan Kuhfeld, Scott J. Peters. (2025). Technical Appendix: Unequal Access to 8th-Grade Algebra: How School Offerings and Placement Practices Limit Opportunity. NWEA Research. https://www.nwea.org/research-publications/ [doi:10.18356/9788865220696c011](https://doi.org/10.18356/9788865220696c011)"
     author: Daniel Long, Megan Kuhfeld, Scott J. Peters
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Daniel Long 2025
 
-Daniel Long, Megan Kuhfeld, Scott J. Peters. (2025). Technical Appendix: Unequal Access to 8th-Grade Algebra: How School Offerings and Placement Practices Limit Opportunity. NWEA Research. https://www.nwea.org/research-publications/
+Daniel Long, Megan Kuhfeld, Scott J. Peters. (2025). Technical Appendix: Unequal Access to 8th-Grade Algebra: How School Offerings and Placement Practices Limit Opportunity. NWEA Research. https://www.nwea.org/research-publications/ [doi:10.18356/9788865220696c011](https://doi.org/10.18356/9788865220696c011)
 
 `q1 · i?` · `associational · r?`
 

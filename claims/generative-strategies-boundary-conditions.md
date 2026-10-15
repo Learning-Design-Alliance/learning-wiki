@@ -45,4 +45,3 @@ The article's statement of its own review structure, in which boundary condition
 ## Related Claims
 
 - [Boundary conditions on verification and reliance include prior knowledge, learner characteristics, task stakes, verifiability, costs, accountability, AI system configuration, and multidimensional AI literacy](boundary-conditions-verification-reliance-genai.md)
-- [Human epistemic accountability operates as a boundary condition with three tests: contestability, provenance, and non-delegation of moral and intellectual credit](human-epistemic-accountability-boundary-conditions.md)

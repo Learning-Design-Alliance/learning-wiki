@@ -18,7 +18,7 @@ sources:
 # Strategic Instruction Model
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 2 studies (1 causal, 1 quant-synthesis), `q2`–`q3` · 1 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Strategic Instruction Model (SIM) is a multi-tiered adolescent-literacy curriculum and instructional programme created and disseminated by the University of Kansas Center for Research on Learning, including its Learning Strategies Curriculum variants Xtreme Reading and Fusion Reading.
@@ -28,10 +28,6 @@ Strategic Instruction Model (SIM) is a multi-tiered adolescent-literacy curricul
 - **Strategic Instruction Model (SIM) and its Learning Strategies Curriculum (Xtreme Reading, Fusion Reading)**: SIM is "a multi-tiered approach to adolescent literacy" created by the University of Kansas Center for Research on Learning. It emphasizes teaching routines that let teachers organize and present content clearly and give students tools to solve problems independently. All SIM approaches teach decoding, comprehension, and other reading objectives with step-by-step strategies such as word identification, visual imagery, self-questioning, paraphrasing, vocabulary learning, and writing, with mnemonics to help students remember the steps. Targeted versions provide an additional daily reading period through the Learning Strategies Curriculum, disseminated as Xtreme Reading and Fusion Reading. (Strategic Instruction Model (SIM) (2024))
 
 ### Claims
-- [SIM improves adolescent literacy outcomes with an average effect size of +0.10 across six qualifying studies](../claims/sim-average-effect-size-010-six-studies.md) [+M]
-- [Five of six qualifying SIM studies evaluated targeted forms and one evaluated the whole-school Content Literacy Continuum](../claims/sim-five-targeted-one-clc.md) [~M]
-- [Variations of Xtreme Reading showed mixed results: Kentucky's Learning Strategies Curriculum was significantly positive (ES = +0.10) while Michigan's Fusion Reading was non-significant (ES = +0.07)](../claims/xtreme-reading-variants-mixed-effects.md) [~M]
-- [A Portland, OR study found positive Xtreme Reading outcomes compared to control schools in both middle and high schools (effect size = +0.15)](../claims/xtreme-reading-portland-es-015.md) [+M]
 
 ## Related Products and Programmes
 -
@@ -72,10 +68,6 @@ SIM is "a multi-tiered approach to adolescent literacy" created by the Universit
 
 ## Claims
 
-- [SIM improves adolescent literacy outcomes with an average effect size of +0.10 across six qualifying studies](../claims/sim-average-effect-size-010-six-studies.md) [+M]
-- [Five of six qualifying SIM studies evaluated targeted forms and one evaluated the whole-school Content Literacy Continuum](../claims/sim-five-targeted-one-clc.md) [~M]
-- [Variations of Xtreme Reading showed mixed results: Kentucky's Learning Strategies Curriculum was significantly positive (ES = +0.10) while Michigan's Fusion Reading was non-significant (ES = +0.07)](../claims/xtreme-reading-variants-mixed-effects.md) [~M]
-- [A Portland, OR study found positive Xtreme Reading outcomes compared to control schools in both middle and high schools (effect size = +0.15)](../claims/xtreme-reading-portland-es-015.md) [+M]
 
 ## Related Elements
 

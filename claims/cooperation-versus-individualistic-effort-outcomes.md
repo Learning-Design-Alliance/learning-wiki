@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` The report asserts, citing research on cooperative learning, that cooperation typically results in higher achievement, more positive relationships, and greater self-esteem, and that these outcomes are related to retention. [→ Rood 1998](#rood-1998)
@@ -45,11 +46,11 @@ The project report's rationale section asserts this as established by research o
 ## Related Claims
 - [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — related
 - [Cooperative Learning Improves Achievement](cooperative-learning-improves-achievement.md) — a narrower finding that bears on this claim
-- [Cooperative learning produces significantly greater achievement than traditional instruction in most long-duration controlled comparisons](cooperative-learning-achievement-synthesis-slavin.md) — a narrower finding that bears on this claim
+- Cooperative learning produces significantly greater achievement than traditional instruction in most long-duration controlled comparisons — a narrower finding that bears on this claim
 - [Service-learning within integrated projects is associated with improvements in students' self-efﬁcacy, self-esteem, social responsibility, and community participation](service-learning-improves-civic-and-personal-outcomes.md) — related
 - [Small-group learning improves undergraduate STEM achievement](small-group-learning-improves-stem-achievement.md) — a narrower finding that bears on this claim
 - [A meta-analysis of 352 studies found achievement was higher for students engaged in cooperative learning than in competitive or individualistic learning](cooperative-learning-higher-achievement-than-competitive-individualistic.md) — a narrower finding that bears on this claim
 - [Strong relational trust and cooperative adult effort distinguish improving schools from schools with flat or declining test scores](relational-trust-linked-school-improvement.md) — related
-- [Cell-Ed micro-module learners showed significantly higher self-esteem scores than a control group](cell-ed-learners-higher-self-esteem.md) — a narrower finding that bears on this claim
+- Cell-Ed micro-module learners showed significantly higher self-esteem scores than a control group — a narrower finding that bears on this claim
 - [Instructional practices aligned to the Belonging MDP were associated with significant declines in students' perceptions that science required too much effort or threatened self-esteem](belonging-mdp-reduces-effort-and-threat-perceptions.md) — related
 - [The LI(A)RA project produced competitive, scholarly, and educational outcomes that validated the framework's practices](liara-outcomes-validate-framework.md) — related

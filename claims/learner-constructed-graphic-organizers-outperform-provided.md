@@ -115,4 +115,4 @@ In three experiments, learners read a passage that came either with author-provi
 - [Graphic Organizers Support Novice Comprehension](graphic-organizers-support-novice-comprehension.md) — related
 - [Generative Learning Improves Comprehension](generative-processing-improves-learning.md) — related
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
-- [A map risks becoming a new metanarrative unless it is continually remapped and readers actively construct their own maps](remapping-prevents-map-as-metanarrative.md) — related
+- A map risks becoming a new metanarrative unless it is continually remapped and readers actively construct their own maps — related

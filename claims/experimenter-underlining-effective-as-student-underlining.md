@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · n=not reported in what was read
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 13 design pages cite it; treat it as a lead to check, not an established finding.
 <!-- deprecated title (2026-10-05, overstated its evidence): Experimenter-generated underlining is as effective as student-generated underlining for test performance -->
 
 <!-- deprecated (2026-10-05, overstated its evidence): The act of generating one's own underlining does not, by itself, improve test performance over simply studying text that someone else has underlined — what matters is which content gets marked, not who marks it. -->

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: chenguang-wang-2026
-    resource: "https://arxiv.org/abs/2606.28186"
-    title: "Chenguang Wang, Ming Li, Xinyue Zeng, Zhuochun Li, Hong Jiao, Tianyi Zhou, Dawei Zhou. (2026). Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction. https://arxiv.org/abs/2606.28186"
+    resource: "https://doi.org/10.48550/arxiv.2606.28186"
+    title: "Chenguang Wang, Ming Li, Xinyue Zeng, Zhuochun Li, Hong Jiao, Tianyi Zhou, Dawei Zhou. (2026). Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction. https://arxiv.org/abs/2606.28186 [doi:10.48550/arxiv.2606.28186](https://doi.org/10.48550/arxiv.2606.28186)"
     author: Chenguang Wang, Ming Li, Xinyue Zeng, Zhuochun Li, Hong Jiao, Tianyi Zhou, Dawei Zhou
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Profile-based aggregation across both trace sources achieves the best SAT Math performance and remains stronger than matched repeated direct-prompt generation under the same rollout budget
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` On SAT Math, profile-based aggregation across both trace sources (Both (Role)) reaches 0.730 accuracy and 0.728 macro-F1, compared with 0.707/0.708 for source-level aggregation. [→ Chenguang Wang 2026](#chenguang-wang-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Chenguang Wang 2026
 
-Chenguang Wang, Ming Li, Xinyue Zeng, Zhuochun Li, Hong Jiao, Tianyi Zhou, Dawei Zhou. (2026). Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction. https://arxiv.org/abs/2606.28186
+Chenguang Wang, Ming Li, Xinyue Zeng, Zhuochun Li, Hong Jiao, Tianyi Zhou, Dawei Zhou. (2026). Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction. https://arxiv.org/abs/2606.28186 [doi:10.48550/arxiv.2606.28186](https://doi.org/10.48550/arxiv.2606.28186)
 
 `q2 · i?` · `design · r2`
 

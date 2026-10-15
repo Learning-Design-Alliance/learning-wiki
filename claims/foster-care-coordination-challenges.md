@@ -49,4 +49,4 @@ Qualitative analysis of interviews and focus groups with 11 FYSCP county coordin
 - Washington advances cross-sector coordination through a policy-driven, centralized model anchored in legislation such as Project Education Impact and standardized definitions — related
 - California's Local Control Funding Formula provides districts supplemental grants for each student in foster care that must increase or improve services — related
 - Fragmented California educator data systems limit leaders' ability to assess bilingual workforce investments and address shortages — related
-- [Teachers report logistical barriers — transportation, weekly supply shopping, limited computer access, and missing basic supplies — that complicate school participation for students in foster care](logistical-barriers-foster-care-students.md) — related
+- Teachers report logistical barriers — transportation, weekly supply shopping, limited computer access, and missing basic supplies — that complicate school participation for students in foster care — related

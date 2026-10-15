@@ -44,7 +44,7 @@ Qualitative thematic analysis (Braun and Clarke six-phase approach, NVivo-suppor
 
 ## Related Claims
 - [Faculty concerns centered on academic integrity (80%) and student over-reliance on AI (70%), and their most requested development topic was AI ethics and academic integrity (70%)](faculty-ai-concerns-integrity-ethics-training-demand.md) — related
-- [LLM-assisted inductive qualitative coding carries risks of superficial themes, broad or redundant codes, and hallucinated interpretations, so LLMs should augment rather than replace human researchers](llm-inductive-coding-risks-require-human-oversight.md) — related
+- LLM-assisted inductive qualitative coding carries risks of superficial themes, broad or redundant codes, and hallucinated interpretations, so LLMs should augment rather than replace human researchers — related
 - [AI implementation increases the invisible emotional and relational labor of associate deans, which remains unquantified in leadership evaluations](ai-increases-invisible-labor-of-associate-deans.md) — related
 - [Faculty confidence in guiding student AI use rose markedly after the six-week institute, with high-confidence responses increasing from 0% to 60%](ubridge-confidence-gains-pre-post.md) — related
 - [Qualitative survey themes describe 'Pedagogical Burnout': faculty report detection policing displaces teaching, casts them as 'Digital Prosecutors', and fuels an unwinnable arms race](pedagogical-burnout-detection-policing.md) — related

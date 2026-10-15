@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: udeshi-2026
-    resource: "https://sites.google.com/khanacademy.org/aied2026supplementalmaterial/home"
-    title: "Udeshi, T., Khazenzon, A., Khan, K., Breen, N., Corwin, R., DiGiano, C., Weatherholtz, K., Zaluski, M. (2026). Methodologies for Improving the Quality of AI Tutoring in K-12 Education. https://sites.google.com/khanacademy.org/aied2026supplementalmaterial/home"
+    resource: "https://doi.org/10.1007/978-3-032-29755-6_14"
+    title: "Udeshi, T., Khazenzon, A., Khan, K., Breen, N., Corwin, R., DiGiano, C., Weatherholtz, K., Zaluski, M. (2026). Methodologies for Improving the Quality of AI Tutoring in K-12 Education. https://sites.google.com/khanacademy.org/aied2026supplementalmaterial/home [doi:10.1007/978-3-032-29755-6_14](https://doi.org/10.1007/978-3-032-29755-6_14)"
     author: Udeshi, T., Khazenzon, A., Khan, K., Breen, N., Corwin, R., DiGiano, C., Weatherholtz, K., Zaluski, M.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Udeshi 2026
 
-Udeshi, T., Khazenzon, A., Khan, K., Breen, N., Corwin, R., DiGiano, C., Weatherholtz, K., Zaluski, M. (2026). Methodologies for Improving the Quality of AI Tutoring in K-12 Education. https://sites.google.com/khanacademy.org/aied2026supplementalmaterial/home
+Udeshi, T., Khazenzon, A., Khan, K., Breen, N., Corwin, R., DiGiano, C., Weatherholtz, K., Zaluski, M. (2026). Methodologies for Improving the Quality of AI Tutoring in K-12 Education. https://sites.google.com/khanacademy.org/aied2026supplementalmaterial/home [doi:10.1007/978-3-032-29755-6_14](https://doi.org/10.1007/978-3-032-29755-6_14)
 
 `q2 · i?` · `causal · r2`
 

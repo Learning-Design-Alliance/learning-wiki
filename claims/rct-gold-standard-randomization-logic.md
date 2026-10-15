@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` The RCT is considered the gold standard of research evidence because randomization ensures the intervention program is the only possible cause of outcome differences between treatment and control groups. [→ John Deke 2018](#john-deke-2018)

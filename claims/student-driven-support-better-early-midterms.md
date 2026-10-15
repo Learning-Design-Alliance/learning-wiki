@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: minju-park-2026
-    resource: "https://arxiv.org/abs/2605.04534"
-    title: "Minju Park, Ivan Orozco Vasquez, and Cristina Conati. (2026). Characterizing Students' LLM Usage Behaviors and Their Association with Learning in Critical Thinking Tasks. https://arxiv.org/abs/2605.04534"
+    resource: "https://doi.org/10.48550/arxiv.2605.04534"
+    title: "Minju Park, Ivan Orozco Vasquez, and Cristina Conati. (2026). Characterizing Students' LLM Usage Behaviors and Their Association with Learning in Critical Thinking Tasks. https://arxiv.org/abs/2605.04534 [doi:10.48550/arxiv.2605.04534](https://doi.org/10.48550/arxiv.2605.04534)"
     author: Minju Park, Ivan Orozco Vasquez, and Cristina Conati
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Minju Park 2026
 
-Minju Park, Ivan Orozco Vasquez, and Cristina Conati. (2026). Characterizing Students' LLM Usage Behaviors and Their Association with Learning in Critical Thinking Tasks. https://arxiv.org/abs/2605.04534
+Minju Park, Ivan Orozco Vasquez, and Cristina Conati. (2026). Characterizing Students' LLM Usage Behaviors and Their Association with Learning in Critical Thinking Tasks. https://arxiv.org/abs/2605.04534 [doi:10.48550/arxiv.2605.04534](https://doi.org/10.48550/arxiv.2605.04534)
 
 `q2 · i?` · `associational · r1`
 

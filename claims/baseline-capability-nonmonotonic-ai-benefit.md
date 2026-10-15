@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: won-ik-cho-2026
-    resource: "https://arxiv.org/abs/2605.24688"
-    title: "Won Ik Cho, Seong-hun Kim, Geunhye Kim. (2026). Position: Adopting AI in Practice Does Not Guarantee the Productivity Boost. Proceedings of the 43rd International Conference on Machine Learning, PMLR 306. https://arxiv.org/abs/2605.24688"
+    resource: "https://doi.org/10.48550/arxiv.2605.24688"
+    title: "Won Ik Cho, Seong-hun Kim, Geunhye Kim. (2026). Position: Adopting AI in Practice Does Not Guarantee the Productivity Boost. Proceedings of the 43rd International Conference on Machine Learning, PMLR 306. https://arxiv.org/abs/2605.24688 [doi:10.48550/arxiv.2605.24688](https://doi.org/10.48550/arxiv.2605.24688)"
     author: Won Ik Cho, Seong-hun Kim, Geunhye Kim
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Won Ik Cho 2026
 
-Won Ik Cho, Seong-hun Kim, Geunhye Kim. (2026). Position: Adopting AI in Practice Does Not Guarantee the Productivity Boost. Proceedings of the 43rd International Conference on Machine Learning, PMLR 306. https://arxiv.org/abs/2605.24688
+Won Ik Cho, Seong-hun Kim, Geunhye Kim. (2026). Position: Adopting AI in Practice Does Not Guarantee the Productivity Boost. Proceedings of the 43rd International Conference on Machine Learning, PMLR 306. https://arxiv.org/abs/2605.24688 [doi:10.48550/arxiv.2605.24688](https://doi.org/10.48550/arxiv.2605.24688)
 
 `q1 · i?` · `theoretical · r3`
 
@@ -48,5 +48,5 @@ The paper cites two field experiments as its empirical grounding: a customer-sup
 - [Practitioners who adopt AI assistance show reduced independent performance compared to their baseline](ai-adoption-reduced-independent-practitioner-performance.md) — a narrower finding that bears on this claim
 - [Study setting significantly moderates GenAI productivity effects: laboratory experiments show large significant gains (g = 0.73) while enterprise (g = 0.19) and open-source (g = 0.01) effects are substantially smaller and non-significant.](study-setting-moderates-genai-productivity-gains.md) — related
 - [AI Interaction Competence, not GPA or prior knowledge, is the decisive moderator of LLM-assisted learning gains](aic-moderates-llm-learning-gains.md) — a narrower finding that bears on this claim
-- [GPT-4 access raised consultant output quality inside the model's frontier but reduced correct solutions just outside it](jagged-frontier-gains-and-losses-consultants.md) — a narrower finding that bears on this claim
+- GPT-4 access raised consultant output quality inside the model's frontier but reduced correct solutions just outside it — a narrower finding that bears on this claim
 - [Over a quarter of benchmark tasks (23 of 80) defeat all six frontier models, with over 22% showing capability boundaries where scores swing by up to 90 points](capability-boundaries-and-universal-failures-academiclaw.md) — related

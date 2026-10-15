@@ -46,5 +46,5 @@ Qualitative casebook finding from the Lessons Learned chapter, based on intervie
 - [Creating and leading professional learning for colleagues enhances teacher leaders' sense of professionalism and efficacy](ilc-membership-enhances-teacher-leader-efficacy.md) — related
 - [Most ILC workshop participants report that the experience influenced their curriculum, instruction, assessments, engagement, and student learning to a great extent](ilc-participants-report-practice-influence.md) — related
 - [Over four years, more than 250 ILC leaders provided multi-session professional learning to more than 32,000 California educators across more than 2,000 schools and at least 495 districts](ilc-reach-32000-educators-495-districts.md) — related
-- [Trust amongst peers is high while trust of outsiders is low, and vendor relationships in districts follow a long consultative sales cycle](peer-trust-high-outsider-trust-low-edtech.md) — related
+- Trust amongst peers is high while trust of outsiders is low, and vendor relationships in districts follow a long consultative sales cycle — related
 - [Most partner professional development relied on traditional short-term workshops with little classroom-level intensive assistance](probation-support-relies-on-traditional-workshops.md) — related

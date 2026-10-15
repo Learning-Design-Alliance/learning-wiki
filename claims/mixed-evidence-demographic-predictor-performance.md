@@ -10,8 +10,8 @@ generated:
 evidence_strength: mixed
 sources:
   - id: baker-2023
-    resource: "https://jedm.educationaldatamining.org/index.php/JEDM/article/view/619"
-    title: "Baker, R. S., Esbenshade, L., Vitale, J., & Karumbaiah, S. (2023). Using Demographic Data as Predictor Variables: a Questionable Choice. Journal of Educational Data Mining, 15(2). https://jedm.educationaldatamining.org/index.php/JEDM/article/view/619"
+    resource: "https://doi.org/10.35542/osf.io/y4wvj"
+    title: "Baker, R. S., Esbenshade, L., Vitale, J., & Karumbaiah, S. (2023). Using Demographic Data as Predictor Variables: a Questionable Choice. Journal of Educational Data Mining, 15(2). https://jedm.educationaldatamining.org/index.php/JEDM/article/view/619 [doi:10.35542/osf.io/y4wvj](https://doi.org/10.35542/osf.io/y4wvj)"
     author: "Baker, R. S., Esbenshade, L., Vitale, J., & Karumbaiah, S."
     q: 1
     i: "?"
@@ -38,7 +38,7 @@ sources:
 # Evidence is mixed on whether including demographic variables as predictors improves model performance in educational prediction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · theoretical `r3` · `q1`
+> **Evidence** · 2 studies (3 entries) · 2 theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` Some studies find models including race perform substantially better, while others find worse performance or no significant advantage from including demographic variables. [→ Baker 2023](#baker-2023)
@@ -48,7 +48,7 @@ sources:
 
 ### Baker 2023
 
-Baker, R. S., Esbenshade, L., Vitale, J., & Karumbaiah, S. (2023). Using Demographic Data as Predictor Variables: a Questionable Choice. Journal of Educational Data Mining, 15(2). https://jedm.educationaldatamining.org/index.php/JEDM/article/view/619
+Baker, R. S., Esbenshade, L., Vitale, J., & Karumbaiah, S. (2023). Using Demographic Data as Predictor Variables: a Questionable Choice. Journal of Educational Data Mining, 15(2). https://jedm.educationaldatamining.org/index.php/JEDM/article/view/619 [doi:10.35542/osf.io/y4wvj](https://doi.org/10.35542/osf.io/y4wvj)
 
 `q1 · i?` · `theoretical · r3`
 
@@ -84,9 +84,9 @@ The authors' own synthesis of the conflicting findings: "it is unclear whether i
 - [Heterogeneity within demographic categories means group variables as predictors can disadvantage atypical group members and underrepresented groups](demographic-category-heterogeneity-harms-atypical-members.md) — related
 - [Using demographic variables as predictors risks reinforcing biases embedded in training labels, including self-fulfilling prophecies](demographic-predictors-reinforce-training-label-bias.md) — a broader claim this one bears on
 - [Including demographic variables as predictors can reduce actionability by de-emphasizing correlated actionable risk factors and by discounting intervention effects](demographic-predictors-reduce-actionability.md) — a broader claim this one bears on
-- [In descriptive logit models, demographic variables predict dropout at enrollment (e.g., males have a 60% higher chance of dropping out than females), but most lose significance once first-semester performance data is controlled](logit-demographic-predictors-weaken-after-performance-controls.md) — related
+- In descriptive logit models, demographic variables predict dropout at enrollment (e.g., males have a 60% higher chance of dropping out than females), but most lose significance once first-semester performance data is controlled — related
 - [The working paper examines the sensitivity and precision of teacher value-added estimates under specifications differing in student-level, peer-level, and double-lagged achievement controls](vam-sensitivity-student-peer-controls-examined.md) — related
-- [Early-stage performance data is particularly important for predicting attrition, while demographic data has limited predictive value once performance data is available](performance-data-dominates-demographics-in-dropout-prediction.md) — related
+- Early-stage performance data is particularly important for predicting attrition, while demographic data has limited predictive value once performance data is available — related
 - [Using predictive analytics while ignoring teacher knowledge may misidentify students at risk of dropping out and negatively influence teacher views](ignoring-teacher-knowledge-misidentifies-risk-students.md) — related
 - [Fairness of AI outputs remains under-evaluated in edtech research](ai-output-fairness-under-evaluated-edtech.md) — related
 - [Removing the sensitive race feature caused little impact on predictive performance at Stage 1 and no significant fairness differences, with mixed fairness effects](removing-race-feature-little-performance-impact.md) — a narrower finding that bears on this claim

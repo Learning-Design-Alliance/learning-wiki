@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: gupta-2026
-    resource: "https://arxiv.org/abs/2609.38967"
-    title: "Gupta, J., Ayinampudi, P., Aditya B.M.V., Hegade, P., Sharma, R., Sharma, S., Meenakshi, V., Iyengar, S.R.S. (2026). What Students Actually Ask: Demand Structure and Automation Potential in a Hybrid Support System. arXiv:2609.38967. https://arxiv.org/abs/2609.38967"
+    resource: "https://doi.org/10.48550/arxiv.2609.38967"
+    title: "Gupta, J., Ayinampudi, P., Aditya B.M.V., Hegade, P., Sharma, R., Sharma, S., Meenakshi, V., Iyengar, S.R.S. (2026). What Students Actually Ask: Demand Structure and Automation Potential in a Hybrid Support System. arXiv:2609.38967. https://arxiv.org/abs/2609.38967 [doi:10.48550/arxiv.2609.38967](https://doi.org/10.48550/arxiv.2609.38967)"
     author: Gupta, J., Ayinampudi, P., Aditya B.M.V., Hegade, P., Sharma, R., Sharma, S., Meenakshi, V., Iyengar, S.R.S.
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Peer answering in the hybrid support system was fast where it occurred: 70.3% of peer-answered queries closed within one hour, against 1.9% of administrator-answered and 14.8% of script-closed queries
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Evidence** · 2 studies · 2 associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Peer-answered queries closed far faster than administrator- or script-handled ones: 70.3% of peer-answered queries closed within one hour of raising, against 1.9% answered directly by an administrator and 14.8% closed by script. [→ Gupta 2026](#gupta-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Gupta 2026
 
-Gupta, J., Ayinampudi, P., Aditya B.M.V., Hegade, P., Sharma, R., Sharma, S., Meenakshi, V., Iyengar, S.R.S. (2026). What Students Actually Ask: Demand Structure and Automation Potential in a Hybrid Support System. arXiv:2609.38967. https://arxiv.org/abs/2609.38967
+Gupta, J., Ayinampudi, P., Aditya B.M.V., Hegade, P., Sharma, R., Sharma, S., Meenakshi, V., Iyengar, S.R.S. (2026). What Students Actually Ask: Demand Structure and Automation Potential in a Hybrid Support System. arXiv:2609.38967. https://arxiv.org/abs/2609.38967 [doi:10.48550/arxiv.2609.38967](https://doi.org/10.48550/arxiv.2609.38967)
 
 `q2 · i?` · `associational · r2`
 

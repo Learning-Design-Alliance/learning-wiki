@@ -53,7 +53,7 @@ This is a solid, single-context qualitative case study (q2) with real methodolog
 
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - (none yet linked)
-- [Serious talk about teaching in school-based meetings spans five types of intellectual work beyond classroom management](cochran-smith-five-types-intellectual-work.md) — related
+- Serious talk about teaching in school-based meetings spans five types of intellectual work beyond classroom management — related
 - [Course-based research experience boundary objects support disciplinary integration and authentic research networks](course-based-research-experience-boundary-objects-support-disciplinary-integration-and-authentic-research-networks.md) — related
 - [Epistemic games reveal unacknowledged disciplinary differences in interdisciplinary teams](epistemic-games-reveal-unacknowledged-disciplinary-differences-in-teams.md) — related
 - [Interdisciplinary studio collaboration produced challenges including uneven workloads, vocabulary barriers, and difficulty giving cross-disciplinary feedback](interdisciplinary-collab-challenges-workload-vocabulary-feedback.md) — related
@@ -62,6 +62,6 @@ This is a solid, single-context qualitative case study (q2) with real methodolog
 - [Interdisciplinary humanities units improve students' interdisciplinary competences](interdisciplinary-humanities-units-improve-interdisciplinary-competences.md) — related
 - [Subtle teacher guidance, not imposition, enables interdisciplinary integration in small-group deliberation](subtle-teacher-guidance-not-imposition-enables-interdisciplinary-integration.md) — related
 - [Students in interdisciplinary design studio courses reported high authentic motivation stemming from the problems rather than grades](studio-authentic-motivation-beyond-grades.md) — related
-- [Interdisciplinary studies are hindered by proliferating definitions and competing instrumental versus conceptual approaches](interdisciplinarity-competing-definitions-approaches.md) — related
+- Interdisciplinary studies are hindered by proliferating definitions and competing instrumental versus conceptual approaches — related
 - [The study calls for integrative research designs that combine knowledge from multiple fields, including network, multi-level, and simulation modeling](hpl-ii-integrative-multifield-designs.md) — related
 - [Student–AI interactions in authentic coursework concentrate in a small number of recurring patterns rather than idiosyncratic use](student-ai-interactions-concentrate-recurring-patterns.md) — related

@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Presentation software, not directly taught but consistently modeled by instructors, showed a noticeable rise in self-reported adoption, with mean increasing from 4.40 to 5.93 between pretest and post-posttest. [→ Orr 2009](#orr-2009)
@@ -44,6 +45,6 @@ In the pilot's descriptive results (n=15), presentation software means and media
 
 ## Related Claims
 - [Self-reported average level of technology use rose across three administrations of the LoA survey, though not for every technology](loa-pilot-self-reported-increase-all-20-technologies.md) — a broader claim this one bears on
-- [Reported use of bridging/conferencing software showed a significant increase (p<0.001), with mean level rising from 1.00 to 2.60](loa-bridging-conferencing-significant-increase.md) — related
-- [Reported videoconferencing adoption rose significantly after practitioners returned to the workplace (p<0.005), with mean level increasing from 2.00 to 4.53](loa-videoconferencing-significant-post-posttest-increase.md) — related
+- Reported use of bridging/conferencing software showed a significant increase (p<0.001), with mean level rising from 1.00 to 2.60 — related
+- Reported videoconferencing adoption rose significantly after practitioners returned to the workplace (p<0.005), with mean level increasing from 2.00 to 4.53 — related
 - [Colleges adopted new technology platforms to increase efficiencies, but face challenges sustaining their use after the grant ends](technology-platforms-efficiency-adoption-sustainability-challenge.md) — related

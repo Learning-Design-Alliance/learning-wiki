@@ -44,7 +44,7 @@ DIF analysis comparing male–female and Hispanic–White examinees across terms
 
 ## Related Claims
 - [DIF analyses indicate the vast majority of MAP Growth items show negligible differential item functioning across gender and racial/ethnic groups](map-growth-negligible-dif-gender-race-ethnicity.md) — related
-- [Seven items exhibit absolute gender DIF by the LDF method, flagged when the total-score line falls outside .95 confidence bands](ldf-identifies-seven-absolute-dif-items.md) — related
+- Seven items exhibit absolute gender DIF by the LDF method, flagged when the total-score line falls outside .95 confidence bands — related
 - [DIF was found for four items but could not be anticipated from differential response times between boys and girls alone](dif-not-predictable-from-differential-response-times.md) — related
 - [The vast majority of Spanish Math (91%) and Reading (98%) items show no misfit across fall, winter, and spring terms](spanish-items-longitudinal-fit-no-misfit.md) — related
 - [The Spanish math test population is predominantly Hispanic (about 78%), unlike the English math test population (about 15%), with implications for Spanish norms](spanish-english-test-population-ethnicity-difference.md) — related

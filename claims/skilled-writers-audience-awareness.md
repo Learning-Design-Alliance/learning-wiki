@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` All nine skilled writers were found to possess audience awareness, asking whether readers can understand their intended meaning. [→ Yu-Ling You; Shih-Guey Joe 2001](#yu-ling-you-shih-guey-joe-2001)
@@ -45,7 +46,7 @@ Interview analysis of the nine skilled EFL writers on audience awareness. Subjec
 
 - [Authentic Audiences Improve Student Work](authentic-audiences-improve-student-work.md) — the general claim this finding bears on, with the studies behind it
 - [Successful writing requires that the writer first become a sufficiently skillful reader to estimate the effect of the text on a prospective audience](skilled-reader-estimate-audience-effect.md) — a broader claim this one bears on
-- [Skilled EFL writers are aware that coherence and continuity are required elements of text and deliberately fulfill coherence requirements when composing and revising.](skilled-writers-coherence-continuity-awareness.md) — related
-- [Skilled EFL writers are aware of their own writing strengths and weaknesses and exploit strengths while compensating for weaknesses such as limited vocabulary.](skilled-writers-self-awareness-strength-weakness.md) — related
-- [Skilled EFL writers possess declarative knowledge that topic familiarity influences how much and how well they can write about a topic.](skilled-writers-topic-familiarity-knowledge.md) — related
+- Skilled EFL writers are aware that coherence and continuity are required elements of text and deliberately fulfill coherence requirements when composing and revising. — related
+- Skilled EFL writers are aware of their own writing strengths and weaknesses and exploit strengths while compensating for weaknesses such as limited vocabulary. — related
+- Skilled EFL writers possess declarative knowledge that topic familiarity influences how much and how well they can write about a topic. — related
 - [Duplicating readers' experiences helps young writers revise descriptive writing to meet readers' informational needs](duplicating-reader-experiences-meets-informational-needs.md) — related

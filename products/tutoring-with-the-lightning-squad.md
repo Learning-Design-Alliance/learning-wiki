@@ -18,7 +18,7 @@ sources:
 # Tutoring with the Lightning Squad
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Tutoring with the Lightning Squad is a web-based, game-like small-group reading intervention for grades 1–5 that provides paired decoding and fluency tutoring, adaptive activities, and progress monitoring.
@@ -28,9 +28,6 @@ Tutoring with the Lightning Squad is a web-based, game-like small-group reading 
 
 ### Claims
 - [Adequate-dose tutoring showed marginally significant effects for third graders on the NWEA MAP (ES = +0.27)](../claims/lightning-squad-adequate-dose-map-grade3.md) [+W]
-- [The average effect size of Tutoring with the Lightning Squad across outcome measures is +0.07](../claims/lightning-squad-average-effect-0-07.md) [+W]
-- [Principals, site coordinators, and teachers reported strongly positive reactions to the program](../claims/lightning-squad-stakeholder-survey-positive.md) [+W]
-- [Tutoring with the Lightning Squad significantly improves Word Attack scores versus control in a cluster randomized study (ES = +0.18)](../claims/lightning-squad-word-attack-significant-itt.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -68,9 +65,6 @@ Tutoring with the Lightning Squad is a small group reading intervention for grad
 ## Claims
 
 - [Adequate-dose tutoring showed marginally significant effects for third graders on the NWEA MAP (ES = +0.27)](../claims/lightning-squad-adequate-dose-map-grade3.md) [+W]
-- [The average effect size of Tutoring with the Lightning Squad across outcome measures is +0.07](../claims/lightning-squad-average-effect-0-07.md) [+W]
-- [Principals, site coordinators, and teachers reported strongly positive reactions to the program](../claims/lightning-squad-stakeholder-survey-positive.md) [+W]
-- [Tutoring with the Lightning Squad significantly improves Word Attack scores versus control in a cluster randomized study (ES = +0.18)](../claims/lightning-squad-word-attack-significant-itt.md) [+W]
 
 ## Related Elements
 - 

@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Longitudinal research attributed to Collier and Thomas shows all student groups in dual language programs achieve at higher levels on state and national assessments than peers in other program types, and the third-grade EB/non-EB performance gap is eliminated by seventh grade. [→ Marjorie Ceballos 2022](#ceballos-nutta-2022)

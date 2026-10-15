@@ -18,7 +18,7 @@ sources:
 # Conversation-based assessment chat log corpus
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 7 claims (6 for, 1 against) · 2 studies (2 design), `q2` · 0 of 2 report an effect size · 7 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 against) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 A research dataset created by Ober et al. containing more than 10,000 student dialogue turns from English-learning middle school students interacting with a conversation-based mathematics assessment and its pedagogical agents.
@@ -34,7 +34,6 @@ A research dataset created by Ober et al. containing more than 10,000 student di
 - [Same-model LLM configuration pairs agree more than cross-model pairs, and agreement decreases monotonically as temperature difference increases](../claims/llm-pairwise-agreement-model-type-temperature.md) [+W]
 - [LLM configurations show high within-configuration reliability when re-coding the same chat log dataset, with ChatGPT4o/temperature=0 highest](../claims/llm-within-configuration-reliability-high.md) [+W]
 - [Temperature-construct interactions: constructs with moderate theoretical coherence benefited from higher temperatures, while well-defined constructs required deterministic settings](../claims/temperature-construct-type-interaction-coding.md) [+W]
-- [LLM-based transcript classifications agreed highly with human judgment for explicit questions (κ = .778) and math talk (κ = .722), but only moderately for need for help (κ = .562) and confusion (κ = .531)](../claims/llm-classification-agreement-varies-by-construct.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -74,7 +73,6 @@ A chat log dataset of over 10,000 student turns (human coder 1 coded N = 10,919 
 - [Same-model LLM configuration pairs agree more than cross-model pairs, and agreement decreases monotonically as temperature difference increases](../claims/llm-pairwise-agreement-model-type-temperature.md) [+W]
 - [LLM configurations show high within-configuration reliability when re-coding the same chat log dataset, with ChatGPT4o/temperature=0 highest](../claims/llm-within-configuration-reliability-high.md) [+W]
 - [Temperature-construct interactions: constructs with moderate theoretical coherence benefited from higher temperatures, while well-defined constructs required deterministic settings](../claims/temperature-construct-type-interaction-coding.md) [+W]
-- [LLM-based transcript classifications agreed highly with human judgment for explicit questions (κ = .778) and math talk (κ = .722), but only moderately for need for help (κ = .562) and confusion (κ = .531)](../claims/llm-classification-agreement-varies-by-construct.md) [+W]
 
 ## Related Elements
 - 

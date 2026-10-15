@@ -17,7 +17,7 @@ sources:
 # Metro-resemblance and homogeneity-threshold approaches to measuring school racial integration
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article argues that common integration measures are flawed: counting minority students, evenness within already-segregated districts, using public schools as the benchmark, or comparing participants with non-participants all "fail to square with the common understanding of racial integration." It proposes two approaches: comparing each school's racial composition with that of the surrounding metro school-age population, ignoring political boundaries, and counting schools that are more than 90% racially homogeneous, which "cannot be considered to be racially integrated under any reasonable standard." The study applies both to DC public and voucher-participating private schools.
@@ -27,9 +27,6 @@ The article argues that common integration measures are flawed: counting minorit
 - **Metro-resemblance and homogeneity-threshold approaches to measuring school racial integration**: The article argues that common integration measures are flawed: counting minority students, evenness within already-segregated districts, using public schools as the benchmark, or comparing participants with non-participants all "fail to square with the common understanding of racial integration." It proposes two approaches: comparing each school's racial composition with that of the surrounding metro school-age population, ignoring political boundaries, and counting schools that are more than 90% racially homogeneous, which "cannot be considered to be racially integrated under any reasonable standard." The study applies both to DC public and voucher-participating private schools. (Greene et al. (2007))
 
 ### Claims
-- [Voucher-participating private schools in DC have racial compositions closer to the surrounding metro area than public schools](../claims/dc-voucher-schools-closer-to-metro-racial-mix.md) [+M]
-- [Far fewer voucher-participating private schools than DC public schools are racially homogeneous (90% or 95%+ one race)](../claims/dc-voucher-schools-less-racially-homogeneous.md) [+M]
-- [The authors infer the DC voucher program is likely reducing racial segregation in schooling, since 94% of voucher users are African American](../claims/dc-voucher-program-likely-reducing-segregation.md) [+W]
 
 ## Related Research Methods
 -
@@ -63,9 +60,6 @@ The article argues that common integration measures are flawed: counting minorit
 
 ### Claims
 
-- [Dc Voucher Schools Closer To Metro Racial Mix](../claims/dc-voucher-schools-closer-to-metro-racial-mix.md) [+M]
-- [Dc Voucher Schools Less Racially Homogeneous](../claims/dc-voucher-schools-less-racially-homogeneous.md) [+M]
-- [The authors infer the DC voucher program is likely reducing racial segregation in schooling, since 94% of voucher users are African American](../claims/dc-voucher-program-likely-reducing-segregation.md) [+W]
 
 ## Related Theories
 

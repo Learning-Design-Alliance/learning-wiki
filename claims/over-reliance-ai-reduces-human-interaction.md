@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: theodora-2026
-    resource: "https://arxiv.org/abs/2605.16296"
-    title: "Theodora, A., & Tselios, N. (2026). Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy. https://arxiv.org/abs/2605.16296"
+    resource: "https://doi.org/10.48550/arxiv.2605.16296"
+    title: "Theodora, A., & Tselios, N. (2026). Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy. https://arxiv.org/abs/2605.16296 [doi:10.48550/arxiv.2605.16296](https://doi.org/10.48550/arxiv.2605.16296)"
     author: "Theodora, A., & Tselios, N."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Theodora 2026
 
-Theodora, A., & Tselios, N. (2026). Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy. https://arxiv.org/abs/2605.16296
+Theodora, A., & Tselios, N. (2026). Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy. https://arxiv.org/abs/2605.16296 [doi:10.48550/arxiv.2605.16296](https://doi.org/10.48550/arxiv.2605.16296)
 
 `q2 · i?` · `review · r2`
 
@@ -54,7 +54,7 @@ The review warns of over-reliance on AI technologies, arguing dialogue, collabor
 - [Outsourcing productive struggle to AI risks cognitive debt, and reactive compliance-focused approaches are insufficient](cognitive-debt-reactive-ai-approaches-insufficient.md) — related
 - [The current GenAI discourse promises efficiencies while automation of pedagogical design risks devaluing the educational process and undermining educator expertise](genai-efficiency-discourse-risks-devaluing-pedagogical-design.md) — related
 - AIED research has predominantly framed AI as automation or personalization, privileging individual outcomes over social processes — related
-- [The article argues that GAI systems' adaptive functionality inherently encourages over-reliance rather than fostering learner-centric data collection for SDL](gai-adaptive-functionality-encourages-overreliance.md) — related
+- The article argues that GAI systems' adaptive functionality inherently encourages over-reliance rather than fostering learner-centric data collection for SDL — related
 - [GenAI communication benefits depend on integration: embedded agents enhance communication more than external tools, but efficiency can reduce the need for human communication](genai-communication-benefits-depend-on-integration.md) — related
 - [GenAI can foster psychologically safe team interaction while risking reduced human interaction over time](genai-team-interaction-safety-and-reduction.md) — related
 - [Human teacher–GenAI collaboration in embodied mathematics learning calls for a complementary interaction model combining AI feedback with human metacognitive guidance](complementary-human-genai-interaction-model.md) — related

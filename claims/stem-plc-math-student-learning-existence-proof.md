@@ -61,13 +61,12 @@ The synthesis's overall judgment on the few mathematics studies: they give "some
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does teachers' community participation reach their students' achievement?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **4 distinct studies** (2 review, 2 causal), `q1`–`q2`, 1 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does teachers' community participation reach their students' achievement?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **3 distinct studies** (2 causal, 1 review), `q2`, 1 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | Fulton 2010 | q2 · review · r3 | i? | this claim |
-| Kathleen Fulton & Ted Britton 2011 | q1 / q2 · review · r2 | i? | [Students of teachers in STEM learning communities learn mathematics better, but published ](stem-plcs-improve-student-math-achievement.md) (supports) |
-| Professional Learning Communities at Work (PLC at Work) 2020 | q2 · causal · r2 | i? | [PLC at Work has a statistically significant positive effect on state-administered ACT Aspi](plc-at-work-significant-math-effect.md) (supports); [PLC at Work did not significantly affect ELA achievement scores](plc-at-work-no-ela-effect.md) (qualifies); [Subgroup analysis indicates notable growth for students from traditionally underserved gro](plc-at-work-underserved-subgroup-growth.md) (qualifies) |
+| Professional Learning Communities at Work (PLC at Work) 2020 | q2 · causal · r2 | i? | [PLC at Work has a statistically significant positive effect on state-administered ACT Aspi](plc-at-work-significant-math-effect.md) (supports) |
 | Huang 2025 | q2 · causal · r2 | i?; i1 | [vPLC-augmented ASSISTments did not significantly improve overall middle school math achiev](vplc-assistments-no-significant-overall-effect.md) (qualifies); [Low-performing students (below the 50th pretest percentile) showed significant improvement](vplc-assistments-low-performing-significant-gain.md) (qualifies); [Rural students overall did not show a significant effect, but low-performing rural student](vplc-assistments-rural-subgroup-effects.md) (qualifies) |
 <!-- synthesis:end -->
 

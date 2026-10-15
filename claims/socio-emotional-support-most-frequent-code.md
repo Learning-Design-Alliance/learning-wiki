@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: neuschafer-2022
-    resource: "https://eric.ed.gov/?id=EJ1393729"
-    title: "Neuschafer, T. (2022). Understanding Duolingo discussion boards as social-emotional support during the COVID-19 pandemic. Journal of Educators Online. https://eric.ed.gov/?id=EJ1393729"
+    resource: "https://doi.org/10.9743/jeo.2023.20.2.8"
+    title: "Neuschafer, T. (2022). Understanding Duolingo discussion boards as social-emotional support during the COVID-19 pandemic. Journal of Educators Online. https://eric.ed.gov/?id=EJ1393729 [doi:10.9743/jeo.2023.20.2.8](https://doi.org/10.9743/jeo.2023.20.2.8)"
     author: Neuschafer, T.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Neuschafer 2022
 
-Neuschafer, T. (2022). Understanding Duolingo discussion boards as social-emotional support during the COVID-19 pandemic. Journal of Educators Online. https://eric.ed.gov/?id=EJ1393729
+Neuschafer, T. (2022). Understanding Duolingo discussion boards as social-emotional support during the COVID-19 pandemic. Journal of Educators Online. https://eric.ed.gov/?id=EJ1393729 [doi:10.9743/jeo.2023.20.2.8](https://doi.org/10.9743/jeo.2023.20.2.8)
 
 `q2 · i?` · `qualitative · r2`
 
@@ -45,4 +45,4 @@ Frequency counts came from coding the contributions of each discussion post in t
 ## Related Claims
 - [Duolingo discussion boards provided emotional support — social encouragement and community — beyond the instrumental and informational support previously documented](boards-provided-emotional-support.md) — related
 - [Duolingo users sought COVID-19 vocabulary in foreign languages and shared their own translations, with 17 users requesting pandemic-related lesson content](users-sought-covid-language-content.md) — related
-- [Planning was the most frequently coded category (777; 14.8%), with Discourse Continuity (561; 10.7%) reflecting multi-turn reformatting requests](planning-most-frequent-category-777.md) — related
+- Planning was the most frequently coded category (777; 14.8%), with Discourse Continuity (561; 10.7%) reflecting multi-turn reformatting requests — related

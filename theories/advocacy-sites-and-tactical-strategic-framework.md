@@ -16,7 +16,7 @@ sources:
 # Two-dimensional advocacy framework: four sites of advocacy crossed with tactical versus strategic action
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The study's conceptual framework combines Athanases and deOliveira's (2008) categorization of advocacy sites — classroom, school, families and community, and larger sociopolitical structures, depicted as nested circles radiating outward — with Peters and Reid's (2009) distinction between tactical and strategic advocacy. The article states that "advocacy-in-action is both tactical and strategic," addressing immediate day-to-day teaching as well as larger social justice issues. The framework was used deductively to code participants' reported actions by site and impact.
@@ -38,10 +38,6 @@ The study's conceptual framework combines Athanases and deOliveira's (2008) cate
 
 ### Claims
 
-- [Advocacy Actions Mostly Tactical One Strategic](../claims/advocacy-actions-mostly-tactical-one-strategic.md) [+M]
-- [Novice Esl Advocacy School Level Most Common](../claims/novice-esl-advocacy-school-level-most-common.md) [+M]
-- [Novice ESL teachers reported no sociopolitical-dimension advocacy, focusing instead on immediate student needs](../claims/novice-esl-advocacy-no-sociopolitical-actions.md) [+W]
-- [School hierarchy and lack of seniority made advocacy challenging for novice ESL teachers, who relied on relationship building](../claims/school-hierarchy-challenges-novice-advocacy.md) [+W]
 
 ## Related Theories
 - 

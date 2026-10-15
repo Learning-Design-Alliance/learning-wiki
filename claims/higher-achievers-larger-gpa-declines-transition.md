@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: seeskin-2018
-    resource: "https://consortium.uchicago.edu/publications/hidden-risk-changes-gpa-across-transition-high-school"
-    title: "Seeskin, A., Nagaoka, J., & Mahaffie, S. (2018). Hidden risk: Changes in GPA across the transition to high school. Chicago, IL: University of Chicago Consortium on School Research. https://consortium.uchicago.edu/publications/hidden-risk-changes-gpa-across-transition-high-school"
+    resource: "https://doi.org/10.3102/1438529"
+    title: "Seeskin, A., Nagaoka, J., & Mahaffie, S. (2018). Hidden risk: Changes in GPA across the transition to high school. Chicago, IL: University of Chicago Consortium on School Research. https://consortium.uchicago.edu/publications/hidden-risk-changes-gpa-across-transition-high-school [doi:10.3102/1438529](https://doi.org/10.3102/1438529)"
     author: "Seeskin, A., Nagaoka, J., & Mahaffie, S."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Students with higher eighth-grade achievement saw larger core GPA declines across the transition to high school
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Evidence** · 2 studies · 2 associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students with high eighth-grade grades and test scores were especially likely to see large declines: those with eighth-grade core GPAs above 3.5 fell about half a point, while students below 2.0 saw GPAs increase only 0.12 points. [→ Seeskin 2018](#seeskin-2018)
@@ -40,7 +40,7 @@ sources:
 
 ### Seeskin 2018
 
-Seeskin, A., Nagaoka, J., & Mahaffie, S. (2018). Hidden risk: Changes in GPA across the transition to high school. Chicago, IL: University of Chicago Consortium on School Research. https://consortium.uchicago.edu/publications/hidden-risk-changes-gpa-across-transition-high-school
+Seeskin, A., Nagaoka, J., & Mahaffie, S. (2018). Hidden risk: Changes in GPA across the transition to high school. Chicago, IL: University of Chicago Consortium on School Research. https://consortium.uchicago.edu/publications/hidden-risk-changes-gpa-across-transition-high-school [doi:10.3102/1438529](https://doi.org/10.3102/1438529)
 
 `q2 · i?` · `associational · r2`
 

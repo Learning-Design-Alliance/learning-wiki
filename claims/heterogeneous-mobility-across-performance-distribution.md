@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: dan-goldhaber-2011
-    resource: "https://www.mathematica.org/publications/teacher-career-paths-teacher-quality-and-persistence-in-the-classroom-are-public-schools-keeping-their-best"
-    title: "Dan Goldhaber, Betheny Gross, Daniel Player. (2011). Teacher Career Paths, Teacher Quality, and Persistence in the Classroom: Are Public Schools Keeping Their Best? Journal of Policy Analysis and Management, vol. 30, issue 1. https://www.mathematica.org/publications/teacher-career-paths-teacher-quality-and-persistence-in-the-classroom-are-public-schools-keeping-their-best"
+    resource: "https://doi.org/10.1002/pam.20549"
+    title: "Dan Goldhaber, Betheny Gross, Daniel Player. (2011). Teacher Career Paths, Teacher Quality, and Persistence in the Classroom: Are Public Schools Keeping Their Best? Journal of Policy Analysis and Management, vol. 30, issue 1. https://www.mathematica.org/publications/teacher-career-paths-teacher-quality-and-persistence-in-the-classroom-are-public-schools-keeping-their-best [doi:10.1002/pam.20549](https://doi.org/10.1002/pam.20549)"
     author: Dan Goldhaber, Betheny Gross, Daniel Player
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Dan Goldhaber 2011
 
-Dan Goldhaber, Betheny Gross, Daniel Player. (2011). Teacher Career Paths, Teacher Quality, and Persistence in the Classroom: Are Public Schools Keeping Their Best? Journal of Policy Analysis and Management, vol. 30, issue 1. https://www.mathematica.org/publications/teacher-career-paths-teacher-quality-and-persistence-in-the-classroom-are-public-schools-keeping-their-best
+Dan Goldhaber, Betheny Gross, Daniel Player. (2011). Teacher Career Paths, Teacher Quality, and Persistence in the Classroom: Are Public Schools Keeping Their Best? Journal of Policy Analysis and Management, vol. 30, issue 1. https://www.mathematica.org/publications/teacher-career-paths-teacher-quality-and-persistence-in-the-classroom-are-public-schools-keeping-their-best [doi:10.1002/pam.20549](https://doi.org/10.1002/pam.20549)
 
 `q2 · i?` · `associational · r?`
 

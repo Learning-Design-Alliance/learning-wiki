@@ -43,7 +43,7 @@ Quantitative analysis of 2011–18 CPS data compared the likelihood of strong 5E
 
 
 ## Related Claims
-- [Socioeconomically disadvantaged schools are less likely to be strong in the essentials, with a stronger effect in Chicago than the rest of Illinois](socioeconomic-disadvantage-essentials-strength.md) — related
-- [CPS schools are most likely to be strong in effective leaders, collaborative teachers, and ambitious instruction, but least likely to be strong in involved families](cps-individual-essentials-community-patterns.md) — related
-- [School size and student socioeconomic status conditioned trust levels differently in the two contexts](school-size-ses-condition-trust-differently.md) — related
+- Socioeconomically disadvantaged schools are less likely to be strong in the essentials, with a stronger effect in Chicago than the rest of Illinois — related
+- CPS schools are most likely to be strong in effective leaders, collaborative teachers, and ambitious instruction, but least likely to be strong in involved families — related
+- School size and student socioeconomic status conditioned trust levels differently in the two contexts — related
 - [5Essentials Survey measures predicted school improvement in both high- and low-poverty schools at elementary and high school levels](5essentials-predicts-improvement-high-low-poverty.md) — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: griffin-pitts-2026
-    resource: "https://arxiv.org/abs/2604.01114"
-    title: "Griffin Pitts, Neha Rani, and Weedguet Mildort. (2026). Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators. Preprint, accepted to AIED 2026. https://arxiv.org/abs/2604.01114"
+    resource: "https://doi.org/10.48550/arxiv.2604.01114"
+    title: "Griffin Pitts, Neha Rani, and Weedguet Mildort. (2026). Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators. Preprint, accepted to AIED 2026. https://arxiv.org/abs/2604.01114 [doi:10.48550/arxiv.2604.01114](https://doi.org/10.48550/arxiv.2604.01114)"
     author: Griffin Pitts, Neha Rani, and Weedguet Mildort
     q: 3
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Need for cognition negatively moderates the trust–appropriate reliance relationship, with the trust slope becoming more negative as need for cognition increases
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
+> **Evidence** · 2 studies · 2 associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Need for cognition moderated the trust–appropriate reliance association (b = -0.99, p = .040). [→ Griffin Pitts 2026](#griffin-pitts-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Griffin Pitts 2026
 
-Griffin Pitts, Neha Rani, and Weedguet Mildort. (2026). Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators. Preprint, accepted to AIED 2026. https://arxiv.org/abs/2604.01114
+Griffin Pitts, Neha Rani, and Weedguet Mildort. (2026). Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators. Preprint, accepted to AIED 2026. https://arxiv.org/abs/2604.01114 [doi:10.48550/arxiv.2604.01114](https://doi.org/10.48550/arxiv.2604.01114)
 
 `q3 · i?` · `associational · r2`
 

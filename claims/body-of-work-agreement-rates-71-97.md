@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Panelist classification agreement rates for the alternate portfolio standard setting ranged from 71% to 97% across grades and subjects. [→ Olson 2002](#olson-2002)
@@ -44,6 +45,6 @@ Single-state standard setting study with five or six raters per panel and fiftee
 ## Related Claims
 
 - [Criterion-referenced tests require empirically-based construct validation studies](criterion-referenced-tests-need-construct-validation.md) — the general claim this finding bears on, with the studies behind it
-- [Performance classifications varied considerably across grades in both literacy and mathematics for the alternate portfolio assessment](alternate-portfolio-classification-varies-across-grades.md) — related
-- [Presenting ordered portfolios led panelists to shift toward a bookmarking-like mental process, contaminating independent classification](ordered-portfolio-presentation-contamination.md) — related
+- Performance classifications varied considerably across grades in both literacy and mathematics for the alternate portfolio assessment — related
+- Presenting ordered portfolios led panelists to shift toward a bookmarking-like mental process, contaminating independent classification — related
 - [A mean-classification cut-score method outperformed a contrasting-groups-style mean method because it was more robust to outliers](mean-classification-cut-score-method-robust.md) — related

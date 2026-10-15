@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Fifty-seven percent of LEA respondents employ dedicated family liaisons as part of their English Learner programs. [→ Expanding Equitable Access to Bilingual Education in California's Silicon Valley: Analysis and Recommendations 2026](#expanding-equitable-access-to-bilingual-education-in-californias-silicon-valley-analysis-and-recommendations-2026)
@@ -64,6 +65,6 @@ The report describes the family liaison role's functions: "organizing community 
 ## Related Claims
 - [California school districts with similar English Learner program settings span geographic boundaries](district-cluster-settings-span-geography.md) — related
 - [Case study districts' staffing for English Learners falls well below Ohio cost-study recommendations for instructors and bilingual paraprofessionals](el-staffing-gaps-below-ohio-recommendations.md) — related
-- [Most participating LEAs employ instructional coaches and program coordinators positioned to influence English Learner program design, but these roles are vulnerable to funding cuts](sv-leas-employ-coaches-and-coordinators-for-el-programs.md) — related
+- Most participating LEAs employ instructional coaches and program coordinators positioned to influence English Learner program design, but these roles are vulnerable to funding cuts — related
 - [Case study districts show potential underinvestment in family support and engagement, with most reporting no English Learner family/community liaisons](underinvestment-in-el-family-engagement-liaisons.md) — reports the opposite
 - [A field guide asserts that authentic family–school partnerships benefit student achievement and argues that without staff training and coaching the school–family divide persists](family-school-partnerships-need-staff-capacity.md) — related

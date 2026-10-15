@@ -45,9 +45,9 @@ The article describes four outcome scales constructed from the elementary teache
 ## Related Claims
 - [Relational trust functions as a moral resource enabling organizations to effect major structural change](social-trust-moral-resource-structural-change.md) — related
 - [Elementary schools with clusters of three or more NBCTs demonstrate greater strength on 7 of 12 essential supports measures](nbct-clusters-elementary-stronger-essential-supports.md) — related
-- [Teachers are more likely to stay in schools where they perceive colleagues as collaborators, feel influence over their work environment, and trust their principal as an instructional leader](work-environment-predicts-teacher-retention-chicago.md) — related
+- Teachers are more likely to stay in schools where they perceive colleagues as collaborators, feel influence over their work environment, and trust their principal as an instructional leader — related
 - [Chicago charter high school teachers report leadership perceptions similar to non-charter peers but higher trust and collective responsibility among colleagues, and their schools differ most in future preparation: more promotion/graduation requirements, innovative instruction, and college-going emphasis](cps-charter-organizational-capacity-differences.md) — related
-- [Relational trust appears to materialize in schools regardless of vast differences in environments](relational-trust-materializes-regardless-of-environments.md) — related
+- Relational trust appears to materialize in schools regardless of vast differences in environments — related
 - [Teachers in CHSRI schools reported statistically significantly higher perceptions of trust and collaboration than teachers in non-CHSRI schools](chrsi-teachers-higher-trust-collaboration-survey.md) — related
 - [Two LAUNCH elementary schools with NBCT clusters showed significantly positive differences on 8 of 16 school measures](launch-nbct-cluster-schools-dramatic-effects.md) — related
 - [School organizational supports are associated with more interactive and less didactic instruction](school-organizational-supports-interactive-instruction.md) — related

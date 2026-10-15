@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: hornung-2026
-    resource: "https://arxiv.org/abs/2608.07965"
-    title: "Hornung, I., Marasinghe Arachchige, D., Kumarage, T., Agrawal, G., Deng, Y., Chen, Y.-C., & Liu, H. (2026). CyberAGENTS: Structured Autonomy for Agentic Gamified Learning in Cybersecurity. Preprint. https://arxiv.org/abs/2608.07965"
+    resource: "https://doi.org/10.48550/arxiv.2608.07965"
+    title: "Hornung, I., Marasinghe Arachchige, D., Kumarage, T., Agrawal, G., Deng, Y., Chen, Y.-C., & Liu, H. (2026). CyberAGENTS: Structured Autonomy for Agentic Gamified Learning in Cybersecurity. Preprint. https://arxiv.org/abs/2608.07965 [doi:10.48550/arxiv.2608.07965](https://doi.org/10.48550/arxiv.2608.07965)"
     author: "Hornung, I., Marasinghe Arachchige, D., Kumarage, T., Agrawal, G., Deng, Y., Chen, Y.-C., & Liu, H."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Hornung 2026
 
-Hornung, I., Marasinghe Arachchige, D., Kumarage, T., Agrawal, G., Deng, Y., Chen, Y.-C., & Liu, H. (2026). CyberAGENTS: Structured Autonomy for Agentic Gamified Learning in Cybersecurity. Preprint. https://arxiv.org/abs/2608.07965
+Hornung, I., Marasinghe Arachchige, D., Kumarage, T., Agrawal, G., Deng, Y., Chen, Y.-C., & Liu, H. (2026). CyberAGENTS: Structured Autonomy for Agentic Gamified Learning in Cybersecurity. Preprint. https://arxiv.org/abs/2608.07965 [doi:10.48550/arxiv.2608.07965](https://doi.org/10.48550/arxiv.2608.07965)
 
 `q2 · i?` · `design · r2`
 

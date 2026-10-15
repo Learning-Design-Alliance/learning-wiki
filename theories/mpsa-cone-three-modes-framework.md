@@ -16,7 +16,7 @@ sources:
 # MPSA Cone: a cone-shaped framework of three modes of problem-solving action (technical, interpretive, emancipating)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The MPSA Cone is a conceptual framework that maps three modes of problem-solving action onto a relationship cone. It was "formulated by examining and integrating pragmatism, critical science theory, three modes of inquiry, and practical reasoning." The technical mode sits at the top of the cone, the interpretive mode in the middle, and the emancipating mode at the widened base, with the widening ovals representing increasing complexity of thought. The framework is offered as an alternative lens for professionals to examine their own and others' thinking dispositions when confronting problems.
@@ -38,10 +38,6 @@ The MPSA Cone is a conceptual framework that maps three modes of problem-solving
 
 ### Claims
 
-- [Emancipating problem solvers tend toward skeptical, inductive, critical thinking while technical solvers tend toward pre-determined, deductive methods](../claims/cone-geometry-maps-thinking-dispositions.md) [+W]
-- [Emancipating problem-solving action critiques norms back to underlying ideology to seek morally defensible consensus value ends](../claims/emancipating-mode-critique-value-ends.md) [+W]
-- [Interpretive problem-solving action seeks understanding of meanings through democratic communication with those involved](../claims/interpretive-mode-democratic-communication.md) [+W]
-- [Technical problem-solving action uses empirical inquiry and manipulated ways of knowing for the purpose of control](../claims/technical-mode-empirical-control-action.md) [+W]
 
 ## Related Theories
 - 

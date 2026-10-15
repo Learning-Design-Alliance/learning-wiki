@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` In the reviewed studies, PLC that had a teacher leader were more productive than PLC with no appointed leader, and a teacher leader was recognised as an essential part of the organisation in all studies. [→ Harvey 2022](#harvey-2022)
@@ -44,4 +45,4 @@ The review reports, citing Takahashi and McDougal (2016), that PLC with no appoi
 ## Related Claims
 
 - [Productive collaboration norms in mathematics PLC fall into three categories, with trust norms acting as prerequisites for critical inquiry, and develop over time](plc-norms-three-categories-trust-prerequisite.md) — the general claim this finding bears on, with the studies behind it
-- [Educator activity style should match the group's leadership capacity: low activity style with well-developed leadership, high activity style without it](educator-style-matches-leadership-capacity.md) — related
+- Educator activity style should match the group's leadership capacity: low activity style with well-developed leadership, high activity style without it — related

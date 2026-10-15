@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: liu-2026
-    resource: "https://arxiv.org/abs/2607.28890"
-    title: "Liu, A., Esbenshade, L., Xiao, M., Tian, V., Zhang, Z., He, K., & Sun, M. (2026). Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground Truth. Preprint, no identifier printed in text. https://arxiv.org/abs/2607.28890"
+    resource: "https://doi.org/10.48550/arxiv.2607.28890"
+    title: "Liu, A., Esbenshade, L., Xiao, M., Tian, V., Zhang, Z., He, K., & Sun, M. (2026). Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground Truth. Preprint, no identifier printed in text. https://arxiv.org/abs/2607.28890 [doi:10.48550/arxiv.2607.28890](https://doi.org/10.48550/arxiv.2607.28890)"
     author: "Liu, A., Esbenshade, L., Xiao, M., Tian, V., Zhang, Z., He, K., & Sun, M."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # In blind verification, model selection matters more than source type: Bradley-Terry ranking interleaves human coders and LLMs, with per-model win rates spanning significant human advantage to numerical LLM advantage
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Per-model win rates against human coders ranged from 58.8% (Claude Opus, p = 0.092) down to 37.3% (Claude Haiku, p = 0.013); GPT-4o (39.8%, p = 0.048) and Claude Haiku were preferred significantly less often than human coders. [→ Liu 2026](#liu-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Liu 2026
 
-Liu, A., Esbenshade, L., Xiao, M., Tian, V., Zhang, Z., He, K., & Sun, M. (2026). Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground Truth. Preprint, no identifier printed in text. https://arxiv.org/abs/2607.28890
+Liu, A., Esbenshade, L., Xiao, M., Tian, V., Zhang, Z., He, K., & Sun, M. (2026). Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground Truth. Preprint, no identifier printed in text. https://arxiv.org/abs/2607.28890 [doi:10.48550/arxiv.2607.28890](https://doi.org/10.48550/arxiv.2607.28890)
 
 `q2 · i?` · `design · r2`
 
@@ -69,7 +69,7 @@ Bradley-Terry model fit to all 801 decisive blind comparisons over the eight ver
 - [On codes requiring recognition of pedagogical intent not explicitly stated, LLMs over-apply and the blind verifier rejects their application in favor of human coding](intent-inference-codes-require-human-coders.md) — related
 - [Human-LLM agreement on a complex multi-label codebook falls well below human-human agreement, while LLM-LLM agreement is comparable to human-human agreement](human-llm-agreement-gap-jaccard.md) — related
 - [Human-human agreement (average κ = 0.644) was lower than the best LLM-LLM agreement (average κ = 0.856) across constructs](human-human-agreement-lower-than-llm-llm.md) — related
-- [Zero-shot prompt type has minimal impact on LLM-human coding concordance](prompt-type-minimal-impact-llm-coding.md) — related
+- Zero-shot prompt type has minimal impact on LLM-human coding concordance — related
 - [Confidence-aware selective test-time scoring achieves the best average agreement with expert rubric scoring across six NGSS drawing items](ca-selective-best-average-agreement-drawings.md) — related
 - [CLARA annotations align with blinded educator judgments, with 0.81 pairwise agreement and highest-rated educational interpretability](clara-educator-agreement-interpretability.md) — related
 - [CLARA achieves the highest agreement with blinded human developmental ranking judgments compared with readability and prompting baselines](clara-highest-human-ranking-agreement.md) — related

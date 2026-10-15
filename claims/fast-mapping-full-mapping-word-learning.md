@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: ponniah-2011
-    resource: "https://eric.ed.gov/?id=EJ1071042"
-    title: "Ponniah, R. J. (2011). The Effectiveness of the Comprehension Hypothesis: A Review on the Current Research on Incidental Vocabulary Acquisition. i-manager's Journal on English Language Teaching, 1(2), April-June 2011. https://eric.ed.gov/?id=EJ1071042"
+    resource: "https://doi.org/10.26634/jelt.1.2.1452"
+    title: "Ponniah, R. J. (2011). The Effectiveness of the Comprehension Hypothesis: A Review on the Current Research on Incidental Vocabulary Acquisition. i-manager's Journal on English Language Teaching, 1(2), April-June 2011. https://eric.ed.gov/?id=EJ1071042 [doi:10.26634/jelt.1.2.1452](https://doi.org/10.26634/jelt.1.2.1452)"
     author: Ponniah, R. J.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Ponniah 2011
 
-Ponniah, R. J. (2011). The Effectiveness of the Comprehension Hypothesis: A Review on the Current Research on Incidental Vocabulary Acquisition. i-manager's Journal on English Language Teaching, 1(2), April-June 2011. https://eric.ed.gov/?id=EJ1071042
+Ponniah, R. J. (2011). The Effectiveness of the Comprehension Hypothesis: A Review on the Current Research on Incidental Vocabulary Acquisition. i-manager's Journal on English Language Teaching, 1(2), April-June 2011. https://eric.ed.gov/?id=EJ1071042 [doi:10.26634/jelt.1.2.1452](https://doi.org/10.26634/jelt.1.2.1452)
 
 `q2 · i?` · `review · r1`
 

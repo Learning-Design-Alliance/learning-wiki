@@ -17,7 +17,7 @@ sources:
 # Humanizing Mathematics as Boundary Blurring
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The author's conceptualization of humanizing mathematics, contrasted with approaches that bring cultural knowledge into school mathematics. Instead, she frames it as "a process that blurs the boundary" between school mathematics and other practices, so that mathematics learning is seen as ordinary human activity rather than special work. She states that "Humanized mathematics consists of an accessible curriculum and culturally relevant pedagogy", and analyses it through boundary crossing between mathematics education and informal education.
@@ -38,7 +38,6 @@ The author's conceptualization of humanizing mathematics, contrasted with approa
 - Seeing mathematics learning as ordinary human activity rather than special work
 
 ### Claims
-- [Boundary Crossing Collaboration With Informal Educators Reframes Mathematics As Human Practice](../claims/boundary-crossing-collaboration-with-informal-educators-reframes-mathematics-as-human-practice.md) [+W]
 
 ## Related Theories
 - [Boundary Crossing Learning](boundary-crossing-learning.md)

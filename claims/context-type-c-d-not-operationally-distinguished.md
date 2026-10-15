@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: qiang-liu-and-chunyi-zhao-2026
-    resource: "https://arxiv.org/abs/2609.25504"
-    title: "Qiang Liu and Chunyi Zhao. (2026). Literary Axioms: A Conceptual Framework for Literary Creation, Interpretation, and Evaluation. arXiv. https://arxiv.org/abs/2609.25504"
+    resource: "https://doi.org/10.48550/arxiv.2609.25504"
+    title: "Qiang Liu and Chunyi Zhao. (2026). Literary Axioms: A Conceptual Framework for Literary Creation, Interpretation, and Evaluation. arXiv. https://arxiv.org/abs/2609.25504 [doi:10.48550/arxiv.2609.25504](https://doi.org/10.48550/arxiv.2609.25504)"
     author: Qiang Liu and Chunyi Zhao
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Qiang Liu and Chunyi Zhao 2026
 
-Qiang Liu and Chunyi Zhao. (2026). Literary Axioms: A Conceptual Framework for Literary Creation, Interpretation, and Evaluation. arXiv. https://arxiv.org/abs/2609.25504
+Qiang Liu and Chunyi Zhao. (2026). Literary Axioms: A Conceptual Framework for Literary Creation, Interpretation, and Evaluation. arXiv. https://arxiv.org/abs/2609.25504 [doi:10.48550/arxiv.2609.25504](https://doi.org/10.48550/arxiv.2609.25504)
 
 `q2 · i?` · `theoretical · r?`
 

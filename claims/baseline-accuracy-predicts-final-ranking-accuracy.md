@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: cansu-koyuturk-2026
-    resource: "https://arxiv.org/abs/2605.18372"
-    title: "Cansu Koyuturk, Sabrina Guidotti, and Dimitri Ognibene. (2026). The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human–AI Collaboration. https://arxiv.org/abs/2605.18372"
+    resource: "https://doi.org/10.48550/arxiv.2605.18372"
+    title: "Cansu Koyuturk, Sabrina Guidotti, and Dimitri Ognibene. (2026). The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human–AI Collaboration. https://arxiv.org/abs/2605.18372 [doi:10.48550/arxiv.2605.18372](https://doi.org/10.48550/arxiv.2605.18372)"
     author: Cansu Koyuturk, Sabrina Guidotti, and Dimitri Ognibene
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Cansu Koyuturk 2026
 
-Cansu Koyuturk, Sabrina Guidotti, and Dimitri Ognibene. (2026). The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human–AI Collaboration. https://arxiv.org/abs/2605.18372
+Cansu Koyuturk, Sabrina Guidotti, and Dimitri Ognibene. (2026). The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human–AI Collaboration. https://arxiv.org/abs/2605.18372 [doi:10.48550/arxiv.2605.18372](https://doi.org/10.48550/arxiv.2605.18372)
 
 `q3 · i?` · `causal · r2`
 

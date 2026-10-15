@@ -10,6 +10,7 @@ generated:
 evidence_strength: moderate
 sources:
   - id: second-ask
+    resource: "https://doi.org/10.48550/arxiv.2609.19635"
     title: second-ask
     q: 2
     i: "?"
@@ -29,7 +30,7 @@ sources:
 
 ### second-ask
 
-Subigya K. Nepal, Serena Soh, Noah Vinoya, SoHyun Park, Mahnaz Roshanaei, and Gabriella Harari. 2027. Faithful Where It Can Be Checked: Auditing a Reflection Agent Against Its System Prompt in a Randomized Trial. In Proceedings of CHI Conference on Human Factors in Computing Systems (CHI '27). ACM, New York, NY, USA. https://arxiv.org/abs/2609.19635
+Subigya K. Nepal, Serena Soh, Noah Vinoya, SoHyun Park, Mahnaz Roshanaei, and Gabriella Harari. 2027. Faithful Where It Can Be Checked: Auditing a Reflection Agent Against Its System Prompt in a Randomized Trial. In Proceedings of CHI Conference on Human Factors in Computing Systems (CHI '27). ACM, New York, NY, USA. https://arxiv.org/abs/2609.19635 [doi:10.48550/arxiv.2609.19635](https://doi.org/10.48550/arxiv.2609.19635)
 
 `q2 · i?` · `associational · r2`
 

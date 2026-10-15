@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Time constraints were the most cited reason for non-completion (47.3%), followed by course difficulty (27.7%), with differences across gender and race/ethnicity. [→ Huang 2025](#huang-2025)
@@ -44,6 +45,6 @@ Descriptive analysis of survey-reported reasons for non-persistence in the cours
 
 ## Related Claims
 - [Half of reported developmental barriers stem from academic-related challenges (50.39%)](academic-challenges-half-of-development-barriers.md) — related
-- [Mentorship timing has divergent effects on LC101 persistence: post-application mentorship increases course completion odds while pre-application mentorship decreases persistence across both phases](mentorship-timing-divergent-persistence-effects.md) — related
-- [Qualitative interviews identify prior coding interest, time resources, course pacing, and financial constraints as key experiential factors shaping LC101 persistence](qualitative-experience-themes-lc101-persistence.md) — related
+- Mentorship timing has divergent effects on LC101 persistence: post-application mentorship increases course completion odds while pre-application mentorship decreases persistence across both phases — related
+- Qualitative interviews identify prior coding interest, time resources, course pacing, and financial constraints as key experiential factors shaping LC101 persistence — related
 - [Finding another job (29.1%) and low apprenticeship pay (13.9%) are the largest barriers to completing the LC101 apprenticeship phase](job-and-pay-largest-apprenticeship-barriers.md) — related

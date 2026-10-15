@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` A graduate program must facilitate a cognitive disequilibrium during which students identify and question their ethnocentric views, consider the efficacy of other cultural perspectives, and move toward cultural competence. [→ Farmer & Higham 2007](#farmer-higham-2007)
@@ -43,5 +44,5 @@ Authors' program-design recommendation in the curriculum-content discussion, pre
 
 
 ## Related Claims
-- [Egalitarian graduate program design supports culturally responsive leadership development](egalitarian-program-design-supports-culturally-responsive-leadership.md) — related
-- [Interracial interaction is a key component of program design for developing culturally responsive leaders](interracial-interaction-key-to-program-design.md) — related
+- Egalitarian graduate program design supports culturally responsive leadership development — related
+- Interracial interaction is a key component of program design for developing culturally responsive leaders — related

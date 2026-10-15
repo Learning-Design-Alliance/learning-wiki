@@ -17,7 +17,7 @@ sources:
 # Award points for non-answers (modified Traub's rule) to discourage rapid responding on low-stakes tests
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (2 associational), `q2`–`q3` · 1 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article instructs test takers to consider non-answering because it can be worth more than a wrong answer, implementing a modified Traub's rule in which "Students were awarded with 0.25 points for all non-answered items" regardless of item type. The authors used this scoring schema for student feedback only, while research scoring used IRT analysis, and report that rapid responding was far rarer than previously reported for low-stakes tests.
@@ -38,7 +38,6 @@ The article instructs test takers to consider non-answering because it can be wo
 
 ## Claims
 
-- [Rapid responding was rare (0.3% of responses under 5 seconds) on this instructed low-stakes test, far below previously reported low-stakes levels](../claims/rapid-responding-rare-under-non-answer-instruction.md) [+W]
 - [Rapid-guessing behavior occurs on only about 1% of item responses in a commercially available low-stakes assessment](../claims/rapid-guessing-one-percent-commercial-low-stakes-assessment.md) [~W]
 
 ## Related Strategies

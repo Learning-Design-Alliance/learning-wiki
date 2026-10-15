@@ -47,5 +47,5 @@ Synthesis in the RQ1 findings section of the review: LLMs can "simulate evaluati
 - [LLM-based everyday learning is predominantly an individual activity, with 89% learning alone](llm-learning-predominantly-individual.md) — related
 - [LLM assistance can enhance employees' creativity, especially for those with skills to reflect on AI use](llm-assistance-enhances-employee-creativity.md) — related
 - [Open AI collaboration yielded the highest supported writing quality, while bounded AI support yielded the highest independent no-AI Week 8 performance](genai-supported-performance-independent-divergence.md) — related
-- [Review reports that collaborative feedback tasks promoted noticing and peer dialogs enhanced meta-cognitive processing in a university ESL writing class (Riddiford)](cfts-promoted-noticing-peer-dialogs-metacognition.md) — related
+- Review reports that collaborative feedback tasks promoted noticing and peer dialogs enhanced meta-cognitive processing in a university ESL writing class (Riddiford) — related
 - [Students most often rated collaboration opportunities, content interest, and class belonging as worse online](collaboration-interest-belonging-worse-online.md) — related

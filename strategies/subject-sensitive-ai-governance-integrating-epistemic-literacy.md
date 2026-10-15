@@ -17,7 +17,7 @@ sources:
 # Transition from restrictive AI governance to frameworks that formally integrate operational and epistemic workflow competencies with subject-sensitive guidance
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 mixed) · 3 studies (1 associational, 1 qualitative, 1 design), `q2` · 0 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 mixed) · 2 studies (1 associational, 1 qualitative), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends moving beyond restrictive governance toward "a framework that formally integrates overlapping operational and epistemic workflow competencies, emphasizing the need for subject-sensitive guidance that ensures AI enhances rather than displaces disciplinary rigor". Because perceived restrictions co-occur with poor rule clarity and clandestine use, the strategy calls for clear, discipline-specific guidelines that foster productive scaffold use rather than blanket prohibition, and for cultivating epistemic literacy so responsible integration depends less on access than on critical evaluation skills.
@@ -43,7 +43,6 @@ The article recommends moving beyond restrictive governance toward "a framework 
 
 ## Claims
 
-- [Guidance supplies the operative rule in over a third of classifications and resolves most cases where binding instruments are silent on GenAI](../claims/guidance-resolves-binding-silence-on-genai.md) [~W]
 - [In joint analysis, Practice codes correlate most strongly with AI pedagogical orientation, while Epistemic codes show a weaker positive association](../claims/practice-codes-correlate-strongest-with-orientation-factor.md) [~W]
 - [Practitioner governance activity in Australian Group of Eight institutions outpaces what the published GenAI literature has documented, while Indonesian participants report less formal scaffolding](../claims/governance-practice-outpaces-genai-scholarship.md) [~W]
 

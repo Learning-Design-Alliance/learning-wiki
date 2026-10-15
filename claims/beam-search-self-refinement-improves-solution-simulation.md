@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: tao-wu-2025
-    resource: "https://arxiv.org/abs/2505.19997"
-    title: "Tao Wu, Jingyuan Chen, Wang Lin, Mengze Li, Yumeng Zhu, Ang Li, Kun Kuang, Fei Wu. (2025). Embracing Imperfection: Simulating Students with Diverse Cognitive Levels Using LLM-based Agents. https://arxiv.org/abs/2505.19997"
+    resource: "https://doi.org/10.48550/arxiv.2505.19997"
+    title: "Tao Wu, Jingyuan Chen, Wang Lin, Mengze Li, Yumeng Zhu, Ang Li, Kun Kuang, Fei Wu. (2025). Embracing Imperfection: Simulating Students with Diverse Cognitive Levels Using LLM-based Agents. https://arxiv.org/abs/2505.19997 [doi:10.48550/arxiv.2505.19997](https://doi.org/10.48550/arxiv.2505.19997)"
     author: Tao Wu, Jingyuan Chen, Wang Lin, Mengze Li, Yumeng Zhu, Ang Li, Kun Kuang, Fei Wu
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Tao Wu 2025
 
-Tao Wu, Jingyuan Chen, Wang Lin, Mengze Li, Yumeng Zhu, Ang Li, Kun Kuang, Fei Wu. (2025). Embracing Imperfection: Simulating Students with Diverse Cognitive Levels Using LLM-based Agents. https://arxiv.org/abs/2505.19997
+Tao Wu, Jingyuan Chen, Wang Lin, Mengze Li, Yumeng Zhu, Ang Li, Kun Kuang, Fei Wu. (2025). Embracing Imperfection: Simulating Students with Diverse Cognitive Levels Using LLM-based Agents. https://arxiv.org/abs/2505.19997 [doi:10.48550/arxiv.2505.19997](https://doi.org/10.48550/arxiv.2505.19997)
 
 `q2 · i?` · `causal · r1`
 

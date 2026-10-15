@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: tarik-buli-2025
-    resource: "https://digitalpromise.dspacedirect.org/items/7dcf9d16-b5ad-4067-be9f-be30319b1185"
-    title: "Tarik Buli, Stefani Pautz Stephenson, Rebecca Banks, and Amanda Wortman. (2025). From Here to There (FH2T): Educator Perceptions of Game-Based Algebraic Learning. Digital Promise white paper. https://digitalpromise.dspacedirect.org/items/7dcf9d16-b5ad-4067-be9f-be30319b1185"
+    resource: "https://doi.org/10.51388/20.500.12265/262"
+    title: "Tarik Buli, Stefani Pautz Stephenson, Rebecca Banks, and Amanda Wortman. (2025). From Here to There (FH2T): Educator Perceptions of Game-Based Algebraic Learning. Digital Promise white paper. https://digitalpromise.dspacedirect.org/items/7dcf9d16-b5ad-4067-be9f-be30319b1185 [doi:10.51388/20.500.12265/262](https://doi.org/10.51388/20.500.12265/262)"
     author: Tarik Buli, Stefani Pautz Stephenson, Rebecca Banks, and Amanda Wortman
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Tarik Buli 2025
 
-Tarik Buli, Stefani Pautz Stephenson, Rebecca Banks, and Amanda Wortman. (2025). From Here to There (FH2T): Educator Perceptions of Game-Based Algebraic Learning. Digital Promise white paper. https://digitalpromise.dspacedirect.org/items/7dcf9d16-b5ad-4067-be9f-be30319b1185
+Tarik Buli, Stefani Pautz Stephenson, Rebecca Banks, and Amanda Wortman. (2025). From Here to There (FH2T): Educator Perceptions of Game-Based Algebraic Learning. Digital Promise white paper. https://digitalpromise.dspacedirect.org/items/7dcf9d16-b5ad-4067-be9f-be30319b1185 [doi:10.51388/20.500.12265/262](https://doi.org/10.51388/20.500.12265/262)
 
 `q2 · i?` · `qualitative · r?`
 

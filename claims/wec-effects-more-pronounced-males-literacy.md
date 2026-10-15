@@ -44,7 +44,7 @@ Gender-stratified adjusted mixed models (Table 5) on the linked WEC–NAPLAN/PAT
 
 ## Related Claims
 - [The relationship between the WEC index and academic achievement is stable across student year levels and census years, with no meaningful interaction effects](wec-achievement-relationship-stable-year-census.md) — related
-- [Gender effects on self-regulated learning are mediated by culture, discipline, and age, with mixed direction across samples](gender-effects-on-srl-mediated-by-culture-discipline-age.md) — related
-- [Male-to-female ratios among high achievers tend to increase from fall to spring within each school year](mfr-increases-fall-to-spring-within-year.md) — related
+- Gender effects on self-regulated learning are mediated by culture, discipline, and age, with mixed direction across samples — related
+- Male-to-female ratios among high achievers tend to increase from fall to spring within each school year — related
 - [The emotional well-being index has the least predictive power on academic outcomes, with effect sizes in the hundredth-of-a-SD range](well-being-index-least-predictive-academic-outcomes.md) — related
 - [Gamified security training showed stronger confidence and format-preference effects among female students than male students](gender-differences-gamified-security-training.md) — related

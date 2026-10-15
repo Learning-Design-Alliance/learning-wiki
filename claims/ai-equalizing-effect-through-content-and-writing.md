@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: guillermo-cruces-2026
-    resource: "https://www.socialscienceregistry.org/trials/16607"
-    title: "Guillermo Cruces, Diego Fernández Meĳide, Sebastian Galiani, Ramiro H. Gálvez, María Lombardi. (2026). Does generative AI narrow education-based productivity gaps? Evidence from a randomized experiment. https://www.socialscienceregistry.org/trials/16607"
+    resource: "https://doi.org/10.2139/ssrn.6246347"
+    title: "Guillermo Cruces, Diego Fernández Meĳide, Sebastian Galiani, Ramiro H. Gálvez, María Lombardi. (2026). Does generative AI narrow education-based productivity gaps? Evidence from a randomized experiment. https://www.socialscienceregistry.org/trials/16607 [doi:10.2139/ssrn.6246347](https://doi.org/10.2139/ssrn.6246347)"
     author: Guillermo Cruces, Diego Fernández Meĳide, Sebastian Galiani, Ramiro H. Gálvez, María Lombardi
     q: 3
     i: "?"
@@ -32,7 +32,7 @@ sources:
 
 ### Guillermo Cruces 2026
 
-Guillermo Cruces, Diego Fernández Meĳide, Sebastian Galiani, Ramiro H. Gálvez, María Lombardi. (2026). Does generative AI narrow education-based productivity gaps? Evidence from a randomized experiment. https://www.socialscienceregistry.org/trials/16607
+Guillermo Cruces, Diego Fernández Meĳide, Sebastian Galiani, Ramiro H. Gálvez, María Lombardi. (2026). Does generative AI narrow education-based productivity gaps? Evidence from a randomized experiment. https://www.socialscienceregistry.org/trials/16607 [doi:10.2139/ssrn.6246347](https://doi.org/10.2139/ssrn.6246347)
 
 `q3 · i?` · `causal · r2`
 
@@ -48,4 +48,4 @@ Preregistered subcomponent analysis in the randomized experiment's results secti
 - [AI assistance reduces task completion time in both education groups, the only outcome without an equalizing pattern](ai-reduces-completion-time-no-equalizing-pattern.md) — related
 - [AI assistance raises the probability of correctly identifying the task's root cause for both education groups, with near-equalization among treated participants](ai-raises-root-cause-detection-near-equalization.md) — related
 - [How genAI is used, not who uses it, predicts whether independent performance declines or improves](persistence-costs-concentrated-among-direct-solution-users.md) — related
-- [The bespoke GenAI workflow operated as a modest equalising mechanism, with students reporting inclusive participation regardless of prior AI or drawing experience](gen-aitecture-modest-equalising-mechanism.md) — related
+- The bespoke GenAI workflow operated as a modest equalising mechanism, with students reporting inclusive participation regardless of prior AI or drawing experience — related

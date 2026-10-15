@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Older immigrant students (10-12 years old) whose L1 academic proficiency was well-established developed L2 academic proficiency more rapidly than younger immigrant students and attained higher L1 academic proficiency. [→ Rivera 1984](#rivera-1984)

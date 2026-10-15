@@ -68,7 +68,7 @@ Meta-analysis of 52 studies (125 effect sizes) testing reading-strategy interven
 |---|---|---|---|
 | [Ueno et al. 2025](https://doi.org/10.64152/10125/67505) | q4 · quant-synthesis · r? | i2 · medium effect, g=0.72 | this claim |
 | [Okkinga et al. 2018](https://doi.org/10.1007/s10648-018-9445-7) | q3 · quant-synthesis · r? | i0 · negligible effect on standardized tests, d=.186 | this claim |
-| Üstündağ-Algın 2025 | q1 / q2 · causal · r1 | i? | [Explicit instruction of four reading comprehension strategies with short stories yields hi](explicit-strategy-instruction-short-stories-improve-efl-reading-comprehension.md) (supports); [Teacher modeling with worked examples helped EFL students internalize reading comprehensio](teacher-modeling-internalizes-reading-strategies.md) (supports) |
+| [Üstündağ-Algın 2025](https://doi.org/10.61871/mj.v49n4-2) | q1 / q2 · causal · r1 | i? | [Explicit instruction of four reading comprehension strategies with short stories yields hi](explicit-strategy-instruction-short-stories-improve-efl-reading-comprehension.md) (supports); [Teacher modeling with worked examples helped EFL students internalize reading comprehensio](teacher-modeling-internalizes-reading-strategies.md) (supports) |
 | [Yurttaş-Kumlu 2023](https://doi.org/10.33200/ijcer.1082537) | q2 · qualitative · r2 | i? | [Preservice science teachers exposed to explicit reading strategy instruction showed the hi](explicit-instruction-highest-cognitive-strategy-use.md) (supports); [Metacognitive strategies and products of metacognitive processes were more diverse and fre](strategy-instruction-increases-metacognitive-strategy-use.md) (supports) |
 <!-- synthesis:end -->
 

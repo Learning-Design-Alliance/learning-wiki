@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: pelin-yüce-2026
-    resource: "https://arxiv.org/abs/2605.17712"
-    title: "Pelin Yüce, Xiangruo Dai, Rebecca Owens, Tuğrulcan Elmas. (2026). ChatGPT vs Teachers vs Students: Large-Scale Analysis of Generative AI Discourse in Education Communities on Reddit. arXiv. https://arxiv.org/abs/2605.17712"
+    resource: "https://doi.org/10.48550/arxiv.2605.17712"
+    title: "Pelin Yüce, Xiangruo Dai, Rebecca Owens, Tuğrulcan Elmas. (2026). ChatGPT vs Teachers vs Students: Large-Scale Analysis of Generative AI Discourse in Education Communities on Reddit. arXiv. https://arxiv.org/abs/2605.17712 [doi:10.48550/arxiv.2605.17712](https://doi.org/10.48550/arxiv.2605.17712)"
     author: Pelin Yüce, Xiangruo Dai, Rebecca Owens, Tuğrulcan Elmas
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # 17% of GenAI education threads are cross-role; one third of cross-role contact occurs in adversarial integrity themes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
+> **Evidence** · 2 studies · 2 associational `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` 17% of threads are cross-role (faculty and students in the same thread), and one third of such contact occurs in the adversarial themes AI Detection and Misconduct Enforcement. [→ Pelin Yüce 2026](#pelin-yuce-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Pelin Yüce 2026
 
-Pelin Yüce, Xiangruo Dai, Rebecca Owens, Tuğrulcan Elmas. (2026). ChatGPT vs Teachers vs Students: Large-Scale Analysis of Generative AI Discourse in Education Communities on Reddit. arXiv. https://arxiv.org/abs/2605.17712
+Pelin Yüce, Xiangruo Dai, Rebecca Owens, Tuğrulcan Elmas. (2026). ChatGPT vs Teachers vs Students: Large-Scale Analysis of Generative AI Discourse in Education Communities on Reddit. arXiv. https://arxiv.org/abs/2605.17712 [doi:10.48550/arxiv.2605.17712](https://doi.org/10.48550/arxiv.2605.17712)
 
 `q2 · i?` · `associational · r2`
 

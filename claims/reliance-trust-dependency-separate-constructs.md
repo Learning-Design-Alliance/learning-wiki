@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: daniele-verí-2026
-    resource: "https://arxiv.org/abs/2609.15624"
-    title: "Daniele Verí. (2026). Beyond AI Literacy: A Structured Review and Exploratory Meta-Analysis of Measures for Competent Generative-AI Use. arXiv. https://arxiv.org/abs/2609.15624"
+    resource: "https://doi.org/10.48550/arxiv.2609.15624"
+    title: "Daniele Verí. (2026). Beyond AI Literacy: A Structured Review and Exploratory Meta-Analysis of Measures for Competent Generative-AI Use. arXiv. https://arxiv.org/abs/2609.15624 [doi:10.48550/arxiv.2609.15624](https://doi.org/10.48550/arxiv.2609.15624)"
     author: Daniele Verí
     q: 3
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Reliance, trust, and dependency are distinct constructs requiring separate measurement from AI-literacy totals
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · quant-synthesis `r1` · `q2`–`q3`
+> **Evidence** · 2 studies · 2 quant-synthesis `r1` · `q2`–`q3`
 
 ## Subclaims
 `q3 i?` The GenAI Reliance Behaviors Scale validated four factors of reliance during problem solving: reflective, cautious, thoughtless, and collaborative use, with overall internal consistency α = .84. [→ Daniele Verí 2026](#daniele-veri-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Daniele Verí 2026
 
-Daniele Verí. (2026). Beyond AI Literacy: A Structured Review and Exploratory Meta-Analysis of Measures for Competent Generative-AI Use. arXiv. https://arxiv.org/abs/2609.15624
+Daniele Verí. (2026). Beyond AI Literacy: A Structured Review and Exploratory Meta-Analysis of Measures for Competent Generative-AI Use. arXiv. https://arxiv.org/abs/2609.15624 [doi:10.48550/arxiv.2609.15624](https://doi.org/10.48550/arxiv.2609.15624)
 
 `q3 · i?` · `quant-synthesis · r1`
 

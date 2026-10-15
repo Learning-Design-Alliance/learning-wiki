@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: li-siyan-2026
-    resource: "https://arxiv.org/abs/2606.26641"
-    title: "Li Siyan, Kai-Hui Liang, Shopnil Shahriar, Yilin Ye, Shiyoh Goetsu, Wei-Wei Du, Masahiro Yoshida, Tsunayuki Ohwa, Xuhai Xu, and Zhou Yu. (2026). Invisible Impact of Empathy on Behavioral Change: Isolating the Effect of Empathy in Long-term Physical Activity Coaching Chatbot Interactions. https://arxiv.org/abs/2606.26641"
+    resource: "https://doi.org/10.48550/arxiv.2606.26641"
+    title: "Li Siyan, Kai-Hui Liang, Shopnil Shahriar, Yilin Ye, Shiyoh Goetsu, Wei-Wei Du, Masahiro Yoshida, Tsunayuki Ohwa, Xuhai Xu, and Zhou Yu. (2026). Invisible Impact of Empathy on Behavioral Change: Isolating the Effect of Empathy in Long-term Physical Activity Coaching Chatbot Interactions. https://arxiv.org/abs/2606.26641 [doi:10.48550/arxiv.2606.26641](https://doi.org/10.48550/arxiv.2606.26641)"
     author: Li Siyan, Kai-Hui Liang, Shopnil Shahriar, Yilin Ye, Shiyoh Goetsu, Wei-Wei Du, Masahiro Yoshida, Tsunayuki Ohwa, Xuhai Xu, and Zhou Yu
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Li Siyan 2026
 
-Li Siyan, Kai-Hui Liang, Shopnil Shahriar, Yilin Ye, Shiyoh Goetsu, Wei-Wei Du, Masahiro Yoshida, Tsunayuki Ohwa, Xuhai Xu, and Zhou Yu. (2026). Invisible Impact of Empathy on Behavioral Change: Isolating the Effect of Empathy in Long-term Physical Activity Coaching Chatbot Interactions. https://arxiv.org/abs/2606.26641
+Li Siyan, Kai-Hui Liang, Shopnil Shahriar, Yilin Ye, Shiyoh Goetsu, Wei-Wei Du, Masahiro Yoshida, Tsunayuki Ohwa, Xuhai Xu, and Zhou Yu. (2026). Invisible Impact of Empathy on Behavioral Change: Isolating the Effect of Empathy in Long-term Physical Activity Coaching Chatbot Interactions. https://arxiv.org/abs/2606.26641 [doi:10.48550/arxiv.2606.26641](https://doi.org/10.48550/arxiv.2606.26641)
 
 `q2 · i?` · `causal · r1`
 
@@ -46,9 +46,9 @@ LLM-based annotation of 237 collected conversations (76 Non-Empathetic, 80 Stand
 - [In a six-week within-subject study, the Empathetic PA coaching chatbot improves intention to follow and self-efficacy faster over time than the Non-Empathetic condition](empathetic-chatbot-faster-intention-selfefficacy-growth.md) — related
 - [Starting interaction with the Empathetic chatbot is associated with the least attrition in the six-week study](empathetic-condition-least-attrition.md) — related
 - [LLM-annotated empathy dimensions correlate positively with intention to follow, self-efficacy, and chatbot usefulness despite participants not preferring empathetic chatbots](empathy-dimensions-correlate-with-outcomes.md) — related
-- [Prompt settings and temperature settings have significant main effects on correlations among the three LLM chatbots](anova-prompt-temperature-effects-llm-llm-alignment.md) — related
+- Prompt settings and temperature settings have significant main effects on correlations among the three LLM chatbots — related
 - [Average check-in and weekly ratings show no significant differences between chatbot conditions, with the Non-Empathetic chatbot often rated as more engaging and useful](no-significant-average-differences-nonempathetic-rated-higher.md) — related
-- [Interview-containing prompts increased response diversity for Claude and GPT, while Gemini diversified with demographic-only prompts](interview-prompts-increase-llm-response-diversity.md) — related
-- [Claude showed the highest alignment with human BREQ responses, and interview-containing prompts aligned better than baseline prompts](claude-highest-human-alignment-interview-prompts.md) — related
+- Interview-containing prompts increased response diversity for Claude and GPT, while Gemini diversified with demographic-only prompts — related
+- Claude showed the highest alignment with human BREQ responses, and interview-containing prompts aligned better than baseline prompts — related
 - [Non-expert participants often fail to notice empathy differences between chatbot versions, so self-reported perceived empathy alone is an unreliable assessment method](nonexpert-perceived-empathy-unreliable.md) — related
 - [REMind did not significantly increase measured empathy, but baseline human-directed empathy correlated positively with robot-directed empathy](remind-empathy-null-and-robot-empathy-correlation.md) — related

@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` The same content spaced over time can dramatically improve learning and retention, and switching between content types is a desirable difficulty that supports durable, flexibly accessible learning. [→ Digital Promise and the Institute for Applied Neuroscience 2019](#digital-promise-and-the-institute-for-applied-neuroscience-2019)

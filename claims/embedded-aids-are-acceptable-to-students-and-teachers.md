@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i1` small
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Approximately 90% of students said they had no difficulty understanding or using the Aids, and over 75% indicated they would like to see similar Aids throughout the book. [→ Manzo 1977](#manzo-1977)
@@ -44,5 +45,5 @@ Student attitude survey data reported in the article alongside the experimental 
 
 ## Related Claims
 - [Textual material treated with embedded aids produced 10-15% higher reading comprehension scores than conventional text, statistically significant at the .01 level, in a science-material study with approximately 200 tenth graders across three schools.](embedded-aids-improve-reading-comprehension.md) — related
-- [Embedded aids address the content-area reading problem by helping weak readers read textual material and helping effective readers transfer training across disciplines, via a running commentary explaining key concepts, terminology, and questions.](embedded-aids-support-cross-disciplinary-transfer-of-reading-skills.md) — related
+- Embedded aids address the content-area reading problem by helping weak readers read textual material and helping effective readers transfer training across disciplines, via a running commentary explaining key concepts, terminology, and questions. — related
 - [Learners hold positive attitudes toward glosses, but their perceptions of which gloss type works best do not match measured performance](gloss-perceptions-mismatch-performance.md) — related

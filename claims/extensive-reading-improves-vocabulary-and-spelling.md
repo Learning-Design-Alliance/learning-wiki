@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Extensive reading helps learners internalize new vocabulary, enlarge vocabulary size, and correct spelling via repeated exposure in varied contexts. [→ Hardy 2025](#hardy-2025)
@@ -62,7 +63,7 @@ The review attributes a spelling benefit to cited studies: frequent exposure to 
 
 
 ## Related Claims
-- [Extensive reading improves reading comprehension and reading fluency](extensive-reading-improves-comprehension-and-fluency.md) — related
+- Extensive reading improves reading comprehension and reading fluency — related
 - [L2 learners pick up vocabulary incidentally from meaning-focused input, with reading the most-studied mode and listening yielding similar proportions of words learned](incidental-vocabulary-learning-through-reading-for-meaning.md) — possibly the same claim (merge candidate)
 - [Incidental vocabulary exposure produces reliable learning, but learners pick up only a small share of the unknown words they meet](incidental-vocabulary-exposure-limited.md) — a narrower finding that bears on this claim
 - [Pairing Contextual Encounters With Explicit Instruction Produces Stronger Vocabulary Outcomes Than Either Alone](pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone.md) — related

@@ -42,7 +42,7 @@ Qualitative analysis (NVIVO-coded) of seven semi-structured interviews with lead
 
 
 ## Related Claims
-- [Professional development texts on data use provide few opportunities for educators to learn statistics, treating statistical concepts superficially](pd-texts-few-statistics-opportunities.md) — related
+- Professional development texts on data use provide few opportunities for educators to learn statistics, treating statistical concepts superficially — related
 - [Current district privacy and security approaches foster superficial compliance over rigorous safeguards and provide minimal visibility into how student data are used](privacy-compliance-over-rigorous-safeguards.md) — related
 - [SWOT in educational settings is typically applied superficially, episodically, and detached from improvement cycles](swot-applied-superficially-episodically-in-schools.md) — related
 - [University students in Communication and Education programs show low familiarity with media literacy, media education, and educommunication terms](students-low-familiarity-media-literacy-terms.md) — related

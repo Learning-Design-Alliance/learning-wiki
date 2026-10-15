@@ -64,9 +64,9 @@ Validity discussion of construct validity: self-efficacy for long division corre
 ## Related Claims
 - [Cross-cultural measurement problems may bias psychosocial instruments translated across cultures](cross-cultural-measurement-bias-in-translated-psychosocial-instruments.md) — related
 - [Self-efficacy judgments correspond less well to behavior in learning settings than in performance settings](self-efficacy-accuracy-lower-in-learning-settings.md) — related
-- [Teacher-belief and competence/value scales show high internal consistency (alphas .92 and .89), while the social-activity and excellence scales are weaker (.65 and .69)](mrbq-scale-reliability-mixed.md) — related
-- [Reliability of the thinking styles scale ranges from .722 to .913 across its five dimensions](thinking-styles-scale-reliability-nrm.md) — related
-- [The EEEBI shows promise in assessing preservice teachers' EE belief efficacy, though its reliability and validity are not yet established](eeebi-instrument-preliminary-promise.md) — related
-- [Teaching style scales show moderate inter-scale correlations (.50-.70) and observer agreement on ratings between .50 and .60](style-scale-correlations-and-observer-agreement.md) — related
+- Teacher-belief and competence/value scales show high internal consistency (alphas .92 and .89), while the social-activity and excellence scales are weaker (.65 and .69) — related
+- Reliability of the thinking styles scale ranges from .722 to .913 across its five dimensions — related
+- The EEEBI shows promise in assessing preservice teachers' EE belief efficacy, though its reliability and validity are not yet established — related
+- Teaching style scales show moderate inter-scale correlations (.50-.70) and observer agreement on ratings between .50 and .60 — related
 - [Mathematics teachers differ from other teachers in data use, attitudes, and self-efficacy for DBDM](math-teachers-data-use-attitudes-self-efficacy.md) — related
 - [The full survey's test-retest reliability coefficient is 0.79, considered acceptable bordering on good](test-retest-reliability-079-full-survey.md) — a narrower finding that bears on this claim

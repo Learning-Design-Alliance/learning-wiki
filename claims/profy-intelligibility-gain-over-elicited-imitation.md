@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: kazuki-kawamura-2025
-    resource: "https://arxiv.org/abs/2608.08990"
-    title: "Kazuki Kawamura. (2025). AI-Guided Learning: Research on Knowledge and Skill Acquisition Support Methods Using Deep Learning Audio-Video Processing Techniques. Doctoral dissertation, The University of Tokyo. https://arxiv.org/abs/2608.08990"
+    resource: "https://doi.org/10.48550/arxiv.2608.08990"
+    title: "Kazuki Kawamura. (2025). AI-Guided Learning: Research on Knowledge and Skill Acquisition Support Methods Using Deep Learning Audio-Video Processing Techniques. Doctoral dissertation, The University of Tokyo. https://arxiv.org/abs/2608.08990 [doi:10.48550/arxiv.2608.08990](https://doi.org/10.48550/arxiv.2608.08990)"
     author: Kazuki Kawamura
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Kazuki Kawamura 2025
 
-Kazuki Kawamura. (2025). AI-Guided Learning: Research on Knowledge and Skill Acquisition Support Methods Using Deep Learning Audio-Video Processing Techniques. Doctoral dissertation, The University of Tokyo. https://arxiv.org/abs/2608.08990
+Kazuki Kawamura. (2025). AI-Guided Learning: Research on Knowledge and Skill Acquisition Support Methods Using Deep Learning Audio-Video Processing Techniques. Doctoral dissertation, The University of Tokyo. https://arxiv.org/abs/2608.08990 [doi:10.48550/arxiv.2608.08990](https://doi.org/10.48550/arxiv.2608.08990)
 
 `q2 · i?` · `design · r2`
 

@@ -17,7 +17,7 @@ sources:
 # Worsley et al.'s twelve commitments for high-quality MMLA research
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (2 review), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review adopts Worsley et al.'s (2021) framework of "12 commitments for conducting high-quality MMLA research, which are grouped into three major categories: 1) data collection, 2) analysis and inference, and 3) feedback and data dissemination." Unlike prior work focusing on a few aspects, the commitments provide "a comprehensive guideline for MMLA research to improve the rigour, impact, transparency, and ethics of MMLA studies." The review used them as the coding framework for included studies, alongside Chango et al.'s fusion classification and Mu et al.'s data-source taxonomy.
@@ -28,7 +28,6 @@ The review adopts Worsley et al.'s (2021) framework of "12 commitments for condu
 
 ### Claims
 - [K–8 MMLA studies rarely report data fusion techniques, ethics, and transparency despite collecting multimodal data](../claims/mmla-k8-fusion-ethics-underreported.md) [+M]
-- [Learning analytics and EDM researchers raise practical concerns: impoverished ontologies, easy-to-collect data bias, interdisciplinary demands, and negative consequences for students](../claims/edm-learning-analytics-practice-concerns.md) [+W]
 
 ## Related Research Methods
 -
@@ -63,7 +62,6 @@ The review adopts Worsley et al.'s (2021) framework of "12 commitments for condu
 ### Claims
 
 - [Mmla K8 Fusion Ethics Underreported](../claims/mmla-k8-fusion-ethics-underreported.md) [+M]
-- [Learning analytics and EDM researchers raise practical concerns: impoverished ontologies, easy-to-collect data bias, interdisciplinary demands, and negative consequences for students](../claims/edm-learning-analytics-practice-concerns.md) [+W]
 
 ## Related Theories
 

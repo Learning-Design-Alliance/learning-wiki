@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: fv-kowalski-and-se-kowalski-2013
-    resource: "https://arxiv.org/abs/1308.1110"
-    title: "F.V. Kowalski and S.E. Kowalski. (2013). Enhancing Curiosity Using Interactive Simulations Combined with Real-Time Formative Assessment Facilitated by Open-Format Questions on Tablet Computers. https://arxiv.org/abs/1308.1110"
+    resource: "https://doi.org/10.48550/arxiv.1308.1110"
+    title: "F.V. Kowalski and S.E. Kowalski. (2013). Enhancing Curiosity Using Interactive Simulations Combined with Real-Time Formative Assessment Facilitated by Open-Format Questions on Tablet Computers. https://arxiv.org/abs/1308.1110 [doi:10.48550/arxiv.1308.1110](https://doi.org/10.48550/arxiv.1308.1110)"
     author: F.V. Kowalski and S.E. Kowalski
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### F.V. Kowalski and S.E. Kowalski 2013
 
-F.V. Kowalski and S.E. Kowalski. (2013). Enhancing Curiosity Using Interactive Simulations Combined with Real-Time Formative Assessment Facilitated by Open-Format Questions on Tablet Computers. https://arxiv.org/abs/1308.1110
+F.V. Kowalski and S.E. Kowalski. (2013). Enhancing Curiosity Using Interactive Simulations Combined with Real-Time Formative Assessment Facilitated by Open-Format Questions on Tablet Computers. https://arxiv.org/abs/1308.1110 [doi:10.48550/arxiv.1308.1110](https://doi.org/10.48550/arxiv.1308.1110)
 
 `q2 · i?` · `design · r2`
 

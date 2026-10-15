@@ -10,6 +10,7 @@ generated:
 evidence_strength: moderate
 sources:
   - id: semester-rmssd
+    resource: "https://doi.org/10.48550/arxiv.2605.14360"
     title: semester-rmssd
     q: 2
     i: "?"
@@ -36,7 +37,7 @@ sources:
 
 ### semester-rmssd
 
-Tamunotonye Harry, Johanna Hidalgo, Matthew Price, Yuanyuan Feng, Kathryn Stanton, Connie Tompkins, Peter Sheridan Dodds, Mikaela Irene Fudolig, Laura Bloomfield, and Christopher Danforth. 2026. A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 10, 4, Article 219 (December 2026). https://arxiv.org/abs/2605.14360
+Tamunotonye Harry, Johanna Hidalgo, Matthew Price, Yuanyuan Feng, Kathryn Stanton, Connie Tompkins, Peter Sheridan Dodds, Mikaela Irene Fudolig, Laura Bloomfield, and Christopher Danforth. 2026. A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 10, 4, Article 219 (December 2026). https://arxiv.org/abs/2605.14360 [doi:10.48550/arxiv.2605.14360](https://doi.org/10.48550/arxiv.2605.14360)
 
 `q2 · i?` · `associational · r2`
 

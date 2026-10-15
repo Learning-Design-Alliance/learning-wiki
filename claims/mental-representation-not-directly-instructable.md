@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: bill-vanpatten-2010
-    resource: "https://www.um.es/ijes"
-    title: "Bill VanPatten. (2010). The Two Faces of SLA: Mental Representation and Skill. International Journal of English Studies, 10(1), 1-18. https://www.um.es/ijes"
+    resource: "https://doi.org/10.6018/ijes/2010/1/113951"
+    title: "Bill VanPatten. (2010). The Two Faces of SLA: Mental Representation and Skill. International Journal of English Studies, 10(1), 1-18. https://www.um.es/ijes [doi:10.6018/ijes/2010/1/113951](https://doi.org/10.6018/ijes/2010/1/113951)"
     author: Bill VanPatten
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Bill VanPatten 2010
 
-Bill VanPatten. (2010). The Two Faces of SLA: Mental Representation and Skill. International Journal of English Studies, 10(1), 1-18. https://www.um.es/ijes
+Bill VanPatten. (2010). The Two Faces of SLA: Mental Representation and Skill. International Journal of English Studies, 10(1), 1-18. https://www.um.es/ijes [doi:10.6018/ijes/2010/1/113951](https://doi.org/10.6018/ijes/2010/1/113951)
 
 `q1 · i?` · `theoretical · r3`
 
@@ -46,7 +46,7 @@ Theoretical argument in section I.3: the author reasons that UG and parsers/proc
 - [Explicit L2 grammar instruction leads to larger learning effects than implicit instruction, as reported in the reviewed synthesis literature](explicit-l2-grammar-instruction-superior-to-implicit.md) — the general claim this finding bears on, with the studies behind it
 - [A 2010 narrative review reports that processing-instruction studies show structured input without explicit information can change learner knowledge](structured-input-alone-sufficient-for-acquisition.md) — related
 - [A 1982 bilingual-education teacher-training packet asserts, citing Krashen, that repetitive drill and grammar-focused instruction are ineffective for second language acquisition](drill-and-grammar-focus-ineffective-for-l2-acquisition.md) — a broader claim this one bears on
-- [Comprehensible input in natural language contexts is presented as essential to second language acquisition](comprehensible-input-essential-l2-acquisition.md) — related
+- Comprehensible input in natural language contexts is presented as essential to second language acquisition — related
 - [Learners show no first-language transfer for manner adverbs, judging sentence-final placement acceptable and pre-verbal placement unacceptable despite Chinese word order](no-l1-transfer-manner-adverb-positions.md) — related
 - [A 1999 conference paper reports, citing White (1991) and Schwartz and Gubala-Ryzak (1992), that explicit negative evidence on English adverb placement produced only superficial change in French learners](white-adverb-placement-negative-evidence-failed.md) — a narrower finding that bears on this claim
 - [Causal knowledge cannot be derived from data analysis alone but requires outside information about the data-generation process](causal-knowledge-requires-outside-data-information.md) — related

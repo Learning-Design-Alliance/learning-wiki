@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` The paper argues that when teachers find AI technologies enjoyable, engaging and satisfying, they may be more motivated to use them. [→ Yurt 2024](#yurt-2024)
@@ -63,11 +64,11 @@ Theoretical argument offered as an example in the same section, with no data: te
 
 ## Related Claims
 - [Co-design tools for standards analysis, student-interest data, and launch rehearsal support balancing standards alignment with student interests](co-design-tools-support-balancing-standards-and-student-interests.md) — related
-- [The article argues learning is a natural, enjoyable human process rather than one driven by pressure and anxiety](learning-is-natural-enjoyable-process-argument.md) — related
+- The article argues learning is a natural, enjoyable human process rather than one driven by pressure and anxiety — related
 - [Teachers who believe AI use will contribute to their professional success and identity (attainment value) may be more motivated to use it (theoretical argument).](teacher-attainment-value-increases-motivation-to-use-ai.md) — related
 - [Teachers' expectancy beliefs about successfully using AI applications shape their motivation to use them (theoretical argument).](teacher-expectancy-beliefs-shape-motivation-to-use-ai.md) — related
 - [Teachers who believe AI will help them reach professional goals and improve students' learning outcomes (utility value) may be more motivated to use it (theoretical argument).](teacher-utility-value-increases-motivation-to-use-ai.md) — related
 - [Teachers who perceive the challenges and barriers of using AI as high (cost) may be less motivated to use it (theoretical argument).](teacher-perceived-cost-reduces-motivation-to-use-ai.md) — related
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — a broader claim this one bears on
-- [Effortful learning strategies posed a student motivation challenge at d.tech, which teachers addressed by explaining the underlying science directly to students](productive-struggle-motivation-explaining-brain-rules.md) — related
+- Effortful learning strategies posed a student motivation challenge at d.tech, which teachers addressed by explaining the underlying science directly to students — related
 - [AI access makes learning more enjoyable but does not change self-assessed knowledge or felt effectiveness](genai-raises-learning-enjoyment.md) — related

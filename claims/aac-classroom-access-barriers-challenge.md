@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: byrnes-c-2026
-    resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13550906/"
-    title: "Byrnes C, Moran G, Clarke MT, Caron J, Smith EM, Galvin R, Gallagher AL. (2026). Experiences of Augmentative and Alternative Communication use in School: A Qualitative Evidence Synthesis Protocol. HRB Open Research. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13550906/"
+    resource: "https://doi.org/10.12688/hrbopenres.14332.2"
+    title: "Byrnes C, Moran G, Clarke MT, Caron J, Smith EM, Galvin R, Gallagher AL. (2026). Experiences of Augmentative and Alternative Communication use in School: A Qualitative Evidence Synthesis Protocol. HRB Open Research. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13550906/ [doi:10.12688/hrbopenres.14332.2](https://doi.org/10.12688/hrbopenres.14332.2)"
     author: Byrnes C, Moran G, Clarke MT, Caron J, Smith EM, Galvin R, Gallagher AL
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Byrnes C 2026
 
-Byrnes C, Moran G, Clarke MT, Caron J, Smith EM, Galvin R, Gallagher AL. (2026). Experiences of Augmentative and Alternative Communication use in School: A Qualitative Evidence Synthesis Protocol. HRB Open Research. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13550906/
+Byrnes C, Moran G, Clarke MT, Caron J, Smith EM, Galvin R, Gallagher AL. (2026). Experiences of Augmentative and Alternative Communication use in School: A Qualitative Evidence Synthesis Protocol. HRB Open Research. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13550906/ [doi:10.12688/hrbopenres.14332.2](https://doi.org/10.12688/hrbopenres.14332.2)
 
 `q2 · i?` · `review · r?`
 

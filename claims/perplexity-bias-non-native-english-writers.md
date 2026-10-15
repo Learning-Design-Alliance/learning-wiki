@@ -44,7 +44,7 @@ The paper reports, citing Liang et al. (2023), that detectors use perplexity as 
 
 
 ## Related Claims
-- [GPT detectors frequently misclassify non-native English writing as AI-generated, raising fairness concerns for AI policy](gpt-detectors-biased-against-nonnative-english-writers.md) — possibly the same claim (merge candidate)
+- GPT detectors frequently misclassify non-native English writing as AI-generated, raising fairness concerns for AI policy — possibly the same claim (merge candidate)
 - [AI-text detectors misclassify authentic TOEFL essays by non-native English speakers at a mean false-positive rate of 61.3% across seven detectors, far more often than native-speaker essays](detector-61-3-percent-false-positives-non-native-toefl.md) — possibly the same claim (merge candidate)
 - [AI-detection tools produce inequitable outcomes, disadvantaging non-native English speakers through false positives](ai-detection-tools-inequitable-false-positives.md) — a broader claim this one bears on
 - [The review reports that AI detection tools disproportionately flag multilingual writers, which the authors frame as digital structural violence](detection-tools-disproportionately-flag-multilingual-writers.md) — a broader claim this one bears on

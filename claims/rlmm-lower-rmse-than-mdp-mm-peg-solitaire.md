@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: wenqian-xu-2026
-    resource: "https://arxiv.org/abs/2605.09305"
-    title: "Wenqian Xu, Feng Ji. (2026). Reinforcement Learning Measurement Model. arXiv. https://arxiv.org/abs/2605.09305"
+    resource: "https://doi.org/10.48550/arxiv.2605.09305"
+    title: "Wenqian Xu, Feng Ji. (2026). Reinforcement Learning Measurement Model. arXiv. https://arxiv.org/abs/2605.09305 [doi:10.48550/arxiv.2605.09305](https://doi.org/10.48550/arxiv.2605.09305)"
     author: Wenqian Xu, Feng Ji
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Wenqian Xu 2026
 
-Wenqian Xu, Feng Ji. (2026). Reinforcement Learning Measurement Model. arXiv. https://arxiv.org/abs/2605.09305
+Wenqian Xu, Feng Ji. (2026). Reinforcement Learning Measurement Model. arXiv. https://arxiv.org/abs/2605.09305 [doi:10.48550/arxiv.2605.09305](https://doi.org/10.48550/arxiv.2605.09305)
 
 `q2 · i?` · `design · r2`
 

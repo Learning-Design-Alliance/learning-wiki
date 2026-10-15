@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: james-soland-2019
-    resource: "https://www.nwea.org/research/publication/examining-the-state-trait-composition-of-social-emotional-learning-constructs-implications-for-practice-policy-and-evaluation/"
-    title: "James Soland, Megan Kuhfeld, Emily Wolk, Sharon Bi. (2019). Examining the state-trait composition of social-emotional learning constructs: Implications for practice, policy, and evaluation. Journal of Research on Educational Effectiveness 12(3), 550-557. https://www.nwea.org/research/publication/examining-the-state-trait-composition-of-social-emotional-learning-constructs-implications-for-practice-policy-and-evaluation/"
+    resource: "https://doi.org/10.1080/19345747.2019.1615158"
+    title: "James Soland, Megan Kuhfeld, Emily Wolk, Sharon Bi. (2019). Examining the state-trait composition of social-emotional learning constructs: Implications for practice, policy, and evaluation. Journal of Research on Educational Effectiveness 12(3), 550-557. https://www.nwea.org/research/publication/examining-the-state-trait-composition-of-social-emotional-learning-constructs-implications-for-practice-policy-and-evaluation/ [doi:10.1080/19345747.2019.1615158](https://doi.org/10.1080/19345747.2019.1615158)"
     author: James Soland, Megan Kuhfeld, Emily Wolk, Sharon Bi
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### James Soland 2019
 
-James Soland, Megan Kuhfeld, Emily Wolk, Sharon Bi. (2019). Examining the state-trait composition of social-emotional learning constructs: Implications for practice, policy, and evaluation. Journal of Research on Educational Effectiveness 12(3), 550-557. https://www.nwea.org/research/publication/examining-the-state-trait-composition-of-social-emotional-learning-constructs-implications-for-practice-policy-and-evaluation/
+James Soland, Megan Kuhfeld, Emily Wolk, Sharon Bi. (2019). Examining the state-trait composition of social-emotional learning constructs: Implications for practice, policy, and evaluation. Journal of Research on Educational Effectiveness 12(3), 550-557. https://www.nwea.org/research/publication/examining-the-state-trait-composition-of-social-emotional-learning-constructs-implications-for-practice-policy-and-evaluation/ [doi:10.1080/19345747.2019.1615158](https://doi.org/10.1080/19345747.2019.1615158)
 
 `q1 · i?` · `associational · r?`
 

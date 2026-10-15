@@ -11,8 +11,8 @@ generated:
 evidence_strength: strong
 sources:
   - id: rose-e-wang-2025
-    resource: "https://arxiv.org/abs/2410.03017"
-    title: "Rose E. Wang, Ana T. Ribeiro, Carly D. Robinson, Susanna Loeb, and Dora Demszky. (2025). Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise. arXiv:2410.03017v2. https://arxiv.org/abs/2410.03017"
+    resource: "https://doi.org/10.48550/arxiv.2410.03017"
+    title: "Rose E. Wang, Ana T. Ribeiro, Carly D. Robinson, Susanna Loeb, and Dora Demszky. (2025). Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise. arXiv:2410.03017v2. https://arxiv.org/abs/2410.03017 [doi:10.48550/arxiv.2410.03017](https://doi.org/10.48550/arxiv.2410.03017)"
     author: Rose E. Wang, Ana T. Ribeiro, Carly D. Robinson, Susanna Loeb, and Dora Demszky
     q: 4
     i: "?"
@@ -35,8 +35,8 @@ sources:
     kind: causal
     rigour: 3
   - id: kirk-vanacore-2026
-    resource: "https://arxiv.org/abs/2602.19303"
-    title: "Kirk Vanacore, Ryan S. Baker, Avery H. Closser, and Jeremy Roschelle. (2026). The Path to Conversational AI Tutors: Integrating Tutoring Best Practices and Targeted Technologies to Produce Scalable AI Agents. arXiv preprint. https://arxiv.org/abs/2602.19303"
+    resource: "https://doi.org/10.48550/arxiv.2602.19303"
+    title: "Kirk Vanacore, Ryan S. Baker, Avery H. Closser, and Jeremy Roschelle. (2026). The Path to Conversational AI Tutors: Integrating Tutoring Best Practices and Targeted Technologies to Produce Scalable AI Agents. arXiv preprint. https://arxiv.org/abs/2602.19303 [doi:10.48550/arxiv.2602.19303](https://doi.org/10.48550/arxiv.2602.19303)"
     author: Kirk Vanacore, Ryan S. Baker, Avery H. Closser, and Jeremy Roschelle
     q: 3
     i: "?"
@@ -55,7 +55,7 @@ sources:
 # Students whose tutors have access to Tutor CoPilot are 4 percentage points more likely to master lesson topics (pass exit tickets) in live K-12 math tutoring
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies (5 entries) · 2 causal `r2`–`r3`, 1 review `r2` · `q2`–`q4`
+> **Evidence** · 4 studies (5 entries) · 3 causal `r2`–`r3`, 1 review `r2` · `q2`–`q4`
 
 ## Subclaims
 
@@ -71,7 +71,7 @@ sources:
 
 ### Rose E. Wang 2025
 
-Rose E. Wang, Ana T. Ribeiro, Carly D. Robinson, Susanna Loeb, and Dora Demszky. (2025). Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise. arXiv:2410.03017v2. https://arxiv.org/abs/2410.03017
+Rose E. Wang, Ana T. Ribeiro, Carly D. Robinson, Susanna Loeb, and Dora Demszky. (2025). Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise. arXiv:2410.03017v2. https://arxiv.org/abs/2410.03017 [doi:10.48550/arxiv.2410.03017](https://doi.org/10.48550/arxiv.2410.03017)
 
 `q4 · i?` · `causal · r2`
 
@@ -101,7 +101,7 @@ Two-stage least squares analysis disentangling actual use from mere access, repo
 
 ### Kirk Vanacore 2026
 
-Kirk Vanacore, Ryan S. Baker, Avery H. Closser, and Jeremy Roschelle. (2026). The Path to Conversational AI Tutors: Integrating Tutoring Best Practices and Targeted Technologies to Produce Scalable AI Agents. arXiv preprint. https://arxiv.org/abs/2602.19303
+Kirk Vanacore, Ryan S. Baker, Avery H. Closser, and Jeremy Roschelle. (2026). The Path to Conversational AI Tutors: Integrating Tutoring Best Practices and Targeted Technologies to Produce Scalable AI Agents. arXiv preprint. https://arxiv.org/abs/2602.19303 [doi:10.48550/arxiv.2602.19303](https://doi.org/10.48550/arxiv.2602.19303)
 
 `q3 · i?` · `review · r2`
 

@@ -17,7 +17,7 @@ sources:
 # TRI staffing structure: literacy coaches supervised by an intervention director
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 TRI literacy coaches from FPG Child Development Institute (University of North Carolina at Chapel Hill) "each have a degree in education and teaching experience." An intervention director trains and supervises the coaches, meets with them "to review webcam sessions and discuss strategies to enhance relationships with teachers," and can supervise up to 20-30 coaches a year.
@@ -38,7 +38,6 @@ TRI literacy coaches from FPG Child Development Institute (University of North C
 
 ## Claims
 
-- [TRI shows an average effect size of +0.51 on Woodcock reading outcomes across two studies](../claims/tri-average-effect-size-051-woodcock-outcomes.md) [+M]
 
 ## Related Elements
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: rares-alexandru-roșcan-2026
-    resource: "https://arxiv.org/abs/2604.08947"
-    title: "Rares-Alexandru Roșcan, Gabriel Petre, Adrian-Marius Dumitran, Angela-Liliana Dumitran. (2026). MuTSE: A Human-in-the-Loop Multi-use Text Simplification Evaluator. arXiv. https://arxiv.org/abs/2604.08947"
+    resource: "https://doi.org/10.48550/arxiv.2604.08947"
+    title: "Rares-Alexandru Roșcan, Gabriel Petre, Adrian-Marius Dumitran, Angela-Liliana Dumitran. (2026). MuTSE: A Human-in-the-Loop Multi-use Text Simplification Evaluator. arXiv. https://arxiv.org/abs/2604.08947 [doi:10.48550/arxiv.2604.08947](https://doi.org/10.48550/arxiv.2604.08947)"
     author: Rares-Alexandru Roșcan, Gabriel Petre, Adrian-Marius Dumitran, Angela-Liliana Dumitran
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Rares-Alexandru Roșcan 2026
 
-Rares-Alexandru Roșcan, Gabriel Petre, Adrian-Marius Dumitran, Angela-Liliana Dumitran. (2026). MuTSE: A Human-in-the-Loop Multi-use Text Simplification Evaluator. arXiv. https://arxiv.org/abs/2604.08947
+Rares-Alexandru Roșcan, Gabriel Petre, Adrian-Marius Dumitran, Angela-Liliana Dumitran. (2026). MuTSE: A Human-in-the-Loop Multi-use Text Simplification Evaluator. arXiv. https://arxiv.org/abs/2604.08947 [doi:10.48550/arxiv.2604.08947](https://doi.org/10.48550/arxiv.2604.08947)
 
 `q2 · i?` · `design · r1`
 

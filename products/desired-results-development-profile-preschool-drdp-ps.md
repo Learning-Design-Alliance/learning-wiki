@@ -18,7 +18,7 @@ sources:
 # Desired Results Development Profile-Preschool (DRDP-PS)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (1 causal, 1 associational), `q2`–`q3` · 2 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The DRDP-PS is a California Department of Education teacher-rated developmental assessment used to document and monitor preschool children's learning and progress.
@@ -28,8 +28,6 @@ The DRDP-PS is a California Department of Education teacher-rated developmental 
 - **Desired Results Developmental Profile (DRDP) teacher-administered developmental assessment**: The DRDP is a developmental assessment administered by children's classroom teachers, completed based on teacher and family observations in five essential readiness domains: social and emotional development, language and literacy development, mathematics, approaches to learning–self-regulation, and physical development. It is completed in fall and spring, providing a measure of children's learning and development over the preschool year. The article reports the assessment is valid for formative and summative assessment with diverse groups of children, including multilingual learners, children with disabilities, and children from different racial/ethnic groups. (Sussman et al. (2022))
 
 ### Claims
-- [Learning Genie use is associated with greater DRDP language and literacy growth (effect size +0.12) in prekindergarten/kindergarten students](../claims/learning-genie-drdp-language-literacy-growth.md) [+W]
-- [Learning Genie use is associated with greater DRDP math growth (effect size +0.12) in prekindergarten/kindergarten students](../claims/learning-genie-drdp-math-growth.md) [+W]
 - [Children in Tier 4 and Tier 5 preschool programs gained more learning and development from fall to spring than children in Tier 3 programs](../claims/higher-tier-qcc-programs-greater-learning-gains.md) [+M]
 
 ## Related Products and Programmes
@@ -65,8 +63,6 @@ The DRDP-PS (2010) is "a teacher rating of children's skills that has been used 
 
 ## Claims
 
-- [Learning Genie use is associated with greater DRDP language and literacy growth (effect size +0.12) in prekindergarten/kindergarten students](../claims/learning-genie-drdp-language-literacy-growth.md) [+W]
-- [Learning Genie use is associated with greater DRDP math growth (effect size +0.12) in prekindergarten/kindergarten students](../claims/learning-genie-drdp-math-growth.md) [+W]
 
 ## Related Elements
 

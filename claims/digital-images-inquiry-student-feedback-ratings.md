@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: morzinski-2010
-    resource: "https://arxiv.org/abs/1009.3297"
-    title: "Morzinski, K. M., Crockett, C. J., and Crossfield, I. J. (2010). Digital image exploration at Maui Community College. ASP Conference Series. https://arxiv.org/abs/1009.3297"
+    resource: "https://doi.org/10.48550/arxiv.1009.3297"
+    title: "Morzinski, K. M., Crockett, C. J., and Crossfield, I. J. (2010). Digital image exploration at Maui Community College. ASP Conference Series. https://arxiv.org/abs/1009.3297 [doi:10.48550/arxiv.1009.3297](https://doi.org/10.48550/arxiv.1009.3297)"
     author: Morzinski, K. M., Crockett, C. J., and Crossfield, I. J.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Morzinski 2010
 
-Morzinski, K. M., Crockett, C. J., and Crossfield, I. J. (2010). Digital image exploration at Maui Community College. ASP Conference Series. https://arxiv.org/abs/1009.3297
+Morzinski, K. M., Crockett, C. J., and Crossfield, I. J. (2010). Digital image exploration at Maui Community College. ASP Conference Series. https://arxiv.org/abs/1009.3297 [doi:10.48550/arxiv.1009.3297](https://doi.org/10.48550/arxiv.1009.3297)
 
 `q2 · i? · the article prints no effect size for this finding` · `design · r2`
 

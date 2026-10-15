@@ -63,7 +63,7 @@ Cross-cohort discontinuity analysis at the 50th-percentile ITBS cutoff. Below-no
 
 ## Related Claims
 - [In one Chicago study, above-norm students' post-policy algebra test gains were partly explained by higher peer ability and by having classmates who took support algebra](above-norm-score-gains-peer-ability-spillover.md) — related
-- [Academic composition of algebra classrooms affects math achievement among high-skill students](academic-composition-affects-math-achievement.md) — related
+- Academic composition of algebra classrooms affects math achievement among high-skill students — related
 - [Below-norm students' pass rates improved post-policy because their skills relative to classroom peers improved under sorting](below-norm-pass-rates-improved-relative-skills.md) — related
 - [Below-norm students' test scores improved post-policy (0.88 points total), and classroom average ability no longer predicted their scores post-policy](below-norm-score-gains-composition-null-post-policy.md) — related
 - [Below-norm students' algebra test scores improved despite having lower-skill peers post-policy, consistent with additional supports offsetting compositional decline](below-norm-scores-improved-despite-lower-peers.md) — related

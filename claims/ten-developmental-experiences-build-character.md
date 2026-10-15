@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` The author proposes ten developmental experiences, opportunities to act and reflect, as the key mechanisms by which settings build character and support agency, identity, and competencies. [→ Key Questions: How might learning environments "build character" in children and youth? 2017](#key-questions-how-might-learning-environments-build-character-in-children-and-youth-2017)
@@ -45,5 +46,5 @@ Theoretical argument in the paper's overview: drawing on the Foundations for You
 ## Related Claims
 - [Character education is criticized for didacticism and de-emphasizing reflection and moral judgment, and Dewey's deliberation is proposed as a bridge between it and Kohlberg's approach](character-education-didacticism-critique-dewey-bridge.md) — related
 - [For Dewey, moral knowledge is a product of moral inquiry, so character education should add moral problem solving rather than teach fixed principles through example, reward, or punishment](moral-knowledge-product-of-moral-inquiry.md) — related
-- [Preservice teachers' reflective judgment levels influence how they perceive and act on complex classroom dilemmas](reflective-judgment-levels-shape-dilemma-perception-and-action.md) — related
-- [In attachment theory, the child's exploration is the direct outcome of security from an effective attachment relationship](secure-base-enables-exploration.md) — related
+- Preservice teachers' reflective judgment levels influence how they perceive and act on complex classroom dilemmas — related
+- In attachment theory, the child's exploration is the direct outcome of security from an effective attachment relationship — related

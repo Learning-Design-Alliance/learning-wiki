@@ -17,7 +17,7 @@ sources:
 # The effort-moderated IRT model of test-taking motivation
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 11 claims (11 for) · 4 studies (2 associational, 2 theoretical), `q1`–`q2` · 0 of 4 report an effect size · 11 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 3 studies (2 theoretical, 1 associational), `q1`–`q2` · 0 of 3 report an effect size · 5 claims rest on one study
 
 ## Description
 The effort-moderated IRT model (S. L. Wise & DeMars, 2006) represents unmotivated test taking by specifying two item response functions: one for solution behavior, modeled with a monotonically increasing function such as the Rasch model, and one for rapid-guessing behavior, "modeled as a constant value at (or near) chance level regardless of the test taker's achievement level." Each response is classified by comparing response time to a per-item threshold, and rapid guesses are excluded from scoring. Unlike absorbing state, decreasing effort, or difficulty-based models, it "makes no assumptions about patterns of motivational behavior that are exhibited during a test event."
@@ -27,15 +27,9 @@ The effort-moderated IRT model (S. L. Wise & DeMars, 2006) represents unmotivate
 - **The effort-moderated IRT model of test-taking motivation**: The effort-moderated IRT model (S. L. Wise & DeMars, 2006) represents unmotivated test taking by specifying two item response functions: one for solution behavior, modeled with a monotonically increasing function such as the Rasch model, and one for rapid-guessing behavior, "modeled as a constant value at (or near) chance level regardless of the test taker's achievement level." Each response is classified by comparing response time to a per-item threshold, and rapid guesses are excluded from scoring. Unlike absorbing state, decreasing effort, or difficulty-based models, it "makes no assumptions about patterns of motivational behavior that are exhibited during a test event." (Wise et al. (2015))
 
 ### Claims
-- [Effort-moderated scoring yields more accurate achievement scores and better person fit than traditional MLE scoring when rapid guessing is present](../claims/effort-moderated-scoring-more-accurate-better-fit.md) [+M]
-- [In simulation, effort-moderated scoring (EM-CAT and EG-CAT) yields negligible bias and nominal 95% confidence interval coverage, unlike MLE-CAT scoring](../claims/effort-moderated-cat-negligible-bias-simulation.md) [+M]
 - [Rapid-guessing behavior on an adaptive achievement test is inconsistent with most proposed models of unmotivated test taking except the effort-moderated model](../claims/rapid-guessing-inconsistent-with-unmotivated-models-except-effort-moderated.md) [+W]
 - [Effort-moderated scoring exhibits improved person fit statistics compared with traditional scoring](../claims/effort-moderated-scoring-improved-person-fit.md) [+W]
 - [Effort-moderated scoring yields more accurate scores than traditional scoring on an adaptive achievement test](../claims/effort-moderated-scoring-more-accurate-than-traditional.md) [+W]
-- [An effort-guided CAT that holds the provisional achievement estimate constant after rapid guesses reduces standard errors and ameliorates severe item mis-targeting](../claims/effort-guided-cat-reduces-mis-targeting.md) [+W]
-- [Rapid-guessing behavior on an adaptive achievement test is inconsistent with an absorbing state model of unmotivated test taking](../claims/rapid-guessing-inconsistent-absorbing-state-model.md) [+W]
-- [Rapid guessing is unrelated to item difficulty, inconsistent with the difficulty-based model of test-taking motivation](../claims/rapid-guessing-unrelated-item-difficulty.md) [+W]
-- [Solution behavior accuracy does not decrease across item positions, contradicting decreasing effort models of unmotivated test taking](../claims/solution-accuracy-no-decreasing-effort.md) [+W]
 - [Current measurement models underlying achievement testing assume students respond effortfully to test items](../claims/measurement-models-assume-effortful-responding.md) [+W]
 - [The effort-moderated IRT model's parameter estimation accuracy was studied under multiple assumption violations in the context of test-taking disengagement](../claims/effort-moderated-irt-parameter-estimation-under-assumption-violations.md) [+W]
 - Rapid Guess Accuracy Constant Across Achievement [+M]
@@ -74,16 +68,10 @@ The effort-moderated IRT model (S. L. Wise & DeMars, 2006) represents unmotivate
 
 ### Claims
 
-- [Effort Moderated Scoring More Accurate Better Fit](../claims/effort-moderated-scoring-more-accurate-better-fit.md) [+M]
 - Rapid Guess Accuracy Constant Across Achievement [+M]
-- [Effort Moderated Cat Negligible Bias Simulation](../claims/effort-moderated-cat-negligible-bias-simulation.md) [+M]
 - [Rapid-guessing behavior on an adaptive achievement test is inconsistent with most proposed models of unmotivated test taking except the effort-moderated model](../claims/rapid-guessing-inconsistent-with-unmotivated-models-except-effort-moderated.md) [+W]
 - [Effort-moderated scoring exhibits improved person fit statistics compared with traditional scoring](../claims/effort-moderated-scoring-improved-person-fit.md) [+W]
 - [Effort-moderated scoring yields more accurate scores than traditional scoring on an adaptive achievement test](../claims/effort-moderated-scoring-more-accurate-than-traditional.md) [+W]
-- [An effort-guided CAT that holds the provisional achievement estimate constant after rapid guesses reduces standard errors and ameliorates severe item mis-targeting](../claims/effort-guided-cat-reduces-mis-targeting.md) [+W]
-- [Rapid-guessing behavior on an adaptive achievement test is inconsistent with an absorbing state model of unmotivated test taking](../claims/rapid-guessing-inconsistent-absorbing-state-model.md) [+W]
-- [Rapid guessing is unrelated to item difficulty, inconsistent with the difficulty-based model of test-taking motivation](../claims/rapid-guessing-unrelated-item-difficulty.md) [+W]
-- [Solution behavior accuracy does not decrease across item positions, contradicting decreasing effort models of unmotivated test taking](../claims/solution-accuracy-no-decreasing-effort.md) [+W]
 - [Current measurement models underlying achievement testing assume students respond effortfully to test items](../claims/measurement-models-assume-effortful-responding.md) [+W]
 - [The effort-moderated IRT model's parameter estimation accuracy was studied under multiple assumption violations in the context of test-taking disengagement](../claims/effort-moderated-irt-parameter-estimation-under-assumption-violations.md) [+W]
 

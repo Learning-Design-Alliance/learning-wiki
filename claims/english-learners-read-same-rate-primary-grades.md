@@ -43,7 +43,7 @@ The guide reports, in Recommendation 1, criterion-related validity and growth st
 
 
 ## Related Claims
-- [Bilingual children acquire vocabulary and syntax in each language more slowly than monolingual children, yet show cognitive advantages and can match or surpass monolingual peers with support](bilingual-vocabulary-syntax-slower-with-cognitive-advantages.md) — related
+- Bilingual children acquire vocabulary and syntax in each language more slowly than monolingual children, yet show cognitive advantages and can match or surpass monolingual peers with support — related
 - [Fluent bilingualism enhances metalinguistic awareness](bilingual-fluency-enhances-metalinguistic-awareness.md) — related
 - [In reading, dual language participants grew slightly more slowly during school years but lost less learning during summers, closing the gap with the national average](dual-language-reading-slower-school-year-growth-less-summer-loss.md) — related
 - [ELs lag behind peers in achievement and attainment partly due to limited exposure to academic content](el-lag-limited-academic-content-exposure.md) — related

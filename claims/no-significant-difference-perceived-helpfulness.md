@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: seth-bernstein-2026
-    resource: "https://arxiv.org/abs/2606.28882"
-    title: "Seth Bernstein, Paul Denny, Juho Leinonen, Kush Patel, Rayhona Nasimova, Matt Littlefield, and Stephen MacNeil. (2026). Exploring the Value of Diverse LLM Explanations in Introductory Programming. SIGCSE Virtual '26. https://arxiv.org/abs/2606.28882"
+    resource: "https://doi.org/10.48550/arxiv.2606.28882"
+    title: "Seth Bernstein, Paul Denny, Juho Leinonen, Kush Patel, Rayhona Nasimova, Matt Littlefield, and Stephen MacNeil. (2026). Exploring the Value of Diverse LLM Explanations in Introductory Programming. SIGCSE Virtual '26. https://arxiv.org/abs/2606.28882 [doi:10.48550/arxiv.2606.28882](https://doi.org/10.48550/arxiv.2606.28882)"
     author: Seth Bernstein, Paul Denny, Juho Leinonen, Kush Patel, Rayhona Nasimova, Matt Littlefield, and Stephen MacNeil
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Seth Bernstein 2026
 
-Seth Bernstein, Paul Denny, Juho Leinonen, Kush Patel, Rayhona Nasimova, Matt Littlefield, and Stephen MacNeil. (2026). Exploring the Value of Diverse LLM Explanations in Introductory Programming. SIGCSE Virtual '26. https://arxiv.org/abs/2606.28882
+Seth Bernstein, Paul Denny, Juho Leinonen, Kush Patel, Rayhona Nasimova, Matt Littlefield, and Stephen MacNeil. (2026). Exploring the Value of Diverse LLM Explanations in Introductory Programming. SIGCSE Virtual '26. https://arxiv.org/abs/2606.28882 [doi:10.48550/arxiv.2606.28882](https://doi.org/10.48550/arxiv.2606.28882)
 
 `q3 · i?` · `causal · r2`
 

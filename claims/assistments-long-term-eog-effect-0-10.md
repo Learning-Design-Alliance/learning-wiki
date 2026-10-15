@@ -46,7 +46,7 @@ Intent-to-treat impact analysis from the ASSISTments North Carolina replication 
 - [The cost-effectiveness ratio of ASSISTments is approximately $462.30 per student per standard deviation of long-term math achievement gain](assistments-cer-462-per-sd.md) — related
 - [ASSISTments achieved a long-term effect comparable to high-dosage tutoring at a small fraction of the cost](assistments-cost-comparison-saga-tutoring.md) — related
 - [Implementing ASSISTments above business-as-usual cost about $207,794 across the study, or about $46.23 per student](assistments-incremental-cost-46-per-student.md) — related
-- [ASSISTments use for 7th-grade math homework significantly raises TerraNova mathematics scores in Maine (effect size +0.18)](assistments-maine-terranova-effect-018.md) — related
+- ASSISTments use for 7th-grade math homework significantly raises TerraNova mathematics scores in Maine (effect size +0.18) — related
 - [Brandt et al. (2013) finds a statistically significant positive effect of eMINTS on seventh- and eighth-grade mathematics achievement](brandt-2013-significant-math-effect.md) — related
 - [ASSISTments use in grade 7 math homework produces a statistically significant long-term positive effect on grade 8 state test scores one year after the intervention ends](assistments-long-term-math-impact-grade-8.md) — possibly the same claim (merge candidate)
 - [NBA Math Hoops significantly improves elementary and middle school students' math achievement compared to business-as-usual summer STEM programming (0.19 SD gain)](nba-math-hoops-improves-summer-math-achievement.md) — related

@@ -16,7 +16,7 @@ sources:
 # Language related episodes (LREs) as the operationalization of noticing in L2 writing
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 7 claims (7 for) · 3 studies (2 qualitative, 1 theoretical), `q2` · 0 of 3 report an effect size · 7 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 2 studies (2 qualitative), `q2` · 0 of 2 report an effect size · 6 claims rest on one study
 
 ## Description
 The article situates its method within research that operationalizes noticing and related concepts as language related episodes (LREs), citing studies such as Qi & Lapkin (2001) and Swain & Lapkin (1995). Following Swain and Lapkin, an LRE is "any segment of the protocol in which a learner either spoke about a language problem he/she encountered while writing and solved it either correctly... or incorrectly..., or simply solved it" without explicitly identifying it. The study codes think-aloud protocols at the LRE unit, selecting morphological and syntactical LREs as grammar-related, and notes that existing classifications of LREs differ widely across studies.
@@ -41,7 +41,6 @@ The article situates its method within research that operationalizes noticing an
 - [Morphological noticing focuses mainly on verb forms, especially modals, and on preposition choice](../claims/morphological-noticing-verb-forms-modals-prepositions.md) [+W]
 - [Syntactical noticing focuses mainly on sentence length and ways of connecting clauses](../claims/syntactical-noticing-sentence-length-connecting-clauses.md) [+W]
 - [Learners' grammar noticing centers more on syntax than morphology, with syntax issues encountered by all participants](../claims/syntax-outweighs-morphology-in-grammar-noticing.md) [+W]
-- [Review reports that noticing correct versions with understanding helps students improve their L2 writing (Qi & Lapkin)](../claims/noticing-with-understanding-improves-l2-writing.md) [+W]
 - [Comparing original texts to model paragraphs prompted noticing that was again focused on lexical features](../claims/model-comparison-noticing-lexical.md) [+W]
 - [While producing L2 paragraphs, an EFL learner's self-noticed problems were overwhelmingly lexical (about 79%) rather than grammatical (about 21%)](../claims/output-noticing-predominantly-lexical.md) [+W]
 

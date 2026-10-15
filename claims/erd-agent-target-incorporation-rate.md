@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: sara-riazi-and-pedram-rooshenas-2026
-    resource: "https://arxiv.org/abs/2610.00870"
-    title: "Sara Riazi and Pedram Rooshenas. (2026). An Educator-Guided LLM Pedagogical Agent for Scaffolded Feedback in Conceptual Database Design. https://arxiv.org/abs/2610.00870"
+    resource: "https://doi.org/10.48550/arxiv.2610.00870"
+    title: "Sara Riazi and Pedram Rooshenas. (2026). An Educator-Guided LLM Pedagogical Agent for Scaffolded Feedback in Conceptual Database Design. https://arxiv.org/abs/2610.00870 [doi:10.48550/arxiv.2610.00870](https://doi.org/10.48550/arxiv.2610.00870)"
     author: Sara Riazi and Pedram Rooshenas
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Sara Riazi and Pedram Rooshenas 2026
 
-Sara Riazi and Pedram Rooshenas. (2026). An Educator-Guided LLM Pedagogical Agent for Scaffolded Feedback in Conceptual Database Design. https://arxiv.org/abs/2610.00870
+Sara Riazi and Pedram Rooshenas. (2026). An Educator-Guided LLM Pedagogical Agent for Scaffolded Feedback in Conceptual Database Design. https://arxiv.org/abs/2610.00870 [doi:10.48550/arxiv.2610.00870](https://doi.org/10.48550/arxiv.2610.00870)
 
 `q2 · i?` · `design · r2`
 

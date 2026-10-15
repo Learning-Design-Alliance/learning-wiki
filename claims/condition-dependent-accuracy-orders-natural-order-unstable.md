@@ -45,6 +45,6 @@ Comparing morpheme accuracy orders across planned writing, planned speech, and u
 ## Related Claims
 - [Irregular past shows little style shifting across planning conditions](irregular-past-little-style-shifting.md) — related
 - [Regular past tense accuracy is greatest in planned writing, intermediate in planned speech, and least in unplanned speech](regular-past-accuracy-planned-writing-highest.md) — related
-- [Monitoring is a variable phenomenon, not all-or-nothing, and monitoring in formal styles may pull up accuracy in less formal styles](monitoring-variable-not-all-or-nothing.md) — related
+- Monitoring is a variable phenomenon, not all-or-nothing, and monitoring in formal styles may pull up accuracy in less formal styles — related
 - [Past copula style shifting occurs only between planned speech and unplanned speech](past-copula-shifting-speech-conditions-only.md) — related
 - [L2 learners style-shift in past tense accuracy within narrative discourse according to the amount of planning time available](style-shifting-past-tense-planning-time-narrative.md) — related

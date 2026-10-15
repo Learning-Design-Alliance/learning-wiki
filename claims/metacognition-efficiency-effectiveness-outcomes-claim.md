@@ -47,7 +47,7 @@ In its snapshot of key concepts, the paper states that all four approaches are r
 
 ## Related Claims
 - [Metacognitive prompts improve learning](metacognitive-prompts-improve-learning.md) — a narrower finding that bears on this claim
-- [Students perceived that critical thinking and metacognition training increased their achievement and learning efficiency](ct-metacog-achievement-perceptions.md) — related
+- Students perceived that critical thinking and metacognition training increased their achievement and learning efficiency — related
 - [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — a narrower finding that bears on this claim
 - [PLC leaders' recognition of their own metacognition impacted the type of work they led in the PLC](plc-leader-metacognition-shapes-led-work.md) — related
-- [Skilled EFL writers possess declarative knowledge that topic familiarity influences how much and how well they can write about a topic.](skilled-writers-topic-familiarity-knowledge.md) — related
+- Skilled EFL writers possess declarative knowledge that topic familiarity influences how much and how well they can write about a topic. — related

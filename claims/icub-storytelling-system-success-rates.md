@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: maria-lombardi-2025
-    resource: "https://arxiv.org/abs/2508.02505"
-    title: "Maria Lombardi, Carmela Calabrese, Davide Ghiglino, Caterina Foglino, Davide De Tommaso, Giulia Da Lisca, Lorenzo Natale, Agnieszka Wykowska. (2025). Would you let a humanoid play storytelling with your child? A usability study on LLM-powered narrative Human-Robot Interaction. https://arxiv.org/abs/2508.02505"
+    resource: "https://doi.org/10.48550/arxiv.2508.02505"
+    title: "Maria Lombardi, Carmela Calabrese, Davide Ghiglino, Caterina Foglino, Davide De Tommaso, Giulia Da Lisca, Lorenzo Natale, Agnieszka Wykowska. (2025). Would you let a humanoid play storytelling with your child? A usability study on LLM-powered narrative Human-Robot Interaction. https://arxiv.org/abs/2508.02505 [doi:10.48550/arxiv.2508.02505](https://doi.org/10.48550/arxiv.2508.02505)"
     author: Maria Lombardi, Carmela Calabrese, Davide Ghiglino, Caterina Foglino, Davide De Tommaso, Giulia Da Lisca, Lorenzo Natale, Agnieszka Wykowska
     q: 3
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # The iCub storytelling system achieved 88% trial success and 86% VLM sticker-description agreement, with the LLM adding to human contributions in 8% of trials and never correcting them
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q3`
+> **Evidence** · 2 studies · 2 design `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Across the validation trials the system was robust with an 88% success rate despite failures such as wrong sticker detection, microphone issues and LLM crashes. [→ Maria Lombardi 2025](#maria-lombardi-2025)
@@ -40,7 +40,7 @@ sources:
 
 ### Maria Lombardi 2025
 
-Maria Lombardi, Carmela Calabrese, Davide Ghiglino, Caterina Foglino, Davide De Tommaso, Giulia Da Lisca, Lorenzo Natale, Agnieszka Wykowska. (2025). Would you let a humanoid play storytelling with your child? A usability study on LLM-powered narrative Human-Robot Interaction. https://arxiv.org/abs/2508.02505
+Maria Lombardi, Carmela Calabrese, Davide Ghiglino, Caterina Foglino, Davide De Tommaso, Giulia Da Lisca, Lorenzo Natale, Agnieszka Wykowska. (2025). Would you let a humanoid play storytelling with your child? A usability study on LLM-powered narrative Human-Robot Interaction. https://arxiv.org/abs/2508.02505 [doi:10.48550/arxiv.2508.02505](https://doi.org/10.48550/arxiv.2508.02505)
 
 `q3 · i?` · `design · r2`
 

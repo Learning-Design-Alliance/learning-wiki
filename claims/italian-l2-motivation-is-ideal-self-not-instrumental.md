@@ -90,7 +90,7 @@ source would be reasonable if a third study disagreed.
 - [Language learning strategy use correlates with L2 proficiency in adolescents](strategy-use-correlates-with-l2-proficiency-in-adolescents.md) — the other learner-side variable from this set, and the one that is actionable rather than descriptive
 - [Preserving a bilingual student's heritage language supports rather than hinders English acquisition](heritage-language-preservation-supports-english-acquisition.md) — identity and language as reinforcing rather than competing
 - [Teaching students in a language they understand benefits both language learning and broader learning](cl-teaching-in-language-students-understand-improves-learning.md) — related
-- [The Cognitive Model does not address the social aspect of L2 writing and assumes uniform cognitive processes](cognitive-model-omits-social-aspect-of-writing.md) — related
+- The Cognitive Model does not address the social aspect of L2 writing and assumes uniform cognitive processes — related
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
 - [Meaningful L2 learning is achieved through a conducive environment and authentic tasks and materials](authentic-tasks-meaningful-l2-learning.md) — related
-- [Integrative motivation sustains long-term language-learning motivation better than instrumental motivation](integrative-motivation-sustains-long-term.md) — related
+- Integrative motivation sustains long-term language-learning motivation better than instrumental motivation — related

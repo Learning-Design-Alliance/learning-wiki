@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: manikonda-2026
-    resource: "https://arxiv.org/abs/2609.18676"
-    title: "Manikonda, L.; Si, M.; Munira, S.; Seneviratne, O.; Bennett, K. (2026). The Uneven Impact of Generative AI on Student Learning: Examining the Roles of Reliance, Evaluation Literacy, and Course Policy in AI-related Courses. https://arxiv.org/abs/2609.18676"
+    resource: "https://doi.org/10.48550/arxiv.2609.18676"
+    title: "Manikonda, L.; Si, M.; Munira, S.; Seneviratne, O.; Bennett, K. (2026). The Uneven Impact of Generative AI on Student Learning: Examining the Roles of Reliance, Evaluation Literacy, and Course Policy in AI-related Courses. https://arxiv.org/abs/2609.18676 [doi:10.48550/arxiv.2609.18676](https://doi.org/10.48550/arxiv.2609.18676)"
     author: Manikonda, L.; Si, M.; Munira, S.; Seneviratne, O.; Bennett, K.
     q: 1
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Perceived learning benefits are higher when GenAI augments students' capabilities and lower when it hurts critical thinking or causes stress
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r2` · `q1`
+> **Evidence** · 2 studies · 2 associational `r2` · `q1`
 
 ## Subclaims
 `q1 i?` SHAP rankings from a gradient-boosting classifier indicate greater perceived learning benefits when students perceive GenAI as improving work quality, creativity, organizing ideas, skill confidence, and discovering insights. [→ Manikonda 2026](#manikonda-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Manikonda 2026
 
-Manikonda, L.; Si, M.; Munira, S.; Seneviratne, O.; Bennett, K. (2026). The Uneven Impact of Generative AI on Student Learning: Examining the Roles of Reliance, Evaluation Literacy, and Course Policy in AI-related Courses. https://arxiv.org/abs/2609.18676
+Manikonda, L.; Si, M.; Munira, S.; Seneviratne, O.; Bennett, K. (2026). The Uneven Impact of Generative AI on Student Learning: Examining the Roles of Reliance, Evaluation Literacy, and Course Policy in AI-related Courses. https://arxiv.org/abs/2609.18676 [doi:10.48550/arxiv.2609.18676](https://doi.org/10.48550/arxiv.2609.18676)
 
 `q1 · i?` · `associational · r2`
 

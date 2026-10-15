@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: ugwuanyi-2025
-    resource: "https://arxiv.org/abs/2607.28505"
-    title: "Ugwuanyi, K., Mair, C., Dovchin, S., Erdocia, I., Kuteeva, M., & Airemionkhale, E. (2025). Generative AI and linguistic diversity in academic writing and publishing: Perspectives from World Englishes. https://arxiv.org/abs/2607.28505"
+    resource: "https://doi.org/10.48550/arxiv.2607.28505"
+    title: "Ugwuanyi, K., Mair, C., Dovchin, S., Erdocia, I., Kuteeva, M., & Airemionkhale, E. (2025). Generative AI and linguistic diversity in academic writing and publishing: Perspectives from World Englishes. https://arxiv.org/abs/2607.28505 [doi:10.48550/arxiv.2607.28505](https://doi.org/10.48550/arxiv.2607.28505)"
     author: "Ugwuanyi, K., Mair, C., Dovchin, S., Erdocia, I., Kuteeva, M., & Airemionkhale, E."
     q: 1
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Editors observe GenAI has improved surface correctness of manuscripts and increased submissions, but this does not lead to better research quality
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · qualitative `r1`–`r2` · `q1`
+> **Evidence** · 2 studies · 2 qualitative `r1`–`r2` · `q1`
 
 ## Subclaims
 `q1 i?` A journal editor reports fewer manuscripts returned for language checking and an increased number of submissions, with apparent linguistic correctness not translating into better research quality. [→ Ugwuanyi 2025](#ugwuanyi-2025)
@@ -40,7 +40,7 @@ sources:
 
 ### Ugwuanyi 2025
 
-Ugwuanyi, K., Mair, C., Dovchin, S., Erdocia, I., Kuteeva, M., & Airemionkhale, E. (2025). Generative AI and linguistic diversity in academic writing and publishing: Perspectives from World Englishes. https://arxiv.org/abs/2607.28505
+Ugwuanyi, K., Mair, C., Dovchin, S., Erdocia, I., Kuteeva, M., & Airemionkhale, E. (2025). Generative AI and linguistic diversity in academic writing and publishing: Perspectives from World Englishes. https://arxiv.org/abs/2607.28505 [doi:10.48550/arxiv.2607.28505](https://doi.org/10.48550/arxiv.2607.28505)
 
 `q1 · i?` · `qualitative · r2`
 

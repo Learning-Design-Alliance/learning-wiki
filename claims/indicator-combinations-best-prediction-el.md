@@ -62,10 +62,10 @@ The same modeling approach identified GPA plus test scores as the best combinati
 
 
 ## Related Claims
-- [Attainment likelihood thresholds differ: ELs with GPA above 2.0 had ~90% graduation rates except students with IEPs, and only active ELs needed attendance above 95% to be very likely to graduate](el-risk-thresholds-gpa-attendance-graduation.md) — related
+- Attainment likelihood thresholds differ: ELs with GPA above 2.0 had ~90% graduation rates except students with IEPs, and only active ELs needed attendance above 95% to be very likely to graduate — related
 - [Indicator performance differs across EL subgroups: former and late-arriving ELs had stronger ninth-grade GPAs and attendance than never ELs, while long-term ELs without IEPs had much lower GPAs](el-subgroup-indicator-distributions.md) — related
-- [Only ninth-grade students with at least a 3.0 GPA had greater than a 1-in-4 chance of attaining a college credential, across all groups except long-term English Learners with IEPs](gpa-3-point-0-college-credential-threshold.md) — related
-- [Combining GPA with attendance, or course failure rates with attendance, gives the best prediction of high school graduation for most English Learner groups but not long-term English Learners with IEPs](gpa-attendance-combination-best-graduation-prediction-el.md) — possibly the same claim (merge candidate)
+- Only ninth-grade students with at least a 3.0 GPA had greater than a 1-in-4 chance of attaining a college credential, across all groups except long-term English Learners with IEPs — related
+- Combining GPA with attendance, or course failure rates with attendance, gives the best prediction of high school graduation for most English Learner groups but not long-term English Learners with IEPs — possibly the same claim (merge candidate)
 - [GPAs are the most predictive single indicator of high school graduation, college enrollment, and degree completion for all English Learner groups, followed by attendance and course failure rates](gpa-most-predictive-attainment-english-learners.md) — related
 - [GPA combined with test scores was the best prediction of college degree attainment for all English Learner groups, but the test-score relationship partly reflects school composition](gpa-test-scores-best-college-degree-prediction-el.md) — a narrower finding that bears on this claim
 - [Course grades and GPA predict high school and college outcomes better than standardized test scores or coursework](grades-better-predictor-than-test-scores.md) — related

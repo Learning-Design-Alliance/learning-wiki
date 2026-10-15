@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: mahbub-ul-alam-2026
-    resource: "https://arxiv.org/abs/2609.13155"
-    title: "Mahbub Ul Alam. (2026). PAUSE: A Privacy-Preserving Self-Reflection Tool for AI-Associated Cognitive Offloading. arXiv. https://arxiv.org/abs/2609.13155"
+    resource: "https://doi.org/10.48550/arxiv.2609.13155"
+    title: "Mahbub Ul Alam. (2026). PAUSE: A Privacy-Preserving Self-Reflection Tool for AI-Associated Cognitive Offloading. arXiv. https://arxiv.org/abs/2609.13155 [doi:10.48550/arxiv.2609.13155](https://doi.org/10.48550/arxiv.2609.13155)"
     author: Mahbub Ul Alam
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # How a user engages with AI matters more than whether: structured, deliberate engagement can mitigate or reverse offloading effects
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r1` · `q2`
+> **Evidence** · 2 studies · 2 design `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Structured prompting, verification, alternation, and diverse outputs can mitigate or reverse offloading effects; a tutoring chatbot prompting students to explain reasoning beat traditional instruction. [→ Mahbub Ul Alam 2026](#mahbub-ul-alam-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Mahbub Ul Alam 2026
 
-Mahbub Ul Alam. (2026). PAUSE: A Privacy-Preserving Self-Reflection Tool for AI-Associated Cognitive Offloading. arXiv. https://arxiv.org/abs/2609.13155
+Mahbub Ul Alam. (2026). PAUSE: A Privacy-Preserving Self-Reflection Tool for AI-Associated Cognitive Offloading. arXiv. https://arxiv.org/abs/2609.13155 [doi:10.48550/arxiv.2609.13155](https://doi.org/10.48550/arxiv.2609.13155)
 
 `q2 · i?` · `design · r1`
 

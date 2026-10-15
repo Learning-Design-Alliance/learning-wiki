@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: jie-cao-2026
-    resource: "https://arxiv.org/abs/2604.07469"
-    title: "Jie Cao, Chloe Qianhui Zhao, Christian Schunn, Elizabeth A. McLaughlin, Jionghao Lin, Kenneth R. Koedinger. (2026). Assessing the Impact and Underlying Pathways of Sequenced AI Feedback on Student Learning. arXiv. https://arxiv.org/abs/2604.07469"
+    resource: "https://doi.org/10.48550/arxiv.2604.07469"
+    title: "Jie Cao, Chloe Qianhui Zhao, Christian Schunn, Elizabeth A. McLaughlin, Jionghao Lin, Kenneth R. Koedinger. (2026). Assessing the Impact and Underlying Pathways of Sequenced AI Feedback on Student Learning. arXiv. https://arxiv.org/abs/2604.07469 [doi:10.48550/arxiv.2604.07469](https://doi.org/10.48550/arxiv.2604.07469)"
     author: Jie Cao, Chloe Qianhui Zhao, Christian Schunn, Elizabeth A. McLaughlin, Jionghao Lin, Kenneth R. Koedinger
     q: 3
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Layered AI feedback was perceived as more encouraging and independence-supporting but imposed higher mental effort
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Evidence** · 2 studies · 2 causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Layered feedback elicited significantly higher perceived encouragement (p < .001), perceived independence (p = .002), and mental effort (p = .018) than non-layered feedback, with no difference in perceived specificity. [→ Jie Cao 2026](#jie-cao-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Jie Cao 2026
 
-Jie Cao, Chloe Qianhui Zhao, Christian Schunn, Elizabeth A. McLaughlin, Jionghao Lin, Kenneth R. Koedinger. (2026). Assessing the Impact and Underlying Pathways of Sequenced AI Feedback on Student Learning. arXiv. https://arxiv.org/abs/2604.07469
+Jie Cao, Chloe Qianhui Zhao, Christian Schunn, Elizabeth A. McLaughlin, Jionghao Lin, Kenneth R. Koedinger. (2026). Assessing the Impact and Underlying Pathways of Sequenced AI Feedback on Student Learning. arXiv. https://arxiv.org/abs/2604.07469 [doi:10.48550/arxiv.2604.07469](https://doi.org/10.48550/arxiv.2604.07469)
 
 `q3 · i?` · `causal · r2`
 

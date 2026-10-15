@@ -43,11 +43,11 @@ The playbook asserts, citing background research, that family engagement is "con
 
 
 ## Related Claims
-- [Schools with strong social-emotional value-added help ninth-grade students stay on track and miss school less often](strong-sel-value-added-schools-on-track-absenteeism.md) — related
+- Schools with strong social-emotional value-added help ninth-grade students stay on track and miss school less often — related
 - [A replication trial with 267 preschoolers found greater gains in social skills and stronger teacher-child and parent-teacher relationships than controls](getting-ready-replication-relationships.md) — related
 - [Multiple dimensions of school climate were associated with lower school absences, with stronger relationships after the pandemic than before](school-climate-associated-with-lower-absences-post-pandemic.md) — related
-- [Attending a high school with higher social-emotional value-added increases students' likelihood of graduating and enrolling in a four-year college](sel-value-added-graduation-college-enrollment.md) — related
+- Attending a high school with higher social-emotional value-added increases students' likelihood of graduating and enrolling in a four-year college — related
 - [Schools adopting a whole child approach are reported to see improved attendance, engagement, health, and academic performance](whole-child-approach-improved-outcomes.md) — related
 - [Meaningful family and community engagement is associated with reduced absenteeism, improved academic outcomes, and more positive school climates](family-community-engagement-positive-outcomes.md) — a narrower finding that bears on this claim
 - [Profiled New Mexico community schools showed improvement across attendance, graduation, achievement, climate, health access, and family engagement indicators](nm-community-schools-improved-outcomes-three-sites.md) — related
-- [Redwood City family engagement participation linked to larger math gains, better attendance, and stronger sense of care](redwood-city-family-engagement-gains-attendance-care.md) — a narrower finding that bears on this claim
+- Redwood City family engagement participation linked to larger math gains, better attendance, and stronger sense of care — a narrower finding that bears on this claim

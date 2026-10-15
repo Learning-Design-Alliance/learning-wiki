@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` After training, treatment teachers on average allocated about 20 percent of class time to the feedback-corrective/enrichment loop, which was extremely rare in both groups before training. [→ Fitzpatrick 1985](#fitzpatrick-1985)
@@ -46,4 +47,4 @@ Classroom observation study of 21 trained and 19 control secondary mathematics t
 - [Mastery Learning Improves Outcomes](mastery-learning-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 
 - [Mastery learning implementation did not reduce material covered or instructional pace, contradicting the Robin Hood contention](mastery-learning-did-not-slow-pace-or-scope.md) — the general claim this finding bears on, with the studies behind it
-- [Trained teachers reallocated time unevenly: significantly more to presenting/developing lessons and quizzes, less to homework review, independent practice, and transitions](time-reallocated-across-instructional-functions.md) — related
+- Trained teachers reallocated time unevenly: significantly more to presenting/developing lessons and quizzes, less to homework review, independent practice, and transitions — related

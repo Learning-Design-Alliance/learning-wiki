@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: patrick-meyer-2023
-    resource: "https://www.nwea.org/research/publication/executive-summary-content-proximity-spring-2022-pilot-study/"
-    title: "Patrick Meyer, Ann Hu, Xueming (Sylvia) Li. (2023). Executive Summary: Content proximity spring 2022 pilot study. NWEA. https://www.nwea.org/research/publication/executive-summary-content-proximity-spring-2022-pilot-study/"
+    resource: "https://doi.org/10.1355/9789815011449-002"
+    title: "Patrick Meyer, Ann Hu, Xueming (Sylvia) Li. (2023). Executive Summary: Content proximity spring 2022 pilot study. NWEA. https://www.nwea.org/research/publication/executive-summary-content-proximity-spring-2022-pilot-study/ [doi:10.1355/9789815011449-002](https://doi.org/10.1355/9789815011449-002)"
     author: Patrick Meyer, Ann Hu, Xueming (Sylvia) Li
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Patrick Meyer 2023
 
-Patrick Meyer, Ann Hu, Xueming (Sylvia) Li. (2023). Executive Summary: Content proximity spring 2022 pilot study. NWEA. https://www.nwea.org/research/publication/executive-summary-content-proximity-spring-2022-pilot-study/
+Patrick Meyer, Ann Hu, Xueming (Sylvia) Li. (2023). Executive Summary: Content proximity spring 2022 pilot study. NWEA. https://www.nwea.org/research/publication/executive-summary-content-proximity-spring-2022-pilot-study/ [doi:10.1355/9789815011449-002](https://doi.org/10.1355/9789815011449-002)
 
 `q2 · i?` · `design · r?`
 

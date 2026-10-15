@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: tozadore-2025
-    resource: "https://arxiv.org/abs/2508.16706"
-    title: "Tozadore, D., Ertug, N., Chaker, Y., & Abderrahim, M. (2025). RoboBuddy in the Classroom: Exploring LLM-Powered Social Robots for Storytelling in Learning and Integration Activities. https://arxiv.org/abs/2508.16706"
+    resource: "https://doi.org/10.48550/arxiv.2508.16706"
+    title: "Tozadore, D., Ertug, N., Chaker, Y., & Abderrahim, M. (2025). RoboBuddy in the Classroom: Exploring LLM-Powered Social Robots for Storytelling in Learning and Integration Activities. https://arxiv.org/abs/2508.16706 [doi:10.48550/arxiv.2508.16706](https://doi.org/10.48550/arxiv.2508.16706)"
     author: "Tozadore, D., Ertug, N., Chaker, Y., & Abderrahim, M."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Teachers evaluated the LLM-robot system positively, citing ease of use for differentiated, multilingual lessons and no extra preparation time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The four teachers were enthusiastic about the tool's ease of use for generating differentiated lessons, especially for multilingual students. [→ Tozadore 2025](#tozadore-2025)
@@ -40,7 +40,7 @@ sources:
 
 ### Tozadore 2025
 
-Tozadore, D., Ertug, N., Chaker, Y., & Abderrahim, M. (2025). RoboBuddy in the Classroom: Exploring LLM-Powered Social Robots for Storytelling in Learning and Integration Activities. https://arxiv.org/abs/2508.16706
+Tozadore, D., Ertug, N., Chaker, Y., & Abderrahim, M. (2025). RoboBuddy in the Classroom: Exploring LLM-Powered Social Robots for Storytelling in Learning and Integration Activities. https://arxiv.org/abs/2508.16706 [doi:10.48550/arxiv.2508.16706](https://doi.org/10.48550/arxiv.2508.16706)
 
 `q2 · i?` · `design · r2`
 
@@ -64,4 +64,4 @@ In the discussion of teacher feedback (RQ4), the authors report that teachers id
 ## Related Claims
 - [Mathematics teachers critique ChatGPT-generated generative learning lessons for poor fit to students, boredom, preparation time, missing student-facing materials, mathematical flaws, and required materials](teachers-critique-chatgpt-lesson-output.md) — reports the opposite
 - [Educators identify real-time translation, dialect handling, and speech recognition as potentially transformative for multilingual learners and students with disabilities, but current speech tools fail on accents and dialects](ai-multilingual-disability-speech-tool-gaps.md) — related
-- [Mathematics teachers appreciate ChatGPT-generated generative learning activities as hands-on, collaborative, engaging, open-ended, differentiated, and using multiple representations](teachers-appreciate-chatgpt-generative-learning-affordances.md) — related
+- Mathematics teachers appreciate ChatGPT-generated generative learning activities as hands-on, collaborative, engaging, open-ended, differentiated, and using multiple representations — related

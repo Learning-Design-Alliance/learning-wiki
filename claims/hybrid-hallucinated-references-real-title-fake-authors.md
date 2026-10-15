@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: paul-denny-2027
-    resource: "https://arxiv.org/abs/2609.16574"
-    title: "Paul Denny, Gweneth Barbre, Musa Blake, Yan Cathy Hua, Juho Leinonen, Andrew Luxton-Reilly, James Prather, and Brent N. Reeves. (2027). Testing Our Foundations: Citation Trends, Errors, and Emerging Hallucinations in the Computing Education Literature. SIGCSE-TS 2027. https://arxiv.org/abs/2609.16574"
+    resource: "https://doi.org/10.48550/arxiv.2609.16574"
+    title: "Paul Denny, Gweneth Barbre, Musa Blake, Yan Cathy Hua, Juho Leinonen, Andrew Luxton-Reilly, James Prather, and Brent N. Reeves. (2027). Testing Our Foundations: Citation Trends, Errors, and Emerging Hallucinations in the Computing Education Literature. SIGCSE-TS 2027. https://arxiv.org/abs/2609.16574 [doi:10.48550/arxiv.2609.16574](https://doi.org/10.48550/arxiv.2609.16574)"
     author: Paul Denny, Gweneth Barbre, Musa Blake, Yan Cathy Hua, Juho Leinonen, Andrew Luxton-Reilly, James Prather, and Brent N. Reeves
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Paul Denny 2027
 
-Paul Denny, Gweneth Barbre, Musa Blake, Yan Cathy Hua, Juho Leinonen, Andrew Luxton-Reilly, James Prather, and Brent N. Reeves. (2027). Testing Our Foundations: Citation Trends, Errors, and Emerging Hallucinations in the Computing Education Literature. SIGCSE-TS 2027. https://arxiv.org/abs/2609.16574
+Paul Denny, Gweneth Barbre, Musa Blake, Yan Cathy Hua, Juho Leinonen, Andrew Luxton-Reilly, James Prather, and Brent N. Reeves. (2027). Testing Our Foundations: Citation Trends, Errors, and Emerging Hallucinations in the Computing Education Literature. SIGCSE-TS 2027. https://arxiv.org/abs/2609.16574 [doi:10.48550/arxiv.2609.16574](https://doi.org/10.48550/arxiv.2609.16574)
 
 `q2 · i?` · `associational · r2`
 

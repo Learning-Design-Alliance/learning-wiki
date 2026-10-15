@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: shaowen-lu-2026
-    resource: "https://arxiv.org/abs/2609.13918"
-    title: "Shaowen Lu, Chengxu Liu, Ping Zhou and Tao Yang. (2026). LoRA Fine-Tuned Models for Control Systems Course Q&A: A Multidimensional Evaluation of Model Scale and Rank Effects. https://arxiv.org/abs/2609.13918"
+    resource: "https://doi.org/10.48550/arxiv.2609.13918"
+    title: "Shaowen Lu, Chengxu Liu, Ping Zhou and Tao Yang. (2026). LoRA Fine-Tuned Models for Control Systems Course Q&A: A Multidimensional Evaluation of Model Scale and Rank Effects. https://arxiv.org/abs/2609.13918 [doi:10.48550/arxiv.2609.13918](https://doi.org/10.48550/arxiv.2609.13918)"
     author: Shaowen Lu, Chengxu Liu, Ping Zhou and Tao Yang
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # LoRA fine-tuning on control systems course data increases lexical and semantic similarity between model responses and course reference answers at both 3B and 7B model sizes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Evidence** · 2 studies · 2 causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` LoRA-fine-tuned Qwen2.5 models outperformed their corresponding base models on most ROUGE and BERTScore metrics on the 54-item test set. [→ Shaowen Lu 2026](#shaowen-lu-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Shaowen Lu 2026
 
-Shaowen Lu, Chengxu Liu, Ping Zhou and Tao Yang. (2026). LoRA Fine-Tuned Models for Control Systems Course Q&A: A Multidimensional Evaluation of Model Scale and Rank Effects. https://arxiv.org/abs/2609.13918
+Shaowen Lu, Chengxu Liu, Ping Zhou and Tao Yang. (2026). LoRA Fine-Tuned Models for Control Systems Course Q&A: A Multidimensional Evaluation of Model Scale and Rank Effects. https://arxiv.org/abs/2609.13918 [doi:10.48550/arxiv.2609.13918](https://doi.org/10.48550/arxiv.2609.13918)
 
 `q2 · i?` · `causal · r2`
 
@@ -66,6 +66,6 @@ Paired bootstrap resampling (B=10,000 iterations over the 54-item test set) of R
 - [Base-model size effects persist after LoRA adaptation: the 7B model gained more on ROUGE-2 and ROUGE-L, yet 3B-r16 outperformed 7B-r4 on ROUGE-L and BERTScore-F1](model-size-and-lora-rank-joint-effects.md) — related
 - [LoRA fine-tuning makes the Solution-Method-Teaching Points instructional format more stable, with Solution and Method coverage reaching 1.00 at r=8 and r=16 for the 3B model](lora-improves-structured-instructional-output-stability.md) — related
 - [Increasing LoRA rank raises absolute ROUGE-L gains but produces diminishing returns in performance per million adapter parameters](lora-rank-diminishing-parameter-efficiency-returns.md) — related
-- [Fine-tuning Llama2-7B with parameter-efficient methods yields unsatisfactory results for measuring subject-matter teaching practices, only marginally improving the majority baseline](llama2-qlora-unsatisfactory-for-teaching-quality-tasks.md) — related
+- Fine-tuning Llama2-7B with parameter-efficient methods yields unsatisfactory results for measuring subject-matter teaching practices, only marginally improving the majority baseline — related
 - [Adaptation gains grow monotonically with model capacity under the same LoRA recipe, though three data points cannot establish a scaling law](adaptation-gains-grow-with-model-capacity.md) — related
 - [LoRA adaptation significantly increases closed-book accuracy on the PhysicsMate test set at all three Qwen3 scales](lora-adaptation-raises-bengali-physics-qa-accuracy-all-scales.md) — related

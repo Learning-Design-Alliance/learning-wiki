@@ -48,5 +48,5 @@ The review reports a quasi-experimental design-based study (ref [30]) with 42 un
 - [Only perceived accuracy differed across educational contexts, rated lower in CTeSP than in secondary and undergraduate education](perceived-accuracy-lower-ctesp-context-difference.md) — related
 - [GPT-4 generated detailed per-response feedback that was useful for identifying scoring errors and could support personalized student feedback](gpt4-feedback-useful-for-error-identification.md) — related
 - [Qualitatively, AI-peer integrated feedback was associated with a broader repertoire of revision operations and more agentive cognitive strategies than peer feedback alone](ai-peer-feedback-agentive-revision-strategies.md) — related
-- [EFL students perceive AI-generated writing feedback as a competent source that improves vocabulary, grammar, structure, coherence, and values its immediacy](ai-feedback-perceived-expertise-efl-writing.md) — related
+- EFL students perceive AI-generated writing feedback as a competent source that improves vocabulary, grammar, structure, coherence, and values its immediacy — related
 - [Natural language AI feedback is associated with faster convergence to correct solutions](nl-feedback-faster-convergence-correctness.md) — related

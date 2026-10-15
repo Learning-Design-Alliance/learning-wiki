@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` At Smith College, students of color in the AEMES peer-mentoring program are 18 to 23 percentage points more likely, depending on major, to finish a science degree. [→ Andrew Howard Nichols 2015](#andrew-howard-nichols-2015)
@@ -65,5 +66,5 @@ Case-study profile of Western Oregon University's Western Tuition Promise Progra
 - [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
-- [Institutions serving similar students produce widely different Pell graduation rates, indicating outcomes are not fixed by entering-class characteristics](similar-colleges-different-pell-outcomes.md) — a broader claim this one bears on
-- [About 35 percent of institutions serve Pell recipients nearly as well as non-Pell recipients, while a similar share have gaps exceeding 9 percentage points](pell-gap-institution-distribution.md) — a broader claim this one bears on
+- Institutions serving similar students produce widely different Pell graduation rates, indicating outcomes are not fixed by entering-class characteristics — a broader claim this one bears on
+- About 35 percent of institutions serve Pell recipients nearly as well as non-Pell recipients, while a similar share have gaps exceeding 9 percentage points — a broader claim this one bears on

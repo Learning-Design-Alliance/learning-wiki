@@ -44,7 +44,7 @@ Item-level Spearman correlations with student-reported GPA band (Table 2), condu
 
 ## Related Claims
 - [Higher reliance on AI tools is correlated with lower critical-thinking performance, mediated by cognitive offloading](ai-reliance-correlated-lower-critical-thinking-offloading.md) — a broader claim this one bears on
-- [In SDT, autonomy is not synonymous with independence nor the opposite of dependence](autonomy-not-synonymous-with-independence.md) — related
+- In SDT, autonomy is not synonymous with independence nor the opposite of dependence — related
 - [Cognitive offloading tendency is negatively associated with critical thinking, technical problem-solving, and metacognitive self-regulation](cognitive-offloading-negative-higher-order-outcomes.md) — a broader claim this one bears on
 - [AI tools can enhance short-term task performance while undermining durable learning (the learning-performance paradox)](gpt4-access-harms-learning-after-withdrawal.md) — related
 - [The cohort's baseline perception profile shows high endorsement of critical-thinking risk and training interest and substantially more cautious trust for complex-task use than for accuracy](baseline-perception-profile-graduate-trainees.md) — related

@@ -44,4 +44,4 @@ One qualifying study evaluated Number Rockets with students below the 38th perce
 
 ## Related Claims
 - [An earlier Number Rockets study showed positive effects but was excluded from evidence ratings because its tutors were the authors' graduate students](number-rockets-earlier-study-excluded.md) — related
-- [Pirate Math tutoring raises math achievement of low-achieving third graders with an effect size of +0.37 on Key Math](pirate-math-keymath-effect-037.md) — related
+- Pirate Math tutoring raises math achievement of low-achieving third graders with an effect size of +0.37 on Key Math — related

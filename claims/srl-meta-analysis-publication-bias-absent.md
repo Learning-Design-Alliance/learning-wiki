@@ -50,4 +50,4 @@ Publication-bias assessment of the 21-study meta-analysis using a thesis-vs-arti
 - [Trim-and-fill analysis shows no publication bias in the meta-analysis of innovative learning effects on mathematical problem-solving ability](trim-fill-no-publication-bias-innovative-learning.md) — related
 - Publication-bias diagnostics suggest minimal influence on the meta-analytic findings, with a borderline Begg's test — related
 - [Publication-bias assessments substantially reduce the intercept prediction, often indicating no positive transfer when the identified moderators are absent](publication-bias-reduces-intercept-no-transfer-without-moderators.md) — related
-- [Trim and Fill publication bias analysis suggests the pooled short-term adventure therapy effect (.47) slightly underestimates the true effect (adjusted .52)](publication-bias-adventure-therapy-underestimate.md) — related
+- Trim and Fill publication bias analysis suggests the pooled short-term adventure therapy effect (.47) slightly underestimates the true effect (adjusted .52) — related

@@ -16,7 +16,7 @@ sources:
 # Use ultra-brief affective prompts to enrich the psychological interpretability of passive physiological data at minimal participant burden
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 2 claims (2 for) · 3 studies (3 associational), `q2` · 0 of 3 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 1 claim rests on one study
 
 ## Description
 The article's design guidance is that a single open-ended affective question, answered in the participant's own words, can complement passive wearable sensing by supplying psychological context the sensors cannot recover. Responses were extremely short — the median was three words — yet still associated with within-person variation in sleep and activity outcomes. The article concludes that "ultra-brief affective prompts enrich the psychological interpretability of passive physiological data at minimal burden", positioning this as a lightweight alternative to infrastructure-intensive sensor-language models.

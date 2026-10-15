@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: digital-promise-2020
-    resource: "https://digitalpromise.dspacedirect.org/items/abf8db78-dc7a-4f4f-b06a-b00d1bda63e8"
-    title: "Digital Promise. (2020). Every Learner Everywhere and Lighthouse Institutions: First-Year Experiences. https://digitalpromise.dspacedirect.org/items/abf8db78-dc7a-4f4f-b06a-b00d1bda63e8"
+    resource: "https://doi.org/10.51388/20.500.12265/99"
+    title: "Digital Promise. (2020). Every Learner Everywhere and Lighthouse Institutions: First-Year Experiences. https://digitalpromise.dspacedirect.org/items/abf8db78-dc7a-4f4f-b06a-b00d1bda63e8 [doi:10.51388/20.500.12265/99](https://doi.org/10.51388/20.500.12265/99)"
     author: Digital Promise
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Digital Promise 2020
 
-Digital Promise. (2020). Every Learner Everywhere and Lighthouse Institutions: First-Year Experiences. https://digitalpromise.dspacedirect.org/items/abf8db78-dc7a-4f4f-b06a-b00d1bda63e8
+Digital Promise. (2020). Every Learner Everywhere and Lighthouse Institutions: First-Year Experiences. https://digitalpromise.dspacedirect.org/items/abf8db78-dc7a-4f4f-b06a-b00d1bda63e8 [doi:10.51388/20.500.12265/99](https://doi.org/10.51388/20.500.12265/99)
 
 `q2 · i?` · `qualitative · r2`
 
@@ -44,6 +44,6 @@ Online focus groups with 34 students from five institutions (about three-quarter
 
 ## Related Claims
 - [Most instructors using adaptive courseware believed it improved student learning and would use it again](instructors-positive-perceptions-adaptive-courseware.md) — related
-- [About half of students reported instructors helped bridge courseware guidance and their understanding through outreach, availability, and responsiveness](instructor-involvement-supports-courseware-use.md) — related
+- About half of students reported instructors helped bridge courseware guidance and their understanding through outreach, availability, and responsiveness — related
 - [Immediately after closure, New York charter students lacked adequate devices (44.4% on average) more often than adequate internet access (27.0%), while teachers were almost universally equipped](device-access-gap-internet.md) — related
 - [Studies in which students used familiar online-learning software reported positive achievement effects during school closures](covid-closures-positive-effects-online-software.md) — related

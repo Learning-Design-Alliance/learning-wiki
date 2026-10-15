@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: zahra-2025
-    resource: "https://arxiv.org/abs/2610.00338"
-    title: "Zahra, F. T. (2025). Three Pathways of Student-AI Interaction: Constraint-First Design for Higher-Order Thinking. Manuscript under blind review; framework first presented at EAAI-25, Philadelphia, PA. https://arxiv.org/abs/2610.00338"
+    resource: "https://doi.org/10.48550/arxiv.2610.00338"
+    title: "Zahra, F. T. (2025). Three Pathways of Student-AI Interaction: Constraint-First Design for Higher-Order Thinking. Manuscript under blind review; framework first presented at EAAI-25, Philadelphia, PA. https://arxiv.org/abs/2610.00338 [doi:10.48550/arxiv.2610.00338](https://doi.org/10.48550/arxiv.2610.00338)"
     author: Zahra, F. T.
     q: 2
     i: "?"
@@ -38,7 +38,7 @@ sources:
 # Student-AI exchanges in an undergraduate research methods course are empirically classifiable into three interaction paths, with Passive Review most frequent (46%) and Strategic Dialogue 36%
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · qualitative `r2` · `q2`
+> **Evidence** · 2 studies (3 entries) · 2 qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Qualitative content analysis of 50 double-coded messages classified exchanges into the three typological paths, with R1 final classifications of 46% Path 1, 18% Path 2, and 36% Path 3. [→ Zahra 2025](#zahra-2025)
@@ -49,7 +49,7 @@ sources:
 
 ### Zahra 2025
 
-Zahra, F. T. (2025). Three Pathways of Student-AI Interaction: Constraint-First Design for Higher-Order Thinking. Manuscript under blind review; framework first presented at EAAI-25, Philadelphia, PA. https://arxiv.org/abs/2610.00338
+Zahra, F. T. (2025). Three Pathways of Student-AI Interaction: Constraint-First Design for Higher-Order Thinking. Manuscript under blind review; framework first presented at EAAI-25, Philadelphia, PA. https://arxiv.org/abs/2610.00338 [doi:10.48550/arxiv.2610.00338](https://doi.org/10.48550/arxiv.2610.00338)
 
 `q2 · i?` · `qualitative · r2`
 

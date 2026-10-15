@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` In the reconstructed course, Mead defines the problem of education as introducing a method of thought — problem, hypothesis, and testing — while insisting the method cannot simply be transferred and that abstractions must be made by the child himself. [→ Biesta 1997](#biesta-1997)
@@ -45,4 +46,4 @@ Reconstruction from lecture XXXIII of Mead's Course 50, in the article's section
 ## Related Claims
 - [In Mead's lectures, meanings grow out of social intercourse and the child constructs meanings only in social process](meanings-grow-out-of-social-intercourse.md) — related
 - [Mead holds that the process of acquiring changes the thing acquired, making change of subject matter the rule](acquiring-changes-the-thing-acquired.md) — related
-- [Mead holds that social interaction precedes and produces reflective self-consciousness](social-interaction-precedes-self-consciousness.md) — related
+- Mead holds that social interaction precedes and produces reflective self-consciousness — related

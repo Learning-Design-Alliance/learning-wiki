@@ -106,16 +106,16 @@ Open questions: how large effects remain beyond the typical 1–2 year follow-up
 - [SEL can be improved by both short-term targeted interventions and longer-term strategies to improve school contextual factors](sel-improvable-short-and-long-term.md) — related
 - [Research on summer programs addresses their implementation, design, and efficacy for literacy, math, and social-emotional learning outcomes](summer-programs-research-implementation-design-efficacy.md) — related
 - [Teachers used Forms to support social-emotional learning through daily well-being check-ins and anonymous voice](forms-sel-checkins-anonymity.md) — a narrower finding that bears on this claim
-- [Implementing specific SEL curricula can improve academic performance, including learning to read](sel-curricula-improve-academic-performance.md) — related
+- Implementing specific SEL curricula can improve academic performance, including learning to read — related
 - [Students reported statistically significant pre-post improvements in attitudes about learning after the summer ed-tech programs](summer-edtech-attitude-gains-significant.md) — a narrower finding that bears on this claim
 - [Social and emotional competence can be enhanced through explicit instruction, teaching practices, and curriculum integration](sel-classroom-approaches-three-types.md) — related
-- [Decades of research show SEL benefits student well-being, academic performance, attendance, graduation rates, and future success](sel-decades-of-research-benefits.md) — a broader claim this one bears on
-- [Emotions form a critical piece of how, what, when, and why people learn, so education should leverage the emotional aspects of learning](emotions-critical-to-learning-leverage-in-design.md) — related
+- Decades of research show SEL benefits student well-being, academic performance, attendance, graduation rates, and future success — a broader claim this one bears on
+- Emotions form a critical piece of how, what, when, and why people learn, so education should leverage the emotional aspects of learning — related
 - [The evidence base for school mindfulness interventions is promising but too variable for definitive practice recommendations](mbi-evidence-base-variability-limitation.md) — related
 - [NBA Math Hoops students scored significantly lower than controls on a composite SEL measure (−0.21 SD), though remaining at moderately high levels](nba-math-hoops-lower-composite-sel.md) — related
 - [Schoolwide SEL programs are associated with long-term achievement gains, with multiple meta-analyses estimating an 11-percentile-point gain on average for participating students](schoolwide-sel-meta-analytic-11-percentile-achievement-gain.md) — related
 - [Schools adopting a whole child approach are reported to see improved attendance, engagement, health, and academic performance](whole-child-approach-improved-outcomes.md) — related
-- [Compared with non-participants, nearly 24% more students who participated in schoolwide SEL programs exhibited increased pro-social behaviors and reported decreased distress](schoolwide-sel-prosocial-distress-24-percent.md) — related
+- Compared with non-participants, nearly 24% more students who participated in schoolwide SEL programs exhibited increased pro-social behaviors and reported decreased distress — related
 - [Program and delivery characteristics moderate SEL effects: implementation quality, duration, skill practice, and delivery agent](sel-effects-moderators-implementation-delivery.md) — related
 - [A 2017 meta-analysis found SEL program participation associated with a 6% increase in high school and an 11% increase in college graduation rates](sel-meta-analysis-graduation-increases.md) — related
 - [Social and emotional learning programs promote competencies, reduce behavior problems, and improve engagement and achievement, with sustained longer-term benefits](sel-programs-improve-behavior-engagement-achievement.md) — a broader claim this one bears on

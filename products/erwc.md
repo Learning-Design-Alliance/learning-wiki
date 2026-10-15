@@ -18,7 +18,7 @@ sources:
 # ERWC
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The Expository Reading and Writing Course is a curriculum and associated teacher professional-learning and coaching programme developed and implemented to support secondary students' expository reading and writing.
@@ -30,7 +30,6 @@ The Expository Reading and Writing Course is a curriculum and associated teacher
 - **ERWC instructional focus on discussion, critical thinking, oral language, genre writing, and rhetorical analysis**: The ERWC's design centers English instruction on a set of interrelated practices: "discussions of text meaning, developing critical thinking skills, encouraging group discussions, developing oral language skills, developing writing skills in multiple genres, and analyzing the rhetorical features of texts and applying them in student writing." These foci operate across the whole twelfth-grade English course. (Expository Reading et al. (2015))
 
 ### Claims
-- [ERWC students gained more than matched non-ERWC students on the EPT (ES +0.13)](../claims/erwc-ept-effect-size-013.md) [+W]
 
 ## Related Products and Programmes
 
@@ -66,7 +65,6 @@ Beyond curriculum materials, the ERWC provides "four to six days of professional
 
 ## Claims
 
-- [ERWC students gained more than matched non-ERWC students on the EPT (ES +0.13)](../claims/erwc-ept-effect-size-013.md) [+W]
 
 ## Related Elements
 
@@ -109,7 +107,6 @@ The ERWC is a program for 12th graders designed to prepare them to enter the Cal
 
 ## Claims
 
-- [ERWC students gained more than matched non-ERWC students on the EPT (ES +0.13)](../claims/erwc-ept-effect-size-013.md) [+W]
 
 ## Related Elements
 

@@ -44,6 +44,6 @@ The review's RQ2 synthesis states that "interpretable, well-specified AI mechani
 
 ## Related Claims
 - [Only the well-specified text-only prompt produced a correct quantitative result from o4-mini, while underspecified prompts led to numerical errors and misleading final results](prompt-specificity-shapes-lrm-physics-solution-correctness.md) — related
-- [Rejecting well-specified prompts cost control students performance but not workshop students](prompt-rejection-cost-differs-by-condition.md) — related
-- [A two-hour AI literacy workshop made middle-school students less likely to accept underspecified suggested prompts](ai-literacy-workshop-reduces-underspecified-prompt-acceptance.md) — related
-- [Workshop students' correctness judgments of LLM responses were more sensitive to prompt specification](workshop-improves-response-evaluation-sensitivity.md) — related
+- Rejecting well-specified prompts cost control students performance but not workshop students — related
+- A two-hour AI literacy workshop made middle-school students less likely to accept underspecified suggested prompts — related
+- Workshop students' correctness judgments of LLM responses were more sensitive to prompt specification — related

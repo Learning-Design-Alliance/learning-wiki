@@ -16,7 +16,7 @@ sources:
 # Dependence-based image-role taxonomy for visual math items
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article operationalizes a four-code taxonomy of image roles in math problems: REQUIRED, USEFUL, NOTREQUIRED, and INSUFFICIENT. An item is REQUIRED when "At least one task-critical quantity, relation, label, or structural constraint is present only in the image and cannot be recovered from the text alone without inventing information"; USEFUL items are solvable from text with a redundant-but-helpful figure. A conservative flag-then-review refinement downgraded six items, yielding 376 Required items of 541 image-containing items (69.5%). An independent second-rater audit (n=153) yielded 88.2% agreement with Cohen's κ=0.764 on the Required-vs-non-Required boundary.
@@ -37,10 +37,6 @@ The article operationalizes a four-code taxonomy of image roles in math problems
 
 ### Claims
 
-- [Without required figures, multimodal LLMs overwhelmingly refuse rather than guess on image-Required math items](../claims/mllms-refuse-without-required-figures.md) [+W]
-- [Multimodal LLMs show moderate cross-model agreement on which image-Required items are solvable, with within-family agreement exceeding cross-family agreement](../claims/moderate-cross-model-agreement-solvability.md) [+W]
-- [With images provided, reasoning models achieve higher majority-correct accuracy on image-Required middle-school math items than non-reasoning models](../claims/reasoning-mllms-higher-accuracy-image-required-math.md) [+W]
-- [In a contrastive audit, visual misreading is the dominant failure mode for non-reasoning models on items reasoning models solve](../claims/visual-misread-dominant-non-reasoning-failure.md) [+W]
 
 ## Related Theories
 - 

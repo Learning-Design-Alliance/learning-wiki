@@ -43,7 +43,7 @@ This is the brief's central interpretive argument, not a tested result: low expo
 ## Related Claims
 - [AI adoption across the 19 Heartland states averages 15.3%, below the national rate and uneven across states](heartland-btos-adoption-below-national.md) — related
 - [Only Illinois among the 19 Heartland states exceeds the national benchmark for AI-related job postings](lightcast-only-illinois-exceeds-ai-postings.md) — related
-- [Demand for AI skills spans non-technical sectors, with 75% of companies planning AI adoption by 2027](ai-workforce-demand-non-technical-sectors.md) — related
+- Demand for AI skills spans non-technical sectors, with 75% of companies planning AI adoption by 2027 — related
 - [Most of the 756 occupations tracked by the Anthropic Economic Index show zero observed AI usage, concentrated in hands-on physical occupations](aei-majority-occupations-zero-ai-usage.md) — related
 - [Individuals involved in technology exposure and exploration programs are more likely to pursue or enroll in technology-related education and training](exposure-programs-increase-tech-pursuit.md) — related
 - [AI adoption at work shows generational and occupational patterns, with younger workers and tech, professional services, and finance fields more likely to use AI](generational-occupational-ai-adoption-patterns.md) — related

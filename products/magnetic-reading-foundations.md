@@ -18,7 +18,7 @@ sources:
 # Magnetic Reading Foundations
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 Magnetic Reading Foundations is a curriculum from Magnetic Reading that provides daily K–2 instruction in foundational reading skills through digital lessons, assessments, and interactive tutorials for differentiation.
@@ -29,7 +29,6 @@ Magnetic Reading Foundations is a curriculum from Magnetic Reading that provides
 - **Magnetic Reading Foundations Teacher Toolbox on i-Ready Connect**: The Teacher Toolbox is the educator-facing digital access point for Magnetic Reading Foundations (K-2), delivered through the i-Ready Connect platform. It provides digital versions of program materials to support remote or blended learning, plus Interactive Tutorials to further engage students, and runs on Windows, MacOS, and Chromebook machines with JavaScript, cookies, and pop-ups enabled. (Magnetic Reading Foundations (2022))
 
 ### Claims
-- [Magnetic Reading Foundations has a positive and statistically significant effect of +0.15 on second-grade spring i-Ready Diagnostic scores](../claims/magnetic-reading-foundations-positive-i-ready-effect.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -64,7 +63,6 @@ Magnetic Reading Foundations is a comprehensive foundational skills program for 
 
 ## Claims
 
-- [Magnetic Reading Foundations has a positive and statistically significant effect of +0.15 on second-grade spring i-Ready Diagnostic scores](../claims/magnetic-reading-foundations-positive-i-ready-effect.md) [+W]
 
 ## Related Elements
 
@@ -104,7 +102,6 @@ The Teacher Toolbox is the educator-facing digital access point for Magnetic Rea
 
 ## Claims
 
-- [Magnetic Reading Foundations has a positive and statistically significant effect of +0.15 on second-grade spring i-Ready Diagnostic scores](../claims/magnetic-reading-foundations-positive-i-ready-effect.md) [+W]
 
 ## Related Elements
 

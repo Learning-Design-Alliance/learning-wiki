@@ -17,7 +17,7 @@ sources:
 # Two-hour classroom AI literacy workshop combining LLM concepts with agency-preserving regulation practice
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 A two-hour, classroom-feasible workshop with a conceptual component on "how LLMs generate text, why they can produce incomplete or incorrect answers" and a practical component that "did not rehearse the later experimental science tasks". Students discussed common LLM output problems, then in small groups predicted whether prompts would elicit satisfactory responses, queried an LLM, evaluated answers, and revised prompts as needed. The slide deck and facilitation script are released in an OSF repository.
@@ -38,9 +38,6 @@ A two-hour, classroom-feasible workshop with a conceptual component on "how LLMs
 - applied regulation of LLM interaction: prompting, response evaluation, and follow-up questioning during science problem solving
 
 ### Claims
-- [Ai Literacy Workshop Reduces Underspecified Prompt Acceptance](../claims/ai-literacy-workshop-reduces-underspecified-prompt-acceptance.md) [+M]
-- [Workshop Increases Follow Up Questioning](../claims/workshop-increases-follow-up-questioning.md) [+M]
-- [Workshop Modest Final Performance Gain](../claims/workshop-modest-final-performance-gain.md) [+M]
 
 ## Related Designs
 - 

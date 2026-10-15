@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: james-a-dearden-2017
-    resource: "https://www.mathematica.org/publications/demonstrated-interest-signaling-behavior-in-college-admissions"
-    title: "James A. Dearden, Suhui Li, Chad D. Meyerhoefer, Muzhe Yang. (2017). Demonstrated Interest: Signaling Behavior in College Admissions. Contemporary Economic Policy, vol. 35, issue 4. https://www.mathematica.org/publications/demonstrated-interest-signaling-behavior-in-college-admissions"
+    resource: "https://doi.org/10.1111/coep.12216"
+    title: "James A. Dearden, Suhui Li, Chad D. Meyerhoefer, Muzhe Yang. (2017). Demonstrated Interest: Signaling Behavior in College Admissions. Contemporary Economic Policy, vol. 35, issue 4. https://www.mathematica.org/publications/demonstrated-interest-signaling-behavior-in-college-admissions [doi:10.1111/coep.12216](https://doi.org/10.1111/coep.12216)"
     author: James A. Dearden, Suhui Li, Chad D. Meyerhoefer, Muzhe Yang
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### James A. Dearden 2017
 
-James A. Dearden, Suhui Li, Chad D. Meyerhoefer, Muzhe Yang. (2017). Demonstrated Interest: Signaling Behavior in College Admissions. Contemporary Economic Policy, vol. 35, issue 4. https://www.mathematica.org/publications/demonstrated-interest-signaling-behavior-in-college-admissions
+James A. Dearden, Suhui Li, Chad D. Meyerhoefer, Muzhe Yang. (2017). Demonstrated Interest: Signaling Behavior in College Admissions. Contemporary Economic Policy, vol. 35, issue 4. https://www.mathematica.org/publications/demonstrated-interest-signaling-behavior-in-college-admissions [doi:10.1111/coep.12216](https://doi.org/10.1111/coep.12216)
 
 `q1 · i?` · `associational · r2`
 

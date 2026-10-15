@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Apprentices assigned mentor-teachers of color described them as a valuable source of representation and connection, and emphasized the importance of accessing more diverse mentors. [→ Nathan Kriha 2025](#nathan-kriha-2025)

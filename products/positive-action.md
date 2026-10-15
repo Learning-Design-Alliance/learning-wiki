@@ -26,7 +26,7 @@ sources:
 # Positive Action
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 9 claims (8 for, 1 against) · 2 studies (2 causal), `q3`–`q4` · 2 of 2 report an effect size · 9 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 against) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 A K–12 curriculum developed and delivered by Positive Action, Inc. that uses scripted lessons and optional school, family, and community components to promote positive behavior, character development, academic achievement, and social-emotional skills.
@@ -44,9 +44,6 @@ A K–12 curriculum developed and delivered by Positive Action, Inc. that uses s
 - [Positive Action has positive effects on elementary school students' behavior, with a WWC domain average effect size of 0.51 and an improvement index of +19 percentile points](../claims/positive-action-positive-effects-behavior.md) [+W]
 - [In the Hawaii randomized trial, Positive Action significantly reduced grade retention, with an effect size of 1.09 and an improvement index of +36](../claims/positive-action-reduces-grade-retention.md) [+W]
 - [In the Hawaii randomized trial, Positive Action reduced serious violence among boys but not among girls](../claims/positive-action-violence-reduced-boys-not-girls.md) [+W]
-- [In a six-year randomized study in Chicago, Positive Action significantly reduced absenteeism (ES=+0.25)](../claims/positive-action-chicago-rct-absenteeism.md) [+W]
-- [In a four-year randomized evaluation in Hawaii, Positive Action schools had significantly lower absenteeism (ES=+0.19) and positive math and reading outcomes relative to controls](../claims/positive-action-hawaii-rct-absenteeism.md) [+W]
-- [Positive Action reduces school absenteeism, with a weighted average effect size of +0.20 across two randomized studies](../claims/positive-action-reduces-absenteeism.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -142,9 +139,6 @@ Positive Action is a whole-school reform strategy intended to improve social-emo
 
 ## Claims
 
-- [In a six-year randomized study in Chicago, Positive Action significantly reduced absenteeism (ES=+0.25)](../claims/positive-action-chicago-rct-absenteeism.md) [+W]
-- [In a four-year randomized evaluation in Hawaii, Positive Action schools had significantly lower absenteeism (ES=+0.19) and positive math and reading outcomes relative to controls](../claims/positive-action-hawaii-rct-absenteeism.md) [+W]
-- [Positive Action reduces school absenteeism, with a weighted average effect size of +0.20 across two randomized studies](../claims/positive-action-reduces-absenteeism.md) [+W]
 
 ## Related Elements
 

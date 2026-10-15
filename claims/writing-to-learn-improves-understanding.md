@@ -110,4 +110,4 @@ Open questions the recorded evidence does not settle: how large the effect is re
 - [Process Writing Improves Writing Quality](process-writing-improves-writing-quality.md) — related
 - [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — related
 - [Metacognitive strategy instruction, which includes comprehension monitoring, improves academic performance by a medium amount, and in one non-randomised study comprehension-monitoring training raised low achievers' reading scores](self-monitoring-comprehension-improves-learning.md) — related
-- [Extensive reading improves grammatical knowledge and writing style](extensive-reading-improves-grammar-and-writing-style.md) — related
+- Extensive reading improves grammatical knowledge and writing style — related

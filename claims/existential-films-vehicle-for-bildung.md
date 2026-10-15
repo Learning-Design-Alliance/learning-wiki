@@ -43,7 +43,7 @@ Theoretical argument in a philosophy-of-education article: the author reasons th
 
 
 ## Related Claims
-- [Pippi's specific behaviors in the series instantiate Pragmatism, Reconstructionism, and Existentialism, including rejecting imposed learning decisions and reconstructing assessment.](pippi-instantiates-contemporary-philosophies.md) — related
-- [Pippi Longstocking portrays a clash between contemporary educational philosophies (embodied by Pippi) and an Essentialist understanding (embodied by the other social agents).](pippi-versus-society-educational-philosophy-clash.md) — related
-- [Elementary graduate students score higher in Realism and lower in Existentialism than elementary undergraduates](elementary-grads-realism-up-existentialism-down.md) — related
-- [Elementary undergraduates show greater belief in Existentialism than secondary undergraduates](elementary-undergrads-higher-existentialism.md) — related
+- Pippi's specific behaviors in the series instantiate Pragmatism, Reconstructionism, and Existentialism, including rejecting imposed learning decisions and reconstructing assessment. — related
+- Pippi Longstocking portrays a clash between contemporary educational philosophies (embodied by Pippi) and an Essentialist understanding (embodied by the other social agents). — related
+- Elementary graduate students score higher in Realism and lower in Existentialism than elementary undergraduates — related
+- Elementary undergraduates show greater belief in Existentialism than secondary undergraduates — related

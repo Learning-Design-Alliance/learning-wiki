@@ -43,12 +43,12 @@ Systematic review synthesis of eleven studies meeting inclusion criteria (data c
 
 
 ## Related Claims
-- [Social sciences scores showed no significant decrease after the 2020 school closures](covid-closures-no-social-sciences-loss.md) — a narrower finding that bears on this claim
+- Social sciences scores showed no significant decrease after the 2020 school closures — a narrower finding that bears on this claim
 - [Median achievement losses from spring 2020 school closures were similar for mathematics (−0.10 SD) and reading (−0.09 SD), though individual studies found subject-specific differences](covid-closures-subject-specific-effects.md) — a narrower finding that bears on this claim
 - [Younger children were more negatively affected by COVID-19 school closures than older children (−0.37 SD vs. −0.10 SD)](covid-closures-younger-students-more-affected.md) — a narrower finding that bears on this claim
 - [Remote learning implemented during the spring 2020 closures achieved effects similar to no teaching at all during summer vacation](covid-remote-learning-comparable-to-summer-loss.md) — a narrower finding that bears on this claim
-- [The 2020 COVID-19 school closures caused a decrease in Flemish grade 6 school-average mathematics scores of roughly 0.19 standard deviations relative to previous cohorts](covid-closures-math-loss-019-sd.md) — related
+- The 2020 COVID-19 school closures caused a decrease in Flemish grade 6 school-average mathematics scores of roughly 0.19 standard deviations relative to previous cohorts — related
 - [Education leaders had little data on the impacts of school closures on learning at the time of the COVID-19 spring 2020 closures](little-data-closure-impacts-2020.md) — related
 - [Students in The Netherlands lost on average 3.16 percentile points (0.08 SD) in achievement during the 8-week COVID-19 lockdown](dutch-lockdown-learning-loss-3-percentile-points.md) — a narrower finding that bears on this claim
-- [Science and French scores also decreased significantly after the 2020 school closures, by roughly 0.22-0.33 and 0.19-0.30 standard deviations respectively](covid-closures-science-french-losses.md) — related
+- Science and French scores also decreased significantly after the 2020 school closures, by roughly 0.22-0.33 and 0.19-0.30 standard deviations respectively — related
 - [Schools reported that about 40 percent of their students experienced considerable or major academic losses since March 2020](charter-schools-reported-student-academic-losses.md) — related

@@ -44,4 +44,4 @@ Comparative benchmarking of five clustering algorithms (K-Means, K-Means++, DBSC
 
 ## Related Claims
 - [K-Means++ clustering of self-reported behavioral proxies yields six distinct, stable learner profiles (k = 6, Silhouette = 0.62)](six-behavioral-learner-profiles-kmeans-plus.md) — possibly the same claim (merge candidate)
-- [LCF outperformed k-means, RPMM, and SS-RPMM on cluster validity indices in the same PSY 101 data](lcf-outperforms-comparison-methods-validity-indices.md) — related
+- LCF outperformed k-means, RPMM, and SS-RPMM on cluster validity indices in the same PSY 101 data — related

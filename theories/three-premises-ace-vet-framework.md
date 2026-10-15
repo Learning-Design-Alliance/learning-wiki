@@ -16,7 +16,7 @@ sources:
 # Three-premises framework for viewing ACE within the national VET system
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The report imposes order on wide-ranging views about ACE's role by working from three premises that form "the lens or framework through whichwe have written this Report": ACE is a provider; ACE providers are community-based providers distinct from public and private providers; and the ACE sector is a network of community-based ACE providers. The framework's purpose is described as pragmatic and context specific, providing common boundaries around the analysis of ACE's role in the national VET system.
@@ -37,10 +37,6 @@ The report imposes order on wide-ranging views about ACE's role by working from 
 
 ### Claims
 
-- [ACE providers are increasingly delivering recognised outcomes in the national VET system, with around 180 registered providers and 1.5-2% of national VET course activity](../claims/ace-providers-delivering-recognised-vet-outcomes.md) [+W]
-- [ACE's main VET contribution is General Education and Training (around 20% of provision), with around 10% in non-industry-specific occupational training and little in industry-specific training](../claims/ace-vet-contribution-concentration-general-education.md) [+W]
-- [ACE providers deliver VET to equity target groups and to rural and remote communities where other VET provision is limited or non-existent](../claims/ace-vet-equity-groups-rural-remote-delivery.md) [+W]
-- [General Adult Education remains the heartland of the ACE sector, forming no less than 70% of ACE provision](../claims/general-adult-education-heartland-ace-sector.md) [+W]
 
 ## Related Theories
 

@@ -17,7 +17,7 @@ sources:
 # AI prototyping and research toolset: V0, Cursor, Mobbin, Figma, and Great Question
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 design, 1 theoretical), `q1` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The field note names a toolset supporting the Design Loop. V0 is "an AI-powered tool for generating web app interfaces and code from natural-language prompts"; Cursor is "an AI-assisted code editor for rapidly developing and refining applications"; Mobbin is a UX/UI platform providing "a large, searchable library of real-world user interface examples"; Figma is a collaborative design and prototyping platform; and Great Question is a research platform for participant recruitment, scheduling, interview management, and session recording. The authors used V0 and Cursor for functional prototypes and Figma for polished, client-facing presentations.
@@ -41,7 +41,6 @@ The field note names a toolset supporting the Design Loop. V0 is "an AI-powered 
 ## Claims
 
 - [AI-supported prototyping combined with educator feedback loops accelerated development and surfaced usability issues early in one K-2 literacy tool project](../claims/ai-prototyping-accelerates-development-with-feedback-loops.md) [+W]
-- [Generative AI can help people finish tasks more quickly but does not accelerate learning itself](../claims/genai-speeds-tasks-not-learning.md) [~W]
 
 ## Related Elements
 - [Five Phase Ux Design Loop](../theories/five-phase-ux-design-loop.md)

@@ -22,7 +22,7 @@ sources:
 # Core-Plus Mathematics
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 7 claims (6 for, 1 mixed) · 2 studies (1 causal, 1 review), `q2` · 0 of 2 report an effect size · 7 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 2 studies (1 causal, 1 review), `q2` · 0 of 2 report an effect size · 5 claims rest on one study
 
 ## Description
 A four-year high-school mathematics curriculum developed by the Core-Plus Mathematics Project at Western Michigan University and distributed by Glencoe/McGraw-Hill, integrating algebra, functions, statistics, probability, geometry, trigonometry, discrete mathematics, modeling, multiple representations, and technology.
@@ -39,8 +39,6 @@ A four-year high-school mathematics curriculum developed by the Core-Plus Mathem
 - [The effect on SAT math scores was positive but not statistically significant, though large enough to be substantively important (effect size at least 0.25)](../claims/core-plus-sat-math-substantively-important.md) [+W]
 - [Core-Plus Mathematics showed positive, statistically significant effects on ninth-grade ITED math and CPMP Course 1 and 2 posttest subtests after WWC adjustments](../claims/core-plus-significant-subtest-effects.md) [+W]
 - [One of four qualifying studies found significant positive ITED outcomes for Core-Plus Mathematics](../claims/core-plus-one-of-four-studies-significant.md) [+W]
-- [Qualifying Core-Plus studies used within-school matching because participation was by student choice](../claims/core-plus-studies-matched-within-schools.md) [+W]
-- [Core-Plus Mathematics produces a small positive weighted mean effect on standardized math achievement](../claims/core-plus-weighted-mean-effect-008.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -121,8 +119,6 @@ Core-Plus Mathematics is a problem-based, inquiry-oriented four-year integrated 
 ## Claims
 
 - [One of four qualifying studies found significant positive ITED outcomes for Core-Plus Mathematics](../claims/core-plus-one-of-four-studies-significant.md) [+W]
-- [Qualifying Core-Plus studies used within-school matching because participation was by student choice](../claims/core-plus-studies-matched-within-schools.md) [+W]
-- [Core-Plus Mathematics produces a small positive weighted mean effect on standardized math achievement](../claims/core-plus-weighted-mean-effect-008.md) [+W]
 - [Core-Plus Mathematics has potentially positive effects on mathematics achievement for high school students, with an average improvement index of +15 percentile points](../claims/core-plus-math-potentially-positive-effects.md) [+W]
 
 ## Related Elements

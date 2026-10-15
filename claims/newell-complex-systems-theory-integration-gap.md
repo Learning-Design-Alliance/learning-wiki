@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Newell's instrumental theory, which maps interdisciplinary process steps onto complex systems theory, leaves integration unexplained — a gap his critics identified and Newell conceded. [→ Dennis 2020](#dennis-2020)
@@ -43,7 +44,7 @@ The article reviews the debate over Newell's 'A Theory of Interdisciplinary Stud
 
 
 ## Related Claims
-- [Interdisciplinary studies are hindered by proliferating definitions and competing instrumental versus conceptual approaches](interdisciplinarity-competing-definitions-approaches.md) — related
-- [Interdisciplinarity is almost impossible to practice without the integrative power of texts, which are foundational to the disciplines](texts-foundational-interdisciplinarity.md) — related
-- [Complex systems function properly only when self-assertive and integrative tendencies are in equilibrium](self-assertive-integrative-equilibrium-personality.md) — related
-- [No special pedagogy or unique strategy set exists for teaching interdisciplinarity; a variety of pedagogies is required](no-unique-pedagogy-interdisciplinarity.md) — related
+- Interdisciplinary studies are hindered by proliferating definitions and competing instrumental versus conceptual approaches — related
+- Interdisciplinarity is almost impossible to practice without the integrative power of texts, which are foundational to the disciplines — related
+- Complex systems function properly only when self-assertive and integrative tendencies are in equilibrium — related
+- No special pedagogy or unique strategy set exists for teaching interdisciplinarity; a variety of pedagogies is required — related

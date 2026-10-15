@@ -18,7 +18,7 @@ sources:
 # Scholastic RISE and RISE Up
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Scholastic RISE and RISE Up is a Scholastic Tier 2 small-group reading intervention programme for grades 1–5 that provides structured phonics, word study, comprehension, and guided-writing instruction through station-based materials and digital resources.
@@ -28,10 +28,6 @@ Scholastic RISE and RISE Up is a Scholastic Tier 2 small-group reading intervent
 - **Scholastic RISE and RISE Up Tier 2 small-group reading intervention program**: Scholastic RISE and RISE Up is a Tier 2 intervention for students in grades 1-5 providing "targeted small-group instruction to address and prevent reading gaps using explicit, structured comprehension, word study, phonics instruction, and guided writing". RISE (levels C-N) has groups of four students rotate through four stations; RISE Up (levels O-Z) uses three stations focused on comprehension strategies on short texts. A kit provides teacher resources, books, short reads, and digital access. (Schechter et al (2024))
 
 ### Claims
-- [Average impact of Scholastic RISE and RISE Up across grades and measures is +0.09](../claims/rise-average-effect-size-009.md) [+W]
-- [RISE students made similar progress to matched controls on Star and FAST assessments (ES +0.02)](../claims/rise-star-fast-no-difference-es-002.md) [+W]
-- [Teachers and interventionists gave mostly favorable implementation ratings, with over 90% comfortable implementing and finding it supplemented the core program well](../claims/rise-teacher-favorable-implementation-ratings.md) [+W]
-- [RISE and RISE Up students significantly outperformed controls on FastBridge Words Read Correctly Per Minute (ES +0.40)](../claims/rise-wrcpm-fastbridge-outperformance-es-040.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -70,10 +66,6 @@ Scholastic RISE and RISE Up is a Tier 2 intervention for students in grades 1-5 
 
 ## Claims
 
-- [Average impact of Scholastic RISE and RISE Up across grades and measures is +0.09](../claims/rise-average-effect-size-009.md) [+W]
-- [RISE students made similar progress to matched controls on Star and FAST assessments (ES +0.02)](../claims/rise-star-fast-no-difference-es-002.md) [+W]
-- [Teachers and interventionists gave mostly favorable implementation ratings, with over 90% comfortable implementing and finding it supplemented the core program well](../claims/rise-teacher-favorable-implementation-ratings.md) [+W]
-- [RISE and RISE Up students significantly outperformed controls on FastBridge Words Read Correctly Per Minute (ES +0.40)](../claims/rise-wrcpm-fastbridge-outperformance-es-040.md) [+W]
 
 ## Related Elements
 - 

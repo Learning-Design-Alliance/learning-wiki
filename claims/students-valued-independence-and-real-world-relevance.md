@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: iwatani-2020
-    resource: "https://digitalpromise.dspacedirect.org/items/f928a607-e645-49d6-abbf-3d9b42cf7383"
-    title: "Iwatani, E., Means, B., Romero, M. R., & Vang, M. C. (2020). Deepening Science Engagement with Challenge Based Learning: Research Report. San Mateo, CA: Digital Promise. https://digitalpromise.dspacedirect.org/items/f928a607-e645-49d6-abbf-3d9b42cf7383"
+    resource: "https://doi.org/10.51388/20.500.12265/93"
+    title: "Iwatani, E., Means, B., Romero, M. R., & Vang, M. C. (2020). Deepening Science Engagement with Challenge Based Learning: Research Report. San Mateo, CA: Digital Promise. https://digitalpromise.dspacedirect.org/items/f928a607-e645-49d6-abbf-3d9b42cf7383 [doi:10.51388/20.500.12265/93](https://doi.org/10.51388/20.500.12265/93)"
     author: "Iwatani, E., Means, B., Romero, M. R., & Vang, M. C."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Iwatani 2020
 
-Iwatani, E., Means, B., Romero, M. R., & Vang, M. C. (2020). Deepening Science Engagement with Challenge Based Learning: Research Report. San Mateo, CA: Digital Promise. https://digitalpromise.dspacedirect.org/items/f928a607-e645-49d6-abbf-3d9b42cf7383
+Iwatani, E., Means, B., Romero, M. R., & Vang, M. C. (2020). Deepening Science Engagement with Challenge Based Learning: Research Report. San Mateo, CA: Digital Promise. https://digitalpromise.dspacedirect.org/items/f928a607-e645-49d6-abbf-3d9b42cf7383 [doi:10.51388/20.500.12265/93](https://doi.org/10.51388/20.500.12265/93)
 
 `q2 · i?` · `design · r3`
 
@@ -49,7 +49,7 @@ Qualitative findings from 32 student focus groups. Students cited independence, 
 - [Challenge based science lessons provided substantially more deeper learning opportunities than typical lessons across six dimensions](cbl-lessons-more-deeper-learning-opportunities-than-typical.md) — related
 - [Challenge based lessons scored significantly higher than NGSS practices-aligned lessons on three of six deeper learning dimensions and equivalent on the other three](cbl-vs-ngss-practices-aligned-three-of-six-higher.md) — related
 - [Students want curriculum connected to real life, careers, and life skills, and report that the majority of the high school curriculum lacks real-world application](students-want-curricular-relevance-and-life-skills.md) — related
-- [Mathematics teachers appreciate ChatGPT-generated generative learning activities as hands-on, collaborative, engaging, open-ended, differentiated, and using multiple representations](teachers-appreciate-chatgpt-generative-learning-affordances.md) — related
+- Mathematics teachers appreciate ChatGPT-generated generative learning activities as hands-on, collaborative, engaging, open-ended, differentiated, and using multiple representations — related
 - [High school students report they learn best through interactive, hands-on projects, real-world applications, and discussions rather than lectures, note-taking, and worksheets](students-report-hands-on-learning-most-effective.md) — a broader claim this one bears on
 - [Students and faculty value real-world examples in gateway math, but limited resources and training often lead to procedural instruction](real-world-relevance-gateway-math-procedural-instruction.md) — related
 - [Usability testing with educators and developers identified chatbot strengths for independent challenge-solving but limited feedback for low-participation learners](usability-test-strengths-and-limits.md) — related

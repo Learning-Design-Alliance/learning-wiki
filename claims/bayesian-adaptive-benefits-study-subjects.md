@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: mariel-mckenzie-finucane-2018
-    resource: "https://journals.sagepub.com/loi/aje"
-    title: "Mariel McKenzie Finucane, Ignacio Martinez, Scott Cody. (2018). What Works for Whom? A Bayesian Approach to Channeling Big Data Streams for Public Program Evaluation. American Journal of Evaluation, vol. 39, issue 1. https://journals.sagepub.com/loi/aje"
+    resource: "https://doi.org/10.1177/1098214017737173"
+    title: "Mariel McKenzie Finucane, Ignacio Martinez, Scott Cody. (2018). What Works for Whom? A Bayesian Approach to Channeling Big Data Streams for Public Program Evaluation. American Journal of Evaluation, vol. 39, issue 1. https://journals.sagepub.com/loi/aje [doi:10.1177/1098214017737173](https://doi.org/10.1177/1098214017737173)"
     author: Mariel McKenzie Finucane, Ignacio Martinez, Scott Cody
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Mariel McKenzie Finucane 2018
 
-Mariel McKenzie Finucane, Ignacio Martinez, Scott Cody. (2018). What Works for Whom? A Bayesian Approach to Channeling Big Data Streams for Public Program Evaluation. American Journal of Evaluation, vol. 39, issue 1. https://journals.sagepub.com/loi/aje
+Mariel McKenzie Finucane, Ignacio Martinez, Scott Cody. (2018). What Works for Whom? A Bayesian Approach to Channeling Big Data Streams for Public Program Evaluation. American Journal of Evaluation, vol. 39, issue 1. https://journals.sagepub.com/loi/aje [doi:10.1177/1098214017737173](https://doi.org/10.1177/1098214017737173)
 
 `q2 · i?` · `theoretical · r?`
 

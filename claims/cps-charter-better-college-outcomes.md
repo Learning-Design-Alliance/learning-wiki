@@ -75,5 +75,5 @@ Chapter 5 college persistence analysis of the 2008-10 cohorts among high school 
 - [Graduation and enrollment trends vary by school type: non-charter non-selective schools caught up to charters on graduation, but charters and selective enrollment lead on college enrollment](cps-attainment-trends-by-school-type.md) — related
 - [Chicago graduates who enrolled in the most popular colleges had lower adjusted graduation rates than similar Chicago students who enrolled elsewhere](popular-colleges-lower-graduation-rates-chicago-students.md) — related
 - [Selective enrollment students from low-income neighborhoods are less likely to attend selective colleges than similarly-performing low-income students who do not enroll](sehs-low-income-selective-college-enrollment.md) — related
-- [Attending a high school with higher social-emotional value-added increases students' likelihood of graduating and enrolling in a four-year college](sel-value-added-graduation-college-enrollment.md) — related
+- Attending a high school with higher social-emotional value-added increases students' likelihood of graduating and enrolling in a four-year college — related
 - [Early College high school students are significantly more likely than comparison students to graduate from high school, enroll in college, and complete college](early-college-attainment-gains.md) — related

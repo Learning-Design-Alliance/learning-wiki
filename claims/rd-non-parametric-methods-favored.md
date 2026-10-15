@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: duncan-d-chaplin-2018
-    resource: "https://www.mathematica.org/publications/the-internal-and-external-validity-of-the-regression-discontinuity-design-a-meta-analysis-of-15"
-    title: "Duncan D. Chaplin, Thomas D. Cook, Jelena Zurovac, Jared S. Coopersmith, Mariel M. Finucane, Lauren N. Vollmer, Rebecca E. Morris. (2018). The Internal and External Validity of the Regression Discontinuity Design: A Meta-Analysis of 15 Within-Study Comparisons. Journal of Policy Analysis and Management, vol. 37, issue 2. https://www.mathematica.org/publications/the-internal-and-external-validity-of-the-regression-discontinuity-design-a-meta-analysis-of-15"
+    resource: "https://doi.org/10.1002/pam.22051"
+    title: "Duncan D. Chaplin, Thomas D. Cook, Jelena Zurovac, Jared S. Coopersmith, Mariel M. Finucane, Lauren N. Vollmer, Rebecca E. Morris. (2018). The Internal and External Validity of the Regression Discontinuity Design: A Meta-Analysis of 15 Within-Study Comparisons. Journal of Policy Analysis and Management, vol. 37, issue 2. https://www.mathematica.org/publications/the-internal-and-external-validity-of-the-regression-discontinuity-design-a-meta-analysis-of-15 [doi:10.1002/pam.22051](https://doi.org/10.1002/pam.22051)"
     author: Duncan D. Chaplin, Thomas D. Cook, Jelena Zurovac, Jared S. Coopersmith, Mariel M. Finucane, Lauren N. Vollmer, Rebecca E. Morris
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Duncan D. Chaplin 2018
 
-Duncan D. Chaplin, Thomas D. Cook, Jelena Zurovac, Jared S. Coopersmith, Mariel M. Finucane, Lauren N. Vollmer, Rebecca E. Morris. (2018). The Internal and External Validity of the Regression Discontinuity Design: A Meta-Analysis of 15 Within-Study Comparisons. Journal of Policy Analysis and Management, vol. 37, issue 2. https://www.mathematica.org/publications/the-internal-and-external-validity-of-the-regression-discontinuity-design-a-meta-analysis-of-15
+Duncan D. Chaplin, Thomas D. Cook, Jelena Zurovac, Jared S. Coopersmith, Mariel M. Finucane, Lauren N. Vollmer, Rebecca E. Morris. (2018). The Internal and External Validity of the Regression Discontinuity Design: A Meta-Analysis of 15 Within-Study Comparisons. Journal of Policy Analysis and Management, vol. 37, issue 2. https://www.mathematica.org/publications/the-internal-and-external-validity-of-the-regression-discontinuity-design-a-meta-analysis-of-15 [doi:10.1002/pam.22051](https://doi.org/10.1002/pam.22051)
 
 `q3 · i?` · `quant-synthesis · r?`
 

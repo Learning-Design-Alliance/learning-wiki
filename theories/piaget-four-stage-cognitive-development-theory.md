@@ -16,7 +16,7 @@ sources:
 # Piaget's stage theory of cognitive development: four fixed, hierarchical stages from sensori-motor to formal operations
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The handbook presents Piaget's theory that children's thinking differs from adults' qualitatively, not just quantitatively, and that development proceeds through four stages in a fixed sequence: sensori-motor (0-2), preoperational (2-7), concrete operations (7-11), and formal operations (11 on). As the authors state, "Mental development progresses through.definite stages and these stages occur 'in fixed sequence." Each stage incorporates the previous one and is characterized by a potential way of thinking rather than specific content. The handbook stresses that stage does not imply amount of intelligence and that many children remain in a stage beyond its typical age range.
@@ -37,10 +37,6 @@ The handbook presents Piaget's theory that children's thinking differs from adul
 
 ### Claims
 
-- [Egocentric speech, up to about 40% of preoperational children's talk, serves to attach words to actions and should not be discouraged](../claims/egocentric-speech-attaches-words-to-actions.md) [+W]
-- [Play's most important role, per Piaget, is developing representational language and thought through ludic symbolism](../claims/play-develops-representational-thought.md) [+W]
-- [Preoperational children judge quantity by appearance, judging there is more clay in a lengthened sausage shape](../claims/preoperational-judgment-by-appearance-clay-task.md) [+W]
-- [Rote counting is of surprisingly little help to preoperational children in judging whether two groups have the same number](../claims/rote-counting-little-help-number-judgment.md) [+W]
 
 ## Related Theories
 

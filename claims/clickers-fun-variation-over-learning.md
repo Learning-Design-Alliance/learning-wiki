@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Among Instructor A's students, 54.0% cited variation in lessons/fun as the change to the course experience, versus 25.4% citing more thinking/better understanding. [→ Miller 2013](#miller-2013)
@@ -43,10 +44,10 @@ Table 4 reports Instructor A's students' perceived changes: Variation in lessons
 
 
 ## Related Claims
-- [Pre-service elementary teachers overwhelmingly liked a modified peer instruction clicker implementation in their mathematics content course](clicker-mpi-liked-by-preservice-teachers.md) — related
+- Pre-service elementary teachers overwhelmingly liked a modified peer instruction clicker implementation in their mathematics content course — related
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
 - [Students report games make the classroom atmosphere fun and increase participation](games-fun-atmosphere-participation.md) — related
-- [No instructor bias was evident in students' liking of the clicker implementation or perceived learning benefit](no-instructor-bias-clicker-perceptions.md) — related
+- No instructor bias was evident in students' liking of the clicker implementation or perceived learning benefit — related
 - [Most pre-service elementary teachers believed clicker use assisted their learning and understanding of course material](clickers-perceived-learning-benefit.md) — related
 - [Students attributed improved understanding to the discussion process of the implementation model rather than the clicker technology itself](learning-attributed-to-process-not-technology.md) — related
-- [Teachers reported that technology-supported group work increased student engagement and helped them access students' thinking](technology-group-work-engagement-student-thinking.md) — related
+- Teachers reported that technology-supported group work increased student engagement and helped them access students' thinking — related

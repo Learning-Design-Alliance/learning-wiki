@@ -59,7 +59,7 @@ A meta-analysis of 38 publications reporting 40 experiments compared gamified in
 | [Tangkiengsirisin 2025](https://doi.org/10.70730/ufrc4620) | q2 · causal · r1 | i3; i? | [Thai business undergraduates' vocabulary test scores rose from pre-test to post-test after](mangomon-rpg-gamification-improves-business-vocabulary.md) (supports); [IMI motivation ratings after four weeks of Mangomon play were moderate (all sub-scale mean](moderate-motivation-imi-mangomon.md) (qualifies) |
 | [Frolli et al. 2023](https://doi.org/10.3390/pediatric15030046) | q2 · causal · r1 | i? | [Game-based vocabulary practice produced larger gains than traditional instruction for newl](game-based-practice-outperforms-traditional-l2-vocabulary-instruction.md) (supports) |
 | [Bingjun Li 2025](https://doi.org/10.65879/3070-5789.2025.01.07) | q2 · causal · r2 | i? | [In a prior comparative evaluation, gamified phishing-detection modules produced better lea](gamified-modules-beat-mimecast-phishing.md) (supports) |
-| Meg Guerreiro 2018 | q2 · causal · r? | i? | [Students taking gameful assessments report higher satisfaction than students taking tradit](gameful-assessments-higher-student-satisfaction.md) (supports) |
+| [Meg Guerreiro 2018](https://doi.org/10.1080/15391523.2018.1426063) | q2 · causal · r? | i? | [Students taking gameful assessments report higher satisfaction than students taking tradit](gameful-assessments-higher-student-satisfaction.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -86,10 +86,10 @@ gamified vocabulary practice.
 - [In one mixed-methods study of university students, reported in a review, gamified vocabulary learning gave better test results, motivation and satisfaction than traditional instruction](gamification-raises-motivation-satisfaction.md) — more specific: gamified vocabulary learning
 - [Quizizz-based gamification improved word memorization over traditional methods for intermediate learners](quizizz-gamification-better-memorization.md) — more specific
 - [Game design, not learner age or linguistic background, determines DGBL effectiveness; adventure games outperform non-adventure games](game-design-moderates-dgbl-effectiveness.md) — related: full digital games rather than game elements
-- [Data Element 1107 (Method of Instruction) shows three deficiencies: higher-education bias, non-descriptive morphology, and no stated relation between instructional methods and learning outcomes](element-1107-three-deficiencies-method-of-instruction.md) — related
+- Data Element 1107 (Method of Instruction) shows three deficiencies: higher-education bias, non-descriptive morphology, and no stated relation between instructional methods and learning outcomes — related
 - [Students taking gameful assessments report higher satisfaction than students taking traditional assessments in a Grades 3–7 mixed-methods study](gameful-assessments-higher-student-satisfaction.md) — a narrower finding that bears on this claim
-- [The corrected effect size for online tutoring plus game was g = +.47 (95% CI (+.23, +.70)), larger than the g = .26 reported for face-to-face elementary math tutoring](corrected-effect-size-047-online-tutoring.md) — related
-- [Academic LMS gamification centers on the PBL triad and relies heavily on extrinsic motivation](lms-gamification-pbl-triad-extrinsic-motivation.md) — related
+- The corrected effect size for online tutoring plus game was g = +.47 (95% CI (+.23, +.70)), larger than the g = .26 reported for face-to-face elementary math tutoring — related
+- Academic LMS gamification centers on the PBL triad and relies heavily on extrinsic motivation — related
 - [Gamified design and interactive AI features sustain learners' motivation for oral practice (Motivational Propensity Pathway)](ai-enhances-motivation-gamified-features.md) — a narrower finding that bears on this claim
 - [Evidence on gamification's effect on engagement in adaptive learning platforms is mixed, with claims of greatest impact alongside reports of minimal effect](gamification-engagement-mixed-evidence.md) — a narrower finding that bears on this claim
 - [Feedback is more effective for cognitive and physical outcomes than for motivational and behavioral outcomes](feedback-outcome-measure-moderator-cognitive-physical.md) — related

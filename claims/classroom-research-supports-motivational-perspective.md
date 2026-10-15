@@ -44,7 +44,7 @@ The review reports, from its synthesis of practical classroom research on cooper
 
 ## Related Claims
 - [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](cooperative-learning-group-rewards-and-individual-accountability.md) — a narrower finding that bears on this claim
-- [Cooperative learning produces significantly greater achievement than traditional instruction in most long-duration controlled comparisons](cooperative-learning-achievement-synthesis-slavin.md) — related
+- Cooperative learning produces significantly greater achievement than traditional instruction in most long-duration controlled comparisons — related
 - [Cooperative Learning Improves Achievement](cooperative-learning-improves-achievement.md) — related
 - [In secondary-school research, cooperative learning beat frontal teaching in 68% of comparisons, with STAD most and Jigsaw least successful](secondary-cooperative-learning-newmann-thompson.md) — related
 - [Accountability can produce positive or negative effects depending on type, decision context, and task nature](accountability-effects-depend-on-type-context-task.md) — related

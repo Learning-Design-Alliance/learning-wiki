@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: tozadore-2025
-    resource: "https://arxiv.org/abs/2508.16706"
-    title: "Tozadore, D., Ertug, N., Chaker, Y., & Abderrahim, M. (2025). RoboBuddy in the Classroom: Exploring LLM-Powered Social Robots for Storytelling in Learning and Integration Activities. https://arxiv.org/abs/2508.16706"
+    resource: "https://doi.org/10.48550/arxiv.2508.16706"
+    title: "Tozadore, D., Ertug, N., Chaker, Y., & Abderrahim, M. (2025). RoboBuddy in the Classroom: Exploring LLM-Powered Social Robots for Storytelling in Learning and Integration Activities. https://arxiv.org/abs/2508.16706 [doi:10.48550/arxiv.2508.16706](https://doi.org/10.48550/arxiv.2508.16706)"
     author: "Tozadore, D., Ertug, N., Chaker, Y., & Abderrahim, M."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Students exposed to robot storytelling report significantly higher enjoyment than students exposed to robot explanation in a 1-week classroom study
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
+> **Evidence** · 2 studies · 1 causal `r1`, 1 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Year 2-1 (storytelling) students enjoyed the Monday and Tuesday activities significantly more than Year 2-2 (explanation) students. [→ Tozadore 2025](#tozadore-2025)
@@ -40,7 +40,7 @@ sources:
 
 ### Tozadore 2025
 
-Tozadore, D., Ertug, N., Chaker, Y., & Abderrahim, M. (2025). RoboBuddy in the Classroom: Exploring LLM-Powered Social Robots for Storytelling in Learning and Integration Activities. https://arxiv.org/abs/2508.16706
+Tozadore, D., Ertug, N., Chaker, Y., & Abderrahim, M. (2025). RoboBuddy in the Classroom: Exploring LLM-Powered Social Robots for Storytelling in Learning and Integration Activities. https://arxiv.org/abs/2508.16706 [doi:10.48550/arxiv.2508.16706](https://doi.org/10.48550/arxiv.2508.16706)
 
 `q2 · i?` · `causal · r1`
 

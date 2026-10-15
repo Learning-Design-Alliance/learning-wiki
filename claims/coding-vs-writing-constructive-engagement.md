@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: chen-2026
-    resource: "https://arxiv.org/abs/2607.17643"
-    title: "Chen, Z., Li, H., Xiao, Z., Qu, H., & Xie, X. (2026). Informal learning emerges in everyday human–LLM interaction. arXiv. https://arxiv.org/abs/2607.17643"
+    resource: "https://doi.org/10.48550/arxiv.2607.17643"
+    title: "Chen, Z., Li, H., Xiao, Z., Qu, H., & Xie, X. (2026). Informal learning emerges in everyday human–LLM interaction. arXiv. https://arxiv.org/abs/2607.17643 [doi:10.48550/arxiv.2607.17643](https://doi.org/10.48550/arxiv.2607.17643)"
     author: "Chen, Z., Li, H., Xiao, Z., Qu, H., & Xie, X."
     q: 2
     i: 1
@@ -31,7 +31,7 @@ sources:
 
 ### Chen 2026
 
-Chen, Z., Li, H., Xiao, Z., Qu, H., & Xie, X. (2026). Informal learning emerges in everyday human–LLM interaction. arXiv. https://arxiv.org/abs/2607.17643
+Chen, Z., Li, H., Xiao, Z., Qu, H., & Xie, X. (2026). Informal learning emerges in everyday human–LLM interaction. arXiv. https://arxiv.org/abs/2607.17643 [doi:10.48550/arxiv.2607.17643](https://doi.org/10.48550/arxiv.2607.17643)
 
 `q2 · i1` · `associational · r2`
 

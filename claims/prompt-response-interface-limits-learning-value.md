@@ -43,7 +43,7 @@ The Perspective reports, citing prior empirical work, that the prompt–response
 
 
 ## Related Claims
-- [Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs](human-guidance-ethical-grounding-ai.md) — a broader claim this one bears on
+- Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs — a broader claim this one bears on
 - [Structural misalignment: learning-oriented goals are predominantly operationalized through performance-driven theories and modular customization](structural-misalignment-pedagogy-theory-customization.md) — related
 - [Prompt engineering is the most prevalent customization method in AI writing education research](prompt-engineering-dominant-ai-writing-customization.md) — related
 - [Prompting is a major source of AI-assisted cognitive effort: copying prompts reduces effort but not time, and verbose model responses can make AI-assisted completion slower than predicted](prompting-effort-and-verbose-response-costs.md) — related

@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 4 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` In this two-participant case study, anxiety in foreign language classroom learning experiences was linked with oral performance, including worry about speaking being associated with poor oral grades. [→ Andrew Leichsenring 2010](#andrew-leichsenring-2010)
@@ -51,7 +52,7 @@ Qualitative case study of two Japanese adult EFL learners using reflective journ
 - [Speaking practice opportunities and teacher support reduced classroom anxiety and increased self-efficacy for one learner](speaking-practice-reduced-flca-increased-self-efficacy.md) — related
 - [Lack of practice ranks fourth among speaking anxiety sources, attributed to teacher-centered Iranian classrooms](lack-of-practice-teacher-centered-anxiety.md) — related
 - [Motivational SRL factors correlate with but do not directly predict Japanese EFL learners' proficiency](motivational-factors-correlate-not-predict-efl-proficiency.md) — related
-- [Class mood and peer participation moderated one learner's willingness to speak in class](class-mood-moderates-willingness-to-speak.md) — related
+- Class mood and peer participation moderated one learner's willingness to speak in class — related
 - [Low- and high-proficiency EFL learners differ significantly in self-efficacy, intrinsic goal orientation, and test anxiety](proficiency-groups-differ-motivational-factors.md) — related
 - [EFL students report that games reduce speaking stress and improve speaking skills](games-reduce-speaking-stress-improve-skills.md) — related
 - [Both learners perceived they were expected to talk more in American university English classes than in Japanese university classes](us-classes-expected-more-talk-than-japanese.md) — related

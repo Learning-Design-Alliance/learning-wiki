@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q3 i?` Students taught with teacher-student interactive semantic mapping scored significantly higher on a TOEFL reading comprehension posttest than students in the teacher-initiated group (t = 9.8, p < 0.05) and the student-mediated group (t = 12.4, p < 0.05). [→ El-Koumy 1999](#el-koumy-1999)
@@ -44,7 +45,7 @@ Randomized five-month experiment with 187 Egyptian EFL freshmen (62 interactive,
 
 ## Related Claims
 - [Teacher-initiated and student-mediated semantic mapping did not differ significantly in their effects on EFL reading comprehension](teacher-initiated-and-student-mediated-mapping-no-difference.md) — related
-- [Posttest reading comprehension differed significantly across the three semantic mapping conditions overall](posttest-omnibus-anova-semantic-mapping-conditions.md) — a broader claim this one bears on
+- Posttest reading comprehension differed significantly across the three semantic mapping conditions overall — a broader claim this one bears on
 - The three treatment groups were equivalent in reading comprehension at pretest — related
 - [Extensive reading accompanied by peer interaction produced greater reading achievement gains than ER without peer interaction, no ER, or ER with teacher conferences](er-peer-interaction-greater-achievement-gains.md) — related
 - Experimental and control groups showed no significant pre-test difference in reading comprehension before treatment — related

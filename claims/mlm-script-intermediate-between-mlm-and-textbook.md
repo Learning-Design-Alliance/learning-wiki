@@ -10,8 +10,8 @@ generated:
 evidence_strength: mixed
 sources:
   - id: stelzer-2008
-    resource: "https://arxiv.org/abs/0806.0405"
-    title: "Stelzer, Gladding, Mestre, and Brookes. (2008). Comparing the efficacy of multimedia modules with traditional textbooks for learning introductory physics content. https://arxiv.org/abs/0806.0405"
+    resource: "https://doi.org/10.48550/arxiv.0806.0405"
+    title: "Stelzer, Gladding, Mestre, and Brookes. (2008). Comparing the efficacy of multimedia modules with traditional textbooks for learning introductory physics content. https://arxiv.org/abs/0806.0405 [doi:10.48550/arxiv.0806.0405](https://doi.org/10.48550/arxiv.0806.0405)"
     author: Stelzer, Gladding, Mestre, and Brookes
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # MLM-script presentations fall between the other two groups: above the Textbook group but below the MLM group, as multimedia learning theory predicts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i1` small
+> **Evidence** · 2 studies · 2 causal `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i?` The MLM-script group scored above the Textbook group but below the MLM group on both assessments, in accord with predictions from the coherence and dual-channel principles. [→ Stelzer 2008](#stelzer-2008)
@@ -40,7 +40,7 @@ sources:
 
 ### Stelzer 2008
 
-Stelzer, Gladding, Mestre, and Brookes. (2008). Comparing the efficacy of multimedia modules with traditional textbooks for learning introductory physics content. https://arxiv.org/abs/0806.0405
+Stelzer, Gladding, Mestre, and Brookes. (2008). Comparing the efficacy of multimedia modules with traditional textbooks for learning introductory physics content. https://arxiv.org/abs/0806.0405 [doi:10.48550/arxiv.0806.0405](https://doi.org/10.48550/arxiv.0806.0405)
 
 `q2 · i? · no effect size could be confirmed in the full text` · `causal · r2`
 

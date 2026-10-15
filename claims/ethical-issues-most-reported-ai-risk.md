@@ -45,10 +45,10 @@ Content analysis of risks/limitations across the 18 included studies, coded into
 ## Related Claims
 - [AI applications in science and chemistry education most frequently affect learning-process outcomes, reported in 9 of 18 studies](ai-applications-mostly-affect-learning-process-outcomes.md) — related
 - ChatGPT and conversational robots are the most used AI tools in science and chemistry education research, with ChatGPT used in 50% of reviewed studies — related
-- [Generative AI systems carry strong potential for introduced and inherited bias](generative-ai-bias-potential.md) — a broader claim this one bears on
+- Generative AI systems carry strong potential for introduced and inherited bias — a broader claim this one bears on
 - [Experts identified pervasive limitations of today's AI for learning, including biased data, inequity, non-graceful failure, and weak context grasp](expert-panel-ai-limitations-list.md) — related
 - [Algorithmic bias and data privacy are central ethical risks of AI in adult education](algorithmic-bias-privacy-risks-adult-education.md) — related
-- [LLM-assisted inductive qualitative coding carries risks of superficial themes, broad or redundant codes, and hallucinated interpretations, so LLMs should augment rather than replace human researchers](llm-inductive-coding-risks-require-human-oversight.md) — related
+- LLM-assisted inductive qualitative coding carries risks of superficial themes, broad or redundant codes, and hallucinated interpretations, so LLMs should augment rather than replace human researchers — related
 - [Zero-shot LLM errors follow four recurring patterns: over-interpretation, failure to detect relevant information, hallucination, and failure to generate a response](llm-competency-error-patterns-four-types.md) — related
 - [Phase VI AI-enabled systems face six documented challenges: explainability, hallucination risk, prompt sensitivity, computational cost, validation complexity, and limited large-scale evidence](phase-vi-ai-systems-six-challenges.md) — related
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
@@ -76,4 +76,4 @@ Content analysis of risks/limitations across the 18 included studies, coded into
 - [General-purpose LLMs show accuracy and reliability limits, including hallucinations and task-specific accuracy below perfect, making them risky as expert advice sources](llm-accuracy-hallucination-coaching-risk.md) — a narrower finding that bears on this claim
 - [Faculty opt-out of generative AI is more substantial than student non-use, with value-, identity- and risk-based reasons](faculty-ai-optout-shata-2025.md) — related
 - [LLMs in educational applications hallucinate in 15–25% of responses and can amplify bias against non-native language inputs](llm-hallucination-rate-education.md) — related
-- [Awareness of Creative Commons licensing lags behind copyright and public domain awareness among both faculty and academic leaders](creative-commons-awareness-lags-copyright.md) — related
+- Awareness of Creative Commons licensing lags behind copyright and public domain awareness among both faculty and academic leaders — related

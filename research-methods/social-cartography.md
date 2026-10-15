@@ -17,7 +17,7 @@ sources:
 # Social cartography
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Social cartography is a methodology, grounded in an anti-foundational perspective and Foucault's notion of spatial dispersion, for representing the interrelations of discourse communities in educational policy studies. The authors describe it as 'a methodology which attends to the spatial dispersion of ideas in such a way that their value and power relations are made explicit.' Maps are heuristic devices that 'discover intellectual communities and relationships, illustrate domains, suggest a field of interactive ideas,' and remain open to revision by readers. The method is demonstrated through mapping environmental education-related discourse.
@@ -27,9 +27,6 @@ Social cartography is a methodology, grounded in an anti-foundational perspectiv
 - **Social cartography as a postmodern methodology for excavating dispersed knowledge in educational policy discourse**: Social cartography is a methodology, grounded in an anti-foundational perspective and Foucault's notion of spatial dispersion, for representing the interrelations of discourse communities in educational policy studies. The authors describe it as 'a methodology which attends to the spatial dispersion of ideas in such a way that their value and power relations are made explicit.' Maps are heuristic devices that 'discover intellectual communities and relationships, illustrate domains, suggest a field of interactive ideas,' and remain open to revision by readers. The method is demonstrated through mapping environmental education-related discourse. (Nicholson-Goodman et al. (1996))
 
 ### Claims
-- [Social cartography makes value and power relations in a policy discourse explicit and opens the heuristic circle to readers](../claims/mapping-makes-value-power-relations-explicit.md) [+W]
-- [Reader interactions with the maps produced divergent interpretations, illustrating inclusion of readers in the hermeneutic circle](../claims/reader-interpretations-open-hermeneutic-circle.md) [+W]
-- [A map risks becoming a new metanarrative unless it is continually remapped and readers actively construct their own maps](../claims/remapping-prevents-map-as-metanarrative.md) [~W]
 
 ## Related Research Methods
 -
@@ -67,9 +64,6 @@ Social cartography is a methodology, grounded in an anti-foundational perspectiv
 
 ### Claims
 
-- [Social cartography makes value and power relations in a policy discourse explicit and opens the heuristic circle to readers](../claims/mapping-makes-value-power-relations-explicit.md) [+W]
-- [Reader interactions with the maps produced divergent interpretations, illustrating inclusion of readers in the hermeneutic circle](../claims/reader-interpretations-open-hermeneutic-circle.md) [+W]
-- [A map risks becoming a new metanarrative unless it is continually remapped and readers actively construct their own maps](../claims/remapping-prevents-map-as-metanarrative.md) [~W]
 
 ## Related Theories
 

@@ -50,8 +50,8 @@ Descriptive analysis of CPS data on CTE enrollment linked to college-level cours
 - [Advanced Placement and dual enrollment participation have similarly positive impacts on student success](ap-and-dual-enrollment-similarly-positive-impacts.md) — related
 - [A personalized ability signal increased the probability of participating in AP classes by 49 percentage points among surveyed students](ability-signal-increases-ap-participation-49-points.md) — related
 - [Most work-based learning participants have been CTE students despite district intent to expand access](wbl-participation-concentrated-among-cte-students.md) — related
-- [Only a small share of Washington students completing CTE dual credit courses earn transferable college credit, with Black students among the least likely to earn credit](wa-cte-dc-credit-transfer-problem.md) — related
-- [CTE dual credit enrollment in Washington rose about 5 percentage points from 2019 to 2022, with the largest spike in schools with high concentrations of Black and Latino students](wa-cte-dc-enrollment-rose-high-minority-schools.md) — related
-- [Students who take college-level courses in high school are more likely to graduate, go on to college, and earn a degree](college-level-high-school-courses-linked-graduation-degree.md) — related
+- Only a small share of Washington students completing CTE dual credit courses earn transferable college credit, with Black students among the least likely to earn credit — related
+- CTE dual credit enrollment in Washington rose about 5 percentage points from 2019 to 2022, with the largest spike in schools with high concentrations of Black and Latino students — related
+- Students who take college-level courses in high school are more likely to graduate, go on to college, and earn a degree — related
 - [CTE participation produces positive effects on completion, postsecondary transition, and earnings mainly when students complete three or more focused CTE courses, with effects strongest in technical fields](cte-three-plus-courses-focused-study-effects.md) — related
 - [CTE course-taking generally has little or no effect on academic achievement, but math-enhanced CTE lessons significantly improved standardized math performance](math-enhanced-cte-lessons-math-gains.md) — related

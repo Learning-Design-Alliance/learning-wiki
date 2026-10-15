@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: md-masudul-islam-2025
-    resource: "https://orcid.org/0000-0001-7643-5420"
-    title: "Md. Masudul Islam, Mirza Niaz Morshed, Md. Shafiqul Islam. (2025). Artificial Intelligence Literacy and Sustainable Development: An Ethical Governance and Development Goals Framework. https://orcid.org/0000-0001-7643-5420"
+    resource: "https://doi.org/10.1002/sd.71155"
+    title: "Md. Masudul Islam, Mirza Niaz Morshed, Md. Shafiqul Islam. (2025). Artificial Intelligence Literacy and Sustainable Development: An Ethical Governance and Development Goals Framework. https://orcid.org/0000-0001-7643-5420 [doi:10.1002/sd.71155](https://doi.org/10.1002/sd.71155)"
     author: Md. Masudul Islam, Mirza Niaz Morshed, Md. Shafiqul Islam
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Md. Masudul Islam 2025
 
-Md. Masudul Islam, Mirza Niaz Morshed, Md. Shafiqul Islam. (2025). Artificial Intelligence Literacy and Sustainable Development: An Ethical Governance and Development Goals Framework. https://orcid.org/0000-0001-7643-5420
+Md. Masudul Islam, Mirza Niaz Morshed, Md. Shafiqul Islam. (2025). Artificial Intelligence Literacy and Sustainable Development: An Ethical Governance and Development Goals Framework. https://orcid.org/0000-0001-7643-5420 [doi:10.1002/sd.71155](https://doi.org/10.1002/sd.71155)
 
 `q2 · i?` · `associational · r?`
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: madeleine-eastwood-2026
-    resource: "https://arxiv.org/abs/2609.29995"
-    title: "Madeleine Eastwood, Harshith Narne, Joseph Hilby, Paul Denny, Ashish Aggarwal, and Amanpreet Kapoor. (2026). Guardrails or Roadblocks? Effects of Pedagogical Style and Context Awareness in AI Teaching Assistants for Programming. https://arxiv.org/abs/2609.29995"
+    resource: "https://doi.org/10.48550/arxiv.2609.29995"
+    title: "Madeleine Eastwood, Harshith Narne, Joseph Hilby, Paul Denny, Ashish Aggarwal, and Amanpreet Kapoor. (2026). Guardrails or Roadblocks? Effects of Pedagogical Style and Context Awareness in AI Teaching Assistants for Programming. https://arxiv.org/abs/2609.29995 [doi:10.48550/arxiv.2609.29995](https://doi.org/10.48550/arxiv.2609.29995)"
     author: Madeleine Eastwood, Harshith Narne, Joseph Hilby, Paul Denny, Ashish Aggarwal, and Amanpreet Kapoor
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Madeleine Eastwood 2026
 
-Madeleine Eastwood, Harshith Narne, Joseph Hilby, Paul Denny, Ashish Aggarwal, and Amanpreet Kapoor. (2026). Guardrails or Roadblocks? Effects of Pedagogical Style and Context Awareness in AI Teaching Assistants for Programming. https://arxiv.org/abs/2609.29995
+Madeleine Eastwood, Harshith Narne, Joseph Hilby, Paul Denny, Ashish Aggarwal, and Amanpreet Kapoor. (2026). Guardrails or Roadblocks? Effects of Pedagogical Style and Context Awareness in AI Teaching Assistants for Programming. https://arxiv.org/abs/2609.29995 [doi:10.48550/arxiv.2609.29995](https://doi.org/10.48550/arxiv.2609.29995)
 
 `q3 · i?` · `causal · r2`
 

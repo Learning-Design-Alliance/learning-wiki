@@ -43,7 +43,7 @@ Independent-samples t-test comparing male (n = 388) and female (n = 722) student
 
 
 ## Related Claims
-- [Male students are significantly more work-avoidant than female students in the project-based course, with no gender differences on the other measures](males-more-work-avoidant-than-females-pbl.md) — related
+- Male students are significantly more work-avoidant than female students in the project-based course, with no gender differences on the other measures — related
 - [Male students report significantly higher overall technological self-efficacy than female students (p = 0.001)](overall-gender-gap-technological-confidence.md) — related
 - [Female student teachers score significantly higher on performance goal orientation than male students, with no gender differences on the other dimensions](gender-performance-goal-orientation-females-higher.md) — related
 - [Gender differences in AI perception scores appear only in the overall score and attitudes dimension, with males scoring higher](gender-differences-ai-perceptions-limited-dimensions.md) — related

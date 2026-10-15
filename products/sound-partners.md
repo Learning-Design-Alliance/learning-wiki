@@ -26,7 +26,7 @@ sources:
 # Sound Partners
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 10 claims (9 for, 1 against) · 3 studies (2 causal, 1 quant-synthesis), `q3` · 2 of 3 report an effect size · 10 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 against) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 Sound Partners is a structured one-to-one early-literacy tutoring programme developed by the University of Oregon and delivered by trained paraprofessional tutors.
@@ -39,16 +39,11 @@ Sound Partners is a structured one-to-one early-literacy tutoring programme deve
 - **Short frequent one-to-one tutoring sessions with scripted phonics lessons and mastery checks**: The program's instructional pattern is "30 minute sessions of one-to-one tutoring that take place four days per week throughout one school year." Each session includes from four to eight short activities, with the last 15 minutes allocated for oral reading practice in decodable texts matched to taught phonics skills. Although scripted, instruction can be adjusted to individual student needs, and tests given every 10 lessons gauge student mastery. (Sound Partners (2010))
 
 ### Claims
-- [Sound Partners tutoring produces an average effect size of +0.58 on reading measures for kindergarten and first-grade students, meeting ESSA Strong criteria](../claims/sound-partners-average-effect-size-058.md) [+W]
-- [Sound Partners effects on word reading and comprehension are maintained two years after tutoring for kindergartners and first graders](../claims/sound-partners-effects-maintained-two-years.md) [+W]
 - [The evidence base for Sound Partners is medium to large for alphabetics, fluency, and comprehension and small for general reading achievement](../claims/sound-partners-extent-of-evidence.md) [+W]
 - [Sound Partners shows no discernible effects on general reading achievement](../claims/sound-partners-no-discernible-general-reading.md) [-W]
 - [Sound Partners tutoring has positive effects on the alphabetics of beginning readers in grades K–3](../claims/sound-partners-positive-effects-alphabetics.md) [+W]
 - [Sound Partners tutoring has positive effects on reading comprehension of beginning readers](../claims/sound-partners-positive-effects-comprehension.md) [+W]
 - [Sound Partners tutoring has positive effects on reading fluency of beginning readers](../claims/sound-partners-positive-effects-fluency.md) [+M]
-- [Sound Partners outcomes for English learners persist two years later on Word Reading and Comprehension](../claims/sound-partners-outcomes-persist-two-years.md) [+W]
-- [Sound Partners produces significantly positive but smaller reading outcomes for English learner first graders (effect size +0.15)](../claims/sound-partners-positive-first-grade-effects-english-learners.md) [+W]
-- [Sound Partners produces significantly positive reading outcomes for English learner kindergartners (effect size +0.60)](../claims/sound-partners-positive-kindergarten-effects-english-learners.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -91,8 +86,6 @@ Sound Partners is "a 1-1 tutoring program that uses paraprofessionals as tutors.
 
 ## Claims
 
-- [Sound Partners tutoring produces an average effect size of +0.58 on reading measures for kindergarten and first-grade students, meeting ESSA Strong criteria](../claims/sound-partners-average-effect-size-058.md) [+W]
-- [Sound Partners effects on word reading and comprehension are maintained two years after tutoring for kindergartners and first graders](../claims/sound-partners-effects-maintained-two-years.md) [+W]
 
 ## Related Elements
 - 
@@ -181,9 +174,6 @@ Sound Partners is a 1-1 tutoring program that uses paraprofessionals as tutors. 
 
 ## Claims
 
-- [Sound Partners outcomes for English learners persist two years later on Word Reading and Comprehension](../claims/sound-partners-outcomes-persist-two-years.md) [+W]
-- [Sound Partners produces significantly positive but smaller reading outcomes for English learner first graders (effect size +0.15)](../claims/sound-partners-positive-first-grade-effects-english-learners.md) [+W]
-- [Sound Partners produces significantly positive reading outcomes for English learner kindergartners (effect size +0.60)](../claims/sound-partners-positive-kindergarten-effects-english-learners.md) [+W]
 
 ## Related Elements
 

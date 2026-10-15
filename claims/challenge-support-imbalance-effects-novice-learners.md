@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 5 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Over-challenging and under-supporting an inexperienced library student leads to giving up or regression, while over-supporting leads to continued dependence on the instructor. [→ Carder 1996](#carder-1996)
@@ -47,6 +48,6 @@ Theoretical assertion made in the paper's discussion of quadrant-one instruction
 
 ## Related Claims
 - [The quality of feedback students give peers predicts gains in their own work, but no recorded study isolates a causal benefit of the assessor role](peer-assessment-benefits-assessor.md) — related
-- [Challenging tasks within the child's capability promote maximum cognitive growth, per the account presented](vygotsky-challenging-tasks-promote-growth.md) — related
+- Challenging tasks within the child's capability promote maximum cognitive growth, per the account presented — related
 - [Introducing more challenging work without sufficient supports or attention to students' emotions and learning strategies can lead to frustration, withdrawal, disruption, and less learning](unsupported-challenge-backfires.md) — a narrower finding that bears on this claim
 - [Pursuing unrealistic goals can lead to discouragement and frustration, so goals should balance rigor with realism](unrealistic-goals-lead-discouragement.md) — a narrower finding that bears on this claim

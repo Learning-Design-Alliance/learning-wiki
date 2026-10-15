@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: shravika-mittal-2026
-    resource: "https://arxiv.org/abs/2606.11669"
-    title: "Shravika Mittal, Su Lin Blodgett, Q. Vera Liao. (2026). Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning. https://arxiv.org/abs/2606.11669"
+    resource: "https://doi.org/10.48550/arxiv.2606.11669"
+    title: "Shravika Mittal, Su Lin Blodgett, Q. Vera Liao. (2026). Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning. https://arxiv.org/abs/2606.11669 [doi:10.48550/arxiv.2606.11669](https://doi.org/10.48550/arxiv.2606.11669)"
     author: Shravika Mittal, Su Lin Blodgett, Q. Vera Liao
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Shravika Mittal 2026
 
-Shravika Mittal, Su Lin Blodgett, Q. Vera Liao. (2026). Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning. https://arxiv.org/abs/2606.11669
+Shravika Mittal, Su Lin Blodgett, Q. Vera Liao. (2026). Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning. https://arxiv.org/abs/2606.11669 [doi:10.48550/arxiv.2606.11669](https://doi.org/10.48550/arxiv.2606.11669)
 
 `q2 · i?` · `causal · r2`
 

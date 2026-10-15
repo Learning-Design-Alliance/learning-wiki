@@ -16,7 +16,7 @@ sources:
 # Edit distance space: Euclidean embedding of states under a symmetric edit distance
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article introduces "the notion of an edit distance space, a continuous space in which each state corresponds to one vector and the Euclidean distance between vectors corresponds to the edit distance between two states". Theorem 2 proves that for any symmetric edit set and symmetric edit cost function, an eigenvalue-corrected Euclidean embedding exists in which pairwise distances match the edit distance, and Theorem 3 shows the edit distance in this space is equivalent to the original, up to eigenvalue correction.
@@ -37,9 +37,6 @@ The article introduces "the notion of an edit distance space, a continuous space
 
 ### Claims
 
-- [The Continuous Hint Factory predicts capable students' next edits more accurately than existing prediction schemes on two learning tasks, especially an open-ended programming task](../claims/chf-predicts-capable-student-edits-more-accurately.md) [+W]
-- [Frequency-based hint policies fail in sparsely populated state spaces because almost no state is visited more than once](../claims/frequency-hint-policies-fail-sparse-spaces.md) [+W]
-- [Student solution states in programming tasks are extremely sparsely populated, with the vast majority of states visited only once](../claims/programming-state-sparsity-states-visited-once.md) [+W]
 
 ## Related Theories
 

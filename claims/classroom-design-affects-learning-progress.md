@@ -119,7 +119,7 @@ A review synthesising the classroom-environment literature into two channels. **
 - [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md) — the mechanism behind the stimulation factor's upper bound
 - [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](classroom-physical-activity-improves-attention.md) — a separate route by which what happens in the room affects learning
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — a plausible mechanism for the ownership and flexibility components of individualisation
-- [Equipment suppliers criticize DBPH procurement practices, including price-only awards and insufficient quality specifications](price-only-procurement-criticized-by-suppliers.md) — related
+- Equipment suppliers criticize DBPH procurement practices, including price-only awards and insufficient quality specifications — related
 - [Classroom student characteristics affect teacher observation results for some instruments, more often in English language arts than in math classes](student-characteristics-affect-observation-results-more-in-ela-than-math.md) — related
 - [Belongingness is among the factors that most strongly and reliably affect learners' academic motivation and achievement](belongingness-strongly-affects-motivation-achievement.md) — related
 - [Physical environment elements — sunlight, nature views, temperature, and lighting — affect learning](physical-environment-affects-learning.md) — a narrower finding that bears on this claim

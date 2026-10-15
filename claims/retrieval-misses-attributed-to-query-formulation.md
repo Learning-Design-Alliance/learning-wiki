@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: sidney-shapiro-and-joshua-lindemann-2026
-    resource: "https://arxiv.org/abs/2610.02510"
-    title: "Sidney Shapiro and Joshua Lindemann. (2026). On-Premises Multi-Course RAG Tutoring for Business Education: Hardware–Software Trade-offs in a Campus AI Tutor. arXiv. https://arxiv.org/abs/2610.02510"
+    resource: "https://doi.org/10.48550/arxiv.2610.02510"
+    title: "Sidney Shapiro and Joshua Lindemann. (2026). On-Premises Multi-Course RAG Tutoring for Business Education: Hardware–Software Trade-offs in a Campus AI Tutor. arXiv. https://arxiv.org/abs/2610.02510 [doi:10.48550/arxiv.2610.02510](https://doi.org/10.48550/arxiv.2610.02510)"
     author: Sidney Shapiro and Joshua Lindemann
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Post-deployment diagnostics attributed many remaining retrieval misses to query formulation, with bounded expansion recovering eleven of 24 original queries without lowering the relevance floor
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2`–`r3` · `q2`
+> **Evidence** · 2 studies · 2 design `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` The five-course run still contained 93 no-match turns, of which twelve were intentional locked-module refusals and fifteen were quiz follow-ups whose wording did not retrieve a qualifying passage. [→ Sidney Shapiro and Joshua Lindemann 2026](#sidney-shapiro-and-joshua-lindemann-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Sidney Shapiro and Joshua Lindemann 2026
 
-Sidney Shapiro and Joshua Lindemann. (2026). On-Premises Multi-Course RAG Tutoring for Business Education: Hardware–Software Trade-offs in a Campus AI Tutor. arXiv. https://arxiv.org/abs/2610.02510
+Sidney Shapiro and Joshua Lindemann. (2026). On-Premises Multi-Course RAG Tutoring for Business Education: Hardware–Software Trade-offs in a Campus AI Tutor. arXiv. https://arxiv.org/abs/2610.02510 [doi:10.48550/arxiv.2610.02510](https://doi.org/10.48550/arxiv.2610.02510)
 
 `q2 · i?` · `design · r2`
 

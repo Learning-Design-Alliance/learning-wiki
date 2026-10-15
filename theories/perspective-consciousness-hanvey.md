@@ -17,7 +17,7 @@ sources:
 # Perspective consciousness: recognizing that one's view of the world is shaped, partial, and not universally shared
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 Dimension 1 defines perspective consciousness as "the recognition or awareness on the part of the individual that heor she has a view of the world that is not universally shared" and shaped by influences that escape conscious detection. The essay distinguishes surface opinion from deep, ordinarily unexamined layers of perspective, and argues reform movements surface those deep layers into debatable opinion. Values clarification exercises are cited as one method that can heighten awareness of otherwise unrevealed aspects of perspective.
@@ -38,7 +38,6 @@ Dimension 1 defines perspective consciousness as "the recognition or awareness o
 
 ### Claims
 
-- [Contact between societies does not by itself produce cross-cultural understanding](../claims/contact-does-not-yield-understanding.md) [+W]
 
 ## Related Theories
 

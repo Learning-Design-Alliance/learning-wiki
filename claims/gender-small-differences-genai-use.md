@@ -63,7 +63,7 @@ Comparison of early-stage undergraduates (Years 1–2) with more advanced studen
 - [Gender, age and English proficiency show nuanced group differences in chatbot attitudes and concerns](gender-age-proficiency-chatbot-differences.md) — related
 - [Male Chinese HSS students reported higher perceived GenAI gains in independent thinking, creativity and motivation, with minimal gender difference in performance](genai-gender-differences-perceived-gains.md) — related
 - [Syntea usage rates differ slightly by gender, with female students (59.05%) higher than male students (54.94%)](syntea-usage-gender-differences.md) — related
-- [Gender differences in GenAI usage clusters are minimal, confined to a male-dominated Zero usage cluster](gender-difference-only-zero-usage-cluster.md) — reports the opposite
+- Gender differences in GenAI usage clusters are minimal, confined to a male-dominated Zero usage cluster — reports the opposite
 - [Demographic and contextual variables meaningfully differentiate the four GenAI adoption personas](demographics-differentiate-genai-personas.md) — related
 - [Chance-level identity discrimination is uniform across participants and not associated with AI literacy, personality, or demographics](detection-failure-uniform-not-tied-to-individual-differences.md) — related
 - [Male faculty report modestly higher self-perceived GenAI knowledge than female faculty in TK and TPK, with small effect sizes](gender-differences-technological-genai-knowledge-small-effects.md) — related

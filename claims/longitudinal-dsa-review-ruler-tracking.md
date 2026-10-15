@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: hongfei-yan-2026
-    resource: "https://arxiv.org/abs/2608.07523"
-    title: "Hongfei Yan, Jiangkai Xiong, Yiqing Li, and Chong Chen. (2026). From Evaluated Models to Evaluation Aids: A Multi-Evidence Study of LLM-Based Difficulty Calibration for Programming Examinations. https://arxiv.org/abs/2608.07523"
+    resource: "https://doi.org/10.48550/arxiv.2608.07523"
+    title: "Hongfei Yan, Jiangkai Xiong, Yiqing Li, and Chong Chen. (2026). From Evaluated Models to Evaluation Aids: A Multi-Evidence Study of LLM-Based Difficulty Calibration for Programming Examinations. https://arxiv.org/abs/2608.07523 [doi:10.48550/arxiv.2608.07523](https://doi.org/10.48550/arxiv.2608.07523)"
     author: Hongfei Yan, Jiangkai Xiong, Yiqing Li, and Chong Chen
     q: 2
     i: 3
@@ -31,7 +31,7 @@ sources:
 
 ### Hongfei Yan 2026
 
-Hongfei Yan, Jiangkai Xiong, Yiqing Li, and Chong Chen. (2026). From Evaluated Models to Evaluation Aids: A Multi-Evidence Study of LLM-Based Difficulty Calibration for Programming Examinations. https://arxiv.org/abs/2608.07523
+Hongfei Yan, Jiangkai Xiong, Yiqing Li, and Chong Chen. (2026). From Evaluated Models to Evaluation Aids: A Multi-Evidence Study of LLM-Based Difficulty Calibration for Programming Examinations. https://arxiv.org/abs/2608.07523 [doi:10.48550/arxiv.2608.07523](https://doi.org/10.48550/arxiv.2608.07523)
 
 `q2 · i3` · `associational · r1`
 

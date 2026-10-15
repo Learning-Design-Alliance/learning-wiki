@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: digital-promise-2018
-    resource: "https://digitalpromise.dspacedirect.org/items/8a12967d-b67d-404f-875f-3dc61d0cc32e"
-    title: "Digital Promise. (2018). Meeting Learners Where They Are: Using Microsoft Forms to Drive Improvement in Learning Outcomes. https://digitalpromise.dspacedirect.org/items/8a12967d-b67d-404f-875f-3dc61d0cc32e"
+    resource: "https://doi.org/10.51388/20.500.12265/52"
+    title: "Digital Promise. (2018). Meeting Learners Where They Are: Using Microsoft Forms to Drive Improvement in Learning Outcomes. https://digitalpromise.dspacedirect.org/items/8a12967d-b67d-404f-875f-3dc61d0cc32e [doi:10.51388/20.500.12265/52](https://doi.org/10.51388/20.500.12265/52)"
     author: Digital Promise
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Teachers used Forms results to differentiate instruction, including forming working groups and modifying assessments for IEP accommodations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
+> **Evidence** · 2 studies · 2 qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A Scottish high-school teacher used Forms assessment results to create mixed-ability working groups and reteach small groups. [→ Digital Promise 2018](#digital-promise-2018)
@@ -40,7 +40,7 @@ sources:
 
 ### Digital Promise 2018
 
-Digital Promise. (2018). Meeting Learners Where They Are: Using Microsoft Forms to Drive Improvement in Learning Outcomes. https://digitalpromise.dspacedirect.org/items/8a12967d-b67d-404f-875f-3dc61d0cc32e
+Digital Promise. (2018). Meeting Learners Where They Are: Using Microsoft Forms to Drive Improvement in Learning Outcomes. https://digitalpromise.dspacedirect.org/items/8a12967d-b67d-404f-875f-3dc61d0cc32e [doi:10.51388/20.500.12265/52](https://doi.org/10.51388/20.500.12265/52)
 
 `q2 · i?` · `qualitative · r2`
 

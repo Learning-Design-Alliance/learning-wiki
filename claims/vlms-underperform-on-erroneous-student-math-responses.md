@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: li-lucy-2026
-    resource: "https://arxiv.org/abs/2603.00925"
-    title: "Li Lucy, Albert Zhang, Nathan Anderson, Ryan Knight, Kyle Lo. (2026). The Aftermath of DrawEduMath: Vision Language Models Underperform with Struggling Students and Misdiagnose Errors. https://arxiv.org/abs/2603.00925"
+    resource: "https://doi.org/10.48550/arxiv.2603.00925"
+    title: "Li Lucy, Albert Zhang, Nathan Anderson, Ryan Knight, Kyle Lo. (2026). The Aftermath of DrawEduMath: Vision Language Models Underperform with Struggling Students and Misdiagnose Errors. https://arxiv.org/abs/2603.00925 [doi:10.48550/arxiv.2603.00925](https://doi.org/10.48550/arxiv.2603.00925)"
     author: Li Lucy, Albert Zhang, Nathan Anderson, Ryan Knight, Kyle Lo
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Li Lucy 2026
 
-Li Lucy, Albert Zhang, Nathan Anderson, Ryan Knight, Kyle Lo. (2026). The Aftermath of DrawEduMath: Vision Language Models Underperform with Struggling Students and Misdiagnose Errors. https://arxiv.org/abs/2603.00925
+Li Lucy, Albert Zhang, Nathan Anderson, Ryan Knight, Kyle Lo. (2026). The Aftermath of DrawEduMath: Vision Language Models Underperform with Struggling Students and Misdiagnose Errors. https://arxiv.org/abs/2603.00925 [doi:10.48550/arxiv.2603.00925](https://doi.org/10.48550/arxiv.2603.00925)
 
 `q2 · i?` · `associational · r2`
 

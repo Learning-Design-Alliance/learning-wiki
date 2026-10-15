@@ -18,7 +18,7 @@ sources:
 # Pathblazer
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Pathblazer is a supplemental online mathematics and reading intervention programme for struggling K–8 learners, delivered and supported by its programme provider for use by schools and classroom teachers.
@@ -27,8 +27,6 @@ Pathblazer is a supplemental online mathematics and reading intervention program
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [The Pathblazer reading component had a positive and statistically significant impact on grade 3–5 reading achievement in a one-semester cluster randomized trial](../claims/pathblazer-positive-reading-achievement-cluster-rct.md) [+M]
-- [Teachers, principals, and students in the Floyd County trial responded positively to Pathblazer and would recommend it](../claims/pathblazer-positive-stakeholder-perceptions-floyd-county.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -64,8 +62,6 @@ Pathblazer is "a supplemental, online intervention program that helps struggling
 
 ## Claims
 
-- [The Pathblazer reading component had a positive and statistically significant impact on grade 3–5 reading achievement in a one-semester cluster randomized trial](../claims/pathblazer-positive-reading-achievement-cluster-rct.md) [+M]
-- [Teachers, principals, and students in the Floyd County trial responded positively to Pathblazer and would recommend it](../claims/pathblazer-positive-stakeholder-perceptions-floyd-county.md) [+W]
 
 ## Related Elements
 

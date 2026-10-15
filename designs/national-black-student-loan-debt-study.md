@@ -17,7 +17,7 @@ sources:
 # National Black Student Loan Debt Study (survey of 1,272 Black borrowers plus 100 in-depth interviews)
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 A sequential, equal status mixed-method study of Black borrowers' experiences with student loans, conducted by The Education Trust with Jalil B. Mustaffa. "In total, 1,272 Black borrowers completed our survey," recruited via social media ads, email alerts, and word of mouth, followed by in-depth interviews with 100 volunteers selected on demographic characteristics and analyzed with the constant comparative method. The sample is largely four-year and graduate-degree holders, women, borrowers aged 25 and older, earning $50,000 or more annually.
@@ -37,10 +37,6 @@ A sequential, equal status mixed-method study of Black borrowers' experiences wi
 - Understanding Black borrowers' lived experiences of student debt to inform student loan and college affordability policy
 
 ### Claims
-- [Black Borrowers Regret Loans No Positive Returns](../claims/black-borrowers-regret-loans-no-positive-returns.md) [+M]
-- [Black Borrowers Disagree Loans Advance Racial Equality](../claims/black-borrowers-disagree-loans-advance-racial-equality.md) [+M]
-- [Idr Plans Lifetime Debt Sentence Black Borrowers](../claims/idr-plans-lifetime-debt-sentence-black-borrowers.md) [+M]
-- [Black Borrowers Support Full Debt Cancellation](../claims/black-borrowers-support-full-debt-cancellation.md) [+M]
 
 ## Related Designs
 - 

@@ -48,7 +48,7 @@ Moderator analysis within the meta-analysis of 50 effects, using the article's d
 |---|---|---|---|
 | [Ginns 2006](https://doi.org/10.1016/j.learninstruc.2006.10.001) | q3 · quant-synthesis · r2 | i2; i?; i3 | this claim; [Contiguity effects show no statistically reliable difference between static and dynamic pr](static-dynamic-presentation-no-moderation.md) (qualifies); [Contiguity effects are larger under one-on-one testing (d = .89) than under group testing ](testing-format-moderates-contiguity-effect.md) (qualifies) |
 | [Atkinson 2000](https://doi.org/10.3102/00346543070002181) | q2 · review · r3 | i? | [Split-attention worked examples lose their advantage over conventional practice, while int](split-attention-effect-in-worked-examples.md) (supports) |
-| Gregorio Orlando 2026 | q2 · causal · r1 | i? | [The authors of one robot-projection study interpret co-located AI guidance as most useful ](spatial-colocation-benefit-task-dependent.md) (qualifies) |
+| [Gregorio Orlando 2026](https://doi.org/10.48550/arxiv.2609.38737) | q2 · causal · r1 | i? | [The authors of one robot-projection study interpret co-located AI guidance as most useful ](spatial-colocation-benefit-task-dependent.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

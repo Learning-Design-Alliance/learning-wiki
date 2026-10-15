@@ -118,7 +118,7 @@ sources:
 # MAP Growth
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 79 claims (76 for, 3 mixed) · 34 studies (25 associational, 4 theoretical, 3 design, 2 causal), `q1`–`q3` · 3 of 34 report an effect size · 75 claims rest on one study
+> **Evidence** · 78 claims (75 for, 3 mixed) · 33 studies (24 associational, 4 theoretical, 3 design, 2 causal), `q1`–`q3` · 2 of 33 report an effect size · 74 claims rest on one study
 
 ## Description
 MAP Growth is NWEA's computer-adaptive assessment system, with national achievement and growth norms and reporting tools such as the MAP Growth National Dashboard.
@@ -239,7 +239,6 @@ MAP Growth is NWEA's computer-adaptive assessment system, with national achievem
 - [Test engagement was high across all grades on fall 2020 MAP Growth tests in both administration modes](../claims/map-growth-fall-2020-high-test-engagement.md) [+W]
 - [DIF analyses indicate the vast majority of MAP Growth items show negligible differential item functioning across gender and racial/ethnic groups](../claims/map-growth-negligible-dif-gender-race-ethnicity.md) [+W]
 - [The test platform detects rapid guessing in real time and attempts to re-engage disengaged students to protect score validity](../claims/map-growth-real-time-engagement-detection-re-engagement.md) [+W]
-- [Adaptive achievement tests achieve effectively higher validity than conventional tests by reaching equal validity with 25% to 35% fewer items](../claims/adaptive-tests-equal-validity-fewer-items.md) [+W]
 
 ## Related Products and Programmes
 -

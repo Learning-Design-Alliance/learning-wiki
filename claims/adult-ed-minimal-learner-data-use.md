@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Study programs generally used product data only at a basic usage-tracking level; only a few instructors used detailed data to target and individualize instruction, and those reported it helped. [→ Constantakis 2016](#constantakis-2016)
@@ -63,5 +64,5 @@ Instructor reports from the study sites. Even non-users of the data saw its valu
 ## Related Claims
 
 - [Personalized Learning Effects Vary With Fidelity](personalized-learning-effects-vary-with-fidelity.md) — the general claim this finding bears on, with the studies behind it
-- [Philippine basic literacy is 89.8% and functional literacy 73.2%, yet BNFE serves only 1.07% of estimated adult education clientele](philippine-literacy-rates-bnfe-inadequate-coverage.md) — related
+- Philippine basic literacy is 89.8% and functional literacy 73.2%, yet BNFE serves only 1.07% of estimated adult education clientele — related
 - [Pre-tests reduced adult learners' persistence in a MOOC, though they improved post-test scores among those who completed it](pretesting-can-harm-motivation.md) — related

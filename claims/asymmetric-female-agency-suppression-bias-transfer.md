@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: ariyan-hossain-2026
-    resource: "https://arxiv.org/abs/2606.15914"
-    title: "Ariyan Hossain, Kazi Kamruzzaman Rabbi, Farig Sadeque, S M Taiabul Haque. (2026). Contaminated Collaboration: Measuring Gender Bias Transfer in LLM-Assisted Student Writing. arXiv preprint. https://arxiv.org/abs/2606.15914"
+    resource: "https://doi.org/10.48550/arxiv.2606.15914"
+    title: "Ariyan Hossain, Kazi Kamruzzaman Rabbi, Farig Sadeque, S M Taiabul Haque. (2026). Contaminated Collaboration: Measuring Gender Bias Transfer in LLM-Assisted Student Writing. arXiv preprint. https://arxiv.org/abs/2606.15914 [doi:10.48550/arxiv.2606.15914](https://doi.org/10.48550/arxiv.2606.15914)"
     author: Ariyan Hossain, Kazi Kamruzzaman Rabbi, Farig Sadeque, S M Taiabul Haque
     q: 2
     i: 2
@@ -30,7 +30,7 @@ sources:
 # Bias transfer is asymmetric: prompt condition affects agency in female-target essays but not male-target essays, suppressing female agency while male writing remains stable
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i2` medium
+> **Evidence** · 2 studies · 2 causal `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` A significant Gender×Condition interaction (F=4.41, p=.014, η²p=.070) confirms the biased prompt widened the gender gap selectively rather than depressing agency uniformly. [→ Ariyan Hossain 2026](#ariyan-hossain-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Ariyan Hossain 2026
 
-Ariyan Hossain, Kazi Kamruzzaman Rabbi, Farig Sadeque, S M Taiabul Haque. (2026). Contaminated Collaboration: Measuring Gender Bias Transfer in LLM-Assisted Student Writing. arXiv preprint. https://arxiv.org/abs/2606.15914
+Ariyan Hossain, Kazi Kamruzzaman Rabbi, Farig Sadeque, S M Taiabul Haque. (2026). Contaminated Collaboration: Measuring Gender Bias Transfer in LLM-Assisted Student Writing. arXiv preprint. https://arxiv.org/abs/2606.15914 [doi:10.48550/arxiv.2606.15914](https://doi.org/10.48550/arxiv.2606.15914)
 
 `q2 · i2` · `causal · r2`
 

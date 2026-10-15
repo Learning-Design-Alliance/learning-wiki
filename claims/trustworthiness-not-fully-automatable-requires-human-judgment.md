@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: adam-coscia-2026
-    resource: "https://arxiv.org/abs/2608.04006"
-    title: "Adam Coscia, Sujata Duwal, Langdon Holmes, Scott Crossley, and Alex Endert. (2026). Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education. https://arxiv.org/abs/2608.04006"
+    resource: "https://doi.org/10.48550/arxiv.2608.04006"
+    title: "Adam Coscia, Sujata Duwal, Langdon Holmes, Scott Crossley, and Alex Endert. (2026). Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education. https://arxiv.org/abs/2608.04006 [doi:10.48550/arxiv.2608.04006](https://doi.org/10.48550/arxiv.2608.04006)"
     author: Adam Coscia, Sujata Duwal, Langdon Holmes, Scott Crossley, and Alex Endert
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Adam Coscia 2026
 
-Adam Coscia, Sujata Duwal, Langdon Holmes, Scott Crossley, and Alex Endert. (2026). Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education. https://arxiv.org/abs/2608.04006
+Adam Coscia, Sujata Duwal, Langdon Holmes, Scott Crossley, and Alex Endert. (2026). Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education. https://arxiv.org/abs/2608.04006 [doi:10.48550/arxiv.2608.04006](https://doi.org/10.48550/arxiv.2608.04006)
 
 `q2 · i?` · `design · r3`
 
@@ -44,10 +44,10 @@ The tournament evaluation found that despite the benefits of automated metrics, 
 
 ## Related Claims
 - [Making trustworthiness metrics and visualizations explicit increased inter-rater reliability among learning engineers evaluating LLM responses](trustworthiness-metrics-visualizations-increase-expert-agreement.md) — related
-- [The study lacked comparative conditions, so hybrid-approach improvement claims remain conceptual rather than empirically validated](no-comparative-conditions-hybrid-improvement-unvalidated.md) — related
+- The study lacked comparative conditions, so hybrid-approach improvement claims remain conceptual rather than empirically validated — related
 - [LLM-as-judge automated evaluation can achieve human-level agreement when carefully validated](llm-as-judge-human-level-agreement-with-validation.md) — reports the opposite
 - [Using AI to evaluate AI outputs was often challenging because AI act as yes people and humans struggled to agree on evaluation rubrics](ai-evaluating-ai-outputs-challenging.md) — related
-- [A hybrid human-AI workflow using GPT-4o with retrieval-augmented generation supported efficient inductive thematic analysis while preserving researcher judgment](hybrid-gpt4o-human-inductive-thematic-analysis-workflow.md) — related
+- A hybrid human-AI workflow using GPT-4o with retrieval-augmented generation supported efficient inductive thematic analysis while preserving researcher judgment — related
 - [Trustworthiness metrics and visualizations surfaced previously overlooked pedagogical risks and enabled more deliberate reasoning about trade-offs between competing objectives](trustworthiness-tools-surface-risks-enable-tradeoff-reasoning.md) — related
 - [Macro-level behavioral metrics flagged anomalies consistent with automated workflows and off-platform AI code synthesis](behavioral-metrics-flag-automated-anomalies.md) — related
 - [High-level feedback on reasoning and synthesis should remain a human responsibility for the foreseeable future](high-level-feedback-remains-human-responsibility.md) — a narrower finding that bears on this claim

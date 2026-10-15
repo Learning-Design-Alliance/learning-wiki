@@ -22,7 +22,7 @@ sources:
 # Self-Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 11 claims (7 for, 3 mixed, 1 against) · 10 studies (4 causal, 2 quant-synthesis, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q2`–`q4` · 3 of 10 report an effect size · 10 claims rest on one study
+> **Evidence** · 10 claims (6 for, 3 mixed, 1 against) · 9 studies (3 causal, 2 quant-synthesis, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q2`–`q4` · 3 of 9 report an effect size · 9 claims rest on one study
 
 ## Description
 Self-assessment is the element in which learners judge their own work, understanding, or progress against explicit criteria. It is useful when the goal is not only better immediate performance, but stronger self-monitoring and more accurate judgments about what to improve next.
@@ -58,7 +58,6 @@ Self-assessment is the element in which learners judge their own work, understan
 - [Guided reflection embedded in self-assessment supports commencing students to engage responsibly and confidently with GenAI while maintaining academic integrity](../claims/guided-reflection-self-assessment-responsible-genai-engagement.md) [+W]
 - [Verbalized self-reported confidence is overconfident in the mid-confidence range, while consistency-based confidence shows good average calibration but localized failure regions](../claims/verbalizing-overconfidence-consistency-local-failures.md) [~W]
 - [Novice clinical learners show pervasive metacognitive calibration deficits, with overestimated performance and confidence exceeding accuracy](../claims/novice-metacognitive-calibration-deficits.md) [-W]
-- [Guided-LLM students showed the strongest self-assessment calibration, with the highest well-calibrated rate and strongest self-assessment–performance correlations](../claims/guided-llm-self-assessment-calibration-alignment.md) [+W]
 - [Workflow condition is associated with students' self-assessment confidence](../claims/workflow-condition-self-assessment-confidence-effect.md) [~W]
 - [Students' JoL ratings became more consistent over time and evolved from under-rating to over-rating to accurate judgement](../claims/jol-consistency-and-rating-evolution.md) [~W]
 - [Students using the eliciting agent showed JoL ratings correlated with system learning metrics, strongest for mastery](../claims/elicit-condition-jol-accuracy-correlations.md) [+W]

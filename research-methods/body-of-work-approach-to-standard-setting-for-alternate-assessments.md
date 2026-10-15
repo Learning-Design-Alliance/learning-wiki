@@ -17,7 +17,7 @@ sources:
 # Body of work approach to standard setting for alternate assessments
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 4 claims (1 for, 3 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The body of work approach is a standard setting methodology in which "Reviewers examine all of the data for a student and use this information to place the student in one of the overall performance levels." Standard setters receive papers demonstrating the complete range of possible scores from low to high. This report applies it as the primary methodology for setting cut scores on an alternate portfolio assessment, adapted from components of several standard setting processes including contrasting groups and bookmarking.
@@ -28,8 +28,6 @@ The body of work approach is a standard setting methodology in which "Reviewers 
 
 ### Claims
 - [A body of work standard setting process produced classification agreement rates ranging from 71% to 97% for an alternate portfolio assessment](../claims/body-of-work-agreement-rates-71-97.md) [+M]
-- [Presenting ordered portfolios led panelists to shift toward a bookmarking-like mental process, contaminating independent classification](../claims/ordered-portfolio-presentation-contamination.md) [~M]
-- [Performance classifications varied considerably across grades in both literacy and mathematics for the alternate portfolio assessment](../claims/alternate-portfolio-classification-varies-across-grades.md) [~W]
 - [A mean-classification cut-score method outperformed a contrasting-groups-style mean method because it was more robust to outliers](../claims/mean-classification-cut-score-method-robust.md) [~W]
 
 ## Related Research Methods
@@ -66,8 +64,6 @@ The body of work approach is a standard setting methodology in which "Reviewers 
 ### Claims
 
 - [Body Of Work Agreement Rates 71 97](../claims/body-of-work-agreement-rates-71-97.md) [+M]
-- [Ordered Portfolio Presentation Contamination](../claims/ordered-portfolio-presentation-contamination.md) [~M]
-- [Performance classifications varied considerably across grades in both literacy and mathematics for the alternate portfolio assessment](../claims/alternate-portfolio-classification-varies-across-grades.md) [~W]
 - [A mean-classification cut-score method outperformed a contrasting-groups-style mean method because it was more robust to outliers](../claims/mean-classification-cut-score-method-robust.md) [~W]
 
 ## Related Theories

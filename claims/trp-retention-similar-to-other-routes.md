@@ -50,7 +50,7 @@ Multisite study of 30 TRPs and their current and former participants reports ret
 - [The retention comparison covers two cohorts of novice TRP teachers across six districts served by 12 TRPs, with a representative non-TRP comparison sample](trp-retention-study-scope-six-districts-12-trps.md) — related
 - [School-retention rates are similar between TRP-trained and non-TRP novice teachers](trp-school-retention-rates-similar.md) — related
 - [Residency-completer principals remained in CPS at similar rates as other principals, with no evidence of differential exit or transfer](residency-completers-retention-similar-rates.md) — related
-- [A 2011 study found residency-trained teachers outperformed same-experience peers by nearly two months' worth of learning by their fifth year and were more likely to stay in teaching](teacher-residency-study-gains.md) — reports the opposite
+- A 2011 study found residency-trained teachers outperformed same-experience peers by nearly two months' worth of learning by their fifth year and were more likely to stay in teaching — reports the opposite
 - [On average, more effective early-career teachers remain in the teaching profession and stay in their initial schools](more-effective-teachers-remain-in-profession-and-school.md) — related
 - [Residency graduates show high retention rates of roughly 80-90% after three years and 70-80% after five years](residency-graduates-high-retention-rates.md) — related
 - [In rigorous controlled studies, residency graduates retained at significantly higher rates than non-residency peers](residency-retention-significant-vs-peers.md) — reports the opposite

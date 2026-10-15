@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: sherman-2020
-    resource: "https://eric.ed.gov/?id=EJ1272497"
-    title: "Sherman, P., & Boukydis, O. (2020). Framing Undergraduate Perspectives on Experiential Learning Within Soka Education Theory. IAFOR Journal of Education: Undergraduate Education, 8(3). https://eric.ed.gov/?id=EJ1272497"
+    resource: "https://doi.org/10.22492/ije.8.3.05"
+    title: "Sherman, P., & Boukydis, O. (2020). Framing Undergraduate Perspectives on Experiential Learning Within Soka Education Theory. IAFOR Journal of Education: Undergraduate Education, 8(3). https://eric.ed.gov/?id=EJ1272497 [doi:10.22492/ije.8.3.05](https://doi.org/10.22492/ije.8.3.05)"
     author: "Sherman, P., & Boukydis, O."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Sherman 2020
 
-Sherman, P., & Boukydis, O. (2020). Framing Undergraduate Perspectives on Experiential Learning Within Soka Education Theory. IAFOR Journal of Education: Undergraduate Education, 8(3). https://eric.ed.gov/?id=EJ1272497
+Sherman, P., & Boukydis, O. (2020). Framing Undergraduate Perspectives on Experiential Learning Within Soka Education Theory. IAFOR Journal of Education: Undergraduate Education, 8(3). https://eric.ed.gov/?id=EJ1272497 [doi:10.22492/ije.8.3.05](https://doi.org/10.22492/ije.8.3.05)
 
 `q2 · i?` · `qualitative · r2`
 
@@ -43,7 +43,7 @@ Study 1 findings on the gain question produced Global Theme 2, "Students develop
 
 
 ## Related Claims
-- [In a qualitative study of 32 EFL teacher-education students, participants described deeper, more reflective thinking after metacognitive and critical-thinking instruction, and one reported applying it in other disciplines](ct-metacog-upper-level-thought.md) — related
+- In a qualitative study of 32 EFL teacher-education students, participants described deeper, more reflective thinking after metacognitive and critical-thinking instruction, and one reported applying it in other disciplines — related
 - [Instructors perceive that experiential learning cultivates enjoyment, satisfaction, and self-confidence through peer and community engagement (beauty)](instructors-enjoyment-peer-community-engagement.md) — reports the opposite
 - [Instructors and students agree that personal gain is the primary value of experiential learning, with beauty and social good seen as important but of lesser significance](soka-experiential-learning-gain-primary-value.md) — possibly the same claim (merge candidate)
 - [Both groups see societal benefit in experiential learning, but instructors weight societal good more heavily than students, whose reflections center on personal fulfillment](societal-good-instructor-student-contrast.md) — related

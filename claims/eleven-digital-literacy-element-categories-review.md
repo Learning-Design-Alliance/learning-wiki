@@ -44,5 +44,5 @@ Systematic review content analysis of 69 validated digital literacy frameworks, 
 
 ## Related Claims
 - [Student-focused digital literacy frameworks most frequently emphasize five DigComp-aligned element categories, led by information and data literacy](student-frameworks-five-digcomp-aligned-categories.md) — a narrower finding that bears on this claim
-- [A three-phase human-LLM inductive pipeline produced a hierarchical codebook of 72 items within 19 categories and six domains from 45,000 educator-AI messages](human-llm-pipeline-72-item-educator-ai-codebook.md) — related
+- A three-phase human-LLM inductive pipeline produced a hierarchical codebook of 72 items within 19 categories and six domains from 45,000 educator-AI messages — related
 - [Human review remains essential after GPT-based codebook generation, producing a final refined SRL codebook of eleven constructs](human-refinement-essential-gpt-codebooks.md) — related

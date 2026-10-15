@@ -45,5 +45,5 @@ Co-occurrence analysis of lecturer decision types across the 27 reviewed studies
 ## Related Claims
 - [AI support in higher education is concentrated in instructional, assessment, and feedback decisions, with curriculum and learning-environment decisions least supported](ai-support-concentrated-instructional-assessment-feedback-decisions.md) — related
 - [Argumentation quality is associated with denser co-occurrence of scientific reasoning and self-regulation processes](argumentation-quality-associated-with-reasoning-self-regulation-co-occurrence.md) — related
-- [The types of evidence used for program adoption decisions differ sharply by role, with district administrators favoring local pilots and school leaders favoring developer research](evidence-types-vary-by-role.md) — related
+- The types of evidence used for program adoption decisions differ sharply by role, with district administrators favoring local pilots and school leaders favoring developer research — related
 - [Learning Analytics Dashboards are the most frequently reported AI system type supporting lecturer decisions, primarily for monitoring, feedback, and assessment](lad-dominant-system-type-lecturer-decision-support.md) — related

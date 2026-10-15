@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: beau-2025
-    resource: "https://resources.finalsite.net/images/v1760105856/isboston/njqucrdzeyxvmtjr4cla/WhitePaper_AI_October2025.pdf"
-    title: "Beau, M., & Lazar, M. (2025). From AI Intuition to AI Literacy: A Dual Framework for K-12 Education. International School of Boston. https://resources.finalsite.net/images/v1760105856/isboston/njqucrdzeyxvmtjr4cla/WhitePaper_AI_October2025.pdf"
+    resource: "https://doi.org/10.35542/osf.io/6uhj2_v1"
+    title: "Beau, M., & Lazar, M. (2025). From AI Intuition to AI Literacy: A Dual Framework for K-12 Education. International School of Boston. https://resources.finalsite.net/images/v1760105856/isboston/njqucrdzeyxvmtjr4cla/WhitePaper_AI_October2025.pdf [doi:10.35542/osf.io/6uhj2_v1](https://doi.org/10.35542/osf.io/6uhj2_v1)"
     author: "Beau, M., & Lazar, M."
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Beau 2025
 
-Beau, M., & Lazar, M. (2025). From AI Intuition to AI Literacy: A Dual Framework for K-12 Education. International School of Boston. https://resources.finalsite.net/images/v1760105856/isboston/njqucrdzeyxvmtjr4cla/WhitePaper_AI_October2025.pdf
+Beau, M., & Lazar, M. (2025). From AI Intuition to AI Literacy: A Dual Framework for K-12 Education. International School of Boston. https://resources.finalsite.net/images/v1760105856/isboston/njqucrdzeyxvmtjr4cla/WhitePaper_AI_October2025.pdf [doi:10.35542/osf.io/6uhj2_v1](https://doi.org/10.35542/osf.io/6uhj2_v1)
 
 `q1 · i?` · `theoretical · r2`
 
@@ -48,7 +48,7 @@ Conceptual distinction drawn in Section 3.2 of the position paper. The article p
 - [Learner agency in GenAI-mediated learning is enacted through prompting, questioning, verification, comparison, revision, and disciplinary judgment](learner-agency-genai-verification-revision.md) — related
 - [Students describe concrete verification behaviors for GenAI explanations, treating evaluation as an iterative filter rather than a single accept-or-reject judgment](iterative-verification-of-genai-explanations.md) — related
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
-- [Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs](human-guidance-ethical-grounding-ai.md) — related
+- Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs — related
 - [High-achieving students describe selective AI use for clarification, summarisation, and workflow support while verifying outputs and keeping them subordinate to their own judgment](qualitative-selective-verification-intensive-use.md) — related
 - [Active engagement with AI outputs (cross-verifying, refining prompts, revising) supports productive learning and depends on learners' prior knowledge](active-ai-engagement-depends-on-prior-knowledge.md) — related
 - [Proposition 2: mutual evaluation emphasizing reasons and responsive comparison will improve evaluative judgment more than unexplained self-rating](proposition-2-mutual-evaluation-improves-judgment.md) — related

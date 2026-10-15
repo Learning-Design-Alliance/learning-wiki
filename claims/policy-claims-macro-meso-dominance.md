@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: tran-van-cuong-2026
-    resource: "https://arxiv.org/abs/2608.29950"
-    title: "Tran Van Cuong, Liu Yihan, Nguyen Van Tuong. (2026). The Policy Deficit in AI x Social-Emotional Learning Research. https://arxiv.org/abs/2608.29950"
+    resource: "https://doi.org/10.48550/arxiv.2608.29950"
+    title: "Tran Van Cuong, Liu Yihan, Nguyen Van Tuong. (2026). The Policy Deficit in AI x Social-Emotional Learning Research. https://arxiv.org/abs/2608.29950 [doi:10.48550/arxiv.2608.29950](https://doi.org/10.48550/arxiv.2608.29950)"
     author: Tran Van Cuong, Liu Yihan, Nguyen Van Tuong
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Existing AI × SEL policy claims concentrate at macro and meso levels, with almost none at the classroom level
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Evidence** · 2 studies · 2 review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Of 31 identified policy implication claims, 16 target the macro level, 14 the meso level, and only one the micro level of classroom pedagogical practice. [→ Tran Van Cuong 2026](#tran-van-cuong-2026)
@@ -39,7 +39,7 @@ sources:
 
 ### Tran Van Cuong 2026
 
-Tran Van Cuong, Liu Yihan, Nguyen Van Tuong. (2026). The Policy Deficit in AI x Social-Emotional Learning Research. https://arxiv.org/abs/2608.29950
+Tran Van Cuong, Liu Yihan, Nguyen Van Tuong. (2026). The Policy Deficit in AI x Social-Emotional Learning Research. https://arxiv.org/abs/2608.29950 [doi:10.48550/arxiv.2608.29950](https://doi.org/10.48550/arxiv.2608.29950)
 
 `q2 · i?` · `review · r2`
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: shuyan-huang-2026
-    resource: "https://arxiv.org/abs/2605.01097"
-    title: "Shuyan Huang, Alexander Scarlatos, Jaewook Lee, Andrew Lan. (2026). Interpretable Difficulty-Aware Knowledge Tracing in Tutor-Student Dialogues. arXiv preprint. https://arxiv.org/abs/2605.01097"
+    resource: "https://doi.org/10.48550/arxiv.2605.01097"
+    title: "Shuyan Huang, Alexander Scarlatos, Jaewook Lee, Andrew Lan. (2026). Interpretable Difficulty-Aware Knowledge Tracing in Tutor-Student Dialogues. arXiv preprint. https://arxiv.org/abs/2605.01097 [doi:10.48550/arxiv.2605.01097](https://doi.org/10.48550/arxiv.2605.01097)"
     author: Shuyan Huang, Alexander Scarlatos, Jaewook Lee, Andrew Lan
     q: 2
     i: 2
@@ -31,7 +31,7 @@ sources:
 
 ### Shuyan Huang 2026
 
-Shuyan Huang, Alexander Scarlatos, Jaewook Lee, Andrew Lan. (2026). Interpretable Difficulty-Aware Knowledge Tracing in Tutor-Student Dialogues. arXiv preprint. https://arxiv.org/abs/2605.01097
+Shuyan Huang, Alexander Scarlatos, Jaewook Lee, Andrew Lan. (2026). Interpretable Difficulty-Aware Knowledge Tracing in Tutor-Student Dialogues. arXiv preprint. https://arxiv.org/abs/2605.01097 [doi:10.48550/arxiv.2605.01097](https://doi.org/10.48550/arxiv.2605.01097)
 
 `q2 · i2` · `design · r2`
 

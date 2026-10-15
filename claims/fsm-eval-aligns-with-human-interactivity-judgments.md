@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: xiaozao-wang-2026
-    resource: "https://arxiv.org/abs/2606.31012"
-    title: "Xiaozao Wang, Zhewei Wang, Hongyi Wen. (2026). Evaluating Interactivity: Toward Automated Assessment of AI-Generated Explorable Explanations. https://arxiv.org/abs/2606.31012"
+    resource: "https://doi.org/10.48550/arxiv.2606.31012"
+    title: "Xiaozao Wang, Zhewei Wang, Hongyi Wen. (2026). Evaluating Interactivity: Toward Automated Assessment of AI-Generated Explorable Explanations. https://arxiv.org/abs/2606.31012 [doi:10.48550/arxiv.2606.31012](https://doi.org/10.48550/arxiv.2606.31012)"
     author: Xiaozao Wang, Zhewei Wang, Hongyi Wen
     q: 2
     i: 3
@@ -30,7 +30,7 @@ sources:
 # FSM-based evaluation aligns with human judgments of interactivity, functional correctness, and visual quality more strongly than VLM and unit-test baselines on balanced data
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2` · `i3` large
+> **Evidence** · 2 studies · 2 design `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` On the balanced dataset, FSM-based evaluation achieves the highest correlation with human judgment on interactivity (r = 0.728), outperforming VLM-based evaluation and unit testing. [→ Xiaozao Wang 2026](#xiaozao-wang-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Xiaozao Wang 2026
 
-Xiaozao Wang, Zhewei Wang, Hongyi Wen. (2026). Evaluating Interactivity: Toward Automated Assessment of AI-Generated Explorable Explanations. https://arxiv.org/abs/2606.31012
+Xiaozao Wang, Zhewei Wang, Hongyi Wen. (2026). Evaluating Interactivity: Toward Automated Assessment of AI-Generated Explorable Explanations. https://arxiv.org/abs/2606.31012 [doi:10.48550/arxiv.2606.31012](https://doi.org/10.48550/arxiv.2606.31012)
 
 `q2 · i3` · `design · r2`
 

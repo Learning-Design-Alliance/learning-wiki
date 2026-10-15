@@ -43,5 +43,5 @@ Conceptual mapping in the paper's non-AI target section: a table assigns levers 
 
 
 ## Related Claims
-- [IE's doing-with stance and democratic ethos map onto SDT autonomy support](ie-doing-with-maps-onto-autonomy-support.md) — related
+- IE's doing-with stance and democratic ethos map onto SDT autonomy support — related
 - [Educators perceived FH2T positioned students as doers of mathematics with agency and mathematical decision making in a safe practice environment](fh2t-students-doers-of-mathematics-agency.md) — related

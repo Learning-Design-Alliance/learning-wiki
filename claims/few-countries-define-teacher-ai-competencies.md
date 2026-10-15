@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: miao-2024
-    resource: "https://www.unesco.org/en/articles/ai-competency-framework-teachers"
-    title: "Miao, Fengchun; Cukurova, Mutlu. (2024). AI competency framework for teachers. UNESCO. https://www.unesco.org/en/articles/ai-competency-framework-teachers"
+    resource: "https://doi.org/10.54675/zjte2084"
+    title: "Miao, Fengchun; Cukurova, Mutlu. (2024). AI competency framework for teachers. UNESCO. https://www.unesco.org/en/articles/ai-competency-framework-teachers [doi:10.54675/zjte2084](https://doi.org/10.54675/zjte2084)"
     author: Miao, Fengchun; Cukurova, Mutlu
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Miao 2024
 
-Miao, Fengchun; Cukurova, Mutlu. (2024). AI competency framework for teachers. UNESCO. https://www.unesco.org/en/articles/ai-competency-framework-teachers
+Miao, Fengchun; Cukurova, Mutlu. (2024). AI competency framework for teachers. UNESCO. https://www.unesco.org/en/articles/ai-competency-framework-teachers [doi:10.54675/zjte2084](https://doi.org/10.54675/zjte2084)
 
 `q1 · i?` · `theoretical · r2`
 

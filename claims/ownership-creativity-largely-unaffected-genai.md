@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: stefana-broadbent-2026
-    resource: "https://arxiv.org/abs/2607.17094"
-    title: "Stefana Broadbent. (2026). A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico di Milano in 2025/2026. Department of Design, Politecnico di Milano. https://arxiv.org/abs/2607.17094"
+    resource: "https://doi.org/10.48550/arxiv.2607.17094"
+    title: "Stefana Broadbent. (2026). A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico di Milano in 2025/2026. Department of Design, Politecnico di Milano. https://arxiv.org/abs/2607.17094 [doi:10.48550/arxiv.2607.17094](https://doi.org/10.48550/arxiv.2607.17094)"
     author: Stefana Broadbent
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Only about a third of design students report reduced creativity or project ownership from GenAI use
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Evidence** · 2 studies · 2 associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Only 31% of respondents reported a perceived loss of ownership or creative agency when using GenAI tools. [→ Stefana Broadbent 2026](#stefana-broadbent-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Stefana Broadbent 2026
 
-Stefana Broadbent. (2026). A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico di Milano in 2025/2026. Department of Design, Politecnico di Milano. https://arxiv.org/abs/2607.17094
+Stefana Broadbent. (2026). A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico di Milano in 2025/2026. Department of Design, Politecnico di Milano. https://arxiv.org/abs/2607.17094 [doi:10.48550/arxiv.2607.17094](https://doi.org/10.48550/arxiv.2607.17094)
 
 `q2 · i?` · `associational · r1`
 

@@ -16,7 +16,7 @@ sources:
 # Whole language approach: simultaneous teaching of language skills strengthens reading and writing together
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The whole language approach is the simultaneous teaching and learning of different language skills, used in adult literacy and basic education. For GED preparation it strengthens critical reading skills and improves writing competence: as students learn to read better, they recognize what writers do and can anticipate their own readers' needs. The manual recommends reading discussion groups, reading journals, varied reading materials, and goal-setting reading exercises that feed directly into writing assignments.
@@ -37,7 +37,6 @@ The whole language approach is the simultaneous teaching and learning of differe
 
 ### Claims
 
-- [Grammar instruction and skill drills show little carryover to composition success](../claims/grammar-drills-little-carryover-composition.md) [+W]
 
 ## Related Theories
 - 

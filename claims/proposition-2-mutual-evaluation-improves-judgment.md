@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: william-j-rothwell-2026
-    resource: "https://orcid.org/0000-0002-4503-1957"
-    title: "William J. Rothwell. (2026). Assessing Learning When AI Can Produce the Product: An Integrated Framework for Cognitive Ownership and Mutual Evaluation. https://orcid.org/0000-0002-4503-1957"
+    resource: "https://doi.org/10.46787/ijaipil.v2i1.8053"
+    title: "William J. Rothwell. (2026). Assessing Learning When AI Can Produce the Product: An Integrated Framework for Cognitive Ownership and Mutual Evaluation. https://orcid.org/0000-0002-4503-1957 [doi:10.46787/ijaipil.v2i1.8053](https://doi.org/10.46787/ijaipil.v2i1.8053)"
     author: William J. Rothwell
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### William J. Rothwell 2026
 
-William J. Rothwell. (2026). Assessing Learning When AI Can Produce the Product: An Integrated Framework for Cognitive Ownership and Mutual Evaluation. https://orcid.org/0000-0002-4503-1957
+William J. Rothwell. (2026). Assessing Learning When AI Can Produce the Product: An Integrated Framework for Cognitive Ownership and Mutual Evaluation. https://orcid.org/0000-0002-4503-1957 [doi:10.46787/ijaipil.v2i1.8053](https://doi.org/10.46787/ijaipil.v2i1.8053)
 
 `q1 · i?` · `theoretical · r2`
 

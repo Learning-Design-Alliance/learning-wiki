@@ -43,8 +43,8 @@ Thematic analysis of focus group Activity 2 discussions (20 students) produced t
 
 
 ## Related Claims
-- [Deep Knowledge Tracing has a fundamental limitation that prevents it from supporting mastery learning on multi-step problems](dkt-limitation-multi-step-mastery-learning.md) — related
-- [Teachers reported validity, subjectivity, and feasibility concerns in assessing communication and digital literacy](teacher-assessment-validity-feasibility-concerns.md) — related
+- Deep Knowledge Tracing has a fundamental limitation that prevents it from supporting mastery learning on multi-step problems — related
+- Teachers reported validity, subjectivity, and feasibility concerns in assessing communication and digital literacy — related
 - [Teacher expectation bias predicted Dutch secondary students' performance up to five years later, after controls for prior achievement, IQ and motivation, in one large correlational cohort study](teacher-expectation-effects-on-achievement.md) — related
 - [A K-3 school-level growth measure was estimated and examined, with validity and precision concerns suggesting cautious use for accountability](k3-growth-measure-validity-precision-caution.md) — related
 - [Prediction algorithms forecast student achievement from small windows of data, more accurately when data are enriched with instructional design and learning-process detail](enriched-data-improve-achievement-prediction.md) — related

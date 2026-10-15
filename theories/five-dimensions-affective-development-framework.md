@@ -16,7 +16,7 @@ sources:
 # Five-dimension framework of affective development in preschool children
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (6 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The report organizes affective development into five interrelated dimensions chosen because they appeared central to development: emergence of self, caretaker attachment, adaptation-mastery, self-concept, and socialization. The authors state that "affective development was dichotomized into five critical dimensions" in order to relate curriculum, assessment devices, and bibliography entries to key areas of development. The dimensions are presented in approximate developmental order and used as the outline for discussing both normal and handicapped children's affective development.
@@ -37,12 +37,6 @@ The report organizes affective development into five interrelated dimensions cho
 
 ### Claims
 
-- [Affective competence at age five is characterized by twelve observable skills](../claims/affectively-competent-five-year-old-attributes.md) [+W]
-- [Blind infants show the same developmental sequence of basic emotions as sighted infants](../claims/blind-infants-basic-emotions-sequence.md) [+W]
-- [Deaf children's attachment and self-concept improve with better communication skills and deaf parents](../claims/deaf-children-communication-skills-self-concept.md) [+W]
-- [Laughter onset is delayed in Down syndrome infants](../claims/downs-syndrome-infants-delayed-laughter-onset.md) [+W]
-- [Extra adult handling increases exploratory behavior in blind infants](../claims/extra-handling-increases-blind-infant-exploration.md) [+W]
-- [Institutionalization devastates affective development in infants and retarded children](../claims/institutionalization-devastates-affective-development.md) [+W]
 
 ## Related Theories
 

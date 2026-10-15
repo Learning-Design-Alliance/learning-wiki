@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: vy-le-2026
-    resource: "https://arxiv.org/abs/2609.09584"
-    title: "Vy Le, Jayson M. Nissen, Jason W. Morphew, Hua Hua Chang, and Ben Van Dusen. (2026). Mechanics Cognitive Diagnostic: Testing Fine-Grained Learning Objectives in Introductory Physics. https://arxiv.org/abs/2609.09584"
+    resource: "https://doi.org/10.48550/arxiv.2609.09584"
+    title: "Vy Le, Jayson M. Nissen, Jason W. Morphew, Hua Hua Chang, and Ben Van Dusen. (2026). Mechanics Cognitive Diagnostic: Testing Fine-Grained Learning Objectives in Introductory Physics. https://arxiv.org/abs/2609.09584 [doi:10.48550/arxiv.2609.09584](https://doi.org/10.48550/arxiv.2609.09584)"
     author: Vy Le, Jayson M. Nissen, Jason W. Morphew, Hua Hua Chang, and Ben Van Dusen
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # The combined FCI, FMCE, and EMCS item bank covers all 14 learning objectives with at least six items each, mostly single- or two-LO items
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` All 14 LOs have at least six items in the combined bank, meeting simulation-based minimums for reliable DINA estimation. [→ Vy Le 2026](#vy-le-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Vy Le 2026
 
-Vy Le, Jayson M. Nissen, Jason W. Morphew, Hua Hua Chang, and Ben Van Dusen. (2026). Mechanics Cognitive Diagnostic: Testing Fine-Grained Learning Objectives in Introductory Physics. https://arxiv.org/abs/2609.09584
+Vy Le, Jayson M. Nissen, Jason W. Morphew, Hua Hua Chang, and Ben Van Dusen. (2026). Mechanics Cognitive Diagnostic: Testing Fine-Grained Learning Objectives in Introductory Physics. https://arxiv.org/abs/2609.09584 [doi:10.48550/arxiv.2609.09584](https://doi.org/10.48550/arxiv.2609.09584)
 
 `q2 · i?` · `design · r2`
 

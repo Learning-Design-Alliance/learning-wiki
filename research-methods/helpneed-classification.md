@@ -17,7 +17,7 @@ sources:
 # HelpNeed classification
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 6 claims (6 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The HelpNeed classification labels each problem-solving step using two data-driven dimensions: step duration (Quick vs Long, thresholded at the 75th percentile of historical per-problem step time) and step efficiency (derived from Hint Factory state quality and progress). It defines three no-help categories — Expert-like ("A quick efficient step; demonstrating mastery"), Strategic, and Opportunistic (a single quick but inefficient step) — and two help-needed categories, Far Off (consecutive quick inefficient steps) and Futile (a long inefficient step). The taxonomy is designed to identify steps that reflect suboptimal strategies in well-structured open-ended domains.
@@ -27,12 +27,6 @@ The HelpNeed classification labels each problem-solving step using two data-driv
 - **HelpNeed classification: a five-category step-level taxonomy of productivity based on step efficiency and duration**: The HelpNeed classification labels each problem-solving step using two data-driven dimensions: step duration (Quick vs Long, thresholded at the 75th percentile of historical per-problem step time) and step efficiency (derived from Hint Factory state quality and progress). It defines three no-help categories — Expert-like ("A quick efficient step; demonstrating mastery"), Strategic, and Opportunistic (a single quick but inefficient step) — and two help-needed categories, Far Off (consecutive quick inefficient steps) and Futile (a long inefficient step). The taxonomy is designed to identify steps that reflect suboptimal strategies in well-structured open-ended domains. (Maniktala et al. (2020))
 
 ### Claims
-- [A higher proportion of HelpNeed steps during training is significantly negatively correlated with posttest optimality, most strongly for the global-absolute efficiency metric](../claims/helpneed-proportion-negatively-correlated-posttest-optimality.md) [+M]
-- [Adaptive students show fewer Opportunistic and Far Off training steps than Control, with no difference in Futile steps](../claims/adaptive-fewer-opportunistic-far-off-steps.md) [+M]
-- [Adaptive students request significantly fewer on-demand hints and spend longer on a step before requesting help than Control students](../claims/adaptive-hint-seeking-behavior-differences.md) [+M]
-- [Students receiving Adaptive proactive hints based on HelpNeed predictions achieve significantly higher posttest optimality than Control students](../claims/adaptive-proactive-hints-higher-posttest-optimality.md) [+M]
-- [Adaptive-condition students complete the posttest in significantly less time than Control students](../claims/adaptive-proactive-hints-less-posttest-time.md) [+M]
-- [A generalized cross-problem HelpNeed predictor performs as well as problem-specific models and better when less historical data is available](../claims/generalized-cross-problem-helpneed-predictor.md) [+M]
 
 ## Related Research Methods
 -
@@ -68,12 +62,6 @@ The HelpNeed classification labels each problem-solving step using two data-driv
 
 ### Claims
 
-- [Helpneed Proportion Negatively Correlated Posttest Optimality](../claims/helpneed-proportion-negatively-correlated-posttest-optimality.md) [+M]
-- [Adaptive students show fewer Opportunistic and Far Off training steps than Control, with no difference in Futile steps](../claims/adaptive-fewer-opportunistic-far-off-steps.md) [+M]
-- [Adaptive students request significantly fewer on-demand hints and spend longer on a step before requesting help than Control students](../claims/adaptive-hint-seeking-behavior-differences.md) [+M]
-- [Students receiving Adaptive proactive hints based on HelpNeed predictions achieve significantly higher posttest optimality than Control students](../claims/adaptive-proactive-hints-higher-posttest-optimality.md) [+M]
-- [Adaptive-condition students complete the posttest in significantly less time than Control students](../claims/adaptive-proactive-hints-less-posttest-time.md) [+M]
-- [A generalized cross-problem HelpNeed predictor performs as well as problem-specific models and better when less historical data is available](../claims/generalized-cross-problem-helpneed-predictor.md) [+M]
 
 ## Related Theories
 - 

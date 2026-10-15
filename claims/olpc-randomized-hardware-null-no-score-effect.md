@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: guo-2026
-    resource: "https://arxiv.org/abs/2609.29672"
-    title: "Guo, Q., Tang, J., Huang, X., Lin, H.-Y., Zhong, Y., & Zhuang, X. (2026). LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity. https://arxiv.org/abs/2609.29672"
+    resource: "https://doi.org/10.48550/arxiv.2609.29672"
+    title: "Guo, Q., Tang, J., Huang, X., Lin, H.-Y., Zhong, Y., & Zhuang, X. (2026). LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity. https://arxiv.org/abs/2609.29672 [doi:10.48550/arxiv.2609.29672](https://doi.org/10.48550/arxiv.2609.29672)"
     author: "Guo, Q., Tang, J., Huang, X., Lin, H.-Y., Zhong, Y., & Zhuang, X."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Guo 2026
 
-Guo, Q., Tang, J., Huang, X., Lin, H.-Y., Zhong, Y., & Zhuang, X. (2026). LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity. https://arxiv.org/abs/2609.29672
+Guo, Q., Tang, J., Huang, X., Lin, H.-Y., Zhong, Y., & Zhuang, X. (2026). LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity. https://arxiv.org/abs/2609.29672 [doi:10.48550/arxiv.2609.29672](https://doi.org/10.48550/arxiv.2609.29672)
 
 `q2 · i?` · `design · r1`
 
@@ -48,5 +48,5 @@ The article reports, citing Cristia et al. (2017), a randomized evaluation of th
 - [AI in adult education risks reinforcing existing inequalities via the digital divide, particularly for rural, low-income, and marginalized learners](ai-digital-divide-reinforces-inequality.md) — related
 - [Hispanic and low-income students reported more challenges and technology problems after the shift online than non-Hispanic White and higher-income peers; rural students did not differ](equity-gaps-online-transition-challenges.md) — related
 - [Brandt et al. (2013) finds a statistically significant positive effect of eMINTS on seventh- and eighth-grade mathematics achievement](brandt-2013-significant-math-effect.md) — reports the opposite
-- [eMINTS produces a statistically significant positive effect on state math measures (ES +0.15) in a 3-year rural Missouri study](emints-math-effect-015-strong.md) — reports the opposite
+- eMINTS produces a statistically significant positive effect on state math measures (ES +0.15) in a 3-year rural Missouri study — reports the opposite
 - [Technology access problems during the COVID shift were more prevalent among minoritized students and students from lower-income households](covid-stem-tech-access-inequity.md) — related

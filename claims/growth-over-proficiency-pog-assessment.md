@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: kyle-dunbar-2025
-    resource: "https://digitalpromise.dspacedirect.org/items/0a2c7a9e-634b-4ec1-ba5d-3c8bfa19e696"
-    title: "Kyle Dunbar, Katie Wilczak, Kelly Mills, Nick Mireles, and Alison Shell. (2025). Portraits in Progress: Emerging Future-Ready Skills Assessment Strategies. Digital Promise and Pearson. https://digitalpromise.dspacedirect.org/items/0a2c7a9e-634b-4ec1-ba5d-3c8bfa19e696"
+    resource: "https://doi.org/10.51388/20.500.12265/266"
+    title: "Kyle Dunbar, Katie Wilczak, Kelly Mills, Nick Mireles, and Alison Shell. (2025). Portraits in Progress: Emerging Future-Ready Skills Assessment Strategies. Digital Promise and Pearson. https://digitalpromise.dspacedirect.org/items/0a2c7a9e-634b-4ec1-ba5d-3c8bfa19e696 [doi:10.51388/20.500.12265/266](https://doi.org/10.51388/20.500.12265/266)"
     author: Kyle Dunbar, Katie Wilczak, Kelly Mills, Nick Mireles, and Alison Shell
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Kyle Dunbar 2025
 
-Kyle Dunbar, Katie Wilczak, Kelly Mills, Nick Mireles, and Alison Shell. (2025). Portraits in Progress: Emerging Future-Ready Skills Assessment Strategies. Digital Promise and Pearson. https://digitalpromise.dspacedirect.org/items/0a2c7a9e-634b-4ec1-ba5d-3c8bfa19e696
+Kyle Dunbar, Katie Wilczak, Kelly Mills, Nick Mireles, and Alison Shell. (2025). Portraits in Progress: Emerging Future-Ready Skills Assessment Strategies. Digital Promise and Pearson. https://digitalpromise.dspacedirect.org/items/0a2c7a9e-634b-4ec1-ba5d-3c8bfa19e696 [doi:10.51388/20.500.12265/266](https://doi.org/10.51388/20.500.12265/266)
 
 `q2 · i?` · `qualitative · r1`
 

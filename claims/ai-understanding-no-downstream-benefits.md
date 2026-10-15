@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: lujain-ibrahim-2026
-    resource: "https://arxiv.org/abs/2605.07912"
-    title: "Lujain Ibrahim, Franziska Sofia Hafner, Myra Cheng, Cinoo Lee, Rebecca Anselmetti, Robb Willer, Luc Rocher, Diyi Yang. (2026). Sycophantic AI makes human interaction feel more effortful and less satisfying over time. https://arxiv.org/abs/2605.07912"
+    resource: "https://doi.org/10.48550/arxiv.2605.07912"
+    title: "Lujain Ibrahim, Franziska Sofia Hafner, Myra Cheng, Cinoo Lee, Rebecca Anselmetti, Robb Willer, Luc Rocher, Diyi Yang. (2026). Sycophantic AI makes human interaction feel more effortful and less satisfying over time. https://arxiv.org/abs/2605.07912 [doi:10.48550/arxiv.2605.07912](https://doi.org/10.48550/arxiv.2605.07912)"
     author: Lujain Ibrahim, Franziska Sofia Hafner, Myra Cheng, Cinoo Lee, Rebecca Anselmetti, Robb Willer, Luc Rocher, Diyi Yang
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Lujain Ibrahim 2026
 
-Lujain Ibrahim, Franziska Sofia Hafner, Myra Cheng, Cinoo Lee, Rebecca Anselmetti, Robb Willer, Luc Rocher, Diyi Yang. (2026). Sycophantic AI makes human interaction feel more effortful and less satisfying over time. https://arxiv.org/abs/2605.07912
+Lujain Ibrahim, Franziska Sofia Hafner, Myra Cheng, Cinoo Lee, Rebecca Anselmetti, Robb Willer, Luc Rocher, Diyi Yang. (2026). Sycophantic AI makes human interaction feel more effortful and less satisfying over time. https://arxiv.org/abs/2605.07912 [doi:10.48550/arxiv.2605.07912](https://doi.org/10.48550/arxiv.2605.07912)
 
 `q3 · i?` · `causal · r3`
 

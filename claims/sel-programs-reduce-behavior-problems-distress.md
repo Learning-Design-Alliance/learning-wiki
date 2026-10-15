@@ -46,6 +46,6 @@ Synthesis across the 12 meta-analyses reviewed in the report's evidence section,
 - [Schools fostering high self-esteem and social and scholastic success reduce the likelihood of emotional and behavioral disturbance](rutter-school-ethos-high-expectations-protective.md) — related
 - [SEL program effects are sustained over long-term follow-up periods](sel-benefits-persist-follow-up.md) — related
 - [Social and emotional learning programs promote competencies, reduce behavior problems, and improve engagement and achievement, with sustained longer-term benefits](sel-programs-improve-behavior-engagement-achievement.md) — a broader claim this one bears on
-- [Compared with non-participants, nearly 24% more students who participated in schoolwide SEL programs exhibited increased pro-social behaviors and reported decreased distress](schoolwide-sel-prosocial-distress-24-percent.md) — related
+- Compared with non-participants, nearly 24% more students who participated in schoolwide SEL programs exhibited increased pro-social behaviors and reported decreased distress — related
 - [Universal school-based SEL programs improve students' behaviour, with a small and, in recent randomised trials, negligible effect on academic achievement](sel-programs-improve-behavior-and-achievement.md) — a broader claim this one bears on
 - [SEL programs improve social emotional skills](sel-programs-improve-social-emotional-skills.md) — related

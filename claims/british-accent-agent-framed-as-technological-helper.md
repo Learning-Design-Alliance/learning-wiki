@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: ravi-2026
-    resource: "https://arxiv.org/abs/2606.12805"
-    title: "Ravi, P., Stevens, C., Hurt, B., Hanks, B., Lin, G., and Anderson, E. (2026). Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning. https://arxiv.org/abs/2606.12805"
+    resource: "https://doi.org/10.48550/arxiv.2606.12805"
+    title: "Ravi, P., Stevens, C., Hurt, B., Hanks, B., Lin, G., and Anderson, E. (2026). Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning. https://arxiv.org/abs/2606.12805 [doi:10.48550/arxiv.2606.12805](https://doi.org/10.48550/arxiv.2606.12805)"
     author: Ravi, P., Stevens, C., Hurt, B., Hanks, B., Lin, G., and Anderson, E.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Ravi 2026
 
-Ravi, P., Stevens, C., Hurt, B., Hanks, B., Lin, G., and Anderson, E. (2026). Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning. https://arxiv.org/abs/2606.12805
+Ravi, P., Stevens, C., Hurt, B., Hanks, B., Lin, G., and Anderson, E. (2026). Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning. https://arxiv.org/abs/2606.12805 [doi:10.48550/arxiv.2606.12805](https://doi.org/10.48550/arxiv.2606.12805)
 
 `q2 · i?` · `qualitative · r3`
 

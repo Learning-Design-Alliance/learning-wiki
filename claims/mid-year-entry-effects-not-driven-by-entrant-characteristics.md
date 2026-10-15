@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: emilyn-ruble-whitesell-2016
-    resource: "https://www.mathematica.org/publications/unexpected-arrivals-the-spillover-effects-of-mid-year-entry-on-stable-student-achievement-in-new"
-    title: "Emilyn Ruble Whitesell, Leanna Stiefel, Amy Ellen Schwartz. (2016). Unexpected Arrivals: The Spillover Effects of Mid-Year Entry on Stable Student Achievement in New York City. Education Evaluation and Policy Analysis, vol. 38, no. 4. https://www.mathematica.org/publications/unexpected-arrivals-the-spillover-effects-of-mid-year-entry-on-stable-student-achievement-in-new"
+    resource: "https://doi.org/10.3102/0162373716661242"
+    title: "Emilyn Ruble Whitesell, Leanna Stiefel, Amy Ellen Schwartz. (2016). Unexpected Arrivals: The Spillover Effects of Mid-Year Entry on Stable Student Achievement in New York City. Education Evaluation and Policy Analysis, vol. 38, no. 4. https://www.mathematica.org/publications/unexpected-arrivals-the-spillover-effects-of-mid-year-entry-on-stable-student-achievement-in-new [doi:10.3102/0162373716661242](https://doi.org/10.3102/0162373716661242)"
     author: Emilyn Ruble Whitesell, Leanna Stiefel, Amy Ellen Schwartz
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Emilyn Ruble Whitesell 2016
 
-Emilyn Ruble Whitesell, Leanna Stiefel, Amy Ellen Schwartz. (2016). Unexpected Arrivals: The Spillover Effects of Mid-Year Entry on Stable Student Achievement in New York City. Education Evaluation and Policy Analysis, vol. 38, no. 4. https://www.mathematica.org/publications/unexpected-arrivals-the-spillover-effects-of-mid-year-entry-on-stable-student-achievement-in-new
+Emilyn Ruble Whitesell, Leanna Stiefel, Amy Ellen Schwartz. (2016). Unexpected Arrivals: The Spillover Effects of Mid-Year Entry on Stable Student Achievement in New York City. Education Evaluation and Policy Analysis, vol. 38, no. 4. https://www.mathematica.org/publications/unexpected-arrivals-the-spillover-effects-of-mid-year-entry-on-stable-student-achievement-in-new [doi:10.3102/0162373716661242](https://doi.org/10.3102/0162373716661242)
 
 `q3 · i?` · `causal · r?`
 

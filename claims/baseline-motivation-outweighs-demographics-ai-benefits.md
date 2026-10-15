@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: kevin-zhongyang-shao-2026
-    resource: "https://arxiv.org/abs/2607.26338"
-    title: "Kevin Zhongyang Shao, Denise Wilson, Yale Quan, Sep Makhsous. (2026). Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education: Insights from Psychological Outcomes. arXiv. https://arxiv.org/abs/2607.26338"
+    resource: "https://doi.org/10.48550/arxiv.2607.26338"
+    title: "Kevin Zhongyang Shao, Denise Wilson, Yale Quan, Sep Makhsous. (2026). Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education: Insights from Psychological Outcomes. arXiv. https://arxiv.org/abs/2607.26338 [doi:10.48550/arxiv.2607.26338](https://doi.org/10.48550/arxiv.2607.26338)"
     author: Kevin Zhongyang Shao, Denise Wilson, Yale Quan, Sep Makhsous
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Baseline motivational states shape perceived AI benefits more than demographics, with female-coded gender the only significant demographic effect (lower perceived competence relief)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Evidence** · 2 studies · 2 associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Female-coded gender was negatively associated with perceived competence-related outcomes (β = −.145, p = .037). [→ Kevin Zhongyang Shao 2026](#kevin-zhongyang-shao-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Kevin Zhongyang Shao 2026
 
-Kevin Zhongyang Shao, Denise Wilson, Yale Quan, Sep Makhsous. (2026). Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education: Insights from Psychological Outcomes. arXiv. https://arxiv.org/abs/2607.26338
+Kevin Zhongyang Shao, Denise Wilson, Yale Quan, Sep Makhsous. (2026). Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education: Insights from Psychological Outcomes. arXiv. https://arxiv.org/abs/2607.26338 [doi:10.48550/arxiv.2607.26338](https://doi.org/10.48550/arxiv.2607.26338)
 
 `q2 · i?` · `associational · r2`
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: naiming-liu-2025
-    resource: "https://arxiv.org/abs/2512.24362"
-    title: "Naiming Liu, Brittany Bradford, Johaun Hatchett, Gabriel Diaz, Lorenzo Luzi, Zichao Wang, Debshila Basu Mallick, Richard Baraniuk. (2025). Learning Context: A Unified Framework and Roadmap for Context-Aware AI in Education. https://arxiv.org/abs/2512.24362"
+    resource: "https://doi.org/10.48550/arxiv.2512.24362"
+    title: "Naiming Liu, Brittany Bradford, Johaun Hatchett, Gabriel Diaz, Lorenzo Luzi, Zichao Wang, Debshila Basu Mallick, Richard Baraniuk. (2025). Learning Context: A Unified Framework and Roadmap for Context-Aware AI in Education. https://arxiv.org/abs/2512.24362 [doi:10.48550/arxiv.2512.24362](https://doi.org/10.48550/arxiv.2512.24362)"
     author: Naiming Liu, Brittany Bradford, Johaun Hatchett, Gabriel Diaz, Lorenzo Luzi, Zichao Wang, Debshila Basu Mallick, Richard Baraniuk
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Naiming Liu 2025
 
-Naiming Liu, Brittany Bradford, Johaun Hatchett, Gabriel Diaz, Lorenzo Luzi, Zichao Wang, Debshila Basu Mallick, Richard Baraniuk. (2025). Learning Context: A Unified Framework and Roadmap for Context-Aware AI in Education. https://arxiv.org/abs/2512.24362
+Naiming Liu, Brittany Bradford, Johaun Hatchett, Gabriel Diaz, Lorenzo Luzi, Zichao Wang, Debshila Basu Mallick, Richard Baraniuk. (2025). Learning Context: A Unified Framework and Roadmap for Context-Aware AI in Education. https://arxiv.org/abs/2512.24362 [doi:10.48550/arxiv.2512.24362](https://doi.org/10.48550/arxiv.2512.24362)
 
 `q1 · i?` · `theoretical · r2`
 
@@ -45,5 +45,5 @@ Leave-one-out (LOO) analysis measuring Total Variation Distance between full-con
 ## Related Claims
 - [Zero-shot LLM errors follow four recurring patterns: over-interpretation, failure to detect relevant information, hallucination, and failure to generate a response](llm-competency-error-patterns-four-types.md) — a broader claim this one bears on
 - [ChatGPT zero-shot relevance extraction for instruction-quality assessment retrieves mostly irrelevant utterances and overestimates instruction quality](chatgpt-zero-shot-relevance-extraction-unreliable.md) — related
-- [LLM-assisted inductive qualitative coding carries risks of superficial themes, broad or redundant codes, and hallucinated interpretations, so LLMs should augment rather than replace human researchers](llm-inductive-coding-risks-require-human-oversight.md) — related
+- LLM-assisted inductive qualitative coding carries risks of superficial themes, broad or redundant codes, and hallucinated interpretations, so LLMs should augment rather than replace human researchers — related
 - [Recurring risks of GenAI in STEAM education include hallucination, bias, superficial completion strategies, and compromised assessment validity](genai-steam-risks-hallucination-bias.md) — a broader claim this one bears on

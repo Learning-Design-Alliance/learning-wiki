@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: john-maurice-gayed-2026
-    resource: "https://arxiv.org/abs/2606.12801"
-    title: "John Maurice Gayed. (2026). AiAWE: An Open-Source LLM Automated Writing Evaluation System Using LoRA-Adapted Instruction-Tuned Models. A PREPRINT. https://arxiv.org/abs/2606.12801"
+    resource: "https://doi.org/10.48550/arxiv.2606.12801"
+    title: "John Maurice Gayed. (2026). AiAWE: An Open-Source LLM Automated Writing Evaluation System Using LoRA-Adapted Instruction-Tuned Models. A PREPRINT. https://arxiv.org/abs/2606.12801 [doi:10.48550/arxiv.2606.12801](https://doi.org/10.48550/arxiv.2606.12801)"
     author: John Maurice Gayed
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### John Maurice Gayed 2026
 
-John Maurice Gayed. (2026). AiAWE: An Open-Source LLM Automated Writing Evaluation System Using LoRA-Adapted Instruction-Tuned Models. A PREPRINT. https://arxiv.org/abs/2606.12801
+John Maurice Gayed. (2026). AiAWE: An Open-Source LLM Automated Writing Evaluation System Using LoRA-Adapted Instruction-Tuned Models. A PREPRINT. https://arxiv.org/abs/2606.12801 [doi:10.48550/arxiv.2606.12801](https://doi.org/10.48550/arxiv.2606.12801)
 
 `q2 · i?` · `causal · r2`
 

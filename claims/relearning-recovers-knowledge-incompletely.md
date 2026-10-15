@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: jiajia-song-2026
-    resource: "https://arxiv.org/abs/2603.26142"
-    title: "Jiajia Song, Zhihan Guo, and Jionghao Lin. (2026). Simulating Novice Students Using Machine Unlearning and Relearning in Large Language Models. https://arxiv.org/abs/2603.26142"
+    resource: "https://doi.org/10.48550/arxiv.2603.26142"
+    title: "Jiajia Song, Zhihan Guo, and Jionghao Lin. (2026). Simulating Novice Students Using Machine Unlearning and Relearning in Large Language Models. https://arxiv.org/abs/2603.26142 [doi:10.48550/arxiv.2603.26142](https://doi.org/10.48550/arxiv.2603.26142)"
     author: Jiajia Song, Zhihan Guo, and Jionghao Lin
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Teachable agents measurably but incompletely relearn unlearned knowledge, with the recovery gap to the base model widening under higher unlearning ratios (30%–50%)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
+> **Evidence** · 2 studies · 1 causal `r1`, 1 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Both relearning strategies improve accuracy and F1 across all unlearning ratios, showing suppressed knowledge can be reacquired. [→ Jiajia Song 2026](#jiajia-song-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Jiajia Song 2026
 
-Jiajia Song, Zhihan Guo, and Jionghao Lin. (2026). Simulating Novice Students Using Machine Unlearning and Relearning in Large Language Models. https://arxiv.org/abs/2603.26142
+Jiajia Song, Zhihan Guo, and Jionghao Lin. (2026). Simulating Novice Students Using Machine Unlearning and Relearning in Large Language Models. https://arxiv.org/abs/2603.26142 [doi:10.48550/arxiv.2603.26142](https://doi.org/10.48550/arxiv.2603.26142)
 
 `q2 · i?` · `causal · r1`
 

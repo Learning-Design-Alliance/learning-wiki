@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: rummel-2026
-    resource: "https://arxiv.org/abs/2609.09856"
-    title: "Rummel, N., Nachtigall, V., & Panadero, E. (2026). “With a Thermomix You Lose the Ability to Cook”: A Kitchen Machine Analogy for Applications of Generative AI in Education. https://arxiv.org/abs/2609.09856"
+    resource: "https://doi.org/10.48550/arxiv.2609.09856"
+    title: "Rummel, N., Nachtigall, V., & Panadero, E. (2026). “With a Thermomix You Lose the Ability to Cook”: A Kitchen Machine Analogy for Applications of Generative AI in Education. https://arxiv.org/abs/2609.09856 [doi:10.48550/arxiv.2609.09856](https://doi.org/10.48550/arxiv.2609.09856)"
     author: "Rummel, N., Nachtigall, V., & Panadero, E."
     q: 1
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Using generative AI as a dialogic partner for brainstorming, feedback, and co-construction can support constructive and interactive learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · theoretical `r2` · `q1`
+> **Evidence** · 2 studies · 2 theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Generative AI can act as a 'sparring partner' stimulating critical engagement and helping learners develop and test their own ideas rather than simply consuming information (as argued by Kasneci et al., 2023). [→ Rummel 2026](#rummel-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Rummel 2026
 
-Rummel, N., Nachtigall, V., & Panadero, E. (2026). “With a Thermomix You Lose the Ability to Cook”: A Kitchen Machine Analogy for Applications of Generative AI in Education. https://arxiv.org/abs/2609.09856
+Rummel, N., Nachtigall, V., & Panadero, E. (2026). “With a Thermomix You Lose the Ability to Cook”: A Kitchen Machine Analogy for Applications of Generative AI in Education. https://arxiv.org/abs/2609.09856 [doi:10.48550/arxiv.2609.09856](https://doi.org/10.48550/arxiv.2609.09856)
 
 `q1 · i?` · `theoretical · r2`
 
@@ -62,8 +62,8 @@ Authors' interpretation in the interactive-use section: dialogue-partner uses of
 
 
 ## Related Claims
-- [Teachers find ChatGPT a creative, fast, iterative brainstorming partner that adds specific numbers and details when posing math questions from photos](chatgpt-brainstorming-partner-affordances.md) — a narrower finding that bears on this claim
+- Teachers find ChatGPT a creative, fast, iterative brainstorming partner that adds specific numbers and details when posing math questions from photos — a narrower finding that bears on this claim
 - [AI-assisted ideation was conditionally acceptable when researchers retained decision-making authority, but problematic when it displaced conceptual labour](conditional-ideation-dialogic-aid-vs-outsourcing.md) — related
-- [Mathematics teachers appreciate ChatGPT-generated generative learning activities as hands-on, collaborative, engaging, open-ended, differentiated, and using multiple representations](teachers-appreciate-chatgpt-generative-learning-affordances.md) — a narrower finding that bears on this claim
+- Mathematics teachers appreciate ChatGPT-generated generative learning activities as hands-on, collaborative, engaging, open-ended, differentiated, and using multiple representations — a narrower finding that bears on this claim
 - Critical Evaluation and Dependent reliance emerge as empirically distinct constructs, with near-zero correlation between the two facets — related
 - [Middle school students engaged directly and positively with AI-generated rubric feedback, including conversing with the AI](students-engage-positively-with-ai-feedback.md) — a narrower finding that bears on this claim

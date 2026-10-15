@@ -44,6 +44,6 @@ Pretest-posttest experiment with 34 adult ESL learners of varying L1 backgrounds
 
 ## Related Claims
 - [Active participation in interaction matters for second language developmental outcomes](active-participation-in-interaction-drives-development.md) — related
-- [Conversational interaction may facilitate acquisition of some grammatical structures but not others](interaction-facilitates-some-structures-not-others.md) — related
+- Conversational interaction may facilitate acquisition of some grammatical structures but not others — related
 - [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](comprehensible-input-insufficient-grammar-acquisition.md) — related
 - [Informal evidence that adults do not automatically process input to develop competence reopens the role of grammar instruction (as reported by the bibliography, citing Terrell)](input-processing-insufficient-for-adult-competence-terrell.md) — related

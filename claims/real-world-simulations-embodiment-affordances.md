@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: kelly-mcneil-2026
-    resource: "https://digitalpromise.dspacedirect.org/items/5b9d16cb-7253-49d0-9d95-e510b6951d4b"
-    title: "Kelly McNeil, Sharin Jacob, Quinn Burke, and Stefani Pautz Stephenson. (2026). Operation Outbreak: Exploring the Affordances and Challenges of Experiential Simulations in Education for Scalability. Digital Promise. https://digitalpromise.dspacedirect.org/items/5b9d16cb-7253-49d0-9d95-e510b6951d4b"
+    resource: "https://doi.org/10.51388/20.500.12265/284"
+    title: "Kelly McNeil, Sharin Jacob, Quinn Burke, and Stefani Pautz Stephenson. (2026). Operation Outbreak: Exploring the Affordances and Challenges of Experiential Simulations in Education for Scalability. Digital Promise. https://digitalpromise.dspacedirect.org/items/5b9d16cb-7253-49d0-9d95-e510b6951d4b [doi:10.51388/20.500.12265/284](https://doi.org/10.51388/20.500.12265/284)"
     author: Kelly McNeil, Sharin Jacob, Quinn Burke, and Stefani Pautz Stephenson
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Kelly McNeil 2026
 
-Kelly McNeil, Sharin Jacob, Quinn Burke, and Stefani Pautz Stephenson. (2026). Operation Outbreak: Exploring the Affordances and Challenges of Experiential Simulations in Education for Scalability. Digital Promise. https://digitalpromise.dspacedirect.org/items/5b9d16cb-7253-49d0-9d95-e510b6951d4b
+Kelly McNeil, Sharin Jacob, Quinn Burke, and Stefani Pautz Stephenson. (2026). Operation Outbreak: Exploring the Affordances and Challenges of Experiential Simulations in Education for Scalability. Digital Promise. https://digitalpromise.dspacedirect.org/items/5b9d16cb-7253-49d0-9d95-e510b6951d4b [doi:10.51388/20.500.12265/284](https://doi.org/10.51388/20.500.12265/284)
 
 `q2 · i?` · `review · r2`
 
@@ -44,7 +44,7 @@ The review reports, citing Dunleavy et al. (2009) and Klopfer and Squire (2008),
 
 ## Related Claims
 - [Immersive technologies such as virtual reality should reinforce, not substitute, the original educational action](vr-reinforcement-not-substitute.md) — related
-- [Interactive LRE methods engage students, who value LRE classes as relevant and interesting](lre-interactive-methods-student-interest.md) — related
+- Interactive LRE methods engage students, who value LRE classes as relevant and interesting — related
 - [Embodied and cognitive hands-on rely on different feedback sources and are not educationally equivalent](hands-on-forms-different-feedback-sources.md) — related
 - [Adult learners expect AI to support transformative and experiential learning through assumption-challenging simulations, role play, and authentic virtual contexts](ai-supports-transformative-experiential-learning.md) — related
 - [Immersive technologies are rarely adopted in robotics GBL/gamification but studies using them report heightened engagement, improved spatial reasoning, and enhanced perceived realism](immersive-tech-underused-positive-outcomes-robotics.md) — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: jingwei-yi-2026
-    resource: "https://arxiv.org/abs/2607.10101"
-    title: "Jingwei Yi, Yueqi Xie, Jiyan He, Rui Ye, Junming Huang, Bin Zhu, Sean Rintel, Yu Xie, Xing Xie, and Fangzhao Wu. (2026). Learning behavior accounts for background-related advantage in AI-assisted education. https://arxiv.org/abs/2607.10101"
+    resource: "https://doi.org/10.48550/arxiv.2607.10101"
+    title: "Jingwei Yi, Yueqi Xie, Jiyan He, Rui Ye, Junming Huang, Bin Zhu, Sean Rintel, Yu Xie, Xing Xie, and Fangzhao Wu. (2026). Learning behavior accounts for background-related advantage in AI-assisted education. https://arxiv.org/abs/2607.10101 [doi:10.48550/arxiv.2607.10101](https://doi.org/10.48550/arxiv.2607.10101)"
     author: Jingwei Yi, Yueqi Xie, Jiyan He, Rui Ye, Junming Huang, Bin Zhu, Sean Rintel, Yu Xie, Xing Xie, and Fangzhao Wu
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Jingwei Yi 2026
 
-Jingwei Yi, Yueqi Xie, Jiyan He, Rui Ye, Junming Huang, Bin Zhu, Sean Rintel, Yu Xie, Xing Xie, and Fangzhao Wu. (2026). Learning behavior accounts for background-related advantage in AI-assisted education. https://arxiv.org/abs/2607.10101
+Jingwei Yi, Yueqi Xie, Jiyan He, Rui Ye, Junming Huang, Bin Zhu, Sean Rintel, Yu Xie, Xing Xie, and Fangzhao Wu. (2026). Learning behavior accounts for background-related advantage in AI-assisted education. https://arxiv.org/abs/2607.10101 [doi:10.48550/arxiv.2607.10101](https://doi.org/10.48550/arxiv.2607.10101)
 
 `q2 · i?` · `causal · r2`
 

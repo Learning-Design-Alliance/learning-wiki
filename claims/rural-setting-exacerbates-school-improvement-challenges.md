@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: linda-rosenberg-2015
-    resource: "https://www.tandfonline.com/toc/hpje20/90/2"
-    title: "Linda Rosenberg, Megan Davis Christianson, Megan Hague Angus. (2015). Improvement Efforts in Rural Schools: Experience of Nine Schools Receiving School Improvement Grants. Peabody Journal of Education, vol. 90, issue 2. https://www.tandfonline.com/toc/hpje20/90/2"
+    resource: "https://doi.org/10.1080/0161956x.2015.1022109"
+    title: "Linda Rosenberg, Megan Davis Christianson, Megan Hague Angus. (2015). Improvement Efforts in Rural Schools: Experience of Nine Schools Receiving School Improvement Grants. Peabody Journal of Education, vol. 90, issue 2. https://www.tandfonline.com/toc/hpje20/90/2 [doi:10.1080/0161956x.2015.1022109](https://doi.org/10.1080/0161956x.2015.1022109)"
     author: Linda Rosenberg, Megan Davis Christianson, Megan Hague Angus
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Linda Rosenberg 2015
 
-Linda Rosenberg, Megan Davis Christianson, Megan Hague Angus. (2015). Improvement Efforts in Rural Schools: Experience of Nine Schools Receiving School Improvement Grants. Peabody Journal of Education, vol. 90, issue 2. https://www.tandfonline.com/toc/hpje20/90/2
+Linda Rosenberg, Megan Davis Christianson, Megan Hague Angus. (2015). Improvement Efforts in Rural Schools: Experience of Nine Schools Receiving School Improvement Grants. Peabody Journal of Education, vol. 90, issue 2. https://www.tandfonline.com/toc/hpje20/90/2 [doi:10.1080/0161956x.2015.1022109](https://doi.org/10.1080/0161956x.2015.1022109)
 
 `q2 · i?` · `qualitative · r?`
 

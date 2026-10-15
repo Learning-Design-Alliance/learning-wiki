@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Screening items for desirable statistical characteristics changes the definitions of the behavioral categories a criterion-referenced test is meant to represent. [→ Nitko 1970](#nitko-1970)
@@ -50,7 +51,7 @@ Theoretical argument in the section on norm-referenced scores from criterion-ref
 - [Norm-referenced mental-age and IQ metrics distract investigators from the structural and hierarchical aspects of developing abilities](norm-referenced-metrics-hide-structural-development.md) — related
 - [The article argues for shifting from the definition of validity to the concept of effectiveness for classroom assessment score use](shift-from-validity-to-effectiveness.md) — related
 - [Content alignment between a test and its content domain represents key evidence for validating test score inferences](alignment-key-validation-evidence-score-inferences.md) — related
-- [Coaches cautioned that AI-generated feedback should be used formatively rather than for summative assessment because of AI's probabilistic nature](ai-feedback-formative-not-summative-caution.md) — related
+- Coaches cautioned that AI-generated feedback should be used formatively rather than for summative assessment because of AI's probabilistic nature — related
 - [Screening assessments vary in design, administration, and risk definitions such that there is no truly common definition of risk across assessments](no-common-definition-of-risk-across-screeners.md) — related
 - [Item discrimination screening removed eight items using a critical-ratio criterion above 3](critical-ratio-item-discrimination-screening.md) — related
 - Critical thinking is rarely defined in HCI research about AI, with fundamental construct and criterion validity challenges — a narrower finding that bears on this claim

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: salsman-2026
-    resource: "https://arxiv.org/abs/2605.26428"
-    title: "Salsman, J. (2026). Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation. https://arxiv.org/abs/2605.26428"
+    resource: "https://doi.org/10.48550/arxiv.2605.26428"
+    title: "Salsman, J. (2026). Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation. https://arxiv.org/abs/2605.26428 [doi:10.48550/arxiv.2605.26428](https://doi.org/10.48550/arxiv.2605.26428)"
     author: Salsman, J.
     q: 1
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # The pipeline generated grounded questions about complex multimodal diagrams, citing visual evidence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q1`
+> **Evidence** · 2 studies · 2 design `r2` · `q1`
 
 ## Subclaims
 `q1 i?` For a mean-pooling slide the system generated a question on sentence encoding with the answer grounded as taking the element-wise max or mean of all hidden states (Fidelity 5, Coverage 5). [→ Salsman 2026](#salsman-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Salsman 2026
 
-Salsman, J. (2026). Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation. https://arxiv.org/abs/2605.26428
+Salsman, J. (2026). Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation. https://arxiv.org/abs/2605.26428 [doi:10.48550/arxiv.2605.26428](https://doi.org/10.48550/arxiv.2605.26428)
 
 `q1 · i?` · `design · r2`
 

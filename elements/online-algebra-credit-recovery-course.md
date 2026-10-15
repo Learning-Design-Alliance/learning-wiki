@@ -17,7 +17,7 @@ sources:
 # Online Algebra I credit recovery course
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (2 for, 2 against) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 An online course format for recovering Algebra I credit, evaluated in a randomized trial against face-to-face credit recovery with 1,224 ninth-graders in 17 Chicago public high schools. Students taking the online course "reported that the course was more difficult" than face-to-face students, "were less likely to recover credit and scored lower on an algebra post-test." The article discusses the benefits and challenges of online learning for credit recovery in light of these findings.
@@ -39,10 +39,6 @@ An online course format for recovering Algebra I credit, evaluated in a randomiz
 
 ## Claims
 
-- [Online and face-to-face Algebra I credit recovery showed no statistically significant differences on any second-year outcomes](../claims/credit-recovery-no-second-year-differences.md) [+W]
-- [Online Algebra I credit recovery students were less likely to recover credit and scored lower on an algebra post-test than face-to-face students](../claims/online-credit-recovery-lower-credit-and-posttest.md) [-W]
-- [Students in online Algebra I credit recovery reported that the course was more difficult than students in face-to-face credit recovery reported](../claims/online-credit-recovery-perceived-more-difficult.md) [-W]
-- [Before this trial, online credit recovery was widely used despite no rigorous evidence on its relative efficacy versus face-to-face courses](../claims/online-credit-recovery-evidence-gap.md) [+W]
 
 ## Related Elements
 

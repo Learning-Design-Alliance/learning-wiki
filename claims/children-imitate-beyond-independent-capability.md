@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 4 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Children can imitate a series of actions far beyond the boundaries of their own possibilities, though not infinitely, which is what makes teaching effective. [→ Seng 1997](#seng-1997)
@@ -45,4 +46,4 @@ Theoretical argument reported in this review paper, attributed to Vygotsky via v
 ## Related Claims
 - [In one extreme case, two sixth-graders with a choice-rich, ungraded STEAM infrastructure extended a game-design challenge into a year-long self-directed project well beyond its designed scope](choice-rich-infrastructure-supports-productive-deviation-and-learning.md) — related
 - [In pretend play the child behaves beyond her average age and daily behaviour](pretend-play-child-head-taller.md) — related
-- [Challenging tasks within the child's capability promote maximum cognitive growth, per the account presented](vygotsky-challenging-tasks-promote-growth.md) — related
+- Challenging tasks within the child's capability promote maximum cognitive growth, per the account presented — related

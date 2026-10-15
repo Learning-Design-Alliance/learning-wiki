@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 4 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Teachers and coaches reported that teacher buy-in would strongly mediate the overall effect of coaching, and that resistant teachers show lower-quality outcomes. [→ White 2015](#white-2015)
@@ -43,9 +44,9 @@ Requisite Teacher Characteristics section of the focus group study: teachers saw
 
 
 ## Related Claims
-- [Framework identifies teacher prerequisites: basic content knowledge, willingness to engage, and genuine concern for improving student learning](requisite-teacher-characteristics-qualitative-findings.md) — related
+- Framework identifies teacher prerequisites: basic content knowledge, willingness to engage, and genuine concern for improving student learning — related
 - [Personalized Learning Effects Vary With Fidelity](personalized-learning-effects-vary-with-fidelity.md) — a broader claim this one bears on
 - [Students' application of teacher support predicts accurate answers in small-group work](student-uptake-of-support-predicts-small-group-answer-accuracy.md) — related
 - [Teachers would engage in analytics-informed inquiry if they saw direct benefits for student outcomes and the process were a regular part of their work](teacher-inquiry-incentives-direct-benefits-routine.md) — related
-- [Participating K-3 teachers vary widely in existing literacy practices, resources, understandings, and willingness to use DLS](dls-teachers-vary-widely-practices-buy-in.md) — related
+- Participating K-3 teachers vary widely in existing literacy practices, resources, understandings, and willingness to use DLS — related
 - [Video-based analysis of teacher-student interactions mediates positive coaching outcomes, and challenging teachers supports reflection but is uncommon](video-analysis-mediation-coaching-outcomes.md) — related

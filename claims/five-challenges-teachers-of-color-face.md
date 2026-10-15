@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: davis-dixon-2019
-    resource: "https://eric.ed.gov/?id=ED603193"
-    title: "Davis Dixon, Ashley Griffin, and Mark Teoh. (2019). If You Listen, We Will Stay: Why Teachers of Color Leave and How to Disrupt Teacher Turnover. The Education Trust & Teach Plus. https://eric.ed.gov/?id=ED603193"
+    resource: "https://doi.org/10.3102/1445541"
+    title: "Davis Dixon, Ashley Griffin, and Mark Teoh. (2019). If You Listen, We Will Stay: Why Teachers of Color Leave and How to Disrupt Teacher Turnover. The Education Trust & Teach Plus. https://eric.ed.gov/?id=ED603193 [doi:10.3102/1445541](https://doi.org/10.3102/1445541)"
     author: Davis Dixon, Ashley Griffin, and Mark Teoh
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Davis Dixon 2019
 
-Davis Dixon, Ashley Griffin, and Mark Teoh. (2019). If You Listen, We Will Stay: Why Teachers of Color Leave and How to Disrupt Teacher Turnover. The Education Trust & Teach Plus. https://eric.ed.gov/?id=ED603193
+Davis Dixon, Ashley Griffin, and Mark Teoh. (2019). If You Listen, We Will Stay: Why Teachers of Color Leave and How to Disrupt Teacher Turnover. The Education Trust & Teach Plus. https://eric.ed.gov/?id=ED603193 [doi:10.3102/1445541](https://doi.org/10.3102/1445541)
 
 `q2 · i?` · `qualitative · r2`
 
@@ -43,6 +43,6 @@ Qualitative focus groups led by Teach Plus Policy Fellows with 88 teachers who i
 
 
 ## Related Claims
-- [Teacher-student racial and cultural match is associated with benefits for students of color and all P-12 students](educator-diversity-benefits-students-of-color.md) — related
+- Teacher-student racial and cultural match is associated with benefits for students of color and all P-12 students — related
 - [Teachers of color face retention pressures including placement in high-poverty schools, pigeonholing into race-based roles, undervalued ideas, and an unrecognized invisible tax of extra duties.](toc-retention-hostile-conditions.md) — a narrower finding that bears on this claim
-- [Louisiana teachers of color report working conditions, not salary, as primary reasons for leaving high-need schools](louisiana-teachers-of-color-working-conditions-turnover.md) — a narrower finding that bears on this claim
+- Louisiana teachers of color report working conditions, not salary, as primary reasons for leaving high-need schools — a narrower finding that bears on this claim

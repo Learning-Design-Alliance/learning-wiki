@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: oliveira-2026
-    resource: "https://arxiv.org/abs/2607.05411"
-    title: "Oliveira, E., English, N., Ryan, T., Misiejuk, K., dal Ponte, C., López-Pernas, S., & Saqr, M. (2026). The GenAI Skill Bypass: Mapping Divergent Pathways of University Students and Staff AI Literacy. Preprint. https://arxiv.org/abs/2607.05411"
+    resource: "https://doi.org/10.48550/arxiv.2607.05411"
+    title: "Oliveira, E., English, N., Ryan, T., Misiejuk, K., dal Ponte, C., López-Pernas, S., & Saqr, M. (2026). The GenAI Skill Bypass: Mapping Divergent Pathways of University Students and Staff AI Literacy. Preprint. https://arxiv.org/abs/2607.05411 [doi:10.48550/arxiv.2607.05411](https://doi.org/10.48550/arxiv.2607.05411)"
     author: "Oliveira, E., English, N., Ryan, T., Misiejuk, K., dal Ponte, C., López-Pernas, S., & Saqr, M."
     q: 2
     i: 1
@@ -30,7 +30,7 @@ sources:
 # Item-difficulty orderings diverge across cohorts, with the weakest correlation between academics and students (r = 0.188) and no stable shared developmental hierarchy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2` · `i1`–`i3`
+> **Evidence** · 2 studies · 2 associational `r1`–`r2` · `q2` · `i1`–`i3`
 
 ## Subclaims
 `q2 i1` The Spearman correlation between academics and students was r = 0.188 with a 95% CI spanning zero, indicating no stable shared developmental hierarchy. [→ Oliveira 2026](#oliveira-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Oliveira 2026
 
-Oliveira, E., English, N., Ryan, T., Misiejuk, K., dal Ponte, C., López-Pernas, S., & Saqr, M. (2026). The GenAI Skill Bypass: Mapping Divergent Pathways of University Students and Staff AI Literacy. Preprint. https://arxiv.org/abs/2607.05411
+Oliveira, E., English, N., Ryan, T., Misiejuk, K., dal Ponte, C., López-Pernas, S., & Saqr, M. (2026). The GenAI Skill Bypass: Mapping Divergent Pathways of University Students and Staff AI Literacy. Preprint. https://arxiv.org/abs/2607.05411 [doi:10.48550/arxiv.2607.05411](https://doi.org/10.48550/arxiv.2607.05411)
 
 `q2 · i1` · `associational · r1`
 

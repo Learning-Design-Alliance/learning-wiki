@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: hong-qu-2026
-    resource: "https://arxiv.org/abs/2609.18505"
-    title: "Hong Qu, Zichao Ling, Yadie Yang. (2026). Integrating Flipped Learning and Generative AI for Practice-Based Design Education: Evidence from a Knit Yarn Design Course. https://arxiv.org/abs/2609.18505"
+    resource: "https://doi.org/10.48550/arxiv.2609.18505"
+    title: "Hong Qu, Zichao Ling, Yadie Yang. (2026). Integrating Flipped Learning and Generative AI for Practice-Based Design Education: Evidence from a Knit Yarn Design Course. https://arxiv.org/abs/2609.18505 [doi:10.48550/arxiv.2609.18505](https://doi.org/10.48550/arxiv.2609.18505)"
     author: Hong Qu, Zichao Ling, Yadie Yang
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Hong Qu 2026
 
-Hong Qu, Zichao Ling, Yadie Yang. (2026). Integrating Flipped Learning and Generative AI for Practice-Based Design Education: Evidence from a Knit Yarn Design Course. https://arxiv.org/abs/2609.18505
+Hong Qu, Zichao Ling, Yadie Yang. (2026). Integrating Flipped Learning and Generative AI for Practice-Based Design Education: Evidence from a Knit Yarn Design Course. https://arxiv.org/abs/2609.18505 [doi:10.48550/arxiv.2609.18505](https://doi.org/10.48550/arxiv.2609.18505)
 
 `q1 · i?` · `causal · r1`
 
@@ -44,7 +44,7 @@ Thematic analysis of brief interviews with four intervention-cohort students and
 
 ## Related Claims
 - [Students rated the flipped-learning component highest and the GenAI module lower, with GenAI rated stronger for ideation than for time saving or direct output use](genai-rated-for-ideation-not-time-saving.md) — related
-- [The GenAI session strengthened immediate AI-handling confidence and workflow literacy, but students remained hesitant about transferring these skills to employment](gen-aitecture-ai-handling-confidence-transfer-hesitation.md) — related
+- The GenAI session strengthened immediate AI-handling confidence and workflow literacy, but students remained hesitant about transferring these skills to employment — related
 - [Nearly all postgraduate research students in the study used GenAI across multiple research stages, positioning it as a supportive assistant with human oversight retained](pgr-genai-supportive-assistant-human-oversight.md) — related
 - [Students used GenAI and XR in complementary roles: GenAI for ideation and visual reference generation, XR for spatial, contextual, and scale-based evaluation](genai-xr-complementary-roles-design.md) — related
 - [Teachers' tool preferences are stage-dependent, with pre-gen valued for ideation, mid-gen for structuring, post-gen for finalization, motivating hybrid workflows](stage-dependent-preferences-hybrid-workflows.md) — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: bergh-2026
-    resource: "https://arxiv.org/abs/2609.21194"
-    title: "Bergh, C., Tag, B., Vassar, A., & Renzella, J. (2026). Your Programming Students'Cognition with ChatGPT: Higher Performance, Lower Retention, and Reduced Ownership. https://arxiv.org/abs/2609.21194"
+    resource: "https://doi.org/10.48550/arxiv.2609.21194"
+    title: "Bergh, C., Tag, B., Vassar, A., & Renzella, J. (2026). Your Programming Students'Cognition with ChatGPT: Higher Performance, Lower Retention, and Reduced Ownership. https://arxiv.org/abs/2609.21194 [doi:10.48550/arxiv.2609.21194](https://doi.org/10.48550/arxiv.2609.21194)"
     author: "Bergh, C., Tag, B., Vassar, A., & Renzella, J."
     q: 3
     i: 3
@@ -30,7 +30,7 @@ sources:
 # ChatGPT-assisted students reported substantially lower ownership of their submitted code across self-attributed ownership, psychological ownership, and authorship attribution
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
+> **Evidence** · 2 studies · 2 causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` AI-Assisted students self-attributed a lower percentage of the submitted code as their own (M=44.6 vs M=80.8, Hedges' g = 1.05). [→ Bergh 2026](#bergh-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Bergh 2026
 
-Bergh, C., Tag, B., Vassar, A., & Renzella, J. (2026). Your Programming Students'Cognition with ChatGPT: Higher Performance, Lower Retention, and Reduced Ownership. https://arxiv.org/abs/2609.21194
+Bergh, C., Tag, B., Vassar, A., & Renzella, J. (2026). Your Programming Students'Cognition with ChatGPT: Higher Performance, Lower Retention, and Reduced Ownership. https://arxiv.org/abs/2609.21194 [doi:10.48550/arxiv.2609.21194](https://doi.org/10.48550/arxiv.2609.21194)
 
 `q3 · i3` · `causal · r2`
 

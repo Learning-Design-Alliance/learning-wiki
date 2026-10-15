@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: jaward-sesay-2026
-    resource: "https://arxiv.org/abs/2606.16428"
-    title: "Jaward Sesay, Yue Yu, Siwei Dong, Börje F. Karlsson. (2026). Lect¯uraAgents: A Multi-Agent Framework for Adaptive Personalized AI-Assisted Learning and Embodied Teaching. arXiv. https://arxiv.org/abs/2606.16428"
+    resource: "https://doi.org/10.48550/arxiv.2606.16428"
+    title: "Jaward Sesay, Yue Yu, Siwei Dong, Börje F. Karlsson. (2026). Lect¯uraAgents: A Multi-Agent Framework for Adaptive Personalized AI-Assisted Learning and Embodied Teaching. arXiv. https://arxiv.org/abs/2606.16428 [doi:10.48550/arxiv.2606.16428](https://doi.org/10.48550/arxiv.2606.16428)"
     author: Jaward Sesay, Yue Yu, Siwei Dong, Börje F. Karlsson
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Jaward Sesay 2026
 
-Jaward Sesay, Yue Yu, Siwei Dong, Börje F. Karlsson. (2026). Lect¯uraAgents: A Multi-Agent Framework for Adaptive Personalized AI-Assisted Learning and Embodied Teaching. arXiv. https://arxiv.org/abs/2606.16428
+Jaward Sesay, Yue Yu, Siwei Dong, Börje F. Karlsson. (2026). Lect¯uraAgents: A Multi-Agent Framework for Adaptive Personalized AI-Assisted Learning and Embodied Teaching. arXiv. https://arxiv.org/abs/2606.16428 [doi:10.48550/arxiv.2606.16428](https://doi.org/10.48550/arxiv.2606.16428)
 
 `q2 · i?` · `associational · r1`
 

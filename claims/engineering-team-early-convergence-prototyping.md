@@ -45,4 +45,4 @@ tSSNA time-series observation of one engineering team during a 30-minute wallet 
 ## Related Claims
 - [Engineering, product design, and service design teams differ significantly in shared epistemic agency during collaborative prototyping](design-disciplines-differ-shared-epistemic-agency-prototyping.md) — related
 - [All teams showed divergent-then-convergent idea improvement patterns across prototyping sessions](divergent-convergent-idea-improvement-prototyping.md) — related
-- [Rapid prototyping methods can amplify novice designers' tendency to commit to a solution too early.](rapid-prototyping-can-amplify-novice-designers-premature-commitment-to-solutions.md) — related
+- Rapid prototyping methods can amplify novice designers' tendency to commit to a solution too early. — related

@@ -45,4 +45,4 @@ Retrospective single-item 5-point satisfaction ratings from 12 eighth-grade stud
 ## Related Claims
 - [Middle school students in GenAI-supported STEAM modules predominantly interact for STEAM knowledge/information retrieval, with minimal evaluation and reflection interactions](genai-steam-interactions-dominated-by-information-retrieval.md) — related
 - [Interaction patterns and perceptions differed between mathematics-engineering and mathematics-arts modules despite similar interaction counts](module-differences-genai-math-engineering-vs-arts.md) — related
-- [Participants reported a strong level of agreement and high satisfaction with ideation discussion activities in Design Thinking](high-survey-agreement-ideation-discussion.md) — related
+- Participants reported a strong level of agreement and high satisfaction with ideation discussion activities in Design Thinking — related

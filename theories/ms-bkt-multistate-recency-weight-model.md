@@ -16,7 +16,7 @@ sources:
 # MS-BKT: a multistate knowledge tracing model with data-driven recency weights replacing the learning rate
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 MS-BKT is a knowledge tracing architecture that keeps BKT's HMM structure but makes two changes: the knowledge node expands from 2 to 21 states, and a recency weight parameter R replaces the transition probability p(T), so that "weight increases incrementally by a fixed quantum R for each new attempt" with the optimal value learned from data. Knowledge is updated per state via Bayes' rule and estimated by the MAP mode of the posterior, with parameters fit by Expectation Maximization. The authors position it as retaining BKT's parameter interpretability while balancing recent and historical data.
@@ -36,8 +36,6 @@ MS-BKT is a knowledge tracing architecture that keeps BKT's HMM structure but ma
 - Real-time estimation of student mastery of a skill to drive adaptive learning
 
 ### Claims
-- [Recency Weights Capture Learning And Forgetting From Data](../claims/recency-weights-capture-learning-and-forgetting-from-data.md) [+M]
-- [Ms Bkt Estimates Fluctuate Less Than Bkt](../claims/ms-bkt-estimates-fluctuate-less-than-bkt.md) [+M]
 
 ## Related Theories
 

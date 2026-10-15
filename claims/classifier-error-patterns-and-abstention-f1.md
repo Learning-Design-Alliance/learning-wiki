@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: youssef-medhat-2026
-    resource: "https://arxiv.org/abs/2606.10736"
-    title: "Youssef Medhat, Junsoo Park, Ploy Thajchayapong and Ashok K. Goel. (2026). Detecting Knowledge Gaps from Conversational AI Interactions Using Curriculum Prerequisite Graphs. CSEDM'26: 10th Workshop on Computer Science Educational Data Mining. https://arxiv.org/abs/2606.10736"
+    resource: "https://doi.org/10.48550/arxiv.2606.10736"
+    title: "Youssef Medhat, Junsoo Park, Ploy Thajchayapong and Ashok K. Goel. (2026). Detecting Knowledge Gaps from Conversational AI Interactions Using Curriculum Prerequisite Graphs. CSEDM'26: 10th Workshop on Computer Science Educational Data Mining. https://arxiv.org/abs/2606.10736 [doi:10.48550/arxiv.2606.10736](https://doi.org/10.48550/arxiv.2606.10736)"
     author: Youssef Medhat, Junsoo Park, Ploy Thajchayapong and Ashok K. Goel
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Classifier errors cluster into three interpretable patterns, and the unknown abstention class is well classified (F1 = 0.93), reliably filtering off-topic chat
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
+> **Evidence** · 2 studies · 2 associational `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` The 14 misclassified gold items cluster into surface-keyword traps (7/14), adjacent reasoning topics (5/14), and vague questions or abstention misfires (2/14). [→ Youssef Medhat 2026](#youssef-medhat-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Youssef Medhat 2026
 
-Youssef Medhat, Junsoo Park, Ploy Thajchayapong and Ashok K. Goel. (2026). Detecting Knowledge Gaps from Conversational AI Interactions Using Curriculum Prerequisite Graphs. CSEDM'26: 10th Workshop on Computer Science Educational Data Mining. https://arxiv.org/abs/2606.10736
+Youssef Medhat, Junsoo Park, Ploy Thajchayapong and Ashok K. Goel. (2026). Detecting Knowledge Gaps from Conversational AI Interactions Using Curriculum Prerequisite Graphs. CSEDM'26: 10th Workshop on Computer Science Educational Data Mining. https://arxiv.org/abs/2606.10736 [doi:10.48550/arxiv.2606.10736](https://doi.org/10.48550/arxiv.2606.10736)
 
 `q2 · i?` · `associational · r1`
 

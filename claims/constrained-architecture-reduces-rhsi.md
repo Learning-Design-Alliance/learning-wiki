@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: oluseyi-olukolaa-2026
-    resource: "https://arxiv.org/abs/2604.04237"
-    title: "Oluseyi Olukolaa, Nick Rahimia. (2026). Pedagogical Safety in Educational Reinforcement Learning: Formalizing and Detecting Reward Hacking in AI Tutoring Systems. arXiv. https://arxiv.org/abs/2604.04237"
+    resource: "https://doi.org/10.48550/arxiv.2604.04237"
+    title: "Oluseyi Olukolaa, Nick Rahimia. (2026). Pedagogical Safety in Educational Reinforcement Learning: Formalizing and Detecting Reward Hacking in AI Tutoring Systems. arXiv. https://arxiv.org/abs/2604.04237 [doi:10.48550/arxiv.2604.04237](https://doi.org/10.48550/arxiv.2604.04237)"
     author: Oluseyi Olukolaa, Nick Rahimia
     q: 2
     i: 3
@@ -30,7 +30,7 @@ sources:
 # A constrained architecture combining prerequisite enforcement and a minimum cognitive-demand floor substantially reduces reward hacking, lowering RHSI from 0.317 (MO) to 0.102 (ST)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i3` large
+> **Evidence** · 2 studies · 2 causal `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` SmartTutor Full (ST) achieves a mean per-seed RHSI of 0.095±0.028, significantly lower than EO (d=−1.45) and MO (d=−1.50) at Bonferroni-corrected levels. [→ Oluseyi Olukolaa 2026](#oluseyi-olukolaa-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Oluseyi Olukolaa 2026
 
-Oluseyi Olukolaa, Nick Rahimia. (2026). Pedagogical Safety in Educational Reinforcement Learning: Formalizing and Detecting Reward Hacking in AI Tutoring Systems. arXiv. https://arxiv.org/abs/2604.04237
+Oluseyi Olukolaa, Nick Rahimia. (2026). Pedagogical Safety in Educational Reinforcement Learning: Formalizing and Detecting Reward Hacking in AI Tutoring Systems. arXiv. https://arxiv.org/abs/2604.04237 [doi:10.48550/arxiv.2604.04237](https://doi.org/10.48550/arxiv.2604.04237)
 
 `q2 · i3` · `causal · r2`
 

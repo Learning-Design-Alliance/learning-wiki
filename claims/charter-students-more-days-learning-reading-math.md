@@ -44,7 +44,7 @@ CREDO's National Charter School Study III, a large-scale observational compariso
 
 ## Related Claims
 - [Charter school learning gains have risen across CREDO's three national studies](charter-learning-gains-risen-across-credo-studies.md) — a broader claim this one bears on
-- [Charter attendance in Rhode Island is associated with positive, significant one-year growth gains in reading (0.16 SD) and math (0.15 SD) relative to matched TPS controls](ri-charter-positive-gains-reading-math.md) — related
+- Charter attendance in Rhode Island is associated with positive, significant one-year growth gains in reading (0.16 SD) and math (0.15 SD) relative to matched TPS controls — related
 - [Washington charter students' overall annual reading and math gains do not differ statistically from matched TPS peers](wa-charter-overall-gains-no-significant-difference.md) — reports the opposite
 - [Idaho charter school students show stronger reading growth than matched TPS peers, with no significant difference in math growth](idaho-charter-reading-advantage-math-null.md) — related
 - [CMO-affiliated charter schools outpace traditional public schools in reading and math while stand-alone charters gain in reading only](cmo-schools-advance-reading-math-standalone-reading-only.md) — related

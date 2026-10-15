@@ -46,6 +46,6 @@ Design Principle 2 section, a narrative synthesis, reports that "learning happen
 - [Belonging](../learner-variables/belonging.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [The triadic alienation pattern combines low self esteem, low social interest, and high self centrality](triadic-alienation-pattern-self-other-orientation.md) — related
+- The triadic alienation pattern combines low self esteem, low social interest, and high self centrality — related
 - [Teacher support is one of the strongest predictors of student belonging](teacher-support-predicts-student-belonging.md) — related
 - [Students with belonging, purpose, collaboration, goal-setting, and perseverance skills alongside academic knowledge are more likely to reach their full potential](sel-skills-plus-academics-full-potential.md) — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: digital-promise-global-2019
-    resource: "https://digitalpromise.dspacedirect.org/items/32480546-27ed-4785-8703-bf66b74f6bfd"
-    title: "Digital Promise Global (2019). Learning in the 21st Century: How the American Public, Parents, and Teachers View Students’ Potential and Their Learning Experience. Digital Promise Global: Washington, DC. https://digitalpromise.dspacedirect.org/items/32480546-27ed-4785-8703-bf66b74f6bfd"
+    resource: "https://doi.org/10.51388/20.500.12265/66"
+    title: "Digital Promise Global (2019). Learning in the 21st Century: How the American Public, Parents, and Teachers View Students’ Potential and Their Learning Experience. Digital Promise Global: Washington, DC. https://digitalpromise.dspacedirect.org/items/32480546-27ed-4785-8703-bf66b74f6bfd [doi:10.51388/20.500.12265/66](https://doi.org/10.51388/20.500.12265/66)"
     author: Digital Promise Global
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Digital Promise Global 2019
 
-Digital Promise Global (2019). Learning in the 21st Century: How the American Public, Parents, and Teachers View Students’ Potential and Their Learning Experience. Digital Promise Global: Washington, DC. https://digitalpromise.dspacedirect.org/items/32480546-27ed-4785-8703-bf66b74f6bfd
+Digital Promise Global (2019). Learning in the 21st Century: How the American Public, Parents, and Teachers View Students’ Potential and Their Learning Experience. Digital Promise Global: Washington, DC. https://digitalpromise.dspacedirect.org/items/32480546-27ed-4785-8703-bf66b74f6bfd [doi:10.51388/20.500.12265/66](https://doi.org/10.51388/20.500.12265/66)
 
 `q2 · i?` · `associational · r2`
 
@@ -45,4 +45,4 @@ National online probability-panel survey (Ipsos KnowledgePanel, April 5-16, 2019
 ## Related Claims
 - [Vast majorities prefer tailored instruction over whole group instruction, but only a minority think schools currently do a good job supporting learner variability](tailored-instruction-preferred-schools-fall-short.md) — related
 - [Field testing the Persuasion across Time and Space unit changed teachers' beliefs about ELL students' capabilities](complex-texts-unit-changed-teacher-beliefs.md) — related
-- [Roughly 9 in 10 parents believe their child performs at or above grade level despite national data showing only one-third do](parents-overestimate-grade-level-performance.md) — related
+- Roughly 9 in 10 parents believe their child performs at or above grade level despite national data showing only one-third do — related

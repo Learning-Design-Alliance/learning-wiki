@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: sun-2025
-    resource: "https://arxiv.org/abs/2605.13906"
-    title: "Sun, Y., Xin, H., Li, S., Niu, Q., Chai, C. S., Huang, L., & Chen, G. (2025). Modeling AI-TPACK in Practice: Insights from Teachers' Multi-Agent Workflow Design. https://arxiv.org/abs/2605.13906"
+    resource: "https://doi.org/10.48550/arxiv.2605.13906"
+    title: "Sun, Y., Xin, H., Li, S., Niu, Q., Chai, C. S., Huang, L., & Chen, G. (2025). Modeling AI-TPACK in Practice: Insights from Teachers' Multi-Agent Workflow Design. https://arxiv.org/abs/2605.13906 [doi:10.48550/arxiv.2605.13906](https://doi.org/10.48550/arxiv.2605.13906)"
     author: "Sun, Y., Xin, H., Li, S., Niu, Q., Chai, C. S., Huang, L., & Chen, G."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # AI-TPACK integration quality differs across behavioral clusters: Optimizers achieve cohesive systemic designs, Creators show pragmatic enhancement, Observers show unstable integration
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Evidence** · 2 studies · 2 associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Thematic analysis of 15 design artifacts (5 per cluster) coded with the four AI-TPACK dimensions found integration depth distinguished clusters most clearly. [→ Sun 2025](#sun-2025)
@@ -39,7 +39,7 @@ sources:
 
 ### Sun 2025
 
-Sun, Y., Xin, H., Li, S., Niu, Q., Chai, C. S., Huang, L., & Chen, G. (2025). Modeling AI-TPACK in Practice: Insights from Teachers' Multi-Agent Workflow Design. https://arxiv.org/abs/2605.13906
+Sun, Y., Xin, H., Li, S., Niu, Q., Chai, C. S., Huang, L., & Chen, G. (2025). Modeling AI-TPACK in Practice: Insights from Teachers' Multi-Agent Workflow Design. https://arxiv.org/abs/2605.13906 [doi:10.48550/arxiv.2605.13906](https://doi.org/10.48550/arxiv.2605.13906)
 
 `q2 · i?` · `associational · r1`
 

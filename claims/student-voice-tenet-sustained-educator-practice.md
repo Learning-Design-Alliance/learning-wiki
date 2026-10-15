@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: viki-m-young-2024
-    resource: "https://digitalpromise.dspacedirect.org/items/94695da1-ad96-49e5-b461-b759d617ae25"
-    title: "Viki M. Young, Ph.D. and Alexandra Merritt Johnson, Ph.D. (2024). Sustainability in Inclusive Innovation: District-Community Solutions, Mindsets, and Practices. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.dspacedirect.org/items/94695da1-ad96-49e5-b461-b759d617ae25"
+    resource: "https://doi.org/10.51388/20.500.12265/213"
+    title: "Viki M. Young, Ph.D. and Alexandra Merritt Johnson, Ph.D. (2024). Sustainability in Inclusive Innovation: District-Community Solutions, Mindsets, and Practices. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.dspacedirect.org/items/94695da1-ad96-49e5-b461-b759d617ae25 [doi:10.51388/20.500.12265/213](https://doi.org/10.51388/20.500.12265/213)"
     author: Viki M. Young, Ph.D. and Alexandra Merritt Johnson, Ph.D.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Viki M. Young 2024
 
-Viki M. Young, Ph.D. and Alexandra Merritt Johnson, Ph.D. (2024). Sustainability in Inclusive Innovation: District-Community Solutions, Mindsets, and Practices. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.dspacedirect.org/items/94695da1-ad96-49e5-b461-b759d617ae25
+Viki M. Young, Ph.D. and Alexandra Merritt Johnson, Ph.D. (2024). Sustainability in Inclusive Innovation: District-Community Solutions, Mindsets, and Practices. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.dspacedirect.org/items/94695da1-ad96-49e5-b461-b759d617ae25 [doi:10.51388/20.500.12265/213](https://doi.org/10.51388/20.500.12265/213)
 
 `q2 · i?` · `qualitative · r2`
 
@@ -44,7 +44,7 @@ Thematic coding of spring 2023 interviews and focus groups across the four pilot
 ## Related Claims
 
 - [After the Inclusive Innovation pilots, district-community teams sustained solutions through multi-level buy-in, implementation iteration, embedding in existing systems, and demonstrating benefits](inclusive-innovation-sustainability-factors.md) — the general claim this finding bears on, with the studies behind it
-- [Including educator voice helps researchers understand educator, student, and system needs](educator-voice-needed-research-relevance.md) — related
+- Including educator voice helps researchers understand educator, student, and system needs — related
 - [The article argues the durability of the WSS co-design approach depends on institutionalizing authentic engagement as core practice, not a one-time initiative](wss-sustainability-requires-institutionalization.md) — a broader claim this one bears on
 - [District-community Core Team participants across four pilot districts perceived their co-designed solutions successfully met the team-defined intended outcomes](inclusive-innovation-solutions-perceived-met-outcomes.md) — related
 - [Core Teams identified communication challenges, school and district leadership turnover, and teacher burnout as barriers that influenced solution success](inclusive-innovation-implementation-barriers.md) — related

@@ -44,7 +44,7 @@ Period-by-period analysis of charter versus VCR learning gains across four growt
 
 ## Related Claims
 - [Charter students' math disadvantage is concentrated in the first two growth periods, with performance similar to VCR peers by 2016-2017](pa-charter-math-gap-varies-by-growth-period.md) — reports the opposite
-- [Charter attendance in Rhode Island is associated with positive, significant one-year growth gains in reading (0.16 SD) and math (0.15 SD) relative to matched TPS controls](ri-charter-positive-gains-reading-math.md) — reports the opposite
+- Charter attendance in Rhode Island is associated with positive, significant one-year growth gains in reading (0.16 SD) and math (0.15 SD) relative to matched TPS controls — reports the opposite
 - [South Carolina charter students show similar reading growth but weaker math growth than traditional public school peers, with a math disadvantage of 53 fewer days of learning per year](sc-charter-overall-math-weaker-reading-similar.md) — related
 - [Charter learning gains in each of the three growth periods do not differ statistically from TPS peers](wa-charter-gains-by-growth-period.md) — reports the opposite
 - [About 30 percent of South Carolina charter schools outperform traditional alternatives in reading and 15 percent in math, while 22 percent and 33 percent underperform](sc-charter-school-quality-range-reading-math.md) — related

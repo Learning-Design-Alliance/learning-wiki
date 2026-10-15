@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: yang-2026
-    resource: "https://arxiv.org/abs/2609.10939"
-    title: "Yang, L., Liu, H., Li, S., Jia, R., Xiao, Y., Chen, G., & Lu, L. (2026). Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training. https://arxiv.org/abs/2609.10939"
+    resource: "https://doi.org/10.48550/arxiv.2609.10939"
+    title: "Yang, L., Liu, H., Li, S., Jia, R., Xiao, Y., Chen, G., & Lu, L. (2026). Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training. https://arxiv.org/abs/2609.10939 [doi:10.48550/arxiv.2609.10939](https://doi.org/10.48550/arxiv.2609.10939)"
     author: "Yang, L., Liu, H., Li, S., Jia, R., Xiao, Y., Chen, G., & Lu, L."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Yang 2026
 
-Yang, L., Liu, H., Li, S., Jia, R., Xiao, Y., Chen, G., & Lu, L. (2026). Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training. https://arxiv.org/abs/2609.10939
+Yang, L., Liu, H., Li, S., Jia, R., Xiao, Y., Chen, G., & Lu, L. (2026). Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training. https://arxiv.org/abs/2609.10939 [doi:10.48550/arxiv.2609.10939](https://doi.org/10.48550/arxiv.2609.10939)
 
 `q2 · i?` · `causal · r2`
 

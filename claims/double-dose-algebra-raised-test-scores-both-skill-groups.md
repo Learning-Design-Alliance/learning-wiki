@@ -62,7 +62,7 @@ The same CCSR study reports gains for higher-skill students in single-period cla
 
 
 ## Related Claims
-- [Peer skill levels declined for high-skill students in algebra classrooms after the policy](algebra-for-all-peer-skill-declined-high-skill.md) — related
+- Peer skill levels declined for high-skill students in algebra classrooms after the policy — related
 - [Below-norm students' algebra test scores improved despite having lower-skill peers post-policy, consistent with additional supports offsetting compositional decline](below-norm-scores-improved-despite-lower-peers.md) — a narrower finding that bears on this claim
 - [Double-dose algebra policy increased academic demand for both high- and low-skill students, with below-norm students' gains not attributable to peer ability changes](double-dose-algebra-increased-academic-demand-both-groups.md) — related
 - [Algebra failure rates rose post-policy for above-norm students (~3 percentage points) but fell for below-norm students (~4 points), largely explained by classroom environment and peer ability](double-dose-failure-rates-divergent.md) — related

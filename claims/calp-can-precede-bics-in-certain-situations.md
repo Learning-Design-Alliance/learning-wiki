@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 4 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Attainment of high levels of L2 CALP can precede attainment of fluent L2 BICS in certain situations, so the sequential order was suggested as typical, not absolute. [→ Cummins 1999](#cummins-1999)
@@ -46,4 +47,4 @@ In this opinion paper Cummins clarifies that the sequential nature of BICS/CALP 
 - [BICS and CALP intersect developmentally but are not identical or reducible one to the other](bics-calp-intersect-not-identical.md) — related
 - [Immigrant children acquire peer-appropriate conversational fluency in English within about 2 years but require considerably longer (5-10 years) to catch up academically in English](bics-acquired-faster-than-calc-immigrant-children.md) — related
 - [Assuming conversational fluency indicates English proficiency has led to bilingual children being misdiagnosed as learning disabled or retarded and to premature exit from support programs](conversational-fluency-misleading-proficiency-indicator.md) — related
-- [Surface conversational fluency develops within about two years, but academic proficiency in English takes 5-7 years for immigrant students](academic-proficiency-takes-5-7-years.md) — related
+- Surface conversational fluency develops within about two years, but academic proficiency in English takes 5-7 years for immigrant students — related

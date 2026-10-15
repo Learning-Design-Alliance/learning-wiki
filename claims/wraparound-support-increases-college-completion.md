@@ -41,6 +41,6 @@ In its wraparound supports section, the scan reports, citing MDRC research publi
 
 
 ## Related Claims
-- [Faculty contact relates to retention: part-time instruction lowers odds, interaction frequency raises intent to stay](faculty-contact-part-time-and-interaction-retention.md) — related
-- [Wraparound SES math gains are notable for Hispanic, female, and Title I students](wraparound-ses-subgroup-gains.md) — related
+- Faculty contact relates to retention: part-time instruction lowers odds, interaction frequency raises intent to stay — related
+- Wraparound SES math gains are notable for Hispanic, female, and Title I students — related
 - [Belonging Interventions Improve Outcomes](belonging-interventions-improve-outcomes.md) — related

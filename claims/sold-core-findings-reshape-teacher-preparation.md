@@ -46,5 +46,5 @@ This is the report's own synthesis section ('What the Science Says' framing in t
 
 ## Related Claims
 - [Adverse childhood experiences create toxic stress that impairs attention, learning, and behavior, and school responses can magnify or buffer the harm](aces-toxic-stress-impair-learning.md) — related
-- [Nature and nurture interact dynamically: children's experiences shape their biology as much as biology shapes development](dynamic-nature-nurture-brain-plasticity.md) — possibly the same claim (merge candidate)
-- [Principals' strongest impact on student learning comes through building a positive, measurable, and malleable school climate](principal-impact-through-school-climate.md) — related
+- Nature and nurture interact dynamically: children's experiences shape their biology as much as biology shapes development — possibly the same claim (merge candidate)
+- Principals' strongest impact on student learning comes through building a positive, measurable, and malleable school climate — related

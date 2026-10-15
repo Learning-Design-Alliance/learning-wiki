@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: laura-b-alvarado-cruz-2026
-    resource: "https://arxiv.org/abs/2609.19400"
-    title: "Laura B. Alvarado-Cruz, Josep Ll. Suñer, Pedro Yuste, Juan C. Castro-Palacio, Juan A. Monsoriu, and Francisco M. Muñoz-Pérez. (2026). From Prompts to Physical Laws: A Generative AI Workflow for Engineering Physics Education. https://arxiv.org/abs/2609.19400"
+    resource: "https://doi.org/10.48550/arxiv.2609.19400"
+    title: "Laura B. Alvarado-Cruz, Josep Ll. Suñer, Pedro Yuste, Juan C. Castro-Palacio, Juan A. Monsoriu, and Francisco M. Muñoz-Pérez. (2026). From Prompts to Physical Laws: A Generative AI Workflow for Engineering Physics Education. https://arxiv.org/abs/2609.19400 [doi:10.48550/arxiv.2609.19400](https://doi.org/10.48550/arxiv.2609.19400)"
     author: Laura B. Alvarado-Cruz, Josep Ll. Suñer, Pedro Yuste, Juan C. Castro-Palacio, Juan A. Monsoriu, and Francisco M. Muñoz-Pérez
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Laura B. Alvarado-Cruz 2026
 
-Laura B. Alvarado-Cruz, Josep Ll. Suñer, Pedro Yuste, Juan C. Castro-Palacio, Juan A. Monsoriu, and Francisco M. Muñoz-Pérez. (2026). From Prompts to Physical Laws: A Generative AI Workflow for Engineering Physics Education. https://arxiv.org/abs/2609.19400
+Laura B. Alvarado-Cruz, Josep Ll. Suñer, Pedro Yuste, Juan C. Castro-Palacio, Juan A. Monsoriu, and Francisco M. Muñoz-Pérez. (2026). From Prompts to Physical Laws: A Generative AI Workflow for Engineering Physics Education. https://arxiv.org/abs/2609.19400 [doi:10.48550/arxiv.2609.19400](https://doi.org/10.48550/arxiv.2609.19400)
 
 `q2 · i?` · `design · r2`
 

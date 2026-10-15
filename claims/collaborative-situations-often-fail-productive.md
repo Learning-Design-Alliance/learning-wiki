@@ -57,7 +57,7 @@ The presentation's grand-challenge slide states that "collaborative situations o
 | [Elisabet Pladevall-Ballester 2020](https://doi.org/10.14746/ssllt.2020.10.3.3) | q3 · associational · r2 | i? | [Mixed proficiency dyads negotiate for meaning more than matched proficiency dyads, irrespe](mixed-dyads-negotiate-more-than-matched.md) (qualifies) |
 | [stereotype-threat](https://doi.org/10.51388/20.500.12265/253) | q1 · review · r1 | i? | [Stereotype threat in collaborative contexts can interfere with working memory and reduce m](stereotype-threat-undermines-collaborative-contribution.md) (supports); [Belonging is a prerequisite for effective collaborative learning, not merely a positive ou](belonging-prerequisite-for-collaborative-learning.md) (qualifies) |
 | Ediger 1995 | q1 · theoretical · r1 | i? | [Cooperative learning has drawbacks including slow learners depending on fast achievers, so](cooperative-learning-versus-individual-endeavors.md) (supports); [Homogeneous grouping for reading instruction and heterogeneous grouping for discussion gro](mixed-homogeneous-heterogeneous-grouping.md) (qualifies) |
-| Means 2020 | q2 · associational · r2 | i? | [Students most often rated collaboration opportunities, content interest, and class belongi](collaboration-interest-belonging-worse-online.md) (supports) |
+| [Means 2020](https://doi.org/10.51388/20.500.12265/102) | q2 · associational · r2 | i? | [Students most often rated collaboration opportunities, content interest, and class belongi](collaboration-interest-belonging-worse-online.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -65,6 +65,6 @@ The presentation's grand-challenge slide states that "collaborative situations o
 
 ## Related Claims
 - [Groups of high-performing students often fail problem-solving tasks when they do not collaborate, showing why collaborative skills need assessment and feedback](high-performing-groups-fail-without-collaboration.md) — related
-- [Past peer-collaboration school improvement initiatives repeatedly failed, and Joyce attributes failures to poor documentation, exclusive focus on student learning, and unclear leadership](past-peer-collaboration-initiatives-failed.md) — related
+- Past peer-collaboration school improvement initiatives repeatedly failed, and Joyce attributes failures to poor documentation, exclusive focus on student learning, and unclear leadership — related
 - [Collaborative tasks should be complex enough that joint effort is worthwhile, engaging the collective working memory effect](collective-working-memory-effect-task-complexity.md) — related
 - [Productive failure students significantly outperformed lecture-practice and facilitated complex problem solving students on well-structured and higher-order application post-test problems](pf-outperformed-lp-fcps-post-test-problems.md) — related

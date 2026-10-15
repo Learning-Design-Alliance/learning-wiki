@@ -48,7 +48,7 @@ Kindergarten follow-up tables (Appendices A4.1–A4.3) print effect sizes from �
 - [Ready, Set, Leap!® shows no discernible effects on oral language, print knowledge, phonological processing, early reading/writing, or math in preschoolers](ready-set-leap-no-discernible-effects-preschool.md) — related
 - [Ready, Set, Leap!® has no significant effect on preschool oral language (domain average effect size 0.02)](ready-set-leap-null-oral-language.md) — related
 - [Ready, Set, Leap!® has no significant effect on preschool print knowledge (domain average effect size 0.06)](ready-set-leap-null-print-knowledge.md) — related
-- [Fueling Brains pre-kindergarten gains persist to end of kindergarten on six of seven TX-KEA literacy and math subtests](fueling-brains-gains-persist-kindergarten.md) — related
-- [REDI effects largely fade by end of kindergarten, with significant positive effects only on TOWRE Phonetic Decoding Efficiency](redi-kindergarten-followup-faded-effects.md) — related
+- Fueling Brains pre-kindergarten gains persist to end of kindergarten on six of seven TX-KEA literacy and math subtests — related
+- REDI effects largely fade by end of kindergarten, with significant positive effects only on TOWRE Phonetic Decoding Efficiency — related
 - [A WWC expert panel distilled recent research into seven recommendations for preschool educators on preparing young children for school](wwc-seven-recommendations-preschool-school-readiness.md) — related
 - [Children who attend pre-kindergarten are more ready for kindergarten at the end of their pre-k year than children who do not attend](prek-attendance-kindergarten-readiness.md) — related

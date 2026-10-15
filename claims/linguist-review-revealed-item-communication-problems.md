@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Comments on the 150 first-edition statements revealed two main communication problems: non-uniform use of terms such as grammar, accepted, standard and nonstandard, and attitude statements that are not precisely reasoned, such as incomplete comparisons. [→ Frogner 1969](#frogner-1969)

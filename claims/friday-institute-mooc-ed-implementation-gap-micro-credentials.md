@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Aligning micro-credential stacks to the three core units of the Learning Differences MOOC-Ed provided scaffolded support that helped hundreds of educators transfer PD content into classroom practice at scale. [→ Micro-credentials: Igniting Impact in the Ecosystem 2016](#micro-credentials-igniting-impact-in-the-ecosystem-2016)
@@ -43,7 +44,7 @@ Case study of the Friday Institute, an issuer. It scaled content access through 
 
 
 ## Related Claims
-- [Micro-credential reflections push educators toward metacognition and self-evaluation](micro-credential-reflections-metacognition.md) — related
-- [MTLC developed the 11-credential Global Graduates stack to support personalized learning in Houston ISD's one-to-one PowerUp environment](mtlc-global-graduates-stack-hisd.md) — related
+- Micro-credential reflections push educators toward metacognition and self-evaluation — related
+- MTLC developed the 11-credential Global Graduates stack to support personalized learning in Houston ISD's one-to-one PowerUp environment — related
 - [Micro-credentials incorporate prominent features of effective professional development: they are content-focused, job-embedded, and incorporate active learning](micro-credentials-features-of-effective-professional-development.md) — a broader claim this one bears on
-- [Learners in competency-based university programs reportedly scored higher on licensing exams, and micro-credentials integrate into MOOCs and flexible credit pathways](higher-ed-micro-credential-outcomes.md) — related
+- Learners in competency-based university programs reportedly scored higher on licensing exams, and micro-credentials integrate into MOOCs and flexible credit pathways — related

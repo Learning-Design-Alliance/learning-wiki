@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` For all English Learner groups, the combination of GPA with test scores best predicted which students eventually attained a college degree. [→ Allensworth 2025](#allensworth-2025)
@@ -65,7 +66,7 @@ A footnote to the degree-prediction finding cautions that the test-score relatio
 - [SAT scores underpredict the academic performance of high school girls, who average lower scores than boys despite higher grades](sat-underpredicts-girls-performance.md) — the general claim this finding bears on, with the studies behind it
 - [Combining GPA or course failure rates with attendance provides the best prediction of high school graduation for most EL groups, while GPA plus test scores best predicts college degree attainment](indicator-combinations-best-prediction-el.md) — a broader claim this one bears on
 - [Ninth grade GPAs are the single most predictive indicator of high school graduation, college enrollment, and degree completion for all English Learner groups](gpa-most-predictive-attainment-english-learners.md) — related
-- [Combining GPA with attendance, or course failure rates with attendance, gives the best prediction of high school graduation for most English Learner groups but not long-term English Learners with IEPs](gpa-attendance-combination-best-graduation-prediction-el.md) — related
+- Combining GPA with attendance, or course failure rates with attendance, gives the best prediction of high school graduation for most English Learner groups but not long-term English Learners with IEPs — related
 - [Contextualized high school GPA had a stronger relationship with college success than contextualized standardized test scores (Bastedo et al., attributed)](contextualized-gpa-stronger-than-contextualized-test-scores.md) — related
 - [Course grades and GPA predict high school and college outcomes better than standardized test scores or coursework](grades-better-predictor-than-test-scores.md) — related
 - [Adding ACT scores to models with HSGPA does not improve prediction of college graduation or reduce between-school variability](act-adds-little-beyond-hsgpa.md) — reports the opposite

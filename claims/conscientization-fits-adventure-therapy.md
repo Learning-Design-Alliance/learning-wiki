@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 4 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` The paper argues that Freire's conscientization, involving problem-posing dialogue toward awareness of self-in-system, is relevant to adventure programs because it fits experiential learning and group processing methodology. [→ Hyde-Hills 1998](#hyde-hills-1998)
@@ -45,4 +46,4 @@ Theoretical argument in an opinion paper: the author asserts that conscientizati
 ## Related Claims
 - [Adventure programs can be designed to teach participants a transferable empowerment process, not only deliver an intervention](adventure-programs-teach-empowerment-process.md) — related
 - [Critics argue experiential learning's weaknesses lie in the reflective observation phase; the authors counter that trainers can develop observation skills](critics-weak-reflective-observation-phase.md) — related
-- [CHAT references are noticeably absent from commonly cited CSL literature despite shared commitments with Dewey and Freire](chat-absent-from-csl-literature.md) — related
+- CHAT references are noticeably absent from commonly cited CSL literature despite shared commitments with Dewey and Freire — related

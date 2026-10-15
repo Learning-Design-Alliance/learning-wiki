@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: madeleine-eastwood-2026
-    resource: "https://arxiv.org/abs/2609.29995"
-    title: "Madeleine Eastwood, Harshith Narne, Joseph Hilby, Paul Denny, Ashish Aggarwal, and Amanpreet Kapoor. (2026). Guardrails or Roadblocks? Effects of Pedagogical Style and Context Awareness in AI Teaching Assistants for Programming. https://arxiv.org/abs/2609.29995"
+    resource: "https://doi.org/10.48550/arxiv.2609.29995"
+    title: "Madeleine Eastwood, Harshith Narne, Joseph Hilby, Paul Denny, Ashish Aggarwal, and Amanpreet Kapoor. (2026). Guardrails or Roadblocks? Effects of Pedagogical Style and Context Awareness in AI Teaching Assistants for Programming. https://arxiv.org/abs/2609.29995 [doi:10.48550/arxiv.2609.29995](https://doi.org/10.48550/arxiv.2609.29995)"
     author: Madeleine Eastwood, Harshith Narne, Joseph Hilby, Paul Denny, Ashish Aggarwal, and Amanpreet Kapoor
     q: 3
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # 15% of students used an external LLM, with the highest descriptive rate in the Socratic + Full Context condition, mainly citing inadequate guidance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Evidence** · 2 studies · 2 causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Overall 15% of students (20 of 132) reported using another LLM or chatbot; rates differed descriptively but not significantly across conditions, with Socratic + Full Context highest at 23% (7 of 30). [→ Madeleine Eastwood 2026](#madeleine-eastwood-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Madeleine Eastwood 2026
 
-Madeleine Eastwood, Harshith Narne, Joseph Hilby, Paul Denny, Ashish Aggarwal, and Amanpreet Kapoor. (2026). Guardrails or Roadblocks? Effects of Pedagogical Style and Context Awareness in AI Teaching Assistants for Programming. https://arxiv.org/abs/2609.29995
+Madeleine Eastwood, Harshith Narne, Joseph Hilby, Paul Denny, Ashish Aggarwal, and Amanpreet Kapoor. (2026). Guardrails or Roadblocks? Effects of Pedagogical Style and Context Awareness in AI Teaching Assistants for Programming. https://arxiv.org/abs/2609.29995 [doi:10.48550/arxiv.2609.29995](https://doi.org/10.48550/arxiv.2609.29995)
 
 `q3 · i?` · `causal · r2`
 

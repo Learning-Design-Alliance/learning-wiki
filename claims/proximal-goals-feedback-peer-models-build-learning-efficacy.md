@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 5 design pages cite it; treat it as a lead to check, not an established finding.
 <!-- deprecated title (2026-10-05, overstated its evidence): Proximal goals, ability attributional feedback, and peer models raise self-efficacy for learning more than distant goals, effort feedback, and teacher models -->
 
 ## Subclaims
@@ -66,9 +67,9 @@ Both entries come from one narrative review (Schunk 1996), which reports the fin
 ## Related Claims
 
 - [Process goals lead to better skill acquisition for novices than outcome goals.](process-goals-outperform-outcome-goals-for-novices.md) — the general claim this finding bears on, with the studies behind it
-- [Learning goals and self-evaluation raise task orientation and lower ego orientation, and self-efficacy correlates positively with task orientation](learning-goals-raise-task-orientation.md) — related
+- Learning goals and self-evaluation raise task orientation and lower ego orientation, and self-efficacy correlates positively with task orientation — related
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — a broader claim this one bears on
 - [Goal setting improves performance](goal-setting-improves-performance.md) — related
 - [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](feedback-praise-reduces-learning.md) — related
 - [Specific, difficult goals lead to higher performance than easy or vague \"do your best\" goals.](specific-difficult-goals-lead-to-higher-performance.md) — related
-- [Teacher self-efficacy is associated with student achievement and with implementing new practices](teacher-self-efficacy-achievement-and-implementation.md) — related
+- Teacher self-efficacy is associated with student achievement and with implementing new practices — related

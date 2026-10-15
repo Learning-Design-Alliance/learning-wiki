@@ -46,7 +46,7 @@ Descriptive year-to-year comparison of school-level chronic absenteeism rates fo
 - [Schools in which chronic absenteeism decreased implemented phone calls, mentorship programs, and text messaging with moderate or high fidelity more frequently than schools in which it increased](decreased-absenteeism-schools-fidelity-phone-mentorship-texting.md) — related
 - [During 2018/19, attendance-related text messaging increased more quickly in schools where chronic absenteeism decreased than in schools where it increased, where use remained flat](texting-increased-faster-in-decreased-absenteeism-schools.md) — related
 - [Secondary schools, especially those with higher chronic absenteeism rates, used attendance-related text messaging more than elementary schools, suggesting use was better predicted by grade configuration than by absenteeism rates](secondary-schools-more-attendance-texting-grade-configuration.md) — related
-- [ATI-UP increases average daily attendance in elementary schools after one semester (effect size +0.19)](ati-up-increases-average-daily-attendance.md) — related
-- [EWIMS significantly reduces chronic absenteeism among grade 9 and 10 students after one year of implementation](ewims-reduces-chronic-absenteeism.md) — related
-- [Mailing parents personalized Absence Reports significantly reduced absences among at-risk students in a Philadelphia randomized evaluation (ES=+0.19)](absence-reports-philadelphia-rct-es-019.md) — related
-- [ATI-UP reduces chronic absenteeism after one semester with a small effect size (+0.08)](ati-up-reduces-chronic-absenteeism.md) — related
+- ATI-UP increases average daily attendance in elementary schools after one semester (effect size +0.19) — related
+- EWIMS significantly reduces chronic absenteeism among grade 9 and 10 students after one year of implementation — related
+- Mailing parents personalized Absence Reports significantly reduced absences among at-risk students in a Philadelphia randomized evaluation (ES=+0.19) — related
+- ATI-UP reduces chronic absenteeism after one semester with a small effect size (+0.08) — related

@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2` · `i1` small
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` In the CNMCC Breaking Through Construction Apprenticeship Program, almost 10 percent of students from the first two cohorts had entered a formal apprenticeship, with others still enrolled in coursework toward certificates and degrees. [→ Hyslop 2008](#hyslop-2008)
@@ -44,6 +45,6 @@ Program-leader report on outcomes of the first two cohorts of the CNMCC Breaking
 ## Related Claims
 
 - [An adult-education market report asserts, quoting earlier research it does not detail, that adult training yields better results the more closely it relates to a real job or occupation](employer-relevant-training-improves-adult-outcomes.md) — the general claim this finding bears on, with the studies behind it
-- [HackerRank test scores and prior coding experience are significantly associated with increased odds of persistence across both the coursework and apprenticeship phases of the LC101 program](test-scores-prior-coding-experience-predict-lc101-persistence.md) — related
-- [Educational attainment is not significantly associated with persistence in either the coursework or apprenticeship phase of the LC101 program](educational-attainment-not-associated-lc101-persistence.md) — related
+- HackerRank test scores and prior coding experience are significantly associated with increased odds of persistence across both the coursework and apprenticeship phases of the LC101 program — related
+- Educational attainment is not significantly associated with persistence in either the coursework or apprenticeship phase of the LC101 program — related
 - [Bundling multiple interventions is associated with relatively strong effects on developmental students' outcomes](bundling-interventions-stronger-effects.md) — related

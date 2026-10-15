@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r?` · `q2` · `i2` medium
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i2` With degree of original learning controlled across levels of elaborative processing, elaborative processing showed a powerful effect on retrieval, accounting for roughly 30% of the variance in one-month recall of propositions. [→ Gagne 1981](#gagne-1981)

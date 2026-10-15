@@ -10,6 +10,7 @@ generated:
 evidence_strength: moderate
 sources:
   - id: followup-funnel
+    resource: "https://doi.org/10.48550/arxiv.2607.01692"
     title: followup-funnel
     q: 2
     i: "?"
@@ -29,7 +30,7 @@ sources:
 
 ### followup-funnel
 
-Harry Feng, Yuan Tian, and Erica Zhao. 2026. From Answer Generators to Reasoning Facilitators: Designing AI Tutors for Mathematical Reasoning in High-Stakes Environments. https://arxiv.org/abs/2607.01692
+Harry Feng, Yuan Tian, and Erica Zhao. 2026. From Answer Generators to Reasoning Facilitators: Designing AI Tutors for Mathematical Reasoning in High-Stakes Environments. https://arxiv.org/abs/2607.01692 [doi:10.48550/arxiv.2607.01692](https://doi.org/10.48550/arxiv.2607.01692)
 
 `q2 · i?` · `design · r3`
 

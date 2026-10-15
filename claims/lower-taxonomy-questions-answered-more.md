@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: bates-2013
-    resource: "https://arxiv.org/abs/1308.2202"
-    title: "Bates, S. P., Galloway, R. K., Riise, J., and Homer, D. (2013). Assessing the quality of a student-generated question repository. https://arxiv.org/abs/1308.2202"
+    resource: "https://doi.org/10.48550/arxiv.1308.2202"
+    title: "Bates, S. P., Galloway, R. K., Riise, J., and Homer, D. (2013). Assessing the quality of a student-generated question repository. https://arxiv.org/abs/1308.2202 [doi:10.48550/arxiv.1308.2202](https://doi.org/10.48550/arxiv.1308.2202)"
     author: Bates, S. P., Galloway, R. K., Riise, J., and Homer, D.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Bates 2013
 
-Bates, S. P., Galloway, R. K., Riise, J., and Homer, D. (2013). Assessing the quality of a student-generated question repository. https://arxiv.org/abs/1308.2202
+Bates, S. P., Galloway, R. K., Riise, J., and Homer, D. (2013). Assessing the quality of a student-generated question repository. https://arxiv.org/abs/1308.2202 [doi:10.48550/arxiv.1308.2202](https://doi.org/10.48550/arxiv.1308.2202)
 
 `q2 · i? · the article prints no effect size for this finding` · `associational · r1`
 

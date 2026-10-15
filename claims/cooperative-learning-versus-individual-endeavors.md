@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` The essay argues slow learners may come to depend upon fast achievers doing most of the work in cooperative learning, and proposes stressing both cooperative and individual work during the school day. [→ Ediger 1995](#ediger-1995)
@@ -44,7 +45,7 @@ An opinion essay citing the Dunns' view that working individually may be a recom
 ## Related Claims
 
 - [Collaborative situations often fail to be productive in practice, so orchestrating collaboration is not simple](collaborative-situations-often-fail-productive.md) — the general claim this finding bears on, with the studies behind it
-- [PjBL assessment research should evaluate outcomes across all four quadrants, not only Flexible-Cooperative designs](assess-pjbl-outcomes-across-quadrants.md) — related
+- PjBL assessment research should evaluate outcomes across all four quadrants, not only Flexible-Cooperative designs — related
 - [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](cooperative-learning-group-rewards-and-individual-accountability.md) — a narrower finding that bears on this claim
 - [Homogeneous grouping for reading instruction and heterogeneous grouping for discussion groups each serve distinct purposes](mixed-homogeneous-heterogeneous-grouping.md) — related
 - [Heterogeneously grouped teams show more benefits than homogeneously formed teams](heterogeneous-teams-more-benefits-than-homogeneous.md) — related

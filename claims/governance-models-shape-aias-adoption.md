@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: perkins-2026
-    resource: "https://arxiv.org/abs/2606.26729"
-    title: "Perkins, M., Postma, D., Roe, J., Sisay, S., & Holdcroft, C. (2026). 'A bit of chaos and madness': The AI Assessment Scale and the work of assessment reform. Preprint. https://arxiv.org/abs/2606.26729"
+    resource: "https://doi.org/10.48550/arxiv.2606.26729"
+    title: "Perkins, M., Postma, D., Roe, J., Sisay, S., & Holdcroft, C. (2026). 'A bit of chaos and madness': The AI Assessment Scale and the work of assessment reform. Preprint. https://arxiv.org/abs/2606.26729 [doi:10.48550/arxiv.2606.26729](https://doi.org/10.48550/arxiv.2606.26729)"
     author: "Perkins, M., Postma, D., Roe, J., Sisay, S., & Holdcroft, C."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Perkins 2026
 
-Perkins, M., Postma, D., Roe, J., Sisay, S., & Holdcroft, C. (2026). 'A bit of chaos and madness': The AI Assessment Scale and the work of assessment reform. Preprint. https://arxiv.org/abs/2606.26729
+Perkins, M., Postma, D., Roe, J., Sisay, S., & Holdcroft, C. (2026). 'A bit of chaos and madness': The AI Assessment Scale and the work of assessment reform. Preprint. https://arxiv.org/abs/2606.26729 [doi:10.48550/arxiv.2606.26729](https://doi.org/10.48550/arxiv.2606.26729)
 
 `q2 · i?` · `qualitative · r3`
 
@@ -47,7 +47,7 @@ Theme 4 of the thematic analysis comparing the two sites. At the Vietnamese site
 - [Unclear policy, workload pressure, and lack of mechanisms to monitor student AI use undermined staff confidence and perceived fairness during AIAS implementation](aias-implementation-facilitating-conditions.md) — related
 - [Academic staff experienced the AIAS as a shared language that legitimised GenAI use in teaching and assessment](aias-shared-language-legitimises-genai-use.md) — related
 - [Governance structures that exclude faculty and support staff responsible for implementation produce policies that do not stick](exclusive-governance-produces-ignored-policies.md) — a broader claim this one bears on
-- [National examinations are the most powerful governance lever for AI literacy outcomes, as Poland's exam-driven Python pivot shows](exam-washback-drives-language-policy.md) — related
+- National examinations are the most powerful governance lever for AI literacy outcomes, as Poland's exam-driven Python pivot shows — related
 - [Multi-institutional case study analysis of five Australian higher education institutions revealed a lack of governance-level information on student assessment and integrity](case-study-reveals-lack-assessment-integrity-information.md) — related
 - [The tool's effect differs by timing: early AI acts as a momentum starter, later AI as a deepener raising narrative transportation](ai-scaffolding-effect-depends-on-workflow-timing.md) — related
 - [Universities remaining at early AI-adoption stages risk reactive policies, fragmented practice, and misalignment between assessment and real-world practice](early-stage-ai-adoption-risks.md) — related

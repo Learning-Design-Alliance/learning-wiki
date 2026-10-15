@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r2`–`r3` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 5 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` In the distributed cognition literature, Salomon distinguishes effects with the computer, the efficacy of the person-plus-computer system, from effects of the computer, the cognitive residue left on the person operating alone. [→ Gilbert 1999](#gilbert-1999)
@@ -61,5 +62,5 @@ The paper reports Pea's critique of Salomon's analytic/systemic evaluation crite
 
 
 ## Related Claims
-- [Salomon and Perkins distinguish learning with a tool from learning of a tool, with tools triggering cognitive transformations](salomon-perkins-learning-with-versus-of-tools.md) — related
+- Salomon and Perkins distinguish learning with a tool from learning of a tool, with tools triggering cognitive transformations — related
 - [A tool's effectiveness results from the whole configuration of events, activities, and contexts in which it is used](tool-effectiveness-depends-on-context-configuration.md) — related

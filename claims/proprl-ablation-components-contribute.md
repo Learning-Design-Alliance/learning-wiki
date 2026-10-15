@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: xinghe-cheng-2026
-    resource: "https://arxiv.org/abs/2608.03006"
-    title: "Xinghe Cheng, Jiapu Wang, Chaobo He, Ruihai Dong, Quanlong Guan. (2026). ProPRL: Property-Aware Prerequisite Relation Learning in Educational Knowledge Graphs. arXiv preprint. https://arxiv.org/abs/2608.03006"
+    resource: "https://doi.org/10.48550/arxiv.2608.03006"
+    title: "Xinghe Cheng, Jiapu Wang, Chaobo He, Ruihai Dong, Quanlong Guan. (2026). ProPRL: Property-Aware Prerequisite Relation Learning in Educational Knowledge Graphs. arXiv preprint. https://arxiv.org/abs/2608.03006 [doi:10.48550/arxiv.2608.03006](https://doi.org/10.48550/arxiv.2608.03006)"
     author: Xinghe Cheng, Jiapu Wang, Chaobo He, Ruihai Dong, Quanlong Guan
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Xinghe Cheng 2026
 
-Xinghe Cheng, Jiapu Wang, Chaobo He, Ruihai Dong, Quanlong Guan. (2026). ProPRL: Property-Aware Prerequisite Relation Learning in Educational Knowledge Graphs. arXiv preprint. https://arxiv.org/abs/2608.03006
+Xinghe Cheng, Jiapu Wang, Chaobo He, Ruihai Dong, Quanlong Guan. (2026). ProPRL: Property-Aware Prerequisite Relation Learning in Educational Knowledge Graphs. arXiv preprint. https://arxiv.org/abs/2608.03006 [doi:10.48550/arxiv.2608.03006](https://doi.org/10.48550/arxiv.2608.03006)
 
 `q2 · i?` · `causal · r1`
 
@@ -45,4 +45,4 @@ Ablation study (Table 2, F1-score) on UCD, LectureBank, and MOOC. Multi-hop prop
 ## Related Claims
 - [ProPRL is sensitive to learning rate but comparatively insensitive to its structural hyperparameters, with propagation depth around 5 capturing most multi-hop benefit](proprl-hyperparameter-sensitivity.md) — related
 - [ProPRL ranks first across all nine dataset–metric combinations on three prerequisite relation benchmarks, with relative improvements from 1.96% to 6.11% over the strongest baseline](proprl-state-of-the-art-prerequisite-relation-learning.md) — related
-- [Removing any single REC-CBM component degrades task accuracy on at least two of three datasets, with RACE removal most damaging](rec-cbm-ablation-components-complementary.md) — related
+- Removing any single REC-CBM component degrades task accuracy on at least two of three datasets, with RACE removal most damaging — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: christopher-ormerod-and-youngkoung-kim-2026
-    resource: "https://arxiv.org/abs/2608.10154"
-    title: "Christopher Ormerod and YoungKoung Kim. (2026). Multimodal Item Parameter Estimation using Simulated Response Probabilities. https://arxiv.org/abs/2608.10154"
+    resource: "https://doi.org/10.48550/arxiv.2608.10154"
+    title: "Christopher Ormerod and YoungKoung Kim. (2026). Multimodal Item Parameter Estimation using Simulated Response Probabilities. https://arxiv.org/abs/2608.10154 [doi:10.48550/arxiv.2608.10154](https://doi.org/10.48550/arxiv.2608.10154)"
     author: Christopher Ormerod and YoungKoung Kim
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Christopher Ormerod and YoungKoung Kim 2026
 
-Christopher Ormerod and YoungKoung Kim. (2026). Multimodal Item Parameter Estimation using Simulated Response Probabilities. https://arxiv.org/abs/2608.10154
+Christopher Ormerod and YoungKoung Kim. (2026). Multimodal Item Parameter Estimation using Simulated Response Probabilities. https://arxiv.org/abs/2608.10154 [doi:10.48550/arxiv.2608.10154](https://doi.org/10.48550/arxiv.2608.10154)
 
 `q2 · i?` · `design · r2`
 

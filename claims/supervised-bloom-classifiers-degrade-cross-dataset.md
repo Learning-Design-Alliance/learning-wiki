@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: abdolali-faraji-2026
-    resource: "https://arxiv.org/abs/2606.13684"
-    title: "Abdolali Faraji, Mohammadreza Molavi, Zohreh Rasoulkhani, Mohammadreza Tavakoli, and Gábor Kismihók. (2026). Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs. https://arxiv.org/abs/2606.13684"
+    resource: "https://doi.org/10.48550/arxiv.2606.13684"
+    title: "Abdolali Faraji, Mohammadreza Molavi, Zohreh Rasoulkhani, Mohammadreza Tavakoli, and Gábor Kismihók. (2026). Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs. https://arxiv.org/abs/2606.13684 [doi:10.48550/arxiv.2606.13684](https://doi.org/10.48550/arxiv.2606.13684)"
     author: Abdolali Faraji, Mohammadreza Molavi, Zohreh Rasoulkhani, Mohammadreza Tavakoli, and Gábor Kismihók
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Supervised ML/DL Bloom question classifiers trained on one dataset drop substantially in weighted F1 when tested on unseen datasets
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Evidence** · 2 studies · 1 causal `r2`, 1 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` TFPOSIDF+SVM cross-dataset weighted F1 drops by an average of 0.25 relative to within-dataset test scores. [→ Abdolali Faraji 2026](#abdolali-faraji-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Abdolali Faraji 2026
 
-Abdolali Faraji, Mohammadreza Molavi, Zohreh Rasoulkhani, Mohammadreza Tavakoli, and Gábor Kismihók. (2026). Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs. https://arxiv.org/abs/2606.13684
+Abdolali Faraji, Mohammadreza Molavi, Zohreh Rasoulkhani, Mohammadreza Tavakoli, and Gábor Kismihók. (2026). Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs. https://arxiv.org/abs/2606.13684 [doi:10.48550/arxiv.2606.13684](https://doi.org/10.48550/arxiv.2606.13684)
 
 `q2 · i?` · `causal · r2`
 

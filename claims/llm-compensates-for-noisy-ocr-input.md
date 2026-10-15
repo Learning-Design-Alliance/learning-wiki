@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: patel-2025
-    resource: "https://arxiv.org/abs/2509.02998"
-    title: "Patel, K., Lin, Y.-Z., Raul, G., Shih, B. P.-J., Redondo, M. W., Latibari, B. S., Pacheco, J., Salehi, S., & Satam, P. (2025). Integrating Generative AI into Cybersecurity Education: A Study of OCR and Multimodal LLM-assisted Instruction. arXiv. https://arxiv.org/abs/2509.02998"
+    resource: "https://doi.org/10.48550/arxiv.2509.02998"
+    title: "Patel, K., Lin, Y.-Z., Raul, G., Shih, B. P.-J., Redondo, M. W., Latibari, B. S., Pacheco, J., Salehi, S., & Satam, P. (2025). Integrating Generative AI into Cybersecurity Education: A Study of OCR and Multimodal LLM-assisted Instruction. arXiv. https://arxiv.org/abs/2509.02998 [doi:10.48550/arxiv.2509.02998](https://doi.org/10.48550/arxiv.2509.02998)"
     author: "Patel, K., Lin, Y.-Z., Raul, G., Shih, B. P.-J., Redondo, M. W., Latibari, B. S., Pacheco, J., Salehi, S., & Satam, P."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # The text-based LLM compensates for noisy OCR input, generating contextually accurate explanations even when OCR produces jumbled text from UI screenshots
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Despite OCR producing jumbled or noisy text from UI screenshots, the text-based LLM still generated contextually accurate and helpful explanations comparable to the image-based LLM's output. [→ Patel 2025](#patel-2025)
@@ -40,7 +40,7 @@ sources:
 
 ### Patel 2025
 
-Patel, K., Lin, Y.-Z., Raul, G., Shih, B. P.-J., Redondo, M. W., Latibari, B. S., Pacheco, J., Salehi, S., & Satam, P. (2025). Integrating Generative AI into Cybersecurity Education: A Study of OCR and Multimodal LLM-assisted Instruction. arXiv. https://arxiv.org/abs/2509.02998
+Patel, K., Lin, Y.-Z., Raul, G., Shih, B. P.-J., Redondo, M. W., Latibari, B. S., Pacheco, J., Salehi, S., & Satam, P. (2025). Integrating Generative AI into Cybersecurity Education: A Study of OCR and Multimodal LLM-assisted Instruction. arXiv. https://arxiv.org/abs/2509.02998 [doi:10.48550/arxiv.2509.02998](https://doi.org/10.48550/arxiv.2509.02998)
 
 `q2 · i?` · `design · r2`
 

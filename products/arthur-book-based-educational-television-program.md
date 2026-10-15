@@ -18,7 +18,7 @@ sources:
 # Arthur book-based educational television program
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 6 claims (5 for, 1 against) · 2 studies (1 causal, 1 review), `q2`–`q3` · 1 of 2 report an effect size · 6 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 against) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 Arthur is a PBS Kids educational television programme based on Marc Brown’s storybooks, produced and distributed for young children through PBS stations and online materials.
@@ -32,7 +32,6 @@ Arthur is a PBS Kids educational television programme based on Marc Brown’s st
 - [Watching Arthur improves English narrative skill development in kindergarten English language learners more than an alternative educational program (potentially positive effects)](../claims/arthur-potentially-positive-narrative-skill-effects.md) [+W]
 - [The WWC rated Arthur as having potentially positive effects rather than positive effects because only one study met evidence standards and it lacked a strong design](../claims/arthur-potentially-positive-rating-rationale.md) [+W]
 - [The supporting evidence is a randomized controlled trial in which 108 kindergarten English learners watched 54 episodes of Arthur or Between the Lions over one school year](../claims/arthur-uchikoshi-rct-design.md) [+W]
-- [The medium of a story shapes children's apprehension: television highlights action, picture books figurative language, radio sound effects](../claims/media-symbol-biases-shape-story-apprehension.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -75,7 +74,6 @@ Arthur is a book-based educational television program based on Marc Brown's stor
 - [Watching Arthur improves English narrative skill development in kindergarten English language learners more than an alternative educational program (potentially positive effects)](../claims/arthur-potentially-positive-narrative-skill-effects.md) [+W]
 - [The WWC rated Arthur as having potentially positive effects rather than positive effects because only one study met evidence standards and it lacked a strong design](../claims/arthur-potentially-positive-rating-rationale.md) [+W]
 - [The supporting evidence is a randomized controlled trial in which 108 kindergarten English learners watched 54 episodes of Arthur or Between the Lions over one school year](../claims/arthur-uchikoshi-rct-design.md) [+W]
-- [The medium of a story shapes children's apprehension: television highlights action, picture books figurative language, radio sound effects](../claims/media-symbol-biases-shape-story-apprehension.md) [+W]
 
 ## Related Elements
 - 

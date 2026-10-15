@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: zahra-2025
-    resource: "https://arxiv.org/abs/2610.00338"
-    title: "Zahra, F. T. (2025). Three Pathways of Student-AI Interaction: Constraint-First Design for Higher-Order Thinking. Manuscript under blind review; framework first presented at EAAI-25, Philadelphia, PA. https://arxiv.org/abs/2610.00338"
+    resource: "https://doi.org/10.48550/arxiv.2610.00338"
+    title: "Zahra, F. T. (2025). Three Pathways of Student-AI Interaction: Constraint-First Design for Higher-Order Thinking. Manuscript under blind review; framework first presented at EAAI-25, Philadelphia, PA. https://arxiv.org/abs/2610.00338 [doi:10.48550/arxiv.2610.00338](https://doi.org/10.48550/arxiv.2610.00338)"
     author: Zahra, F. T.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Zahra 2025
 
-Zahra, F. T. (2025). Three Pathways of Student-AI Interaction: Constraint-First Design for Higher-Order Thinking. Manuscript under blind review; framework first presented at EAAI-25, Philadelphia, PA. https://arxiv.org/abs/2610.00338
+Zahra, F. T. (2025). Three Pathways of Student-AI Interaction: Constraint-First Design for Higher-Order Thinking. Manuscript under blind review; framework first presented at EAAI-25, Philadelphia, PA. https://arxiv.org/abs/2610.00338 [doi:10.48550/arxiv.2610.00338](https://doi.org/10.48550/arxiv.2610.00338)
 
 `q2 · i?` · `qualitative · r2`
 
@@ -43,6 +43,6 @@ Supplementary coding exercise in which GPT-5 applied the existing codebook to th
 
 
 ## Related Claims
-- [Systematic human coding added five codes the LLM-assisted phases had not surfaced, extending the codebook from 67 to 72 items and 18 to 19 categories](human-coding-added-five-codes-llm-missed.md) — related
-- [LLM-assisted inductive qualitative coding carries risks of superficial themes, broad or redundant codes, and hallucinated interpretations, so LLMs should augment rather than replace human researchers](llm-inductive-coding-risks-require-human-oversight.md) — a broader claim this one bears on
+- Systematic human coding added five codes the LLM-assisted phases had not surfaced, extending the codebook from 67 to 72 items and 18 to 19 categories — related
+- LLM-assisted inductive qualitative coding carries risks of superficial themes, broad or redundant codes, and hallucinated interpretations, so LLMs should augment rather than replace human researchers — a broader claim this one bears on
 - [Human review remains essential after GPT-based codebook generation, producing a final refined SRL codebook of eleven constructs](human-refinement-essential-gpt-codebooks.md) — related

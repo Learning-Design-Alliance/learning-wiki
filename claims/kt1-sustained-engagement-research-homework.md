@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: m-mikhasenko-2026
-    resource: "https://arxiv.org/abs/2609.05719"
-    title: "M. Mikhasenko, M. Stahl, I. Segal, D. Parmar, A. Zimmer, and A. Kazatsky. (2026). AI in Particle Physics Education: Research Problems and Foundational Skills. https://arxiv.org/abs/2609.05719"
+    resource: "https://doi.org/10.48550/arxiv.2609.05719"
+    title: "M. Mikhasenko, M. Stahl, I. Segal, D. Parmar, A. Zimmer, and A. Kazatsky. (2026). AI in Particle Physics Education: Research Problems and Foundational Skills. https://arxiv.org/abs/2609.05719 [doi:10.48550/arxiv.2609.05719](https://doi.org/10.48550/arxiv.2609.05719)"
     author: M. Mikhasenko, M. Stahl, I. Segal, D. Parmar, A. Zimmer, and A. Kazatsky
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### M. Mikhasenko 2026
 
-M. Mikhasenko, M. Stahl, I. Segal, D. Parmar, A. Zimmer, and A. Kazatsky. (2026). AI in Particle Physics Education: Research Problems and Foundational Skills. https://arxiv.org/abs/2609.05719
+M. Mikhasenko, M. Stahl, I. Segal, D. Parmar, A. Zimmer, and A. Kazatsky. (2026). AI in Particle Physics Education: Research Problems and Foundational Skills. https://arxiv.org/abs/2609.05719 [doi:10.48550/arxiv.2609.05719](https://doi.org/10.48550/arxiv.2609.05719)
 
 `q2 · i?` · `design · r2`
 

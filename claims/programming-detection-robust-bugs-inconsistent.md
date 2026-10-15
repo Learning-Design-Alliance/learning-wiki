@@ -10,8 +10,8 @@ generated:
 evidence_strength: mixed
 sources:
   - id: juho-leinonen-2026
-    resource: "https://arxiv.org/abs/2607.20446"
-    title: "Juho Leinonen, Paul Denny. (2026). Distinguishing Artificial from Authentic: Evaluating LLMs for Detecting LLM-Generated Content. https://arxiv.org/abs/2607.20446"
+    resource: "https://doi.org/10.48550/arxiv.2607.20446"
+    title: "Juho Leinonen, Paul Denny. (2026). Distinguishing Artificial from Authentic: Evaluating LLMs for Detecting LLM-Generated Content. https://arxiv.org/abs/2607.20446 [doi:10.48550/arxiv.2607.20446](https://doi.org/10.48550/arxiv.2607.20446)"
     author: Juho Leinonen, Paul Denny
     q: 2
     i: 3
@@ -30,7 +30,7 @@ sources:
 # LLM-generated programming code was reliably detected, but inserting beginner bugs had an inconsistent effect across the two programming questions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2` · `i3` large
+> **Evidence** · 2 studies · 2 causal `r1`–`r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` LLM responses received substantially higher likelihood estimates than real student code in programming question 1, and adding beginner mistakes did not reduce detectability there and may have increased it (Cliff's delta = -0.640 for bugs). [→ Juho Leinonen 2026](#juho-leinonen-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Juho Leinonen 2026
 
-Juho Leinonen, Paul Denny. (2026). Distinguishing Artificial from Authentic: Evaluating LLMs for Detecting LLM-Generated Content. https://arxiv.org/abs/2607.20446
+Juho Leinonen, Paul Denny. (2026). Distinguishing Artificial from Authentic: Evaluating LLMs for Detecting LLM-Generated Content. https://arxiv.org/abs/2607.20446 [doi:10.48550/arxiv.2607.20446](https://doi.org/10.48550/arxiv.2607.20446)
 
 `q2 · i3` · `causal · r1`
 

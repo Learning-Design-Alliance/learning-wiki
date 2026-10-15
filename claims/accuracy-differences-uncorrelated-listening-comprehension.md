@@ -43,9 +43,9 @@ Observational analysis of classroom data from the same four intact intensive ESL
 
 
 ## Related Claims
-- [Receptive vocabulary knowledge correlates moderately with advanced L2 listening comprehension in advanced Turkish EFL learners](receptive-vocabulary-moderately-correlates-advanced-listening.md) — related
+- Receptive vocabulary knowledge correlates moderately with advanced L2 listening comprehension in advanced Turkish EFL learners — related
 - [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](comprehensible-input-insufficient-grammar-acquisition.md) — related
-- [Listening proficiency transfers to other language skills, including reading and writing, in second language learners](listening-transfer-to-other-language-skills.md) — related
+- Listening proficiency transfers to other language skills, including reading and writing, in second language learners — related
 - [Substantial between-class differences exist in the accuracy with which intensive ESL students use structures such as progressive -ing and adjective–noun order in noun phrases](between-class-accuracy-differences-intensive-esl.md) — related
 - [Between-class differences in structural accuracy were attributed, with some evidence, to differences in teachers' form-focused instruction](form-focused-instruction-explains-class-accuracy-differences.md) — related
 - [Intensive ESL learners' oral English development was examined in four intact classes of approximately 100 French-speaking students aged 10–12 after a 5-month course](intensive-esl-quebec-corpus-study-design.md) — related

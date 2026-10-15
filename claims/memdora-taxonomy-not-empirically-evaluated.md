@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: ruiyang-zhang-2027
-    resource: "https://arxiv.org/abs/2607.25096"
-    title: "Ruiyang Zhang. (2027). Memdora: Designing Cognitively-Grounded Flashcard Interactions for AI-Powered Spaced Repetition. Proceedings of ACM International Conference on Intelligent User Interfaces (IUI '27). https://arxiv.org/abs/2607.25096"
+    resource: "https://doi.org/10.48550/arxiv.2607.25096"
+    title: "Ruiyang Zhang. (2027). Memdora: Designing Cognitively-Grounded Flashcard Interactions for AI-Powered Spaced Repetition. Proceedings of ACM International Conference on Intelligent User Interfaces (IUI '27). https://arxiv.org/abs/2607.25096 [doi:10.48550/arxiv.2607.25096](https://doi.org/10.48550/arxiv.2607.25096)"
     author: Ruiyang Zhang
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Ruiyang Zhang 2027
 
-Ruiyang Zhang. (2027). Memdora: Designing Cognitively-Grounded Flashcard Interactions for AI-Powered Spaced Repetition. Proceedings of ACM International Conference on Intelligent User Interfaces (IUI '27). https://arxiv.org/abs/2607.25096
+Ruiyang Zhang. (2027). Memdora: Designing Cognitively-Grounded Flashcard Interactions for AI-Powered Spaced Repetition. Proceedings of ACM International Conference on Intelligent User Interfaces (IUI '27). https://arxiv.org/abs/2607.25096 [doi:10.48550/arxiv.2607.25096](https://doi.org/10.48550/arxiv.2607.25096)
 
 `q1 · i?` · `design · r1`
 

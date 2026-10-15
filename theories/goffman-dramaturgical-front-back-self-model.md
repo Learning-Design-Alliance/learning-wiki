@@ -16,7 +16,7 @@ sources:
 # Goffman's dramaturgical model: front and back regions and the two-part self
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The essay presents Goffman's theatrical metaphor as an entire incongruous model of society: "Social life is viewed in terms of performers and teams wt, utilize front and back regions to foster an impression on an audience.Persons are seen as performers of characters." Within it, the self has two parts, an "official" self residing in the pattern of social control in a social system, and an "all-too-human" self shown in back regions, as when a waiter acts differently with customers than with the cook. Both selves are communicated by interpersonal means.
@@ -37,7 +37,6 @@ The essay presents Goffman's theatrical metaphor as an entire incongruous model 
 
 ### Claims
 
-- [Goffman rejected laboratory experiments because they had not uncovered fields of naturalistic study and fostered bias toward negative cases](../claims/goffman-objections-laboratory-experiments.md) [+W]
 
 ## Related Theories
 

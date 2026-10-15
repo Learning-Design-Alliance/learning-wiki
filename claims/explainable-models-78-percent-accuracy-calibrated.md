@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: benjamin-mawdsley-2026
-    resource: "https://arxiv.org/abs/2607.26063"
-    title: "Benjamin Mawdsley, Tom Quilter, Richard Turner, Sarah Jackson, and Paul Edwards. (2026). Archetypes or ability? Clustering for modelling student mathematical competence. https://arxiv.org/abs/2607.26063"
+    resource: "https://doi.org/10.48550/arxiv.2607.26063"
+    title: "Benjamin Mawdsley, Tom Quilter, Richard Turner, Sarah Jackson, and Paul Edwards. (2026). Archetypes or ability? Clustering for modelling student mathematical competence. https://arxiv.org/abs/2607.26063 [doi:10.48550/arxiv.2607.26063](https://doi.org/10.48550/arxiv.2607.26063)"
     author: Benjamin Mawdsley, Tom Quilter, Richard Turner, Sarah Jackson, and Paul Edwards
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Explainable models including logistic regression, kNN and a Bernoulli Mixture Model all reach around 78% accuracy in predicting question-level pass/fail, with well-calibrated probabilities
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Evidence** · 2 studies · 2 associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` All model classes perform broadly similarly, with the multi-question logistic regression best on accuracy at around 78% and the constant-probability baseline far below at 51.4%. [→ Benjamin Mawdsley 2026](#benjamin-mawdsley-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Benjamin Mawdsley 2026
 
-Benjamin Mawdsley, Tom Quilter, Richard Turner, Sarah Jackson, and Paul Edwards. (2026). Archetypes or ability? Clustering for modelling student mathematical competence. https://arxiv.org/abs/2607.26063
+Benjamin Mawdsley, Tom Quilter, Richard Turner, Sarah Jackson, and Paul Edwards. (2026). Archetypes or ability? Clustering for modelling student mathematical competence. https://arxiv.org/abs/2607.26063 [doi:10.48550/arxiv.2607.26063](https://doi.org/10.48550/arxiv.2607.26063)
 
 `q2 · i?` · `associational · r2`
 

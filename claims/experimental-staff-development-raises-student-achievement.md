@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` In a review the monograph attributes to Gage and Needels, all but one of nine experimental studies found staff development changed teachers' instruction and produced higher student achievement than in control-group teachers' students. [→ Gall 1994](#gall-1994)

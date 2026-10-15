@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: james-soland-2019
-    resource: "https://journals.sagepub.com/home/edr"
-    title: "James Soland, Gema Zamarro, Albert Cheng, Collin Hitt. (2019). Identifying naturally occurring direct assessments of social-emotional competencies: The promise and limitations of survey and assessment disengagement metadata. Educational Researcher 48 (7). https://journals.sagepub.com/home/edr"
+    resource: "https://doi.org/10.3102/0013189x19861356"
+    title: "James Soland, Gema Zamarro, Albert Cheng, Collin Hitt. (2019). Identifying naturally occurring direct assessments of social-emotional competencies: The promise and limitations of survey and assessment disengagement metadata. Educational Researcher 48 (7). https://journals.sagepub.com/home/edr [doi:10.3102/0013189x19861356](https://doi.org/10.3102/0013189x19861356)"
     author: James Soland, Gema Zamarro, Albert Cheng, Collin Hitt
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### James Soland 2019
 
-James Soland, Gema Zamarro, Albert Cheng, Collin Hitt. (2019). Identifying naturally occurring direct assessments of social-emotional competencies: The promise and limitations of survey and assessment disengagement metadata. Educational Researcher 48 (7). https://journals.sagepub.com/home/edr
+James Soland, Gema Zamarro, Albert Cheng, Collin Hitt. (2019). Identifying naturally occurring direct assessments of social-emotional competencies: The promise and limitations of survey and assessment disengagement metadata. Educational Researcher 48 (7). https://journals.sagepub.com/home/edr [doi:10.3102/0013189x19861356](https://doi.org/10.3102/0013189x19861356)
 
 `q2 · i?` · `review · r?`
 

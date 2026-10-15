@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: kazuki-kawamura-2025
-    resource: "https://arxiv.org/abs/2608.08990"
-    title: "Kazuki Kawamura. (2025). AI-Guided Learning: Research on Knowledge and Skill Acquisition Support Methods Using Deep Learning Audio-Video Processing Techniques. Doctoral dissertation, The University of Tokyo. https://arxiv.org/abs/2608.08990"
+    resource: "https://doi.org/10.48550/arxiv.2608.08990"
+    title: "Kazuki Kawamura. (2025). AI-Guided Learning: Research on Knowledge and Skill Acquisition Support Methods Using Deep Learning Audio-Video Processing Techniques. Doctoral dissertation, The University of Tokyo. https://arxiv.org/abs/2608.08990 [doi:10.48550/arxiv.2608.08990](https://doi.org/10.48550/arxiv.2608.08990)"
     author: Kazuki Kawamura
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # FastPerson video summarization halves viewing time with no significant quiz-score loss versus normal playback
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
+> **Evidence** · 2 studies · 1 causal `r1`, 1 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In experiments with 40 participants watching educational videos, FastPerson achieved an average 53% reduction in viewing time with no statistically significant difference in quiz scores compared with normal playback. [→ Kazuki Kawamura 2025](#kazuki-kawamura-2025)
@@ -40,7 +40,7 @@ sources:
 
 ### Kazuki Kawamura 2025
 
-Kazuki Kawamura. (2025). AI-Guided Learning: Research on Knowledge and Skill Acquisition Support Methods Using Deep Learning Audio-Video Processing Techniques. Doctoral dissertation, The University of Tokyo. https://arxiv.org/abs/2608.08990
+Kazuki Kawamura. (2025). AI-Guided Learning: Research on Knowledge and Skill Acquisition Support Methods Using Deep Learning Audio-Video Processing Techniques. Doctoral dissertation, The University of Tokyo. https://arxiv.org/abs/2608.08990 [doi:10.48550/arxiv.2608.08990](https://doi.org/10.48550/arxiv.2608.08990)
 
 `q2 · i?` · `causal · r1`
 
@@ -66,4 +66,4 @@ User-experience ratings from the same 40-participant experiment: a large majorit
 
 ## Related Claims
 - [AIxSpeed phoneme-level adaptive playback yields higher listenability ratings than constant-speed playback at matched average speed](aixspeed-adaptive-playback-higher-listenability.md) — related
-- [An adaptive strategy combining intra-subtest item selection with inter-subtest branching halves achievement test battery length with no loss in measurement quality](inter-subtest-branching-halves-battery-length.md) — related
+- An adaptive strategy combining intra-subtest item selection with inter-subtest branching halves achievement test battery length with no loss in measurement quality — related

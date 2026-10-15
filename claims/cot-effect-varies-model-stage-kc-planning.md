@@ -10,8 +10,8 @@ generated:
 evidence_strength: mixed
 sources:
   - id: yu-liu-2026
-    resource: "https://arxiv.org/abs/2609.18861"
-    title: "Yu Liu, Zeming Liu, Tianle Zhang, Zihao Cheng, Yuhang Guo, Kehai Chen, Min Zhang, Yunhong Wang, Haifeng Wang. (2026). PersonaPath: Towards Knowledge-Centric Personalized Learning Path Planning. arXiv. https://arxiv.org/abs/2609.18861"
+    resource: "https://doi.org/10.48550/arxiv.2609.18861"
+    title: "Yu Liu, Zeming Liu, Tianle Zhang, Zihao Cheng, Yuhang Guo, Kehai Chen, Min Zhang, Yunhong Wang, Haifeng Wang. (2026). PersonaPath: Towards Knowledge-Centric Personalized Learning Path Planning. arXiv. https://arxiv.org/abs/2609.18861 [doi:10.48550/arxiv.2609.18861](https://doi.org/10.48550/arxiv.2609.18861)"
     author: Yu Liu, Zeming Liu, Tianle Zhang, Zihao Cheng, Yuhang Guo, Kehai Chen, Min Zhang, Yunhong Wang, Haifeng Wang
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Yu Liu 2026
 
-Yu Liu, Zeming Liu, Tianle Zhang, Zihao Cheng, Yuhang Guo, Kehai Chen, Min Zhang, Yunhong Wang, Haifeng Wang. (2026). PersonaPath: Towards Knowledge-Centric Personalized Learning Path Planning. arXiv. https://arxiv.org/abs/2609.18861
+Yu Liu, Zeming Liu, Tianle Zhang, Zihao Cheng, Yuhang Guo, Kehai Chen, Min Zhang, Yunhong Wang, Haifeng Wang. (2026). PersonaPath: Towards Knowledge-Centric Personalized Learning Path Planning. arXiv. https://arxiv.org/abs/2609.18861 [doi:10.48550/arxiv.2609.18861](https://doi.org/10.48550/arxiv.2609.18861)
 
 `q2 · i?` · `causal · r2`
 
@@ -48,7 +48,7 @@ Within-model comparison of Zero-shot versus CoT prompting on PersonaPath reporte
 - [Contextual noise from irrelevant textbooks broadly degrades KC planning, most in Validity and Efficiency](contextual-noise-degrades-kc-planning.md) — related
 - [One-shot path generation raises Validity but lowers Adaptivity and Efficiency relative to step-by-step interaction](one-shot-generation-lowers-adaptivity.md) — related
 - [Removing explicit mastery information from learner profiles mainly degrades Adaptivity](mastery-information-needed-for-adaptivity.md) — related
-- [Chain-of-thought prompting improved LLM multistep reasoning, operationalized via decomposition and interleaved planning approaches](cot-planning-decomposition-interleaved.md) — a broader claim this one bears on
+- Chain-of-thought prompting improved LLM multistep reasoning, operationalized via decomposition and interleaved planning approaches — a broader claim this one bears on
 - [Chain-of-thought and reasoning prompting significantly improve LLM proportional match with human-authored distractors over direct prompting on both math and science MCQs](reasoning-prompting-improves-llm-distractor-match.md) — related
 - [Curricular chain-of-thought prompting improves competency-classification accuracy over zero-shot, with gains concentrated in larger models, while definition-based prompting does not improve performance](curricular-cot-improves-accuracy-larger-models.md) — related
 - [Retrieval augmentation raises path Validity but not the joint Final Pass rate](rag-raises-validity-not-final-pass.md) — related

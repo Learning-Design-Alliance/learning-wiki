@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` In slide and NAEP think-aloud studies, experts made many more assumptions, hypotheses, and predictions, including predicting the misalgorithms students might apply. [→ Berliner 1988](#berliner-1988)
@@ -47,6 +48,6 @@ In the study by Stein, Clarridge, and Berliner (1988), expert, novice, and postu
 
 ## Related Claims
 - [Expert teachers interpret complex classroom phenomena more accurately and fluidly than novices and postulants](expert-teachers-interpret-classroom-phenomena-better.md) — related
-- [Experts attend selectively to atypical events, merging typical student information into a group picture, while novices and postulants study all student details](experts-attend-to-atypical-events.md) — related
-- [Experts discern instructional significance in classroom scenes while novices and postulants treat all visual stimuli as equally important](experts-discern-importance-of-classroom-events.md) — related
-- [Expert teachers show intense emotionality and sense of responsibility for their performance, unlike affectless novices and postulants](experts-show-emotionality-and-responsibility.md) — related
+- Experts attend selectively to atypical events, merging typical student information into a group picture, while novices and postulants study all student details — related
+- Experts discern instructional significance in classroom scenes while novices and postulants treat all visual stimuli as equally important — related
+- Expert teachers show intense emotionality and sense of responsibility for their performance, unlike affectless novices and postulants — related

@@ -17,7 +17,7 @@ sources:
 # Ten strategies for advancing race-conscious higher education policies
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The report lays out ten implementable strategies for institutions, states, and the federal government, stating "Here are 10 strategies for advancing race-conscious policies that are designed to lead to racial equity in higher education." They include holistic race-conscious admissions, reducing reliance on traditional merit measures, race-disaggregated data, removing state bans, statewide racial equity attainment goals, equitable funding, investment in minority-serving institutions, funding-gap conditions on federal partnerships, race-conscious debt relief, and accreditor review of campus racial climate.
@@ -39,7 +39,6 @@ The report lays out ten implementable strategies for institutions, states, and t
 
 ## Claims
 
-- [Every state with an affirmative action ban saw declines in Black enrollment at selective public colleges after the ban](../claims/affirmative-action-bans-black-enrollment-declines.md) [+W]
 
 ## Related Strategies
 

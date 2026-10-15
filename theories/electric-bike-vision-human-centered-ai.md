@@ -16,7 +16,7 @@ sources:
 # The electric bike vision of human-centered educational technology
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The presentation articulates a framing metaphor for AI in education drawn from the Office of Ed Tech report: we envision a technology enhanced future more like an electric bike and less like robot vacuums. On an electric bike, the human is fully aware and fully in control, but their burden is less, and their effort is multiplied by the supporting technology. This contrasts with automation that removes human agency from the loop.
@@ -39,7 +39,6 @@ The presentation articulates a framing metaphor for AI in education drawn from t
 
 ### Claims
 
-- [Generative AI can help people finish tasks more quickly but does not accelerate learning itself](../claims/genai-speeds-tasks-not-learning.md) [+W]
 
 ## Related Theories
 

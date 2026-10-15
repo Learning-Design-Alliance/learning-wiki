@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: roohani-2022
-    resource: "https://portal.issn.org/resource/ISSN/2287-0024"
-    title: "Roohani, A., & Esmaeili, M. (2022). Effect of (Un)Focused Tasks on L2 Learners' Meaning Negotiation and Negotiation Strategy. PASAA, 63. https://portal.issn.org/resource/ISSN/2287-0024"
+    resource: "https://doi.org/10.58837/chula.pasaa.63.1.12"
+    title: "Roohani, A., & Esmaeili, M. (2022). Effect of (Un)Focused Tasks on L2 Learners' Meaning Negotiation and Negotiation Strategy. PASAA, 63. https://portal.issn.org/resource/ISSN/2287-0024 [doi:10.58837/chula.pasaa.63.1.12](https://doi.org/10.58837/chula.pasaa.63.1.12)"
     author: "Roohani, A., & Esmaeili, M."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Roohani 2022
 
-Roohani, A., & Esmaeili, M. (2022). Effect of (Un)Focused Tasks on L2 Learners' Meaning Negotiation and Negotiation Strategy. PASAA, 63. https://portal.issn.org/resource/ISSN/2287-0024
+Roohani, A., & Esmaeili, M. (2022). Effect of (Un)Focused Tasks on L2 Learners' Meaning Negotiation and Negotiation Strategy. PASAA, 63. https://portal.issn.org/resource/ISSN/2287-0024 [doi:10.58837/chula.pasaa.63.1.12](https://doi.org/10.58837/chula.pasaa.63.1.12)
 
 `q2 · i?` · `causal · r1`
 

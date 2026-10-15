@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: qing-xiao-2026
-    resource: "https://arxiv.org/abs/2609.13479"
-    title: "Qing Xiao, Wenhan Xie, Ziyu Deng, Ruiwei Xiao, Ziyue Feng, Xie He, Shiyu Zhang, John Stamper, Hong Shen, and Xinying Hou. (2026). Exploring K-12 Teachers' Perceptions of Students' Relationships with AI Companions: Boundaries, Intervention Strategies, and Design Implications. arXiv preprint. https://arxiv.org/abs/2609.13479"
+    resource: "https://doi.org/10.48550/arxiv.2609.13479"
+    title: "Qing Xiao, Wenhan Xie, Ziyu Deng, Ruiwei Xiao, Ziyue Feng, Xie He, Shiyu Zhang, John Stamper, Hong Shen, and Xinying Hou. (2026). Exploring K-12 Teachers' Perceptions of Students' Relationships with AI Companions: Boundaries, Intervention Strategies, and Design Implications. arXiv preprint. https://arxiv.org/abs/2609.13479 [doi:10.48550/arxiv.2609.13479](https://doi.org/10.48550/arxiv.2609.13479)"
     author: Qing Xiao, Wenhan Xie, Ziyu Deng, Ruiwei Xiao, Ziyue Feng, Xie He, Shiyu Zhang, John Stamper, Hong Shen, and Xinying Hou
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Teachers envision AI companion literacy as shared work across stakeholders, starting early and spiraling across grade levels, but disagree on which level owns it
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
+> **Evidence** · 2 studies · 2 qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Nearly every teacher named several parties beyond teachers and assigned each a distinct part, with counselors handling relational depth, parents informed and equipped, platforms making concerning patterns visible, and policymakers supplying protocols and training. [→ Qing Xiao 2026](#qing-xiao-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Qing Xiao 2026
 
-Qing Xiao, Wenhan Xie, Ziyu Deng, Ruiwei Xiao, Ziyue Feng, Xie He, Shiyu Zhang, John Stamper, Hong Shen, and Xinying Hou. (2026). Exploring K-12 Teachers' Perceptions of Students' Relationships with AI Companions: Boundaries, Intervention Strategies, and Design Implications. arXiv preprint. https://arxiv.org/abs/2609.13479
+Qing Xiao, Wenhan Xie, Ziyu Deng, Ruiwei Xiao, Ziyue Feng, Xie He, Shiyu Zhang, John Stamper, Hong Shen, and Xinying Hou. (2026). Exploring K-12 Teachers' Perceptions of Students' Relationships with AI Companions: Boundaries, Intervention Strategies, and Design Implications. arXiv preprint. https://arxiv.org/abs/2609.13479 [doi:10.48550/arxiv.2609.13479](https://doi.org/10.48550/arxiv.2609.13479)
 
 `q2 · i?` · `qualitative · r3`
 

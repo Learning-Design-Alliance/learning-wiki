@@ -16,7 +16,7 @@ sources:
 # Competency-based teacher development system built on a competency map, multiple ways to learn, and demonstrations of competence
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The paper proposes a teacher development system in which teachers progress based on demonstrations of their abilities rather than seat time. Its three key ingredients are "a map of what a learner needs to know, different ways to learn it, and a collection of demonstrations of competence." A system linked to hiring entities that award licenses based on demonstrated competence could inform personalized development pathways, some within degree programs and some rapid, model-specific alternatives.
@@ -40,9 +40,6 @@ The paper proposes a teacher development system in which teachers progress based
 
 ### Claims
 
-- [In a National Staff Development Council survey, over 90 percent of teachers reported recent PD but only 59 percent found content-related PD useful](../claims/nsdc-pd-usefulness-survey.md) [~W]
-- [Substantial professional development (an average of 49 hours) is associated with a boost to student achievement of about 21 percentile points, per a report the paper cites](../claims/pd-49-hours-21-percentile-points.md) [+W]
-- [A 2011 study found residency-trained teachers outperformed same-experience peers by nearly two months' worth of learning by their fifth year and were more likely to stay in teaching](../claims/teacher-residency-study-gains.md) [+W]
 
 ## Related Theories
 - 

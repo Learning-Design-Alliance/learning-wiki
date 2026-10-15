@@ -45,6 +45,6 @@ This is the authors' characterizing statement, not an empirical result: despite 
 ## Related Claims
 - [Corbett and Anderson's original individualization attempts produced mixed results](corbett-anderson-individualization-mixed-results.md) — related
 - [Individualizing the initial knowledge parameter reliably improves prediction of real-world data](individualizing-initial-knowledge-improves-prediction.md) — related
-- [BKT learning-rate parameters estimated from simulated student data correlate positively with those estimated from human data](simulated-data-initializes-bkt-parameters.md) — related
+- BKT learning-rate parameters estimated from simulated student data correlate positively with those estimated from human data — related
 - [Fixed point analysis of the Knowledge Tracing Algorithm yields parameter constraints P(G)+P(S)<1 and 0<P(T)<(1−P(S))/(1−P(G)) for sensible behavior](kt-algorithm-fixed-point-parameter-constraints.md) — related
-- [Under standard BKT with non-degenerate parameters, the mastery probability stays above the learn rate even after unboundedly many incorrect responses](bkt-mastery-floor-above-learn-rate.md) — related
+- Under standard BKT with non-degenerate parameters, the mastery probability stays above the learn rate even after unboundedly many incorrect responses — related

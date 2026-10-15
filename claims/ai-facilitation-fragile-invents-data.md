@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: eugenio-tufino-2026
-    resource: "https://arxiv.org/abs/2607.21349"
-    title: "Eugenio Tufino, Paola Damiani. (2026). Embodied inquiry with AI as facilitator: an exploratory case study. https://arxiv.org/abs/2607.21349"
+    resource: "https://doi.org/10.48550/arxiv.2607.21349"
+    title: "Eugenio Tufino, Paola Damiani. (2026). Embodied inquiry with AI as facilitator: an exploratory case study. https://arxiv.org/abs/2607.21349 [doi:10.48550/arxiv.2607.21349](https://doi.org/10.48550/arxiv.2607.21349)"
     author: Eugenio Tufino, Paola Damiani
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Eugenio Tufino 2026
 
-Eugenio Tufino, Paola Damiani. (2026). Embodied inquiry with AI as facilitator: an exploratory case study. https://arxiv.org/abs/2607.21349
+Eugenio Tufino, Paola Damiani. (2026). Embodied inquiry with AI as facilitator: an exploratory case study. https://arxiv.org/abs/2607.21349 [doi:10.48550/arxiv.2607.21349](https://doi.org/10.48550/arxiv.2607.21349)
 
 `q2 · i?` · `qualitative · r2`
 
@@ -45,4 +45,4 @@ In the Pair C session, the Gem supplied unmeasured masses after student pressure
 ## Related Claims
 - [An AI assistant configured on the ISLE approach can scaffold the epistemic core of inquiry, at the level of feasibility](ai-gem-scaffolds-isle-epistemic-core.md) — related
 - [A language-based AI facilitator has access only to verbal traces of embodied inquiry and steers inquiry toward what can be put into words](language-facilitator-verbal-channel-limit.md) — related
-- [LLM-assisted inductive qualitative coding carries risks of superficial themes, broad or redundant codes, and hallucinated interpretations, so LLMs should augment rather than replace human researchers](llm-inductive-coding-risks-require-human-oversight.md) — a broader claim this one bears on
+- LLM-assisted inductive qualitative coding carries risks of superficial themes, broad or redundant codes, and hallucinated interpretations, so LLMs should augment rather than replace human researchers — a broader claim this one bears on

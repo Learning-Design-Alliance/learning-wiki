@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: ugwuanyi-2025
-    resource: "https://arxiv.org/abs/2607.28505"
-    title: "Ugwuanyi, K., Mair, C., Dovchin, S., Erdocia, I., Kuteeva, M., & Airemionkhale, E. (2025). Generative AI and linguistic diversity in academic writing and publishing: Perspectives from World Englishes. https://arxiv.org/abs/2607.28505"
+    resource: "https://doi.org/10.48550/arxiv.2607.28505"
+    title: "Ugwuanyi, K., Mair, C., Dovchin, S., Erdocia, I., Kuteeva, M., & Airemionkhale, E. (2025). Generative AI and linguistic diversity in academic writing and publishing: Perspectives from World Englishes. https://arxiv.org/abs/2607.28505 [doi:10.48550/arxiv.2607.28505](https://doi.org/10.48550/arxiv.2607.28505)"
     author: "Ugwuanyi, K., Mair, C., Dovchin, S., Erdocia, I., Kuteeva, M., & Airemionkhale, E."
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Ugwuanyi 2025
 
-Ugwuanyi, K., Mair, C., Dovchin, S., Erdocia, I., Kuteeva, M., & Airemionkhale, E. (2025). Generative AI and linguistic diversity in academic writing and publishing: Perspectives from World Englishes. https://arxiv.org/abs/2607.28505
+Ugwuanyi, K., Mair, C., Dovchin, S., Erdocia, I., Kuteeva, M., & Airemionkhale, E. (2025). Generative AI and linguistic diversity in academic writing and publishing: Perspectives from World Englishes. https://arxiv.org/abs/2607.28505 [doi:10.48550/arxiv.2607.28505](https://doi.org/10.48550/arxiv.2607.28505)
 
 `q1 · i?` · `theoretical · r2`
 
@@ -44,7 +44,7 @@ A single anecdotal test reported in the dialogue: a paper written without AI was
 
 ## Related Claims
 - [In a documented exploratory audit, one human-authored manuscript received materially different classifications from five commercial detectors, spanning 0% human to Human Generated](multi-tool-audit-cross-tool-inconsistency.md) — related
-- [GPT detectors frequently misclassify non-native English writing as AI-generated, raising fairness concerns for AI policy](gpt-detectors-biased-against-nonnative-english-writers.md) — related
+- GPT detectors frequently misclassify non-native English writing as AI-generated, raising fairness concerns for AI policy — related
 - [Independent evaluation found commercial AI-text detectors neither sufficiently accurate nor sufficiently reliable for high-stakes use](detectors-insufficient-accuracy-high-stakes.md) — a broader claim this one bears on
 - [AI-detection tools produce inequitable outcomes, disadvantaging non-native English speakers through false positives](ai-detection-tools-inequitable-false-positives.md) — related
 - [Universities disabling AI detection cite false-positive risk at scale, and detector influence persists in individual grading, journal screening, and institutions without policy revision](detector-false-positives-at-scale-institutional-retreat.md) — related

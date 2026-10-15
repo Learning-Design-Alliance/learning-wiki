@@ -43,4 +43,4 @@ Descriptive statement in the guide's introductory scope text about typical imple
 
 
 ## Related Claims
-- [A large multi-site cluster randomized study found a positive PSAT/NMSQT reading effect in one cohort (+0.13) but a smaller effect in a second cohort (+0.03)](barr-multisite-cluster-psat-cohort-variation.md) — related
+- A large multi-site cluster randomized study found a positive PSAT/NMSQT reading effect in one cohort (+0.13) but a smaller effect in a second cohort (+0.03) — related

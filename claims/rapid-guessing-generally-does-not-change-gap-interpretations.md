@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: james-soland-2018
-    resource: "https://www.nwea.org/research/publication/are-achievement-gap-estimates-biased-by-differential-student-test-effort-putting-an-important-policy-metric-to-the-test/"
-    title: "James Soland. (2018). Are achievement gap estimates biased by differential student test effort? Putting an important policy metric to the test. Teachers College Record, 120(12), 1-26. https://www.nwea.org/research/publication/are-achievement-gap-estimates-biased-by-differential-student-test-effort-putting-an-important-policy-metric-to-the-test/"
+    resource: "https://doi.org/10.1177/016146811812001202"
+    title: "James Soland. (2018). Are achievement gap estimates biased by differential student test effort? Putting an important policy metric to the test. Teachers College Record, 120(12), 1-26. https://www.nwea.org/research/publication/are-achievement-gap-estimates-biased-by-differential-student-test-effort-putting-an-important-policy-metric-to-the-test/ [doi:10.1177/016146811812001202](https://doi.org/10.1177/016146811812001202)"
     author: James Soland
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### James Soland 2018
 
-James Soland. (2018). Are achievement gap estimates biased by differential student test effort? Putting an important policy metric to the test. Teachers College Record, 120(12), 1-26. https://www.nwea.org/research/publication/are-achievement-gap-estimates-biased-by-differential-student-test-effort-putting-an-important-policy-metric-to-the-test/
+James Soland. (2018). Are achievement gap estimates biased by differential student test effort? Putting an important policy metric to the test. Teachers College Record, 120(12), 1-26. https://www.nwea.org/research/publication/are-achievement-gap-estimates-biased-by-differential-student-test-effort-putting-an-important-policy-metric-to-the-test/ [doi:10.1177/016146811812001202](https://doi.org/10.1177/016146811812001202)
 
 `q3 · i?` · `associational · r?`
 

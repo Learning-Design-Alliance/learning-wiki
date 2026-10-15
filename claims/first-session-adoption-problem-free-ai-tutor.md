@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: shihao-yang-2026
-    resource: "https://arxiv.org/abs/2609.23958"
-    title: "Shihao Yang, Marshall Van Alstyne, and Chrysanthos Dellarocas. (2026). When AI Tutors Speak: Evidence from a Randomized Field Experiment. https://arxiv.org/abs/2609.23958"
+    resource: "https://doi.org/10.48550/arxiv.2609.23958"
+    title: "Shihao Yang, Marshall Van Alstyne, and Chrysanthos Dellarocas. (2026). When AI Tutors Speak: Evidence from a Randomized Field Experiment. https://arxiv.org/abs/2609.23958 [doi:10.48550/arxiv.2609.23958](https://doi.org/10.48550/arxiv.2609.23958)"
     author: Shihao Yang, Marshall Van Alstyne, and Chrysanthos Dellarocas
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Shihao Yang 2026
 
-Shihao Yang, Marshall Van Alstyne, and Chrysanthos Dellarocas. (2026). When AI Tutors Speak: Evidence from a Randomized Field Experiment. https://arxiv.org/abs/2609.23958
+Shihao Yang, Marshall Van Alstyne, and Chrysanthos Dellarocas. (2026). When AI Tutors Speak: Evidence from a Randomized Field Experiment. https://arxiv.org/abs/2609.23958 [doi:10.48550/arxiv.2609.23958](https://doi.org/10.48550/arxiv.2609.23958)
 
 `q3 · i?` · `causal · r2`
 

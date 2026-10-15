@@ -43,7 +43,7 @@ Mathematical derivation (Theorems 3–6) establishing: L ranges [−1, 1] or [�
 
 
 ## Related Claims
-- [On real student data, L with self-transitions removed makes all transitions from flow appear positive and significant, while L* gives a mix of signs with the only significant value negative](l-star-student-data-more-coherent-than-l.md) — related
-- [Simulations show L* values at chance stay centered at zero even when one affective state's base rate is disproportionately high](l-star-chance-zero-nonuniform-base-rates-simulation.md) — related
-- [Simulations with two dominant base rates also show L* at chance centered at zero](l-star-chance-zero-two-dominant-base-rates.md) — related
-- [When self-transitions are excluded, the L statistic's chance value becomes 1/(n−1)² for a state space with n affective states, so past L results excluding self-transitions were likely misinterpreted](l-chance-value-nonzero-self-transitions-excluded.md) — related
+- On real student data, L with self-transitions removed makes all transitions from flow appear positive and significant, while L* gives a mix of signs with the only significant value negative — related
+- Simulations show L* values at chance stay centered at zero even when one affective state's base rate is disproportionately high — related
+- Simulations with two dominant base rates also show L* at chance centered at zero — related
+- When self-transitions are excluded, the L statistic's chance value becomes 1/(n−1)² for a state space with n affective states, so past L results excluding self-transitions were likely misinterpreted — related

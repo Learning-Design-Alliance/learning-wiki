@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Awareness of how learners' conceptual representations deviate from native speaker preferences of use may assist teachers in deciding where to place greater attention in the classroom. [→ Sáez 2014](#saez-2014)
@@ -44,4 +45,4 @@ The article states this as an attributed proposal (citing Odlin, 2006) about dia
 
 ## Related Claims
 - [Errors should be distinguished from mistakes, and analysis proceeds through recognition, description, and explanation stages](error-versus-mistake-analysis-procedure.md) — related
-- [Writing programs should move decision-making from intuition and chance to conscious, explicit, efficient deciding, at the cost of slower early production](writing-decisions-conscious-explicit-efficient.md) — related
+- Writing programs should move decision-making from intuition and chance to conscious, explicit, efficient deciding, at the cost of slower early production — related

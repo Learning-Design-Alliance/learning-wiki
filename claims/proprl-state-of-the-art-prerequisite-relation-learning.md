@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: xinghe-cheng-2026
-    resource: "https://arxiv.org/abs/2608.03006"
-    title: "Xinghe Cheng, Jiapu Wang, Chaobo He, Ruihai Dong, Quanlong Guan. (2026). ProPRL: Property-Aware Prerequisite Relation Learning in Educational Knowledge Graphs. arXiv preprint. https://arxiv.org/abs/2608.03006"
+    resource: "https://doi.org/10.48550/arxiv.2608.03006"
+    title: "Xinghe Cheng, Jiapu Wang, Chaobo He, Ruihai Dong, Quanlong Guan. (2026). ProPRL: Property-Aware Prerequisite Relation Learning in Educational Knowledge Graphs. arXiv preprint. https://arxiv.org/abs/2608.03006 [doi:10.48550/arxiv.2608.03006](https://doi.org/10.48550/arxiv.2608.03006)"
     author: Xinghe Cheng, Jiapu Wang, Chaobo He, Ruihai Dong, Quanlong Guan
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Xinghe Cheng 2026
 
-Xinghe Cheng, Jiapu Wang, Chaobo He, Ruihai Dong, Quanlong Guan. (2026). ProPRL: Property-Aware Prerequisite Relation Learning in Educational Knowledge Graphs. arXiv preprint. https://arxiv.org/abs/2608.03006
+Xinghe Cheng, Jiapu Wang, Chaobo He, Ruihai Dong, Quanlong Guan. (2026). ProPRL: Property-Aware Prerequisite Relation Learning in Educational Knowledge Graphs. arXiv preprint. https://arxiv.org/abs/2608.03006 [doi:10.48550/arxiv.2608.03006](https://doi.org/10.48550/arxiv.2608.03006)
 
 `q2 · i?` · `design · r2`
 

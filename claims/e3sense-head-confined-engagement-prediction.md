@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: sidharth-anupkrishnan-2026
-    resource: "https://arxiv.org/abs/2609.26569"
-    title: "Sidharth Anupkrishnan, Itir Sayar, Jeongah Lee, Sri Harsha Musunuri, Guan-Ming Su, Madeline Endres, Ravi Karkar, Phuc Nguyen. (2026). E3Sense: Head-Confined Multimodal Sensing of Learner Engagement. arXiv. https://arxiv.org/abs/2609.26569"
+    resource: "https://doi.org/10.48550/arxiv.2609.26569"
+    title: "Sidharth Anupkrishnan, Itir Sayar, Jeongah Lee, Sri Harsha Musunuri, Guan-Ming Su, Madeline Endres, Ravi Karkar, Phuc Nguyen. (2026). E3Sense: Head-Confined Multimodal Sensing of Learner Engagement. arXiv. https://arxiv.org/abs/2609.26569 [doi:10.48550/arxiv.2609.26569](https://doi.org/10.48550/arxiv.2609.26569)"
     author: Sidharth Anupkrishnan, Itir Sayar, Jeongah Lee, Sri Harsha Musunuri, Guan-Ming Su, Madeline Endres, Ravi Karkar, Phuc Nguyen
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Sidharth Anupkrishnan 2026
 
-Sidharth Anupkrishnan, Itir Sayar, Jeongah Lee, Sri Harsha Musunuri, Guan-Ming Su, Madeline Endres, Ravi Karkar, Phuc Nguyen. (2026). E3Sense: Head-Confined Multimodal Sensing of Learner Engagement. arXiv. https://arxiv.org/abs/2609.26569
+Sidharth Anupkrishnan, Itir Sayar, Jeongah Lee, Sri Harsha Musunuri, Guan-Ming Su, Madeline Endres, Ravi Karkar, Phuc Nguyen. (2026). E3Sense: Head-Confined Multimodal Sensing of Learner Engagement. arXiv. https://arxiv.org/abs/2609.26569 [doi:10.48550/arxiv.2609.26569](https://doi.org/10.48550/arxiv.2609.26569)
 
 `q2 · i?` · `design · r2`
 

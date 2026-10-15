@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: miao-2024
-    resource: "https://www.unesco.org/en/articles/ai-competency-framework-teachers"
-    title: "Miao, Fengchun; Cukurova, Mutlu. (2024). AI competency framework for teachers. UNESCO. https://www.unesco.org/en/articles/ai-competency-framework-teachers"
+    resource: "https://doi.org/10.54675/zjte2084"
+    title: "Miao, Fengchun; Cukurova, Mutlu. (2024). AI competency framework for teachers. UNESCO. https://www.unesco.org/en/articles/ai-competency-framework-teachers [doi:10.54675/zjte2084](https://doi.org/10.54675/zjte2084)"
     author: Miao, Fengchun; Cukurova, Mutlu
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Miao 2024
 
-Miao, Fengchun; Cukurova, Mutlu. (2024). AI competency framework for teachers. UNESCO. https://www.unesco.org/en/articles/ai-competency-framework-teachers
+Miao, Fengchun; Cukurova, Mutlu. (2024). AI competency framework for teachers. UNESCO. https://www.unesco.org/en/articles/ai-competency-framework-teachers [doi:10.54675/zjte2084](https://doi.org/10.54675/zjte2084)
 
 `q1 · i?` · `theoretical · r1`
 
@@ -44,8 +44,8 @@ The publication asserts, without presenting empirical data, that AI has transfor
 
 ## Related Claims
 - [System reconfiguration: breakthroughs reshape relationships among actors, capabilities, and institutional routines](breakthrough-system-reconfiguration-actors-routines.md) — a broader claim this one bears on
-- [AI-driven situated learning reshapes education by enhancing authenticity and transforming evaluation into assessment woven into the learning process](ai-authenticity-evaluation-reshaping.md) — related
-- [AI presents four solution types for overcoming situated learning barriers: adaptive systems, intelligent tutoring in authentic scenarios, administrative automation, and data-driven teacher support](ai-four-solution-types-situated-learning.md) — related
+- AI-driven situated learning reshapes education by enhancing authenticity and transforming evaluation into assessment woven into the learning process — related
+- AI presents four solution types for overcoming situated learning barriers: adaptive systems, intelligent tutoring in authentic scenarios, administrative automation, and data-driven teacher support — related
 - Agent-based educational science is positioned as reconfiguring, not replacing, empirical educational research — related
 - [AI technologies in education enhance teaching and learning through personalization and data analytics while reshaping administrative functions and decision-making](ai-enhances-teaching-administration-education.md) — related
 - [A decade of AI-in-business-education research clusters into four major themes: AI-driven transformation, innovative digital pedagogies, AI-enhanced personalization, and digital-economy alignment](four-clusters-ai-business-education-research.md) — related

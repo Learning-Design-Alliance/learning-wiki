@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: michael-j-weiss-2017
-    resource: "https://www.mathematica.org/publications/how-much-do-the-effects-of-education-and-training-programs-vary-across-sites-evidence"
-    title: "Michael J. Weiss, Howard S. Bloom, Natalya Verbitsky-Savitz, Himani Gupta, Alma E. Vigil, Daniel N. Cullinan. (2017). How Much Do the Effects of Education and Training Programs Vary Across Sites? Evidence from Past Multisite Randomized Trials. Journal of Research on Educational Effectiveness, vol. 10, issue 4. https://www.mathematica.org/publications/how-much-do-the-effects-of-education-and-training-programs-vary-across-sites-evidence"
+    resource: "https://doi.org/10.1080/19345747.2017.1300719"
+    title: "Michael J. Weiss, Howard S. Bloom, Natalya Verbitsky-Savitz, Himani Gupta, Alma E. Vigil, Daniel N. Cullinan. (2017). How Much Do the Effects of Education and Training Programs Vary Across Sites? Evidence from Past Multisite Randomized Trials. Journal of Research on Educational Effectiveness, vol. 10, issue 4. https://www.mathematica.org/publications/how-much-do-the-effects-of-education-and-training-programs-vary-across-sites-evidence [doi:10.1080/19345747.2017.1300719](https://doi.org/10.1080/19345747.2017.1300719)"
     author: Michael J. Weiss, Howard S. Bloom, Natalya Verbitsky-Savitz, Himani Gupta, Alma E. Vigil, Daniel N. Cullinan
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Michael J. Weiss 2017
 
-Michael J. Weiss, Howard S. Bloom, Natalya Verbitsky-Savitz, Himani Gupta, Alma E. Vigil, Daniel N. Cullinan. (2017). How Much Do the Effects of Education and Training Programs Vary Across Sites? Evidence from Past Multisite Randomized Trials. Journal of Research on Educational Effectiveness, vol. 10, issue 4. https://www.mathematica.org/publications/how-much-do-the-effects-of-education-and-training-programs-vary-across-sites-evidence
+Michael J. Weiss, Howard S. Bloom, Natalya Verbitsky-Savitz, Himani Gupta, Alma E. Vigil, Daniel N. Cullinan. (2017). How Much Do the Effects of Education and Training Programs Vary Across Sites? Evidence from Past Multisite Randomized Trials. Journal of Research on Educational Effectiveness, vol. 10, issue 4. https://www.mathematica.org/publications/how-much-do-the-effects-of-education-and-training-programs-vary-across-sites-evidence [doi:10.1080/19345747.2017.1300719](https://doi.org/10.1080/19345747.2017.1300719)
 
 `q2 · i?` · `causal · r?`
 

@@ -44,4 +44,4 @@ Descriptive analysis of the nationally representative SASS data for 2011–12 (T
 
 
 ## Related Claims
-- [North Carolina's teacher workforce is far less racially diverse than its student population](nc-teacher-student-diversity-gap.md) — related
+- North Carolina's teacher workforce is far less racially diverse than its student population — related

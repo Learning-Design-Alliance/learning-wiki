@@ -17,7 +17,7 @@ sources:
 # RSU 3 Virtual Learning Center: a human-supported virtual world for adult learners
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The RSU 3 Virtual Learning Center is a virtual world built solely for adult learners, developed with Reaction Grid and grown by SPICE's IT department to four levels including a HiSET prep class, a family literacy classroom, and community college classes. Hughes stresses that "This is not distance learning. This is human-supported learning because it is virtual": every avatar has a real person behind it, and teachers are trained to stop at every avatar to interact. The Center supports SPICE's mission of teaching parents skills to teach their children.
@@ -40,7 +40,6 @@ The RSU 3 Virtual Learning Center is a virtual world built solely for adult lear
 ## Claims
 
 - [SPICE learners report that the virtual Center reduced their rural isolation and made learning enjoyable](../claims/spice-learners-report-reduced-isolation.md) [+W]
-- [Since the RSU 3 Virtual Learning Center went live in 2012, SPICE has seen an increase of more than 1,000 percent in learner hours and more than 254 percent in students served](../claims/spice-virtual-center-growth-hours-students.md) [+W]
 
 ## Related Elements
 - 

@@ -65,5 +65,5 @@ Observational analysis of CPS administrative data (2009-11 cohorts) using models
 - [Higher course grades predict larger ACT gains regardless of starting PLAN score; students with Ds or Fs lose ground](good-grades-predict-act-gains.md) — related
 - [High school GPA is a better predictor of college graduation than standardized test scores, yet districts continue to rely on test-based readiness benchmarks](gpa-better-predictor-than-test-scores.md) — related
 - [Course grades are more predictive than standardized test scores of high school and college success](grades-more-predictive-than-test-scores.md) — related
-- [Attending a high school with higher social-emotional value-added increases students' likelihood of graduating and enrolling in a four-year college](sel-value-added-graduation-college-enrollment.md) — related
+- Attending a high school with higher social-emotional value-added increases students' likelihood of graduating and enrolling in a four-year college — related
 - [Prediction and intervention are different problems: highly predictive features such as prior GPA are often ones an institution cannot change](prediction-versus-causal-intervention-distinction.md) — related

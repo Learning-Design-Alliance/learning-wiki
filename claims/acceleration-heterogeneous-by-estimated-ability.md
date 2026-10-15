@@ -10,7 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: domingue-2021
-    title: "Domingue, B., Kanopka, K., Staug, B., Soland, J., Kuhfeld, M., Wise, S., & Piech, C. (2021). Variation in respondent speed and its implications: Evidence from an adaptive testing scenario. Journal of Educational Measurement, 58(3), 335-363."
+    resource: "https://doi.org/10.1111/jedm.12291"
+    title: "Domingue, B., Kanopka, K., Staug, B., Soland, J., Kuhfeld, M., Wise, S., & Piech, C. (2021). Variation in respondent speed and its implications: Evidence from an adaptive testing scenario. Journal of Educational Measurement, 58(3), 335-363. [doi:10.1111/jedm.12291](https://doi.org/10.1111/jedm.12291)"
     author: "Domingue, B., Kanopka, K., Staug, B., Soland, J., Kuhfeld, M., Wise, S., & Piech, C."
     q: 2
     i: "?"
@@ -30,7 +31,7 @@ sources:
 
 ### Domingue 2021
 
-Domingue, B., Kanopka, K., Staug, B., Soland, J., Kuhfeld, M., Wise, S., & Piech, C. (2021). Variation in respondent speed and its implications: Evidence from an adaptive testing scenario. Journal of Educational Measurement, 58(3), 335-363.
+Domingue, B., Kanopka, K., Staug, B., Soland, J., Kuhfeld, M., Wise, S., & Piech, C. (2021). Variation in respondent speed and its implications: Evidence from an adaptive testing scenario. Journal of Educational Measurement, 58(3), 335-363. [doi:10.1111/jedm.12291](https://doi.org/10.1111/jedm.12291)
 
 `q2 · i?` · `associational · r2`
 

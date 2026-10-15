@@ -18,7 +18,7 @@ sources:
 # Xtreme Reading
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (2 for, 2 mixed, 1 against) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Xtreme Reading is a structured supplemental curriculum for struggling adolescent readers, derived from the University of Kansas Strategic Instruction Model and delivered through trained teachers using prescribed strategy lessons and materials.
@@ -28,11 +28,6 @@ Xtreme Reading is a structured supplemental curriculum for struggling adolescent
 - **Xtreme Reading supplemental reading program for struggling adolescent readers**: Xtreme Reading is a supplemental program derived from the University of Kansas Strategic Instruction Model, designed to teach struggling adolescent readers step-by-step strategies including "word identification, vocabulary, self-questioning, visual imagery, paraphrasing, and inference". It is recommended for students at the 4th grade level or higher scoring 2 grades or more below grade level, and teachers are trained in highly structured methods with structured materials. (Xtreme Reading (2011))
 
 ### Claims
-- [Five studies yield a modest average effect size of +0.09 for Xtreme Reading on reading measures, qualifying it for the Strong category](../claims/xtreme-reading-average-effect-009.md) [+W]
-- [A large national study and a smaller western Massachusetts study found no differences for Xtreme Reading on grade-level and state-test outcomes](../claims/xtreme-reading-null-national-massachusetts.md) [-W]
-- [A Portland, OR study found positive Xtreme Reading outcomes compared to control schools in both middle and high schools (effect size = +0.15)](../claims/xtreme-reading-portland-es-015.md) [+W]
-- [Teachers reported overall satisfaction with Xtreme Reading, but buy-in was more positive among middle school than high school teachers](../claims/xtreme-reading-teacher-satisfaction-middle-vs-high.md) [~W]
-- [Variations of Xtreme Reading showed mixed results: Kentucky's Learning Strategies Curriculum was significantly positive (ES = +0.10) while Michigan's Fusion Reading was non-significant (ES = +0.07)](../claims/xtreme-reading-variants-mixed-effects.md) [~W]
 
 ## Related Products and Programmes
 -
@@ -67,11 +62,6 @@ Xtreme Reading is a supplemental program derived from the University of Kansas S
 
 ## Claims
 
-- [Five studies yield a modest average effect size of +0.09 for Xtreme Reading on reading measures, qualifying it for the Strong category](../claims/xtreme-reading-average-effect-009.md) [+W]
-- [A large national study and a smaller western Massachusetts study found no differences for Xtreme Reading on grade-level and state-test outcomes](../claims/xtreme-reading-null-national-massachusetts.md) [-W]
-- [A Portland, OR study found positive Xtreme Reading outcomes compared to control schools in both middle and high schools (effect size = +0.15)](../claims/xtreme-reading-portland-es-015.md) [+W]
-- [Teachers reported overall satisfaction with Xtreme Reading, but buy-in was more positive among middle school than high school teachers](../claims/xtreme-reading-teacher-satisfaction-middle-vs-high.md) [~W]
-- [Variations of Xtreme Reading showed mixed results: Kentucky's Learning Strategies Curriculum was significantly positive (ES = +0.10) while Michigan's Fusion Reading was non-significant (ES = +0.07)](../claims/xtreme-reading-variants-mixed-effects.md) [~W]
 
 ## Related Elements
 

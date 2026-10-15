@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: guttormsen-schär-2007
-    resource: "https://eric.ed.gov/?id=EJ826063"
-    title: "Guttormsen Schär, S., & Zimmermann, P. G. (2007). Investigating Means to Reduce Cognitive Load from Animations: Applying Differentiated Measures of Knowledge Representation. Journal of Research on Technology in Education, 40(1), 64–78. https://eric.ed.gov/?id=EJ826063"
+    resource: "https://doi.org/10.1080/15391523.2007.10782497"
+    title: "Guttormsen Schär, S., & Zimmermann, P. G. (2007). Investigating Means to Reduce Cognitive Load from Animations: Applying Differentiated Measures of Knowledge Representation. Journal of Research on Technology in Education, 40(1), 64–78. https://eric.ed.gov/?id=EJ826063 [doi:10.1080/15391523.2007.10782497](https://doi.org/10.1080/15391523.2007.10782497)"
     author: "Guttormsen Schär, S., & Zimmermann, P. G."
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Guttormsen Schär 2007
 
-Guttormsen Schär, S., & Zimmermann, P. G. (2007). Investigating Means to Reduce Cognitive Load from Animations: Applying Differentiated Measures of Knowledge Representation. Journal of Research on Technology in Education, 40(1), 64–78. https://eric.ed.gov/?id=EJ826063
+Guttormsen Schär, S., & Zimmermann, P. G. (2007). Investigating Means to Reduce Cognitive Load from Animations: Applying Differentiated Measures of Knowledge Representation. Journal of Research on Technology in Education, 40(1), 64–78. https://eric.ed.gov/?id=EJ826063 [doi:10.1080/15391523.2007.10782497](https://doi.org/10.1080/15391523.2007.10782497)
 
 `q2 · i?` · `causal · r1`
 
@@ -48,4 +48,4 @@ Correlation analysis between logged use of navigation elements (stop, start, spo
 - [Segmenting multimedia instruction into learner-paced segments improves retention and transfer performance with small-to-medium effects](segmenting-improves-multimedia-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Animations appear to pacify learners: static-picture groups navigated far more actively than the animation group](animations-pacify-learners-navigation-imbalance.md) — related
 - [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](learner-paced-beats-system-paced-complex-material.md) — reports the opposite
-- [Control students rarely used the optional game, while treatment students logged in as expected](control-students-rarely-played-game.md) — related
+- Control students rarely used the optional game, while treatment students logged in as expected — related

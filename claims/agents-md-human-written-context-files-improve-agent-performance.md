@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: mikael-gorsky-holon-institute-of-technology-2026
-    resource: "https://arxiv.org/abs/2606.01152"
-    title: "Mikael Gorsky (Holon Institute of Technology). (2026). ASE-26: a curriculum for agentic software engineering as a discipline. https://arxiv.org/abs/2606.01152"
+    resource: "https://doi.org/10.48550/arxiv.2606.01152"
+    title: "Mikael Gorsky (Holon Institute of Technology). (2026). ASE-26: a curriculum for agentic software engineering as a discipline. https://arxiv.org/abs/2606.01152 [doi:10.48550/arxiv.2606.01152](https://doi.org/10.48550/arxiv.2606.01152)"
     author: Mikael Gorsky (Holon Institute of Technology)
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Mikael Gorsky (Holon Institute of Technology) 2026
 
-Mikael Gorsky (Holon Institute of Technology). (2026). ASE-26: a curriculum for agentic software engineering as a discipline. https://arxiv.org/abs/2606.01152
+Mikael Gorsky (Holon Institute of Technology). (2026). ASE-26: a curriculum for agentic software engineering as a discipline. https://arxiv.org/abs/2606.01152 [doi:10.48550/arxiv.2606.01152](https://doi.org/10.48550/arxiv.2606.01152)
 
 `q2 · i?` · `design · r1`
 

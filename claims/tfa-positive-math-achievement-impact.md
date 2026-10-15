@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: steven-glazerman-2006
-    resource: "https://www.mathematica.org/publications/alternative-routes-to-teaching-the-impacts-of-teach-for-america-on-student-achievement-and-other-outcomes"
-    title: "Steven Glazerman, Daniel Mayer, Paul Decker. (2006). Alternative Routes to Teaching: The Impacts of Teach For America on Student Achievement and Other Outcomes. Journal of Policy Analysis and Management, vol. 25, no. 1. https://www.mathematica.org/publications/alternative-routes-to-teaching-the-impacts-of-teach-for-america-on-student-achievement-and-other-outcomes"
+    resource: "https://doi.org/10.1002/pam.20157"
+    title: "Steven Glazerman, Daniel Mayer, Paul Decker. (2006). Alternative Routes to Teaching: The Impacts of Teach For America on Student Achievement and Other Outcomes. Journal of Policy Analysis and Management, vol. 25, no. 1. https://www.mathematica.org/publications/alternative-routes-to-teaching-the-impacts-of-teach-for-america-on-student-achievement-and-other-outcomes [doi:10.1002/pam.20157](https://doi.org/10.1002/pam.20157)"
     author: Steven Glazerman, Daniel Mayer, Paul Decker
     q: 3
     i: 0
@@ -31,7 +31,7 @@ sources:
 
 ### Steven Glazerman 2006
 
-Steven Glazerman, Daniel Mayer, Paul Decker. (2006). Alternative Routes to Teaching: The Impacts of Teach For America on Student Achievement and Other Outcomes. Journal of Policy Analysis and Management, vol. 25, no. 1. https://www.mathematica.org/publications/alternative-routes-to-teaching-the-impacts-of-teach-for-america-on-student-achievement-and-other-outcomes
+Steven Glazerman, Daniel Mayer, Paul Decker. (2006). Alternative Routes to Teaching: The Impacts of Teach For America on Student Achievement and Other Outcomes. Journal of Policy Analysis and Management, vol. 25, no. 1. https://www.mathematica.org/publications/alternative-routes-to-teaching-the-impacts-of-teach-for-america-on-student-achievement-and-other-outcomes [doi:10.1002/pam.20157](https://doi.org/10.1002/pam.20157)
 
 `q3 · i0` · `causal · r?`
 

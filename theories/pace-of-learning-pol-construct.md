@@ -16,7 +16,7 @@ sources:
 # Pace of Learning (POL): the slope of a student's achievement growth as an organizing construct for recovery policy
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 quant-synthesis), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The brief defines pace of learning as the rate at which a student improves, calculated from prior test records: "This rate is referred to as the student's pace of learning (POL)" and "Mathematically, this is calculated by measuring the slope of the line drawn between two achievement points." Students with different POLs gain different amounts from the same 180 days of instruction, so programs "will only result in learning that is on par with a student’s POL." The construct is used to project twelve-year recovery horizons under different loss scenarios.
@@ -37,9 +37,6 @@ The brief defines pace of learning as the rate at which a student improves, calc
 
 ### Claims
 
-- [Math shows slower recovery than reading in the full meta-analysis](../claims/math-slower-recovery-than-reading.md) [+W]
-- [Even with three additional years of instruction, roughly a quarter of students remain below the 12th-grade reading benchmark across loss scenarios](../claims/three-extra-years-leaves-quarter-undereducated.md) [+W]
-- [Historically underserved student groups show substantially lower shares meeting the 12th-grade reading benchmark, with gaps up to 30 percentage points](../claims/underserved-groups-lower-benchmark-shares-pol.md) [+W]
 
 ## Related Theories
 

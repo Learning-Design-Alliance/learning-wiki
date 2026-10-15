@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: gregorio-orlando-2026
-    resource: "https://arxiv.org/abs/2609.38737"
-    title: "Gregorio Orlando, Milan Groshev, Eduardo Castelló Ferrer. (2026). AIfred: Augmented Learning through Functional Robotic Embodiment at the Desk. https://arxiv.org/abs/2609.38737"
+    resource: "https://doi.org/10.48550/arxiv.2609.38737"
+    title: "Gregorio Orlando, Milan Groshev, Eduardo Castelló Ferrer. (2026). AIfred: Augmented Learning through Functional Robotic Embodiment at the Desk. https://arxiv.org/abs/2609.38737 [doi:10.48550/arxiv.2609.38737](https://doi.org/10.48550/arxiv.2609.38737)"
     author: Gregorio Orlando, Milan Groshev, Eduardo Castelló Ferrer
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Gregorio Orlando 2026
 
-Gregorio Orlando, Milan Groshev, Eduardo Castelló Ferrer. (2026). AIfred: Augmented Learning through Functional Robotic Embodiment at the Desk. https://arxiv.org/abs/2609.38737
+Gregorio Orlando, Milan Groshev, Eduardo Castelló Ferrer. (2026). AIfred: Augmented Learning through Functional Robotic Embodiment at the Desk. https://arxiv.org/abs/2609.38737 [doi:10.48550/arxiv.2609.38737](https://doi.org/10.48550/arxiv.2609.38737)
 
 `q2 · i?` · `causal · r1`
 
@@ -46,4 +46,4 @@ In the assisted math assignment, graded by four anonymized Gemini grading agents
 - [Robotic projected AI assistance yields 60% higher short-term learning transfer than screen-based ChatGPT once assistance is withdrawn](aifred-higher-short-term-learning-transfer.md) — related
 - [AIfred reduces observed physical-digital context switches by 98% relative to screen-based assistance, while task completion time is longer](aifred-context-switch-reduction-longer-time.md) — related
 - [AIfred users report higher perceived learning support, innovation, satisfaction, and cognitive demand, with no difference in perceived productivity](aifred-user-experience-ratings.md) — related
-- [Student effort on assignments, measured by time-on-task and keystrokes, showed no evidence of decrease when AI use was allowed](cs1-cr-effort-unchanged-despite-ai.md) — related
+- Student effort on assignments, measured by time-on-task and keystrokes, showed no evidence of decrease when AI use was allowed — related

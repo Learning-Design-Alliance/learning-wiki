@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` In an autoethnographic account, a community partner states that the CSL course was the first to allow the partner a voice in determining and implementing the service project. [→ Warren-Gordon 2019](#warren-gordon-2019)
@@ -45,6 +46,6 @@ Autoethnographic first-person narrative by the community partner (Frank Scott) w
 
 - [Positive relationships with professors, community partners, and peer mentors are associated with increased intention to be civically engaged](positive-relationships-increase-civic-engagement-intention.md) — the general claim this finding bears on, with the studies behind it
 - [Community projects need conceptual framing to avoid narrowing the learning object](community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object.md) — related
-- [The authors argue that co-establishing the service-learning project with the community partner secures partner buy-in and lasting community value](csl-co-established-projects-secure-partner-buy-in.md) — related
+- The authors argue that co-establishing the service-learning project with the community partner secures partner buy-in and lasting community value — related
 - [Direct one-on-one interaction with community partners is reported to help students see community members as people rather than stereotypes](csl-one-on-one-partner-contact-disrupts-stereotypes.md) — related
 - [Power should be conceptualized as diffuse and structural, and as people's capacity to act under constraint](power-as-structural-and-capacity-to-act.md) — related

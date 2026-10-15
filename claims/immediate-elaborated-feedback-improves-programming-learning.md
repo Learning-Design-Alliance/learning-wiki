@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: meriem-zerkouk-2025
-    resource: "https://arxiv.org/abs/2507.18882"
-    title: "Meriem Zerkouk, Miloud Mihoubi and Belkacem Chikhaoui. (2025). A Comprehensive Review of AI-based Intelligent Tutoring Systems: Applications and Challenges. arXiv preprint. https://arxiv.org/abs/2507.18882"
+    resource: "https://doi.org/10.48550/arxiv.2507.18882"
+    title: "Meriem Zerkouk, Miloud Mihoubi and Belkacem Chikhaoui. (2025). A Comprehensive Review of AI-based Intelligent Tutoring Systems: Applications and Challenges. arXiv preprint. https://arxiv.org/abs/2507.18882 [doi:10.48550/arxiv.2507.18882](https://doi.org/10.48550/arxiv.2507.18882)"
     author: Meriem Zerkouk, Miloud Mihoubi and Belkacem Chikhaoui
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Meriem Zerkouk 2025
 
-Meriem Zerkouk, Miloud Mihoubi and Belkacem Chikhaoui. (2025). A Comprehensive Review of AI-based Intelligent Tutoring Systems: Applications and Challenges. arXiv preprint. https://arxiv.org/abs/2507.18882
+Meriem Zerkouk, Miloud Mihoubi and Belkacem Chikhaoui. (2025). A Comprehensive Review of AI-based Intelligent Tutoring Systems: Applications and Challenges. arXiv preprint. https://arxiv.org/abs/2507.18882 [doi:10.48550/arxiv.2507.18882](https://doi.org/10.48550/arxiv.2507.18882)
 
 `q2 · i?` · `review · r2`
 

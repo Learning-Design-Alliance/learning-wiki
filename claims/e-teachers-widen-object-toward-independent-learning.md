@@ -11,8 +11,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: murphy-2009
-    resource: "https://www.irrodl.org/index.php/irrodl"
-    title: "Murphy, E., & Rodriguez-Manzanares, M. A. (2009). Sage without a Stage: Expanding the Object of Teaching in a Web-Based, High-School Classroom. International Review of Research in Open and Distance Learning, 10(3). https://www.irrodl.org/index.php/irrodl"
+    resource: "https://doi.org/10.19173/irrodl.v10i3.579"
+    title: "Murphy, E., & Rodriguez-Manzanares, M. A. (2009). Sage without a Stage: Expanding the Object of Teaching in a Web-Based, High-School Classroom. International Review of Research in Open and Distance Learning, 10(3). https://www.irrodl.org/index.php/irrodl [doi:10.19173/irrodl.v10i3.579](https://doi.org/10.19173/irrodl.v10i3.579)"
     author: "Murphy, E., & Rodriguez-Manzanares, M. A."
     q: 2
     i: "?"
@@ -35,7 +35,7 @@ sources:
 
 ### Murphy 2009
 
-Murphy, E., & Rodriguez-Manzanares, M. A. (2009). Sage without a Stage: Expanding the Object of Teaching in a Web-Based, High-School Classroom. International Review of Research in Open and Distance Learning, 10(3). https://www.irrodl.org/index.php/irrodl
+Murphy, E., & Rodriguez-Manzanares, M. A. (2009). Sage without a Stage: Expanding the Object of Teaching in a Web-Based, High-School Classroom. International Review of Research in Open and Distance Learning, 10(3). https://www.irrodl.org/index.php/irrodl [doi:10.19173/irrodl.v10i3.579](https://doi.org/10.19173/irrodl.v10i3.579)
 
 `q2 · i?` · `qualitative · r2`
 

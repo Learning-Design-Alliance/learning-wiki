@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: tithi-2026
-    resource: "https://arxiv.org/abs/2602.07308"
-    title: "Tithi, S.D., Alam, N., Yasir, T., Shi, Y., Tian, X., Chi, M., Barnes, T. (2026). Adaptive Scaffolding for Cognitive Engagement in an Intelligent Tutoring System. arXiv. https://arxiv.org/abs/2602.07308"
+    resource: "https://doi.org/10.48550/arxiv.2602.07308"
+    title: "Tithi, S.D., Alam, N., Yasir, T., Shi, Y., Tian, X., Chi, M., Barnes, T. (2026). Adaptive Scaffolding for Cognitive Engagement in an Intelligent Tutoring System. arXiv. https://arxiv.org/abs/2602.07308 [doi:10.48550/arxiv.2602.07308](https://doi.org/10.48550/arxiv.2602.07308)"
     author: Tithi, S.D., Alam, N., Yasir, T., Shi, Y., Tian, X., Chi, M., Barnes, T.
     q: 3
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # BKT students completed posttest problems significantly faster than Control students, with DRL showing marginal advantages in time and solution optimality
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Evidence** · 2 studies · 2 causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` BKT students completed posttest problems significantly faster than Control students (10.8 vs 11.8 minutes, p= 0.02, A=.58). [→ Tithi 2026](#tithi-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Tithi 2026
 
-Tithi, S.D., Alam, N., Yasir, T., Shi, Y., Tian, X., Chi, M., Barnes, T. (2026). Adaptive Scaffolding for Cognitive Engagement in an Intelligent Tutoring System. arXiv. https://arxiv.org/abs/2602.07308
+Tithi, S.D., Alam, N., Yasir, T., Shi, Y., Tian, X., Chi, M., Barnes, T. (2026). Adaptive Scaffolding for Cognitive Engagement in an Intelligent Tutoring System. arXiv. https://arxiv.org/abs/2602.07308 [doi:10.48550/arxiv.2602.07308](https://doi.org/10.48550/arxiv.2602.07308)
 
 `q3 · i?` · `causal · r2`
 
@@ -63,8 +63,8 @@ Posttest solution optimality (steps) comparison; shorter solutions with fewer st
 
 ## Related Claims
 - [Adaptive scaffolding policies (BKT and DRL) significantly improve posttest performance over a non-adaptive control in a logic ITS](adaptive-icap-scaffolding-improves-posttest-logic-tutor.md) — related
-- [Adaptive-condition students complete the posttest in significantly less time than Control students](adaptive-proactive-hints-less-posttest-time.md) — a broader claim this one bears on
-- [Students receiving Adaptive proactive hints based on HelpNeed predictions achieve significantly higher posttest optimality than Control students](adaptive-proactive-hints-higher-posttest-optimality.md) — related
+- Adaptive-condition students complete the posttest in significantly less time than Control students — a broader claim this one bears on
+- Students receiving Adaptive proactive hints based on HelpNeed predictions achieve significantly higher posttest optimality than Control students — related
 - [The DRL policy produced a significantly different scaffolding distribution than Control and BKT, favoring Guided examples (60%) and avoiding Buggy examples (4%)](drl-policy-favors-guided-examples-distribution.md) — related
 - [No significant differences in posttest rule accuracy across scaffolding conditions](no-rule-accuracy-difference-across-conditions.md) — related
 - [Both hint conditions took more time-on-task than control, but ChatGPT and human tutor conditions did not differ in session time](hint-conditions-time-on-task.md) — related

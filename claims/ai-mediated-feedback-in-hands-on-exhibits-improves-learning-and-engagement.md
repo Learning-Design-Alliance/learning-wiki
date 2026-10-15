@@ -58,4 +58,4 @@ This is one of the stronger-evidence sources in this ingestion round: a randomiz
 - [In the Oztoc museum game-exhibit, learning occurs when visitors explain to each other, and a combination of physical blocks and screen-based representation is needed for deeper scientific and engineering practices](oztoc-physical-blocks-plus-screen-representation-deeper-practices.md) — related
 - [Personalized ChatGPT-supported feedback in an augmented-reality quantum physics laboratory improved learning outcomes and directed visual attention](chatgpt-ar-lab-feedback-improves-outcomes.md) — related
 - [Survey respondents strongly prefer power-specific hands-on AI materials over generic image-based examples](demand-for-power-specific-hands-on-ai-examples.md) — related
-- [Adding prediction and discussion to lecture demonstrations significantly improves students' ability to explain the outcomes compared with merely observing](predict-discuss-demonstrations-improve-explanations.md) — related
+- Adding prediction and discussion to lecture demonstrations significantly improves students' ability to explain the outcomes compared with merely observing — related

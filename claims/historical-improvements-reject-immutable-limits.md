@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 4 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Upper limits of performance in sports and music rose dramatically over the last century while the gene pool was essentially unchanged. [→ Ericsson 2005](#ericsson-2005)
@@ -48,5 +49,5 @@ Historical-comparison evidence reviewed by the authors, described as the best si
 - [Early training produces neural and physiological adaptations that can be misattributed to innate talent](early-training-adaptations-misread-as-talent.md) — related
 - [Reflective thinking dimensions correlate positively with learning process/expert knowledge and learning effort, and negatively with innate/fixed ability and certainty of knowledge](reflective-thinking-correlates-epistemological-beliefs.md) — related
 - [A review reports that relative-age effects tied to cohort cutoff dates bias selection into elite youth soccer and hockey](relative-age-effect-talent-selection-bias.md) — related
-- [In a changing world, today's excellence may be tomorrow's ignorance, so schools should perhaps strive for adaptability](todays-excellence-tomorrows-ignorance.md) — related
+- In a changing world, today's excellence may be tomorrow's ignorance, so schools should perhaps strive for adaptability — related
 - [Test scores measure accumulated knowledge at a moment in time, not innate student ability](test-scores-measure-opportunity-not-innate-ability.md) — a narrower finding that bears on this claim

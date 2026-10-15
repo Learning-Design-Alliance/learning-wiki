@@ -46,7 +46,7 @@ Cross-cutting finding reported in the abstract and RQ2 findings: learners direct
 - [Adult learners expect AI to support problem-centered learning by activating background knowledge, generating diagnostic insights, and strengthening critical thinking](ai-supports-problem-centered-critical-thinking.md) — related
 - [Students' main AI challenges are content reliability and depth, and most expect AI to serve as tutor, creative partner, and critical thinking partner rather than mere content generator](student-critical-ai-role-expectations.md) — related
 - [AI task scaffolding is positively associated with critical thinking and technical problem-solving among AI-using university students](ai-task-scaffolding-positive-higher-order-outcomes.md) — related
-- [Teachers find ChatGPT a creative, fast, iterative brainstorming partner that adds specific numbers and details when posing math questions from photos](chatgpt-brainstorming-partner-affordances.md) — related
+- Teachers find ChatGPT a creative, fast, iterative brainstorming partner that adds specific numbers and details when posing math questions from photos — related
 - [GenAI-assisted education produces significantly higher higher-order thinking abilities than non-GenAI approaches (g = 0.72)](genai-higher-order-thinking-g072.md) — related
 - [Expert scenarios across educational sectors position students as critical, agentic partners with AI who question and critique AI-generated content](students-critical-agentic-partners-with-ai-2030-scenarios.md) — related
 - [Embodied GenAI agents in mixed reality raised engagement and lowered cognitive load for 26 post-secondary learners during collaborative problem-solving](embodied-mr-agents-engagement-cognitive-load-26-learners.md) — related

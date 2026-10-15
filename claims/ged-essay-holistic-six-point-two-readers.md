@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` The 1988 GED writing skills test essay is scored by highly trained readers using a six-point holistic scale, with two independent readers and a third reader when scores differ by more than one point. [→ Coombs 1987](#coombs-1987)
@@ -43,6 +44,6 @@ The manual describes the scoring procedure for the 1988 GED essay as printed in 
 
 
 ## Related Claims
-- [Grammar instruction and skill drills show little carryover to composition success](grammar-drills-little-carryover-composition.md) — related
+- Grammar instruction and skill drills show little carryover to composition success — related
 - [The framework shows high scoring consistency, with 79% agreement and 81% inter-rater reliability on physics questions](framework-scoring-high-consistency-physics.md) — related
 - [In one community-college lab class, six scorers rating six teams with an engineering rubric differed by a mean of 1.2 of 9 points, which the authors read as a sign the rubric may not be reliable](engineering-rubric-low-scoring-reliability.md) — related

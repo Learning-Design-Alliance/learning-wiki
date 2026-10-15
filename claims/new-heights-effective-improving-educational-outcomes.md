@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: subuhi-asheer-2020
-    resource: "https://www.mathematica.org/publications/roadmap-for-effective-school-based-practices-to-support-expectant-and-parenting-youth-lessons"
-    title: "Subuhi Asheer, Susan Zief, Ruth Neild. (2020). Roadmap for Effective School-Based Practices to Support Expectant and Parenting Youth: Lessons from the New Heights Program in Washington, DC. Maternal and Child Health Journal, vol. 24. https://www.mathematica.org/publications/roadmap-for-effective-school-based-practices-to-support-expectant-and-parenting-youth-lessons"
+    resource: "https://doi.org/10.1007/s10995-020-02986-4"
+    title: "Subuhi Asheer, Susan Zief, Ruth Neild. (2020). Roadmap for Effective School-Based Practices to Support Expectant and Parenting Youth: Lessons from the New Heights Program in Washington, DC. Maternal and Child Health Journal, vol. 24. https://www.mathematica.org/publications/roadmap-for-effective-school-based-practices-to-support-expectant-and-parenting-youth-lessons [doi:10.1007/s10995-020-02986-4](https://doi.org/10.1007/s10995-020-02986-4)"
     author: Subuhi Asheer, Susan Zief, Ruth Neild
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Subuhi Asheer 2020
 
-Subuhi Asheer, Susan Zief, Ruth Neild. (2020). Roadmap for Effective School-Based Practices to Support Expectant and Parenting Youth: Lessons from the New Heights Program in Washington, DC. Maternal and Child Health Journal, vol. 24. https://www.mathematica.org/publications/roadmap-for-effective-school-based-practices-to-support-expectant-and-parenting-youth-lessons
+Subuhi Asheer, Susan Zief, Ruth Neild. (2020). Roadmap for Effective School-Based Practices to Support Expectant and Parenting Youth: Lessons from the New Heights Program in Washington, DC. Maternal and Child Health Journal, vol. 24. https://www.mathematica.org/publications/roadmap-for-effective-school-based-practices-to-support-expectant-and-parenting-youth-lessons [doi:10.1007/s10995-020-02986-4](https://doi.org/10.1007/s10995-020-02986-4)
 
 `q2 · i?` · `design · r?`
 

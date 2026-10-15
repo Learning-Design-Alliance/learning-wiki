@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: nama-2026
-    resource: "https://arxiv.org/abs/2605.27396"
-    title: "Nama, R. (2026). Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named. Author's accepted manuscript, AI and Ethics (Springer Nature). https://arxiv.org/abs/2605.27396"
+    resource: "https://doi.org/10.48550/arxiv.2605.27396"
+    title: "Nama, R. (2026). Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named. Author's accepted manuscript, AI and Ethics (Springer Nature). https://arxiv.org/abs/2605.27396 [doi:10.48550/arxiv.2605.27396](https://doi.org/10.48550/arxiv.2605.27396)"
     author: Nama, R.
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Nama 2026
 
-Nama, R. (2026). Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named. Author's accepted manuscript, AI and Ethics (Springer Nature). https://arxiv.org/abs/2605.27396
+Nama, R. (2026). Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named. Author's accepted manuscript, AI and Ethics (Springer Nature). https://arxiv.org/abs/2605.27396 [doi:10.48550/arxiv.2605.27396](https://doi.org/10.48550/arxiv.2605.27396)
 
 `q1 · i?` · `theoretical · r3`
 

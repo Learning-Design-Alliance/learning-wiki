@@ -22,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i3` Teleologic explanations and anthropomorphic languages of the student-respondents are attributed to their age (r = .731, p < .001) and curricular undertakings (Χ2 = -.308, p = .033). [→ Bautista 2015](#bautista-2015)

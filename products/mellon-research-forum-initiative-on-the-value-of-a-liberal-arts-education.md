@@ -13,7 +13,7 @@ generated:
 # Mellon Research Forum initiative on the value of a liberal arts education
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 A Mellon Foundation research initiative that supports and organizes scholarly inquiry into the multiple outcomes of a liberal arts education.
@@ -23,7 +23,6 @@ A Mellon Foundation research initiative that supports and organizes scholarly in
 
 ### Claims
 
-- [The paper asks whether noncognitive benefits of a liberal arts education accrue equally across social subgroups](../claims/noncognitive-benefits-subgroup-differences-question.md) [+W]
 
 ## Related Products and Programmes
 

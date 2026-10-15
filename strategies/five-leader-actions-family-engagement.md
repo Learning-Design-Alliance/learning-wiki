@@ -17,7 +17,7 @@ sources:
 # Five actions for school and district leaders to improve family engagement with young learners
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The report recommends that leaders (1) collect and regularly review family engagement data disaggregated by race, ethnicity, home language, disability status, and income; (2) provide supports and clearer communication about academic expectations; (3) reduce barriers by continuing flexible scheduling, virtual meeting spaces, home visits, and text messaging, plus child care and transportation help; (4) make engagement and curriculum incorporate "the language, culture, history, and lived experiences of all students"; and (5) provide educators with professional development, onboarding, evaluation integration, and data systems. It grounds these in its survey findings and existing research.
@@ -38,7 +38,6 @@ The report recommends that leaders (1) collect and regularly review family engag
 
 ## Claims
 
-- [Existing race and ethnicity data standards render some Indigenous students and diverse Asian American and Native Hawaiian/Pacific Islander students invisible, concealing disparities that disaggregated data would reveal](../claims/data-standards-render-marginalized-students-invisible.md) [+W]
 
 ## Related Strategies
 

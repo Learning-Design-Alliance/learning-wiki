@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: satoshi-takahashi-2026
-    resource: "https://arxiv.org/abs/2609.25790"
-    title: "Satoshi Takahashi, Atsushi Yoshikawa, Megumi Kose, Kenichi Suzuki, Chieko Inoue, Yumi Watanabe, and Mari Sawada. (2026). Automating Constructive Assessment with Large Language Models: Toward Scalable and Repeated Evaluation of Practical Competence. arXiv. https://arxiv.org/abs/2609.25790"
+    resource: "https://doi.org/10.48550/arxiv.2609.25790"
+    title: "Satoshi Takahashi, Atsushi Yoshikawa, Megumi Kose, Kenichi Suzuki, Chieko Inoue, Yumi Watanabe, and Mari Sawada. (2026). Automating Constructive Assessment with Large Language Models: Toward Scalable and Repeated Evaluation of Practical Competence. arXiv. https://arxiv.org/abs/2609.25790 [doi:10.48550/arxiv.2609.25790](https://doi.org/10.48550/arxiv.2609.25790)"
     author: Satoshi Takahashi, Atsushi Yoshikawa, Megumi Kose, Kenichi Suzuki, Chieko Inoue, Yumi Watanabe, and Mari Sawada
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Satoshi Takahashi 2026
 
-Satoshi Takahashi, Atsushi Yoshikawa, Megumi Kose, Kenichi Suzuki, Chieko Inoue, Yumi Watanabe, and Mari Sawada. (2026). Automating Constructive Assessment with Large Language Models: Toward Scalable and Repeated Evaluation of Practical Competence. arXiv. https://arxiv.org/abs/2609.25790
+Satoshi Takahashi, Atsushi Yoshikawa, Megumi Kose, Kenichi Suzuki, Chieko Inoue, Yumi Watanabe, and Mari Sawada. (2026). Automating Constructive Assessment with Large Language Models: Toward Scalable and Repeated Evaluation of Practical Competence. arXiv. https://arxiv.org/abs/2609.25790 [doi:10.48550/arxiv.2609.25790](https://doi.org/10.48550/arxiv.2609.25790)
 
 `q2 · i?` · `design · r2`
 

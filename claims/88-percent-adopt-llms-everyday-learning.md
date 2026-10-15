@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: terzimehić-2025
-    resource: "https://arxiv.org/abs/2506.11789"
-    title: "Terzimehić, N., Bühler, B., & Kasneci, E. (2025). Conversational AI as a Catalyst for Informal Learning: An Empirical Large-Scale Study on LLM Use in Everyday Learning. https://arxiv.org/abs/2506.11789"
+    resource: "https://doi.org/10.48550/arxiv.2506.11789"
+    title: "Terzimehić, N., Bühler, B., & Kasneci, E. (2025). Conversational AI as a Catalyst for Informal Learning: An Empirical Large-Scale Study on LLM Use in Everyday Learning. https://arxiv.org/abs/2506.11789 [doi:10.48550/arxiv.2506.11789](https://doi.org/10.48550/arxiv.2506.11789)"
     author: "Terzimehić, N., Bühler, B., & Kasneci, E."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Terzimehić 2025
 
-Terzimehić, N., Bühler, B., & Kasneci, E. (2025). Conversational AI as a Catalyst for Informal Learning: An Empirical Large-Scale Study on LLM Use in Everyday Learning. https://arxiv.org/abs/2506.11789
+Terzimehić, N., Bühler, B., & Kasneci, E. (2025). Conversational AI as a Catalyst for Informal Learning: An Empirical Large-Scale Study on LLM Use in Everyday Learning. https://arxiv.org/abs/2506.11789 [doi:10.48550/arxiv.2506.11789](https://doi.org/10.48550/arxiv.2506.11789)
 
 `q2 · i?` · `associational · r2`
 

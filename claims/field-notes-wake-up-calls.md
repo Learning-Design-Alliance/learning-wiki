@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Teachers only questioned and challenged their contrary practices when they saw them in print; reading the field-notes made the mismatch between their values and practices obvious. [→ Norberg 2003](#norberg-2003)
@@ -43,7 +44,7 @@ From the wake-up calls section: two teachers who had repeated conflicts with dis
 
 
 ## Related Claims
-- [Learning objects clearly lifted forward during a lesson resulted in pupils' learning, even when not the intended learning object](clearly-lifted-learning-object-yields-pupil-learning.md) — related
+- Learning objects clearly lifted forward during a lesson resulted in pupils' learning, even when not the intended learning object — related
 - [Teachers' spontaneous in-the-moment reactions draw on internalised earlier values rather than the curriculum's constitutive values](spontaneous-reactions-draw-on-internalised-values.md) — related
 - [Pragmatic values of keeping order counteracted the democratic values teachers were mandated to realise](pragmatic-values-counteract-democratic-values.md) — related
 - [Teachers draw intervention boundaries by visibility, academic-versus-relational character, and a safety override, not by perceived harm](teachers-jurisdiction-tests-visibility-academic-safety.md) — related

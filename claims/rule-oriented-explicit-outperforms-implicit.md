@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` The rule-oriented group with a high degree of explicitness outperformed groups receiving implicit instruction or no instruction on the indirect-object word-order structure. [→ Raafat Gabriel 2009](#raafat-gabriel-2009)

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: morzinski-2010
-    resource: "https://arxiv.org/abs/1009.3296"
-    title: "Morzinski, K., Azucena, O., Downs, C., Favaloro, T., Park, J., & U, V. (2010). Circuit Design: An inquiry lab activity at Maui Community College. ASP Conference Series. https://arxiv.org/abs/1009.3296"
+    resource: "https://doi.org/10.48550/arxiv.1009.3296"
+    title: "Morzinski, K., Azucena, O., Downs, C., Favaloro, T., Park, J., & U, V. (2010). Circuit Design: An inquiry lab activity at Maui Community College. ASP Conference Series. https://arxiv.org/abs/1009.3296 [doi:10.48550/arxiv.1009.3296](https://doi.org/10.48550/arxiv.1009.3296)"
     author: "Morzinski, K., Azucena, O., Downs, C., Favaloro, T., Park, J., & U, V."
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Morzinski 2010
 
-Morzinski, K., Azucena, O., Downs, C., Favaloro, T., Park, J., & U, V. (2010). Circuit Design: An inquiry lab activity at Maui Community College. ASP Conference Series. https://arxiv.org/abs/1009.3296
+Morzinski, K., Azucena, O., Downs, C., Favaloro, T., Park, J., & U, V. (2010). Circuit Design: An inquiry lab activity at Maui Community College. ASP Conference Series. https://arxiv.org/abs/1009.3296 [doi:10.48550/arxiv.1009.3296](https://doi.org/10.48550/arxiv.1009.3296)
 
 `q1 · i?` · `design · r2`
 
@@ -46,5 +46,5 @@ Authors' overall evaluation in the Conclusions of a single implementation of the
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
 - [In one community-college lab class, six scorers rating six teams with an engineering rubric differed by a mean of 1.2 of 9 points, which the authors read as a sign the rubric may not be reliable](engineering-rubric-low-scoring-reliability.md) — related
 - [Inquiry-first teaching stimulates interest, sharpens reading, and helps organize course work](inquiry-first-stimulates-interest-and-organizes-course.md) — a broader claim this one bears on
-- [Graduate students generally enjoyed a seminar taught through expert telelectures and telediscussion](telelecture-seminar-enjoyed-by-graduate-students.md) — related
-- [Goal attainment was low, and child development goals were accomplished at a higher rate than adult centered goals](low-goal-attainment-child-goals-higher-rate.md) — related
+- Graduate students generally enjoyed a seminar taught through expert telelectures and telediscussion — related
+- Goal attainment was low, and child development goals were accomplished at a higher rate than adult centered goals — related

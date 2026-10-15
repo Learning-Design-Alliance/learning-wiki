@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q3`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q3 i?` In an online sorting task, 97 WIL educators sorted each of 11 talent labels into its proposed cluster at rates significantly above the 25% chance level (one-sample t-tests, all p < .001). [→ Pretti 2021](#pretti-2021)

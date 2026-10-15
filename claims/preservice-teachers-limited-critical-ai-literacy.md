@@ -45,5 +45,5 @@ The review reports, citing Navío-Inglés et al. (2025), a mixed-methods study i
 ## Related Claims
 - [Hybridization of authorship blends human and AI-generated content, often without learners' explicit awareness of the boundary, normalizing formulaic rhetorical structures](hybridization-of-authorship-argumentation.md) — related
 - [Installing the synthetic position as promoter can raise self-narrative coherence while lowering authorship of it (authorship-coherence dissociation)](authorship-coherence-dissociation-prediction.md) — related
-- [Reviewed studies consistently raise concerns about AI accuracy, overreliance, academic integrity, and reduced critical engagement in Arab EL2 contexts](ai-concerns-overreliance-integrity-arab-el2.md) — a broader claim this one bears on
+- Reviewed studies consistently raise concerns about AI accuracy, overreliance, academic integrity, and reduced critical engagement in Arab EL2 contexts — a broader claim this one bears on
 - [Teachers report concerns about infrastructure, reliability, age appropriateness, teacher competence, and student over-reliance on AI](teacher-constraints-responsible-ai-integration.md) — related

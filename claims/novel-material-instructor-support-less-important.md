@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: slezak-2011
-    resource: "https://arxiv.org/abs/1110.0050"
-    title: "Slezak, C., Koenig, K. M., Endorf, R. J., & Braun, G. A. (2011). Investigating the Effectiveness of the Tutorials in Introductory Physics in Multiple Instructional Settings. https://arxiv.org/abs/1110.0050"
+    resource: "https://doi.org/10.48550/arxiv.1110.0050"
+    title: "Slezak, C., Koenig, K. M., Endorf, R. J., & Braun, G. A. (2011). Investigating the Effectiveness of the Tutorials in Introductory Physics in Multiple Instructional Settings. https://arxiv.org/abs/1110.0050 [doi:10.48550/arxiv.1110.0050](https://doi.org/10.48550/arxiv.1110.0050)"
     author: "Slezak, C., Koenig, K. M., Endorf, R. J., & Braun, G. A."
     q: 2
     i: 1
@@ -31,7 +31,7 @@ sources:
 
 ### Slezak 2011
 
-Slezak, C., Koenig, K. M., Endorf, R. J., & Braun, G. A. (2011). Investigating the Effectiveness of the Tutorials in Introductory Physics in Multiple Instructional Settings. https://arxiv.org/abs/1110.0050
+Slezak, C., Koenig, K. M., Endorf, R. J., & Braun, G. A. (2011). Investigating the Effectiveness of the Tutorials in Introductory Physics in Multiple Instructional Settings. https://arxiv.org/abs/1110.0050 [doi:10.48550/arxiv.1110.0050](https://doi.org/10.48550/arxiv.1110.0050)
 
 `q2 · i1` · `causal · r2`
 

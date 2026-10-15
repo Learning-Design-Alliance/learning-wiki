@@ -16,7 +16,7 @@ sources:
 # Systematic Error Tracing (SET) model
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The SET model is a knowledge-based recommendation system that traces the latent causes of a student's systematic errors using a bipartite graph linking causes to errors, derived from the Ising model. It computes cause probabilities from the relative number of links between a cause and the observed errors, which the authors note is "in accordance with Luce's choice axiom," and can be generalized to a given number of co-occurring causes. It is deliberately not tied to a specific theoretical framework of error origins and is designed for easy implementation in online learning systems, updating after each newly observed error response.
@@ -40,10 +40,6 @@ The SET model is a knowledge-based recommendation system that traces the latent 
 ### Claims
 
 - Set Outperforms Majority Vote Beyond Top Recommendation [+M]
-- [Set Cause Level Ranking Typo Reverse](../claims/set-cause-level-ranking-typo-reverse.md) [~M]
-- [In single-digit multiplication, most items are susceptible to nearly all considered error causes, which precludes the use of cognitive diagnostic models for this data](../claims/item-cause-density-precludes-cdms.md) [+W]
-- [Larger error windows improve SET ranking performance, with a window of 30 errors yielding the highest MAP regardless of edge-weight transformation](../claims/larger-error-windows-improve-set-ranking.md) [+W]
-- [SET calibration shows a window-size by beta interaction, with the lowest Brier score for window size 30, cause weights, and beta = .6](../claims/set-calibration-window-beta-interaction.md) [+W]
 
 ## Related Theories
 - 

@@ -13,7 +13,7 @@ generated:
 # SISTC integrated student dataset of 1,027 cleaned records with 14 features for dropout prediction
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 A de-identified dataset created by SISTC researchers by integrating enrollment, academic performance, demographic, and enrollment-history records to support modeling of student withdrawal and cancellation risk.
@@ -22,7 +22,6 @@ A de-identified dataset created by SISTC researchers by integrating enrollment, 
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Logistic Regression and linear-kernel SVM achieve the highest accuracy (99%) among five classifiers predicting student withdrawal/cancellation at SISTC](../claims/lr-linear-svm-highest-accuracy-dropout-prediction.md) [+M]
 
 ## Related Products and Programmes
 -

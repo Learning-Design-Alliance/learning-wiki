@@ -59,4 +59,4 @@ Authors' characterization of the polling design in the session feedback section:
 
 ## Related Claims
 - [AI-supported project-based learning at YCHS produced authentic student-designed products through iterative prompting and refinement](ai-supported-pbl-authentic-student-products.md) — related
-- [Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs](human-guidance-ethical-grounding-ai.md) — related
+- Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs — related

@@ -16,7 +16,7 @@ sources:
 # Four-type taxonomy of semantic relations in grapho-phonemically related Polish-English word pairs
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article organizes formally similar English/Polish word pairs by their semantic relation, following Lyons's distributional types. The system comprises equivalence (E alphabet : P alfabet), inclusion in either direction (E fiction : P fikcja; E protocol : P protokol), overlapping (E platform : P platforma), and contrast (E lecture : P lektura). The taxonomy structures the paper's analysis of lexical interference risk for translators and learners.
@@ -38,11 +38,6 @@ The article organizes formally similar English/Polish word pairs by their semant
 
 ### Claims
 
-- [Use of a deceptive word need not cause complete misunderstanding, but some semantic affinity in the pair is always necessary for such a translation to be correct](../claims/deceptive-word-use-not-always-complete-misunderstanding.md) [+W]
-- [Risk of semantic interference varies systematically across the four relation types, with full contrast always producing faulty translation when a formal replica is used](../claims/interference-risk-varies-by-relation-type.md) [+W]
-- [Morphological and derivational interference in Polish-English deceptive pairs is unidirectional, operating only in translation from Polish into English](../claims/morphological-interference-unidirectional-polish-to-english.md) [+W]
-- [In overlapping pairs, the danger of false identification of meanings is lower when the shared meaning is obvious in only one sense](../claims/overlap-degree-moderates-false-identification-risk.md) [+W]
-- [In contrast-type abstract-noun pairs, the Polish word's meaning is typically narrower, a generalization of the semantic element in the Polish word](../claims/polish-meanings-narrower-than-english-partners.md) [+W]
 
 ## Related Theories
 - 

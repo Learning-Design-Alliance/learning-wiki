@@ -18,7 +18,7 @@ sources:
 # Thinking Math!
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Innovamat's PreK–8 mathematics curriculum package combines socio-constructivist lessons, manipulative materials, student logbooks, digital planning and progress monitoring, adaptive practice, and professional development.
@@ -28,8 +28,6 @@ Innovamat's PreK–8 mathematics curriculum package combines socio-constructivis
 - **Thinking Math! (Innovamat PreK-8 mathematics curriculum)**: Thinking Math! is a PreK-8 mathematics program "grounded in socio-constructivist principles" aiming to develop "conceptual understanding, mathematical fluency, problem-solving, and mathematical reasoning." It bundles lesson guides, a digital planning and progress-monitoring platform, manipulative materials, student logbooks, and an adaptive individualized practice app, plus professional development and coaching. (Thinking Math! (Innovamat core curriculum) evidence rating summary (2025))
 
 ### Claims
-- [Thinking Math! effects were stronger for students who started in Grade 3 (+0.28) than for students who started in Grade 2 (+0.01)](../claims/thinking-math-grade-level-moderation.md) [~W]
-- [Thinking Math! students scored significantly higher in mathematics than matched comparison students after two years (ES = +0.24)](../claims/thinking-math-two-year-effect-024.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -66,8 +64,6 @@ Thinking Math! is a PreK-8 mathematics program "grounded in socio-constructivist
 
 ## Claims
 
-- [Thinking Math! effects were stronger for students who started in Grade 3 (+0.28) than for students who started in Grade 2 (+0.01)](../claims/thinking-math-grade-level-moderation.md) [~W]
-- [Thinking Math! students scored significantly higher in mathematics than matched comparison students after two years (ES = +0.24)](../claims/thinking-math-two-year-effect-024.md) [+W]
 
 ## Related Elements
 

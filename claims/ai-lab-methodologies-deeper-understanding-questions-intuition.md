@@ -44,7 +44,7 @@ The article's abstract asserts, without reported data, that AI-driven methodolog
 
 ## Related Claims
 - [Over-reliance on AI in chemical experimentation carries ethical considerations and pitfalls as AI automates routine tasks and alters how experiments are conceptualized](ai-overreliance-pitfalls-chemistry-experimentation.md) — related
-- [Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs](human-guidance-ethical-grounding-ai.md) — related
+- Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs — related
 - [PAIR-C scaffolding shows mixed evidence for deep understanding and reduced misconceptions in emergent-phenomena instruction](pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction.md) — related
 - [Adult learners expect AI to foster involvement by sparking questions, tapping interests, and providing continuous feedback and effort acknowledgment](ai-fosters-adult-learner-involvement.md) — related
 - [AI tools are reshaping traditional experimental approaches and creating novel opportunities for enhanced learning experiences in chemistry](ai-reshaping-experimental-approaches-learning-opportunities.md) — related

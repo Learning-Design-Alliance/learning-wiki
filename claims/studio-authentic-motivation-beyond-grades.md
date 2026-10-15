@@ -47,5 +47,5 @@ Postpositivist qualitative study (2014–2016) using interviews, observations, a
 - [Students believed interdisciplinary studio experiences would ease their transition into the workforce](studio-experience-prepares-students-for-workforce.md) — related
 - [Interest alignment is highest among course completers while economic motivations (higher pay, better benefits, increased stability) are highest among non-completers](interest-alignment-vs-economic-motivations-persistence.md) — related
 - [Youth motivation to persist in everyday problem-solving is minimal, costing them collaboration and new knowledge](minimal-persistence-everyday-problem-solving-youth.md) — related
-- [Learning Studio participation was associated with positive indicators of engagement and persistence, especially among high school students](learning-studios-engagement-persistence-indicators.md) — related
+- Learning Studio participation was associated with positive indicators of engagement and persistence, especially among high school students — related
 - [Authentic, challenging projects in the Learning Studio developed students' self-efficacy for future careers](authentic-projects-build-career-self-efficacy.md) — related

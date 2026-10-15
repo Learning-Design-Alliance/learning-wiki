@@ -10,8 +10,8 @@ generated:
 evidence_strength: mixed
 sources:
   - id: qusay-h-mahmoud-2026
-    resource: "https://arxiv.org/abs/2609.29473"
-    title: "Qusay H. Mahmoud. (2026). Judgment-Centred Software Engineering Education: A Post-Hype Review and Framework for AI-Augmented Learning. Preprint, September 2026. https://arxiv.org/abs/2609.29473"
+    resource: "https://doi.org/10.48550/arxiv.2609.29473"
+    title: "Qusay H. Mahmoud. (2026). Judgment-Centred Software Engineering Education: A Post-Hype Review and Framework for AI-Augmented Learning. Preprint, September 2026. https://arxiv.org/abs/2609.29473 [doi:10.48550/arxiv.2609.29473](https://doi.org/10.48550/arxiv.2609.29473)"
     author: Qusay H. Mahmoud
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # GenAI effects on externally assessed learning are highly heterogeneous and conditional on prior knowledge, scaffolding, verification, and task design, with pooled effects unstable under publication-bias correction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`
+> **Evidence** · 2 studies · 2 review `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` A STEM meta-analysis found a positive conventional pooled effect on externally assessed cognitive outcomes, but extreme heterogeneity and a publication-bias-adjusted analysis favouring no overall effect. [→ Qusay H. Mahmoud 2026](#qusay-h-mahmoud-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Qusay H. Mahmoud 2026
 
-Qusay H. Mahmoud. (2026). Judgment-Centred Software Engineering Education: A Post-Hype Review and Framework for AI-Augmented Learning. Preprint, September 2026. https://arxiv.org/abs/2609.29473
+Qusay H. Mahmoud. (2026). Judgment-Centred Software Engineering Education: A Post-Hype Review and Framework for AI-Augmented Learning. Preprint, September 2026. https://arxiv.org/abs/2609.29473 [doi:10.48550/arxiv.2609.29473](https://doi.org/10.48550/arxiv.2609.29473)
 
 `q2 · i?` · `review · r3`
 

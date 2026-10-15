@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: angxuan-chen-2024
-    resource: "https://arxiv.org/abs/2412.15226"
-    title: "Angxuan Chen, Yuang Wei, Huixiao Le, Yan Zhang. (2024). Learning-by-Teaching with ChatGPT: The Effect of Teachable ChatGPT Agent on Programming Education. arXiv. https://arxiv.org/abs/2412.15226"
+    resource: "https://doi.org/10.48550/arxiv.2412.15226"
+    title: "Angxuan Chen, Yuang Wei, Huixiao Le, Yan Zhang. (2024). Learning-by-Teaching with ChatGPT: The Effect of Teachable ChatGPT Agent on Programming Education. arXiv. https://arxiv.org/abs/2412.15226 [doi:10.48550/arxiv.2412.15226](https://doi.org/10.48550/arxiv.2412.15226)"
     author: Angxuan Chen, Yuang Wei, Huixiao Le, Yan Zhang
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Angxuan Chen 2024
 
-Angxuan Chen, Yuang Wei, Huixiao Le, Yan Zhang. (2024). Learning-by-Teaching with ChatGPT: The Effect of Teachable ChatGPT Agent on Programming Education. arXiv. https://arxiv.org/abs/2412.15226
+Angxuan Chen, Yuang Wei, Huixiao Le, Yan Zhang. (2024). Learning-by-Teaching with ChatGPT: The Effect of Teachable ChatGPT Agent on Programming Education. arXiv. https://arxiv.org/abs/2412.15226 [doi:10.48550/arxiv.2412.15226](https://doi.org/10.48550/arxiv.2412.15226)
 
 `q2 · i?` · `causal · r1`
 

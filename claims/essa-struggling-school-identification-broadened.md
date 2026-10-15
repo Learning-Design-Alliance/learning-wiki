@@ -43,4 +43,4 @@ Survey finding from the report's comparison of 2017–18 implementation with fou
 
 
 ## Related Claims
-- [The guide assigns school districts three purposes for self-monitoring: reviewing for compliance, taking corrective action, and identifying assistance needs](jtpa-self-monitoring-purposes.md) — related
+- The guide assigns school districts three purposes for self-monitoring: reviewing for compliance, taking corrective action, and identifying assistance needs — related

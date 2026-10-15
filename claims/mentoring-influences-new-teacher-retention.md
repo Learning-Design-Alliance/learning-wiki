@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` The monograph reports, citing a review by Kling and Brookhart (1991), that mentoring has a strong influence on new teachers' decision to stay in or leave the profession. [→ Gall 1994](#gall-1994)
@@ -46,7 +47,7 @@ The monograph describes mentoring as a variant of clinical supervision involving
 - [Research on clinical supervision's effectiveness is inconclusive, partly because practice is diluted and tied to evaluation](clinical-supervision-effectiveness-inconclusive.md) — related
 - [Working conditions shape educator retention and also influence recruitment decisions and the effectiveness of collaborative evaluation and induction](working-conditions-shape-retention-and-recruitment.md) — related
 - [Piecemeal educator policymaking overburdens educators and can drive talented educators out of the profession](piecemeal-educator-policymaking-drains-talent.md) — related
-- [Contextual factors including time for reflection, evaluatory atmosphere, and peer and mentor dialogue influence preservice teachers' demonstration of reflective judgment](contextual-factors-influence-reflective-judgment-demonstration.md) — related
+- Contextual factors including time for reflection, evaluatory atmosphere, and peer and mentor dialogue influence preservice teachers' demonstration of reflective judgment — related
 - [On average, more effective early-career teachers remain in the teaching profession and stay in their initial schools](more-effective-teachers-remain-in-profession-and-school.md) — related
 - [New teachers who receive little mentoring are twice as likely to leave the classroom as well-mentored beginners](mentoring-halves-new-teacher-attrition.md) — a narrower finding that bears on this claim
 - [Working conditions, especially accountability pressures and administrative support, shape teachers' decisions to leave or stay](working-conditions-drive-teacher-exit-decisions.md) — related

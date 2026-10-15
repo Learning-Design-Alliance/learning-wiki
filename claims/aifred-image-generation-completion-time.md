@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: gregorio-orlando-2026
-    resource: "https://arxiv.org/abs/2609.38737"
-    title: "Gregorio Orlando, Milan Groshev, Eduardo Castelló Ferrer. (2026). AIfred: Augmented Learning through Functional Robotic Embodiment at the Desk. https://arxiv.org/abs/2609.38737"
+    resource: "https://doi.org/10.48550/arxiv.2609.38737"
+    title: "Gregorio Orlando, Milan Groshev, Eduardo Castelló Ferrer. (2026). AIfred: Augmented Learning through Functional Robotic Embodiment at the Desk. https://arxiv.org/abs/2609.38737 [doi:10.48550/arxiv.2609.38737](https://doi.org/10.48550/arxiv.2609.38737)"
     author: Gregorio Orlando, Milan Groshev, Eduardo Castelló Ferrer
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Gregorio Orlando 2026
 
-Gregorio Orlando, Milan Groshev, Eduardo Castelló Ferrer. (2026). AIfred: Augmented Learning through Functional Robotic Embodiment at the Desk. https://arxiv.org/abs/2609.38737
+Gregorio Orlando, Milan Groshev, Eduardo Castelló Ferrer. (2026). AIfred: Augmented Learning through Functional Robotic Embodiment at the Desk. https://arxiv.org/abs/2609.38737 [doi:10.48550/arxiv.2609.38737](https://doi.org/10.48550/arxiv.2609.38737)
 
 `q2 · i?` · `causal · r1`
 

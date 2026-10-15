@@ -17,7 +17,7 @@ sources:
 # Seasonal learning analysis
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 3 claims (3 for) · 3 studies (3 associational), `q2`–`q3` · 0 of 3 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The brief organizes its inquiry around seasonal learning patterns: comparing how racial and ethnic achievement gaps change across school-year and summer periods to determine when inequality grows. The page tags the work under "Seasonal learning patterns & summer loss" and describes "An analysis of 2M students provides insights into seasonal learning and achievement gaps." The framework treats school and summer as distinct learning contexts whose differential contributions reveal the role of schooling in inequality development.

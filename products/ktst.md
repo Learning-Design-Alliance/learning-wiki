@@ -18,7 +18,7 @@ sources:
 # KTST
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 3 studies (2 causal, 1 design), `q2` · 0 of 3 report an effect size · 4 claims rest on one study
+> **Evidence** · 1 claim (1 mixed) · 2 studies (1 causal, 1 design), `q2` · 0 of 2 report an effect size
 
 ## Description
 An open-source code repository released by Kai Neubauer and colleagues implementing knowledge tracing set transformers, their set-based interaction embeddings, and learnable ALiBi attention for research in knowledge tracing and intelligent tutoring systems.
@@ -29,10 +29,6 @@ An open-source code repository released by Kai Neubauer and colleagues implement
 
 ### Claims
 
-- [KTST performance gains over baselines using the expanded representation are most pronounced on datasets with high knowledge-component-to-question ratios](../claims/ktst-gains-largest-high-kc-ratio-datasets.md) [+W]
-- [KTST models achieve state-of-the-art AUC results on pyKT benchmark datasets except Statics2011](../claims/ktst-state-of-the-art-auc-pykt-benchmark.md) [+W]
-- [Learnable ALiBi with query equal to key in cross-attention is the best-performing attention configuration for KTSTs](../claims/learnable-alibi-best-attention-ktst-ablation.md) [+W]
-- [Replacing Rasch embeddings with mean set embeddings under AKT's attention improves AUC on AS2009, evidence against the expanded representation](../claims/mean-embeddings-beat-rasch-embeddings-as2009.md) [-W]
 - [Ablation study shows metadata-enriched embeddings produce the largest accuracy drop, while attention masking, KV caching and dynamic batching primarily support inference efficiency](../claims/ablation-metadata-embeddings-largest-accuracy-drop.md) [~W]
 
 ## Related Products and Programmes
@@ -70,10 +66,6 @@ The authors released implementation code for knowledge tracing set transformers.
 
 ## Claims
 
-- [KTST performance gains over baselines using the expanded representation are most pronounced on datasets with high knowledge-component-to-question ratios](../claims/ktst-gains-largest-high-kc-ratio-datasets.md) [+W]
-- [KTST models achieve state-of-the-art AUC results on pyKT benchmark datasets except Statics2011](../claims/ktst-state-of-the-art-auc-pykt-benchmark.md) [+W]
-- [Learnable ALiBi with query equal to key in cross-attention is the best-performing attention configuration for KTSTs](../claims/learnable-alibi-best-attention-ktst-ablation.md) [+W]
-- [Replacing Rasch embeddings with mean set embeddings under AKT's attention improves AUC on AS2009, evidence against the expanded representation](../claims/mean-embeddings-beat-rasch-embeddings-as2009.md) [-W]
 
 ## Related Elements
 - 

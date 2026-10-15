@@ -17,7 +17,7 @@ sources:
 # Build diverse school leader pipelines through HBCU/HSI preparation partnerships, transparent diversity data, equitable hiring supports, affinity networks, and Grow Your Own teacher pathways
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The brief recommends a set of state and district actions to increase school leader diversity in Georgia. These include making school leader diversity data publicly available at state and district levels, partnering with HBCUs and HSIs to credential diverse candidates, reviewing the 2016 two-tier licensure changes, supporting districts in auditing recruitment and hiring with an equity lens, establishing statewide affinity networks and fellowships for leaders of color, and building teacher-of-color pipelines through Grow Your Own programming. The brief argues these steps can "reduce inequities, create stronger school leader pipelines, and support school leader retention."
@@ -40,9 +40,6 @@ The brief recommends a set of state and district actions to increase school lead
 
 ## Claims
 
-- [Access to school leaders of color varies widely across Georgia districts, e.g., 97% of students in Atlanta Public Schools had such access versus 57% in Columbia County](../claims/district-variation-leader-of-color-access.md) [+W]
-- [More than a third of Georgia students, and a majority of White students, attended schools with no school leader of color in 2021-22](../claims/many-students-no-leader-of-color-georgia.md) [+W]
-- [In Georgia in 2021-22, 44% of principals and assistant principals were people of color compared with 59% of students, with the largest gap for Latino students (2% of leaders vs. 18% of students)](../claims/georgia-leader-diversity-gap-2021-22.md) [+W]
 
 ## Related Strategies
 

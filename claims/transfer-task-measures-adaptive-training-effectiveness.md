@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: norman-1972
-    resource: "https://eric.ed.gov/?id=ED059585"
-    title: "Norman, D. A.; And Others. (1972). Adaptive Training of Manual Control: 1. Comparison of Three Adaptive Variables and Two Logic Schemes. Life Sciences, Inc. https://eric.ed.gov/?id=ED059585"
+    resource: "https://doi.org/10.1037/e426822004-001"
+    title: "Norman, D. A.; And Others. (1972). Adaptive Training of Manual Control: 1. Comparison of Three Adaptive Variables and Two Logic Schemes. Life Sciences, Inc. https://eric.ed.gov/?id=ED059585 [doi:10.1037/e426822004-001](https://doi.org/10.1037/e426822004-001)"
     author: Norman, D. A.; And Others
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Norman 1972
 
-Norman, D. A.; And Others. (1972). Adaptive Training of Manual Control: 1. Comparison of Three Adaptive Variables and Two Logic Schemes. Life Sciences, Inc. https://eric.ed.gov/?id=ED059585
+Norman, D. A.; And Others. (1972). Adaptive Training of Manual Control: 1. Comparison of Three Adaptive Variables and Two Logic Schemes. Life Sciences, Inc. https://eric.ed.gov/?id=ED059585 [doi:10.1037/e426822004-001](https://doi.org/10.1037/e426822004-001)
 
 `q1 · i?` · `causal · r1`
 

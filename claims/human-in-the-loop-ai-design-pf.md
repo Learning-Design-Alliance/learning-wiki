@@ -43,13 +43,13 @@ Within the human-AI collaboration theme of the focus group findings, participant
 
 
 ## Related Claims
-- [Practitioners hold near-universal commitments to human oversight and critical evaluation of AI outputs](practitioner-oversight-governance-norms.md) — related
-- [Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs](human-guidance-ethical-grounding-ai.md) — related
+- Practitioners hold near-universal commitments to human oversight and critical evaluation of AI outputs — related
+- Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs — related
 - [Instructor roles shift from exclusive information source toward orchestrating and regulating AI-mediated learning activities](instructor-role-shift-orchestrating-genai.md) — related
 - [Practitioners near-universally reject AI as a replacement for instructor expertise while affirming its supportive, collaborative role](rejection-of-ai-replacing-instructor-expertise.md) — related
 - [Students oppose preferring AI videos over instructor-recorded videos and distrust AI video information as much as human-presented information](students-oppose-ai-videos-replacing-instructors.md) — related
 - [A 2026 text-mining review chapter reports that studies of ChatGPT in programming education find benefits where it is used with structured pedagogical guidance and teacher facilitation](structured-chatgpt-integration-improves-programming-learning.md) — related
 - [Adult learners expect AI to enhance relevance through real-time goal monitoring, goal breakdown, career companionship, and networking recommendations](ai-enhances-learning-relevance-goal-career.md) — related
-- [Participants simultaneously affirmed ChatGPT feedback as useful while rejecting it as final grader, treating feedback utility and evaluative authority as separate judgements](conditional-trust-feedback-utility-versus-evaluative-authority.md) — related
+- Participants simultaneously affirmed ChatGPT feedback as useful while rejecting it as final grader, treating feedback utility and evaluative authority as separate judgements — related
 - [Human oversight remained necessary alongside AI-based tutoring, especially for misconceptions and advanced topics](human-oversight-necessary-alongside-ai-tutoring.md) — related
 - [Human oversight in co-pilot mode improved Agent Laboratory research output quality ratings from 3.8/10 to 4.38/10](agent-laboratory-copilot-quality-gain.md) — a narrower finding that bears on this claim

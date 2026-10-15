@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 5 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` The paper argues, citing Kohn, that three negative consequences of grading are diminished interest in the topic, a preference for an easier path to completion, and reduced quality of student thinking. [→ Lundberg & Rasmussen 2018](#lundberg-rasmussen-2018)

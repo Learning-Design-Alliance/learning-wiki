@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` In the pre-focus group survey, almost 60% of college students said their summative assessment results matched other information about college readiness not very well or very little. [→ Nicholas Munyan-Penney and Sarah Mehrotra 2023](#nicholas-munyan-penney-and-sarah-mehrotra-2023)
@@ -43,5 +44,5 @@ Pre-focus group survey of college student participants reported alongside Figure
 
 
 ## Related Claims
-- [Focus group stakeholders across roles see statewide summative assessments as only one indicator of college readiness and want information on additional skills](assessments-one-indicator-college-readiness-stakeholders.md) — related
-- [40% of caregivers found statewide assessments very or somewhat helpful for keeping their child on track for college, with Black caregivers more often finding them helpful](caregivers-split-assessment-helpfulness.md) — related
+- Focus group stakeholders across roles see statewide summative assessments as only one indicator of college readiness and want information on additional skills — related
+- 40% of caregivers found statewide assessments very or somewhat helpful for keeping their child on track for college, with Black caregivers more often finding them helpful — related

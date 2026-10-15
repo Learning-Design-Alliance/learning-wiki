@@ -43,5 +43,5 @@ Bland-Altman analysis (Figure 3) comparing the average of five ChatGPT sessions 
 
 
 ## Related Claims
-- [LLM-generated BREQ responses capture overall item-mean patterns but are more extreme and less variable than human responses](llm-survey-responses-extreme-low-variability.md) — related
+- LLM-generated BREQ responses capture overall item-mean patterns but are more extreme and less variable than human responses — related
 - [LLM agreement with human examiners is limited in fast mode and improves in reasoning or thinking modes](llm-fast-mode-limited-thinking-mode-better-agreement.md) — related

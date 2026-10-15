@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Convergence students scored higher on social acceptability, contradicting Kolb's expected theoretical, internal control and independence factors. [→ Tamaoka 1985](#tamaoka-1985)
@@ -43,5 +44,5 @@ The review reports West's 1982 study relating Kolb's styles to seven personality
 
 
 ## Related Claims
-- [Kolb's inventory successfully differentiated group learning styles by students' subject majors](kolb-inventory-group-styles-by-subject-major.md) — related
+- Kolb's inventory successfully differentiated group learning styles by students' subject majors — related
 - [Learning styles measured by Kolb's inventory showed no significant change over one year of varied instruction](kolb-learning-style-stable-over-one-year.md) — related

@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` In Boston, 90 percent of students assigned under Controlled Choice got a first-choice or second-choice school, and less than 10 percent were mandatorily assigned to an unchosen school. [→ Willie 1996](#willie-1996)
@@ -43,6 +44,6 @@ The authors report, as plan designers, descriptive outcome figures from Boston's
 
 
 ## Related Claims
-- [Participation in Minnesota's statewide public school choice options rose from about 1% of students in 1988-89 to about 17% in 2000-01](minnesota-choice-participation-grew-1-to-17-percent.md) — related
-- [Neighborhood-based desegregation plans are short-term and eventually defeated by shifting residential patterns](neighborhood-based-desegregation-plans-short-term.md) — related
+- Participation in Minnesota's statewide public school choice options rose from about 1% of students in 1988-89 to about 17% in 2000-01 — related
+- Neighborhood-based desegregation plans are short-term and eventually defeated by shifting residential patterns — related
 - [Graduates of desegregated 1970s high schools report both benefits from desegregation and experiences of backlash against it](desegregation-graduates-report-benefits-and-backlash.md) — related

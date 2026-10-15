@@ -18,7 +18,7 @@ sources:
 # BookNook
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 BookNook is a provider-run virtual, synchronous high-dosage reading tutoring programme for K–8 students, using a science-of-reading curriculum focused on phonological awareness, phonics, fluency, vocabulary, and comprehension.
@@ -28,7 +28,6 @@ BookNook is a provider-run virtual, synchronous high-dosage reading tutoring pro
 - **BookNook virtual tutoring platform and science-of-reading curriculum for K-8 reading intervention**: BookNook is a virtual tutoring provider for reading intervention that "uses a synchronous teaching platform and curriculum grounded in the science of reading to deliver high-dosage tutoring services to K-8 students." Lessons center on a text and build "phonological awareness, phonics, fluency, vocabulary, and comprehension skills." Tutoring is delivered through BookNook's online platform, with tutors provided by BookNook and on-site school staff supervising sessions. (BookNook: Evidence Rating Strong (2023))
 
 ### Claims
-- [Students receiving the recommended BookNook dosage of 20 or more sessions show markedly stronger reading gains (ES = +0.26) than the overall assigned sample](../claims/booknook-dosage-20-sessions-stronger-effect.md) [+W]
 - [Assignment to BookNook tutoring produces a small but statistically significant increase in reading growth on the NWEA MAP for grade 1-4 students](../claims/booknook-small-positive-map-reading-growth.md) [+W]
 
 ## Related Products and Programmes
@@ -69,7 +68,6 @@ BookNook is a virtual tutoring provider for reading intervention that "uses a sy
 
 ## Claims
 
-- [Students receiving the recommended BookNook dosage of 20 or more sessions show markedly stronger reading gains (ES = +0.26) than the overall assigned sample](../claims/booknook-dosage-20-sessions-stronger-effect.md) [+W]
 - [Assignment to BookNook tutoring produces a small but statistically significant increase in reading growth on the NWEA MAP for grade 1-4 students](../claims/booknook-small-positive-map-reading-growth.md) [+W]
 
 ## Related Elements

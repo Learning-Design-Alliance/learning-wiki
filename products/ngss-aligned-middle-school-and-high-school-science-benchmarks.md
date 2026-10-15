@@ -13,7 +13,7 @@ generated:
 # NGSS-aligned middle school and high school science benchmarks
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Two publicly released synthetic benchmark datasets created by Schroeder et al. for evaluating LLM performance on NGSS-aligned middle- and high-school science items.
@@ -24,9 +24,6 @@ Two publicly released synthetic benchmark datasets created by Schroeder et al. f
 
 ### Claims
 
-- [Human review judged 98.3% of sampled synthetic items aligned with their intended NGSS standards, with no incorrect reference answers](../claims/human-review-983-percent-ngss-alignment.md) [+M]
-- [OSS 120b performed best across both NGSS-aligned secondary science benchmarks, with most tested open-weight models scoring above 90%](../claims/oss-120b-best-on-ngss-secondary-science-benchmark.md) [+M]
-- [Model size did not correspond to higher scores in secondary science; small open-weight models outperformed significantly larger ones](../claims/model-size-did-not-predict-ngss-science-performance.md) [~W]
 
 ## Related Products and Programmes
 

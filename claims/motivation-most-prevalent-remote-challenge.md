@@ -43,6 +43,6 @@ National undergraduate survey (n = 1,008) listing six potential non-technology c
 
 
 ## Related Claims
-- [Staying motivated was the most prevalent non-technology challenge to completing STEM courses at a distance, reported as a major problem by 45% of students](covid-stem-motivation-top-challenge.md) — possibly the same claim (merge candidate)
+- Staying motivated was the most prevalent non-technology challenge to completing STEM courses at a distance, reported as a major problem by 45% of students — possibly the same claim (merge candidate)
 - [Staying motivated was the most pervasive challenge of learning remotely, and students missed instructor feedback, peer collaboration, and hands-on experiences](motivation-and-lost-interaction-challenges-remote.md) — a narrower finding that bears on this claim
 - [Motivation, internet connectivity, and hardware/software problems were widespread challenges in remote STEM courses](widespread-remote-stem-challenges-motivation-connectivity.md) — possibly the same claim (merge candidate)

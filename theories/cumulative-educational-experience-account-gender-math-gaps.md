@@ -16,7 +16,7 @@ sources:
 # Cumulative educational-experience account of emerging gender disparities in mathematics
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article proposes that gendered performance patterns in elementary mathematics are best understood as the cumulative product of educational experiences rather than inherent ability differences. It argues that "even small early differences in performance or recognition can compound over time", shaping access to advanced coursework and STEM participation, and that within-year MFR growth supports this experiential interpretation over fixed group differences.
@@ -37,10 +37,6 @@ The article proposes that gendered performance patterns in elementary mathematic
 
 ### Claims
 
-- [Mfr Increases Fall To Spring Within Year](../claims/mfr-increases-fall-to-spring-within-year.md) [+M]
-- [Gender Gap Reverses Male Favored Elementary Math](../claims/gender-gap-reverses-male-favored-elementary-math.md) [+M]
-- [Boys are increasingly overrepresented among high-achieving elementary math students, with male-to-female ratios rising across grades](../claims/male-overrepresentation-high-achievers-rises-elementary.md) [+W]
-- [Gender differences in elementary math vary substantially across subdomains, with early female advantages in Geometry reversing by Grades 3-4](../claims/subdomain-specific-gender-patterns-elementary-math.md) [+W]
 
 ## Related Theories
 - 

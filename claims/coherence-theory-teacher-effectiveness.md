@@ -44,7 +44,7 @@ Theoretical argument drawing on organizational research and research on professi
 
 ## Related Claims
 - [Coherent instruction is theorized to promote achievement by supporting connected learning experiences and student motivation](coherence-theory-student-learning-motivation.md) — related
-- [Teachers reporting better professional development and curricular coherence have better instructional practices than other teachers in their school](pd-coherence-benefit-individual-teachers.md) — related
+- Teachers reporting better professional development and curricular coherence have better instructional practices than other teachers in their school — related
 - [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — a broader claim this one bears on
 - [Elementary teachers were more likely than high school teachers to report that standards-related professional development had extensive impact on their teaching practices](ccss-pd-impact-on-teaching-practices-elementary-more.md) — a narrower finding that bears on this claim
 - [Teachers drawing on a combination of professional development sources experience higher quality development than those drawing primarily on one source](multiple-pd-sources-higher-quality.md) — a narrower finding that bears on this claim

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: wei-xia-2026
-    resource: "https://arxiv.org/abs/2606.20287"
-    title: "Wei Xia, Jin Wu, Haoran Shi, Xiangyu Wang, Chanjin Zheng. (2026). PsyScore: A Psychometrically-Aware Framework for Trait-Adaptive Essay Scoring and ZPD-Scaffolded Feedback. arXiv preprint. https://arxiv.org/abs/2606.20287"
+    resource: "https://doi.org/10.48550/arxiv.2606.20287"
+    title: "Wei Xia, Jin Wu, Haoran Shi, Xiangyu Wang, Chanjin Zheng. (2026). PsyScore: A Psychometrically-Aware Framework for Trait-Adaptive Essay Scoring and ZPD-Scaffolded Feedback. arXiv preprint. https://arxiv.org/abs/2606.20287 [doi:10.48550/arxiv.2606.20287](https://doi.org/10.48550/arxiv.2606.20287)"
     author: Wei Xia, Jin Wu, Haoran Shi, Xiangyu Wang, Chanjin Zheng
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Wei Xia 2026
 
-Wei Xia, Jin Wu, Haoran Shi, Xiangyu Wang, Chanjin Zheng. (2026). PsyScore: A Psychometrically-Aware Framework for Trait-Adaptive Essay Scoring and ZPD-Scaffolded Feedback. arXiv preprint. https://arxiv.org/abs/2606.20287
+Wei Xia, Jin Wu, Haoran Shi, Xiangyu Wang, Chanjin Zheng. (2026). PsyScore: A Psychometrically-Aware Framework for Trait-Adaptive Essay Scoring and ZPD-Scaffolded Feedback. arXiv preprint. https://arxiv.org/abs/2606.20287 [doi:10.48550/arxiv.2606.20287](https://doi.org/10.48550/arxiv.2606.20287)
 
 `q2 · i?` · `design · r2`
 

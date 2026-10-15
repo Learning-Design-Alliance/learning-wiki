@@ -45,6 +45,6 @@ Moderator analysis (Table 5) of intervention duration across subgroups: 0–8 we
 ## Related Claims
 - [Educational level does not significantly moderate Gen-AI's effect on HOT, though K-12 subgroups show a larger effect (ES = 0.857) than post-secondary (ES = 0.539)](genai-education-level-moderator.md) — related
 - [Gen-AI's effect on HOT is strongest for problem-solving ability (g = 0.745), followed by critical thinking (g = 0.691), with a smaller effect on creativity (g = 0.444)](genai-hot-dimension-effect-sizes.md) — related
-- [The review identifies a trend linking AI intervention duration to effect size: longer interventions spanning weeks or months yield larger effect sizes than shorter ones](ai-intervention-duration-effect-size-trend.md) — reports the opposite
+- The review identifies a trend linking AI intervention duration to effect size: longer interventions spanning weeks or months yield larger effect sizes than shorter ones — reports the opposite
 - [Interventions lasting one to two months show the largest effect, and effects do not increase consistently with longer duration](ai-effect-duration-one-to-two-months-peak.md) — related
 - [Gen-AI has a moderate positive overall effect on students' higher-order thinking (g = 0.609) across 29 experimental and quasi-experimental studies](genai-moderate-positive-effect-hot.md) — related

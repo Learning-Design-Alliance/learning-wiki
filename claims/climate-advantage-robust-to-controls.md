@@ -67,4 +67,4 @@ Controlled analyses addressing the alternative explanation that unmeasured facto
 - [Enrollment is the main driver of the association between student demographics and the likelihood of beating the odds](enrollment-main-demographic-driver-of-bto.md) — related
 - [School climate differences between BTO and chronically underperforming schools are twice as large as differences between BTO and other schools](climate-gap-bto-versus-cu-schools.md) — related
 - [Beating-the-odds California secondary schools have substantially more positive school climates than other secondary schools](bto-schools-higher-school-climate-percentile.md) — a broader claim this one bears on
-- [Adjusting for low-income student share narrows but does not eliminate demographic performance gaps in the PEP framework](pell-adjustment-narrows-pep-gaps.md) — related
+- Adjusting for low-income student share narrows but does not eliminate demographic performance gaps in the PEP framework — related

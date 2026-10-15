@@ -13,7 +13,7 @@ generated:
 # The Region 15 FACE Collaborative
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 A Region 15 Comprehensive Center initiative that convenes state education agency family and community engagement leaders across Arizona, California, Nevada, and Utah to share practices, learn from experts, and develop state-level projects.
@@ -24,7 +24,6 @@ A Region 15 Comprehensive Center initiative that convenes state education agency
 
 ### Claims
 
-- [The FACE Collaborative fostered collaborative leadership behaviors including mutual support, resource sharing, expert learning, and partnership building](../claims/face-collaborative-fostered-collaborative-leadership-behaviors.md) [+W]
 
 ## Related Products and Programmes
 

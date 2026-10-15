@@ -17,7 +17,7 @@ sources:
 # Equitable access to rigorous and culturally sustaining curricula, including automatic advanced-coursework enrollment
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The brief argues students must be challenged and encouraged to meet high expectations through rigorous, deeper learning and culturally sustaining curricula; when students 'both see themselves in the work and feel their teachers challenging them to excel,' their belief in themselves to reach their goals strengthens. It recommends guidance for adopting culturally sustaining curricula, standards-aligned curriculum selection, and public reporting of advanced coursework enrollment and success disaggregated by course type.
@@ -38,7 +38,6 @@ The brief argues students must be challenged and encouraged to meet high expecta
 
 ## Claims
 
-- [Students express a desire to be challenged by their coursework, contrary to beliefs that students want school to be easy](../claims/students-want-challenging-coursework.md) [+W]
 
 ## Related Strategies
 

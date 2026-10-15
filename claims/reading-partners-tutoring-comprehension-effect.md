@@ -43,6 +43,6 @@ Large randomized controlled trial conducted by MDRC comparing tutored students t
 
 
 ## Related Claims
-- [In a student-randomized trial, struggling readers in grades 1–4 who used Amira scored significantly higher on the Woodcock Reading Mastery Test Total Reading Composite (effect size = +0.64) than Sustained Silent Reading controls](amira-rct-woodcock-effect-064.md) — related
-- [Reading Partners targets a defined struggling-reader population: grades 2-4, one to twenty-five months below grade level, fluent in English, without IEPs](reading-partners-eligibility-scope-claim.md) — related
-- [Literacy First tutoring significantly improved grade 2 ITBS passage comprehension in a multisite randomized controlled trial (effect size +0.19)](literacy-first-grade2-itbs-comprehension-effect.md) — related
+- In a student-randomized trial, struggling readers in grades 1–4 who used Amira scored significantly higher on the Woodcock Reading Mastery Test Total Reading Composite (effect size = +0.64) than Sustained Silent Reading controls — related
+- Reading Partners targets a defined struggling-reader population: grades 2-4, one to twenty-five months below grade level, fluent in English, without IEPs — related
+- Literacy First tutoring significantly improved grade 2 ITBS passage comprehension in a multisite randomized controlled trial (effect size +0.19) — related

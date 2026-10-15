@@ -48,5 +48,5 @@ Matched VCR analysis by NCES locale (Figure 8) for brick-and-mortar charters onl
 - [New Mexico charter students' reading advantage emerges in the third year of enrollment, while math growth does not differ by years enrolled](nm-charter-third-year-reading-gain.md) — related
 - [Charter school impacts differ sharply by locale: urban charters show stronger reading growth while suburban and town charters show weaker growth in both subjects](pa-charter-impact-by-locale.md) — related
 - [New Mexico charter elementary and middle school students show reading surpluses over TPS virtual twins, while high and multi-level charter students grow similarly](nm-charter-grade-configuration-reading.md) — related
-- [No real district–charter difference in benchmark shares, but urban, virtual and high schools show lower shares](school-characteristics-benchmark-shares.md) — related
+- No real district–charter difference in benchmark shares, but urban, virtual and high schools show lower shares — related
 - [Three of nine Washington charter schools showed significantly stronger academic progress than local district options in both reading and math](wa-charter-school-level-variation-three-of-nine.md) — related

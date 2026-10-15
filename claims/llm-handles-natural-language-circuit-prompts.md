@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: andrew-ash-and-john-hu-2026
-    resource: "https://arxiv.org/abs/2608.02420"
-    title: "Andrew Ash and John Hu. (2026). WIP: Chat-Debugging: Large Language Model as a Hardware Debugging Assistant. arXiv preprint. https://arxiv.org/abs/2608.02420"
+    resource: "https://doi.org/10.48550/arxiv.2608.02420"
+    title: "Andrew Ash and John Hu. (2026). WIP: Chat-Debugging: Large Language Model as a Hardware Debugging Assistant. arXiv preprint. https://arxiv.org/abs/2608.02420 [doi:10.48550/arxiv.2608.02420](https://doi.org/10.48550/arxiv.2608.02420)"
     author: Andrew Ash and John Hu
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Andrew Ash and John Hu 2026
 
-Andrew Ash and John Hu. (2026). WIP: Chat-Debugging: Large Language Model as a Hardware Debugging Assistant. arXiv preprint. https://arxiv.org/abs/2608.02420
+Andrew Ash and John Hu. (2026). WIP: Chat-Debugging: Large Language Model as a Hardware Debugging Assistant. arXiv preprint. https://arxiv.org/abs/2608.02420 [doi:10.48550/arxiv.2608.02420](https://doi.org/10.48550/arxiv.2608.02420)
 
 `q2 · i?` · `qualitative · r2`
 

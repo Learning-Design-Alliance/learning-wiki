@@ -18,7 +18,7 @@ sources:
 # Concept/semantic map
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (2 for, 2 mixed, 1 against) · 6 studies (2 causal, 2 quant-synthesis, 2 theoretical), `q1`–`q4` · 3 of 6 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 5 studies (2 causal, 2 quant-synthesis, 1 theoretical), `q1`–`q4` · 3 of 5 report an effect size · 2 claims rest on one study
 
 ## Description
 A graphic organizer in which concepts are represented as nodes and their relationships as labeled or positional links. In the article it appears as student frame maps and skeletal templates, and can be provided complete as an advance organizer or given partially completed for students to fill in during mapping exercises.
@@ -45,7 +45,6 @@ A graphic organizer in which concepts are represented as nodes and their relatio
 - [Graphic Organizers Support Novice Comprehension](../claims/graphic-organizers-support-novice-comprehension.md) [+M]
 - [Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice](../claims/concept-mapping-improves-learning.md) [+M]
 - [Placing heavier cognitive demands on learners can be counterproductive in mapping tasks](../claims/heavy-cognitive-demands-of-mapping-can-be-counterproductive.md) [-W]
-- [A map risks becoming a new metanarrative unless it is continually remapped and readers actively construct their own maps](../claims/remapping-prevents-map-as-metanarrative.md) [~W]
 - [Teacher-initiated and student-mediated semantic mapping did not differ significantly in their effects on EFL reading comprehension](../claims/teacher-initiated-and-student-mediated-mapping-no-difference.md) [~W]
 
 ## Related Elements

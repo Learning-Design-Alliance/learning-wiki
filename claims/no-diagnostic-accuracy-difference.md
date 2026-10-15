@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: yang-2026
-    resource: "https://arxiv.org/abs/2609.10939"
-    title: "Yang, L., Liu, H., Li, S., Jia, R., Xiao, Y., Chen, G., & Lu, L. (2026). Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training. https://arxiv.org/abs/2609.10939"
+    resource: "https://doi.org/10.48550/arxiv.2609.10939"
+    title: "Yang, L., Liu, H., Li, S., Jia, R., Xiao, Y., Chen, G., & Lu, L. (2026). Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training. https://arxiv.org/abs/2609.10939 [doi:10.48550/arxiv.2609.10939](https://doi.org/10.48550/arxiv.2609.10939)"
     author: "Yang, L., Liu, H., Li, S., Jia, R., Xiao, Y., Chen, G., & Lu, L."
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Yang 2026
 
-Yang, L., Liu, H., Li, S., Jia, R., Xiao, Y., Chen, G., & Lu, L. (2026). Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training. https://arxiv.org/abs/2609.10939
+Yang, L., Liu, H., Li, S., Jia, R., Xiao, Y., Chen, G., & Lu, L. (2026). Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training. https://arxiv.org/abs/2609.10939 [doi:10.48550/arxiv.2609.10939](https://doi.org/10.48550/arxiv.2609.10939)
 
 `q3 · i?` · `causal · r2`
 
@@ -47,4 +47,4 @@ Exam-phase analysis of the randomized comparison found no between-group differen
 - [Multi-agent AI standardized patient training improved final OSCE-aligned examination scores compared with a structured non-LLM control condition](ma-scaffolding-improves-osce-exam-score.md) — related
 - [The largest checklist-item gain from multi-agent scaffolding was in observable empathic expression, with additional gains in selected history-taking items](empathy-checklist-item-largest-gain.md) — related
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — related
-- [Gains concentrated in proposed-question scores rather than diagnosis scores, with the largest improvement on Hazard C diagnosis](question-formulation-gains-exceed-diagnosis-gains.md) — related
+- Gains concentrated in proposed-question scores rather than diagnosis scores, with the largest improvement on Hazard C diagnosis — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: shihao-yang-2026
-    resource: "https://arxiv.org/abs/2609.23958"
-    title: "Shihao Yang, Marshall Van Alstyne, and Chrysanthos Dellarocas. (2026). When AI Tutors Speak: Evidence from a Randomized Field Experiment. https://arxiv.org/abs/2609.23958"
+    resource: "https://doi.org/10.48550/arxiv.2609.23958"
+    title: "Shihao Yang, Marshall Van Alstyne, and Chrysanthos Dellarocas. (2026). When AI Tutors Speak: Evidence from a Randomized Field Experiment. https://arxiv.org/abs/2609.23958 [doi:10.48550/arxiv.2609.23958](https://doi.org/10.48550/arxiv.2609.23958)"
     author: Shihao Yang, Marshall Van Alstyne, and Chrysanthos Dellarocas
     q: 3
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Voice and text tutoring produced statistically equivalent weekly mastery within students, while voice transformed the interaction at a 2.8× cost premium
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`–`q3`
+> **Evidence** · 2 studies · 2 causal `r2` · `q2`–`q3`
 
 ## Subclaims
 `q3 i?` Within-student week-level mastery was statistically equivalent between voice and text modalities, with equivalence bounds reported so the null reads as affirmative evidence of equivalence. [→ Shihao Yang 2026](#shihao-yang-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Shihao Yang 2026
 
-Shihao Yang, Marshall Van Alstyne, and Chrysanthos Dellarocas. (2026). When AI Tutors Speak: Evidence from a Randomized Field Experiment. https://arxiv.org/abs/2609.23958
+Shihao Yang, Marshall Van Alstyne, and Chrysanthos Dellarocas. (2026). When AI Tutors Speak: Evidence from a Randomized Field Experiment. https://arxiv.org/abs/2609.23958 [doi:10.48550/arxiv.2609.23958](https://doi.org/10.48550/arxiv.2609.23958)
 
 `q3 · i?` · `causal · r2`
 

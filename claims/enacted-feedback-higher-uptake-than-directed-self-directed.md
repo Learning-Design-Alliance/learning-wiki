@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: omar-alsaiari-2026
-    resource: "https://arxiv.org/abs/2608.11625"
-    title: "Omar Alsaiari, Nilufar Baghaei, Jason M. Lodge, Naomi Winstone, Dragan Gašević, Hassan Khosravi. (2026). Making AI-Generated Feedback Matter: A Large-Scale Study of Feedback Workflows and Student Enactment. https://arxiv.org/abs/2608.11625"
+    resource: "https://doi.org/10.48550/arxiv.2608.11625"
+    title: "Omar Alsaiari, Nilufar Baghaei, Jason M. Lodge, Naomi Winstone, Dragan Gašević, Hassan Khosravi. (2026). Making AI-Generated Feedback Matter: A Large-Scale Study of Feedback Workflows and Student Enactment. https://arxiv.org/abs/2608.11625 [doi:10.48550/arxiv.2608.11625](https://doi.org/10.48550/arxiv.2608.11625)"
     author: Omar Alsaiari, Nilufar Baghaei, Jason M. Lodge, Naomi Winstone, Dragan Gašević, Hassan Khosravi
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Omar Alsaiari 2026
 
-Omar Alsaiari, Nilufar Baghaei, Jason M. Lodge, Naomi Winstone, Dragan Gašević, Hassan Khosravi. (2026). Making AI-Generated Feedback Matter: A Large-Scale Study of Feedback Workflows and Student Enactment. https://arxiv.org/abs/2608.11625
+Omar Alsaiari, Nilufar Baghaei, Jason M. Lodge, Naomi Winstone, Dragan Gašević, Hassan Khosravi. (2026). Making AI-Generated Feedback Matter: A Large-Scale Study of Feedback Workflows and Student Enactment. https://arxiv.org/abs/2608.11625 [doi:10.48550/arxiv.2608.11625](https://doi.org/10.48550/arxiv.2608.11625)
 
 `q3 · i?` · `causal · r?`
 

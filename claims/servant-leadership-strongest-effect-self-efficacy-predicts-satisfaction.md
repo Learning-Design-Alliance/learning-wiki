@@ -45,4 +45,4 @@ Structural paths from the WLSMV SEM (N=506). The article reports servant leaders
 ## Related Claims
 - [Servant leadership exhibits complementary partial mediation via self-efficacy, whereas transformational leadership shows a small indirect-only effect](servant-leadership-partial-mediation-transformational-indirect-only.md) — related
 - [Agriculture teachers' self-efficacy is positively related to career persistence indicators such as career commitment and job satisfaction](self-efficacy-positive-career-persistence-agriculture-teachers.md) — related
-- [Posttest self-efficacy accounts for a significant increment in posttest skill variability, but its relation to persistence is mixed in learning settings](posttest-self-efficacy-predicts-skill-persistence-mixed.md) — related
+- Posttest self-efficacy accounts for a significant increment in posttest skill variability, but its relation to persistence is mixed in learning settings — related

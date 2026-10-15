@@ -74,4 +74,4 @@ Longitudinal study relating repeated rapid guessing across multiple test adminis
 - [Social-emotional factors, including low academic self-efficacy and self-management, are related to rapid guessing behavior](sel-factors-related-to-rapid-guessing.md) — a broader claim this one bears on
 - [Academic disengagement behaviors such as chronic absenteeism and course failures are related to test disengagement behaviors such as rapid guessing](academic-disengagement-related-to-test-disengagement.md) — related
 - [Rapid guessing on achievement tests varies across grades, subjects, and teachers](rapid-guessing-varies-grade-subject-teacher.md) — related
-- [Correlations with self-regulation tend to be larger for course grades than for standardized test scores in several coded studies](course-grades-versus-standardized-tests-correlates.md) — related
+- Correlations with self-regulation tend to be larger for course grades than for standardized test scores in several coded studies — related

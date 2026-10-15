@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Teachers can support students' autonomy even for less preferred tasks by providing a satisfying rationale, incorporating elements of choice, and promoting the value of the activity; these strategies stand in contrast to controlling teaching strategies. [→ Jennifer D. Moss 2017](#jennifer-d-moss-2017)
@@ -62,11 +63,11 @@ The article attributes, citing Reeve, the research finding that controlled stude
 
 
 ## Related Claims
-- [In SDT, autonomy is not synonymous with independence nor the opposite of dependence](autonomy-not-synonymous-with-independence.md) — related
+- In SDT, autonomy is not synonymous with independence nor the opposite of dependence — related
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — possibly the same claim (merge candidate)
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
 - [Self-determination skills instruction for students with disabilities increases self-determination on some measures but not others](self-determination-instruction-improves-outcomes.md) — related
-- [The article argues learning is a natural, enjoyable human process rather than one driven by pressure and anxiety](learning-is-natural-enjoyable-process-argument.md) — related
+- The article argues learning is a natural, enjoyable human process rather than one driven by pressure and anxiety — related
 - [Not all students in connectivist courses could autonomously direct their own learning, and some felt disconnected and demotivated](connectivist-courses-student-agency-problems.md) — related
-- [IE's doing-with stance and democratic ethos map onto SDT autonomy support](ie-doing-with-maps-onto-autonomy-support.md) — related
+- IE's doing-with stance and democratic ethos map onto SDT autonomy support — related
 - [Dependent versus autonomous cognitive offloading to GenAI shows opposite motivational and cognitive outcome patterns](dependent-autonomous-offloading-genai.md) — a narrower finding that bears on this claim

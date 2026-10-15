@@ -47,11 +47,11 @@ The report's recruitment-impact section reports national residency demographics 
 - [Teachers of color disproportionately enter through alternative certification pathways, which predict higher turnover](alternative-certification-pathway-turnover-teachers-of-color.md) — related
 - [Financial hardship disproportionately impacts residents of color, and financial barriers are the biggest recruitment challenge](hardship-disproportionately-impacts-residents-of-color.md) — related
 - [California residency program completers are more likely to identify as candidates of color than completers of other preparation pathways](residency-completers-more-likely-candidates-of-color.md) — related
-- [Candidates of color complete Michigan teacher preparation programs at lower rates than they enroll: nearly 20% of enrollees but only 12% of completers in 2022-23 were people of color](michigan-teacher-prep-completion-gap-candidates-of-color.md) — related
-- [North Carolina's teacher workforce is far less racially diverse than its student population](nc-teacher-student-diversity-gap.md) — related
+- Candidates of color complete Michigan teacher preparation programs at lower rates than they enroll: nearly 20% of enrollees but only 12% of completers in 2022-23 were people of color — related
+- North Carolina's teacher workforce is far less racially diverse than its student population — related
 - [Teacher residency programs enroll a more diverse candidate pool than traditional preparation programs, per a national comparison for 2016–17.](residencies-enroll-more-candidates-of-color.md) — possibly the same claim (merge candidate)
 - [Access to student teaching and residency pathways is unequal: only 46% of Black and 50% of Native American completers participated, and fewer than one third of education specialists did so](unequal-access-clinical-pathways-race-specialists.md) — related
 - Claremont's resident cohort grew from 5 residents in 2020 to 34 full-time residents in 2022–23 and became increasingly diverse — related
 - [CSUB residency participants are more racially diverse than California's general teacher population and better reflect the diversity of CSUB's student body than other credentialing pathways](csub-residencies-diversify-teacher-workforce.md) — a narrower finding that bears on this claim
 - [National Board Certification candidates more than tripled after the 2022 incentive program began, with a fourfold jump in high-need schools from 415 to 1,764](nbct-incentive-quadrupled-high-need-candidates.md) — related
-- [Tennessee's educator diversity efforts leave two recruitment pathways unfunded: minority serving institutions and teacher academies/dual enrollment](tennessee-msi-and-teacher-academy-investment-gaps.md) — related
+- Tennessee's educator diversity efforts leave two recruitment pathways unfunded: minority serving institutions and teacher academies/dual enrollment — related

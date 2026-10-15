@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: kuhfeld-2019
-    resource: "http://www.edworkingpapers.com/ai19-137"
-    title: "Kuhfeld, Megan, Soland, James, Pitts, Christine, & Burchinal, Margaret. (2019). Trends in Children's Academic Skills at School Entry: 2010 to 2017. EdWorkingPaper No. 19-137, Annenberg Institute at Brown University. http://www.edworkingpapers.com/ai19-137"
+    resource: "https://doi.org/10.3102/0013189x20931078"
+    title: "Kuhfeld, Megan, Soland, James, Pitts, Christine, & Burchinal, Margaret. (2019). Trends in Children's Academic Skills at School Entry: 2010 to 2017. EdWorkingPaper No. 19-137, Annenberg Institute at Brown University. http://www.edworkingpapers.com/ai19-137 [doi:10.3102/0013189x20931078](https://doi.org/10.3102/0013189x20931078)"
     author: "Kuhfeld, Megan, Soland, James, Pitts, Christine, & Burchinal, Margaret"
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Kuhfeld 2019
 
-Kuhfeld, Megan, Soland, James, Pitts, Christine, & Burchinal, Margaret. (2019). Trends in Children's Academic Skills at School Entry: 2010 to 2017. EdWorkingPaper No. 19-137, Annenberg Institute at Brown University. http://www.edworkingpapers.com/ai19-137
+Kuhfeld, Megan, Soland, James, Pitts, Christine, & Burchinal, Margaret. (2019). Trends in Children's Academic Skills at School Entry: 2010 to 2017. EdWorkingPaper No. 19-137, Annenberg Institute at Brown University. http://www.edworkingpapers.com/ai19-137 [doi:10.3102/0013189x20931078](https://doi.org/10.3102/0013189x20931078)
 
 `q2 · i?` · `associational · r2`
 
@@ -46,10 +46,10 @@ Gap models re-estimated with school-poverty indicators (mid- and high-poverty FR
 - [Kindergarten-entry math and reading scores were mostly flat 2010-2014 then slightly declined by 2017, with median math down about 0.24 SD and reading down 0.14 SD](kindergarten-entry-scores-declined-2010-2017.md) — related
 - [Black-White and Hispanic-White achievement gaps at kindergarten entry narrowed significantly between 2010 and 2017 in both math and reading](racial-ethnic-entry-gaps-narrowed-2010-2017.md) — related
 - [Achievement declines from 2019 to 2022 were smaller for Asian American and White first and second graders than for Hispanic, Black, and AIAN students](early-elementary-covid-losses-racial-ethnic-disparities.md) — related
-- [Poor White students consistently outperformed poor Black and poor Hispanic students in achievement, with gaps widening around ages 7-8](poor-white-students-outperform-poor-black-hispanic-gaps-widen-ages-7-8.md) — related
+- Poor White students consistently outperformed poor Black and poor Hispanic students in achievement, with gaps widening around ages 7-8 — related
 - [Schools play less of a role in widening racial/ethnic achievement gaps than children's prekindergarten environments](schools-less-role-than-prekindergarten-environments.md) — related
 - [Pandemic achievement declines were uneven across racial/ethnic groups, with the largest declines still apparent for Hispanic, Black, and AIAN students in spring 2022](pandemic-declines-largest-hispanic-black-aian-students.md) — related
 - [Asian and white CPS students score consistently higher than Latino and African-American students in reading and math, and Asian students score significantly higher in math than white students](cps-itbs-racial-ethnic-score-gaps-1992-1999.md) — related
 - [Children from all racial/ethnic groups were projected to gain more in higher-tier programs, but most racial/ethnic differences were not statistically significant](racial-ethnic-gains-higher-tiers-mostly-nonsignificant.md) — related
-- [Simulations of closing Black-Hispanic-White gaps in educational participation project increased net public benefits of $20.2 to $72.6 billion per year.](gap-closing-simulation-20-to-72-billion-annual.md) — related
-- [Adjusting for low-income student share narrows but does not eliminate demographic performance gaps in the PEP framework](pell-adjustment-narrows-pep-gaps.md) — related
+- Simulations of closing Black-Hispanic-White gaps in educational participation project increased net public benefits of $20.2 to $72.6 billion per year. — related
+- Adjusting for low-income student share narrows but does not eliminate demographic performance gaps in the PEP framework — related

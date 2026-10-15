@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` A budding community of physics teachers led by Wee Loo Kang has remixed 75 EJS models and lesson packages plus numerous tracker video lessons, with the vision of a national digital library in Singapore. [→ Wee Loo Kang 2013](#wee-loo-kang-2013)
@@ -47,7 +48,7 @@ Descriptive report of community activity in the article: the community "has remi
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
 - [After a guided-inquiry lesson with the collision-carts simulation, students' self-reported knowledge of the physics increased and most rated the lesson enjoyable and valuable](collision-carts-simulation-lesson-positive-student-feedback.md) — related
 - [Some students found the guided-inquiry worksheet activities insufficiently thought-provoking and the data exchange troublesome](students-criticize-inquiry-worksheets-low-thinking.md) — related
-- [Comparing an incorrect applied-force model (fx = 10 N) with real data shows students why projectile motion has no x-direction acceleration](tracker-incorrect-fx-model-refutes-x-force.md) — related
-- [Students can derive an accurate gravitational acceleration value from Tracker's parabola fit of a falling-ball video](tracker-parabola-fit-derives-gravitational-acceleration.md) — related
-- [A proposed Tracker activity has students key a constant-vx dynamic model against real video data so they can see for themselves that x-direction velocity is constant in projectile motion](tracker-constant-vx-model-activity.md) — related
+- Comparing an incorrect applied-force model (fx = 10 N) with real data shows students why projectile motion has no x-direction acceleration — related
+- Students can derive an accurate gravitational acceleration value from Tracker's parabola fit of a falling-ball video — related
+- A proposed Tracker activity has students key a constant-vx dynamic model against real video data so they can see for themselves that x-direction velocity is constant in projectile motion — related
 - [Initial findings suggest video modeling pedagogy is suitable for active and deep learning through predicting, observing and explaining](video-modeling-suits-active-deep-learning.md) — related

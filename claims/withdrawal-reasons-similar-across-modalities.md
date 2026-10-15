@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` The top withdrawal reasons — No/Other Reason, Transfer, and Schedule Conflict — lead both lists, accounting for 85 percent of online and 65 percent of onground drops. [→ Jia Frydenberg 2007](#jia-frydenberg-2007)
@@ -48,4 +49,4 @@ Textual analysis of voluntary written withdrawal requests coded by student servi
 - [After instruction has begun, drop rates are essentially the same in online and onground continuing education classes](no-drop-rate-difference-after-instruction-starts.md) — related
 - [Online continuing education courses show lower persistence than comparable onground courses (79% vs 84%) over eight quarters](online-continuing-education-persistence-lower-than-onground.md) — related
 - [Online attrition during Orientation Week is twice that of onground classes' first week](orientation-week-attrition-double-online.md) — related
-- [Attrition did not differ significantly between cognitive apprenticeship and control sections, and withdrawing students did not cite the instructional method](attrition-non-significant-technical-math-quasi-experiment.md) — related
+- Attrition did not differ significantly between cognitive apprenticeship and control sections, and withdrawing students did not cite the instructional method — related

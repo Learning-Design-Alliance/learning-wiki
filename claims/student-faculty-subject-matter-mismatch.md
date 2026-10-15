@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Students are consistently softer, more applied, more life, and more creatively oriented than faculty describe programs in their departments to be, with significant t-test differences especially in natural science departments. [→ Bue 1979](#bue-1979)
@@ -44,6 +45,6 @@ Comparison of faculty department ratings with student subject matter orientation
 
 ## Related Claims
 - [Faculty across departments describe the same ideal learning style for students](faculty-uniform-ideal-learning-style.md) — related
-- [Faculty in applied, hard, and life disciplines are more likely than colleagues in pure, soft, and nonlife disciplines to report publicly engaged scholarship overall](biglan-dimensions-vary-overall-engaged-scholarship.md) — related
-- [Intensity of publicly engaged activity is higher in applied (2.29 vs 1.76) and life (2.28 vs 1.63) disciplines, with no significant hard/soft difference](biglan-intensity-activity-varies.md) — related
-- [Degree of engagement is higher in applied (1.52 vs 1.22, p=.016) and life (1.56 vs 1.07, p=.000) disciplines, with no significant hard/soft difference](biglan-degree-engagement-varies.md) — related
+- Faculty in applied, hard, and life disciplines are more likely than colleagues in pure, soft, and nonlife disciplines to report publicly engaged scholarship overall — related
+- Intensity of publicly engaged activity is higher in applied (2.29 vs 1.76) and life (2.28 vs 1.63) disciplines, with no significant hard/soft difference — related
+- Degree of engagement is higher in applied (1.52 vs 1.22, p=.016) and life (1.56 vs 1.07, p=.000) disciplines, with no significant hard/soft difference — related

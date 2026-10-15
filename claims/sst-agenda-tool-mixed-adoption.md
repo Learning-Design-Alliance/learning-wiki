@@ -45,4 +45,4 @@ Case-study report of the district rollout of the AI-enabled SST agenda tool in N
 ## Related Claims
 - [Three factors influenced adoption of the SST agenda tool: lack of guided practice, inconsistent routines, and value not visible to teachers](three-factors-sst-tool-adoption.md) — related
 - [A teacher-initiated report card comment generator built in Solara saw immediate high adoption without formal rollout or training](teacher-initiated-tool-high-adoption.md) — related
-- [Coaches reported that usage dashboards grounded coaching conversations in evidence rather than perception and prompted reality checks on implementation](dashboards-evidence-based-coaching-conversations.md) — related
+- Coaches reported that usage dashboards grounded coaching conversations in evidence rather than perception and prompted reality checks on implementation — related

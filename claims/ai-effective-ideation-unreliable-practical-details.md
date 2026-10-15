@@ -43,8 +43,8 @@ Postsurvey on AI perspectives (Figure 3). Students found AI "particularly effect
 
 
 ## Related Claims
-- [A bespoke GenAI image workflow most robustly expanded architecture students' creative search space, while less uniformly supporting refinement of final design decisions](gen-aitecture-expanded-creative-search-space.md) — related
-- [Teachers find ChatGPT a creative, fast, iterative brainstorming partner that adds specific numbers and details when posing math questions from photos](chatgpt-brainstorming-partner-affordances.md) — related
+- A bespoke GenAI image workflow most robustly expanded architecture students' creative search space, while less uniformly supporting refinement of final design decisions — related
+- Teachers find ChatGPT a creative, fast, iterative brainstorming partner that adds specific numbers and details when posing math questions from photos — related
 - [Students' main AI challenges are content reliability and depth, and most expect AI to serve as tutor, creative partner, and critical thinking partner rather than mere content generator](student-critical-ai-role-expectations.md) — a broader claim this one bears on
 - [In teacher-AI learning task design studies, GenAI tools are predominantly used for lesson planning, prompt generation, and creative ideation, while traditional AI tools are commonly used for designing analytics and feedback](genai-for-planning-ideation-traditional-ai-for-analytics-feedback.md) — related
 - [Interviews indicated flipped learning supported studio readiness while the GenAI module served as a supplementary tool for early-stage visual ideation](interviews-flipped-readiness-genai-supplementary.md) — related

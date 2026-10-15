@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` The handbook identifies five main problem areas in adult literacy programs, including the assumption that literacy develops quickly and a misconception that individualized learning means learning in isolation. [→ You Can Be in a Group and Still Not Cooperate: Collaborative Approaches and Cooperative Learning Activities for Adult Learners 1993](#you-can-be-in-a-group-and-still-not-cooperate-collaborative-approaches-and-cooperative-learning-activities-for-adult-learners-1993)
@@ -43,9 +44,9 @@ This is the handbook's research-review section on problems of adult literacy pro
 
 
 ## Related Claims
-- [Adults learn better when learning content and methods link to their previous experience](adult-learning-linked-to-previous-experience.md) — related
-- [Philippine basic literacy is 89.8% and functional literacy 73.2%, yet BNFE serves only 1.07% of estimated adult education clientele](philippine-literacy-rates-bnfe-inadequate-coverage.md) — related
-- [ACE's main VET contribution is General Education and Training (around 20% of provision), with around 10% in non-industry-specific occupational training and little in industry-specific training](ace-vet-contribution-concentration-general-education.md) — related
-- [Being placed in a group does not by itself produce cooperation; structure must be present to make learners work toward a common purpose](group-membership-alone-does-not-produce-cooperation.md) — related
+- Adults learn better when learning content and methods link to their previous experience — related
+- Philippine basic literacy is 89.8% and functional literacy 73.2%, yet BNFE serves only 1.07% of estimated adult education clientele — related
+- ACE's main VET contribution is General Education and Training (around 20% of provision), with around 10% in non-industry-specific occupational training and little in industry-specific training — related
+- Being placed in a group does not by itself produce cooperation; structure must be present to make learners work toward a common purpose — related
 - [Research at primary and secondary levels indicates students learn more through non-competitive collaborative group work than in individualized competitive classrooms](collaborative-group-work-beats-competitive-classrooms-k12.md) — related
 - [An adult-education market report, citing a 2014 Department of Labor synthesis, states that cohort membership contributes to adult learners' skill development and persistence](cohort-support-improves-adult-persistence.md) — related

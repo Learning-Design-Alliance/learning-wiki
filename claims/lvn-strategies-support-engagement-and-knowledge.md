@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: medha-tare-2022
-    resource: "https://digitalpromise.dspacedirect.org/items/c1921acf-1964-4f4d-8232-1e8af6ad7367"
-    title: "Medha Tare, Alison R. Shell, Jessica Jackson. (2022). Shifting Mindsets: Designing Lessons for Learner Variability. Digital Promise. https://digitalpromise.dspacedirect.org/items/c1921acf-1964-4f4d-8232-1e8af6ad7367"
+    resource: "https://doi.org/10.51388/20.500.12265/157"
+    title: "Medha Tare, Alison R. Shell, Jessica Jackson. (2022). Shifting Mindsets: Designing Lessons for Learner Variability. Digital Promise. https://digitalpromise.dspacedirect.org/items/c1921acf-1964-4f4d-8232-1e8af6ad7367 [doi:10.51388/20.500.12265/157](https://doi.org/10.51388/20.500.12265/157)"
     author: Medha Tare, Alison R. Shell, Jessica Jackson
     q: 2
     i: "?"
@@ -32,7 +32,7 @@ sources:
 
 ### Medha Tare 2022
 
-Medha Tare, Alison R. Shell, Jessica Jackson. (2022). Shifting Mindsets: Designing Lessons for Learner Variability. Digital Promise. https://digitalpromise.dspacedirect.org/items/c1921acf-1964-4f4d-8232-1e8af6ad7367
+Medha Tare, Alison R. Shell, Jessica Jackson. (2022). Shifting Mindsets: Designing Lessons for Learner Variability. Digital Promise. https://digitalpromise.dspacedirect.org/items/c1921acf-1964-4f4d-8232-1e8af6ad7367 [doi:10.51388/20.500.12265/157](https://doi.org/10.51388/20.500.12265/157)
 
 `q2 · i?` · `design · r2`
 

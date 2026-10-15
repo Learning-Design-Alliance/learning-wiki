@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Lucas expanded the OLR's Observation section into a tool for reflecting on readings and generalized his reading techniques to other classes, and Neelum generalized rhetorical concepts such as audience awareness into everyday persuasive interactions with friends and relatives. [→ Nelson 2001](#nelson-2001)
@@ -43,8 +44,8 @@ Participant-observer case analysis of two students. Lucas wrote in an observatio
 
 
 ## Related Claims
-- [CHAT is an interventionist research method aimed at transformation, but tensions persist between adaptive and transformative orientations](chat-interventionist-transformation-tensions.md) — related
-- [Contradictions surrounding the OLR drove students to appropriate it, transforming it from an object of confusion into an instrument of critical reflection](contradictions-transform-olr-into-reflection-instrument.md) — related
-- [Participation in composing the Midterm OLR moved students from appropriating labels and surface features toward conceptual underpinnings](participation-appropriates-olr-conceptual-underpinnings.md) — related
+- CHAT is an interventionist research method aimed at transformation, but tensions persist between adaptive and transformative orientations — related
+- Contradictions surrounding the OLR drove students to appropriate it, transforming it from an object of confusion into an instrument of critical reflection — related
+- Participation in composing the Midterm OLR moved students from appropriating labels and surface features toward conceptual underpinnings — related
 - [SCMD activity systems exhibit three categories of rules and four types of participant roles](scmd-rules-and-division-of-labor.md) — related
 - [Successful writing requires that the writer first become a sufficiently skillful reader to estimate the effect of the text on a prospective audience](skilled-reader-estimate-audience-effect.md) — related

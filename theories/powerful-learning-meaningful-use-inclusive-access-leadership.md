@@ -16,7 +16,7 @@ sources:
 # Powerful learning with technology is the product of meaningful use, inclusive access, and school leadership
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (1 for, 2 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The report defines "powerful learning" as "experiences that engage learners' hearts and minds," characterized by being personal and accessible, collaborative and connected, authentic and challenging, and inquisitive and reflective. It models powerful learning as a multiplicative product of three indispensable factors: meaningful use, inclusive access, and school leadership. The multiplication is deliberate: "if any of the three factors is a zero, the chance for powerful learning with technology is also likely to be zero." This framing grounds the report's guidance for principals and district pipeline design.
@@ -37,9 +37,6 @@ The report defines "powerful learning" as "experiences that engage learners' hea
 
 ### Claims
 
-- [Research on educational technology commonly finds no difference in learner outcomes between schools that use or do not use a technology](../claims/edtech-research-often-no-outcome-difference.md) [~W]
-- [Students in low-income or minoritized settings are more likely to receive low-quality technology uses such as drill-and-practice](../claims/systemic-bias-low-quality-technology-uses.md) [~W]
-- [Principals interviewed emphasized nimbleness and flexibility as non-negotiable traits for leading virtual learning](../claims/principals-nimbleness-flexibility-virtual-leadership.md) [+W]
 
 ## Related Theories
 

@@ -43,9 +43,9 @@ The study's comparison of scoring approaches on adaptive achievement test data f
 
 
 ## Related Claims
-- [Effort-moderated scoring yields more accurate achievement scores and better person fit than traditional MLE scoring when rapid guessing is present](effort-moderated-scoring-more-accurate-better-fit.md) — possibly the same claim (merge candidate)
+- Effort-moderated scoring yields more accurate achievement scores and better person fit than traditional MLE scoring when rapid guessing is present — possibly the same claim (merge candidate)
 - [Effort-moderated scoring exhibits improved person fit statistics compared with traditional scoring](effort-moderated-scoring-improved-person-fit.md) — related
-- [In simulation, effort-moderated scoring (EM-CAT and EG-CAT) yields negligible bias and nominal 95% confidence interval coverage, unlike MLE-CAT scoring](effort-moderated-cat-negligible-bias-simulation.md) — a narrower finding that bears on this claim
+- In simulation, effort-moderated scoring (EM-CAT and EG-CAT) yields negligible bias and nominal 95% confidence interval coverage, unlike MLE-CAT scoring — a narrower finding that bears on this claim
 - [Rapid-guessing behavior on an adaptive achievement test is inconsistent with most proposed models of unmotivated test taking except the effort-moderated model](rapid-guessing-inconsistent-with-unmotivated-models-except-effort-moderated.md) — related
-- [An effort-guided CAT that holds the provisional achievement estimate constant after rapid guesses reduces standard errors and ameliorates severe item mis-targeting](effort-guided-cat-reduces-mis-targeting.md) — related
+- An effort-guided CAT that holds the provisional achievement estimate constant after rapid guesses reduces standard errors and ameliorates severe item mis-targeting — related
 - [One measurement article argues that low test-taking motivation biases an individual student's achievement test score downward](test-taking-motivation-negative-score-bias.md) — related

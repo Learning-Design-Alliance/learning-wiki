@@ -18,7 +18,7 @@ sources:
 # Raging Skies
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 7 claims (2 for, 5 mixed) · 2 studies (2 design), `q2` · 1 of 2 report an effect size · 7 claims rest on one study
+> **Evidence** · 3 claims (3 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Raging Skies is a digital game-based assessment developed by Ying Cui and colleagues that measures Grade 5 students' weather knowledge through storm-chasing tasks, adaptive difficulty, and in-game and summary feedback.
@@ -27,13 +27,9 @@ Raging Skies is a digital game-based assessment developed by Ying Cui and collea
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Standard BKT fits Raging Skies pilot process data with acceptable RMSE and good accuracy under 10-fold cross-validation](../claims/bkt-fits-raging-skies-process-data.md) [+W]
 - [Learning curves show error rates decreased for wind direction, air movement, and cloud type but stayed high for wind speed and precipitation skills](../claims/bkt-learning-curves-skill-differences.md) [~W]
 - [BKT estimates show most students mastered wind direction and air movement but few mastered wind speed, precipitation type, or amount](../claims/bkt-mastery-profile-weather-skills.md) [~W]
-- [BKT tended to outperform DBN across skills, possibly because DBN's greater parameter complexity exceeded what the sample size could estimate](../claims/bkt-outperforms-dbn.md) [~W]
-- [Both BKT and DBN show high classification accuracy but low consistency for wind direction, cloud type, and air movement](../claims/classification-accuracy-high-consistency-low.md) [~W]
 - [DBN analysis shows wind direction and air movement reached the highest posterior mastery probabilities while other skills stayed flat or declined](../claims/dbn-posterior-mastery-over-time.md) [~W]
-- [The EM solver consistently outperformed stochastic gradient descent for fitting the models, though by a small margin](../claims/em-beats-sgd-fitting-spectral-bkt.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -67,13 +63,9 @@ Raging Skies is a digital game-based assessment built with Evidence-Centered gam
 
 ## Claims
 
-- [Standard BKT fits Raging Skies pilot process data with acceptable RMSE and good accuracy under 10-fold cross-validation](../claims/bkt-fits-raging-skies-process-data.md) [+W]
 - [Learning curves show error rates decreased for wind direction, air movement, and cloud type but stayed high for wind speed and precipitation skills](../claims/bkt-learning-curves-skill-differences.md) [~W]
 - [BKT estimates show most students mastered wind direction and air movement but few mastered wind speed, precipitation type, or amount](../claims/bkt-mastery-profile-weather-skills.md) [~W]
-- [BKT tended to outperform DBN across skills, possibly because DBN's greater parameter complexity exceeded what the sample size could estimate](../claims/bkt-outperforms-dbn.md) [~W]
-- [Both BKT and DBN show high classification accuracy but low consistency for wind direction, cloud type, and air movement](../claims/classification-accuracy-high-consistency-low.md) [~W]
 - [DBN analysis shows wind direction and air movement reached the highest posterior mastery probabilities while other skills stayed flat or declined](../claims/dbn-posterior-mastery-over-time.md) [~W]
-- [The EM solver consistently outperformed stochastic gradient descent for fitting the models, though by a small margin](../claims/em-beats-sgd-fitting-spectral-bkt.md) [+W]
 
 ## Related Elements
 

@@ -18,7 +18,7 @@ sources:
 # PSLC DataShop
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 PSLC DataShop is a public repository of educational interaction data from online learning environments, maintained by the Pittsburgh Science of Learning Center for researchers to access and compare learning analyses.
@@ -28,7 +28,6 @@ PSLC DataShop is a public repository of educational interaction data from online
 - **PSLC DataShop public repository of online learning data**: The Pittsburgh Science of Learning Center's DataShop is a public data repository that, per the review, "makes substantial quantities of data from a variety of online learning environments available, for free, to any researcher worldwide". The review reports that 14% of papers published in EDM2008 and EDM2009 utilized data from it, marking a shift away from the earlier necessity for researchers to collect their own educational data. It enables external validation and model comparison against strong baselines. (Ryan S.J.D. Baker et al. (2009))
 
 ### Claims
-- [By 2008-2009 roughly a quarter of EDM conference papers used publicly available data, via the PSLC DataShop (14%) or instrumentation of existing online courses (12%)](../claims/public-data-sources-quarter-edm-papers.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -62,7 +61,6 @@ The Pittsburgh Science of Learning Center's DataShop is a public data repository
 
 ## Claims
 
-- [By 2008-2009 roughly a quarter of EDM conference papers used publicly available data, via the PSLC DataShop (14%) or instrumentation of existing online courses (12%)](../claims/public-data-sources-quarter-edm-papers.md) [+W]
 
 ## Related Elements
 

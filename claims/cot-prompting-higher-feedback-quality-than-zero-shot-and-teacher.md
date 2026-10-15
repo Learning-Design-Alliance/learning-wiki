@@ -45,7 +45,7 @@ One-way ANOVA in the randomized three-group experiment (teacher, Zero-shot, CoT;
 ## Related Claims
 - [GenAI feedback quality correlates with initial essay quality while teacher feedback quality does not](genai-feedback-quality-tracks-initial-essay-quality.md) — related
 - [Zero-shot GenAI feedback quality is statistically comparable to teacher feedback quality](zero-shot-feedback-quality-comparable-to-teacher.md) — reports the opposite
-- [Zero-shot prompt type has minimal impact on LLM-human coding concordance](prompt-type-minimal-impact-llm-coding.md) — related
+- Zero-shot prompt type has minimal impact on LLM-human coding concordance — related
 - [Students' argumentative essay quality improves substantially from initial to revised drafts regardless of feedback source](essay-quality-improves-from-initial-to-revised.md) — related
 - [Reasoning-capable model variants and chain-of-thought prompting yield no measurable improvement in either alignment axis for classroom evaluation](reasoning-variants-no-alignment-improvement.md) — related
 - [ChatGPT-3.5 feedback on EAP argumentative essays aligns closely with human instructor scoring and identifies surface-level issues, but is less effective on rhetorical structure and contextual nuance](chatgpt-feedback-aligns-with-human-scoring-but-weak-on-rhetorical-structure.md) — related

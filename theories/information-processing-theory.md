@@ -17,7 +17,7 @@ sources:
 # Information Processing Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 9 claims (7 for, 2 mixed) · 11 studies (4 causal, 3 review, 2 quant-synthesis, 1 design, 1 theoretical), `q1`–`q4` · 0 of 11 report an effect size · 8 claims rest on one study
+> **Evidence** · 6 claims (4 for, 2 mixed) · 8 studies (3 causal, 2 quant-synthesis, 2 review, 1 design), `q1`–`q4` · 0 of 8 report an effect size · 5 claims rest on one study
 
 ## Description
 Information Processing Theory treats learning as the movement and transformation of information through attention, working memory, encoding, storage, and retrieval. In broad terms, the theory asks what learners notice, how much they can actively process at once, how they organize new information, and how it becomes retrievable later.
@@ -67,10 +67,7 @@ Information processing models are often criticized as overly linear and serial, 
 - [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-example-problem-sequences.md) [+M]
 - [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [+M]
 - [Interleaving effects are stronger when material is more similar between categories, less similar within categories, and more complex](../claims/similarity-and-complexity-moderate-interleaving.md) [+W] — attached 2026-10-13 from Brunmair et al. (2019), which proposed "Attentional bias framework (sequential attention theory) of interleaved learning".
-- [Attention can move within the visual field without eye movements, selecting among simultaneous inputs](../claims/attention-mobility-visual-field.md) [+W]
 - [Similarity-based retrieval degrades as the Knowledge Base grows, consistent with the fan effect, stalling the agent](../claims/fan-effect-kb-growth-retrieval-degradation.md) [~W]
-- [Infants retain verbal material over delays, indicating adult-like storage of speech](../claims/infant-verbal-memory-retention.md) [+W]
-- [Longer exposure time (9 sec vs 3 sec per word) improves free recall, with no arousal-by-exposure interaction](../claims/longer-exposure-improves-free-recall-no-interaction.md) [+W]
 - [Evidence on working memory capacity as a moderator of the interleaving effect is mixed, but WM does not appear to be a major barrier to classroom use](../claims/working-memory-mixed-moderator-interleaving.md) [~W] — attached 2026-10-13 from Jonathan Firth et al. (2021), which proposed "Attentional accounts of the interleaving effect: attention attenuation and attentional bias".
 
 ## Related Theories

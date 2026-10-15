@@ -19,8 +19,8 @@ sources:
     kind: associational
     rigour: "?"
   - id: erin-dillon-2015
-    resource: "https://www.mathematica.org/publications/policy-brief-calibrating-performance-standards-across-state-lines-how-parcc-predicts-college"
-    title: "Erin Dillon, Ira Nichols-Barrer, Brian Gill, Kate Place. (2015). Policy Brief: Calibrating Performance Standards Across State Lines: How PARCC Predicts College Readiness. Washington, DC: Mathematica Policy Research. https://www.mathematica.org/publications/policy-brief-calibrating-performance-standards-across-state-lines-how-parcc-predicts-college"
+    resource: "https://doi.org/10.18289/oef.2015.002"
+    title: "Erin Dillon, Ira Nichols-Barrer, Brian Gill, Kate Place. (2015). Policy Brief: Calibrating Performance Standards Across State Lines: How PARCC Predicts College Readiness. Washington, DC: Mathematica Policy Research. https://www.mathematica.org/publications/policy-brief-calibrating-performance-standards-across-state-lines-how-parcc-predicts-college [doi:10.18289/oef.2015.002](https://doi.org/10.18289/oef.2015.002)"
     author: Erin Dillon, Ira Nichols-Barrer, Brian Gill, Kate Place
     q: 2
     i: "?"
@@ -53,7 +53,7 @@ The study compared how high school PARCC and MCAS exams predict placement in rem
 
 ### Erin Dillon 2015
 
-Erin Dillon, Ira Nichols-Barrer, Brian Gill, Kate Place. (2015). Policy Brief: Calibrating Performance Standards Across State Lines: How PARCC Predicts College Readiness. Washington, DC: Mathematica Policy Research. https://www.mathematica.org/publications/policy-brief-calibrating-performance-standards-across-state-lines-how-parcc-predicts-college
+Erin Dillon, Ira Nichols-Barrer, Brian Gill, Kate Place. (2015). Policy Brief: Calibrating Performance Standards Across State Lines: How PARCC Predicts College Readiness. Washington, DC: Mathematica Policy Research. https://www.mathematica.org/publications/policy-brief-calibrating-performance-standards-across-state-lines-how-parcc-predicts-college [doi:10.18289/oef.2015.002](https://doi.org/10.18289/oef.2015.002)
 
 `q2 · i?` · `associational · r?`
 

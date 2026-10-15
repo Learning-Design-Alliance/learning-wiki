@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: rose-e-wang-2025
-    resource: "https://arxiv.org/abs/2410.03017"
-    title: "Rose E. Wang, Ana T. Ribeiro, Carly D. Robinson, Susanna Loeb, and Dora Demszky. (2025). Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise. arXiv:2410.03017v2. https://arxiv.org/abs/2410.03017"
+    resource: "https://doi.org/10.48550/arxiv.2410.03017"
+    title: "Rose E. Wang, Ana T. Ribeiro, Carly D. Robinson, Susanna Loeb, and Dora Demszky. (2025). Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise. arXiv:2410.03017v2. https://arxiv.org/abs/2410.03017 [doi:10.48550/arxiv.2410.03017](https://doi.org/10.48550/arxiv.2410.03017)"
     author: Rose E. Wang, Ana T. Ribeiro, Carly D. Robinson, Susanna Loeb, and Dora Demszky
     q: 4
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Rose E. Wang 2025
 
-Rose E. Wang, Ana T. Ribeiro, Carly D. Robinson, Susanna Loeb, and Dora Demszky. (2025). Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise. arXiv:2410.03017v2. https://arxiv.org/abs/2410.03017
+Rose E. Wang, Ana T. Ribeiro, Carly D. Robinson, Susanna Loeb, and Dora Demszky. (2025). Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise. arXiv:2410.03017v2. https://arxiv.org/abs/2410.03017 [doi:10.48550/arxiv.2410.03017](https://doi.org/10.48550/arxiv.2410.03017)
 
 `q4 · i?` · `causal · r3`
 

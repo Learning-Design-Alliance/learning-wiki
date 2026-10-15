@@ -41,4 +41,4 @@ Design-evolution report from the Expected Requirements section (user experience 
 
 
 ## Related Claims
-- [Districts and universities increasingly attach concrete incentives to earning Digital Promise micro-credentials](recognizer-incentives-for-micro-credentials.md) — related
+- Districts and universities increasingly attach concrete incentives to earning Digital Promise micro-credentials — related

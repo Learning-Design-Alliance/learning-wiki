@@ -22,7 +22,7 @@ sources:
 # Tough as Nails project: a K-8 coding pathway research-practice partnership in Kentucky Appalachia
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (1 design, 1 theoretical), `q1` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Tough as Nails, Nimble Fingers is an NSF-funded research-practice partnership (grants #1923314 and #2219401) creating a K-8 Computational Thinking Pathway in Floyd County and Pikeville Independent Schools by applying South Fayette School District's model and training 75+ teachers over 3 years. Its research studies "what it takes to make this happen and sustain it, what the pathways looks like, what impact it might have." Activities include pathway visioning, teacher training, CT lesson design, curriculum maps, and constant reflection.
@@ -46,9 +46,7 @@ Tough as Nails, Nimble Fingers is an NSF-funded research-practice partnership (g
 
 ### Claims
 
-- [A research-practice partnership is creating a K-8 computational thinking pathway in two rural Kentucky districts by applying South Fayette School District's model and training 75+ teachers over three years](../claims/ky-appalachia-k8-ct-pathway-rpp.md) [+W]
 - [Aspirational capital and kinship sustained the Tough As Nails CT initiative through the COVID-19 pandemic](../claims/appalachian-cultural-wealth-sustained-ct-project-covid.md) [+W]
-- [The partnership's research plan studies pathway creation, grade-band competencies, and whether a competency-based PD framework assists instructors in demonstrating teaching proficiency](../claims/ct-pathway-research-questions.md) [+W]
 
 ## Related Designs
 - 

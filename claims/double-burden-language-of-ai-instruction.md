@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: avijit-roy-2026
-    resource: "https://arxiv.org/abs/2608.12278"
-    title: "Avijit Roy, Proma Roy. (2026). Structural Silence: When AI Infrastructure Fails Speakers of Underrepresented Languages — A Case Study in Bengali, the Digital Divide, and the Hidden Cost of English-Centric Design. arXiv preprint. https://arxiv.org/abs/2608.12278"
+    resource: "https://doi.org/10.48550/arxiv.2608.12278"
+    title: "Avijit Roy, Proma Roy. (2026). Structural Silence: When AI Infrastructure Fails Speakers of Underrepresented Languages — A Case Study in Bengali, the Digital Divide, and the Hidden Cost of English-Centric Design. arXiv preprint. https://arxiv.org/abs/2608.12278 [doi:10.48550/arxiv.2608.12278](https://doi.org/10.48550/arxiv.2608.12278)"
     author: Avijit Roy, Proma Roy
     q: 3
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # English-delivered AI explanations impose a double cognitive burden: foreign-language content significantly reduced learning outcomes versus native-language instruction in controlled higher-education studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · review `r2` · `q3`
+> **Evidence** · 2 studies · 1 review `r2`, 1 theoretical `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Exposure to academic content in a foreign language without explicit language support significantly reduced both content and language learning outcomes compared to native-language instruction (Roussel et al., 294 students). [→ Avijit Roy 2026](#avijit-roy-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Avijit Roy 2026
 
-Avijit Roy, Proma Roy. (2026). Structural Silence: When AI Infrastructure Fails Speakers of Underrepresented Languages — A Case Study in Bengali, the Digital Divide, and the Hidden Cost of English-Centric Design. arXiv preprint. https://arxiv.org/abs/2608.12278
+Avijit Roy, Proma Roy. (2026). Structural Silence: When AI Infrastructure Fails Speakers of Underrepresented Languages — A Case Study in Bengali, the Digital Divide, and the Hidden Cost of English-Centric Design. arXiv preprint. https://arxiv.org/abs/2608.12278 [doi:10.48550/arxiv.2608.12278](https://doi.org/10.48550/arxiv.2608.12278)
 
 `q3 · i?` · `theoretical · r2`
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: françois-parlant-2025
-    resource: "https://osf.io/tuw2a/overview"
-    title: "François PARLANT. (2025). Can You Feel It? A Practical Guide to Emotional Micro-Interventions for Higher Education Teachers (and Others). https://osf.io/tuw2a/overview"
+    resource: "https://doi.org/10.35542/osf.io/bmh7k_v1"
+    title: "François PARLANT. (2025). Can You Feel It? A Practical Guide to Emotional Micro-Interventions for Higher Education Teachers (and Others). https://osf.io/tuw2a/overview [doi:10.35542/osf.io/bmh7k_v1](https://doi.org/10.35542/osf.io/bmh7k_v1)"
     author: François PARLANT
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### François PARLANT 2025
 
-François PARLANT. (2025). Can You Feel It? A Practical Guide to Emotional Micro-Interventions for Higher Education Teachers (and Others). https://osf.io/tuw2a/overview
+François PARLANT. (2025). Can You Feel It? A Practical Guide to Emotional Micro-Interventions for Higher Education Teachers (and Others). https://osf.io/tuw2a/overview [doi:10.35542/osf.io/bmh7k_v1](https://doi.org/10.35542/osf.io/bmh7k_v1)
 
 `q1 · i?` · `theoretical · r2`
 

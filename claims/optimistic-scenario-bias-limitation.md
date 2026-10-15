@@ -46,5 +46,5 @@ Authors' stated methodological limitation: the positive framing of the visioning
 - [The adapted conjecture map's framing around unintended consequences proved generative for interdisciplinary discussion](unintended-consequences-framing-generative.md) — related
 - [Algorithmic curation on Twitter may amplify optimistic, technically sophisticated AI-in-education narratives while underrepresenting practical implementation concerns and non-technical stakeholders](algorithmic-curation-shapes-aied-discourse-visibility.md) — related
 - [Collaborative conjecture map construction surfaced a tension between nuanced learning theory and limited technical capability](conjecture-map-surfaces-theory-technical-tension.md) — related
-- [Learning analytics and EDM researchers raise practical concerns: impoverished ontologies, easy-to-collect data bias, interdisciplinary demands, and negative consequences for students](edm-learning-analytics-practice-concerns.md) — related
+- Learning analytics and EDM researchers raise practical concerns: impoverished ontologies, easy-to-collect data bias, interdisciplinary demands, and negative consequences for students — related
 - [Students raised four categories of concern about potential misuse of MMLA data: judgment, privacy, career impact, and academic integrity](mmla-data-misuse-concerns-four-themes.md) — related

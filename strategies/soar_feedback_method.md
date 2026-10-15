@@ -12,7 +12,7 @@ generated:
 # SOAR Feedback Method
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 3 studies (2 quant-synthesis, 1 qualitative), `q2`–`q4` · 2 of 3 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 2 studies (2 quant-synthesis), `q4` · 2 of 2 report an effect size
 
 ## Description
 The SOAR method is a quality framework for feedback on student writing: feedback should be **S**pecific (tied to concrete features of the text, not global impressions), **O**ngoing (delivered across drafts rather than as a single terminal event), **A**ction-Oriented (telling the writer what to *do* next, not just what is wrong), and **R**easonable (limited in scope to what the writer can act on in one revision cycle). It operationalizes formative assessment research into a checklist instructors can apply to every round of comments.
@@ -57,7 +57,6 @@ SOAR aligns with the finding that feedback is most effective when it addresses t
 
 ## Claims
 
-- [All thirteen participants described ChatGPT-generated feedback as useful, particularly for identifying specific surface-level writing issues](../claims/students-find-chatgpt-feedback-useful-surface-level.md) [~W]
 
 ## Related Strategies
 - [Action-Oriented Feedback](action-oriented-feedback.md) — the "A" in SOAR, elaborated as a standalone technique

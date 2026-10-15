@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` In the study's survey, 65% of students reported doing work in the software outside of class, though products did not work on mobile devices and wifi for personal devices and device loan programs were largely absent. [→ Constantakis 2016](#constantakis-2016)
@@ -63,5 +64,5 @@ The report attributes this figure to a Tyton Partners report, not to its own stu
 
 ## Related Claims
 - [Large shares of students faced technology problems serious enough to impede course participation: 44 percent internet connectivity and 23 percent hardware/software issues](remote-covid-technology-access-problems-widespread.md) — related
-- [About 70 percent of teachers use the internet weekly for lesson preparation, but only 45 to 50 percent use software in instruction or expect weekly student use](teacher-technology-use-preparation-versus-instruction-gap.md) — related
+- About 70 percent of teachers use the internet weekly for lesson preparation, but only 45 to 50 percent use software in instruction or expect weekly student use — related
 - [Infrastructure and access constraints were reported in 18 of 54 studies (33%) as the second higher-order technical limitation category](infrastructure-access-constraints-ai-efl.md) — related

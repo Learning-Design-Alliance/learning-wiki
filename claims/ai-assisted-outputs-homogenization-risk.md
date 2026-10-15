@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: jean-pierre-briot-2026
-    resource: "https://arxiv.org/abs/2608.05176"
-    title: "Jean-Pierre Briot. (2026). Challenges for Musical Education in the Age of AI and Digital Transformation. https://arxiv.org/abs/2608.05176"
+    resource: "https://doi.org/10.48550/arxiv.2608.05176"
+    title: "Jean-Pierre Briot. (2026). Challenges for Musical Education in the Age of AI and Digital Transformation. https://arxiv.org/abs/2608.05176 [doi:10.48550/arxiv.2608.05176](https://doi.org/10.48550/arxiv.2608.05176)"
     author: Jean-Pierre Briot
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Jean-Pierre Briot 2026
 
-Jean-Pierre Briot. (2026). Challenges for Musical Education in the Age of AI and Digital Transformation. https://arxiv.org/abs/2608.05176
+Jean-Pierre Briot. (2026). Challenges for Musical Education in the Age of AI and Digital Transformation. https://arxiv.org/abs/2608.05176 [doi:10.48550/arxiv.2608.05176](https://doi.org/10.48550/arxiv.2608.05176)
 
 `q2 · i?` · `review · r1`
 
@@ -44,10 +44,10 @@ The article reports, citing Doshi and Hauser, that generative AI assistance "sig
 
 ## Related Claims
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
-- [Reviewed studies consistently raise concerns about AI accuracy, overreliance, academic integrity, and reduced critical engagement in Arab EL2 contexts](ai-concerns-overreliance-integrity-arab-el2.md) — related
-- [LLM-assisted inductive qualitative coding carries risks of superficial themes, broad or redundant codes, and hallucinated interpretations, so LLMs should augment rather than replace human researchers](llm-inductive-coding-risks-require-human-oversight.md) — related
+- Reviewed studies consistently raise concerns about AI accuracy, overreliance, academic integrity, and reduced critical engagement in Arab EL2 contexts — related
+- LLM-assisted inductive qualitative coding carries risks of superficial themes, broad or redundant codes, and hallucinated interpretations, so LLMs should augment rather than replace human researchers — related
 - [All AI-generated outputs in the project underwent mandatory human-in-the-loop review, positioning AI as augmentative rather than substitutive](mandatory-human-in-the-loop-review-ai-outputs.md) — related
-- [Practitioners hold near-universal commitments to human oversight and critical evaluation of AI outputs](practitioner-oversight-governance-norms.md) — related
+- Practitioners hold near-universal commitments to human oversight and critical evaluation of AI outputs — related
 - [LLM access boosts individual story creativity while significantly homogenising output across writers (review attribution)](llm-access-homogenises-creative-output.md) — possibly the same claim (merge candidate)
-- [AI assistance raises individual creative self-assessments but reduces collective diversity of novel content (reviewed finding)](ai-creativity-individual-gain-collective-diversity-loss.md) — possibly the same claim (merge candidate)
-- [GenAI-enabled stories are more similar to the GenAI ideas and to other stories in their condition, reducing collective diversity of novel content](genai-stories-more-similar-reduced-diversity.md) — a narrower finding that bears on this claim
+- AI assistance raises individual creative self-assessments but reduces collective diversity of novel content (reviewed finding) — possibly the same claim (merge candidate)
+- GenAI-enabled stories are more similar to the GenAI ideas and to other stories in their condition, reducing collective diversity of novel content — a narrower finding that bears on this claim

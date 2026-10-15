@@ -43,6 +43,6 @@ The authors' own qualification of the Ohio authorizer-type comparison states the
 
 
 ## Related Claims
-- [The article examines whether the type of charter-school authorizer relates to charter-school effectiveness as measured by student achievement trajectories in Ohio](authorizer-type-charter-effectiveness-ohio-study.md) — related
+- The article examines whether the type of charter-school authorizer relates to charter-school effectiveness as measured by student achievement trajectories in Ohio — related
 - [In Ohio, charter schools authorized by nonprofits are less effective in promoting student achievement than other charter schools](nonprofit-authorized-charters-less-effective-ohio.md) — related
 - [Policy design details are likely critical to the effects of school choice programs](choice-program-design-details-critical-to-effects.md) — a broader claim this one bears on

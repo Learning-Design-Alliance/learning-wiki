@@ -18,7 +18,7 @@ sources:
 # DCPS Special Education Service Delivery Model (SDM)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (2 for, 3 against) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 A District of Columbia Public Schools model that organizes decentralized special-education identification, assessment, placement, and early intervention through building-level collaborative teams.
@@ -27,11 +27,6 @@ A District of Columbia Public Schools model that organizes decentralized special
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [The more formal SDM training staff received, the more positive their attitudes toward the model (r=.293, p<.001), especially at the elementary level](../claims/more-sdm-training-more-positive-staff-attitudes.md) [+W]
-- [Most staff (70.2%) doubted their school's resources were adequate for the SDM, and perceived resource inadequacy was strongly associated with less positive attitudes toward the model](../claims/perceived-resource-inadequacy-lowers-sdm-attitudes.md) [-W]
-- [Schools provided staff minimal formal SDM training: only 54.6% of staff participated, 58.8% of classroom teachers were non-participants, and most trainees received 8 hours or less](../claims/minimal-formal-training-sdm-staff.md) [-W]
-- [Role awareness was generally low and differed by group: classroom teachers scored 35.4 versus 65.4 for resource staff, with non-team members lowest](../claims/role-awareness-group-differences-sdm.md) [-W]
-- [Training amount related to role awareness (r=.225, p<.01), but regression showed role awareness was most directly attributable to building-team membership](../claims/role-awareness-attributable-to-team-membership.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -65,11 +60,6 @@ The SDM is a District of Columbia Public Schools model that decentralizes identi
 
 ### Claims
 <!- - Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] - ->
-- [The more formal SDM training staff received, the more positive their attitudes toward the model (r=.293, p<.001), especially at the elementary level](../claims/more-sdm-training-more-positive-staff-attitudes.md) [+W]
-- [Most staff (70.2%) doubted their school's resources were adequate for the SDM, and perceived resource inadequacy was strongly associated with less positive attitudes toward the model](../claims/perceived-resource-inadequacy-lowers-sdm-attitudes.md) [-W]
-- [Schools provided staff minimal formal SDM training: only 54.6% of staff participated, 58.8% of classroom teachers were non-participants, and most trainees received 8 hours or less](../claims/minimal-formal-training-sdm-staff.md) [-W]
-- [Role awareness was generally low and differed by group: classroom teachers scored 35.4 versus 65.4 for resource staff, with non-team members lowest](../claims/role-awareness-group-differences-sdm.md) [-W]
-- [Training amount related to role awareness (r=.225, p<.01), but regression showed role awareness was most directly attributable to building-team membership](../claims/role-awareness-attributable-to-team-membership.md) [+W]
 
 ## Related Elements
 - 

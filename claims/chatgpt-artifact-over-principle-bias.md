@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: shravika-mittal-2026
-    resource: "https://arxiv.org/abs/2606.11669"
-    title: "Shravika Mittal, Su Lin Blodgett, Q. Vera Liao. (2026). Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning. https://arxiv.org/abs/2606.11669"
+    resource: "https://doi.org/10.48550/arxiv.2606.11669"
+    title: "Shravika Mittal, Su Lin Blodgett, Q. Vera Liao. (2026). Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning. https://arxiv.org/abs/2606.11669 [doi:10.48550/arxiv.2606.11669](https://doi.org/10.48550/arxiv.2606.11669)"
     author: Shravika Mittal, Su Lin Blodgett, Q. Vera Liao
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # ChatGPT biased information access toward solution-oriented artifacts over principle-oriented information
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
+> **Evidence** · 2 studies · 2 causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` ChatGPT participants extracted principle-oriented information in 66.33% of entries versus 97.14% for Google, and extracted artifacts (meal plans, grocery lists) in 46.94% versus 6.43%. [→ Shravika Mittal 2026](#shravika-mittal-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Shravika Mittal 2026
 
-Shravika Mittal, Su Lin Blodgett, Q. Vera Liao. (2026). Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning. https://arxiv.org/abs/2606.11669
+Shravika Mittal, Su Lin Blodgett, Q. Vera Liao. (2026). Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning. https://arxiv.org/abs/2606.11669 [doi:10.48550/arxiv.2606.11669](https://doi.org/10.48550/arxiv.2606.11669)
 
 `q2 · i?` · `causal · r1`
 

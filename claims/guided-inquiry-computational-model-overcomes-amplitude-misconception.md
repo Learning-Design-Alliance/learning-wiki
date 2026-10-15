@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: farr-2012
-    resource: "https://arxiv.org/abs/1109.3720"
-    title: "Farr, Schelbert, & Trouille. (2012). Gravitational-wave science in the high school classroom. https://arxiv.org/abs/1109.3720"
+    resource: "https://doi.org/10.48550/arxiv.1109.3720"
+    title: "Farr, Schelbert, & Trouille. (2012). Gravitational-wave science in the high school classroom. https://arxiv.org/abs/1109.3720 [doi:10.48550/arxiv.1109.3720](https://doi.org/10.48550/arxiv.1109.3720)"
     author: "Farr, Schelbert, & Trouille"
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Farr 2012
 
-Farr, Schelbert, & Trouille. (2012). Gravitational-wave science in the high school classroom. https://arxiv.org/abs/1109.3720
+Farr, Schelbert, & Trouille. (2012). Gravitational-wave science in the high school classroom. https://arxiv.org/abs/1109.3720 [doi:10.48550/arxiv.1109.3720](https://doi.org/10.48550/arxiv.1109.3720)
 
 `q2 · i?` · `design · r2`
 
@@ -45,4 +45,4 @@ Classroom implementation across 8 mixed junior/senior, honors and non-honors cla
 
 - [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](misconceptions-interfere-with-new-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Mentored inquiry with staged mechanistic sensemaking supports the transition from intuitive to formal equation reasoning](mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning.md) — related
-- [Adding prediction and discussion to lecture demonstrations significantly improves students' ability to explain the outcomes compared with merely observing](predict-discuss-demonstrations-improve-explanations.md) — related
+- Adding prediction and discussion to lecture demonstrations significantly improves students' ability to explain the outcomes compared with merely observing — related

@@ -44,4 +44,4 @@ Open-ended survey Section 4 item asking students to name up to three factors sha
 
 ## Related Claims
 - [Most teachers in China's middle schools used traditional grammar-focused methods in the late 1980s](china-middle-school-teachers-used-traditional-methods-late-1980s.md) — related
-- [Even after training, participants had limited opportunities to use English outside work, and some workplaces were predominantly non-English](limited-english-use-opportunities-after-training.md) — related
+- Even after training, participants had limited opportunities to use English outside work, and some workplaces were predominantly non-English — related

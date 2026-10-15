@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: unggi-lee-2026
-    resource: "https://arxiv.org/abs/2601.13882"
-    title: "Unggi Lee, Sookbun Lee, Heungsoo Choi, Jinseo Lee, Haeun Park, Younghoon Jeon, Sungmin Cho, Minju Kang, Junbo Koh, Jiyeong Bae, Minwoo Nam, Juyeon Eun, Yeonji Jung, Yeil Jeong. (2026). OpenLearnLM Benchmark: A Unified Framework for Evaluating Knowledge, Skill, and Attitude in Educational Large Language Models. https://arxiv.org/abs/2601.13882"
+    resource: "https://doi.org/10.48550/arxiv.2601.13882"
+    title: "Unggi Lee, Sookbun Lee, Heungsoo Choi, Jinseo Lee, Haeun Park, Younghoon Jeon, Sungmin Cho, Minju Kang, Junbo Koh, Jiyeong Bae, Minwoo Nam, Juyeon Eun, Yeonji Jung, Yeil Jeong. (2026). OpenLearnLM Benchmark: A Unified Framework for Evaluating Knowledge, Skill, and Attitude in Educational Large Language Models. https://arxiv.org/abs/2601.13882 [doi:10.48550/arxiv.2601.13882](https://doi.org/10.48550/arxiv.2601.13882)"
     author: Unggi Lee, Sookbun Lee, Heungsoo Choi, Jinseo Lee, Haeun Park, Younghoon Jeon, Sungmin Cho, Minju Kang, Junbo Koh, Jiyeong Bae, Minwoo Nam, Juyeon Eun, Yeonji Jung, Yeil Jeong
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Across frontier LLMs, Counseling is the easiest educational activity center (average 8.78) while Assessment and Research are hardest (8.42), and performance degrades from Easy to Hard difficulty
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Counseling consistently receives the highest scores across all models (average 8.78), while Assessment (8.42) and Research (8.42) present the greatest challenges. [→ Unggi Lee 2026](#unggi-lee-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Unggi Lee 2026
 
-Unggi Lee, Sookbun Lee, Heungsoo Choi, Jinseo Lee, Haeun Park, Younghoon Jeon, Sungmin Cho, Minju Kang, Junbo Koh, Jiyeong Bae, Minwoo Nam, Juyeon Eun, Yeonji Jung, Yeil Jeong. (2026). OpenLearnLM Benchmark: A Unified Framework for Evaluating Knowledge, Skill, and Attitude in Educational Large Language Models. https://arxiv.org/abs/2601.13882
+Unggi Lee, Sookbun Lee, Heungsoo Choi, Jinseo Lee, Haeun Park, Younghoon Jeon, Sungmin Cho, Minju Kang, Junbo Koh, Jiyeong Bae, Minwoo Nam, Juyeon Eun, Yeonji Jung, Yeil Jeong. (2026). OpenLearnLM Benchmark: A Unified Framework for Evaluating Knowledge, Skill, and Attitude in Educational Large Language Models. https://arxiv.org/abs/2601.13882 [doi:10.48550/arxiv.2601.13882](https://doi.org/10.48550/arxiv.2601.13882)
 
 `q2 · i?` · `design · r2`
 

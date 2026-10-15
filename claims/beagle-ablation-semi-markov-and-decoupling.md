@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: hanchen-david-wang-2026
-    resource: "https://arxiv.org/abs/2602.13280"
-    title: "Hanchen David Wang, Clayton Cohn, Zifan Xu, Siyuan Guo, Gautam Biswas, Meiyi Ma. (2026). BEAGLE: Behavior-Enforced Agent for Grounded Learner Emulation. Preprint. https://arxiv.org/abs/2602.13280"
+    resource: "https://doi.org/10.48550/arxiv.2602.13280"
+    title: "Hanchen David Wang, Clayton Cohn, Zifan Xu, Siyuan Guo, Gautam Biswas, Meiyi Ma. (2026). BEAGLE: Behavior-Enforced Agent for Grounded Learner Emulation. Preprint. https://arxiv.org/abs/2602.13280 [doi:10.48550/arxiv.2602.13280](https://doi.org/10.48550/arxiv.2602.13280)"
     author: Hanchen David Wang, Clayton Cohn, Zifan Xu, Siyuan Guo, Gautam Biswas, Meiyi Ma
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Ablations show the semi-Markov controller is the primary driver of behavioral fidelity (removal pushes DKL to 6.81) and Strategist/Executor separation is essential for epistemic fidelity and realism
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Removing the semi-Markov controller causes catastrophic divergence from real student distributions (DKL rises to 6.81, versus ≤0.32 for all other ablations). [→ Hanchen David Wang 2026](#hanchen-david-wang-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Hanchen David Wang 2026
 
-Hanchen David Wang, Clayton Cohn, Zifan Xu, Siyuan Guo, Gautam Biswas, Meiyi Ma. (2026). BEAGLE: Behavior-Enforced Agent for Grounded Learner Emulation. Preprint. https://arxiv.org/abs/2602.13280
+Hanchen David Wang, Clayton Cohn, Zifan Xu, Siyuan Guo, Gautam Biswas, Meiyi Ma. (2026). BEAGLE: Behavior-Enforced Agent for Grounded Learner Emulation. Preprint. https://arxiv.org/abs/2602.13280 [doi:10.48550/arxiv.2602.13280](https://doi.org/10.48550/arxiv.2602.13280)
 
 `q2 · i?` · `design · r2`
 

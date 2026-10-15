@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 4 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` In dyads with high joint on-task engagement high in equality and mutuality, one student achieved substantial conceptual change while the other showed none, indicating such engagement did not guarantee change. [→ Tao 1997](#tao-1997)

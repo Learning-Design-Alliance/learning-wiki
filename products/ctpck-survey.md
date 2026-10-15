@@ -18,7 +18,7 @@ sources:
 # CT–PCK Survey
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 8 claims (4 for, 4 mixed) · 2 studies (1 associational, 1 design), `q2` · 0 of 2 report an effect size · 8 claims rest on one study
+> **Evidence** · 6 claims (4 for, 2 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 A 16-item vignette-based assessment developed by the ENACT partnership to measure middle school mathematics teachers' computational thinking pedagogical content knowledge.
@@ -34,8 +34,6 @@ A 16-item vignette-based assessment developed by the ENACT partnership to measur
 - [Teachers who were White, female, or had five or more years of experience scored about 14 percentage points higher; emergency-certified teachers scored 14 points lower](../claims/ct-pck-group-score-differences.md) [~W]
 - [The 16-item CT–PCK Survey shows internal consistency reliability around .71–.72 and person separation reliability of .69](../claims/ct-pck-reliability-internal-consistency.md) [+W]
 - [Teachers scored across a wide range on the CT–PCK Survey, averaging about 61 percent correct, with 92 percent scoring above chance](../claims/ct-pck-score-range-distribution.md) [+W]
-- [ICC method flags seven items with the largest DIF indices, two of which show slight nonuniform DIF that the unsigned-area measure understates](../claims/icc-identifies-seven-largest-dif-items.md) [~W]
-- [Seven items exhibit absolute gender DIF by the LDF method, flagged when the total-score line falls outside .95 confidence bands](../claims/ldf-identifies-seven-absolute-dif-items.md) [~W]
 
 ## Related Products and Programmes
 -
@@ -75,8 +73,6 @@ The Computational Thinking–Pedagogical Content Knowledge (CT–PCK) Survey is 
 - [Teachers who were White, female, or had five or more years of experience scored about 14 percentage points higher; emergency-certified teachers scored 14 points lower](../claims/ct-pck-group-score-differences.md) [~W]
 - [The 16-item CT–PCK Survey shows internal consistency reliability around .71–.72 and person separation reliability of .69](../claims/ct-pck-reliability-internal-consistency.md) [+W]
 - [Teachers scored across a wide range on the CT–PCK Survey, averaging about 61 percent correct, with 92 percent scoring above chance](../claims/ct-pck-score-range-distribution.md) [+W]
-- [ICC method flags seven items with the largest DIF indices, two of which show slight nonuniform DIF that the unsigned-area measure understates](../claims/icc-identifies-seven-largest-dif-items.md) [~W]
-- [Seven items exhibit absolute gender DIF by the LDF method, flagged when the total-score line falls outside .95 confidence bands](../claims/ldf-identifies-seven-absolute-dif-items.md) [~W]
 
 ## Related Elements
 - 

@@ -46,4 +46,4 @@ A small evaluation reported in the Program Outcomes section found "positive effe
 - [Across three studies of Achieve3000 (35,070 students), the average effect size was 0.00](achieve3000-average-effect-size-zero.md) — a broader claim this one bears on
 - [Tracey and Young (2004): grade 5 students using differentiated KidBiz3000® outscored comparison students on the SRI (effect size 0.29)](kidbiz-differentiated-sri-positive-effect.md) — related
 - [Comprehension domain: one study found a substantively important positive effect and one an indeterminate effect](achieve3000-comprehension-mixed-findings.md) — related
-- [Achieve3000 use shows significant positive effects on Total Reading Scores for sixth and ninth graders, with a weighted average effect size of +0.29](achieve3000-total-reading-positive-effects.md) — related
+- Achieve3000 use shows significant positive effects on Total Reading Scores for sixth and ninth graders, with a weighted average effect size of +0.29 — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: stefana-broadbent-2026
-    resource: "https://arxiv.org/abs/2607.17094"
-    title: "Stefana Broadbent. (2026). A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico di Milano in 2025/2026. Department of Design, Politecnico di Milano. https://arxiv.org/abs/2607.17094"
+    resource: "https://doi.org/10.48550/arxiv.2607.17094"
+    title: "Stefana Broadbent. (2026). A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico di Milano in 2025/2026. Department of Design, Politecnico di Milano. https://arxiv.org/abs/2607.17094 [doi:10.48550/arxiv.2607.17094](https://doi.org/10.48550/arxiv.2607.17094)"
     author: Stefana Broadbent
     q: 1
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Journal analysis shows heavy GenAI reliance in secondary research and transcription but student autonomy in planning and interpretation of primary research
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q1`
+> **Evidence** · 2 studies · 2 associational `r1`–`r2` · `q1`
 
 ## Subclaims
 `q1 i?` Students reported heavy GenAI use for finding and organising information in secondary research, and for transcribing and summarising interviews, while planning, execution and analysis of primary research were mostly conducted with limited GenAI support. [→ Stefana Broadbent 2026](#stefana-broadbent-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Stefana Broadbent 2026
 
-Stefana Broadbent. (2026). A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico di Milano in 2025/2026. Department of Design, Politecnico di Milano. https://arxiv.org/abs/2607.17094
+Stefana Broadbent. (2026). A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico di Milano in 2025/2026. Department of Design, Politecnico di Milano. https://arxiv.org/abs/2607.17094 [doi:10.48550/arxiv.2607.17094](https://doi.org/10.48550/arxiv.2607.17094)
 
 `q1 · i?` · `associational · r1`
 

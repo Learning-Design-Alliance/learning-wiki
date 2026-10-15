@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 4 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Teachers' primary approach prior to the program was teacher-centered instruction, and through the program they shifted to valuing student-centered instructional strategies for teaching with technologies. [→ Niess 2018](#niess-2018)
@@ -43,5 +44,5 @@ Qualitative analysis of teachers' artifacts, expressions and reflections in the 
 
 
 ## Related Claims
-- [Teachers' overarching conceptions expanded to value multiple technologies, including technologies for communication, collaboration, and inquiry, in more student-centered ways](overarching-conceptions-expanded-multiple-technologies.md) — possibly the same claim (merge candidate)
-- [After the IDEAS academy, both studied teachers' classrooms moved toward more student-centered methods, with inquiry and collaborative learning emerging](academy-shift-toward-student-centered-methods.md) — related
+- Teachers' overarching conceptions expanded to value multiple technologies, including technologies for communication, collaboration, and inquiry, in more student-centered ways — possibly the same claim (merge candidate)
+- After the IDEAS academy, both studied teachers' classrooms moved toward more student-centered methods, with inquiry and collaborative learning emerging — related

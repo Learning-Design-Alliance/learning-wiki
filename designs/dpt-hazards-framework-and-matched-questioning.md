@@ -17,7 +17,7 @@ sources:
 # Dual-process reasoning hazards framework with hazard-matched questioning strategies
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 Dual-process theories describe reasoning as the interplay of a fast, automatic Process 1 producing a provisional mental model and a slow, effortful Process 2 that evaluates it. Physics education research maps four hazards along the reasoning path: intuition may supply an incorrect first model (A); a confident reasoner may accept it without scrutiny (B); analysis may be biased towards rationalising the initial answer (C); or the mindware may be insufficient to detect the error (D). The course matched each hazard to a questioning strategy from the ISLE framework: guiding questions for A and B, conflict between formula and known result for C, and falling-back questions for D.
@@ -39,7 +39,6 @@ Dual-process theories describe reasoning as the interplay of a fast, automatic P
 - selecting questions matched to the hazard
 
 ### Claims
-- [Question Formulation Gains Exceed Diagnosis Gains](../claims/question-formulation-gains-exceed-diagnosis-gains.md) [+M]
 
 ## Related Designs
 - 

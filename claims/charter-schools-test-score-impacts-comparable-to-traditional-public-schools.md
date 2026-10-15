@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: ron-zimmer-2009
-    resource: "https://www.mathematica.org/publications/charter-schools-in-eight-states-effects-on-achievement-attainment-integration-and-competition"
-    title: "Ron Zimmer, Brian Gill, Kevin Booker, Stephane Lavertu, Tim Sass, John Witte. (2009). Charter Schools in Eight States: Effects on Achievement, Attainment, Integration, and Competition. Santa Monica, CA: RAND Corporation. https://www.mathematica.org/publications/charter-schools-in-eight-states-effects-on-achievement-attainment-integration-and-competition"
+    resource: "https://doi.org/10.7249/mg869"
+    title: "Ron Zimmer, Brian Gill, Kevin Booker, Stephane Lavertu, Tim Sass, John Witte. (2009). Charter Schools in Eight States: Effects on Achievement, Attainment, Integration, and Competition. Santa Monica, CA: RAND Corporation. https://www.mathematica.org/publications/charter-schools-in-eight-states-effects-on-achievement-attainment-integration-and-competition [doi:10.7249/mg869](https://doi.org/10.7249/mg869)"
     author: Ron Zimmer, Brian Gill, Kevin Booker, Stephane Lavertu, Tim Sass, John Witte
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Ron Zimmer 2009
 
-Ron Zimmer, Brian Gill, Kevin Booker, Stephane Lavertu, Tim Sass, John Witte. (2009). Charter Schools in Eight States: Effects on Achievement, Attainment, Integration, and Competition. Santa Monica, CA: RAND Corporation. https://www.mathematica.org/publications/charter-schools-in-eight-states-effects-on-achievement-attainment-integration-and-competition
+Ron Zimmer, Brian Gill, Kevin Booker, Stephane Lavertu, Tim Sass, John Witte. (2009). Charter Schools in Eight States: Effects on Achievement, Attainment, Integration, and Competition. Santa Monica, CA: RAND Corporation. https://www.mathematica.org/publications/charter-schools-in-eight-states-effects-on-achievement-attainment-integration-and-competition [doi:10.7249/mg869](https://doi.org/10.7249/mg869)
 
 `q3 · i?` · `associational · r?`
 

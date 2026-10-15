@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: ellen-b-goldring-2020
-    resource: "https://www.mathematica.org/publications/leading-the-change-a-comparison-of-the-principal-supervisor-role-in-principal-supervisor-initiative"
-    title: "Ellen B. Goldring, Laura K. Rogers, Melissa A. Clark. (2020). Leading the Change: A Comparison of the Principal Supervisor Role in Principal Supervisor Initiative Districts and Other Urban Districts. Mathematica, Vanderbilt University, and the University of Utah. https://www.mathematica.org/publications/leading-the-change-a-comparison-of-the-principal-supervisor-role-in-principal-supervisor-initiative"
+    resource: "https://doi.org/10.59656/el-ls4815.001"
+    title: "Ellen B. Goldring, Laura K. Rogers, Melissa A. Clark. (2020). Leading the Change: A Comparison of the Principal Supervisor Role in Principal Supervisor Initiative Districts and Other Urban Districts. Mathematica, Vanderbilt University, and the University of Utah. https://www.mathematica.org/publications/leading-the-change-a-comparison-of-the-principal-supervisor-role-in-principal-supervisor-initiative [doi:10.59656/el-ls4815.001](https://doi.org/10.59656/el-ls4815.001)"
     author: Ellen B. Goldring, Laura K. Rogers, Melissa A. Clark
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Ellen B. Goldring 2020
 
-Ellen B. Goldring, Laura K. Rogers, Melissa A. Clark. (2020). Leading the Change: A Comparison of the Principal Supervisor Role in Principal Supervisor Initiative Districts and Other Urban Districts. Mathematica, Vanderbilt University, and the University of Utah. https://www.mathematica.org/publications/leading-the-change-a-comparison-of-the-principal-supervisor-role-in-principal-supervisor-initiative
+Ellen B. Goldring, Laura K. Rogers, Melissa A. Clark. (2020). Leading the Change: A Comparison of the Principal Supervisor Role in Principal Supervisor Initiative Districts and Other Urban Districts. Mathematica, Vanderbilt University, and the University of Utah. https://www.mathematica.org/publications/leading-the-change-a-comparison-of-the-principal-supervisor-role-in-principal-supervisor-initiative [doi:10.59656/el-ls4815.001](https://doi.org/10.59656/el-ls4815.001)
 
 `q2 · i?` · `associational · r?`
 

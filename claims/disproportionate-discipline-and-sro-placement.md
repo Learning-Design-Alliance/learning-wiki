@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: trout-2022
-    resource: "https://eric.ed.gov/?id=ED628885"
-    title: "Trout, L., Pate, C., Wu, K., & McKenna, J. (2022). Reimagining school safety: A guide for schools and communities. WestEd. https://eric.ed.gov/?id=ED628885"
+    resource: "https://doi.org/10.3102/1882099"
+    title: "Trout, L., Pate, C., Wu, K., & McKenna, J. (2022). Reimagining school safety: A guide for schools and communities. WestEd. https://eric.ed.gov/?id=ED628885 [doi:10.3102/1882099](https://doi.org/10.3102/1882099)"
     author: "Trout, L., Pate, C., Wu, K., & McKenna, J."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Black students and students with disabilities are suspended at disproportionately high rates, and high-poverty schools are more likely to have a School Resource Officer
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r1` · `q2`
+> **Evidence** · 2 studies · 1 design `r1`, 1 theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Black students and students with disabilities are suspended at disproportionately high rates compared with peers, and schools where more than 75 percent of students qualify for free or reduced-price lunch are more likely to have at least one full-time SRO. [→ Trout 2022](#trout-2022)
@@ -40,7 +40,7 @@ sources:
 
 ### Trout 2022
 
-Trout, L., Pate, C., Wu, K., & McKenna, J. (2022). Reimagining school safety: A guide for schools and communities. WestEd. https://eric.ed.gov/?id=ED628885
+Trout, L., Pate, C., Wu, K., & McKenna, J. (2022). Reimagining school safety: A guide for schools and communities. WestEd. https://eric.ed.gov/?id=ED628885 [doi:10.3102/1882099](https://doi.org/10.3102/1882099)
 
 `q2 · i?` · `theoretical · r2`
 

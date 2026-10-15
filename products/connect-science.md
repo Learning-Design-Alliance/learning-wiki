@@ -18,7 +18,7 @@ sources:
 # Connect Science
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 Connect Science is a 31-lesson fourth-grade science curriculum that integrates NGSS practices, social and collaborative skills, and service learning for classroom implementation.
@@ -30,7 +30,6 @@ Connect Science is a 31-lesson fourth-grade science curriculum that integrates N
 - **Service-learning integrated elementary science unit pattern combining NGSS practices, collaborative skills, and a service project**: This pattern organizes an elementary science unit around three integrated strands: standards-aligned science instruction, explicit social and collaborative skills teaching, and a facilitated service-learning experience. The article describes Connect Science as designed "to prepare teachers to use Next Generation Science Standards (NGSS) instructional practices, teach social and collaborative skills, and facilitate a service-learning experience in their science class." The sequence of 31 lessons runs 14 weeks or more and can be integrated with other content instruction. (Connect Science program description et al. (2022))
 
 ### Claims
-- [Connect Science raises fourth-grade science achievement more than business-as-usual science instruction (effect size +0.36)](../claims/connect-science-science-achievement-es-036.md) [+M]
 
 ## Related Products and Programmes
 -
@@ -68,7 +67,6 @@ Connect Science is a curricular approach designed to prepare teachers to use Nex
 
 ## Claims
 
-- [Connect Science raises fourth-grade science achievement more than business-as-usual science instruction (effect size +0.36)](../claims/connect-science-science-achievement-es-036.md) [+W]
 
 ## Related Elements
 
@@ -107,7 +105,6 @@ The program is designed to be delivered by regular classroom teachers rather tha
 - science achievement through NGSS-aligned, service-learning instruction
 
 ### Claims
-- [Connect Science Science Achievement Es 036](../claims/connect-science-science-achievement-es-036.md) [+M]
 
 ## Related Designs
 - 
@@ -147,7 +144,6 @@ This pattern organizes an elementary science unit around three integrated strand
 - service-learning participation
 
 ### Claims
-- [Connect Science Science Achievement Es 036](../claims/connect-science-science-achievement-es-036.md) [+M]
 
 ## Related Designs
 - 

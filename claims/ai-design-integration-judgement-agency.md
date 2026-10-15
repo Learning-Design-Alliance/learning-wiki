@@ -43,4 +43,4 @@ Thematic synthesis across studies in which teaching arrangements required studen
 
 
 ## Related Claims
-- [Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs](human-guidance-ethical-grounding-ai.md) — related
+- Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs — related

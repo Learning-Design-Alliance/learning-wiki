@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Across a three-year study of 32 districts, merely funding a coaching position was found insufficient; district leaders' active role in eliminating barriers and fostering an innovation culture was associated with maximizing the coaching investment. [→ Hardy 2021](#hardy-2021)
@@ -46,5 +47,5 @@ A three-year research study of instructional coaching across 32 districts, repor
 - [When district administration encourages a culture of coaching, teachers feel more comfortable participating in coaching and taking ownership of change](coaching-culture-increases-teacher-participation.md) — related
 - [Teacher leaders can play a valuable role in supporting the professional learning of their colleagues](teacher-leaders-support-colleague-professional-learning.md) — related
 - [Without clear expectations and support from district leaders, coaches might not devote sufficient time to the full range of coaching activities needed to improve teachers' instruction](coaches-need-district-expectations-full-activities.md) — related
-- [The coaching pilot strengthened school leaders' relationships with coaches and led leaders to advocate for full-time dedicated coaches to scale the model](pr-coaching-pilot-relationships-systems-impact.md) — related
+- The coaching pilot strengthened school leaders' relationships with coaches and led leaders to advocate for full-time dedicated coaches to scale the model — related
 - [Effective leadership plays a pivotal role in guiding digital transformation in educational organizations](leadership-pivotal-digital-transformation-education.md) — related

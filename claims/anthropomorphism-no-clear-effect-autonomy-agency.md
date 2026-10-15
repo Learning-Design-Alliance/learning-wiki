@@ -10,8 +10,8 @@ generated:
 evidence_strength: mixed
 sources:
   - id: glawe-2025
-    resource: "https://arxiv.org/abs/2509.22271"
-    title: "Glawe, F., Schmeckel, T., Brauner, P., & Ziefle, M. (2025). Human Autonomy and Sense of Agency in Human-Robot Interaction: A Systematic Literature Review. arXiv. https://arxiv.org/abs/2509.22271"
+    resource: "https://doi.org/10.48550/arxiv.2509.22271"
+    title: "Glawe, F., Schmeckel, T., Brauner, P., & Ziefle, M. (2025). Human Autonomy and Sense of Agency in Human-Robot Interaction: A Systematic Literature Review. arXiv. https://arxiv.org/abs/2509.22271 [doi:10.48550/arxiv.2509.22271](https://doi.org/10.48550/arxiv.2509.22271)"
     author: "Glawe, F., Schmeckel, T., Brauner, P., & Ziefle, M."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Glawe 2025
 
-Glawe, F., Schmeckel, T., Brauner, P., & Ziefle, M. (2025). Human Autonomy and Sense of Agency in Human-Robot Interaction: A Systematic Literature Review. arXiv. https://arxiv.org/abs/2509.22271
+Glawe, F., Schmeckel, T., Brauner, P., & Ziefle, M. (2025). Human Autonomy and Sense of Agency in Human-Robot Interaction: A Systematic Literature Review. arXiv. https://arxiv.org/abs/2509.22271 [doi:10.48550/arxiv.2509.22271](https://doi.org/10.48550/arxiv.2509.22271)
 
 `q2 · i?` · `review · r3`
 

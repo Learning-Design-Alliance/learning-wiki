@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: yu-liming-1990
-    resource: "https://eric.ed.gov/?id=EJ420159"
-    title: "Yu Liming. (1990). The Comprehensible Output Hypothesis and Self-directed Learning: A Learner's Perspective. TESL Canada Journal/Revue TESL du Canada, Vol. 8, No. 1. https://eric.ed.gov/?id=EJ420159"
+    resource: "https://doi.org/10.18806/tesl.v8i1.575"
+    title: "Yu Liming. (1990). The Comprehensible Output Hypothesis and Self-directed Learning: A Learner's Perspective. TESL Canada Journal/Revue TESL du Canada, Vol. 8, No. 1. https://eric.ed.gov/?id=EJ420159 [doi:10.18806/tesl.v8i1.575](https://doi.org/10.18806/tesl.v8i1.575)"
     author: Yu Liming
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Yu Liming 1990
 
-Yu Liming. (1990). The Comprehensible Output Hypothesis and Self-directed Learning: A Learner's Perspective. TESL Canada Journal/Revue TESL du Canada, Vol. 8, No. 1. https://eric.ed.gov/?id=EJ420159
+Yu Liming. (1990). The Comprehensible Output Hypothesis and Self-directed Learning: A Learner's Perspective. TESL Canada Journal/Revue TESL du Canada, Vol. 8, No. 1. https://eric.ed.gov/?id=EJ420159 [doi:10.18806/tesl.v8i1.575](https://doi.org/10.18806/tesl.v8i1.575)
 
 `q1 · i?` · `qualitative · r2`
 
@@ -45,7 +45,7 @@ Diary-based self-study: the author, an advanced learner with 1.5 years in Englis
 ## Related Claims
 - [Adult learners generally find pronunciation more difficult than children and are unlikely to achieve native-like pronunciation, though experience and self-monitoring offset this somewhat](adults-find-pronunciation-harder-than-children.md) — related
 - [A 2010 narrative review reports that even very advanced L2 learners read more slowly than native speakers and miss subtle anaphoric interpretation distinctions](l2-skill-never-fully-native-like.md) — related
-- [Spanish business professionals develop English outside work mainly through reading in English, watching original-version television and films, and speaking with native English speaking friends](out-of-work-english-practices-spanish-professionals.md) — related
+- Spanish business professionals develop English outside work mainly through reading in English, watching original-version television and films, and speaking with native English speaking friends — related
 - [Incidental vocabulary exposure produces reliable learning, but learners pick up only a small share of the unknown words they meet](incidental-vocabulary-exposure-limited.md) — a narrower finding that bears on this claim
 - [Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts](vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts.md) — a narrower finding that bears on this claim
 - [Native speakers rarely supply negative input, so learners must infer or actively seek it by pushing for comprehensible output](pushing-output-elicits-negative-input.md) — related

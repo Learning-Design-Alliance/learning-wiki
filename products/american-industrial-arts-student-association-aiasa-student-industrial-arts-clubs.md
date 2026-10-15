@@ -18,7 +18,7 @@ sources:
 # American Industrial Arts Student Association (AIASA) student industrial arts clubs
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 A national student-club programme organized by the American Industrial Arts Association to familiarize students with industrial and technical fields through tours, club activities, and leadership conferences.
@@ -29,7 +29,6 @@ A national student-club programme organized by the American Industrial Arts Asso
 
 ### Claims
 
-- [AIASA student club membership fluctuated in step with the presence of an AIAA-supported student club coordinator](../claims/aiasa-membership-fluctuates-with-aiaa-support.md) [+W]
 
 ## Related Products and Programmes
 -

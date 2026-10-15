@@ -44,8 +44,8 @@ Theoretical argument in Phase 3 (experimentation and evidence-based inference). 
 
 ## Related Claims
 - Implementing AI methodologies introduces a new layer of epistemic dependence and diffused accountability in science education research — related
-- [A hybrid human-AI workflow using GPT-4o with retrieval-augmented generation supported efficient inductive thematic analysis while preserving researcher judgment](hybrid-gpt4o-human-inductive-thematic-analysis-workflow.md) — related
-- [LLM-assisted inductive qualitative coding carries risks of superficial themes, broad or redundant codes, and hallucinated interpretations, so LLMs should augment rather than replace human researchers](llm-inductive-coding-risks-require-human-oversight.md) — related
+- A hybrid human-AI workflow using GPT-4o with retrieval-augmented generation supported efficient inductive thematic analysis while preserving researcher judgment — related
+- LLM-assisted inductive qualitative coding carries risks of superficial themes, broad or redundant codes, and hallucinated interpretations, so LLMs should augment rather than replace human researchers — related
 - [AI-based analyses of student learning may perform unevenly across student populations, limiting comparability of findings across settings](ai-uneven-performance-across-student-populations.md) — related
 - [All AI-generated outputs in the project underwent mandatory human-in-the-loop review, positioning AI as augmentative rather than substitutive](mandatory-human-in-the-loop-review-ai-outputs.md) — related
 - Existing philosophical accounts of AI in education share a Western architecture presupposing subject-object dualism, individualist epistemic agency, and representational knowledge — related

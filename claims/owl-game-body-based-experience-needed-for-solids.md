@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: ahlquist-2020
-    resource: "https://journals.ku.dk/jmr"
-    title: "Ahlquist, E.-M. T., & Gynther, P. (2020). Teaching in the Montessori Classroom: Investigating Variation Theory and Embodiment as a Foundation of Teachers' Development. Journal of Montessori Research, 6(1). https://journals.ku.dk/jmr"
+    resource: "https://doi.org/10.17161/jomr.v6i1.12051"
+    title: "Ahlquist, E.-M. T., & Gynther, P. (2020). Teaching in the Montessori Classroom: Investigating Variation Theory and Embodiment as a Foundation of Teachers' Development. Journal of Montessori Research, 6(1). https://journals.ku.dk/jmr [doi:10.17161/jomr.v6i1.12051](https://doi.org/10.17161/jomr.v6i1.12051)"
     author: "Ahlquist, E.-M. T., & Gynther, P."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # In the owl game, being shown the solids and working with pictures and labels did not help two boys distinguish solids; body-based experience with contrastive guidance was needed
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · qualitative `r2`–`r3` · `q2`
+> **Evidence** · 2 studies · 2 qualitative `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` Two boys could not distinguish geometric solids in the owl game after only a presentation and a picture-and-label task. [→ Ahlquist 2020](#ahlquist-2020)
@@ -40,7 +40,7 @@ sources:
 
 ### Ahlquist 2020
 
-Ahlquist, E.-M. T., & Gynther, P. (2020). Teaching in the Montessori Classroom: Investigating Variation Theory and Embodiment as a Foundation of Teachers' Development. Journal of Montessori Research, 6(1). https://journals.ku.dk/jmr
+Ahlquist, E.-M. T., & Gynther, P. (2020). Teaching in the Montessori Classroom: Investigating Variation Theory and Embodiment as a Foundation of Teachers' Development. Journal of Montessori Research, 6(1). https://journals.ku.dk/jmr [doi:10.17161/jomr.v6i1.12051](https://doi.org/10.17161/jomr.v6i1.12051)
 
 `q2 · i?` · `qualitative · r2`
 

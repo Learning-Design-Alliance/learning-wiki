@@ -12,7 +12,7 @@ generated:
 # Tutoring Effectiveness Index (TEI)
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (2 causal), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 TEI is a fixed-weight linear index over four signals computed without any external model at selection time: "a Schoenfeld-Verify keyword ratio, a math-step density, an ends-question rate, and a deep-reasoning gate from the Deep-Thinking Ratio (DTR) probe". Verification and explicit math content are rewarded, ending tutor turns with questions is penalised, and the DTR gate adds a small bonus. Weights (α, β, γ, δ) = (1.0, 0.75, 1.0, 0.5) are fixed a priori from theory to preserve the training-free, judge-free property.

@@ -45,5 +45,5 @@ Implementation report of network growth under a youth coordinator funded by a co
 ## Related Claims
 - [NAMI On Campus Club participants reported high confidence in their clubs' impact, with 72–100% agreement across survey items](nami-campus-club-survey-outcomes.md) — related
 - [Project Cal-Well in Stanislaus County trained 1,750 mental health workforce members and more than 12,000 non-workforce individuals between fall 2019 and December 2023](cal-well-stanislaus-training-reach.md) — related
-- [AIASA student club membership fluctuated in step with the presence of an AIAA-supported student club coordinator](aiasa-membership-fluctuates-with-aiaa-support.md) — related
+- AIASA student club membership fluctuated in step with the presence of an AIAA-supported student club coordinator — related
 - [Through Project Cal-Well, SCOE established or renewed 70 community partnerships to improve school-based mental health services](scoe-70-community-partnerships.md) — related

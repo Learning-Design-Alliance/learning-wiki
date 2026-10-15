@@ -45,5 +45,5 @@ Expert validation study: a 70-item construction validity instrument was circulat
 ## Related Claims
 - [The TEFA-T model produces significantly higher learning achievement than teacher-based instruction in automotive vocational courses](tefa-t-higher-achievement-than-teacher-based.md) — related
 - [The TEFA-T model improves students' critical thinking skills on all measured indicators compared with conventional instruction](tefa-t-improves-critical-thinking-skills.md) — related
-- [The five dimensions of the developed thinking styles scale show structural validity via confirmatory factor analysis](thinking-styles-scale-cfa-structural-validity.md) — related
+- The five dimensions of the developed thinking styles scale show structural validity via confirmatory factor analysis — related
 - [The TEFA-T model and its supporting products are rated Very Practical by instructors and students](tefa-t-very-practical-rating.md) — related

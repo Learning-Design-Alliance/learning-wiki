@@ -57,7 +57,7 @@ Cross-study finding from the review's Theme 3 synthesis, attributed to Bates et 
 - [Existing legal and sector guidance each address only part of ethical learning analytics governance, and none integrates all six LEAGUE dimensions](existing-guidance-partial-ethical-coverage.md) — related
 - [Existing generative AI guidance in higher education focuses on policy and academic integrity rather than learning mechanisms](existing-ai-guidance-focuses-policy-integrity.md) — related
 - [Existing AI literacy frameworks treat teacher agency narrowly as tool adoption, leaving human–AI co-agency undertheorized](agency-narrowed-to-tool-adoption.md) — related
-- [Awareness of GenAI governance and regulation remains limited, appearing in a small transitional cluster](limited-regulatory-awareness-transitional-cluster.md) — related
+- Awareness of GenAI governance and regulation remains limited, appearing in a small transitional cluster — related
 - [A scaffolded participatory exercise in which students wrote rules governing the instructor's own AI use produced an accountability framework the instructor found more usable than institutional guidance](student-authored-instructor-ai-rules-accountability.md) — a narrower finding that bears on this claim
 - [Practitioner governance activity in Australian Group of Eight institutions outpaces what the published GenAI literature has documented, while Indonesian participants report less formal scaffolding](governance-practice-outpaces-genai-scholarship.md) — related
 - [Legal and Regulatory Knowledge is the least represented AIL dimension in existing conceptualizations yet is framed as a core competency given evolving regulation](lrk-underrepresented-core-competency.md) — related

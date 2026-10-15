@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: slepkov-2013
-    resource: "https://arxiv.org/abs/1308.4365"
-    title: "Slepkov, A. D. (2013). Integrated Testlets and the Immediate Feedback Assessment Technique. https://arxiv.org/abs/1308.4365"
+    resource: "https://doi.org/10.48550/arxiv.1308.4365"
+    title: "Slepkov, A. D. (2013). Integrated Testlets and the Immediate Feedback Assessment Technique. https://arxiv.org/abs/1308.4365 [doi:10.48550/arxiv.1308.4365](https://doi.org/10.48550/arxiv.1308.4365)"
     author: Slepkov, A. D.
     q: 2
     i: 2
@@ -31,7 +31,7 @@ sources:
 
 ### Slepkov 2013
 
-Slepkov, A. D. (2013). Integrated Testlets and the Immediate Feedback Assessment Technique. https://arxiv.org/abs/1308.4365
+Slepkov, A. D. (2013). Integrated Testlets and the Immediate Feedback Assessment Technique. https://arxiv.org/abs/1308.4365 [doi:10.48550/arxiv.1308.4365](https://doi.org/10.48550/arxiv.1308.4365)
 
 `q2 · i2` · `design · r2`
 
@@ -45,4 +45,4 @@ Analysis of second-attempt partial credit on the IF-AT final exam (49 students).
 ## Related Claims
 - [Partial credit accounts for only a small proportion of IF-AT exam scores, though weaker students depend on it more](if-at-partial-credit-small-proportion-of-score.md) — related
 - [Polychotomously scored IF-AT physics exam items show excellent discrimination, with a mean item-total correlation of r′ = 0.41 ± 0.13 across 45 items](if-at-integrated-testlet-items-excellent-discrimination.md) — related
-- [High-risk students disproportionately scored 80 or above on the final exam (13 of 23), while no low-risk student did](high-risk-students-high-final-scores.md) — related
+- High-risk students disproportionately scored 80 or above on the final exam (13 of 23), while no low-risk student did — related

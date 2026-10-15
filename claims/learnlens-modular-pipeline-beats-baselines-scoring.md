@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: runcong-zhao-2025
-    resource: "https://arxiv.org/abs/2507.04295"
-    title: "Runcong Zhao, Artem Bobrov, Jiazheng Li, Cesare Aloisi, Yulan He. (2025). LearnLens: LLM-Enabled Personalised, Curriculum-Grounded Feedback with Educators in the Loop. https://arxiv.org/abs/2507.04295"
+    resource: "https://doi.org/10.48550/arxiv.2507.04295"
+    title: "Runcong Zhao, Artem Bobrov, Jiazheng Li, Cesare Aloisi, Yulan He. (2025). LearnLens: LLM-Enabled Personalised, Curriculum-Grounded Feedback with Educators in the Loop. https://arxiv.org/abs/2507.04295 [doi:10.48550/arxiv.2507.04295](https://doi.org/10.48550/arxiv.2507.04295)"
     author: Runcong Zhao, Artem Bobrov, Jiazheng Li, Cesare Aloisi, Yulan He
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Runcong Zhao 2025
 
-Runcong Zhao, Artem Bobrov, Jiazheng Li, Cesare Aloisi, Yulan He. (2025). LearnLens: LLM-Enabled Personalised, Curriculum-Grounded Feedback with Educators in the Loop. https://arxiv.org/abs/2507.04295
+Runcong Zhao, Artem Bobrov, Jiazheng Li, Cesare Aloisi, Yulan He. (2025). LearnLens: LLM-Enabled Personalised, Curriculum-Grounded Feedback with Educators in the Loop. https://arxiv.org/abs/2507.04295 [doi:10.48550/arxiv.2507.04295](https://doi.org/10.48550/arxiv.2507.04295)
 
 `q2 · i?` · `design · r2`
 

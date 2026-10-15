@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: yanjia-li-2026
-    resource: "https://arxiv.org/abs/2606.24694"
-    title: "Yanjia Li, Kelcy Kexin Han, Tianrui Hu, Yi-Fan Cao, Huamin Qu, Sicheng Song. (2026). SupplyNet: Supporting Visual Exploratory Learning in Supply Chain via Contextual Multi-Agent Simulation. https://arxiv.org/abs/2606.24694"
+    resource: "https://doi.org/10.48550/arxiv.2606.24694"
+    title: "Yanjia Li, Kelcy Kexin Han, Tianrui Hu, Yi-Fan Cao, Huamin Qu, Sicheng Song. (2026). SupplyNet: Supporting Visual Exploratory Learning in Supply Chain via Contextual Multi-Agent Simulation. https://arxiv.org/abs/2606.24694 [doi:10.48550/arxiv.2606.24694](https://doi.org/10.48550/arxiv.2606.24694)"
     author: Yanjia Li, Kelcy Kexin Han, Tianrui Hu, Yi-Fan Cao, Huamin Qu, Sicheng Song
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Yanjia Li 2026
 
-Yanjia Li, Kelcy Kexin Han, Tianrui Hu, Yi-Fan Cao, Huamin Qu, Sicheng Song. (2026). SupplyNet: Supporting Visual Exploratory Learning in Supply Chain via Contextual Multi-Agent Simulation. https://arxiv.org/abs/2606.24694
+Yanjia Li, Kelcy Kexin Han, Tianrui Hu, Yi-Fan Cao, Huamin Qu, Sicheng Song. (2026). SupplyNet: Supporting Visual Exploratory Learning in Supply Chain via Contextual Multi-Agent Simulation. https://arxiv.org/abs/2606.24694 [doi:10.48550/arxiv.2606.24694](https://doi.org/10.48550/arxiv.2606.24694)
 
 `q1 · i?` · `qualitative · r2`
 

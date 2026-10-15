@@ -45,4 +45,4 @@ Cluster randomized effectiveness study (RAND Corporation, Pane et al., 2014) wit
 
 ## Related Claims
 - [Algebra ability level differences appear on both criteria with no treatment-by-ability interaction](ability-level-differences-verbal-problem-solving.md) — related
-- [Carnegie Learning High School Math Solution Algebra I shows a weighted average effect size of +0.04 across three qualifying studies](carnegie-learning-algebra-i-weighted-effect-0-04.md) — related
+- Carnegie Learning High School Math Solution Algebra I shows a weighted average effect size of +0.04 across three qualifying studies — related

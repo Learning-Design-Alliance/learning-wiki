@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: elaheh-sanoubari-2026
-    resource: "https://arxiv.org/abs/2604.00300"
-    title: "Elaheh Sanoubari, Neil Fernandes, Keith Rebello, Alicia Pan, Andrew Houston, and Kerstin Dautenhahn. (2026). Play-Testing REMind: Evaluating an Educational Robot-Mediated Role-Play Game. https://arxiv.org/abs/2604.00300"
+    resource: "https://doi.org/10.48550/arxiv.2604.00300"
+    title: "Elaheh Sanoubari, Neil Fernandes, Keith Rebello, Alicia Pan, Andrew Houston, and Kerstin Dautenhahn. (2026). Play-Testing REMind: Evaluating an Educational Robot-Mediated Role-Play Game. https://arxiv.org/abs/2604.00300 [doi:10.48550/arxiv.2604.00300](https://doi.org/10.48550/arxiv.2604.00300)"
     author: Elaheh Sanoubari, Neil Fernandes, Keith Rebello, Alicia Pan, Andrew Houston, and Kerstin Dautenhahn
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # During REMind, nearly all children reported feeling sad for the victim and attributed bystander inaction mainly to low confidence or fear of retaliation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 1 qualitative `r3`, 1 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` 94% of participants (17 of 18) felt sad for the victim robot JITTER after watching the bullying scene. [→ Elaheh Sanoubari 2026](#elaheh-sanoubari-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Elaheh Sanoubari 2026
 
-Elaheh Sanoubari, Neil Fernandes, Keith Rebello, Alicia Pan, Andrew Houston, and Kerstin Dautenhahn. (2026). Play-Testing REMind: Evaluating an Educational Robot-Mediated Role-Play Game. https://arxiv.org/abs/2604.00300
+Elaheh Sanoubari, Neil Fernandes, Keith Rebello, Alicia Pan, Andrew Houston, and Kerstin Dautenhahn. (2026). Play-Testing REMind: Evaluating an Educational Robot-Mediated Role-Play Game. https://arxiv.org/abs/2604.00300 [doi:10.48550/arxiv.2604.00300](https://doi.org/10.48550/arxiv.2604.00300)
 
 `q2 · i?` · `qualitative · r3`
 

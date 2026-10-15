@@ -18,7 +18,7 @@ sources:
 # Heggerty's Bridge to Reading
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A teacher-led foundational skills curriculum from Heggerty that combines explicit phonics and phonemic-awareness lessons for daily kindergarten through grade 2 instruction.
@@ -28,11 +28,7 @@ A teacher-led foundational skills curriculum from Heggerty that combines explici
 - **Heggerty's Bridge to Reading foundational skills curriculum**: Bridge to Reading is a teacher-led foundational skills curriculum that pairs explicit phonics instruction with phonemic awareness lessons for daily instruction. The article states it "provides all the components teachers need for comprehensive foundational skills instruction in 30 minutes a day, within the literacy block." It was evaluated in two studies across kindergarten through second grade. (Bridge to Reading evidence summary (2025))
 
 ### Claims
-- [First graders using Bridge to Reading significantly outperformed control-school peers on MAP Growth Reading (ES +0.16) after one semester](../claims/bridge-to-reading-grade1-map-es-016.md) [+W]
-- [Kindergarteners using Bridge to Reading showed greater growth in phonological awareness and phonics/word recognition (ES +0.22 each)](../claims/bridge-to-reading-kindergarten-growth-es-022.md) [+W]
-- [Students receiving special education services showed significant gains (ES +0.36) in the Michigan Tier 2 study](../claims/bridge-to-reading-special-education-es-036.md) [+W]
 - [As a Tier 2 intervention, Bridge to Reading schools significantly outperformed comparison peers on spring NWEA MAP Reading (ES +0.33), with significant effects at both grade levels](../claims/bridge-to-reading-tier2-michigan-es-033.md) [+W]
-- [The weighted average effect size across both Bridge to Reading studies is +0.23, qualifying the program for a Moderate rating](../claims/bridge-to-reading-weighted-average-es-023.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -68,11 +64,7 @@ Bridge to Reading is a teacher-led foundational skills curriculum that pairs exp
 
 ## Claims
 
-- [First graders using Bridge to Reading significantly outperformed control-school peers on MAP Growth Reading (ES +0.16) after one semester](../claims/bridge-to-reading-grade1-map-es-016.md) [+W]
-- [Kindergarteners using Bridge to Reading showed greater growth in phonological awareness and phonics/word recognition (ES +0.22 each)](../claims/bridge-to-reading-kindergarten-growth-es-022.md) [+W]
-- [Students receiving special education services showed significant gains (ES +0.36) in the Michigan Tier 2 study](../claims/bridge-to-reading-special-education-es-036.md) [+W]
 - [As a Tier 2 intervention, Bridge to Reading schools significantly outperformed comparison peers on spring NWEA MAP Reading (ES +0.33), with significant effects at both grade levels](../claims/bridge-to-reading-tier2-michigan-es-033.md) [+W]
-- [The weighted average effect size across both Bridge to Reading studies is +0.23, qualifying the program for a Moderate rating](../claims/bridge-to-reading-weighted-average-es-023.md) [+W]
 
 ## Related Elements
 

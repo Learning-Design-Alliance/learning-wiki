@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: popa-2022
-    resource: "https://arxiv.org/abs/2605.27391"
-    title: "Popa, D. M., Oprea, S.-V., & Bâra, A. (2022). Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills? Department of Economic Informatics and Cybernetics, Bucharest University of Economic Studies. simona.oprea@csie.ase.ro. https://arxiv.org/abs/2605.27391"
+    resource: "https://doi.org/10.48550/arxiv.2605.27391"
+    title: "Popa, D. M., Oprea, S.-V., & Bâra, A. (2022). Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills? Department of Economic Informatics and Cybernetics, Bucharest University of Economic Studies. simona.oprea@csie.ase.ro. https://arxiv.org/abs/2605.27391 [doi:10.48550/arxiv.2605.27391](https://doi.org/10.48550/arxiv.2605.27391)"
     author: "Popa, D. M., Oprea, S.-V., & Bâra, A."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Popa 2022
 
-Popa, D. M., Oprea, S.-V., & Bâra, A. (2022). Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills? Department of Economic Informatics and Cybernetics, Bucharest University of Economic Studies. simona.oprea@csie.ase.ro. https://arxiv.org/abs/2605.27391
+Popa, D. M., Oprea, S.-V., & Bâra, A. (2022). Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills? Department of Economic Informatics and Cybernetics, Bucharest University of Economic Studies. simona.oprea@csie.ase.ro. https://arxiv.org/abs/2605.27391 [doi:10.48550/arxiv.2605.27391](https://doi.org/10.48550/arxiv.2605.27391)
 
 `q2 · i?` · `associational · r2`
 
@@ -47,5 +47,5 @@ Interaction analysis of school autonomy and teacher support in shaping digital s
 
 ## Related Claims
 - [Group-level marginal inferences identify population propensity and autonomy but are nearly vacuous for higher algorithmic skill levels](group-marginal-inferences-cat-skills-propensity.md) — related
-- [Deep learning engagement shows little compensatory benefit by prior achievement: the ACT-by-DEEP interaction is significant and negative only for practical competence gains](act-deep-interaction-only-practical-competence.md) — related
+- Deep learning engagement shows little compensatory benefit by prior achievement: the ACT-by-DEEP interaction is significant and negative only for practical competence gains — related
 - [Digital skills are the only consistently positive predictor of ICT career aspiration growth, while teacher support and autonomy show negative standardized associations](digital-skills-only-consistent-positive-predictor-ict-aspirations.md) — related

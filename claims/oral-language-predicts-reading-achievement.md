@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 4 design pages cite it; treat it as a lead to check, not an established finding.
 
 <!-- title before 2026-10-15: Oral language competence predicts subsequent reading achievement -->
 
@@ -49,5 +50,5 @@ The article reports, citing Sticht's paper "Listening and Reading," that written
 
 ## Related Claims
 - [Joint Book Reading Predicts Literacy Success](joint-book-reading-predicts-literacy-success.md) — related
-- [Listening proficiency transfers to other language skills, including reading and writing, in second language learners](listening-transfer-to-other-language-skills.md) — related
+- Listening proficiency transfers to other language skills, including reading and writing, in second language learners — related
 - [Sticht's Law holds that reading skill cannot exceed listening skill](sticht-law-reading-cannot-exceed-listening.md) — a narrower finding that bears on this claim

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: steven-wise-2017
-    resource: "https://www.nwea.org/research/publication/a-general-approach-to-measuring-test-taking-effort-on-computer-based-tests/"
-    title: "Steven Wise, Lingyun Gao. (2017). A general approach to measuring test-taking effort on computer-based tests. Applied Measurement in Education, 30(4), 343–354. https://www.nwea.org/research/publication/a-general-approach-to-measuring-test-taking-effort-on-computer-based-tests/"
+    resource: "https://doi.org/10.1080/08957347.2017.1353992"
+    title: "Steven Wise, Lingyun Gao. (2017). A general approach to measuring test-taking effort on computer-based tests. Applied Measurement in Education, 30(4), 343–354. https://www.nwea.org/research/publication/a-general-approach-to-measuring-test-taking-effort-on-computer-based-tests/ [doi:10.1080/08957347.2017.1353992](https://doi.org/10.1080/08957347.2017.1353992)"
     author: Steven Wise, Lingyun Gao
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Steven Wise 2017
 
-Steven Wise, Lingyun Gao. (2017). A general approach to measuring test-taking effort on computer-based tests. Applied Measurement in Education, 30(4), 343–354. https://www.nwea.org/research/publication/a-general-approach-to-measuring-test-taking-effort-on-computer-based-tests/
+Steven Wise, Lingyun Gao. (2017). A general approach to measuring test-taking effort on computer-based tests. Applied Measurement in Education, 30(4), 343–354. https://www.nwea.org/research/publication/a-general-approach-to-measuring-test-taking-effort-on-computer-based-tests/ [doi:10.1080/08957347.2017.1353992](https://doi.org/10.1080/08957347.2017.1353992)
 
 `q2 · i?` · `design · r?`
 

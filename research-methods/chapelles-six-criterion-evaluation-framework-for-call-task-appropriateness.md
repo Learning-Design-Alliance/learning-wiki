@@ -17,7 +17,7 @@ sources:
 # Chapelle's six-criterion evaluation framework for CALL task appropriateness
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 6 claims (6 for) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Chapelle's (2001) framework delineates six criteria for assessing the task appropriateness of CALL tools: "Language Learning Potential, Learner Fit, Meaning Focus, Authenticity, Positive Impact, and Practicality". It is grounded in SLA theoretical tenets, particularly Instructed SLA, whose ideal conditions hypothesized for technology-mediated L2 learning guide evaluators' observations of learning processes and outcomes. The framework permits evaluation at a judgmental level (whether the software allows enough interactional opportunities) and an empirical level (gathering data on learners' interaction opportunities), and accommodates specified pedagogical goals such as intercultural competenc
@@ -27,12 +27,6 @@ Chapelle's (2001) framework delineates six criteria for assessing the task appro
 - **Chapelle's (2001) six-criterion evaluation framework for CALL task appropriateness**: Chapelle's (2001) framework delineates six criteria for assessing the task appropriateness of CALL tools: "Language Learning Potential, Learner Fit, Meaning Focus, Authenticity, Positive Impact, and Practicality". It is grounded in SLA theoretical tenets, particularly Instructed SLA, whose ideal conditions hypothesized for technology-mediated L2 learning guide evaluators' observations of learning processes and outcomes. The framework permits evaluation at a judgmental level (whether the software allows enough interactional opportunities) and an empirical level (gathering data on learners' interaction opportunities), and accommodates specified pedagogical goals such as intercultural competenc (Shetye (2024))
 
 ### Claims
-- [Khanmigo fully supports the language learning potential criterion through abundant input, extended output, adaptive feedback, and negotiation of meaning](../claims/khanmigo-language-learning-potential-fully-supported.md) [+W]
-- [Khanmigo does not support learner fit: its language and topics may be too advanced for beginner-level learners](../claims/khanmigo-learner-fit-not-supported.md) [+W]
-- [Khanmigo partially supports the meaning focus criterion: two-way meaning-oriented interactions exist, but cognitive complexity can be problematic for beginners](../claims/khanmigo-meaning-focus-partially-supported.md) [+W]
-- [Khanmigo fully supports the authenticity criterion: nearly all activities except Chat can engage learners in authentic tasks](../claims/khanmigo-authenticity-fully-supported.md) [+W]
-- [Khanmigo does not support the positive impact criterion: metacognitive scaffolding is tacit and pragmatic competence is not addressed unless learners ask](../claims/khanmigo-positive-impact-not-supported.md) [+W]
-- [Khanmigo partially supports the practicality criterion: affordable subscription, user-friendly interface, portability, and teacher monitoring, but paid access limits some learners](../claims/khanmigo-practicality-partially-supported.md) [+W]
 
 ## Related Research Methods
 -
@@ -66,12 +60,6 @@ Chapelle's (2001) framework delineates six criteria for assessing the task appro
 - evaluating appropriateness of CALL tools for language learning
 
 ### Claims
-- [Khanmigo Language Learning Potential Fully Supported](../claims/khanmigo-language-learning-potential-fully-supported.md) [+M]
-- [Khanmigo Learner Fit Not Supported](../claims/khanmigo-learner-fit-not-supported.md) [+M]
-- [Khanmigo Meaning Focus Partially Supported](../claims/khanmigo-meaning-focus-partially-supported.md) [+M]
-- [Khanmigo Authenticity Fully Supported](../claims/khanmigo-authenticity-fully-supported.md) [+M]
-- [Khanmigo Positive Impact Not Supported](../claims/khanmigo-positive-impact-not-supported.md) [+M]
-- [Khanmigo Practicality Partially Supported](../claims/khanmigo-practicality-partially-supported.md) [+M]
 
 ## Related Theories
 - 

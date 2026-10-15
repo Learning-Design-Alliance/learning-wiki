@@ -53,7 +53,7 @@ Third reported finding from the retest-data evaluation: the authors interpret re
 - [Rapid-guessing behavior can distort test scores and adversely affect measurement](rapid-guessing-distorts-test-scores-and-measurement.md) — related
 - [Standard effort-moderated scoring accounts for roughly one-third of score distortion due to differential disengagement on low-stakes achievement tests](standard-em-scoring-one-third-distortion.md) — related
 - [Distortive effects of disengagement on school means were diluted by the high proportion of students exhibiting no non-effortful behavior](disengagement-diluted-by-engaged-majority.md) — related
-- [In simulation, effort-moderated scoring (EM-CAT and EG-CAT) yields negligible bias and nominal 95% confidence interval coverage, unlike MLE-CAT scoring](effort-moderated-cat-negligible-bias-simulation.md) — related
+- In simulation, effort-moderated scoring (EM-CAT and EG-CAT) yields negligible bias and nominal 95% confidence interval coverage, unlike MLE-CAT scoring — related
 - [E-M scoring partially accounts for observed RIT score differences between disengaged first tests and engaged retests](em-scoring-partially-accounts-retest-score-differences.md) — related
 - [Current measurement models underlying achievement testing assume students respond effortfully to test items](measurement-models-assume-effortful-responding.md) — a broader claim this one bears on
 - [Rapid guesses on computer-based tests reflect a construct-irrelevant response process rather than the tested knowledge, skills, and abilities](rapid-guessing-construct-irrelevant-response-process.md) — related

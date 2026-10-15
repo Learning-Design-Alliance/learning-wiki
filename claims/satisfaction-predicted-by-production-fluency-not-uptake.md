@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: russell-scheinberg-2026
-    resource: "https://arxiv.org/abs/2606.22225"
-    title: "Russell Scheinberg, Ameeta Agrawal, Tetyana Sydorenko, Kalab Kahsay, Nina Vyatkina, Griet Boone. (2026). What Changes When the Interlocutor Is an AI? Interactional Fluency and Linguistic Uptake in L2 Spoken Dialogue. https://arxiv.org/abs/2606.22225"
+    resource: "https://doi.org/10.48550/arxiv.2606.22225"
+    title: "Russell Scheinberg, Ameeta Agrawal, Tetyana Sydorenko, Kalab Kahsay, Nina Vyatkina, Griet Boone. (2026). What Changes When the Interlocutor Is an AI? Interactional Fluency and Linguistic Uptake in L2 Spoken Dialogue. https://arxiv.org/abs/2606.22225 [doi:10.48550/arxiv.2606.22225](https://doi.org/10.48550/arxiv.2606.22225)"
     author: Russell Scheinberg, Ameeta Agrawal, Tetyana Sydorenko, Kalab Kahsay, Nina Vyatkina, Griet Boone
     q: 3
     i: 2
@@ -30,7 +30,7 @@ sources:
 # Attitudes toward AI improved after direct experience, and satisfaction was predicted by within-turn production fluency rather than linguistic uptake
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
+> **Evidence** · 2 studies · 2 causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Directional sentiment scores increased significantly after the task (mean +0.48, d=0.64), with 75% of participants becoming more positive. [→ Russell Scheinberg 2026](#russell-scheinberg-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Russell Scheinberg 2026
 
-Russell Scheinberg, Ameeta Agrawal, Tetyana Sydorenko, Kalab Kahsay, Nina Vyatkina, Griet Boone. (2026). What Changes When the Interlocutor Is an AI? Interactional Fluency and Linguistic Uptake in L2 Spoken Dialogue. https://arxiv.org/abs/2606.22225
+Russell Scheinberg, Ameeta Agrawal, Tetyana Sydorenko, Kalab Kahsay, Nina Vyatkina, Griet Boone. (2026). What Changes When the Interlocutor Is an AI? Interactional Fluency and Linguistic Uptake in L2 Spoken Dialogue. https://arxiv.org/abs/2606.22225 [doi:10.48550/arxiv.2606.22225](https://doi.org/10.48550/arxiv.2606.22225)
 
 `q3 · i2` · `causal · r2`
 

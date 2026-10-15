@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` The paper argues that teachers' beliefs in their ability to successfully integrate AI technologies shape their attitudes and intentions toward those technologies, making expectancy a critical factor in motivation to use AI. [→ Yurt 2024](#yurt-2024)
@@ -71,6 +72,6 @@ Theoretical argument in the same section, offered as an example with no data: th
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — a broader claim this one bears on
 - [Teachers hold conflicting attitudes about whether gameful assessments support students’ intrinsic motivation and desire to learn](teacher-attitudes-gameful-assessment-conflicted.md) — related
 - [Faculty attitudes toward AI fall into four profiles—optimistic, critical, critically reflective, and neutral—and optimistic faculty with high AI self-efficacy are more likely to adopt AI](faculty-four-ai-attitude-profiles.md) — related
-- [Effortful learning strategies posed a student motivation challenge at d.tech, which teachers addressed by explaining the underlying science directly to students](productive-struggle-motivation-explaining-brain-rules.md) — related
+- Effortful learning strategies posed a student motivation challenge at d.tech, which teachers addressed by explaining the underlying science directly to students — related
 - [AI applications support prompt engineering, professional skill development, technology acceptance, and active participation in science and chemistry education](ai-outcome-themes-prompt-skills-technology-acceptance.md) — related
 - [Teachers combined high concern about education's future with belief that change requires active effort and that AI is associated with progress](concern-effort-progress-perceptions.md) — related

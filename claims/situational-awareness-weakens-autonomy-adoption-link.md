@@ -44,4 +44,4 @@ Bootstrapped mediation tests within the structural equation model of the 287-tea
 
 ## Related Claims
 - [Teachers largely perceive GenAI as semi-autonomous and prefer to retain full control over their teaching](teachers-perceive-genai-semi-autonomous-retain-control.md) — related
-- [Both SDT and IE hold that people's actions are based on their perceptions of their contexts](perception-determines-behavior-ie-sdt.md) — a broader claim this one bears on
+- Both SDT and IE hold that people's actions are based on their perceptions of their contexts — a broader claim this one bears on

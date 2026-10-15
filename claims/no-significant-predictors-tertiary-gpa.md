@@ -48,7 +48,7 @@ Bivariate correlation analysis in the Results section (tertiary GPA, N = 143). T
 - [Epistemic behavior does not mediate the relation of cognitive ability or curiosity with academic performance](epistemic-behavior-fails-to-mediate-academic-performance.md) — related
 - [Exploratory: leisure epistemic behavior mediates the relation of cognitive ability with tertiary academic performance, with a very small effect](leisure-epistemic-behavior-exploratory-mediation-tertiary.md) — related
 - [Epistemic behavior relates to curiosity but not to cognitive ability](epistemic-behavior-relates-curiosity-not-cognitive-ability.md) — related
-- [Work-avoidant orientation correlates negatively with GPA in the project-based course](gpa-negative-correlation-work-avoidant.md) — related
-- [Stimulus change can selectively reinforce behaviors that produce change and elicit exploratory behavior](stimulus-change-reinforces-exploratory-behavior.md) — related
+- Work-avoidant orientation correlates negatively with GPA in the project-based course — related
+- Stimulus change can selectively reinforce behaviors that produce change and elicit exploratory behavior — related
 - [No significant impact of frustration or boredom (or anxiousness, discouragement, distractedness) on practice performance was found](frustration-boredom-no-significant-impact.md) — related
 - [Multiple student survey measures negatively predicted GPA; significant negative associations were otherwise rare](student-survey-measures-negative-gpa-prediction.md) — related

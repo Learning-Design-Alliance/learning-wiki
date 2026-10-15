@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Over half of the reviewed studies used teacher praise as a dependent variable, and in each such study teacher praise increased with the coaching intervention. [→ Carmouche 2018](#carmouche-2018)
@@ -46,6 +47,6 @@ Review synthesis of the Results section: studies using teacher praise as a depen
 - [Teacher coaching programs improve teachers' instructional practice by a pooled 0.49 SD across 43 causal studies](coaching-pooled-instruction-effect-0-49-sd.md) — the general claim this finding bears on, with the studies behind it
 - [Most reviewed coaching studies did not collect maintenance data, so sustained use of coached practices cannot be confirmed](coaching-maintenance-rarely-measured.md) — related
 - [Research quality and outcome durability were highest when coaching targeted fidelity of specific academic tasks rather than teacher-specific behaviors](coaching-academic-task-fidelity-higher-quality.md) — related
-- [Teachers and coaches in the qualitative study perceived that coaching increased teacher knowledge and practice, with sustainable practices and positive student learning outcomes](coaching-outcomes-teacher-knowledge-sustainability-student-learning.md) — related
+- Teachers and coaches in the qualitative study perceived that coaching increased teacher knowledge and practice, with sustainable practices and positive student learning outcomes — related
 - [Supervisory teacher coaching shows mixed effects, with six of sixteen reviewed studies reporting improved teacher results and four reporting improved student behaviors](supervisory-coaching-mixed-teacher-student-outcomes.md) — a broader claim this one bears on
 - [Coaching time focused on instructional delivery improves coached teachers' practices, while time focused on behavioral management is associated with a significant decrease in practice quality](coaching-focus-instructional-delivery-versus-behavior-management.md) — related

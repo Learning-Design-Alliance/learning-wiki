@@ -86,6 +86,6 @@ The task-level (sometimes called "task process" or "information") focus of feedb
 - [Smaller classes related to more interactions; task-directed and praising interactions linked to more time on task and higher achievement, but organisational and personal interactions rose contrary to expectations](annevelink-personalised-instruction-path-test.md) — related
 - [Feedback about self as a person is the least effective feedback level; task, process, and self-regulation feedback support learning and combine for greater impact](feedback-levels-task-process-self-regulation-effective.md) — related
 - [Districts report more success with future-ready skill assessment focused on student growth than on proficiency](growth-over-proficiency-pog-assessment.md) — related
-- [Overemphasis on punishment is counterproductive; discipline problems often stem from attention-seeking above-average-intelligence students](punishment-overemphasis-counterproductive.md) — related
+- Overemphasis on punishment is counterproductive; discipline problems often stem from attention-seeking above-average-intelligence students — related
 - [Established feedback frameworks do not address the epistemic status of feedback tasks relevant to automation decisions](existing-feedback-frameworks-silent-on-epistemic-status.md) — related
 - [Feedback has a medium overall effect on student learning (d = 0.48 after outlier removal) with substantial heterogeneity](feedback-medium-overall-effect-d048-heterogeneous.md) — related

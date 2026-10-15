@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: sean-savage-2026
-    resource: "https://arxiv.org/abs/2608.06200"
-    title: "Sean Savage, Anand Shanker, Grace Michlitsch, and N. Sanjay Rebello. (2026). Using LLMs to Detect Growth in Computational Thinking in Introductory Physics. arXiv preprint. https://arxiv.org/abs/2608.06200"
+    resource: "https://doi.org/10.48550/arxiv.2608.06200"
+    title: "Sean Savage, Anand Shanker, Grace Michlitsch, and N. Sanjay Rebello. (2026). Using LLMs to Detect Growth in Computational Thinking in Introductory Physics. arXiv preprint. https://arxiv.org/abs/2608.06200 [doi:10.48550/arxiv.2608.06200](https://doi.org/10.48550/arxiv.2608.06200)"
     author: Sean Savage, Anand Shanker, Grace Michlitsch, and N. Sanjay Rebello
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Sean Savage 2026
 
-Sean Savage, Anand Shanker, Grace Michlitsch, and N. Sanjay Rebello. (2026). Using LLMs to Detect Growth in Computational Thinking in Introductory Physics. arXiv preprint. https://arxiv.org/abs/2608.06200
+Sean Savage, Anand Shanker, Grace Michlitsch, and N. Sanjay Rebello. (2026). Using LLMs to Detect Growth in Computational Thinking in Introductory Physics. arXiv preprint. https://arxiv.org/abs/2608.06200 [doi:10.48550/arxiv.2608.06200](https://doi.org/10.48550/arxiv.2608.06200)
 
 `q2 · i?` · `design · r2`
 
@@ -46,13 +46,13 @@ Human inter-rater reliability measured with Fleiss' κ among three researchers c
 - [Students in a computationally intensive introductory physics course show large-magnitude growth in Data Practices and moderate growth in Computational Problem-Solving and Systems Thinking on written CT assessments](ct-growth-data-practices-intro-physics.md) — related
 - [A multimodal LLM achieves moderate-to-substantial agreement with human consensus on well-defined CT practices but lower agreement on multi-component constructs like Physics Correctness and Systems Thinking](llm-human-agreement-ct-practices.md) — related
 - [Making trustworthiness metrics and visualizations explicit increased inter-rater reliability among learning engineers evaluating LLM responses](trustworthiness-metrics-visualizations-increase-expert-agreement.md) — related
-- [The Reflective Judgment Model coding rubric achieves high inter-rater reliability (alpha .93) when applied to teacher educators' interview narratives](rjm-high-interrater-reliability-teacher-educators.md) — related
+- The Reflective Judgment Model coding rubric achieves high inter-rater reliability (alpha .93) when applied to teacher educators' interview narratives — related
 - The interview coding achieved high inter-rater reliability, with Cohen's Kappa of 0.82 between independent coders — related
 - [Three independent expert instructors reached exceptionally high inter-rater reliability when grading 1200 bash exam responses, establishing a reliable human reference standard](expert-triad-high-inter-rater-reliability-bash-grading.md) — related
 - [Human inter-rater agreement for FRISCO essay scoring was reliable, with mean kappa 0.78–0.84 and percentage of agreement above 75% in all six dimensions](frisco-rater-agreement-reliable.md) — related
 - [The framework shows high scoring consistency, with 79% agreement and 81% inter-rater reliability on physics questions](framework-scoring-high-consistency-physics.md) — related
-- [LLM-based transcript classifications agreed highly with human judgment for explicit questions (κ = .778) and math talk (κ = .722), but only moderately for need for help (κ = .562) and confusion (κ = .531)](llm-classification-agreement-varies-by-construct.md) — related
+- LLM-based transcript classifications agreed highly with human judgment for explicit questions (κ = .778) and math talk (κ = .722), but only moderately for need for help (κ = .562) and confusion (κ = .531) — related
 - [Trained scorers applied the historical thinking skills rubrics with good overall inter-rater consistency](hts-rubrics-good-inter-rater-consistency.md) — related
-- [Inter-model agreement on LLM skill tagging is moderate (Cohen's kappa 0.51), with strong agreement on S5 and disagreement concentrated in the S2/S3/S4 boundary](learnopt-llm-tagging-kappa.md) — related
+- Inter-model agreement on LLM skill tagging is moderate (Cohen's kappa 0.51), with strong agreement on S5 and disagreement concentrated in the S2/S3/S4 boundary — related
 - [The emergent LLM coding pipeline reaches substantial agreement with expert human coding (Cohen's κ = 0.78, raw agreement 84%) on a stratified 10% sample](llm-discourse-coding-kappa-078-expert-agreement.md) — related
 - [Inter-rater agreement among the 20 expert teachers was low, at or below chance across QM criteria](low-inter-rater-agreement-qm-criteria.md) — related

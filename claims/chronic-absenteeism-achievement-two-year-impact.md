@@ -44,6 +44,6 @@ The brief's own description states the study explores "the impact of chronic abs
 
 ## Related Claims
 - [Attendance in pre-kindergarten and kindergarten is important, and early-grade chronic absenteeism has identifiable risk factors](early-grades-chronic-absenteeism-risk-factors.md) — a broader claim this one bears on
-- [Students chronically absent for multiple years between preschool and second grade have significantly lower second-grade reading outcomes, approaching the threshold for needing intensive reading intervention](multiyear-chronic-absenteeism-lower-second-grade-reading.md) — related
+- Students chronically absent for multiple years between preschool and second grade have significantly lower second-grade reading outcomes, approaching the threshold for needing intensive reading intervention — related
 - [Asthma linked to poor indoor air quality is a causal chain from facilities to chronic absenteeism and lower achievement](asthma-iaq-absenteeism-causal-chain.md) — related
 - [Excused-unexcused absence distinctions show few outcome differences and delay intervention](excused-unexcused-absence-few-differences.md) — related

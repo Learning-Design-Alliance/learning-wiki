@@ -55,9 +55,9 @@ Manual content analysis of 115 question papers from University of Agriculture Fa
 
 
 ## Related Claims
-- [Question-level emphasis varied by academic designation, with professors omitting synthesis and lecturers omitting evaluation entirely](designation-wise-bloom-question-differences.md) — a narrower finding that bears on this claim
-- [Higher-order questions (synthesis and evaluation) were rarely present in the examined question papers](higher-order-bloom-questions-rare.md) — a narrower finding that bears on this claim
-- [Adult teachers' questions concentrate at low Bloom's levels, and cooperative learning's dialogue and questioning support critical thinking across Bloom's taxonomy](teacher-questions-low-bloom-levels-cooperative-dialogue.md) — related
+- Question-level emphasis varied by academic designation, with professors omitting synthesis and lecturers omitting evaluation entirely — a narrower finding that bears on this claim
+- Higher-order questions (synthesis and evaluation) were rarely present in the examined question papers — a narrower finding that bears on this claim
+- Adult teachers' questions concentrate at low Bloom's levels, and cooperative learning's dialogue and questioning support critical thinking across Bloom's taxonomy — related
 - [Student-authored physics questions mostly require application or analysis, with under 5% at the lowest recall level](student-questions-majority-above-recall-bloom.md) — related: a different population (questions written by physics students for a peer repository, not teachers' examination papers), so it does not contradict this claim <!-- relabelled 2026-10-05; was "reports the opposite" -->
 - [Pre-service teachers' self-efficacy and instructional-planning levels were relatively high, but Bloom taxonomy classification was low](preservice-planning-high-taxonomy-low.md) — related
 - [Analysis of 52 higher-education assessment plans found outcome-based orientation dominant, with dynamic elements subsumed under summative scoring](assessment-plans-outcome-based-dominant.md) — related

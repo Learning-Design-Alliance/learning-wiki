@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: ali-protik-2015
-    resource: "https://www.mathematica.org/publications/journal-article-staffing-a-lowperforming-school-behavioral-responses-to-selective"
-    title: "Ali Protik, Steven Glazerman, Julie Bruch, Bing-ru Teh. (2015). Staffing a Low-Performing School: Behavioral Responses to Selective Teacher Transfer Incentives. Education Finance and Policy, vol. 10, no. 4. https://www.mathematica.org/publications/journal-article-staffing-a-lowperforming-school-behavioral-responses-to-selective"
+    resource: "https://doi.org/10.1162/edfp_a_00174"
+    title: "Ali Protik, Steven Glazerman, Julie Bruch, Bing-ru Teh. (2015). Staffing a Low-Performing School: Behavioral Responses to Selective Teacher Transfer Incentives. Education Finance and Policy, vol. 10, no. 4. https://www.mathematica.org/publications/journal-article-staffing-a-lowperforming-school-behavioral-responses-to-selective [doi:10.1162/edfp_a_00174](https://doi.org/10.1162/edfp_a_00174)"
     author: Ali Protik, Steven Glazerman, Julie Bruch, Bing-ru Teh
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Ali Protik 2015
 
-Ali Protik, Steven Glazerman, Julie Bruch, Bing-ru Teh. (2015). Staffing a Low-Performing School: Behavioral Responses to Selective Teacher Transfer Incentives. Education Finance and Policy, vol. 10, no. 4. https://www.mathematica.org/publications/journal-article-staffing-a-lowperforming-school-behavioral-responses-to-selective
+Ali Protik, Steven Glazerman, Julie Bruch, Bing-ru Teh. (2015). Staffing a Low-Performing School: Behavioral Responses to Selective Teacher Transfer Incentives. Education Finance and Policy, vol. 10, no. 4. https://www.mathematica.org/publications/journal-article-staffing-a-lowperforming-school-behavioral-responses-to-selective [doi:10.1162/edfp_a_00174](https://doi.org/10.1162/edfp_a_00174)
 
 `q2 · i?` · `causal · r?`
 
@@ -50,4 +50,4 @@ The article's stated purpose is to examine "behavioral responses" to a selective
 - [Offering $20,000 per teacher filled 90 percent of targeted vacancies in hard-to-staff schools with high-performing teachers across seven districts](tti-20000-incentive-filled-90-percent-vacancies.md) — related
 - [Most TTI teachers stayed on the job even after incentive payments ended](tti-teachers-retained-after-payments.md) — related
 - [Most TTI teachers stayed on the job even after transfer payments ended](tti-teachers-stayed-after-payments-ended.md) — related
-- [Retention bonuses for high-poverty schools work only while payments last, and working conditions may outweigh pay](retention-bonuses-temporary-effects.md) — related
+- Retention bonuses for high-poverty schools work only while payments last, and working conditions may outweigh pay — related

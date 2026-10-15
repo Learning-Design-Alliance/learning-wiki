@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: alona-strugatski-2026
-    resource: "https://arxiv.org/abs/2608.15630"
-    title: "Alona Strugatski, Licol Zeinfeld, Giora Alexandron. (2026). Do Assessment Instruments Measure the Same Thing for Humans and LLMs? A Latent Structure Analysis. https://arxiv.org/abs/2608.15630"
+    resource: "https://doi.org/10.48550/arxiv.2608.15630"
+    title: "Alona Strugatski, Licol Zeinfeld, Giora Alexandron. (2026). Do Assessment Instruments Measure the Same Thing for Humans and LLMs? A Latent Structure Analysis. https://arxiv.org/abs/2608.15630 [doi:10.48550/arxiv.2608.15630](https://doi.org/10.48550/arxiv.2608.15630)"
     author: Alona Strugatski, Licol Zeinfeld, Giora Alexandron
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Alona Strugatski 2026
 
-Alona Strugatski, Licol Zeinfeld, Giora Alexandron. (2026). Do Assessment Instruments Measure the Same Thing for Humans and LLMs? A Latent Structure Analysis. https://arxiv.org/abs/2608.15630
+Alona Strugatski, Licol Zeinfeld, Giora Alexandron. (2026). Do Assessment Instruments Measure the Same Thing for Humans and LLMs? A Latent Structure Analysis. https://arxiv.org/abs/2608.15630 [doi:10.48550/arxiv.2608.15630](https://doi.org/10.48550/arxiv.2608.15630)
 
 `q2 · i?` · `associational · r2`
 

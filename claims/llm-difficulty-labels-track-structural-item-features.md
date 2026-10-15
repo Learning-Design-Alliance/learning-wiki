@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: yuan-an-2026
-    resource: "https://arxiv.org/abs/2609.27063"
-    title: "Yuan An, Lei Wang. (2026). Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses. https://arxiv.org/abs/2609.27063"
+    resource: "https://doi.org/10.48550/arxiv.2609.27063"
+    title: "Yuan An, Lei Wang. (2026). Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses. https://arxiv.org/abs/2609.27063 [doi:10.48550/arxiv.2609.27063](https://doi.org/10.48550/arxiv.2609.27063)"
     author: Yuan An, Lei Wang
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Yuan An 2026
 
-Yuan An, Lei Wang. (2026). Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses. https://arxiv.org/abs/2609.27063
+Yuan An, Lei Wang. (2026). Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses. https://arxiv.org/abs/2609.27063 [doi:10.48550/arxiv.2609.27063](https://doi.org/10.48550/arxiv.2609.27063)
 
 `q2 · i?` · `associational · r1`
 

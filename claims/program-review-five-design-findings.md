@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` An internal review of the undergraduate program, including benchmarking against ACWA standards, identified the absence of a consistent pedagogical framework and the need for active learning materials based on real-world cases. [→ Patil 2020](#patil-2020)

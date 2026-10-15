@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: jerin-george-mathew-2026
-    resource: "https://arxiv.org/abs/2603.23714"
-    title: "Jerin George Mathew, Sumayya Taher, Anindita Kundu, Denilson Barbosa. (2026). LLMs Do Not Grade Essays Like Humans. https://arxiv.org/abs/2603.23714"
+    resource: "https://doi.org/10.48550/arxiv.2603.23714"
+    title: "Jerin George Mathew, Sumayya Taher, Anindita Kundu, Denilson Barbosa. (2026). LLMs Do Not Grade Essays Like Humans. https://arxiv.org/abs/2603.23714 [doi:10.48550/arxiv.2603.23714](https://doi.org/10.48550/arxiv.2603.23714)"
     author: Jerin George Mathew, Sumayya Taher, Anindita Kundu, Denilson Barbosa
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Different LLMs rely on different subsets of rubric traits when assigning essay scores
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Evidence** · 2 studies · 2 associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Trait mentions in LLM feedback are not uniformly distributed, with praise concentrated on a few traits and criticism spread more broadly, varying across models and rubric structures. [→ Jerin George Mathew 2026](#jerin-george-mathew-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Jerin George Mathew 2026
 
-Jerin George Mathew, Sumayya Taher, Anindita Kundu, Denilson Barbosa. (2026). LLMs Do Not Grade Essays Like Humans. https://arxiv.org/abs/2603.23714
+Jerin George Mathew, Sumayya Taher, Anindita Kundu, Denilson Barbosa. (2026). LLMs Do Not Grade Essays Like Humans. https://arxiv.org/abs/2603.23714 [doi:10.48550/arxiv.2603.23714](https://doi.org/10.48550/arxiv.2603.23714)
 
 `q2 · i?` · `associational · r2`
 

@@ -89,10 +89,10 @@ Bligh's widely-cited synthesis organizes findings around four instructional obje
 | [Murphy et al. 2009](https://doi.org/10.1037/a0015576) | q4 · quant-synthesis · r? | i? | [Some classroom discussion approaches improve text comprehension, but gains are not uniform](structured-discussion-methods-improve-comprehension.md) (qualifies) |
 | [Murphy et al. 2018](https://doi.org/10.3102/0002831218771303) | q2 · causal · r1 | i3 · large effect on basic comprehension, d=1.25; small-to-medium on high-level comprehension, d=0.35 | [Some classroom discussion approaches improve text comprehension, but gains are not uniform](structured-discussion-methods-improve-comprehension.md) (qualifies) |
 | [reasoning-tests-1](https://doi.org/10.51388/20.500.12265/250) | q1 · review · r? | i? | [Productive discourse practices correlate with improved performance on standardized tests o](discourse-practices-correlate-reasoning-tests.md) (supports) |
-| Angxuan Chen 2024 | q2 · causal · r1 | i3 | [Students who teach a ChatGPT teachable agent in natural language achieve greater knowledge](chatgpt-teachable-agent-knowledge-gains.md) (supports) |
+| [Angxuan Chen 2024](https://doi.org/10.48550/arxiv.2412.15226) | q2 · causal · r1 | i3 | [Students who teach a ChatGPT teachable agent in natural language achieve greater knowledge](chatgpt-teachable-agent-knowledge-gains.md) (supports) |
 | [Freeman S 2014](https://doi.org/10.1073/pnas.1319030111) | q4 · quant-synthesis · r3 | i? | [Active learning gains are larger on concept inventories than on instructor-written course ](active-learning-gains-larger-concept-inventories.md) (qualifies) |
-| Moore 2011 | q2 · associational · r1 | i? | [In physics-based courses for non-science majors taught with active-engagement pedagogy, no](reformed-pedagogy-content-gains-but-no-reasoning-gains.md) (qualifies) |
-| Favero 2025 | q2 · theoretical · r2 | i? | [Students in active learning environments learned more but felt they learned less, mistakin](active-learning-felt-learning-paradox.md) (qualifies) |
+| [Moore 2011](https://doi.org/10.48550/arxiv.1110.2764) | q2 · associational · r1 | i? | [In physics-based courses for non-science majors taught with active-engagement pedagogy, no](reformed-pedagogy-content-gains-but-no-reasoning-gains.md) (qualifies) |
+| [Favero 2025](https://doi.org/10.48550/arxiv.2507.06878) | q2 · theoretical · r2 | i? | [Students in active learning environments learned more but felt they learned less, mistakin](active-learning-felt-learning-paradox.md) (qualifies) |
 | [Khan Abdus Salam 2025](https://doi.org/10.7759/cureus.94133) | q2 · causal · r2 | i? | [Lecture-based and 4C/ID-based training produced comparable knowledge retention among emerg](no-knowledge-difference-lecture-vs-4cid-consent-training.md) (qualifies); [The 4C/ID group scored higher on consent-taking OSCEs than the lecture group, but the diff](osce-advantage-4cid-not-significant.md) (qualifies) |
 | Sankaranarayanan Paleeri 2014 | q1 · theoretical · r2 | i? | [Research on value education in India reports that lecturing on values does not transact va](lecturing-on-values-does-not-transact-values-effectively.md) (supports) |
 <!-- synthesis:end -->
@@ -109,14 +109,14 @@ The core interpretive point is that "is lecture effective?" is the wrong questio
 - [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](minimal-guidance-less-effective-for-novices.md) — related
 - [Case-based learning improves exam performance](case-based-learning-improves-exam-performance.md) — related
 - [E-teachers reported shifting from lecture-based, teacher-as-source teaching toward a facilitator role in the online classroom](e-teachers-widen-object-toward-independent-learning.md) — related
-- [Critical thinking gains were significant for creative critical thought but not for logic and reasoning](ideation-discussion-creative-thought-gains-not-logic.md) — related
+- Critical thinking gains were significant for creative critical thought but not for logic and reasoning — related
 - [Inquiry-first teaching stimulates interest, sharpens reading, and helps organize course work](inquiry-first-stimulates-interest-and-organizes-course.md) — related
-- [Merrill's First Principles may provide a more comprehensive synthesis than prior lesson-design frameworks](merrill-framework-more-comprehensive-synthesis.md) — related
+- Merrill's First Principles may provide a more comprehensive synthesis than prior lesson-design frameworks — related
 - [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — related
 - [Sharing experiences in class discussion modifies learners' attitudes and interpretations](sharing-experiences-modifies-attitudes.md) — related
 - [Socratic dialogue by a skilled but inefficient teaching assistant underperformed: lengthy, unsummarized checkpoints may leave students without clear understanding](socratic-dialogue-needs-efficiency-and-summaries.md) — related
 - [Review reports students did not recognize the key points an exemplary lecturer presented in a proof](students-did-not-recognize-lecture-proof-key-points.md) — related
-- [Research has not clearly supported wet laboratory work for product-centered goals](wet-lab-not-supported-for-product-goals.md) — related
+- Research has not clearly supported wet laboratory work for product-centered goals — related
 - [Wireless keypads with immediate-response questions convert a passive lecture audience into active learners by providing rapid feedback](wireless-keypads-convert-passive-audience-to-active-learners.md) — related
 - [High school students report they learn best through interactive, hands-on projects, real-world applications, and discussions rather than lectures, note-taking, and worksheets](students-report-hands-on-learning-most-effective.md) — reports the opposite
 - [Inquiry-based science provides a highly contextualized setting for authentic language use and higher-level dialogue that is not text-dependent, supporting English learners' language development](inquiry-science-contextualized-authentic-language.md) — related

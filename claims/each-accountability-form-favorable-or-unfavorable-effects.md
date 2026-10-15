@@ -43,5 +43,5 @@ The review reports that it draws on "evidence from the laboratory and the field"
 
 
 ## Related Claims
-- [Students report significantly higher accountability, preference for TBL, satisfaction, and total scores than neutral after the TBL module](tbl-survey-above-neutral.md) — a narrower finding that bears on this claim
+- Students report significantly higher accountability, preference for TBL, satisfaction, and total scores than neutral after the TBL module — a narrower finding that bears on this claim
 - [Students perceived a jump in accountable disciplinary knowledge in the advanced laboratory, describing more authentic, less prescribed work than in previous labs](adlab-students-perceived-adk-jump-and-authentic-practice.md) — a narrower finding that bears on this claim

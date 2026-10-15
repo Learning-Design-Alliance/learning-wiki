@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: jiayi-wang-2025
-    resource: "https://arxiv.org/abs/2505.08083"
-    title: "Jiayi Wang, Ruiwei Xiao, Xinying Hou, Hanqi Li, Ying Jui Tseng, John Stamper, and Ken Koedinger. (2025). LLMs to Support K–12 Teachers in Culturally Relevant Pedagogy: An AI Literacy Example. https://arxiv.org/abs/2505.08083"
+    resource: "https://doi.org/10.48550/arxiv.2505.08083"
+    title: "Jiayi Wang, Ruiwei Xiao, Xinying Hou, Hanqi Li, Ying Jui Tseng, John Stamper, and Ken Koedinger. (2025). LLMs to Support K–12 Teachers in Culturally Relevant Pedagogy: An AI Literacy Example. https://arxiv.org/abs/2505.08083 [doi:10.48550/arxiv.2505.08083](https://doi.org/10.48550/arxiv.2505.08083)"
     author: Jiayi Wang, Ruiwei Xiao, Xinying Hou, Hanqi Li, Ying Jui Tseng, John Stamper, and Ken Koedinger
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Jiayi Wang 2025
 
-Jiayi Wang, Ruiwei Xiao, Xinying Hou, Hanqi Li, Ying Jui Tseng, John Stamper, and Ken Koedinger. (2025). LLMs to Support K–12 Teachers in Culturally Relevant Pedagogy: An AI Literacy Example. https://arxiv.org/abs/2505.08083
+Jiayi Wang, Ruiwei Xiao, Xinying Hou, Hanqi Li, Ying Jui Tseng, John Stamper, and Ken Koedinger. (2025). LLMs to Support K–12 Teachers in Culturally Relevant Pedagogy: An AI Literacy Example. https://arxiv.org/abs/2505.08083 [doi:10.48550/arxiv.2505.08083](https://doi.org/10.48550/arxiv.2505.08083)
 
 `q2 · i?` · `design · r2`
 

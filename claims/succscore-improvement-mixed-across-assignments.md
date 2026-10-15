@@ -10,8 +10,8 @@ generated:
 evidence_strength: mixed
 sources:
   - id: rose-niousha-2026
-    resource: "https://arxiv.org/abs/2605.05648"
-    title: "Rose Niousha, Samantha Boatright Smith, Bita Akram, Peter Brusilovsky, Arto Hellas, Juho Leinonen, John DeNero, and Narges Norouzi. (2026). The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness. arXiv preprint. https://arxiv.org/abs/2605.05648"
+    resource: "https://doi.org/10.48550/arxiv.2605.05648"
+    title: "Rose Niousha, Samantha Boatright Smith, Bita Akram, Peter Brusilovsky, Arto Hellas, Juho Leinonen, John DeNero, and Narges Norouzi. (2026). The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness. arXiv preprint. https://arxiv.org/abs/2605.05648 [doi:10.48550/arxiv.2605.05648](https://doi.org/10.48550/arxiv.2605.05648)"
     author: Rose Niousha, Samantha Boatright Smith, Bita Akram, Peter Brusilovsky, Arto Hellas, Juho Leinonen, John DeNero, and Narges Norouzi
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Rose Niousha 2026
 
-Rose Niousha, Samantha Boatright Smith, Bita Akram, Peter Brusilovsky, Arto Hellas, Juho Leinonen, John DeNero, and Narges Norouzi. (2026). The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness. arXiv preprint. https://arxiv.org/abs/2605.05648
+Rose Niousha, Samantha Boatright Smith, Bita Akram, Peter Brusilovsky, Arto Hellas, Juho Leinonen, John DeNero, and Narges Norouzi. (2026). The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness. arXiv preprint. https://arxiv.org/abs/2605.05648 [doi:10.48550/arxiv.2605.05648](https://doi.org/10.48550/arxiv.2605.05648)
 
 `q2 · i?` · `associational · r2`
 

@@ -44,5 +44,5 @@ Second outcome measure from the same randomized study of 2,085 K-2 students. The
 
 ## Related Claims
 - [Adequate-dose tutoring showed marginally significant effects for third graders on the NWEA MAP (ES = +0.27)](lightning-squad-adequate-dose-map-grade3.md) — related
-- [Lower-performing students and first graders in 1:1 sessions benefited most from OnYourMark tutoring](onyourmark-lowest-performers-first-grade-11-benefit-most.md) — related
-- [Virtual 1:1 and 2:1 high-dosage tutoring improved K-2 students' early literacy performance on DIBELS relative to business-as-usual control](onyourmark-virtual-tutoring-improves-dibels.md) — related
+- Lower-performing students and first graders in 1:1 sessions benefited most from OnYourMark tutoring — related
+- Virtual 1:1 and 2:1 high-dosage tutoring improved K-2 students' early literacy performance on DIBELS relative to business-as-usual control — related

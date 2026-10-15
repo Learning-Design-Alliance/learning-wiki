@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Unsuccessful learners make a false step at the beginning of learning in recoding and decoding phonetically, which hinders smooth passage through the interlanguage continuum and widens the gap with more successful learners as study continues. [→ Nakamura 1997](#nakamura-1997)
@@ -43,8 +44,8 @@ Authors' concluding interpretation (type e): even though the two young adult gro
 
 
 ## Related Claims
-- [False beginners' backsliding occurs in comprehension, and their main problem lies in recoding and decoding English words](false-beginners-backsliding-comprehension-decoding.md) — related
-- [On harder passages, false beginners' oral reading falls between true beginners and successful learners](false-beginners-reading-between-groups-harder-passages.md) — related
-- [False beginners and true beginners show no significant differences on any STEP 3 written test item](false-beginners-true-beginners-no-step3-differences.md) — related
-- [In word vocalization, false beginners read irregular words quickly with more unrepaired errors and the highest rate of regularization](false-beginners-irregular-word-vocalization-errors.md) — related
-- [False beginners read passages aloud significantly better than true beginners despite equal written-test scores](false-beginners-read-aloud-better-than-true-beginners.md) — related
+- False beginners' backsliding occurs in comprehension, and their main problem lies in recoding and decoding English words — related
+- On harder passages, false beginners' oral reading falls between true beginners and successful learners — related
+- False beginners and true beginners show no significant differences on any STEP 3 written test item — related
+- In word vocalization, false beginners read irregular words quickly with more unrepaired errors and the highest rate of regularization — related
+- False beginners read passages aloud significantly better than true beginners despite equal written-test scores — related

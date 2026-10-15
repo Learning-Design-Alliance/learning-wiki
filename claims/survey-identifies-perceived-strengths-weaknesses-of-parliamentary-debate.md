@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 <!-- deprecated title (2026-10-05, overstated its evidence; no entry compares parliamentary debate with other formats): Coaches and students perceive distinct strengths and weaknesses of parliamentary debate relative to other formats -->
 
 ## Subclaims
@@ -64,7 +65,7 @@ The same informal tournament survey asked students the strengths/weaknesses ques
 One informal, open-ended survey at a single tournament is recorded, reported by its author without counts, so it shows what respondents listed, not how widespread those views are. Respondents were asked about parliamentary debate itself; no entry reports a comparison with other debate formats. (Kind corrected 2026-10-05 from `theoretical`: the entries report survey responses, a descriptive associational source with a convenience sample, hence `r1`.)
 
 ## Related Claims
-- [Less experienced debate judges are more likely to be assigned to parliamentary debate](inexperienced-judges-assigned-to-parliamentary-debate.md) — related
+- Less experienced debate judges are more likely to be assigned to parliamentary debate — related
 - [Parliamentary rules ban published evidence and omit cross examination, which the author argues undermines argumentation training](parliamentary-rules-ban-evidence-and-omit-cross-examination.md) — related
-- [Judges surveyed perceive CEDA/NDT debaters as devoting more weekly work than parliamentary debaters](judges-perceive-ceda-ndt-work-exceeds-parliamentary-work.md) — related
+- Judges surveyed perceive CEDA/NDT debaters as devoting more weekly work than parliamentary debaters — related
 - [Unconstrained topic writing produces frivolous resolutions that perpetuate non-argumentative practices](unconstrained-topic-writing-yields-frivolous-resolutions.md) — related

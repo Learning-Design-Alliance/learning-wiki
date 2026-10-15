@@ -17,7 +17,7 @@ sources:
 # State and federal policy recommendations: recruit and prepare more candidates, retain new teachers through early-career mentoring, and improve working conditions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 5 studies (2 associational, 2 qualitative, 1 causal), `q1`–`q2` · 0 of 5 report an effect size · 5 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 4 studies (2 associational, 1 causal, 1 qualitative), `q1`–`q2` · 0 of 4 report an effect size · 4 claims rest on one study
 
 ## Description
 The report recommends seven "evidence-based approaches for resolving teacher shortages, which focus on recruiting and preparing more candidates, retaining new teachers through early-career mentoring, and improving teacher working conditions." These include federal action on compensation (debt-free college, teacher tax credits of at least $5,000 annually and up to $12,500 in highest-poverty schools), a statewide recruitment navigation initiative, community-college-to-university "2+2" pathways, capacity-building grants for preparation programs in high-demand fields, stronger uptake of Golden State Teacher Grant scholarships, cultivating NBCT mentors for novice teachers, and a teacher working-conditions survey plus staff wellness programs.
@@ -38,7 +38,6 @@ The report recommends seven "evidence-based approaches for resolving teacher sho
 
 ## Claims
 
-- [Louisiana teachers of color report working conditions, not salary, as primary reasons for leaving high-need schools](../claims/louisiana-teachers-of-color-working-conditions-turnover.md) [+W]
 - [Few teachers receive regular mentoring, and early-career teachers of color report less access to mentoring and induction than White peers](../claims/limited-mentoring-access-early-career-teachers-of-color.md) [+W]
 - [Teachers of color in focus groups report five workforce challenges: antagonistic culture, feeling undervalued, deprived agency and autonomy, unfavorable working conditions, and high personal costs](../claims/five-challenges-teachers-of-color-face.md) [+W]
 - [High teacher attrition, near 8% annually, is the largest share of teacher demand, and halving it could virtually eliminate shortages](../claims/teacher-attrition-largest-demand-driver.md) [+W]

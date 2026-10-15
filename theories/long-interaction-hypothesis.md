@@ -12,7 +12,7 @@ generated:
 # Long's interaction hypothesis
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 40 claims (12 for, 27 mixed, 1 against) · 12 studies (8 causal, 2 associational, 1 quant-synthesis, 1 review), `q1`–`q3` · 2 of 12 report an effect size · 39 claims rest on one study
+> **Evidence** · 35 claims (11 for, 24 mixed) · 12 studies (8 causal, 2 associational, 1 quant-synthesis, 1 review), `q2`–`q3` · 2 of 12 report an effect size · 34 claims rest on one study
 
 <!-- Hub page (2026-09-30). The Description is compiled from the fetched articles that discuss this theory: eric-ed338037, eric-ed367161, eric-ej1080713, eric-ej1435677, eric-ej1071042, eric-ej1208383, eric-ej1269664, eric-ej1348282, eric-ej1361438. The primary works in Key Sources were verified against Crossref but not read. -->
 
@@ -41,13 +41,9 @@ The articles disagree about how far interaction explains acquisition. Ellis foun
 
 ## Claims
 
-- [Native-speaker conversations with learners show more interactional modification than native-speaker conversations in two-way information-exchange tasks, but not in tasks without information exchange](../claims/two-way-tasks-promote-interactional-restructuring.md) [+M]
 - [Interactionally modified input aids comprehension but shows no advantage for retention among beginner learners](../claims/interactionally-modified-input-aids-comprehension-not-retention.md) [~M]
 - [Interactionally adjusted and premodified input yield statistically comparable comprehension overall, with negotiation benefiting lower-ability learners](../claims/negotiation-benefit-limited-lower-ability-learners.md) [~M]
-- [Conversational interaction may facilitate acquisition of some grammatical structures but not others](../claims/interaction-facilitates-some-structures-not-others.md) [~M]
-- [The quality rather than the quantity of interactional modifications predicts comprehensible input](../claims/interaction-quality-over-quantity.md) [~M]
 - [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](../claims/comprehensible-input-insufficient-grammar-acquisition.md) [~M]
-- [There is no direct evidence that comprehensible input is necessary for L2 acquisition; the input hypothesis remains untested](../claims/no-direct-evidence-input-hypothesis.md) [-W]
 - [Child EFL learners receiving recasts in task-based lessons improve their production of third person singular -s from pretest to posttest, in a study with no no-recast comparison group](../claims/recasts-facilitate-child-efl-third-person-s-development.md) [+M]
 - [Metalinguistic feedback's gains on wh-question performance decline over a ten-day delay while recast gains hold, leaving the two no different](../claims/recasts-more-enduring-than-metalinguistic-feedback.md) [+M]
 - [Metalinguistic feedback outperforms recasts on the immediate post-test, but the two do not differ significantly on the delayed post-test](../claims/metalinguistic-beats-recasts-immediate-not-delayed.md) [~M]
@@ -64,7 +60,6 @@ The articles disagree about how far interaction explains acquisition. Ellis foun
 - [In college groups, no correlation was found between frequency of negotiation of meaning and vocabulary score](../claims/college-no-negotiation-vocabulary-correlation.md) [~M]
 - [Learner age/level moderates the benefit of negotiation of meaning: high school learners relied on it more than college learners](../claims/age-moderates-negotiation-benefit.md) [~M]
 - [Non-native speaker dyads provided with subtitled videos before tasks produce a significantly higher percentage of negotiated turns in online TBLL than dyads without videos](../claims/subtitled-videos-increase-negotiation-of-meaning-online-tbll.md) [~M]
-- [Prior research on task familiarity and negotiation of meaning is inconsistent, with some studies finding more negotiation for unfamiliar tasks and one finding no difference](../claims/task-familiarity-negotiation-prior-research-inconsistent.md) [~W]
 - [Completing meaning-focused tasks through CMC fosters negotiated interactions in all three modes (discussion board, text chat, videoconferencing)](../claims/cmc-meaning-focused-tasks-foster-negotiated-interactions.md) [+M]
 - [Closed meaning-focused tasks foster more negotiation of meaning and negative feedback than open tasks in CMC](../claims/closed-tasks-foster-more-negotiation-than-open-tasks.md) [+M]
 - [Videoconferencing was conducive to more negotiation of meaning than text chat and discussion board, measured as proportion of negotiated turns](../claims/videoconferencing-more-negotiated-turns-than-chat-and-board.md) [~M]

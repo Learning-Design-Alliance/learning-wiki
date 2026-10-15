@@ -17,7 +17,7 @@ sources:
 # Track targeted supports with causal evaluation beyond annual performance summaries
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The report recommends that Nevada evaluate its At-risk supports with methods that separate cause from correlation rather than relying on summary performance tables. It argues that "tracking the progress of the state's efforts in helping students who are identified as At-risk to succeed will require more than annual performance summaries," and demonstrates the point by using a regression discontinuity design to estimate the impact of One-Star school supports on At-risk students' math and ELA scores. It also notes some interventions improve outcomes for At-risk students even when their scores remain below peers'.
@@ -38,7 +38,6 @@ The report recommends that Nevada evaluate its At-risk supports with methods tha
 
 ## Claims
 
-- [Progress Learning showed a directionally positive but not statistically significant impact on STAAR ELA scores in Forney ISD](../claims/progress-learning-staar-ela-null.md) [+W]
 
 ## Related Strategies
 - 

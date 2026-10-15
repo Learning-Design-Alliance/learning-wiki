@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: oliveira-2026
-    resource: "https://arxiv.org/abs/2607.05411"
-    title: "Oliveira, E., English, N., Ryan, T., Misiejuk, K., dal Ponte, C., López-Pernas, S., & Saqr, M. (2026). The GenAI Skill Bypass: Mapping Divergent Pathways of University Students and Staff AI Literacy. Preprint. https://arxiv.org/abs/2607.05411"
+    resource: "https://doi.org/10.48550/arxiv.2607.05411"
+    title: "Oliveira, E., English, N., Ryan, T., Misiejuk, K., dal Ponte, C., López-Pernas, S., & Saqr, M. (2026). The GenAI Skill Bypass: Mapping Divergent Pathways of University Students and Staff AI Literacy. Preprint. https://arxiv.org/abs/2607.05411 [doi:10.48550/arxiv.2607.05411](https://doi.org/10.48550/arxiv.2607.05411)"
     author: "Oliveira, E., English, N., Ryan, T., Misiejuk, K., dal Ponte, C., López-Pernas, S., & Saqr, M."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Oliveira 2026
 
-Oliveira, E., English, N., Ryan, T., Misiejuk, K., dal Ponte, C., López-Pernas, S., & Saqr, M. (2026). The GenAI Skill Bypass: Mapping Divergent Pathways of University Students and Staff AI Literacy. Preprint. https://arxiv.org/abs/2607.05411
+Oliveira, E., English, N., Ryan, T., Misiejuk, K., dal Ponte, C., López-Pernas, S., & Saqr, M. (2026). The GenAI Skill Bypass: Mapping Divergent Pathways of University Students and Staff AI Literacy. Preprint. https://arxiv.org/abs/2607.05411 [doi:10.48550/arxiv.2607.05411](https://doi.org/10.48550/arxiv.2607.05411)
 
 `q2 · i?` · `associational · r1`
 

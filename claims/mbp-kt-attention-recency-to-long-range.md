@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: yuhao-jia-2026
-    resource: "https://arxiv.org/abs/2605.08697"
-    title: "Yuhao Jia, Duantengchuan Li, Jinsong Chen, Zhongjie Mao, Mingwen Tong, Yue Li, Xiaoguang Wang. (2026). MBP-KT: Learning Global Collaborative Information from Meta-Behavioral Pattern for Enhanced Knowledge Tracing. Preprint. https://arxiv.org/abs/2605.08697"
+    resource: "https://doi.org/10.48550/arxiv.2605.08697"
+    title: "Yuhao Jia, Duantengchuan Li, Jinsong Chen, Zhongjie Mao, Mingwen Tong, Yue Li, Xiaoguang Wang. (2026). MBP-KT: Learning Global Collaborative Information from Meta-Behavioral Pattern for Enhanced Knowledge Tracing. Preprint. https://arxiv.org/abs/2605.08697 [doi:10.48550/arxiv.2605.08697](https://doi.org/10.48550/arxiv.2605.08697)"
     author: Yuhao Jia, Duantengchuan Li, Jinsong Chen, Zhongjie Mao, Mingwen Tong, Yue Li, Xiaoguang Wang
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Yuhao Jia 2026
 
-Yuhao Jia, Duantengchuan Li, Jinsong Chen, Zhongjie Mao, Mingwen Tong, Yue Li, Xiaoguang Wang. (2026). MBP-KT: Learning Global Collaborative Information from Meta-Behavioral Pattern for Enhanced Knowledge Tracing. Preprint. https://arxiv.org/abs/2605.08697
+Yuhao Jia, Duantengchuan Li, Jinsong Chen, Zhongjie Mao, Mingwen Tong, Yue Li, Xiaoguang Wang. (2026). MBP-KT: Learning Global Collaborative Information from Meta-Behavioral Pattern for Enhanced Knowledge Tracing. Preprint. https://arxiv.org/abs/2605.08697 [doi:10.48550/arxiv.2605.08697](https://doi.org/10.48550/arxiv.2605.08697)
 
 `q1 · i?` · `design · r2`
 
@@ -44,6 +44,6 @@ Qualitative analysis (Appendix B.5, Figure 10) extracting last-layer attention w
 
 ## Related Claims
 - [There is no universal optimal injection position for the collaborative prior; effectiveness is an architecture-sensitive design choice](injection-strategy-architecture-sensitive.md) — related
-- [Replacing Rasch embeddings with mean set embeddings under AKT's attention improves AUC on AS2009, evidence against the expanded representation](mean-embeddings-beat-rasch-embeddings-as2009.md) — related
+- Replacing Rasch embeddings with mean set embeddings under AKT's attention improves AUC on AS2009, evidence against the expanded representation — related
 - [Injecting MBP-KT's global collaborative information consistently improves KT models across RNN, memory-network, Transformer and state-based backbones](mbp-kt-consistently-improves-kt-backbones.md) — related
 - [MBP-KT yields significantly greater improvements for learners with fewer interaction records than for learners with more records](mbp-kt-greater-gains-sparse-learners.md) — related

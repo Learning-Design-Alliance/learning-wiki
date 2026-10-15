@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: yoonsu-kim-2026
-    resource: "https://arxiv.org/abs/2504.00843"
-    title: "Yoonsu Kim, Hyoungwook Jin, Hayeon Doh, Eunhye Kim, Dongyun Jung, Seungju Kim, Kiyoon Choi, Jinho Son, and Juho Kim. (2026). Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work. arXiv. https://arxiv.org/abs/2504.00843"
+    resource: "https://doi.org/10.48550/arxiv.2504.00843"
+    title: "Yoonsu Kim, Hyoungwook Jin, Hayeon Doh, Eunhye Kim, Dongyun Jung, Seungju Kim, Kiyoon Choi, Jinho Son, and Juho Kim. (2026). Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work. arXiv. https://arxiv.org/abs/2504.00843 [doi:10.48550/arxiv.2504.00843](https://doi.org/10.48550/arxiv.2504.00843)"
     author: Yoonsu Kim, Hyoungwook Jin, Hayeon Doh, Eunhye Kim, Dongyun Jung, Seungju Kim, Kiyoon Choi, Jinho Son, and Juho Kim
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # LLMs diagnose Applying skills better than Knowing skills, but with higher evidence over-attribution and false-attribution
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2`–`r3` · `q2`
+> **Evidence** · 2 studies · 2 design `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` Contrary to expectations, models performed better on Applying than Knowing skills in F1 (t= 4.34, p < .001) and accuracy (t= 4.85, p < .001). [→ Yoonsu Kim 2026](#yoonsu-kim-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Yoonsu Kim 2026
 
-Yoonsu Kim, Hyoungwook Jin, Hayeon Doh, Eunhye Kim, Dongyun Jung, Seungju Kim, Kiyoon Choi, Jinho Son, and Juho Kim. (2026). Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work. arXiv. https://arxiv.org/abs/2504.00843
+Yoonsu Kim, Hyoungwook Jin, Hayeon Doh, Eunhye Kim, Dongyun Jung, Seungju Kim, Kiyoon Choi, Jinho Son, and Juho Kim. (2026). Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work. arXiv. https://arxiv.org/abs/2504.00843 [doi:10.48550/arxiv.2504.00843](https://doi.org/10.48550/arxiv.2504.00843)
 
 `q2 · i?` · `design · r2`
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: azimi-2026
-    resource: "https://arxiv.org/abs/2609.16784"
-    title: "Azimi, S. (2026). AI Literacy over Tool Design: A Mixed-Methods Study of Scaffolded versus Unrestricted Generative AI in Programming Education. Delft University of Technology. https://arxiv.org/abs/2609.16784"
+    resource: "https://doi.org/10.48550/arxiv.2609.16784"
+    title: "Azimi, S. (2026). AI Literacy over Tool Design: A Mixed-Methods Study of Scaffolded versus Unrestricted Generative AI in Programming Education. Delft University of Technology. https://arxiv.org/abs/2609.16784 [doi:10.48550/arxiv.2609.16784](https://doi.org/10.48550/arxiv.2609.16784)"
     author: Azimi, S.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Azimi 2026
 
-Azimi, S. (2026). AI Literacy over Tool Design: A Mixed-Methods Study of Scaffolded versus Unrestricted Generative AI in Programming Education. Delft University of Technology. https://arxiv.org/abs/2609.16784
+Azimi, S. (2026). AI Literacy over Tool Design: A Mixed-Methods Study of Scaffolded versus Unrestricted Generative AI in Programming Education. Delft University of Technology. https://arxiv.org/abs/2609.16784 [doi:10.48550/arxiv.2609.16784](https://doi.org/10.48550/arxiv.2609.16784)
 
 `q2 · i?` · `causal · r1`
 
@@ -51,7 +51,7 @@ Descriptive comparison in a seven-week pilot with 33 master's students randomly 
 - [Unrestricted ChatGPT access yields better practice performance but significantly worse exam scores](gpt4-access-harms-learning-after-withdrawal.md) — reports the opposite
 - [AI-generated homework hints were positively associated with exam performance only when exam questions closely matched the homework content](ai-hints-aligned-exam-performance-only.md) — related
 - [Falsifiable hypothesis: unrestricted AI use on deep-processing tasks will produce a product–process dissociation—higher-rated assignments but lower unaided delayed transfer](h3-product-process-dissociation-hypothesis.md) — related
-- [Delayed final-exam differences favored Guided-LLM descriptively but were not statistically confirmatory, with confidence intervals including zero](delayed-final-exam-directional-nonconfirmatory.md) — related
+- Delayed final-exam differences favored Guided-LLM descriptively but were not statistically confirmatory, with confidence intervals including zero — related
 - [Prompt-literacy guidance produced higher transcript-coded rule-following compliance than unrestricted LLM access, driven by process-over-answer and stepwise-hint behaviors](guided-llm-training-raises-rule-following-compliance.md) — related
 - [Live feedback shifts the router's strategy from the Feynman prompt favored in simulation to the scaffolding Coach prompt, with superior live performance](sim-to-real-strategy-shift-feynman-to-coach.md) — related
 - [Learning-by-teaching an LLM improved assignment and project performance versus historical cohorts, but not exam performance, in an undergraduate CS course](learning-by-teaching-llm-improves-assignments-projects.md) — related

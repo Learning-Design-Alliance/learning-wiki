@@ -301,20 +301,8 @@
       "question": "Does adopting a scripted Direct Instruction programme raise achievement in schools, and what does it depend on?",
       "members": [
         [
-          "prior-research-direct-instruction-higher-achievement",
-          "+"
-        ],
-        [
           "direct-instruction-gains-depend-on-implementation-support",
           "~"
-        ],
-        [
-          "direct-instruction-two-years-before-significant-difference",
-          "~"
-        ],
-        [
-          "direct-instruction-no-significant-reading-difference-sixth-grade",
-          "-"
         ],
         [
           "scaffolding-lower-adherence-than-scripted-components",

@@ -16,7 +16,7 @@ sources:
 # Terenzini and Reason's four-domain conceptual framework for first-year college outcomes
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (5 for, 1 against) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The study's conceptual framework expands Astin's Inputs-Environment-Outputs approach and Terenzini, Springer, Pascarella, and Nora's college effects model. It holds that students' background characteristics shape engagement, which is influenced by curricular, classroom, and out-of-class experiences, and that "all of these dynamics occur within, and are mediated by, an often-overlooked fourth domain, the institutional context." The framework motivated the hypothesis that a deeply engaged student body confers contextual benefits, which the study's null contextual results called into question.
@@ -38,12 +38,7 @@ The study's conceptual framework expands Astin's Inputs-Environment-Outputs appr
 
 ### Claims
 
-- [No Contextual Effect Institutional Deep Learning](../claims/no-contextual-effect-institutional-deep-learning.md) [-M]
-- [Deep learning engagement shows little compensatory benefit by prior achievement: the ACT-by-DEEP interaction is significant and negative only for practical competence gains](../claims/act-deep-interaction-only-practical-competence.md) [+W]
 - [Engagement in deep learning activities, as measured by NSSE's DEEP Learning scale, shows no statistically significant relationship with objectively measured critical thinking at the end of the first year](../claims/deep-learning-scale-no-caap-critical-thinking-relationship.md) [+W]
-- [First-year students' engagement in deep learning activities is positively related to their self-reported gains in general education, practical competence, and personal and social development](../claims/deep-learning-scale-positive-self-reported-gains.md) [+W]
-- [An institution's median ACT Composite score is positively and significantly related to three of the four first-year outcomes](../claims/institutional-median-act-predicts-outcomes.md) [+W]
-- [Variance in first-year critical thinking is far more institutional (32.0%) than variance in self-reported gains (3.1-6.2%)](../claims/institutional-variance-critical-thinking-versus-gains.md) [+W]
 
 ## Related Theories
 - 

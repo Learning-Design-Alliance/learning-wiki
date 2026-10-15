@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: bill-vanpatten-2010
-    resource: "https://www.um.es/ijes"
-    title: "Bill VanPatten. (2010). The Two Faces of SLA: Mental Representation and Skill. International Journal of English Studies, 10(1), 1-18. https://www.um.es/ijes"
+    resource: "https://doi.org/10.6018/ijes/2010/1/113951"
+    title: "Bill VanPatten. (2010). The Two Faces of SLA: Mental Representation and Skill. International Journal of English Studies, 10(1), 1-18. https://www.um.es/ijes [doi:10.6018/ijes/2010/1/113951](https://doi.org/10.6018/ijes/2010/1/113951)"
     author: Bill VanPatten
     q: 2
     i: "?"
@@ -32,7 +32,7 @@ sources:
 
 ### Bill VanPatten 2010
 
-Bill VanPatten. (2010). The Two Faces of SLA: Mental Representation and Skill. International Journal of English Studies, 10(1), 1-18. https://www.um.es/ijes
+Bill VanPatten. (2010). The Two Faces of SLA: Mental Representation and Skill. International Journal of English Studies, 10(1), 1-18. https://www.um.es/ijes [doi:10.6018/ijes/2010/1/113951](https://doi.org/10.6018/ijes/2010/1/113951)
 
 `q2 · i?` · `theoretical · r3`
 

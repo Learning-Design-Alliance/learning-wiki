@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: alexander-scarlatos-2024
-    resource: "https://arxiv.org/abs/2409.16490"
-    title: "Alexander Scarlatos, Ryan S. Baker, and Andrew Lan. (2024). Exploring Knowledge Tracing in Tutor-Student Dialogues using LLMs. Published in LAK25: The 15th International Learning Analytics and Knowledge Conference. https://arxiv.org/abs/2409.16490"
+    resource: "https://doi.org/10.48550/arxiv.2409.16490"
+    title: "Alexander Scarlatos, Ryan S. Baker, and Andrew Lan. (2024). Exploring Knowledge Tracing in Tutor-Student Dialogues using LLMs. Published in LAK25: The 15th International Learning Analytics and Knowledge Conference. https://arxiv.org/abs/2409.16490 [doi:10.48550/arxiv.2409.16490](https://doi.org/10.48550/arxiv.2409.16490)"
     author: Alexander Scarlatos, Ryan S. Baker, and Andrew Lan
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Alexander Scarlatos 2024
 
-Alexander Scarlatos, Ryan S. Baker, and Andrew Lan. (2024). Exploring Knowledge Tracing in Tutor-Student Dialogues using LLMs. Published in LAK25: The 15th International Learning Analytics and Knowledge Conference. https://arxiv.org/abs/2409.16490
+Alexander Scarlatos, Ryan S. Baker, and Andrew Lan. (2024). Exploring Knowledge Tracing in Tutor-Student Dialogues using LLMs. Published in LAK25: The 15th International Learning Analytics and Knowledge Conference. https://arxiv.org/abs/2409.16490 [doi:10.48550/arxiv.2409.16490](https://doi.org/10.48550/arxiv.2409.16490)
 
 `q2 · i?` · `design · r2`
 

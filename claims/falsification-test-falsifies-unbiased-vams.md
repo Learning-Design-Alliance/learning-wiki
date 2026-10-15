@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: dan-goldhaber-2015
-    resource: "https://www.mathematica.org/publications/assessingthe-rothstein-falsification-test-does-it-really-show-teacher-valueadded-models-are-biased"
-    title: "Dan Goldhaber, Duncan Dunbar Chaplin. (2015). Assessing the \"Rothstein Falsification Test\": Does It Really Show Teacher Value-Added Models Are Biased? Journal of Research on Educational Effectiveness, vol. 8, issue 1. https://www.mathematica.org/publications/assessingthe-rothstein-falsification-test-does-it-really-show-teacher-valueadded-models-are-biased"
+    resource: "https://doi.org/10.1080/19345747.2014.978059"
+    title: "Dan Goldhaber, Duncan Dunbar Chaplin. (2015). Assessing the \"Rothstein Falsification Test\": Does It Really Show Teacher Value-Added Models Are Biased? Journal of Research on Educational Effectiveness, vol. 8, issue 1. https://www.mathematica.org/publications/assessingthe-rothstein-falsification-test-does-it-really-show-teacher-valueadded-models-are-biased [doi:10.1080/19345747.2014.978059](https://doi.org/10.1080/19345747.2014.978059)"
     author: Dan Goldhaber, Duncan Dunbar Chaplin
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Dan Goldhaber 2015
 
-Dan Goldhaber, Duncan Dunbar Chaplin. (2015). Assessing the "Rothstein Falsification Test": Does It Really Show Teacher Value-Added Models Are Biased? Journal of Research on Educational Effectiveness, vol. 8, issue 1. https://www.mathematica.org/publications/assessingthe-rothstein-falsification-test-does-it-really-show-teacher-valueadded-models-are-biased
+Dan Goldhaber, Duncan Dunbar Chaplin. (2015). Assessing the "Rothstein Falsification Test": Does It Really Show Teacher Value-Added Models Are Biased? Journal of Research on Educational Effectiveness, vol. 8, issue 1. https://www.mathematica.org/publications/assessingthe-rothstein-falsification-test-does-it-really-show-teacher-valueadded-models-are-biased [doi:10.1080/19345747.2014.978059](https://doi.org/10.1080/19345747.2014.978059)
 
 `q2 · i?` · `theoretical · r?`
 

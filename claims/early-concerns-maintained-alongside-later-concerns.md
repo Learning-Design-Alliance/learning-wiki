@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 5 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Even while enacting impact-related adoption activities, teachers continued to respond to self- and task-related concerns, which the authors relate to evolving experiences and interpretations of increasingly complex technologies. [→ Wesley 1996](#wesley-1996)
@@ -51,5 +52,5 @@ Discussion of the case study's interview and SoCQ findings: teachers developed C
 - [Switching to an updated synchronous platform catalysed the teacher's ongoing teaching innovation](platform-switch-catalyses-teaching-innovation.md) — related
 - [Sharing experiences in class discussion modifies learners' attitudes and interpretations](sharing-experiences-modifies-attitudes.md) — related
 - [Two independent research efforts identified the same three pre-use phases of the adoption process](three-pre-use-phases-independently-identified.md) — related
-- [The Transtheoretical Model of Change applies to the adoption of improved study skills: decisional balance pros and cons follow the TTM pattern across stages, self-efficacy rises from contemplation to maintenance, and action/maintenance students use more deep achieving strategies.](ttm-applies-to-study-skill-adoption.md) — related
+- The Transtheoretical Model of Change applies to the adoption of improved study skills: decisional balance pros and cons follow the TTM pattern across stages, self-efficacy rises from contemplation to maintenance, and action/maintenance students use more deep achieving strategies. — related
 - [Colleges adopted new technology platforms to increase efficiencies, but face challenges sustaining their use after the grant ends](technology-platforms-efficiency-adoption-sustainability-challenge.md) — related

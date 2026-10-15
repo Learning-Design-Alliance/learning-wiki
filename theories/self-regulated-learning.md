@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 49 claims (24 for, 22 mixed, 3 against) · 48 studies (19 associational, 11 causal, 4 review, 4 design, 4 theoretical, 3 quant-synthesis, 3 qualitative), `q1`–`q4` · 13 of 48 report an effect size · 37 claims rest on one study
+> **Evidence** · 46 claims (24 for, 19 mixed, 3 against) · 44 studies (18 associational, 11 causal, 4 theoretical, 3 quant-synthesis, 3 review, 3 qualitative, 2 design), `q1`–`q4` · 12 of 44 report an effect size · 35 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -72,19 +72,16 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [AI self-efficacy and self-regulated learning mediate the support–competence associations in opposite patterns for the two supports](../claims/dual-mediation-ai-efficacy-srl-opposite-patterns.md) [~W] — attached 2026-10-12 from Liu Xu et al. (2026), which proposed "Dual-drive dual-mediation model of AI support and pre-service teachers' innovative competence".
 - [In ASR-assisted college English speaking instruction, corrective feedback and reflection tasks each significantly predict reflective behavior](../claims/asr-feedback-and-reflection-tasks-reflective-behavior.md) [~M]
 - [BEAGLE's HIGH and LOW performer profiles differentiate by SRL strategy: HIGH performers allocate 72% of steps to PLANNING and MONITORING while LOW performers spend 50.8% trapped in ENACTING](../claims/beagle-profile-strategy-differentiation.md) [+W]
-- [Because learner feedback was positively skewed, tutors used automated feedback as a self-monitoring tool for improvement and reassurance](../claims/automated-feedback-self-monitoring-tool.md) [~W]
 - [Epistemic network analysis shows metacognitive behaviors co-occur with invitation actions in DR and DE but with human-initiated reasoning and elaboration in CI](../claims/ena-metacognition-invitations-versus-reasoning.md) [~W]
 - [Effort regulation negatively predicts, and general academic help seeking positively predicts, reported AI dependency; time management is non-significant](../claims/effort-regulation-buffers-help-seeking-predicts-ai-dependency.md) [~W]
 - [GenAI use weakens effort adjustment to incentives on subsequent unaided reasoning](../claims/genai-weakens-effort-adjustment-to-incentives.md) [-W]
 - [Self-regulated learning ability significantly moderates Gen-AI's effect on HOT: high-SRL students show ES = 0.863 versus ES = 0.284 for low-SRL students](../claims/genai-srl-moderator.md) [+W]
 - [Within the bounded condition, stronger coded reflective engagement predicted higher Week 8 independent higher-order thinking](../claims/reflective-engagement-predicts-independent-outcomes.md) [+W]
 - [Within-session SRL change shows no detectable association with unaided post-test performance](../claims/srl-change-no-posttest-association.md) [~W]
-- [Self-regulated learning is domain specific, with greater cognitive strategy use in social studies and English than in mathematics](../claims/srl-is-domain-specific-strategy-use-varies-by-subject.md) [~W]
 - [The four profiles differ in academic self-efficacy, time/study management, and effort regulation, with HL highest, but not in help seeking](../claims/profiles-differ-in-self-regulatory-resources-except-help-seeking.md) [~W]
 - [Scenarios depict AI systems monitoring and scaffolding students' socially shared regulation of learning during collaborative lessons](../claims/ai-monitors-socially-shared-regulation-scenarios.md) [+W]
 - [Reflective behavior and learning motivation each significantly predict oral proficiency improvement in ASR-assisted instruction](../claims/asr-reflection-motivation-predict-oral-gains.md) [~M]
 - [Adult learners expect AI to enhance relevance through real-time goal monitoring, goal breakdown, career companionship, and networking recommendations](../claims/ai-enhances-learning-relevance-goal-career.md) [~W]
-- [Self-efficacy, reflective thinking, and help-seeking were associated with topic understanding at the cohort level (r = 0.427, 0.369, 0.168; d = 0.479)](../claims/behavioral-signals-associated-topic-understanding.md) [~W]
 - [Academic emotions—enjoyment, anxiety, and boredom—mediate the association between perceived AI-adaptive environments and SRL, accounting for 54.8% of the total effect](../claims/academic-emotions-mediate-ai-environment-srl.md) [~W]
 - [ASR usage frequency moderately predicts reflective behavior but does not significantly predict learning motivation](../claims/asr-usage-frequency-reflection-not-motivation.md) [+W]
 - [Keystroke patterns during web-based DP exams suggested planning, revision, and sustained cognitive engagement](../claims/keystroke-patterns-suggest-cognitive-engagement.md) [+W]

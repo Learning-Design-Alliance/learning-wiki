@@ -44,8 +44,8 @@ This is background cited by the report, attributed to CREDO's National Charter S
 
 ## Related Claims
 - [Demand for Rhode Island charter seats surged, with 30,000 applications submitted for 2,500 available seats in 2024–2025](ri-charter-demand-30000-applications-2500-seats.md) — related
-- [Charter attendance in Rhode Island is associated with positive, significant one-year growth gains in reading (0.16 SD) and math (0.15 SD) relative to matched TPS controls](ri-charter-positive-gains-reading-math.md) — related
+- Charter attendance in Rhode Island is associated with positive, significant one-year growth gains in reading (0.16 SD) and math (0.15 SD) relative to matched TPS controls — related
 - [A larger share of Rhode Island charter schools outperform local options (43% reading, 57% math) than the national rates found in the 2013 CREDO Study (25% reading, 29% math)](ri-charter-schools-outperform-share-vs-credo-2013.md) — related
 - [Charter school students show more annual learning growth in reading and math than matched traditional public school peers](charter-students-more-days-learning-reading-math.md) — possibly the same claim (merge candidate)
-- [Charter attendance is associated with higher learning gains for Black and Hispanic students, including those in poverty, relative to matched TPS controls](ri-charter-gains-black-hispanic-students.md) — related
-- [Charter attendance is associated with improved learning gains for students in poverty, special education students, and English language learners relative to TPS](ri-charter-gains-poverty-sped-ell.md) — related
+- Charter attendance is associated with higher learning gains for Black and Hispanic students, including those in poverty, relative to matched TPS controls — related
+- Charter attendance is associated with improved learning gains for students in poverty, special education students, and English language learners relative to TPS — related

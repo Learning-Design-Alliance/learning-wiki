@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 5 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q3 i?` Activation of topic-relevant versus unrelated knowledge produced only one significant effect, a free-recall activation-by-fact interaction the authors urge caution about. [→ Woloshyn 1992](#woloshyn-1992)

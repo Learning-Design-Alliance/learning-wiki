@@ -18,7 +18,7 @@ sources:
 # Imagine Math Facts
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (2 for, 1 against) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Imagine Learning's Imagine Math Facts is a digital 3D game-based program for practicing addition, subtraction, multiplication, and division to build arithmetic fluency and automaticity.
@@ -27,9 +27,6 @@ Imagine Learning's Imagine Math Facts is a digital 3D game-based program for pra
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Early elementary students using Imagine Math Facts demonstrated significantly more growth on Ren Star math assessments (effect size +0.11)](../claims/imagine-math-facts-early-elementary-significant-growth.md) [+W]
-- [Across grades 1-5, the overall effect of Imagine Math Facts on Ren Star math growth was small (effect size +0.05)](../claims/imagine-math-facts-overall-effect-small.md) [+W]
-- [Imagine Math Facts use was not associated with statistically significant growth for upper elementary students (grades 3-5)](../claims/imagine-math-facts-upper-elementary-not-significant.md) [-W]
 
 ## Related Products and Programmes
 -
@@ -64,9 +61,6 @@ Imagine Math Facts by Imagine Learning is a digital program delivered in a "3D g
 
 ## Claims
 
-- [Early elementary students using Imagine Math Facts demonstrated significantly more growth on Ren Star math assessments (effect size +0.11)](../claims/imagine-math-facts-early-elementary-significant-growth.md) [+W]
-- [Across grades 1-5, the overall effect of Imagine Math Facts on Ren Star math growth was small (effect size +0.05)](../claims/imagine-math-facts-overall-effect-small.md) [+W]
-- [Imagine Math Facts use was not associated with statistically significant growth for upper elementary students (grades 3-5)](../claims/imagine-math-facts-upper-elementary-not-significant.md) [-W]
 
 ## Related Elements
 

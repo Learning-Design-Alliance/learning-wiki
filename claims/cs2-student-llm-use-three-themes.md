@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: margaret-ellis-2026
-    resource: "https://arxiv.org/abs/2606.30908"
-    title: "Margaret Ellis, Nikitha Donekal Chandrashekar, Sehrish Basir Nizamani, Mohammed Farghally, Jake O'Brien, and Naren Ramakrishnan. (2026). Demystify, Use, Reflect, Assess (DURA): An Experience Report on LLM Integration in CS2. arXiv. https://arxiv.org/abs/2606.30908"
+    resource: "https://doi.org/10.48550/arxiv.2606.30908"
+    title: "Margaret Ellis, Nikitha Donekal Chandrashekar, Sehrish Basir Nizamani, Mohammed Farghally, Jake O'Brien, and Naren Ramakrishnan. (2026). Demystify, Use, Reflect, Assess (DURA): An Experience Report on LLM Integration in CS2. arXiv. https://arxiv.org/abs/2606.30908 [doi:10.48550/arxiv.2606.30908](https://doi.org/10.48550/arxiv.2606.30908)"
     author: "Margaret Ellis, Nikitha Donekal Chandrashekar, Sehrish Basir Nizamani, Mohammed Farghally, Jake O'Brien, and Naren Ramakrishnan"
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Students' LLM use in CS2 fell into three themes: understanding, assisting code writing, and writing code, with only a few using LLMs to write code
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 1 qualitative `r2`, 1 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Iterative qualitative coding of 198 Week 13 reflection responses found students' LLM usage could be categorized into three themes: used to understand, used to assist code writing, and used to write code. [→ Margaret Ellis 2026](#margaret-ellis-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Margaret Ellis 2026
 
-Margaret Ellis, Nikitha Donekal Chandrashekar, Sehrish Basir Nizamani, Mohammed Farghally, Jake O'Brien, and Naren Ramakrishnan. (2026). Demystify, Use, Reflect, Assess (DURA): An Experience Report on LLM Integration in CS2. arXiv. https://arxiv.org/abs/2606.30908
+Margaret Ellis, Nikitha Donekal Chandrashekar, Sehrish Basir Nizamani, Mohammed Farghally, Jake O'Brien, and Naren Ramakrishnan. (2026). Demystify, Use, Reflect, Assess (DURA): An Experience Report on LLM Integration in CS2. arXiv. https://arxiv.org/abs/2606.30908 [doi:10.48550/arxiv.2606.30908](https://doi.org/10.48550/arxiv.2606.30908)
 
 `q2 · i?` · `design · r2`
 

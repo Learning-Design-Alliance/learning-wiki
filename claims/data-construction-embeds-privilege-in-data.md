@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r2`–`r3` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` The process of constructing data builds social values and privilege into the data, so datafication cannot transform bad inputs into good outputs. [→ Haarman 2021](#haarman-2021)
@@ -62,8 +63,8 @@ The article argues algorithms may dismiss contradicting data if it is in the min
 
 
 ## Related Claims
-- [Big Data can amplify suppressed testimony because its sheer size lends it assumed authenticity](big-data-assumed-authenticity-amplifies-suppressed-testimony.md) — reports the opposite
-- [Big Data's variety can aid redress of hermeneutical injustice by letting buried experiences find themselves within the data](big-data-variety-aids-hermeneutical-injustice-redress.md) — related
-- [Public accountability pressure on school-level improvement data can suppress honest inquiry and incentivize superficial fixes](accountability-pressure-suppresses-honest-inquiry.md) — related
-- [Machine learning systems can perpetuate biases contained in their training data](ml-training-data-perpetuates-bias.md) — related
+- Big Data can amplify suppressed testimony because its sheer size lends it assumed authenticity — reports the opposite
+- Big Data's variety can aid redress of hermeneutical injustice by letting buried experiences find themselves within the data — related
+- Public accountability pressure on school-level improvement data can suppress honest inquiry and incentivize superficial fixes — related
+- Machine learning systems can perpetuate biases contained in their training data — related
 - [Algorithmic bias and data privacy are central ethical risks of AI in adult education](algorithmic-bias-privacy-risks-adult-education.md) — related

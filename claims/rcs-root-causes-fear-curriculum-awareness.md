@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: johnson-2023
-    resource: "https://digitalpromise.org/inclusive-innovation"
-    title: "Johnson, A. M., & Lenderman, K. (2023). Socratic Circles: Building OER Tools for Racial Equity Classroom and Community Discourse. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.org/inclusive-innovation"
+    resource: "https://doi.org/10.51388/20.500.12265/200"
+    title: "Johnson, A. M., & Lenderman, K. (2023). Socratic Circles: Building OER Tools for Racial Equity Classroom and Community Discourse. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.org/inclusive-innovation [doi:10.51388/20.500.12265/200](https://doi.org/10.51388/20.500.12265/200)"
     author: "Johnson, A. M., & Lenderman, K."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # The RCS Core Team's root cause analysis identified fear and political influence, lack of comprehensive and inclusive curriculum, and lack of awareness as central causes of the discourse challenge
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Thematic organization of hypothesized causes yielded three central root causes underpinning teachers' and students' struggle to have meaningful racial equity conversations. [→ Johnson 2023 (2)](#johnson-2023-2)
@@ -39,7 +39,7 @@ sources:
 
 ### Johnson 2023
 
-Johnson, A. M., & Lenderman, K. (2023). Socratic Circles: Building OER Tools for Racial Equity Classroom and Community Discourse. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.org/inclusive-innovation
+Johnson, A. M., & Lenderman, K. (2023). Socratic Circles: Building OER Tools for Racial Equity Classroom and Community Discourse. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.org/inclusive-innovation [doi:10.51388/20.500.12265/200](https://doi.org/10.51388/20.500.12265/200)
 
 `q2 · i?` · `design · r2`
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: nizamani-2026
-    resource: "https://arxiv.org/abs/2610.01158"
-    title: "Nizamani, S. B., Lee, Y., Donekal Chandrashekar, N., Ellis, M., & Ramakrishnan, N. (2026). Understanding Student Use of Large Language Models Across Computer Science Subfields. https://arxiv.org/abs/2610.01158"
+    resource: "https://doi.org/10.48550/arxiv.2610.01158"
+    title: "Nizamani, S. B., Lee, Y., Donekal Chandrashekar, N., Ellis, M., & Ramakrishnan, N. (2026). Understanding Student Use of Large Language Models Across Computer Science Subfields. https://arxiv.org/abs/2610.01158 [doi:10.48550/arxiv.2610.01158](https://doi.org/10.48550/arxiv.2610.01158)"
     author: "Nizamani, S. B., Lee, Y., Donekal Chandrashekar, N., Ellis, M., & Ramakrishnan, N."
     q: 3
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Prompt-count distributions differ significantly across assignments, with moderate prompting most common and extended prompting (10+) rare except in Algorithms (18.0%)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r1` · `q3`
+> **Evidence** · 2 studies · 2 associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` A Kruskal–Wallis test confirmed prompt count distributions differed significantly across assignments (H = 71.18, df = 6, p<0.001). [→ Nizamani 2026](#nizamani-2026)
@@ -39,7 +39,7 @@ sources:
 
 ### Nizamani 2026
 
-Nizamani, S. B., Lee, Y., Donekal Chandrashekar, N., Ellis, M., & Ramakrishnan, N. (2026). Understanding Student Use of Large Language Models Across Computer Science Subfields. https://arxiv.org/abs/2610.01158
+Nizamani, S. B., Lee, Y., Donekal Chandrashekar, N., Ellis, M., & Ramakrishnan, N. (2026). Understanding Student Use of Large Language Models Across Computer Science Subfields. https://arxiv.org/abs/2610.01158 [doi:10.48550/arxiv.2610.01158](https://doi.org/10.48550/arxiv.2610.01158)
 
 `q3 · i?` · `associational · r1`
 

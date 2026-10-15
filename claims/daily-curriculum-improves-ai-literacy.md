@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: digital-promise-2025
-    resource: "https://digitalpromise.dspacedirect.org/items/19fd2afb-0811-4e48-90d9-0ad6c9887a1a"
-    title: "Digital Promise. (2025). AI Literacy in PK-12 Education. https://digitalpromise.dspacedirect.org/items/19fd2afb-0811-4e48-90d9-0ad6c9887a1a"
+    resource: "https://doi.org/10.51388/20.500.12265/269"
+    title: "Digital Promise. (2025). AI Literacy in PK-12 Education. https://digitalpromise.dspacedirect.org/items/19fd2afb-0811-4e48-90d9-0ad6c9887a1a [doi:10.51388/20.500.12265/269](https://doi.org/10.51388/20.500.12265/269)"
     author: Digital Promise
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Digital Promise 2025
 
-Digital Promise. (2025). AI Literacy in PK-12 Education. https://digitalpromise.dspacedirect.org/items/19fd2afb-0811-4e48-90d9-0ad6c9887a1a
+Digital Promise. (2025). AI Literacy in PK-12 Education. https://digitalpromise.dspacedirect.org/items/19fd2afb-0811-4e48-90d9-0ad6c9887a1a [doi:10.51388/20.500.12265/269](https://doi.org/10.51388/20.500.12265/269)
 
 `q2 · i?` · `review · r2`
 

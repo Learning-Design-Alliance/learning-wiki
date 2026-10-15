@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: nikhil-sanjay-borse-2026
-    resource: "https://arxiv.org/abs/2608.12533"
-    title: "Nikhil Sanjay Borse, Amir Bralin, Sean Savage, N. Sanjay Rebello. (2026). Probing AI-generated physics solutions and preparing students to critique them. https://arxiv.org/abs/2608.12533"
+    resource: "https://doi.org/10.48550/arxiv.2608.12533"
+    title: "Nikhil Sanjay Borse, Amir Bralin, Sean Savage, N. Sanjay Rebello. (2026). Probing AI-generated physics solutions and preparing students to critique them. https://arxiv.org/abs/2608.12533 [doi:10.48550/arxiv.2608.12533](https://doi.org/10.48550/arxiv.2608.12533)"
     author: Nikhil Sanjay Borse, Amir Bralin, Sean Savage, N. Sanjay Rebello
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Nikhil Sanjay Borse 2026
 
-Nikhil Sanjay Borse, Amir Bralin, Sean Savage, N. Sanjay Rebello. (2026). Probing AI-generated physics solutions and preparing students to critique them. https://arxiv.org/abs/2608.12533
+Nikhil Sanjay Borse, Amir Bralin, Sean Savage, N. Sanjay Rebello. (2026). Probing AI-generated physics solutions and preparing students to critique them. https://arxiv.org/abs/2608.12533 [doi:10.48550/arxiv.2608.12533](https://doi.org/10.48550/arxiv.2608.12533)
 
 `q2 · i?` · `qualitative · r2`
 

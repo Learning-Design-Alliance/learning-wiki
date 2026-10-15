@@ -26,7 +26,7 @@ sources:
 # Exact Path
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 10 claims (10 for) · 5 studies (5 causal), `q2`–`q3` · 4 of 5 report an effect size · 8 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Exact Path is Edmentum's computer-adaptive supplemental learning platform, using diagnostic data to assign personalized instruction and practice.
@@ -37,16 +37,6 @@ Exact Path is Edmentum's computer-adaptive supplemental learning platform, using
 - **Exact Path Proficiency + Exact Path Growth digital learning system**: Exact Path Proficiency + Exact Path Growth are digital learning systems supporting students through "a combination of personalized instruction and standards-aligned formative assessment." Proficiency delivers grade-level, standards-aligned practice assessments and test-readiness activities, while Growth provides adaptive, skill-based instruction informed by diagnostic data, together addressing skill gaps while maintaining grade-level progress. (Exact Path Growth + Exact Path Proficiency (Evidence Rating: Moderate) (2025))
 
 ### Claims
-- [Targeted Skills Instruction virtual small-group tutoring significantly improves ELA achievement (+0.48) for below-25th-percentile students in grades 3, 4 and 6](../claims/tsi-virtual-tutoring-ela-effect-0-48.md) [+M]
-- [Exact Path Proficiency + Growth shows statistically significant positive ELA effects across Grades 6-8](../claims/exact-path-bundle-ela-significant-grades-6-8.md) [+W]
-- [Exact Path Proficiency + Growth improves middle school Mathematics achievement (ES +0.11)](../claims/exact-path-bundle-fast-math-effect-011.md) [+W]
-- [Students using Proficiency + Growth outperformed peers using Growth alone (exploratory)](../claims/exact-path-proficiency-adds-gains-beyond-growth.md) [+W]
-- [Using Exact Path Proficiency combined with Exact Path Growth is associated with a +0.14 improvement in middle school ELA achievement on the FAST assessment](../claims/exact-path-bundle-ela-fast-effect-014.md) [+W]
-- [Exploratory analysis suggests students using the combined program outperformed peers using Exact Path Growth alone](../claims/exact-path-combined-outperforms-growth-alone-exploratory.md) [+W]
-- [The combined Exact Path program shows statistically significant positive effects in Mathematics, with the strongest impacts in Grade 6](../claims/exact-path-bundle-math-effects-grade-6.md) [+W]
-- [Exact Path use produced a statistically significant positive effect on 6th-grade ELA achievement (effect size = +0.16) in a quasi-experimental study](../claims/exact-path-ela-effect-016.md) [+W]
-- [Exact Path use produced a statistically significant positive effect on 6th-grade Mathematics achievement (effect size = +0.06) in the same quasi-experimental study](../claims/exact-path-math-effect-006-dcps.md) [+W]
-- [The Exact Path evaluation sample was demographically diverse, including 42% African American, 47% economically disadvantaged, and 22% ESE students](../claims/exact-path-study-diverse-sample.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -83,7 +73,6 @@ Exact Path Growth is described as "a computer-adaptive supplemental program" tha
 
 ## Claims
 
-- [Targeted Skills Instruction virtual small-group tutoring significantly improves ELA achievement (+0.48) for below-25th-percentile students in grades 3, 4 and 6](../claims/tsi-virtual-tutoring-ela-effect-0-48.md) [+M]
 
 ## Related Elements
 
@@ -133,15 +122,6 @@ Exact Path Proficiency + Exact Path Growth are digital learning systems supporti
 
 ## Claims
 
-- [Exact Path Proficiency + Growth shows statistically significant positive ELA effects across Grades 6-8](../claims/exact-path-bundle-ela-significant-grades-6-8.md) [+W]
-- [Exact Path Proficiency + Growth improves middle school Mathematics achievement (ES +0.11)](../claims/exact-path-bundle-fast-math-effect-011.md) [+W]
-- [Students using Proficiency + Growth outperformed peers using Growth alone (exploratory)](../claims/exact-path-proficiency-adds-gains-beyond-growth.md) [+W]
-- [Using Exact Path Proficiency combined with Exact Path Growth is associated with a +0.14 improvement in middle school ELA achievement on the FAST assessment](../claims/exact-path-bundle-ela-fast-effect-014.md) [+W]
-- [Exploratory analysis suggests students using the combined program outperformed peers using Exact Path Growth alone](../claims/exact-path-combined-outperforms-growth-alone-exploratory.md) [+W]
-- [The combined Exact Path program shows statistically significant positive effects in Mathematics, with the strongest impacts in Grade 6](../claims/exact-path-bundle-math-effects-grade-6.md) [+W]
-- [Exact Path use produced a statistically significant positive effect on 6th-grade ELA achievement (effect size = +0.16) in a quasi-experimental study](../claims/exact-path-ela-effect-016.md) [+W]
-- [Exact Path use produced a statistically significant positive effect on 6th-grade Mathematics achievement (effect size = +0.06) in the same quasi-experimental study](../claims/exact-path-math-effect-006-dcps.md) [+W]
-- [The Exact Path evaluation sample was demographically diverse, including 42% African American, 47% economically disadvantaged, and 22% ESE students](../claims/exact-path-study-diverse-sample.md) [+W]
 
 ## Related Elements
 
@@ -186,15 +166,6 @@ Exact Path Proficiency + Exact Path Growth is a bundled digital learning system 
 
 ## Claims
 
-- [Using Exact Path Proficiency combined with Exact Path Growth is associated with a +0.14 improvement in middle school ELA achievement on the FAST assessment](../claims/exact-path-bundle-ela-fast-effect-014.md) [+W]
-- [The combined Exact Path program shows statistically significant positive effects in Mathematics, with the strongest impacts in Grade 6](../claims/exact-path-bundle-math-effects-grade-6.md) [+M]
-- [Exploratory analysis suggests students using the combined program outperformed peers using Exact Path Growth alone](../claims/exact-path-combined-outperforms-growth-alone-exploratory.md) [+W]
-- [Exact Path Proficiency + Growth improves middle school Mathematics achievement (ES +0.11)](../claims/exact-path-bundle-fast-math-effect-011.md) [+W]
-- [Students using Proficiency + Growth outperformed peers using Growth alone (exploratory)](../claims/exact-path-proficiency-adds-gains-beyond-growth.md) [+W]
-- [Exact Path Proficiency + Growth shows statistically significant positive ELA effects across Grades 6-8](../claims/exact-path-bundle-ela-significant-grades-6-8.md) [+W]
-- [Exact Path use produced a statistically significant positive effect on 6th-grade ELA achievement (effect size = +0.16) in a quasi-experimental study](../claims/exact-path-ela-effect-016.md) [+W]
-- [Exact Path use produced a statistically significant positive effect on 6th-grade Mathematics achievement (effect size = +0.06) in the same quasi-experimental study](../claims/exact-path-math-effect-006-dcps.md) [+W]
-- [The Exact Path evaluation sample was demographically diverse, including 42% African American, 47% economically disadvantaged, and 22% ESE students](../claims/exact-path-study-diverse-sample.md) [+W]
 
 ## Related Elements
 

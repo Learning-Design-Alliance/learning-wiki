@@ -45,4 +45,4 @@ Meta-analysis of 272 independent effect sizes from 118 articles with 15,427 part
 
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — the general claim this finding bears on, with the studies behind it
 - [Retrieval Failure Reduces Benefit](retrieval-failure-reduces-benefit.md) — related
-- [Delayed final-exam differences favored Guided-LLM descriptively but were not statistically confirmatory, with confidence intervals including zero](delayed-final-exam-directional-nonconfirmatory.md) — related
+- Delayed final-exam differences favored Guided-LLM descriptively but were not statistically confirmatory, with confidence intervals including zero — related

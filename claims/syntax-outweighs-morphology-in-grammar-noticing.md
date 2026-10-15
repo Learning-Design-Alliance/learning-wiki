@@ -44,6 +44,6 @@ In the same ten-participant think-aloud dataset, 24 syntactical LREs were identi
 
 ## Related Claims
 - [Learners resolve grammar-related noticing with intuition, reasoning, rephrasing and explicit rules rather than external resources](grammar-lres-solved-with-own-resources-not-external.md) — related
-- [The article concludes adult learners acquire two things about English adverbs: their general syntactic positions and their scope](learners-acquire-adverb-positions-and-scope.md) — related
+- The article concludes adult learners acquire two things about English adverbs: their general syntactic positions and their scope — related
 - [Morphological noticing focuses mainly on verb forms, especially modals, and on preposition choice](morphological-noticing-verb-forms-modals-prepositions.md) — related
 - [Syntactical noticing focuses mainly on sentence length and ways of connecting clauses](syntactical-noticing-sentence-length-connecting-clauses.md) — related

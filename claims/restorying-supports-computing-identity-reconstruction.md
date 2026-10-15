@@ -52,5 +52,5 @@ This is a single revelatory case (q1); it demonstrates that the restorying mecha
 - [Identity-centered making supports simultaneous STEM engagement and identity affirmation for queer youth](identity-centered-making-supports-stem-engagement-and-identity-affirmation.md) — related
 - [Participant examples support identity reconstruction through academic content](participant-examples-support-identity-reconstruction-through-academic-content.md) — related
 - [Justice-oriented youth maker programs support redefinition of entrepreneurialism and resistance to structural misrecognition](justice-oriented-youth-maker-programs-support-critical-identity-and-resistance.md) — related
-- [High achievers dominate teamwork under KCLS, and some students resist or avoid it](high-achiever-dominance-student-resistance-kcls.md) — related
+- High achievers dominate teamwork under KCLS, and some students resist or avoid it — related
 - [Lack of diversity in computing stems from social and structural barriers, not ability or interest](structural-barriers-not-ability-limit-computing-diversity.md) — a broader claim this one bears on

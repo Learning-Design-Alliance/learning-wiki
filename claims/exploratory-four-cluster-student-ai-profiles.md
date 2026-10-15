@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: braun-2026
-    resource: "https://arxiv.org/abs/2608.25063"
-    title: "Braun, Y. S., & Khafizov, S. M. (2026). The AI Adaptation Gap in Higher Education: Students, Faculty, and Administrative Staff: AI Use, Trust, and Institutional Policy at a University Specializing in Teacher Education. https://arxiv.org/abs/2608.25063"
+    resource: "https://doi.org/10.48550/arxiv.2608.25063"
+    title: "Braun, Y. S., & Khafizov, S. M. (2026). The AI Adaptation Gap in Higher Education: Students, Faculty, and Administrative Staff: AI Use, Trust, and Institutional Policy at a University Specializing in Teacher Education. https://arxiv.org/abs/2608.25063 [doi:10.48550/arxiv.2608.25063](https://doi.org/10.48550/arxiv.2608.25063)"
     author: "Braun, Y. S., & Khafizov, S. M."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Braun 2026
 
-Braun, Y. S., & Khafizov, S. M. (2026). The AI Adaptation Gap in Higher Education: Students, Faculty, and Administrative Staff: AI Use, Trust, and Institutional Policy at a University Specializing in Teacher Education. https://arxiv.org/abs/2608.25063
+Braun, Y. S., & Khafizov, S. M. (2026). The AI Adaptation Gap in Higher Education: Students, Faculty, and Administrative Staff: AI Use, Trust, and Institutional Policy at a University Specializing in Teacher Education. https://arxiv.org/abs/2608.25063 [doi:10.48550/arxiv.2608.25063](https://doi.org/10.48550/arxiv.2608.25063)
 
 `q2 · i?` · `associational · r2`
 
@@ -52,10 +52,10 @@ Exploratory K-means clustering among students only (n = 961, nine features, fixe
 - [Clustering yields a small number of behaviorally distinct team clusters that instructors can use for cluster-differentiated feedback](clustering-cluster-differentiated-feedback-ttx.md) — related
 - [Gaussian Mixture Modeling identifies two latent clusters of delayed start behavior, outperforming three-cluster and unimodal models](gmm-two-clusters-delayed-start.md) — related
 - [Cluster analysis of instructors identifies three user groups that differ in several AI literacy dimensions, with the ethics scale providing a clear distinction](three-instructor-user-groups-ethics-distinction.md) — related
-- [Learners' generative-AI use profiles are heterogeneous, with extractive delegation more common than potentially collaborative use](heterogeneous-ai-use-profiles-extractive-modal-pattern.md) — a narrower finding that bears on this claim
+- Learners' generative-AI use profiles are heterogeneous, with extractive delegation more common than potentially collaborative use — a narrower finding that bears on this claim
 - [Cluster analysis identifies three stable learner profiles: Engaged and Literate, Uncritical Reliant, and Skeptical Minimal users](three-genai-learner-profiles.md) — related
 - [K-Means++ clustering of self-reported behavioral proxies yields six distinct, stable learner profiles (k = 6, Silhouette = 0.62)](six-behavioral-learner-profiles-kmeans-plus.md) — related
-- [Cluster analysis of self-reported GenAI use identifies five profiles, including a strategic high-usage profile low on code generation but high on debugging and explanations](five-genai-usage-profiles-oop-course.md) — a narrower finding that bears on this claim
+- Cluster analysis of self-reported GenAI use identifies five profiles, including a strategic high-usage profile low on code generation but high on debugging and explanations — a narrower finding that bears on this claim
 - [A four-cluster solution is optimal for segmenting higher education users' GenAI chatbot adoption perceptions](four-cluster-solution-genai-personas.md) — related
 - [Four distinct GenAI chatbot adoption personas emerge: Cautious Achievers, Skeptical Utilitarians, Disengaged Doubters, and Engaged Enthusiasts](four-genai-adoption-personas.md) — related
 - [Cluster analysis identifies four tentative moral response profiles: Comfortable Adopters, Guilty Non-Users, Cautious Users, and Morally Distressed Avoiders](four-ai-moral-response-profiles.md) — related

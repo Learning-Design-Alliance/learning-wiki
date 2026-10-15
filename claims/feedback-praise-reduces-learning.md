@@ -86,7 +86,7 @@ Small randomized experimental studies (Mueller and Dweck 1998) cited under Recom
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Should the positive comment and the assurance speak to the learner's ability, or to their work and effort?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **6 distinct studies** (4 review, 1 causal, 1 theoretical), `q2`–`q3`, 0 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Should the positive comment and the assurance speak to the learner's ability, or to their work and effort?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **5 distinct studies** (3 review, 1 causal, 1 theoretical), `q2`–`q3`, 0 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -95,7 +95,6 @@ Small randomized experimental studies (Mueller and Dweck 1998) cited under Recom
 | Halpern 2007 | q3 · review · r2 | i? | this claim |
 | Schunk 1996 | q2 · review · r2 | i? | [Proximal goals and ability attributional feedback for early learning raise self-efficacy m](proximal-goals-feedback-peer-models-build-learning-efficacy.md) (qualifies) |
 | Walker 1989 | q2 · theoretical · r2 | i? | [Prolonged reading failure leads students to attribute failure to fixed low ability and def](reading-failure-fixed-ability-attribution.md) (supports) |
-| Fullin 1995 | q2 · review · r2 | i? | [Attributing repeated failure to lack of ability fosters learned helplessness, while extern](ability-attributions-foster-learned-helplessness-in-sport.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -128,11 +127,11 @@ Small randomized experimental studies (Mueller and Dweck 1998) cited under Recom
 - [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — related
 - [Proximal goals and ability attributional feedback for early learning raise self-efficacy more than distant goals and effort feedback, by a review's report of earlier studies](proximal-goals-feedback-peer-models-build-learning-efficacy.md) — related
 - [Prolonged reading failure leads students to attribute failure to fixed low ability and define reading as a failure situation](reading-failure-fixed-ability-attribution.md) — related
-- [Synthesis and Evaluation subtests measure general mental ability rather than knowledge for lower grades or unfamiliar content](synthesis-evaluation-measure-general-ability-lower-grades.md) — related
-- [Appropriately used technology can support practices that improve achievement, but inappropriate use can harm student performance](technology-use-right-tool-right-objective.md) — a broader claim this one bears on
+- Synthesis and Evaluation subtests measure general mental ability rather than knowledge for lower grades or unfamiliar content — related
+- Appropriately used technology can support practices that improve achievement, but inappropriate use can harm student performance — a broader claim this one bears on
 - [Students with belonging, purpose, collaboration, goal-setting, and perseverance skills alongside academic knowledge are more likely to reach their full potential](sel-skills-plus-academics-full-potential.md) — related
 - [Smaller classes related to more interactions; task-directed and praising interactions linked to more time on task and higher achievement, but organisational and personal interactions rose contrary to expectations](annevelink-personalised-instruction-path-test.md) — related
-- [Collaboration scripts improve collaborative skills and domain learning, but highly prescriptive scripts can undermine learner motivation and agency](scripts-improve-skills-prescriptive-scripts-harm-motivation.md) — related
+- Collaboration scripts improve collaborative skills and domain learning, but highly prescriptive scripts can undermine learner motivation and agency — related
 - [A CCSR research review concludes that four academic mindsets (belonging, growth beliefs, self-efficacy and value) increase perseverance and improve academic behaviors](four-academic-mindsets-increase-perseverance-and-behaviors.md) — related
 - [Teachers treat resilience under challenge as a teachable skill that current routines and dashboards do little to support](resilience-teachable-skill-unsupported.md) — related
 - [Extrinsic goals are more strongly associated with cheating than intrinsic enjoyment of learning](extrinsic-goals-associated-with-cheating.md) — related

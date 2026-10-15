@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: brandon-pardi-2026
-    resource: "https://arxiv.org/abs/2606.15572"
-    title: "Brandon Pardi, Garret Castro, Michael Pisman, Avash Adhikari, and Santosh Chandrasekhar. (2026). Improving Capstone Team Outcomes through Dynamic Skill Matching and Preference Alignment. https://arxiv.org/abs/2606.15572"
+    resource: "https://doi.org/10.48550/arxiv.2606.15572"
+    title: "Brandon Pardi, Garret Castro, Michael Pisman, Avash Adhikari, and Santosh Chandrasekhar. (2026). Improving Capstone Team Outcomes through Dynamic Skill Matching and Preference Alignment. https://arxiv.org/abs/2606.15572 [doi:10.48550/arxiv.2606.15572](https://doi.org/10.48550/arxiv.2606.15572)"
     author: Brandon Pardi, Garret Castro, Michael Pisman, Avash Adhikari, and Santosh Chandrasekhar
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Brandon Pardi 2026
 
-Brandon Pardi, Garret Castro, Michael Pisman, Avash Adhikari, and Santosh Chandrasekhar. (2026). Improving Capstone Team Outcomes through Dynamic Skill Matching and Preference Alignment. https://arxiv.org/abs/2606.15572
+Brandon Pardi, Garret Castro, Michael Pisman, Avash Adhikari, and Santosh Chandrasekhar. (2026). Improving Capstone Team Outcomes through Dynamic Skill Matching and Preference Alignment. https://arxiv.org/abs/2606.15572 [doi:10.48550/arxiv.2606.15572](https://doi.org/10.48550/arxiv.2606.15572)
 
 `q1 · i?` · `design · r2`
 

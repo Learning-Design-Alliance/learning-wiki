@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: katz-1993
-    resource: "https://eric.ed.gov/?id=ED366652"
-    title: "Katz, I. R., Martinez, M. E., Sheehan, K. M., & Tatsuoka, K. K. (1993). Extending the Rule Space Model to a Semantically-Rich Domain: Diagnostic Assessment in Architecture. Educational Testing Service. https://eric.ed.gov/?id=ED366652"
+    resource: "https://doi.org/10.21236/ada273789"
+    title: "Katz, I. R., Martinez, M. E., Sheehan, K. M., & Tatsuoka, K. K. (1993). Extending the Rule Space Model to a Semantically-Rich Domain: Diagnostic Assessment in Architecture. Educational Testing Service. https://eric.ed.gov/?id=ED366652 [doi:10.21236/ada273789](https://doi.org/10.21236/ada273789)"
     author: "Katz, I. R., Martinez, M. E., Sheehan, K. M., & Tatsuoka, K. K."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Attribute mastery showed significant proficiency-group, attribute, and attribute-by-proficiency effects, but no significant status-group main effect
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Evidence** · 2 studies · 2 associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Repeated-measures ANOVA of attribute mastery probabilities showed clearly significant effects of proficiency group, attribute, and the attribute by proficiency group interaction. [→ Katz 1993](#katz-1993)
@@ -40,7 +40,7 @@ sources:
 
 ### Katz 1993
 
-Katz, I. R., Martinez, M. E., Sheehan, K. M., & Tatsuoka, K. K. (1993). Extending the Rule Space Model to a Semantically-Rich Domain: Diagnostic Assessment in Architecture. Educational Testing Service. https://eric.ed.gov/?id=ED366652
+Katz, I. R., Martinez, M. E., Sheehan, K. M., & Tatsuoka, K. K. (1993). Extending the Rule Space Model to a Semantically-Rich Domain: Diagnostic Assessment in Architecture. Educational Testing Service. https://eric.ed.gov/?id=ED366652 [doi:10.21236/ada273789](https://doi.org/10.21236/ada273789)
 
 `q2 · i?` · `associational · r1`
 

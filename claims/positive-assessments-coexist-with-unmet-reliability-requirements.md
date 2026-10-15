@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: zabaleta-2026
-    resource: "https://arxiv.org/abs/2609.11559"
-    title: "Zabaleta, M. & Lin, B. (2026). PRISMA-LLM: An Empirical Reporting Framework for AI-Assisted Systematic Reviews. https://arxiv.org/abs/2609.11559"
+    resource: "https://doi.org/10.48550/arxiv.2609.11559"
+    title: "Zabaleta, M. & Lin, B. (2026). PRISMA-LLM: An Empirical Reporting Framework for AI-Assisted Systematic Reviews. https://arxiv.org/abs/2609.11559 [doi:10.48550/arxiv.2609.11559](https://doi.org/10.48550/arxiv.2609.11559)"
     author: "Zabaleta, M. & Lin, B."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Zabaleta 2026
 
-Zabaleta, M. & Lin, B. (2026). PRISMA-LLM: An Empirical Reporting Framework for AI-Assisted Systematic Reviews. https://arxiv.org/abs/2609.11559
+Zabaleta, M. & Lin, B. (2026). PRISMA-LLM: An Empirical Reporting Framework for AI-Assisted Systematic Reviews. https://arxiv.org/abs/2609.11559 [doi:10.48550/arxiv.2609.11559](https://doi.org/10.48550/arxiv.2609.11559)
 
 `q2 · i?` · `associational · r1`
 

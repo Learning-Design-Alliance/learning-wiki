@@ -16,7 +16,7 @@ sources:
 # Social cartography as heterotopic mapping of perspectival difference
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Social cartography is the paper's own methodological contribution: a spatial, postmodern mapping practice that juxtaposes in one intertextual field all knowledge positions in a debate, including outlying ones, rather than plotting a central tendency. Inspired by Foucault's notion of heterotopia — spaces "capable of juxtaposing in a single place a great variety of different sites which in themselves may be wildly incompatable" — it functions as metaphor, heuristic, and "a useful new spatial tool specifically created to give visual form to the growing complexity of knowledge work today."
@@ -37,8 +37,6 @@ Social cartography is the paper's own methodological contribution: a spatial, po
 
 ### Claims
 
-- [Postmodern texts advance five characteristic theses against Enlightenment certainties](../claims/five-postmodern-theses-anti-enlightenment.md) [+W]
-- [The central characteristic of postmodern sensibility is an ontological shift from essentialist to anti-essentialist views of reality](../claims/postmodern-ontological-shift-anti-essentialism.md) [+W]
 
 ## Related Theories
 

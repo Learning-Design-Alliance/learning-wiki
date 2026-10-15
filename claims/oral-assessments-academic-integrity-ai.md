@@ -44,5 +44,5 @@ The review asserts, citing Nikolic et al. (2023), that oral assessments with unk
 
 ## Related Claims
 - [Perfect AI execution cannot remove four limits: accuracy does not settle end-setting, safety does not confer legitimacy, detection does not secure integrity, and outputs do not replace participation](four-limits-perfect-ai-execution.md) — related
-- [Critical questions support competency-based science assessment by evaluating higher-order thinking, knowledge transfer and reasoning patterns beyond fact memorization](critical-questions-competency-based-science-assessment.md) — related
+- Critical questions support competency-based science assessment by evaluating higher-order thinking, knowledge transfer and reasoning patterns beyond fact memorization — related
 - [Preparing for oral assessments changes student study habits toward understanding over memorization](oral-assessments-change-study-habits.md) — related

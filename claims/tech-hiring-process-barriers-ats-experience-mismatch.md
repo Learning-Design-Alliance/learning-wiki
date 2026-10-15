@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: bria-carter-2024
-    resource: "https://digitalpromise.dspacedirect.org/items/5dcf2bc8-f40c-4942-96a4-c4a5bda965e3"
-    title: "Bria Carter, Britney Jacobs, Zohal Shah, Chioma Aso-Hernandez. (2024). Lift Every Voice in Tech: Co-Designed Recommendations to Support Black Workers and Learners Seeking to Enter and Advance in Technology Industry Career Pathways. Digital Promise. https://digitalpromise.dspacedirect.org/items/5dcf2bc8-f40c-4942-96a4-c4a5bda965e3"
+    resource: "https://doi.org/10.51388/20.500.12265/219"
+    title: "Bria Carter, Britney Jacobs, Zohal Shah, Chioma Aso-Hernandez. (2024). Lift Every Voice in Tech: Co-Designed Recommendations to Support Black Workers and Learners Seeking to Enter and Advance in Technology Industry Career Pathways. Digital Promise. https://digitalpromise.dspacedirect.org/items/5dcf2bc8-f40c-4942-96a4-c4a5bda965e3 [doi:10.51388/20.500.12265/219](https://doi.org/10.51388/20.500.12265/219)"
     author: Bria Carter, Britney Jacobs, Zohal Shah, Chioma Aso-Hernandez
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Bria Carter 2024
 
-Bria Carter, Britney Jacobs, Zohal Shah, Chioma Aso-Hernandez. (2024). Lift Every Voice in Tech: Co-Designed Recommendations to Support Black Workers and Learners Seeking to Enter and Advance in Technology Industry Career Pathways. Digital Promise. https://digitalpromise.dspacedirect.org/items/5dcf2bc8-f40c-4942-96a4-c4a5bda965e3
+Bria Carter, Britney Jacobs, Zohal Shah, Chioma Aso-Hernandez. (2024). Lift Every Voice in Tech: Co-Designed Recommendations to Support Black Workers and Learners Seeking to Enter and Advance in Technology Industry Career Pathways. Digital Promise. https://digitalpromise.dspacedirect.org/items/5dcf2bc8-f40c-4942-96a4-c4a5bda965e3 [doi:10.51388/20.500.12265/219](https://doi.org/10.51388/20.500.12265/219)
 
 `q2 · i?` · `qualitative · r3`
 
@@ -45,9 +45,9 @@ Thematic analysis of worker and learner interviews, surveys, and design sessions
 ## Related Claims
 - [Removing degree requirements and centering skills-based hiring widens employers' talent pools and Black job seekers' access to technology careers](skills-based-hiring-widens-talent-pool.md) — related
 - [Many applicants failed to complete post-application admission requirements, with Black and Latino students least likely to complete them](gocps-post-application-requirement-noncompletion-gaps.md) — related
-- [Generative AI systems carry strong potential for introduced and inherited bias](generative-ai-bias-potential.md) — related
+- Generative AI systems carry strong potential for introduced and inherited bias — related
 - [African American teacher candidates are less likely to receive job offers than white candidates despite similar or better qualifications.](discriminatory-teacher-hiring.md) — related
 - [AI hiring tools have demonstrated biases disproportionately affecting women, individuals with disabilities, and underrepresented ethnic and racial groups](ai-hiring-tool-biases-disproportionate-impacts.md) — a broader claim this one bears on
 - [Financial hardship disproportionately impacts residents of color, and financial barriers are the biggest recruitment challenge](hardship-disproportionately-impacts-residents-of-color.md) — related
-- [When at least two women and two candidates of color are in the finalist pool, the odds of hiring a woman or a candidate of color are reported to be 79 and 194 times greater](diverse-finalist-pool-raises-diverse-hire-odds.md) — related
+- When at least two women and two candidates of color are in the finalist pool, the odds of hiring a woman or a candidate of color are reported to be 79 and 194 times greater — related
 - [Early educators face financial, academic, and structural barriers to college enrollment and degree completion, disproportionately affecting students of color](ece-educator-college-completion-barriers.md) — related

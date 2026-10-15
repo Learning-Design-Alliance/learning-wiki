@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 4 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Following Colorado's legislation providing financial incentives for community alternatives and an SEA–Department of Social Services interagency agreement, placements in residential institutions declined. [→ Farrow 1983](#farrow-1983)
@@ -43,7 +44,7 @@ Descriptive policy case study of Colorado's deinstitutionalization effort in Sec
 
 
 ## Related Claims
-- [Recovery from decline was linked to the presence of paradoxical strategies, while linearity was not](paradoxical-strategies-linked-to-recovery-from-decline.md) — related
+- Recovery from decline was linked to the presence of paradoxical strategies, while linearity was not — related
 - [Tacoma's progressive inclusion program pervaded district operations and limited out-of-district placements to two over twenty years](progressive-inclusion-limited-out-of-district-placements.md) — related
 - [Inconsistent terminology across agencies and restrictive data-sharing rules are central barriers to identifying and serving highly mobile youth in both states](terminology-and-data-sharing-barriers-hmy.md) — related
-- [Preliminary evidence cited by experts indicates residential placement type is not correlated with educational outcomes for children in foster care](placement-type-not-correlated-school-success.md) — related
+- Preliminary evidence cited by experts indicates residential placement type is not correlated with educational outcomes for children in foster care — related

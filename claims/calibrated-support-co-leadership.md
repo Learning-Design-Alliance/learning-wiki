@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: latia-p-white-2026
-    resource: "https://digitalpromise.dspacedirect.org/items/e933ec0e-f153-4046-842b-61b696b00ba2"
-    title: "Latia P. White, Ed. D. (2026). Beyond Participation: The Capacities That Shape Engagement in Collaborative Innovation. Digital Promise, Center for Learner Pathway Innovations. https://digitalpromise.dspacedirect.org/items/e933ec0e-f153-4046-842b-61b696b00ba2"
+    resource: "https://doi.org/10.51388/20.500.12265/315"
+    title: "Latia P. White, Ed. D. (2026). Beyond Participation: The Capacities That Shape Engagement in Collaborative Innovation. Digital Promise, Center for Learner Pathway Innovations. https://digitalpromise.dspacedirect.org/items/e933ec0e-f153-4046-842b-61b696b00ba2 [doi:10.51388/20.500.12265/315](https://doi.org/10.51388/20.500.12265/315)"
     author: Latia P. White, Ed. D.
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Deeper co-leadership emerges when staff support lets partners progressively take on responsibility, but recedes when staff carry the process
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
+> **Evidence** · 2 studies · 2 qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Deeper co-leadership was more evident when staff support enabled partners to progressively take on responsibility for inquiry, facilitation, interpretation, and decision-making. [→ Latia P. White 2026](#latia-p-white-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Latia P. White 2026
 
-Latia P. White, Ed. D. (2026). Beyond Participation: The Capacities That Shape Engagement in Collaborative Innovation. Digital Promise, Center for Learner Pathway Innovations. https://digitalpromise.dspacedirect.org/items/e933ec0e-f153-4046-842b-61b696b00ba2
+Latia P. White, Ed. D. (2026). Beyond Participation: The Capacities That Shape Engagement in Collaborative Innovation. Digital Promise, Center for Learner Pathway Innovations. https://digitalpromise.dspacedirect.org/items/e933ec0e-f153-4046-842b-61b696b00ba2 [doi:10.51388/20.500.12265/315](https://doi.org/10.51388/20.500.12265/315)
 
 `q2 · i?` · `qualitative · r2`
 

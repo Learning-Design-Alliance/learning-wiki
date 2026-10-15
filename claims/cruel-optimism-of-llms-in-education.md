@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: kudina-2025
-    resource: "https://arxiv.org/abs/2606.16626"
-    title: "Kudina, O. (2025). Using AI in engineering education: a balancing act, driven by clear purpose. Draft version, to appear in The Routledge Handbook of the Philosophy of Engineering, 2nd ed. https://arxiv.org/abs/2606.16626"
+    resource: "https://doi.org/10.48550/arxiv.2606.16626"
+    title: "Kudina, O. (2025). Using AI in engineering education: a balancing act, driven by clear purpose. Draft version, to appear in The Routledge Handbook of the Philosophy of Engineering, 2nd ed. https://arxiv.org/abs/2606.16626 [doi:10.48550/arxiv.2606.16626](https://doi.org/10.48550/arxiv.2606.16626)"
     author: Kudina, O.
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Kudina 2025
 
-Kudina, O. (2025). Using AI in engineering education: a balancing act, driven by clear purpose. Draft version, to appear in The Routledge Handbook of the Philosophy of Engineering, 2nd ed. https://arxiv.org/abs/2606.16626
+Kudina, O. (2025). Using AI in engineering education: a balancing act, driven by clear purpose. Draft version, to appear in The Routledge Handbook of the Philosophy of Engineering, 2nd ed. https://arxiv.org/abs/2606.16626 [doi:10.48550/arxiv.2606.16626](https://doi.org/10.48550/arxiv.2606.16626)
 
 `q1 · i?` · `associational · r1`
 

@@ -66,6 +66,6 @@ Cohort comparison across percentile rank groups; the article explains grades dep
 - [Evidence on the policy's effects on 10th-grade geometry outcomes was inconsistent across groups and years](double-dose-geometry-outcomes-inconsistent.md) — related
 - [Fish pond effects: above-norm students became more likely to fail algebra when their skills were low relative to classroom peers after sorting](fish-pond-effects-increase-failure-above-norm.md) — related
 - [Failure rates increased and grades declined for higher-skill students in single-period algebra after the policy](grades-declined-higher-skill-single-period-students.md) — related
-- [The algebra-for-all policy increased algebra access for low-skill students previously in remedial math](algebra-for-all-increased-low-skill-access.md) — related
+- The algebra-for-all policy increased algebra access for low-skill students previously in remedial math — related
 - [Chicago's double-dose algebra policy raised algebra test scores for both low-skill and high-skill students](double-dose-algebra-raised-test-scores-both-skill-groups.md) — a broader claim this one bears on
 - [Double-dose algebra was least effective for students with the weakest incoming skills, most of whom received special education services](double-dose-least-effective-weakest-students.md) — related

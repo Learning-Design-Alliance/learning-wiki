@@ -44,10 +44,10 @@ In the Priority 7 section on expanded learning time, the report cites a well-est
 
 ## Related Claims
 - [NBA Math Hoops can be implemented at low marginal cost: $17.85 per pupil (analytic sample) in materials and training beyond typical summer programming, yielding 0.19 SD math gain](nba-math-hoops-cost-effective-summer-program.md) — related
-- [Targeted Skills Instruction virtual small-group tutoring significantly improves ELA achievement (+0.48) for below-25th-percentile students in grades 3, 4 and 6](tsi-virtual-tutoring-ela-effect-0-48.md) — a narrower finding that bears on this claim
-- [GO Tutor Corps high-impact math tutoring produced significantly greater mathematics achievement gains than no tutoring for matched grade 6-10 students](go-tutor-corps-math-tutoring-positive-gains.md) — a narrower finding that bears on this claim
+- Targeted Skills Instruction virtual small-group tutoring significantly improves ELA achievement (+0.48) for below-25th-percentile students in grades 3, 4 and 6 — a narrower finding that bears on this claim
+- GO Tutor Corps high-impact math tutoring produced significantly greater mathematics achievement gains than no tutoring for matched grade 6-10 students — a narrower finding that bears on this claim
 - [High dosage tutoring can produce accelerated academic growth for academically at-risk students if implemented effectively and at proper scale](high-dosage-tutoring-accelerated-growth-at-risk.md) — a narrower finding that bears on this claim
 - [Virtual group tutoring with Cignition improved 5th-grade students' fractions knowledge by 9 percentage points (ES = 0.44 SD) in an RCT](cignition-group-tutoring-fractions-gain-0-44.md) — a narrower finding that bears on this claim
 - [Peer Tutoring Improves Achievement](peer-tutoring-improves-achievement.md) — a narrower finding that bears on this claim
-- [High-dosage tutoring directly tied to classroom content can substantially accelerate learning in math and reading for the most struggling students](high-dosage-tutoring-tied-to-classroom-content-accelerates-learning.md) — a narrower finding that bears on this claim
+- High-dosage tutoring directly tied to classroom content can substantially accelerate learning in math and reading for the most struggling students — a narrower finding that bears on this claim
 - [One-to-one human tutoring lifts an ordinary student well beyond the average classroom with an effect of about d = 0.79 (VanLehn, 2011, as reported)](human-tutoring-effect-d-079.md) — a narrower finding that bears on this claim

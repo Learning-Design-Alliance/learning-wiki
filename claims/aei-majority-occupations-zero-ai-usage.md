@@ -41,7 +41,7 @@ Analysis of the Anthropic Economic Index, which tracks how AI models are used on
 
 
 ## Related Claims
-- [Demand for AI skills spans non-technical sectors, with 75% of companies planning AI adoption by 2027](ai-workforce-demand-non-technical-sectors.md) — related
+- Demand for AI skills spans non-technical sectors, with 75% of companies planning AI adoption by 2027 — related
 - [The gap between technical AI exposure and actual employer adoption is a limited opportunity window for CTE programs to shape adoption](exposure-adoption-gap-opportunity-window.md) — related
 - [AI adoption at work shows generational and occupational patterns, with younger workers and tech, professional services, and finance fields more likely to use AI](generational-occupational-ai-adoption-patterns.md) — related
 - [Workers ages 22 to 25 in the most AI-exposed US occupations experienced a 16% relative employment decline following widespread generative AI adoption](early-career-employment-decline-ai-exposed-occupations.md) — related

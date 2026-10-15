@@ -16,7 +16,7 @@ sources:
 # Dale's Cone of Experience as a framework classifying media experiences along concrete-abstract dimensions of learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (2 for, 2 against) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The Cone of Experience, introduced by Edgar Dale in 1946 in Audio-Visual Methods in Teaching, is a way to classify media experiences in relation to psychological dimensions of learning. The article describes it as "a way to classify media experiences in relation to psychological dimensions of learning, specifically concrete and abstract", presenting media on a continuum from direct, purposeful experiences to indirect, symbolic ones. Dale also described the cone as a metaphor for concept development, and believed the cone turned on its side illustrated a spiral curriculum.
@@ -37,9 +37,6 @@ The Cone of Experience, introduced by Edgar Dale in 1946 in Audio-Visual Methods
 
 ### Claims
 
-- [The Cone of Experience rests on conflated theoretical assumptions, mixing humanistic and hierarchical task-analysis viewpoints](../claims/cone-conflated-theoretical-assumptions.md) [-W]
-- [The direct-to-vicarious and purely symbolic experience continuum remains valid while the cone's description of media is dated](../claims/cone-continuum-valid-media-description-dated.md) [+W]
-- [The validity of the cone approach to media selection was questioned by 1969 because instructional design, not media alone, shapes media characteristics](../claims/cone-media-selection-questioned-tosti-ball.md) [-W]
 - [Dale argued learning becomes more meaningful when abstract learning and concrete experience are related, not that more realism is better](../claims/dale-related-concrete-and-abstract-not-realism.md) [+W]
 
 ## Related Theories

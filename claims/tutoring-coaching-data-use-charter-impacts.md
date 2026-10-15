@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: philip-m-gleason-2017
-    resource: "https://www.mathematica.org/publications/ja-whats-the-secret-ingredient-searching-for-policies-and-practices-that-make-charter-schools"
-    title: "Philip M. Gleason. (2017). What's the Secret Ingredient? Searching for Policies and Practices That Make Charter Schools Successful. Journal of School Choice. https://www.mathematica.org/publications/ja-whats-the-secret-ingredient-searching-for-policies-and-practices-that-make-charter-schools"
+    resource: "https://doi.org/10.1080/15582159.2017.1395620"
+    title: "Philip M. Gleason. (2017). What's the Secret Ingredient? Searching for Policies and Practices That Make Charter Schools Successful. Journal of School Choice. https://www.mathematica.org/publications/ja-whats-the-secret-ingredient-searching-for-policies-and-practices-that-make-charter-schools [doi:10.1080/15582159.2017.1395620](https://doi.org/10.1080/15582159.2017.1395620)"
     author: Philip M. Gleason
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Philip M. Gleason 2017
 
-Philip M. Gleason. (2017). What's the Secret Ingredient? Searching for Policies and Practices That Make Charter Schools Successful. Journal of School Choice. https://www.mathematica.org/publications/ja-whats-the-secret-ingredient-searching-for-policies-and-practices-that-make-charter-schools
+Philip M. Gleason. (2017). What's the Secret Ingredient? Searching for Policies and Practices That Make Charter Schools Successful. Journal of School Choice. https://www.mathematica.org/publications/ja-whats-the-secret-ingredient-searching-for-policies-and-practices-that-make-charter-schools [doi:10.1080/15582159.2017.1395620](https://doi.org/10.1080/15582159.2017.1395620)
 
 `q2 · i?` · `review · r?`
 
@@ -49,7 +49,7 @@ The summary characterizes the evidence for these three practices as "moderately 
 - [CMOs with the greatest positive impact on student achievement were most likely to use an intense approach to monitoring and coaching teachers](cmo-impact-linked-intense-teacher-coaching.md) — a narrower finding that bears on this claim
 - [Personalized Learning Effects Vary With Fidelity](personalized-learning-effects-vary-with-fidelity.md) — related
 - [Assignment to BookNook tutoring produces a small but statistically significant increase in reading growth on the NWEA MAP for grade 1-4 students](booknook-small-positive-map-reading-growth.md) — a narrower finding that bears on this claim
-- [Students receiving the recommended BookNook dosage of 20 or more sessions show markedly stronger reading gains (ES = +0.26) than the overall assigned sample](booknook-dosage-20-sessions-stronger-effect.md) — a narrower finding that bears on this claim
+- Students receiving the recommended BookNook dosage of 20 or more sessions show markedly stronger reading gains (ES = +0.26) than the overall assigned sample — a narrower finding that bears on this claim
 - [Teachers play a key role in determining students' success in school districts and CMOs](teachers-key-role-student-success-districts-cmos.md) — related
 - [Urban charter schools have more positive impacts on student achievement than other charter schools](urban-charter-schools-more-positive-achievement-impacts.md) — related
 - [Policies promoting data use to guide teachers' instructional practices are positively associated with charter school achievement impacts](data-use-policies-associated-charter-success.md) — a narrower finding that bears on this claim
@@ -58,7 +58,7 @@ The summary characterizes the evidence for these three practices as "moderately 
 - [Urban charter schools and charters serving low-achieving, low-income students show the strongest positive achievement impacts](urban-low-income-charter-schools-strongest-achievement-impacts.md) — related
 - [High dosage tutoring can produce accelerated academic growth for academically at-risk students if implemented effectively and at proper scale](high-dosage-tutoring-accelerated-growth-at-risk.md) — a narrower finding that bears on this claim
 - [Schools where students and teachers reported frequent use of standards-aligned practices showed stronger assessment gains than schools with few reports of frequent use](standards-aligned-practices-stronger-gains.md) — related
-- [High-dosage tutoring directly tied to classroom content can substantially accelerate learning in math and reading for the most struggling students](high-dosage-tutoring-tied-to-classroom-content-accelerates-learning.md) — related
+- High-dosage tutoring directly tied to classroom content can substantially accelerate learning in math and reading for the most struggling students — related
 - [Teachers used ASSISTments reports to adjust instruction and make problem review more frequent, targeted, and data driven](assistments-data-driven-review-instructional-adjustment.md) — a narrower finding that bears on this claim
 - [Long Beach schools with assigned math coaches showed markedly and disproportionately rising CAASPP scores, though causation could not be tied to coaching](long-beach-coach-assigned-schools-caaspp-rose.md) — a narrower finding that bears on this claim
 - [A district math administrator reported that schools supported by coaches with mathematics expertise showed greater gains and stronger collaborative structures than schools without such support](math-expertise-coaches-associated-greater-gains.md) — related

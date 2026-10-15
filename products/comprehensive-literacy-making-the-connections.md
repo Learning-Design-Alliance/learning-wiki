@@ -18,7 +18,7 @@ sources:
 # Comprehensive Literacy: Making the Connections
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 A 10-session professional learning programme developed and delivered by Greenfield Learning to support educators, literacy specialists, and curriculum developers in research-informed literacy instruction, including support for multilingual and neurodivergent learners.
@@ -28,9 +28,6 @@ A 10-session professional learning programme developed and delivered by Greenfie
 - **Greenfield Learning's Comprehensive Literacy: Making the Connections professional learning series**: A 10-session (15-hour) professional learning series delivered over 6-8 months for educators, literacy specialists, and curriculum developers. The course "offers a comprehensive exploration of reading research, phonological awareness, phonics, fluency, language comprehension, and writing," and equips educators to support multilingual and neurodivergent learners. It debunks common misconceptions and provides practical strategies for effective teaching, and is suitable for both new and experienced practitioners. (Greenfield Learning's Comprehensive Literacy: Making the Connections (2025))
 
 ### Claims
-- [Students eligible for free or reduced-price lunch showed larger gains (+0.39) from Greenfield-trained teachers on the CAASPP ELA assessment](../claims/greenfield-literacy-frl-larger-gains.md) [+W]
-- [Students receiving special education services showed larger gains (+0.33) from Greenfield-trained teachers on the CAASPP ELA assessment](../claims/greenfield-literacy-sped-larger-gains.md) [+W]
-- [Third graders taught by Greenfield-trained teachers scored higher on the CAASPP ELA assessment than students taught by untrained teachers (effect size +0.23)](../claims/greenfield-literacy-training-caaspp-ela-gain.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -65,9 +62,6 @@ A 10-session (15-hour) professional learning series delivered over 6-8 months fo
 
 ## Claims
 
-- [Students eligible for free or reduced-price lunch showed larger gains (+0.39) from Greenfield-trained teachers on the CAASPP ELA assessment](../claims/greenfield-literacy-frl-larger-gains.md) [+W]
-- [Students receiving special education services showed larger gains (+0.33) from Greenfield-trained teachers on the CAASPP ELA assessment](../claims/greenfield-literacy-sped-larger-gains.md) [+W]
-- [Third graders taught by Greenfield-trained teachers scored higher on the CAASPP ELA assessment than students taught by untrained teachers (effect size +0.23)](../claims/greenfield-literacy-training-caaspp-ela-gain.md) [+W]
 
 ## Related Elements
 

@@ -150,7 +150,7 @@ The guide reports, citing the Swanborn and de Glopper meta-analysis, that "the p
 - [Reading and listening yield similar proportions of incidental vocabulary learning, with reading ahead only on some immediate posttests](reading-versus-listening-incidental-vocabulary-gains.md) — related
 - [Correct word inference in reading requires knowing roughly 95-98% of surrounding words, corresponding to about 3,000-5,000 word families](vocabulary-coverage-thresholds-for-inference.md) — related
 - [Attention plays a major role in L2 learning because a task-relevant knowledge base is built in memory through attention](attention-builds-task-relevant-knowledge-base.md) — related
-- [Deaf students plateau at fourth-grade reading skill despite prolonged schooling](deaf-students-reading-plateau-fourth-grade.md) — related
+- Deaf students plateau at fourth-grade reading skill despite prolonged schooling — related
 - [Single exposures yield partial word knowledge, and repeated encounters in varied contexts build complete word meaning (fast mapping then full mapping)](fast-mapping-full-mapping-word-learning.md) — a narrower finding that bears on this claim
 - [Incidental vocabulary acquisition through comprehensible input is more powerful than intentional vocabulary learning](incidental-vocabulary-acquisition-more-powerful-than-intentional.md) — a narrower finding that bears on this claim
 - [Reading proficiency level moderates incidental vocabulary gains: higher-proficiency readers gained more, consistent with i+1](proficiency-level-moderates-incidental-vocabulary-gains.md) — a narrower finding that bears on this claim

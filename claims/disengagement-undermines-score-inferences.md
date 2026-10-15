@@ -11,8 +11,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: megan-kuhfeld-2019
-    resource: "https://www.nwea.org/research/publication/using-assessment-metadata-to-quantify-the-impact-of-test-disengagement-on-estimates-of-educational-effectiveness/"
-    title: "Megan Kuhfeld, James Soland. (2019). Using assessment metadata to quantify the impact of test disengagement on estimates of educational effectiveness. Journal of Research on Educational Effectiveness 13(1), 147-175. https://www.nwea.org/research/publication/using-assessment-metadata-to-quantify-the-impact-of-test-disengagement-on-estimates-of-educational-effectiveness/"
+    resource: "https://doi.org/10.1080/19345747.2019.1636437"
+    title: "Megan Kuhfeld, James Soland. (2019). Using assessment metadata to quantify the impact of test disengagement on estimates of educational effectiveness. Journal of Research on Educational Effectiveness 13(1), 147-175. https://www.nwea.org/research/publication/using-assessment-metadata-to-quantify-the-impact-of-test-disengagement-on-estimates-of-educational-effectiveness/ [doi:10.1080/19345747.2019.1636437](https://doi.org/10.1080/19345747.2019.1636437)"
     author: Megan Kuhfeld, James Soland
     q: 1
     i: "?"
@@ -35,7 +35,7 @@ sources:
 
 ### Megan Kuhfeld 2019
 
-Megan Kuhfeld, James Soland. (2019). Using assessment metadata to quantify the impact of test disengagement on estimates of educational effectiveness. Journal of Research on Educational Effectiveness 13(1), 147-175. https://www.nwea.org/research/publication/using-assessment-metadata-to-quantify-the-impact-of-test-disengagement-on-estimates-of-educational-effectiveness/
+Megan Kuhfeld, James Soland. (2019). Using assessment metadata to quantify the impact of test disengagement on estimates of educational effectiveness. Journal of Research on Educational Effectiveness 13(1), 147-175. https://www.nwea.org/research/publication/using-assessment-metadata-to-quantify-the-impact-of-test-disengagement-on-estimates-of-educational-effectiveness/ [doi:10.1080/19345747.2019.1636437](https://doi.org/10.1080/19345747.2019.1636437)
 
 `q1 · i?` · `associational · r?`
 

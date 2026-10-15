@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: emilyn-ruble-whitesell-2016
-    resource: "https://www.mathematica.org/publications/a-day-at-the-museum-the-impact-of-field-trips-on-middle-school-science-achievement"
-    title: "Emilyn Ruble Whitesell. (2016). A Day at the Museum: The Impact of Field Trips on Middle School Science Achievement. Journal of Research in Science Teaching, vol. 53, issue 7. https://www.mathematica.org/publications/a-day-at-the-museum-the-impact-of-field-trips-on-middle-school-science-achievement"
+    resource: "https://doi.org/10.1002/tea.21322"
+    title: "Emilyn Ruble Whitesell. (2016). A Day at the Museum: The Impact of Field Trips on Middle School Science Achievement. Journal of Research in Science Teaching, vol. 53, issue 7. https://www.mathematica.org/publications/a-day-at-the-museum-the-impact-of-field-trips-on-middle-school-science-achievement [doi:10.1002/tea.21322](https://doi.org/10.1002/tea.21322)"
     author: Emilyn Ruble Whitesell
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Emilyn Ruble Whitesell 2016
 
-Emilyn Ruble Whitesell. (2016). A Day at the Museum: The Impact of Field Trips on Middle School Science Achievement. Journal of Research in Science Teaching, vol. 53, issue 7. https://www.mathematica.org/publications/a-day-at-the-museum-the-impact-of-field-trips-on-middle-school-science-achievement
+Emilyn Ruble Whitesell. (2016). A Day at the Museum: The Impact of Field Trips on Middle School Science Achievement. Journal of Research in Science Teaching, vol. 53, issue 7. https://www.mathematica.org/publications/a-day-at-the-museum-the-impact-of-field-trips-on-middle-school-science-achievement [doi:10.1002/tea.21322](https://doi.org/10.1002/tea.21322)
 
 `q3 · i?` · `causal · r2`
 
@@ -47,5 +47,5 @@ Subgroup analysis within the same New York City school-fixed-effects study of fi
 
 ## Related Claims
 - [Exposure to field trips to informal science institutions produces small positive effects on middle school students' standardized science test scores](field-trips-small-positive-science-score-effects.md) — a broader claim this one bears on
-- [The OGAP trial population was racially diverse and predominantly low-income, supporting scope to high-poverty urban districts](ogap-trial-high-poverty-urban-sample.md) — related
-- [Subgroup analysis indicates notable growth for students from traditionally underserved groups, such as those eligible for free or reduced-price lunch](plc-at-work-underserved-subgroup-growth.md) — related
+- The OGAP trial population was racially diverse and predominantly low-income, supporting scope to high-poverty urban districts — related
+- Subgroup analysis indicates notable growth for students from traditionally underserved groups, such as those eligible for free or reduced-price lunch — related

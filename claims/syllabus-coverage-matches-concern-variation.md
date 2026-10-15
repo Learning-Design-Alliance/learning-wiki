@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: mohamed-abdalla-2026
-    resource: "https://arxiv.org/abs/2605.09680"
-    title: "Mohamed Abdalla, Sahar Abdalla, Alicia Cappello, Kyrie Dowling, Danaé Metaxa, David G. Widder, Catherine Stinson. (2026). Cost-of-Ethics Crisis: Beliefs, Decisions, and Justifications in the Job Searches of Computer Science Students in Canada and the United States. https://arxiv.org/abs/2605.09680"
+    resource: "https://doi.org/10.48550/arxiv.2605.09680"
+    title: "Mohamed Abdalla, Sahar Abdalla, Alicia Cappello, Kyrie Dowling, Danaé Metaxa, David G. Widder, Catherine Stinson. (2026). Cost-of-Ethics Crisis: Beliefs, Decisions, and Justifications in the Job Searches of Computer Science Students in Canada and the United States. https://arxiv.org/abs/2605.09680 [doi:10.48550/arxiv.2605.09680](https://doi.org/10.48550/arxiv.2605.09680)"
     author: Mohamed Abdalla, Sahar Abdalla, Alicia Cappello, Kyrie Dowling, Danaé Metaxa, David G. Widder, Catherine Stinson
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Mohamed Abdalla 2026
 
-Mohamed Abdalla, Sahar Abdalla, Alicia Cappello, Kyrie Dowling, Danaé Metaxa, David G. Widder, Catherine Stinson. (2026). Cost-of-Ethics Crisis: Beliefs, Decisions, and Justifications in the Job Searches of Computer Science Students in Canada and the United States. https://arxiv.org/abs/2605.09680
+Mohamed Abdalla, Sahar Abdalla, Alicia Cappello, Kyrie Dowling, Danaé Metaxa, David G. Widder, Catherine Stinson. (2026). Cost-of-Ethics Crisis: Beliefs, Decisions, and Justifications in the Job Searches of Computer Science Students in Canada and the United States. https://arxiv.org/abs/2605.09680 [doi:10.48550/arxiv.2605.09680](https://doi.org/10.48550/arxiv.2605.09680)
 
 `q1 · i?` · `associational · r1`
 
@@ -46,4 +46,4 @@ Authors' interpretive argument in the Discussion linking observed concern variat
 - [Job-seeking CS students rank ethical concerns last among job considerations, below remuneration, location, work-life balance, and workplace culture](ethical-concerns-ranked-last-job-consideration.md) — related
 - [Respondents overestimate apathy in their field: for most ethical issues, students' own concern exceeds the concern they perceive among CS peers](field-apathy-overestimation-ethical-concerns.md) — related
 - [Male respondents were significantly more likely than non-male respondents to have no concern about their labour being used for military purposes](gender-difference-military-labour-concern.md) — related
-- [In a graduate CS course offering, mediated topic priorities aligned with instructor concerns (top-5 overlap 3/5; Spearman ρ = 0.80)](mediation-layer-priorities-align-instructor-concerns.md) — related
+- In a graduate CS course offering, mediated topic priorities aligned with instructor concerns (top-5 overlap 3/5; Spearman ρ = 0.80) — related

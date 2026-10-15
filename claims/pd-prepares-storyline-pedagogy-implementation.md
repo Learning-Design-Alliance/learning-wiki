@@ -46,6 +46,6 @@ The review reports, citing Watkins and Penuel (2023), self-report surveys from m
 - [Professional learning and other teacher supports are perceived as foundational, addressing root causes of many OpenSciEd practitioner challenges across adoption, enactment, and assessment.](openscied-teacher-supports-foundational.md) — related
 - [Elementary teachers were more likely than high school teachers to report that standards-related professional development had extensive impact on their teaching practices](ccss-pd-impact-on-teaching-practices-elementary-more.md) — related
 - [Professional learning experiences shift teachers' beliefs away from traditional views toward practice-based science and increase implementation confidence, with gains leveling off after initial workshops](openscied-pd-shifts-teacher-beliefs-confidence.md) — related
-- [Professional learning opportunities are strongly related to teachers' use of standards-aligned instructional practices in math and science](professional-learning-strongly-related-standards-aligned-practices.md) — related
-- [One teacher shifted testing and preparation practices after the student conversations, reportedly resulting in improvements on tests](teacher-practice-change-after-tlc-conversations.md) — related
+- Professional learning opportunities are strongly related to teachers' use of standards-aligned instructional practices in math and science — related
+- One teacher shifted testing and preparation practices after the student conversations, reportedly resulting in improvements on tests — related
 - [Lasting pedagogical change is more likely when teachers try out strategies, receive feedback, and iteratively improve across multiple workshops](iterative-follow-up-supports-lasting-change.md) — related

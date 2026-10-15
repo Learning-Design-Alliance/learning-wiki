@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: sebring-p-2014
-    resource: "https://consortium.uchicago.edu/publications/five-essential-supports-school-improvement-mobilizing-findings"
-    title: "Sebring P., & Montgomery, N. (2014). The Five Essential Supports for School Improvement: Mobilizing the Findings. Pensamiento Educativo. Revista de Investigación Educacional Latinoamericana, 51(1), 63-85. https://consortium.uchicago.edu/publications/five-essential-supports-school-improvement-mobilizing-findings"
+    resource: "https://doi.org/10.7764/pel.51.1.2014.7"
+    title: "Sebring P., & Montgomery, N. (2014). The Five Essential Supports for School Improvement: Mobilizing the Findings. Pensamiento Educativo. Revista de Investigación Educacional Latinoamericana, 51(1), 63-85. https://consortium.uchicago.edu/publications/five-essential-supports-school-improvement-mobilizing-findings [doi:10.7764/pel.51.1.2014.7](https://doi.org/10.7764/pel.51.1.2014.7)"
     author: "Sebring P., & Montgomery, N."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Sebring P. 2014
 
-Sebring P., & Montgomery, N. (2014). The Five Essential Supports for School Improvement: Mobilizing the Findings. Pensamiento Educativo. Revista de Investigación Educacional Latinoamericana, 51(1), 63-85. https://consortium.uchicago.edu/publications/five-essential-supports-school-improvement-mobilizing-findings
+Sebring P., & Montgomery, N. (2014). The Five Essential Supports for School Improvement: Mobilizing the Findings. Pensamiento Educativo. Revista de Investigación Educacional Latinoamericana, 51(1), 63-85. https://consortium.uchicago.edu/publications/five-essential-supports-school-improvement-mobilizing-findings [doi:10.7764/pel.51.1.2014.7](https://doi.org/10.7764/pel.51.1.2014.7)
 
 `q2 · i?` · `design · r1`
 
@@ -47,7 +47,7 @@ The paper's overview describes the 2010 UChicago Consortium book's central findi
 - [Building a strong learning climate by supporting and guiding teacher collaboration around common goals is highlighted as a key finding](learning-climate-teacher-collaboration-common-goals.md) — related
 - [Principals with higher FFL scores make larger estimated contributions to student achievement growth (concurrent validity)](ffl-scores-correlated-principal-value-added.md) — related
 - [In CHSRI small high schools, strong freshman course performance is associated with the combination of developmental practices, deep principal leadership, and teacher influence](chsri-combination-three-conditions-strong-course-performance.md) — a narrower finding that bears on this claim
-- [Schools with strong teacher collaboration are more effective at improving learning than schools with strong individuals but little collaboration](collaboration-beats-individual-teacher-quality.md) — a narrower finding that bears on this claim
+- Schools with strong teacher collaboration are more effective at improving learning than schools with strong individuals but little collaboration — a narrower finding that bears on this claim
 - [Chicago school organizational supports (leadership, professional capacity, parent involvement) improved across eras, but instructional quality did not, and student-reported teacher support declined after 2005](organizational-gains-without-instructional-gains.md) — related
 - [Initial improvements in Annenberg schools' organizational capacity by 1999 largely disappeared by 2001, leaving little net change](annenberg-capacity-gains-eroded-by-2001.md) — related
-- [Schools strong in five essential supports were at least ten times more likely to show substantial reading and math gains](five-essential-supports-ten-times-substantial-gains.md) — a narrower finding that bears on this claim
+- Schools strong in five essential supports were at least ten times more likely to show substantial reading and math gains — a narrower finding that bears on this claim

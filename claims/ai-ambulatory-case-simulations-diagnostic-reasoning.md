@@ -47,5 +47,5 @@ In the review's ambulatory-settings theme, it describes longitudinal case-based 
 - [AI-powered simulations show short-term gains in communication confidence and structured knowledge in RCTs, with limited or inferior effects for tactile psychomotor skills](ai-simulation-short-term-gains-nursing.md) — related
 - [One RCT found AI-assisted simulation inferior to standardized patient simulation for breast self-examination skills](ai-simulation-inferior-bse-skills.md) — reports the opposite
 - [Adult learners expect AI to support problem-centered learning by activating background knowledge, generating diagnostic insights, and strengthening critical thinking](ai-supports-problem-centered-critical-thinking.md) — related
-- [Computer-based simulation tasks assess problem-solving, reasoning, and evaluation skills at scale](computer-based-simulations-assess-inquiry-skills.md) — a broader claim this one bears on
+- Computer-based simulation tasks assess problem-solving, reasoning, and evaluation skills at scale — a broader claim this one bears on
 - [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — a broader claim this one bears on

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: ethan-dickey-2026
-    resource: "https://arxiv.org/abs/2607.27586"
-    title: "Ethan Dickey, Marios Mertzanidis, Alexandros Psomas. (2026). Is Solving Better Than Evaluating GenAI Solutions? https://arxiv.org/abs/2607.27586"
+    resource: "https://doi.org/10.48550/arxiv.2607.27586"
+    title: "Ethan Dickey, Marios Mertzanidis, Alexandros Psomas. (2026). Is Solving Better Than Evaluating GenAI Solutions? https://arxiv.org/abs/2607.27586 [doi:10.48550/arxiv.2607.27586](https://doi.org/10.48550/arxiv.2607.27586)"
     author: Ethan Dickey, Marios Mertzanidis, Alexandros Psomas
     q: 3
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Evaluating GenAI-generated solutions produced no significant differences on midterm scores, final exam scores, course percentages, or normalized exam change relative to solving problems directly
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Evidence** · 2 studies · 2 causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In a randomized crossover algorithms course (N=220), midterm scores did not differ significantly between the solving and GenAI-evaluation groups (t(218)=-0.58, p=.56, d=-0.08). [→ Ethan Dickey 2026](#ethan-dickey-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Ethan Dickey 2026
 
-Ethan Dickey, Marios Mertzanidis, Alexandros Psomas. (2026). Is Solving Better Than Evaluating GenAI Solutions? https://arxiv.org/abs/2607.27586
+Ethan Dickey, Marios Mertzanidis, Alexandros Psomas. (2026). Is Solving Better Than Evaluating GenAI Solutions? https://arxiv.org/abs/2607.27586 [doi:10.48550/arxiv.2607.27586](https://doi.org/10.48550/arxiv.2607.27586)
 
 `q3 · i?` · `causal · r2`
 

@@ -10,7 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: wade-2020
-    title: "Wade, C. H., Wilkens, C., Sonnert, G., & Sadler, P. M. (2020). Four component instructional design (4C/ID) model confirmed for secondary tertiary mathematics. In Sacristán, A.I., Cortés-Zavala, J.C. & Ruiz-Arias, P.M. (Eds.), Mathematics Education Across Cultures: Proceedings of the 42nd Meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education."
+    resource: "https://doi.org/10.51272/pmena.42.2020-386"
+    title: "Wade, C. H., Wilkens, C., Sonnert, G., & Sadler, P. M. (2020). Four component instructional design (4C/ID) model confirmed for secondary tertiary mathematics. In Sacristán, A.I., Cortés-Zavala, J.C. & Ruiz-Arias, P.M. (Eds.), Mathematics Education Across Cultures: Proceedings of the 42nd Meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education. [doi:10.51272/pmena.42.2020-386](https://doi.org/10.51272/pmena.42.2020-386)"
     author: "Wade, C. H., Wilkens, C., Sonnert, G., & Sadler, P. M."
     q: 3
     i: "?"
@@ -30,7 +31,7 @@ sources:
 
 ### Wade 2020
 
-Wade, C. H., Wilkens, C., Sonnert, G., & Sadler, P. M. (2020). Four component instructional design (4C/ID) model confirmed for secondary tertiary mathematics. In Sacristán, A.I., Cortés-Zavala, J.C. & Ruiz-Arias, P.M. (Eds.), Mathematics Education Across Cultures: Proceedings of the 42nd Meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education.
+Wade, C. H., Wilkens, C., Sonnert, G., & Sadler, P. M. (2020). Four component instructional design (4C/ID) model confirmed for secondary tertiary mathematics. In Sacristán, A.I., Cortés-Zavala, J.C. & Ruiz-Arias, P.M. (Eds.), Mathematics Education Across Cultures: Proceedings of the 42nd Meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education. [doi:10.51272/pmena.42.2020-386](https://doi.org/10.51272/pmena.42.2020-386)
 
 `q3 · i?` · `associational · r2`
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: jaime-thomas-2018
-    resource: "https://www.mathematica.org/publications/the-sequential-scale-up-of-an-evidence-based-intervention-a-case-study"
-    title: "Jaime Thomas, Thomas D. Cook, Alice Klein, Prentice Starkey, Lydia DeFlorio. (2018). The Sequential Scale-Up of an Evidence-Based Intervention: A Case Study. Evaluation Review, vol. 42, no. 3. https://www.mathematica.org/publications/the-sequential-scale-up-of-an-evidence-based-intervention-a-case-study"
+    resource: "https://doi.org/10.1177/0193841x18786818"
+    title: "Jaime Thomas, Thomas D. Cook, Alice Klein, Prentice Starkey, Lydia DeFlorio. (2018). The Sequential Scale-Up of an Evidence-Based Intervention: A Case Study. Evaluation Review, vol. 42, no. 3. https://www.mathematica.org/publications/the-sequential-scale-up-of-an-evidence-based-intervention-a-case-study [doi:10.1177/0193841x18786818](https://doi.org/10.1177/0193841x18786818)"
     author: Jaime Thomas, Thomas D. Cook, Alice Klein, Prentice Starkey, Lydia DeFlorio
     q: 3
     i: 1
@@ -31,7 +31,7 @@ sources:
 
 ### Jaime Thomas 2018
 
-Jaime Thomas, Thomas D. Cook, Alice Klein, Prentice Starkey, Lydia DeFlorio. (2018). The Sequential Scale-Up of an Evidence-Based Intervention: A Case Study. Evaluation Review, vol. 42, no. 3. https://www.mathematica.org/publications/the-sequential-scale-up-of-an-evidence-based-intervention-a-case-study
+Jaime Thomas, Thomas D. Cook, Alice Klein, Prentice Starkey, Lydia DeFlorio. (2018). The Sequential Scale-Up of an Evidence-Based Intervention: A Case Study. Evaluation Review, vol. 42, no. 3. https://www.mathematica.org/publications/the-sequential-scale-up-of-an-evidence-based-intervention-a-case-study [doi:10.1177/0193841x18786818](https://doi.org/10.1177/0193841x18786818)
 
 `q3 · i1` · `causal · r?`
 

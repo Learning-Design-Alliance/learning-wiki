@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: yongkyung-oh-2026
-    resource: "https://arxiv.org/abs/2606.18548"
-    title: "Yongkyung Oh, Lynn Talton, Alex Bui. (2026). Engagement Intensity as a Learner-Modeling Signal for Adaptive AI Ethics Instruction. KDD 2026 AI for Education Day, at the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '26). https://arxiv.org/abs/2606.18548"
+    resource: "https://doi.org/10.48550/arxiv.2606.18548"
+    title: "Yongkyung Oh, Lynn Talton, Alex Bui. (2026). Engagement Intensity as a Learner-Modeling Signal for Adaptive AI Ethics Instruction. KDD 2026 AI for Education Day, at the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '26). https://arxiv.org/abs/2606.18548 [doi:10.48550/arxiv.2606.18548](https://doi.org/10.48550/arxiv.2606.18548)"
     author: Yongkyung Oh, Lynn Talton, Alex Bui
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Yongkyung Oh 2026
 
-Yongkyung Oh, Lynn Talton, Alex Bui. (2026). Engagement Intensity as a Learner-Modeling Signal for Adaptive AI Ethics Instruction. KDD 2026 AI for Education Day, at the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '26). https://arxiv.org/abs/2606.18548
+Yongkyung Oh, Lynn Talton, Alex Bui. (2026). Engagement Intensity as a Learner-Modeling Signal for Adaptive AI Ethics Instruction. KDD 2026 AI for Education Day, at the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '26). https://arxiv.org/abs/2606.18548 [doi:10.48550/arxiv.2606.18548](https://doi.org/10.48550/arxiv.2606.18548)
 
 `q2 · i?` · `associational · r1`
 

@@ -18,7 +18,7 @@ sources:
 # Just Right Reader Take-Everywhere Literacy Packs
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies (2 causal), `q2` · 2 of 2 report an effect size
+> **Evidence** · no claims cited
 
 ## Description
 A Just Right Reader take-home literacy package that provides skill-leveled decodable books, lesson plans, multilingual instructional videos, and writing activities for students to practice foundational reading skills.
@@ -28,7 +28,6 @@ A Just Right Reader take-home literacy package that provides skill-leveled decod
 - **QR-code phonics video lessons embedded in decodable books**: Each decodable book in the packs includes a QR code linking to a 2-minute phonics video lesson. The videos reinforce phonics instruction in English and Spanish as well as 12 other languages, and are intended to support classroom learning, small-group instruction, and extended practice at home. The article states the videos "reinforce phonics instruction in both English and Spanish, as well as 12 other languages, supporting classroom learning, small-group instruction, and extending practice at home." (Just Right Reader Take-Everywhere Literacy Packs™: Evidence Rating (2025))
 
 ### Claims
-- [Kindergarten students using Just Right Reader Take-Everywhere Literacy Packs™ scored significantly higher on end-of-year DIBELS composite scores than matched comparison students (ES = +0.39)](../claims/literacy-packs-dibels-es-039-quasi-experiment.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -65,7 +64,6 @@ Take-home literacy packs containing decodable books aligned with the Science of 
 
 ## Claims
 
-- [Kindergarten students using Just Right Reader Take-Everywhere Literacy Packs™ scored significantly higher on end-of-year DIBELS composite scores than matched comparison students (ES = +0.39)](../claims/literacy-packs-dibels-es-039-quasi-experiment.md) [+W]
 
 ## Related Elements
 
@@ -109,7 +107,6 @@ Each decodable book in the packs includes a QR code linking to a 2-minute phonic
 
 ## Claims
 
-- [Kindergarten students using Just Right Reader Take-Everywhere Literacy Packs™ scored significantly higher on end-of-year DIBELS composite scores than matched comparison students (ES = +0.39)](../claims/literacy-packs-dibels-es-039-quasi-experiment.md) [+W]
 
 ## Related Elements
 

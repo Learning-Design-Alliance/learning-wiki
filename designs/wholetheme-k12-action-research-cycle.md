@@ -17,7 +17,7 @@ sources:
 # Wholetheme K-12 classroom pattern: theme plus multidisciplinary projects in an action research cycle
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The paper sketches a wholetheme K-12 classroom in which a broadly based year-long theme frames multidisciplinary, content-laden projects. Within the theme, 'Students engage in an action research cycle of questioning, reflectively formulating problems, creating possible solutions, collecting data, constructing a test of their hypothesized solutions, and reflecting upon the results.' Learning is located in the dynamic reflective process following activity, i.e., reflection-on-action.
@@ -41,7 +41,6 @@ The paper sketches a wholetheme K-12 classroom in which a broadly based year-lon
 ### Claims
 
 - [Wholetheme Thematic Organizer Teaching](../strategies/wholetheme-thematic-organizer-teaching.md) [+M]
-- [Reflection is the combination of active and dynamic self-regulation](../claims/reflection-combines-active-and-dynamic-self-regulation.md) [+W]
 
 ## Related Patterns
 

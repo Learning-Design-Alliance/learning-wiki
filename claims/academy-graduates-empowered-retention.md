@@ -44,5 +44,5 @@ Practitioner-article account of the Academy's outcomes, based on program leaders
 
 ## Related Claims
 - [In a recent survey, 100 percent of polled Academy graduates said they would recommend participation to a colleague](academy-graduates-recommend-survey.md) — related
-- [Teachers are more likely to stay in schools where they perceive colleagues as collaborators, feel influence over their work environment, and trust their principal as an instructional leader](work-environment-predicts-teacher-retention-chicago.md) — a broader claim this one bears on
+- Teachers are more likely to stay in schools where they perceive colleagues as collaborators, feel influence over their work environment, and trust their principal as an instructional leader — a broader claim this one bears on
 - [A facilitated Community of Practice helped isolated state American Indian Education Directors build relationships that broke down silos and combated professional isolation](cop-relationships-combat-aie-director-isolation.md) — related

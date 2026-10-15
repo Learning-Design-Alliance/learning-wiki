@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: islem-rekik-2026
-    resource: "https://arxiv.org/abs/2605.16292"
-    title: "Islem Rekik. (2026). Evidence of a Cognitive Shift in AI Education: How Students Are Rethinking Human Intelligence? Published as a conference paper at ICLR HCAIR Workshop 2026. https://arxiv.org/abs/2605.16292"
+    resource: "https://doi.org/10.48550/arxiv.2605.16292"
+    title: "Islem Rekik. (2026). Evidence of a Cognitive Shift in AI Education: How Students Are Rethinking Human Intelligence? Published as a conference paper at ICLR HCAIR Workshop 2026. https://arxiv.org/abs/2605.16292 [doi:10.48550/arxiv.2605.16292](https://doi.org/10.48550/arxiv.2605.16292)"
     author: Islem Rekik
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Islem Rekik 2026
 
-Islem Rekik. (2026). Evidence of a Cognitive Shift in AI Education: How Students Are Rethinking Human Intelligence? Published as a conference paper at ICLR HCAIR Workshop 2026. https://arxiv.org/abs/2605.16292
+Islem Rekik. (2026). Evidence of a Cognitive Shift in AI Education: How Students Are Rethinking Human Intelligence? Published as a conference paper at ICLR HCAIR Workshop 2026. https://arxiv.org/abs/2605.16292 [doi:10.48550/arxiv.2605.16292](https://doi.org/10.48550/arxiv.2605.16292)
 
 `q2 · i?` · `associational · r1`
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: jake-obrien-2026
-    resource: "https://arxiv.org/abs/2609.21037"
-    title: "Jake O'Brien, Margaret Ellis, Alma Robinson, John Simonetti, and Naren Ramakrishnan. (2026). Skepticism vs. Convenience: Physics Students' Perceptions and Use of Large Language Models Before and After Instruction. https://arxiv.org/abs/2609.21037"
+    resource: "https://doi.org/10.48550/arxiv.2609.21037"
+    title: "Jake O'Brien, Margaret Ellis, Alma Robinson, John Simonetti, and Naren Ramakrishnan. (2026). Skepticism vs. Convenience: Physics Students' Perceptions and Use of Large Language Models Before and After Instruction. https://arxiv.org/abs/2609.21037 [doi:10.48550/arxiv.2609.21037](https://doi.org/10.48550/arxiv.2609.21037)"
     author: "Jake O'Brien, Margaret Ellis, Alma Robinson, John Simonetti, and Naren Ramakrishnan"
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Jake O'Brien 2026
 
-Jake O'Brien, Margaret Ellis, Alma Robinson, John Simonetti, and Naren Ramakrishnan. (2026). Skepticism vs. Convenience: Physics Students' Perceptions and Use of Large Language Models Before and After Instruction. https://arxiv.org/abs/2609.21037
+Jake O'Brien, Margaret Ellis, Alma Robinson, John Simonetti, and Naren Ramakrishnan. (2026). Skepticism vs. Convenience: Physics Students' Perceptions and Use of Large Language Models Before and After Instruction. https://arxiv.org/abs/2609.21037 [doi:10.48550/arxiv.2609.21037](https://doi.org/10.48550/arxiv.2609.21037)
 
 `q2 · i?` · `causal · r1`
 

@@ -18,7 +18,7 @@ sources:
 # AI & Data Acumen Learning Outcomes Framework
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 A University of Arizona faculty, student, and staff task force framework that crosses seven AI-and-data knowledge dimensions with four cognitive proficiency levels to support higher-education curriculum development and assessment.
@@ -27,7 +27,6 @@ A University of Arizona faculty, student, and staff task force framework that cr
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Prominent existing AI literacy frameworks are not tailored to higher education](../claims/ai-literacy-frameworks-gap-higher-education.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -62,7 +61,6 @@ The framework is a two-dimensional matrix for scaffolding AI and data literacy i
 
 ### Claims
 
-- [Prominent existing AI literacy frameworks are not tailored to higher education](../claims/ai-literacy-frameworks-gap-higher-education.md) [+W]
 
 ## Related Theories
 

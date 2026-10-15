@@ -19,8 +19,8 @@ sources:
     kind: associational
     rigour: "?"
   - id: matthew-t-johnson-2019
-    resource: "https://www.mathematica.org/publications/changes-in-hbcu-financial-aid-and-student-enrollment-after-the-tightening-of-plus-credit-standards"
-    title: "Matthew T. Johnson, Julie Bruch, Brian Gill. (2019). Changes in HBCU Financial Aid and Student Enrollment After the Tightening of PLUS Credit Standards. Journal of Student Financial Aid, vol. 48, issue 2. https://www.mathematica.org/publications/changes-in-hbcu-financial-aid-and-student-enrollment-after-the-tightening-of-plus-credit-standards"
+    resource: "https://doi.org/10.55504/0884-9153.1627"
+    title: "Matthew T. Johnson, Julie Bruch, Brian Gill. (2019). Changes in HBCU Financial Aid and Student Enrollment After the Tightening of PLUS Credit Standards. Journal of Student Financial Aid, vol. 48, issue 2. https://www.mathematica.org/publications/changes-in-hbcu-financial-aid-and-student-enrollment-after-the-tightening-of-plus-credit-standards [doi:10.55504/0884-9153.1627](https://doi.org/10.55504/0884-9153.1627)"
     author: Matthew T. Johnson, Julie Bruch, Brian Gill
     q: 2
     i: "?"
@@ -53,7 +53,7 @@ The brief's descriptive analysis of federal aid patterns at HBCUs after the PLUS
 
 ### Matthew T. Johnson 2019
 
-Matthew T. Johnson, Julie Bruch, Brian Gill. (2019). Changes in HBCU Financial Aid and Student Enrollment After the Tightening of PLUS Credit Standards. Journal of Student Financial Aid, vol. 48, issue 2. https://www.mathematica.org/publications/changes-in-hbcu-financial-aid-and-student-enrollment-after-the-tightening-of-plus-credit-standards
+Matthew T. Johnson, Julie Bruch, Brian Gill. (2019). Changes in HBCU Financial Aid and Student Enrollment After the Tightening of PLUS Credit Standards. Journal of Student Financial Aid, vol. 48, issue 2. https://www.mathematica.org/publications/changes-in-hbcu-financial-aid-and-student-enrollment-after-the-tightening-of-plus-credit-standards [doi:10.55504/0884-9153.1627](https://doi.org/10.55504/0884-9153.1627)
 
 `q2 · i?` · `causal · r?`
 
@@ -73,5 +73,5 @@ Institution-level analysis of HBCU financial aid in 2012-13 and 2013-14; the art
 - [Tightened PLUS credit standards changed both financial aid and enrollment at HBCUs across the first two affected academic years](plus-tightening-changed-hbcu-aid-and-enrollment.md) — related
 - [HBCU enrollment continued to decline in 2013-14 despite the partial rebound in PLUS loans](hbcu-enrollment-continued-declining-2013-14.md) — related
 - [Black teachers were more likely than other teachers to have borrowed for their education and to report high stress from student loan debt](black-teachers-student-loan-burden.md) — related
-- [Credit disparities make private loans harder to access for Black, Native American, and Latino communities](credit-score-disparities-block-private-loan-access.md) — related
+- Credit disparities make private loans harder to access for Black, Native American, and Latino communities — related
 - [The 2011 tightening of Parent PLUS credit standards sharply reduced PLUS access at HBCUs and cost them about $168 million](plus-credit-tightening-cut-hbcu-access-and-revenue.md) — related

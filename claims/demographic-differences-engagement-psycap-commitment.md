@@ -43,7 +43,7 @@ Independent-samples t-tests and one-way ANOVA on demographic differences in the 
 
 
 ## Related Claims
-- [Female Korean immigrants showed better psychosocial adjustment than males on diffusion, isolation, and intimacy resolution](female-korean-immigrants-better-adjustment-than-males.md) — related
+- Female Korean immigrants showed better psychosocial adjustment than males on diffusion, isolation, and intimacy resolution — related
 - [Professional commitment is essentially uncorrelated with AI literacy and shows no significant bivariate correlation with learning engagement](professional-commitment-null-bivariate-correlations.md) — related
 - [Female students reported higher learning agency than male students after controlling for GenAI literacy and year of study](female-higher-learning-agency-genai-contexts.md) — related
 - [Gender is associated with small differences in GenAI use, literacy, and monitoring, while educational level shows no significant differences](gender-small-differences-genai-use.md) — related

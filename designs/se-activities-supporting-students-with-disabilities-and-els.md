@@ -17,7 +17,7 @@ sources:
 # Seven activity types by which SE grantees equip subgrantees to serve students with disabilities and English learners
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 From open-ended survey responses, the report tallies seven activity types grantees used to ensure subgrantees can serve all students: technical assistance, partnering with the SEA, monitoring and audits, training, application requirements, contracted services, and dissemination. It states "Eleven of 19 SE grantees reported providing TA to the subgrantees." Activities were similar for both student populations, with only the topics changing, so results are reported in aggregate.
@@ -38,8 +38,6 @@ From open-ended survey responses, the report tallies seven activity types grante
 
 ### Claims
 
-- [Se Grantees Ta Funds Students With Disabilities Els](../claims/se-grantees-ta-funds-students-with-disabilities-els.md) [+M]
-- [Reported activities for serving students with disabilities and ELs may under-represent grantee activity because of the data collection method](../claims/open-ended-ta-reporting-underrepresents-activities.md) [~W]
 
 ## Related Designs
 

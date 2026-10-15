@@ -16,7 +16,7 @@ sources:
 # Three mechanisms through which early warning indicators drive improvements in student performance
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article organizes the use of ninth-grade early warning indicators around three mechanisms: focusing conversations and efforts on actionable problems, identifying students for intervention, and using indicator patterns to address low performance strategically. It states these are "three ways in which early warning indicators are useful for improving student achievement" and illustrates each with examples from Chicago high schools using data tools.
@@ -37,9 +37,6 @@ The article organizes the use of ninth-grade early warning indicators around thr
 
 ### Claims
 
-- [Ontrack Data Tools Changed Staff Interactions](../claims/ontrack-data-tools-changed-staff-interactions.md) [+M]
-- [On-track rates in Chicago improved over time alongside indicator-based data tool use](../claims/chicago-ontrack-rates-improved-over-time.md) [+W]
-- [Knowledge of the on-track indicator and its use in district accountability were not enough to change school practice](../claims/ontrack-knowledge-accountability-insufficient-practice-change.md) [+W]
 
 ## Related Theories
 - 

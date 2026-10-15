@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2` · `i2` medium
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i2` Li's (2010) meta-analysis found a medium overall effect for corrective feedback (d = 0.64) that was maintained over time. [→ Yousefi 2021](#yousefi-2021)
@@ -65,8 +66,8 @@ The review reports two findings from the same meta-analysis: explicit feedback b
 - [Corrective feedback on second-language errors has a significant effect on L2 development that is maintained on delayed tests](corrective-feedback-effect-on-l2-development-is-significant-and-durable.md) — related
 - [Metalinguistic feedback's gains on wh-question performance decline over a ten-day delay while recast gains hold, leaving the two no different](recasts-more-enduring-than-metalinguistic-feedback.md) — reports the opposite
 - [The literature is supportive of recasts, but recast effectiveness varies with the language area and learner knowledge, focus, and aptitudes](recasts-supported-but-effectiveness-varies.md) — related
-- [Prior meta-analyses of feedback (Li 2010; Kang & Han 2015; Van der Kleij et al. 2015) reported positive effects but none was devoted entirely to feedback in CALL](prior-feedback-meta-analyses-gap-call.md) — possibly the same claim (merge candidate)
-- [Explicit corrective feedback outperformed implicit feedback and control conditions for third-semester Spanish learners' pragmatic performance](explicit-cf-outperforms-implicit-spanish-pragmatics.md) — a narrower finding that bears on this claim
+- Prior meta-analyses of feedback (Li 2010; Kang & Han 2015; Van der Kleij et al. 2015) reported positive effects but none was devoted entirely to feedback in CALL — possibly the same claim (merge candidate)
+- Explicit corrective feedback outperformed implicit feedback and control conditions for third-semester Spanish learners' pragmatic performance — a narrower finding that bears on this claim
 - [All four written CF types, including metalinguistic code CF, outperformed the control group on the delayed posttest of explicit L2 knowledge two weeks later.](cf-type-explicit-long-term-benefits.md) — a narrower finding that bears on this claim
 - [On the immediate posttest of explicit L2 knowledge, direct CF and metalinguistic CF with rule explanations outperformed the control group while metalinguistic code CF did not.](cf-type-explicit-short-term-differences.md) — related
 - [All four written CF types, including metalinguistic code CF, outperformed the control group on the delayed posttest of implicit L2 knowledge.](cf-type-implicit-long-term-benefits.md) — a narrower finding that bears on this claim

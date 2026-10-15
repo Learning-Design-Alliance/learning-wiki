@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` In the workbook's field-testing procedure, the student field test is gated on a satisfactory evaluation of staff competency attainment. [→ Huenecke 1975](#huenecke-1975)
@@ -43,4 +44,4 @@ This is a procedural prescription from the workbook's field-testing section, pre
 
 
 ## Related Claims
-- [Simulation allows the expense and effect of a policy change to be evaluated before implementation](simulation-evaluates-policy-change-before-implementation.md) — related
+- Simulation allows the expense and effect of a policy change to be evaluated before implementation — related

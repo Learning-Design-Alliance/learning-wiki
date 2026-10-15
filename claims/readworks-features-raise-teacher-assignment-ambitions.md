@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: tare-2019
-    resource: "https://digitalpromise.dspacedirect.org/items/82839c44-adb1-400c-b422-9bfbbca65985"
-    title: "Tare, M. & Shell, A. R. (2019). Designing for learner variability: Examining the impact of research-based edtech in the classroom. Washington, DC: Digital Promise Global. https://digitalpromise.dspacedirect.org/items/82839c44-adb1-400c-b422-9bfbbca65985"
+    resource: "https://doi.org/10.51388/20.500.12265/81"
+    title: "Tare, M. & Shell, A. R. (2019). Designing for learner variability: Examining the impact of research-based edtech in the classroom. Washington, DC: Digital Promise Global. https://digitalpromise.dspacedirect.org/items/82839c44-adb1-400c-b422-9bfbbca65985 [doi:10.51388/20.500.12265/81](https://doi.org/10.51388/20.500.12265/81)"
     author: "Tare, M. & Shell, A. R."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Tare 2019
 
-Tare, M. & Shell, A. R. (2019). Designing for learner variability: Examining the impact of research-based edtech in the classroom. Washington, DC: Digital Promise Global. https://digitalpromise.dspacedirect.org/items/82839c44-adb1-400c-b422-9bfbbca65985
+Tare, M. & Shell, A. R. (2019). Designing for learner variability: Examining the impact of research-based edtech in the classroom. Washington, DC: Digital Promise Global. https://digitalpromise.dspacedirect.org/items/82839c44-adb1-400c-b422-9bfbbca65985 [doi:10.51388/20.500.12265/81](https://doi.org/10.51388/20.500.12265/81)
 
 `q2 · i?` · `design · r2`
 
@@ -48,4 +48,4 @@ Two overarching survey questions about the feature suite, asked of national surv
 - [Using at least one feature raised students' multiple choice question attempt rate to 89 percent and eliminated the drop on hard assignments, with a significant feature-use × difficulty interaction](readworks-feature-use-engagement-attempts.md) — related
 - [Feature use was widespread across student groups (92% of students used at least one feature; 75% of assignments included feature use), with no differences by STAR score, special education status, or income, but substantial variation across teachers](readworks-feature-use-broad-equitable-teacher-variation.md) — related
 - [Feature use related to a slight increase in multiple choice accuracy, larger for lower-Lexile students and for easier articles](readworks-feature-use-accuracy-gains.md) — related
-- [About 31 percent of surveyed teachers report being extremely or very likely to try micro-credentials once introduced to the idea, with another 34 percent somewhat interested](teachers-intent-try-micro-credentials-survey.md) — related
+- About 31 percent of surveyed teachers report being extremely or very likely to try micro-credentials once introduced to the idea, with another 34 percent somewhat interested — related

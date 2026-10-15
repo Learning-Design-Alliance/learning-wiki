@@ -45,7 +45,7 @@ Cohort technical findings on speech detection, reported in Table 5. Projects suc
 - [Educators report ASR features can be inaccurate for learners' diverse accents, dialects, and speech patterns](asr-inaccuracy-diverse-accents.md) — related
 - [Four themes of difficulty in textbook listening activities emerge for both groups: speech rate, speaker's accent, word meaning, and time pressure](four-difficulty-themes-textbook-listening.md) — related
 - [Educators identify real-time translation, dialect handling, and speech recognition as potentially transformative for multilingual learners and students with disabilities, but current speech tools fail on accents and dialects](ai-multilingual-disability-speech-tool-gaps.md) — related
-- [Language models exhibit dialect prejudice against speakers of African American English](language-models-dialect-prejudice-aae.md) — related
+- Language models exhibit dialect prejudice against speakers of African American English — related
 - [Pre-deep-learning speech recognition was markedly less accurate on non-native speech, undermining automated oral feedback for learners, as the article reports citing prior studies](asr-accuracy-drop-non-native-learner-speech.md) — related
 - [CoBi's speech-based pipeline is technically feasible in noisy middle school classrooms, with visualizations updating in 10-second intervals](cobi-technical-feasibility-classrooms.md) — related
 - [In offline validation, the HMM timing model detected children's attention moments more accurately than fixed-interval and dwell-time triggers](hmm-timing-outperforms-fixed-and-dwell-triggers.md)

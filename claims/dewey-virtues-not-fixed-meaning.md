@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` For Dewey, each virtue's meaning changes with social and physical environments, virtues are not isolated from each other, and no virtue can be taught separately from the concrete situation. [→ Xiangdong Liu 2014](#xiangdong-liu-2014)

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: shuang-geng-2026
-    resource: "https://arxiv.org/abs/2607.28710"
-    title: "Shuang Geng, Helen Lallos-Harrell, Jiya Ashar, Thomas J. McKenna, Annwesa Dasgupta, Caleb Farny, and Emma Lejeune. (2026). Structured AI Demonstrations and Student LLM Use in Engineering Mechanics: Study Design and Preliminary Results. https://arxiv.org/abs/2607.28710"
+    resource: "https://doi.org/10.48550/arxiv.2607.28710"
+    title: "Shuang Geng, Helen Lallos-Harrell, Jiya Ashar, Thomas J. McKenna, Annwesa Dasgupta, Caleb Farny, and Emma Lejeune. (2026). Structured AI Demonstrations and Student LLM Use in Engineering Mechanics: Study Design and Preliminary Results. https://arxiv.org/abs/2607.28710 [doi:10.48550/arxiv.2607.28710](https://doi.org/10.48550/arxiv.2607.28710)"
     author: Shuang Geng, Helen Lallos-Harrell, Jiya Ashar, Thomas J. McKenna, Annwesa Dasgupta, Caleb Farny, and Emma Lejeune
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Shuang Geng 2026
 
-Shuang Geng, Helen Lallos-Harrell, Jiya Ashar, Thomas J. McKenna, Annwesa Dasgupta, Caleb Farny, and Emma Lejeune. (2026). Structured AI Demonstrations and Student LLM Use in Engineering Mechanics: Study Design and Preliminary Results. https://arxiv.org/abs/2607.28710
+Shuang Geng, Helen Lallos-Harrell, Jiya Ashar, Thomas J. McKenna, Annwesa Dasgupta, Caleb Farny, and Emma Lejeune. (2026). Structured AI Demonstrations and Student LLM Use in Engineering Mechanics: Study Design and Preliminary Results. https://arxiv.org/abs/2607.28710 [doi:10.48550/arxiv.2607.28710](https://doi.org/10.48550/arxiv.2607.28710)
 
 `q2 · i?` · `associational · r1`
 

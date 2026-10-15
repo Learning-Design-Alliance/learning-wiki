@@ -18,7 +18,7 @@ sources:
 # Collective Concept Mapping
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 2 studies (1 design, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A group activity in which members pool individual interpretations to construct shared concept maps representing conceptions agreed upon by the group, making the interaction between individual and group knowledge visible. In the documented practice, "two collective concept maps were created from group contributions" on the concept of extracurricular activity, after participants questioned one another's conceptions.
@@ -42,8 +42,6 @@ A group activity in which members pool individual interpretations to construct s
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [An ICAP theory article reports, second-hand and without describing the design, a study in which concept mapping with a peer enhanced learning more than concept mapping alone](../claims/interactive-beats-constructive-concept-mapping.md) [+W]
-- [A map risks becoming a new metanarrative unless it is continually remapped and readers actively construct their own maps](../claims/remapping-prevents-map-as-metanarrative.md) [~W]
-- [Reader interactions with the maps produced divergent interpretations, illustrating inclusion of readers in the hermeneutic circle](../claims/reader-interpretations-open-hermeneutic-circle.md) [+W]
 
 ## Related Elements
 

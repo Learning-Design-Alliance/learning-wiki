@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` For participants who had faced barriers such as age or lack of postsecondary training, successful completion of the program significantly increased their confidence and self-esteem, and learning English and workplace contact supported settlement and integration. [→ Ping Wong 2001](#ping-wong-2001)
@@ -44,13 +45,13 @@ Interview-theme analysis of identity and wellbeing outcomes for Anna and Rita, w
 
 
 ## Related Claims
-- [Completing a combined ESL and healthcare-skills training program improved immigrants' employment prospects, but numerous employment barriers persisted even for those with relevant experience](esl-skills-training-improves-employment-but-barriers-persist.md) — related
-- [Participants perceived their English had improved through the program, and this increased their independence in job searching, services, and community interaction](esl-training-increased-independence-english-use.md) — possibly the same claim (merge candidate)
-- [Even after training, participants had limited opportunities to use English outside work, and some workplaces were predominantly non-English](limited-english-use-opportunities-after-training.md) — related
+- Completing a combined ESL and healthcare-skills training program improved immigrants' employment prospects, but numerous employment barriers persisted even for those with relevant experience — related
+- Participants perceived their English had improved through the program, and this increased their independence in job searching, services, and community interaction — possibly the same claim (merge candidate)
+- Even after training, participants had limited opportunities to use English outside work, and some workplaces were predominantly non-English — related
 - [The package claims minimal technical English limits workplace training through comprehension, confidence and written-form difficulties](minimal-technical-english-limits-training.md) — related
 - [Service-learning within integrated projects is associated with improvements in students' self-efﬁcacy, self-esteem, social responsibility, and community participation](service-learning-improves-civic-and-personal-outcomes.md) — related
 - [Reviewed studies report experiential learning benefits for engagement, skills, confidence and outcomes in human services education](experiential-learning-engagement-skills-ethical-reasoning.md) — related
 - [The most cited barriers to adult learning are situational, but adults also face internal barriers such as low confidence in their ability to learn](adult-learner-barriers-situational-and-internal.md) — related
-- [Educators grew more confident supporting student autonomy and leading media production through the program](360-filmmakers-challenge-educator-confidence-autonomy.md) — related
-- [Briya adult learners showed high rates of employment entry, retention, or postsecondary entry](briya-adult-employment-outcomes.md) — related
+- Educators grew more confident supporting student autonomy and leading media production through the program — related
+- Briya adult learners showed high rates of employment entry, retention, or postsecondary entry — related
 - [About 750 contact hours of high school ESL support can have a tangible effect toward the postsecondary threshold](750-contact-hours-esl-support-tangible-effect.md) — related

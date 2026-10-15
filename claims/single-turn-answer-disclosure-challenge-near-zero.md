@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: rima-hazra-2026
-    resource: "https://arxiv.org/abs/2603.17373"
-    title: "Rima Hazra, Bikram Ghuku, Ilona Marchenko, Yaroslava Tokarieva, Sayan Layek, Somnath Banerjee, Julia Stoyanovich, Mykola Pechenizkiy. (2026). SAFETUTORS: Benchmarking Pedagogical Safety in AI Tutoring Systems. arXiv preprint. https://arxiv.org/abs/2603.17373"
+    resource: "https://doi.org/10.48550/arxiv.2603.17373"
+    title: "Rima Hazra, Bikram Ghuku, Ilona Marchenko, Yaroslava Tokarieva, Sayan Layek, Somnath Banerjee, Julia Stoyanovich, Mykola Pechenizkiy. (2026). SAFETUTORS: Benchmarking Pedagogical Safety in AI Tutoring Systems. arXiv preprint. https://arxiv.org/abs/2603.17373 [doi:10.48550/arxiv.2603.17373](https://doi.org/10.48550/arxiv.2603.17373)"
     author: Rima Hazra, Bikram Ghuku, Ilona Marchenko, Yaroslava Tokarieva, Sayan Layek, Somnath Banerjee, Julia Stoyanovich, Mykola Pechenizkiy
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Single-turn tutors disclose answers pervasively while challenge scores are near zero across every model and subject
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Answer disclosure is pervasive in single-turn responses, particularly in Chemistry where Qwen2.5-72B gives away answers in 37.9% of responses. [→ Rima Hazra 2026](#rima-hazra-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Rima Hazra 2026
 
-Rima Hazra, Bikram Ghuku, Ilona Marchenko, Yaroslava Tokarieva, Sayan Layek, Somnath Banerjee, Julia Stoyanovich, Mykola Pechenizkiy. (2026). SAFETUTORS: Benchmarking Pedagogical Safety in AI Tutoring Systems. arXiv preprint. https://arxiv.org/abs/2603.17373
+Rima Hazra, Bikram Ghuku, Ilona Marchenko, Yaroslava Tokarieva, Sayan Layek, Somnath Banerjee, Julia Stoyanovich, Mykola Pechenizkiy. (2026). SAFETUTORS: Benchmarking Pedagogical Safety in AI Tutoring Systems. arXiv preprint. https://arxiv.org/abs/2603.17373 [doi:10.48550/arxiv.2603.17373](https://doi.org/10.48550/arxiv.2603.17373)
 
 `q2 · i?` · `design · r2`
 

@@ -16,7 +16,7 @@ sources:
 # Generative learning as actively making sense of information via eight learning strategies
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The chapter adopts Fiorella and Mayer's account of generative learning as learning that involves "actively making sense of to-be-learned information by mentally reorganizing and integrating it with one's prior knowledge, thereby enabling learners to apply what they have learned to new situations". It enumerates eight strategies: summarizing, making concept/knowledge maps or graphic organizers, creating drawings or mental images, answering practice questions, self-explanation, teaching others, physical motions like gestures and object manipulations, and generating predictions or questions. The chapter explores whether GenAI can help teachers design activities embodying these strategies and support teachers and students in carrying them out.
@@ -37,7 +37,6 @@ The chapter adopts Fiorella and Mayer's account of generative learning as learni
 
 ### Claims
 
-- [Teachers Appreciate Chatgpt Generative Learning Affordances](../claims/teachers-appreciate-chatgpt-generative-learning-affordances.md) [+M]
 - [Mathematics teachers critique ChatGPT-generated generative learning lessons for poor fit to students, boredom, preparation time, missing student-facing materials, mathematical flaws, and required materials](../claims/teachers-critique-chatgpt-lesson-output.md) [~W]
 
 ## Related Theories

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: shihao-wang-2026
-    resource: "https://arxiv.org/abs/2609.29874"
-    title: "Shihao Wang. (2026). A Risk-Adaptive and Evidence-Constrained Framework for Generative AI Feedback in Programming Education. https://arxiv.org/abs/2609.29874"
+    resource: "https://doi.org/10.48550/arxiv.2609.29874"
+    title: "Shihao Wang. (2026). A Risk-Adaptive and Evidence-Constrained Framework for Generative AI Feedback in Programming Education. https://arxiv.org/abs/2609.29874 [doi:10.48550/arxiv.2609.29874](https://doi.org/10.48550/arxiv.2609.29874)"
     author: Shihao Wang
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Shihao Wang 2026
 
-Shihao Wang. (2026). A Risk-Adaptive and Evidence-Constrained Framework for Generative AI Feedback in Programming Education. https://arxiv.org/abs/2609.29874
+Shihao Wang. (2026). A Risk-Adaptive and Evidence-Constrained Framework for Generative AI Feedback in Programming Education. https://arxiv.org/abs/2609.29874 [doi:10.48550/arxiv.2609.29874](https://doi.org/10.48550/arxiv.2609.29874)
 
 `q2 · i?` · `design · r2`
 
@@ -44,5 +44,5 @@ Paired bootstrap model comparison on the student-disjoint test set for persisten
 
 ## Related Claims
 - [Secondary outcomes differed in predictability: near-term related-task performance was hardest while 7–28-day performance showed a longitudinal signal](secondary-outcomes-varied-predictability.md) — related
-- [Simple classifiers (Logistic Regression, Naive Bayes) outperformed tree-based models on this small dataset](simple-classifiers-beat-tree-based-cheating-risk.md) — related
+- Simple classifiers (Logistic Regression, Naive Bayes) outperformed tree-based models on this small dataset — related
 - [Current-submission evidence and prior traces predict near-term persistent failure with moderate discrimination under student-disjoint evaluation](persistent-failure-moderate-discrimination-student-disjoint.md) — related

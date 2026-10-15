@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: ruqi-sun-2026
-    resource: "https://arxiv.org/abs/2608.09698"
-    title: "Ruqi Sun, Jiaping Li, Wenhui Tao, Ximing Zheng, Yuefeng Tan, Jiahao Wei, and Yuxin Ma. (2026). VeriForge: Mitigating Latent Knowledge Gaps in Narrative Drafting via Mixed-Initiative Scaffolding. https://arxiv.org/abs/2608.09698"
+    resource: "https://doi.org/10.48550/arxiv.2608.09698"
+    title: "Ruqi Sun, Jiaping Li, Wenhui Tao, Ximing Zheng, Yuefeng Tan, Jiahao Wei, and Yuxin Ma. (2026). VeriForge: Mitigating Latent Knowledge Gaps in Narrative Drafting via Mixed-Initiative Scaffolding. https://arxiv.org/abs/2608.09698 [doi:10.48550/arxiv.2608.09698](https://doi.org/10.48550/arxiv.2608.09698)"
     author: Ruqi Sun, Jiaping Li, Wenhui Tao, Ximing Zheng, Yuefeng Tan, Jiahao Wei, and Yuxin Ma
     q: 2
     i: 3
@@ -30,7 +30,7 @@ sources:
 # Proactive flow-aware highlighting helps fiction writers recognize latent knowledge gaps they would not search for on their own
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r1` · `q2` · `i3` large
+> **Evidence** · 2 studies · 2 causal `r1` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Participants rated VeriForge's blind-spot alerting significantly higher than the strengthened baseline (M=6.33 vs M=3.00; r=.885), with 11 of 12 scoring VeriForge higher, surviving FDR correction. [→ Ruqi Sun 2026](#ruqi-sun-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Ruqi Sun 2026
 
-Ruqi Sun, Jiaping Li, Wenhui Tao, Ximing Zheng, Yuefeng Tan, Jiahao Wei, and Yuxin Ma. (2026). VeriForge: Mitigating Latent Knowledge Gaps in Narrative Drafting via Mixed-Initiative Scaffolding. https://arxiv.org/abs/2608.09698
+Ruqi Sun, Jiaping Li, Wenhui Tao, Ximing Zheng, Yuefeng Tan, Jiahao Wei, and Yuxin Ma. (2026). VeriForge: Mitigating Latent Knowledge Gaps in Narrative Drafting via Mixed-Initiative Scaffolding. https://arxiv.org/abs/2608.09698 [doi:10.48550/arxiv.2608.09698](https://doi.org/10.48550/arxiv.2608.09698)
 
 `q2 · i3` · `causal · r1`
 

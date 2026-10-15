@@ -108,9 +108,9 @@ The underlying mechanism these three findings share is that a heritage language,
 - [Italian grammatical gender stays incompletely mastered by L2 learners and heritage speakers alike, and a gendered first language helps only conditionally.](italian-gender-stays-incomplete-for-l2-and-heritage-speakers.md) — related
 - [Teacher repetition and translation as unplanned scaffolding can hinder rather than facilitate learning](repetition-translation-scaffolding-hinders-learning.md) — related
 - [Rizal Experiment showed literacy achieved more quickly in local and national languages but finding glossed over](rizal-experiment-local-language-faster-literacy.md) — related
-- [Adults may have superior language learning capabilities in vocabulary and language structure](adults-superior-vocabulary-structure-learning.md) — related
-- [Meta-analyses consistently validate extensive reading benefits across languages and populations, with program length as a moderator](meta-analyses-validate-extensive-reading-benefits-length-moderates.md) — related
-- [Bilingual children acquire vocabulary and syntax in each language more slowly than monolingual children, yet show cognitive advantages and can match or surpass monolingual peers with support](bilingual-vocabulary-syntax-slower-with-cognitive-advantages.md) — related
+- Adults may have superior language learning capabilities in vocabulary and language structure — related
+- Meta-analyses consistently validate extensive reading benefits across languages and populations, with program length as a moderator — related
+- Bilingual children acquire vocabulary and syntax in each language more slowly than monolingual children, yet show cognitive advantages and can match or surpass monolingual peers with support — related
 - [Small-scale studies suggest age 15-16 with intermediate English proficiency (reading GE 5) is a good immigration age](arrival-age-15-16-ge5-good-immigration-age.md) — related
 - [Older-arriving ESL learners transfer L1 knowledge efficiently, but learning slows once they outgrow their L1](l1-transfer-efficient-until-outgrown.md) — related
 - [Native-speaker children have about 2,500 words at school entry and vocabulary growth becomes exponential once independent reading begins](ns-vocabulary-2500-entry-exponential-growth.md) — related

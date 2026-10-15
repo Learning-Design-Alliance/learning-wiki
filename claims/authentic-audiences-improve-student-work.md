@@ -92,7 +92,7 @@ A review of research on the cognitive and social processes of writing, conceptio
 | virtual-showcase | q1 · design · r2 | i? | [Public capstone ePortfolio showcases gave students an authentic audience and renewed energ](public-capstone-epportfolio-showcase-audience-effect.md) (supports) |
 | Yu-Ling You; Shih-Guey Joe 2001 | q2 · qualitative · r2 | i? | [Skilled EFL writers possess audience awareness, keeping readers in mind to judge whether t](skilled-writers-audience-awareness.md) (supports) |
 | de Beaugrande 1977 | q1 · theoretical · r3 | i? | [The prior knowledge of the intended audience determines a text's information density, rate](audience-prior-knowledge-determines-information-density.md) (qualifies) |
-| Jiaojiao Zhao 2026 | q1 · qualitative · r1 | i? | [Presenting prototypes to community partners created a sense of accountability among studen](community-presentation-created-accountability-pressure.md) (supports) |
+| [Jiaojiao Zhao 2026](https://doi.org/10.48550/arxiv.2606.09041) | q1 · qualitative · r1 | i? | [Presenting prototypes to community partners created a sense of accountability among studen](community-presentation-created-accountability-pressure.md) (supports) |
 | [Sturgill 2014](https://doi.org/10.20343/teachlearninqu.2.1.81) | q2 · causal · r1 | i? | [Public versus private reflection shows mixed effects: private journals are more analytic/i](public-vs-private-reflection-mixed.md) (qualifies) |
 | [Kahn & Hall 2026](https://doi.org/10.1080/10508406.2026.2624531) | q2 · design · r2 | i? | [Personal connection to data supports critical data-literacy stance-taking](personal-connection-to-data-supports-critical-data-literacy-stance-taking.md) (qualifies) |
 <!-- synthesis:end -->

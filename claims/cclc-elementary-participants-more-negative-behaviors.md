@@ -19,8 +19,8 @@ sources:
     kind: causal
     rigour: "?"
   - id: susanne-james-burdumy-2007
-    resource: "https://www.mathematica.org/publications/journal-article-when-elementary-schools-stay-open-late-results-from-the-national-evaluation"
-    title: "Susanne James-Burdumy, Mark Dynarski, John Deke. (2007). When Elementary Schools Stay Open Late: Results from The National Evaluation of the 21st-Century Community Learning Centers Program. Educational Evaluation and Policy Analysis, vol. 29, no. 4. https://www.mathematica.org/publications/journal-article-when-elementary-schools-stay-open-late-results-from-the-national-evaluation"
+    resource: "https://doi.org/10.3102/0162373707309077"
+    title: "Susanne James-Burdumy, Mark Dynarski, John Deke. (2007). When Elementary Schools Stay Open Late: Results from The National Evaluation of the 21st-Century Community Learning Centers Program. Educational Evaluation and Policy Analysis, vol. 29, no. 4. https://www.mathematica.org/publications/journal-article-when-elementary-schools-stay-open-late-results-from-the-national-evaluation [doi:10.3102/0162373707309077](https://doi.org/10.3102/0162373707309077)"
     author: Susanne James-Burdumy, Mark Dynarski, John Deke
     q: 3
     i: "?"
@@ -53,7 +53,7 @@ The evaluation's summary states elementary participants "were more likely to eng
 
 ### Susanne James-Burdumy 2007
 
-Susanne James-Burdumy, Mark Dynarski, John Deke. (2007). When Elementary Schools Stay Open Late: Results from The National Evaluation of the 21st-Century Community Learning Centers Program. Educational Evaluation and Policy Analysis, vol. 29, no. 4. https://www.mathematica.org/publications/journal-article-when-elementary-schools-stay-open-late-results-from-the-national-evaluation
+Susanne James-Burdumy, Mark Dynarski, John Deke. (2007). When Elementary Schools Stay Open Late: Results from The National Evaluation of the 21st-Century Community Learning Centers Program. Educational Evaluation and Policy Analysis, vol. 29, no. 4. https://www.mathematica.org/publications/journal-article-when-elementary-schools-stay-open-late-results-from-the-national-evaluation [doi:10.3102/0162373707309077](https://doi.org/10.3102/0162373707309077)
 
 `q3 · i?` · `causal · r?`
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: mixed
 sources:
   - id: chiara-marcoccia-2026
-    resource: "https://osf.io/nwx6r/overview?view_only=a03ae0ca587c4c84a442c44d55ab97b6"
-    title: "Chiara Marcoccia, Walter Quattrociocchi, Valerio Capraro. (2026). AI advice suppresses people's willingness to say \"I don't know\", even when the advice is wrong and accuracy is incentivized. https://osf.io/nwx6r/overview?view_only=a03ae0ca587c4c84a442c44d55ab97b6"
+    resource: "https://doi.org/10.31234/osf.io/5y6m4_v1"
+    title: "Chiara Marcoccia, Walter Quattrociocchi, Valerio Capraro. (2026). AI advice suppresses people's willingness to say \"I don't know\", even when the advice is wrong and accuracy is incentivized. https://osf.io/nwx6r/overview?view_only=a03ae0ca587c4c84a442c44d55ab97b6 [doi:10.31234/osf.io/5y6m4_v1](https://doi.org/10.31234/osf.io/5y6m4_v1)"
     author: Chiara Marcoccia, Walter Quattrociocchi, Valerio Capraro
     q: 3
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Monetary incentives for accuracy improve answer correctness specifically when AI advice is available, by reducing reliance on that advice
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r3` · `q3`
+> **Evidence** · 2 studies · 2 causal `r3` · `q3`
 
 ## Subclaims
 `q3 i?` In Study 3, the stakes × AI interaction on correctness was significant: stakes raised correctness with AI advice (0.11 vs. 0.16) but not without it (0.28 vs. 0.27). [→ Chiara Marcoccia 2026](#chiara-marcoccia-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Chiara Marcoccia 2026
 
-Chiara Marcoccia, Walter Quattrociocchi, Valerio Capraro. (2026). AI advice suppresses people's willingness to say "I don't know", even when the advice is wrong and accuracy is incentivized. https://osf.io/nwx6r/overview?view_only=a03ae0ca587c4c84a442c44d55ab97b6
+Chiara Marcoccia, Walter Quattrociocchi, Valerio Capraro. (2026). AI advice suppresses people's willingness to say "I don't know", even when the advice is wrong and accuracy is incentivized. https://osf.io/nwx6r/overview?view_only=a03ae0ca587c4c84a442c44d55ab97b6 [doi:10.31234/osf.io/5y6m4_v1](https://doi.org/10.31234/osf.io/5y6m4_v1)
 
 `q3 · i?` · `causal · r3`
 

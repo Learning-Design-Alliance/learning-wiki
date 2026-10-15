@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` The earlier Sak & Oz (2009) study reported significant gains on poem and story tasks but a low effect on the paradox(es) task. [→ Akar 2013](#akar-2013)
@@ -44,6 +45,6 @@ The article reports, citing Sak & Oz (2009), a one group pretest-posttest study 
 
 ## Related Claims
 - [Twenty-three 5th graders' creativity scores rise after nine CREACT drawing-arts lessons in a one-group pretest-posttest study without a control group (effect size .71)](creact-improves-creative-thinking-drawing-arts.md) — related
-- [No significant interaction between gender and CREACT on pretest or posttest creative performance](creact-no-gender-interaction.md) — related
+- No significant interaction between gender and CREACT on pretest or posttest creative performance — related
 - [Short-term creativity interventions can be effective in changing creativity positively](short-term-interventions-change-creativity.md) — a broader claim this one bears on
-- [Critical thinking gains were significant for creative critical thought but not for logic and reasoning](ideation-discussion-creative-thought-gains-not-logic.md) — related
+- Critical thinking gains were significant for creative critical thought but not for logic and reasoning — related

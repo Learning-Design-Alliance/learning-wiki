@@ -61,14 +61,14 @@ Evaluation of the Chicago double-dose algebra policy reports an organizational s
 
 ## Related Claims
 
-- [Chicago's algebra-for-all policy led schools to create more mixed-ability math classrooms when eliminating remedial classes](algebra-for-all-created-mixed-ability-classrooms.md) — reports the opposite
-- [Peer skill levels declined for high-skill students in algebra classrooms after the policy](algebra-for-all-peer-skill-declined-high-skill.md) — related
+- Chicago's algebra-for-all policy led schools to create more mixed-ability math classrooms when eliminating remedial classes — reports the opposite
+- Peer skill levels declined for high-skill students in algebra classrooms after the policy — related
 - [Double-dose algebra policy increased academic demand for both high- and low-skill students, with below-norm students' gains not attributable to peer ability changes](double-dose-algebra-increased-academic-demand-both-groups.md) — related
 - [Tracking intensified concentration of behavioral and absentee problems in double-dose algebra classes, explained by declines in peer ability](double-dose-concentrated-behavioral-problems.md) — related
 - [Evidence on the policy's effects on 10th-grade geometry outcomes was inconsistent across groups and years](double-dose-geometry-outcomes-inconsistent.md) — related
 - [Chicago's double-dose algebra policy raised algebra test scores for both low-skill and high-skill students](double-dose-algebra-raised-test-scores-both-skill-groups.md) — related
 - [Algebra failure rates rose post-policy for above-norm students (~3 percentage points) but fell for below-norm students (~4 points), largely explained by classroom environment and peer ability](double-dose-failure-rates-divergent.md) — related
 - [Interactive pedagogy increased nearly half a standard deviation for below-norm students in homogeneous double-dose algebra classes](interactive-pedagogy-increased-below-norm.md) — related
-- [Extended learning time interventions, including week-long acceleration academies with highly effective teachers and some double-dose math structures, show strong evidence of effectiveness](extended-learning-time-academies-double-dose-math-effective.md) — related
+- Extended learning time interventions, including week-long acceleration academies with highly effective teachers and some double-dose math structures, show strong evidence of effectiveness — related
 - [Grade retention and tracking students into remedial instruction undermine achievement, while formative assessment with acceleration strategies improves learning](retention-and-downtracking-undermine-achievement.md) — related
 - [Between- or within-class homogeneous ability grouping has a small negative effect on low-ability primary students but no effect on other students](homogeneous-ability-grouping-negative-low-ability.md) — related

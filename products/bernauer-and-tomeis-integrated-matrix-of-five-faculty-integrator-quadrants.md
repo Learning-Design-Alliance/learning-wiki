@@ -18,7 +18,7 @@ sources:
 # Bernauer and Tomei's integrated matrix of five faculty integrator quadrants
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 A higher-education faculty-development framework that organizes competencies, objectives, and teaching practices into five stages of pedagogical and technology integration, from apprentice to master integrator.
@@ -27,7 +27,6 @@ A higher-education faculty-development framework that organizes competencies, ob
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [PjBL courses in the studied program spanned multiple matrix quadrants, with no Fixed-Individualistic courses](../claims/pjbl-courses-span-multiple-quadrants.md) [+W]
 
 ## Related Products and Programmes
 
@@ -63,7 +62,6 @@ The integrated matrix is a framework described as an architectonics of the compe
 
 ### Claims
 <!- - Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] - ->
-- [PjBL courses in the studied program spanned multiple matrix quadrants, with no Fixed-Individualistic courses](../claims/pjbl-courses-span-multiple-quadrants.md) [+W]
 
 ## Related Elements
 

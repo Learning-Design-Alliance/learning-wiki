@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: johanna-lacoe-2018
-    resource: "https://www.mathematica.org/publications/rolling-back-zero-tolerance-the-effect-of-discipline-policy-reform-on-suspension-usage-and-student"
-    title: "Johanna Lacoe, Matthew P. Steinberg. (2018). Rolling Back Zero Tolerance: The Effect of Discipline Policy Reform on Suspension Usage and Student Outcomes. Peabody Journal of Education, vol. 93, issue 2. https://www.mathematica.org/publications/rolling-back-zero-tolerance-the-effect-of-discipline-policy-reform-on-suspension-usage-and-student"
+    resource: "https://doi.org/10.1080/0161956x.2018.1435047"
+    title: "Johanna Lacoe, Matthew P. Steinberg. (2018). Rolling Back Zero Tolerance: The Effect of Discipline Policy Reform on Suspension Usage and Student Outcomes. Peabody Journal of Education, vol. 93, issue 2. https://www.mathematica.org/publications/rolling-back-zero-tolerance-the-effect-of-discipline-policy-reform-on-suspension-usage-and-student [doi:10.1080/0161956x.2018.1435047](https://doi.org/10.1080/0161956x.2018.1435047)"
     author: Johanna Lacoe, Matthew P. Steinberg
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Johanna Lacoe 2018
 
-Johanna Lacoe, Matthew P. Steinberg. (2018). Rolling Back Zero Tolerance: The Effect of Discipline Policy Reform on Suspension Usage and Student Outcomes. Peabody Journal of Education, vol. 93, issue 2. https://www.mathematica.org/publications/rolling-back-zero-tolerance-the-effect-of-discipline-policy-reform-on-suspension-usage-and-student
+Johanna Lacoe, Matthew P. Steinberg. (2018). Rolling Back Zero Tolerance: The Effect of Discipline Policy Reform on Suspension Usage and Student Outcomes. Peabody Journal of Education, vol. 93, issue 2. https://www.mathematica.org/publications/rolling-back-zero-tolerance-the-effect-of-discipline-policy-reform-on-suspension-usage-and-student [doi:10.1080/0161956x.2018.1435047](https://doi.org/10.1080/0161956x.2018.1435047)
 
 `q3 · i?` · `causal · r?`
 

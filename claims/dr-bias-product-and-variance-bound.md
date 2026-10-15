@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: peilin-zhan-2026
-    resource: "https://arxiv.org/abs/2605.05958"
-    title: "Peilin Zhan, Wei Chen, Weilin Chen, Shuyi Pan, Ruichu Cai. (2026). Temporal Smoothness Doubly Robust Learning for Debiased Knowledge Tracing. https://arxiv.org/abs/2605.05958"
+    resource: "https://doi.org/10.48550/arxiv.2605.05958"
+    title: "Peilin Zhan, Wei Chen, Weilin Chen, Shuyi Pan, Ruichu Cai. (2026). Temporal Smoothness Doubly Robust Learning for Debiased Knowledge Tracing. https://arxiv.org/abs/2605.05958 [doi:10.48550/arxiv.2605.05958](https://doi.org/10.48550/arxiv.2605.05958)"
     author: Peilin Zhan, Wei Chen, Weilin Chen, Shuyi Pan, Ruichu Cai
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Analytically, the DR estimator's bias is bounded by the product of propensity and imputation errors, and its generalization bound contains a variance term scaling with squared imputation error
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Lemma 1 proves the DR estimator is unbiased if either the propensity model or the imputation model is accurate, with bias bounded by the product of the two models' errors. [→ Peilin Zhan 2026](#peilin-zhan-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Peilin Zhan 2026
 
-Peilin Zhan, Wei Chen, Weilin Chen, Shuyi Pan, Ruichu Cai. (2026). Temporal Smoothness Doubly Robust Learning for Debiased Knowledge Tracing. https://arxiv.org/abs/2605.05958
+Peilin Zhan, Wei Chen, Weilin Chen, Shuyi Pan, Ruichu Cai. (2026). Temporal Smoothness Doubly Robust Learning for Debiased Knowledge Tracing. https://arxiv.org/abs/2605.05958 [doi:10.48550/arxiv.2605.05958](https://doi.org/10.48550/arxiv.2605.05958)
 
 `q2 · i?` · `design · r2`
 

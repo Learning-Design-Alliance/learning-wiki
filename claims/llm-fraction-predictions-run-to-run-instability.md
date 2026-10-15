@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: la-hadi-2025
-    resource: "https://arxiv.org/abs/2607.26067"
-    title: "La Hadi, A., Alibasa, M. J., Chen, G., & Asyhari, A. T. (2025). The “Easy Trap”: Why LLMs Underestimate Misconception-Driven Difficulty. https://arxiv.org/abs/2607.26067"
+    resource: "https://doi.org/10.48550/arxiv.2607.26067"
+    title: "La Hadi, A., Alibasa, M. J., Chen, G., & Asyhari, A. T. (2025). The “Easy Trap”: Why LLMs Underestimate Misconception-Driven Difficulty. https://arxiv.org/abs/2607.26067 [doi:10.48550/arxiv.2607.26067](https://doi.org/10.48550/arxiv.2607.26067)"
     author: "La Hadi, A., Alibasa, M. J., Chen, G., & Asyhari, A. T."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### La Hadi 2025
 
-La Hadi, A., Alibasa, M. J., Chen, G., & Asyhari, A. T. (2025). The “Easy Trap”: Why LLMs Underestimate Misconception-Driven Difficulty. https://arxiv.org/abs/2607.26067
+La Hadi, A., Alibasa, M. J., Chen, G., & Asyhari, A. T. (2025). The “Easy Trap”: Why LLMs Underestimate Misconception-Driven Difficulty. https://arxiv.org/abs/2607.26067 [doi:10.48550/arxiv.2607.26067](https://doi.org/10.48550/arxiv.2607.26067)
 
 `q2 · i?` · `associational · r2`
 

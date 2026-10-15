@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: farnaz-baksh-2026
-    resource: "https://arxiv.org/abs/2606.15239"
-    title: "Farnaz Baksh, Matevž B. Zorec, Feiazie Baksh, and Karl Kruusamäe. (2026). Co-Creating Buildable and Open Social Robot Study Companions with University Students. https://arxiv.org/abs/2606.15239"
+    resource: "https://doi.org/10.48550/arxiv.2606.15239"
+    title: "Farnaz Baksh, Matevž B. Zorec, Feiazie Baksh, and Karl Kruusamäe. (2026). Co-Creating Buildable and Open Social Robot Study Companions with University Students. https://arxiv.org/abs/2606.15239 [doi:10.48550/arxiv.2606.15239](https://doi.org/10.48550/arxiv.2606.15239)"
     author: Farnaz Baksh, Matevž B. Zorec, Feiazie Baksh, and Karl Kruusamäe
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # The v4.1 redesign reduced mean developer assembly time from 21.4 to 13.7 minutes, but the first-attempt-only mean was 20.4 minutes, with the further reduction reflecting a junior learning effect
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
+> **Evidence** · 2 studies · 1 causal `r1`, 1 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Assembly times trended downward from 21.4 to 13.7 minutes across versions, compressing the assembly-to-disassembly ratio from 4.3x to 2.9x. [→ Farnaz Baksh 2026](#farnaz-baksh-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Farnaz Baksh 2026
 
-Farnaz Baksh, Matevž B. Zorec, Feiazie Baksh, and Karl Kruusamäe. (2026). Co-Creating Buildable and Open Social Robot Study Companions with University Students. https://arxiv.org/abs/2606.15239
+Farnaz Baksh, Matevž B. Zorec, Feiazie Baksh, and Karl Kruusamäe. (2026). Co-Creating Buildable and Open Social Robot Study Companions with University Students. https://arxiv.org/abs/2606.15239 [doi:10.48550/arxiv.2606.15239](https://doi.org/10.48550/arxiv.2606.15239)
 
 `q2 · i?` · `causal · r1`
 

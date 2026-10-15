@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: s-m-asif-hossain-2026
-    resource: "https://arxiv.org/abs/2607.15738"
-    title: "S M Asif Hossain, Ruksat Khan Shayoni, M. F. Mridha, and Jungpil Shin. (2026). EduGuard: A Safe RAG-Based LLM Tutor for Programming Education. arXiv preprint arXiv:2607.15738. https://arxiv.org/abs/2607.15738"
+    resource: "https://doi.org/10.48550/arxiv.2607.15738"
+    title: "S M Asif Hossain, Ruksat Khan Shayoni, M. F. Mridha, and Jungpil Shin. (2026). EduGuard: A Safe RAG-Based LLM Tutor for Programming Education. arXiv preprint arXiv:2607.15738. https://arxiv.org/abs/2607.15738 [doi:10.48550/arxiv.2607.15738](https://doi.org/10.48550/arxiv.2607.15738)"
     author: S M Asif Hossain, Ruksat Khan Shayoni, M. F. Mridha, and Jungpil Shin
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### S M Asif Hossain 2026
 
-S M Asif Hossain, Ruksat Khan Shayoni, M. F. Mridha, and Jungpil Shin. (2026). EduGuard: A Safe RAG-Based LLM Tutor for Programming Education. arXiv preprint arXiv:2607.15738. https://arxiv.org/abs/2607.15738
+S M Asif Hossain, Ruksat Khan Shayoni, M. F. Mridha, and Jungpil Shin. (2026). EduGuard: A Safe RAG-Based LLM Tutor for Programming Education. arXiv preprint arXiv:2607.15738. https://arxiv.org/abs/2607.15738 [doi:10.48550/arxiv.2607.15738](https://doi.org/10.48550/arxiv.2607.15738)
 
 `q2 · i?` · `design · r2`
 
@@ -44,7 +44,7 @@ Verifier threshold sensitivity analysis on BILearn-CS reported in Table 6 across
 
 ## Related Claims
 - [On the external CS50-Forum set, EduGuard remains strongest with 86.7% correctness and 6.8% hallucination, though all systems lose grounding](eduguard-cs50-forum-generalization.md) — related
-- [Classification threshold trades sensitivity against specificity: 0.30 yields 91.3% sensitivity, 0.60 yields 89.7% specificity](cheating-risk-threshold-sensitivity-tradeoff.md) — related
+- Classification threshold trades sensitivity against specificity: 0.30 yields 91.3% sensitivity, 0.60 yields 89.7% specificity — related
 - [AI hallucination can be turned into a pedagogical resource by making verification and collaborative fact evaluation integral to AI-supported learning](hallucination-as-pedagogical-resource.md) — related
 - [Source-anchored instruction pairs reduce hallucination: they achieve mean Teacher Fidelity 1.4 points higher than non-anchored pairs, and models trained on anchored subsets produce 23% fewer factual hallucinations](source-anchoring-reduces-hallucination-instruction-data.md) — related
 - [Diversity regularization λ = 0.30 was selected from a sensitivity analysis as balancing recommendation relevance and content diversity](diversity-regularization-lambda-030.md) — related

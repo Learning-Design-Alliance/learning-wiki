@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: peters-2018
-    resource: "https://digitalpromise.dspacedirect.org/items/f5ad25ac-1bc9-4a05-9a4e-24c25ab19e8d"
-    title: "Peters, V., Means, B., Langworthy, M., Neufeld, P., Coe, R., Meehan, K., & Smith, S. (2018). Enabling Analytics for Improvement: Lessons from Year 2 of Fresno's Personalized Learning Initiative. Digital Promise. https://digitalpromise.dspacedirect.org/items/f5ad25ac-1bc9-4a05-9a4e-24c25ab19e8d"
+    resource: "https://doi.org/10.51388/20.500.12265/53"
+    title: "Peters, V., Means, B., Langworthy, M., Neufeld, P., Coe, R., Meehan, K., & Smith, S. (2018). Enabling Analytics for Improvement: Lessons from Year 2 of Fresno's Personalized Learning Initiative. Digital Promise. https://digitalpromise.dspacedirect.org/items/f5ad25ac-1bc9-4a05-9a4e-24c25ab19e8d [doi:10.51388/20.500.12265/53](https://doi.org/10.51388/20.500.12265/53)"
     author: "Peters, V., Means, B., Langworthy, M., Neufeld, P., Coe, R., Meehan, K., & Smith, S."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Peters 2018
 
-Peters, V., Means, B., Langworthy, M., Neufeld, P., Coe, R., Meehan, K., & Smith, S. (2018). Enabling Analytics for Improvement: Lessons from Year 2 of Fresno's Personalized Learning Initiative. Digital Promise. https://digitalpromise.dspacedirect.org/items/f5ad25ac-1bc9-4a05-9a4e-24c25ab19e8d
+Peters, V., Means, B., Langworthy, M., Neufeld, P., Coe, R., Meehan, K., & Smith, S. (2018). Enabling Analytics for Improvement: Lessons from Year 2 of Fresno's Personalized Learning Initiative. Digital Promise. https://digitalpromise.dspacedirect.org/items/f5ad25ac-1bc9-4a05-9a4e-24c25ab19e8d [doi:10.51388/20.500.12265/53](https://doi.org/10.51388/20.500.12265/53)
 
 `q2 · i?` · `associational · r2`
 

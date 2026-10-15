@@ -45,9 +45,9 @@ The report's summary of its evaluation findings states that students who receive
 ## Related Claims
 - [The Experience Corps program was found to be a low burden to teachers](ec-program-low-burden-to-teachers.md) — related
 - [Experience Corps had grown to 23 sites with nearly 2,000 tutors serving approximately 20,000 students](experience-corps-scale-2000-tutors-20000-students.md) — related
-- [Education Corps high-dosage literacy tutoring raises end-of-year DIBELS Composite scores more than business-as-usual supports for below-benchmark K-3 students](education-corps-tutoring-improves-dibels-composite.md) — related
-- [Early Steps one-to-one tutoring substantially raises first graders' Word Attack and Passage Comprehension scores (average effect size +0.86)](early-steps-tutoring-improves-word-attack-passage-comprehension.md) — related
-- [Virtual 1:1 and 2:1 high-dosage tutoring improved K-2 students' early literacy performance on DIBELS relative to business-as-usual control](onyourmark-virtual-tutoring-improves-dibels.md) — related
-- [Literacy First tutoring significantly improved grade 2 ITBS passage comprehension in a multisite randomized controlled trial (effect size +0.19)](literacy-first-grade2-itbs-comprehension-effect.md) — related
-- [A randomized controlled trial of Once found no significant effect on end-of-year DIBELS scores when students received well below the intended dosage](once-rct-no-significant-dibels-effect-low-dosage.md) — related
+- Education Corps high-dosage literacy tutoring raises end-of-year DIBELS Composite scores more than business-as-usual supports for below-benchmark K-3 students — related
+- Early Steps one-to-one tutoring substantially raises first graders' Word Attack and Passage Comprehension scores (average effect size +0.86) — related
+- Virtual 1:1 and 2:1 high-dosage tutoring improved K-2 students' early literacy performance on DIBELS relative to business-as-usual control — related
+- Literacy First tutoring significantly improved grade 2 ITBS passage comprehension in a multisite randomized controlled trial (effect size +0.19) — related
+- A randomized controlled trial of Once found no significant effect on end-of-year DIBELS scores when students received well below the intended dosage — related
 - [A funded evaluation of Experience Corps effects on student reading outcomes was conducted by Washington University's Center for Social Development](experience-corps-reading-outcomes-evaluation.md) — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: li-li-2025
-    resource: "https://arxiv.org/abs/2606.09598"
-    title: "Li Li, Yu Cao. (2025). Awareness of Technological Isomorphism: Integrating AI into Elementary Mathematics Teaching on Data and Prediction, A Case Study of the Compound Line Graph. https://arxiv.org/abs/2606.09598"
+    resource: "https://doi.org/10.48550/arxiv.2606.09598"
+    title: "Li Li, Yu Cao. (2025). Awareness of Technological Isomorphism: Integrating AI into Elementary Mathematics Teaching on Data and Prediction, A Case Study of the Compound Line Graph. https://arxiv.org/abs/2606.09598 [doi:10.48550/arxiv.2606.09598](https://doi.org/10.48550/arxiv.2606.09598)"
     author: Li Li, Yu Cao
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Li Li 2025
 
-Li Li, Yu Cao. (2025). Awareness of Technological Isomorphism: Integrating AI into Elementary Mathematics Teaching on Data and Prediction, A Case Study of the Compound Line Graph. https://arxiv.org/abs/2606.09598
+Li Li, Yu Cao. (2025). Awareness of Technological Isomorphism: Integrating AI into Elementary Mathematics Teaching on Data and Prediction, A Case Study of the Compound Line Graph. https://arxiv.org/abs/2606.09598 [doi:10.48550/arxiv.2606.09598](https://doi.org/10.48550/arxiv.2606.09598)
 
 `q2 · i?` · `qualitative · r1`
 

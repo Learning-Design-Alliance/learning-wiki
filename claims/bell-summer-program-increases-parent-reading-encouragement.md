@@ -45,6 +45,6 @@ In the same random assignment evaluation, the study reports an increase in "the 
 ## Related Claims
 - [A well-implemented summer learning program (BELL) improves low-income children's reading test scores](bell-summer-program-improves-reading-scores.md) — related
 - [Parent Involvement Improves Early Reading](parent-involvement-improves-early-reading.md) — a broader claim this one bears on
-- [READY4K! improves teacher-reported parental involvement at school](ready4k-improves-teacher-reported-involvement.md) — related
+- READY4K! improves teacher-reported parental involvement at school — related
 - [Low-income children's test scores drop relative to higher-income peers during the summer months](low-income-summer-test-score-drop.md) — related
 - [A prior random-assignment evaluation found the BELL summer learning intervention effective](bell-summer-program-random-assignment-effective.md) — related

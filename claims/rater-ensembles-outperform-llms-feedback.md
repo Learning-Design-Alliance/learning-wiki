@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: stefano-bannò-2026
-    resource: "https://arxiv.org/abs/2605.04298"
-    title: "Stefano Bannò, Kate Knill, Mark Gales. (2026). Towards Self-Referential Analytic Assessment: A Profile-Based Approach to L2 Writing Evaluation with LLMs. https://arxiv.org/abs/2605.04298"
+    resource: "https://doi.org/10.48550/arxiv.2605.04298"
+    title: "Stefano Bannò, Kate Knill, Mark Gales. (2026). Towards Self-Referential Analytic Assessment: A Profile-Based Approach to L2 Writing Evaluation with LLMs. https://arxiv.org/abs/2605.04298 [doi:10.48550/arxiv.2605.04298](https://doi.org/10.48550/arxiv.2605.04298)"
     author: Stefano Bannò, Kate Knill, Mark Gales
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Stefano Bannò 2026
 
-Stefano Bannò, Kate Knill, Mark Gales. (2026). Towards Self-Referential Analytic Assessment: A Profile-Based Approach to L2 Writing Evaluation with LLMs. https://arxiv.org/abs/2605.04298
+Stefano Bannò, Kate Knill, Mark Gales. (2026). Towards Self-Referential Analytic Assessment: A Profile-Based Approach to L2 Writing Evaluation with LLMs. https://arxiv.org/abs/2605.04298 [doi:10.48550/arxiv.2605.04298](https://doi.org/10.48550/arxiv.2605.04298)
 
 `q2 · i?` · `design · r2`
 
@@ -47,5 +47,5 @@ Ensemble analysis in the Experimental results section (Tables 11 and 12, Figure 
 - [Ensemble modeling of multiple LLM scorers yields performance gains in automated divergent thinking scoring](ensemble-models-performance-gains-llm-scoring.md) — related
 - [Both pedagogy-expertise-weighted and unanimous-vote ensembles frequently worsen LLM alignment with student learning](ensembling-worsens-llm-alignment-with-learning.md) — related
 - [In a self-referential framework, LLMs, particularly GPT-4.1, tend to outperform a single operational human rater at identifying relative weaknesses (negative feedback) across several Language and Content aspects](llms-outperform-single-rater-negative-feedback.md) — related
-- [Majority-vote ensembling across three runs produced only modest accuracy gains (1% to 5%) with no model showing degradation](ensemble-majority-vote-modest-gains-no-degradation.md) — related
+- Majority-vote ensembling across three runs produced only modest accuracy gains (1% to 5%) with no model showing degradation — related
 - [Model self-confidence, weighted probabilistic scoring, and ensemble modeling each significantly improve LLM-based divergent thinking scoring, raising correlation with human judges from r = 0.781 to r = 0.823](llm-scoring-three-techniques-raise-human-judge-correlation.md) — related

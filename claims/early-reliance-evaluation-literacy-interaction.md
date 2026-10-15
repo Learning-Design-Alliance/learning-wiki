@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: manikonda-2026
-    resource: "https://arxiv.org/abs/2609.18676"
-    title: "Manikonda, L.; Si, M.; Munira, S.; Seneviratne, O.; Bennett, K. (2026). The Uneven Impact of Generative AI on Student Learning: Examining the Roles of Reliance, Evaluation Literacy, and Course Policy in AI-related Courses. https://arxiv.org/abs/2609.18676"
+    resource: "https://doi.org/10.48550/arxiv.2609.18676"
+    title: "Manikonda, L.; Si, M.; Munira, S.; Seneviratne, O.; Bennett, K. (2026). The Uneven Impact of Generative AI on Student Learning: Examining the Roles of Reliance, Evaluation Literacy, and Course Policy in AI-related Courses. https://arxiv.org/abs/2609.18676 [doi:10.48550/arxiv.2609.18676](https://doi.org/10.48550/arxiv.2609.18676)"
     author: Manikonda, L.; Si, M.; Munira, S.; Seneviratne, O.; Bennett, K.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Manikonda 2026
 
-Manikonda, L.; Si, M.; Munira, S.; Seneviratne, O.; Bennett, K. (2026). The Uneven Impact of Generative AI on Student Learning: Examining the Roles of Reliance, Evaluation Literacy, and Course Policy in AI-related Courses. https://arxiv.org/abs/2609.18676
+Manikonda, L.; Si, M.; Munira, S.; Seneviratne, O.; Bennett, K. (2026). The Uneven Impact of Generative AI on Student Learning: Examining the Roles of Reliance, Evaluation Literacy, and Course Policy in AI-related Courses. https://arxiv.org/abs/2609.18676 [doi:10.48550/arxiv.2609.18676](https://doi.org/10.48550/arxiv.2609.18676)
 
 `q2 · i?` · `associational · r2`
 

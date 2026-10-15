@@ -47,4 +47,4 @@ Frequency count and relative frequency analysis of the Pre-University textbooks 
 - [Chi-square analysis shows the distribution of learning theories in Iranian ELT textbooks differs significantly from chance](chi-square-significant-distribution-learning-theories-iranian-elt-textbooks.md) — a broader claim this one bears on
 - [Cognitivism is the second most important learning theory reflected across all Iranian ELT textbook levels](cognitivism-second-across-iranian-elt-textbook-levels.md) — related
 - [Iranian ELT textbooks show no smooth shift from behaviourism to constructivism across educational levels](no-smooth-shift-behaviourism-to-constructivism-iranian-elt.md) — related
-- [Section 1 research studies provide methods and awareness for addressing textbook bias](research-section-supports-bias-analysis.md) — a broader claim this one bears on
+- Section 1 research studies provide methods and awareness for addressing textbook bias — a broader claim this one bears on

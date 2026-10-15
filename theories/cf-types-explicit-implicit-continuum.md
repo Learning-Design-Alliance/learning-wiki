@@ -16,7 +16,7 @@ sources:
 # Corrective feedback types as a continuum from explicit to implicit
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 8 claims (6 for, 2 mixed) · 5 studies (2 quant-synthesis, 2 review, 1 causal), `q2`–`q3` · 2 of 5 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 5 studies (2 quant-synthesis, 2 review, 1 causal), `q2`–`q3` · 2 of 5 report an effect size · 2 claims rest on one study
 
 ## Description
 The review presents corrective feedback as an interactional strategy making learners aware of incorrect language use and providing models for more appropriate L2 use. CF may consist of "an indication of the existence of an error, provision of the correct target form, or metalinguistic information about the rules of the target language." Because "CF can vary in degree of explicitness, so it is best viewed on a continuum between explicit and implicit," the review illustrates different CF types along this continuum in its Figure 1, and notes CF can also be written or oral and immediate or delayed.
@@ -39,9 +39,6 @@ The review presents corrective feedback as an interactional strategy making lear
 ### Claims
 
 - [Cf Facilitates L2 Grammar Explicit Implicit Durability](../claims/cf-facilitates-l2-grammar-explicit-implicit-durability.md) [+M]
-- [Explicit corrective feedback outperformed implicit feedback and control conditions for third-semester Spanish learners' pragmatic performance](../claims/explicit-cf-outperforms-implicit-spanish-pragmatics.md) [+W]
-- [Metapragmatic written feedback outperformed direct feedback on recognizing appropriate email requests, while both treatments beat control on production](../claims/metapragmatic-feedback-email-request-recognition.md) [+W]
-- [Pragmatic recasts improved learners' request performance in one study but showed no significant effects in another, leaving recast effectiveness mixed](../claims/pragmatic-recasts-mixed-effects-requests.md) [~W]
 - [Prompts raised learners' pragmatic awareness of refusals more than explicit feedback or control after a 10-week treatment](../claims/prompts-beat-explicit-feedback-refusal-awareness.md) [+W]
 - [Corrective feedback on second-language errors has a significant effect on L2 development that is maintained on delayed tests](../claims/corrective-feedback-effect-on-l2-development-is-significant-and-durable.md) [+S]
 - [Metalinguistic feedback's gains on wh-question performance decline over a ten-day delay while recast gains hold, leaving the two no different](../claims/recasts-more-enduring-than-metalinguistic-feedback.md) [~M]

@@ -17,7 +17,7 @@ sources:
 # Five state recommendations for implementing universal FAFSA policies equitably
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 mixed) · 2 studies (1 review, 1 qualitative), `q2` · 0 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Based on its findings, the report recommends that state legislators, state boards, and departments of education: provide dedicated funding for equitable implementation; include clear and accessible opt-out waivers; adopt complementary policies that promote college attendance such as direct admissions; develop user-friendly data dashboards for in-school personnel to track FAFSA completion; and establish accountability systems that "emphasize support and continuous improvement" rather than punitive measures. Funding should support financial aid personnel, training, technology access, and family outreach systems such as texting platforms and multilingual materials.
@@ -41,10 +41,7 @@ Based on its findings, the report recommends that state legislators, state board
 
 ## Claims
 
-- [The delayed, error-filled 2024-25 FAFSA rollout cut national completion rates nearly 40% below the prior cycle by late March 2024, with larger declines at high schools with more students of color and low-income students](../claims/fafsa-2024-25-rollout-completion-declines-disparities.md) [~W]
 - [State accountability systems that rank schools on FAFSA completion are perceived to penalize schools whose students pursue non-college pathways](../claims/fafsa-ranking-penalizes-noncollege-pathways.md) [~W]
-- [California's LEA-based FAFSA/CADAA requirement for the class of 2023 coincided with a 7.8% rise in submissions and 6.7% rise in completions](../claims/california-lea-requirement-fafsa-gains.md) [~W]
-- [Alabama's submission-to-completion gap widened after its universal FAFSA policy, from 3.12% to 4.37%](../claims/alabama-widening-submission-completion-gap.md) [~W]
 
 ## Related Strategies
 

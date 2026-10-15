@@ -46,4 +46,4 @@ Qualitative case study of Foxglove Elementary based on principal and teacher int
 - [At Foxglove, the principal and coaches give teachers feedback on every assignment they share, alongside regular five-week progress reviews](foxglove-assignment-feedback-and-progress-reviews.md) — related
 - [Decentralization and accountability acted as sorting mechanisms stratifying schools by initial capacity to respond](decentralization-accountability-sorting-mechanisms-school-capacity.md) — a broader claim this one bears on
 - [The modern principal's job has expanded from administrative oversight to instructional leadership and staff collaboration](principal-role-expanded-beyond-administrative-oversight.md) — related
-- [Female principals empowered others through shared ownership, committee involvement, and staff development](female-principals-empower-others-shared-ownership.md) — related
+- Female principals empowered others through shared ownership, committee involvement, and staff development — related

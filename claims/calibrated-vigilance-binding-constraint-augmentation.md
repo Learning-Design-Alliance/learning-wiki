@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: marcus-kubsch-2026
-    resource: "https://arxiv.org/abs/2606.16822"
-    title: "Marcus Kubsch. (2026). AI as a Partner in Learning about, Doing, and Engaging with Science: Vigilance as the Key to Productive Augmentation. https://arxiv.org/abs/2606.16822"
+    resource: "https://doi.org/10.48550/arxiv.2606.16822"
+    title: "Marcus Kubsch. (2026). AI as a Partner in Learning about, Doing, and Engaging with Science: Vigilance as the Key to Productive Augmentation. https://arxiv.org/abs/2606.16822 [doi:10.48550/arxiv.2606.16822](https://doi.org/10.48550/arxiv.2606.16822)"
     author: Marcus Kubsch
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Marcus Kubsch 2026
 
-Marcus Kubsch. (2026). AI as a Partner in Learning about, Doing, and Engaging with Science: Vigilance as the Key to Productive Augmentation. https://arxiv.org/abs/2606.16822
+Marcus Kubsch. (2026). AI as a Partner in Learning about, Doing, and Engaging with Science: Vigilance as the Key to Productive Augmentation. https://arxiv.org/abs/2606.16822 [doi:10.48550/arxiv.2606.16822](https://doi.org/10.48550/arxiv.2606.16822)
 
 `q1 · i?` · `theoretical · r3`
 
@@ -53,7 +53,7 @@ Theoretical argument of the paper itself: across scientist, citizen, and student
 - [Dispositions such as openness and shared responsibility are shaped by conditions, not fixed individual traits](dispositions-shaped-by-conditions.md) — related
 - [Personal connection to data supports critical data-literacy stance-taking](personal-connection-to-data-supports-critical-data-literacy-stance-taking.md) — related
 - Implementing AI methodologies introduces a new layer of epistemic dependence and diffused accountability in science education research — related
-- [LLM-assisted inductive qualitative coding carries risks of superficial themes, broad or redundant codes, and hallucinated interpretations, so LLMs should augment rather than replace human researchers](llm-inductive-coding-risks-require-human-oversight.md) — related
+- LLM-assisted inductive qualitative coding carries risks of superficial themes, broad or redundant codes, and hallucinated interpretations, so LLMs should augment rather than replace human researchers — related
 - [Judgement-bearing assistance is the central analytic pivot: delegating evaluation of quality and correctness is normatively more demanding than instrumental assistance](judgement-bearing-assistance-central-pivot.md) — related
 - [AI literacy requires discipline-specific calibration beyond prompt-writing skills](ai-literacy-discipline-specific-calibration.md) — a broader claim this one bears on
 - [Prior knowledge and trust calibration moderate GenAI learning effects: fluent output is most persuasive when learners least can challenge it](prior-knowledge-trust-calibration-moderators.md) — a narrower finding that bears on this claim

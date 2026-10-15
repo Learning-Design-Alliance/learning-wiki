@@ -22,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Agreement with 'AI can replace instructor expertise in some cases' was sharply low (M = 2.18), with 71% disagreeing and only 14% agreeing. [→ Gibson 2025](#gibson-2025)
@@ -42,9 +43,9 @@ Descriptive item statistic from the 19-item belief scale in the survey of 72 pra
 
 
 ## Related Claims
-- [Practitioners hold near-universal commitments to human oversight and critical evaluation of AI outputs](practitioner-oversight-governance-norms.md) — a broader claim this one bears on
+- Practitioners hold near-universal commitments to human oversight and critical evaluation of AI outputs — a broader claim this one bears on
 - [Students oppose preferring AI videos over instructor-recorded videos and distrust AI video information as much as human-presented information](students-oppose-ai-videos-replacing-instructors.md) — related
 - [Perceived GenAI role is systematically associated with metacognitive dimensions activated: replacement-tool users show no evaluation or elaboration, collaborator users show predominantly higher-order activity](genai-role-metacognitive-profiles.md) — related
 - [Instructor roles shift from exclusive information source toward orchestrating and regulating AI-mediated learning activities](instructor-role-shift-orchestrating-genai.md) — a broader claim this one bears on
 - [Adult learners emphasize human-in-the-loop AI design that keeps final learning decisions with learners and instructors](human-in-the-loop-ai-design-pf.md) — related
-- [Participants simultaneously affirmed ChatGPT feedback as useful while rejecting it as final grader, treating feedback utility and evaluative authority as separate judgements](conditional-trust-feedback-utility-versus-evaluative-authority.md) — a narrower finding that bears on this claim
+- Participants simultaneously affirmed ChatGPT feedback as useful while rejecting it as final grader, treating feedback utility and evaluative authority as separate judgements — a narrower finding that bears on this claim

@@ -189,6 +189,13 @@ reasons and the numbers (moved there 2026-10-09, when this file had reached 272 
   1,323 to products, 222 to research methods, each move confirmed by a second model. Its 390 plain
   folds into canonical pages are in `eval/candidates/sweep-kinds.ndjson` and were **not** applied
   (too many loose matches); apply them only after review, never with a bare `--from ... --apply`.
+- **A claim needs a DOI, an evaluation report, or a design page that leans on it** (maintainer, 2026-10-15:
+  "quality over quantity"). A claim whose evidence has no DOI after a Crossref and DataCite search is removed,
+  unless it rests on a report from a named evaluation organisation (WWC/IES/REL, Mathematica, MDRC, AIR, RAND,
+  Abt, SRI, WestEd, Westat, Child Trends, the UChicago Consortium, NWEA, LPI, Urban Institute, CRESST, CREDO;
+  maintainer: "evaluation reports are useful") or a principle, pattern or 10+ design pages cite it. A kept
+  claim of the last kind carries a `> **Evidence quality** ·` line saying what it rests on. New sources come
+  from syntheses and from `chase_citations.py`, not from ERIC or arXiv topic search.
 - **A claim is kept when a design decision could change because of it** (maintainer, 2026-10-13).
   That covers evidence about a design choice, the reliability of a component a design relies on
   (knowledge-tracing accuracy for an adaptive course, essay-scoring or AI-detector accuracy), and

@@ -18,7 +18,7 @@ sources:
 # i-Ready Personalized Instruction
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 An online personalized reading-instruction program for grades K–8 that uses i-Ready Diagnostic data to assign lessons and monitor progress, developed and provided by Curriculum Associates.
@@ -28,10 +28,6 @@ An online personalized reading-instruction program for grades K–8 that uses i-
 - **i-Ready Personalized Instruction (online individualized reading lessons for grades K-8)**: i-Ready Personalized Instruction uses information from the i-Ready Diagnostic to generate an individualized program of online lessons in reading for grades K-8, serving students whether their performance is below-grade, on-grade, or above-grade. The program monitors how students are progressing in reading over time, and decision-making at student, group, class, school, and district levels is driven by comprehensive, actionable reports. It is accessed through the i-Ready Connect digital platform. (i-Ready Personalized Instruction (2025))
 
 ### Claims
-- [i-Ready Personalized Instruction users in grade 5 scored significantly higher on ELA MCAS than matched comparison students (ES = +0.12)](../claims/iready-personalized-instruction-ela-mcas-quasi-experiment.md) [+W]
-- [i-Ready Personalized Instruction use was also associated with significantly higher Mathematics MCAS scores](../claims/iready-personalized-instruction-math-mcas-significant.md) [+W]
-- [In a 2024-2025 matched evaluation, fidelity users of i-Ready Personalized Instruction consistently outperformed non-users across grades 4-8 on STAAR, but this is excluded from the rating](../claims/iready-staar-fidelity-evaluation-context-only.md) [+W]
-- [Results were more robust for students meeting the usage recommendation of 30 minutes per week over a minimum of 18 weeks](../claims/iready-usage-recommendation-stronger-results.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -66,10 +62,6 @@ i-Ready Personalized Instruction uses information from the i-Ready Diagnostic to
 
 ## Claims
 
-- [i-Ready Personalized Instruction users in grade 5 scored significantly higher on ELA MCAS than matched comparison students (ES = +0.12)](../claims/iready-personalized-instruction-ela-mcas-quasi-experiment.md) [+W]
-- [i-Ready Personalized Instruction use was also associated with significantly higher Mathematics MCAS scores](../claims/iready-personalized-instruction-math-mcas-significant.md) [+W]
-- [In a 2024-2025 matched evaluation, fidelity users of i-Ready Personalized Instruction consistently outperformed non-users across grades 4-8 on STAAR, but this is excluded from the rating](../claims/iready-staar-fidelity-evaluation-context-only.md) [+W]
-- [Results were more robust for students meeting the usage recommendation of 30 minutes per week over a minimum of 18 weeks](../claims/iready-usage-recommendation-stronger-results.md) [+W]
 
 ## Related Elements
 

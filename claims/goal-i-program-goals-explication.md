@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Goal I lists six program goals, from understanding interdisciplinary concepts through developing valid conceptual schemes, but only the first is explicated with illustrative objectives by grade span. [→ Social Sciences Education Framework for California Public Schools 1975](#social-sciences-education-framework-for-california-public-schools-1975)
@@ -43,5 +44,5 @@ The Goal I section enumerates six program goals, including helping students 'bec
 
 
 ## Related Claims
-- [The framework directs social sciences programs toward five stated student outcomes including understandings, skills, respect for diversity, values clarification, and participation](five-social-science-program-goals.md) — related
-- [Social sciences instruction is drawn from seven disciplines: anthropology, economics, geography, history, political science, psychology, and sociology](seven-disciplines-social-sciences-instruction.md) — related
+- The framework directs social sciences programs toward five stated student outcomes including understandings, skills, respect for diversity, values clarification, and participation — related
+- Social sciences instruction is drawn from seven disciplines: anthropology, economics, geography, history, political science, psychology, and sociology — related

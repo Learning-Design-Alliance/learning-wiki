@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Siegel argues that a critical science education should give explicit and sustained attention to philosophical and methodological considerations underlying scientific practice, and should actively consider and compare alternative, rival theories and hypotheses rather than indoctrinate students into a reigning paradigm. [→ Weinstein 1989](#weinstein-1989)

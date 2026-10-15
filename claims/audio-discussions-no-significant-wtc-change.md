@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 5 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Wilcoxon signed-rank tests on cumulative WTC scores across the three activities revealed no significant changes in WTC levels; e.g., from VT1 to VT3, 28% increased, 25% decreased, and 47% reported no change. [→ Lepore 2014](#lepore-2014)
@@ -44,8 +45,8 @@ Repeated-measures Wilcoxon signed-rank analysis of Part 2 self-assessment WTC sc
 
 ## Related Claims
 - [Interpersonal audio discussions with feedback and self-assessment elicit a statistically significant increase in introductory L2 learners' perceived pronunciation ability](audio-discussions-increase-perceived-pronunciation-ability.md) — related
-- [Individual WTC variables (confidence, motivation, perceived performance, anxiety) correlate positively with overall WTC throughout interpersonal audio discussion activities](wtc-variables-positively-correlated-overall-wtc.md) — related
+- Individual WTC variables (confidence, motivation, perceived performance, anxiety) correlate positively with overall WTC throughout interpersonal audio discussion activities — related
 - [Students reported significantly less difficulty with comprehensibility and accuracy of pronunciation between the first and final audio discussion activity](decreased-perceived-pronunciation-difficulty.md) — related
-- [Self-reported strength and weakness rankings shifted over the semester: comprehensibility remained the most-cited strength, fluency declined as a weakness, and accuracy weakness rankings stayed unchanged](strength-weakness-rankings-shift-over-semester.md) — related
+- Self-reported strength and weakness rankings shifted over the semester: comprehensibility remained the most-cited strength, fluency declined as a weakness, and accuracy weakness rankings stayed unchanged — related
 - [WTC decreases as class size increases on both talk-time and turns of talk](wtc-decreases-as-class-size-increases.md) — related
 - [Gameplay increased participants' willingness to communicate in English](gameplay-increased-willingness-to-communicate.md) — reports the opposite

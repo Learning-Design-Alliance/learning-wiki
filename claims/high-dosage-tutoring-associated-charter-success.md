@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: philip-m-gleason-2016
-    resource: "https://www.mathematica.org/publications/whats-the-secret-ingredient-searching-for-policies-and-practices-that-make-charter-schools"
-    title: "Philip M. Gleason. (2016). What's the Secret Ingredient? Searching for Policies and Practices that Make Charter Schools Successful. Working Paper 47. Washington, DC: Mathematica Policy Research. https://www.mathematica.org/publications/whats-the-secret-ingredient-searching-for-policies-and-practices-that-make-charter-schools"
+    resource: "https://doi.org/10.1080/15582159.2017.1395620"
+    title: "Philip M. Gleason. (2016). What's the Secret Ingredient? Searching for Policies and Practices that Make Charter Schools Successful. Working Paper 47. Washington, DC: Mathematica Policy Research. https://www.mathematica.org/publications/whats-the-secret-ingredient-searching-for-policies-and-practices-that-make-charter-schools [doi:10.1080/15582159.2017.1395620](https://doi.org/10.1080/15582159.2017.1395620)"
     author: Philip M. Gleason
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Philip M. Gleason 2016
 
-Philip M. Gleason. (2016). What's the Secret Ingredient? Searching for Policies and Practices that Make Charter Schools Successful. Working Paper 47. Washington, DC: Mathematica Policy Research. https://www.mathematica.org/publications/whats-the-secret-ingredient-searching-for-policies-and-practices-that-make-charter-schools
+Philip M. Gleason. (2016). What's the Secret Ingredient? Searching for Policies and Practices that Make Charter Schools Successful. Working Paper 47. Washington, DC: Mathematica Policy Research. https://www.mathematica.org/publications/whats-the-secret-ingredient-searching-for-policies-and-practices-that-make-charter-schools [doi:10.1080/15582159.2017.1395620](https://doi.org/10.1080/15582159.2017.1395620)
 
 `q2 · i?` · `review · r?`
 
@@ -49,4 +49,4 @@ The paper reports "moderately strong evidence" that high-dosage tutoring is "pos
 - [High-dosage tutoring, frequent teacher feedback and coaching, and data-driven instructional practices show moderately strong evidence of association with charter-school achievement impacts](tutoring-coaching-data-use-charter-impacts.md) — a broader claim this one bears on
 - [Assignment to BookNook tutoring produces a small but statistically significant increase in reading growth on the NWEA MAP for grade 1-4 students](booknook-small-positive-map-reading-growth.md) — a narrower finding that bears on this claim
 - [High dosage tutoring can produce accelerated academic growth for academically at-risk students if implemented effectively and at proper scale](high-dosage-tutoring-accelerated-growth-at-risk.md) — a narrower finding that bears on this claim
-- [High-dosage tutoring directly tied to classroom content can substantially accelerate learning in math and reading for the most struggling students](high-dosage-tutoring-tied-to-classroom-content-accelerates-learning.md) — related
+- High-dosage tutoring directly tied to classroom content can substantially accelerate learning in math and reading for the most struggling students — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: ke-yang-2026
-    resource: "https://arxiv.org/abs/2609.01591"
-    title: "Ke Yang, Chenglong Wang, Michel Galley, Chandan Singh, Jeevana Priya Inala, ChengXiang Zhai, Jianfeng Gao. (2026). StudentSim: Training LLM-based Student Simulators. https://arxiv.org/abs/2609.01591"
+    resource: "https://doi.org/10.48550/arxiv.2609.01591"
+    title: "Ke Yang, Chenglong Wang, Michel Galley, Chandan Singh, Jeevana Priya Inala, ChengXiang Zhai, Jianfeng Gao. (2026). StudentSim: Training LLM-based Student Simulators. https://arxiv.org/abs/2609.01591 [doi:10.48550/arxiv.2609.01591](https://doi.org/10.48550/arxiv.2609.01591)"
     author: Ke Yang, Chenglong Wang, Michel Galley, Chandan Singh, Jeevana Priya Inala, ChengXiang Zhai, Jianfeng Gao
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Ke Yang 2026
 
-Ke Yang, Chenglong Wang, Michel Galley, Chandan Singh, Jeevana Priya Inala, ChengXiang Zhai, Jianfeng Gao. (2026). StudentSim: Training LLM-based Student Simulators. https://arxiv.org/abs/2609.01591
+Ke Yang, Chenglong Wang, Michel Galley, Chandan Singh, Jeevana Priya Inala, ChengXiang Zhai, Jianfeng Gao. (2026). StudentSim: Training LLM-based Student Simulators. https://arxiv.org/abs/2609.01591 [doi:10.48550/arxiv.2609.01591](https://doi.org/10.48550/arxiv.2609.01591)
 
 `q2 · i?` · `causal · r2`
 

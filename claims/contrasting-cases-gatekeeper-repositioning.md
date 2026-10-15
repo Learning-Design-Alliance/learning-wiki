@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: deliang-wang-and-cunling-bian-2026
-    resource: "https://arxiv.org/abs/2607.28630"
-    title: "Deliang Wang and Cunling Bian. (2026). Scaffolding Critical Engagement with GenAI: Transforming Ethnic Minority Preparatory Students’ Collaborative Discourse in Prompt Engineering Tasks. https://arxiv.org/abs/2607.28630"
+    resource: "https://doi.org/10.48550/arxiv.2607.28630"
+    title: "Deliang Wang and Cunling Bian. (2026). Scaffolding Critical Engagement with GenAI: Transforming Ethnic Minority Preparatory Students’ Collaborative Discourse in Prompt Engineering Tasks. https://arxiv.org/abs/2607.28630 [doi:10.48550/arxiv.2607.28630](https://doi.org/10.48550/arxiv.2607.28630)"
     author: Deliang Wang and Cunling Bian
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Deliang Wang and Cunling Bian 2026
 
-Deliang Wang and Cunling Bian. (2026). Scaffolding Critical Engagement with GenAI: Transforming Ethnic Minority Preparatory Students’ Collaborative Discourse in Prompt Engineering Tasks. https://arxiv.org/abs/2607.28630
+Deliang Wang and Cunling Bian. (2026). Scaffolding Critical Engagement with GenAI: Transforming Ethnic Minority Preparatory Students’ Collaborative Discourse in Prompt Engineering Tasks. https://arxiv.org/abs/2607.28630 [doi:10.48550/arxiv.2607.28630](https://doi.org/10.48550/arxiv.2607.28630)
 
 `q2 · i?` · `design · r2`
 

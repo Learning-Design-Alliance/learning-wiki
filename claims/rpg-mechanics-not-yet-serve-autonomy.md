@@ -48,6 +48,6 @@ Authors' interpretation of the questionnaire data: the lowest-ranked items were 
 - [Thai business undergraduates' vocabulary test scores rose from pre-test to post-test after four weeks of out-of-class role-playing gamification with Mangomon, in a single-group study with no control group](mangomon-rpg-gamification-improves-business-vocabulary.md) — related
 - [IMI motivation ratings after four weeks of Mangomon play were moderate (all sub-scale means below 4.00), highest for effort/importance and lowest for perceived choice](moderate-motivation-imi-mangomon.md) — related
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — a broader claim this one bears on
-- [The article argues learning is a natural, enjoyable human process rather than one driven by pressure and anxiety](learning-is-natural-enjoyable-process-argument.md) — a broader claim this one bears on
+- The article argues learning is a natural, enjoyable human process rather than one driven by pressure and anxiety — a broader claim this one bears on
 - [Choice in retention programs is linked to retention gains, but autonomy is rarely a tested variable](choice-autonomy-rarely-tested-in-retention-programs.md) — related
 - [An example-based built-in course in a mobile chatbot journaling system increases students' intrinsic motivation for creating a learning journal](example-based-course-increases-journaling-intrinsic-motivation.md) — related

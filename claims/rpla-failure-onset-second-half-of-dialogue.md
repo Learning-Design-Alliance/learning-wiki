@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: saqib-shouqi-2026
-    resource: "https://arxiv.org/abs/2608.03166"
-    title: "Saqib Shouqi, Abdullah Nazly, Januki Wanniarachchi, Ravisha De Alwis. (2026). Adversarial Stress Testing of Role-Playing Language Agents using Multi-Agent Evaluation. ADScAI Conference, University of Moratuwa, Sri Lanka. https://arxiv.org/abs/2608.03166"
+    resource: "https://doi.org/10.48550/arxiv.2608.03166"
+    title: "Saqib Shouqi, Abdullah Nazly, Januki Wanniarachchi, Ravisha De Alwis. (2026). Adversarial Stress Testing of Role-Playing Language Agents using Multi-Agent Evaluation. ADScAI Conference, University of Moratuwa, Sri Lanka. https://arxiv.org/abs/2608.03166 [doi:10.48550/arxiv.2608.03166](https://doi.org/10.48550/arxiv.2608.03166)"
     author: Saqib Shouqi, Abdullah Nazly, Januki Wanniarachchi, Ravisha De Alwis
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Saqib Shouqi 2026
 
-Saqib Shouqi, Abdullah Nazly, Januki Wanniarachchi, Ravisha De Alwis. (2026). Adversarial Stress Testing of Role-Playing Language Agents using Multi-Agent Evaluation. ADScAI Conference, University of Moratuwa, Sri Lanka. https://arxiv.org/abs/2608.03166
+Saqib Shouqi, Abdullah Nazly, Januki Wanniarachchi, Ravisha De Alwis. (2026). Adversarial Stress Testing of Role-Playing Language Agents using Multi-Agent Evaluation. ADScAI Conference, University of Moratuwa, Sri Lanka. https://arxiv.org/abs/2608.03166 [doi:10.48550/arxiv.2608.03166](https://doi.org/10.48550/arxiv.2608.03166)
 
 `q2 · i?` · `causal · r2`
 

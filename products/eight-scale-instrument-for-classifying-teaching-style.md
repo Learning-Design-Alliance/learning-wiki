@@ -18,7 +18,7 @@ sources:
 # Eight-scale instrument for classifying teaching style
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 A behavioral-recording and rating instrument developed by Garfunkel for describing classroom atmosphere and teaching style across eight bipolar scales.
@@ -28,7 +28,6 @@ A behavioral-recording and rating instrument developed by Garfunkel for describi
 - **Eight-scale instrument for classifying teaching style (control, approach, value, warmth, humor, flexibility, direction, differentiation)**: The article presents eight behavioral scales for describing classroom atmosphere and teaching style, each with stated polarities: control (teacher-child), approach (punitive-supportive), value (work-play), warmth (rejecting-accepting), humor (bland-humorous), flexibility (rigid-adaptive), direction (aimless-purposeful), and differentiation (undifferentiated-individualized). The scales are described as "a first approximation of relevant components of classroom atmosphere" and are meant to be part of a change process, with accommodation and revision expected as integral to the methodology. They are operationalized directly by behavioral recording, indirectly by rater judgments, or by inferring (Garfunkel (1967))
 
 ### Claims
-- [Teaching style scales show moderate inter-scale correlations (.50-.70) and observer agreement on ratings between .50 and .60](../claims/style-scale-correlations-and-observer-agreement.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -68,7 +67,6 @@ The article presents eight behavioral scales for describing classroom atmosphere
 
 ### Claims
 <!- - Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] - ->
-- [Teaching style scales show moderate inter-scale correlations (.50-.70) and observer agreement on ratings between .50 and .60](../claims/style-scale-correlations-and-observer-agreement.md) [+W]
 
 ## Related Elements
 

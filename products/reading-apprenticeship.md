@@ -26,7 +26,7 @@ sources:
 # Reading Apprenticeship
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 12 claims (7 for, 4 mixed, 1 against) · 3 studies (2 causal, 1 quant-synthesis), `q3` · 3 of 3 report an effect size · 12 claims rest on one study
+> **Evidence** · 9 claims (4 for, 4 mixed, 1 against) · 2 studies (1 causal, 1 quant-synthesis), `q3` · 2 of 2 report an effect size · 9 claims rest on one study
 
 ## Description
 Reading Apprenticeship® is a secondary-school academic literacy curriculum and professional-learning programme developed and provided by WestEd to support students' reading comprehension, engagement, and metacognitive awareness.
@@ -48,9 +48,6 @@ Reading Apprenticeship® is a secondary-school academic literacy curriculum and 
 - [Reading Apprenticeship® shows uncertain effects on life sciences achievement in one study](../claims/reading-apprenticeship-uncertain-life-sciences.md) [~W]
 - [Reading Apprenticeship® shows uncertain effects on literacy achievement across five studies](../claims/reading-apprenticeship-uncertain-literacy-achievement.md) [~W]
 - [Reading Apprenticeship® shows uncertain effects on mathematics achievement, with one significant negative finding](../claims/reading-apprenticeship-uncertain-mathematics-achievement.md) [~W]
-- [The overall mean impact of Reading Apprenticeship across four variations is +0.11](../claims/ra-mean-impact-plus-point-one-one.md) [+W]
-- [RAAL, the targeted RA program, had significant positive effects versus control (effect size +0.10)](../claims/raal-significant-positive-effects.md) [+W]
-- [RAISE showed positive but non-significant effects (effect size +0.14)](../claims/raise-positive-nonsignificant-effects.md) [+W]
 
 ## Related Products and Programmes
 
@@ -186,9 +183,6 @@ Reading Apprenticeship is "a family of high school programs designed to improve 
 
 ## Claims
 
-- [The overall mean impact of Reading Apprenticeship across four variations is +0.11](../claims/ra-mean-impact-plus-point-one-one.md) [+W]
-- [RAAL, the targeted RA program, had significant positive effects versus control (effect size +0.10)](../claims/raal-significant-positive-effects.md) [+W]
-- [RAISE showed positive but non-significant effects (effect size +0.14)](../claims/raise-positive-nonsignificant-effects.md) [+W]
 
 ## Related Elements
 

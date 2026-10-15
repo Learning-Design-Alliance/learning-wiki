@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: moore-2011
-    resource: "https://arxiv.org/abs/1110.2764"
-    title: "Moore, J. C., & Rubbo, L. J. (2011). Scientific reasoning abilities of non-science majors in physics-based courses. https://arxiv.org/abs/1110.2764"
+    resource: "https://doi.org/10.48550/arxiv.1110.2764"
+    title: "Moore, J. C., & Rubbo, L. J. (2011). Scientific reasoning abilities of non-science majors in physics-based courses. https://arxiv.org/abs/1110.2764 [doi:10.48550/arxiv.1110.2764](https://doi.org/10.48550/arxiv.1110.2764)"
     author: "Moore, J. C., & Rubbo, L. J."
     q: 2
     i: 1
@@ -31,7 +31,7 @@ sources:
 
 ### Moore 2011
 
-Moore, J. C., & Rubbo, L. J. (2011). Scientific reasoning abilities of non-science majors in physics-based courses. https://arxiv.org/abs/1110.2764
+Moore, J. C., & Rubbo, L. J. (2011). Scientific reasoning abilities of non-science majors in physics-based courses. https://arxiv.org/abs/1110.2764 [doi:10.48550/arxiv.1110.2764](https://doi.org/10.48550/arxiv.1110.2764)
 
 `q2 · i1` · `associational · r1`
 
@@ -52,4 +52,4 @@ Correlational analysis over two years of conceptual physics courses relating pre
 - [In physics-based courses for non-science majors taught with active-engagement pedagogy, normalized gains were 0.38–0.42 on content tests but 0.06 on a scientific-reasoning test](reformed-pedagogy-content-gains-but-no-reasoning-gains.md) — related
 - [Higher episode completion (>50%) is independently associated with greater learning gain, and the centre effect on gain is mediated by engagement](podcast-dose-response-learning-gain.md) — related
 - The pretest-posttest correlation is a factor in determining a study's statistical power in education evaluations using state assessments. — related
-- [Pre-test scores strongly predict post-test scores but not normalized learning gains](pretest-predicts-posttest-not-learning-gain.md) — reports the opposite
+- Pre-test scores strongly predict post-test scores but not normalized learning gains — reports the opposite

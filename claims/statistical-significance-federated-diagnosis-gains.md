@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: yagna-manasa-boyapati-2026
-    resource: "https://arxiv.org/abs/2609.02947"
-    title: "Yagna Manasa Boyapati, Chong Yu, Tianyu Jiang, Justin Zhan. (2026). Privacy-Preserving Heterogeneous Multi-LLM Federated Inference for Cognitive Diagnosis. arXiv preprint. https://arxiv.org/abs/2609.02947"
+    resource: "https://doi.org/10.48550/arxiv.2609.02947"
+    title: "Yagna Manasa Boyapati, Chong Yu, Tianyu Jiang, Justin Zhan. (2026). Privacy-Preserving Heterogeneous Multi-LLM Federated Inference for Cognitive Diagnosis. arXiv preprint. https://arxiv.org/abs/2609.02947 [doi:10.48550/arxiv.2609.02947](https://doi.org/10.48550/arxiv.2609.02947)"
     author: Yagna Manasa Boyapati, Chong Yu, Tianyu Jiang, Justin Zhan
     q: 2
     i: 3
@@ -31,7 +31,7 @@ sources:
 
 ### Yagna Manasa Boyapati 2026
 
-Yagna Manasa Boyapati, Chong Yu, Tianyu Jiang, Justin Zhan. (2026). Privacy-Preserving Heterogeneous Multi-LLM Federated Inference for Cognitive Diagnosis. arXiv preprint. https://arxiv.org/abs/2609.02947
+Yagna Manasa Boyapati, Chong Yu, Tianyu Jiang, Justin Zhan. (2026). Privacy-Preserving Heterogeneous Multi-LLM Federated Inference for Cognitive Diagnosis. arXiv preprint. https://arxiv.org/abs/2609.02947 [doi:10.48550/arxiv.2609.02947](https://doi.org/10.48550/arxiv.2609.02947)
 
 `q2 · i3` · `design · r2`
 

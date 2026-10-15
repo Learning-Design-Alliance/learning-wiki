@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: beth-tarasawa-2015
-    resource: "https://www.nwea.org/research/publication/propensity-score-stratification-using-multilevel-models-to-examine-charter-school-achievement-effects/"
-    title: "Beth Tarasawa, Yun Xiang. (2015). Propensity score stratification using multilevel models to examine charter school achievement effects. Journal of School Choice, 9(2), 179–196. https://www.nwea.org/research/publication/propensity-score-stratification-using-multilevel-models-to-examine-charter-school-achievement-effects/"
+    resource: "https://doi.org/10.1080/15582159.2015.1028862"
+    title: "Beth Tarasawa, Yun Xiang. (2015). Propensity score stratification using multilevel models to examine charter school achievement effects. Journal of School Choice, 9(2), 179–196. https://www.nwea.org/research/publication/propensity-score-stratification-using-multilevel-models-to-examine-charter-school-achievement-effects/ [doi:10.1080/15582159.2015.1028862](https://doi.org/10.1080/15582159.2015.1028862)"
     author: Beth Tarasawa, Yun Xiang
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Beth Tarasawa 2015
 
-Beth Tarasawa, Yun Xiang. (2015). Propensity score stratification using multilevel models to examine charter school achievement effects. Journal of School Choice, 9(2), 179–196. https://www.nwea.org/research/publication/propensity-score-stratification-using-multilevel-models-to-examine-charter-school-achievement-effects/
+Beth Tarasawa, Yun Xiang. (2015). Propensity score stratification using multilevel models to examine charter school achievement effects. Journal of School Choice, 9(2), 179–196. https://www.nwea.org/research/publication/propensity-score-stratification-using-multilevel-models-to-examine-charter-school-achievement-effects/ [doi:10.1080/15582159.2015.1028862](https://doi.org/10.1080/15582159.2015.1028862)
 
 `q1 · i?` · `causal · r?`
 

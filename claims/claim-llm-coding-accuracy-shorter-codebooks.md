@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: jeongyeon-kim-and-john-mitchell-2026
-    resource: "https://arxiv.org/abs/2609.11109"
-    title: "Jeongyeon Kim and John Mitchell. (2026). How AI Coders Discuss, Disagree, and Reach Consensus: Challenges and Opportunities for LLM-Based Qualitative Coding. arXiv. https://arxiv.org/abs/2609.11109"
+    resource: "https://doi.org/10.48550/arxiv.2609.11109"
+    title: "Jeongyeon Kim and John Mitchell. (2026). How AI Coders Discuss, Disagree, and Reach Consensus: Challenges and Opportunities for LLM-Based Qualitative Coding. arXiv. https://arxiv.org/abs/2609.11109 [doi:10.48550/arxiv.2609.11109](https://doi.org/10.48550/arxiv.2609.11109)"
     author: Jeongyeon Kim and John Mitchell
     q: 2
     i: 1
@@ -38,7 +38,7 @@ sources:
 # Shorter codebooks and shorter data excerpts yield higher initial LLM coding accuracy, and a smaller specialization gap between codebook and excerpt helps
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · associational `r2` · `q2` · `i1`–`i2`
+> **Evidence** · 2 studies (3 entries) · 2 associational `r2` · `q2` · `i1`–`i2`
 
 ## Subclaims
 `q2 i1` Lengthier codebooks negatively affect initial automated coding accuracy (effect size -0.287, p<0.0001). [→ Jeongyeon Kim and John Mitchell 2026](#jeongyeon-kim-and-john-mitchell-2026)
@@ -49,7 +49,7 @@ sources:
 
 ### Jeongyeon Kim and John Mitchell 2026
 
-Jeongyeon Kim and John Mitchell. (2026). How AI Coders Discuss, Disagree, and Reach Consensus: Challenges and Opportunities for LLM-Based Qualitative Coding. arXiv. https://arxiv.org/abs/2609.11109
+Jeongyeon Kim and John Mitchell. (2026). How AI Coders Discuss, Disagree, and Reach Consensus: Challenges and Opportunities for LLM-Based Qualitative Coding. arXiv. https://arxiv.org/abs/2609.11109 [doi:10.48550/arxiv.2609.11109](https://doi.org/10.48550/arxiv.2609.11109)
 
 `q2 · i1` · `associational · r2`
 

@@ -16,7 +16,7 @@ sources:
 # Funnell's three-route model of single word reading as an account of false beginners' interlanguage
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (6 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article imports Funnell's three-route model of single word reading, developed for a case study of surface dyslexia with semantic impairment, to explain L2 learners' word vocalization. When regular pronunciation of irregular words is observed, the reader "takes the sublexical route which does not connect to the semantic system among the three groups." The model explains how false beginners can read faster than true beginners while their comprehension remains as low, since even correct pronunciations may take the direct lexical route, avoiding the semantic system indispensable for comprehension.
@@ -38,12 +38,7 @@ The article imports Funnell's three-route model of single word reading, develope
 
 ### Claims
 
-- [False Beginners Irregular Word Vocalization Errors](../claims/false-beginners-irregular-word-vocalization-errors.md) [+M]
 - [Early failure in phonetic recoding and decoding widens the acquisition gap between false beginners and successful learners over time](../claims/early-decoding-failure-widens-acquisition-gap.md) [+W]
-- [False beginners' backsliding occurs in comprehension, and their main problem lies in recoding and decoding English words](../claims/false-beginners-backsliding-comprehension-decoding.md) [+W]
-- [False beginners read passages aloud significantly better than true beginners despite equal written-test scores](../claims/false-beginners-read-aloud-better-than-true-beginners.md) [+W]
-- [On harder passages, false beginners' oral reading falls between true beginners and successful learners](../claims/false-beginners-reading-between-groups-harder-passages.md) [+W]
-- [False beginners and true beginners show no significant differences on any STEP 3 written test item](../claims/false-beginners-true-beginners-no-step3-differences.md) [+W]
 
 ## Related Theories
 - 

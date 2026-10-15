@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: stewart-williams-2020
-    resource: "https://ojed.org/jise"
-    title: "Stewart Williams, J. E. (2020). Daisaku Ikeda's Philosophy of Value-Creating Global Citizenship Education and Africana Humanism: Africa as the Continent of the 21st Century. Journal of Interdisciplinary Studies in Education, 9(SI). https://ojed.org/jise"
+    resource: "https://doi.org/10.32674/jise.v9isi.1877"
+    title: "Stewart Williams, J. E. (2020). Daisaku Ikeda's Philosophy of Value-Creating Global Citizenship Education and Africana Humanism: Africa as the Continent of the 21st Century. Journal of Interdisciplinary Studies in Education, 9(SI). https://ojed.org/jise [doi:10.32674/jise.v9isi.1877](https://doi.org/10.32674/jise.v9isi.1877)"
     author: Stewart Williams, J. E.
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Stewart Williams 2020
 
-Stewart Williams, J. E. (2020). Daisaku Ikeda's Philosophy of Value-Creating Global Citizenship Education and Africana Humanism: Africa as the Continent of the 21st Century. Journal of Interdisciplinary Studies in Education, 9(SI). https://ojed.org/jise
+Stewart Williams, J. E. (2020). Daisaku Ikeda's Philosophy of Value-Creating Global Citizenship Education and Africana Humanism: Africa as the Continent of the 21st Century. Journal of Interdisciplinary Studies in Education, 9(SI). https://ojed.org/jise [doi:10.32674/jise.v9isi.1877](https://doi.org/10.32674/jise.v9isi.1877)
 
 `q1 · i?` · `theoretical · r2`
 
@@ -44,8 +44,8 @@ Theoretical argument in the article's conclusions, offered with no empirical dat
 
 ## Related Claims
 - [Multicultural approach to education may increase cultural sensitivity and reduce race-related stressors (review attribution)](multicultural-approach-sensitivity-stressors.md) — related
-- [Contact between societies does not by itself produce cross-cultural understanding](contact-does-not-yield-understanding.md) — related
-- [Properly conducted LRE programs can reduce delinquent tendencies and improve citizenship attitudes](lre-reduces-delinquent-tendencies.md) — related
+- Contact between societies does not by itself produce cross-cultural understanding — related
+- Properly conducted LRE programs can reduce delinquent tendencies and improve citizenship attitudes — related
 - [In a pedagogical space, epistemic injustice might be activated when teachers' identity prejudice leads them to give a student less credit, and the curriculum can block or enable students' understanding and expression of their social experiences](teacher-identity-prejudice-and-curriculum-can-enact-epistemic-injustice-toward-students.md) — related
 - [Ikeda positions hope as an essential component of global citizenship education, with value creation starting from hope](hope-essential-component-gced.md) — related
 - [The effectiveness of different forms of citizenship education remains unclear, and the review evaluates effects in relation to the quality of the studies reviewed](citizenship-education-effectiveness-unclear-study-quality.md) — related

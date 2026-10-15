@@ -44,11 +44,11 @@ The review's third dominant theme, from thematic analysis of the 50 included stu
 
 ## Related Claims
 
-- [AI-driven situated learning reshapes education by enhancing authenticity and transforming evaluation into assessment woven into the learning process](ai-authenticity-evaluation-reshaping.md) — related
-- [The study lacked comparative conditions, so hybrid-approach improvement claims remain conceptual rather than empirically validated](no-comparative-conditions-hybrid-improvement-unvalidated.md) — related
+- AI-driven situated learning reshapes education by enhancing authenticity and transforming evaluation into assessment woven into the learning process — related
+- The study lacked comparative conditions, so hybrid-approach improvement claims remain conceptual rather than empirically validated — related
 - [AI-supported adaptive systems are reported to enhance adult learner engagement, motivation, and outcomes when aligned with learner goals and prior knowledge](ai-adaptive-systems-enhance-adult-engagement.md) — related
 - [State-led AI evaluation is critical because robust national evaluation research is lacking and local leaders weigh state and local results more heavily](state-led-ai-evaluation-critical-gap.md) — a broader claim this one bears on
-- [Empirical gains from AI tools in Arab EL2 classrooms are most consistent for surface-level outcomes, while higher-order writing quality and speaking proficiency show mixed results contingent on teacher mediation](surface-gains-mixed-higher-order-outcomes.md) — related
+- Empirical gains from AI tools in Arab EL2 classrooms are most consistent for surface-level outcomes, while higher-order writing quality and speaking proficiency show mixed results contingent on teacher mediation — related
 - [Students want ongoing targeted formative feedback, but faculty time constraints and large class sizes limit providing it](formative-feedback-constraints-gateway-math.md) — related
 - [Research on AI support for EL literacy remains limited, narrow in scope, and lacking for diverse EL subgroups](ai-el-literacy-research-gaps.md) — related
 - Empirical research on the ethical implications of teachers using AI for feedback remains scarce — related

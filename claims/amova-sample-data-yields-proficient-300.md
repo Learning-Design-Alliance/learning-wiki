@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: osler-2015
-    resource: "https://eric.ed.gov/?id=EJ1098595"
-    title: "Osler, J. E. (2015). AMOVA [\"Accumulative Manifold Validation Analysis\"]: An advanced statistical methodology designed to measure and test the validity, reliability, and overall efficacy of inquiry-based psychometric instruments. i-manager's Journal of Educational Technology, 12(3). https://eric.ed.gov/?id=EJ1098595"
+    resource: "https://doi.org/10.26634/jet.12.3.3742"
+    title: "Osler, J. E. (2015). AMOVA [\"Accumulative Manifold Validation Analysis\"]: An advanced statistical methodology designed to measure and test the validity, reliability, and overall efficacy of inquiry-based psychometric instruments. i-manager's Journal of Educational Technology, 12(3). https://eric.ed.gov/?id=EJ1098595 [doi:10.26634/jet.12.3.3742](https://doi.org/10.26634/jet.12.3.3742)"
     author: Osler, J. E.
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Osler 2015
 
-Osler, J. E. (2015). AMOVA ["Accumulative Manifold Validation Analysis"]: An advanced statistical methodology designed to measure and test the validity, reliability, and overall efficacy of inquiry-based psychometric instruments. i-manager's Journal of Educational Technology, 12(3). https://eric.ed.gov/?id=EJ1098595
+Osler, J. E. (2015). AMOVA ["Accumulative Manifold Validation Analysis"]: An advanced statistical methodology designed to measure and test the validity, reliability, and overall efficacy of inquiry-based psychometric instruments. i-manager's Journal of Educational Technology, 12(3). https://eric.ed.gov/?id=EJ1098595 [doi:10.26634/jet.12.3.3742](https://doi.org/10.26634/jet.12.3.3742)
 
 `q1 · i?` · `theoretical · r1`
 

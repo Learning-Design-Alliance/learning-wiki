@@ -16,7 +16,7 @@ sources:
 # TPACK: technological pedagogical content knowledge as intersecting knowledge domains
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 TPACK describes teacher knowledge for teaching with technology as the intersection of technological, pedagogical, and content knowledge within contexts. The article presents it as the composite of intersecting domains (TK, PK, CK, TPK, PCK, TCK, TPACK) and uses it as the organizing framework for the professional development program and for analyzing teachers' knowledge transformation. As quoted, TPACK "describes this teacher knowledge through the intersection of content knowledge, pedagogical knowledge and technological knowledge" guiding strategic thinking about when, where, and how to teach content with technologies.
@@ -39,9 +39,7 @@ TPACK describes teacher knowledge for teaching with technology as the intersecti
 ### Claims
 
 - [Online Tpack Program Shift Student Centered Strategies](../claims/online-tpack-program-shift-student-centered-strategies.md) [+M]
-- [Teachers' overarching conceptions expanded to value multiple technologies, including technologies for communication, collaboration, and inquiry, in more student-centered ways](../claims/overarching-conceptions-expanded-multiple-technologies.md) [+W]
 - [Teachers reported that students needed dedicated time to learn and explore technologies before being expected to gain mathematics understanding from them](../claims/students-need-time-learn-technology-first.md) [~W]
-- [Teachers reported that technology-supported group work increased student engagement and helped them access students' thinking](../claims/technology-group-work-engagement-student-thinking.md) [+W]
 
 ## Related Theories
 

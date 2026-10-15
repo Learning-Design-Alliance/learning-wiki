@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: rijmen-2009
-    resource: "http://www.ets.org/research/contact.html"
-    title: "Rijmen, F. (2009). Three Multidimensional Models for Testlet-Based Tests: Formal Relations and an Empirical Comparison. ETS Research Report RR-09-37. http://www.ets.org/research/contact.html"
+    resource: "https://doi.org/10.1002/j.2333-8504.2009.tb02194.x"
+    title: "Rijmen, F. (2009). Three Multidimensional Models for Testlet-Based Tests: Formal Relations and an Empirical Comparison. ETS Research Report RR-09-37. http://www.ets.org/research/contact.html [doi:10.1002/j.2333-8504.2009.tb02194.x](https://doi.org/10.1002/j.2333-8504.2009.tb02194.x)"
     author: Rijmen, F.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Rijmen 2009
 
-Rijmen, F. (2009). Three Multidimensional Models for Testlet-Based Tests: Formal Relations and an Empirical Comparison. ETS Research Report RR-09-37. http://www.ets.org/research/contact.html
+Rijmen, F. (2009). Three Multidimensional Models for Testlet-Based Tests: Formal Relations and an Empirical Comparison. ETS Research Report RR-09-37. http://www.ets.org/research/contact.html [doi:10.1002/j.2333-8504.2009.tb02194.x](https://doi.org/10.1002/j.2333-8504.2009.tb02194.x)
 
 `q2 · i?` · `theoretical · r3`
 
@@ -48,7 +48,7 @@ Figures 4 and 5 display item intercept and loading estimates with 95% confidence
 - [The assessment violates IRT assumptions of unidimensionality and local independence, which the authors identify as a likely cause of the method discrepancy](irt-assumption-violations-cause-dif-method-discrepancy.md) — related
 - [In simulation, ignoring local dependence overestimates reliability, and the overestimation grows with the size of the testlet effect (17.0%-21.8% decrease under the larger testlet effect vs. 4.8%-7.4% under the small)](ignored-local-dependence-overestimates-reliability-simulation.md) — related
 - [In operational reading-test data, item parameter estimates from a standard 2PL/GPCM that ignores local dependence closely match those from the testlet model (average correlations 0.9893 and 0.9978)](local-dependence-small-impact-item-parameters-real-data.md) — related
-- [Applying a MIRT model to unidimensional data yields larger difficulty-parameter error but smaller first-dimension discrimination error than multidimensional data](mirt-recovers-unidimensional-parameters.md) — related
+- Applying a MIRT model to unidimensional data yields larger difficulty-parameter error but smaller first-dimension discrimination error than multidimensional data — related
 - [A multidimensional IRT model with simple structure fits testlet-based reading data better than both the general polytomous testlet model and the standard 2PL/GPCM](mirt-ss-fits-testlet-data-better.md) — related
 - [Most Turkish IRT-based scale development studies did not check the unidimensionality or local independence assumptions](irt-assumptions-often-unchecked-turkey.md) — related
 - [PPMC-N detects local dependence in dichotomous IRT models comparably to the Bayesian PPMC approach](ppmc-n-comparable-to-bayesian-ppmc-local-dependence.md) — related

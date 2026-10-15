@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: carver-thomas-2017
-    resource: "https://learningpolicyinstitute.org/product/teacher-turnover"
-    title: "Carver-Thomas, D. & Darling-Hammond, L. (2017). Teacher turnover: Why it matters and what we can do about it. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/teacher-turnover"
+    resource: "https://doi.org/10.54300/454.278"
+    title: "Carver-Thomas, D. & Darling-Hammond, L. (2017). Teacher turnover: Why it matters and what we can do about it. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/teacher-turnover [doi:10.54300/454.278](https://doi.org/10.54300/454.278)"
     author: "Carver-Thomas, D. & Darling-Hammond, L."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Carver-Thomas 2017
 
-Carver-Thomas, D. & Darling-Hammond, L. (2017). Teacher turnover: Why it matters and what we can do about it. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/teacher-turnover
+Carver-Thomas, D. & Darling-Hammond, L. (2017). Teacher turnover: Why it matters and what we can do about it. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/teacher-turnover [doi:10.54300/454.278](https://doi.org/10.54300/454.278)
 
 `q2 · i?` · `associational · r2`
 
@@ -57,5 +57,5 @@ Multivariate logistic regression on SASS/TFS data controlling for student, teach
 - [Teachers prepared through traditional certification pathways are retained at higher rates over 5 years than alternatively certified or noncertified Texas teachers](traditional-pathway-higher-retention-texas.md) — related
 - [Underprepared teachers are two to three times more likely to leave than prepared teachers, driving a revolving door in high-poverty schools](underprepared-teachers-leave-two-to-three-times-more.md) — related
 - [Five years after first licensure, 69% of traditional-preservice teachers remained in Texas classrooms versus 60% of alternatively certified teachers](retention-gap-traditional-versus-alternative-texas.md) — related
-- [Tennessee's educator diversity efforts leave two recruitment pathways unfunded: minority serving institutions and teacher academies/dual enrollment](tennessee-msi-and-teacher-academy-investment-gaps.md) — related
+- Tennessee's educator diversity efforts leave two recruitment pathways unfunded: minority serving institutions and teacher academies/dual enrollment — related
 - [Students of university-prepared Texas teachers gained 2.2 additional months of 9th-grade ELA learning and 1.8 additional months of 9th-grade math learning versus students of alternatively prepared teachers](university-prepared-teachers-higher-student-learning-gains.md) — related

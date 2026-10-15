@@ -67,7 +67,7 @@ This meta-analysis (open-access full text read) pooled 24 studies of second-lang
 Webb et al. (2023) support the first half of this claim and qualify the second: second-language learners do learn vocabulary incidentally from meaning-focused input, with a large effect against controls, but listening and reading while listening yielded proportions of words learned similar to reading, so reading's primacy is a matter of effect size and of how much it has been studied rather than of other modes producing little. The pooled studies are short experimental treatments, not extensive reading programmes.
 
 ## Related Claims
-- [Extensive reading improves reading comprehension and reading fluency](extensive-reading-improves-comprehension-and-fluency.md) — related
+- Extensive reading improves reading comprehension and reading fluency — related
 - [Extensive reading improves vocabulary acquisition and spelling through repeated meaningful exposure](extensive-reading-improves-vocabulary-and-spelling.md) — possibly the same claim (merge candidate)
 - [Incidental vocabulary exposure produces reliable learning, but learners pick up only a small share of the unknown words they meet](incidental-vocabulary-exposure-limited.md) — related
 - [Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts](vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts.md) — related

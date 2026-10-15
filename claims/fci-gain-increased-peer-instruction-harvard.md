@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Average FCI posttest score in the calculus-based course increased dramatically when instruction changed from traditional (1990) to PI (1991), and normalized gain continued to rise with continued use and course improvements. [→ Crouch 2003](#crouch-2003)
@@ -47,5 +48,5 @@ Course-level comparison of FCI results across years of the Harvard calculus-base
 - [High-ability students' learning behaves as a dominant α-process even at low pretest scores, while average-ability students show more γ-process behavior](high-ability-alpha-dominant-low-pretest.md) — related
 - [CLASP students achieved an average normalized FCI gain of 0.39, above the traditional-course range and in the middle of the interactive-engagement range, despite only about a third of one quarter on mechanics](clasp-fci-normalized-gain.md) — related
 - [Introductory physics students taught with Just-in-Time Teaching showed larger overall Force Concept Inventory gains (37.6%±2.0%) than students in traditional lecture courses (17.9%±2.5%)](jitt-larger-fci-gains-than-lecture.md) — related
-- [Most instructors using Peer Instruction at other institutions report success, with student conceptual understanding at the level of interactive-engagement courses](pi-instructor-survey-success-other-institutions.md) — related
-- [Students taught with Peer Instruction significantly outperformed traditionally taught students on a repeated quantitative exam question in electricity and magnetism](pi-students-outperform-traditional-em-exam.md) — a narrower finding that bears on this claim
+- Most instructors using Peer Instruction at other institutions report success, with student conceptual understanding at the level of interactive-engagement courses — related
+- Students taught with Peer Instruction significantly outperformed traditionally taught students on a repeated quantitative exam question in electricity and magnetism — a narrower finding that bears on this claim

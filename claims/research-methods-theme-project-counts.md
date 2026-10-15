@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: center-for-innovative-research-in-cyberlearning-2020
-    resource: "https://circlcenter.org/resources/reflections-report/"
-    title: "Center for Innovative Research in Cyberlearning (2020). Ambitious mashups: Reflections on a decade of cyberlearning research. [Report]. Digital Promise. https://circlcenter.org/resources/reflections-report/"
+    resource: "https://doi.org/10.51388/20.500.12265/105"
+    title: "Center for Innovative Research in Cyberlearning (2020). Ambitious mashups: Reflections on a decade of cyberlearning research. [Report]. Digital Promise. https://circlcenter.org/resources/reflections-report/ [doi:10.51388/20.500.12265/105](https://doi.org/10.51388/20.500.12265/105)"
     author: Center for Innovative Research in Cyberlearning
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Center for Innovative Research in Cyberlearning 2020
 
-Center for Innovative Research in Cyberlearning (2020). Ambitious mashups: Reflections on a decade of cyberlearning research. [Report]. Digital Promise. https://circlcenter.org/resources/reflections-report/
+Center for Innovative Research in Cyberlearning (2020). Ambitious mashups: Reflections on a decade of cyberlearning research. [Report]. Digital Promise. https://circlcenter.org/resources/reflections-report/ [doi:10.51388/20.500.12265/105](https://doi.org/10.51388/20.500.12265/105)
 
 `q2 · i?` · `review · r2`
 

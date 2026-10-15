@@ -16,7 +16,7 @@ sources:
 # Three-stage fairness-aware analytical pipeline for early at-risk student identification
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 8 claims (6 for, 2 mixed) · 3 studies (1 causal, 1 associational, 1 design), `q2` · 1 of 3 report an effect size · 8 claims rest on one study
+> **Evidence** · 7 claims (5 for, 2 mixed) · 2 studies (1 causal, 1 design), `q2` · 1 of 2 report an effect size · 7 claims rest on one study
 
 ## Description
 The article proposes an analytical framework that identifies at-risk students at three points in a course: a Demog stage using demographic information only, Stage 1 adding learning activities up to the first unit review assignment, and Stage 2 adding activities up to the second assignment. At each stage, four ML models are trained and evaluated on predictive performance and four fairness metrics across race, gender, and lunch-eligibility groups, with bias mitigation applied. The article states the framework consists of "three stages of analysis" and applies "bias mitigation strategies (i.e., ThresholdOptimizer, a commonly used post-processing mitigation approach)" to examine accuracy–fairness trade-offs.
@@ -47,7 +47,6 @@ The article proposes an analytical framework that identifies at-risk students at
 - [Adding more learning activity data beyond Stage 1 did not significantly improve predictive performance of at-risk identification models](../claims/no-significant-performance-gain-later-stages.md) [+W]
 - [Removing the sensitive race feature caused little impact on predictive performance at Stage 1 and no significant fairness differences, with mixed fairness effects](../claims/removing-race-feature-little-performance-impact.md) [~W]
 - [Preprocessing bias mitigation (DIR, RW, SUP) reduces subgroup disparities in TPR while maintaining acceptable balanced accuracy](../claims/preprocessing-mitigation-reduces-disparities-oulad.md) [+W]
-- [Early-stage performance data is particularly important for predicting attrition, while demographic data has limited predictive value once performance data is available](../claims/performance-data-dominates-demographics-in-dropout-prediction.md) [+W]
 
 ## Related Theories
 

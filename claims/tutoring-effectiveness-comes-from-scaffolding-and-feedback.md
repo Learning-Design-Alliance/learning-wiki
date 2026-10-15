@@ -75,7 +75,7 @@ A review of experiments comparing human tutoring, several classes of computer tu
 | [Swanson and Lussier 2001](https://doi.org/10.3102/00346543071002321) | q4 · quant-synthesis · r? | i? | [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) (supports) |
 | [van de Pol et al. 2010](https://doi.org/10.1007/s10648-010-9127-6) | q3 · review · r2 | i? | [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) (supports) |
 | [Wood et al. 1976](https://doi.org/10.1111/j.1469-7610.1976.tb00381.x) | q3 · qualitative · r? | i? | [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) (supports) |
-| Tsvetomila Mihaylova 2026 | q2 · causal · r2 | i? | [All three LLM feedback types credibly reduced attempts to success relative to the baseline](llm-feedback-fewer-attempts.md) (qualifies) |
+| [Tsvetomila Mihaylova 2026](https://doi.org/10.48550/arxiv.2605.16933) | q2 · causal · r2 | i? | [All three LLM feedback types credibly reduced attempts to success relative to the baseline](llm-feedback-fewer-attempts.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -103,9 +103,9 @@ A review of experiments comparing human tutoring, several classes of computer tu
 - [Cognitive apprenticeship.](../patterns/cognitive-apprenticeship.md) — a broader instructional pattern built on modeling, coaching (scaffolding), and fading
 - [Expertise reversal effect.](../theories/expertise-reversal-effect.md) — sustained tutor support can become counterproductive as competence grows
 - [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) — related
-- [The FTS proposes that fading distinguishes expert from non-expert peers via a game-progress threshold, and peer-tutoring collaboration is expected to improve non-expert game progress and knowledge gained](fts-fading-threshold-peer-tutoring-expected-gains.md) — related
+- The FTS proposes that fading distinguishes expert from non-expert peers via a game-progress threshold, and peer-tutoring collaboration is expected to improve non-expert game progress and knowledge gained — related
 - [PAIR-C scaffolding shows mixed evidence for deep understanding and reduced misconceptions in emergent-phenomena instruction](pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction.md) — related
-- [Productive difficulty at the edge of mastery, with high expectations, fosters deeper learning](productive-difficulty-edge-of-mastery.md) — related
+- Productive difficulty at the edge of mastery, with high expectations, fosters deeper learning — related
 - [Scaffold use correlated significantly with mastery of attributes 1, 3, and 4, but not attributes 2 and 5](scaffolding-correlates-mastery-three-of-five-attributes.md) — related
 - [Standalone LLM tutors replicate Phase II's profile: strong single-interaction intelligence without systematic control over the learning trajectory](standalone-llm-tutors-lack-trajectory-control.md) — related
 - [AI's key contribution in STEM education is intelligent scaffolding that lowers the threshold for understanding knowledge, driving a shift from knowledge transmission to capability development](ai-intelligent-scaffolding-lowers-knowledge-threshold.md) — related

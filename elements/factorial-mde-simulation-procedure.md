@@ -17,7 +17,7 @@ sources:
 # Simulation-based power calculation procedure comparing classical and Bayesian MDEs across factorial designs
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (5 for) · 4 studies (3 theoretical, 1 design), `q2` · 0 of 4 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 3 studies (2 theoretical, 1 design), `q2` · 0 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 The paper describes a simulation procedure for comparing the statistical power of classical and Bayesian factorial designs. The authors "repeatedly simulate factorial experiments with a variety of sample sizes and numbers of treatment arms to estimate the minimum detectable effect (MDE) for each combination," producing MDE comparisons across design complexity that quantify the sample-size savings from the Bayesian approach.

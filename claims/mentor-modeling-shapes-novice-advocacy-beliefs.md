@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Two participants (Lucy and Nora) cited seeing experienced teachers enact equitable practices and advocacy as influential in their own development as advocates. [→ Garrone-Shufran 2022](#garrone-shufran-2022)
@@ -43,8 +44,8 @@ Interview findings from the case study: Lucy described two mentor teachers from 
 
 
 ## Related Claims
-- [Nearly all reported advocacy actions were tactical; the single strategic example was enacted at the school level by an experienced teacher](advocacy-actions-mostly-tactical-one-strategic.md) — related
-- [Some novice ESL teachers framed advocacy willingness as a personality trait — being a \"fighter\"](advocacy-as-personality-fighter-framing.md) — reports the opposite
+- Nearly all reported advocacy actions were tactical; the single strategic example was enacted at the school level by an experienced teacher — related
+- Some novice ESL teachers framed advocacy willingness as a personality trait — being a \"fighter\" — reports the opposite
 - [Mentor modelling and a school-wide behaviour program's strategies transferred to the mentee's classroom management practices](mentor-modelling-strategies-transfer-mentee-behaviour-management.md) — related
-- [Novice ESL teachers in this study reported advocacy actions most often at the school level, not the classroom](novice-esl-advocacy-school-level-most-common.md) — related
-- [School hierarchy and lack of seniority made advocacy challenging for novice ESL teachers, who relied on relationship building](school-hierarchy-challenges-novice-advocacy.md) — related
+- Novice ESL teachers in this study reported advocacy actions most often at the school level, not the classroom — related
+- School hierarchy and lack of seniority made advocacy challenging for novice ESL teachers, who relied on relationship building — related

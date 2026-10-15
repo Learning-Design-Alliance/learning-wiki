@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: lu-2024
-    resource: "https://osf.io/mdpzc/"
-    title: "Lu, Y., Tong, L., & Cheng, Y. (2024). Advanced Knowledge Tracing: Incorporating Process Data and Curricula Information via an Attention-Based Framework for Accuracy and Interpretability. Journal of Educational Data Mining, 16(2). https://osf.io/mdpzc/"
+    resource: "https://doi.org/10.31219/osf.io/3k7z2"
+    title: "Lu, Y., Tong, L., & Cheng, Y. (2024). Advanced Knowledge Tracing: Incorporating Process Data and Curricula Information via an Attention-Based Framework for Accuracy and Interpretability. Journal of Educational Data Mining, 16(2). https://osf.io/mdpzc/ [doi:10.31219/osf.io/3k7z2](https://doi.org/10.31219/osf.io/3k7z2)"
     author: "Lu, Y., Tong, L., & Cheng, Y."
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Lu 2024
 
-Lu, Y., Tong, L., & Cheng, Y. (2024). Advanced Knowledge Tracing: Incorporating Process Data and Curricula Information via an Attention-Based Framework for Accuracy and Interpretability. Journal of Educational Data Mining, 16(2). https://osf.io/mdpzc/
+Lu, Y., Tong, L., & Cheng, Y. (2024). Advanced Knowledge Tracing: Incorporating Process Data and Curricula Information via an Attention-Based Framework for Accuracy and Interpretability. Journal of Educational Data Mining, 16(2). https://osf.io/mdpzc/ [doi:10.31219/osf.io/3k7z2](https://doi.org/10.31219/osf.io/3k7z2)
 
 `q3 · i? · the article prints no effect size for this finding` · `design · r2`
 
@@ -44,7 +44,7 @@ Results section comparison of four architectures evaluated with 10-fold cross-va
 
 ## Related Claims
 - [Ablation study: removing any component lowers evaluation AUC, and removing all additional features yields the lowest public and private AUCs](ablation-all-features-maximize-auc.md) — related
-- [Embedding pretraining outperforms end-to-end training in DynEmb, avoiding the overfitting that end-to-end training exhibits](embedding-pretraining-beats-end-to-end-training-dynemb.md) — related
+- Embedding pretraining outperforms end-to-end training in DynEmb, avoiding the overfitting that end-to-end training exhibits — related
 - [Rank-averaged ensembling stabilized predictions but did not outperform the single base model](ensemble-stabilizes-but-not-better-than-model1.md) — related
 - [The proposed Transformer-based framework achieved first place in the EDM Cup 2023 with an AUC of 78.969% on the private evaluation dataset](transformer-kt-first-place-edm-cup-2023.md) — related
-- [In a student project on laser-drilled hole diameter detection, GPR significantly outperformed MLP in detection accuracy and training speed](gpr-outperformed-mlp-hole-diameter-detection.md) — related
+- In a student project on laser-drilled hole diameter detection, GPR significantly outperformed MLP in detection accuracy and training speed — related

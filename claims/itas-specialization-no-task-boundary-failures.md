@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: iizalaarab-elhaimeur-and-nikos-chrisochoides-2026
-    resource: "https://arxiv.org/abs/2604.24807"
-    title: "Iizalaarab Elhaimeur and Nikos Chrisochoides. (2026). From Prototype to Classroom: An Intelligent Tutoring System for Quantum Education. https://arxiv.org/abs/2604.24807"
+    resource: "https://doi.org/10.48550/arxiv.2604.24807"
+    title: "Iizalaarab Elhaimeur and Nikos Chrisochoides. (2026). From Prototype to Classroom: An Intelligent Tutoring System for Quantum Education. https://arxiv.org/abs/2604.24807 [doi:10.48550/arxiv.2604.24807](https://doi.org/10.48550/arxiv.2604.24807)"
     author: Iizalaarab Elhaimeur and Nikos Chrisochoides
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Iizalaarab Elhaimeur and Nikos Chrisochoides 2026
 
-Iizalaarab Elhaimeur and Nikos Chrisochoides. (2026). From Prototype to Classroom: An Intelligent Tutoring System for Quantum Education. https://arxiv.org/abs/2604.24807
+Iizalaarab Elhaimeur and Nikos Chrisochoides. (2026). From Prototype to Classroom: An Intelligent Tutoring System for Quantum Education. https://arxiv.org/abs/2604.24807 [doi:10.48550/arxiv.2604.24807](https://doi.org/10.48550/arxiv.2604.24807)
 
 `q2 · i?` · `design · r2`
 

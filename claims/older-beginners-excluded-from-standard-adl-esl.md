@@ -47,6 +47,6 @@ The author's practitioner analysis of federally-funded adult education and commu
 - [In one practitioner's report on her own older-beginner Step One class, with no comparison group, students gained an average of 128 BEST Plus points over 6 months and two former absolute beginners passed the citizenship test](older-beginner-esl-outcome-gains.md) — related
 - [Common language teaching methods such as oral drills, memorization, and fast-paced competitive activities disadvantage older learners](rote-drills-disadvantage-older-learners.md) — related
 - [Nearly 43 million U.S. adults lack the basic English literacy skills required to succeed in the workforce and achieve economic self-sufficiency](43-million-adults-lack-basic-english-literacy.md) — related
-- [US federal adult education funding structures (AEFLA and Title I) are fragmented and lack purchasing leverage, making scale difficult for ed-tech entrepreneurs](adult-ed-delivery-structures-fractured.md) — related
+- US federal adult education funding structures (AEFLA and Title I) are fragmented and lack purchasing leverage, making scale difficult for ed-tech entrepreneurs — related
 - [Students value knowing class routines and report that rushed pacing, especially in Advanced Placement courses, is a barrier to mastering content](students-report-routines-help-and-rushed-pacing-hurts.md) — related
-- [WIOA requires integration of technology and digital skills into federally funded adult education programs, positioning entrepreneurs to capitalize on the mandate](wioa-requires-technology-integration-adult-education.md) — related
+- WIOA requires integration of technology and digital skills into federally funded adult education programs, positioning entrepreneurs to capitalize on the mandate — related

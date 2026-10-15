@@ -41,7 +41,7 @@ Descriptive statistics on the attitude subscale among experimental-group student
 
 
 ## Related Claims
-- [The GenAI session strengthened immediate AI-handling confidence and workflow literacy, but students remained hesitant about transferring these skills to employment](gen-aitecture-ai-handling-confidence-transfer-hesitation.md) — related
+- The GenAI session strengthened immediate AI-handling confidence and workflow literacy, but students remained hesitant about transferring these skills to employment — related
 - [Students in the generative AI-supported condition reported favorable perceptions of the instruction, with feedback for correcting mistakes rated highest](genai-geometry-favorable-perceptions.md) — related
 - [Chatbot users held more positive attitudes and reported greater perceived knowledge gains than non-users](chatbot-users-more-positive-than-non-users.md) — related
 - [Primary school teachers report moderately positive overall perceptions of AI in mathematics instruction, with willingness and attitudes higher than personal experience](moderately-positive-teacher-ai-perceptions-primary-math.md) — related

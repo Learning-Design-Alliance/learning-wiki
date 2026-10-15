@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: s-m-asif-hossain-2026
-    resource: "https://arxiv.org/abs/2607.15738"
-    title: "S M Asif Hossain, Ruksat Khan Shayoni, M. F. Mridha, and Jungpil Shin. (2026). EduGuard: A Safe RAG-Based LLM Tutor for Programming Education. arXiv preprint arXiv:2607.15738. https://arxiv.org/abs/2607.15738"
+    resource: "https://doi.org/10.48550/arxiv.2607.15738"
+    title: "S M Asif Hossain, Ruksat Khan Shayoni, M. F. Mridha, and Jungpil Shin. (2026). EduGuard: A Safe RAG-Based LLM Tutor for Programming Education. arXiv preprint arXiv:2607.15738. https://arxiv.org/abs/2607.15738 [doi:10.48550/arxiv.2607.15738](https://doi.org/10.48550/arxiv.2607.15738)"
     author: S M Asif Hossain, Ruksat Khan Shayoni, M. F. Mridha, and Jungpil Shin
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### S M Asif Hossain 2026
 
-S M Asif Hossain, Ruksat Khan Shayoni, M. F. Mridha, and Jungpil Shin. (2026). EduGuard: A Safe RAG-Based LLM Tutor for Programming Education. arXiv preprint arXiv:2607.15738. https://arxiv.org/abs/2607.15738
+S M Asif Hossain, Ruksat Khan Shayoni, M. F. Mridha, and Jungpil Shin. (2026). EduGuard: A Safe RAG-Based LLM Tutor for Programming Education. arXiv preprint arXiv:2607.15738. https://arxiv.org/abs/2607.15738 [doi:10.48550/arxiv.2607.15738](https://doi.org/10.48550/arxiv.2607.15738)
 
 `q2 · i?` · `causal · r1`
 

@@ -64,5 +64,5 @@ Pairwise group comparisons breaking down the group × construction interaction: 
 ## Related Claims
 - [Korean EFL learners sort sentences increasingly by construction rather than by verb as grade level increases](construction-based-sorting-increases-with-grade-level.md) — related
 - [The transitive construction is acquired earliest while the resultative construction poses difficulty even for advanced learners](transitive-earliest-resultative-hardest.md) — possibly the same claim (merge candidate)
-- [Use of a deceptive word need not cause complete misunderstanding, but some semantic affinity in the pair is always necessary for such a translation to be correct](deceptive-word-use-not-always-complete-misunderstanding.md) — related
-- [Risk of semantic interference varies systematically across the four relation types, with full contrast always producing faulty translation when a formal replica is used](interference-risk-varies-by-relation-type.md) — related
+- Use of a deceptive word need not cause complete misunderstanding, but some semantic affinity in the pair is always necessary for such a translation to be correct — related
+- Risk of semantic interference varies systematically across the four relation types, with full contrast always producing faulty translation when a formal replica is used — related

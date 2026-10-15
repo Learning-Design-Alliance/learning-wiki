@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: francesca-mangili-2026
-    resource: "https://arxiv.org/abs/2608.24632"
-    title: "Francesca Mangili, Alessandro Antonucci, Rafael Cabañas de Paz. (2026). Causal Modelling of Support Interventions for Student Competency Assessment. arXiv. https://arxiv.org/abs/2608.24632"
+    resource: "https://doi.org/10.48550/arxiv.2608.24632"
+    title: "Francesca Mangili, Alessandro Antonucci, Rafael Cabañas de Paz. (2026). Causal Modelling of Support Interventions for Student Competency Assessment. arXiv. https://arxiv.org/abs/2608.24632 [doi:10.48550/arxiv.2608.24632](https://doi.org/10.48550/arxiv.2608.24632)"
     author: Francesca Mangili, Alessandro Antonucci, Rafael Cabañas de Paz
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Francesca Mangili 2026
 
-Francesca Mangili, Alessandro Antonucci, Rafael Cabañas de Paz. (2026). Causal Modelling of Support Interventions for Student Competency Assessment. arXiv. https://arxiv.org/abs/2608.24632
+Francesca Mangili, Alessandro Antonucci, Rafael Cabañas de Paz. (2026). Causal Modelling of Support Interventions for Student Competency Assessment. arXiv. https://arxiv.org/abs/2608.24632 [doi:10.48550/arxiv.2608.24632](https://doi.org/10.48550/arxiv.2608.24632)
 
 `q2 · i?` · `theoretical · r3`
 

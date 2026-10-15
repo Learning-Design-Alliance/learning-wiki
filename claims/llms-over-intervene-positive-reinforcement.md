@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: dimitris-tsirmpas-2026
-    resource: "https://arxiv.org/abs/2607.28643"
-    title: "Dimitris Tsirmpas, Katerina Korre, John Pavlopoulos. (2026). To Facilitate or not to Facilitate: Human and LLM Facilitator Tendencies in Online Discussions. https://arxiv.org/abs/2607.28643"
+    resource: "https://doi.org/10.48550/arxiv.2607.28643"
+    title: "Dimitris Tsirmpas, Katerina Korre, John Pavlopoulos. (2026). To Facilitate or not to Facilitate: Human and LLM Facilitator Tendencies in Online Discussions. https://arxiv.org/abs/2607.28643 [doi:10.48550/arxiv.2607.28643](https://doi.org/10.48550/arxiv.2607.28643)"
     author: Dimitris Tsirmpas, Katerina Korre, John Pavlopoulos
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Dimitris Tsirmpas 2026
 
-Dimitris Tsirmpas, Katerina Korre, John Pavlopoulos. (2026). To Facilitate or not to Facilitate: Human and LLM Facilitator Tendencies in Online Discussions. https://arxiv.org/abs/2607.28643
+Dimitris Tsirmpas, Katerina Korre, John Pavlopoulos. (2026). To Facilitate or not to Facilitate: Human and LLM Facilitator Tendencies in Online Discussions. https://arxiv.org/abs/2607.28643 [doi:10.48550/arxiv.2607.28643](https://doi.org/10.48550/arxiv.2607.28643)
 
 `q2 · i?` · `associational · r1`
 
@@ -43,4 +43,4 @@ The same survey repeated with six open-source LLMs on PEFK discussion chunks. In
 
 
 ## Related Claims
-- [Human-LLM sentiment divergences were patterned: the LLM tended to assign affective labels to statements a human coder read as neutral](llm-affective-label-bias-neutral-statements.md) — possibly the same claim (merge candidate)
+- Human-LLM sentiment divergences were patterned: the LLM tended to assign affective labels to statements a human coder read as neutral — possibly the same claim (merge candidate)

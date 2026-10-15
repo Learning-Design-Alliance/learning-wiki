@@ -47,5 +47,5 @@ The report states, citing NASEM (2017), that "learning behaviors associated with
 
 ## Related Claims
 - [Bilingual staff help differentiate typical language development from disability, but interviewees described no systematic process for doing so](bilingual-staff-differentiation-no-systematic-process.md) — related
-- [Bilingual children acquire vocabulary and syntax in each language more slowly than monolingual children, yet show cognitive advantages and can match or surpass monolingual peers with support](bilingual-vocabulary-syntax-slower-with-cognitive-advantages.md) — related
+- Bilingual children acquire vocabulary and syntax in each language more slowly than monolingual children, yet show cognitive advantages and can match or surpass monolingual peers with support — related
 - [Multidisciplinary teams often provide home language support and delay referral to rule out lack of opportunity to learn before evaluating ML children](home-language-support-rules-out-opportunity.md) — related

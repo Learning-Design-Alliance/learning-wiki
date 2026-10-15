@@ -17,7 +17,7 @@ sources:
 # NWEA webinar on growth patterns and distance learning for DHH students
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 for, 1 against) · 2 studies (1 associational, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 An October 2020 NWEA Research webinar presentation in which Dr. Stephanie Cawthon and colleagues "share new research following the academic growth trajectories of students who are deaf or hard of hearing (DHH) from grades 2-8," followed by a second presentation of distance learning tips. The page lists topics of Equity, Accessibility, and Growth modeling and links to the presentation itself. It serves as a dissemination artifact for the research and practitioner guidance.
@@ -40,7 +40,6 @@ An October 2020 NWEA Research webinar presentation in which Dr. Stephanie Cawtho
 
 - [New research tracked academic growth trajectories of students who are deaf or hard of hearing across grades 2-8](../claims/dhh-growth-trajectories-grades-2-8-study.md) [+M]
 - [Students who are deaf or hard of hearing continue to grow and acquire literacy skills well into middle school when tracked across grades 2-8](../claims/dhh-students-continue-literacy-growth-into-middle-school.md) [+M]
-- [Deaf students plateau at fourth-grade reading skill despite prolonged schooling](../claims/deaf-students-reading-plateau-fourth-grade.md) [-W]
 
 ## Related Elements
 

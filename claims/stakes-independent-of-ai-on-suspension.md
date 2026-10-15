@@ -10,8 +10,8 @@ generated:
 evidence_strength: mixed
 sources:
   - id: chiara-marcoccia-2026
-    resource: "https://osf.io/nwx6r/overview?view_only=a03ae0ca587c4c84a442c44d55ab97b6"
-    title: "Chiara Marcoccia, Walter Quattrociocchi, Valerio Capraro. (2026). AI advice suppresses people's willingness to say \"I don't know\", even when the advice is wrong and accuracy is incentivized. https://osf.io/nwx6r/overview?view_only=a03ae0ca587c4c84a442c44d55ab97b6"
+    resource: "https://doi.org/10.31234/osf.io/5y6m4_v1"
+    title: "Chiara Marcoccia, Walter Quattrociocchi, Valerio Capraro. (2026). AI advice suppresses people's willingness to say \"I don't know\", even when the advice is wrong and accuracy is incentivized. https://osf.io/nwx6r/overview?view_only=a03ae0ca587c4c84a442c44d55ab97b6 [doi:10.31234/osf.io/5y6m4_v1](https://doi.org/10.31234/osf.io/5y6m4_v1)"
     author: Chiara Marcoccia, Walter Quattrociocchi, Valerio Capraro
     q: 3
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Monetary stakes for accuracy act independently of AI availability on judgment suspension, with no significant AI × stakes interaction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2`–`r3` · `q3`
+> **Evidence** · 2 studies · 2 causal `r2`–`r3` · `q3`
 
 ## Subclaims
 `q3 i?` The pre-registered negative AI × stakes interaction on suspension was not significant in Studies 2, 3, and 4 (p = .312, .506, .784). [→ Chiara Marcoccia 2026](#chiara-marcoccia-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Chiara Marcoccia 2026
 
-Chiara Marcoccia, Walter Quattrociocchi, Valerio Capraro. (2026). AI advice suppresses people's willingness to say "I don't know", even when the advice is wrong and accuracy is incentivized. https://osf.io/nwx6r/overview?view_only=a03ae0ca587c4c84a442c44d55ab97b6
+Chiara Marcoccia, Walter Quattrociocchi, Valerio Capraro. (2026). AI advice suppresses people's willingness to say "I don't know", even when the advice is wrong and accuracy is incentivized. https://osf.io/nwx6r/overview?view_only=a03ae0ca587c4c84a442c44d55ab97b6 [doi:10.31234/osf.io/5y6m4_v1](https://doi.org/10.31234/osf.io/5y6m4_v1)
 
 `q3 · i?` · `causal · r2`
 

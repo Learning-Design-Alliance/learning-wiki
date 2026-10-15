@@ -72,5 +72,5 @@ The page describes a technical appendix for a brief that "examines the relations
 - [Post-COVID school recovery varies across schools in both the size of initial achievement declines and the size of subsequent gains](post-covid-recovery-diverges-across-schools.md) — related
 - [NWEA analysis of 2,000 US school districts examined whether persistently high absenteeism was associated with slower math and reading recovery](chronic-absenteeism-slower-recovery-2000-districts.md) — possibly the same claim (merge candidate)
 - [Districts are collecting, monitoring, reporting and learning from unprecedented COVID-recovery interventions, with more than 40 state plans approved](districts-monitor-esser-interventions-40-state-plans.md) — related
-- [Supportive school environments and strong teacher-student relationships speed recovery from learning loss](supportive-environments-relationships-speed-recovery.md) — related
+- Supportive school environments and strong teacher-student relationships speed recovery from learning loss — related
 - Research priority shifts between eras correlate with federal policy changes and national events, as when chronic absenteeism research emerged only after ESSA created federal reporting requirements — related

@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q3 i?` Controlling for skills upon entering preschool, good attendance is more strongly related to academic gains for students who enter preschool with lower incoming skills than for students who enter with higher incoming skills. [→ Ehrlich 2014](#ehrlich-2014)
@@ -45,4 +46,4 @@ Moderation analysis within the Preschool Longitudinal Study sample examining whe
 
 - [Children who attend pre-kindergarten are more ready for kindergarten at the end of their pre-k year than children who do not attend](prek-attendance-kindergarten-readiness.md) — the general claim this finding bears on, with the studies behind it
 - [Preschool students who miss more school have lower kindergarten readiness scores on math, letter recognition, and social-emotional measures, controlling for incoming skills](preschool-absence-lower-kindergarten-readiness-scores.md) — related
-- [Pre-kindergarten absence is widespread in a large urban district, particularly among African American students and those entering with the lowest skills](prek-absence-widespread-african-american-lowest-skills.md) — related
+- Pre-kindergarten absence is widespread in a large urban district, particularly among African American students and those entering with the lowest skills — related

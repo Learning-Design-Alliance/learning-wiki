@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` The literature on multidimensional latent variable models shows it is numerically very challenging to differentiate multiple latent dimensions; successfully estimated models contain at most about four to six latent variables, and highly correlated within-domain dimensions may produce unreliable scores. [→ Rupp 2010](#rupp-2010)
@@ -45,7 +46,7 @@ The paper's evidence-model section reports, citing Haberman (2008) and Sinharay,
 
 ## Related Claims
 - [The second-order multidimensional IRT model for testlets is formally equivalent to the testlet model, and both are restricted bifactor models](second-order-model-equivalent-to-testlet-model.md) — related
-- [The three composite scoring methods yield differently related ability estimates, with the UIRT oral composite correlating far more with Speaking than Listening estimates](composite-score-estimates-correlation-patterns.md) — related
+- The three composite scoring methods yield differently related ability estimates, with the UIRT oral composite correlating far more with Speaking than Listening estimates — related
 - [Defining and quantifying reliability and measurement error is particularly challenging in epistemic games for three principal reasons](reliability-challenges-epistemic-games.md) — related
-- [Adding Markov structures for both general and specific dimensions over time yields a model that does not scale well with the number of measurement occasions](markov-all-dimensions-poor-scaling.md) — related
+- Adding Markov structures for both general and specific dimensions over time yields a model that does not scale well with the number of measurement occasions — related
 - [Measurement models based on vaguely quantified behavioral frequency reports differ in structure from those based on numerically quantified reports](vague-vs-numeric-frequency-measurement-models-differ.md) — related

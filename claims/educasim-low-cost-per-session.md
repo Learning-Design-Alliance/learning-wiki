@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: cameron-mohne-2026
-    resource: "https://arxiv.org/abs/2603.11444"
-    title: "Cameron Mohne, Nicholas Vo, Dora Demszky, Chris Piech. (2026). EducaSim: Interactive Simulacra for CS1 Instructional Practice. https://arxiv.org/abs/2603.11444"
+    resource: "https://doi.org/10.48550/arxiv.2603.11444"
+    title: "Cameron Mohne, Nicholas Vo, Dora Demszky, Chris Piech. (2026). EducaSim: Interactive Simulacra for CS1 Instructional Practice. https://arxiv.org/abs/2603.11444 [doi:10.48550/arxiv.2603.11444](https://doi.org/10.48550/arxiv.2603.11444)"
     author: Cameron Mohne, Nicholas Vo, Dora Demszky, Chris Piech
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Cameron Mohne 2026
 
-Cameron Mohne, Nicholas Vo, Dora Demszky, Chris Piech. (2026). EducaSim: Interactive Simulacra for CS1 Instructional Practice. https://arxiv.org/abs/2603.11444
+Cameron Mohne, Nicholas Vo, Dora Demszky, Chris Piech. (2026). EducaSim: Interactive Simulacra for CS1 Instructional Practice. https://arxiv.org/abs/2603.11444 [doi:10.48550/arxiv.2603.11444](https://doi.org/10.48550/arxiv.2603.11444)
 
 `q2 · i?` · `design · r2`
 
@@ -44,4 +44,4 @@ Cost accounting from the deployment's methodology section: the platform uses GPT
 
 ## Related Claims
 - [Teachers who engaged with EducaSim generally viewed it as a positive experience](educasim-positive-teacher-sentiment-254-sessions.md) — related
-- [In a real academic pilot, AISSA processed 90 presentations reliably at 1–3 minutes per submission and an estimated cost of $0.06–0.07 USD per evaluation](aissa-pilot-reliable-low-cost-processing.md) — related
+- In a real academic pilot, AISSA processed 90 presentations reliably at 1–3 minutes per submission and an estimated cost of $0.06–0.07 USD per evaluation — related

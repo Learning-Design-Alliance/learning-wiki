@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: vishal-kumar-2025
-    resource: "https://arxiv.org/abs/2511.08283"
-    title: "Vishal Kumar, Shubhra Mishra, Rebecca Hao, Rizwaan Malik, David Broman, Dorottya Demszky. (2025). DiagramIR: An Automatic Pipeline for Educational Math Diagram Evaluation. NeurIPS 2025 Workshop: MATH-AI. https://arxiv.org/abs/2511.08283"
+    resource: "https://doi.org/10.48550/arxiv.2511.08283"
+    title: "Vishal Kumar, Shubhra Mishra, Rebecca Hao, Rizwaan Malik, David Broman, Dorottya Demszky. (2025). DiagramIR: An Automatic Pipeline for Educational Math Diagram Evaluation. NeurIPS 2025 Workshop: MATH-AI. https://arxiv.org/abs/2511.08283 [doi:10.48550/arxiv.2511.08283](https://doi.org/10.48550/arxiv.2511.08283)"
     author: Vishal Kumar, Shubhra Mishra, Rebecca Hao, Rizwaan Malik, David Broman, Dorottya Demszky
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Vishal Kumar 2025
 
-Vishal Kumar, Shubhra Mishra, Rebecca Hao, Rizwaan Malik, David Broman, Dorottya Demszky. (2025). DiagramIR: An Automatic Pipeline for Educational Math Diagram Evaluation. NeurIPS 2025 Workshop: MATH-AI. https://arxiv.org/abs/2511.08283
+Vishal Kumar, Shubhra Mishra, Rebecca Hao, Rizwaan Malik, David Broman, Dorottya Demszky. (2025). DiagramIR: An Automatic Pipeline for Educational Math Diagram Evaluation. NeurIPS 2025 Workshop: MATH-AI. https://arxiv.org/abs/2511.08283 [doi:10.48550/arxiv.2511.08283](https://doi.org/10.48550/arxiv.2511.08283)
 
 `q2 · i?` · `design · r3`
 

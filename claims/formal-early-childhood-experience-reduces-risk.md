@@ -87,7 +87,7 @@ Figure 2 of the 2022/23 analysis (females shown; males show the same patterns) s
 ## Related Claims
 
 - [The likelihood of being identified as significantly below benchmark in early literacy screening increases as historically underserved background characteristics intersect](intersecting-backgrounds-increase-literacy-risk.md) — related
-- [Children attending early childhood education programs are far more likely to be on track in emergent literacy and numeracy](cl-early-childhood-education-improves-school-readiness.md) — related
+- Children attending early childhood education programs are far more likely to be on track in emergent literacy and numeracy — related
 - [Low income, English learner, special education, Black, and Hispanic students were more likely to be classified significantly below benchmark at each time period and more than once](student-group-risk-disparities.md) — related
 - [Students from low income, English learner, special education, and several racial/ethnic groups are more likely to be repeatedly identified as significantly below benchmark, with low income students 2.5 times as likely](massachusetts-k3-risk-inequities-student-groups.md) — related
 - [A state funding report's research review, citing earlier studies, states that inclusive preschool special education benefits students with and without disabilities and that effective early education reduces later special education identification](inclusive-preschool-benefits-reduced-identification.md) — related

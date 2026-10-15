@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Across six students with learning disabilities, mean percent correct on weekly vocabulary tests rose from 63.75% under the definition model to 90.67% under the concept model, a 42.23% increase. [→ Fore III 2007](#fore-iii-2007)
@@ -44,5 +45,5 @@ Multiple-baseline-across-participants study of six seventh-grade students with L
 ## Related Claims
 
 - [Vocabulary Instruction Improves Comprehension](vocabulary-instruction-improves-comprehension.md) — the general claim this finding bears on, with the studies behind it
-- [Students with learning disabilities reported high satisfaction with learning vocabulary through concept diagrams](high-student-satisfaction-concept-diagrams.md) — related
-- [After concept-model instruction, students' posttest vocabulary scores ranged from 57.78% to 82.22% correct, compared with pretest scores of 0% to 8.89%](posttest-gains-pretest-to-posttest-concept-model.md) — related
+- Students with learning disabilities reported high satisfaction with learning vocabulary through concept diagrams — related
+- After concept-model instruction, students' posttest vocabulary scores ranged from 57.78% to 82.22% correct, compared with pretest scores of 0% to 8.89% — related

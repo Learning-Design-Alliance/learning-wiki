@@ -83,7 +83,7 @@ The WWC-computed domain average effect size for alphabetics was 0.22 across the 
 - [Corrective Reading showed no statistically significant effects on reading comprehension outcomes](corrective-reading-no-comprehension-effects.md) — related
 - [Effects of Corrective Reading varied by student subgroup: positive for students with high pretest vocabulary scores and for students not eligible for free/reduced lunch, but not for their counterparts](corrective-reading-subgroup-moderators.md) — related
 - [Four of six standards-meeting studies showed statistically significant positive effects and two showed substantively important positive effects on phonological processing](phonological-awareness-training-six-studies-significance-pattern.md) — related
-- [Most outcomes of Corrective Reading, including state reading tests, did not show positive effects, yielding an average effect size of only +0.06](corrective-reading-most-outcomes-null-average-es-006.md) — related
-- [Corrective Reading produced a significant positive effect on Woodcock Word Attack (effect size = +0.15) in its only qualifying evaluation](corrective-reading-word-attack-positive-effect.md) — reports the opposite
-- [REDI effects largely fade by end of kindergarten, with significant positive effects only on TOWRE Phonetic Decoding Efficiency](redi-kindergarten-followup-faded-effects.md) — related
-- [Kindergarteners using Bridge to Reading showed greater growth in phonological awareness and phonics/word recognition (ES +0.22 each)](bridge-to-reading-kindergarten-growth-es-022.md) — related
+- Most outcomes of Corrective Reading, including state reading tests, did not show positive effects, yielding an average effect size of only +0.06 — related
+- Corrective Reading produced a significant positive effect on Woodcock Word Attack (effect size = +0.15) in its only qualifying evaluation — reports the opposite
+- REDI effects largely fade by end of kindergarten, with significant positive effects only on TOWRE Phonetic Decoding Efficiency — related
+- Kindergarteners using Bridge to Reading showed greater growth in phonological awareness and phonics/word recognition (ES +0.22 each) — related

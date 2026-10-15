@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: germán-arroyo-2026
-    resource: "https://arxiv.org/abs/2606.05929"
-    title: "Germán Arroyo, Luis López, and Juan Carlos Torres. (2026). Securing the Sandbox: A Rootless Containerized Framework for Process-Oriented Monitoring in Computer Graphics Education. https://arxiv.org/abs/2606.05929"
+    resource: "https://doi.org/10.48550/arxiv.2606.05929"
+    title: "Germán Arroyo, Luis López, and Juan Carlos Torres. (2026). Securing the Sandbox: A Rootless Containerized Framework for Process-Oriented Monitoring in Computer Graphics Education. https://arxiv.org/abs/2606.05929 [doi:10.48550/arxiv.2606.05929](https://doi.org/10.48550/arxiv.2606.05929)"
     author: Germán Arroyo, Luis López, and Juan Carlos Torres
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Germán Arroyo 2026
 
-Germán Arroyo, Luis López, and Juan Carlos Torres. (2026). Securing the Sandbox: A Rootless Containerized Framework for Process-Oriented Monitoring in Computer Graphics Education. https://arxiv.org/abs/2606.05929
+Germán Arroyo, Luis López, and Juan Carlos Torres. (2026). Securing the Sandbox: A Rootless Containerized Framework for Process-Oriented Monitoring in Computer Graphics Education. https://arxiv.org/abs/2606.05929 [doi:10.48550/arxiv.2606.05929](https://doi.org/10.48550/arxiv.2606.05929)
 
 `q2 · i?` · `design · r2`
 

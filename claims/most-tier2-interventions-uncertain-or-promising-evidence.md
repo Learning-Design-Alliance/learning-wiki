@@ -44,7 +44,7 @@ Systematic review of 20 studies covering 18 interventions, all meeting WWC 5.0 s
 
 ## Related Claims
 - [Common strategies across reviewed Tier 2 interventions include structured curriculum, small group instruction, and progress-monitoring assessment tools](common-strategies-structured-curriculum-small-group-progress-monitoring.md) — related
-- [Core5 use for one year yields significantly higher MAP reading scores than control for K-5 special education students (ES = +0.23)](core5-higher-map-scores-special-education.md) — related
-- [Across four studies of Lexia Core5, the average effect size on reading outcomes is +0.16](core5-average-es-016-four-studies.md) — related
+- Core5 use for one year yields significantly higher MAP reading scores than control for K-5 special education students (ES = +0.23) — related
+- Across four studies of Lexia Core5, the average effect size on reading outcomes is +0.16 — related
 - [Core5 students in grades 3-5 showed significantly larger reading achievement gains than a matched comparison group (ES = +0.11)](core5-matched-comparison-es-011.md) — related
 - [None of the WWC-standards-meeting studies of Tier 2 literacy interventions were conducted in CNMI or other Pacific islands, limiting generalizability](no-tier2-literacy-studies-conducted-in-cnmi.md) — related

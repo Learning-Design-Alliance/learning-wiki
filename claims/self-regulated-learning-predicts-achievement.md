@@ -85,8 +85,8 @@ Two meta-analyses of elementary and secondary school students related achievemen
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — possibly the same claim (merge candidate)
 - [Strategy Instruction Improves Learning](strategy-instruction-improves-learning.md) — possibly the same claim (merge candidate)
 - [Logged time investment on an online mathematics preparation platform differed significantly across SRL intervention groups, rising from control through diary and training + diary to training + diary + peer feedback groups](srl-interventions-increase-logged-time-investment-online-math-prep-course.md) — a narrower finding that bears on this claim
-- [Self-regulated learning is domain specific, with greater cognitive strategy use in social studies and English than in mathematics](srl-is-domain-specific-strategy-use-varies-by-subject.md) — related
-- [Self-regulated learning strategies account for up to 51% of the variance in academic performance, with metacognitive regulation strategies the strongest predictors](srl-strategies-account-up-to-51-percent-variance-academic-performance.md) — related
+- Self-regulated learning is domain specific, with greater cognitive strategy use in social studies and English than in mathematics — related
+- Self-regulated learning strategies account for up to 51% of the variance in academic performance, with metacognitive regulation strategies the strongest predictors — related
 - [Strategy Instruction Needs Conditional Knowledge](strategy-instruction-needs-conditional-knowledge.md) — related
 - [Positive teacher–student relationships are associated with greater student engagement and, more weakly, with achievement](teacher-student-relationships-improve-engagement.md) — related
 - [Metacognitive strategies, effort regulation, and coping with problems significantly predict Japanese EFL learners' proficiency](three-srl-strategy-factors-predict-efl-proficiency.md) — a narrower finding that bears on this claim

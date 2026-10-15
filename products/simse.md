@@ -18,7 +18,7 @@ sources:
 # SimSE
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 6 claims (6 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 SimSE is a dataset of 1,135 simulated five-minute teaching sessions by pre-service teachers, annotated for metacognitive modeling components and collected through the TeachSim platform by Xu and colleagues.
@@ -29,11 +29,7 @@ SimSE is a dataset of 1,135 simulated five-minute teaching sessions by pre-servi
 
 ### Claims
 - [ChatGPT zero-shot relevance extraction for instruction-quality assessment retrieves mostly irrelevant utterances and overestimates instruction quality](../claims/chatgpt-zero-shot-relevance-extraction-unreliable.md) [+W]
-- [Class-weighted loss marginally improves PLM performance on skewed instruction-quality ratings, achieving best performance on 10 of 16 variables in the three-way setting and 9 of 16 in the binary setting](../claims/class-weighted-loss-marginal-gain-skewed-teaching-ratings.md) [+W]
-- [Fine-tuning Llama2-7B with parameter-efficient methods yields unsatisfactory results for measuring subject-matter teaching practices, only marginally improving the majority baseline](../claims/llama2-qlora-unsatisfactory-for-teaching-quality-tasks.md) [+W]
 - [Fine-tuned PLMs measure high-inference teaching practices better when the variable requires less pedagogical expertise, matching human-rater agreement on lexical variables but degrading on inference-heavy ones](../claims/plm-performance-depends-on-pedagogical-expertise-required.md) [+W]
-- [Using only teachers' utterances as input achieves comparable or better PLM performance than including student utterances, even for student-oriented observation variables](../claims/teacher-utterances-alone-sufficient-for-classroom-measures.md) [+W]
-- [A two-stage relevance-then-classification strategy improves PLM scoring of metacognitive modeling components whose assessment relies on multiple relevant sentences](../claims/two-stage-relevance-strategy-helps-multi-sentence-variables.md) [+W]
 
 ## Related Products and Programmes
 
@@ -70,11 +66,7 @@ The SimSE dataset was collected as part of TeachSim, "a teaching simulation plat
 ## Claims
 
 - [ChatGPT zero-shot relevance extraction for instruction-quality assessment retrieves mostly irrelevant utterances and overestimates instruction quality](../claims/chatgpt-zero-shot-relevance-extraction-unreliable.md) [+W]
-- [Class-weighted loss marginally improves PLM performance on skewed instruction-quality ratings, achieving best performance on 10 of 16 variables in the three-way setting and 9 of 16 in the binary setting](../claims/class-weighted-loss-marginal-gain-skewed-teaching-ratings.md) [+W]
-- [Fine-tuning Llama2-7B with parameter-efficient methods yields unsatisfactory results for measuring subject-matter teaching practices, only marginally improving the majority baseline](../claims/llama2-qlora-unsatisfactory-for-teaching-quality-tasks.md) [+W]
 - [Fine-tuned PLMs measure high-inference teaching practices better when the variable requires less pedagogical expertise, matching human-rater agreement on lexical variables but degrading on inference-heavy ones](../claims/plm-performance-depends-on-pedagogical-expertise-required.md) [+W]
-- [Using only teachers' utterances as input achieves comparable or better PLM performance than including student utterances, even for student-oriented observation variables](../claims/teacher-utterances-alone-sufficient-for-classroom-measures.md) [+W]
-- [A two-stage relevance-then-classification strategy improves PLM scoring of metacognitive modeling components whose assessment relies on multiple relevant sentences](../claims/two-stage-relevance-strategy-helps-multi-sentence-variables.md) [+W]
 
 ## Related Elements
 - 

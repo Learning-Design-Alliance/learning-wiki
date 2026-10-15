@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: miguel-rodriguez-and-peter-wulff-2026
-    resource: "https://arxiv.org/abs/2609.22578"
-    title: "Miguel Rodriguez and Peter Wulff. (2026). Artificial Intelligence Driven Physics Assignments using Context Prompts. https://arxiv.org/abs/2609.22578"
+    resource: "https://doi.org/10.48550/arxiv.2609.22578"
+    title: "Miguel Rodriguez and Peter Wulff. (2026). Artificial Intelligence Driven Physics Assignments using Context Prompts. https://arxiv.org/abs/2609.22578 [doi:10.48550/arxiv.2609.22578](https://doi.org/10.48550/arxiv.2609.22578)"
     author: Miguel Rodriguez and Peter Wulff
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Miguel Rodriguez and Peter Wulff 2026
 
-Miguel Rodriguez and Peter Wulff. (2026). Artificial Intelligence Driven Physics Assignments using Context Prompts. https://arxiv.org/abs/2609.22578
+Miguel Rodriguez and Peter Wulff. (2026). Artificial Intelligence Driven Physics Assignments using Context Prompts. https://arxiv.org/abs/2609.22578 [doi:10.48550/arxiv.2609.22578](https://doi.org/10.48550/arxiv.2609.22578)
 
 `q1 · i?` · `design · r1`
 

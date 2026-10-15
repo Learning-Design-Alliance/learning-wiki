@@ -16,7 +16,7 @@ sources:
 # Mathematical framework of edit-based hint policies
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article provides "precise definitions of key concepts in the field of edit-based hint policies and integrate them into a mathematical framework". It defines the edit set (functions on a state space, ideally symmetric so every edit is reversible), the hint policy as a function from states to edits, the legal move graph whose edges are edits, and the edit distance as the shortest-path distance in that graph under an edit cost function. This framework contextualizes existing approaches and forms the basis for the CHF.
@@ -37,9 +37,6 @@ The article provides "precise definitions of key concepts in the field of edit-b
 
 ### Claims
 
-- [Programming State Sparsity States Visited Once](../claims/programming-state-sparsity-states-visited-once.md) [+M]
-- [The Continuous Hint Factory predicts capable students' next edits more accurately than existing prediction schemes on two learning tasks, especially an open-ended programming task](../claims/chf-predicts-capable-student-edits-more-accurately.md) [+M]
-- [Frequency-based hint policies fail in sparsely populated state spaces because almost no state is visited more than once](../claims/frequency-hint-policies-fail-sparse-spaces.md) [+M]
 
 ## Related Theories
 

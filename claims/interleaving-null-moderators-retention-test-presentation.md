@@ -83,7 +83,7 @@ Follow-up analysis restricted to studies operationalizing both presentation styl
 ## Related Claims
 - [The training-by-content interaction did not vary with retention interval duration in the human experiment](no-training-retention-interval-interaction.md) — related
 - [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](interleaving-improves-inductive-learning.md) — a broader claim this one bears on
-- [Seven moderators did not significantly affect CALL feedback: intervention length, modeling, status, language proficiency, measures of proficiency, publication type, and research setting](seven-nonsignificant-moderators-call-feedback.md) — related
+- Seven moderators did not significantly affect CALL feedback: intervention length, modeling, status, language proficiency, measures of proficiency, publication type, and research setting — related
 - [Retention interval moderates the testing effect, with effects often smaller, null, or reversed at short intervals](retention-interval-moderates-testing-effect.md) — related
 - [The effect of cooperative learning did not differ statistically by teaching style, outcome type, publication quality, bias status, or report type](cooperative-learning-nonsignificant-moderators.md) — related
 - [Interleaving benefits transfer to novel items from a learned category, with effect sizes of up to 0.66](interleaving-transfer-benefit-meta-analysis.md) — related

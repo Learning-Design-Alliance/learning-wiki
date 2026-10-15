@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: qusay-h-mahmoud-2026
-    resource: "https://arxiv.org/abs/2609.29473"
-    title: "Qusay H. Mahmoud. (2026). Judgment-Centred Software Engineering Education: A Post-Hype Review and Framework for AI-Augmented Learning. Preprint, September 2026. https://arxiv.org/abs/2609.29473"
+    resource: "https://doi.org/10.48550/arxiv.2609.29473"
+    title: "Qusay H. Mahmoud. (2026). Judgment-Centred Software Engineering Education: A Post-Hype Review and Framework for AI-Augmented Learning. Preprint, September 2026. https://arxiv.org/abs/2609.29473 [doi:10.48550/arxiv.2609.29473](https://doi.org/10.48550/arxiv.2609.29473)"
     author: Qusay H. Mahmoud
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Prior knowledge and trust calibration moderate GenAI learning effects: fluent output is most persuasive when learners least can challenge it
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Evidence** · 2 studies · 2 review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Better-calibrated novices could ignore poor AI suggestions while struggling students could be pulled further off course. [→ Qusay H. Mahmoud 2026](#qusay-h-mahmoud-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Qusay H. Mahmoud 2026
 
-Qusay H. Mahmoud. (2026). Judgment-Centred Software Engineering Education: A Post-Hype Review and Framework for AI-Augmented Learning. Preprint, September 2026. https://arxiv.org/abs/2609.29473
+Qusay H. Mahmoud. (2026). Judgment-Centred Software Engineering Education: A Post-Hype Review and Framework for AI-Augmented Learning. Preprint, September 2026. https://arxiv.org/abs/2609.29473 [doi:10.48550/arxiv.2609.29473](https://doi.org/10.48550/arxiv.2609.29473)
 
 `q2 · i?` · `review · r2`
 

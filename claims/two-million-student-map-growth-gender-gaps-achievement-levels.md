@@ -46,4 +46,4 @@ Second analysis described in the brief: a large-scale observational analysis of 
 - [Boys regain the advantage in middle school STEM skills in post-COVID gender achievement gap trends](boys-regain-advantage-middle-school-stem-post-covid.md) — related
 - [Gender gap trends in 8th-grade STEM were estimated from five years of TIMSS, NAEP, and MAP Growth data spanning the pandemic](gender-gap-trends-three-national-assessments-8th-grade.md) — a broader claim this one bears on
 - [The study examines post-COVID trends in gender gaps in 8th grade STEM skills using three national assessments and Algebra enrollment data](post-covid-gender-gap-trends-8th-grade-stem-three-assessments.md) — a broader claim this one bears on
-- [Early female-favored mean math differences reverse to male-favored differences that widen across elementary grades](gender-gap-reverses-male-favored-elementary-math.md) — related
+- Early female-favored mean math differences reverse to male-favored differences that widen across elementary grades — related

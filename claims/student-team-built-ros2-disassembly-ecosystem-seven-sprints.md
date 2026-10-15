@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: tobias-geger-2026
-    resource: "https://arxiv.org/abs/2603.14529"
-    title: "Tobias Geger, Dominique Briechle and Andreas Rausch. (2026). Bots and Blocks: Presenting a project-based approach for robotics education. https://arxiv.org/abs/2603.14529"
+    resource: "https://doi.org/10.48550/arxiv.2603.14529"
+    title: "Tobias Geger, Dominique Briechle and Andreas Rausch. (2026). Bots and Blocks: Presenting a project-based approach for robotics education. https://arxiv.org/abs/2603.14529 [doi:10.48550/arxiv.2603.14529](https://doi.org/10.48550/arxiv.2603.14529)"
     author: Tobias Geger, Dominique Briechle and Andreas Rausch
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Tobias Geger 2026
 
-Tobias Geger, Dominique Briechle and Andreas Rausch. (2026). Bots and Blocks: Presenting a project-based approach for robotics education. https://arxiv.org/abs/2603.14529
+Tobias Geger, Dominique Briechle and Andreas Rausch. (2026). Bots and Blocks: Presenting a project-based approach for robotics education. https://arxiv.org/abs/2603.14529 [doi:10.48550/arxiv.2603.14529](https://doi.org/10.48550/arxiv.2603.14529)
 
 `q1 · i?` · `design · r1`
 

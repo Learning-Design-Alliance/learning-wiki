@@ -17,7 +17,7 @@ sources:
 # Successful elderly-refugee language programs incorporate more than just language learning
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The digest reports that language learning programs specifically for elderly refugees "have been sparse" and that "Those that incorporate more than just language learning seem to be the most successful." Its examples pair English learning with intergenerational friendship, job training, household skills, music and science, or community-service videos.
@@ -40,7 +40,6 @@ The digest reports that language learning programs specifically for elderly refu
 
 - [Four Strategies Older Refugee Language Learners](../principles/four-strategies-older-refugee-language-learners.md) [+M]
 - [Mental health, especially depression, is probably the single most decisive factor in refugee language learning](../claims/depression-decisive-factor-refugee-language-learning.md) [+W]
-- [Social identity and power relations between speakers mediate when and whether older refugees communicate in English](../claims/social-identity-power-mediate-refugee-english-use.md) [+W]
 
 ## Related Patterns
 - 

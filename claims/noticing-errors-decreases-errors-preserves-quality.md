@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 4 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` In Chandler's (2003) study as reported by the review, when students were asked to notice particular errors in their writing, errors decreased in a subsequent draft without a reduction in the overall quality of writing. [→ Barnawi 2010](#barnawi-2010)
@@ -44,7 +45,7 @@ The review reports Chandler's (2003) study of feedback about error in students' 
 ## Related Claims
 
 - [Process Writing Improves Writing Quality](process-writing-improves-writing-quality.md) — the general claim this finding bears on, with the studies behind it
-- [Review reports that collaborative feedback tasks improved students' writing accuracy for both low and highly proficient students (Tang & Tithecott)](cfts-improved-writing-accuracy-tang-tithecott.md) — related
-- [Review reports that collaborative feedback tasks promoted noticing and peer dialogs enhanced meta-cognitive processing in a university ESL writing class (Riddiford)](cfts-promoted-noticing-peer-dialogs-metacognition.md) — related
+- Review reports that collaborative feedback tasks improved students' writing accuracy for both low and highly proficient students (Tang & Tithecott) — related
+- Review reports that collaborative feedback tasks promoted noticing and peer dialogs enhanced meta-cognitive processing in a university ESL writing class (Riddiford) — related
 - [Peer Feedback Improves Writing](peer-feedback-improves-writing.md) — related
 - [A review of 50 studies reports that AWE tools can improve the organization and overall quality of writing and encourage self-directed learning](awe-enhance-organization-quality-self-directed-learning.md) — related

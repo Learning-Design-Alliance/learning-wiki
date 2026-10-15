@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: sushan-adhikari-2026
-    resource: "https://arxiv.org/abs/2609.14572"
-    title: "Sushan Adhikari. (2026). AlgoRAG: Retrieval-Augmented Generation for Theoretical Computer Science Education — A Comprehensive Evaluation Framework for Algorithm Analysis and Complexity Theory. arXiv preprint. https://arxiv.org/abs/2609.14572"
+    resource: "https://doi.org/10.48550/arxiv.2609.14572"
+    title: "Sushan Adhikari. (2026). AlgoRAG: Retrieval-Augmented Generation for Theoretical Computer Science Education — A Comprehensive Evaluation Framework for Algorithm Analysis and Complexity Theory. arXiv preprint. https://arxiv.org/abs/2609.14572 [doi:10.48550/arxiv.2609.14572](https://doi.org/10.48550/arxiv.2609.14572)"
     author: Sushan Adhikari
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Sushan Adhikari 2026
 
-Sushan Adhikari. (2026). AlgoRAG: Retrieval-Augmented Generation for Theoretical Computer Science Education — A Comprehensive Evaluation Framework for Algorithm Analysis and Complexity Theory. arXiv preprint. https://arxiv.org/abs/2609.14572
+Sushan Adhikari. (2026). AlgoRAG: Retrieval-Augmented Generation for Theoretical Computer Science Education — A Comprehensive Evaluation Framework for Algorithm Analysis and Complexity Theory. arXiv preprint. https://arxiv.org/abs/2609.14572 [doi:10.48550/arxiv.2609.14572](https://doi.org/10.48550/arxiv.2609.14572)
 
 `q2 · i?` · `design · r2`
 

@@ -72,8 +72,8 @@ The review reports that across three Kornell (2014) experiments with trivia fact
 | [Zou 2019](https://doi.org/10.5539/elt.v12n12p39) | q2 · review · r? | i? | [Incidental vocabulary gains show retention problems, with losses over time moderated by fe](incidental-vocabulary-retention-problems.md) (qualifies) |
 | Weiss 1980 | q2 · causal · r? | i? | [Immediate knowledge of results during computerized achievement testing produces essentiall](knowledge-of-results-no-effect-achievement-test-dimensionality.md) (qualifies) |
 | Roschelle 2020 | q2 / q3 · review · r2 | i? | [Timely feedback on homework increases learning, and computer platforms providing immediate](timely-feedback-improves-homework-learning.md) (supports) |
-| Dongming Mei 2026 | q2 · theoretical · r2 | i? | [Intelligent tutoring systems can improve learning outcomes, particularly with immediate ac](its-improve-learning-outcomes-with-actionable-feedback.md) (supports) |
-| Meriem Zerkouk 2025 | q2 · review · r2 | i? | [Immediate Elaborated Feedback in a formative assessment game significantly improved studen](immediate-elaborated-feedback-improves-programming-learning.md) (supports) |
+| [Dongming Mei 2026](https://doi.org/10.48550/arxiv.2605.09624) | q2 · theoretical · r2 | i? | [Intelligent tutoring systems can improve learning outcomes, particularly with immediate ac](its-improve-learning-outcomes-with-actionable-feedback.md) (supports) |
+| [Meriem Zerkouk 2025](https://doi.org/10.48550/arxiv.2507.18882) | q2 · review · r2 | i? | [Immediate Elaborated Feedback in a formative assessment game significantly improved studen](immediate-elaborated-feedback-improves-programming-learning.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion

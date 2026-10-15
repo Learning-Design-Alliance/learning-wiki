@@ -43,11 +43,11 @@ The report cites a 2018 study of California's Local Control Funding Formula refo
 
 
 ## Related Claims
-- [California would need roughly $4,000 more per pupil—an additional $26.5 billion annually—to meet its K–12 education goals](california-funding-gap-26-5-billion.md) — related
+- California would need roughly $4,000 more per pupil—an additional $26.5 billion annually—to meet its K–12 education goals — related
 - [Research on school finance reforms finds increased spending improves educational and life outcomes, with larger effects for students from low-income backgrounds, including causal evidence from California's Local Control Funding Formula](increased-funding-improves-outcomes-low-income.md) — a broader claim this one bears on
 - [Student outcome improvements from LCFF funding were more pronounced for cohorts exposed to funding increases for more of their school-age years](lcff-dosage-cohort-exposure-effect.md) — related
 - [LCFF-induced per-pupil spending increases caused improvements in math and reading achievement in districts receiving concentration grants](lcff-spending-improved-math-reading-achievement.md) — related
 - [A school finance reform analysis found that a 20% increase in per-pupil spending for a child's k-12 schooling raised high school completion and adult earnings](per-pupil-spending-increase-improves-adult-outcomes.md) — related
 - [A $1,000 per-pupil spending increase across high school raised graduation likelihood by 8.2 percentage points, and 3 consecutive years of increased high school spending raised college-readiness standards attainment in math and reading](lcff-spending-graduation-college-readiness-gains.md) — related
 - [LCFF-induced spending increases reduced suspensions and expulsions, with larger effects for boys and the most pronounced effects for Black students](lcff-spending-reduces-suspension-expulsion-disparities.md) — related
-- [Increases in per-pupil spending improve educational attainment, wages, and adult poverty outcomes, with stronger effects for low-income children](school-spending-increases-improve-attainment-wages-poverty.md) — related
+- Increases in per-pupil spending improve educational attainment, wages, and adult poverty outcomes, with stronger effects for low-income children — related

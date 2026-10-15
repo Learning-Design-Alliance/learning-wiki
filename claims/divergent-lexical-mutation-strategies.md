@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: yi-zhang-julia-rayz-2026
-    resource: "https://arxiv.org/abs/2607.08009"
-    title: "Yi Zhang & Julia Rayz. (2026). From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs. Preprint. https://arxiv.org/abs/2607.08009"
+    resource: "https://doi.org/10.48550/arxiv.2607.08009"
+    title: "Yi Zhang & Julia Rayz. (2026). From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs. Preprint. https://arxiv.org/abs/2607.08009 [doi:10.48550/arxiv.2607.08009](https://doi.org/10.48550/arxiv.2607.08009)"
     author: "Yi Zhang & Julia Rayz"
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # The general and coder models deploy distinct lexical strategies when raising cognitive demand, and neither deploys simplification vocabulary downward
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Evidence** · 2 studies · 2 causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Under the Harder setting the general model forms nine distinct clusters using varied structural terms, while the coder model concentrates mutations into three tight clusters focused on input rules and error handling. [→ Yi Zhang & Julia Rayz 2026](#yi-zhang-julia-rayz-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Yi Zhang & Julia Rayz 2026
 
-Yi Zhang & Julia Rayz. (2026). From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs. Preprint. https://arxiv.org/abs/2607.08009
+Yi Zhang & Julia Rayz. (2026). From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs. Preprint. https://arxiv.org/abs/2607.08009 [doi:10.48550/arxiv.2607.08009](https://doi.org/10.48550/arxiv.2607.08009)
 
 `q2 · i?` · `causal · r2`
 

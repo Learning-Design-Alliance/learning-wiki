@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: matthew-p-steinberg-2018
-    resource: "https://www.mathematica.org/publications/reforming-school-discipline-school-level-policy-implementation-and-the-consequences-for-suspended"
-    title: "Matthew P. Steinberg, Johanna Lacoe. (2018). Reforming School Discipline: School-Level Policy Implementation and the Consequences for Suspended Students and Their Peers. American Journal of Education, vol. 125, issue 1. https://www.mathematica.org/publications/reforming-school-discipline-school-level-policy-implementation-and-the-consequences-for-suspended"
+    resource: "https://doi.org/10.1086/699811"
+    title: "Matthew P. Steinberg, Johanna Lacoe. (2018). Reforming School Discipline: School-Level Policy Implementation and the Consequences for Suspended Students and Their Peers. American Journal of Education, vol. 125, issue 1. https://www.mathematica.org/publications/reforming-school-discipline-school-level-policy-implementation-and-the-consequences-for-suspended [doi:10.1086/699811](https://doi.org/10.1086/699811)"
     author: Matthew P. Steinberg, Johanna Lacoe
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Matthew P. Steinberg 2018
 
-Matthew P. Steinberg, Johanna Lacoe. (2018). Reforming School Discipline: School-Level Policy Implementation and the Consequences for Suspended Students and Their Peers. American Journal of Education, vol. 125, issue 1. https://www.mathematica.org/publications/reforming-school-discipline-school-level-policy-implementation-and-the-consequences-for-suspended
+Matthew P. Steinberg, Johanna Lacoe. (2018). Reforming School Discipline: School-Level Policy Implementation and the Consequences for Suspended Students and Their Peers. American Journal of Education, vol. 125, issue 1. https://www.mathematica.org/publications/reforming-school-discipline-school-level-policy-implementation-and-the-consequences-for-suspended [doi:10.1086/699811](https://doi.org/10.1086/699811)
 
 `q3 · i?` · `causal · r?`
 

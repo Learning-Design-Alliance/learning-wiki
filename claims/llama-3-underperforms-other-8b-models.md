@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: qian-shen-2026
-    resource: "https://arxiv.org/abs/2605.13709"
-    title: "Qian Shen, Fanghua Cao, Min Yao, Shlok Gilda, Bonnie J. Dorr, Walter L. Leite. (2026). Children's English Reading Story Generation via Supervised Fine-Tuning of Compact LLMs with Controllable Difficulty and Safety. https://arxiv.org/abs/2605.13709"
+    resource: "https://doi.org/10.48550/arxiv.2605.13709"
+    title: "Qian Shen, Fanghua Cao, Min Yao, Shlok Gilda, Bonnie J. Dorr, Walter L. Leite. (2026). Children's English Reading Story Generation via Supervised Fine-Tuning of Compact LLMs with Controllable Difficulty and Safety. https://arxiv.org/abs/2605.13709 [doi:10.48550/arxiv.2605.13709](https://doi.org/10.48550/arxiv.2605.13709)"
     author: Qian Shen, Fanghua Cao, Min Yao, Shlok Gilda, Bonnie J. Dorr, Walter L. Leite
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Qian Shen 2026
 
-Qian Shen, Fanghua Cao, Min Yao, Shlok Gilda, Bonnie J. Dorr, Walter L. Leite. (2026). Children's English Reading Story Generation via Supervised Fine-Tuning of Compact LLMs with Controllable Difficulty and Safety. https://arxiv.org/abs/2605.13709
+Qian Shen, Fanghua Cao, Min Yao, Shlok Gilda, Bonnie J. Dorr, Walter L. Leite. (2026). Children's English Reading Story Generation via Supervised Fine-Tuning of Compact LLMs with Controllable Difficulty and Safety. https://arxiv.org/abs/2605.13709 [doi:10.48550/arxiv.2605.13709](https://doi.org/10.48550/arxiv.2605.13709)
 
 `q2 · i?` · `design · r2`
 

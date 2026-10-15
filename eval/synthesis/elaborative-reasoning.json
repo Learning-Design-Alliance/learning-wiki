@@ -83,10 +83,6 @@
       "question": "Does knowing more beforehand mean learning more from the instruction?",
       "members": [
         [
-          "pretest-predicts-posttest-not-learning-gain",
-          "+"
-        ],
-        [
           "pretest-scores-predict-posttest-scores",
           "~"
         ],

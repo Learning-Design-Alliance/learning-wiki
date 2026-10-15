@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Usage of WWW Entrez and Network Entrez grew dramatically during 1994, while Entrez CD-ROM subscription growth reached a plateau. [→ Epstein 1994](#epstein-1994)
@@ -64,4 +65,4 @@ The article reports a "more detailed study" calibrating the two usage metrics, f
 ## Related Claims
 - [Some users prefer a single-form Boolean query interface to the original Entrez interface](single-form-boolean-query-preferred-by-some-users.md) — related
 - [Browsing term lists (selection mode) helps searchers who do not know the exact query term](selection-mode-browsing-helps-uncertain-searchers.md) — related
-- [Research production on situated learning has grown but stagnated, averaging about 140 articles per year over the last 10 years](situated-learning-publication-trend-stagnation.md) — related
+- Research production on situated learning has grown but stagnated, averaging about 140 articles per year over the last 10 years — related

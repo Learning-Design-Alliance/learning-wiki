@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: ashish-gurung-2026
-    resource: "https://arxiv.org/abs/2605.11155"
-    title: "Ashish Gurung, Ge Gao, Jordan Gutterman, Danielle R. Thomas, Shivang Gupta, Lee Branstetter, Emma Brunskill, Vincent Aleven, Kenneth R. Koedinger. (2026). Improving Hybrid Human-AI Tutoring by Differentiating Human Tutor Roles Based on Student Needs. arXiv preprint. https://arxiv.org/abs/2605.11155"
+    resource: "https://doi.org/10.48550/arxiv.2605.11155"
+    title: "Ashish Gurung, Ge Gao, Jordan Gutterman, Danielle R. Thomas, Shivang Gupta, Lee Branstetter, Emma Brunskill, Vincent Aleven, Kenneth R. Koedinger. (2026). Improving Hybrid Human-AI Tutoring by Differentiating Human Tutor Roles Based on Student Needs. arXiv preprint. https://arxiv.org/abs/2605.11155 [doi:10.48550/arxiv.2605.11155](https://doi.org/10.48550/arxiv.2605.11155)"
     author: Ashish Gurung, Ge Gao, Jordan Gutterman, Danielle R. Thomas, Shivang Gupta, Lee Branstetter, Emma Brunskill, Vincent Aleven, Kenneth R. Koedinger
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # At the median cutoff, proactive and reactive tutoring show no significant difference in MAP growth, with proactive benefits increasing for students farther below the cutoff
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Evidence** · 2 studies · 2 causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` At the cutoff, the difference between proactive and reactive tutoring on relative MAP growth was not statistically significant (-0.33, p = .579), while reactive students at the cutoff achieved 1.74x expected growth. [→ Ashish Gurung 2026](#ashish-gurung-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Ashish Gurung 2026
 
-Ashish Gurung, Ge Gao, Jordan Gutterman, Danielle R. Thomas, Shivang Gupta, Lee Branstetter, Emma Brunskill, Vincent Aleven, Kenneth R. Koedinger. (2026). Improving Hybrid Human-AI Tutoring by Differentiating Human Tutor Roles Based on Student Needs. arXiv preprint. https://arxiv.org/abs/2605.11155
+Ashish Gurung, Ge Gao, Jordan Gutterman, Danielle R. Thomas, Shivang Gupta, Lee Branstetter, Emma Brunskill, Vincent Aleven, Kenneth R. Koedinger. (2026). Improving Hybrid Human-AI Tutoring by Differentiating Human Tutor Roles Based on Student Needs. arXiv preprint. https://arxiv.org/abs/2605.11155 [doi:10.48550/arxiv.2605.11155](https://doi.org/10.48550/arxiv.2605.11155)
 
 `q2 · i?` · `causal · r2`
 

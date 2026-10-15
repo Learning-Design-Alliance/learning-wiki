@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: hingle-2025
-    resource: "https://www.google.com/search?q=A+Guided+Inquiry+Approach+to+Students+Co-Designing+Generative+AI+Course+Policies"
-    title: "Hingle, A., & Johri, A. (2025). A Guided Inquiry Approach to Students Co-Designing Generative AI Course Policies. https://www.google.com/search?q=A+Guided+Inquiry+Approach+to+Students+Co-Designing+Generative+AI+Course+Policies"
+    resource: "https://doi.org/10.1108/aiie-05-2025-0123"
+    title: "Hingle, A., & Johri, A. (2025). A Guided Inquiry Approach to Students Co-Designing Generative AI Course Policies. https://www.google.com/search?q=A+Guided+Inquiry+Approach+to+Students+Co-Designing+Generative+AI+Course+Policies [doi:10.1108/aiie-05-2025-0123](https://doi.org/10.1108/aiie-05-2025-0123)"
     author: "Hingle, A., & Johri, A."
     q: 2
     i: "?"
@@ -32,7 +32,7 @@ sources:
 
 ### Hingle 2025
 
-Hingle, A., & Johri, A. (2025). A Guided Inquiry Approach to Students Co-Designing Generative AI Course Policies. https://www.google.com/search?q=A+Guided+Inquiry+Approach+to+Students+Co-Designing+Generative+AI+Course+Policies
+Hingle, A., & Johri, A. (2025). A Guided Inquiry Approach to Students Co-Designing Generative AI Course Policies. https://www.google.com/search?q=A+Guided+Inquiry+Approach+to+Students+Co-Designing+Generative+AI+Course+Policies [doi:10.1108/aiie-05-2025-0123](https://doi.org/10.1108/aiie-05-2025-0123)
 
 `q2 · i?` · `qualitative · r3`
 
@@ -46,6 +46,6 @@ Thematic analysis of the same cohort's policy artifacts and discussions, reporte
 ## Related Claims
 - [GenAI-era ICT assessment reform requires a whole-of-institution transformation across seven sequential themes](genai-assessment-reform-sequential-seven-themes.md) — related
 - [Faculty members and students identify both user-related and algorithm-related ethical risks in AI use in education](user-and-algorithm-related-ethical-risks-ai-education.md) — related
-- [Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs](teacher-big-picture-genai-concerns.md) — related
+- Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs — related
 - [Students co-designing a GenAI course policy prioritized training for students and instructors, standardized disclosure procedures, and stronger institutional support](students-prioritize-training-disclosure-institutional-support-genai-policy.md) — a narrower finding that bears on this claim
 - [Teacher autonomy for AI decision-making varies sharply across national contexts](teacher-autonomy-ai-varies-nationally.md) — related

@@ -18,7 +18,7 @@ sources:
 # Gold and ultra-gold benchmark subsets
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Croteau et al. released reproducible gold and ultra-gold subsets of image-required middle-school mathematics items for evaluating multimodal language-model accuracy, stability, refusal, and description-substitution performance.
@@ -28,10 +28,6 @@ Croteau et al. released reproducible gold and ultra-gold subsets of image-requir
 - **Gold and ultra-gold benchmark subsets of consistently solved image-Required items**: The article identifies and releases two reproducible benchmark subsets of image-Required items: "61ultra-golditems solved 3/3 by all six models and 76golditems solved by all six at majority-correct". These subsets support future diagnostics and comparisons beyond single-shot accuracy, and the authors propose them as a testbed for description-substitution experiments comparing original figures to vetted textual descriptions while monitoring accuracy, stability, and refusal. Code, prompts, and summary artifacts are released at the stated OSF link. (Croteau et al. (2026))
 
 ### Claims
-- [Without required figures, multimodal LLMs overwhelmingly refuse rather than guess on image-Required math items](../claims/mllms-refuse-without-required-figures.md) [+W]
-- [Multimodal LLMs show moderate cross-model agreement on which image-Required items are solvable, with within-family agreement exceeding cross-family agreement](../claims/moderate-cross-model-agreement-solvability.md) [+W]
-- [With images provided, reasoning models achieve higher majority-correct accuracy on image-Required middle-school math items than non-reasoning models](../claims/reasoning-mllms-higher-accuracy-image-required-math.md) [+W]
-- [In a contrastive audit, visual misreading is the dominant failure mode for non-reasoning models on items reasoning models solve](../claims/visual-misread-dominant-non-reasoning-failure.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -65,10 +61,6 @@ The article identifies and releases two reproducible benchmark subsets of image-
 
 ## Claims
 
-- [Without required figures, multimodal LLMs overwhelmingly refuse rather than guess on image-Required math items](../claims/mllms-refuse-without-required-figures.md) [+W]
-- [Multimodal LLMs show moderate cross-model agreement on which image-Required items are solvable, with within-family agreement exceeding cross-family agreement](../claims/moderate-cross-model-agreement-solvability.md) [+W]
-- [With images provided, reasoning models achieve higher majority-correct accuracy on image-Required middle-school math items than non-reasoning models](../claims/reasoning-mllms-higher-accuracy-image-required-math.md) [+W]
-- [In a contrastive audit, visual misreading is the dominant failure mode for non-reasoning models on items reasoning models solve](../claims/visual-misread-dominant-non-reasoning-failure.md) [+W]
 
 ## Related Elements
 - 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: wilson-2011
-    resource: "http://ies.ed.gov/ncee/wwc/reports/dropout/topic/#top"
-    title: "Wilson, S. J., Tanner-Smith, E., & Lipsey, M. W. (2011). Dropout Prevention and Intervention Programs: Effects on School Completion and Dropout Among School-aged Children and Youth. 2011 SREE Conference. http://ies.ed.gov/ncee/wwc/reports/dropout/topic/#top"
+    resource: "https://doi.org/10.4073/csr.2011.8"
+    title: "Wilson, S. J., Tanner-Smith, E., & Lipsey, M. W. (2011). Dropout Prevention and Intervention Programs: Effects on School Completion and Dropout Among School-aged Children and Youth. 2011 SREE Conference. http://ies.ed.gov/ncee/wwc/reports/dropout/topic/#top [doi:10.4073/csr.2011.8](https://doi.org/10.4073/csr.2011.8)"
     author: "Wilson, S. J., Tanner-Smith, E., & Lipsey, M. W."
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Wilson 2011
 
-Wilson, S. J., Tanner-Smith, E., & Lipsey, M. W. (2011). Dropout Prevention and Intervention Programs: Effects on School Completion and Dropout Among School-aged Children and Youth. 2011 SREE Conference. http://ies.ed.gov/ncee/wwc/reports/dropout/topic/#top
+Wilson, S. J., Tanner-Smith, E., & Lipsey, M. W. (2011). Dropout Prevention and Intervention Programs: Effects on School Completion and Dropout Among School-aged Children and Youth. 2011 SREE Conference. http://ies.ed.gov/ncee/wwc/reports/dropout/topic/#top [doi:10.4073/csr.2011.8](https://doi.org/10.4073/csr.2011.8)
 
 `q3 · i?` · `quant-synthesis · r2`
 

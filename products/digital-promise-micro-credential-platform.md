@@ -30,7 +30,7 @@ sources:
 # Digital Promise Micro-credential Platform
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 10 claims (10 for) · 5 studies (3 design, 1 review, 1 associational), `q1`–`q2` · 0 of 5 report an effect size · 10 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A competency-based micro-credential platform developed and operated by Digital Promise through which K–12 educators select credentials, submit implementation evidence, and receive expert-reviewed competency recognition.
@@ -49,16 +49,8 @@ A competency-based micro-credential platform developed and operated by Digital P
 - **Three-player micro-credential ecosystem**: The report models a micro-credential ecosystem, 'a network of school districts, organizations, and educators across the country,' comprising three players: Issuing Organizations that develop micro-credential content in collaboration with Digital Promise, Earners who engage with and seek to earn micro-credentials, and Recognizing Entities — 'The school, district, and state agencies that define the various ways micro-credentials provide value in an educator's professional career.' The report presents two issuers (Friday Institute, MTLC) and two recognizers (BCPS, KMSD) as case studies of this ecosystem. (Micro-credentials: Igniting Impact in the Ecosystem (2016))
 
 ### Claims
-- [As of mid-2017 the Digital Promise micro-credential ecosystem had drawn over 5,000 submissions from educators in approximately 550 districts, with about 55 percent of portfolio submitters awarded a micro-credential](../claims/dp-ecosystem-2017-submission-uptake.md) [+W]
-- [In Kettle Moraine School District, about 80 percent of teachers earned at least one pre-approved micro-credential over three years, raising base salaries by $100 to $600](../claims/kettle-moraine-salary-linked-micro-credential-adoption.md) [+W]
-- [Nine states offered CEUs for Digital Promise micro-credentials by 2017, but no coherent framework existed for valuing micro-credentials](../claims/nine-states-ceus-no-coherent-valuation-framework.md) [+W]
-- [Districts and universities increasingly attach concrete incentives to earning Digital Promise micro-credentials](../claims/recognizer-incentives-for-micro-credentials.md) [+W]
-- [About 31 percent of surveyed teachers report being extremely or very likely to try micro-credentials once introduced to the idea, with another 34 percent somewhat interested](../claims/teachers-intent-try-micro-credentials-survey.md) [+W]
 - [At least ten state education agencies have launched official micro-credential pilots, with Tennessee's pilot reaching almost 800 educators](../claims/state-micro-credential-pilots-adoption.md) [+W]
 - [State certification directors are cautious yet hopeful about micro-credentials, citing quality control and compensation-system fit as concerns](../claims/state-directors-micro-credential-concerns.md) [+W]
-- [Reviewer certification requires scoring benchmark samples on par with issuer-determined scores, with guessing odds made quantifiable](../claims/benchmark-scored-reviewer-certification.md) [+W]
-- [For a pass/not-yet micro-credential, the chance of guessing five benchmark scores with 100% accuracy is approximately 0.001](../claims/guessing-probability-five-benchmark-samples.md) [+W]
-- [Minimum reviewer pool size is computed from anticipated submissions, reviews per submission, and assignments per reviewer](../claims/reviewer-pool-size-formula.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -102,11 +94,6 @@ The Digital Promise micro-credentialing ecosystem is "currently housed on a plat
 
 ## Claims
 
-- [As of mid-2017 the Digital Promise micro-credential ecosystem had drawn over 5,000 submissions from educators in approximately 550 districts, with about 55 percent of portfolio submitters awarded a micro-credential](../claims/dp-ecosystem-2017-submission-uptake.md) [+W]
-- [In Kettle Moraine School District, about 80 percent of teachers earned at least one pre-approved micro-credential over three years, raising base salaries by $100 to $600](../claims/kettle-moraine-salary-linked-micro-credential-adoption.md) [+W]
-- [Nine states offered CEUs for Digital Promise micro-credentials by 2017, but no coherent framework existed for valuing micro-credentials](../claims/nine-states-ceus-no-coherent-valuation-framework.md) [+W]
-- [Districts and universities increasingly attach concrete incentives to earning Digital Promise micro-credentials](../claims/recognizer-incentives-for-micro-credentials.md) [+W]
-- [About 31 percent of surveyed teachers report being extremely or very likely to try micro-credentials once introduced to the idea, with another 34 percent somewhat interested](../claims/teachers-intent-try-micro-credentials-survey.md) [+W]
 - [At least ten state education agencies have launched official micro-credential pilots, with Tennessee's pilot reaching almost 800 educators](../claims/state-micro-credential-pilots-adoption.md) [+W]
 - [State certification directors are cautious yet hopeful about micro-credentials, citing quality control and compensation-system fit as concerns](../claims/state-directors-micro-credential-concerns.md) [+W]
 
@@ -196,8 +183,6 @@ For each micro-credential, the issuer creates a library of expert-scored submiss
 
 ## Claims
 
-- [Reviewer certification requires scoring benchmark samples on par with issuer-determined scores, with guessing odds made quantifiable](../claims/benchmark-scored-reviewer-certification.md) [+W]
-- [For a pass/not-yet micro-credential, the chance of guessing five benchmark scores with 100% accuracy is approximately 0.001](../claims/guessing-probability-five-benchmark-samples.md) [+W]
 
 ## Related Elements
 - 
@@ -237,9 +222,6 @@ The article lays out a workflow covering the micro-credential trajectory from cr
 
 ### Claims
 
-- [Reviewer certification requires scoring benchmark samples on par with issuer-determined scores, with guessing odds made quantifiable](../claims/benchmark-scored-reviewer-certification.md) [+W]
-- [For a pass/not-yet micro-credential, the chance of guessing five benchmark scores with 100% accuracy is approximately 0.001](../claims/guessing-probability-five-benchmark-samples.md) [+W]
-- [Minimum reviewer pool size is computed from anticipated submissions, reviews per submission, and assignments per reviewer](../claims/reviewer-pool-size-formula.md) [+W]
 
 ## Related Theories
 - 

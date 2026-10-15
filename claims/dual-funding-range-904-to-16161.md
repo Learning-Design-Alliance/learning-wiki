@@ -46,7 +46,7 @@ An analysis of state funding statutes identified "11 states that provide dual fu
 ## Related Claims
 - [Thirty-seven states provide dual funding for students who are both English learners and from low-income families, with 36 adding the unique weights for each group and New Jersey adjusting the combined weight](37-states-dual-funding-el-low-income.md) — related
 - [Per-pupil spending on English Learners in California was only about $1,000 more than for non–English Learner peers in recent years](california-el-spending-gap-about-1000-per-pupil.md) — related
-- [Estimated economic costs for English Learner program personnel range from $1,670 to $5,000 per English Learner student annually across interviewed LEAs](sv-el-program-personnel-economic-costs-1670-to-5000.md) — related
+- Estimated economic costs for English Learner program personnel range from $1,670 to $5,000 per English Learner student annually across interviewed LEAs — related
 - [Five school finance costing studies (2016–2023) recommended additional funding weights of 0.15–0.40 for EL students and 0.30–0.81 for low-income/at-risk students, equivalent to $1,548–$4,976 and $3,389–$8,357 in 2024 dollars](costing-studies-recommended-el-at-risk-weights.md) — related
 - [In 2023–24, 49 states provided separate additional funding for English learners, most commonly through weights in their funding formulas, with a national median EL weight of 0.25](49-states-provide-separate-el-funding-2023-24.md) — related
 - [Texas's current funding system is progressive for several need factors, but the additional spending may not be enough for equal opportunity](progressive-but-insufficient-funding.md) — related

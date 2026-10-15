@@ -15,7 +15,7 @@ sources:
 # Research-practice partnership model for improving problems of educational practice
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (6 for) · 7 studies (4 design, 1 review, 1 qualitative, 1 theoretical), `q1`–`q2` · 0 of 7 report an effect size · 5 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 5 studies (4 design, 1 review), `q1`–`q2` · 0 of 5 report an effect size · 3 claims rest on one study
 
 ## Description
 The report presents the research-practice partnership (RPP) as a collaboration model in which researchers and practitioners form trust-based relationships to address problems of practice. It cites the W.T. Grant Foundation definition of RPPs as "long-term, mutually beneficial collaborations that promote the production and use of rigorous research about problems of practice." The model rests on the premise that researchers and practitioners have much to learn from each other through repeated cycles of examining evidence, trying new approaches, and analyzing data. The report used this model to structure a 15-month equity and digital learning collaboration with five colleges.
@@ -36,9 +36,7 @@ The report presents the research-practice partnership (RPP) as a collaboration m
 
 ### Claims
 
-- [A collaborative research-practice partnership built on trust, reciprocity, and mutual respect benefited both researchers and school staff in a district study of executive function](../claims/rpp-trust-reciprocity-mutual-respect-benefits.md) [+W]
 - [Relational trust and rapid-response adaptation help research-practice partnerships survive acute disruption](../claims/rpp-adaptive-practices-sustain-partnerships-during-disruption.md) [+W]
-- [RPP researchers should explore supportive roles beyond research because research products are not necessarily what practitioners most immediately need or want](../claims/rpp-researchers-roles-beyond-research.md) [+W]
 - [Data dives with disaggregated course success data surfaced equity gaps previously invisible to faculty](../claims/disaggregated-data-dives-surface-equity-gaps.md) [+W]
 - [RPP workshops on concrete equity mechanisms influenced instructor practice within one term](../claims/rpp-equity-workshops-influenced-instructor-practice.md) [+W]
 - [Launching RPP work with disaggregated student data highlighted equity issues without assigning blame](../claims/student-data-first-launch-highlighted-equity-without-blame.md) [+W]

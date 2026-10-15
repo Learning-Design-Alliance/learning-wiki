@@ -10,6 +10,7 @@ generated:
 evidence_strength: weak
 sources:
   - id: w1-2
+    resource: "https://doi.org/10.48550/arxiv.2608.26184"
     title: w1-2
     q: 2
     i: "?"
@@ -29,7 +30,7 @@ sources:
 
 ### w1-2
 
-David Barron, Xiaohang Tang, Rezky Dwisantika, Minsun Kim, David H. Smith IV, Jiaming Cui, and Yan Chen. 2026. TutorTrace: A Dataset and Taxonomy for Classifying Learner Behavioral States during AI-Assisted Programming Education. https://arxiv.org/abs/2608.26184
+David Barron, Xiaohang Tang, Rezky Dwisantika, Minsun Kim, David H. Smith IV, Jiaming Cui, and Yan Chen. 2026. TutorTrace: A Dataset and Taxonomy for Classifying Learner Behavioral States during AI-Assisted Programming Education. https://arxiv.org/abs/2608.26184 [doi:10.48550/arxiv.2608.26184](https://doi.org/10.48550/arxiv.2608.26184)
 
 `q2 · i?` · `design · r2`
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: akshay-syal-2026
-    resource: "https://arxiv.org/abs/2605.04131"
-    title: "Akshay Syal, Lawrence Swaminathan Xavier Prince, Evin Gultepe, Nik Bear Brown, Srinivas Sridhar. (2026). A Dialogue-Based Framework for Correcting Multimodal Errors in AI-Assisted STEM Education. https://arxiv.org/abs/2605.04131"
+    resource: "https://doi.org/10.48550/arxiv.2605.04131"
+    title: "Akshay Syal, Lawrence Swaminathan Xavier Prince, Evin Gultepe, Nik Bear Brown, Srinivas Sridhar. (2026). A Dialogue-Based Framework for Correcting Multimodal Errors in AI-Assisted STEM Education. https://arxiv.org/abs/2605.04131 [doi:10.48550/arxiv.2605.04131](https://doi.org/10.48550/arxiv.2605.04131)"
     author: Akshay Syal, Lawrence Swaminathan Xavier Prince, Evin Gultepe, Nik Bear Brown, Srinivas Sridhar
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Akshay Syal 2026
 
-Akshay Syal, Lawrence Swaminathan Xavier Prince, Evin Gultepe, Nik Bear Brown, Srinivas Sridhar. (2026). A Dialogue-Based Framework for Correcting Multimodal Errors in AI-Assisted STEM Education. https://arxiv.org/abs/2605.04131
+Akshay Syal, Lawrence Swaminathan Xavier Prince, Evin Gultepe, Nik Bear Brown, Srinivas Sridhar. (2026). A Dialogue-Based Framework for Correcting Multimodal Errors in AI-Assisted STEM Education. https://arxiv.org/abs/2605.04131 [doi:10.48550/arxiv.2605.04131](https://doi.org/10.48550/arxiv.2605.04131)
 
 `q2 · i?` · `causal · r1`
 

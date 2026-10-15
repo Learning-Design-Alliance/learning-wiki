@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: jennie-ren-2026
-    resource: "https://arxiv.org/abs/2607.22463"
-    title: "Jennie Ren, Jordan H. McDowell, and Kyrie Zhixuan Zhou. (2026). Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education. https://arxiv.org/abs/2607.22463"
+    resource: "https://doi.org/10.48550/arxiv.2607.22463"
+    title: "Jennie Ren, Jordan H. McDowell, and Kyrie Zhixuan Zhou. (2026). Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education. https://arxiv.org/abs/2607.22463 [doi:10.48550/arxiv.2607.22463](https://doi.org/10.48550/arxiv.2607.22463)"
     author: Jennie Ren, Jordan H. McDowell, and Kyrie Zhixuan Zhou
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Jennie Ren 2026
 
-Jennie Ren, Jordan H. McDowell, and Kyrie Zhixuan Zhou. (2026). Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education. https://arxiv.org/abs/2607.22463
+Jennie Ren, Jordan H. McDowell, and Kyrie Zhixuan Zhou. (2026). Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education. https://arxiv.org/abs/2607.22463 [doi:10.48550/arxiv.2607.22463](https://doi.org/10.48550/arxiv.2607.22463)
 
 `q2 · i?` · `qualitative · r2`
 
@@ -43,7 +43,7 @@ Qualitative analysis of educator reflective reconstruction (Stage 3): the studen
 
 
 ## Related Claims
-- [Students shifted AI usage toward debugging and concept explanation over the semester, with 31 of 89 reporting more debugging use](cs1-ai-usage-shift-debugging.md) — related
+- Students shifted AI usage toward debugging and concept explanation over the semester, with 31 of 89 reporting more debugging use — related
 - [Novice AI users showed a Trust-but-Can't-Verify pattern: accepting unfamiliar constructs they could not assess, then symptom-level debugging](trust-but-cant-verify-novices.md) — related
 - [More experienced AI users showed a Boilerplate Blindspot: uncritically accepting 'trivial' AI-generated code in which later defects originated](boilerplate-blindspot-experienced-students.md) — related
 - [Students report code understanding, debugging, and AI-limitation awareness as primary learning benefits of buggy GenAI programming tasks](student-reflections-buggy-genai-learning-benefits.md) — related

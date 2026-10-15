@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Teachers managed disruptive boys by giving them full attention at the expense of other children's learning, or by letting them do what they wanted, so that pragmatic values counteracted democratic values. [→ Norberg 2003](#norberg-2003)

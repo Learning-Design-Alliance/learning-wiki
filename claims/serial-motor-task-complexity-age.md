@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Task complexity moderates the age difference in serial motor task performance: five-year-olds had trouble only when the serial task taxed memory, and performed nearly as well as nine-year-olds when it was kept simple. [→ Winnick 1975](#winnick-1975)

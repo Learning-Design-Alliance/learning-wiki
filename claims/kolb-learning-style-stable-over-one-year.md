@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 5 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Occupational therapy students tested before and after four quarters of varied learning formats exhibited no significant change in learning style. [→ Tamaoka 1985](#tamaoka-1985)
@@ -44,5 +45,5 @@ The review reports Cahill and Madigan's pretest–posttest study in an occupatio
 
 ## Related Claims
 - [A four-quadrant FEA-supported experiential module was implemented across three heat transfer topics without formal assessment](elt-fea-module-implemented-three-topics-unassessed.md) — related
-- [Kolb's inventory successfully differentiated group learning styles by students' subject majors](kolb-inventory-group-styles-by-subject-major.md) — related
+- Kolb's inventory successfully differentiated group learning styles by students' subject majors — related
 - [Kolb's inventory showed no association with medical career choices, and its personality-type predictions were contradicted](kolb-inventory-limited-validity-career-and-personality.md) — related

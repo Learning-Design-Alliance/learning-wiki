@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: gold-2020
-    resource: "https://digitalpromise.org/2020/03/24/pipeline-and-retention-of-teachers-of-color-systems-and-structures-impeding-growth-and-sustainability-in-the-united-states/"
-    title: "Gold, T. (2020). Pipeline and Retention of Teachers of Color: Systems and Structures Impeding Growth and Sustainability in the United States. Digital Promise. https://digitalpromise.org/2020/03/24/pipeline-and-retention-of-teachers-of-color-systems-and-structures-impeding-growth-and-sustainability-in-the-united-states/"
+    resource: "https://doi.org/10.51388/20.500.12265/96"
+    title: "Gold, T. (2020). Pipeline and Retention of Teachers of Color: Systems and Structures Impeding Growth and Sustainability in the United States. Digital Promise. https://digitalpromise.org/2020/03/24/pipeline-and-retention-of-teachers-of-color-systems-and-structures-impeding-growth-and-sustainability-in-the-united-states/ [doi:10.51388/20.500.12265/96](https://doi.org/10.51388/20.500.12265/96)"
     author: Gold, T.
     q: 2
     i: "?"
@@ -38,7 +38,7 @@ sources:
 # Students of color benefit academically and behaviorally from having teachers of the same race.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · review `r1`–`r2` · `q2`
+> **Evidence** · 2 studies (3 entries) · 2 review `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` Pairing African American students with a same-race teacher decreased suspension rates for African American males by as much as 15 to 18 percent. [→ Gold 2020](#gold-2020)
@@ -49,7 +49,7 @@ sources:
 
 ### Gold 2020
 
-Gold, T. (2020). Pipeline and Retention of Teachers of Color: Systems and Structures Impeding Growth and Sustainability in the United States. Digital Promise. https://digitalpromise.org/2020/03/24/pipeline-and-retention-of-teachers-of-color-systems-and-structures-impeding-growth-and-sustainability-in-the-united-states/
+Gold, T. (2020). Pipeline and Retention of Teachers of Color: Systems and Structures Impeding Growth and Sustainability in the United States. Digital Promise. https://digitalpromise.org/2020/03/24/pipeline-and-retention-of-teachers-of-color-systems-and-structures-impeding-growth-and-sustainability-in-the-united-states/ [doi:10.51388/20.500.12265/96](https://doi.org/10.51388/20.500.12265/96)
 
 `q2 · i?` · `review · r2`
 
@@ -88,7 +88,7 @@ Secondhand report of Egalite et al. (2015) finding African American students in 
 - [Suspensions in California lowered graduation rates by nearly 7 percentage points after controlling for other dropout factors](california-suspensions-lowered-graduation-7-points.md) — related
 - [Having a race-matched teacher is associated with higher test scores and long-term academic benefits for Black students](race-matched-teacher-academic-benefits-black-students.md) — related
 - [Students of color show fewer absences and less exclusionary discipline when taught by race-matched teachers](race-matched-teacher-discipline-absence-benefits.md) — possibly the same claim (merge candidate)
-- [Having a school leader of color is associated with higher math achievement, greater gifted-program access, and lower suspension rates for students of color](leader-of-color-linked-student-of-color-outcomes.md) — related
+- Having a school leader of color is associated with higher math achievement, greater gifted-program access, and lower suspension rates for students of color — related
 - [Suspension is associated with long-term harms including higher risk of grade retention, dropout, and juvenile justice involvement](suspension-long-term-harms-retention-dropout.md) — related
-- [Teacher diversity benefits all students regardless of race or ethnicity, while only about 20% of U.S. teachers are of color](teacher-diversity-benefits-all-students.md) — a broader claim this one bears on
-- [Teacher-student racial match is linked to better social, emotional, and academic outcomes, including lower dropout and higher college enrollment for Black students](teacher-student-racial-match-sead-benefits.md) — a broader claim this one bears on
+- Teacher diversity benefits all students regardless of race or ethnicity, while only about 20% of U.S. teachers are of color — a broader claim this one bears on
+- Teacher-student racial match is linked to better social, emotional, and academic outcomes, including lower dropout and higher college enrollment for Black students — a broader claim this one bears on

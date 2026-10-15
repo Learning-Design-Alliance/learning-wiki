@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: sijing-yin-2026
-    resource: "https://arxiv.org/abs/2610.05783"
-    title: "Sijing Yin, Zirui Wang, Qian Liu, Jiamou Liu. (2026). CLARA: Can AI Assess Developmental Appropriateness in Children's Stories?. https://arxiv.org/abs/2610.05783"
+    resource: "https://doi.org/10.48550/arxiv.2610.05783"
+    title: "Sijing Yin, Zirui Wang, Qian Liu, Jiamou Liu. (2026). CLARA: Can AI Assess Developmental Appropriateness in Children's Stories?. https://arxiv.org/abs/2610.05783 [doi:10.48550/arxiv.2610.05783](https://doi.org/10.48550/arxiv.2610.05783)"
     author: Sijing Yin, Zirui Wang, Qian Liu, Jiamou Liu
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Taxonomy quality drives CLARA performance: degraded taxonomies reduce alignment, and removing SEL causes the largest degradation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Degraded taxonomy variants (random mapping, dimension-swapped, coarse) substantially reduce developmental alignment relative to the full taxonomy. [→ Sijing Yin 2026](#sijing-yin-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Sijing Yin 2026
 
-Sijing Yin, Zirui Wang, Qian Liu, Jiamou Liu. (2026). CLARA: Can AI Assess Developmental Appropriateness in Children's Stories?. https://arxiv.org/abs/2610.05783
+Sijing Yin, Zirui Wang, Qian Liu, Jiamou Liu. (2026). CLARA: Can AI Assess Developmental Appropriateness in Children's Stories?. https://arxiv.org/abs/2610.05783 [doi:10.48550/arxiv.2610.05783](https://doi.org/10.48550/arxiv.2610.05783)
 
 `q2 · i?` · `design · r2`
 

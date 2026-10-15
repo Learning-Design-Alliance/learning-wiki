@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: hartwig-grabowski-2026
-    resource: "https://arxiv.org/abs/2606.08855"
-    title: "Hartwig Grabowski, Michael Canz. (2026). Hybrid E-Assessment in Higher Education: Semi-Automated Grading of Paper-Based Written Examinations. https://arxiv.org/abs/2606.08855"
+    resource: "https://doi.org/10.48550/arxiv.2606.08855"
+    title: "Hartwig Grabowski, Michael Canz. (2026). Hybrid E-Assessment in Higher Education: Semi-Automated Grading of Paper-Based Written Examinations. https://arxiv.org/abs/2606.08855 [doi:10.48550/arxiv.2606.08855](https://doi.org/10.48550/arxiv.2606.08855)"
     author: Hartwig Grabowski, Michael Canz
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Hartwig Grabowski 2026
 
-Hartwig Grabowski, Michael Canz. (2026). Hybrid E-Assessment in Higher Education: Semi-Automated Grading of Paper-Based Written Examinations. https://arxiv.org/abs/2606.08855
+Hartwig Grabowski, Michael Canz. (2026). Hybrid E-Assessment in Higher Education: Semi-Automated Grading of Paper-Based Written Examinations. https://arxiv.org/abs/2606.08855 [doi:10.48550/arxiv.2606.08855](https://doi.org/10.48550/arxiv.2606.08855)
 
 `q1 · i?` · `design · r2`
 

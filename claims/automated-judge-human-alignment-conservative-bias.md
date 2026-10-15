@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: saqib-shouqi-2026
-    resource: "https://arxiv.org/abs/2608.03166"
-    title: "Saqib Shouqi, Abdullah Nazly, Januki Wanniarachchi, Ravisha De Alwis. (2026). Adversarial Stress Testing of Role-Playing Language Agents using Multi-Agent Evaluation. ADScAI Conference, University of Moratuwa, Sri Lanka. https://arxiv.org/abs/2608.03166"
+    resource: "https://doi.org/10.48550/arxiv.2608.03166"
+    title: "Saqib Shouqi, Abdullah Nazly, Januki Wanniarachchi, Ravisha De Alwis. (2026). Adversarial Stress Testing of Role-Playing Language Agents using Multi-Agent Evaluation. ADScAI Conference, University of Moratuwa, Sri Lanka. https://arxiv.org/abs/2608.03166 [doi:10.48550/arxiv.2608.03166](https://doi.org/10.48550/arxiv.2608.03166)"
     author: Saqib Shouqi, Abdullah Nazly, Januki Wanniarachchi, Ravisha De Alwis
     q: 2
     i: 3
@@ -31,7 +31,7 @@ sources:
 
 ### Saqib Shouqi 2026
 
-Saqib Shouqi, Abdullah Nazly, Januki Wanniarachchi, Ravisha De Alwis. (2026). Adversarial Stress Testing of Role-Playing Language Agents using Multi-Agent Evaluation. ADScAI Conference, University of Moratuwa, Sri Lanka. https://arxiv.org/abs/2608.03166
+Saqib Shouqi, Abdullah Nazly, Januki Wanniarachchi, Ravisha De Alwis. (2026). Adversarial Stress Testing of Role-Playing Language Agents using Multi-Agent Evaluation. ADScAI Conference, University of Moratuwa, Sri Lanka. https://arxiv.org/abs/2608.03166 [doi:10.48550/arxiv.2608.03166](https://doi.org/10.48550/arxiv.2608.03166)
 
 `q2 · i3` · `design · r2`
 
@@ -44,7 +44,7 @@ A human validation study had three domain experts independently score a stratifi
 
 ## Related Claims
 
-- [Claude showed the highest alignment with human BREQ responses, and interview-containing prompts aligned better than baseline prompts](claude-highest-human-alignment-interview-prompts.md) — related
+- Claude showed the highest alignment with human BREQ responses, and interview-containing prompts aligned better than baseline prompts — related
 - [Multi-strategy adversarial evaluation lowers RPLA robustness scores by 0.174–0.203 points relative to a single-strategy baseline across three personas](multi-strategy-adversarial-testing-lowers-rpla-robustness.md) — related
 - [RPLA failures are temporally distributed: ethical violations are rare in the first three turns and become significantly more frequent after turn 6](rpla-failure-onset-second-half-of-dialogue.md) — related
 - [The automated scoring system's agreement with human raters varied widely by dimension, with information fidelity showing a weak, non-significant correlation](yunyi-human-agreement-varies-by-dimension.md) — related

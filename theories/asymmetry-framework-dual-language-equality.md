@@ -16,7 +16,7 @@ sources:
 # Asymmetry framework for analyzing equality in dual language programs
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article develops asymmetry, defined as "a lack of proportion," as an analytical tool for studying whether a dual language program delivers equal educational opportunity. Symmetry instances appear when the program promotes fairness, such as printing all school publications in both languages; asymmetry appears when planners move theory to practice. The framework organizes observed imbalances into three categories: instructional asymmetry (teaching practices), resource asymmetry (disproportion of learning materials), and student asymmetry (interpersonal relations among students).
@@ -39,11 +39,9 @@ The article develops asymmetry, defined as "a lack of proportion," as an analyti
 
 ### Claims
 
-- [Code Switching Asymmetry Bilingual Teacher Imbalance](../claims/code-switching-asymmetry-bilingual-teacher-imbalance.md) [+M]
 - Spanish Resource Asymmetry Inferior Materials [+M]
 - [Language Clique Segregation Peer Choice](../claims/language-clique-segregation-peer-choice.md) [+M]
 - [Contrary to program guidelines, English acquisition was given priority over Spanish acquisition in practice](../claims/english-priority-over-spanish-in-practice.md) [+W]
-- [Question-answering practices required Spanish-speaking students to speak and comprehend English while English-speaking students only listened to Spanish](../claims/unequal-language-demands-question-answering.md) [+W]
 
 ## Related Theories
 - 

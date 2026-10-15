@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: jordan-gutterman-2026
-    resource: "https://arxiv.org/abs/2606.25308"
-    title: "Jordan Gutterman, Ashish Gurung, Lee Branstetter, Kenneth Koedinger, and Vincent Aleven. (2026). Cross-Subject Predictive Validity for Learning Outcomes of Delayed Start Behavior. https://arxiv.org/abs/2606.25308"
+    resource: "https://doi.org/10.48550/arxiv.2606.25308"
+    title: "Jordan Gutterman, Ashish Gurung, Lee Branstetter, Kenneth Koedinger, and Vincent Aleven. (2026). Cross-Subject Predictive Validity for Learning Outcomes of Delayed Start Behavior. https://arxiv.org/abs/2606.25308 [doi:10.48550/arxiv.2606.25308](https://doi.org/10.48550/arxiv.2606.25308)"
     author: Jordan Gutterman, Ashish Gurung, Lee Branstetter, Kenneth Koedinger, and Vincent Aleven
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Jordan Gutterman 2026
 
-Jordan Gutterman, Ashish Gurung, Lee Branstetter, Kenneth Koedinger, and Vincent Aleven. (2026). Cross-Subject Predictive Validity for Learning Outcomes of Delayed Start Behavior. https://arxiv.org/abs/2606.25308
+Jordan Gutterman, Ashish Gurung, Lee Branstetter, Kenneth Koedinger, and Vincent Aleven. (2026). Cross-Subject Predictive Validity for Learning Outcomes of Delayed Start Behavior. https://arxiv.org/abs/2606.25308 [doi:10.48550/arxiv.2606.25308](https://doi.org/10.48550/arxiv.2606.25308)
 
 `q2 · i?` · `associational · r2`
 

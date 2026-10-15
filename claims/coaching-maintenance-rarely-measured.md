@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` A majority of reviewed studies did not collect maintenance data, so it is not possible to know whether teachers maintained the coached strategy; where behavior was measured, it was not always maintained. [→ Carmouche 2018](#carmouche-2018)
@@ -45,5 +46,5 @@ Review discussion of maintenance across the included studies: Duchaine et al. (2
 ## Related Claims
 - [Teacher praise increased in every reviewed study that coached teachers to increase praise](coaching-increases-teacher-praise.md) — related
 - [Research quality and outcome durability were highest when coaching targeted fidelity of specific academic tasks rather than teacher-specific behaviors](coaching-academic-task-fidelity-higher-quality.md) — related
-- [Teachers and coaches in the qualitative study perceived that coaching increased teacher knowledge and practice, with sustainable practices and positive student learning outcomes](coaching-outcomes-teacher-knowledge-sustainability-student-learning.md) — related
+- Teachers and coaches in the qualitative study perceived that coaching increased teacher knowledge and practice, with sustainable practices and positive student learning outcomes — related
 - [Supervisory teacher coaching shows mixed effects, with six of sixteen reviewed studies reporting improved teacher results and four reporting improved student behaviors](supervisory-coaching-mixed-teacher-student-outcomes.md) — a broader claim this one bears on

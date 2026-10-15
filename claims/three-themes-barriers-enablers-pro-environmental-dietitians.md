@@ -45,8 +45,8 @@ Qualitative thematic analysis (Braun and Clarke's six steps) of free-text barrie
 ## Related Claims
 - [A half-day workshop featuring the PPH framework significantly increased dietitians' confidence to undertake pro-environmental change in their personal and professional lives](pph-workshop-increases-dietitians-pro-environmental-confidence.md) — related
 - [Belief that a global environmental problem needs addressing was already high before the workshop and did not significantly change](pph-workshop-no-significant-belief-change.md) — related
-- [Barriers to situated learning fall into three categories: the traditional school system, the traditional educational approach, and teacher training and practice](situated-learning-three-barrier-categories.md) — related
-- [Adult language learners join classes with varied, overlapping motivations that fall into goal-, activity- and learning-orientated categories](adult-learner-motivation-three-categories.md) — related
+- Barriers to situated learning fall into three categories: the traditional school system, the traditional educational approach, and teacher training and practice — related
+- Adult language learners join classes with varied, overlapping motivations that fall into goal-, activity- and learning-orientated categories — related
 - [Global change instruction poses a distinctive challenge: learners must view global change holistically while analysing individual issues at local and regional levels](global-change-holistic-and-local-analysis-challenge.md) — related
 - [The most cited barriers to adult learning are situational, but adults also face internal barriers such as low confidence in their ability to learn](adult-learner-barriers-situational-and-internal.md) — related
 - [Interviewed teachers attributed disengagement to technical, institutional, and social-relational environmental constraints rather than capability deficits](environmental-constraints-attributed-disengagement.md) — related

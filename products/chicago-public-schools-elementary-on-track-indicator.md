@@ -18,7 +18,7 @@ sources:
 # Chicago Public Schools Elementary On-Track indicator
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 9 claims (8 for, 1 mixed) · 3 studies (2 associational, 1 review), `q2` · 0 of 3 report an effect size · 9 claims rest on one study
+> **Evidence** · 8 claims (8 for) · 2 studies (1 review, 1 associational), `q2` · 0 of 2 report an effect size · 8 claims rest on one study
 
 ## Description
 A Chicago Public Schools indicator system that classifies elementary students by GPA and attendance thresholds to identify academic and attendance support needs and monitor later educational outcomes, including its four-category Condensed EOT version.
@@ -36,7 +36,6 @@ A Chicago Public Schools indicator system that classifies elementary students by
 - [Elementary students in the On-Track category graduated high school at more than twice the rate and enrolled in college at more than four times the rate of students in the Intensive Support category](../claims/condensed-eot-ontrack-versus-intensive-support-outcomes.md) [+W]
 - [Black and Latinx students were less likely than their peers to be in the On-Track category, and within each race/ethnicity group boys were less likely to be on-track than girls](../claims/condensed-eot-race-gender-equity-gaps.md) [+W]
 - [Students in higher CPS EOT categories had progressively higher rates of high school graduation and college enrollment](../claims/cps-eot-five-category-progressive-outcomes.md) [+W]
-- [Combining GPA with attendance, or course failure rates with attendance, gives the best prediction of high school graduation for most English Learner groups but not long-term English Learners with IEPs](../claims/gpa-attendance-combination-best-graduation-prediction-el.md) [~W]
 - [In a Chicago middle-grades study, the combination of grades and attendance provided the best prediction of high school on-track rates, and adding test scores and grit measures did not further improve prediction](../claims/middle-grades-grades-attendance-best-prediction.md) [+W]
 
 ## Related Products and Programmes

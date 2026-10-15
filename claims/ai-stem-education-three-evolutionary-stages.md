@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: chan-2026
-    resource: "https://arxiv.org/abs/2607.05412"
-    title: "Chan, J. Y. (Zexi Chen), Chen, M., Hong, Y., Song, Z., Wang, H., & Xu, X. (2026). Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda. https://arxiv.org/abs/2607.05412"
+    resource: "https://doi.org/10.48550/arxiv.2607.05412"
+    title: "Chan, J. Y. (Zexi Chen), Chen, M., Hong, Y., Song, Z., Wang, H., & Xu, X. (2026). Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda. https://arxiv.org/abs/2607.05412 [doi:10.48550/arxiv.2607.05412](https://doi.org/10.48550/arxiv.2607.05412)"
     author: "Chan, J. Y. (Zexi Chen), Chen, M., Hong, Y., Song, Z., Wang, H., & Xu, X."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Chan 2026
 
-Chan, J. Y. (Zexi Chen), Chen, M., Hong, Y., Song, Z., Wang, H., & Xu, X. (2026). Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda. https://arxiv.org/abs/2607.05412
+Chan, J. Y. (Zexi Chen), Chen, M., Hong, Y., Song, Z., Wang, H., & Xu, X. (2026). Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda. https://arxiv.org/abs/2607.05412 [doi:10.48550/arxiv.2607.05412](https://doi.org/10.48550/arxiv.2607.05412)
 
 `q2 · i?` · `review · r2`
 
@@ -44,7 +44,7 @@ Bibliometric time-zone evolution analysis of the 242-document corpus in VOSviewe
 
 ## Related Claims
 - [The review identifies three pathways of AI-empowered STEM education: technological leap to generative AI, integration into instructional systems, and value shift toward competency cultivation](three-pathways-ai-empowered-stem-education.md) — related
-- [AI presents four solution types for overcoming situated learning barriers: adaptive systems, intelligent tutoring in authentic scenarios, administrative automation, and data-driven teacher support](ai-four-solution-types-situated-learning.md) — related
+- AI presents four solution types for overcoming situated learning barriers: adaptive systems, intelligent tutoring in authentic scenarios, administrative automation, and data-driven teacher support — related
 - [Reviewed literature identifies personalisation, adaptive support, rapid feedback, and teacher-facing automation as recurring pedagogical opportunities of AI in mathematics education](ai-math-pedagogical-opportunities-personalisation-feedback.md) — related
 - [Annual publication output on AI in STEM education grew moderately 2015–2018 and showed explosive growth after 2022 driven by LLMs](ai-stem-publication-explosive-growth-after-2022.md) — related
 - AIOL research shows a temporal shift from early traditional AI applications toward machine learning and deep learning approaches — related

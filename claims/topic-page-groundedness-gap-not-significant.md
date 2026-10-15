@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: brian-wright-2026
-    resource: "https://arxiv.org/abs/2609.25303"
-    title: "Brian Wright. (2026). Potential for Enhanced Learning in Machine Learning Classes by Using Wiki LLM Indexing. https://arxiv.org/abs/2609.25303"
+    resource: "https://doi.org/10.48550/arxiv.2609.25303"
+    title: "Brian Wright. (2026). Potential for Enhanced Learning in Machine Learning Classes by Using Wiki LLM Indexing. https://arxiv.org/abs/2609.25303 [doi:10.48550/arxiv.2609.25303](https://doi.org/10.48550/arxiv.2609.25303)"
     author: Brian Wright
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Brian Wright 2026
 
-Brian Wright. (2026). Potential for Enhanced Learning in Machine Learning Classes by Using Wiki LLM Indexing. https://arxiv.org/abs/2609.25303
+Brian Wright. (2026). Potential for Enhanced Learning in Machine Learning Classes by Using Wiki LLM Indexing. https://arxiv.org/abs/2609.25303 [doi:10.48550/arxiv.2609.25303](https://doi.org/10.48550/arxiv.2609.25303)
 
 `q2 · i?` · `causal · r2`
 

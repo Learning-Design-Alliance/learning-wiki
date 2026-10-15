@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: abigail-victoria-gurin-schleifer-2026
-    resource: "https://arxiv.org/abs/2605.07647"
-    title: "Abigail Victoria Gurin Schleifer, Moriah Ariely, Beata Beigman Klebanov, Asaf Salman, Giora Alexandron. (2026). Quality-Conditioned Agreement in Automated Short Answer Scoring: Mid-Range Degradation and the Impact of Task-Specific Adaptation. arXiv. https://arxiv.org/abs/2605.07647"
+    resource: "https://doi.org/10.48550/arxiv.2605.07647"
+    title: "Abigail Victoria Gurin Schleifer, Moriah Ariely, Beata Beigman Klebanov, Asaf Salman, Giora Alexandron. (2026). Quality-Conditioned Agreement in Automated Short Answer Scoring: Mid-Range Degradation and the Impact of Task-Specific Adaptation. arXiv. https://arxiv.org/abs/2605.07647 [doi:10.48550/arxiv.2605.07647](https://doi.org/10.48550/arxiv.2605.07647)"
     author: Abigail Victoria Gurin Schleifer, Moriah Ariely, Beata Beigman Klebanov, Asaf Salman, Giora Alexandron
     q: 2
     i: "?"
@@ -38,7 +38,7 @@ sources:
 # Mid-range degradation is conditioned on task-specific adaptation: it is most severe for few-shot LLMs with few examples, decreases with more task-specific data, and is mildest for the fine-tuned encoder
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · causal `r1`–`r2` · `q2`
+> **Evidence** · 2 studies (3 entries) · 2 causal `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` Fine-tuned BERT models also degraded in the mid-range but less severely, with maximum average distance of 1.5 categories from the gold scores. [→ Abigail Victoria Gurin Schleifer 2026](#abigail-victoria-gurin-schleifer-2026)
@@ -49,7 +49,7 @@ sources:
 
 ### Abigail Victoria Gurin Schleifer 2026
 
-Abigail Victoria Gurin Schleifer, Moriah Ariely, Beata Beigman Klebanov, Asaf Salman, Giora Alexandron. (2026). Quality-Conditioned Agreement in Automated Short Answer Scoring: Mid-Range Degradation and the Impact of Task-Specific Adaptation. arXiv. https://arxiv.org/abs/2605.07647
+Abigail Victoria Gurin Schleifer, Moriah Ariely, Beata Beigman Klebanov, Asaf Salman, Giora Alexandron. (2026). Quality-Conditioned Agreement in Automated Short Answer Scoring: Mid-Range Degradation and the Impact of Task-Specific Adaptation. arXiv. https://arxiv.org/abs/2605.07647 [doi:10.48550/arxiv.2605.07647](https://doi.org/10.48550/arxiv.2605.07647)
 
 `q2 · i?` · `causal · r2`
 

@@ -99,5 +99,5 @@ This review examined 35 experimental research studies that taught self-questioni
 - [Metacognitive strategy instruction, which includes comprehension monitoring, improves academic performance by a medium amount, and in one non-randomised study comprehension-monitoring training raised low achievers' reading scores](self-monitoring-comprehension-improves-learning.md) — a broader claim this one bears on
 - [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) — related
 - [Reading Strategy Instruction Improves Comprehension](reading-strategy-instruction-improves-comprehension.md) — a broader claim this one bears on
-- [Students typically receive little or no instruction in how to analyze, answer, and write answers to questions](little-instruction-in-answering-questions.md) — related
+- Students typically receive little or no instruction in how to analyze, answer, and write answers to questions — related
 - [Teachers reported redesigning instruction toward learner question formulation, comparison, and inquiry when using AI](designing-for-learner-agency-dimension.md) — related

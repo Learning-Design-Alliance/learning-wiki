@@ -47,6 +47,6 @@ Pilot studies within the institution's computing-related majors, reported in the
 
 ## Related Claims
 - [A within-subjects pilot with 27 professional software engineers found statistically significant self-reported self-efficacy gains across all 10 assessed skill areas after completing the cc-self-train curriculum](cc-self-train-pilot-self-efficacy-gains.md) — a narrower finding that bears on this claim
-- [Haitian teachers reported that pilot trainings improved their teaching, classroom management, and use of technology](haiti-teacher-training-self-reported-improvements.md) — related
+- Haitian teachers reported that pilot trainings improved their teaching, classroom management, and use of technology — related
 - [In Pilot District 3, majorities of students agreed that Compact Writing Assignments gave them topic choice and that autonomy and varied expression formats improved engagement and writing quality](compact-writing-assignments-student-choice-engagement.md) — related
 - [In a randomized trial of SRL interventions in an online mathematics preparation course, group and time interacted significantly on SRL knowledge, self-efficacy and the SRL overall score, with Group TDP (training + diary + peer feedback) showing the most prominent gains](srl-web-training-peer-feedback-group-by-time-interaction-online-math-prep.md) — related

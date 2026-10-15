@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: sebastian-maier-2026
-    resource: "https://arxiv.org/abs/2609.20143"
-    title: "Sebastian Maier, Kai Schwabe, Manuel Schneider, and Stefan Feuerriegel. (2026). Designing Against Deskilling: Metacognitive Feedback Reduces Cognitive Offloading to LLM Assistants. arXiv. https://arxiv.org/abs/2609.20143"
+    resource: "https://doi.org/10.48550/arxiv.2609.20143"
+    title: "Sebastian Maier, Kai Schwabe, Manuel Schneider, and Stefan Feuerriegel. (2026). Designing Against Deskilling: Metacognitive Feedback Reduces Cognitive Offloading to LLM Assistants. arXiv. https://arxiv.org/abs/2609.20143 [doi:10.48550/arxiv.2609.20143](https://doi.org/10.48550/arxiv.2609.20143)"
     author: Sebastian Maier, Kai Schwabe, Manuel Schneider, and Stefan Feuerriegel
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Metacognitive feedback disrupted the tendency to repeat answer offloading across consecutive items without changing whether participants engaged with the assistant
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r3` · `q2`
+> **Evidence** · 2 studies · 2 causal `r3` · `q2`
 
 ## Subclaims
 `q2 i?` After offloading an item, participants offloaded the subsequent item in 69.7% of cases without feedback versus 55.9% with feedback; the interaction was significant (OR = 0.54). [→ Sebastian Maier 2026](#sebastian-maier-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Sebastian Maier 2026
 
-Sebastian Maier, Kai Schwabe, Manuel Schneider, and Stefan Feuerriegel. (2026). Designing Against Deskilling: Metacognitive Feedback Reduces Cognitive Offloading to LLM Assistants. arXiv. https://arxiv.org/abs/2609.20143
+Sebastian Maier, Kai Schwabe, Manuel Schneider, and Stefan Feuerriegel. (2026). Designing Against Deskilling: Metacognitive Feedback Reduces Cognitive Offloading to LLM Assistants. arXiv. https://arxiv.org/abs/2609.20143 [doi:10.48550/arxiv.2609.20143](https://doi.org/10.48550/arxiv.2609.20143)
 
 `q2 · i?` · `causal · r3`
 

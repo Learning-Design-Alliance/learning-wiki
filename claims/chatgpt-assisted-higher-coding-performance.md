@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: bergh-2026
-    resource: "https://arxiv.org/abs/2609.21194"
-    title: "Bergh, C., Tag, B., Vassar, A., & Renzella, J. (2026). Your Programming Students'Cognition with ChatGPT: Higher Performance, Lower Retention, and Reduced Ownership. https://arxiv.org/abs/2609.21194"
+    resource: "https://doi.org/10.48550/arxiv.2609.21194"
+    title: "Bergh, C., Tag, B., Vassar, A., & Renzella, J. (2026). Your Programming Students'Cognition with ChatGPT: Higher Performance, Lower Retention, and Reduced Ownership. https://arxiv.org/abs/2609.21194 [doi:10.48550/arxiv.2609.21194](https://doi.org/10.48550/arxiv.2609.21194)"
     author: "Bergh, C., Tag, B., Vassar, A., & Renzella, J."
     q: 3
     i: 3
@@ -31,7 +31,7 @@ sources:
 
 ### Bergh 2026
 
-Bergh, C., Tag, B., Vassar, A., & Renzella, J. (2026). Your Programming Students'Cognition with ChatGPT: Higher Performance, Lower Retention, and Reduced Ownership. https://arxiv.org/abs/2609.21194
+Bergh, C., Tag, B., Vassar, A., & Renzella, J. (2026). Your Programming Students'Cognition with ChatGPT: Higher Performance, Lower Retention, and Reduced Ownership. https://arxiv.org/abs/2609.21194 [doi:10.48550/arxiv.2609.21194](https://doi.org/10.48550/arxiv.2609.21194)
 
 `q3 · i3` · `causal · r2`
 

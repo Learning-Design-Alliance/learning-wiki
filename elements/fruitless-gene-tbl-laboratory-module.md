@@ -17,7 +17,7 @@ sources:
 # Two-week fruitless gene TBL laboratory module on aggression and courtship in Drosophila melanogaster
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A two-week learning module in which, per the abstract, "students tested the role of the fruitless gene on aggression and courtship in Drosophila melanogaster via team-based learning (TBL) strategies" in two sections of a junior/senior-level Behavioral Genetics laboratory. Week one covers pre-class preparation, individual and team RATs with IF-AT cards and appeals, 4S application activities, skill practice in small groups of two to three, and development of novel experimental designs. Week two involves an extensive peer review process on the learning management system discussion board, redesign, independent implementation, troubleshooting, and data analysis. Materials, lesson plan, RAT versions, and alternative strains purchasable through Carolina Biological are supplied.
@@ -45,9 +45,7 @@ A two-week learning module in which, per the abstract, "students tested the role
 
 ## Claims
 
-- [The majority of students lacked confidence in their experimental results because they could not solicit the behaviors or obtained unexpected results](../claims/students-unconfident-first-inquiry-results.md) [+W]
 - [After the TBL module, students were better prepared to design and implement independent final research projects](../claims/tbl-module-prepares-independent-projects.md) [+W]
-- [Students report significantly higher accountability, preference for TBL, satisfaction, and total scores than neutral after the TBL module](../claims/tbl-survey-above-neutral.md) [+W]
 - [Students perform significantly higher on the team portion of the Readiness Assessment Test than on the individual portion in a TBL laboratory module](../claims/team-rat-scores-higher-than-individual-rat.md) [+W]
 
 ## Related Elements

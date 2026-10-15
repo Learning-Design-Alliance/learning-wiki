@@ -44,6 +44,6 @@ Independent t-test on the 20-question listening pre-test (Table 5 reports t = 0.
 
 ## Related Claims
 - [IELTS-task-instructed learners outperformed TOEFL-materials-instructed learners on listening post-test performance](ielts-task-instruction-outperforms-toefl-listening.md) — related
-- [The four DA-by-age groups were statistically equivalent in general English proficiency and pre-test writing accuracy before treatment](baseline-equality-four-da-age-groups.md) — related
+- The four DA-by-age groups were statistically equivalent in general English proficiency and pre-test writing accuracy before treatment — related
 - [Task-based instruction changed learners' views toward TBLT to align with teachers' views](task-instruction-shifts-learner-tblt-views.md) — related
 - Experimental and control groups showed no significant pre-test difference in reading comprehension before treatment — related

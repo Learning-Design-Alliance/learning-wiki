@@ -18,7 +18,7 @@ sources:
 # Publicly released fine-tuned BERT model and code for coding self-affirmation essays
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 7 claims (6 for, 1 mixed) · 2 studies (1 causal, 1 design), `q2`–`q3` · 0 of 2 report an effect size · 7 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 2 studies (1 causal, 1 design), `q2`–`q3` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 Ye et al.'s publicly released Keras implementation and fine-tuned BERT classifier automate coding student essays as self-affirming or general for research use.
@@ -29,11 +29,8 @@ Ye et al.'s publicly released Keras implementation and fine-tuned BERT classifie
 ### Claims
 
 - [The fine-tuned BERT model's classification performance is consistent across stereotype-threatened and non-threatened students and other demographic subgroups](../claims/bert-consistent-performance-across-student-subgroups.md) [+W]
-- [The BERT model's errors are predominantly false positives, and in most disagreements with the original coder its predictions aligned with second-round human coding](../claims/bert-error-pattern-false-positives-align-double-coding.md) [+W]
 - [The fine-tuned BERT model generalizes to an external dataset collected by a different research team, maintaining almost perfect agreement with human coders](../claims/bert-generalizes-external-self-affirmation-dataset.md) [+W]
-- [Fine-tuned BERT outperforms a Naive Bayes baseline and zero-shot GPT-4 in classifying self-affirmation essays](../claims/bert-outperforms-naive-bayes-and-gpt4-essay-coding.md) [+W]
 - [A fine-tuned BERT model achieves almost perfect agreement with human coders when classifying student self-affirmation essays, matching human-human reliability](../claims/fine-tuned-bert-matches-human-coders-self-affirmation-essays.md) [+W]
-- [GPT-4 classifies self-affirmation essays reasonably in zero-shot mode but below fine-tuned BERT, and few-shot prompting does not appreciably improve it](../claims/gpt4-zero-shot-below-finetuned-bert-fewshot-plateau.md) [+W]
 - [Mid-range degradation is conditioned on task-specific adaptation: it is most severe for few-shot LLMs with few examples, decreases with more task-specific data, and is mildest for the fine-tuned encoder](../claims/task-specific-adaptation-conditions-mid-range-degradation.md) [~W]
 
 ## Related Products and Programmes
@@ -70,11 +67,8 @@ A fine-tuned BERT-base (uncased) binary classifier, built in Keras with a frozen
 ## Claims
 
 - [The fine-tuned BERT model's classification performance is consistent across stereotype-threatened and non-threatened students and other demographic subgroups](../claims/bert-consistent-performance-across-student-subgroups.md) [+W]
-- [The BERT model's errors are predominantly false positives, and in most disagreements with the original coder its predictions aligned with second-round human coding](../claims/bert-error-pattern-false-positives-align-double-coding.md) [+W]
 - [The fine-tuned BERT model generalizes to an external dataset collected by a different research team, maintaining almost perfect agreement with human coders](../claims/bert-generalizes-external-self-affirmation-dataset.md) [+W]
-- [Fine-tuned BERT outperforms a Naive Bayes baseline and zero-shot GPT-4 in classifying self-affirmation essays](../claims/bert-outperforms-naive-bayes-and-gpt4-essay-coding.md) [+W]
 - [A fine-tuned BERT model achieves almost perfect agreement with human coders when classifying student self-affirmation essays, matching human-human reliability](../claims/fine-tuned-bert-matches-human-coders-self-affirmation-essays.md) [+W]
-- [GPT-4 classifies self-affirmation essays reasonably in zero-shot mode but below fine-tuned BERT, and few-shot prompting does not appreciably improve it](../claims/gpt4-zero-shot-below-finetuned-bert-fewshot-plateau.md) [+W]
 
 ## Related Elements
 - 

@@ -62,7 +62,7 @@ Interview data illustrating how families utilized Ocean Guide components differe
 
 
 ## Related Claims
-- [Parents used the digital Family Guide flexibly, modifying activities to fit their routines or creating new activities based on family interests](parents-adapted-family-guide-activities.md) — related
+- Parents used the digital Family Guide flexibly, modifying activities to fit their routines or creating new activities based on family interests — related
 - [Nearly all participating families reported using the Splash and Bubbles for Parents app and found it helpful for supporting children's science learning](splash-bubbles-app-high-uptake-perceived-learning-support.md) — related
 - [Families used multiple sections of the Splash and Bubbles for Parents app, with Dive In the most used and Let's Talk About It conversation starters rated most helpful within it](splash-bubbles-app-section-use-dive-in-conversation-starters.md) — related
 - [Attrition in the station study was higher than expected, and partial-data families rated app components slightly lower than complete-data families](splash-bubbles-station-study-attrition-partial-data-lower-ratings.md) — related

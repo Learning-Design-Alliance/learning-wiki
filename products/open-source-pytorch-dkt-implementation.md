@@ -17,7 +17,7 @@ sources:
 # Open-source PyTorch DKT implementation
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (1 for, 2 mixed) · 4 studies (2 causal, 2 associational), `q2` · 0 of 4 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 mixed) · 2 studies (2 causal), `q2` · 0 of 2 report an effect size
 
 ## Description
 An open-source PyTorch implementation created by the article's authors for fitting Deep Knowledge Tracing to DataShop-format data and using it in online knowledge-tracing settings.
@@ -28,9 +28,7 @@ An open-source PyTorch implementation created by the article's authors for fitti
 - **DKT released code and preprocessed data**: To facilitate research on deep knowledge tracing, the authors published their model code and preprocessed datasets on GitHub. The article states: "To facilitate research in DKTs we have published our code and relevant preprocessed data" at the repository chrispiech/DeepKnowledgeTracing. This release supports replication of the LSTM/RNN knowledge tracing results and reuse of the training pipeline in follow-up work. (Chris Piech et al. (2015))
 
 ### Claims
-- [DKT fails to retain long-term information on datasets with thousands of interactions per learner, but reaches peak performance on a new student faster than logistic regression](../claims/dkt-long-term-information-and-faster-burn-in.md) [~M]
 - [BKT is the most efficient knowledge tracing approach overall in simulated online mastery learning, though DKT is more efficient for AS and M problems](../claims/bkt-most-efficient-online-mastery-learning.md) [~M]
-- [Deep Knowledge Tracing substantially outperforms Bayesian Knowledge Tracing on knowledge tracing benchmarks](../claims/dkt-outperforms-bkt-auc-benchmarks.md) [+M]
 
 ## Related Products and Programmes
 -
@@ -64,7 +62,6 @@ The authors created their own DKT implementation using PyTorch's LSTM module to 
 
 ### Claims
 <!- - Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] - ->
-- [DKT fails to retain long-term information on datasets with thousands of interactions per learner, but reaches peak performance on a new student faster than logistic regression](../claims/dkt-long-term-information-and-faster-burn-in.md) [~M]
 - [BKT is the most efficient knowledge tracing approach overall in simulated online mastery learning, though DKT is more efficient for AS and M problems](../claims/bkt-most-efficient-online-mastery-learning.md) [~M]
 
 ## Related Elements

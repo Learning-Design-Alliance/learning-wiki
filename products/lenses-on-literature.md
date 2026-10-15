@@ -18,7 +18,7 @@ sources:
 # Lenses on Literature
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Lenses on Literature is a disciplinary-literacy curriculum program that provides standards-driven reading, writing, discourse, scaffolds, and formative assessments organized around driving task prompts.
@@ -27,9 +27,6 @@ Lenses on Literature is a disciplinary-literacy curriculum program that provides
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Lenses on Literature produces a statistically significant positive effect on eighth-grade state reading scores in Kentucky (effect size +0.06)](../claims/lenses-kentucky-reading-effect-006.md) [+M]
-- [In Pennsylvania exploratory analyses, Lenses showed a small, non-significant effect on reading (effect size +0.03)](../claims/lenses-pennsylvania-reading-null-effect.md) [+W]
-- [Lenses impacts are significant for middle school students whose teachers have two years of program experience, with largest gains where over half of class time is Lenses-supported, but attrition makes these results suggestive](../claims/lenses-teacher-experience-dosage-suggestive.md) [+W]
 
 ## Related Products and Programmes
 
@@ -68,9 +65,6 @@ Lenses on Literature is a comprehensive instructional framework engaging all stu
 
 ## Claims
 
-- [Lenses on Literature produces a statistically significant positive effect on eighth-grade state reading scores in Kentucky (effect size +0.06)](../claims/lenses-kentucky-reading-effect-006.md) [+M]
-- [In Pennsylvania exploratory analyses, Lenses showed a small, non-significant effect on reading (effect size +0.03)](../claims/lenses-pennsylvania-reading-null-effect.md) [+W]
-- [Lenses impacts are significant for middle school students whose teachers have two years of program experience, with largest gains where over half of class time is Lenses-supported, but attrition makes these results suggestive](../claims/lenses-teacher-experience-dosage-suggestive.md) [+W]
 
 ## Related Elements
 - 

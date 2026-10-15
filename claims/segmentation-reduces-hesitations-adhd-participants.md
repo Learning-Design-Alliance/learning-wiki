@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: veronica-pimenova-2026
-    resource: "https://arxiv.org/abs/2607.24612"
-    title: "Veronica Pimenova, Chris Lee, Baramee Bhakdibhumi, Simon Chu, and Andrew Begel. (2026). Leveling the Playing Field: Temporal Video Segmentation for Individuals with ADHD in Computing Education. https://arxiv.org/abs/2607.24612"
+    resource: "https://doi.org/10.48550/arxiv.2607.24612"
+    title: "Veronica Pimenova, Chris Lee, Baramee Bhakdibhumi, Simon Chu, and Andrew Begel. (2026). Leveling the Playing Field: Temporal Video Segmentation for Individuals with ADHD in Computing Education. https://arxiv.org/abs/2607.24612 [doi:10.48550/arxiv.2607.24612](https://doi.org/10.48550/arxiv.2607.24612)"
     author: Veronica Pimenova, Chris Lee, Baramee Bhakdibhumi, Simon Chu, and Andrew Begel
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Veronica Pimenova 2026
 
-Veronica Pimenova, Chris Lee, Baramee Bhakdibhumi, Simon Chu, and Andrew Begel. (2026). Leveling the Playing Field: Temporal Video Segmentation for Individuals with ADHD in Computing Education. https://arxiv.org/abs/2607.24612
+Veronica Pimenova, Chris Lee, Baramee Bhakdibhumi, Simon Chu, and Andrew Begel. (2026). Leveling the Playing Field: Temporal Video Segmentation for Individuals with ADHD in Computing Education. https://arxiv.org/abs/2607.24612 [doi:10.48550/arxiv.2607.24612](https://doi.org/10.48550/arxiv.2607.24612)
 
 `q3 · i?` · `causal · r2`
 

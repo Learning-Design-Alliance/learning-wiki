@@ -44,4 +44,4 @@ A study using student-level data from Ohio, a state with a range of public and p
 
 ## Related Claims
 - [Differences among individual charter authorizers are likely greater than differences across authorizer types](individual-authorizer-differences-exceed-type-differences.md) — related
-- [The article examines whether the type of charter-school authorizer relates to charter-school effectiveness as measured by student achievement trajectories in Ohio](authorizer-type-charter-effectiveness-ohio-study.md) — related
+- The article examines whether the type of charter-school authorizer relates to charter-school effectiveness as measured by student achievement trajectories in Ohio — related

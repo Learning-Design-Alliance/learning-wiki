@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 4 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` 79.5% of the 88 active learning conditions contained a lecture component in class, at home, or both, and 72.4% of conditions with a main class session devoted at least 20% of class time to lecture. [→ Martella 2021](#martella-2021)
@@ -49,4 +50,4 @@ Systematic review of 57 comparison studies (88 active learning conditions) from 
 - [Time-on-task is frequently unequal across compared conditions, with active learning conditions typically requiring more home time](time-on-task-unequal-in-active-learning-comparisons.md) — related
 - [Active learning conditions more often include quizzes, homework, and learning/exam preparation than lecture conditions](active-learning-conditions-more-other-pedagogical-features.md) — related
 - Post-2014 comparison studies still most commonly contrast one active learning condition with one lecture condition — related
-- [Group tasks are the most frequent active learning activity in college science active learning conditions, followed by activity sheets](group-tasks-most-frequent-active-learning-activity.md) — related
+- Group tasks are the most frequent active learning activity in college science active learning conditions, followed by activity sheets — related

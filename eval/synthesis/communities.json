@@ -45,20 +45,8 @@
       "question": "Does teachers' community participation reach their students' achievement?",
       "members": [
         [
-          "stem-plcs-improve-student-math-achievement",
-          "+"
-        ],
-        [
           "plc-at-work-significant-math-effect",
           "+"
-        ],
-        [
-          "plc-at-work-no-ela-effect",
-          "~"
-        ],
-        [
-          "plc-at-work-underserved-subgroup-growth",
-          "~"
         ],
         [
           "vplc-assistments-no-significant-overall-effect",

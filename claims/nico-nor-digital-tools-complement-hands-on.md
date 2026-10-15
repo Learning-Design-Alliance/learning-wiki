@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Digital tools complemented hands-on investigations in powerful ways, providing opportunities not possible in class and enabling easy practice of hands-on learning. [→ Early Science with Nico and Nor® 2022](#early-science-with-nico-and-nor-2022)
@@ -44,6 +45,6 @@ The document's qualitative report from pilot testing states that "digital tools 
 ## Related Claims
 
 - [Immersive technologies such as virtual reality should reinforce, not substitute, the original educational action](vr-reinforcement-not-substitute.md) — the general claim this finding bears on, with the studies behind it
-- [Changes in the constraints of activity (attention, object location, interaction patterns) provide opportunities for new locally stable patterns of thinking to take hold](changing-activity-constraints-enable-new-coherences.md) — related
+- Changes in the constraints of activity (attention, object location, interaction patterns) provide opportunities for new locally stable patterns of thinking to take hold — related
 - [When all of a teacher's students had access to Equatio, teachers leveraged it in more robust workflows such as assessments, digital submissions, and timely feedback](universal-student-access-enables-robust-equatio-use.md) — related
-- [Children in classrooms implementing the Early Science with Nico and Nor program made significantly more improvement in science learning than peers in comparison classrooms.](nico-nor-greater-science-learning-gains-than-comparison.md) — related
+- Children in classrooms implementing the Early Science with Nico and Nor program made significantly more improvement in science learning than peers in comparison classrooms. — related

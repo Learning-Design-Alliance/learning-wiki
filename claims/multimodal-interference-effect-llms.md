@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: akshay-syal-2026
-    resource: "https://arxiv.org/abs/2605.04131"
-    title: "Akshay Syal, Lawrence Swaminathan Xavier Prince, Evin Gultepe, Nik Bear Brown, Srinivas Sridhar. (2026). A Dialogue-Based Framework for Correcting Multimodal Errors in AI-Assisted STEM Education. https://arxiv.org/abs/2605.04131"
+    resource: "https://doi.org/10.48550/arxiv.2605.04131"
+    title: "Akshay Syal, Lawrence Swaminathan Xavier Prince, Evin Gultepe, Nik Bear Brown, Srinivas Sridhar. (2026). A Dialogue-Based Framework for Correcting Multimodal Errors in AI-Assisted STEM Education. https://arxiv.org/abs/2605.04131 [doi:10.48550/arxiv.2605.04131](https://doi.org/10.48550/arxiv.2605.04131)"
     author: Akshay Syal, Lawrence Swaminathan Xavier Prince, Evin Gultepe, Nik Bear Brown, Srinivas Sridhar
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # The Multimodal Interference Effect: mapping visual representations to physical concepts degrades LLM performance even on non-visual problem aspects
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
+> **Evidence** · 2 studies · 2 causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The requirement to map visual representations to physical concepts introduces processing complexity that degrades performance even on aspects of problems that are not inherently visual. [→ Akshay Syal 2026](#akshay-syal-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Akshay Syal 2026
 
-Akshay Syal, Lawrence Swaminathan Xavier Prince, Evin Gultepe, Nik Bear Brown, Srinivas Sridhar. (2026). A Dialogue-Based Framework for Correcting Multimodal Errors in AI-Assisted STEM Education. https://arxiv.org/abs/2605.04131
+Akshay Syal, Lawrence Swaminathan Xavier Prince, Evin Gultepe, Nik Bear Brown, Srinivas Sridhar. (2026). A Dialogue-Based Framework for Correcting Multimodal Errors in AI-Assisted STEM Education. https://arxiv.org/abs/2605.04131 [doi:10.48550/arxiv.2605.04131](https://doi.org/10.48550/arxiv.2605.04131)
 
 `q2 · i?` · `causal · r1`
 

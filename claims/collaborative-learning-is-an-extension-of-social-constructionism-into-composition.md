@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` The paper argues that, if writing and thinking are conversation and conversation is how communities of scholars create knowledge, collaborative learning extends social constructionism into the composition classroom. [→ DeCiccio 1988](#deciccio-1988)
@@ -44,6 +45,6 @@ Theoretical argument in a conference paper, reporting no data. It reasons from t
 
 ## Related Claims
 - [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md)
-- [Reacculturation into a new community is argued to be virtually impossible alone and to require collaboration](reacculturation-into-a-new-community-requires-collaboration.md) — related
-- [Students' writing is argued, citing Bruffee, to be only as good as their conversation about writing](student-writing-only-as-good-as-conversation-about-writing.md) — related
+- Reacculturation into a new community is argued to be virtually impossible alone and to require collaboration — related
+- Students' writing is argued, citing Bruffee, to be only as good as their conversation about writing — related
 - [Collaborative writing methods such as peer criticism and group revision were in use before the collaborative learning movement](collaborative-writing-methods-predate-the-collaborative-learning-movement.md) — related

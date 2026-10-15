@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: r-k-p-zia-2009
-    resource: "https://arxiv.org/abs/0806.1147"
-    title: "R. K. P. Zia, Edward F. Redish, and Susan R. McKay. (2009). Making Sense of the Legendre Transform. https://arxiv.org/abs/0806.1147"
+    resource: "https://doi.org/10.48550/arxiv.0806.1147"
+    title: "R. K. P. Zia, Edward F. Redish, and Susan R. McKay. (2009). Making Sense of the Legendre Transform. https://arxiv.org/abs/0806.1147 [doi:10.48550/arxiv.0806.1147](https://doi.org/10.48550/arxiv.0806.1147)"
     author: R. K. P. Zia, Edward F. Redish, and Susan R. McKay
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### R. K. P. Zia 2009
 
-R. K. P. Zia, Edward F. Redish, and Susan R. McKay. (2009). Making Sense of the Legendre Transform. https://arxiv.org/abs/0806.1147
+R. K. P. Zia, Edward F. Redish, and Susan R. McKay. (2009). Making Sense of the Legendre Transform. https://arxiv.org/abs/0806.1147 [doi:10.48550/arxiv.0806.1147](https://doi.org/10.48550/arxiv.0806.1147)
 
 `q1 · i?` · `theoretical · r2`
 

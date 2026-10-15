@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: angxuan-chen-2024
-    resource: "https://arxiv.org/abs/2412.15226"
-    title: "Angxuan Chen, Yuang Wei, Huixiao Le, Yan Zhang. (2024). Learning-by-Teaching with ChatGPT: The Effect of Teachable ChatGPT Agent on Programming Education. arXiv. https://arxiv.org/abs/2412.15226"
+    resource: "https://doi.org/10.48550/arxiv.2412.15226"
+    title: "Angxuan Chen, Yuang Wei, Huixiao Le, Yan Zhang. (2024). Learning-by-Teaching with ChatGPT: The Effect of Teachable ChatGPT Agent on Programming Education. arXiv. https://arxiv.org/abs/2412.15226 [doi:10.48550/arxiv.2412.15226](https://doi.org/10.48550/arxiv.2412.15226)"
     author: Angxuan Chen, Yuang Wei, Huixiao Le, Yan Zhang
     q: 2
     i: 3
@@ -30,7 +30,7 @@ sources:
 # Teaching a ChatGPT agent yields significantly higher code clearness and readability scores than learning from online videos, but not higher code correctness
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r1` · `q2` · `i3` large
+> **Evidence** · 2 studies · 2 causal `r1` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` The experimental group scored significantly higher than the control group on code clearness and readability in the pseudocode test (F = 7.39, η2 = 0.37). [→ Angxuan Chen 2024](#angxuan-chen-2024)
@@ -40,7 +40,7 @@ sources:
 
 ### Angxuan Chen 2024
 
-Angxuan Chen, Yuang Wei, Huixiao Le, Yan Zhang. (2024). Learning-by-Teaching with ChatGPT: The Effect of Teachable ChatGPT Agent on Programming Education. arXiv. https://arxiv.org/abs/2412.15226
+Angxuan Chen, Yuang Wei, Huixiao Le, Yan Zhang. (2024). Learning-by-Teaching with ChatGPT: The Effect of Teachable ChatGPT Agent on Programming Education. arXiv. https://arxiv.org/abs/2412.15226 [doi:10.48550/arxiv.2412.15226](https://doi.org/10.48550/arxiv.2412.15226)
 
 `q2 · i3` · `causal · r1`
 

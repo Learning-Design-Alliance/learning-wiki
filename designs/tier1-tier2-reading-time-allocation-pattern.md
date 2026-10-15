@@ -17,7 +17,7 @@ sources:
 # Tiered reading delivery pattern: 90 minutes whole-group core plus 30 minutes small-group Tier 2 for all struggling readers
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The studied program used a tiered time structure: "all students, experimental and control, received 90 minutes of core reading instruction and 30 minutes of Tier 2 (supplemental) instruction." Core instruction is whole group with classroom teachers; intervention occurs in small groups of 3-5 students led by teachers or instructional assistants.
@@ -38,7 +38,6 @@ The studied program used a tiered time structure: "all students, experimental an
 - foundational reading skills delivered through aligned core and supplemental instruction
 
 ### Claims
-- [Ecri Improves Word Reading Outcomes First Grade](../claims/ecri-improves-word-reading-outcomes-first-grade.md) [+M]
 
 ## Related Designs
 - 

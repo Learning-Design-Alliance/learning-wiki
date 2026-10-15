@@ -10,6 +10,7 @@ generated:
 evidence_strength: mixed
 sources:
   - id: topic-null
+    resource: "https://doi.org/10.48550/arxiv.2605.14360"
     title: topic-null
     q: 2
     i: "?"
@@ -36,7 +37,7 @@ sources:
 
 ### topic-null
 
-Tamunotonye Harry, Johanna Hidalgo, Matthew Price, Yuanyuan Feng, Kathryn Stanton, Connie Tompkins, Peter Sheridan Dodds, Mikaela Irene Fudolig, Laura Bloomfield, and Christopher Danforth. 2026. A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 10, 4, Article 219 (December 2026). https://arxiv.org/abs/2605.14360
+Tamunotonye Harry, Johanna Hidalgo, Matthew Price, Yuanyuan Feng, Kathryn Stanton, Connie Tompkins, Peter Sheridan Dodds, Mikaela Irene Fudolig, Laura Bloomfield, and Christopher Danforth. 2026. A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 10, 4, Article 219 (December 2026). https://arxiv.org/abs/2605.14360 [doi:10.48550/arxiv.2605.14360](https://doi.org/10.48550/arxiv.2605.14360)
 
 `q2 · i?` · `associational · r2`
 
@@ -61,4 +62,4 @@ Cross-method comparison of affective features (SEANCE, RoBERTa-base, MentalRoBER
 - [Dictionary-based SEANCE features yielded 21 nominally significant within-person associations with wearable outcomes, but none survived Bonferroni or FDR correction](seance-nominal-associations-no-survivors.md) — related
 - [Forceful, assertive concern language was associated with fewer steps per day and lower moderate-intensity activity, while work-oriented language was positively associated with steps](forceful-language-lower-activity-association.md) — related
 - [Brief naturalistic concern text associates with within-person variation in wearable-derived sleep and physical activity outcomes across a full academic year, even at a median response length of three words](brief-concern-text-associates-within-person-wearable-outcomes.md) — reports the opposite
-- [In a preliminary functional assessment with simulated inputs, Sukoon identified the correct stress tier for exam, family, financial and teacher-related concerns and replied appropriately within its Stepped Care framework, but no formal user study has been conducted](preliminary-chatbot-evaluation-simulated-inputs-three-tiers.md) — related
+- In a preliminary functional assessment with simulated inputs, Sukoon identified the correct stress tier for exam, family, financial and teacher-related concerns and replied appropriately within its Stepped Care framework, but no formal user study has been conducted — related

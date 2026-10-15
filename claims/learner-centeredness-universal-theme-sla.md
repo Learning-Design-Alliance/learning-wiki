@@ -44,6 +44,6 @@ Theme 5 from the qualitative synthesis of three SLA theories and five teaching m
 
 ## Related Claims
 - [Grammatical skill is not the focus of Second Language Acquisition, per the study's synthesis of SLA theories and methods](grammar-not-focus-of-sla-synthesis.md) — related
-- [After the IDEAS academy, both studied teachers' classrooms moved toward more student-centered methods, with inquiry and collaborative learning emerging](academy-shift-toward-student-centered-methods.md) — related
+- After the IDEAS academy, both studied teachers' classrooms moved toward more student-centered methods, with inquiry and collaborative learning emerging — related
 - [Meaningful L2 learning is achieved through a conducive environment and authentic tasks and materials](authentic-tasks-meaningful-l2-learning.md) — related
 - [Metaphoric competence is proposed to be central to all aspects of language use, including grammatical and sociolinguistic competence](metaphoric-competence-central-to-language-use.md) — related

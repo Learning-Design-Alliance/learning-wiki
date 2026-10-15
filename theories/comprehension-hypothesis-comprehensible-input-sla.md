@@ -16,7 +16,7 @@ sources:
 # The Comprehension Hypothesis: comprehensible input as the crucial ingredient of second language acquisition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 7 claims (7 for) · 2 studies (2 review), `q1`–`q2` · 0 of 2 report an effect size · 7 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 The Comprehension Hypothesis (CH) states that language is acquired when learners understand messages, i.e. when they receive comprehensible input while reading and listening. If the learner's current competence is (i), input should be (i+1), containing aspects of language the learner is developmentally ready to acquire. The article positions CH as "the most powerful hypothesis in the field of Second Language Acquisition" against rivals (skill-building, output, interaction hypotheses) that claim consciously learned knowledge is necessary. It also holds that conscious knowledge can only monitor (edit) the output of acquired language, not drive acquisition itself.
@@ -37,7 +37,6 @@ The Comprehension Hypothesis (CH) states that language is acquired when learners
 
 ### Claims
 
-- [Comprehensible input in natural language contexts is presented as essential to second language acquisition](../claims/comprehensible-input-essential-l2-acquisition.md) [+W]
 - [Single exposures yield partial word knowledge, and repeated encounters in varied contexts build complete word meaning (fast mapping then full mapping)](../claims/fast-mapping-full-mapping-word-learning.md) [+W]
 - [Adult ESL students who read a short story could use incidentally acquired words in sentences, while students who learned word meanings in isolation could not](../claims/incidental-reading-enables-productive-word-use.md) [+W]
 - [Incidental vocabulary acquisition through comprehensible input is more powerful than intentional vocabulary learning](../claims/incidental-vocabulary-acquisition-more-powerful-than-intentional.md) [+W]

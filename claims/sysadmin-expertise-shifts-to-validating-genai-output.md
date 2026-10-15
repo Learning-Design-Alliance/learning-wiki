@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: rana-abou-khamis-2026
-    resource: "https://arxiv.org/abs/2607.28650"
-    title: "Rana Abou Khamis, Hala Assal, and Ashraf Matrawy. (2026). Unanticipated Effects of Generative AI on Expertise Pathways and Performance Perception in System Administration. https://arxiv.org/abs/2607.28650"
+    resource: "https://doi.org/10.48550/arxiv.2607.28650"
+    title: "Rana Abou Khamis, Hala Assal, and Ashraf Matrawy. (2026). Unanticipated Effects of Generative AI on Expertise Pathways and Performance Perception in System Administration. https://arxiv.org/abs/2607.28650 [doi:10.48550/arxiv.2607.28650](https://doi.org/10.48550/arxiv.2607.28650)"
     author: Rana Abou Khamis, Hala Assal, and Ashraf Matrawy
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Rana Abou Khamis 2026
 
-Rana Abou Khamis, Hala Assal, and Ashraf Matrawy. (2026). Unanticipated Effects of Generative AI on Expertise Pathways and Performance Perception in System Administration. https://arxiv.org/abs/2607.28650
+Rana Abou Khamis, Hala Assal, and Ashraf Matrawy. (2026). Unanticipated Effects of Generative AI on Expertise Pathways and Performance Perception in System Administration. https://arxiv.org/abs/2607.28650 [doi:10.48550/arxiv.2607.28650](https://doi.org/10.48550/arxiv.2607.28650)
 
 `q2 · i?` · `qualitative · r2`
 
@@ -48,5 +48,5 @@ Interview theme: participants said GenAI "is not there yet to basically develop 
 - [AI-assisted speed becomes a recalibrated performance baseline, making manual work feel slow and inadequate](genai-speed-recalibrates-performance-baseline.md) — related
 - [Instructor roles shift from exclusive information source toward orchestrating and regulating AI-mediated learning activities](instructor-role-shift-orchestrating-genai.md) — related
 - [GenAI use involves substantial hidden labor of prompting, verification, and correction that remains invisible in productivity evaluation](genai-hidden-verification-labor-invisible.md) — related
-- [Practitioners hold near-universal commitments to human oversight and critical evaluation of AI outputs](practitioner-oversight-governance-norms.md) — a broader claim this one bears on
+- Practitioners hold near-universal commitments to human oversight and critical evaluation of AI outputs — a broader claim this one bears on
 - [Student participation in validating and iteratively refining AI-generated simulations promotes physics understanding and problem-solving skills](student-validation-of-ai-simulations-promotes-understanding.md) — related

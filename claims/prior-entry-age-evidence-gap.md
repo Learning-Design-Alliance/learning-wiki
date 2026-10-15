@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: angela-johnson-2020
-    resource: "https://www.nwea.org/research/publication/impacts-of-school-entry-age-on-academic-growth-through-2nd-grade-a-multi-state-regression-discontinuity-analysis/"
-    title: "Angela Johnson, Megan Kuhfeld. (2020). Impacts of school entry age on academic growth through 2nd Grade: A multi-state regression discontinuity analysis. NWEA Research working paper. https://www.nwea.org/research/publication/impacts-of-school-entry-age-on-academic-growth-through-2nd-grade-a-multi-state-regression-discontinuity-analysis/"
+    resource: "https://doi.org/10.1080/19345747.2021.1894519"
+    title: "Angela Johnson, Megan Kuhfeld. (2020). Impacts of school entry age on academic growth through 2nd Grade: A multi-state regression discontinuity analysis. NWEA Research working paper. https://www.nwea.org/research/publication/impacts-of-school-entry-age-on-academic-growth-through-2nd-grade-a-multi-state-regression-discontinuity-analysis/ [doi:10.1080/19345747.2021.1894519](https://doi.org/10.1080/19345747.2021.1894519)"
     author: Angela Johnson, Megan Kuhfeld
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Angela Johnson 2020
 
-Angela Johnson, Megan Kuhfeld. (2020). Impacts of school entry age on academic growth through 2nd Grade: A multi-state regression discontinuity analysis. NWEA Research working paper. https://www.nwea.org/research/publication/impacts-of-school-entry-age-on-academic-growth-through-2nd-grade-a-multi-state-regression-discontinuity-analysis/
+Angela Johnson, Megan Kuhfeld. (2020). Impacts of school entry age on academic growth through 2nd Grade: A multi-state regression discontinuity analysis. NWEA Research working paper. https://www.nwea.org/research/publication/impacts-of-school-entry-age-on-academic-growth-through-2nd-grade-a-multi-state-regression-discontinuity-analysis/ [doi:10.1080/19345747.2021.1894519](https://doi.org/10.1080/19345747.2021.1894519)
 
 `q1 · i?` · `causal · r?`
 

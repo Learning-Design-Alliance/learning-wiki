@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: bria-carter-2024
-    resource: "https://digitalpromise.dspacedirect.org/items/5dcf2bc8-f40c-4942-96a4-c4a5bda965e3"
-    title: "Bria Carter, Britney Jacobs, Zohal Shah, Chioma Aso-Hernandez. (2024). Lift Every Voice in Tech: Co-Designed Recommendations to Support Black Workers and Learners Seeking to Enter and Advance in Technology Industry Career Pathways. Digital Promise. https://digitalpromise.dspacedirect.org/items/5dcf2bc8-f40c-4942-96a4-c4a5bda965e3"
+    resource: "https://doi.org/10.51388/20.500.12265/219"
+    title: "Bria Carter, Britney Jacobs, Zohal Shah, Chioma Aso-Hernandez. (2024). Lift Every Voice in Tech: Co-Designed Recommendations to Support Black Workers and Learners Seeking to Enter and Advance in Technology Industry Career Pathways. Digital Promise. https://digitalpromise.dspacedirect.org/items/5dcf2bc8-f40c-4942-96a4-c4a5bda965e3 [doi:10.51388/20.500.12265/219](https://doi.org/10.51388/20.500.12265/219)"
     author: Bria Carter, Britney Jacobs, Zohal Shah, Chioma Aso-Hernandez
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Bria Carter 2024
 
-Bria Carter, Britney Jacobs, Zohal Shah, Chioma Aso-Hernandez. (2024). Lift Every Voice in Tech: Co-Designed Recommendations to Support Black Workers and Learners Seeking to Enter and Advance in Technology Industry Career Pathways. Digital Promise. https://digitalpromise.dspacedirect.org/items/5dcf2bc8-f40c-4942-96a4-c4a5bda965e3
+Bria Carter, Britney Jacobs, Zohal Shah, Chioma Aso-Hernandez. (2024). Lift Every Voice in Tech: Co-Designed Recommendations to Support Black Workers and Learners Seeking to Enter and Advance in Technology Industry Career Pathways. Digital Promise. https://digitalpromise.dspacedirect.org/items/5dcf2bc8-f40c-4942-96a4-c4a5bda965e3 [doi:10.51388/20.500.12265/219](https://doi.org/10.51388/20.500.12265/219)
 
 `q2 · i?` · `qualitative · r3`
 

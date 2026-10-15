@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: kainz-2007
-    resource: "https://eric.ed.gov/?q=Governing+the+Family+Through+Education"
-    title: "Kainz, K., & Aikens, N. L. (2007). Governing the Family Through Education: A Genealogy on the Home/School Relation. Equity & Excellence in Education, vol. 40, issue 4. https://eric.ed.gov/?q=Governing+the+Family+Through+Education"
+    resource: "https://doi.org/10.1080/10665680701610721"
+    title: "Kainz, K., & Aikens, N. L. (2007). Governing the Family Through Education: A Genealogy on the Home/School Relation. Equity & Excellence in Education, vol. 40, issue 4. https://eric.ed.gov/?q=Governing+the+Family+Through+Education [doi:10.1080/10665680701610721](https://doi.org/10.1080/10665680701610721)"
     author: "Kainz, K., & Aikens, N. L."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Kainz 2007
 
-Kainz, K., & Aikens, N. L. (2007). Governing the Family Through Education: A Genealogy on the Home/School Relation. Equity & Excellence in Education, vol. 40, issue 4. https://eric.ed.gov/?q=Governing+the+Family+Through+Education
+Kainz, K., & Aikens, N. L. (2007). Governing the Family Through Education: A Genealogy on the Home/School Relation. Equity & Excellence in Education, vol. 40, issue 4. https://eric.ed.gov/?q=Governing+the+Family+Through+Education [doi:10.1080/10665680701610721](https://doi.org/10.1080/10665680701610721)
 
 `q2 · i?` · `review · r?`
 

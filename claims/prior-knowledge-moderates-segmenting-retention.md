@@ -42,13 +42,14 @@ Moderation analysis within the meta-analysis of 56 investigations found that "le
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*For which learners does segmenting help more or less (prior knowledge, attention)?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **4 distinct studies** (2 causal, 1 quant-synthesis, 1 review), `q2`–`q3`, 1 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*For which learners does segmenting help more or less (prior knowledge, attention)?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **5 distinct studies** (3 causal, 1 quant-synthesis, 1 review), `q2`–`q3`, 2 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Rey 2019](https://doi.org/10.1007/s10648-018-9456-4) | q3 · quant-synthesis · r? | i? | this claim |
 | [Spanjers et al. 2011](https://doi.org/10.1016/j.chb.2010.05.011) | q3 · causal · r? | i? | [Segmentation Benefits Shrink With Expertise](segmentation-benefits-shrink-with-expertise.md) (qualifies) |
-| Veronica Pimenova 2026 | q3 · causal · r1 | i3; i? | [Segmentation reduces errors and hesitations for participants with and without ADHD, with l](segmentation-benefit-larger-for-adhd-group.md) (qualifies); [ADHD medication status shows no significant interaction with segmentation, though medicate](medication-status-segmentation-interaction-null.md) (qualifies) |
+| [Veronica Pimenova 2026](https://doi.org/10.48550/arxiv.2607.24612) | q3 · causal · r1 | i3; i? | [Segmentation reduces errors and hesitations for participants with and without ADHD, with l](segmentation-benefit-larger-for-adhd-group.md) (qualifies); [ADHD medication status shows no significant interaction with segmentation, though medicate](medication-status-segmentation-interaction-null.md) (qualifies) |
+| Veronica Pimenova 2026 (2) | q3 · causal · r2 | i3 | [Segmentation reduces errors and hesitations for participants with and without ADHD, with l](segmentation-benefit-larger-for-adhd-group.md) (qualifies) |
 | [Sweller 2019](https://doi.org/10.1007/s10648-019-09465-5) | q2 · review · r2 | i? | [Expertise reversal: cognitive load effects for novices decrease, disappear, and can revers](expertise-reversal-effect-compound.md) (qualifies) |
 <!-- synthesis:end -->
 

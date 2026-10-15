@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: muhammad-sajjad-akbar-2026
-    resource: "https://arxiv.org/abs/2609.27842"
-    title: "Muhammad Sajjad Akbar, Geoffrey Challen, Fraida Fund, Casey Hopkins, Oscar Karnalim, Kevin Lin, James McGuffee, Shubbhi Taneja, Ranysha Ware. (2026). AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI. https://arxiv.org/abs/2609.27842"
+    resource: "https://doi.org/10.48550/arxiv.2609.27842"
+    title: "Muhammad Sajjad Akbar, Geoffrey Challen, Fraida Fund, Casey Hopkins, Oscar Karnalim, Kevin Lin, James McGuffee, Shubbhi Taneja, Ranysha Ware. (2026). AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI. https://arxiv.org/abs/2609.27842 [doi:10.48550/arxiv.2609.27842](https://doi.org/10.48550/arxiv.2609.27842)"
     author: Muhammad Sajjad Akbar, Geoffrey Challen, Fraida Fund, Casey Hopkins, Oscar Karnalim, Kevin Lin, James McGuffee, Shubbhi Taneja, Ranysha Ware
     q: 1
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # A proposed three-part process-evidence submission (deliverable, AI interaction logs, video reflection) shifts displacement upstream rather than eliminating it
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · qualitative `r1`–`r2` · `q1`
+> **Evidence** · 2 studies · 2 qualitative `r1`–`r2` · `q1`
 
 ## Subclaims
 `q1 i?` A concrete process-evidence proposal combines the deliverable, AI interaction logs showing the student's contribution, and a reflection document submitted as video to make it harder to generate. [→ Muhammad Sajjad Akbar 2026](#muhammad-sajjad-akbar-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Muhammad Sajjad Akbar 2026
 
-Muhammad Sajjad Akbar, Geoffrey Challen, Fraida Fund, Casey Hopkins, Oscar Karnalim, Kevin Lin, James McGuffee, Shubbhi Taneja, Ranysha Ware. (2026). AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI. https://arxiv.org/abs/2609.27842
+Muhammad Sajjad Akbar, Geoffrey Challen, Fraida Fund, Casey Hopkins, Oscar Karnalim, Kevin Lin, James McGuffee, Shubbhi Taneja, Ranysha Ware. (2026). AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI. https://arxiv.org/abs/2609.27842 [doi:10.48550/arxiv.2609.27842](https://doi.org/10.48550/arxiv.2609.27842)
 
 `q1 · i?` · `qualitative · r1`
 

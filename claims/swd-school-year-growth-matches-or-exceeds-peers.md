@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: angela-johnson-2021
-    resource: "https://www.nwea.org/research/publication/understanding-differential-growth-during-school-years-and-summers-for-students-in-special-education/"
-    title: "Angela Johnson, Elizabeth Barker. (2021). Understanding differential growth during school years and summers for students in special education. NWEA Research brief. https://www.nwea.org/research/publication/understanding-differential-growth-during-school-years-and-summers-for-students-in-special-education/"
+    resource: "https://doi.org/10.3102/1879659"
+    title: "Angela Johnson, Elizabeth Barker. (2021). Understanding differential growth during school years and summers for students in special education. NWEA Research brief. https://www.nwea.org/research/publication/understanding-differential-growth-during-school-years-and-summers-for-students-in-special-education/ [doi:10.3102/1879659](https://doi.org/10.3102/1879659)"
     author: Angela Johnson, Elizabeth Barker
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Angela Johnson 2021
 
-Angela Johnson, Elizabeth Barker. (2021). Understanding differential growth during school years and summers for students in special education. NWEA Research brief. https://www.nwea.org/research/publication/understanding-differential-growth-during-school-years-and-summers-for-students-in-special-education/
+Angela Johnson, Elizabeth Barker. (2021). Understanding differential growth during school years and summers for students in special education. NWEA Research brief. https://www.nwea.org/research/publication/understanding-differential-growth-during-school-years-and-summers-for-students-in-special-education/ [doi:10.3102/1879659](https://doi.org/10.3102/1879659)
 
 `q2 · i?` · `associational · r?`
 

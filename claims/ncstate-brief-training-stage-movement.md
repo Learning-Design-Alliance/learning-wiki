@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: liu-2026
-    resource: "https://arxiv.org/abs/2606.00038"
-    title: "Liu, J. P., & Levy, R. (2026). Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education. North Carolina State University. https://arxiv.org/abs/2606.00038"
+    resource: "https://doi.org/10.48550/arxiv.2606.00038"
+    title: "Liu, J. P., & Levy, R. (2026). Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education. North Carolina State University. https://arxiv.org/abs/2606.00038 [doi:10.48550/arxiv.2606.00038](https://doi.org/10.48550/arxiv.2606.00038)"
     author: "Liu, J. P., & Levy, R."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Liu 2026
 
-Liu, J. P., & Levy, R. (2026). Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education. North Carolina State University. https://arxiv.org/abs/2606.00038
+Liu, J. P., & Levy, R. (2026). Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education. North Carolina State University. https://arxiv.org/abs/2606.00038 [doi:10.48550/arxiv.2606.00038](https://doi.org/10.48550/arxiv.2606.00038)
 
 `q2 · i?` · `design · r2`
 

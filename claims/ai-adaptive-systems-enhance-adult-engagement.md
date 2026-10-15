@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: theodora-2026
-    resource: "https://arxiv.org/abs/2605.16296"
-    title: "Theodora, A., & Tselios, N. (2026). Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy. https://arxiv.org/abs/2605.16296"
+    resource: "https://doi.org/10.48550/arxiv.2605.16296"
+    title: "Theodora, A., & Tselios, N. (2026). Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy. https://arxiv.org/abs/2605.16296 [doi:10.48550/arxiv.2605.16296](https://doi.org/10.48550/arxiv.2605.16296)"
     author: "Theodora, A., & Tselios, N."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Theodora 2026
 
-Theodora, A., & Tselios, N. (2026). Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy. https://arxiv.org/abs/2605.16296
+Theodora, A., & Tselios, N. (2026). Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy. https://arxiv.org/abs/2605.16296 [doi:10.48550/arxiv.2605.16296](https://doi.org/10.48550/arxiv.2605.16296)
 
 `q2 · i?` · `review · r2`
 
@@ -47,7 +47,7 @@ The review reports, in its section on adult learning theory and AI integration, 
 
 ## Related Claims
 - [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — a narrower finding that bears on this claim
-- [AI presents four solution types for overcoming situated learning barriers: adaptive systems, intelligent tutoring in authentic scenarios, administrative automation, and data-driven teacher support](ai-four-solution-types-situated-learning.md) — related
+- AI presents four solution types for overcoming situated learning barriers: adaptive systems, intelligent tutoring in authentic scenarios, administrative automation, and data-driven teacher support — related
 - [Platform-enabled experimentation research draws on multiple intellectual lineages, including intelligent tutoring systems, formative feedback, and exemplar platforms like ASSISTments](multiple-intellectual-lineages-shared-foundations.md) — related
 - [An analytical chapter identifies reward hacking, engagement optimization over learning, and scaffolding dependency as risks of RL policies with poorly specified rewards](rl-reward-misalignment-failure-modes.md) — related
 - [Intelligent tutoring systems are reported to improve learning outcomes, especially in structured knowledge domains](its-improve-outcomes-structured-domains.md) — a narrower finding that bears on this claim

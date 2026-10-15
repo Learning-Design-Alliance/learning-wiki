@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: mohammed-i-radaideh-2026
-    resource: "https://arxiv.org/abs/2608.04030"
-    title: "Mohammed I. Radaideh, Jeremy Moon, Andre Gala-Garza, Emma Son, Yug Shah, Majdi I. Radaideh. (2026). NuclearDiffusion: Text-to-Image Foundation Models for Learning Nuclear Energy Concepts. Preprint submitted to Peer Review. https://arxiv.org/abs/2608.04030"
+    resource: "https://doi.org/10.48550/arxiv.2608.04030"
+    title: "Mohammed I. Radaideh, Jeremy Moon, Andre Gala-Garza, Emma Son, Yug Shah, Majdi I. Radaideh. (2026). NuclearDiffusion: Text-to-Image Foundation Models for Learning Nuclear Energy Concepts. Preprint submitted to Peer Review. https://arxiv.org/abs/2608.04030 [doi:10.48550/arxiv.2608.04030](https://doi.org/10.48550/arxiv.2608.04030)"
     author: Mohammed I. Radaideh, Jeremy Moon, Andre Gala-Garza, Emma Son, Yug Shah, Majdi I. Radaideh
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Mohammed I. Radaideh 2026
 
-Mohammed I. Radaideh, Jeremy Moon, Andre Gala-Garza, Emma Son, Yug Shah, Majdi I. Radaideh. (2026). NuclearDiffusion: Text-to-Image Foundation Models for Learning Nuclear Energy Concepts. Preprint submitted to Peer Review. https://arxiv.org/abs/2608.04030
+Mohammed I. Radaideh, Jeremy Moon, Andre Gala-Garza, Emma Son, Yug Shah, Majdi I. Radaideh. (2026). NuclearDiffusion: Text-to-Image Foundation Models for Learning Nuclear Energy Concepts. Preprint submitted to Peer Review. https://arxiv.org/abs/2608.04030 [doi:10.48550/arxiv.2608.04030](https://doi.org/10.48550/arxiv.2608.04030)
 
 `q2 · i?` · `design · r2`
 

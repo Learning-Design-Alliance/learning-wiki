@@ -48,7 +48,7 @@ Figure 11a comparison of Black charter students in poverty against their Black T
 ## Related Claims
 - [Black, Hispanic, and poverty-affected charter students grow faster than traditional public school peers but gains remain below those of white peers](charter-minority-poverty-gains-below-white-peers.md) — related
 - [Black charter students outperform their Black TPS peers in reading (about 24 additional days) but both groups lag the average White TPS student substantially](pa-charter-black-students-reading-gain.md) — a broader claim this one bears on
-- [Charter attendance is associated with higher learning gains for Black and Hispanic students, including those in poverty, relative to matched TPS controls](ri-charter-gains-black-hispanic-students.md) — reports the opposite
+- Charter attendance is associated with higher learning gains for Black and Hispanic students, including those in poverty, relative to matched TPS controls — reports the opposite
 - [Charter students in poverty show similar reading growth but significantly weaker math growth (about 18 fewer days) than their TPS peers in poverty](pa-charter-poverty-students-weaker-math.md) — reports the opposite
 - [Hispanic charter students perform similarly to their Hispanic TPS peers in both subjects, while both groups lag the average White TPS student](pa-charter-hispanic-students-similar-to-tps-peers.md) — related
 - [Some charter school students grow faster than their traditional public school peers](some-charter-students-grow-faster-than-tps-peers.md) — a broader claim this one bears on

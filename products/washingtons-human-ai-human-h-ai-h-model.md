@@ -18,7 +18,7 @@ sources:
 # Washington's Human-AI-Human (H-AI-H) model
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (2 review), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A Washington State education-guidance framework that positions AI between human inquiry and human reflection, editing, and understanding so that it augments rather than replaces human judgment.
@@ -28,7 +28,6 @@ A Washington State education-guidance framework that positions AI between human 
 
 ### Claims
 - [Seven state AI guidance documents share seven major themes, including human-centered use, AI literacy, equity, and data privacy, though not all themes appear in all documents](../claims/seven-state-ai-guidance-seven-common-themes.md) [+W]
-- [Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs](../claims/human-guidance-ethical-grounding-ai.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -63,7 +62,6 @@ The Washington state guidance document proposes a "Human AI Human" or "H - AI - 
 ### Claims
 
 - [Seven state AI guidance documents share seven major themes, including human-centered use, AI literacy, equity, and data privacy, though not all themes appear in all documents](../claims/seven-state-ai-guidance-seven-common-themes.md) [+W]
-- [Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs](../claims/human-guidance-ethical-grounding-ai.md) [+W]
 
 ## Related Theories
 - 

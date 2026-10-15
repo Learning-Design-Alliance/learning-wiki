@@ -17,7 +17,7 @@ sources:
 # Three-dimensional computer-mediated participatory simulation for information problem-solving instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (3 for, 1 against) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 against) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 A 3D computer-generated participatory simulation built on sociocultural learning principles, in which students act as information literacy apprentices within a computer-generated community of information professionals called Cybrarians. The environment contains a middle school library, high school library, informal and electronic information contexts, and interactive virtual objects; students navigate with avatars, communicate by chat and gestures, and learn through scaffolds, a community of practice, and a cognitive process framework. Tasks were developed by the researcher and reviewed and augmented by the site's SLMS and technology teacher.
@@ -43,7 +43,6 @@ A 3D computer-generated participatory simulation built on sociocultural learning
 - [The problem-based group achieved significantly larger content-knowledge gains, while the simulation group made no knowledge gains](../claims/problem-based-larger-knowledge-gains.md) [-W]
 - [The participatory simulation group achieved significantly larger application gains than the problem-based group](../claims/simulation-larger-application-gains.md) [+W]
 - [The participatory simulation group showed significantly larger overall (combined knowledge and application) gains than the problem-based group after four weeks](../claims/simulation-larger-overall-il-gains.md) [+W]
-- [Middle school students began the study with weak information problem-solving knowledge and especially weak application ability](../claims/students-weak-initial-il-skills.md) [+W]
 
 ## Related Elements
 - 

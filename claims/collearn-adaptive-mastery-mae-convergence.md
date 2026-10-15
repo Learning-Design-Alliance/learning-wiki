@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: kailai-he-2026
-    resource: "https://arxiv.org/abs/2609.21154"
-    title: "Kailai He, Zhihao Wu, Linhai Zhang, Runcong Zhao, Yulan He, Jiazheng Li. (2026). CoLearn: An Agentic Tutor that Learns its Learner in a Human–AI Co-Learning Loop. https://arxiv.org/abs/2609.21154"
+    resource: "https://doi.org/10.48550/arxiv.2609.21154"
+    title: "Kailai He, Zhihao Wu, Linhai Zhang, Runcong Zhao, Yulan He, Jiazheng Li. (2026). CoLearn: An Agentic Tutor that Learns its Learner in a Human–AI Co-Learning Loop. https://arxiv.org/abs/2609.21154 [doi:10.48550/arxiv.2609.21154](https://doi.org/10.48550/arxiv.2609.21154)"
     author: Kailai He, Zhihao Wu, Linhai Zhang, Runcong Zhao, Yulan He, Jiazheng Li
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Under persona simulation with hidden ground-truth mastery, Adaptive sessions yield lower final-belief mastery MAE (0.12) than Random-topic (0.16) and Frozen (0.20) controls, and belief updates shrink as estimates converge
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Final-belief mastery MAE is lowest under Adaptive (0.12 vs 0.16/0.20) in the 6-persona Claude Sonnet 4.5-graded run. [→ Kailai He 2026](#kailai-he-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Kailai He 2026
 
-Kailai He, Zhihao Wu, Linhai Zhang, Runcong Zhao, Yulan He, Jiazheng Li. (2026). CoLearn: An Agentic Tutor that Learns its Learner in a Human–AI Co-Learning Loop. https://arxiv.org/abs/2609.21154
+Kailai He, Zhihao Wu, Linhai Zhang, Runcong Zhao, Yulan He, Jiazheng Li. (2026). CoLearn: An Agentic Tutor that Learns its Learner in a Human–AI Co-Learning Loop. https://arxiv.org/abs/2609.21154 [doi:10.48550/arxiv.2609.21154](https://doi.org/10.48550/arxiv.2609.21154)
 
 `q2 · i?` · `design · r2`
 

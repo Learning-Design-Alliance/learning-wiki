@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: cardichon-2019
-    resource: "https://learningpolicyinstitute.org/product/student-civil-rights-school-discipline"
-    title: "Cardichon, J., & Darling-Hammond, L. (2019). Protecting students' civil rights: The federal role in school discipline. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/student-civil-rights-school-discipline"
+    resource: "https://doi.org/10.33682/a3vc-nfcx"
+    title: "Cardichon, J., & Darling-Hammond, L. (2019). Protecting students' civil rights: The federal role in school discipline. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/student-civil-rights-school-discipline [doi:10.33682/a3vc-nfcx](https://doi.org/10.33682/a3vc-nfcx)"
     author: "Cardichon, J., & Darling-Hammond, L."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Cardichon 2019
 
-Cardichon, J., & Darling-Hammond, L. (2019). Protecting students' civil rights: The federal role in school discipline. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/student-civil-rights-school-discipline
+Cardichon, J., & Darling-Hammond, L. (2019). Protecting students' civil rights: The federal role in school discipline. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/student-civil-rights-school-discipline [doi:10.33682/a3vc-nfcx](https://doi.org/10.33682/a3vc-nfcx)
 
 `q2 · i?` · `review · r1`
 

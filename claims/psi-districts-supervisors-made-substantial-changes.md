@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: ellen-b-goldring-2020
-    resource: "https://www.mathematica.org/publications/changing-the-principal-supervisor-role-to-better-support-principals-evidence-from-the-principal"
-    title: "Ellen B. Goldring, Melissa A. Clark, Mollie Rubin, Laura K. Rogers, Jason A. Grissom, Brian Gill, Tim Kautz, Moira McCullough, Michael Neel, Alyson Burnett. (2020). Changing the Principal Supervisor Role to Better Support Principals: Evidence from the Principal Supervisor Initiative. Mathematica and Vanderbilt University. https://www.mathematica.org/publications/changing-the-principal-supervisor-role-to-better-support-principals-evidence-from-the-principal"
+    resource: "https://doi.org/10.59656/el-ls5579.001"
+    title: "Ellen B. Goldring, Melissa A. Clark, Mollie Rubin, Laura K. Rogers, Jason A. Grissom, Brian Gill, Tim Kautz, Moira McCullough, Michael Neel, Alyson Burnett. (2020). Changing the Principal Supervisor Role to Better Support Principals: Evidence from the Principal Supervisor Initiative. Mathematica and Vanderbilt University. https://www.mathematica.org/publications/changing-the-principal-supervisor-role-to-better-support-principals-evidence-from-the-principal [doi:10.59656/el-ls5579.001](https://doi.org/10.59656/el-ls5579.001)"
     author: Ellen B. Goldring, Melissa A. Clark, Mollie Rubin, Laura K. Rogers, Jason A. Grissom, Brian Gill, Tim Kautz, Moira McCullough, Michael Neel, Alyson Burnett
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Ellen B. Goldring 2020
 
-Ellen B. Goldring, Melissa A. Clark, Mollie Rubin, Laura K. Rogers, Jason A. Grissom, Brian Gill, Tim Kautz, Moira McCullough, Michael Neel, Alyson Burnett. (2020). Changing the Principal Supervisor Role to Better Support Principals: Evidence from the Principal Supervisor Initiative. Mathematica and Vanderbilt University. https://www.mathematica.org/publications/changing-the-principal-supervisor-role-to-better-support-principals-evidence-from-the-principal
+Ellen B. Goldring, Melissa A. Clark, Mollie Rubin, Laura K. Rogers, Jason A. Grissom, Brian Gill, Tim Kautz, Moira McCullough, Michael Neel, Alyson Burnett. (2020). Changing the Principal Supervisor Role to Better Support Principals: Evidence from the Principal Supervisor Initiative. Mathematica and Vanderbilt University. https://www.mathematica.org/publications/changing-the-principal-supervisor-role-to-better-support-principals-evidence-from-the-principal [doi:10.59656/el-ls5579.001](https://doi.org/10.59656/el-ls5579.001)
 
 `q2 · i?` · `causal · r?`
 

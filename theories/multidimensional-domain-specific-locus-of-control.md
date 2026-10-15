@@ -16,7 +16,7 @@ sources:
 # Locus of control of reinforcement as a multidimensional, domain-specific construct rather than Rotter's unidimensional generalized expectancy
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article argues that Rotter's (1966) locus of control of reinforcement, originally "conceptualized by Rotter as a generalized expectancy variable," has been found to be multidimensional and should be defined as several loci of control rather than a single one. The study's canonical analysis supports two underlying constructs — control of one's own destiny versus fate, luck, or chance, and acceptance of responsibility versus powerful others being in control — similar to factors identified in prior analyses of the Rotter I-E scale.
@@ -36,8 +36,6 @@ The article argues that Rotter's (1966) locus of control of reinforcement, origi
 - beliefs about personal control of reinforcement in academic achievement and career development situations
 
 ### Claims
-- [Canonical Two Functions Locus Control](../claims/canonical-two-functions-locus-control.md) [+M]
-- [Nonacademic Domains Increase Dimensions](../claims/nonacademic-domains-increase-dimensions.md) [+M]
 
 ## Related Theories
 

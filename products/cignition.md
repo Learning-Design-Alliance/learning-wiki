@@ -22,7 +22,7 @@ sources:
 # Cignition
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 9 claims (9 for) · 4 studies (3 causal, 1 quant-synthesis), `q2`–`q3` · 2 of 4 report an effect size · 9 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 3 studies (2 causal, 1 quant-synthesis), `q2`–`q3` · 1 of 3 report an effect size · 5 claims rest on one study
 
 ## Description
 Cignition is an online mathematics tutoring programme that combines one-to-one teacher tutoring with the FogStone Isle fractions game, operated by Cignition Learning.
@@ -33,10 +33,6 @@ Cignition is an online mathematics tutoring programme that combines one-to-one t
 - **Cignition virtual group math tutoring program**: Cignition is a virtual math tutoring program delivering "live virtual one-on-one and group math tutoring using video conferencing and interactive tools." It uses "experienced educators as tutors" and provides "formative data for teachers and parents via an online platform." The evaluated configuration served groups of up to four 5th-grade students and was tested against a control condition in a randomized controlled trial measuring fractions knowledge, confidence, enjoyment, and student–tutor relationships. (Catherine Pratt et al. (2023))
 
 ### Claims
-- [Control students rarely used the optional game, while treatment students logged in as expected](../claims/control-students-rarely-played-game.md) [+W]
-- [The corrected effect size for online tutoring plus game was g = +.47 (95% CI [+.23, +.70]), larger than the g = .26 reported for face-to-face elementary math tutoring](../claims/corrected-effect-size-047-online-tutoring.md) [+W]
-- [Fifth graders receiving online tutoring plus a fractions game learned more about fractions than students with game access only](../claims/online-tutoring-plus-game-improves-fraction-learning.md) [+W]
-- [Randomization produced equivalent pretest scores across conditions, with low attrition and blinded scoring](../claims/rct-pretest-equivalence-low-attrition.md) [+W]
 - [Virtual group tutoring with Cignition improved 5th-grade students' fractions knowledge by 9 percentage points (ES = 0.44 SD) in an RCT](../claims/cignition-group-tutoring-fractions-gain-0-44.md) [+M]
 - [Tutored students reported positive relationships with Cignition tutors, with little variation in relationship quality across tutors](../claims/cignition-tutor-relationships-positive-uniform.md) [+W]
 - [Cignition group tutoring produced slightly higher math confidence and enjoyment than control in an RCT](../claims/cignition-tutoring-confidence-enjoyment-gains.md) [+W]
@@ -80,10 +76,6 @@ An online 1:1 mathematics tutoring program in which experienced teacher-tutors m
 
 ## Claims
 
-- [Control students rarely used the optional game, while treatment students logged in as expected](../claims/control-students-rarely-played-game.md) [+W]
-- [The corrected effect size for online tutoring plus game was g = +.47 (95% CI (+.23, +.70)), larger than the g = .26 reported for face-to-face elementary math tutoring](../claims/corrected-effect-size-047-online-tutoring.md) [+W]
-- [Fifth graders receiving online tutoring plus a fractions game learned more about fractions than students with game access only](../claims/online-tutoring-plus-game-improves-fraction-learning.md) [+W]
-- [Randomization produced equivalent pretest scores across conditions, with low attrition and blinded scoring](../claims/rct-pretest-equivalence-low-attrition.md) [+W]
 - [Virtual group tutoring with Cignition improved 5th-grade students' fractions knowledge by 9 percentage points (ES = 0.44 SD) in an RCT](../claims/cignition-group-tutoring-fractions-gain-0-44.md) [+W]
 
 ## Related Elements

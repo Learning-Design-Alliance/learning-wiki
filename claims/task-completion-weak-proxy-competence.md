@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: qusay-h-mahmoud-2026
-    resource: "https://arxiv.org/abs/2609.29473"
-    title: "Qusay H. Mahmoud. (2026). Judgment-Centred Software Engineering Education: A Post-Hype Review and Framework for AI-Augmented Learning. Preprint, September 2026. https://arxiv.org/abs/2609.29473"
+    resource: "https://doi.org/10.48550/arxiv.2609.29473"
+    title: "Qusay H. Mahmoud. (2026). Judgment-Centred Software Engineering Education: A Post-Hype Review and Framework for AI-Augmented Learning. Preprint, September 2026. https://arxiv.org/abs/2609.29473 [doi:10.48550/arxiv.2609.29473](https://doi.org/10.48550/arxiv.2609.29473)"
     author: Qusay H. Mahmoud
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Task completion with GenAI is a weak proxy for durable competence, with struggling learners at risk of an illusion of competence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`
+> **Evidence** · 2 studies · 2 review `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` Novice-programming observation found some students used GenAI as an accelerator while struggling students could experience compounded metacognitive difficulties and an illusion of competence. [→ Qusay H. Mahmoud 2026](#qusay-h-mahmoud-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Qusay H. Mahmoud 2026
 
-Qusay H. Mahmoud. (2026). Judgment-Centred Software Engineering Education: A Post-Hype Review and Framework for AI-Augmented Learning. Preprint, September 2026. https://arxiv.org/abs/2609.29473
+Qusay H. Mahmoud. (2026). Judgment-Centred Software Engineering Education: A Post-Hype Review and Framework for AI-Augmented Learning. Preprint, September 2026. https://arxiv.org/abs/2609.29473 [doi:10.48550/arxiv.2609.29473](https://doi.org/10.48550/arxiv.2609.29473)
 
 `q2 · i?` · `review · r3`
 
@@ -62,9 +62,9 @@ The review attributes to Qiao et al.'s systematic review of 31 code-comprehensio
 
 
 ## Related Claims
-- [Novice programmers' GenAI use produces a widening gap in outcomes by metacognitive skill (attributed to Prather et al.)](widening-gap-novice-genai-metacognition.md) — possibly the same claim (merge candidate)
+- Novice programmers' GenAI use produces a widening gap in outcomes by metacognitive skill (attributed to Prather et al.) — possibly the same claim (merge candidate)
 - [Some GenAI tools can inhibit productive struggle by reducing cognitive effort (metacognitive laziness)](genai-metacognitive-laziness.md) — related
-- [genAI-supported work can improve while the constructive processing underlying durable expertise erodes (the performance–metacognition dilemma)](performance-metacognition-dilemma-genai.md) — a broader claim this one bears on
+- genAI-supported work can improve while the constructive processing underlying durable expertise erodes (the performance–metacognition dilemma) — a broader claim this one bears on
 - [Some AI tools can inhibit productive struggle by reducing cognitive effort when they automate processes students would otherwise reason through](ai-automation-reduces-productive-struggle.md) — related
 - [Learners Misjudge Retrieval Benefit](learners-misjudge-effective-learning-strategies.md) — related
 - [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md) — related

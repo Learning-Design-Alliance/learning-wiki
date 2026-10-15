@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: moiz-imran-and-sahan-bulathwela-2026
-    resource: "https://arxiv.org/abs/2605.23925"
-    title: "Moiz Imran and Sahan Bulathwela. (2026). Catching TheCorrectAnswerTrap: Characterising AI Tutor Blind Spots When Analysing Student Reasoning. arXiv preprint. https://arxiv.org/abs/2605.23925"
+    resource: "https://doi.org/10.48550/arxiv.2605.23925"
+    title: "Moiz Imran and Sahan Bulathwela. (2026). Catching TheCorrectAnswerTrap: Characterising AI Tutor Blind Spots When Analysing Student Reasoning. arXiv preprint. https://arxiv.org/abs/2605.23925 [doi:10.48550/arxiv.2605.23925](https://doi.org/10.48550/arxiv.2605.23925)"
     author: Moiz Imran and Sahan Bulathwela
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Moiz Imran and Sahan Bulathwela 2026
 
-Moiz Imran and Sahan Bulathwela. (2026). Catching TheCorrectAnswerTrap: Characterising AI Tutor Blind Spots When Analysing Student Reasoning. arXiv preprint. https://arxiv.org/abs/2605.23925
+Moiz Imran and Sahan Bulathwela. (2026). Catching TheCorrectAnswerTrap: Characterising AI Tutor Blind Spots When Analysing Student Reasoning. arXiv preprint. https://arxiv.org/abs/2605.23925 [doi:10.48550/arxiv.2605.23925](https://doi.org/10.48550/arxiv.2605.23925)
 
 `q2 · i?` · `design · r?`
 
@@ -43,6 +43,6 @@ Deployment-scale analysis of the best model's TM detection at the natural preval
 
 
 ## Related Claims
-- [A reasoning-capable open-weight model detects 84% of hidden misconceptions but at realistic prevalence false alarms outnumber genuine detections roughly 8 to 1](reasoning-model-detection-false-alarm-tradeoff.md) — related
+- A reasoning-capable open-weight model detects 84% of hidden misconceptions but at realistic prevalence false alarms outnumber genuine detections roughly 8 to 1 — related
 - [Frontier LLMs achieve the best balance between detecting misconceptions in correct-answer cases and not over-flagging correct students, while fine-tuned local models achieve under 58% TM recall](frontier-llms-best-balance-tm-detection.md) — related
-- [Including a mark scheme in the prompt does not change misconception detection but significantly reduces false positives against correct-reasoning students](mark-scheme-reduces-false-positives.md) — related
+- Including a mark scheme in the prompt does not change misconception detection but significantly reduces false positives against correct-reasoning students — related

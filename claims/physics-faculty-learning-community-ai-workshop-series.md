@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: perl-nussbaum-2026
-    resource: "https://arxiv.org/abs/2609.23887"
-    title: "Perl-Nussbaum, D., & Finkelstein, N. D. (2026). A Workshop Series for Effective Use of AI in Uncertain Times: Building a Physics Faculty Learning Community. https://arxiv.org/abs/2609.23887"
+    resource: "https://doi.org/10.48550/arxiv.2609.23887"
+    title: "Perl-Nussbaum, D., & Finkelstein, N. D. (2026). A Workshop Series for Effective Use of AI in Uncertain Times: Building a Physics Faculty Learning Community. https://arxiv.org/abs/2609.23887 [doi:10.48550/arxiv.2609.23887](https://doi.org/10.48550/arxiv.2609.23887)"
     author: "Perl-Nussbaum, D., & Finkelstein, N. D."
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Perl-Nussbaum 2026
 
-Perl-Nussbaum, D., & Finkelstein, N. D. (2026). A Workshop Series for Effective Use of AI in Uncertain Times: Building a Physics Faculty Learning Community. https://arxiv.org/abs/2609.23887
+Perl-Nussbaum, D., & Finkelstein, N. D. (2026). A Workshop Series for Effective Use of AI in Uncertain Times: Building a Physics Faculty Learning Community. https://arxiv.org/abs/2609.23887 [doi:10.48550/arxiv.2609.23887](https://doi.org/10.48550/arxiv.2609.23887)
 
 `q1 · i?` · `design · r2`
 

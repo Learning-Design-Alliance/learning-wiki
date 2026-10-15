@@ -44,10 +44,10 @@ The authors' assertion in the assessment section of the brief, offered without c
 
 ## Related Claims
 - [Integrating POG assessments into traditional standardized-test-centered accountability systems is complex, and lack of a standardized framework can produce inconsistent measurement across regions](pog-assessment-integration-challenges.md) — related
-- [Student portfolios are reported to be a useful method for noticing student growth on Portrait of a Graduate competencies](portfolios-notice-portrait-of-graduate-growth.md) — related
+- Student portfolios are reported to be a useful method for noticing student growth on Portrait of a Graduate competencies — related
 - [Districts face validity, reliability, comparability, and accountability-tension challenges in assessing future-ready skills](pog-assessment-validity-reliability-challenges.md) — related
 - [Districts use a wide variety of methods to assess Portrait of a Graduate skills, varying across contexts and grade levels](districts-use-varied-pog-assessment-methods.md) — related
-- [About 31 percent of surveyed teachers report being extremely or very likely to try micro-credentials once introduced to the idea, with another 34 percent somewhat interested](teachers-intent-try-micro-credentials-survey.md) — related
+- About 31 percent of surveyed teachers report being extremely or very likely to try micro-credentials once introduced to the idea, with another 34 percent somewhat interested — related
 - [Traditional end-of-passage assessment formats may inadvertently measure extraneous constructs such as working memory, attention, and language](end-of-passage-format-measures-extraneous-constructs.md) — related
 - [Assessment of young multilingual learners is hampered by a dearth of valid, linguistically appropriate measures and by English-only administration](assessment-barriers-young-multilingual-learners.md) — a narrower finding that bears on this claim
 - [Performance assessments can be reliably scored when designed appropriately and used with other measures](performance-assessments-reliably-scoreable.md) — related

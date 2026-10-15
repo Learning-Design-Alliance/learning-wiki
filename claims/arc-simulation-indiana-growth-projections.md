@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: jacobson-2026
-    resource: "https://arxiv.org/abs/2609.18072"
-    title: "Jacobson, M. J.; Rodriguez-Rivera, G.; Drineas, P.; and Xue, Y. (2026). Teaching AI, Robotics, & Community: A Hubs-Based K–12 Education Framework for Reaching Rural Schools. https://arxiv.org/abs/2609.18072"
+    resource: "https://doi.org/10.48550/arxiv.2609.18072"
+    title: "Jacobson, M. J.; Rodriguez-Rivera, G.; Drineas, P.; and Xue, Y. (2026). Teaching AI, Robotics, & Community: A Hubs-Based K–12 Education Framework for Reaching Rural Schools. https://arxiv.org/abs/2609.18072 [doi:10.48550/arxiv.2609.18072](https://doi.org/10.48550/arxiv.2609.18072)"
     author: Jacobson, M. J.; Rodriguez-Rivera, G.; Drineas, P.; and Xue, Y.
     q: 1
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Indiana Markov simulation projects ARC reaches 74% of public K–12 schools and produces 992 robotics programs after 40 years at moderate optimism, versus 161 under natural growth
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q1`
+> **Evidence** · 2 studies · 2 design `r2` · `q1`
 
 ## Subclaims
 `q1 i?` At optimism level 6 the spatial model produces 992 programs and reaches 1,415 schools, compared with a mean of 161 programs under ARC off. [→ Jacobson 2026](#jacobson-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Jacobson 2026
 
-Jacobson, M. J.; Rodriguez-Rivera, G.; Drineas, P.; and Xue, Y. (2026). Teaching AI, Robotics, & Community: A Hubs-Based K–12 Education Framework for Reaching Rural Schools. https://arxiv.org/abs/2609.18072
+Jacobson, M. J.; Rodriguez-Rivera, G.; Drineas, P.; and Xue, Y. (2026). Teaching AI, Robotics, & Community: A Hubs-Based K–12 Education Framework for Reaching Rural Schools. https://arxiv.org/abs/2609.18072 [doi:10.48550/arxiv.2609.18072](https://doi.org/10.48550/arxiv.2609.18072)
 
 `q1 · i?` · `design · r2`
 

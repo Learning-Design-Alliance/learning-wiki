@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: globerson-2026
-    resource: "https://arxiv.org/abs/2609.15864"
-    title: "Globerson, A., Keeling, A., Choudhury, A., et al. (2026). Towards Scalable Measurement of Durable Skills. https://arxiv.org/abs/2609.15864"
+    resource: "https://doi.org/10.48550/arxiv.2609.15864"
+    title: "Globerson, A., Keeling, A., Choudhury, A., et al. (2026). Towards Scalable Measurement of Durable Skills. https://arxiv.org/abs/2609.15864 [doi:10.48550/arxiv.2609.15864](https://doi.org/10.48550/arxiv.2609.15864)"
     author: Globerson, A., Keeling, A., Choudhury, A., et al
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # A Gemini-based creativity autorater scores real students' complex multimedia creativity tasks on par with human experts (item Kappa 0.66; total-score Pearson r = 0.88)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2` · `i3` large
+> **Evidence** · 2 studies · 2 design `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i?` Item-level agreement between autorater and expert raters on 0-2 scores was Cohen's Kappa 0.66, described as good agreement. [→ Globerson 2026](#globerson-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Globerson 2026
 
-Globerson, A., Keeling, A., Choudhury, A., et al. (2026). Towards Scalable Measurement of Durable Skills. https://arxiv.org/abs/2609.15864
+Globerson, A., Keeling, A., Choudhury, A., et al. (2026). Towards Scalable Measurement of Durable Skills. https://arxiv.org/abs/2609.15864 [doi:10.48550/arxiv.2609.15864](https://doi.org/10.48550/arxiv.2609.15864)
 
 `q2 · i?` · `design · r2`
 
@@ -63,7 +63,7 @@ Same OpenMic lab study, evaluated on 180 held-out submissions: autorater overall
 
 ## Related Claims
 - [An LLM-based AI Evaluator agrees with expert human raters on collaboration transcripts at a level similar to inter-expert agreement](llm-evaluator-agreement-matches-expert-raters.md) — related
-- [Claude showed the highest alignment with human BREQ responses, and interview-containing prompts aligned better than baseline prompts](claude-highest-human-alignment-interview-prompts.md) — related
+- Claude showed the highest alignment with human BREQ responses, and interview-containing prompts aligned better than baseline prompts — related
 - [An LLM-based analogy judge validated against expert judgments shows moderate-to-strong agreement and screens most generated analogies as meeting baseline adequacy](anvil-llm-judge-analogy-screening.md) — related
 - [Confidence-aware selective test-time scoring achieves the best average agreement with expert rubric scoring across six NGSS drawing items](ca-selective-best-average-agreement-drawings.md) — related
 - [Gemini-2.5-Pro can effectively replicate human expert judgments when answering SLM-generated MCQs](gemini-surrogate-judge-replicates-human-answers.md) — related

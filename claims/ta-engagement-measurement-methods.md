@@ -44,5 +44,5 @@ Descriptive finding from the brief's interviews with 12 TA designers, providers,
 
 ## Related Claims
 - [Training and technical assistance is most engaging when it is grounded in clear expectations, designed around recipient needs, developed with ongoing recipient input, accessible, delivered by equipped providers, and framed as a partnership](ta-engagement-six-elements-interviews.md) — related
-- [Participants reported a strong level of agreement and high satisfaction with ideation discussion activities in Design Thinking](high-survey-agreement-ideation-discussion.md) — related
-- [Students with learning disabilities reported high satisfaction with learning vocabulary through concept diagrams](high-student-satisfaction-concept-diagrams.md) — related
+- Participants reported a strong level of agreement and high satisfaction with ideation discussion activities in Design Thinking — related
+- Students with learning disabilities reported high satisfaction with learning vocabulary through concept diagrams — related

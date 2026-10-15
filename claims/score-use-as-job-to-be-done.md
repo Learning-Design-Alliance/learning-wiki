@@ -45,4 +45,4 @@ Conceptual argument in the abstract. The author revisits the notion of test scor
 ## Related Claims
 - [An argument-based approach to test score effectiveness can be illustrated by contrasting effectiveness arguments for interim assessments based on a conventional test blueprint versus one augmented with learning progressions](effectiveness-arguments-interim-blueprint-contrast.md) — related
 - [Determining the right M&E activities for a new or evolving solution is challenging, and more complex when investing in multiple solutions at once](me-selection-challenging-multi-solution-investments.md) — a broader claim this one bears on
-- [Rapid prototyping methods can amplify novice designers' tendency to commit to a solution too early.](rapid-prototyping-can-amplify-novice-designers-premature-commitment-to-solutions.md) — related
+- Rapid prototyping methods can amplify novice designers' tendency to commit to a solution too early. — related

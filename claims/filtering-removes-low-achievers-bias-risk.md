@@ -47,8 +47,8 @@ Table 6 descriptives for spring of 8th grade reading compare effort-moderated sc
 - [Rapid guessing had mostly minimal effects on estimates of school contributions to student growth in this sample](rapid-guessing-minimal-school-growth-estimates.md) — reports the opposite
 - [Motivation filtering reversed the estimated Black-White fall-to-fall growth gap direction in later grades](filtering-reverses-black-white-growth-gap.md) — related
 - [Summer learning loss estimates changed significantly under filtering but not effort-moderated scoring](rapid-guessing-summer-learning-loss-estimates.md) — related
-- [In simulation, effort-moderated scoring (EM-CAT and EG-CAT) yields negligible bias and nominal 95% confidence interval coverage, unlike MLE-CAT scoring](effort-moderated-cat-negligible-bias-simulation.md) — related
-- [Effort-moderated scoring yields more accurate achievement scores and better person fit than traditional MLE scoring when rapid guessing is present](effort-moderated-scoring-more-accurate-better-fit.md) — related
+- In simulation, effort-moderated scoring (EM-CAT and EG-CAT) yields negligible bias and nominal 95% confidence interval coverage, unlike MLE-CAT scoring — related
+- Effort-moderated scoring yields more accurate achievement scores and better person fit than traditional MLE scoring when rapid guessing is present — related
 - [Removing disengaged examinees from the sample will likely induce bias in estimates of educational effectiveness](removing-disengaged-examinees-induces-bias.md) — related
 - [Student test disengagement may bias estimates of educational effectiveness based on observed test results](disengagement-undermines-score-inferences.md) — related
 - [One measurement article argues that low test-taking motivation biases an individual student's achievement test score downward](test-taking-motivation-negative-score-bias.md) — related

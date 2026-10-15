@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: liu-2026
-    resource: "https://arxiv.org/abs/2606.00038"
-    title: "Liu, J. P., & Levy, R. (2026). Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education. North Carolina State University. https://arxiv.org/abs/2606.00038"
+    resource: "https://doi.org/10.48550/arxiv.2606.00038"
+    title: "Liu, J. P., & Levy, R. (2026). Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education. North Carolina State University. https://arxiv.org/abs/2606.00038 [doi:10.48550/arxiv.2606.00038](https://doi.org/10.48550/arxiv.2606.00038)"
     author: "Liu, J. P., & Levy, R."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Liu 2026
 
-Liu, J. P., & Levy, R. (2026). Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education. North Carolina State University. https://arxiv.org/abs/2606.00038
+Liu, J. P., & Levy, R. (2026). Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education. North Carolina State University. https://arxiv.org/abs/2606.00038 [doi:10.48550/arxiv.2606.00038](https://doi.org/10.48550/arxiv.2606.00038)
 
 `q2 · i?` · `design · r2`
 
@@ -54,7 +54,7 @@ The review reports this second-hand, citing Fan et al. (2025); the underlying ra
 - [Personalized ChatGPT-supported feedback in an augmented-reality quantum physics laboratory improved learning outcomes and directed visual attention](chatgpt-ar-lab-feedback-improves-outcomes.md) — related
 - [Product-outcome studies report GenAI-related gains on product-quality measures but do not assess durable, transferable learning](genai-product-outcome-gains-superficial.md) — related
 - [Learning outcomes differ by how students use AI: augmentation and mixed users show gains in both sessions, while automation users' Session One essay advantage is absent from their unaided essays](genai-outcomes-differ-by-use-type.md) — related
-- [Novice programmers' GenAI use produces a widening gap in outcomes by metacognitive skill (attributed to Prather et al.)](widening-gap-novice-genai-metacognition.md) — related
+- Novice programmers' GenAI use produces a widening gap in outcomes by metacognitive skill (attributed to Prather et al.) — related
 - [Frequent generative AI use for essay writing can foster metacognitive laziness, reducing intrinsic motivation and learning autonomy](genai-metacognitive-laziness-and-autonomy.md) — possibly the same claim (merge candidate)
 - [The review reports AI-driven personalization improves student engagement and learning outcomes, and virtual teaching assistants support diverse learning needs](ai-personalized-learning-reported-benefits.md) — related
 - [Reflective strategies such as cognitive forcing, pre-commitment, and uncertainty communication reduce overreliance on AI and improve decision quality, but have been evaluated only as short-term single-session interventions](reflective-strategies-short-term-only-evidence.md) — related

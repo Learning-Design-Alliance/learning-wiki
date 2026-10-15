@@ -47,5 +47,5 @@ Descriptive analysis of the 2015-16 CRDC days-of-lost-instruction data, aggregat
 - [Black secondary students lost 103 days of instruction per 100 enrolled, 82 more days than their White peers](black-secondary-students-82-more-days-lost.md) — related
 - [In many large districts, secondary students lost more than a year of instruction per 100 enrolled, up to 416 days in Grand Rapids, MI](districts-lost-over-year-instruction-per-100.md) — a narrower finding that bears on this claim
 - [Race-by-gender disparities are more pronounced: Black boys lost 132 days per 100 enrolled and Black girls lost 77, seven times the rate of White girls](gender-disaggregated-lost-instruction-disparities.md) — related
-- [Black students lose five times as many instructional days to suspension as White students](black-students-lose-five-times-instructional-days.md) — related
+- Black students lose five times as many instructional days to suspension as White students — related
 - [Secondary suspension risk declined and the racial gap narrowed slightly since 2009-10, while elementary rates did not decline and some districts saw large increases](suspension-trends-secondary-decline-elementary-flat.md) — related

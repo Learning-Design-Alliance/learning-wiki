@@ -17,7 +17,7 @@ sources:
 # Logistic discriminant function analysis for differential item functioning detection in polytomously scored items
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 LDF is a DIF-detection method, drawn from Miller and Spray (1993), in which the probability of group membership is modeled from total score plus item score, and "the response variable, U, need not be restricted to only two categories...but can take on any one of the J values associated with each item." Nonuniform DIF is tested against a hierarchical model and uniform DIF against a null probability model, with Scheffe simultaneous confidence bands. It suits performance assessments whose items are scored on ordinal scales with more than two categories.
@@ -27,8 +27,6 @@ LDF is a DIF-detection method, drawn from Miller and Spray (1993), in which the 
 - **Logistic discriminant function analysis for DIF detection in polytomously scored items**: LDF is a DIF-detection method, drawn from Miller and Spray (1993), in which the probability of group membership is modeled from total score plus item score, and "the response variable, U, need not be restricted to only two categories...but can take on any one of the J values associated with each item." Nonuniform DIF is tested against a hierarchical model and uniform DIF against a null probability model, with Scheffe simultaneous confidence bands. It suits performance assessments whose items are scored on ordinal scales with more than two categories. (Holweger et al. (1998))
 
 ### Claims
-- [Given assumption violations and the uniformity factor, the authors judge the LDF method more likely accurate and superior to ICC for this performance assessment](../claims/ldf-superior-to-icc-for-this-performance-assessment.md) [+W]
-- [Seven items exhibit absolute gender DIF by the LDF method, flagged when the total-score line falls outside .95 confidence bands](../claims/ldf-identifies-seven-absolute-dif-items.md) [+M]
 
 ## Related Research Methods
 -
@@ -61,8 +59,6 @@ LDF is a DIF-detection method, drawn from Miller and Spray (1993), in which the 
 - accurate detection of differential item functioning in polytomously scored performance assessment items
 
 ### Claims
-- [Ldf Superior To Icc For This Performance Assessment](../claims/ldf-superior-to-icc-for-this-performance-assessment.md) [+W]
-- [Ldf Identifies Seven Absolute Dif Items](../claims/ldf-identifies-seven-absolute-dif-items.md) [+M]
 
 ## Related Theories
 - 

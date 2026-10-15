@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: shihao-yang-2026
-    resource: "https://arxiv.org/abs/2609.23958"
-    title: "Shihao Yang, Marshall Van Alstyne, and Chrysanthos Dellarocas. (2026). When AI Tutors Speak: Evidence from a Randomized Field Experiment. https://arxiv.org/abs/2609.23958"
+    resource: "https://doi.org/10.48550/arxiv.2609.23958"
+    title: "Shihao Yang, Marshall Van Alstyne, and Chrysanthos Dellarocas. (2026). When AI Tutors Speak: Evidence from a Randomized Field Experiment. https://arxiv.org/abs/2609.23958 [doi:10.48550/arxiv.2609.23958](https://doi.org/10.48550/arxiv.2609.23958)"
     author: Shihao Yang, Marshall Van Alstyne, and Chrysanthos Dellarocas
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Shihao Yang 2026
 
-Shihao Yang, Marshall Van Alstyne, and Chrysanthos Dellarocas. (2026). When AI Tutors Speak: Evidence from a Randomized Field Experiment. https://arxiv.org/abs/2609.23958
+Shihao Yang, Marshall Van Alstyne, and Chrysanthos Dellarocas. (2026). When AI Tutors Speak: Evidence from a Randomized Field Experiment. https://arxiv.org/abs/2609.23958 [doi:10.48550/arxiv.2609.23958](https://doi.org/10.48550/arxiv.2609.23958)
 
 `q3 · i?` · `causal · r2`
 
@@ -44,6 +44,6 @@ Authors' summary of the preregistered SOLO depth co-primary outcomes (mean SOLO 
 
 ## Related Claims
 - [Access to a structured conversational AI tutor increased post-test content scores over a no-AI holdout with ambient consumer AI available](structured-ai-tutor-raises-post-test-scores-field-experiment.md) — a broader claim this one bears on
-- [Multiple choice practice items produce significantly higher performance during retrieval practice than short answer items, with applied short answer the most difficult condition](multiple-choice-higher-practice-performance-than-short-answer.md) — related
-- [Successful retrieval practice of more difficult items (short answer, applied) yields greater future predicted success than successful retrieval of easier items (multiple choice, factual)](successful-difficult-retrieval-greater-future-success.md) — related
-- [Practice condition (format/depth) showed no significant differences on posttest performance for either practiced or unpracticed concepts](no-posttest-differences-between-practice-conditions.md) — related
+- Multiple choice practice items produce significantly higher performance during retrieval practice than short answer items, with applied short answer the most difficult condition — related
+- Successful retrieval practice of more difficult items (short answer, applied) yields greater future predicted success than successful retrieval of easier items (multiple choice, factual) — related
+- Practice condition (format/depth) showed no significant differences on posttest performance for either practiced or unpracticed concepts — related

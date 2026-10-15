@@ -43,7 +43,7 @@ A research summary box in the Guidebook's partnership section, citing literature
 
 
 ## Related Claims
-- [The FACE Collaborative fostered collaborative leadership behaviors including mutual support, resource sharing, expert learning, and partnership building](face-collaborative-fostered-collaborative-leadership-behaviors.md) — related
+- The FACE Collaborative fostered collaborative leadership behaviors including mutual support, resource sharing, expert learning, and partnership building — related
 - [School co-locations or partnerships, aspiring-leader programs, and shared Common Core preparation are the most promising avenues for cross-sector collaboration](district-charter-promising-collaboration-avenues.md) — related
 - [The article argues the durability of the WSS co-design approach depends on institutionalizing authentic engagement as core practice, not a one-time initiative](wss-sustainability-requires-institutionalization.md) — related
 - [Cross-sector leadership programs were widely viewed as the most successful collaboration grant activities, while limited grant time period and scope and lack of goal clarity hindered implementation](leadership-programs-most-successful-grant-activities.md) — related

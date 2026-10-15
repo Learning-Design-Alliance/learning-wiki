@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: haiyang-xin-2026
-    resource: "https://arxiv.org/abs/2605.12934"
-    title: "Haiyang Xin, Qiannan Niu, Shuang Li, Yimeng Sun, Ching Sing Chai, Lingyun Huang, Gaowei Chen. (2026). An Activity-Theoretical Approach to Teacher Professional Development in Pedagogical AI Agent Design. https://arxiv.org/abs/2605.12934"
+    resource: "https://doi.org/10.48550/arxiv.2605.12934"
+    title: "Haiyang Xin, Qiannan Niu, Shuang Li, Yimeng Sun, Ching Sing Chai, Lingyun Huang, Gaowei Chen. (2026). An Activity-Theoretical Approach to Teacher Professional Development in Pedagogical AI Agent Design. https://arxiv.org/abs/2605.12934 [doi:10.48550/arxiv.2605.12934](https://doi.org/10.48550/arxiv.2605.12934)"
     author: Haiyang Xin, Qiannan Niu, Shuang Li, Yimeng Sun, Ching Sing Chai, Lingyun Huang, Gaowei Chen
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Haiyang Xin 2026
 
-Haiyang Xin, Qiannan Niu, Shuang Li, Yimeng Sun, Ching Sing Chai, Lingyun Huang, Gaowei Chen. (2026). An Activity-Theoretical Approach to Teacher Professional Development in Pedagogical AI Agent Design. https://arxiv.org/abs/2605.12934
+Haiyang Xin, Qiannan Niu, Shuang Li, Yimeng Sun, Ching Sing Chai, Lingyun Huang, Gaowei Chen. (2026). An Activity-Theoretical Approach to Teacher Professional Development in Pedagogical AI Agent Design. https://arxiv.org/abs/2605.12934 [doi:10.48550/arxiv.2605.12934](https://doi.org/10.48550/arxiv.2605.12934)
 
 `q2 · i?` · `design · r3`
 
@@ -49,4 +49,4 @@ Hierarchical clustering (Ward's linkage, squared Euclidean distance) on seven st
 - [Interviewed teachers attributed disengagement to technical, institutional, and social-relational environmental constraints rather than capability deficits](environmental-constraints-attributed-disengagement.md) — related
 - [Teachers designing multi-agent workflows fall into three behavioral archetypes: Systematic Optimizers, Prolific Creators, and Passive Observers](three-archetypes-multi-agent-workflow-design.md) — related
 - [Policy packages fall into four archetypes defined by which design element is missing](four-policy-archetypes-ai-guidance.md) — related
-- [In an eight-week teacher workshop, the AI technology creation process was iterative and non-linear, with Understand AI and Reflect on Ethical Application phases surrounding the design cycle](workshop-iterative-ai-creation-process-cordtra.md) — related
+- In an eight-week teacher workshop, the AI technology creation process was iterative and non-linear, with Understand AI and Reflect on Ethical Application phases surrounding the design cycle — related

@@ -44,7 +44,7 @@ Intent-to-treat analysis of 5,991 students (2,961 intervention, 3,030 comparison
 
 ## Related Claims
 - [ASSISTments use in seventh grade produces a statistically significant long-term math achievement effect of 0.10 SD one year after implementation ends](assistments-long-term-eog-effect-0-10.md) — possibly the same claim (merge candidate)
-- [ASSISTments use for 7th-grade math homework significantly raises TerraNova mathematics scores in Maine (effect size +0.18)](assistments-maine-terranova-effect-018.md) — related
+- ASSISTments use for 7th-grade math homework significantly raises TerraNova mathematics scores in Maine (effect size +0.18) — related
 - [ASSISTments achieved a long-term effect comparable to high-dosage tutoring at a small fraction of the cost](assistments-cost-comparison-saga-tutoring.md) — related
-- [A North Carolina replication found ASSISTments 7th-grade use raised 8th-grade end-of-grade math scores (effect size +0.10) despite COVID-19 disruption](assistments-north-carolina-replication-eog-010.md) — related
+- A North Carolina replication found ASSISTments 7th-grade use raised 8th-grade end-of-grade math scores (effect size +0.10) despite COVID-19 disruption — related
 - [ASSISTments benefited Hispanic students more than non-Hispanic students](assistments-hispanic-students-benefit-more.md) — related

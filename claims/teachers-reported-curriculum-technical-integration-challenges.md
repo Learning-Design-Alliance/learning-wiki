@@ -53,4 +53,4 @@ Implementation finding from the two-study synthesis: teachers "reported curricul
 - [Technical integration with learning management systems and existing teacher tools eases Ecree adoption](lms-integration-eases-ecree-adoption.md) — reports the opposite
 - [Teachers need time to plan and carry out daily writing instruction to successfully learn and use MI Write](teacher-planning-time-needed-for-mi-write-use.md) — related
 - [Implementing collaborative argumentation is challenged by time constraints, curriculum fit, teacher training, and system-level support](argumentation-implementation-challenges.md) — related
-- [Mathspace classroom use was limited, with 90% of teachers using it two hours or less weekly and two-thirds reporting technical challenges](mathspace-limited-classroom-use-technical-challenges.md) — related
+- Mathspace classroom use was limited, with 90% of teachers using it two hours or less weekly and two-thirds reporting technical challenges — related

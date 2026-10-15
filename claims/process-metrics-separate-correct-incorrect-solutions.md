@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: zhitong-dong-2026
-    resource: "https://arxiv.org/abs/2609.12606"
-    title: "Zhitong Dong, Jicai Pan, Yingguo Gao, Jingting Ding, Hao Chen, Jinjie Gu. (2026). Beyond Generation and Accuracy: Diagnosing and Enhancing Visual Chain-of-Thought for Geometry Problem Solving. arXiv preprint. https://arxiv.org/abs/2609.12606"
+    resource: "https://doi.org/10.48550/arxiv.2609.12606"
+    title: "Zhitong Dong, Jicai Pan, Yingguo Gao, Jingting Ding, Hao Chen, Jinjie Gu. (2026). Beyond Generation and Accuracy: Diagnosing and Enhancing Visual Chain-of-Thought for Geometry Problem Solving. arXiv preprint. https://arxiv.org/abs/2609.12606 [doi:10.48550/arxiv.2609.12606](https://doi.org/10.48550/arxiv.2609.12606)"
     author: Zhitong Dong, Jicai Pan, Yingguo Gao, Jingting Ding, Hao Chen, Jinjie Gu
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Zhitong Dong 2026
 
-Zhitong Dong, Jicai Pan, Yingguo Gao, Jingting Ding, Hao Chen, Jinjie Gu. (2026). Beyond Generation and Accuracy: Diagnosing and Enhancing Visual Chain-of-Thought for Geometry Problem Solving. arXiv preprint. https://arxiv.org/abs/2609.12606
+Zhitong Dong, Jicai Pan, Yingguo Gao, Jingting Ding, Hao Chen, Jinjie Gu. (2026). Beyond Generation and Accuracy: Diagnosing and Enhancing Visual Chain-of-Thought for Geometry Problem Solving. arXiv preprint. https://arxiv.org/abs/2609.12606 [doi:10.48550/arxiv.2609.12606](https://doi.org/10.48550/arxiv.2609.12606)
 
 `q2 · i?` · `causal · r2`
 

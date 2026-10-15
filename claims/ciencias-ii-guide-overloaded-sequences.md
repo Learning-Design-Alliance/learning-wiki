@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` The SEP work guide's example didactic sequences for Ciencias II Blocks 1 and 2 assign 5 and 8 expected learnings to 6 and 5 class hours respectively, and Blocks 3 and 4 assign 7 and 6 learnings to 6 hours each. [→ Alfonso Cuervo 2008](#alfonso-cuervo-2008)
@@ -43,7 +44,7 @@ Analysis of Table V of the SEP Ciencias II work guide: Block 1 lists 5 expected 
 
 
 ## Related Claims
-- [The new Ciencias II curriculum shifts the entry point to physics from measurement of physical properties (1993 plan) to the perception of movement, integrating light and sound from the start of the course](ciencias-ii-entry-shift-measurement-to-movement.md) — related
+- The new Ciencias II curriculum shifts the entry point to physics from measurement of physical properties (1993 plan) to the perception of movement, integrating light and sound from the start of the course — related
 - [SEP national monitoring reports indicate insufficient teacher training for the reform: 35% of surveyed teachers requested training in planning and design of didactic activities, and about 30% of directors rated induction-workshop information as poorly adequate or inadequate](reform-teacher-training-insufficient.md) — related
-- [The 2006 reform concentrated physics, previously taught across three secondary years, into a single second-grade course (Ciencias II) with 6 hours per week, raising teacher concern about fostering interest in one school cycle](res-concentrates-physics-into-single-second-grade-course.md) — related
-- [Students receive very little climate change instruction, typically only 1 or 2 hours per year](minimal-climate-instruction-hours.md) — related
+- The 2006 reform concentrated physics, previously taught across three secondary years, into a single second-grade course (Ciencias II) with 6 hours per week, raising teacher concern about fostering interest in one school cycle — related
+- Students receive very little climate change instruction, typically only 1 or 2 hours per year — related

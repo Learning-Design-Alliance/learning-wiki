@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Observational data the monograph attributes to Gall, Haisley, Baker, and Perez (1982) found half of elementary teachers' inservice activities lasted four hours or less, mostly speeches or brief workshops. [→ Gall 1994](#gall-1994)
@@ -45,7 +46,7 @@ The monograph reports a year-long data collection on all inservice activities a 
 ## Related Claims
 - Region II local ABE directors assigned lower priority to inservice education than the national sample — related
 - [Widely implemented staff development (Madeline Hunter's ITIP) lacks empirical evidence of improved student achievement](itip-lacks-empirical-evidence-achievement.md) — related
-- [Schools provided staff minimal formal SDM training: only 54.6% of staff participated, 58.8% of classroom teachers were non-participants, and most trainees received 8 hours or less](minimal-formal-training-sdm-staff.md) — related
+- Schools provided staff minimal formal SDM training: only 54.6% of staff participated, 58.8% of classroom teachers were non-participants, and most trainees received 8 hours or less — related
 - [Effective skill training combines theory presentation, demonstration, practice with feedback, and coaching for transfer (review attribution)](skill-training-effective-techniques.md) — related
 - [Program dosage was low for many participants: nearly half of Talent Search participants received 10 or fewer hours of services a year](talent-search-low-dosage-half-participants.md) — related
 - [More effective programs used brief 1–3 h laboratory sessions with skill-based activities and multiple media](brief-skill-based-multimedia-sessions-moderator.md) — related

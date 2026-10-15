@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: lei-bao-2006
-    resource: "https://arxiv.org/abs/0710.1375"
-    title: "Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/0710.1375"
+    resource: "https://doi.org/10.48550/arxiv.0710.1375"
+    title: "Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/0710.1375 [doi:10.48550/arxiv.0710.1375](https://doi.org/10.48550/arxiv.0710.1375)"
     author: Lei Bao
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Lei Bao 2006
 
-Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/0710.1375
+Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/0710.1375 [doi:10.48550/arxiv.0710.1375](https://doi.org/10.48550/arxiv.0710.1375)
 
 `q2 · i? · the article prints no effect size for this finding` · `theoretical · r3`
 
@@ -48,5 +48,5 @@ Analytical derivation (Section III) solving the α-process differential equation
 - [High-ability students' learning behaves as a dominant α-process even at low pretest scores, while average-ability students show more γ-process behavior](high-ability-alpha-dominant-low-pretest.md) — a narrower finding that bears on this claim
 - [Random measurement noise in pretest scores produces a negative contribution to the correlation between normalized gain and pretest score](measurement-noise-negative-gain-pretest-correlation.md) — related
 - [Pretest-posttest correlation coefficients for state assessment data vary by student achievement level (low-performing, average-performing, proficient).](pretest-posttest-correlations-vary-by-achievement-level.md) — related
-- [Pre-test scores strongly predict post-test scores but not normalized learning gains](pretest-predicts-posttest-not-learning-gain.md) — related
+- Pre-test scores strongly predict post-test scores but not normalized learning gains — related
 - [All training policies narrowed the prior-knowledge achievement gap from pretest to posttest, with BKT achieving the largest reduction (77.1%)](bkt-largest-achievement-gap-reduction.md) — related

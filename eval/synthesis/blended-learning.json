@@ -13,10 +13,6 @@
         [
           "no-identified-blended-learning-implementation-strategies",
           "~"
-        ],
-        [
-          "haiti-blended-pilot-significant-gains-lowest-baseline",
-          "+"
         ]
       ]
     }

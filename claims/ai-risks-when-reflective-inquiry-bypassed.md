@@ -44,5 +44,5 @@ Theoretical argument in this field-notes article: the authors assert, without re
 
 ## Related Claims
 - [In CLT, teachers perceive an authenticity crisis, risk-free fluency, a confidence mirage, and pragmatic blindness](clt-four-ethical-tensions.md) — related
-- [LLM-assisted inductive qualitative coding carries risks of superficial themes, broad or redundant codes, and hallucinated interpretations, so LLMs should augment rather than replace human researchers](llm-inductive-coding-risks-require-human-oversight.md) — related
-- [Public accountability pressure on school-level improvement data can suppress honest inquiry and incentivize superficial fixes](accountability-pressure-suppresses-honest-inquiry.md) — related
+- LLM-assisted inductive qualitative coding carries risks of superficial themes, broad or redundant codes, and hallucinated interpretations, so LLMs should augment rather than replace human researchers — related
+- Public accountability pressure on school-level improvement data can suppress honest inquiry and incentivize superficial fixes — related

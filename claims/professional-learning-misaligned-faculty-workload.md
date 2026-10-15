@@ -67,5 +67,5 @@ Focus group evidence: a biweekly 20-minute single-tool session was reported to y
 - [Workforce readiness for AI is widely acknowledged as a priority but implemented in concentrated pockets rather than coordinated across disciplines](ai-workforce-readiness-concentrated-not-coordinated.md) — related
 - [Small school contexts may both enable and constrain professional communities: collegiality rises but heavy workloads make collective instructional focus difficult](small-school-contexts-enable-and-constrain-communities.md) — related
 - [Clear role assignment, training resources, and advisory support facilitated CA-supported continuous improvement and reduced faculty workload perceptions](clear-roles-and-training-support-ca-implementation.md) — reports the opposite
-- [KMSD's micro-credential compensation model supported teacher collaboration, with groups of 5 to 60 teachers earning together](kmsd-micro-credential-collaboration-groups.md) — reports the opposite
+- KMSD's micro-credential compensation model supported teacher collaboration, with groups of 5 to 60 teachers earning together — reports the opposite
 - [A six-session faculty learning community on AI was implemented in a physics department, engaging nineteen faculty across biweekly meetings](physics-faculty-learning-community-ai-workshop-series.md) — related

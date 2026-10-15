@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` No modern chess master reached the international level in less than approximately 10 years of playing, including prodigies such as Bobby Fischer, and the rule extends to music, sports, sciences, and arts. [→ Ericsson 2005](#ericsson-2005)
@@ -44,4 +45,4 @@ Review of longitudinal assessments and retrospective evidence on expert developm
 
 ## Related Claims
 - [Heritability of everyday abilities cannot be extrapolated to expert performance; twins almost never reach elite levels](no-heritability-extrapolation-to-expert-performance.md) — related
-- [Expert chess discovery is explained by powerful selective heuristics rather than faster thinking or better memory](chess-discovery-via-selective-heuristics.md) — related
+- Expert chess discovery is explained by powerful selective heuristics rather than faster thinking or better memory — related

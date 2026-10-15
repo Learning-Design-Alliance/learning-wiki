@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: youqing-fang-2026
-    resource: "https://arxiv.org/abs/2605.23535"
-    title: "Youqing Fang, Yinhao Tang, Yanan Sun, Jiangning Liu, Ziyi Wang, Xun Zhao, Bin Liu, Weiming Zhang, Kuikun Liu, Wenwei Zhang, Kai Chen. (2026). MindCopilot: Towards Formalizing and Evaluating Granular Human-LLM Co-Writing. arXiv preprint. https://arxiv.org/abs/2605.23535"
+    resource: "https://doi.org/10.48550/arxiv.2605.23535"
+    title: "Youqing Fang, Yinhao Tang, Yanan Sun, Jiangning Liu, Ziyi Wang, Xun Zhao, Bin Liu, Weiming Zhang, Kuikun Liu, Wenwei Zhang, Kai Chen. (2026). MindCopilot: Towards Formalizing and Evaluating Granular Human-LLM Co-Writing. arXiv preprint. https://arxiv.org/abs/2605.23535 [doi:10.48550/arxiv.2605.23535](https://doi.org/10.48550/arxiv.2605.23535)"
     author: Youqing Fang, Yinhao Tang, Yanan Sun, Jiangning Liu, Ziyi Wang, Xun Zhao, Bin Liu, Weiming Zhang, Kuikun Liu, Wenwei Zhang, Kai Chen
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Stateful proactive collaboration (L2) yields higher acceptance and lower editing effort than stateless proactive collaboration (L1), with lower acceptance in creative than scientific domains
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
+> **Evidence** · 2 studies · 2 causal `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` Moving from L1 stateless to L2 stateful proactive collaboration yields systematic gains in acceptance rate and reduced editing effort across evaluated models. [→ Youqing Fang 2026](#youqing-fang-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Youqing Fang 2026
 
-Youqing Fang, Yinhao Tang, Yanan Sun, Jiangning Liu, Ziyi Wang, Xun Zhao, Bin Liu, Weiming Zhang, Kuikun Liu, Wenwei Zhang, Kai Chen. (2026). MindCopilot: Towards Formalizing and Evaluating Granular Human-LLM Co-Writing. arXiv preprint. https://arxiv.org/abs/2605.23535
+Youqing Fang, Yinhao Tang, Yanan Sun, Jiangning Liu, Ziyi Wang, Xun Zhao, Bin Liu, Weiming Zhang, Kuikun Liu, Wenwei Zhang, Kai Chen. (2026). MindCopilot: Towards Formalizing and Evaluating Granular Human-LLM Co-Writing. arXiv preprint. https://arxiv.org/abs/2605.23535 [doi:10.48550/arxiv.2605.23535](https://doi.org/10.48550/arxiv.2605.23535)
 
 `q2 · i?` · `causal · r2`
 

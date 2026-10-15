@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: syed-furqan-abbas-hashmi-2025
-    resource: "https://arxiv.org/abs/2508.14778"
-    title: "Syed Furqan Abbas Hashmi, N. Sanjay Rebello. (2025). Analyzing Undergraduate Problem-Solving in Physics Through Interaction With an AI Chatbot. https://arxiv.org/abs/2508.14778"
+    resource: "https://doi.org/10.48550/arxiv.2508.14778"
+    title: "Syed Furqan Abbas Hashmi, N. Sanjay Rebello. (2025). Analyzing Undergraduate Problem-Solving in Physics Through Interaction With an AI Chatbot. https://arxiv.org/abs/2508.14778 [doi:10.48550/arxiv.2508.14778](https://doi.org/10.48550/arxiv.2508.14778)"
     author: Syed Furqan Abbas Hashmi, N. Sanjay Rebello
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Syed Furqan Abbas Hashmi 2025
 
-Syed Furqan Abbas Hashmi, N. Sanjay Rebello. (2025). Analyzing Undergraduate Problem-Solving in Physics Through Interaction With an AI Chatbot. https://arxiv.org/abs/2508.14778
+Syed Furqan Abbas Hashmi, N. Sanjay Rebello. (2025). Analyzing Undergraduate Problem-Solving in Physics Through Interaction With an AI Chatbot. https://arxiv.org/abs/2508.14778 [doi:10.48550/arxiv.2508.14778](https://doi.org/10.48550/arxiv.2508.14778)
 
 `q2 · i?` · `associational · r1`
 

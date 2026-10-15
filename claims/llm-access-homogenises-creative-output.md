@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: mahbub-ul-alam-2026
-    resource: "https://arxiv.org/abs/2609.13155"
-    title: "Mahbub Ul Alam. (2026). PAUSE: A Privacy-Preserving Self-Reflection Tool for AI-Associated Cognitive Offloading. arXiv. https://arxiv.org/abs/2609.13155"
+    resource: "https://doi.org/10.48550/arxiv.2609.13155"
+    title: "Mahbub Ul Alam. (2026). PAUSE: A Privacy-Preserving Self-Reflection Tool for AI-Associated Cognitive Offloading. arXiv. https://arxiv.org/abs/2609.13155 [doi:10.48550/arxiv.2609.13155](https://doi.org/10.48550/arxiv.2609.13155)"
     author: Mahbub Ul Alam
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Mahbub Ul Alam 2026
 
-Mahbub Ul Alam. (2026). PAUSE: A Privacy-Preserving Self-Reflection Tool for AI-Associated Cognitive Offloading. arXiv. https://arxiv.org/abs/2609.13155
+Mahbub Ul Alam. (2026). PAUSE: A Privacy-Preserving Self-Reflection Tool for AI-Associated Cognitive Offloading. arXiv. https://arxiv.org/abs/2609.13155 [doi:10.48550/arxiv.2609.13155](https://doi.org/10.48550/arxiv.2609.13155)
 
 `q2 · i?` · `design · r1`
 
@@ -49,7 +49,7 @@ The review attributes to Doshi and Hauser (2024) that LLM access "boosts individ
 - [Free ChatGPT use boosts originality on the assisted creative task but the advantage disappears when assistance is removed](chatgpt-free-use-originality-gains-vanish-unassisted.md) — the general claim this finding bears on, with the studies behind it
 - [AI-assisted outputs are more similar to each other than purely human-authored ones, indicating a homogenization risk](ai-assisted-outputs-homogenization-risk.md) — possibly the same claim (merge candidate)
 - [LLM assistance can enhance employees' creativity, especially for those with skills to reflect on AI use](llm-assistance-enhances-employee-creativity.md) — related
-- [AI assistance raises individual creative self-assessments but reduces collective diversity of novel content (reviewed finding)](ai-creativity-individual-gain-collective-diversity-loss.md) — possibly the same claim (merge candidate)
-- [GenAI access disproportionately benefits less inherently creative writers, equalizing creativity scores across writers](genai-benefits-less-creative-writers-most.md) — possibly the same claim (merge candidate)
-- [GenAI-enabled stories are more similar to the GenAI ideas and to other stories in their condition, reducing collective diversity of novel content](genai-stories-more-similar-reduced-diversity.md) — a narrower finding that bears on this claim
-- [Writers themselves perceive no creativity benefit from GenAI access even though evaluators do](writers-self-assessments-show-no-genai-benefit.md) — reports the opposite
+- AI assistance raises individual creative self-assessments but reduces collective diversity of novel content (reviewed finding) — possibly the same claim (merge candidate)
+- GenAI access disproportionately benefits less inherently creative writers, equalizing creativity scores across writers — possibly the same claim (merge candidate)
+- GenAI-enabled stories are more similar to the GenAI ideas and to other stories in their condition, reducing collective diversity of novel content — a narrower finding that bears on this claim
+- Writers themselves perceive no creativity benefit from GenAI access even though evaluators do — reports the opposite

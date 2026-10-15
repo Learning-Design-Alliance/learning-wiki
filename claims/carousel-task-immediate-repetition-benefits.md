@@ -44,4 +44,4 @@ The article summarises Lynch and Maclean's (2000) ESP-course carousel study: pai
 
 ## Related Claims
 - [Immediate task repetition benefits oral performance, including fluency, self-correction and reduced anxiety](immediate-repetition-benefits-oral-performance.md) — a broader claim this one bears on
-- [Speaking gains were significant for fluency, pronunciation and vocabulary but not for grammar](ideation-discussion-speaking-gains-not-grammar.md) — related
+- Speaking gains were significant for fluency, pronunciation and vocabulary but not for grammar — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: kelly-hallberg-2018
-    resource: "https://www.mathematica.org/publications/pretest-measures-of-the-study-outcome-and-the-elimination-of-selection-bias-evidence-from-three"
-    title: "Kelly Hallberg, Thomas D. Cook, Peter M. Steiner, M. H. Clark. (2018). Pretest Measures of the Study Outcome and the Elimination of Selection Bias: Evidence from Three Within Study Comparisons. Prevention Science, vol. 19, issue 3. https://www.mathematica.org/publications/pretest-measures-of-the-study-outcome-and-the-elimination-of-selection-bias-evidence-from-three"
+    resource: "https://doi.org/10.1007/s11121-016-0732-6"
+    title: "Kelly Hallberg, Thomas D. Cook, Peter M. Steiner, M. H. Clark. (2018). Pretest Measures of the Study Outcome and the Elimination of Selection Bias: Evidence from Three Within Study Comparisons. Prevention Science, vol. 19, issue 3. https://www.mathematica.org/publications/pretest-measures-of-the-study-outcome-and-the-elimination-of-selection-bias-evidence-from-three [doi:10.1007/s11121-016-0732-6](https://doi.org/10.1007/s11121-016-0732-6)"
     author: Kelly Hallberg, Thomas D. Cook, Peter M. Steiner, M. H. Clark
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Kelly Hallberg 2018
 
-Kelly Hallberg, Thomas D. Cook, Peter M. Steiner, M. H. Clark. (2018). Pretest Measures of the Study Outcome and the Elimination of Selection Bias: Evidence from Three Within Study Comparisons. Prevention Science, vol. 19, issue 3. https://www.mathematica.org/publications/pretest-measures-of-the-study-outcome-and-the-elimination-of-selection-bias-evidence-from-three
+Kelly Hallberg, Thomas D. Cook, Peter M. Steiner, M. H. Clark. (2018). Pretest Measures of the Study Outcome and the Elimination of Selection Bias: Evidence from Three Within Study Comparisons. Prevention Science, vol. 19, issue 3. https://www.mathematica.org/publications/pretest-measures-of-the-study-outcome-and-the-elimination-of-selection-bias-evidence-from-three [doi:10.1007/s11121-016-0732-6](https://doi.org/10.1007/s11121-016-0732-6)
 
 `q3 · i?` · `causal · r2`
 

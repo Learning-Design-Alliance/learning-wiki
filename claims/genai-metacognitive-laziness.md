@@ -46,15 +46,15 @@ The report attributes to cited research (Fan et al., 2024; Gerlich, 2025; Kosmyn
 - [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Generative AI can help people finish tasks more quickly but does not accelerate learning itself](genai-speeds-tasks-not-learning.md) — a broader claim this one bears on
+- Generative AI can help people finish tasks more quickly but does not accelerate learning itself — a broader claim this one bears on
 - [Students made minimal reference to higher-level cognitive or metacognitive processing benefits of group work, departing from prior PBL research](minimal-reference-higher-level-processing-benefits.md) — related
 - [Metacognitive Strategies Improve Learning](metacognitive-strategies-improve-learning.md) — related
 - [LLM-based tools may interfere with reading comprehension and retention despite learners finding them helpful](llm-tools-interfere-comprehension-retention.md) — related
 - [Some AI tools can inhibit productive struggle by reducing cognitive effort when they automate processes students would otherwise reason through](ai-automation-reduces-productive-struggle.md) — possibly the same claim (merge candidate)
 - [Review-attributed evidence: ChatGPT use improved short-term essay scores but triggered metacognitive laziness with no significant knowledge-transfer gains](chatgpt-metacognitive-laziness-fan-2025.md) — a narrower finding that bears on this claim
 - [GenAI use collapses SRL cycle transitions, with metacognitive activity restructuring around the tool](genai-collapses-srl-cycle-transitions.md) — a narrower finding that bears on this claim
-- [genAI-supported work can improve while the constructive processing underlying durable expertise erodes (the performance–metacognition dilemma)](performance-metacognition-dilemma-genai.md) — related
-- [GenAI and metacognitive self-reports did not robustly predict behavioral regulation or final task performance](self-reports-fail-to-predict-llm-regulation.md) — related
+- genAI-supported work can improve while the constructive processing underlying durable expertise erodes (the performance–metacognition dilemma) — related
+- GenAI and metacognitive self-reports did not robustly predict behavioral regulation or final task performance — related
 - [GenAI/LLM language ability, democratization potential, and semantic-sensor functions can serve the emancipatory vision without ever-increasing model complexity](genai-properties-serve-flourishing-vision.md) — reports the opposite
-- [Novice programmers' GenAI use produces a widening gap in outcomes by metacognitive skill (attributed to Prather et al.)](widening-gap-novice-genai-metacognition.md) — related
+- Novice programmers' GenAI use produces a widening gap in outcomes by metacognitive skill (attributed to Prather et al.) — related
 - [Task completion with GenAI is a weak proxy for durable competence, with struggling learners at risk of an illusion of competence](task-completion-weak-proxy-competence.md) — related

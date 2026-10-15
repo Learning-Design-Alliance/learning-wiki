@@ -13,7 +13,7 @@ generated:
 # Hero Elementary
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Hero Elementary is a multiplatform K–2 science and literacy curriculum programme offering themed activity playlists for use in formal and informal learning settings.
@@ -24,8 +24,6 @@ Hero Elementary is a multiplatform K–2 science and literacy curriculum program
 - **Hero Elementary multiplatform science program and its playlist structure**: Hero Elementary is a multiplatform, equity-focused educational initiative providing science and literacy instruction to kindergarten through second-grade learners from underserved communities, funded by a U.S. Department of Education Ready to Learn grant. Its central structure is the playlist: "Each playlist focuses on a given science concept" and contains an animated television story, a live-action song-based video on a Science and Engineering Practice, a digital or analog game, two hands-on activities, a digital journal, and a non-fiction e-book. Content types and their in-person implementations are summarized in Table 1, and distance-learning supports and modifications in Table 2. (Li et al. (2022))
 
 ### Claims
-- [The range of multiplatform activity types and multiple representations of NGSS-aligned concepts engaged students with different learning preferences and abilities](../claims/multiplatform-activity-range-engaged-diverse-learners.md) [+M]
-- [In a cluster-randomized trial of the virtual Hero Elementary program, treatment students scored higher than control students on a science post-assessment, but the difference was not statistically significant (effect size 0.15)](../claims/hero-elementary-virtual-pivot-nonsignificant-achievement-effect.md) [~M]
 
 ## Related Products and Programmes
 -

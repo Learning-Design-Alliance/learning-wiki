@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: jaward-sesay-2026
-    resource: "https://arxiv.org/abs/2606.16428"
-    title: "Jaward Sesay, Yue Yu, Siwei Dong, Börje F. Karlsson. (2026). Lect¯uraAgents: A Multi-Agent Framework for Adaptive Personalized AI-Assisted Learning and Embodied Teaching. arXiv. https://arxiv.org/abs/2606.16428"
+    resource: "https://doi.org/10.48550/arxiv.2606.16428"
+    title: "Jaward Sesay, Yue Yu, Siwei Dong, Börje F. Karlsson. (2026). Lect¯uraAgents: A Multi-Agent Framework for Adaptive Personalized AI-Assisted Learning and Embodied Teaching. arXiv. https://arxiv.org/abs/2606.16428 [doi:10.48550/arxiv.2606.16428](https://doi.org/10.48550/arxiv.2606.16428)"
     author: Jaward Sesay, Yue Yu, Siwei Dong, Börje F. Karlsson
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Jaward Sesay 2026
 
-Jaward Sesay, Yue Yu, Siwei Dong, Börje F. Karlsson. (2026). Lect¯uraAgents: A Multi-Agent Framework for Adaptive Personalized AI-Assisted Learning and Embodied Teaching. arXiv. https://arxiv.org/abs/2606.16428
+Jaward Sesay, Yue Yu, Siwei Dong, Börje F. Karlsson. (2026). Lect¯uraAgents: A Multi-Agent Framework for Adaptive Personalized AI-Assisted Learning and Embodied Teaching. arXiv. https://arxiv.org/abs/2606.16428 [doi:10.48550/arxiv.2606.16428](https://doi.org/10.48550/arxiv.2606.16428)
 
 `q2 · i?` · `design · r2`
 
@@ -44,6 +44,6 @@ Expert-scored pedagogical evaluation of 280 personalized lectures (40 per model,
 
 ## Related Claims
 - [Two of seven frontier LLMs show behavioral inconsistency between monitored and unmonitored conditions (Grok-4.1-fast 5.50; Gemini-3-Pro 5.00), while four show perfect consistency (1.0)](alignment-faking-inconsistency-educational-llms.md) — related
-- [CDP improves item-difficulty recovery in both rank order and absolute alignment, with the largest gains for reasoning-enabled Gemini configurations](cdp-improves-item-difficulty-recovery.md) — related
+- CDP improves item-difficulty recovery in both rank order and absolute alignment, with the largest gains for reasoning-enabled Gemini configurations — related
 - [LecturaAgents scores higher than Instructional Agents, GenMentor, and Learn Your Way on lecture content, personalization, and assessment quality](lecturaagents-outperforms-baselines-lcq-pq-aq.md) — related
 - [GPT-series models and LangChain dominate educational agentic implementations, while frontier paradigms such as OpenClaw remain largely absent](frontier-agent-paradigms-absent-education.md) — related

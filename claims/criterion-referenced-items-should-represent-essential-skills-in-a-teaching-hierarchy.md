@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: pikulski-1973
-    resource: "https://eric.ed.gov/?id=ED085660"
-    title: "Pikulski, J. J. (1973). *Criterion referenced measures for clinical evaluations*. ERIC Document ED085660. https://eric.ed.gov/?id=ED085660"
+    resource: "https://doi.org/10.1080/19388077409557262"
+    title: "Pikulski, J. J. (1973). *Criterion referenced measures for clinical evaluations*. ERIC Document ED085660. https://eric.ed.gov/?id=ED085660 [doi:10.1080/19388077409557262](https://doi.org/10.1080/19388077409557262)"
     author: Pikulski, J. J.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Pikulski 1973
 
-Pikulski, J. J. (1973). *Criterion referenced measures for clinical evaluations*. ERIC Document ED085660. https://eric.ed.gov/?id=ED085660
+Pikulski, J. J. (1973). *Criterion referenced measures for clinical evaluations*. ERIC Document ED085660. https://eric.ed.gov/?id=ED085660 [doi:10.1080/19388077409557262](https://doi.org/10.1080/19388077409557262)
 
 `q2 · i?` · `theoretical · r?`
 

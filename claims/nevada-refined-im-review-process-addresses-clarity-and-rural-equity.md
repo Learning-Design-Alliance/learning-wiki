@@ -62,5 +62,5 @@ The report's background section identifies rural district obstacles in qualitati
 
 
 ## Related Claims
-- [Nevada's refined process represents small and rural districts on statewide review panels by leveraging RPDP regional coordinators as their representatives](rpdp-representation-rural-districts-review-panels.md) — related
+- Nevada's refined process represents small and rural districts on statewide review panels by leveraging RPDP regional coordinators as their representatives — related
 - [The VCP rubric was difficult for teams to use because it lacked standardized calibration and its process and content categories were unclear](vcp-rubric-lacked-calibration-and-clarity.md) — related

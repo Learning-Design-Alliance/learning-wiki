@@ -44,7 +44,7 @@ Student-level randomized studies in high schools in three states (n = 2,126) fou
 
 ## Related Claims
 - [BARR produces a small statistically significant positive effect on NWEA MAP math outcomes in a multi-site student-level randomized trial](barr-multisite-rct-map-math-es-008.md) — related
-- [BARR improves reading achievement across grades 7–12 with an average effect size of +0.08 across three randomized studies](barr-reading-achievement-average-effect-008.md) — a broader claim this one bears on
-- [Across three randomized studies in grades 7–12, BARR shows positive effects on math achievement, qualifying it for a Strong rating with an average effect size of +0.09](barr-strong-rating-average-es-009.md) — related
-- [In a large suburban southern California high school, BARR produced a significant positive reading effect (+0.14), larger for struggling readers (+0.21)](barr-suburban-high-school-reading-014-struggling-021.md) — a narrower finding that bears on this claim
+- BARR improves reading achievement across grades 7–12 with an average effect size of +0.08 across three randomized studies — a broader claim this one bears on
+- Across three randomized studies in grades 7–12, BARR shows positive effects on math achievement, qualifying it for a Strong rating with an average effect size of +0.09 — related
+- In a large suburban southern California high school, BARR produced a significant positive reading effect (+0.14), larger for struggling readers (+0.21) — a narrower finding that bears on this claim
 - [BARR produces a larger statistically significant effect on NWEA MAP math scores in a single-school student-level randomized study, stronger for struggling students](barr-suburban-rct-map-math-es-033.md) — related

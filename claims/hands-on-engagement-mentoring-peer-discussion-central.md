@@ -43,6 +43,6 @@ This is the authors' reflective finding from their own experience as a multidisc
 
 
 ## Related Claims
-- [Apprentices most valued paid, job-embedded in-classroom experience with students as the central component of their preparation](rtap-in-classroom-experience-most-valued.md) — related
-- [Opportunities for peer collaboration largely disappeared when STEM courses went remote, with few instructors sustaining collaborative activities online](covid-stem-collaboration-reduced-remote.md) — related
+- Apprentices most valued paid, job-embedded in-classroom experience with students as the central component of their preparation — related
+- Opportunities for peer collaboration largely disappeared when STEM courses went remote, with few instructors sustaining collaborative activities online — related
 - [Reviewers judged the protocol methodologically rigorous and approved it, while requesting clarification on NPT justification, grey-literature search detail, and analysis steps](peer-review-approval-clarification-requests.md) — related

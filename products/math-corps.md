@@ -26,7 +26,7 @@ sources:
 # Math Corps
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 11 claims (11 for) · 3 studies (2 causal, 1 associational), `q2`–`q3` · 1 of 3 report an effect size · 11 claims rest on one study
+> **Evidence** · 7 claims (7 for) · 2 studies (1 causal, 1 associational), `q2` · 0 of 2 report an effect size · 7 claims rest on one study
 
 ## Description
 Math Corps is an intensive summer mathematics camp for middle school students founded and operated by Wayne State University, with replication sites supported through NSF funding.
@@ -45,10 +45,6 @@ Math Corps is an intensive summer mathematics camp for middle school students fo
 - [Few Math Corps participants had encounters with the criminal justice system](../claims/math-corps-few-criminal-justice-encounters.md) [+W]
 - [Math Corps students had much higher graduation rates than Detroit Public Schools students overall](../claims/math-corps-higher-graduation-rates-than-detroit-public-schools.md) [+W]
 - [Participation in the Math Corps summer program had a large and statistically significant impact on college enrollment](../claims/math-corps-large-significant-impact-college-enrollment.md) [+W]
-- [Math Corps students significantly outperform controls on STAR Math and score higher on the state assessment after one year](../claims/math-corps-one-year-two-assessment-effects.md) [+W]
-- [Math Corps effects are larger for students receiving the optimal dosage](../claims/math-corps-optimal-dosage-larger-effect.md) [+W]
-- [Across two randomized studies, Math Corps has a sample-size-weighted mean effect size of +0.16](../claims/math-corps-pooled-mean-effect-016.md) [+W]
-- [Math Corps tutoring significantly improves STAR Math scores after one semester relative to control](../claims/math-corps-star-math-semester-effect.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -176,10 +172,6 @@ Math Corps is a grade 4-8 tutoring program in which full-time AmeriCorps tutors 
 
 ## Claims
 
-- [Math Corps students significantly outperform controls on STAR Math and score higher on the state assessment after one year](../claims/math-corps-one-year-two-assessment-effects.md) [+W]
-- [Math Corps effects are larger for students receiving the optimal dosage](../claims/math-corps-optimal-dosage-larger-effect.md) [+W]
-- [Across two randomized studies, Math Corps has a sample-size-weighted mean effect size of +0.16](../claims/math-corps-pooled-mean-effect-016.md) [+W]
-- [Math Corps tutoring significantly improves STAR Math scores after one semester relative to control](../claims/math-corps-star-math-semester-effect.md) [+W]
 
 ## Related Elements
 

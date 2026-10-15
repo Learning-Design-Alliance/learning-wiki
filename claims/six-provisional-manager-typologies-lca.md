@@ -67,4 +67,4 @@ Bootstrap stability analysis with 100 resamples of the six-class LCA solution, e
 - [Exploratory K-means clustering identifies four heterogeneous student AI-user profiles differing in experience, competence, usefulness, trust, and control, but the solution's optimality and stability are not established](exploratory-four-cluster-student-ai-profiles.md) — related
 - [Latent profile analysis of combined SR and OB factors identifies six distinct teacher profiles spanning overestimation, underestimation, and alignment](six-lpa-profiles-sr-ob-ai-literacy.md) — related
 - [Cluster analysis identifies three stable learner profiles: Engaged and Literate, Uncritical Reliant, and Skeptical Minimal users](three-genai-learner-profiles.md) — related
-- [Learners' generative-AI use profiles are heterogeneous, with extractive delegation more common than potentially collaborative use](heterogeneous-ai-use-profiles-extractive-modal-pattern.md) — related
+- Learners' generative-AI use profiles are heterogeneous, with extractive delegation more common than potentially collaborative use — related

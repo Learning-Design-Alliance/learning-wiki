@@ -48,6 +48,6 @@ The guide's summary, in Recommendation 1's carry-out section, of studies contras
 ## Related Claims
 - [English-language measures of phonological processing, letter knowledge, and word and text reading validly identify which English learners need additional reading support](english-early-reading-measures-valid-screen-english-learners.md) — possibly the same claim (merge candidate)
 - [L2 oral language proficiency predicts reading comprehension more strongly than decoding skills](oral-proficiency-predicts-l2-reading-comprehension.md) — reports the opposite
-- [Listening proficiency transfers to other language skills, including reading and writing, in second language learners](listening-transfer-to-other-language-skills.md) — reports the opposite
+- Listening proficiency transfers to other language skills, including reading and writing, in second language learners — reports the opposite
 - [Cross-linguistic transfer is skill-specific: phonological awareness and print concepts transfer across languages, vocabulary and comprehension do not](cross-linguistic-transfer-skill-specific.md) — related
 - [Adaptive routing and comprehension-based passage leveling structure the MAP Reading Fluency assessment](map-rf-adaptive-routing-and-passage-leveling.md) — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: yizhou-zhou-2026
-    resource: "https://arxiv.org/abs/2605.08040"
-    title: "Yizhou Zhou, Jiayin Li, and Zhi Zhang. (2026). ECNUClaw: A Learner-Profiled Intelligent Study Companion Framework for K-12 Personalized Education. arXiv preprint. https://arxiv.org/abs/2605.08040"
+    resource: "https://doi.org/10.48550/arxiv.2605.08040"
+    title: "Yizhou Zhou, Jiayin Li, and Zhi Zhang. (2026). ECNUClaw: A Learner-Profiled Intelligent Study Companion Framework for K-12 Personalized Education. arXiv preprint. https://arxiv.org/abs/2605.08040 [doi:10.48550/arxiv.2605.08040](https://doi.org/10.48550/arxiv.2605.08040)"
     author: Yizhou Zhou, Jiayin Li, and Zhi Zhang
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Yizhou Zhou 2026
 
-Yizhou Zhou, Jiayin Li, and Zhi Zhang. (2026). ECNUClaw: A Learner-Profiled Intelligent Study Companion Framework for K-12 Personalized Education. arXiv preprint. https://arxiv.org/abs/2605.08040
+Yizhou Zhou, Jiayin Li, and Zhi Zhang. (2026). ECNUClaw: A Learner-Profiled Intelligent Study Companion Framework for K-12 Personalized Education. arXiv preprint. https://arxiv.org/abs/2605.08040 [doi:10.48550/arxiv.2605.08040](https://doi.org/10.48550/arxiv.2605.08040)
 
 `q1 · i?` · `design · r1`
 
@@ -43,9 +43,9 @@ Theoretical design argument from the paper's discussion section (§9.2), not an 
 
 
 ## Related Claims
-- [Three LLMs fine-tuned on teacher-validated feedback reach reported training losses with qualitative teacher validation](aicofe-llm-finetuning-training-results.md) — related
-- [Fine-tuning and running CLST is feasible on a single workstation GPU, with measured training cost of about 6.8 hours and 19 GB peak memory on Algebra05](clst-finetuning-compute-cost.md) — related
-- [Fine-tuning CLST on KTLP-formatted data improved predictive performance across all datasets, with gains growing with training students](fine-tuning-improves-clst-auc.md) — related
+- Three LLMs fine-tuned on teacher-validated feedback reach reported training losses with qualitative teacher validation — related
+- Fine-tuning and running CLST is feasible on a single workstation GPU, with measured training cost of about 6.8 hours and 19 GB peak memory on Algebra05 — related
+- Fine-tuning CLST on KTLP-formatted data improved predictive performance across all datasets, with gains growing with training students — related
 - [A LoRA-adapted open-weight Gemma-3-27B model fine-tuned on 120 essays outperforms a fine-tuned GPT-3.5 baseline on TOEFL essay scoring across all reported metrics](gemma-27b-lora-beats-gpt35-essay-scoring.md) — related
 - [LoRA fine-tuning hyperparameters are not model-agnostic: increasing rank above 64 destroyed LLaMA's feedback generation while Gemma remained robust](lora-rank-sensitivity-architecture-dependent.md) — related
 - [Both fine-tuned models show regression toward the mean in score-wise bias, and error rises monotonically above score 3.0, with high scores hardest to predict](score-wise-bias-regression-to-mean-awe.md) — related

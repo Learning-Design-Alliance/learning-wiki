@@ -47,8 +47,8 @@ A multi-site student-level randomized trial in six high schools in Maine, Califo
 - [In a large multi-site cluster randomized study, BARR improved PSAT/NMSQT math scores in one cohort but the second cohort performed similarly to comparison students](barr-cluster-randomized-psat-math-mixed-cohorts.md) — related
 - [BARR produces a larger statistically significant effect on NWEA MAP math scores in a single-school student-level randomized study, stronger for struggling students](barr-suburban-rct-map-math-es-033.md) — related
 - [Two student-level randomized studies in California, Maine, and Minnesota high schools found significant positive impacts on NWEA MAP reading (average effect size +0.09)](barr-student-level-rcts-nwea-map-reading-009.md) — related
-- [A large multi-site cluster randomized study found a positive PSAT/NMSQT reading effect in one cohort (+0.13) but a smaller effect in a second cohort (+0.03)](barr-multisite-cluster-psat-cohort-variation.md) — related
-- [BARR improves reading achievement across grades 7–12 with an average effect size of +0.08 across three randomized studies](barr-reading-achievement-average-effect-008.md) — related
-- [In a large suburban southern California high school, BARR produced a significant positive reading effect (+0.14), larger for struggling readers (+0.21)](barr-suburban-high-school-reading-014-struggling-021.md) — related
+- A large multi-site cluster randomized study found a positive PSAT/NMSQT reading effect in one cohort (+0.13) but a smaller effect in a second cohort (+0.03) — related
+- BARR improves reading achievement across grades 7–12 with an average effect size of +0.08 across three randomized studies — related
+- In a large suburban southern California high school, BARR produced a significant positive reading effect (+0.14), larger for struggling readers (+0.21) — related
 - [PLC at Work has a statistically significant positive effect on state-administered ACT Aspire math achievement scores (effect size = +0.08) after less than two years of implementation](plc-at-work-significant-math-effect.md) — related
 - [A multi-site randomized controlled trial found Woot Math's adaptivity contributed significant effects in learning and retention](woot-math-rct-adaptivity-significant-effects.md)

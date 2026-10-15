@@ -46,5 +46,5 @@ The authors' framing statement in the presentation description asserts that fit-
 - [Model-data fit evaluation in IRT is claimed to be crucial for both linear and adaptive tests because item response model goodness-of-fit is relevant to any test purpose](irt-model-fit-crucial-any-test-purpose.md) — related
 - [MCAR item and response missingness in linear tests shows no differential effect on model fit across Designs 1 to 4](mcar-missingness-linear-tests-no-fit-effect.md) — related
 - [Adaptive testing explains why about one third of calibrated Spanish math items carry calibration status 10](adaptive-calibration-yields-status-10-third-of-items.md) — related
-- [Ability-distribution mismatch with the TESTFACT default does not significantly affect item difficulty estimates but slightly improves discrimination estimates](ability-distribution-mismatch-mirt-estimates.md) — related
-- [In a statewide VLE algebra dataset, item missingness is nonignorable: skipping is related to student ability and item difficulty as measured in 2PL-IRT](vle-item-skipping-nonignorable-missingness.md) — related
+- Ability-distribution mismatch with the TESTFACT default does not significantly affect item difficulty estimates but slightly improves discrimination estimates — related
+- In a statewide VLE algebra dataset, item missingness is nonignorable: skipping is related to student ability and item difficulty as measured in 2PL-IRT — related

@@ -16,7 +16,7 @@ sources:
 # Two-segment customer taxonomy for the adult learning ed-tech market: learning providers as primary segment, independent learners as secondary segment
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (1 review, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The guide organizes the adult learning market around two customer segments. The primary segment is learning providers — institutions and organizations serving low-skilled learners, including community colleges, K-12 districts, community-based organizations, workforce development centers, libraries, and correctional institutions. The secondary segment is independent learners, a direct-to-learner market the guide calls "yet unproven" but showing indicators of potential. The taxonomy structures the guide's analysis of customer objectives, pain points, and value propositions, with a table listing each segment's objectives (e.g., increase retention and completion rates) and pain points (e.g., limited funding, time and access constraints).
@@ -42,8 +42,6 @@ The guide organizes the adult learning market around two customer segments. The 
 ### Claims
 
 - 36 Million Low Skilled Adults 11 Percent Served [+M]
-- [US federal adult education funding structures (AEFLA and Title I) are fragmented and lack purchasing leverage, making scale difficult for ed-tech entrepreneurs](../claims/adult-ed-delivery-structures-fractured.md) [+W]
-- [Per-learner technology spending is far lower in adult education (about $50) than in K-12 (about $145), signaling stagnant innovation in the adult market](../claims/adult-ed-tech-spending-50-versus-145-k12.md) [+W]
 
 ## Related Theories
 

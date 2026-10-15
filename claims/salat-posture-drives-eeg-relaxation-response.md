@@ -45,5 +45,5 @@ Narrative review synthesis of Salat EEG studies; the review reports, citing Douf
 ## Related Claims
 - [Improvised personal prayer engages the Theory of Mind network, while formalized prayer engages dorsolateral PFC and cerebellum](improvised-prayer-theory-of-mind-network.md) — related
 - [Religious prayer reduced pain intensity by 11% and unpleasantness by 26% relative to secular prayer through non-opioid mechanisms](religious-prayer-pain-reduction-versus-secular.md) — related
-- [Congenitally blind subjects show visual dream content with a negative correlation between Visual Activity Index and EEG alpha power](congenitally-blind-visual-dream-content-alpha-correlation.md) — related
-- [EEG alpha power attenuation is an indicator of visual imagery and is more affected by visual than abstract mentation](alpha-attenuation-visual-imagery-indicator.md) — related
+- Congenitally blind subjects show visual dream content with a negative correlation between Visual Activity Index and EEG alpha power — related
+- EEG alpha power attenuation is an indicator of visual imagery and is more affected by visual than abstract mentation — related

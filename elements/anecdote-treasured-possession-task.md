@@ -17,7 +17,7 @@ sources:
 # Anecdote task (my treasured possession): mingling retelling of a personal story across partner changes
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 2 studies (1 qualitative, 1 design), `q1`–`q2` · 0 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 A low-preparation speaking task in which learners tell the story of a treasured possession to a classmate they normally do not work with, each speaking for 2 minutes, then change pairs and retell. Students get 1 minute of planning time beforehand, since "planning for challenging tasks is an important step that improves students' performance" (Ellis 2005, as quoted); notes may be taken but not used while speaking.
@@ -44,7 +44,6 @@ A low-preparation speaking task in which learners tell the story of a treasured 
 - [Across repetition cycles, attention can shift from message meaning to linguistic form, enabling recycled language and self-correction](../claims/attention-shift-meaning-to-form-over-cycles.md) [+W]
 - [Lynch and Maclean's carousel task showed immediate repetition benefits in pronunciation, vocabulary and grammar](../claims/carousel-task-immediate-repetition-benefits.md) [+W]
 - [Immediate task repetition benefits oral performance, including fluency, self-correction and reduced anxiety](../claims/immediate-repetition-benefits-oral-performance.md) [+W]
-- [Treating students' personal histories as sources of knowledge makes them part of the classroom curriculum](../claims/personal-histories-as-curriculum-sources-of-knowledge.md) [+W]
 
 ## Related Elements
 

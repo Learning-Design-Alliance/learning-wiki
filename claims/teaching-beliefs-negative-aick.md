@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: meijuan-xie-2025
-    resource: "https://arxiv.org/abs/2503.13533"
-    title: "Meijuan Xie, Liling Luo. (2025). The Status Quo and Future of AI-TPACK for Mathematics Teacher Education Students: A Case Study in Chinese Universities. arXiv. https://arxiv.org/abs/2503.13533"
+    resource: "https://doi.org/10.48550/arxiv.2503.13533"
+    title: "Meijuan Xie, Liling Luo. (2025). The Status Quo and Future of AI-TPACK for Mathematics Teacher Education Students: A Case Study in Chinese Universities. arXiv. https://arxiv.org/abs/2503.13533 [doi:10.48550/arxiv.2503.13533](https://doi.org/10.48550/arxiv.2503.13533)"
     author: Meijuan Xie, Liling Luo
     q: 2
     i: 1
@@ -31,7 +31,7 @@ sources:
 
 ### Meijuan Xie 2025
 
-Meijuan Xie, Liling Luo. (2025). The Status Quo and Future of AI-TPACK for Mathematics Teacher Education Students: A Case Study in Chinese Universities. arXiv. https://arxiv.org/abs/2503.13533
+Meijuan Xie, Liling Luo. (2025). The Status Quo and Future of AI-TPACK for Mathematics Teacher Education Students: A Case Study in Chinese Universities. arXiv. https://arxiv.org/abs/2503.13533 [doi:10.48550/arxiv.2503.13533](https://doi.org/10.48550/arxiv.2503.13533)
 
 `q2 · i1` · `associational · r?`
 

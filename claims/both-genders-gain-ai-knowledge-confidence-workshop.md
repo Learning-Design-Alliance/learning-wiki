@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: jake-renzella-2026
-    resource: "https://arxiv.org/abs/2606.14718"
-    title: "Jake Renzella, Christian Bergh, Natasha Banks, and Alexandra Vassar. (2026). Gender Differences in AI Literacy Workshop Outcomes and Deepfake Engagement. https://arxiv.org/abs/2606.14718"
+    resource: "https://doi.org/10.48550/arxiv.2606.14718"
+    title: "Jake Renzella, Christian Bergh, Natasha Banks, and Alexandra Vassar. (2026). Gender Differences in AI Literacy Workshop Outcomes and Deepfake Engagement. https://arxiv.org/abs/2606.14718 [doi:10.48550/arxiv.2606.14718](https://doi.org/10.48550/arxiv.2606.14718)"
     author: Jake Renzella, Christian Bergh, Natasha Banks, and Alexandra Vassar
     q: 3
     i: 2
@@ -31,7 +31,7 @@ sources:
 
 ### Jake Renzella 2026
 
-Jake Renzella, Christian Bergh, Natasha Banks, and Alexandra Vassar. (2026). Gender Differences in AI Literacy Workshop Outcomes and Deepfake Engagement. https://arxiv.org/abs/2606.14718
+Jake Renzella, Christian Bergh, Natasha Banks, and Alexandra Vassar. (2026). Gender Differences in AI Literacy Workshop Outcomes and Deepfake Engagement. https://arxiv.org/abs/2606.14718 [doi:10.48550/arxiv.2606.14718](https://doi.org/10.48550/arxiv.2606.14718)
 
 `q3 · i2` · `causal · r1`
 

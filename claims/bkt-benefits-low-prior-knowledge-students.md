@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: tithi-2026
-    resource: "https://arxiv.org/abs/2602.07308"
-    title: "Tithi, S.D., Alam, N., Yasir, T., Shi, Y., Tian, X., Chi, M., Barnes, T. (2026). Adaptive Scaffolding for Cognitive Engagement in an Intelligent Tutoring System. arXiv. https://arxiv.org/abs/2602.07308"
+    resource: "https://doi.org/10.48550/arxiv.2602.07308"
+    title: "Tithi, S.D., Alam, N., Yasir, T., Shi, Y., Tian, X., Chi, M., Barnes, T. (2026). Adaptive Scaffolding for Cognitive Engagement in an Intelligent Tutoring System. arXiv. https://arxiv.org/abs/2602.07308 [doi:10.48550/arxiv.2602.07308](https://doi.org/10.48550/arxiv.2602.07308)"
     author: Tithi, S.D., Alam, N., Yasir, T., Shi, Y., Tian, X., Chi, M., Barnes, T.
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Tithi 2026
 
-Tithi, S.D., Alam, N., Yasir, T., Shi, Y., Tian, X., Chi, M., Barnes, T. (2026). Adaptive Scaffolding for Cognitive Engagement in an Intelligent Tutoring System. arXiv. https://arxiv.org/abs/2602.07308
+Tithi, S.D., Alam, N., Yasir, T., Shi, Y., Tian, X., Chi, M., Barnes, T. (2026). Adaptive Scaffolding for Cognitive Engagement in an Intelligent Tutoring System. arXiv. https://arxiv.org/abs/2602.07308 [doi:10.48550/arxiv.2602.07308](https://doi.org/10.48550/arxiv.2602.07308)
 
 `q3 · i?` · `causal · r2`
 

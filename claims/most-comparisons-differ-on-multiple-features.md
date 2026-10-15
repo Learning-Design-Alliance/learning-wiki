@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Only 11.9% of the 59 studies had exactly one feature differing between compared conditions, so 79.7% of studies included comparison groups differing on more than one of the 14 course features. [→ Martella 2021](#martella-2021)
@@ -42,11 +43,11 @@ Feature-difference analysis across the 59 studies, examining the 14 course featu
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Is the gain due to the activities or to what else changed with the course format?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **1 distinct studies** (1 review), `q2`, 0 of 1 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Is the gain due to the activities or to what else changed with the course format?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **1 distinct studies** (1 review), `q2`, 0 of 1 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| Martella 2021 | q2 · review · r2 | i? | this claim; [Active learning conditions more often include quizzes, homework, and learning/exam prepara](active-learning-conditions-more-other-pedagogical-features.md) (supports); [Time-on-task is frequently unequal across compared conditions, with active learning condit](time-on-task-unequal-in-active-learning-comparisons.md) (supports); [Group tasks are the most frequent active learning activity in college science active learn](group-tasks-most-frequent-active-learning-activity.md) (qualifies) |
+| Martella 2021 | q2 · review · r2 | i? | this claim; [Active learning conditions more often include quizzes, homework, and learning/exam prepara](active-learning-conditions-more-other-pedagogical-features.md) (supports); [Time-on-task is frequently unequal across compared conditions, with active learning condit](time-on-task-unequal-in-active-learning-comparisons.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion

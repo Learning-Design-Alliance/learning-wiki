@@ -44,5 +44,5 @@ The brief's introduction states that while services now let K-12 agencies examin
 
 ## Related Claims
 - [Many school districts are interested in implementing blended learning but lack evidence on its effects and on best-practice implementation](districts-lack-blended-learning-evidence-and-implementation-guidance.md) — related
-- [Districts and universities increasingly attach concrete incentives to earning Digital Promise micro-credentials](recognizer-incentives-for-micro-credentials.md) — related
+- Districts and universities increasingly attach concrete incentives to earning Digital Promise micro-credentials — related
 - [NELS indicators of math skills, work habits, leadership, teamwork and sports-related skills, and locus of control are related to postsecondary earnings and to the likelihood of attending and completing postsecondary education](nels-competencies-predict-postsecondary-attainment-earnings.md) — related

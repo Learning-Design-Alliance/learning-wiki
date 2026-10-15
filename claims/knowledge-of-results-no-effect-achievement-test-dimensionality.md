@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Comparing students who received immediate knowledge of results with students who received none showed essentially no systematic differences in achievement level estimates or in the dimensionality of responses, so local independence assumptions were not violated. [→ Weiss 1980](#weiss-1980)
@@ -46,8 +47,8 @@ Two studies (Research Report 80-1) comparing two groups of students on computer-
 - [Feedback Enhances Retrieval Practice](feedback-enhances-retrieval-practice.md) — the general claim this finding bears on, with the studies behind it
 
 - [A review reports that pretesting helps paired-associate learning only when correct-answer feedback is immediate, but helps trivia-fact learning even when feedback is delayed up to 24 hours](feedback-timing-moderates-pretesting.md) — the general claim this finding bears on, with the studies behind it
-- [Achievement dimensionality appears to change from pretest to end-of-course testing, questioning unidimensional ICC measurement of individual growth during instruction](achievement-dimensionality-changes-during-instruction.md) — related
-- [One- and two-parameter ICC scoring yields highly similar achievement estimates, while the three-parameter model reduces similarity, especially for adaptive test data](icc-scoring-methods-estimate-similarity.md) — related
-- [The same achievement variable is measurable up to one month after instruction, supporting ICC-based retention measurement](icc-retention-measurement-supported-one-month.md) — related
+- Achievement dimensionality appears to change from pretest to end-of-course testing, questioning unidimensional ICC measurement of individual growth during instruction — related
+- One- and two-parameter ICC scoring yields highly similar achievement estimates, while the three-parameter model reduces similarity, especially for adaptive test data — related
+- The same achievement variable is measurable up to one month after instruction, supporting ICC-based retention measurement — related
 - [Cognitive process inference in computerized testing rarely rests on strong process data](weak-process-data-in-computerized-testing.md) — related
 - [Immediate, informative test results enable teachers to differentiate instruction to individual needs](immediate-adaptive-test-results-enable-differentiation.md) — related

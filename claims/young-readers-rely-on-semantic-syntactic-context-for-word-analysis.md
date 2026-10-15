@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Schwantes' study of third grade, sixth grade, and college age students found young readers rely heavily on semantic and syntactic information for word level analysis, while adults tend to use these clues at the level of meaning integration. [→ Fenton 1998](#fenton-1998)
@@ -43,9 +44,9 @@ The review reports Schwantes' (1991) study using "third grade, sixth grade, and 
 
 
 ## Related Claims
-- [Combined semantic and syntactic contextual information expedites word recognition compared with syntactic information alone](combined-semantic-syntactic-context-expedites-word-recognition.md) — related
-- [Children use content words before function words, and semantics in general appears to precede syntax](content-words-before-function-words-semantics-precedes-syntax.md) — related
+- Combined semantic and syntactic contextual information expedites word recognition compared with syntactic information alone — related
+- Children use content words before function words, and semantics in general appears to precede syntax — related
 - [Poorly fluent readers use context clues more heavily than fluent readers, as a compensatory device](struggling-readers-use-context-clues-compensatorily.md) — related
-- [Semantic integration findings are constrained: integration occurs even with nonsense syllables, limiting schema-based interpretation](semantic-integration-findings-constrained.md) — related
+- Semantic integration findings are constrained: integration occurs even with nonsense syllables, limiting schema-based interpretation — related
 - [Syntactic rather than semantic processing of input is essential for correcting incomprehensible output](syntactic-processing-corrects-incomprehensible-output.md) — related
 - [Learner age/level moderates the benefit of negotiation of meaning: high school learners relied on it more than college learners](age-moderates-negotiation-benefit.md) — a narrower finding that bears on this claim

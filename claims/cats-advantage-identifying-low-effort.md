@@ -47,7 +47,7 @@ The abstract reports that the integrative review "demonstrates that they can hav
 - [Detecting noneffortful responses requires setting response time thresholds that separate effortful from noneffortful responses](rt-thresholds-separate-noneffortful-responses.md) — related
 - [Response-time threshold-setting methods for detecting noneffortful item responses were compared using reading scores from over 728,923 US students in 2,056 schools](threshold-methods-compared-large-scale-reading-data.md) — related
 - [Low examinee effort is a major threat to valid uses of many test scores](low-examinee-effort-threat-to-score-validity.md) — related
-- [In simulation, effort-moderated scoring (EM-CAT and EG-CAT) yields negligible bias and nominal 95% confidence interval coverage, unlike MLE-CAT scoring](effort-moderated-cat-negligible-bias-simulation.md) — related
-- [An effort-guided CAT that holds the provisional achievement estimate constant after rapid guesses reduces standard errors and ameliorates severe item mis-targeting](effort-guided-cat-reduces-mis-targeting.md) — related
+- In simulation, effort-moderated scoring (EM-CAT and EG-CAT) yields negligible bias and nominal 95% confidence interval coverage, unlike MLE-CAT scoring — related
+- An effort-guided CAT that holds the provisional achievement estimate constant after rapid guesses reduces standard errors and ameliorates severe item mis-targeting — related
 - [Unmotivated examinees present a major threat to the validity of scores in low-stakes testing programs](unmotivated-examinees-threaten-low-stakes-score-validity.md) — related
 - [CAT has the potential to be more valid and reliable than non-adaptive tests](cat-potential-more-valid-reliable-than-non-adaptive.md) — a broader claim this one bears on

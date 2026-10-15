@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: zhiqi-gao-2026
-    resource: "https://arxiv.org/abs/2606.17512"
-    title: "Zhiqi Gao, Huarui Luo, Guo Zhu, Bingquan Zhang, Dongyijie Primo Pan, Yizhan Feng, Jiahuan Pei, Jie Li, Benyou Wang. (2026). MedEasy: Designing AI Standardized Patients for Clinical Consultation Training. arXiv. https://arxiv.org/abs/2606.17512"
+    resource: "https://doi.org/10.48550/arxiv.2606.17512"
+    title: "Zhiqi Gao, Huarui Luo, Guo Zhu, Bingquan Zhang, Dongyijie Primo Pan, Yizhan Feng, Jiahuan Pei, Jie Li, Benyou Wang. (2026). MedEasy: Designing AI Standardized Patients for Clinical Consultation Training. arXiv. https://arxiv.org/abs/2606.17512 [doi:10.48550/arxiv.2606.17512](https://doi.org/10.48550/arxiv.2606.17512)"
     author: Zhiqi Gao, Huarui Luo, Guo Zhu, Bingquan Zhang, Dongyijie Primo Pan, Yizhan Feng, Jiahuan Pei, Jie Li, Benyou Wang
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Zhiqi Gao 2026
 
-Zhiqi Gao, Huarui Luo, Guo Zhu, Bingquan Zhang, Dongyijie Primo Pan, Yizhan Feng, Jiahuan Pei, Jie Li, Benyou Wang. (2026). MedEasy: Designing AI Standardized Patients for Clinical Consultation Training. arXiv. https://arxiv.org/abs/2606.17512
+Zhiqi Gao, Huarui Luo, Guo Zhu, Bingquan Zhang, Dongyijie Primo Pan, Yizhan Feng, Jiahuan Pei, Jie Li, Benyou Wang. (2026). MedEasy: Designing AI Standardized Patients for Clinical Consultation Training. arXiv. https://arxiv.org/abs/2606.17512 [doi:10.48550/arxiv.2606.17512](https://doi.org/10.48550/arxiv.2606.17512)
 
 `q2 · i?` · `qualitative · r3`
 

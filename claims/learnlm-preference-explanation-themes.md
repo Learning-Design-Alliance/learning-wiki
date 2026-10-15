@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: learnlm-team-2024
-    resource: "https://arxiv.org/abs/2412.16429"
-    title: "LearnLM Team, Google. (2024). LearnLM: Improving Gemini for Learning. arXiv. https://arxiv.org/abs/2412.16429"
+    resource: "https://doi.org/10.48550/arxiv.2412.16429"
+    title: "LearnLM Team, Google. (2024). LearnLM: Improving Gemini for Learning. arXiv. https://arxiv.org/abs/2412.16429 [doi:10.48550/arxiv.2412.16429](https://doi.org/10.48550/arxiv.2412.16429)"
     author: LearnLM Team, Google
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### LearnLM Team 2024
 
-LearnLM Team, Google. (2024). LearnLM: Improving Gemini for Learning. arXiv. https://arxiv.org/abs/2412.16429
+LearnLM Team, Google. (2024). LearnLM: Improving Gemini for Learning. arXiv. https://arxiv.org/abs/2412.16429 [doi:10.48550/arxiv.2412.16429](https://doi.org/10.48550/arxiv.2412.16429)
 
 `q2 · i?` · `qualitative · r2`
 
@@ -45,7 +45,7 @@ Qualitative thematic analysis of a random subsample of 203 of the 1024 collected
 ## Related Claims
 - [Pedagogy experts prefer LearnLM over contemporaneous flagship models across comparative assessment categories](learnlm-expert-preference-over-flagships.md) — related
 - [Role-playing participants prefer LearnLM over GPT-4o but express no substantial preference versus Gemini 1.5 Pro or Claude 3.5 Sonnet](learnlm-roleplayer-preferences-gpt4o-only.md) — related
-- [A hybrid human-AI workflow using GPT-4o with retrieval-augmented generation supported efficient inductive thematic analysis while preserving researcher judgment](hybrid-gpt4o-human-inductive-thematic-analysis-workflow.md) — related
+- A hybrid human-AI workflow using GPT-4o with retrieval-augmented generation supported efficient inductive thematic analysis while preserving researcher judgment — related
 - [Single-turn tutors disclose answers pervasively while challenge scores are near zero across every model and subject](single-turn-answer-disclosure-challenge-near-zero.md) — related
 - [Role-playing learners report weaker experiences with GPT-4o than with LearnLM, Gemini 1.5 Pro, and Claude 3.5 Sonnet](learnlm-roleplayer-weaker-gpt4o-experience.md) — related
 - [Prompting alone could not keep the gpt-3.5-turbo model on-topic, while the text-davinci-002 engine stayed on-topic in the deployed chatbot](gpt35-turbo-off-topic-prompting-insufficient.md) — related

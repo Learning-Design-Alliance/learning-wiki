@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` No condition showed a significant increase in the far-transfer problem category. [→ Miwa et al. 2017](#miwa-et-al-2017)
@@ -46,4 +47,4 @@ A null result across all three conditions of the Reversi experiment: "In the far
 
 - [Learning techniques have much smaller effects on deep learning and far transfer than on surface learning and near transfer](learning-techniques-smaller-effects-on-deep-learning-and-far-transfer.md) — the general claim this finding bears on, with the studies behind it
 - [Under high extraneous load (hint presentation and L and rL condition), no test-score increases were observed on identical or near-transfer problems](extraneous-load-eliminates-germane-load-learning-gains.md) — related
-- [There are two types of germane load: one that increases with an increase in intrinsic load and one that increases as intrinsic load decreases](two-types-of-germane-load-related-to-intrinsic-load.md) — related
+- There are two types of germane load: one that increases with an increase in intrinsic load and one that increases as intrinsic load decreases — related

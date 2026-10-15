@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: eugenio-tufino-2026
-    resource: "https://arxiv.org/abs/2607.21349"
-    title: "Eugenio Tufino, Paola Damiani. (2026). Embodied inquiry with AI as facilitator: an exploratory case study. https://arxiv.org/abs/2607.21349"
+    resource: "https://doi.org/10.48550/arxiv.2607.21349"
+    title: "Eugenio Tufino, Paola Damiani. (2026). Embodied inquiry with AI as facilitator: an exploratory case study. https://arxiv.org/abs/2607.21349 [doi:10.48550/arxiv.2607.21349](https://doi.org/10.48550/arxiv.2607.21349)"
     author: Eugenio Tufino, Paola Damiani
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Eugenio Tufino 2026
 
-Eugenio Tufino, Paola Damiani. (2026). Embodied inquiry with AI as facilitator: an exploratory case study. https://arxiv.org/abs/2607.21349
+Eugenio Tufino, Paola Damiani. (2026). Embodied inquiry with AI as facilitator: an exploratory case study. https://arxiv.org/abs/2607.21349 [doi:10.48550/arxiv.2607.21349](https://doi.org/10.48550/arxiv.2607.21349)
 
 `q1 · i?` · `qualitative · r2`
 

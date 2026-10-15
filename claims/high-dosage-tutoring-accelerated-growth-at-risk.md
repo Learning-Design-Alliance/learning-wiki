@@ -47,15 +47,15 @@ The brief's own synthesis statement, reviewing the collection of research on hig
 
 ## Related Claims
 - [The share of academically at-risk students increased after the pandemic, requiring a response of matching magnitude](post-pandemic-increase-at-risk-students.md) — related
-- [The tutoring component of FF scaled up successfully to 14 schools, with 89.7% of participants receiving the intended tutoring dosage](future-forward-tutoring-scaled-up.md) — related
+- The tutoring component of FF scaled up successfully to 14 schools, with 89.7% of participants receiving the intended tutoring dosage — related
 - [High-dosage tutoring, frequent teacher feedback and coaching, and data-driven instructional practices show moderately strong evidence of association with charter-school achievement impacts](tutoring-coaching-data-use-charter-impacts.md) — a broader claim this one bears on
 - [High-dosage tutoring is positively associated with charter school achievement impacts](high-dosage-tutoring-associated-charter-success.md) — a broader claim this one bears on
 - [Assignment to BookNook tutoring produces a small but statistically significant increase in reading growth on the NWEA MAP for grade 1-4 students](booknook-small-positive-map-reading-growth.md) — a narrower finding that bears on this claim
-- [Students receiving the recommended BookNook dosage of 20 or more sessions show markedly stronger reading gains (ES = +0.26) than the overall assigned sample](booknook-dosage-20-sessions-stronger-effect.md) — a narrower finding that bears on this claim
-- [Virtual 1:1 and 2:1 high-dosage tutoring improved K-2 students' early literacy performance on DIBELS relative to business-as-usual control](onyourmark-virtual-tutoring-improves-dibels.md) — a narrower finding that bears on this claim
-- [Education Corps high-dosage literacy tutoring raises end-of-year DIBELS Composite scores more than business-as-usual supports for below-benchmark K-3 students](education-corps-tutoring-improves-dibels-composite.md) — a narrower finding that bears on this claim
+- Students receiving the recommended BookNook dosage of 20 or more sessions show markedly stronger reading gains (ES = +0.26) than the overall assigned sample — a narrower finding that bears on this claim
+- Virtual 1:1 and 2:1 high-dosage tutoring improved K-2 students' early literacy performance on DIBELS relative to business-as-usual control — a narrower finding that bears on this claim
+- Education Corps high-dosage literacy tutoring raises end-of-year DIBELS Composite scores more than business-as-usual supports for below-benchmark K-3 students — a narrower finding that bears on this claim
 - [Among students who started the year most at risk for reading difficulties, none of the three implementation features (timing, frequency, tutor qualifications) was associated with end-of-year literacy progress](ontrack-no-implementation-feature-progress-association.md) — a narrower finding that bears on this claim
 - [The STIR partnership anticipates that schools will report more students at or above early literacy benchmarks relative to prior years](stir-anticipated-benchmark-gains.md) — a narrower finding that bears on this claim
 - [Bundling multiple interventions is associated with relatively strong effects on developmental students' outcomes](bundling-interventions-stronger-effects.md) — related
-- [High-dosage tutoring directly tied to classroom content can substantially accelerate learning in math and reading for the most struggling students](high-dosage-tutoring-tied-to-classroom-content-accelerates-learning.md) — a narrower finding that bears on this claim
+- High-dosage tutoring directly tied to classroom content can substantially accelerate learning in math and reading for the most struggling students — a narrower finding that bears on this claim
 - [High-quality tutoring produces large learning gains cost-effectively, in person and virtually](tutoring-large-cost-effective-gains.md) — a broader claim this one bears on

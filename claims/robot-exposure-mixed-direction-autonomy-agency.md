@@ -10,8 +10,8 @@ generated:
 evidence_strength: mixed
 sources:
   - id: glawe-2025
-    resource: "https://arxiv.org/abs/2509.22271"
-    title: "Glawe, F., Schmeckel, T., Brauner, P., & Ziefle, M. (2025). Human Autonomy and Sense of Agency in Human-Robot Interaction: A Systematic Literature Review. arXiv. https://arxiv.org/abs/2509.22271"
+    resource: "https://doi.org/10.48550/arxiv.2509.22271"
+    title: "Glawe, F., Schmeckel, T., Brauner, P., & Ziefle, M. (2025). Human Autonomy and Sense of Agency in Human-Robot Interaction: A Systematic Literature Review. arXiv. https://arxiv.org/abs/2509.22271 [doi:10.48550/arxiv.2509.22271](https://doi.org/10.48550/arxiv.2509.22271)"
     author: "Glawe, F., Schmeckel, T., Brauner, P., & Ziefle, M."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Robot exposure affects human autonomy and sense of agency, but no general conclusion about the direction of the effect can be drawn
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`
+> **Evidence** · 2 studies · 2 review `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` Exposure to robots can alter perceptions of autonomy and sense of agency, but the direction of the effect depends on how the robot is deployed and used. [→ Glawe 2025](#glawe-2025)
@@ -40,7 +40,7 @@ sources:
 
 ### Glawe 2025
 
-Glawe, F., Schmeckel, T., Brauner, P., & Ziefle, M. (2025). Human Autonomy and Sense of Agency in Human-Robot Interaction: A Systematic Literature Review. arXiv. https://arxiv.org/abs/2509.22271
+Glawe, F., Schmeckel, T., Brauner, P., & Ziefle, M. (2025). Human Autonomy and Sense of Agency in Human-Robot Interaction: A Systematic Literature Review. arXiv. https://arxiv.org/abs/2509.22271 [doi:10.48550/arxiv.2509.22271](https://doi.org/10.48550/arxiv.2509.22271)
 
 `q2 · i?` · `review · r3`
 

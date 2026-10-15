@@ -45,7 +45,7 @@ Qualitative analysis of workshop metaphors. Beneath the dread was fear of GenAI 
 ## Related Claims
 - [Role metaphors positioned GenAI as helper, learning partner, and friend/foe, with a high proportion combining friend and foe](role-metaphors-genai-frenemy-ambivalence.md) — related
 - [Current AIED rests on five faulty assumptions that risk learner dependence, isolation, and reduced flourishing](five-faulty-assumptions-aied-dependence.md) — related
-- [Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs](teacher-big-picture-genai-concerns.md) — related
+- Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs — related
 - [Fear that AI will replace jobs creates significant barriers to workforce engagement in AI literacy training](job-replacement-fear-barriers-ai-training.md) — related
 - [Functions metaphors framing GenAI as an efficient tool for routine and creative tasks were the most agreed-upon in the workshops](functions-metaphors-most-agreed-genai-tools.md) — related
 - [Collaborative metaphor workshops helped higher education staff and students make sense of GenAI and raised their awareness of its ethical dimensions](metaphor-workshops-support-genai-sensemaking.md) — a broader claim this one bears on

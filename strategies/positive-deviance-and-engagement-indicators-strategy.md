@@ -17,7 +17,7 @@ sources:
 # Use positive-deviance school identification and engagement process indicators to target supports and future research on growth variation
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article outlines a research-and-practice strategy of identifying positive-deviant schools to learn from their instructional and leadership practices, and of building process indicators of student engagement with online learning systems (e.g., how consistently students access the system, how soon they engage with assigned lessons) to alert educators to students needing targeted interventions. It notes student-level data can be aggregated to school level when within-school variation is absent.
@@ -39,8 +39,6 @@ The article outlines a research-and-practice strategy of identifying positive-de
 
 ## Claims
 
-- [About 14% of Grade 1 schools and 13% of Grade 2 schools were positive deviants whose growth exceeded the average growth confidence bounds](../claims/positive-deviant-schools-math-growth.md) [+W]
-- [Substantial variation in mathematics growth was attributable to schools, with 29% and 27% of linear growth-rate variance at the school level in Grades 1 and 2](../claims/school-level-variation-math-growth-grade1-2.md) [+W]
 
 ## Related Strategies
 

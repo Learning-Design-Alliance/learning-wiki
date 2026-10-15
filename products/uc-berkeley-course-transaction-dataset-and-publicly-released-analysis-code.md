@@ -18,7 +18,7 @@ sources:
 # UC Berkeley course transaction dataset and publicly released analysis code
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 6 claims (6 for) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 A UC Berkeley dataset of over 11 million timestamped student course-enrollment transactions from Fall 2016 through Spring 2022, released with public analysis code by Borchers et al.
@@ -28,12 +28,6 @@ A UC Berkeley dataset of over 11 million timestamped student course-enrollment t
 - **Multi-attempt student code submission dataset from a Berkeley introductory programming course with AI tutor feedback**: A dataset of student code submission streams from an introductory programming course at UC Berkeley (~900 students per semester), spanning Spring 2024 and Spring 2025 and covering the first five Python homework assignments. Each attempt records the student's code, autograder results, and natural-language feedback from an LLM-based tutor for consenting students. The article reports partitioning "using Spring 2025 for training (445 students, 2,022 submission streams, 6,911 total submissions) and Spring 2024 for testing (479 students, 1,546 submission streams, 6,316 total submissions)," with test_OP (5,262 submissions) and test_NP (1,054 submissions) generalization subsets. The data received IRB approval and identifiers were anonymized. (Rose Niousha et al. (2026))
 
 ### Claims
-- [Course add and drop activity concentrates early in enrollment phases, with drops outnumbering adds from mid-to-late Phase 2 onward and basket size never substantially decreasing](../claims/course-transaction-trends-across-semester.md) [+W]
-- [Drop delay and enrollment delay correlate strongly (r = 0.52), while semester workload correlates weakly and negatively with enrollment delay and activity regularity](../claims/delay-regularity-workload-correlations.md) [+W]
-- [Cross-lagged panel models support a causal hypothesis that delayed enrollment leads to subsequent late drops, with no reverse reinforcement](../claims/delayed-enrollment-causally-leads-to-late-drops.md) [+W]
-- [Later enrollment is associated with more late dropped course units, while later dropping and more regular planning activity are associated with fewer late dropped units](../claims/enrollment-delay-increases-late-drops-regularity-decreases.md) [+W]
-- [High-enrollment-delay students and late droppers enroll in more courses and carry higher predicted semester workload, out of their own volition rather than being forced into leftover high-workload courses](../claims/late-enrollment-voluntary-higher-workload.md) [+W]
-- [Students preferentially late-drop courses with higher predicted workload than retained courses, regardless of enrollment delay group](../claims/preferential-late-drop-high-workload-courses.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -67,12 +61,6 @@ The study analyzes timestamped student course transactions (waitlists, adds, swa
 
 ## Claims
 
-- [Course add and drop activity concentrates early in enrollment phases, with drops outnumbering adds from mid-to-late Phase 2 onward and basket size never substantially decreasing](../claims/course-transaction-trends-across-semester.md) [+W]
-- [Drop delay and enrollment delay correlate strongly (r = 0.52), while semester workload correlates weakly and negatively with enrollment delay and activity regularity](../claims/delay-regularity-workload-correlations.md) [+W]
-- [Cross-lagged panel models support a causal hypothesis that delayed enrollment leads to subsequent late drops, with no reverse reinforcement](../claims/delayed-enrollment-causally-leads-to-late-drops.md) [+W]
-- [Later enrollment is associated with more late dropped course units, while later dropping and more regular planning activity are associated with fewer late dropped units](../claims/enrollment-delay-increases-late-drops-regularity-decreases.md) [+W]
-- [High-enrollment-delay students and late droppers enroll in more courses and carry higher predicted semester workload, out of their own volition rather than being forced into leftover high-workload courses](../claims/late-enrollment-voluntary-higher-workload.md) [+W]
-- [Students preferentially late-drop courses with higher predicted workload than retained courses, regardless of enrollment delay group](../claims/preferential-late-drop-high-workload-courses.md) [+W]
 
 ## Related Elements
 

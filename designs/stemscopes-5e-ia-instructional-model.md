@@ -16,7 +16,7 @@ sources:
 # 5E+IA instructional model with Concrete-Representational-Abstract progression
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The program's organizing instructional pattern is the 5E+IA model: "Engage, Explore, Explain, Elaborate, Evaluate, plus Intervention and Acceleration pathways." It structures whole-group instruction, small-group differentiation, and blended learning, and follows a "Concrete-Representational-Abstract progression" that sequences mathematical representations from concrete materials to abstract symbols, with digital tools such as virtual manipulatives and PhET simulations integrated.
@@ -36,7 +36,6 @@ The program's organizing instructional pattern is the 5E+IA model: "Engage, Expl
 - Mathematics concept and skill development across representational levels
 
 ### Claims
-- [Stemscopes Math Staar Positive Quasi Experiment](../claims/stemscopes-math-staar-positive-quasi-experiment.md) [+M]
 
 ## Related Designs
 - [Stemscopes Math Curriculum](../products/stemscopes.md)

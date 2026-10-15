@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` There was no positive or negative transfer of training for forced-paced subjects, suggesting time pressure prevents studying what the aid does. [→ Rouse 1980](#rouse-1980)
@@ -43,7 +44,7 @@ Same Experiment Two forced-pacing study with twelve subjects on 49-component Tas
 
 
 ## Related Claims
-- [Computer aiding produces positive transfer of training: aided-trained subjects maintain performance on unaided fault-diagnosis displays](computer-aiding-positive-transfer-unaided-fault-diagnosis.md) — related
-- [Context-free diagnostic training transfers to context-specific performance: aided Task One training reduced cost to solution on two of three FAULT powerplants](context-free-training-transfers-to-context-specific-fault-diagnosis.md) — related
+- Computer aiding produces positive transfer of training: aided-trained subjects maintain performance on unaided fault-diagnosis displays — related
+- Context-free diagnostic training transfers to context-specific performance: aided Task One training reduced cost to solution on two of three FAULT powerplants — related
 - [Aiding-based transfer differs by trainee experience: first-semester trainees showed no aided-to-unaided transfer on Task One and initial negative then positive transfer on Task Two](trainee-experience-moderates-aiding-transfer.md) — related
 - [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](learner-paced-beats-system-paced-complex-material.md) — related

@@ -18,7 +18,7 @@ sources:
 # Khanmigo
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 6 claims (2 for, 2 mixed, 2 against) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Khanmigo is Khan Academy's GPT-4-powered educational tutoring app, offering guided tutoring, writing, debate, chat, practice, and other interactive learning activities.
@@ -28,12 +28,6 @@ Khanmigo is Khan Academy's GPT-4-powered educational tutoring app, offering guid
 - **Khanmigo AI Component workflow architecture with declarative overrides**: Each Khanmigo feature is a chat-based workflow with its own system prompt, guardrails, and configurable steps. The lowest-level building block is the AI Component: "a simple, generic function that we expect to have variable output, usually from an LLM call." Components are called through a single entry point providing standardized logging, offline-evaluation compatibility, and declarative dot-notation overrides of inputs such as prompt variables and model attributes. Because the workflow entry point is itself an AI Component, experiments can add, remove, or replace whole workflow steps. (Udeshi et al. (2026))
 
 ### Claims
-- [Khanmigo fully supports the authenticity criterion: nearly all activities except Chat can engage learners in authentic tasks](../claims/khanmigo-authenticity-fully-supported.md) [+W]
-- [Khanmigo partially supports the meaning focus criterion: two-way meaning-oriented interactions exist, but cognitive complexity can be problematic for beginners](../claims/khanmigo-meaning-focus-partially-supported.md) [~W]
-- [Khanmigo does not support learner fit: its language and topics may be too advanced for beginner-level learners](../claims/khanmigo-learner-fit-not-supported.md) [-W]
-- [Khanmigo fully supports the language learning potential criterion through abundant input, extended output, adaptive feedback, and negotiation of meaning](../claims/khanmigo-language-learning-potential-fully-supported.md) [+W]
-- [Khanmigo does not support the positive impact criterion: metacognitive scaffolding is tacit and pragmatic competence is not addressed unless learners ask](../claims/khanmigo-positive-impact-not-supported.md) [-W]
-- [Khanmigo partially supports the practicality criterion: affordable subscription, user-friendly interface, portability, and teacher monitoring, but paid access limits some learners](../claims/khanmigo-practicality-partially-supported.md) [~W]
 
 ## Related Products and Programmes
 -
@@ -74,12 +68,6 @@ Khanmigo is a GenAI-based educational app launched in 2022 by Khan Academy, powe
 
 ### Claims
 <!- - Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] - ->
-- [Khanmigo fully supports the authenticity criterion: nearly all activities except Chat can engage learners in authentic tasks](../claims/khanmigo-authenticity-fully-supported.md) [+W]
-- [Khanmigo partially supports the meaning focus criterion: two-way meaning-oriented interactions exist, but cognitive complexity can be problematic for beginners](../claims/khanmigo-meaning-focus-partially-supported.md) [~W]
-- [Khanmigo does not support learner fit: its language and topics may be too advanced for beginner-level learners](../claims/khanmigo-learner-fit-not-supported.md) [-W]
-- [Khanmigo fully supports the language learning potential criterion through abundant input, extended output, adaptive feedback, and negotiation of meaning](../claims/khanmigo-language-learning-potential-fully-supported.md) [+W]
-- [Khanmigo does not support the positive impact criterion: metacognitive scaffolding is tacit and pragmatic competence is not addressed unless learners ask](../claims/khanmigo-positive-impact-not-supported.md) [-W]
-- [Khanmigo partially supports the practicality criterion: affordable subscription, user-friendly interface, portability, and teacher monitoring, but paid access limits some learners](../claims/khanmigo-practicality-partially-supported.md) [~W]
 
 ## Related Elements
 

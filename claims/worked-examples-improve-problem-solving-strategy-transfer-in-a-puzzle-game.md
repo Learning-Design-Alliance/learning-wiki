@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q3 i?` The worked example group improved significantly more than the control group on the problem-solving transfer question (adjusted posttest means 2.37 vs. 1.97). [→ Shen 2006](#shen-2006)
@@ -46,4 +47,4 @@ Same randomized two-group SafeCracker experiment with 72 students. "The worked e
 - [Worked Examples Improve Problem Solving Strategy Retention In A Puzzle Game](worked-examples-improve-problem-solving-strategy-retention-in-a-puzzle-game.md)
 - [Worked Examples With Practice Improve Transfer](worked-examples-with-practice-improve-transfer.md)
 - [Studying worked examples between two rounds of a computer puzzle game produced significantly greater knowledge map improvement than no worked examples for adult players](worked-examples-improve-knowledge-map-content-understanding-in-a-puzzle-game.md) — related
-- [In a game-based problem-solving study, trait self-regulation scores related significantly only to knowledge map scores, with higher planning, self-monitoring, effort and self-efficacy going with better knowledge map performance](trait-self-regulation-relates-only-to-knowledge-map-scores-in-a-puzzle-game.md) — related
+- In a game-based problem-solving study, trait self-regulation scores related significantly only to knowledge map scores, with higher planning, self-monitoring, effort and self-efficacy going with better knowledge map performance — related

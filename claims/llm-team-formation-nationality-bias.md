@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: erfan-entezami-2026
-    resource: "https://arxiv.org/abs/2609.28483"
-    title: "Erfan Entezami, Andrew Lan, and Madeline Endres. (2026). Generative AI May Reinforce Social Biases in Software Engineering Education. arXiv preprint. https://arxiv.org/abs/2609.28483"
+    resource: "https://doi.org/10.48550/arxiv.2609.28483"
+    title: "Erfan Entezami, Andrew Lan, and Madeline Endres. (2026). Generative AI May Reinforce Social Biases in Software Engineering Education. arXiv preprint. https://arxiv.org/abs/2609.28483 [doi:10.48550/arxiv.2609.28483](https://doi.org/10.48550/arxiv.2609.28483)"
     author: Erfan Entezami, Andrew Lan, and Madeline Endres
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Erfan Entezami 2026
 
-Erfan Entezami, Andrew Lan, and Madeline Endres. (2026). Generative AI May Reinforce Social Biases in Software Engineering Education. arXiv preprint. https://arxiv.org/abs/2609.28483
+Erfan Entezami, Andrew Lan, and Madeline Endres. (2026). Generative AI May Reinforce Social Biases in Software Engineering Education. arXiv preprint. https://arxiv.org/abs/2609.28483 [doi:10.48550/arxiv.2609.28483](https://doi.org/10.48550/arxiv.2609.28483)
 
 `q2 · i?` · `causal · r2`
 

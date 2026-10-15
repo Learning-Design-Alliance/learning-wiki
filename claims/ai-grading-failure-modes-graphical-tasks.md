@@ -64,7 +64,7 @@ Qualitative false-negative example (Fig. 6, problem 6-C-b): the leftmost arrow w
 ## Related Claims
 - [LLMs expressed unjustified confidence in recommendations based on visual inputs, asserting incorrect pin-connection diagnoses with high stated certainty](llm-unjustified-confidence-visual-recommendations.md) — related
 - [Validator false-negative cases reveal structural reasoning weaknesses, including answer-schema misinterpretation and internal inconsistency](code-gen-validator-fn-reasoning-weaknesses.md) — related
-- [All evaluated GenAI systems scored noticeably lower on graphics-related questions requiring interpretation of JavaFX output](genai-weak-visual-reasoning-javafx-questions.md) — related
+- All evaluated GenAI systems scored noticeably lower on graphics-related questions requiring interpretation of JavaFX output — related
 - [Three recurring AI failure modes arose in this project-based learning context: plausible-but-incorrect code, missing specialized knowledge, and limited long-term context](three-ai-failure-modes-project-based-learning.md) — related
 - [No consistent relationship was observed between false-positive and false-negative rates and either the question or the LLM model](no-consistent-fp-fn-pattern.md) — related
 - [GPT-4 scoring errors clustered on multiple possible answers, unrecognized vocabulary, and missed incorrect or missing answers, while faculty were overly generous graders](gpt4-faculty-error-patterns-oeq-scoring.md) — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: t-j-atherton-2026
-    resource: "https://arxiv.org/abs/2605.18140"
-    title: "T. J. Atherton, I. Descamps, M. Webel, T. R. Holmes, C. L. Vizcarra, N. Sui, J. J. Foley IV. (2026). Faculty Orientations Shape Adoption of AI in Research and Teaching. https://arxiv.org/abs/2605.18140"
+    resource: "https://doi.org/10.48550/arxiv.2605.18140"
+    title: "T. J. Atherton, I. Descamps, M. Webel, T. R. Holmes, C. L. Vizcarra, N. Sui, J. J. Foley IV. (2026). Faculty Orientations Shape Adoption of AI in Research and Teaching. https://arxiv.org/abs/2605.18140 [doi:10.48550/arxiv.2605.18140](https://doi.org/10.48550/arxiv.2605.18140)"
     author: T. J. Atherton, I. Descamps, M. Webel, T. R. Holmes, C. L. Vizcarra, N. Sui, J. J. Foley IV
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Institutional initiatives, demographics, teaching practices, and information sources show weak or null associations with AI pedagogical orientation and use
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Evidence** · 2 studies · 2 associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Institutional initiative variables showed little consistent relationship with the factor, and information sources were weakly and slightly negatively related, suggesting orientation differences are not explained by access to information or institutional support. [→ T. J. Atherton 2026](#t-j-atherton-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### T. J. Atherton 2026
 
-T. J. Atherton, I. Descamps, M. Webel, T. R. Holmes, C. L. Vizcarra, N. Sui, J. J. Foley IV. (2026). Faculty Orientations Shape Adoption of AI in Research and Teaching. https://arxiv.org/abs/2605.18140
+T. J. Atherton, I. Descamps, M. Webel, T. R. Holmes, C. L. Vizcarra, N. Sui, J. J. Foley IV. (2026). Faculty Orientations Shape Adoption of AI in Research and Teaching. https://arxiv.org/abs/2605.18140 [doi:10.48550/arxiv.2605.18140](https://doi.org/10.48550/arxiv.2605.18140)
 
 `q2 · i?` · `associational · r1`
 

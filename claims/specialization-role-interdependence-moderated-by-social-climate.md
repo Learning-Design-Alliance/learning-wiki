@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i1` small
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` The negative relationship between specialization and role interdependence holds only in offices where employees view colleagues as having competing goals (r = -.37 versus -.08). [→ Pennings 1974](#pennings-1974)
@@ -43,7 +44,7 @@ Moderator analysis (Table 2) comparing offices high versus low on the workgroup-
 
 
 ## Related Claims
-- [Design-based research asks one person to be researcher, designer, project manager and theorist, and those roles compete.](design-based-research-roles-compete-and-threaten-credible-claims.md) — related
+- Design-based research asks one person to be researcher, designer, project manager and theorist, and those roles compete. — related
 - [Modes of interdependence are weakly or negligibly intercorrelated across brokerage offices](interdependence-modes-weakly-negatively-correlated.md) — related
 - [Social interdependence, not role interdependence or specialization, correlates with performance and well-being](social-interdependence-predicts-performance.md) — related
-- [Emphasis on specialization for advancement moderates the specialization–role interdependence relationship](specialization-emphasis-moderates-collaboration.md) — related
+- Emphasis on specialization for advancement moderates the specialization–role interdependence relationship — related

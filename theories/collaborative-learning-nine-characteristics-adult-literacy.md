@@ -16,7 +16,7 @@ sources:
 # Collaborative learning in adult literacy is defined by nine interlocking characteristics
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The guide presents collaborative learning (CL) as an approach to adult literacy instruction defined by nine characteristics: it is participatory, critical, student-centered, based on dialogue, transforms passivity into involvement, is democratic, develops academic skills, is activist, and is interdisciplinary. The guide states that "Collaborative learning is participatory" and that learners' products "are accepted as important knowledge to be shared," forming "the foundation of further inquiry and reflection." It roots the approach in the traditions of Dewey, Piaget, Vygotsky, Lewin, and Freire, and positions it as an alternative to one-on-one or traditional classroom instruction in adult basic education.
@@ -37,7 +37,6 @@ The guide presents collaborative learning (CL) as an approach to adult literacy 
 
 ### Claims
 
-- [Adult teachers' questions concentrate at low Bloom's levels, and cooperative learning's dialogue and questioning support critical thinking across Bloom's taxonomy](../claims/teacher-questions-low-bloom-levels-cooperative-dialogue.md) [+W]
 
 ## Related Theories
 

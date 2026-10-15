@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: menggian-wu-2026
-    resource: "https://arxiv.org/abs/2607.00211"
-    title: "Menggian Wu. (2026). Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming. 2nd International Workshop on AI Literacy Education For All (ALIT4ALL 2026), co-located with AIED 2026, Seoul, Republic of Korea. https://arxiv.org/abs/2607.00211"
+    resource: "https://doi.org/10.48550/arxiv.2607.00211"
+    title: "Menggian Wu. (2026). Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming. 2nd International Workshop on AI Literacy Education For All (ALIT4ALL 2026), co-located with AIED 2026, Seoul, Republic of Korea. https://arxiv.org/abs/2607.00211 [doi:10.48550/arxiv.2607.00211](https://doi.org/10.48550/arxiv.2607.00211)"
     author: Menggian Wu
     q: 2
     i: "?"
@@ -32,7 +32,7 @@ sources:
 
 ### Menggian Wu 2026
 
-Menggian Wu. (2026). Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming. 2nd International Workshop on AI Literacy Education For All (ALIT4ALL 2026), co-located with AIED 2026, Seoul, Republic of Korea. https://arxiv.org/abs/2607.00211
+Menggian Wu. (2026). Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming. 2nd International Workshop on AI Literacy Education For All (ALIT4ALL 2026), co-located with AIED 2026, Seoul, Republic of Korea. https://arxiv.org/abs/2607.00211 [doi:10.48550/arxiv.2607.00211](https://doi.org/10.48550/arxiv.2607.00211)
 
 `q2 · i?` · `design · r2`
 
@@ -49,4 +49,4 @@ Evaluation against the 499-line human-annotated gold set compared two experiment
 - [Expert former math teachers rated GPT-4o's dialogue annotations very highly for student correctness and moderate-to-high for knowledge components, with volatile inter-rater reliability.](expert-teachers-rate-gpt-4o-dialogue-annotations-as-largely-accurate.md) — related
 - [GPT-4o's correctness-labeling errors concentrate on final turns requiring numerical calculation, and its main KC-labeling error is assigning too few standards to a turn.](gpt-4o-annotation-errors-concentrate-on-final-turns-and-too-few-kcs.md) — related
 - [In-context learning did not consistently improve LLM annotation reliability over zero-shot prompting for engagement coding](icl-no-better-than-zero-shot-engagement-coding.md) — related
-- [A pilot human annotation surfaces a framing discrepancy: a NEET aspirant labeled all 10 sampled questions as Recall, including the five the LLM tagged as Elimination/Negation](learnopt-pilot-recall-framing.md) — related
+- A pilot human annotation surfaces a framing discrepancy: a NEET aspirant labeled all 10 sampled questions as Recall, including the five the LLM tagged as Elimination/Negation — related

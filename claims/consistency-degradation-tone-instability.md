@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: saqib-shouqi-2026
-    resource: "https://arxiv.org/abs/2608.03166"
-    title: "Saqib Shouqi, Abdullah Nazly, Januki Wanniarachchi, Ravisha De Alwis. (2026). Adversarial Stress Testing of Role-Playing Language Agents using Multi-Agent Evaluation. ADScAI Conference, University of Moratuwa, Sri Lanka. https://arxiv.org/abs/2608.03166"
+    resource: "https://doi.org/10.48550/arxiv.2608.03166"
+    title: "Saqib Shouqi, Abdullah Nazly, Januki Wanniarachchi, Ravisha De Alwis. (2026). Adversarial Stress Testing of Role-Playing Language Agents using Multi-Agent Evaluation. ADScAI Conference, University of Moratuwa, Sri Lanka. https://arxiv.org/abs/2608.03166 [doi:10.48550/arxiv.2608.03166](https://doi.org/10.48550/arxiv.2608.03166)"
     author: Saqib Shouqi, Abdullah Nazly, Januki Wanniarachchi, Ravisha De Alwis
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Consistency degrades under multi-strategy evaluation for all personas, driven mainly by tone instability rather than logical contradiction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
+> **Evidence** · 2 studies · 2 causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Under multi-strategy evaluation, consistency scores declined to 0.614 (Healthcare Assistant), 0.667 (Customer Support Agent), and 0.638 (Financial Advisor), from baseline values above 0.80. [→ Saqib Shouqi 2026](#saqib-shouqi-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Saqib Shouqi 2026
 
-Saqib Shouqi, Abdullah Nazly, Januki Wanniarachchi, Ravisha De Alwis. (2026). Adversarial Stress Testing of Role-Playing Language Agents using Multi-Agent Evaluation. ADScAI Conference, University of Moratuwa, Sri Lanka. https://arxiv.org/abs/2608.03166
+Saqib Shouqi, Abdullah Nazly, Januki Wanniarachchi, Ravisha De Alwis. (2026). Adversarial Stress Testing of Role-Playing Language Agents using Multi-Agent Evaluation. ADScAI Conference, University of Moratuwa, Sri Lanka. https://arxiv.org/abs/2608.03166 [doi:10.48550/arxiv.2608.03166](https://doi.org/10.48550/arxiv.2608.03166)
 
 `q2 · i?` · `causal · r1`
 

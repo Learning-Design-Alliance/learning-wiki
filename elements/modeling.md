@@ -13,7 +13,7 @@ generated:
 # Modeling
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (3 for, 2 mixed) · 7 studies (3 review, 2 causal, 1 qualitative, 1 theoretical), `q1`–`q3` · 0 of 7 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (2 for, 2 mixed) · 6 studies (3 review, 2 causal, 1 theoretical), `q2`–`q3` · 0 of 6 report an effect size · 1 claim rests on one study
 
 ## Description
 Modeling is the instructional element in which an instructor, expert, or advanced peer demonstrates expert thinking and behavior — making both the actions and the reasoning behind them visible. It functions as the observational entry point to skill acquisition: learners study a competent performance, including its decision points and self-monitoring, before producing their own attempts.
@@ -54,7 +54,6 @@ Modeling provides structured exposure to expert-level reasoning, reducing the un
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- [Monteiro Lobato's New York letters can be used as letter-writing models for intermediate students of Portuguese](../claims/lobato-letters-models-intermediate-portuguese.md) [+W]
 
 ## Related Elements
 - [Practice](practice.md) — the necessary follow-on; modeling without practice rarely transfers

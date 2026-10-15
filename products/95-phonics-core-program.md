@@ -18,7 +18,7 @@ sources:
 # 95 Phonics Core Program
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 A whole-class, Tier I supplemental phonics curriculum for grades K–5, developed and provided by 95 Percent Group, with structured lessons, teacher guides, student workbooks, manipulatives, and digital presentation materials.
@@ -27,10 +27,6 @@ A whole-class, Tier I supplemental phonics curriculum for grades K–5, develope
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [PCP use in an Arizona matched study produced significantly more aimswebPlus growth for K-1 students (ES +0.29)](../claims/pcp-arizona-matched-aimsweb-growth.md) [+W]
-- [PCP use in a Missouri randomized trial produced significantly greater gains on Acadience Reading for K-2 students (ES +0.09)](../claims/pcp-missouri-rct-acadience-gains.md) [+W]
-- [Teachers reported PCP easy to use and beneficial for phonics instruction, but sometimes challenging to fit into 30 minutes](../claims/pcp-teacher-feedback-usability-time-fit.md) [+W]
-- [PCP use in a Texas matched study produced significantly greater growth on ISIP and STAAR for grades 4-5 (ES +0.15 and +0.10)](../claims/pcp-texas-matched-isip-staar-growth.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -64,10 +60,6 @@ The 95 Phonics Core Program (PCP) is "a whole-class, supplemental phonics curric
 
 ## Claims
 
-- [PCP use in an Arizona matched study produced significantly more aimswebPlus growth for K-1 students (ES +0.29)](../claims/pcp-arizona-matched-aimsweb-growth.md) [+W]
-- [PCP use in a Missouri randomized trial produced significantly greater gains on Acadience Reading for K-2 students (ES +0.09)](../claims/pcp-missouri-rct-acadience-gains.md) [+W]
-- [Teachers reported PCP easy to use and beneficial for phonics instruction, but sometimes challenging to fit into 30 minutes](../claims/pcp-teacher-feedback-usability-time-fit.md) [+W]
-- [PCP use in a Texas matched study produced significantly greater growth on ISIP and STAAR for grades 4-5 (ES +0.15 and +0.10)](../claims/pcp-texas-matched-isip-staar-growth.md) [+W]
 
 ## Related Elements
 - 

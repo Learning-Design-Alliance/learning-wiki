@@ -16,7 +16,7 @@ sources:
 # Hybrid human-in-the-loop framework integrating topic modeling, LLM prompting, and human coding
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (1 for, 2 mixed, 1 against) · 3 studies (2 design, 1 causal), `q1`–`q2` · 0 of 3 report an effect size · 4 claims rest on one study
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article introduces a multi-stage methodological framework for qualitative analysis at scale. It combines grounded human coding, semantic clustering via SentenceBERT embeddings and Affinity Propagation, LLM-assisted topic labeling with two GPT-4-based models, and iterative codebook refinement. As the abstract states, "This study presents a hybrid, human -in-the-loop methodological framework  that integrates topic modeling, LLM prompting, and human-derived codes to support rigorous qualitative analysis." Human decision-making is positioned as the theoretical anchor, with topic modeling providing stable, mathematically grounded theme identification and LLMs supporting labeling and refinement.
@@ -39,10 +39,7 @@ The article introduces a multi-stage methodological framework for qualitative an
 
 ### Claims
 
-- [A hybrid human-AI workflow using GPT-4o with retrieval-augmented generation supported efficient inductive thematic analysis while preserving researcher judgment](../claims/hybrid-gpt4o-human-inductive-thematic-analysis-workflow.md) [+W]
-- [LLM-assisted inductive qualitative coding carries risks of superficial themes, broad or redundant codes, and hallucinated interpretations, so LLMs should augment rather than replace human researchers](../claims/llm-inductive-coding-risks-require-human-oversight.md) [~W]
 - [Zero-shot LLM errors follow four recurring patterns: over-interpretation, failure to detect relevant information, hallucination, and failure to generate a response](../claims/llm-competency-error-patterns-four-types.md) [~W]
-- [The study lacked comparative conditions, so hybrid-approach improvement claims remain conceptual rather than empirically validated](../claims/no-comparative-conditions-hybrid-improvement-unvalidated.md) [-W]
 
 ## Related Theories
 - 

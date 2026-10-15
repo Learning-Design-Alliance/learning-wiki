@@ -65,7 +65,7 @@ Weekly usage counts across the 16-week semester (range 10–365, mean 192.81, SD
 - [Growing Achievers used StatBot significantly more than Declining Performers, driven mainly by initiating new inquiries](growing-achievers-out-use-declining-performers.md) — related
 - [Higher-achieving graduate students were less likely to abstain entirely from StatBot use](higher-final-grades-less-likely-zero-use.md) — related
 - [Chatbot engagement was highly uneven: 8 of 15 voluntary users interacted continuously while 7 interacted superficially](chatbot-engagement-bimodal-continuous-versus-superficial-users.md) — related
-- [In a voluntary pilot of a GenAI practice platform, 34 of 95 registrants attempted at least one question, generating 230 submissions with highly uneven engagement](genai-practice-platform-uptake-230-submissions.md) — related
+- In a voluntary pilot of a GenAI practice platform, 34 of 95 registrants attempted at least one question, generating 230 submissions with highly uneven engagement — related
 - [Telegram-based chatbot use declined after initial novelty, with platform friction cited as a barrier](telegram-chatbot-use-declined-novelty-platform-friction.md) — related
 - [Female gender, higher autonomous motivation, lower prior knowledge, and higher final course grades each predict more frequent voluntary StatBot use among graduate statistics students](zinb-predictors-statbot-engagement-frequency.md) — related
 - [Learners engaged extensively with the chatbot, overwhelmingly communicating in Japanese rather than English](penny-usage-metrics-japanese-preference.md) — related

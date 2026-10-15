@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: john-f-pane-2015
-    resource: "https://www.rand.org/t/RR1365z2"
-    title: "John F. Pane, Elizabeth D. Steiner, Matthew D. Baird, Laura S. Hamilton. (2015). Continued Progress: Promising Evidence on Personalized Learning. RAND Corporation. https://www.rand.org/t/RR1365z2"
+    resource: "https://doi.org/10.7249/rr1365"
+    title: "John F. Pane, Elizabeth D. Steiner, Matthew D. Baird, Laura S. Hamilton. (2015). Continued Progress: Promising Evidence on Personalized Learning. RAND Corporation. https://www.rand.org/t/RR1365z2 [doi:10.7249/rr1365](https://doi.org/10.7249/rr1365)"
     author: John F. Pane, Elizabeth D. Steiner, Matthew D. Baird, Laura S. Hamilton
     q: 2
     i: 1
@@ -32,7 +32,7 @@ sources:
 
 ### John F. Pane 2015
 
-John F. Pane, Elizabeth D. Steiner, Matthew D. Baird, Laura S. Hamilton. (2015). Continued Progress: Promising Evidence on Personalized Learning. RAND Corporation. https://www.rand.org/t/RR1365z2
+John F. Pane, Elizabeth D. Steiner, Matthew D. Baird, Laura S. Hamilton. (2015). Continued Progress: Promising Evidence on Personalized Learning. RAND Corporation. https://www.rand.org/t/RR1365z2 [doi:10.7249/rr1365](https://doi.org/10.7249/rr1365)
 
 `q2 · i1` · `causal · r2`
 

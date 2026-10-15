@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: iwai-wataru-2026
-    resource: "https://arxiv.org/abs/2606.10325"
-    title: "Iwai Wataru, Duc V . Nguyen. (2026). Design and Implementation of a Real-Time Multi-Site Immersive Learning System Using Photon Fusion. https://arxiv.org/abs/2606.10325"
+    resource: "https://doi.org/10.48550/arxiv.2606.10325"
+    title: "Iwai Wataru, Duc V . Nguyen. (2026). Design and Implementation of a Real-Time Multi-Site Immersive Learning System Using Photon Fusion. https://arxiv.org/abs/2606.10325 [doi:10.48550/arxiv.2606.10325](https://doi.org/10.48550/arxiv.2606.10325)"
     author: Iwai Wataru, Duc V . Nguyen
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # The Photon Fusion VR learning system achieves stable real-time communication with minimal device load
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` During the lab test the teacher's device averaged 72.47 fps (SD = 0.95), indicating minimal load. [→ Iwai Wataru 2026](#iwai-wataru-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Iwai Wataru 2026
 
-Iwai Wataru, Duc V . Nguyen. (2026). Design and Implementation of a Real-Time Multi-Site Immersive Learning System Using Photon Fusion. https://arxiv.org/abs/2606.10325
+Iwai Wataru, Duc V . Nguyen. (2026). Design and Implementation of a Real-Time Multi-Site Immersive Learning System Using Photon Fusion. https://arxiv.org/abs/2606.10325 [doi:10.48550/arxiv.2606.10325](https://doi.org/10.48550/arxiv.2606.10325)
 
 `q2 · i?` · `design · r2`
 

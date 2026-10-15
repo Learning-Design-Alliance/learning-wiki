@@ -22,7 +22,7 @@ sources:
 # eMINTS
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 7 claims (4 for, 2 mixed, 1 against) · 2 studies (1 causal, 1 quant-synthesis), `q2`–`q3` · 1 of 2 report an effect size · 7 claims rest on one study
+> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 1 study (1 quant-synthesis), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 A professional-development and coaching programme run by the eMINTS National Center that helps teachers integrate technology and inquiry-based learning into curriculum and instruction.
@@ -39,8 +39,6 @@ A professional-development and coaching programme run by the eMINTS National Cen
 - [eMINTS shows no discernible effects on general literacy achievement](../claims/emints-no-discernible-literacy-effects.md) [-W]
 - [eMINTS has potentially positive effects on general mathematics achievement (improvement index +2 across two studies)](../claims/emints-potentially-positive-math-achievement.md) [+W]
 - [Martin et al. (2009) finds indeterminate effects of eMINTS on both mathematics and literacy achievement in grades 4–5](../claims/martin-2009-indeterminate-effects.md) [~W]
-- [eMINTS produces a statistically significant positive effect on state math measures (ES +0.15) in a 3-year rural Missouri study](../claims/emints-math-effect-015-strong.md) [+W]
-- [eMINTS shows no differences in reading outcomes compared with traditional control schools](../claims/emints-no-reading-differences.md) [~W]
 
 ## Related Products and Programmes
 -
@@ -128,8 +126,6 @@ eMINTS (enhancing Missouri's Instructional Networked Teaching Strategies) is a p
 
 ## Claims
 
-- [eMINTS produces a statistically significant positive effect on state math measures (ES +0.15) in a 3-year rural Missouri study](../claims/emints-math-effect-015-strong.md) [+W]
-- [eMINTS shows no differences in reading outcomes compared with traditional control schools](../claims/emints-no-reading-differences.md) [~W]
 - [Brandt et al. (2013) finds a statistically significant positive effect of eMINTS on seventh- and eighth-grade mathematics achievement](../claims/brandt-2013-significant-math-effect.md) [+W]
 - [Martin et al. (2009) finds indeterminate effects of eMINTS on both mathematics and literacy achievement in grades 4–5](../claims/martin-2009-indeterminate-effects.md) [~W]
 - [Both included studies report high-fidelity implementation of eMINTS](../claims/emints-high-fidelity-implementation.md) [~W]

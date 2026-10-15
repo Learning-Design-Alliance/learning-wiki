@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` According to the account presented, until about age 2 thoughts and language are separate; around age 2 children begin to express thoughts in speech; private speech emerges to guide children through difficult tasks and evolves into inner speech, a form of self-regulation. [→ Costley 2012](#costley-2012)
@@ -43,8 +44,8 @@ This is a descriptive exposition in the article's summary of Vygotsky's concepts
 
 
 ## Related Claims
-- [Reflection is the combination of active and dynamic self-regulation](reflection-combines-active-and-dynamic-self-regulation.md) — related
-- [Play's most important role, per Piaget, is developing representational language and thought through ludic symbolism](play-develops-representational-thought.md) — related
+- Reflection is the combination of active and dynamic self-regulation — related
+- Play's most important role, per Piaget, is developing representational language and thought through ludic symbolism — related
 - [Dialogue underpins networked learning: thinking in networks means thinking through collaborative dialogue](dialogue-underpins-networked-learning.md) — related
 - [High-quality pretend play is an important facilitator of perspective taking and later abstract thought](pretend-play-facilitates-perspective-taking-abstract-thought.md) — related
 - [Self Talk Improves Learning And Performance](self-talk-improves-learning-and-performance.md) — related

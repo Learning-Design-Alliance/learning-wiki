@@ -44,5 +44,5 @@ The same quasi-experimental study reported a secondary outcome on the NWEA MAP G
 
 ## Related Claims
 - [Progress Learning shows a statistically significant positive effect on Grade 5 NWEA MAP science scores](progress-learning-map-science-grade5-effect.md) — related
-- [STEMscopes Math students scored significantly higher on STAAR Math than comparison students in a Texas quasi-experiment (effect size +0.19)](stemscopes-math-staar-positive-quasi-experiment.md) — related
-- [Grade 5 students using STEMscopes significantly outperformed comparison students on STAAR Science (effect size +0.17), though the school-level difference was not significant](stemscopes-staar-grade5-outperformed-es-017.md) — related
+- STEMscopes Math students scored significantly higher on STAAR Math than comparison students in a Texas quasi-experiment (effect size +0.19) — related
+- Grade 5 students using STEMscopes significantly outperformed comparison students on STAAR Science (effect size +0.17), though the school-level difference was not significant — related

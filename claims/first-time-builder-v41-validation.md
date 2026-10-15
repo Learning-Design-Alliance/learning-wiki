@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: farnaz-baksh-2026
-    resource: "https://arxiv.org/abs/2606.15239"
-    title: "Farnaz Baksh, Matevž B. Zorec, Feiazie Baksh, and Karl Kruusamäe. (2026). Co-Creating Buildable and Open Social Robot Study Companions with University Students. https://arxiv.org/abs/2606.15239"
+    resource: "https://doi.org/10.48550/arxiv.2606.15239"
+    title: "Farnaz Baksh, Matevž B. Zorec, Feiazie Baksh, and Karl Kruusamäe. (2026). Co-Creating Buildable and Open Social Robot Study Companions with University Students. https://arxiv.org/abs/2606.15239 [doi:10.48550/arxiv.2606.15239](https://doi.org/10.48550/arxiv.2606.15239)"
     author: Farnaz Baksh, Matevž B. Zorec, Feiazie Baksh, and Karl Kruusamäe
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # First-time builders completed the v4.1 build in a mean of 39.1 minutes with SUS 74.6 (Good), but showed higher assembly Mental Demand than developers and tactile fragility concerns around snap-fit components
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 1 qualitative `r2`, 1 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` User Mental Demand during assembly remained higher than that of developers, which participants attributed to the effort of identifying parts and wiring identification. [→ Farnaz Baksh 2026](#farnaz-baksh-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Farnaz Baksh 2026
 
-Farnaz Baksh, Matevž B. Zorec, Feiazie Baksh, and Karl Kruusamäe. (2026). Co-Creating Buildable and Open Social Robot Study Companions with University Students. https://arxiv.org/abs/2606.15239
+Farnaz Baksh, Matevž B. Zorec, Feiazie Baksh, and Karl Kruusamäe. (2026). Co-Creating Buildable and Open Social Robot Study Companions with University Students. https://arxiv.org/abs/2606.15239 [doi:10.48550/arxiv.2606.15239](https://doi.org/10.48550/arxiv.2606.15239)
 
 `q2 · i?` · `design · r2`
 

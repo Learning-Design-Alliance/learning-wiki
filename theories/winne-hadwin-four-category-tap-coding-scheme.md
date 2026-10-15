@@ -16,7 +16,7 @@ sources:
 # Four-category operationalization of Winne and Hadwin's four-stage SRL model for tutored problem-solving verbalizations
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The study operationalizes SRL in think-aloud transcripts as four categories grounded in Winne and Hadwin's four-stage model: "processing information, planning, enacting, and realizing errors". Concatenated utterances between consecutive tutor transactions were annotated with a coding scheme (Table 1) specifying behaviors per category, such as assembling information, forming plans, verbalizing actions, and realizing mistakes. This subset of stage-relevant behaviors enables relating verbalized SRL to tutor action correctness.
@@ -38,11 +38,6 @@ The study operationalizes SRL in think-aloud transcripts as four categories grou
 
 ### Claims
 
-- [Embedding Srl Classifiers Satisfactory Within Language German English](../claims/embedding-srl-classifiers-satisfactory-within-language-german-english.md) [+M]
-- [LLM embedding-based SRL classifiers trained on one language reliably classify SRL categories in the other language within the same instructional domain](../claims/llm-srl-classifiers-transfer-across-languages-within-domain.md) [+W]
-- [Process and enact SRL categories transfer slightly better from German to English than English to German](../claims/srl-transfer-asymmetric-german-english-process-enact.md) [+W]
-- [Cross-language SRL classifier transfer shows about 0.1 AUC degradation relative to within-language performance, except for realizing errors](../claims/srl-transfer-degradation-tenth-auc-within-domain.md) [+W]
-- [Cross-language SRL misclassifications arise from subject-specific terminology that differs from commonplace translation, especially in the enact category](../claims/srl-transfer-errors-subject-specific-terminology.md) [+W]
 
 ## Related Theories
 - 

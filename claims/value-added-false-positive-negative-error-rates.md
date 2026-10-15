@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: peter-z-schochet-2013
-    resource: "https://www.mathematica.org/publications/what-are-error-rates-for-classifying-teacher-and-school-performance-using-value-added-models"
-    title: "Peter Z. Schochet, Hanley S. Chiang. (2013). What Are Error Rates for Classifying Teacher and School Performance Using Value-Added Models? Journal of Educational and Behavioral Statistics, vol. 38, no. 2. https://www.mathematica.org/publications/what-are-error-rates-for-classifying-teacher-and-school-performance-using-value-added-models"
+    resource: "https://doi.org/10.3102/1076998611432174"
+    title: "Peter Z. Schochet, Hanley S. Chiang. (2013). What Are Error Rates for Classifying Teacher and School Performance Using Value-Added Models? Journal of Educational and Behavioral Statistics, vol. 38, no. 2. https://www.mathematica.org/publications/what-are-error-rates-for-classifying-teacher-and-school-performance-using-value-added-models [doi:10.3102/1076998611432174](https://doi.org/10.3102/1076998611432174)"
     author: Peter Z. Schochet, Hanley S. Chiang
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Peter Z. Schochet 2013
 
-Peter Z. Schochet, Hanley S. Chiang. (2013). What Are Error Rates for Classifying Teacher and School Performance Using Value-Added Models? Journal of Educational and Behavioral Statistics, vol. 38, no. 2. https://www.mathematica.org/publications/what-are-error-rates-for-classifying-teacher-and-school-performance-using-value-added-models
+Peter Z. Schochet, Hanley S. Chiang. (2013). What Are Error Rates for Classifying Teacher and School Performance Using Value-Added Models? Journal of Educational and Behavioral Statistics, vol. 38, no. 2. https://www.mathematica.org/publications/what-are-error-rates-for-classifying-teacher-and-school-performance-using-value-added-models [doi:10.3102/1076998611432174](https://doi.org/10.3102/1076998611432174)
 
 `q2 · i?` · `associational · r?`
 

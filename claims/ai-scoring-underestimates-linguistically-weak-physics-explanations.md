@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q3 i2` A one-unit decrease in expert-rated linguistic quality was associated with approximately 1.3- to 3.9-times higher odds of underestimation of conceptual understanding by AI-based scoring, with the regression coefficient negative for every approach and statistically significant (p < 0.05) in five of eleven. [→ Markus S. Feser & Paul L. Tschisgale 2026](#markus-s-feser-paul-l-tschisgale-2026)
@@ -44,5 +45,5 @@ Multinomial logistic regression analysis of scoring deviations (AI score minus e
 
 ## Related Claims
 - [Higher linguistic quality shows no consistent association with overestimation of conceptual understanding by AI-based scoring](no-consistent-linguistic-overestimation-ai-scoring.md) — related
-- [ML-based scoring approaches more often overestimated expert-assigned scores, whereas LLM-based approaches more often underestimated them](ml-overestimates-llm-underestimates-pattern.md) — related
-- [Expert-assigned conceptual understanding and linguistic quality scores are moderately correlated (r = .50) in the student explanation dataset](conceptual-linguistic-scores-correlated-r50.md) — related
+- ML-based scoring approaches more often overestimated expert-assigned scores, whereas LLM-based approaches more often underestimated them — related
+- Expert-assigned conceptual understanding and linguistic quality scores are moderately correlated (r = .50) in the student explanation dataset — related

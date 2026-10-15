@@ -22,7 +22,7 @@ sources:
 # Five EdTech Quality Indicators
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 3 studies (1 associational, 1 qualitative, 1 theoretical), `q1`–`q2` · 0 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 associational, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 A framework developed by 1EdTech, CAST, CoSN, Digital Promise, InnovateEDU, ISTE+ASCD, and SETDA for evaluating AI-enabled edtech against safety, evidence, inclusion, usability, and interoperability criteria.
@@ -33,7 +33,6 @@ A framework developed by 1EdTech, CAST, CoSN, Digital Promise, InnovateEDU, ISTE
 - **Five EdTech Quality Indicators framework for evaluating edtech products**: The EdTech Quality Collaborative published a five-indicator framework for evaluating effective edtech products. Safe means tools adhere to "industry standards, data minimization, and data transparency to protect user privacy and prevent data breaches." Evidence-Based means grounded in rigorous research aligned with ESSA Tiers of Evidence; Inclusive prioritizes accessibility and equitable design while mitigating algorithmic bias; Usable focuses on intuitive design that eliminates technical barriers; Interoperable uses open data standards to connect with existing district technologies. The guide applies the framework across every step of district procurement and data governance. (Digital Promise (2026))
 
 ### Claims
-- [Stakeholders report that education leaders, educators, and investors lack common language or indicators to assess edtech quality, hindering evidence-based decisions](../claims/no-common-standards-edtech-quality-assessment.md) [+W]
 - [A strong majority of surveyed edtech products agree that products rooted in learning sciences research have the greatest impact on learning](../claims/survey-products-rooted-in-research-greatest-impact.md) [+W]
 - [Edtech tool access per district grew more than 350% between 2019 and 2025, yet most tools are unused or used at low intensity](../claims/edtech-procurement-implementation-gap.md) [~W]
 
@@ -113,7 +112,6 @@ The EdTech Quality Collaborative published a five-indicator framework for evalua
 
 ### Claims
 
-- [Stakeholders report that education leaders, educators, and investors lack common language or indicators to assess edtech quality, hindering evidence-based decisions](../claims/no-common-standards-edtech-quality-assessment.md) [+W]
 - [A strong majority of surveyed edtech products agree that products rooted in learning sciences research have the greatest impact on learning](../claims/survey-products-rooted-in-research-greatest-impact.md) [+W]
 - [Edtech tool access per district grew more than 350% between 2019 and 2025, yet most tools are unused or used at low intensity](../claims/edtech-procurement-implementation-gap.md) [~W]
 

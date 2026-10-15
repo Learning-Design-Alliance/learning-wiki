@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: zheng-li-2026
-    resource: "https://arxiv.org/abs/2601.21375"
-    title: "Zheng Li, Siyao Song, Jingyuan Ma, Rui Li, Ying Zeng, Minghao Li, Zhifang Sui. (2026). TeachBench: A Syllabus-Grounded Framework for Evaluating Teaching Ability in Large Language Models. https://arxiv.org/abs/2601.21375"
+    resource: "https://doi.org/10.48550/arxiv.2601.21375"
+    title: "Zheng Li, Siyao Song, Jingyuan Ma, Rui Li, Ying Zeng, Minghao Li, Zhifang Sui. (2026). TeachBench: A Syllabus-Grounded Framework for Evaluating Teaching Ability in Large Language Models. https://arxiv.org/abs/2601.21375 [doi:10.48550/arxiv.2601.21375](https://doi.org/10.48550/arxiv.2601.21375)"
     author: Zheng Li, Siyao Song, Jingyuan Ma, Rui Li, Ying Zeng, Minghao Li, Zhifang Sui
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # LLM teaching effectiveness varies substantially across subject domains, strongest where knowledge points apply directly and weakest in physics and chemistry
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Evidence** · 2 studies · 1 causal `r2`, 1 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across six additional subjects, teaching outcomes rank Mathematics, History, and Politics strongest, Geography and Biology intermediate, and Physics and Chemistry weakest. [→ Zheng Li 2026](#zheng-li-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Zheng Li 2026
 
-Zheng Li, Siyao Song, Jingyuan Ma, Rui Li, Ying Zeng, Minghao Li, Zhifang Sui. (2026). TeachBench: A Syllabus-Grounded Framework for Evaluating Teaching Ability in Large Language Models. https://arxiv.org/abs/2601.21375
+Zheng Li, Siyao Song, Jingyuan Ma, Rui Li, Ying Zeng, Minghao Li, Zhifang Sui. (2026). TeachBench: A Syllabus-Grounded Framework for Evaluating Teaching Ability in Large Language Models. https://arxiv.org/abs/2601.21375 [doi:10.48550/arxiv.2601.21375](https://doi.org/10.48550/arxiv.2601.21375)
 
 `q2 · i?` · `causal · r2`
 

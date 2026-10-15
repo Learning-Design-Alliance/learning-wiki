@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: dennis-2020
-    resource: "https://www.irrodl.org/"
-    title: "Dennis, J. (2020). Languaging Network Learning: The Emergence of Connectivism in Architectonic Thought. International Review of Research in Open and Distributed Learning, 21(3). https://www.irrodl.org/"
+    resource: "https://doi.org/10.19173/irrodl.v21i3.4718"
+    title: "Dennis, J. (2020). Languaging Network Learning: The Emergence of Connectivism in Architectonic Thought. International Review of Research in Open and Distributed Learning, 21(3). https://www.irrodl.org/ [doi:10.19173/irrodl.v21i3.4718](https://doi.org/10.19173/irrodl.v21i3.4718)"
     author: Dennis, J.
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Dennis 2020
 
-Dennis, J. (2020). Languaging Network Learning: The Emergence of Connectivism in Architectonic Thought. International Review of Research in Open and Distributed Learning, 21(3). https://www.irrodl.org/
+Dennis, J. (2020). Languaging Network Learning: The Emergence of Connectivism in Architectonic Thought. International Review of Research in Open and Distributed Learning, 21(3). https://www.irrodl.org/ [doi:10.19173/irrodl.v21i3.4718](https://doi.org/10.19173/irrodl.v21i3.4718)
 
 `q1 · i?` · `theoretical · r2`
 
@@ -43,8 +43,8 @@ The review reports, citing Annesley (2001) and Cuban (2001), that "the hyperinte
 
 
 ## Related Claims
-- [The Republic's top-down education method contradicts Dewey's pedagogical principles and his understanding of democracy](top-down-education-method-contradicts-dewey.md) — related
-- [Turkish education increasingly became an exam- and success-focused selective system prioritizing elite formation, contrary to Dewey's objection to exclusion and supervision mechanisms](turkish-education-selective-elite-formation-contrary-dewey.md) — related
+- The Republic's top-down education method contradicts Dewey's pedagogical principles and his understanding of democracy — related
+- Turkish education increasingly became an exam- and success-focused selective system prioritizing elite formation, contrary to Dewey's objection to exclusion and supervision mechanisms — related
 - [Early self- and task-related concerns are maintained alongside later impact concerns as adoption of complex technologies advances, modifying the sequential CBAM conception](early-concerns-maintained-alongside-later-concerns.md) — related
 - [Hypertextuality extends intertextuality into the digital world, foreshadowing connectivism](hypertextuality-digitizes-intertextuality.md) — related
 - [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — related

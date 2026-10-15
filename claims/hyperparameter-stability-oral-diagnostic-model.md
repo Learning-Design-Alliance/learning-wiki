@@ -44,7 +44,7 @@ Hyperparameter sensitivity analysis of the diagnostic model, presented in Fig. 5
 
 ## Related Claims
 - [A multi-task CNN-LSTM diagnostic model with attention-based fusion achieves correlations of 0.887, 0.862, 0.824, and 0.793 with human expert ratings across four oral proficiency dimensions under speaker-independent testing](cnn-lstm-multitask-oral-diagnostic-accuracy.md) — related
-- [DynEmb's response-prediction AUC is stable over a wide range of question-embedding dimensionalities](dynemb-performance-stable-across-embedding-dimensionality.md) — related
-- [OptimNN is insensitive to optimizer learning rate and network hyperparameters, unlike plain SGD on BKT](optimnn-hyperparameter-insensitivity.md) — related
+- DynEmb's response-prediction AUC is stable over a wide range of question-embedding dimensionalities — related
+- OptimNN is insensitive to optimizer learning rate and network hyperparameters, unlike plain SGD on BKT — related
 - [ProPRL is sensitive to learning rate but comparatively insensitive to its structural hyperparameters, with propagation depth around 5 capturing most multi-hop benefit](proprl-hyperparameter-sensitivity.md) — related
-- [Task F1 saturates by K≈4 concepts and is insensitive to hidden dimension once d≥384, while learning rate forms a sharp inverted-U with collapse at LR≥10−3](rec-cbm-hyperparameter-sensitivity-lr-critical.md) — related
+- Task F1 saturates by K≈4 concepts and is insensitive to hidden dimension once d≥384, while learning rate forms a sharp inverted-U with collapse at LR≥10−3 — related

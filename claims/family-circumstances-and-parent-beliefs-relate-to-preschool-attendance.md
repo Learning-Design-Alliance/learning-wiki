@@ -62,10 +62,10 @@ Survey-based analysis linking parent beliefs about the importance of preschool a
 
 
 ## Related Claims
-- [As family circumstances that strain attendance pile up, preschool attendance gets worse, with children facing no obstacles missing 5.6 percent of school and those facing three or more missing 12.9 percent](family-circumstances-cumulative-absence-burden.md) — possibly the same claim (merge candidate)
+- As family circumstances that strain attendance pile up, preschool attendance gets worse, with children facing no obstacles missing 5.6 percent of school and those facing three or more missing 12.9 percent — possibly the same claim (merge candidate)
 - [Attendance in pre-kindergarten and kindergarten is important, and early-grade chronic absenteeism has identifiable risk factors](early-grades-chronic-absenteeism-risk-factors.md) — a broader claim this one bears on
-- [Health is the most commonly reported reason preschool children miss school, with more than half of all days missed due to sickness, and logistical obstacles accounting for another 18 percent](health-primary-reason-preschool-absences.md) — related
+- Health is the most commonly reported reason preschool children miss school, with more than half of all days missed due to sickness, and logistical obstacles accounting for another 18 percent — related
 - [Health is the most commonly reported reason preschool students miss school, with logistical obstacles second, and reasons differ by race/ethnicity](illness-and-logistics-reasons-preschool-absences.md) — related
 - [When educators partnered with families on attendance, chronic absenteeism rates dropped 15%](family-partnership-reduced-chronic-absenteeism-15-percent.md) — related
-- [Evidence on preschool attendance by young children in foster care is largely unexamined, with one cited source reporting six percent of foster children under age six attend Head Start](foster-care-preschool-attendance-evidence-gap.md) — related
-- [Punitive responses to absence do not improve attendance and can worsen it](punitive-responses-ineffective-attendance.md) — related
+- Evidence on preschool attendance by young children in foster care is largely unexamined, with one cited source reporting six percent of foster children under age six attend Head Start — related
+- Punitive responses to absence do not improve attendance and can worsen it — related

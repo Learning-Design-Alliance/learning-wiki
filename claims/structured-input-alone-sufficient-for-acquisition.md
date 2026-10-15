@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: bill-vanpatten-2010
-    resource: "https://www.um.es/ijes"
-    title: "Bill VanPatten. (2010). The Two Faces of SLA: Mental Representation and Skill. International Journal of English Studies, 10(1), 1-18. https://www.um.es/ijes"
+    resource: "https://doi.org/10.6018/ijes/2010/1/113951"
+    title: "Bill VanPatten. (2010). The Two Faces of SLA: Mental Representation and Skill. International Journal of English Studies, 10(1), 1-18. https://www.um.es/ijes [doi:10.6018/ijes/2010/1/113951](https://doi.org/10.6018/ijes/2010/1/113951)"
     author: Bill VanPatten
     q: 2
     i: "?"
@@ -32,7 +32,7 @@ sources:
 
 ### Bill VanPatten 2010
 
-Bill VanPatten. (2010). The Two Faces of SLA: Mental Representation and Skill. International Journal of English Studies, 10(1), 1-18. https://www.um.es/ijes
+Bill VanPatten. (2010). The Two Faces of SLA: Mental Representation and Skill. International Journal of English Studies, 10(1), 1-18. https://www.um.es/ijes [doi:10.6018/ijes/2010/1/113951](https://doi.org/10.6018/ijes/2010/1/113951)
 
 `q2 · i?` · `theoretical · r3`
 
@@ -45,4 +45,4 @@ Narrative review of processing instruction studies (e.g., VanPatten & Oikennon 1
 
 ## Related Claims
 - [Mental representation is not amenable to direct explicit instruction because UG and parsers operate only on input data](mental-representation-not-directly-instructable.md) — related
-- [Situational communication exercises alone produced statistically significant progress in both structural and communication skills](situational-exercises-significant-progress.md) — related
+- Situational communication exercises alone produced statistically significant progress in both structural and communication skills — related

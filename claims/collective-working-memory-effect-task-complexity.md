@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` According to Kirschner et al. (2018), a collaborative task should be complex enough that the mental effort of collaborating is worth expending; if the task is too simple, there is no need to work with others. [→ Judi Fusco 2024](#judi-fusco-2024)

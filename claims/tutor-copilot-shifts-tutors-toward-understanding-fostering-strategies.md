@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: rose-e-wang-2025
-    resource: "https://arxiv.org/abs/2410.03017"
-    title: "Rose E. Wang, Ana T. Ribeiro, Carly D. Robinson, Susanna Loeb, and Dora Demszky. (2025). Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise. arXiv:2410.03017v2. https://arxiv.org/abs/2410.03017"
+    resource: "https://doi.org/10.48550/arxiv.2410.03017"
+    title: "Rose E. Wang, Ana T. Ribeiro, Carly D. Robinson, Susanna Loeb, and Dora Demszky. (2025). Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise. arXiv:2410.03017v2. https://arxiv.org/abs/2410.03017 [doi:10.48550/arxiv.2410.03017](https://doi.org/10.48550/arxiv.2410.03017)"
     author: Rose E. Wang, Ana T. Ribeiro, Carly D. Robinson, Susanna Loeb, and Dora Demszky
     q: 3
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Tutors with Tutor CoPilot access use more understanding-fostering strategies (e.g., prompting students to explain) and rely less on giving away answers than control tutors
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r3` · `q3`
+> **Evidence** · 2 studies · 2 causal `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Treatment tutors used strategies fostering student skills and comprehension significantly more; prompting the student to explain and asking questions to guide thinking appeared roughly 2 standard deviations more frequently on a log-odds scale. [→ Rose E. Wang 2025](#rose-e-wang-2025)
@@ -40,7 +40,7 @@ sources:
 
 ### Rose E. Wang 2025
 
-Rose E. Wang, Ana T. Ribeiro, Carly D. Robinson, Susanna Loeb, and Dora Demszky. (2025). Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise. arXiv:2410.03017v2. https://arxiv.org/abs/2410.03017
+Rose E. Wang, Ana T. Ribeiro, Carly D. Robinson, Susanna Loeb, and Dora Demszky. (2025). Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise. arXiv:2410.03017v2. https://arxiv.org/abs/2410.03017 [doi:10.48550/arxiv.2410.03017](https://doi.org/10.48550/arxiv.2410.03017)
 
 `q3 · i?` · `causal · r3`
 

@@ -17,7 +17,7 @@ sources:
 # Poverty-adjusted value-added school effectiveness rating model
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A model that rates each school's effectiveness by regressing average school test scores on school poverty level and standardizing the residuals. As the article describes it, "the school effectiveness ratings start by finding regression equations relating average school test scores to the poverty level of each school," and schools are rated by standardized residuals averaged over all tests given in a year. Ratings are relative, following roughly a cumulative normal distribution with mean near zero and standard deviation about .75, and incorporate all systemwide tests in grades three through five. The article uses the model both to identify high-performing schools and as a tool for ex post fac
@@ -28,8 +28,6 @@ A model that rates each school's effectiveness by regressing average school test
 
 ### Claims
 - [Direct Instruction schools' ratings rose significantly only when the program was fully supported with training and coaching](../claims/direct-instruction-gains-depend-on-implementation-support.md) [+M]
-- [SAGE class-size reduction schools showed no statistically significant change in poverty-adjusted effectiveness ratings](../claims/sage-schools-no-significant-rating-change.md) [+M]
-- [Simulation estimates that regression-to-the-mean selection bias inflates apparent Target Teach improvement by about .03 per year, leaving a smaller but still significant gain](../claims/selection-bias-simulation-inflates-target-teach-gain.md) [~W]
 - Target Teach Schools Significant Rating Increase [+M]
 
 ## Related Research Methods
@@ -68,8 +66,6 @@ A model that rates each school's effectiveness by regressing average school test
 
 - Target Teach Schools Significant Rating Increase [+M]
 - [Direct Instruction Gains Depend On Implementation Support](../claims/direct-instruction-gains-depend-on-implementation-support.md) [+M]
-- [Sage Schools No Significant Rating Change](../claims/sage-schools-no-significant-rating-change.md) [+M]
-- [Simulation estimates that regression-to-the-mean selection bias inflates apparent Target Teach improvement by about .03 per year, leaving a smaller but still significant gain](../claims/selection-bias-simulation-inflates-target-teach-gain.md) [~W]
 
 ## Related Theories
 - 

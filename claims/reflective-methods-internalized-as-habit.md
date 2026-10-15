@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` For reflection to play a part in everyday moral choice it must become a natural, almost automatic response, and its internalization depends on facilitative social arrangements. [→ Willower 1992](#willower-1992)
@@ -43,8 +44,8 @@ Theoretical exposition of Dewey's account of internalization, presented in the p
 
 
 ## Related Claims
-- [The limited empirical literature on administrative decisionmaking supports the utility of reflective procedures](decisionmaking-literature-supports-reflective-procedures.md) — related
+- The limited empirical literature on administrative decisionmaking supports the utility of reflective procedures — related
 - [Dewey grounds morality in everyday problems, making administrative practice chiefly an ethical undertaking resolved by reflective appraisal of competing values](dewey-morality-in-everyday-problems.md) — related
-- [A teacher's prompting that oriented a student's reflection on his own tracking methods fostered monitoring of his goal-directed counting activity](orienting-reflection-to-own-tracking-fosters-monitoring.md) — a narrower finding that bears on this claim
+- A teacher's prompting that oriented a student's reflection on his own tracking methods fostered monitoring of his goal-directed counting activity — a narrower finding that bears on this claim
 - [Expert performers counteract automaticity by building increasingly complex mental representations, unlike everyday skill learning](experts-counteract-automaticity-mental-representations.md) — related
 - [Teachers would engage in analytics-informed inquiry if they saw direct benefits for student outcomes and the process were a regular part of their work](teacher-inquiry-incentives-direct-benefits-routine.md) — a narrower finding that bears on this claim

@@ -17,7 +17,7 @@ sources:
 # AMOVA Cluster Axiom for Manifold Consistency
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The AMOVA Cluster Axiom for Manifold Consistency is a logical-mathematical rule governing how psychometric research instrument (psyri) items are grouped, equated by the article with research reliability. It rests on "the threefold [Manifold] notion" that psyri items are grouped by relevance, each item has timely and relevant subject matter aligned to the initial research design, and all items exhaustively belong to some categorical cluster based on similarity of content, measurement, and data gathering procedure. It is represented as psy[ri] = [n/m], where n is the total number of instrument items and m the number of research categories (manifolds).
@@ -40,7 +40,6 @@ The AMOVA Cluster Axiom for Manifold Consistency is a logical-mathematical rule 
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- [Civic competence items cluster into four epistemological components (knowledge, skills, attitudes, actions) in community-based learning course surveys](../claims/civic-competence-four-epistemological-components.md) [+W]
 
 ## Related Elements
 

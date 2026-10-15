@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: sara-riazi-and-pedram-rooshenas-2026
-    resource: "https://arxiv.org/abs/2610.00870"
-    title: "Sara Riazi and Pedram Rooshenas. (2026). An Educator-Guided LLM Pedagogical Agent for Scaffolded Feedback in Conceptual Database Design. https://arxiv.org/abs/2610.00870"
+    resource: "https://doi.org/10.48550/arxiv.2610.00870"
+    title: "Sara Riazi and Pedram Rooshenas. (2026). An Educator-Guided LLM Pedagogical Agent for Scaffolded Feedback in Conceptual Database Design. https://arxiv.org/abs/2610.00870 [doi:10.48550/arxiv.2610.00870](https://doi.org/10.48550/arxiv.2610.00870)"
     author: Sara Riazi and Pedram Rooshenas
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # In a self-selected survey, students favored delayed disclosure and agency, but 39.3% found the system too indirect and 42.9% reported repetition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Among 28 survey respondents, 18 (64.3%) agreed they could make their own design decisions and 21 (75.0%) disagreed that the system revealed too much information too early. [→ Sara Riazi and Pedram Rooshenas 2026](#sara-riazi-and-pedram-rooshenas-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Sara Riazi and Pedram Rooshenas 2026
 
-Sara Riazi and Pedram Rooshenas. (2026). An Educator-Guided LLM Pedagogical Agent for Scaffolded Feedback in Conceptual Database Design. https://arxiv.org/abs/2610.00870
+Sara Riazi and Pedram Rooshenas. (2026). An Educator-Guided LLM Pedagogical Agent for Scaffolded Feedback in Conceptual Database Design. https://arxiv.org/abs/2610.00870 [doi:10.48550/arxiv.2610.00870](https://doi.org/10.48550/arxiv.2610.00870)
 
 `q2 · i?` · `design · r2`
 

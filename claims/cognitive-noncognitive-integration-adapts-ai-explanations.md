@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: nwogo-2026
-    resource: "https://arxiv.org/abs/2608.15738"
-    title: "Nwogo, E. U., Ihianle, I. K., Machado, P., Bird, J. J., Lotfi, A., Shuaib, A. A., Akinwumi, I. I., & Oluranti, J. (2026). An AI-Based Adaptive Learning Platform for Multilingual and Low-Resource Educational Contexts: A Case Study on Nigeria. arXiv. https://arxiv.org/abs/2608.15738"
+    resource: "https://doi.org/10.48550/arxiv.2608.15738"
+    title: "Nwogo, E. U., Ihianle, I. K., Machado, P., Bird, J. J., Lotfi, A., Shuaib, A. A., Akinwumi, I. I., & Oluranti, J. (2026). An AI-Based Adaptive Learning Platform for Multilingual and Low-Resource Educational Contexts: A Case Study on Nigeria. arXiv. https://arxiv.org/abs/2608.15738 [doi:10.48550/arxiv.2608.15738](https://doi.org/10.48550/arxiv.2608.15738)"
     author: "Nwogo, E. U., Ihianle, I. K., Machado, P., Bird, J. J., Lotfi, A., Shuaib, A. A., Akinwumi, I. I., & Oluranti, J."
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Nwogo 2026
 
-Nwogo, E. U., Ihianle, I. K., Machado, P., Bird, J. J., Lotfi, A., Shuaib, A. A., Akinwumi, I. I., & Oluranti, J. (2026). An AI-Based Adaptive Learning Platform for Multilingual and Low-Resource Educational Contexts: A Case Study on Nigeria. arXiv. https://arxiv.org/abs/2608.15738
+Nwogo, E. U., Ihianle, I. K., Machado, P., Bird, J. J., Lotfi, A., Shuaib, A. A., Akinwumi, I. I., & Oluranti, J. (2026). An AI-Based Adaptive Learning Platform for Multilingual and Low-Resource Educational Contexts: A Case Study on Nigeria. arXiv. https://arxiv.org/abs/2608.15738 [doi:10.48550/arxiv.2608.15738](https://doi.org/10.48550/arxiv.2608.15738)
 
 `q1 · i?` · `design · r2`
 
@@ -43,7 +43,7 @@ Demonstration with two student cases: Student 1 scored 83.75 academic with an ov
 
 
 ## Related Claims
-- [Real-time dynamic analyses (Hurst exponents, Entropy) are hypothesized to inform user models about optimal and non-optimal learning behaviors within a game-based ITS](real-time-dynamic-analyses-inform-user-models.md) — a broader claim this one bears on
+- Real-time dynamic analyses (Hurst exponents, Entropy) are hypothesized to inform user models about optimal and non-optimal learning behaviors within a game-based ITS — a broader claim this one bears on
 - [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — a broader claim this one bears on
 - [Adaptivity and score reliability of both engines depend on item-pool depth; the CBE often performed better than COLO for extreme low or high achievers when item banks were shallow](cbe-better-adaptivity-extreme-achievers-shallow-banks.md) — related
 - [Pilot instructors reported the adaptive proctor differentiated students at multiple proficiency boundaries and decoupled conceptual mastery from computational speed](socratic-test-faculty-differentiation.md) — related

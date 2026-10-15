@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` The courseware impact estimate was positive for implementations in 4-year institutions and insignificant in 2-year colleges. [→ Barbara Means and Julie Neisler 2004](#barbara-means-and-julie-neisler-2004)
@@ -63,6 +64,6 @@ A second moderator finding from the same set of NGCC impact analyses: comparison
 
 
 ## Related Claims
-- [NGCC adaptive courseware had a small positive, statistically significant average impact on course grades, with the top 25% of implementations showing impacts equivalent to 12 percentile points.](ngcc-courseware-small-positive-grade-impact.md) — related
+- NGCC adaptive courseware had a small positive, statistically significant average impact on course grades, with the top 25% of implementations showing impacts equivalent to 12 percentile points. — related
 - [Of 77 impact data sets submitted by NGCC projects, only 28 had adequate sample sizes and reasonably comparable conditions; the rest were eliminated for small samples, confounds, or baseline inequivalence.](ngcc-dataset-attrition-77-to-28.md) — related
-- [Course modality moderated student experience: instructor responsiveness was more prevalent in face-to-face classes and online students reported more frustration](modality-moderates-courseware-experience.md) — related
+- Course modality moderated student experience: instructor responsiveness was more prevalent in face-to-face classes and online students reported more frustration — related

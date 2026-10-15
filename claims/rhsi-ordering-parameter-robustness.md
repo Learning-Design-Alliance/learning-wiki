@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: oluseyi-olukolaa-2026
-    resource: "https://arxiv.org/abs/2604.04237"
-    title: "Oluseyi Olukolaa, Nick Rahimia. (2026). Pedagogical Safety in Educational Reinforcement Learning: Formalizing and Detecting Reward Hacking in AI Tutoring Systems. arXiv. https://arxiv.org/abs/2604.04237"
+    resource: "https://doi.org/10.48550/arxiv.2604.04237"
+    title: "Oluseyi Olukolaa, Nick Rahimia. (2026). Pedagogical Safety in Educational Reinforcement Learning: Formalizing and Detecting Reward Hacking in AI Tutoring Systems. arXiv. https://arxiv.org/abs/2604.04237 [doi:10.48550/arxiv.2604.04237](https://doi.org/10.48550/arxiv.2604.04237)"
     author: Oluseyi Olukolaa, Nick Rahimia
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Oluseyi Olukolaa 2026
 
-Oluseyi Olukolaa, Nick Rahimia. (2026). Pedagogical Safety in Educational Reinforcement Learning: Formalizing and Detecting Reward Hacking in AI Tutoring Systems. arXiv. https://arxiv.org/abs/2604.04237
+Oluseyi Olukolaa, Nick Rahimia. (2026). Pedagogical Safety in Educational Reinforcement Learning: Formalizing and Detecting Reward Hacking in AI Tutoring Systems. arXiv. https://arxiv.org/abs/2604.04237 [doi:10.48550/arxiv.2604.04237](https://doi.org/10.48550/arxiv.2604.04237)
 
 `q2 · i?` · `causal · r2`
 

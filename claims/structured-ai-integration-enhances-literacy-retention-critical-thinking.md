@@ -46,11 +46,11 @@ This is the article's own concluding statement about its course-based study of A
 - [Digital Literacy](../learner-variables/digital-literacy.md) — outcome: instruction changes it
 
 ## Related Claims
-- [A systematic review of 14 studies (8,305 participants) found AI-based tools enhanced comprehension, engagement, problem-solving, and critical thinking by personalizing learning experiences](ai-math-review-14-studies-outcomes.md) — a narrower finding that bears on this claim
+- A systematic review of 14 studies (8,305 participants) found AI-based tools enhanced comprehension, engagement, problem-solving, and critical thinking by personalizing learning experiences — a narrower finding that bears on this claim
 - [Nursing students and faculty report concerns that AI use may weaken critical thinking, enable plagiarism and misinformation, and create unequal access](ai-concerns-critical-thinking-plagiarism-nursing.md) — reports the opposite
 - [Overreliance on AWE may lower learners' critical thinking and creativity](awe-overreliance-lowers-critical-thinking-creativity.md) — reports the opposite
 - [Students' main AI challenges are content reliability and depth, and most expect AI to serve as tutor, creative partner, and critical thinking partner rather than mere content generator](student-critical-ai-role-expectations.md) — related
-- [Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs](human-guidance-ethical-grounding-ai.md) — related
+- Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs — related
 - [Project-based and experiential learning approaches are reported as most effective for AI literacy education, and early exposure enhances learners' self-efficacy](early-exposure-enhances-ai-self-efficacy.md) — related
 - [AI literacy significantly enhances students' critical AI evaluation in generative-AI-supported learning](ai-literacy-enhances-critical-ai-evaluation.md) — related
 - [Faculty observed that students engage shallowly with AI-generated content without structure, concluding productive use must be modeled](shallow-engagement-ai-generated-content.md) — related

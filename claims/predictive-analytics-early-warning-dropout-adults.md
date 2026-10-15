@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: theodora-2026
-    resource: "https://arxiv.org/abs/2605.16296"
-    title: "Theodora, A., & Tselios, N. (2026). Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy. https://arxiv.org/abs/2605.16296"
+    resource: "https://doi.org/10.48550/arxiv.2605.16296"
+    title: "Theodora, A., & Tselios, N. (2026). Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy. https://arxiv.org/abs/2605.16296 [doi:10.48550/arxiv.2605.16296](https://doi.org/10.48550/arxiv.2605.16296)"
     author: "Theodora, A., & Tselios, N."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Theodora 2026
 
-Theodora, A., & Tselios, N. (2026). Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy. https://arxiv.org/abs/2605.16296
+Theodora, A., & Tselios, N. (2026). Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy. https://arxiv.org/abs/2605.16296 [doi:10.48550/arxiv.2605.16296](https://doi.org/10.48550/arxiv.2605.16296)
 
 `q2 · i?` · `review · r2`
 

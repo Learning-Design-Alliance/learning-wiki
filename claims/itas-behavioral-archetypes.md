@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: iizalaarab-elhaimeur-and-nikos-chrisochoides-2026
-    resource: "https://arxiv.org/abs/2604.24807"
-    title: "Iizalaarab Elhaimeur and Nikos Chrisochoides. (2026). From Prototype to Classroom: An Intelligent Tutoring System for Quantum Education. https://arxiv.org/abs/2604.24807"
+    resource: "https://doi.org/10.48550/arxiv.2604.24807"
+    title: "Iizalaarab Elhaimeur and Nikos Chrisochoides. (2026). From Prototype to Classroom: An Intelligent Tutoring System for Quantum Education. https://arxiv.org/abs/2604.24807 [doi:10.48550/arxiv.2604.24807](https://doi.org/10.48550/arxiv.2604.24807)"
     author: Iizalaarab Elhaimeur and Nikos Chrisochoides
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Sustained deployment surfaced four behavioral archetypes — self-directed, tutor-reliant, late engager, and passive consumer — including patterns invisible to the reactive teaching system
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Longitudinal deployment data revealed four behavioral archetypes, including a late engager with a non-linear trajectory and a passive consumer detectable only through the analytics layer. [→ Iizalaarab Elhaimeur and Nikos Chrisochoides 2026](#iizalaarab-elhaimeur-and-nikos-chrisochoides-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Iizalaarab Elhaimeur and Nikos Chrisochoides 2026
 
-Iizalaarab Elhaimeur and Nikos Chrisochoides. (2026). From Prototype to Classroom: An Intelligent Tutoring System for Quantum Education. https://arxiv.org/abs/2604.24807
+Iizalaarab Elhaimeur and Nikos Chrisochoides. (2026). From Prototype to Classroom: An Intelligent Tutoring System for Quantum Education. https://arxiv.org/abs/2604.24807 [doi:10.48550/arxiv.2604.24807](https://doi.org/10.48550/arxiv.2604.24807)
 
 `q2 · i?` · `design · r2`
 

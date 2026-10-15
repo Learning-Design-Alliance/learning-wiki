@@ -32,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 associational `r1`, 1 theoretical `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 
@@ -68,5 +69,5 @@ The report cites, without reproducing the study's design, a 2015 Joan Ganz Coone
 - [No readily accessible sources of rigorous evidence exist for most ed-tech products](no-rigorous-evidence-ed-tech-products.md) — the general claim this finding bears on, with the studies behind it
 
 - [Mobile language learning apps are used mainly for vocabulary learning among surveyed app users](mall-vocabulary-most-supported-skill.md) — related
-- [Few literacy apps disclose educational-quality benchmarks: expert involvement (20-36%), guiding curriculum (29%), or research testing (24%)](apps-rarely-disclose-quality-benchmarks.md) — related
-- [Only 17% of expert-awarded literacy apps also appear among app stores' Top 50 educational lists, so parents searching different sources encounter largely different apps](top50-expert-awarded-app-overlap-17-percent.md) — related
+- Few literacy apps disclose educational-quality benchmarks: expert involvement (20-36%), guiding curriculum (29%), or research testing (24%) — related
+- Only 17% of expert-awarded literacy apps also appear among app stores' Top 50 educational lists, so parents searching different sources encounter largely different apps — related

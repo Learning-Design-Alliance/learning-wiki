@@ -47,5 +47,5 @@ Narrative review of a Minnesota restorative conferencing pilot study (McMorris e
 
 ## Related Claims
 - [Experts report reduced suspensions and expulsions and improved school climate as RJ implementation successes](rj-successes-reduced-suspensions-improved-climate.md) — related
-- [Participants in Minnesota's choice options express a high degree of satisfaction, and preliminary studies suggest positive academic outcomes](choice-participants-high-satisfaction-preliminary-positive-outcomes.md) — related
+- Participants in Minnesota's choice options express a high degree of satisfaction, and preliminary studies suggest positive academic outcomes — related
 - Experts call for rigorous outcome-based research, readiness research, a clear RJ definition, and leader training research on RJ in schools — related

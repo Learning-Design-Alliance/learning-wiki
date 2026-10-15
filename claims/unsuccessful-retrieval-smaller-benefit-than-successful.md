@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q3 i?` The model showed a benefit from prior incorrect trials (estimate 1.47) smaller than prior correct trials (estimate 1.82), but interactions with format and depth made successful practice much more impactful, e.g., more than twice as impactful in the Applied SA condition with one correct and one incorrect prior trial. [→ Maass 2016](#maass-2016)
@@ -44,6 +45,6 @@ PFA-based logistic regression of practice data (5,696 observations, 178 particip
 
 ## Related Claims
 - [Higher self-reported confusion predicts a much larger negative effect on future performance when learners answer more questions incorrectly](confusion-amplifies-negative-effect-of-incorrect-trials.md) — related
-- [Successful retrieval practice of more difficult items (short answer, applied) yields greater future predicted success than successful retrieval of easier items (multiple choice, factual)](successful-difficult-retrieval-greater-future-success.md) — related
+- Successful retrieval practice of more difficult items (short answer, applied) yields greater future predicted success than successful retrieval of easier items (multiple choice, factual) — related
 - [Retrieval Failure Reduces Benefit](retrieval-failure-reduces-benefit.md) — a broader claim this one bears on
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — a broader claim this one bears on

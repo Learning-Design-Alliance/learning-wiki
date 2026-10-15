@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Exclusion of home culture during her own schooling led one teacher to bring her home culture into her teaching so children could express and maintain their true identities rather than be assimilated. [→ Hulsebosch 1993](#hulsebosch-1993)
@@ -43,6 +44,6 @@ Life-history narrative of Ana Maria Orbe-Lugo, a Chicago public school teacher, 
 
 
 ## Related Claims
-- [A teacher mentioning her own less-celebrated identities opens the door for students to include their perspectives and identities](mentioning-other-identities-opens-door-for-students.md) — related
-- [Experiences of racism and assimilationist schooling shape teachers' resolve to prevent non-white children's cultures from being overlooked](racism-shapes-resolve-to-teach-childrens-cultures.md) — possibly the same claim (merge candidate)
-- [The mismatch between school and home cultures disadvantages students for learning, and the disadvantage stems from assimilation rather than diversity](school-home-culture-mismatch-assimilation-disadvantage.md) — related
+- A teacher mentioning her own less-celebrated identities opens the door for students to include their perspectives and identities — related
+- Experiences of racism and assimilationist schooling shape teachers' resolve to prevent non-white children's cultures from being overlooked — possibly the same claim (merge candidate)
+- The mismatch between school and home cultures disadvantages students for learning, and the disadvantage stems from assimilation rather than diversity — related

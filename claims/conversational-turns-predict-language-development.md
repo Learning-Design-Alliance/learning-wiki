@@ -25,8 +25,8 @@ sources:
     kind: associational
     rigour: "?"
   - id: darling-hammond-2018
-    resource: "https://learningpolicyinstitute.org/product/educating-whole-child"
-    title: "Darling-Hammond, L., & Cook-Harvey, C. M. (2018). Educating the whole child: Improving school climate to support student success. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/educating-whole-child"
+    resource: "https://doi.org/10.54300/145.655"
+    title: "Darling-Hammond, L., & Cook-Harvey, C. M. (2018). Educating the whole child: Improving school climate to support student success. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/educating-whole-child [doi:10.54300/145.655](https://doi.org/10.54300/145.655)"
     author: "Darling-Hammond, L., & Cook-Harvey, C. M."
     q: 2
     i: "?"
@@ -69,7 +69,7 @@ The original study observed 42 families across a range of socioeconomic backgrou
 
 ### Darling-Hammond 2018
 
-Darling-Hammond, L., & Cook-Harvey, C. M. (2018). Educating the whole child: Improving school climate to support student success. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/educating-whole-child
+Darling-Hammond, L., & Cook-Harvey, C. M. (2018). Educating the whole child: Improving school climate to support student success. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/educating-whole-child [doi:10.54300/145.655](https://doi.org/10.54300/145.655)
 
 `q2 · i?` · `review · r2`
 
@@ -92,9 +92,9 @@ The shift from "word count" to "conversational turns" as the operative mechanism
 - [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md)
 - [Joint Book Reading Predicts Literacy Success](joint-book-reading-predicts-literacy-success.md) — related
 - [Dialogic Reading Improves Language Outcomes](dialogic-reading-improves-language-outcomes.md) — related
-- [Title I preschool classrooms showed no typical increase in social pretense and verbal interaction over time, most evident in lowest-SES classrooms](title-i-preschools-no-increase-social-pretense.md) — related
+- Title I preschool classrooms showed no typical increase in social pretense and verbal interaction over time, most evident in lowest-SES classrooms — related
 - [Research in language classes suggested cooperative learning was better than whole-class instruction for language skills and produced more student turns than teacher-centered classes](cooperative-learning-language-class-outcomes.md) — related
 - [The article reviews evidence that aspects of the learning environment most closely associated with successful development of early academic competence differ by socioeconomic background](ses-differences-access-academically-auspicious-environments.md) — related
 - [Curiosity-modulated tutoring produces roughly 2.4× more conversational turns than baseline under fixed time budgets](curiosity-modulation-increases-conversational-turns.md) — related
-- [The quality rather than the quantity of interactional modifications predicts comprehensible input](interaction-quality-over-quantity.md) — related
+- The quality rather than the quantity of interactional modifications predicts comprehensible input — related
 - [Conversational narration style produces a large effect on learning from multimedia instruction, likely via social partnership](conversational-narration-style-large-learning-effect.md) — related

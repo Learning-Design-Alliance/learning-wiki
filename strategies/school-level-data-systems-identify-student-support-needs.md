@@ -17,7 +17,7 @@ sources:
 # Use school-level data systems to identify which students need which types of support for dropout prevention
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The chapter recommends that schools build systems for monitoring student data so staff can identify students at risk early and target support. It points to Chicago, which has "shown substantial progress in improving its graduation rates by developing systems at the school level for using data to identify which students need what types of support." The strategy pairs ongoing monitoring with differentiated outreach in the ninth-grade year.
@@ -38,7 +38,6 @@ The chapter recommends that schools build systems for monitoring student data so
 
 ## Claims
 
-- [Chicago's on-track data system was associated with improved high school graduation rates](../claims/chicago-ontrack-system-improved-graduation-rates.md) [+W]
 
 ## Related Strategies
 

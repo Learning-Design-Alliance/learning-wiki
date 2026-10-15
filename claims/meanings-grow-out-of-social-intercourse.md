@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 5 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Mead's 1910-1911 course holds that meaning is not conveyed ready-made but arises through the learner's own response within social intercourse, so language as a social process is the medium in which the child constructs meanings. [→ Biesta 1997](#biesta-1997)
@@ -45,5 +46,5 @@ Reconstruction from the typescript of Mead's Course 50 on Philosophy of Educatio
 ## Related Claims
 - [Mead holds that the process of acquiring changes the thing acquired, making change of subject matter the rule](acquiring-changes-the-thing-acquired.md) — related
 - [Mead holds that a method of thought cannot be transferred but must be gained through the learner's own abstractions](method-of-thought-cannot-be-transferred.md) — related
-- [Mead holds that social interaction precedes and produces reflective self-consciousness](social-interaction-precedes-self-consciousness.md) — related
+- Mead holds that social interaction precedes and produces reflective self-consciousness — related
 - [Mead argued education functions as a mechanism of social and cultural change, not only cultural transmission](mead-education-as-mechanism-of-social-change.md) — related

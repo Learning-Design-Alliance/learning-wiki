@@ -44,5 +44,5 @@ Findings from the transnational comparative mapping (Table I and Annex 1) of sev
 
 ## Related Claims
 - [Few countries have defined teacher AI competencies or national AI training programmes for teachers](few-countries-define-teacher-ai-competencies.md) — related
-- [Generative AI systems carry strong potential for introduced and inherited bias](generative-ai-bias-potential.md) — related
+- Generative AI systems carry strong potential for introduced and inherited bias — related
 - [Students framed an effective GenAI course policy as an interconnected system in which knowledge, evaluation, collaboration, contextualization, autonomy, ethics, and institutional responsibility mutually shape one another](genai-policy-interconnected-system-seven-themes.md) — related

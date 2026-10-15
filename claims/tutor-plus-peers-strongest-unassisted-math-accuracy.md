@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: harsh-kumar-2026
-    resource: "https://arxiv.org/abs/2604.02677"
-    title: "Harsh Kumar, Zi Kang (Jace) Mu, Jonathan Vincentius, Ashton Anderson. (2026). Human Thinking under Plural LLM Assistance: Mathematical Problem Solving and Open-Ended Writing. Working Paper, July 2026, Toronto, Canada. https://arxiv.org/abs/2604.02677"
+    resource: "https://doi.org/10.48550/arxiv.2604.02677"
+    title: "Harsh Kumar, Zi Kang (Jace) Mu, Jonathan Vincentius, Ashton Anderson. (2026). Human Thinking under Plural LLM Assistance: Mathematical Problem Solving and Open-Ended Writing. Working Paper, July 2026, Toronto, Canada. https://arxiv.org/abs/2604.02677 [doi:10.48550/arxiv.2604.02677](https://doi.org/10.48550/arxiv.2604.02677)"
     author: Harsh Kumar, Zi Kang (Jace) Mu, Jonathan Vincentius, Ashton Anderson
     q: 3
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # In math problem solving, a tutor-plus-peers LLM arrangement produced the strongest unassisted post-task test accuracy, with accuracy increasing monotonically from Control to Tutor + Peers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r?` · `q3`
+> **Evidence** · 2 studies · 2 causal `r?` · `q3`
 
 ## Subclaims
 `q3 i?` Unassisted test accuracy increased monotonically across support conditions, with Tutor + Peers (~65%) highest and Control (~42%) lowest, and Tutor + Peers produced the largest significant gain over Control. [→ Harsh Kumar 2026](#harsh-kumar-2026)
@@ -39,7 +39,7 @@ sources:
 
 ### Harsh Kumar 2026
 
-Harsh Kumar, Zi Kang (Jace) Mu, Jonathan Vincentius, Ashton Anderson. (2026). Human Thinking under Plural LLM Assistance: Mathematical Problem Solving and Open-Ended Writing. Working Paper, July 2026, Toronto, Canada. https://arxiv.org/abs/2604.02677
+Harsh Kumar, Zi Kang (Jace) Mu, Jonathan Vincentius, Ashton Anderson. (2026). Human Thinking under Plural LLM Assistance: Mathematical Problem Solving and Open-Ended Writing. Working Paper, July 2026, Toronto, Canada. https://arxiv.org/abs/2604.02677 [doi:10.48550/arxiv.2604.02677](https://doi.org/10.48550/arxiv.2604.02677)
 
 `q3 · i?` · `causal · r?`
 

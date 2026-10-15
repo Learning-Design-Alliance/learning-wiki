@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: guo-2026
-    resource: "https://arxiv.org/abs/2609.29672"
-    title: "Guo, Q., Tang, J., Huang, X., Lin, H.-Y., Zhong, Y., & Zhuang, X. (2026). LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity. https://arxiv.org/abs/2609.29672"
+    resource: "https://doi.org/10.48550/arxiv.2609.29672"
+    title: "Guo, Q., Tang, J., Huang, X., Lin, H.-Y., Zhong, Y., & Zhuang, X. (2026). LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity. https://arxiv.org/abs/2609.29672 [doi:10.48550/arxiv.2609.29672](https://doi.org/10.48550/arxiv.2609.29672)"
     author: "Guo, Q., Tang, J., Huang, X., Lin, H.-Y., Zhong, Y., & Zhuang, X."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Guo 2026
 
-Guo, Q., Tang, J., Huang, X., Lin, H.-Y., Zhong, Y., & Zhuang, X. (2026). LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity. https://arxiv.org/abs/2609.29672
+Guo, Q., Tang, J., Huang, X., Lin, H.-Y., Zhong, Y., & Zhuang, X. (2026). LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity. https://arxiv.org/abs/2609.29672 [doi:10.48550/arxiv.2609.29672](https://doi.org/10.48550/arxiv.2609.29672)
 
 `q2 · i?` · `design · r1`
 
@@ -44,5 +44,5 @@ The article reports, citing Li et al. (2024), an analysis of administrative reco
 
 ## Related Claims
 
-- [China's Matriculation English Test ignores speaking skills despite adding communicative components after 1992](met-ignores-speaking-skills.md) — related
+- China's Matriculation English Test ignores speaking skills despite adding communicative components after 1992 — related
 - [Households pay substantial recurring sums for private supplementary language education, with Korea at 29.2 trillion won in 2024 and English the leading subject](shadow-education-household-spending-scale.md)

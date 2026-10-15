@@ -44,12 +44,11 @@ Quantitative mixed models pooled literature from 1966–2016 on curricula built 
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does adopting a scripted Direct Instruction programme raise achievement in schools, and what does it depend on?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **5 distinct studies** (2 causal, 1 quant-synthesis, 1 qualitative, 1 review), `q1`–`q4`, 0 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does adopting a scripted Direct Instruction programme raise achievement in schools, and what does it depend on?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **4 distinct studies** (1 quant-synthesis, 1 causal, 1 qualitative, 1 review), `q2`–`q4`, 0 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Stockard et al. 2018](https://doi.org/10.3102/0034654317751919) | q4 · quant-synthesis · r? | i? | this claim |
-| Mosley 1997 | q1 / q2 · causal · r1 | i? | [Prior research reviewed in the article reports higher basic-skills achievement for Direct ](prior-research-direct-instruction-higher-achievement.md) (supports); [The author concludes, citing Englemann, that students must be taught in the Direct Instruc](direct-instruction-two-years-before-significant-difference.md) (qualifies); [Sixth-grade students taught with Direct Instruction showed no statistically significant di](direct-instruction-no-significant-reading-difference-sixth-grade.md) (counts against) |
 | Bruce Thompson 2006 | q2 · causal · r1 | i? | [Direct Instruction schools' ratings rose significantly only when the program was fully sup](direct-instruction-gains-depend-on-implementation-support.md) (qualifies) |
 | [Tricia A. Zucker 2021](https://doi.org/10.1080/10409289.2020.1839288) | q2 · qualitative · r? | i? | [Teachers adhered less to scaffolding than to fully scripted curriculum components across t](scaffolding-lower-adherence-than-scripted-components.md) (qualifies) |
 | Gall 1994 | q2 · review · r2 | i? | [Widely implemented staff development (Madeline Hunter's ITIP) lacks empirical evidence of ](itip-lacks-empirical-evidence-achievement.md) (qualifies) |
@@ -81,6 +80,6 @@ Quantitative mixed models pooled literature from 1966–2016 on curricula built 
 - [Direct instruction](../patterns/direct-instruction.md) — the pattern page describing the instructional model itself
 - [Peer Tutoring Improves Achievement](peer-tutoring-improves-achievement.md) — a narrower finding that bears on this claim
 - [Phonics instruction has a small but statistically confirmed effect for children with reading disabilities, while Orton-Gillingham structured-literacy programs show positive but non-significant effects](structured-literacy-interventions-help-struggling-readers.md) — related
-- [Implementing specific SEL curricula can improve academic performance, including learning to read](sel-curricula-improve-academic-performance.md) — related
+- Implementing specific SEL curricula can improve academic performance, including learning to read — related
 - [Targeted instruction in number and operations improves young children's early math achievement, with a moderate level of supporting evidence](number-operations-instruction-improves-early-math-achievement.md) — a narrower finding that bears on this claim
 - [Formal theory offers advantages over common sense for guiding implementation, but empirical evidence of effectiveness is lacking](formal-theory-advantages-over-common-sense.md) — reports the opposite

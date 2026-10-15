@@ -47,4 +47,4 @@ Student ratings from the 155-respondent survey identified the top learner-to-lea
 - [Students rated real-world projects and discussions with structured or guiding questions as the most beneficial learner-to-content strategies](real-world-projects-structured-questions-top-content-strategies.md) — related
 - [Students most often rated collaboration opportunities, content interest, and class belonging as worse online](collaboration-interest-belonging-worse-online.md) — related
 - [Positive learning communities and collaborative social interaction drive learning](social-connection-and-collaboration-drive-learning.md) — related
-- [Online tools are extending STEM PLCs, with skilled facilitators, collaborative tools, and stable platforms identified as key components](online-stem-plcs-growing-phenomenon.md) — related
+- Online tools are extending STEM PLCs, with skilled facilitators, collaborative tools, and stable platforms identified as key components — related

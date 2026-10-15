@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: hongfei-yan-2026
-    resource: "https://arxiv.org/abs/2608.07523"
-    title: "Hongfei Yan, Jiangkai Xiong, Yiqing Li, and Chong Chen. (2026). From Evaluated Models to Evaluation Aids: A Multi-Evidence Study of LLM-Based Difficulty Calibration for Programming Examinations. https://arxiv.org/abs/2608.07523"
+    resource: "https://doi.org/10.48550/arxiv.2608.07523"
+    title: "Hongfei Yan, Jiangkai Xiong, Yiqing Li, and Chong Chen. (2026). From Evaluated Models to Evaluation Aids: A Multi-Evidence Study of LLM-Based Difficulty Calibration for Programming Examinations. https://arxiv.org/abs/2608.07523 [doi:10.48550/arxiv.2608.07523](https://doi.org/10.48550/arxiv.2608.07523)"
     author: Hongfei Yan, Jiangkai Xiong, Yiqing Li, and Chong Chen
     q: 2
     i: 3
@@ -31,7 +31,7 @@ sources:
 
 ### Hongfei Yan 2026
 
-Hongfei Yan, Jiangkai Xiong, Yiqing Li, and Chong Chen. (2026). From Evaluated Models to Evaluation Aids: A Multi-Evidence Study of LLM-Based Difficulty Calibration for Programming Examinations. https://arxiv.org/abs/2608.07523
+Hongfei Yan, Jiangkai Xiong, Yiqing Li, and Chong Chen. (2026). From Evaluated Models to Evaluation Aids: A Multi-Evidence Study of LLM-Based Difficulty Calibration for Programming Examinations. https://arxiv.org/abs/2608.07523 [doi:10.48550/arxiv.2608.07523](https://doi.org/10.48550/arxiv.2608.07523)
 
 `q2 · i3` · `associational · r2`
 
@@ -48,4 +48,4 @@ Exploratory exam-level correlations across 11 parallel-class exams mixing solved
 - [The negative AI-difficulty–performance correlation is stable across exposure-discount values 0 to 0.40, and is strongest with no adjustment](exposure-discount-sensitivity-stable-correlation.md) — related
 - [AI review difficulty also correlates with problem-level non-attempt rate, providing process evidence beyond pass rate](ai-difficulty-non-attempt-rate-correlation.md) — related
 - [The same review ruler supports longitudinal cross-semester problem tracking for one teacher's Data Structures and Algorithms B course](longitudinal-dsa-review-ruler-tracking.md) — related
-- [Reported GenAI use frequency shows only weak negative associations with OOP assessment performance](weak-negative-genai-use-performance-correlations.md) — related
+- Reported GenAI use frequency shows only weak negative associations with OOP assessment performance — related

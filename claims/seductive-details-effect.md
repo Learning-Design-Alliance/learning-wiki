@@ -207,7 +207,7 @@ This study found that the seductive details effect was not uniform: readers with
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — explains why seductive details harm novices more than experts
 - [Activation improves learning](activation-improves-learning.md) — relevant pre-instruction content can help, distinguishing activation from seductive details
 - [Cognitive load reduction improves learning](cognitive-load-reduction-improves-learning.md) — the broader family of load-reduction interventions to which removing seductive details belongs
-- [Previous knowledge and management experiences can inhibit new teachers' learning of new classroom management models](prior-experience-barriers-to-new-management-models.md) — related
+- Previous knowledge and management experiences can inhibit new teachers' learning of new classroom management models — related
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — related
 - [Redundancy Effect Impairs Learning](redundancy-principle.md) — related
 - [Rewarding an already-intrinsically-motivating activity can reduce future engagement with it](rewards-undermine-intrinsic-motivation.md) — both describe a well-intentioned motivational tactic that can backfire under identifiable conditions

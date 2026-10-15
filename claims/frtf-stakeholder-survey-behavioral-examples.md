@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Surveys of WIL students (n = 18), employers (n = 16), and educators (n = 26) produced 1,806 behavioral example responses, averaging 41.1 examples per talent (SD = 3.22). [→ Pretti 2021](#pretti-2021)

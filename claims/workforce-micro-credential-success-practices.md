@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Digital Promise reports that successful workforce micro-credential programs feature sustained programs and partnerships incorporating micro-credentials into additional pathways of opportunity, employer recognition, association with higher education and postsecondary credit, and flexibility and feasibility of offerings in both time and cost. [→ Rita Fennelly-Atkinson and April Williamson (Digital Promise) 2023](#rita-fennelly-atkinson-and-april-williamson-digital-promise-2023)
@@ -43,8 +44,8 @@ A descriptive implementation-practice slide citing the Tinsley et al. 2022 repor
 
 
 ## Related Claims
-- [Successful educator-context micro-credential use combines rigorous competency evidence, educator autonomy, incentives, and formal recognition](educator-micro-credential-success-practices.md) — related
-- [Learners in competency-based university programs reportedly scored higher on licensing exams, and micro-credentials integrate into MOOCs and flexible credit pathways](higher-ed-micro-credential-outcomes.md) — related
+- Successful educator-context micro-credential use combines rigorous competency evidence, educator autonomy, incentives, and formal recognition — related
+- Learners in competency-based university programs reportedly scored higher on licensing exams, and micro-credentials integrate into MOOCs and flexible credit pathways — related
 - [The report identifies five key themes across rural micro-credentialing initiatives, with partnerships the most prevalent](five-themes-rural-microcredential-initiatives.md) — a broader claim this one bears on
-- [Districts and universities increasingly attach concrete incentives to earning Digital Promise micro-credentials](recognizer-incentives-for-micro-credentials.md) — related
+- Districts and universities increasingly attach concrete incentives to earning Digital Promise micro-credentials — related
 - [Program appeal rested on flexibility and financial savings, with some modules completable in under 10 minutes](microcredential-appeal-flexibility-financial-savings.md) — a narrower finding that bears on this claim

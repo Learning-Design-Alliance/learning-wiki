@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: means-2020
-    resource: "https://digitalpromise.dspacedirect.org/items/32aee7c4-5363-4d50-bc9c-a338e7dfac7e"
-    title: "Means, B., and Neisler, J., with Langer Research Associates. (2020). Suddenly Online: A National Survey of Undergraduates During the COVID-19 Pandemic. San Mateo, CA: Digital Promise. https://digitalpromise.dspacedirect.org/items/32aee7c4-5363-4d50-bc9c-a338e7dfac7e"
+    resource: "https://doi.org/10.51388/20.500.12265/98"
+    title: "Means, B., and Neisler, J., with Langer Research Associates. (2020). Suddenly Online: A National Survey of Undergraduates During the COVID-19 Pandemic. San Mateo, CA: Digital Promise. https://digitalpromise.dspacedirect.org/items/32aee7c4-5363-4d50-bc9c-a338e7dfac7e [doi:10.51388/20.500.12265/98](https://doi.org/10.51388/20.500.12265/98)"
     author: Means, B., and Neisler, J., with Langer Research Associates
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Means 2020
 
-Means, B., and Neisler, J., with Langer Research Associates. (2020). Suddenly Online: A National Survey of Undergraduates During the COVID-19 Pandemic. San Mateo, CA: Digital Promise. https://digitalpromise.dspacedirect.org/items/32aee7c4-5363-4d50-bc9c-a338e7dfac7e
+Means, B., and Neisler, J., with Langer Research Associates. (2020). Suddenly Online: A National Survey of Undergraduates During the COVID-19 Pandemic. San Mateo, CA: Digital Promise. https://digitalpromise.dspacedirect.org/items/32aee7c4-5363-4d50-bc9c-a338e7dfac7e [doi:10.51388/20.500.12265/98](https://doi.org/10.51388/20.500.12265/98)
 
 `q3 · i?` · `associational · r2`
 
@@ -45,11 +45,11 @@ Analysts built a nine-point scale summing major problems plus points for frequen
 ## Related Claims
 - [Hispanic and low-income students reported more challenges and technology problems after the shift online than non-Hispanic White and higher-income peers; rural students did not differ](equity-gaps-online-transition-challenges.md) — related
 - [Undergraduate course satisfaction dropped sharply after courses moved fully online during COVID-19, with very satisfied students falling from 51 percent to 19 percent](satisfaction-drop-sudden-online-covid.md) — related
-- [Staying motivated was the most prevalent non-technology challenge to completing STEM courses at a distance, reported as a major problem by 45% of students](covid-stem-motivation-top-challenge.md) — related
+- Staying motivated was the most prevalent non-technology challenge to completing STEM courses at a distance, reported as a major problem by 45% of students — related
 - [Staying motivated was the most pervasive challenge of learning remotely, and students missed instructor feedback, peer collaboration, and hands-on experiences](motivation-and-lost-interaction-challenges-remote.md) — related
 - [The number of research-recommended online instructional practices used predicted student satisfaction, rising from 43 percent net satisfaction with 0–2 practices to 74 percent with 6–8](recommended-practices-count-predict-satisfaction.md) — related
 - [Hispanic students reported higher frequencies of six of the seven non-technology challenges measured in the survey](hispanic-students-six-of-seven-challenges-higher.md) — related
 - [Students experiencing more major challenges reported lower satisfaction with their post-COVID STEM course and learning](more-challenges-lower-post-covid-satisfaction.md) — related
 - [Motivation, internet connectivity, and hardware/software problems were widespread challenges in remote STEM courses](widespread-remote-stem-challenges-motivation-connectivity.md) — related
-- [Students attributed online-course problems more to the unplanned move online (45%) than to inherent limitations of online learning (37%)](problems-attributed-unplanned-move-not-online-learning.md) — related
+- Students attributed online-course problems more to the unplanned move online (45%) than to inherent limitations of online learning (37%) — related
 - [Pedagogical challenges inherent in distance and online learning must be considered in instructional design and software development](pedagogical-challenges-distance-learning-design-software.md) — a broader claim this one bears on

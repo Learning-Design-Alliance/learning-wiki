@@ -10,8 +10,8 @@ generated:
 evidence_strength: mixed
 sources:
   - id: dawei-xie-2026
-    resource: "https://arxiv.org/abs/2605.17259"
-    title: "Dawei Xie, Khalil Anderson, Tochukwu Eze, Chenghong Lin, Bookyung Shin, and Marcelo Worsley. (2026). CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy. https://arxiv.org/abs/2605.17259"
+    resource: "https://doi.org/10.48550/arxiv.2605.17259"
+    title: "Dawei Xie, Khalil Anderson, Tochukwu Eze, Chenghong Lin, Bookyung Shin, and Marcelo Worsley. (2026). CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy. https://arxiv.org/abs/2605.17259 [doi:10.48550/arxiv.2605.17259](https://doi.org/10.48550/arxiv.2605.17259)"
     author: Dawei Xie, Khalil Anderson, Tochukwu Eze, Chenghong Lin, Bookyung Shin, and Marcelo Worsley
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # LLM and human written 7C analyses show no overall difference in behavioral alignment or evidence correspondence, but align less on Communication and Constructive dimensions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` An independent judge model found no significant overall difference between human-human and human-LLM analysis pairs on behavioral alignment (3.50 vs 3.43, p=.370) or evidence correspondence (2.82 vs 2.65, p=.277). [→ Dawei Xie 2026](#dawei-xie-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Dawei Xie 2026
 
-Dawei Xie, Khalil Anderson, Tochukwu Eze, Chenghong Lin, Bookyung Shin, and Marcelo Worsley. (2026). CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy. https://arxiv.org/abs/2605.17259
+Dawei Xie, Khalil Anderson, Tochukwu Eze, Chenghong Lin, Bookyung Shin, and Marcelo Worsley. (2026). CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy. https://arxiv.org/abs/2605.17259 [doi:10.48550/arxiv.2605.17259](https://doi.org/10.48550/arxiv.2605.17259)
 
 `q2 · i?` · `design · r2`
 

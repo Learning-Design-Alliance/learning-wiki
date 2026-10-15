@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: kai-yao-2026
-    resource: "https://arxiv.org/abs/2607.28041"
-    title: "Kai Yao. (2026). When AI Does the Work, What Is Learning For? Post-Instrumental Learning and the Risk of Capacity Dissolution. arXiv. https://arxiv.org/abs/2607.28041"
+    resource: "https://doi.org/10.48550/arxiv.2607.28041"
+    title: "Kai Yao. (2026). When AI Does the Work, What Is Learning For? Post-Instrumental Learning and the Risk of Capacity Dissolution. arXiv. https://arxiv.org/abs/2607.28041 [doi:10.48550/arxiv.2607.28041](https://doi.org/10.48550/arxiv.2607.28041)"
     author: Kai Yao
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Kai Yao 2026
 
-Kai Yao. (2026). When AI Does the Work, What Is Learning For? Post-Instrumental Learning and the Risk of Capacity Dissolution. arXiv. https://arxiv.org/abs/2607.28041
+Kai Yao. (2026). When AI Does the Work, What Is Learning For? Post-Instrumental Learning and the Risk of Capacity Dissolution. arXiv. https://arxiv.org/abs/2607.28041 [doi:10.48550/arxiv.2607.28041](https://doi.org/10.48550/arxiv.2607.28041)
 
 `q1 · i?` · `theoretical · r3`
 

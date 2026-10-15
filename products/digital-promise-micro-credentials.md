@@ -45,7 +45,7 @@ sources:
 # Digital Promise Micro-credentials
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 13 claims (13 for) · 7 studies (6 design, 1 qualitative), `q1`–`q2` · 0 of 7 report an effect size · 13 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (2 design), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Digital Promise runs a platform and programme through which educators earn competency-based micro-credentials, with issuers including universities, nonprofits, districts, and the NEA.
@@ -63,18 +63,7 @@ Digital Promise runs a platform and programme through which educators earn compe
 
 ### Claims
 - [Computational thinking professional development was the most-cited support for integrating computational thinking into lessons, cited by 54 percent of teachers](../claims/ct-pd-top-integration-support-54-percent.md) [+W]
-- [Districts and universities increasingly attach concrete incentives to earning Digital Promise micro-credentials](../claims/recognizer-incentives-for-micro-credentials.md) [+W]
-- [As of mid-2017 the Digital Promise micro-credential ecosystem had drawn over 5,000 submissions from educators in approximately 550 districts, with about 55 percent of portfolio submitters awarded a micro-credential](../claims/dp-ecosystem-2017-submission-uptake.md) [+W]
-- [Nine states offered CEUs for Digital Promise micro-credentials by 2017, but no coherent framework existed for valuing micro-credentials](../claims/nine-states-ceus-no-coherent-valuation-framework.md) [+W]
-- [En el piloto, la mitad de los coaches y la mayoría de los maestros ganaron micro-credenciales alineadas con sus retos de coaching.](../claims/pr-coaching-pilot-microcredential-earnings.md) [+W]
-- [BCPS embedded micro-credentials into PLCs with S.T.A.T. teachers and awarded continuing professional development credit](../claims/bcps-stat-pilot-cpd-credit.md) [+W]
 - [The Friday Institute used micro-credential stacks to close the implementation gap left by MOOC-Ed content at scale](../claims/friday-institute-mooc-ed-implementation-gap-micro-credentials.md) [+W]
-- [KMSD's micro-credential compensation model supported teacher collaboration, with groups of 5 to 60 teachers earning together](../claims/kmsd-micro-credential-collaboration-groups.md) [+W]
-- [KMSD tied micro-credential attainment to permanent base-salary increases, and over 80% of its teachers earned micro-credentials](../claims/kmsd-salary-increase-micro-credentials.md) [+W]
-- [Micro-credential reflections push educators toward metacognition and self-evaluation](../claims/micro-credential-reflections-metacognition.md) [+W]
-- [MTLC developed the 11-credential Global Graduates stack to support personalized learning in Houston ISD's one-to-one PowerUp environment](../claims/mtlc-global-graduates-stack-hisd.md) [+W]
-- [Pilot participants earned micro-credentials aligned to their coaching challenges, and a school leader described micro-credentials as a strategy for increasing teachers' professional development](../claims/pr-pilot-microcredential-earning-and-value.md) [+W]
-- [Micro-credentials were a promising personalized professional learning option, with 376 earned and higher enthusiasm among earners](../claims/pr-micro-credentials-promising-personalized-learning.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -164,7 +153,6 @@ The Computational Thinking Micro-credentials are professional learning tools in 
 ## Claims
 
 - [Computational thinking professional development was the most-cited support for integrating computational thinking into lessons, cited by 54 percent of teachers](../claims/ct-pd-top-integration-support-54-percent.md) [+W]
-- [Districts and universities increasingly attach concrete incentives to earning Digital Promise micro-credentials](../claims/recognizer-incentives-for-micro-credentials.md) [+W]
 
 ## Related Elements
 
@@ -210,9 +198,6 @@ The ecosystem is Digital Promise's infrastructure for the design, development, a
 
 ## Claims
 
-- [As of mid-2017 the Digital Promise micro-credential ecosystem had drawn over 5,000 submissions from educators in approximately 550 districts, with about 55 percent of portfolio submitters awarded a micro-credential](../claims/dp-ecosystem-2017-submission-uptake.md) [+W]
-- [Nine states offered CEUs for Digital Promise micro-credentials by 2017, but no coherent framework existed for valuing micro-credentials](../claims/nine-states-ceus-no-coherent-valuation-framework.md) [+W]
-- [Districts and universities increasingly attach concrete incentives to earning Digital Promise micro-credentials](../claims/recognizer-incentives-for-micro-credentials.md) [+W]
 
 ## Related Elements
 
@@ -257,7 +242,6 @@ Las micro-credenciales son certificaciones digitales que verifican la competenci
 
 ## Claims
 
-- [En el piloto, la mitad de los coaches y la mayoría de los maestros ganaron micro-credenciales alineadas con sus retos de coaching.](../claims/pr-coaching-pilot-microcredential-earnings.md) [+W]
 
 ## Related Elements
 
@@ -297,12 +281,7 @@ Digital Promise defines educator micro-credentials as a professional learning cr
 
 ## Claims
 
-- [BCPS embedded micro-credentials into PLCs with S.T.A.T. teachers and awarded continuing professional development credit](../claims/bcps-stat-pilot-cpd-credit.md) [+W]
 - [The Friday Institute used micro-credential stacks to close the implementation gap left by MOOC-Ed content at scale](../claims/friday-institute-mooc-ed-implementation-gap-micro-credentials.md) [+W]
-- [KMSD's micro-credential compensation model supported teacher collaboration, with groups of 5 to 60 teachers earning together](../claims/kmsd-micro-credential-collaboration-groups.md) [+W]
-- [KMSD tied micro-credential attainment to permanent base-salary increases, and over 80% of its teachers earned micro-credentials](../claims/kmsd-salary-increase-micro-credentials.md) [+W]
-- [Micro-credential reflections push educators toward metacognition and self-evaluation](../claims/micro-credential-reflections-metacognition.md) [+W]
-- [MTLC developed the 11-credential Global Graduates stack to support personalized learning in Houston ISD's one-to-one PowerUp environment](../claims/mtlc-global-graduates-stack-hisd.md) [+W]
 
 ## Related Elements
 
@@ -346,7 +325,6 @@ Micro-credentials are "digital certifcations that verify an individual's compete
 
 ## Claims
 
-- [Pilot participants earned micro-credentials aligned to their coaching challenges, and a school leader described micro-credentials as a strategy for increasing teachers' professional development](../claims/pr-pilot-microcredential-earning-and-value.md) [+W]
 
 ## Related Elements
 
@@ -391,7 +369,6 @@ The project offered teachers a curated list of 22 Spanish-language micro-credent
 
 ## Claims
 
-- [Micro-credentials were a promising personalized professional learning option, with 376 earned and higher enthusiasm among earners](../claims/pr-micro-credentials-promising-personalized-learning.md) [+W]
 
 ## Related Elements
 
@@ -433,8 +410,6 @@ The micro-credentialing ecosystem is a set of platforms and issuers through whic
 
 ## Claims
 
-- [Districts and universities increasingly attach concrete incentives to earning Digital Promise micro-credentials](../claims/recognizer-incentives-for-micro-credentials.md) [+W]
-- [As of mid-2017 the Digital Promise micro-credential ecosystem had drawn over 5,000 submissions from educators in approximately 550 districts, with about 55 percent of portfolio submitters awarded a micro-credential](../claims/dp-ecosystem-2017-submission-uptake.md) [+W]
 
 ## Related Elements
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: cogevol-team-2026
-    resource: "https://arxiv.org/abs/2608.30968"
-    title: "CogEvol Team, CogEvol Inc. & Tsinghua University. (2026). CogEvol: Towards Efficient and Reliable Learning Environment Generation. arXiv:2608.30968v2. https://arxiv.org/abs/2608.30968"
+    resource: "https://doi.org/10.48550/arxiv.2608.30968"
+    title: "CogEvol Team, CogEvol Inc. & Tsinghua University. (2026). CogEvol: Towards Efficient and Reliable Learning Environment Generation. arXiv:2608.30968v2. https://arxiv.org/abs/2608.30968 [doi:10.48550/arxiv.2608.30968](https://doi.org/10.48550/arxiv.2608.30968)"
     author: "CogEvol Team, CogEvol Inc. & Tsinghua University"
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Anchored judge prompts restore score discrimination and raise the reward's agreement with independent human ratings (Spearman ρ 0.672→0.741)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2`–`r3` · `q2`
+> **Evidence** · 2 studies · 2 design `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` On the quality-judges-only configuration over 128 rated pages, the current prompts raise Pearson r from 0.609 to 0.715 and Spearman ρ from 0.672 to 0.741; the full pipeline raises ρ further to 0.749. [→ CogEvol Team 2026](#cogevol-team-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### CogEvol Team 2026
 
-CogEvol Team, CogEvol Inc. & Tsinghua University. (2026). CogEvol: Towards Efficient and Reliable Learning Environment Generation. arXiv:2608.30968v2. https://arxiv.org/abs/2608.30968
+CogEvol Team, CogEvol Inc. & Tsinghua University. (2026). CogEvol: Towards Efficient and Reliable Learning Environment Generation. arXiv:2608.30968v2. https://arxiv.org/abs/2608.30968 [doi:10.48550/arxiv.2608.30968](https://doi.org/10.48550/arxiv.2608.30968)
 
 `q2 · i?` · `design · r2`
 
@@ -66,7 +66,7 @@ Systematic divergence analysis on the 128-page rated sample: the report calls th
 - [An LLM-based analogy judge validated against expert judgments shows moderate-to-strong agreement and screens most generated analogies as meeting baseline adequacy](anvil-llm-judge-analogy-screening.md) — related
 - [Fine-tuned PLMs measure high-inference teaching practices better when the variable requires less pedagogical expertise, matching human-rater agreement on lexical variables but degrading on inference-heavy ones](plm-performance-depends-on-pedagogical-expertise-required.md) — related
 - [Human-LLM agreement on a complex multi-label codebook falls well below human-human agreement, while LLM-LLM agreement is comparable to human-human agreement](human-llm-agreement-gap-jaccard.md) — related
-- [LLM-human agreement is highest for identifying whether students listed a concept and lowest for judging definition correctness](coding-dimension-listing-easier-than-correct-defining.md) — related
+- LLM-human agreement is highest for identifying whether students listed a concept and lowest for judging definition correctness — related
 - [Human-LLM agreement remains low across constructs (κ = 0.000 to 0.419), with self-efficacy showing the best alignment and Prior KSAs none](human-llm-agreement-low-construct-varying.md) — related
 - [A screenshot-only reward was reward-hacked into producing visually convincing but unplayable games; hardening the reward with an interactivity probe and hard-fail gate reversed the collapse](reward-hacking-games-interactivity-probe.md) — related
 - [The LLM-judge scoring pipeline for the two metrics aligns with human labels and human raters](llm-judge-pipeline-validated-against-human-raters.md) — related

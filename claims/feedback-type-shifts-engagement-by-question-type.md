@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: chloe-qianhui-zhao-2026
-    resource: "https://arxiv.org/abs/2601.15280"
-    title: "Chloe Qianhui Zhao, Jie Cao, Jionghao Lin, and Kenneth R. Koedinger. (2026). LLM-based Multimodal Feedback Produces Equivalent Learning and Better Student Perceptions than Educator Feedback. LAK 2026. https://arxiv.org/abs/2601.15280"
+    resource: "https://doi.org/10.48550/arxiv.2601.15280"
+    title: "Chloe Qianhui Zhao, Jie Cao, Jionghao Lin, and Kenneth R. Koedinger. (2026). LLM-based Multimodal Feedback Produces Equivalent Learning and Better Student Perceptions than Educator Feedback. LAK 2026. https://arxiv.org/abs/2601.15280 [doi:10.48550/arxiv.2601.15280](https://doi.org/10.48550/arxiv.2601.15280)"
     author: Chloe Qianhui Zhao, Jie Cao, Jionghao Lin, and Kenneth R. Koedinger
     q: 3
     i: "?"
@@ -38,7 +38,7 @@ sources:
 # Feedback type shifts engagement by question type: educator feedback yields more MCQ submissions while AI feedback trends toward more open-ended revisions, with no overall difference
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · causal `r2` · `q3` · `i0` negligible
+> **Evidence** · 2 studies (3 entries) · 2 causal `r2` · `q3` · `i0` negligible
 
 ## Subclaims
 `q3 i?` Overall active-learning actions did not differ significantly between conditions (U = 4075.5, p = 0.0738). [→ Chloe Qianhui Zhao 2026](#chloe-qianhui-zhao-2026)
@@ -49,7 +49,7 @@ sources:
 
 ### Chloe Qianhui Zhao 2026
 
-Chloe Qianhui Zhao, Jie Cao, Jionghao Lin, and Kenneth R. Koedinger. (2026). LLM-based Multimodal Feedback Produces Equivalent Learning and Better Student Perceptions than Educator Feedback. LAK 2026. https://arxiv.org/abs/2601.15280
+Chloe Qianhui Zhao, Jie Cao, Jionghao Lin, and Kenneth R. Koedinger. (2026). LLM-based Multimodal Feedback Produces Equivalent Learning and Better Student Perceptions than Educator Feedback. LAK 2026. https://arxiv.org/abs/2601.15280 [doi:10.48550/arxiv.2601.15280](https://doi.org/10.48550/arxiv.2601.15280)
 
 `q3 · i?` · `causal · r2`
 

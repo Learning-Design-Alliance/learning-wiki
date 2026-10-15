@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: calvin-isley-2026
-    resource: "https://arxiv.org/abs/2609.22549"
-    title: "Calvin Isley, Johann D. Gaebler, and Sharad Goel. (2026). AI-written admissions essays are widespread but penalized. arXiv preprint. https://arxiv.org/abs/2609.22549"
+    resource: "https://doi.org/10.48550/arxiv.2609.22549"
+    title: "Calvin Isley, Johann D. Gaebler, and Sharad Goel. (2026). AI-written admissions essays are widespread but penalized. arXiv preprint. https://arxiv.org/abs/2609.22549 [doi:10.48550/arxiv.2609.22549](https://doi.org/10.48550/arxiv.2609.22549)"
     author: Calvin Isley, Johann D. Gaebler, and Sharad Goel
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Calvin Isley 2026
 
-Calvin Isley, Johann D. Gaebler, and Sharad Goel. (2026). AI-written admissions essays are widespread but penalized. arXiv preprint. https://arxiv.org/abs/2609.22549
+Calvin Isley, Johann D. Gaebler, and Sharad Goel. (2026). AI-written admissions essays are widespread but penalized. arXiv preprint. https://arxiv.org/abs/2609.22549 [doi:10.48550/arxiv.2609.22549](https://doi.org/10.48550/arxiv.2609.22549)
 
 `q2 · i?` · `causal · r2`
 

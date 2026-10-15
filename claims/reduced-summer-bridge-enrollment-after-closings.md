@@ -44,4 +44,4 @@ Comparison of Summer Bridge enrollment for third-, sixth-, and eighth-grade disp
 
 ## Related Claims
 - [Displaced students changed schools a second time at roughly twice the rate of comparison students during the first year and the following summer](elevated-subsequent-mobility-after-displacement.md) — related
-- [There was no increase in the share of families leaving CPS after the school closings; 94 percent reenrolled in a CPS school](chicago-closings-no-increase-in-families-leaving-district.md) — related
+- There was no increase in the share of families leaving CPS after the school closings; 94 percent reenrolled in a CPS school — related

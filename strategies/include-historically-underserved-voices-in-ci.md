@@ -17,7 +17,7 @@ sources:
 # Include historically underserved voices in all stages of continuous improvement work, including designing solutions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 Interviewees argued that those directly impacted by the system should be involved in all stages of improvement work, beyond being subjects of empathy interviews. As one TA support provider explained, "we would believe in having a much broader group of folks at the table to share their experience of being a part of the system." Without broad stakeholder contribution, they argued, understanding of the system and the improvement efforts would be incomplete. Leaders also advised that teams leading this work "need to be representative of the entire stakeholder community."
@@ -38,7 +38,6 @@ Interviewees argued that those directly impacted by the system should be involve
 
 ## Claims
 
-- [Including educator voice helps researchers understand educator, student, and system needs](../claims/educator-voice-needed-research-relevance.md) [+W]
 
 ## Related Strategies
 

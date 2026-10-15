@@ -18,7 +18,7 @@ sources:
 # Videodisc authoring and production system (VAPS)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 VAPS is an Army-oriented hardware and software system for authoring, producing, editing, testing, mastering, and replicating interactive videodisc training materials.
@@ -28,7 +28,6 @@ VAPS is an Army-oriented hardware and software system for authoring, producing, 
 
 ### Claims
 
-- [A single videodisc side can hold the equivalent of large volumes of Army printed and audiovisual training materials](../claims/videodisc-storage-packs-army-training-materials.md) [+W]
 
 ## Related Products and Programmes
 -

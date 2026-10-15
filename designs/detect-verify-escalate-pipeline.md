@@ -17,7 +17,7 @@ sources:
 # Detect-verify-escalate pipeline with four pedagogically distinct routes
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The pipeline routes each student submission through an answer-key check and, for correct-answer cases, an LLM graduated assessment producing four routes: Red (wrong answer, automated correction), Green (clear reasoning, no action), Amber-1 (unclear reasoning, automated diagnostic follow-up question), and Amber-2 (misconception detected, verification then teacher escalation). Figure 1 shows approximate volumes per 1,000 submissions: 736 LLM calls and 64 teacher reviews. The design responds to the paper's findings that fine-tuned models cannot assess method validity and that precision is too low for direct teacher escalation.
@@ -37,8 +37,6 @@ The pipeline routes each student submission through an answer-key check and, for
 - routing automated feedback according to reasoning validity and diagnostic certainty
 
 ### Claims
-- [Reasoning Model Detection False Alarm Tradeoff](../claims/reasoning-model-detection-false-alarm-tradeoff.md) [+M]
-- [Fine Tuned Classifiers Miss Correct Answer Misconceptions](../claims/fine-tuned-classifiers-miss-correct-answer-misconceptions.md) [+M]
 
 ## Related Designs
 - 

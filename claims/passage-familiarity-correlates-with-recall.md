@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r?` · `q2` · `i3` large
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i3` The correlation between passage familiarity and recall was .52. [→ Gagne 1981](#gagne-1981)
@@ -64,4 +65,4 @@ In Experiment 3 of the prior-knowledge article, familiarity and rated imageabili
 
 - [Prior Knowledge Determines New Learning](prior-knowledge-determines-new-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Passage cohesion showed no effect on delayed recall; means showed greater recall from less cohesive passages](cohesion-no-effect-delayed-recall.md) — related
-- [The five passage attributes are significantly intercorrelated, with imagery, interest, and linkage highly correlated](passage-attributes-intercorrelated.md) — related
+- The five passage attributes are significantly intercorrelated, with imagery, interest, and linkage highly correlated — related

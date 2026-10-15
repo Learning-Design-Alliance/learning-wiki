@@ -17,7 +17,7 @@ sources:
 # VCU University College model: cohort-based first-year core curriculum with centralized support and proactive advising
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 Virginia Commonwealth University's University College, launched in 2006, is built around "a cohesive core curriculum with a limited set of course options and small class sizes," taught by dedicated cross-disciplinary faculty, with a full-year cohort class. It pairs this with proactive advising — required advisor meetings twice a semester, faculty attendance reporting, and outreach at the first sign of trouble — plus learning, writing, and supplemental instruction centers. After implementation, DFW rates in core courses decreased significantly and retention rose.
@@ -39,7 +39,6 @@ Virginia Commonwealth University's University College, launched in 2006, is buil
 - First-year course success, retention, and on-time graduation
 
 ### Claims
-- [Top Gap Closers Narrowed Gaps Seven Points](../claims/top-gap-closers-narrowed-gaps-seven-points.md) [+M]
 
 ## Related Designs
 - 

@@ -97,21 +97,21 @@ This research synthesis meta-analysed 99 studies (N = 7,669) of leisure-time rea
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — well-chosen books manage the language load a young child must process in the moment
 - [Cognitive load reduction improves learning.](cognitive-load-reduction-improves-learning.md) — shared reading lets an adult carry the decoding load so the child can attend to meaning
 - [In teacher-led big-book reading, children exercise cognitive autonomy by making their own connections between spoken and written words within the activity's boundaries](big-book-reading-cognitive-autonomy.md) — related
-- [Children attending early childhood education programs are far more likely to be on track in emergent literacy and numeracy](cl-early-childhood-education-improves-school-readiness.md) — related
+- Children attending early childhood education programs are far more likely to be on track in emergent literacy and numeracy — related
 - [Conversational turn-taking predicts language development better than raw word count or socioeconomic status.](conversational-turns-predict-language-development.md) — related
 - [Dialogic Reading Improves Expressive Language](dialogic-reading-improves-language-outcomes.md) — related
 - [Parent Involvement Improves Early Reading](parent-involvement-improves-early-reading.md) — related
 - [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](parent-involvement-improves-achievement.md) — related
-- [A disadvantaged-child program with heavy oral language emphasis led all compared programs in cognitive gains](oral-language-emphasis-program-led-cognitive-gains.md) — related
+- A disadvantaged-child program with heavy oral language emphasis led all compared programs in cognitive gains — related
 - [Parent Coaching Outperforms Information Only](parent-coaching-outperforms-information-only.md) — related
-- [Meta-analyses consistently validate extensive reading benefits across languages and populations, with program length as a moderator](meta-analyses-validate-extensive-reading-benefits-length-moderates.md) — related
+- Meta-analyses consistently validate extensive reading benefits across languages and populations, with program length as a moderator — related
 - [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](oral-language-predicts-reading-achievement.md) — related
 - [Using Little Books in kindergarten produces potentially positive effects on general reading achievement, with all three delivery variations (home only, school only, and home and school) outperforming a comparison condition on the Metropolitan Readiness Test](little-books-potentially-positive-general-reading-achievement.md) — related
 - [Parent-delivered READY4K! text messages improve preschool children's early literacy performance](ready4k-texts-improve-preschool-literacy.md) — related
 - [The article reviews evidence that aspects of the learning environment most closely associated with successful development of early academic competence differ by socioeconomic background](ses-differences-access-academically-auspicious-environments.md) — related
 - [Early childhood education programs often yield larger benefits for children most in need, such as low-income children, children of color, and those with fewer educational resources](ece-larger-benefits-children-most-in-need.md) — related
 - [Language and print knowledge instructional features produced statistically comparable performance within their domains, leaving unclear which features are most effective](instructional-features-comparable-within-domains.md) — a narrower finding that bears on this claim
-- [Reading development proceeds from oral language through decoding and fluency to comprehension, but as an interwoven lattice rather than a simple linear process](reading-development-interwoven-lattice-not-linear.md) — related
+- Reading development proceeds from oral language through decoding and fluency to comprehension, but as an interwoven lattice rather than a simple linear process — related
 - [Book-sharing interventions produce a large improvement in caregiver book-sharing competence (d=1.01)](book-sharing-caregiver-competence-large-effect.md) — related
 - [Child age, caregiver education and country income level do not moderate book-sharing intervention effects on child language](book-sharing-effects-invariant-age-education-income.md) — related
 - [Native-speaker children have about 2,500 words at school entry and vocabulary growth becomes exponential once independent reading begins](ns-vocabulary-2500-entry-exponential-growth.md) — related

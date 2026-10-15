@@ -265,16 +265,16 @@ This claim does not imply that pure discovery is useless or that direct telling 
 - [Advance organizers improve learning.](advance-organizers-improve-learning.md) — a form of upfront guidance that structures new material for novices
 - [Clear structure improves learning.](clear-structure-improves-learning.md) — explicit structure is a low-cost form of the guidance novices need
 - [Ambiguous tasks with a revision step help students recognize the role of assumptions in mathematical activity](ambiguous-tasks-with-revision-help-students-recognize-role-of-assumptions.md) — related
-- [The HPM learning simulation's directed activation mechanism, developed to minimize working memory load, yields a new account of the Zeigarnik effect](hpm-directed-activation-zeigarnik-account.md) — related
+- The HPM learning simulation's directed activation mechanism, developed to minimize working memory load, yields a new account of the Zeigarnik effect — related
 - [Teacher Guided Inquiry Outperforms Student Led](teacher-guided-inquiry-outperforms-student-led.md) — related
 - [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — related
 - [Guided Play Improves Academic Outcomes](play-based-learning-improves-outcomes.md) — related
 - [Kindergartners struggle to give verbal causal explanations, but model-based tasks let most of them express causal ideas](model-tasks-overcome-verbal-explanation-limits.md) — related
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
-- [Rapid prototyping methods can amplify novice designers' tendency to commit to a solution too early.](rapid-prototyping-can-amplify-novice-designers-premature-commitment-to-solutions.md) — related
+- Rapid prototyping methods can amplify novice designers' tendency to commit to a solution too early. — related
 - [Some students found the guided-inquiry worksheet activities insufficiently thought-provoking and the data exchange troublesome](students-criticize-inquiry-worksheets-low-thinking.md) — related
 - [Taiwan's constructivist mathematics reform, introduced in 1993, was stopped in 2003 after students taught under it underperformed traditionally educated peers in high school](taiwan-constructivist-math-reform-stopped-2003.md) — a narrower finding that bears on this claim
-- [Verbal and pictorial tools-mediators fail to evoke contradiction discovery without mediation of meaning](tools-mediation-fails-without-mediation-of-meaning.md) — related
+- Verbal and pictorial tools-mediators fail to evoke contradiction discovery without mediation of meaning — related
 - [A 1966 conceptual paper reports, citing earlier programmed-instruction work, that a rule-example-incomplete-example sequence appeared efficient for introducing a new rule](rule-example-sequence-efficient-rule-introduction.md) — a narrower finding that bears on this claim
 - [Self-discovery through errorful exploration is basically incompatible with error minimization in instruction](self-discovery-incompatible-with-error-minimization.md) — reports the opposite
 - [Review synthesis: explicit teaching matters, but its advantage over other approaches varies by context and structure](explicit-instruction-context-dependent-synthesis.md) — related
@@ -298,7 +298,7 @@ This claim does not imply that pure discovery is useless or that direct telling 
 - [Worked examples confer a larger advantage over unassisted discovery than direct teaching does](worked-examples-largest-advantage-over-unassisted-discovery.md) — related
 - [Constructivism](../theories/constructivism.md) — the learning theory tradition from which discovery learning derives, and which this claim qualifies rather than rejects
 - [Scaffolding](../elements/scaffolding.md) — the most common structural form guidance takes inside discovery activities
-- [Discovery method in motor skill learning was superior to teacher-directed approach in children's attitudes and social interaction](discovery-method-motor-learning-attitudes.md) — related
+- Discovery method in motor skill learning was superior to teacher-directed approach in children's attitudes and social interaction — related
 - [Case-based learning improves exam performance](case-based-learning-improves-exam-performance.md) — a structured, guided case format as an example of scaffolded inquiry
 - [Collaborative learning improves outcomes](collaborative-learning-improves-outcomes.md) — collaboration is another form of support that can structure inquiry
 - [Conflict-based instruction improves science conceptual learning, though staged contradictions helped only learners who reported being confused, and no study isolates disequilibrium as the mechanism](cognitive-disequilibrium-motivates-conceptual-change.md) — the motivational rationale for inquiry, which guidance must balance against load

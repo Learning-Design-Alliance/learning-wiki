@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: rummel-2026
-    resource: "https://arxiv.org/abs/2609.09856"
-    title: "Rummel, N., Nachtigall, V., & Panadero, E. (2026). “With a Thermomix You Lose the Ability to Cook”: A Kitchen Machine Analogy for Applications of Generative AI in Education. https://arxiv.org/abs/2609.09856"
+    resource: "https://doi.org/10.48550/arxiv.2609.09856"
+    title: "Rummel, N., Nachtigall, V., & Panadero, E. (2026). “With a Thermomix You Lose the Ability to Cook”: A Kitchen Machine Analogy for Applications of Generative AI in Education. https://arxiv.org/abs/2609.09856 [doi:10.48550/arxiv.2609.09856](https://doi.org/10.48550/arxiv.2609.09856)"
     author: "Rummel, N., Nachtigall, V., & Panadero, E."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Active engagement with AI outputs (cross-verifying, refining prompts, revising) supports productive learning and depends on learners' prior knowledge
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · theoretical `r2`–`r3` · `q2`
+> **Evidence** · 2 studies · 2 theoretical `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` The more experienced learners are in academic writing, the more thoroughly they revise an AI-generated text (as reported from Radtke & Rummel, 2025). [→ Rummel 2026](#rummel-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Rummel 2026
 
-Rummel, N., Nachtigall, V., & Panadero, E. (2026). “With a Thermomix You Lose the Ability to Cook”: A Kitchen Machine Analogy for Applications of Generative AI in Education. https://arxiv.org/abs/2609.09856
+Rummel, N., Nachtigall, V., & Panadero, E. (2026). “With a Thermomix You Lose the Ability to Cook”: A Kitchen Machine Analogy for Applications of Generative AI in Education. https://arxiv.org/abs/2609.09856 [doi:10.48550/arxiv.2609.09856](https://doi.org/10.48550/arxiv.2609.09856)
 
 `q2 · i?` · `theoretical · r3`
 

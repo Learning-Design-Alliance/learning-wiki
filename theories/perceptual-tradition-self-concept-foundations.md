@@ -16,7 +16,7 @@ sources:
 # Theoretical foundations: the perceptual tradition and self-concept theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Invitational Education 'emanates from two theoretical perspectives: the perceptual tradition and self-concept theory.' The perceptual tradition maintains that 'people do what they do because of how they perceive the world at the moment of behaving,' holding that all behavior is a function of the individual's perceived world. Self-concept is defined as each individual's perception of his or her personal world, with six listed characteristics including seeking consistency, allowing change when desire is high and risk is low, and learning from inviting or disinviting experiences. From this view, a good self-concept is essentially the memory of inviting acts that are accepted, extended, and successfully acted on.
@@ -37,8 +37,6 @@ Invitational Education 'emanates from two theoretical perspectives: the perceptu
 
 ### Claims
 
-- [Both SDT and IE hold that people's actions are based on their perceptions of their contexts](../claims/perception-determines-behavior-ie-sdt.md) [+W]
-- [IE and SDT share common roots in humanistic psychology's rejection of behaviorism](../claims/ie-sdt-common-humanistic-roots.md) [+W]
 
 ## Related Theories
 

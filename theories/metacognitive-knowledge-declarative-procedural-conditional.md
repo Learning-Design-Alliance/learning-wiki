@@ -16,7 +16,7 @@ sources:
 # Metacognitive knowledge framework: knowledge of cognition divided into declarative, procedural, and conditional knowledge
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 7 claims (7 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 7 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article adopts Flavell's and Schraw's framework in which metacognition comprises metacognitive knowledge and regulation of cognition, and knowledge of cognition "can be further divided into three kinds of metacognitive awareness: declarative, procedural and conditional knowledge". Declarative knowledge is knowing what (about oneself as a learner and factors influencing performance), procedural knowledge is knowing how, represented as strategies, and conditional knowledge is knowing why and when strategies are appropriate. The study applies the declarative and procedural components to analyze skilled EFL writers' interviews.
@@ -37,13 +37,8 @@ The article adopts Flavell's and Schraw's framework in which metacognition compr
 
 ### Claims
 
-- [Skilled EFL writers undergo a recursive writing process in which planning, writing, and reviewing repeat and embed within each other during composing.](../claims/skilled-efl-writers-recursive-writing-process.md) [+M]
 - [Skilled EFL writers possess audience awareness, keeping readers in mind to judge whether their writing is understandable and coherent.](../claims/skilled-writers-audience-awareness.md) [+M]
-- [Skilled EFL writers are aware that coherence and continuity are required elements of text and deliberately fulfill coherence requirements when composing and revising.](../claims/skilled-writers-coherence-continuity-awareness.md) [+M]
 - [Skilled EFL writers apply procedural planning strategies of brainstorming, organizing, and outlining before writing, and revising strategies of pause-to-think, reviewing, and local plus global revision.](../claims/skilled-writers-planning-revising-strategies.md) [+M]
-- [Skilled Taiwanese EFL writers have acquired and adopt the English rhetoric conventions of thesis statement and topic sentence, which are new to Taiwanese EFL students.](../claims/skilled-writers-rhetoric-conventions-knowledge.md) [+M]
-- [Skilled EFL writers are aware of their own writing strengths and weaknesses and exploit strengths while compensating for weaknesses such as limited vocabulary.](../claims/skilled-writers-self-awareness-strength-weakness.md) [+M]
-- [Skilled EFL writers possess declarative knowledge that topic familiarity influences how much and how well they can write about a topic.](../claims/skilled-writers-topic-familiarity-knowledge.md) [+M]
 
 ## Related Theories
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: lier-jin-2026
-    resource: "https://arxiv.org/abs/2608.08942"
-    title: "Lier Jin, Lan Hu, Binqi Shen, Hanyu Cai, and Yuting Xin. (2026). Same Question, Different Answer? Measuring and Mitigating Prompt Privilege for Equitable AI Access. https://arxiv.org/abs/2608.08942"
+    resource: "https://doi.org/10.48550/arxiv.2608.08942"
+    title: "Lier Jin, Lan Hu, Binqi Shen, Hanyu Cai, and Yuting Xin. (2026). Same Question, Different Answer? Measuring and Mitigating Prompt Privilege for Equitable AI Access. https://arxiv.org/abs/2608.08942 [doi:10.48550/arxiv.2608.08942](https://doi.org/10.48550/arxiv.2608.08942)"
     author: Lier Jin, Lan Hu, Binqi Shen, Hanyu Cai, and Yuting Xin
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # After PET normalization, no statistically significant performance differences remain between user cohorts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
+> **Evidence** · 2 studies · 2 causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The statistically significant baseline disparity between Low Literacy and Prompt Engineer cohorts is reduced by half after PET, and no pairwise comparison remains statistically significant. [→ Lier Jin 2026](#lier-jin-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Lier Jin 2026
 
-Lier Jin, Lan Hu, Binqi Shen, Hanyu Cai, and Yuting Xin. (2026). Same Question, Different Answer? Measuring and Mitigating Prompt Privilege for Equitable AI Access. https://arxiv.org/abs/2608.08942
+Lier Jin, Lan Hu, Binqi Shen, Hanyu Cai, and Yuting Xin. (2026). Same Question, Different Answer? Measuring and Mitigating Prompt Privilege for Equitable AI Access. https://arxiv.org/abs/2608.08942 [doi:10.48550/arxiv.2608.08942](https://doi.org/10.48550/arxiv.2608.08942)
 
 `q2 · i?` · `causal · r1`
 

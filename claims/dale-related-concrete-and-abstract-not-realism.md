@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Dale's actual position was that relating abstract learning to concrete experience makes learning more meaningful; he never claimed more cues or more realism is better. [→ Seels 1997](#seels-1997)
@@ -43,8 +44,8 @@ The author, Dale's mentee, corrects the misconception that Dale was a realism th
 
 
 ## Related Claims
-- [The Cone of Experience rests on conflated theoretical assumptions, mixing humanistic and hierarchical task-analysis viewpoints](cone-conflated-theoretical-assumptions.md) — related
-- [The validity of the cone approach to media selection was questioned by 1969 because instructional design, not media alone, shapes media characteristics](cone-media-selection-questioned-tosti-ball.md) — related
+- The Cone of Experience rests on conflated theoretical assumptions, mixing humanistic and hierarchical task-analysis viewpoints — related
+- The validity of the cone approach to media selection was questioned by 1969 because instructional design, not media alone, shapes media characteristics — related
 - [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](manipulatives-require-connection-to-concept.md) — related
-- [Relational-domain programs are argued to be workable only under highly individualized instruction matched to learners' concrete-abstract developmental stage](individualized-instruction-relational-domain.md) — related
-- [A theoretical gap exists between delivery-system/media theory and instructional strategy theory and other ISD steps](gap-between-media-theory-and-isd-steps.md) — related
+- Relational-domain programs are argued to be workable only under highly individualized instruction matched to learners' concrete-abstract developmental stage — related
+- A theoretical gap exists between delivery-system/media theory and instructional strategy theory and other ISD steps — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: lina-shanley-2017
-    resource: "https://www.nwea.org/research/publication/instructors-technology-experience-and-ipad-delivered-intervention-implementation-a-mixed-methods-replication-study/"
-    title: "Lina Shanley, Mari Strand Cary, Ben Clarke, Meg Guerreiro, Michael Thier. (2017). Instructors’ technology experience and iPad delivered intervention implementation: A mixed methods replication study. Educational Technology Research and Development 65, 815–830. https://www.nwea.org/research/publication/instructors-technology-experience-and-ipad-delivered-intervention-implementation-a-mixed-methods-replication-study/"
+    resource: "https://doi.org/10.1007/s11423-016-9488-8"
+    title: "Lina Shanley, Mari Strand Cary, Ben Clarke, Meg Guerreiro, Michael Thier. (2017). Instructors’ technology experience and iPad delivered intervention implementation: A mixed methods replication study. Educational Technology Research and Development 65, 815–830. https://www.nwea.org/research/publication/instructors-technology-experience-and-ipad-delivered-intervention-implementation-a-mixed-methods-replication-study/ [doi:10.1007/s11423-016-9488-8](https://doi.org/10.1007/s11423-016-9488-8)"
     author: Lina Shanley, Mari Strand Cary, Ben Clarke, Meg Guerreiro, Michael Thier
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Lina Shanley 2017
 
-Lina Shanley, Mari Strand Cary, Ben Clarke, Meg Guerreiro, Michael Thier. (2017). Instructors’ technology experience and iPad delivered intervention implementation: A mixed methods replication study. Educational Technology Research and Development 65, 815–830. https://www.nwea.org/research/publication/instructors-technology-experience-and-ipad-delivered-intervention-implementation-a-mixed-methods-replication-study/
+Lina Shanley, Mari Strand Cary, Ben Clarke, Meg Guerreiro, Michael Thier. (2017). Instructors’ technology experience and iPad delivered intervention implementation: A mixed methods replication study. Educational Technology Research and Development 65, 815–830. https://www.nwea.org/research/publication/instructors-technology-experience-and-ipad-delivered-intervention-implementation-a-mixed-methods-replication-study/ [doi:10.1007/s11423-016-9488-8](https://doi.org/10.1007/s11423-016-9488-8)
 
 `q2 · i?` · `associational · r?`
 

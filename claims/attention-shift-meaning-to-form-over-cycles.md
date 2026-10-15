@@ -46,7 +46,7 @@ The article draws on Schmidt's (2001) claim that attention is a limited resource
 - [Attention](../learner-variables/attention.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Language subsystems may show supportive, competitive, or precursor relationships depending on available cognitive resources](subsystems-show-supportive-competitive-precursor-relationships.md) — related
+- Language subsystems may show supportive, competitive, or precursor relationships depending on available cognitive resources — related
 - [Early-stage IDC growth shows simplification, linearity, and dogmatism, with focal points shifting from format to content to technology across rounds](novice-idc-growth-simplification-linearity-dogmatism.md) — related
 - [Purely mechanical drills are of limited use because they do not train learners to conceptualize a meaning and express it linguistically](mechanical-drills-limited-use-meaning-form.md) — related
 - [Structured repetition gains in fluency depend on repeating the same task](structured-repetition-fluency-task-specific.md) — related

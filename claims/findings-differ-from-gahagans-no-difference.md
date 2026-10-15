@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` The study's finding of significantly different teacher mediation patterns contradicts the Gahagans' (1970) postulate of no difference in teacher mediation talk patterns. [→ Stecher 1976](#stecher-1976)
@@ -43,6 +44,6 @@ In the discussion the author contrasts her results with the Gahagans' earlier st
 
 
 ## Related Claims
-- [Verbal and pictorial tools-mediators fail to evoke contradiction discovery without mediation of meaning](tools-mediation-fails-without-mediation-of-meaning.md) — related
+- Verbal and pictorial tools-mediators fail to evoke contradiction discovery without mediation of meaning — related
 - [Teacher-initiated and student-mediated semantic mapping did not differ significantly in their effects on EFL reading comprehension](teacher-initiated-and-student-mediated-mapping-no-difference.md) — related
 - [High teacher mediation is associated with more children talking and higher frequency of both elaborated and restricted talk](high-mediation-more-child-talk-both-codes.md) — related

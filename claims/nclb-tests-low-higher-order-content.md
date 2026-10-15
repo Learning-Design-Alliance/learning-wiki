@@ -46,4 +46,4 @@ The paper reports a RAND Corporation evaluation of state test item depth under N
 - [Significantly more TPP teachers encouraged students' higher-order thinking skills than district-supported comparison teachers](tpp-teachers-encouraged-higher-order-thinking.md) — related
 - [ITBS mathematics is heavily weighted toward computation while ISAT contains up to three times as many items on algebra, geometry, measurement, and probability and statistics](itbs-computation-isat-higher-order-math-content.md) — related
 - [The Teacher Potential Project produced positive impacts on specific Common Core-aligned instructional practices, including engaging students with texts, supporting text evidence use, and supporting higher order thinking](tpp-positive-impacts-ccss-aligned-practices.md) — related
-- [PARCC and Smarter Balanced assessments measure higher-order skills more fully than prior tests](parcc-sbac-measure-higher-order-more-fully.md) — related
+- PARCC and Smarter Balanced assessments measure higher-order skills more fully than prior tests — related

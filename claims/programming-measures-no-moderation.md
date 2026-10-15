@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: griffin-pitts-2026
-    resource: "https://arxiv.org/abs/2604.01114"
-    title: "Griffin Pitts, Neha Rani, and Weedguet Mildort. (2026). Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators. Preprint, accepted to AIED 2026. https://arxiv.org/abs/2604.01114"
+    resource: "https://doi.org/10.48550/arxiv.2604.01114"
+    title: "Griffin Pitts, Neha Rani, and Weedguet Mildort. (2026). Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators. Preprint, accepted to AIED 2026. https://arxiv.org/abs/2604.01114 [doi:10.48550/arxiv.2604.01114](https://doi.org/10.48550/arxiv.2604.01114)"
     author: Griffin Pitts, Neha Rani, and Weedguet Mildort
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Griffin Pitts 2026
 
-Griffin Pitts, Neha Rani, and Weedguet Mildort. (2026). Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators. Preprint, accepted to AIED 2026. https://arxiv.org/abs/2604.01114
+Griffin Pitts, Neha Rani, and Weedguet Mildort. (2026). Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators. Preprint, accepted to AIED 2026. https://arxiv.org/abs/2604.01114 [doi:10.48550/arxiv.2604.01114](https://doi.org/10.48550/arxiv.2604.01114)
 
 `q3 · i?` · `associational · r1`
 

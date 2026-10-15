@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: hyeonwook-kim-2026
-    resource: "https://arxiv.org/abs/2608.23968"
-    title: "Hyeonwook Kim, Xuesi Chen, Alex Cabral, Cindy Kaiying Lin, Udit Gupta, Josiah Hester. (2026). When LLMs Slow Down: How Environmental Impacts Mediate University Students' LLM Usage. https://arxiv.org/abs/2608.23968"
+    resource: "https://doi.org/10.48550/arxiv.2608.23968"
+    title: "Hyeonwook Kim, Xuesi Chen, Alex Cabral, Cindy Kaiying Lin, Udit Gupta, Josiah Hester. (2026). When LLMs Slow Down: How Environmental Impacts Mediate University Students' LLM Usage. https://arxiv.org/abs/2608.23968 [doi:10.48550/arxiv.2608.23968](https://doi.org/10.48550/arxiv.2608.23968)"
     author: Hyeonwook Kim, Xuesi Chen, Alex Cabral, Cindy Kaiying Lin, Udit Gupta, Josiah Hester
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Hyeonwook Kim 2026
 
-Hyeonwook Kim, Xuesi Chen, Alex Cabral, Cindy Kaiying Lin, Udit Gupta, Josiah Hester. (2026). When LLMs Slow Down: How Environmental Impacts Mediate University Students' LLM Usage. https://arxiv.org/abs/2608.23968
+Hyeonwook Kim, Xuesi Chen, Alex Cabral, Cindy Kaiying Lin, Udit Gupta, Josiah Hester. (2026). When LLMs Slow Down: How Environmental Impacts Mediate University Students' LLM Usage. https://arxiv.org/abs/2608.23968 [doi:10.48550/arxiv.2608.23968](https://doi.org/10.48550/arxiv.2608.23968)
 
 `q2 · i?` · `design · r2`
 

@@ -54,4 +54,4 @@ The article reports, citing Abedi and Lord (2001), that "linguistic simplificati
 
 
 ## Related Claims
-- [Wraparound SES math gains are notable for Hispanic, female, and Title I students](wraparound-ses-subgroup-gains.md) — related
+- Wraparound SES math gains are notable for Hispanic, female, and Title I students — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: shuanghong-shen-2021
-    resource: "https://arxiv.org/abs/2105.15106"
-    title: "Shuanghong Shen, Qi Liu, Zhenya Huang, Yonghe Zheng, Minghao Yin, Minjuan Wang, and Enhong Chen. (2021). A Survey of Knowledge Tracing: Models, Variants, and Applications. https://arxiv.org/abs/2105.15106"
+    resource: "https://doi.org/10.48550/arxiv.2105.15106"
+    title: "Shuanghong Shen, Qi Liu, Zhenya Huang, Yonghe Zheng, Minghao Yin, Minjuan Wang, and Enhong Chen. (2021). A Survey of Knowledge Tracing: Models, Variants, and Applications. https://arxiv.org/abs/2105.15106 [doi:10.48550/arxiv.2105.15106](https://doi.org/10.48550/arxiv.2105.15106)"
     author: Shuanghong Shen, Qi Liu, Zhenya Huang, Yonghe Zheng, Minghao Yin, Minjuan Wang, and Enhong Chen
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Shuanghong Shen 2021
 
-Shuanghong Shen, Qi Liu, Zhenya Huang, Yonghe Zheng, Minghao Yin, Minjuan Wang, and Enhong Chen. (2021). A Survey of Knowledge Tracing: Models, Variants, and Applications. https://arxiv.org/abs/2105.15106
+Shuanghong Shen, Qi Liu, Zhenya Huang, Yonghe Zheng, Minghao Yin, Minjuan Wang, and Enhong Chen. (2021). A Survey of Knowledge Tracing: Models, Variants, and Applications. https://arxiv.org/abs/2105.15106 [doi:10.48550/arxiv.2105.15106](https://doi.org/10.48550/arxiv.2105.15106)
 
 `q2 · i?` · `review · r2`
 
@@ -43,7 +43,7 @@ Narrative review of Desmarais and Baker's BKT-sequence algorithm: "students usin
 
 
 ## Related Claims
-- [BKT-BF suffers high computational cost and does not resolve BKT's identifiability problem, while EM is cheaper but suffers local minima](bkt-bf-cost-identifiability-em-local-minima.md) — related
-- [The EM solver consistently outperformed stochastic gradient descent for fitting the models, though by a small margin](em-beats-sgd-fitting-spectral-bkt.md) — related
+- BKT-BF suffers high computational cost and does not resolve BKT's identifiability problem, while EM is cheaper but suffers local minima — related
+- The EM solver consistently outperformed stochastic gradient descent for fitting the models, though by a small margin — related
 - [The survey reports, citing Lee and Brunskill, that individualized BKT in an intelligent tutoring system reduced by about half the questions required for 20% of students to achieve mastery.](individualized-bkt-reduces-questions-needed-for-mastery.md) — related
 - [The survey reports, citing Long and Aleven, that students who used DragonBox enjoyed the experience more, while students who used the Lynnette intelligent tutoring system performed significantly better on the test.](intelligent-tutor-lynnette-outperformed-dragonbox-on-test.md) — related

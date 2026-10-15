@@ -48,7 +48,7 @@ Focus-group theme from a qualitative phenomenological pilot: two focus groups (f
 - [Students find computer-based simulation feedback insufficient because incorrect responses are marked without explanation](simucase-feedback-insufficient.md) — related
 - [Graduate SLP students perceive the learning mode of computer-based simulation as highly beneficial because it allows unlimited attempts without grade penalty](simucase-learning-mode-perceived-beneficial.md) — related
 - [Authentic Audiences Improve Student Work](authentic-audiences-improve-student-work.md) — related
-- [Empirical use of the authenticity concept in organizational climate research has been precluded by lack of an appropriate operational definition](authenticity-concept-lacks-operational-definition.md) — related
+- Empirical use of the authenticity concept in organizational climate research has been precluded by lack of an appropriate operational definition — related
 - [Students perceived a jump in accountable disciplinary knowledge in the advanced laboratory, describing more authentic, less prescribed work than in previous labs](adlab-students-perceived-adk-jump-and-authentic-practice.md) — related
 - [Students recommend integrating computer-based simulation cases into each course to make learning more concrete](students-recommend-simulation-in-each-course.md) — related
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — related

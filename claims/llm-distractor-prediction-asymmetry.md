@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: eamon-worden-2026
-    resource: "https://arxiv.org/abs/2602.00070"
-    title: "Eamon Worden, Cristina Heffernan, Neil Heffernan, and Shashank Sonkar. (2026). FoundationalASSIST: An Educational Dataset for Foundational Knowledge Tracing and Pedagogical Grounding of LLMs. https://arxiv.org/abs/2602.00070"
+    resource: "https://doi.org/10.48550/arxiv.2602.00070"
+    title: "Eamon Worden, Cristina Heffernan, Neil Heffernan, and Shashank Sonkar. (2026). FoundationalASSIST: An Educational Dataset for Foundational Knowledge Tracing and Pedagogical Grounding of LLMs. https://arxiv.org/abs/2602.00070 [doi:10.48550/arxiv.2602.00070](https://doi.org/10.48550/arxiv.2602.00070)"
     author: Eamon Worden, Cristina Heffernan, Neil Heffernan, and Shashank Sonkar
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Eamon Worden 2026
 
-Eamon Worden, Cristina Heffernan, Neil Heffernan, and Shashank Sonkar. (2026). FoundationalASSIST: An Educational Dataset for Foundational Knowledge Tracing and Pedagogical Grounding of LLMs. https://arxiv.org/abs/2602.00070
+Eamon Worden, Cristina Heffernan, Neil Heffernan, and Shashank Sonkar. (2026). FoundationalASSIST: An Educational Dataset for Foundational Knowledge Tracing and Pedagogical Grounding of LLMs. https://arxiv.org/abs/2602.00070 [doi:10.48550/arxiv.2602.00070](https://doi.org/10.48550/arxiv.2602.00070)
 
 `q2 · i?` · `design · r2`
 

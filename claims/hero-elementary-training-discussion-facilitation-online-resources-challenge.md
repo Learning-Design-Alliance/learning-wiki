@@ -64,7 +64,7 @@ Teacher interview response on how training could be improved for distance learni
 ## Related Claims
 - [Teachers found Hero Elementary playlist hands-on activities easy to implement because materials were supplied and prepped.](hero-elementary-hands-on-activities-easy-implementation-prepped-materials.md) — related
 - [Staying motivated was the most pervasive challenge of learning remotely, and students missed instructor feedback, peer collaboration, and hands-on experiences](motivation-and-lost-interaction-challenges-remote.md) — related
-- [Student engagement with the Science Power Notebooks and eBooks dropped significantly after the transition to distance learning](notebook-ebook-engagement-dropped-distance-learning.md) — related
+- Student engagement with the Science Power Notebooks and eBooks dropped significantly after the transition to distance learning — related
 - [Students in courses with guided note-taking and other active learning activities reported less difficulty with motivation and engagement after the shift online](guided-note-taking-supported-remote-engagement.md) — related
-- [Virtual implementation of Hero Elementary varied widely across classrooms, with teachers mixing synchronous and asynchronous instructional strategies](wide-variation-virtual-science-implementation-sync-async.md) — related
+- Virtual implementation of Hero Elementary varied widely across classrooms, with teachers mixing synchronous and asynchronous instructional strategies — related
 - [Educators rarely facilitated connections between playlist activities or to students' lives; introductions and debriefings focused on logistics rather than science content](educators-rarely-facilitated-connections-between-playlists.md) — related

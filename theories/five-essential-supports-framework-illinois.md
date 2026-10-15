@@ -16,7 +16,7 @@ sources:
 # The Five Essential Supports framework identifies five organizational conditions for school improvement
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (3 for, 3 mixed) · 2 studies (1 associational, 1 qualitative), `q2` · 0 of 2 report an effect size · 6 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The five essential supports framework posits that school improvement depends on five organizational conditions: effective leaders, collaborative teachers, involved families, supportive environment, and ambitious instruction. As the report states, "The framework asserts that effective leadership, acting as a catalyst, is the first essential support for school improvement." Leadership stimulates the other four supports, and their value lies in integration and mutual reinforcement rather than any single support acting alone. The framework also situates these supports within a broader context of mutual trust.
@@ -38,11 +38,6 @@ The five essential supports framework posits that school improvement depends on 
 
 ### Claims
 
-- [Chicago schools strong in most of the five essential supports were about 10 times more likely to show substantial gains in reading and mathematics](../claims/chicago-strong-essentials-tenfold-gains.md) [+W]
-- [CPS schools are most likely to be strong in effective leaders, collaborative teachers, and ambitious instruction, but least likely to be strong in involved families](../claims/cps-individual-essentials-community-patterns.md) [+W]
-- [For Illinois high schools, strength in the five essentials is related to outcomes but the relationships tend to be minimal except in CPS](../claims/illinois-high-school-essentials-outcomes-cps.md) [~W]
-- [Larger elementary and middle schools (600+ students) are more likely to be weak in three or more essentials](../claims/school-size-elementary-essentials-weakness.md) [~W]
-- [Socioeconomically disadvantaged schools are less likely to be strong in the essentials, with a stronger effect in Chicago than the rest of Illinois](../claims/socioeconomic-disadvantage-essentials-strength.md) [~W]
 - [Family voices contributed to differentiating strong and weak organizational conditions across all essentials, not only Involved Families](../claims/family-voices-inform-all-essentials.md) [+W]
 
 ## Related Theories

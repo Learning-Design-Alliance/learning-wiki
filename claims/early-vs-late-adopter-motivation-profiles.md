@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q3 i?` Early adopters are most engaged in professional development, especially informal activities, and are intrinsically motivated (70 percent say making me a better teacher), whereas late adopters are clustered among the most experienced teachers (49 percent report 16 or more years) and driven by extrinsic motivations such as pay and meeting requirements. [→ Grunwald Associates LLC and Digital Promise 2015](#grunwald-associates-llc-and-digital-promise-2015)
@@ -47,6 +48,6 @@ Subgroup comparisons from the survey between teachers classified as potential ea
 - [Motivation](../learner-variables/motivation.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [Once the concept is explained, more than 70 percent of teachers are at least somewhat interested in micro-credentials, segmenting into roughly 31 percent early, 34 percent mainstream, and 35 percent late adopters](micro-credential-interest-adoption-segments.md) — possibly the same claim (merge candidate)
-- [Seventy-two percent of teachers engage in informal, non-required professional development and are more satisfied with it, driven by intrinsic reasons such as enjoyment of learning](informal-pd-engagement-and-intrinsic-reasons.md) — related
+- Once the concept is explained, more than 70 percent of teachers are at least somewhat interested in micro-credentials, segmenting into roughly 31 percent early, 34 percent mainstream, and 35 percent late adopters — possibly the same claim (merge candidate)
+- Seventy-two percent of teachers engage in informal, non-required professional development and are more satisfied with it, driven by intrinsic reasons such as enjoyment of learning — related
 - [At least ten state education agencies have launched official micro-credential pilots, with Tennessee's pilot reaching almost 800 educators](state-micro-credential-pilots-adoption.md) — related

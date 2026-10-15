@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Groups of adult learners are more heterogeneous than groups of children because of varying age and experience levels, so instructors should individualize instruction and use a wider variety of learning strategies. [→ Moberg 2006](#moberg-2006)
@@ -46,4 +47,4 @@ The essay attributes to Knowles (1998, p. 66) the point that adult learner group
 - [Different types of handwriting interventions produce equivalent gains in handwriting legibility and fluency](handwriting-intervention-type-equivalence.md) — related
 - [Individually analyzed method and approach studies show widely varying effects, with analogy-enhanced teaching rated most effective and two studies insignificant](method-approach-effect-sizes-vary-analogy-largest.md) — related
 - [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](reflective-practice-evidence-mixed-in-professional-education.md) — related
-- [Adults learn differently from children, so adult education should be tailored accordingly (Knowles' central argument, defended here as a theoretical position).](adults-learn-differently-tailor-adult-education.md) — related
+- Adults learn differently from children, so adult education should be tailored accordingly (Knowles' central argument, defended here as a theoretical position). — related

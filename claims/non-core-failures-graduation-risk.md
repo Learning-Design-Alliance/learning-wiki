@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: seeskin-2018
-    resource: "https://consortium.uchicago.edu/publications/hidden-risk-changes-gpa-across-transition-high-school"
-    title: "Seeskin, A., Nagaoka, J., & Mahaffie, S. (2018). Hidden risk: Changes in GPA across the transition to high school. Chicago, IL: University of Chicago Consortium on School Research. https://consortium.uchicago.edu/publications/hidden-risk-changes-gpa-across-transition-high-school"
+    resource: "https://doi.org/10.3102/1438529"
+    title: "Seeskin, A., Nagaoka, J., & Mahaffie, S. (2018). Hidden risk: Changes in GPA across the transition to high school. Chicago, IL: University of Chicago Consortium on School Research. https://consortium.uchicago.edu/publications/hidden-risk-changes-gpa-across-transition-high-school [doi:10.3102/1438529](https://doi.org/10.3102/1438529)"
     author: "Seeskin, A., Nagaoka, J., & Mahaffie, S."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Non-core course failures in ninth grade were associated with decreases in four-year graduation rates similar to core course failures
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Evidence** · 2 studies · 2 associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Among 2011-14 freshman cohorts, students with one core failure and no other failures graduated at 70 percent; students with one non-core failure and no other failures graduated at 68 percent; students passing all courses graduated at 90 percent. [→ Seeskin 2018](#seeskin-2018)
@@ -40,7 +40,7 @@ sources:
 
 ### Seeskin 2018
 
-Seeskin, A., Nagaoka, J., & Mahaffie, S. (2018). Hidden risk: Changes in GPA across the transition to high school. Chicago, IL: University of Chicago Consortium on School Research. https://consortium.uchicago.edu/publications/hidden-risk-changes-gpa-across-transition-high-school
+Seeskin, A., Nagaoka, J., & Mahaffie, S. (2018). Hidden risk: Changes in GPA across the transition to high school. Chicago, IL: University of Chicago Consortium on School Research. https://consortium.uchicago.edu/publications/hidden-risk-changes-gpa-across-transition-high-school [doi:10.3102/1438529](https://doi.org/10.3102/1438529)
 
 `q2 · i?` · `associational · r?`
 
@@ -69,6 +69,6 @@ Observational analysis of 2011-14 cohorts (Table 1). The report notes more than 
 - [Ninth-graders who are on-track are 3.5 times more likely to graduate than those who are off-track](on-track-freshmen-graduate-at-higher-rates.md) — related
 - [Most students needing Algebra I credit recovery failed multiple ninth-grade courses and few were on track to graduate](algebra-failers-failed-multiple-courses-off-track.md) — related
 - [Students show signs of dropout risk early in high school, and schools that reach out in the ninth-grade year can keep them on track to graduate](ninth-grade-early-outreach-keeps-students-on-track.md) — related
-- [Students who fail algebra are significantly less likely to graduate on time, and algebra failure rates are consistently high in urban districts](algebra-failure-graduation-risk.md) — related
+- Students who fail algebra are significantly less likely to graduate on time, and algebra failure rates are consistently high in urban districts — related
 - [Core-course failures in freshman year strongly predict non-graduation, similarly across subjects](core-course-failures-predict-non-graduation.md) — related
 - [Freshman failures clustered in math more than English, and many students failed both core subjects](kenwood-freshman-fs-english-math.md) — related

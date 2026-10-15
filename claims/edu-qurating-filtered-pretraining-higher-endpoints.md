@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: garrod-2026
-    resource: "https://arxiv.org/abs/2609.09425"
-    title: "Garrod, O. G. B., Ince, R. A. A., Liu, M., Huti, M., Boos, M., Waldock, A., Andrews, D., Alonso-Kropil, R., & Atherton, P. (2026). Edu-QuRating: Multi-Dimensional Educational Data Curation with Distilled Pairwise Judgements. arXiv. https://arxiv.org/abs/2609.09425"
+    resource: "https://doi.org/10.48550/arxiv.2609.09425"
+    title: "Garrod, O. G. B., Ince, R. A. A., Liu, M., Huti, M., Boos, M., Waldock, A., Andrews, D., Alonso-Kropil, R., & Atherton, P. (2026). Edu-QuRating: Multi-Dimensional Educational Data Curation with Distilled Pairwise Judgements. arXiv. https://arxiv.org/abs/2609.09425 [doi:10.48550/arxiv.2609.09425](https://doi.org/10.48550/arxiv.2609.09425)"
     author: "Garrod, O. G. B., Ince, R. A. A., Liu, M., Huti, M., Boos, M., Waldock, A., Andrews, D., Alonso-Kropil, R., & Atherton, P."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # In matched single-run 1B pre-training comparisons, all Edu-QuRating-based mixtures reach higher observed aggregate accuracy at 30k steps than the FineWeb-Edu baseline, with gains concentrated in specific tasks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
+> **Evidence** · 2 studies · 2 causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` At 30k steps the FineWeb-Edu baseline reaches 0.3806 mean accuracy across nine tasks, versus 0.3903 for the 50-50-50 Edu-QuRating run, 0.3962 for stricter pedagogy, and 0.3961 for Edu-QuRating + DCLM. [→ Garrod 2026](#garrod-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Garrod 2026
 
-Garrod, O. G. B., Ince, R. A. A., Liu, M., Huti, M., Boos, M., Waldock, A., Andrews, D., Alonso-Kropil, R., & Atherton, P. (2026). Edu-QuRating: Multi-Dimensional Educational Data Curation with Distilled Pairwise Judgements. arXiv. https://arxiv.org/abs/2609.09425
+Garrod, O. G. B., Ince, R. A. A., Liu, M., Huti, M., Boos, M., Waldock, A., Andrews, D., Alonso-Kropil, R., & Atherton, P. (2026). Edu-QuRating: Multi-Dimensional Educational Data Curation with Distilled Pairwise Judgements. arXiv. https://arxiv.org/abs/2609.09425 [doi:10.48550/arxiv.2609.09425](https://doi.org/10.48550/arxiv.2609.09425)
 
 `q2 · i?` · `causal · r1`
 

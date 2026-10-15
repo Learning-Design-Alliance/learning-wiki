@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Mead argued that if the mother tongue is treated as an inferior version of the standard language rather than as a dialect, movement between the phonemic, morphemic, and cognitive structures of home and school language becomes much more difficult. [→ Monroe 1992](#monroe-1992)
@@ -44,6 +45,6 @@ The report quotes Mead's 1971 article "Early Childhood Experience and Later Educ
 
 ## Related Claims
 - [Preservation of the mother tongue predicts second-language achievement among migrant children](mother-tongue-preservation-predicts-l2-achievement.md) — related
-- [Morpheme difficulty orders were similar across first-language backgrounds, suggesting universals in language acquisition](morpheme-order-similarity-across-l1-backgrounds.md) — related
+- Morpheme difficulty orders were similar across first-language backgrounds, suggesting universals in language acquisition — related
 - [Mead argued education functions as a mechanism of social and cultural change, not only cultural transmission](mead-education-as-mechanism-of-social-change.md) — related
 - [Multimodal, culturally grounded formative assessment supports engagement and agency](multimodal-culturally-grounded-assessment-supports-engagement-and-agency.md) — related

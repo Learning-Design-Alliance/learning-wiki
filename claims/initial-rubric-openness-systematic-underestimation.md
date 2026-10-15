@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: pei-yu-tseng-2026
-    resource: "https://arxiv.org/abs/2606.23629"
-    title: "Pei-Yu Tseng, Mahir Akgun, and Peng Liu. (2026). Why Machines Misread Pedagogical Quality: Human–Machine Alignment in LLM-Based Pretest Question Evaluation. arXiv preprint. https://arxiv.org/abs/2606.23629"
+    resource: "https://doi.org/10.48550/arxiv.2606.23629"
+    title: "Pei-Yu Tseng, Mahir Akgun, and Peng Liu. (2026). Why Machines Misread Pedagogical Quality: Human–Machine Alignment in LLM-Based Pretest Question Evaluation. arXiv preprint. https://arxiv.org/abs/2606.23629 [doi:10.48550/arxiv.2606.23629](https://doi.org/10.48550/arxiv.2606.23629)"
     author: Pei-Yu Tseng, Mahir Akgun, and Peng Liu
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Under the initial rubric with direct evaluation, machine raters systematically underestimate openness while relevance and clarity align near-perfectly
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
+> **Evidence** · 2 studies · 2 causal `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` Openness showed the largest human–machine discrepancy under the initial rubric with direct evaluation, with positive bias indicating systematic machine underestimation and 55.7% exact agreement. [→ Pei-Yu Tseng 2026](#pei-yu-tseng-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Pei-Yu Tseng 2026
 
-Pei-Yu Tseng, Mahir Akgun, and Peng Liu. (2026). Why Machines Misread Pedagogical Quality: Human–Machine Alignment in LLM-Based Pretest Question Evaluation. arXiv preprint. https://arxiv.org/abs/2606.23629
+Pei-Yu Tseng, Mahir Akgun, and Peng Liu. (2026). Why Machines Misread Pedagogical Quality: Human–Machine Alignment in LLM-Based Pretest Question Evaluation. arXiv preprint. https://arxiv.org/abs/2606.23629 [doi:10.48550/arxiv.2606.23629](https://doi.org/10.48550/arxiv.2606.23629)
 
 `q2 · i?` · `causal · r1`
 

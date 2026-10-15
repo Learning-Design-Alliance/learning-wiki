@@ -43,5 +43,5 @@ Thematic analysis of open-ended responses from 17 treatment-group students (κ =
 
 
 ## Related Claims
-- [Aware externals accounted for the conditioning effect, while aware internals, unaware subjects, and controls showed essentially no change](aware-externals-account-for-conditioning-effect.md) — related
-- [I-E scale scores correlate with conditioning performance for aware subjects but not for unaware subjects](ie-scores-correlate-conditioning-aware-only.md) — related
+- Aware externals accounted for the conditioning effect, while aware internals, unaware subjects, and controls showed essentially no change — related
+- I-E scale scores correlate with conditioning performance for aware subjects but not for unaware subjects — related

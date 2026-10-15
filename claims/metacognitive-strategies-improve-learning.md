@@ -84,10 +84,10 @@ Two meta-analyses of elementary and secondary school students related achievemen
 - [Self Assessment Accuracy Is Low Without Training](self-assessment-accuracy-is-low-without-training.md) — a narrower finding that bears on this claim
 - [Metacognitive strategy instruction, which includes comprehension monitoring, improves academic performance by a medium amount, and in one non-randomised study comprehension-monitoring training raised low achievers' reading scores](self-monitoring-comprehension-improves-learning.md) — a narrower finding that bears on this claim
 - [Strategy Instruction Improves Academic Performance](strategy-instruction-improves-academic-performance.md) — related
-- [The authors conclude that the Strategic Teaching and Reading Project gives teachers metacognitive tools for before, during and after lessons](strp-teachers-metacognitive-tools-before-during-after.md) — related
-- [Students showed deficiencies in maintaining and monitoring their reading plan within the three-element view of metacognition](students-deficient-monitoring-maintaining-plan.md) — a narrower finding that bears on this claim
+- The authors conclude that the Strategic Teaching and Reading Project gives teachers metacognitive tools for before, during and after lessons — related
+- Students showed deficiencies in maintaining and monitoring their reading plan within the three-element view of metacognition — a narrower finding that bears on this claim
 - [Unpressured within-task planning improves accuracy only when attention is guided to form](unpressured-within-task-planning-form-focused-accuracy.md) — related
-- [Student self-graphing of CBM scores is reported as motivating during secondary prevention](self-graphing-cbm-progress-motivating.md) — related
+- Student self-graphing of CBM scores is reported as motivating during secondary prevention — related
 - [Metacognitive activity alone does not equate to effective regulation; unaccompanied metacognitive processes may be counterproductive](metacognitive-alone-not-effective-regulation.md) — related
 - [School survey report information is intended to help schools assess their progress and plan for the future](survey-reports-support-school-progress-assessment.md) — related
 - [All types of regulation can be explicitly taught and improved with time, effort, and effective feedback](regulation-skills-can-be-taught.md) — related

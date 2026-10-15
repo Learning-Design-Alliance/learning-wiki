@@ -44,7 +44,7 @@ Interview evidence from Ivy Elementary's case study. Teams set targets for NWEA 
 
 ## Related Claims
 - [Ivy Elementary staff jointly monitor progress toward goals in team meetings and organize tiered supports for students](ivy-progress-monitoring-tiered-supports.md) — related
-- [Female principals empowered others through shared ownership, committee involvement, and staff development](female-principals-empower-others-shared-ownership.md) — a broader claim this one bears on
+- Female principals empowered others through shared ownership, committee involvement, and staff development — a broader claim this one bears on
 - [The modern principal's job has expanded from administrative oversight to instructional leadership and staff collaboration](principal-role-expanded-beyond-administrative-oversight.md) — a broader claim this one bears on
 - [Ivy's principal identifies building culture and relationships as his foremost leadership responsibility for student learning](ivy-principal-culture-relationships-priority.md) — related
 - [Schools commonly require documented teacher performance goals, created collaboratively with a principal or set by the principal](documented-teacher-goals-collaborative-or-principal-set.md) — a broader claim this one bears on

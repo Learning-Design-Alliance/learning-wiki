@@ -9,7 +9,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: kaplan-and-dove-1987
-    title: "Kaplan, H., & Dove, H. (1987). Infant development among the Ache of eastern Paraguay. *Developmental Psychology, 23*(2), 190-198."
+    resource: "https://doi.org/10.1037//0012-1649.23.2.190"
+    title: "Kaplan, H., & Dove, H. (1987). Infant development among the Ache of eastern Paraguay. *Developmental Psychology, 23*(2), 190-198. [doi:10.1037//0012-1649.23.2.190](https://doi.org/10.1037//0012-1649.23.2.190)"
     author: "Kaplan, H., & Dove, H."
     q: 2
     i: "?"
@@ -33,7 +34,7 @@ Standard motor-milestone charts (e.g., typical walking age) are often treated as
 
 ### Kaplan and Dove 1987
 
-Kaplan, H., & Dove, H. (1987). Infant development among the Ache of eastern Paraguay. *Developmental Psychology, 23*(2), 190-198.
+Kaplan, H., & Dove, H. (1987). Infant development among the Ache of eastern Paraguay. *Developmental Psychology, 23*(2), 190-198. [doi:10.1037//0012-1649.23.2.190](https://doi.org/10.1037//0012-1649.23.2.190)
 
 `q2 · ethnographic/observational comparative study` · `i? · no source text available to check; the entry prints no effect size` · `n=unreported in secondary source` · `associational · r?`
 

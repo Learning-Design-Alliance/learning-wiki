@@ -18,7 +18,7 @@ sources:
 # Math 180
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Math 180 is Scholastic's targeted mathematics intervention programme combining adaptive student software with teacher-facilitated instruction for students striving to reach grade-level proficiency.
@@ -29,7 +29,6 @@ Math 180 is Scholastic's targeted mathematics intervention programme combining a
 
 ### Claims
 - [Math 180 matched comparison study: intervention-eligible students in grades 5-8 showed significantly greater NWEA MAP gains than matched comparison students (ES +0.23)](../claims/math-180-matched-comparison-es-023.md) [+W]
-- [Across two studies (650 students), Math 180 shows positive impacts on mathematics achievement supporting a Moderate evidence rating with average effect size +0.26](../claims/math-180-moderate-evidence-rating-average-es-026.md) [+W]
 - [Math 180 randomized study: 6th graders receiving Math 180 showed greater growth on NWEA MAP mathematics than business-as-usual comparison students (ES +0.31)](../claims/math-180-rct-grade6-map-es-031.md) [+W]
 
 ## Related Products and Programmes
@@ -67,7 +66,6 @@ Math 180 is a targeted math intervention program that "builds algebra readiness 
 ## Claims
 
 - [Math 180 matched comparison study: intervention-eligible students in grades 5-8 showed significantly greater NWEA MAP gains than matched comparison students (ES +0.23)](../claims/math-180-matched-comparison-es-023.md) [+W]
-- [Across two studies (650 students), Math 180 shows positive impacts on mathematics achievement supporting a Moderate evidence rating with average effect size +0.26](../claims/math-180-moderate-evidence-rating-average-es-026.md) [+W]
 - [Math 180 randomized study: 6th graders receiving Math 180 showed greater growth on NWEA MAP mathematics than business-as-usual comparison students (ES +0.31)](../claims/math-180-rct-grade6-map-es-031.md) [+W]
 
 ## Related Elements

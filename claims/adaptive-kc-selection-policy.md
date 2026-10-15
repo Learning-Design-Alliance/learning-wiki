@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: xinyi-gao-2026
-    resource: "https://arxiv.org/abs/2605.23933"
-    title: "Xinyi Gao, Qiucheng Wu, Lu Ding, Q. Vera Liao, Kaizhi Qian, Ying Xu, Shiyu Chang, Yang Zhang. (2026). KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing. Preprint. Under review. https://arxiv.org/abs/2605.23933"
+    resource: "https://doi.org/10.48550/arxiv.2605.23933"
+    title: "Xinyi Gao, Qiucheng Wu, Lu Ding, Q. Vera Liao, Kaizhi Qian, Ying Xu, Shiyu Chang, Yang Zhang. (2026). KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing. Preprint. Under review. https://arxiv.org/abs/2605.23933 [doi:10.48550/arxiv.2605.23933](https://doi.org/10.48550/arxiv.2605.23933)"
     author: Xinyi Gao, Qiucheng Wu, Lu Ding, Q. Vera Liao, Kaizhi Qian, Ying Xu, Shiyu Chang, Yang Zhang
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Xinyi Gao 2026
 
-Xinyi Gao, Qiucheng Wu, Lu Ding, Q. Vera Liao, Kaizhi Qian, Ying Xu, Shiyu Chang, Yang Zhang. (2026). KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing. Preprint. Under review. https://arxiv.org/abs/2605.23933
+Xinyi Gao, Qiucheng Wu, Lu Ding, Q. Vera Liao, Kaizhi Qian, Ying Xu, Shiyu Chang, Yang Zhang. (2026). KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing. Preprint. Under review. https://arxiv.org/abs/2605.23933 [doi:10.48550/arxiv.2605.23933](https://doi.org/10.48550/arxiv.2605.23933)
 
 `q2 · i?` · `design · r2`
 
@@ -45,4 +45,4 @@ Analysis of the KC selected for each truncated history on the Application Module
 ## Related Claims
 - [Providing baselines with oracle knowledge-concept selection substantially improves their performance, identifying concept selection as a key bottleneck, though baselines with oracle KCs still trail KT4EQG](concept-selection-bottleneck-baselines.md) — related
 - [KT4EQG achieves the highest exam score across all practice-round counts, while methods without effective concept selection show only marginal gains as rounds increase](consistent-gains-across-practice-rounds.md) — related
-- [CLST's predicted mastery levels track response correctness and move similarly for related knowledge components](clst-mastery-tracks-correctness-and-related-kcs.md) — related
+- CLST's predicted mastery levels track response correctness and move similarly for related knowledge components — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: singh-2025
-    resource: "https://arxiv.org/abs/2605.20511"
-    title: "Singh, M., Mansi, G., & Riedl, M. O. (2025). Creating Learning Scaffolds for Engineering Design Using Concept Catalyst. Georgia Institute of Technology. https://arxiv.org/abs/2605.20511"
+    resource: "https://doi.org/10.48550/arxiv.2605.20511"
+    title: "Singh, M., Mansi, G., & Riedl, M. O. (2025). Creating Learning Scaffolds for Engineering Design Using Concept Catalyst. Georgia Institute of Technology. https://arxiv.org/abs/2605.20511 [doi:10.48550/arxiv.2605.20511](https://doi.org/10.48550/arxiv.2605.20511)"
     author: "Singh, M., Mansi, G., & Riedl, M. O."
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Singh 2025
 
-Singh, M., Mansi, G., & Riedl, M. O. (2025). Creating Learning Scaffolds for Engineering Design Using Concept Catalyst. Georgia Institute of Technology. https://arxiv.org/abs/2605.20511
+Singh, M., Mansi, G., & Riedl, M. O. (2025). Creating Learning Scaffolds for Engineering Design Using Concept Catalyst. Georgia Institute of Technology. https://arxiv.org/abs/2605.20511 [doi:10.48550/arxiv.2605.20511](https://doi.org/10.48550/arxiv.2605.20511)
 
 `q1 · i?` · `design · r1`
 

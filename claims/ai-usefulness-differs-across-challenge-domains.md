@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: nourian-2026
-    resource: "https://arxiv.org/abs/2605.15127"
-    title: "Nourian, L.; Callis, A.; Patterson, S.; Miao, J.; Heard, J.; Tigwell, G. W. (2026). Understanding How International Students in the U.S. Are Using Conversational AI to Support Cross-Cultural Adaptation. arXiv. https://arxiv.org/abs/2605.15127"
+    resource: "https://doi.org/10.48550/arxiv.2605.15127"
+    title: "Nourian, L.; Callis, A.; Patterson, S.; Miao, J.; Heard, J.; Tigwell, G. W. (2026). Understanding How International Students in the U.S. Are Using Conversational AI to Support Cross-Cultural Adaptation. arXiv. https://arxiv.org/abs/2605.15127 [doi:10.48550/arxiv.2605.15127](https://doi.org/10.48550/arxiv.2605.15127)"
     author: Nourian, L.; Callis, A.; Patterson, S.; Miao, J.; Heard, J.; Tigwell, G. W.
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Perceived usefulness of AI and intent to continue using it differ significantly across challenge domains, with academic tasks rated most useful
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Evidence** · 2 studies · 2 associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Kruskal-Wallis tests showed significant differences across domains for usefulness (χ2 = 15.14, p=0.002) and intent to continue (χ2 = 11.27, p=0.010), but not satisfaction (χ2 = 6.74, p=0.08). [→ Nourian 2026](#nourian-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Nourian 2026
 
-Nourian, L.; Callis, A.; Patterson, S.; Miao, J.; Heard, J.; Tigwell, G. W. (2026). Understanding How International Students in the U.S. Are Using Conversational AI to Support Cross-Cultural Adaptation. arXiv. https://arxiv.org/abs/2605.15127
+Nourian, L.; Callis, A.; Patterson, S.; Miao, J.; Heard, J.; Tigwell, G. W. (2026). Understanding How International Students in the U.S. Are Using Conversational AI to Support Cross-Cultural Adaptation. arXiv. https://arxiv.org/abs/2605.15127 [doi:10.48550/arxiv.2605.15127](https://doi.org/10.48550/arxiv.2605.15127)
 
 `q2 · i?` · `associational · r1`
 

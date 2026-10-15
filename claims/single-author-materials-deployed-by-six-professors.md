@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: henrique-mohallem-paiva-2026
-    resource: "https://arxiv.org/abs/2608.07364"
-    title: "Henrique Mohallem Paiva. (2026). Curriculum as Code: An AI-Assisted Architecture for Instructional Design in STEM Education. https://arxiv.org/abs/2608.07364"
+    resource: "https://doi.org/10.48550/arxiv.2608.07364"
+    title: "Henrique Mohallem Paiva. (2026). Curriculum as Code: An AI-Assisted Architecture for Instructional Design in STEM Education. https://arxiv.org/abs/2608.07364 [doi:10.48550/arxiv.2608.07364](https://doi.org/10.48550/arxiv.2608.07364)"
     author: Henrique Mohallem Paiva
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Henrique Mohallem Paiva 2026
 
-Henrique Mohallem Paiva. (2026). Curriculum as Code: An AI-Assisted Architecture for Instructional Design in STEM Education. https://arxiv.org/abs/2608.07364
+Henrique Mohallem Paiva. (2026). Curriculum as Code: An AI-Assisted Architecture for Instructional Design in STEM Education. https://arxiv.org/abs/2608.07364 [doi:10.48550/arxiv.2608.07364](https://doi.org/10.48550/arxiv.2608.07364)
 
 `q2 · i?` · `design · r2`
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: lasse-bischof-2026
-    resource: "https://arxiv.org/abs/2606.12436"
-    title: "Lasse Bischof, Eva-Maria Schön, Maria Rauschenberger, Michael Neumann. (2026). Knowing the Rules Is Not Enough: Student Regulatory Awareness and Use of GenAI in Higher Education. https://arxiv.org/abs/2606.12436"
+    resource: "https://doi.org/10.48550/arxiv.2606.12436"
+    title: "Lasse Bischof, Eva-Maria Schön, Maria Rauschenberger, Michael Neumann. (2026). Knowing the Rules Is Not Enough: Student Regulatory Awareness and Use of GenAI in Higher Education. https://arxiv.org/abs/2606.12436 [doi:10.48550/arxiv.2606.12436](https://doi.org/10.48550/arxiv.2606.12436)"
     author: Lasse Bischof, Eva-Maria Schön, Maria Rauschenberger, Michael Neumann
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Lasse Bischof 2026
 
-Lasse Bischof, Eva-Maria Schön, Maria Rauschenberger, Michael Neumann. (2026). Knowing the Rules Is Not Enough: Student Regulatory Awareness and Use of GenAI in Higher Education. https://arxiv.org/abs/2606.12436
+Lasse Bischof, Eva-Maria Schön, Maria Rauschenberger, Michael Neumann. (2026). Knowing the Rules Is Not Enough: Student Regulatory Awareness and Use of GenAI in Higher Education. https://arxiv.org/abs/2606.12436 [doi:10.48550/arxiv.2606.12436](https://doi.org/10.48550/arxiv.2606.12436)
 
 `q2 · i?` · `associational · r1`
 

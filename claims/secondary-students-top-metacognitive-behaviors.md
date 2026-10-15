@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Among 488 students in grades 7-12, the most reported behaviors were contextual analysis (229), setting the purpose for reading (166), monitoring comprehension (160), and rereading (104). [→ Gil 2001](#gil-2001)

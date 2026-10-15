@@ -17,7 +17,7 @@ sources:
 # Ninth-grade structure of interdisciplinary learning communities with double-dose courses and freshman seminars
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 This pattern organizes the ninth grade into "small interdisciplinary learning communities within the 9th grade" and pairs it with curricula based on "double dose" English and math courses. Freshman seminars focus on study skills and time management, and the structure is complemented by career academies and cooperative learning, all introduced through professional development.
@@ -39,7 +39,6 @@ This pattern organizes the ninth grade into "small interdisciplinary learning co
 - study skills and time management
 
 ### Claims
-- [Tdhs Attendance Effect Es 017](../claims/tdhs-attendance-effect-es-017.md) [+M]
 
 ## Related Designs
 - 

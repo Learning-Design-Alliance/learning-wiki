@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: hong-qu-2026
-    resource: "https://arxiv.org/abs/2609.18505"
-    title: "Hong Qu, Zichao Ling, Yadie Yang. (2026). Integrating Flipped Learning and Generative AI for Practice-Based Design Education: Evidence from a Knit Yarn Design Course. https://arxiv.org/abs/2609.18505"
+    resource: "https://doi.org/10.48550/arxiv.2609.18505"
+    title: "Hong Qu, Zichao Ling, Yadie Yang. (2026). Integrating Flipped Learning and Generative AI for Practice-Based Design Education: Evidence from a Knit Yarn Design Course. https://arxiv.org/abs/2609.18505 [doi:10.48550/arxiv.2609.18505](https://doi.org/10.48550/arxiv.2609.18505)"
     author: Hong Qu, Zichao Ling, Yadie Yang
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Students rated the flipped-learning component highest and the GenAI module lower, with GenAI rated stronger for ideation than for time saving or direct output use
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
+> **Evidence** · 2 studies · 2 causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Post-course ratings were highest for the flipped-learning component (mean = 4.17), lower for the GenAI module (mean = 3.63), and GenAI items scored higher for expanding creative boundaries (4.06) than for saving time (3.00) or direct incorporation into final outcomes (2.94). [→ Hong Qu 2026](#hong-qu-2026)
@@ -39,7 +39,7 @@ sources:
 
 ### Hong Qu 2026
 
-Hong Qu, Zichao Ling, Yadie Yang. (2026). Integrating Flipped Learning and Generative AI for Practice-Based Design Education: Evidence from a Knit Yarn Design Course. https://arxiv.org/abs/2609.18505
+Hong Qu, Zichao Ling, Yadie Yang. (2026). Integrating Flipped Learning and Generative AI for Practice-Based Design Education: Evidence from a Knit Yarn Design Course. https://arxiv.org/abs/2609.18505 [doi:10.48550/arxiv.2609.18505](https://doi.org/10.48550/arxiv.2609.18505)
 
 `q2 · i?` · `causal · r1`
 
@@ -64,7 +64,7 @@ Section-level post-course ratings in the intervention cohort: flipped-learning c
 - [Interviews indicated flipped learning supported studio readiness while the GenAI module served as a supplementary tool for early-stage visual ideation](interviews-flipped-readiness-genai-supplementary.md) — related
 - [Students rated ChatGPT highly for completing activities more quickly, among the highest-scoring survey items in both courses](chatgpt-rated-high-for-speed-of-completion.md) — reports the opposite
 - [Students' main AI challenges are content reliability and depth, and most expect AI to serve as tutor, creative partner, and critical thinking partner rather than mere content generator](student-critical-ai-role-expectations.md) — related
-- [Participants reported a strong level of agreement and high satisfaction with ideation discussion activities in Design Thinking](high-survey-agreement-ideation-discussion.md) — related
+- Participants reported a strong level of agreement and high satisfaction with ideation discussion activities in Design Thinking — related
 - [Reduced engagement with GenAI feedback functionalities was attributed to a mismatch between GenAI outputs and student expectations](mismatch-genai-outputs-student-expectations-reduced-engagement.md) — related
 - [In teacher-AI learning task design studies, GenAI tools are predominantly used for lesson planning, prompt generation, and creative ideation, while traditional AI tools are commonly used for designing analytics and feedback](genai-for-planning-ideation-traditional-ai-for-analytics-feedback.md) — related
 - [Teachers rated ChatGPT as improving lesson-planning efficiency, especially reducing planning time (average 4.2 on a 5-point scale)](chatgpt-improves-lesson-planning-efficiency-ratings.md) — related

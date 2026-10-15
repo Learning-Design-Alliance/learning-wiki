@@ -17,7 +17,7 @@ sources:
 # Program-leader recommendations for strengthening teacher apprenticeship experiences
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Based directly on apprentices' perspectives, the report recommends that program leaders invest in recruitment through advising, outreach events, and peer ambassadors; offer flexible timelines and robust supports for adult learners; ensure consistent placement with high-quality, trained, representative mentors; maximize time apprentices spend with mentor-teachers and limit assignments forcing them to teach alone; provide clear, regular, transparent communication about costs, salaries, and expectations; and invest in structured cohort models to foster community and retention.
@@ -38,8 +38,6 @@ Based directly on apprentices' perspectives, the report recommends that program 
 
 ## Claims
 
-- [Apprentices desired clearer, more consistent program communication, especially about financial obligations](../claims/rtap-communication-clarity-desired.md) [+W]
-- [Teacher apprentices of color primarily learned about their programs through word-of-mouth from school colleagues and leaders](../claims/rtap-recruitment-word-of-mouth.md) [~W]
 
 ## Related Strategies
 

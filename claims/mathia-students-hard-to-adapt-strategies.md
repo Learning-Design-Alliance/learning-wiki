@@ -45,4 +45,4 @@ Large-scale observational analysis of MATHia student log data from over 600 scho
 ## Related Claims
 - [A BERT-based prediction task distinguishes between successful and unsuccessful math strategies in MATHia, yielding insights into student strategies](bert-predicts-successful-unsuccessful-strategies.md) — related
 - [Self Regulated Learning Predicts Achievement](self-regulated-learning-predicts-achievement.md) — related
-- [Students with more controlled interaction patterns in iSTART-2 generated higher-quality self-explanations than students with more random patterns](controlled-interaction-patterns-higher-self-explanation-quality.md) — related
+- Students with more controlled interaction patterns in iSTART-2 generated higher-quality self-explanations than students with more random patterns — related

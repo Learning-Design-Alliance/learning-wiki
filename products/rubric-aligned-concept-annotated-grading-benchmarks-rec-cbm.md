@@ -13,7 +13,7 @@ generated:
 # Rubric-aligned concept-annotated grading benchmarks (REC-CBM)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 REC-CBM is a research dataset release that adds rubric-aligned, expert-validated concept annotations to the Mohler, ASAP 2.0, and MOCHA open-ended response-grading benchmarks for interpretable automated grading research.
@@ -24,10 +24,6 @@ REC-CBM is a research dataset release that adds rubric-aligned, expert-validated
 
 ### Claims
 
-- [REC-CBM attains the best task accuracy and macro-F1 within every backbone block across three datasets, improving grading performance over black-box and CBM baselines](../claims/rec-cbm-best-task-accuracy-f1-every-backbone.md) [+M]
-- [REC-CBM lifts concept-level F1 over Vanilla CBM while delivering matching task-side gains on RoBERTa](../claims/rec-cbm-lifts-cf1-over-vanilla-cbm-roberta.md) [+M]
-- [Corrupting rubric evidence flips predicted grade while correcting it preserves or improves grade, demonstrating the bottleneck is actionable](../claims/rec-cbm-intervention-faithfulness-asymmetry.md) [+M]
-- [Removing any single REC-CBM component degrades task accuracy on at least two of three datasets, with RACE removal most damaging](../claims/rec-cbm-ablation-components-complementary.md) [+M]
 
 ## Related Products and Programmes
 

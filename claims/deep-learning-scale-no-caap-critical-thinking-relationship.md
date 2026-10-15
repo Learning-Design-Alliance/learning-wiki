@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` The DEEP Learning scale did not significantly predict CAAP Critical Thinking scores after controls, including ACT Composite. [→ Reason 2010](#reason-2010)
@@ -43,8 +44,8 @@ HLM models predicting the CAAP Critical Thinking module (national mean 61.65, SD
 
 
 ## Related Claims
-- [Deep learning engagement shows little compensatory benefit by prior achievement: the ACT-by-DEEP interaction is significant and negative only for practical competence gains](act-deep-interaction-only-practical-competence.md) — related
-- [Students derive no contextual benefit from attending an institution whose student body collectively engages more in deep learning activities](no-contextual-effect-institutional-deep-learning.md) — related
-- [Variance in first-year critical thinking is far more institutional (32.0%) than variance in self-reported gains (3.1-6.2%)](institutional-variance-critical-thinking-versus-gains.md) — related
-- [First-year students' engagement in deep learning activities is positively related to their self-reported gains in general education, practical competence, and personal and social development](deep-learning-scale-positive-self-reported-gains.md) — related
+- Deep learning engagement shows little compensatory benefit by prior achievement: the ACT-by-DEEP interaction is significant and negative only for practical competence gains — related
+- Students derive no contextual benefit from attending an institution whose student body collectively engages more in deep learning activities — related
+- Variance in first-year critical thinking is far more institutional (32.0%) than variance in self-reported gains (3.1-6.2%) — related
+- First-year students' engagement in deep learning activities is positively related to their self-reported gains in general education, practical competence, and personal and social development — related
 - [External Mandate shows no significant direct relationship with Deep Revision Engagement](external-mandate-no-direct-effect-deep-revision.md) — related

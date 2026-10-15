@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q3 i2` Teachers using mastery learning felt better about teaching (effect size = .61) and accepted greater responsibility (effect size = 1.29), but expressed somewhat less confidence in their teaching abilities (effect size = -.59). [→ Guskey 1985](#guskey-1985)

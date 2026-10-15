@@ -63,7 +63,7 @@ Descriptive distribution of standardized test scores given in English by subgrou
 
 ## Related Claims
 - [Long-term and late-arriving English Learners were considerably less likely to enroll in four-year colleges than their peers](active-els-underrepresented-four-year-colleges.md) — related
-- [Attainment likelihood thresholds differ: ELs with GPA above 2.0 had ~90% graduation rates except students with IEPs, and only active ELs needed attendance above 95% to be very likely to graduate](el-risk-thresholds-gpa-attendance-graduation.md) — related
+- Attainment likelihood thresholds differ: ELs with GPA above 2.0 had ~90% graduation rates except students with IEPs, and only active ELs needed attendance above 95% to be very likely to graduate — related
 - [Among four-year college enrollees, former and late-arriving English Learners persisted at or above district-average rates while long-term English Learners with IEPs persisted at substantially lower rates](el-college-persistence-varies-by-subgroup.md) — related
 - [Late-arriving English Learners had cumulative GPAs similar to the district average but substantially lower SAT scores](late-arriving-els-strong-gpas-low-sat.md) — related
 - [Combining GPA or course failure rates with attendance provides the best prediction of high school graduation for most EL groups, while GPA plus test scores best predicts college degree attainment](indicator-combinations-best-prediction-el.md) — related

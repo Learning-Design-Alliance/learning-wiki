@@ -17,7 +17,7 @@ sources:
 # Design interview-informed LLM survey simulations with persona-based prompts, low temperature, and item-level discrepancy review
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article proposes an interview-informed LLM approach in which qualitative interview transcripts are embedded in persona-based prompts to generate synthetic Likert survey responses that are compared against real responses. Its procedure combines research background, item information, personal interview, and demographic components, and uses "well -crafted prompts and low -temperature settings" to enhance alignment. It is positioned as a complement, not a substitute, for human data in mixed-methods research.
@@ -42,8 +42,6 @@ The article proposes an interview-informed LLM approach in which qualitative int
 
 ## Claims
 
-- [Claude showed the highest alignment with human BREQ responses, and interview-containing prompts aligned better than baseline prompts](../claims/claude-highest-human-alignment-interview-prompts.md) [+W]
-- [Interview length was not significantly associated with person-level alignment between LLM and human responses](../claims/interview-length-null-person-level-alignment.md) [~W]
 
 ## Related Strategies
 - 

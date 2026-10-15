@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: sebastian-maier-2026
-    resource: "https://arxiv.org/abs/2609.20143"
-    title: "Sebastian Maier, Kai Schwabe, Manuel Schneider, and Stefan Feuerriegel. (2026). Designing Against Deskilling: Metacognitive Feedback Reduces Cognitive Offloading to LLM Assistants. arXiv. https://arxiv.org/abs/2609.20143"
+    resource: "https://doi.org/10.48550/arxiv.2609.20143"
+    title: "Sebastian Maier, Kai Schwabe, Manuel Schneider, and Stefan Feuerriegel. (2026). Designing Against Deskilling: Metacognitive Feedback Reduces Cognitive Offloading to LLM Assistants. arXiv. https://arxiv.org/abs/2609.20143 [doi:10.48550/arxiv.2609.20143](https://doi.org/10.48550/arxiv.2609.20143)"
     author: Sebastian Maier, Kai Schwabe, Manuel Schneider, and Stefan Feuerriegel
     q: 3
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # In one preregistered experiment, metacognitive feedback on learners' own LLM use lowered the odds of answer offloading and raised the odds of a correct unaided answer on one-sided tests, with 95% intervals reaching no effect
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r3` · `q3`
+> **Evidence** · 2 studies · 2 causal `r3` · `q3`
 
 <!-- title before 2026-10-15: Metacognitive feedback on learners' own LLM use reduces answer offloading and improves subsequent unaided test performance -->
 
@@ -42,7 +42,7 @@ sources:
 
 ### Sebastian Maier 2026
 
-Sebastian Maier, Kai Schwabe, Manuel Schneider, and Stefan Feuerriegel. (2026). Designing Against Deskilling: Metacognitive Feedback Reduces Cognitive Offloading to LLM Assistants. arXiv. https://arxiv.org/abs/2609.20143
+Sebastian Maier, Kai Schwabe, Manuel Schneider, and Stefan Feuerriegel. (2026). Designing Against Deskilling: Metacognitive Feedback Reduces Cognitive Offloading to LLM Assistants. arXiv. https://arxiv.org/abs/2609.20143 [doi:10.48550/arxiv.2609.20143](https://doi.org/10.48550/arxiv.2609.20143)
 
 `q3 · i?` · `causal · r3`
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: roohani-2022
-    resource: "https://portal.issn.org/resource/ISSN/2287-0024"
-    title: "Roohani, A., & Esmaeili, M. (2022). Effect of (Un)Focused Tasks on L2 Learners' Meaning Negotiation and Negotiation Strategy. PASAA, 63. https://portal.issn.org/resource/ISSN/2287-0024"
+    resource: "https://doi.org/10.58837/chula.pasaa.63.1.12"
+    title: "Roohani, A., & Esmaeili, M. (2022). Effect of (Un)Focused Tasks on L2 Learners' Meaning Negotiation and Negotiation Strategy. PASAA, 63. https://portal.issn.org/resource/ISSN/2287-0024 [doi:10.58837/chula.pasaa.63.1.12](https://doi.org/10.58837/chula.pasaa.63.1.12)"
     author: "Roohani, A., & Esmaeili, M."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Roohani 2022
 
-Roohani, A., & Esmaeili, M. (2022). Effect of (Un)Focused Tasks on L2 Learners' Meaning Negotiation and Negotiation Strategy. PASAA, 63. https://portal.issn.org/resource/ISSN/2287-0024
+Roohani, A., & Esmaeili, M. (2022). Effect of (Un)Focused Tasks on L2 Learners' Meaning Negotiation and Negotiation Strategy. PASAA, 63. https://portal.issn.org/resource/ISSN/2287-0024 [doi:10.58837/chula.pasaa.63.1.12](https://doi.org/10.58837/chula.pasaa.63.1.12)
 
 `q2 · i?` · `causal · r2`
 
@@ -47,5 +47,5 @@ Chi-square analysis of negotiation frequencies across the same 36-learner counte
 - [Task condition (decision-making vs. opinion-exchange) did not significantly moderate negotiation strategy use](task-condition-did-not-moderate-strategy-use.md) — related
 - [Unfocused communicative tasks elicit significantly more meaning negotiation than focused tasks among intermediate EFL learners](unfocused-tasks-elicited-more-meaning-negotiation.md) — related
 - [Unfocused tasks elicit significantly more confirmation checks and clarification requests than focused tasks](unfocused-tasks-more-confirmation-and-clarification-strategies.md) — related
-- [Native-speaker conversations with learners show more interactional modification than native-speaker conversations in two-way information-exchange tasks, but not in tasks without information exchange](two-way-tasks-promote-interactional-restructuring.md) — related
+- Native-speaker conversations with learners show more interactional modification than native-speaker conversations in two-way information-exchange tasks, but not in tasks without information exchange — related
 - [Task topic (science vs debate) showed no statistically significant effect on conversation informativeness](task-topic-no-effect-informativeness.md) — related

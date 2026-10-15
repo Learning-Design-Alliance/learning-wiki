@@ -70,4 +70,4 @@ Subgroup analysis of the same disciplinary outcome for Black students, the group
 - [Student outcome improvements from LCFF funding were more pronounced for cohorts exposed to funding increases for more of their school-age years](lcff-dosage-cohort-exposure-effect.md) — related
 - [A $1,000 increase in district per-pupil revenue in grades 10–12 was associated with a 5.3 percentage-point increase in high school graduation rates in California](california-lcff-graduation-gains.md) — related
 - [School resource officers have limited effects on school safety and increase suspensions, expulsions, police referrals, and arrests, with larger negative effects for Black students and students with disabilities](sros-limited-safety-gains-negative-discipline-outcomes.md) — related
-- [Oakland Unified gradually reduced out-of-school suspension rates for girls after policy changes](oakland-reduced-girls-suspension-rates-over-time.md) — related
+- Oakland Unified gradually reduced out-of-school suspension rates for girls after policy changes — related

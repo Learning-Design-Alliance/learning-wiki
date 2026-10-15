@@ -46,5 +46,5 @@ Correlational analysis of principals' perceived barriers against teacher and stu
 - [Access](../learner-variables/access.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [Students and teachers use technology more, and feel more support, in schools where principals report higher expectations and fewer barriers](principal-expectations-barriers-related-to-tech-use.md) — related
+- Students and teachers use technology more, and feel more support, in schools where principals report higher expectations and fewer barriers — related
 - [Teachers' access to and professional use of technology improved considerably from 2001 to 2003, but did not translate into proportionate increases in technology-rich student assignments](teacher-access-use-rose-assignments-modest.md) — related

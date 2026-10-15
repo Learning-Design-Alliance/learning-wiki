@@ -68,18 +68,18 @@ A meta-analysis of research on undergraduate science, mathematics, engineering, 
 - [Accountable talk](../strategies/accountable_talk.md) — discourse norms that make group talk academically productive
 - [Cognitive load management](../claims/cognitive-load-management.md) — group work redistributes but does not eliminate working-memory demands; task design still matters
 - [Cooperation compared with individualistic efforts typically results in higher achievement, greater retention, and greater social competence and self-esteem](cooperation-versus-individualistic-effort-outcomes.md) — a broader claim this one bears on
-- [Cooperative learning produces significantly greater achievement than traditional instruction in most long-duration controlled comparisons](cooperative-learning-achievement-synthesis-slavin.md) — related
+- Cooperative learning produces significantly greater achievement than traditional instruction in most long-duration controlled comparisons — related
 - [Cooperative Learning Improves Achievement](cooperative-learning-improves-achievement.md) — related
 - [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](cooperative-learning-group-rewards-and-individual-accountability.md) — related
-- [Cooperative biology instruction raised achievement and improved perceived classroom atmosphere in Israeli junior high studies](lazarowitz-cooperative-biology-achievement.md) — related
+- Cooperative biology instruction raised achievement and improved perceived classroom atmosphere in Israeli junior high studies — related
 - [Research in language classes suggested cooperative learning was better than whole-class instruction for language skills and produced more student turns than teacher-centered classes](cooperative-learning-language-class-outcomes.md) — a narrower finding that bears on this claim
 - [A meta-analysis of 352 studies found achievement was higher for students engaged in cooperative learning than in competitive or individualistic learning](cooperative-learning-higher-achievement-than-competitive-individualistic.md) — related
 - [The effect of cooperative learning did not differ statistically by teaching style, outcome type, publication quality, bias status, or report type](cooperative-learning-nonsignificant-moderators.md) — related
 - [Structuring positive interdependence (role, reward, or both) did not affect posttest achievement for undergraduate business majors in asynchronous online small group work](interdependence-type-no-achievement-effect-asynchronous.md) — a narrower finding that bears on this claim
 - [Research at primary and secondary levels indicates students learn more through non-competitive collaborative group work than in individualized competitive classrooms](collaborative-group-work-beats-competitive-classrooms-k12.md) — related
-- [Opportunities for peer collaboration largely disappeared when STEM courses went remote, with few instructors sustaining collaborative activities online](covid-stem-collaboration-reduced-remote.md) — a narrower finding that bears on this claim
-- [Research on educational technology commonly finds no difference in learner outcomes between schools that use or do not use a technology](edtech-research-often-no-outcome-difference.md) — reports the opposite
+- Opportunities for peer collaboration largely disappeared when STEM courses went remote, with few instructors sustaining collaborative activities online — a narrower finding that bears on this claim
+- Research on educational technology commonly finds no difference in learner outcomes between schools that use or do not use a technology — reports the opposite
 - [Educators who implemented FH2T through partner or group work perceived it promoted peer collaboration and mathematical discussion](fh2t-promoted-peer-collaboration-discussion.md) — related
 - [Groups of high-performing students often fail problem-solving tasks when they do not collaborate, showing why collaborative skills need assessment and feedback](high-performing-groups-fail-without-collaboration.md) — a narrower finding that bears on this claim
-- [Meta-analytic studies show moderate to large effect sizes for collaborative learning on both achievement and attitudes](meta-analytic-moderate-large-effects-collaborative-learning.md) — related
+- Meta-analytic studies show moderate to large effect sizes for collaborative learning on both achievement and attitudes — related
 - [Large group size (4-5 members) limited individual participation and may have inflated self-assessed confidence](large-group-size-limited-participation-confidence.md) — a narrower finding that bears on this claim

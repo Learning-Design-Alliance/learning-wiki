@@ -13,7 +13,7 @@ generated:
 # Submission
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 9 claims (4 for, 4 mixed, 1 against) · 12 studies (3 review, 3 theoretical, 2 causal, 2 associational, 2 qualitative), `q1`–`q3` · 0 of 12 report an effect size · 6 claims rest on one study
+> **Evidence** · 8 claims (3 for, 4 mixed, 1 against) · 11 studies (3 review, 3 theoretical, 2 causal, 2 associational, 1 qualitative), `q1`–`q3` · 0 of 11 report an effect size · 5 claims rest on one study
 
 ## Description
 Submission is the act of learners delivering completed or in-progress work for evaluation, feedback, or peer review. It functions as a structured checkpoint that makes learning visible to instructors and to learners themselves, converting private effort into an assessable artifact.
@@ -53,7 +53,6 @@ Submission creates the accountability structure that makes practice productive: 
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- [Interviewed students adopted an iterative upload–review–revise workflow and perceived the AI feedback as fair and highly useful, though some disregarded recommendations conflicting with their design intent](../claims/aissa-students-iterative-use-selective-uptake.md) [+W]
 - [Generative AI weakens the evidentiary relation between assessment artifacts and learner capacity, so institutions must assess the learner's accountable relation to AI-mediated work](../claims/generative-ai-weakens-artifact-evidentiary-relation.md) [~W]
 - [Valid test case feedback improves correctness without reducing subsequent submission counts](../claims/valid-test-cases-not-fewer-submissions.md) [+W]
 - [Draft usefulness varies by grading context: higher for submissions with mistakes and applied questions](../claims/draft-usefulness-varies-by-grading-context.md) [~W]

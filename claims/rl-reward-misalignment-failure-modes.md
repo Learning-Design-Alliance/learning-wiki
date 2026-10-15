@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: tripathi-2026
-    resource: "https://arxiv.org/abs/2605.21962"
-    title: "Tripathi, P., & Kapralos, B. (2026). AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Training Systems. arXiv. https://arxiv.org/abs/2605.21962"
+    resource: "https://doi.org/10.48550/arxiv.2605.21962"
+    title: "Tripathi, P., & Kapralos, B. (2026). AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Training Systems. arXiv. https://arxiv.org/abs/2605.21962 [doi:10.48550/arxiv.2605.21962](https://doi.org/10.48550/arxiv.2605.21962)"
     author: "Tripathi, P., & Kapralos, B."
     q: 1
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Tripathi 2026
 
-Tripathi, P., & Kapralos, B. (2026). AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Training Systems. arXiv. https://arxiv.org/abs/2605.21962
+Tripathi, P., & Kapralos, B. (2026). AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Training Systems. arXiv. https://arxiv.org/abs/2605.21962 [doi:10.48550/arxiv.2605.21962](https://doi.org/10.48550/arxiv.2605.21962)
 
 `q1 · i?` · `review · r2`
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: xiaoyu-hou-2026
-    resource: "https://arxiv.org/abs/2606.05509"
-    title: "Xiaoyu Hou, Bo Xiao, Hexu Liu and Shane Mueller. (2026). The Role of Instructional Guidance in Generative AI-Assisted Learning: Empirical Evidence from Construction Engineering Education. https://arxiv.org/abs/2606.05509"
+    resource: "https://doi.org/10.48550/arxiv.2606.05509"
+    title: "Xiaoyu Hou, Bo Xiao, Hexu Liu and Shane Mueller. (2026). The Role of Instructional Guidance in Generative AI-Assisted Learning: Empirical Evidence from Construction Engineering Education. https://arxiv.org/abs/2606.05509 [doi:10.48550/arxiv.2606.05509](https://doi.org/10.48550/arxiv.2606.05509)"
     author: Xiaoyu Hou, Bo Xiao, Hexu Liu and Shane Mueller
     q: 3
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Structured prompting raises perceived interaction clarity and dependability but reduces perceived novelty of AI-supported learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Evidence** · 2 studies · 2 causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The prompted condition scored highest on pragmatic UEQ dimensions, particularly Perspicuity (1.59 vs 0.77 control) and Dependability (1.23). [→ Xiaoyu Hou 2026](#xiaoyu-hou-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Xiaoyu Hou 2026
 
-Xiaoyu Hou, Bo Xiao, Hexu Liu and Shane Mueller. (2026). The Role of Instructional Guidance in Generative AI-Assisted Learning: Empirical Evidence from Construction Engineering Education. https://arxiv.org/abs/2606.05509
+Xiaoyu Hou, Bo Xiao, Hexu Liu and Shane Mueller. (2026). The Role of Instructional Guidance in Generative AI-Assisted Learning: Empirical Evidence from Construction Engineering Education. https://arxiv.org/abs/2606.05509 [doi:10.48550/arxiv.2606.05509](https://doi.org/10.48550/arxiv.2606.05509)
 
 `q3 · i?` · `causal · r2`
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: wei-wang-2026
-    resource: "https://arxiv.org/abs/2606.25337"
-    title: "Wei Wang, Enlin Gu, Antonio Loquercio, Haimin Hu, Rahul Mangharam. (2026). AI Coaching for Accelerating Human Skill Development with Reinforcement Learning. arXiv preprint. https://arxiv.org/abs/2606.25337"
+    resource: "https://doi.org/10.48550/arxiv.2606.25337"
+    title: "Wei Wang, Enlin Gu, Antonio Loquercio, Haimin Hu, Rahul Mangharam. (2026). AI Coaching for Accelerating Human Skill Development with Reinforcement Learning. arXiv preprint. https://arxiv.org/abs/2606.25337 [doi:10.48550/arxiv.2606.25337](https://doi.org/10.48550/arxiv.2606.25337)"
     author: Wei Wang, Enlin Gu, Antonio Loquercio, Haimin Hu, Rahul Mangharam
     q: 3
     i: 2
@@ -31,7 +31,7 @@ sources:
 
 ### Wei Wang 2026
 
-Wei Wang, Enlin Gu, Antonio Loquercio, Haimin Hu, Rahul Mangharam. (2026). AI Coaching for Accelerating Human Skill Development with Reinforcement Learning. arXiv preprint. https://arxiv.org/abs/2606.25337
+Wei Wang, Enlin Gu, Antonio Loquercio, Haimin Hu, Rahul Mangharam. (2026). AI Coaching for Accelerating Human Skill Development with Reinforcement Learning. arXiv preprint. https://arxiv.org/abs/2606.25337 [doi:10.48550/arxiv.2606.25337](https://doi.org/10.48550/arxiv.2606.25337)
 
 `q3 · i2` · `causal · r2`
 

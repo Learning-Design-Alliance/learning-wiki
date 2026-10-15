@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: barbara-means-2026
-    resource: "https://digitalpromise.dspacedirect.org/items/12bb84f5-0073-40e6-85bb-41561222891b"
-    title: "Barbara Means, Julie Neisler, Daniel Parker, Vanessa Peters Hinton, and Emily Pressler. (2026). Lessons From Implementing Courseware in Gateway Statistics Courses. Digital Promise. https://digitalpromise.dspacedirect.org/items/12bb84f5-0073-40e6-85bb-41561222891b"
+    resource: "https://doi.org/10.51388/20.500.12265/292"
+    title: "Barbara Means, Julie Neisler, Daniel Parker, Vanessa Peters Hinton, and Emily Pressler. (2026). Lessons From Implementing Courseware in Gateway Statistics Courses. Digital Promise. https://digitalpromise.dspacedirect.org/items/12bb84f5-0073-40e6-85bb-41561222891b [doi:10.51388/20.500.12265/292](https://doi.org/10.51388/20.500.12265/292)"
     author: Barbara Means, Julie Neisler, Daniel Parker, Vanessa Peters Hinton, and Emily Pressler
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Barbara Means 2026
 
-Barbara Means, Julie Neisler, Daniel Parker, Vanessa Peters Hinton, and Emily Pressler. (2026). Lessons From Implementing Courseware in Gateway Statistics Courses. Digital Promise. https://digitalpromise.dspacedirect.org/items/12bb84f5-0073-40e6-85bb-41561222891b
+Barbara Means, Julie Neisler, Daniel Parker, Vanessa Peters Hinton, and Emily Pressler. (2026). Lessons From Implementing Courseware in Gateway Statistics Courses. Digital Promise. https://digitalpromise.dspacedirect.org/items/12bb84f5-0073-40e6-85bb-41561222891b [doi:10.51388/20.500.12265/292](https://doi.org/10.51388/20.500.12265/292)
 
 `q2 · i?` · `associational · r2`
 

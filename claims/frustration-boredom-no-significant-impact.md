@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Unlike prior work by Baker et al., the model found no significant impact of frustration or boredom, nor of anxiousness, discouragement, or distractedness, on future performance during practice. [→ Maass 2016](#maass-2016)
@@ -49,6 +50,6 @@ Exploratory affect modeling in the PFA-based regression: six affects were rated 
 - [Neither cognitive ability, curiosity, nor epistemic behavior significantly predicts tertiary academic performance in the heterogeneous sample](no-significant-predictors-tertiary-gpa.md) — related
 - [Emotion Labeling Improves Regulation](emotion-labeling-improves-regulation.md) — related
 - [Generalizable detectors of students' affective states in DLPs remain an unsolved problem](no-generalizable-affective-detectors.md) — related
-- [EDM methods have enabled real-time inference of a broader range of student attributes, including gaming the system, self-efficacy, off-task behavior, boredom, and frustration](edm-infers-broader-student-attributes.md) — related
+- EDM methods have enabled real-time inference of a broader range of student attributes, including gaming the system, self-efficacy, off-task behavior, boredom, and frustration — related
 - [Pursuing unrealistic goals can lead to discouragement and frustration, so goals should balance rigor with realism](unrealistic-goals-lead-discouragement.md) — reports the opposite
 - [Student disengagement in adaptive learning platforms is linked to technical problems, boredom with long or irrelevant content, insufficient challenge and feedback, and declining engagement over time](disengagement-factors-adaptive-platforms.md) — related

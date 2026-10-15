@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: shahin-hossain-2026
-    resource: "https://arxiv.org/abs/2608.01705"
-    title: "Shahin Hossain, Sima Ahmadi, Leqi Li, Idowu David Awoyemi, Wei Huang, Chenxi Zhou, Jujia Li, Samaa Haniya, Shapla Khanam, Tasbirun Mashreka Subaha. (2026). Rethinking Generative AI Literacy: An Integrative, Developmental, and Dialectical Framework for K–12 Teacher Education. https://arxiv.org/abs/2608.01705"
+    resource: "https://doi.org/10.48550/arxiv.2608.01705"
+    title: "Shahin Hossain, Sima Ahmadi, Leqi Li, Idowu David Awoyemi, Wei Huang, Chenxi Zhou, Jujia Li, Samaa Haniya, Shapla Khanam, Tasbirun Mashreka Subaha. (2026). Rethinking Generative AI Literacy: An Integrative, Developmental, and Dialectical Framework for K–12 Teacher Education. https://arxiv.org/abs/2608.01705 [doi:10.48550/arxiv.2608.01705](https://doi.org/10.48550/arxiv.2608.01705)"
     author: Shahin Hossain, Sima Ahmadi, Leqi Li, Idowu David Awoyemi, Wei Huang, Chenxi Zhou, Jujia Li, Samaa Haniya, Shapla Khanam, Tasbirun Mashreka Subaha
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Shahin Hossain 2026
 
-Shahin Hossain, Sima Ahmadi, Leqi Li, Idowu David Awoyemi, Wei Huang, Chenxi Zhou, Jujia Li, Samaa Haniya, Shapla Khanam, Tasbirun Mashreka Subaha. (2026). Rethinking Generative AI Literacy: An Integrative, Developmental, and Dialectical Framework for K–12 Teacher Education. https://arxiv.org/abs/2608.01705
+Shahin Hossain, Sima Ahmadi, Leqi Li, Idowu David Awoyemi, Wei Huang, Chenxi Zhou, Jujia Li, Samaa Haniya, Shapla Khanam, Tasbirun Mashreka Subaha. (2026). Rethinking Generative AI Literacy: An Integrative, Developmental, and Dialectical Framework for K–12 Teacher Education. https://arxiv.org/abs/2608.01705 [doi:10.48550/arxiv.2608.01705](https://doi.org/10.48550/arxiv.2608.01705)
 
 `q2 · i?` · `review · r2`
 

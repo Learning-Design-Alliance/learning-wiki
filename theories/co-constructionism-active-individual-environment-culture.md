@@ -17,7 +17,7 @@ sources:
 # Co-constructionism requires an active individual, an active environment, and culture
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article reports Cole and Wertsch's (1996) argument that researchers overfocused on the Vygotsky–Piaget individual versus social genesis debate while the cardinal difference is the importance of culture. Co-constructionism needs "An active individual and an active environment," plus a third essential element: culture, the accumulated product of prior generations, through which mind develops in interaction with the surrounding environment.
@@ -38,7 +38,6 @@ The article reports Cole and Wertsch's (1996) argument that researchers overfocu
 
 ### Claims
 
-- [Cultural mediation has four implications, including that artifacts fundamentally transform mental functioning and the mind is distributed in artifacts](../claims/cultural-mediation-four-implications-artifacts-transform-mind.md) [+W]
 
 ## Related Theories
 

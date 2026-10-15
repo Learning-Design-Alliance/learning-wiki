@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: unggi-lee-2026
-    resource: "https://arxiv.org/abs/2605.30670"
-    title: "Unggi Lee, Jihoi Na, Yeil Jeong, Haeun Park, Yeonju Jang. (2026). Reinforcement Learning for Special Education: Aligning LLM Tutors to Diverse Learners through Disability-Adaptive Training. https://arxiv.org/abs/2605.30670"
+    resource: "https://doi.org/10.48550/arxiv.2605.30670"
+    title: "Unggi Lee, Jihoi Na, Yeil Jeong, Haeun Park, Yeonju Jang. (2026). Reinforcement Learning for Special Education: Aligning LLM Tutors to Diverse Learners through Disability-Adaptive Training. https://arxiv.org/abs/2605.30670 [doi:10.48550/arxiv.2605.30670](https://doi.org/10.48550/arxiv.2605.30670)"
     author: Unggi Lee, Jihoi Na, Yeil Jeong, Haeun Park, Yeonju Jang
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # SPED-adaptive prompting shifts tutor behavior toward We-Do scaffolding, naturalistic language support, and participation-affirming feedback across three codebooks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The DI We-Do move (lead) jumps from 9.1-14.3% in generic-prompted groups to 21.4-23.6% in SPED-prompted groups, with the I-Do modeling move shrinking by roughly a third. [→ Unggi Lee 2026](#unggi-lee-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Unggi Lee 2026
 
-Unggi Lee, Jihoi Na, Yeil Jeong, Haeun Park, Yeonju Jang. (2026). Reinforcement Learning for Special Education: Aligning LLM Tutors to Diverse Learners through Disability-Adaptive Training. https://arxiv.org/abs/2605.30670
+Unggi Lee, Jihoi Na, Yeil Jeong, Haeun Park, Yeonju Jang. (2026). Reinforcement Learning for Special Education: Aligning LLM Tutors to Diverse Learners through Disability-Adaptive Training. https://arxiv.org/abs/2605.30670 [doi:10.48550/arxiv.2605.30670](https://doi.org/10.48550/arxiv.2605.30670)
 
 `q2 · i?` · `design · r2`
 

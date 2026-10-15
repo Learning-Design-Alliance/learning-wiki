@@ -22,7 +22,7 @@ sources:
 # FH2T
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 7 claims (6 for, 1 mixed) · 3 studies (2 causal, 1 qualitative), `q2`–`q3` · 1 of 3 report an effect size · 7 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 2 studies (1 causal, 1 qualitative), `q2` · 0 of 2 report an effect size · 5 claims rest on one study
 
 ## Description
 From Here to There (FH2T) is a digital game developed as a supplemental learning intervention for middle- and high-school students to practice algebraic expressions and equation solving through direct manipulation of mathematical notation.
@@ -33,8 +33,6 @@ From Here to There (FH2T) is a digital game developed as a supplemental learning
 - **From Here to There (FH2T): a game-based application teaching algebra through discovery-based puzzles with manipulable symbols and immediate feedback**: FH2T is Graspable Math's game-based application, "grounded in perceptual learning and cognitive theories," that teaches math through discovery-based puzzles in which students transform an algebraic expression into a mathematically equivalent but perceptually different goal state. Symbols become concrete objects students can drag, combine, and substitute, with fluid visualizations and immediate feedback (invalid moves "shake" and return to the previous state). Problems are organized into worlds that increase in complexity, and a teacher console aggregates measures such as efficiency, resets, attempts, time, and hints. (Tarik Buli et al. (2025))
 
 ### Claims
-- [FH2T was evaluated with nine 30-minute sessions spread across one academic year as a supplemental program](../claims/fh2t-dosage-nine-30-minute-sessions.md) [+W]
-- [FH2T use raised Grade 7 students' algebraic understanding significantly more than an active comparison condition (g = 0.14) in an RCT](../claims/fh2t-rct-algebraic-understanding-g-014.md) [+W]
 - [Algebra ability level differences appear on both criteria with no treatment-by-ability interaction](../claims/ability-level-differences-verbal-problem-solving.md) [~W]
 - [Educators perceived FH2T as strongly connected to Common Core Standards for Mathematical Content and uniquely integrating the Standards for Mathematical Practice](../claims/fh2t-common-core-standards-alignment-perception.md) [+W]
 - [Educators who implemented FH2T through partner or group work perceived it promoted peer collaboration and mathematical discussion](../claims/fh2t-promoted-peer-collaboration-discussion.md) [+W]
@@ -77,8 +75,6 @@ FH2T is a digital game "designed to strengthen students' understanding of algebr
 
 ## Claims
 
-- [FH2T was evaluated with nine 30-minute sessions spread across one academic year as a supplemental program](../claims/fh2t-dosage-nine-30-minute-sessions.md) [+W]
-- [FH2T use raised Grade 7 students' algebraic understanding significantly more than an active comparison condition (g = 0.14) in an RCT](../claims/fh2t-rct-algebraic-understanding-g-014.md) [+W]
 - [Algebra ability level differences appear on both criteria with no treatment-by-ability interaction](../claims/ability-level-differences-verbal-problem-solving.md) [~W]
 
 ## Related Elements

@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 8 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` The review reports, citing Guo, Kim, and Rubin (2014), that students prefer short videos, slides should include a talking head, the Khan drawing style is more engaging than slides or coding sessions, and direct classroom recording does not work well online. [→ Chorianopoulos 2018](#chorianopoulos-2018)

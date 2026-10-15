@@ -66,9 +66,9 @@ Multilevel meta-analysis of 223 studies published 1992–2018, modeling 747 corr
 - [Belonging interventions improve outcomes](belonging-interventions-improve-outcomes.md) — social-belonging and appraisal-reduction interventions address the evaluative concerns that drive anxiety
 - [Test-enhanced learning](retrieval-practice-improves-retention.md) — testing benefits must be weighed against the evaluative pressure that can trigger anxiety-based impairment
 - [Brief expressive writing before an exam can raise test-anxious students' scores, but across the wider literature its effect on test performance is negligible](expressive-writing-improves-exam-performance.md) — related
-- [Synthesis and Evaluation subtests measure general mental ability rather than knowledge for lower grades or unfamiliar content](synthesis-evaluation-measure-general-ability-lower-grades.md) — related
-- [Drop-out from adult language classes is slightly higher than from other courses, with anxiety and feelings of inadequacy a contributing reason](language-class-dropout-anxiety.md) — related
-- [Writing anxiety can constrain or paralyze adult writers, with recognizable signs](writing-anxiety-paralyzes-adult-writers.md) — related
+- Synthesis and Evaluation subtests measure general mental ability rather than knowledge for lower grades or unfamiliar content — related
+- Drop-out from adult language classes is slightly higher than from other courses, with anxiety and feelings of inadequacy a contributing reason — related
+- Writing anxiety can constrain or paralyze adult writers, with recognizable signs — related
 - [Guiding analytics for learners can improve mathematics achievement, retention, learning strategies, and reduce math anxiety](guiding-analytics-improves-achievement-and-strategies.md) — related
 - [The anxiety–achievement correlation varies across educational levels, target languages, and anxiety types](anxiety-achievement-moderators-levels-languages-anxiety-types.md) — related
 - [L2 anxiety is negatively correlated with L2 achievement, with a mean correlation of r = −.36 across 216 effect sizes](l2-anxiety-negative-correlation-achievement-meta-analysis.md) — a narrower finding that bears on this claim

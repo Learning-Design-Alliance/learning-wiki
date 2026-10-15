@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: thomas-2026
-    resource: "https://arxiv.org/abs/2603.29141"
-    title: "Thomas, D.R., Borchers, C., Vanacore, K.P., Koedinger, K.R., & Kizilcec, R.F. (2026). Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity in AI in Education. https://arxiv.org/abs/2603.29141"
+    resource: "https://doi.org/10.48550/arxiv.2603.29141"
+    title: "Thomas, D.R., Borchers, C., Vanacore, K.P., Koedinger, K.R., & Kizilcec, R.F. (2026). Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity in AI in Education. https://arxiv.org/abs/2603.29141 [doi:10.48550/arxiv.2603.29141](https://doi.org/10.48550/arxiv.2603.29141)"
     author: "Thomas, D.R., Borchers, C., Vanacore, K.P., Koedinger, K.R., & Kizilcec, R.F."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Thomas 2026
 
-Thomas, D.R., Borchers, C., Vanacore, K.P., Koedinger, K.R., & Kizilcec, R.F. (2026). Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity in AI in Education. https://arxiv.org/abs/2603.29141
+Thomas, D.R., Borchers, C., Vanacore, K.P., Koedinger, K.R., & Kizilcec, R.F. (2026). Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity in AI in Education. https://arxiv.org/abs/2603.29141 [doi:10.48550/arxiv.2603.29141](https://doi.org/10.48550/arxiv.2603.29141)
 
 `q2 · i?` · `causal · r?`
 
@@ -44,5 +44,5 @@ The article attributes to prior work the demonstration that LLM pre-labels "can 
 
 ## Related Claims
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — a broader claim this one bears on
-- [A pilot human annotation surfaces a framing discrepancy: a NEET aspirant labeled all 10 sampled questions as Recall, including the five the LLM tagged as Elimination/Negation](learnopt-pilot-recall-framing.md) — related
+- A pilot human annotation surfaces a framing discrepancy: a NEET aspirant labeled all 10 sampled questions as Recall, including the five the LLM tagged as Elimination/Negation — related
 - [Automated AI assessment systems reduce grading time and improve evaluation consistency in nursing education](automated-ai-assessment-reduces-grading-time-bias.md) — related

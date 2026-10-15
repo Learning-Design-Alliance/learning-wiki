@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: baker-2023
-    resource: "https://jedm.educationaldatamining.org/index.php/JEDM/article/view/619"
-    title: "Baker, R. S., Esbenshade, L., Vitale, J., & Karumbaiah, S. (2023). Using Demographic Data as Predictor Variables: a Questionable Choice. Journal of Educational Data Mining, 15(2). https://jedm.educationaldatamining.org/index.php/JEDM/article/view/619"
+    resource: "https://doi.org/10.35542/osf.io/y4wvj"
+    title: "Baker, R. S., Esbenshade, L., Vitale, J., & Karumbaiah, S. (2023). Using Demographic Data as Predictor Variables: a Questionable Choice. Journal of Educational Data Mining, 15(2). https://jedm.educationaldatamining.org/index.php/JEDM/article/view/619 [doi:10.35542/osf.io/y4wvj](https://doi.org/10.35542/osf.io/y4wvj)"
     author: "Baker, R. S., Esbenshade, L., Vitale, J., & Karumbaiah, S."
     q: 1
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Using demographic variables as predictors risks reinforcing biases embedded in training labels, including self-fulfilling prophecies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · theoretical `r3` · `q1`
+> **Evidence** · 2 studies · 2 theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` When training labels encode biased stakeholder decisions, including demographics in prediction may reinforce the beliefs producing those biased decisions. [→ Baker 2023](#baker-2023)
@@ -40,7 +40,7 @@ sources:
 
 ### Baker 2023
 
-Baker, R. S., Esbenshade, L., Vitale, J., & Karumbaiah, S. (2023). Using Demographic Data as Predictor Variables: a Questionable Choice. Journal of Educational Data Mining, 15(2). https://jedm.educationaldatamining.org/index.php/JEDM/article/view/619
+Baker, R. S., Esbenshade, L., Vitale, J., & Karumbaiah, S. (2023). Using Demographic Data as Predictor Variables: a Questionable Choice. Journal of Educational Data Mining, 15(2). https://jedm.educationaldatamining.org/index.php/JEDM/article/view/619 [doi:10.35542/osf.io/y4wvj](https://doi.org/10.35542/osf.io/y4wvj)
 
 `q1 · i?` · `theoretical · r3`
 
@@ -67,4 +67,4 @@ The authors warn, citing Rosenthal & Jacobson (1968), of "a risk of creating a s
 - [Including demographic variables as predictors can reduce actionability by de-emphasizing correlated actionable risk factors and by discounting intervention effects](demographic-predictors-reduce-actionability.md) — related
 - [Evidence is mixed on whether including demographic variables as predictors improves model performance in educational prediction](mixed-evidence-demographic-predictor-performance.md) — a narrower finding that bears on this claim
 - [Incorporating more learning activity data reduced the potential bias caused by overreliance on demographic information](learning-activity-data-reduces-demographic-bias.md) — a narrower finding that bears on this claim
-- [Training constraints during AI development create potential biases that may be amplified by the population data used](ai-training-constraints-create-potential-biases.md) — related
+- Training constraints during AI development create potential biases that may be amplified by the population data used — related

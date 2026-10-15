@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 4 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` In later teaching-experiment sessions, both students transferred their cube-based reasoning about permutations to permutation tasks not involving cubes, referring back to their reasoning about cubes. [→ Joseph Antonides 2022](#joseph-antonides-2022)
@@ -45,5 +46,5 @@ Observation from the same two-student teaching experiment: in later sessions bot
 
 - [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](manipulatives-require-connection-to-concept.md) — the general claim this finding bears on, with the studies behind it
 - [A cube-tower instructional sequence instantiated concreteness fading in an elaborated form for two preservice teachers' combinatorial reasoning](cube-tower-sequence-elaborated-cf-instantiation.md) — related
-- [Challenges of students with learning difficulties in constructing multiplicative double counting may stem from conceptually born factors beyond memory issues](conceptual-factors-beyond-memory-underlie-sld-mdc-challenges.md) — related
-- [A teacher's prompting that oriented a student's reflection on his own tracking methods fostered monitoring of his goal-directed counting activity](orienting-reflection-to-own-tracking-fosters-monitoring.md) — related
+- Challenges of students with learning difficulties in constructing multiplicative double counting may stem from conceptually born factors beyond memory issues — related
+- A teacher's prompting that oriented a student's reflection on his own tracking methods fostered monitoring of his goal-directed counting activity — related

@@ -16,7 +16,7 @@ sources:
 # Four-category taxonomy of fairness-in-education resources: Material, Procedural, Directories, Organizational
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The guide organizes bias-free education resources into a four-part taxonomy. As the introduction states, "The resources fall into fq,ur major categories: Ma- terial Resources, Prixedural Resourc6, Directories, and'Organizationai Resouwes." Within each larger category, resources are further organized into smaller sections by type of material, subject area, applicability, and grade/age level. Material Resources covers research and evaluation instruments; Procedural Resources covers guidelines and statutes; Directories list publishers and state education departments; Organizational Resources list organizations and conferences concerned with bias in educational materials.
@@ -37,7 +37,6 @@ The guide organizes bias-free education resources into a four-part taxonomy. As 
 
 ### Claims
 
-- [Section 1 research studies provide methods and awareness for addressing textbook bias](../claims/research-section-supports-bias-analysis.md) [+W]
 
 ## Related Theories
 - 

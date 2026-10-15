@@ -17,7 +17,7 @@ sources:
 # ACRL Framework for Information Literacy for Higher Education
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The Association of College and Research Libraries' 2015 Framework, adopted as a revision of the 2000 Information Literacy Competency Standards, comprising six frames: authority is constructed and contextual, information creation as a process, information has value, research as inquiry, scholarship as conversation, and searching as strategic exploration. Each frame contains knowledge practices and dispositions addressing the affective dimension of learning. In this study it served as a conceptual lens for student self-reflection on information literacy skills and dispositions within the ePortfolio capstone.
@@ -44,10 +44,6 @@ The Association of College and Research Libraries' 2015 Framework, adopted as a 
 
 ## Claims
 
-- [The ePortfolio social pedagogy ecosystem appears to be an effective way for students to integrate deeper learning and document developing information literacy competencies as self-assessment](../claims/eportfolio-effective-self-assessment-information-literacy.md) [+W]
-- [Evidence of research-as-inquiry knowledge practices and dispositions was not consistent across the three ePortfolio presentation modes, with all three students showing greater evidence in their final in-class presentations](../claims/eportfolio-mode-evidence-inconsistent-across-modes.md) [+W]
-- [Specific research-as-inquiry knowledge practices and dispositions showed gaps in evidence across modes, informing future information literacy instruction](../claims/knowledge-practice-disposition-evidence-gaps.md) [+W]
-- [Two participants showed more research-as-inquiry evidence in webinar and in-class presentations than in their written ePortfolios, while one participant showed more in his written ePortfolio and final presentation than in his webinar](../claims/mode-specific-evidence-patterns-three-teachers.md) [+W]
 
 ## Related Elements
 - 

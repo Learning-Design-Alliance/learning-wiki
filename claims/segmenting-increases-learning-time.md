@@ -47,9 +47,9 @@ The meta-analysis reports that segmentation "increases learning time"; no magnit
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Rey 2019](https://doi.org/10.1007/s10648-018-9456-4) | q3 · quant-synthesis · r? | i? | this claim |
-| Veronica Pimenova 2026 | q3 · causal · r2 | i? | [Easy tasks showed a floor effect across all participants and were excluded from hypothesis](easy-task-floor-effect-excluded.md) (qualifies) |
+| [Veronica Pimenova 2026](https://doi.org/10.48550/arxiv.2607.24612) | q3 · causal · r2 | i? | [Easy tasks showed a floor effect across all participants and were excluded from hypothesis](easy-task-floor-effect-excluded.md) (qualifies) |
 | [Adesope 2012](https://doi.org/10.1037/a0026147) | q3 · quant-synthesis · r3 | i2 | [Nonsegmented spoken–written presentations show a larger advantage over spoken-only present](segmentation-moderates-verbal-redundancy.md) (qualifies) |
-| Kazuki Kawamura 2025 | q2 · associational · r? | i? | [MOOC video engagement declines with video length, with median engagement under half the du](mooc-engagement-declines-with-video-length.md) (qualifies) |
+| [Kazuki Kawamura 2025](https://doi.org/10.48550/arxiv.2608.08990) | q2 · associational · r? | i? | [MOOC video engagement declines with video length, with median engagement under half the du](mooc-engagement-declines-with-video-length.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

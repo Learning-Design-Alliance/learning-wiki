@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i1` small
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q3 i?` In Experiment 1, adequate, inadequate, and no-response items showed almost no retention differences; only adequate vs no-response differed on immediate recognition. [→ Woloshyn 1992](#woloshyn-1992)

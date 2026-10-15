@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Subjects with a more developed schema for some body of knowledge show higher recall for materials related to that knowledge, with most cited studies involving narratives. [→ Bigenho 1992](#bigenho-1992)
@@ -44,7 +45,7 @@ The essay cites Brewer and Nakamura (1984) for this basic finding, noting that "
 ## Related Claims
 
 - [Prior Knowledge Determines New Learning](prior-knowledge-determines-new-learning.md) — the general claim this finding bears on, with the studies behind it
-- [Pretend play enactment of stories facilitates narrative recall and expression over shorter time periods but not later unprompted recall](pretend-play-enactment-narrative-recall-short-term.md) — related
+- Pretend play enactment of stories facilitates narrative recall and expression over shorter time periods but not later unprompted recall — related
 - [Advance organizers produce a small average learning benefit, larger for high-ability than for low-ability learners](advance-organizers-improve-learning.md) — related
 - [Recall from bar graphs is more accurate when the recall format matches the studied graph format, a small effect that the content's thematic emphasis can override](mismatched-graphic-organizers-increase-extraneous-load.md) — related
 - [Question prompts improve learning](question-prompts-improve-learning.md) — related

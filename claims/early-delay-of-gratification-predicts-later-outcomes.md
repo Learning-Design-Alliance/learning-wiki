@@ -64,8 +64,8 @@ The Watts, Duncan, and Quan (2018) replication is an important corrective to the
 ## Related Claims
 - [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md)
 - [During early and mid-adolescence, brain reward and emotion systems are more developed than cognitive control systems, leaving self-regulation developmentally out of balance](adolescent-brain-imbalance-reward-versus-control.md) — related
-- [Baseline performance differed by later treatment group for two tasks, with the delayed-reward group giving fewer baseline responses, while no sex or order effects emerged](baseline-group-effect-no-sex-order-effects.md) — related
-- [Synthesis and Evaluation subtests measure general mental ability rather than knowledge for lower grades or unfamiliar content](synthesis-evaluation-measure-general-ability-lower-grades.md) — related
+- Baseline performance differed by later treatment group for two tasks, with the delayed-reward group giving fewer baseline responses, while no sex or order effects emerged — related
+- Synthesis and Evaluation subtests measure general mental ability rather than knowledge for lower grades or unfamiliar content — related
 - [The study used two sets of analyses—rating stability and the stable component's link to future contributions—to simulate each measure's predictive accuracy](two-analysis-approach-principal-measure-accuracy.md) — related
 - [The rank ordering of math and reading skills is highly stable over time, while four SEL domains are more strongly influenced by contextual factors](sel-domains-less-stable-than-achievement.md) — related
 - [Academic and nonacademic skills developed in preschool and early elementary years are foundational to important longer-term outcomes](early-years-skills-foundational-longer-term-outcomes.md) — a broader claim this one bears on

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: moore-2011
-    resource: "https://arxiv.org/abs/1110.2764"
-    title: "Moore, J. C., & Rubbo, L. J. (2011). Scientific reasoning abilities of non-science majors in physics-based courses. https://arxiv.org/abs/1110.2764"
+    resource: "https://doi.org/10.48550/arxiv.1110.2764"
+    title: "Moore, J. C., & Rubbo, L. J. (2011). Scientific reasoning abilities of non-science majors in physics-based courses. https://arxiv.org/abs/1110.2764 [doi:10.48550/arxiv.1110.2764](https://doi.org/10.48550/arxiv.1110.2764)"
     author: "Moore, J. C., & Rubbo, L. J."
     q: 2
     i: 1
@@ -31,7 +31,7 @@ sources:
 
 ### Moore 2011
 
-Moore, J. C., & Rubbo, L. J. (2011). Scientific reasoning abilities of non-science majors in physics-based courses. https://arxiv.org/abs/1110.2764
+Moore, J. C., & Rubbo, L. J. (2011). Scientific reasoning abilities of non-science majors in physics-based courses. https://arxiv.org/abs/1110.2764 [doi:10.48550/arxiv.1110.2764](https://doi.org/10.48550/arxiv.1110.2764)
 
 `q2 · i1` · `associational · r1`
 
@@ -45,5 +45,5 @@ Classification of non-STEM students (N = 109) into concrete operational, transit
 ## Related Claims
 - [Non-STEM majors in conceptual physics and astronomy courses score significantly lower pre-instruction on the LCTSR than STEM majors](non-stem-lower-lctsr-pre-scores-than-stem.md) — related
 - [Non-STEM students show the poorest performance on proportional reasoning (25%) and score 30% on hypothetico-deductive reasoning items](non-stem-weak-proportional-hypothetico-deductive-reasoning.md) — related
-- [Kolb's inventory successfully differentiated group learning styles by students' subject majors](kolb-inventory-group-styles-by-subject-major.md) — related
+- Kolb's inventory successfully differentiated group learning styles by students' subject majors — related
 - [In physics-based courses for non-science majors taught with active-engagement pedagogy, normalized gains were 0.38–0.42 on content tests but 0.06 on a scientific-reasoning test](reformed-pedagogy-content-gains-but-no-reasoning-gains.md) — related

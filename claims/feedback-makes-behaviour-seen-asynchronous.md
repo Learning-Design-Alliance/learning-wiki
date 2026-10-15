@@ -45,7 +45,7 @@ Authors' interpretive argument from the case-study audit, addressing their third
 ## Related Claims
 - [Expert teachers' well-practiced routines make their performance fluid, as seen in homework-review and lesson-teaching comparisons](expert-teachers-use-routines-for-fluid-performance.md) — related
 - [In the Learner Variability Navigator case, feedback loops across multiple partners generated an output of need that the authors say simple surveys may not have produced](lvn-generator-feedback-loop-case.md) — related
-- [Khanmigo fully supports the language learning potential criterion through abundant input, extended output, adaptive feedback, and negotiation of meaning](khanmigo-language-learning-potential-fully-supported.md) — related
+- Khanmigo fully supports the language learning potential criterion through abundant input, extended output, adaptive feedback, and negotiation of meaning — related
 - [The quality of feedback students give peers predicts gains in their own work, but no recorded study isolates a causal benefit of the assessor role](peer-assessment-benefits-assessor.md) — related
 - [The change in tools caused the most disruption in e-teachers' activity system, replacing body language and visual cues with text and voice mediation](tool-change-most-disruption-online-teaching.md) — related
 - [In the Maker Learning @ Home cohort, feedback loops with cohort members redefined the initiative's outputs and goals](maker-cohort-amplifier-case.md) — related

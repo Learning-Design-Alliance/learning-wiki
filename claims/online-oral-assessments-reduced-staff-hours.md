@@ -43,4 +43,4 @@ The review reports, citing Starr-Egger (2023), an operational analysis of online
 
 
 ## Related Claims
-- [Staff time for the Capstone was limited and unequally divided across CHARM-EU partners, with University of Pretoria staff receiving no hours or funding](unequal-staff-hours-undermine-equal-decision-making-icel.md) — related
+- Staff time for the Capstone was limited and unequally divided across CHARM-EU partners, with University of Pretoria staff receiving no hours or funding — related

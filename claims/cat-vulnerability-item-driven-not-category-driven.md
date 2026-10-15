@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: moiz-imran-and-sahan-bulathwela-2026
-    resource: "https://arxiv.org/abs/2605.23925"
-    title: "Moiz Imran and Sahan Bulathwela. (2026). Catching TheCorrectAnswerTrap: Characterising AI Tutor Blind Spots When Analysing Student Reasoning. arXiv preprint. https://arxiv.org/abs/2605.23925"
+    resource: "https://doi.org/10.48550/arxiv.2605.23925"
+    title: "Moiz Imran and Sahan Bulathwela. (2026). Catching TheCorrectAnswerTrap: Characterising AI Tutor Blind Spots When Analysing Student Reasoning. arXiv preprint. https://arxiv.org/abs/2605.23925 [doi:10.48550/arxiv.2605.23925](https://doi.org/10.48550/arxiv.2605.23925)"
     author: Moiz Imran and Sahan Bulathwela
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Moiz Imran and Sahan Bulathwela 2026
 
-Moiz Imran and Sahan Bulathwela. (2026). Catching TheCorrectAnswerTrap: Characterising AI Tutor Blind Spots When Analysing Student Reasoning. arXiv preprint. https://arxiv.org/abs/2605.23925
+Moiz Imran and Sahan Bulathwela. (2026). Catching TheCorrectAnswerTrap: Characterising AI Tutor Blind Spots When Analysing Student Reasoning. arXiv preprint. https://arxiv.org/abs/2605.23925 [doi:10.48550/arxiv.2605.23925](https://doi.org/10.48550/arxiv.2605.23925)
 
 `q2 · i?` · `associational · r?`
 

@@ -43,7 +43,7 @@ The Program Outcomes summary reports three studies with 35,070 students and an "
 
 
 ## Related Claims
-- [Achieve3000 use shows significant positive effects on Total Reading Scores for sixth and ninth graders, with a weighted average effect size of +0.29](achieve3000-total-reading-positive-effects.md) — related
+- Achieve3000 use shows significant positive effects on Total Reading Scores for sixth and ninth graders, with a weighted average effect size of +0.29 — related
 - [One small evaluation of Achieve3000 found positive effects on the SRI but not Terra Nova (average effect size +0.16)](achieve3000-small-study-positive-sri.md) — a narrower finding that bears on this claim
 - [WWC rates Achieve3000® as having potentially positive effects on comprehension and general literacy achievement for adolescent readers](achieve3000-potentially-positive-literacy-effects.md) — related
 - [EL students using Achieve3000 scored significantly higher on adjusted post-pilot Lexile scores than comparison students who did not use the tool](achieve3000-significant-lexile-gains-vs-comparison.md) — related

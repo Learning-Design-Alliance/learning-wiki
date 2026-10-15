@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: hou-2026
-    resource: "https://arxiv.org/abs/2609.22993"
-    title: "Hou, X., Weng, Y., Yeh, C. H., Lee, D. L., Zheng, L., Li, F., Wang, W., & Liu, Y. (2026). Adaptive Scaffolding Needs Contingency: An AI Tutor That Escalates and Fades on What the Learner Does. arXiv preprint. https://arxiv.org/abs/2609.22993"
+    resource: "https://doi.org/10.48550/arxiv.2609.22993"
+    title: "Hou, X., Weng, Y., Yeh, C. H., Lee, D. L., Zheng, L., Li, F., Wang, W., & Liu, Y. (2026). Adaptive Scaffolding Needs Contingency: An AI Tutor That Escalates and Fades on What the Learner Does. arXiv preprint. https://arxiv.org/abs/2609.22993 [doi:10.48550/arxiv.2609.22993](https://doi.org/10.48550/arxiv.2609.22993)"
     author: "Hou, X., Weng, Y., Yeh, C. H., Lee, D. L., Zheng, L., Li, F., Wang, W., & Liu, Y."
     q: 3
     i: "?"
@@ -38,7 +38,7 @@ sources:
 # Contingent tutoring held delegation at the level of an answer-on-request assistant while delivering more artifacts, one decision at a time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · causal `r2` · `q3`
+> **Evidence** · 2 studies (3 entries) · 2 causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Learners asked the contingent tutor to build as often as the unrestricted assistant, and far more often than the question-only tutor. [→ Hou 2026](#hou-2026)
@@ -49,7 +49,7 @@ sources:
 
 ### Hou 2026
 
-Hou, X., Weng, Y., Yeh, C. H., Lee, D. L., Zheng, L., Li, F., Wang, W., & Liu, Y. (2026). Adaptive Scaffolding Needs Contingency: An AI Tutor That Escalates and Fades on What the Learner Does. arXiv preprint. https://arxiv.org/abs/2609.22993
+Hou, X., Weng, Y., Yeh, C. H., Lee, D. L., Zheng, L., Li, F., Wang, W., & Liu, Y. (2026). Adaptive Scaffolding Needs Contingency: An AI Tutor That Escalates and Fades on What the Learner Does. arXiv preprint. https://arxiv.org/abs/2609.22993 [doi:10.48550/arxiv.2609.22993](https://doi.org/10.48550/arxiv.2609.22993)
 
 `q3 · i?` · `causal · r?`
 

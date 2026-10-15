@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: sun-2025
-    resource: "https://arxiv.org/abs/2605.13906"
-    title: "Sun, Y., Xin, H., Li, S., Niu, Q., Chai, C. S., Huang, L., & Chen, G. (2025). Modeling AI-TPACK in Practice: Insights from Teachers' Multi-Agent Workflow Design. https://arxiv.org/abs/2605.13906"
+    resource: "https://doi.org/10.48550/arxiv.2605.13906"
+    title: "Sun, Y., Xin, H., Li, S., Niu, Q., Chai, C. S., Huang, L., & Chen, G. (2025). Modeling AI-TPACK in Practice: Insights from Teachers' Multi-Agent Workflow Design. https://arxiv.org/abs/2605.13906 [doi:10.48550/arxiv.2605.13906](https://doi.org/10.48550/arxiv.2605.13906)"
     author: "Sun, Y., Xin, H., Li, S., Niu, Q., Chai, C. S., Huang, L., & Chen, G."
     q: 2
     i: "?"
@@ -38,7 +38,7 @@ sources:
 # Interview data link cluster differences in AI-TPACK integration to distinct profiles of AI-TK, technical self-efficacy, pedagogical beliefs, and support-dependence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · qualitative `r2`–`r3` · `q2`
+> **Evidence** · 2 studies (3 entries) · 1 associational `r1`, 1 qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Systematic Optimizers showed systems-level thinking about multi-agent collaboration and high technical self-efficacy, explaining their iterative cycles and complex workflows. [→ Sun 2025](#sun-2025)
@@ -49,7 +49,7 @@ sources:
 
 ### Sun 2025
 
-Sun, Y., Xin, H., Li, S., Niu, Q., Chai, C. S., Huang, L., & Chen, G. (2025). Modeling AI-TPACK in Practice: Insights from Teachers' Multi-Agent Workflow Design. https://arxiv.org/abs/2605.13906
+Sun, Y., Xin, H., Li, S., Niu, Q., Chai, C. S., Huang, L., & Chen, G. (2025). Modeling AI-TPACK in Practice: Insights from Teachers' Multi-Agent Workflow Design. https://arxiv.org/abs/2605.13906 [doi:10.48550/arxiv.2605.13906](https://doi.org/10.48550/arxiv.2605.13906)
 
 `q2 · i?` · `qualitative · r3`
 
@@ -82,7 +82,7 @@ Interview analysis of Cluster 3: high-capability teachers critiqued platform con
 
 ## Related Claims
 - [AI-TPACK integration quality differs across behavioral clusters: Optimizers achieve cohesive systemic designs, Creators show pragmatic enhancement, Observers show unstable integration](ai-tpack-integration-differs-by-cluster.md) — related
-- [Interviewed students adopted an iterative upload–review–revise workflow and perceived the AI feedback as fair and highly useful, though some disregarded recommendations conflicting with their design intent](aissa-students-iterative-use-selective-uptake.md) — related
+- Interviewed students adopted an iterative upload–review–revise workflow and perceived the AI feedback as fair and highly useful, though some disregarded recommendations conflicting with their design intent — related
 - [Behavioral patterns alone insufficiently predict AI-TPACK capacity because Cluster 3 is polarized between expert-level and surface-level integration](behavior-alone-insufficient-predict-ai-tpack.md) — related
 - [Markov transition analysis shows the three clusters differ in workflow dynamics: iterative optimization loops, rapid prototyping flows, and browsing-anchored exploration](markov-workflow-dynamics-three-clusters.md) — related
 - [Teachers designing multi-agent workflows fall into three behavioral archetypes: Systematic Optimizers, Prolific Creators, and Passive Observers](three-archetypes-multi-agent-workflow-design.md) — related

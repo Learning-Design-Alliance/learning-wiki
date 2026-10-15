@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: baicheng-lin-2026
-    resource: "https://arxiv.org/abs/2608.01783"
-    title: "Baicheng Lin, Lingxi Jin, and Kyung-Seok Min. (2026). Comparative Validation of GPT-4o-mini and Teacher Mean Scores for Automated Scoring of Music Analysis Responses: Single-Pass Deployment, Repeatability, and Strategy-Specific Bias. arXiv preprint. https://arxiv.org/abs/2608.01783"
+    resource: "https://doi.org/10.48550/arxiv.2608.01783"
+    title: "Baicheng Lin, Lingxi Jin, and Kyung-Seok Min. (2026). Comparative Validation of GPT-4o-mini and Teacher Mean Scores for Automated Scoring of Music Analysis Responses: Single-Pass Deployment, Repeatability, and Strategy-Specific Bias. arXiv preprint. https://arxiv.org/abs/2608.01783 [doi:10.48550/arxiv.2608.01783](https://doi.org/10.48550/arxiv.2608.01783)"
     author: Baicheng Lin, Lingxi Jin, and Kyung-Seok Min
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Baicheng Lin 2026
 
-Baicheng Lin, Lingxi Jin, and Kyung-Seok Min. (2026). Comparative Validation of GPT-4o-mini and Teacher Mean Scores for Automated Scoring of Music Analysis Responses: Single-Pass Deployment, Repeatability, and Strategy-Specific Bias. arXiv preprint. https://arxiv.org/abs/2608.01783
+Baicheng Lin, Lingxi Jin, and Kyung-Seok Min. (2026). Comparative Validation of GPT-4o-mini and Teacher Mean Scores for Automated Scoring of Music Analysis Responses: Single-Pass Deployment, Repeatability, and Strategy-Specific Bias. arXiv preprint. https://arxiv.org/abs/2608.01783 [doi:10.48550/arxiv.2608.01783](https://doi.org/10.48550/arxiv.2608.01783)
 
 `q2 · i?` · `causal · r2`
 

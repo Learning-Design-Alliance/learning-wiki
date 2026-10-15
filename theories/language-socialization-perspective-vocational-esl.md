@@ -16,7 +16,7 @@ sources:
 # Language socialization perspective on combined language and occupational skills training
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article interprets participants' learning through a language socialization lens, in which language learning, sociocultural knowledge, and social interaction are interdependent. It states that participants' experiences "ties in with language socialization perspectives on the interdependence on language learning, sociocultural knowledge and activities, and the role of social interaction and experience in the development of new language and literacy competences." On this view, learning English to search for a job involves not only language but cultural scripts and schemata about what to say, to whom, and how, acquired through participation in the target community.
@@ -39,12 +39,7 @@ The article interprets participants' learning through a language socialization l
 
 ### Claims
 
-- [Esl Training Increased Independence English Use](../claims/esl-training-increased-independence-english-use.md) [+M]
-- [Limited English Use Opportunities After Training](../claims/limited-english-use-opportunities-after-training.md) [~M]
-- [Completing a combined ESL and healthcare-skills training program improved immigrants' employment prospects, but numerous employment barriers persisted even for those with relevant experience](../claims/esl-skills-training-improves-employment-but-barriers-persist.md) [+W]
-- [On-call and shift work were major employment barriers for immigrant care-aide graduates, particularly those with young children](../claims/on-call-shift-work-barrier-immigrant-women-care-aides.md) [+W]
 - [Successful program completion increased participants' self-confidence, self-esteem, and autonomy, which aided their settlement and integration into Canadian society](../claims/program-completion-increased-confidence-autonomy-settlement.md) [+W]
-- [Program participation benefited participants' family roles and intergenerational communication, including parenting, advising relatives on health, and reduced reliance on children as translators](../claims/training-benefited-family-communication-and-caretaking-roles.md) [+W]
 
 ## Related Theories
 

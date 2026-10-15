@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 4 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q3 i?` PS learners' application-section gains significantly exceeded PB learners' (T = 3.873, p = .00) after the four-week period. [→ Newell 2008](#newell-2008)
@@ -46,4 +47,4 @@ Application-section gain comparison in the randomized trial: "There was a signif
 - [Problem-based learning shows null or negative effects on basic knowledge acquisition but positive effects on conceptual understanding and transfer relative to direct instruction](pbl-null-basic-knowledge-positive-transfer.md) — the general claim this finding bears on, with the studies behind it
 - [The problem-based group achieved significantly larger content-knowledge gains, while the simulation group made no knowledge gains](problem-based-larger-knowledge-gains.md) — related
 - [The participatory simulation group showed significantly larger overall (combined knowledge and application) gains than the problem-based group after four weeks](simulation-larger-overall-il-gains.md) — related
-- [Middle school students began the study with weak information problem-solving knowledge and especially weak application ability](students-weak-initial-il-skills.md) — related
+- Middle school students began the study with weak information problem-solving knowledge and especially weak application ability — related

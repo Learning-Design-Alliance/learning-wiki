@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: angela-johnson-2021
-    resource: "https://www.nwea.org/research/publication/understanding-differential-growth-during-school-years-and-summers-for-students-in-special-education/"
-    title: "Angela Johnson, Elizabeth Barker. (2021). Understanding differential growth during school years and summers for students in special education. NWEA Research brief. https://www.nwea.org/research/publication/understanding-differential-growth-during-school-years-and-summers-for-students-in-special-education/"
+    resource: "https://doi.org/10.3102/1879659"
+    title: "Angela Johnson, Elizabeth Barker. (2021). Understanding differential growth during school years and summers for students in special education. NWEA Research brief. https://www.nwea.org/research/publication/understanding-differential-growth-during-school-years-and-summers-for-students-in-special-education/ [doi:10.3102/1879659](https://doi.org/10.3102/1879659)"
     author: Angela Johnson, Elizabeth Barker
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Angela Johnson 2021
 
-Angela Johnson, Elizabeth Barker. (2021). Understanding differential growth during school years and summers for students in special education. NWEA Research brief. https://www.nwea.org/research/publication/understanding-differential-growth-during-school-years-and-summers-for-students-in-special-education/
+Angela Johnson, Elizabeth Barker. (2021). Understanding differential growth during school years and summers for students in special education. NWEA Research brief. https://www.nwea.org/research/publication/understanding-differential-growth-during-school-years-and-summers-for-students-in-special-education/ [doi:10.3102/1879659](https://doi.org/10.3102/1879659)
 
 `q2 · i?` · `associational · r?`
 
@@ -47,7 +47,7 @@ The brief's description of its research on differential growth during school yea
 - [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [Summer reading loss disproportionately widens academic gaps for low-income children](summer-reading-loss-widens-gaps.md) — related
+- Summer reading loss disproportionately widens academic gaps for low-income children — related
 - [Dually-identified EL/SPED students had the lowest scores with gaps widening over time, driven by larger summer loss](dually-identified-lowest-scores-widening-gaps.md) — a narrower finding that bears on this claim
 - [Test score disparities between ever-SPED and never-SPED students grew from under 0.4 standard deviations in kindergarten to 0.9 standard deviations in 4th grade](sped-score-gap-grows-04-to-09-sd.md) — related
 - [Low-income children's test scores drop relative to higher-income peers during the summer months](low-income-summer-test-score-drop.md) — related

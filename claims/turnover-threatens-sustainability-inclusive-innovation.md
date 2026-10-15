@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: viki-m-young-2024
-    resource: "https://digitalpromise.dspacedirect.org/items/94695da1-ad96-49e5-b461-b759d617ae25"
-    title: "Viki M. Young, Ph.D. and Alexandra Merritt Johnson, Ph.D. (2024). Sustainability in Inclusive Innovation: District-Community Solutions, Mindsets, and Practices. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.dspacedirect.org/items/94695da1-ad96-49e5-b461-b759d617ae25"
+    resource: "https://doi.org/10.51388/20.500.12265/213"
+    title: "Viki M. Young, Ph.D. and Alexandra Merritt Johnson, Ph.D. (2024). Sustainability in Inclusive Innovation: District-Community Solutions, Mindsets, and Practices. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.dspacedirect.org/items/94695da1-ad96-49e5-b461-b759d617ae25 [doi:10.51388/20.500.12265/213](https://doi.org/10.51388/20.500.12265/213)"
     author: Viki M. Young, Ph.D. and Alexandra Merritt Johnson, Ph.D.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Viki M. Young 2024
 
-Viki M. Young, Ph.D. and Alexandra Merritt Johnson, Ph.D. (2024). Sustainability in Inclusive Innovation: District-Community Solutions, Mindsets, and Practices. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.dspacedirect.org/items/94695da1-ad96-49e5-b461-b759d617ae25
+Viki M. Young, Ph.D. and Alexandra Merritt Johnson, Ph.D. (2024). Sustainability in Inclusive Innovation: District-Community Solutions, Mindsets, and Practices. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.dspacedirect.org/items/94695da1-ad96-49e5-b461-b759d617ae25 [doi:10.51388/20.500.12265/213](https://doi.org/10.51388/20.500.12265/213)
 
 `q2 · i?` · `qualitative · r2`
 

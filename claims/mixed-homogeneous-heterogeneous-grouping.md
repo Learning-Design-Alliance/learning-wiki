@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` The essay argues there is room for both grouping plans: homogeneous groups for reading instruction because the achievement range is too great, and heterogeneous groups for discussion where slower learners may lean on listening vocabularies. [→ Ediger 1995](#ediger-1995)

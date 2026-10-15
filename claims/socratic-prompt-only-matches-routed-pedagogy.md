@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: shuyi-fan-2026
-    resource: "https://arxiv.org/abs/2607.28128"
-    title: "Shuyi Fan, Boyuan Deng, Mengyu Xu, Jiale Liu, Hongyang Zhang, Qiaoxin Yang, Chongyang Gao. (2026). Rethinking LLM-Judged Helpfulness as a Pedagogy Signal: A Pre-Registered Audit Across Tutor Models. arXiv. https://arxiv.org/abs/2607.28128"
+    resource: "https://doi.org/10.48550/arxiv.2607.28128"
+    title: "Shuyi Fan, Boyuan Deng, Mengyu Xu, Jiale Liu, Hongyang Zhang, Qiaoxin Yang, Chongyang Gao. (2026). Rethinking LLM-Judged Helpfulness as a Pedagogy Signal: A Pre-Registered Audit Across Tutor Models. arXiv. https://arxiv.org/abs/2607.28128 [doi:10.48550/arxiv.2607.28128](https://doi.org/10.48550/arxiv.2607.28128)"
     author: Shuyi Fan, Boyuan Deng, Mengyu Xu, Jiale Liu, Hongyang Zhang, Qiaoxin Yang, Chongyang Gao
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Shuyi Fan 2026
 
-Shuyi Fan, Boyuan Deng, Mengyu Xu, Jiale Liu, Hongyang Zhang, Qiaoxin Yang, Chongyang Gao. (2026). Rethinking LLM-Judged Helpfulness as a Pedagogy Signal: A Pre-Registered Audit Across Tutor Models. arXiv. https://arxiv.org/abs/2607.28128
+Shuyi Fan, Boyuan Deng, Mengyu Xu, Jiale Liu, Hongyang Zhang, Qiaoxin Yang, Chongyang Gao. (2026). Rethinking LLM-Judged Helpfulness as a Pedagogy Signal: A Pre-Registered Audit Across Tutor Models. arXiv. https://arxiv.org/abs/2607.28128 [doi:10.48550/arxiv.2607.28128](https://doi.org/10.48550/arxiv.2607.28128)
 
 `q2 · i?` · `causal · r2`
 

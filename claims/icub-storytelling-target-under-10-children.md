@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: maria-lombardi-2025
-    resource: "https://arxiv.org/abs/2508.02505"
-    title: "Maria Lombardi, Carmela Calabrese, Davide Ghiglino, Caterina Foglino, Davide De Tommaso, Giulia Da Lisca, Lorenzo Natale, Agnieszka Wykowska. (2025). Would you let a humanoid play storytelling with your child? A usability study on LLM-powered narrative Human-Robot Interaction. https://arxiv.org/abs/2508.02505"
+    resource: "https://doi.org/10.48550/arxiv.2508.02505"
+    title: "Maria Lombardi, Carmela Calabrese, Davide Ghiglino, Caterina Foglino, Davide De Tommaso, Giulia Da Lisca, Lorenzo Natale, Agnieszka Wykowska. (2025). Would you let a humanoid play storytelling with your child? A usability study on LLM-powered narrative Human-Robot Interaction. https://arxiv.org/abs/2508.02505 [doi:10.48550/arxiv.2508.02505](https://doi.org/10.48550/arxiv.2508.02505)"
     author: Maria Lombardi, Carmela Calabrese, Davide Ghiglino, Caterina Foglino, Davide De Tommaso, Giulia Da Lisca, Lorenzo Natale, Agnieszka Wykowska
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Maria Lombardi 2025
 
-Maria Lombardi, Carmela Calabrese, Davide Ghiglino, Caterina Foglino, Davide De Tommaso, Giulia Da Lisca, Lorenzo Natale, Agnieszka Wykowska. (2025). Would you let a humanoid play storytelling with your child? A usability study on LLM-powered narrative Human-Robot Interaction. https://arxiv.org/abs/2508.02505
+Maria Lombardi, Carmela Calabrese, Davide Ghiglino, Caterina Foglino, Davide De Tommaso, Giulia Da Lisca, Lorenzo Natale, Agnieszka Wykowska. (2025). Would you let a humanoid play storytelling with your child? A usability study on LLM-powered narrative Human-Robot Interaction. https://arxiv.org/abs/2508.02505 [doi:10.48550/arxiv.2508.02505](https://doi.org/10.48550/arxiv.2508.02505)
 
 `q3 · i?` · `design · r2`
 

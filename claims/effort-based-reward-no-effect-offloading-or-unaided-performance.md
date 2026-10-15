@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: sebastian-maier-2026
-    resource: "https://arxiv.org/abs/2609.20143"
-    title: "Sebastian Maier, Kai Schwabe, Manuel Schneider, and Stefan Feuerriegel. (2026). Designing Against Deskilling: Metacognitive Feedback Reduces Cognitive Offloading to LLM Assistants. arXiv. https://arxiv.org/abs/2609.20143"
+    resource: "https://doi.org/10.48550/arxiv.2609.20143"
+    title: "Sebastian Maier, Kai Schwabe, Manuel Schneider, and Stefan Feuerriegel. (2026). Designing Against Deskilling: Metacognitive Feedback Reduces Cognitive Offloading to LLM Assistants. arXiv. https://arxiv.org/abs/2609.20143 [doi:10.48550/arxiv.2609.20143](https://doi.org/10.48550/arxiv.2609.20143)"
     author: Sebastian Maier, Kai Schwabe, Manuel Schneider, and Stefan Feuerriegel
     q: 3
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # An effort-based reward did not significantly reduce answer offloading or improve unaided performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r3` · `q3`
+> **Evidence** · 2 studies · 2 causal `r3` · `q3`
 
 ## Subclaims
 `q3 i?` The reward's association with lower odds of answer offloading was not significant (OR = 0.66, p = .139). [→ Sebastian Maier 2026](#sebastian-maier-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Sebastian Maier 2026
 
-Sebastian Maier, Kai Schwabe, Manuel Schneider, and Stefan Feuerriegel. (2026). Designing Against Deskilling: Metacognitive Feedback Reduces Cognitive Offloading to LLM Assistants. arXiv. https://arxiv.org/abs/2609.20143
+Sebastian Maier, Kai Schwabe, Manuel Schneider, and Stefan Feuerriegel. (2026). Designing Against Deskilling: Metacognitive Feedback Reduces Cognitive Offloading to LLM Assistants. arXiv. https://arxiv.org/abs/2609.20143 [doi:10.48550/arxiv.2609.20143](https://doi.org/10.48550/arxiv.2609.20143)
 
 `q3 · i?` · `causal · r3`
 

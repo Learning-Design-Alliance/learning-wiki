@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Evidence from the 26-institution national project led by Eynon and Gambino, as summarized by Kuh, showed that students taking courses requiring ePortfolios were generally more engaged in educationally purposeful activities, earned higher grades, and were more likely to complete courses and persist than counterparts who did not use ePortfolios. [→ kuh-foreword](#kuh-foreword)

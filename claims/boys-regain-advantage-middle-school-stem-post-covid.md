@@ -47,4 +47,4 @@ The brief's title states its headline finding: an analysis of post-COVID trends 
 - [Gender gap trends in 8th-grade STEM were estimated from five years of TIMSS, NAEP, and MAP Growth data spanning the pandemic](gender-gap-trends-three-national-assessments-8th-grade.md) — related
 - [A two-million-student MAP Growth sample was used to test whether gender gaps widened among low- and high-achieving students](two-million-student-map-growth-gender-gaps-achievement-levels.md) — related
 - [The study explored whether 8th-grade Algebra enrollment varied by gender during and after the pandemic](algebra-enrollment-gender-during-after-pandemic.md) — related
-- [Early female-favored mean math differences reverse to male-favored differences that widen across elementary grades](gender-gap-reverses-male-favored-elementary-math.md) — related
+- Early female-favored mean math differences reverse to male-favored differences that widen across elementary grades — related

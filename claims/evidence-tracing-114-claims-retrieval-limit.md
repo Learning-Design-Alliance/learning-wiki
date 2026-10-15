@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: dana-rezazadegan-2026
-    resource: "https://arxiv.org/abs/2606.27619"
-    title: "Dana Rezazadegan, Atie Kia, Phongpadid Nandavong, Dominique Carlon, Jeremy Nguyen, Abhik Banerjee, James Marshall, Anthony McCosker, Yong-Bin Kang. (2026). DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners' Insights from Online Forums. https://arxiv.org/abs/2606.27619"
+    resource: "https://doi.org/10.48550/arxiv.2606.27619"
+    title: "Dana Rezazadegan, Atie Kia, Phongpadid Nandavong, Dominique Carlon, Jeremy Nguyen, Abhik Banerjee, James Marshall, Anthony McCosker, Yong-Bin Kang. (2026). DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners' Insights from Online Forums. https://arxiv.org/abs/2606.27619 [doi:10.48550/arxiv.2606.27619](https://doi.org/10.48550/arxiv.2606.27619)"
     author: Dana Rezazadegan, Atie Kia, Phongpadid Nandavong, Dominique Carlon, Jeremy Nguyen, Abhik Banerjee, James Marshall, Anthony McCosker, Yong-Bin Kang
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Evidence tracing links 96 of 114 generated claims to source chunks, but three claims with retrieval scores of 0.50 or below show retrieval similarity alone is insufficient
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Of 114 unique claims across 30 responses, 96 link to at least one source-chunk identifier, and three claims with average retrieval scores of 0.50 or below show retrieval similarity alone does not guarantee claim-level evidential support. [→ Dana Rezazadegan 2026](#dana-rezazadegan-2026)
@@ -39,7 +39,7 @@ sources:
 
 ### Dana Rezazadegan 2026
 
-Dana Rezazadegan, Atie Kia, Phongpadid Nandavong, Dominique Carlon, Jeremy Nguyen, Abhik Banerjee, James Marshall, Anthony McCosker, Yong-Bin Kang. (2026). DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners' Insights from Online Forums. https://arxiv.org/abs/2606.27619
+Dana Rezazadegan, Atie Kia, Phongpadid Nandavong, Dominique Carlon, Jeremy Nguyen, Abhik Banerjee, James Marshall, Anthony McCosker, Yong-Bin Kang. (2026). DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners' Insights from Online Forums. https://arxiv.org/abs/2606.27619 [doi:10.48550/arxiv.2606.27619](https://doi.org/10.48550/arxiv.2606.27619)
 
 `q2 · i?` · `design · r2`
 

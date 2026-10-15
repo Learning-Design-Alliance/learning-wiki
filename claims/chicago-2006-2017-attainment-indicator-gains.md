@@ -62,4 +62,4 @@ The introduction's descriptive trend summary for CPS: graduation rates up 18 per
 
 
 ## Related Claims
-- [Chicago's on-track data system was associated with improved high school graduation rates](chicago-ontrack-system-improved-graduation-rates.md) — related
+- Chicago's on-track data system was associated with improved high school graduation rates — related

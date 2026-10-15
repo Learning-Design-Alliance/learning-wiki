@@ -81,7 +81,7 @@ The authors review 418 prejudice-reduction experiments published 2007–2019, es
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does structured perspective-taking or contact improve learners' attitudes towards another person or group, and does it reach behaviour?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **9 distinct studies** (3 causal, 2 review, 2 qualitative, 1 quant-synthesis, 1 design), `q1`–`q3`, 0 of 9 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does structured perspective-taking or contact improve learners' attitudes towards another person or group, and does it reach behaviour?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **8 distinct studies** (3 causal, 2 review, 2 qualitative, 1 quant-synthesis), `q1`–`q3`, 0 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -90,8 +90,7 @@ The authors review 418 prejudice-reduction experiments published 2007–2019, es
 | [Paluck et al. 2021](https://doi.org/10.1146/annurev-psych-071620-030619) | q3 · quant-synthesis · r? | i? | this claim |
 | George 2021 | q2 · review · r1 | i? | [Intergroup contact in diverse schools reduces prejudice and increases positive cross-racia](diverse-schools-social-and-civic-benefits.md) (supports) |
 | Warren-Gordon 2019 | q1 · qualitative · r1 | i? | [Direct one-on-one interaction with community partners is reported to help students see com](csl-one-on-one-partner-contact-disrupts-stereotypes.md) (supports) |
-| Sherman 2020 | q2 · qualitative · r2 | i? | [Students perceive that interacting with others in experiential learning fosters empathy an](students-interaction-empathy-perspective-taking.md) (supports) |
-| 360 Filmmakers Challenge: Key Findings from the Fall 2016 Program 2017 | q2 · design · r2 | i? | [Participating youth appeared to develop perspective-taking skills, with 84% of students re](360-filmmakers-challenge-perspective-taking.md) (supports) |
+| [Sherman 2020](https://doi.org/10.22492/ije.8.3.05) | q2 · qualitative · r2 | i? | [Students perceive that interacting with others in experiential learning fosters empathy an](students-interaction-empathy-perspective-taking.md) (supports) |
 | [Adam Palmquist 2025](https://doi.org/10.1007/s40692-025-00354-1) | q2 · review · r2 | i? | [Review reports a game-based learning course increased adolescents' empathy and compassion ](game-based-learning-empathy-sec.md) (supports) |
 | [Litam 2019](https://doi.org/10.15241/sdal.9.4.396) | q3 · causal · r2 | i? | [Attitudes and demographics predicted empathy in the prostitute-label group but not the tra](label-condition-moderates-empathy-predictors.md) (qualifies) |
 <!-- synthesis:end -->
@@ -122,4 +121,4 @@ The authors review 418 prejudice-reduction experiments published 2007–2019, es
 - [Reading fiction gives at most a very small gain on theory-of-mind and social-cognition tasks, and the single-passage literary-fiction effect did not replicate](reading-literary-fiction-improves-theory-of-mind.md) — related
 - [SEL programs improve social emotional skills](sel-programs-improve-social-emotional-skills.md) — related
 - [Sharing experiences in class discussion modifies learners' attitudes and interpretations](sharing-experiences-modifies-attitudes.md) — related
-- [Participating youth appeared to develop perspective-taking skills, with 84% of students reporting greater openness to others' perspectives](360-filmmakers-challenge-perspective-taking.md) — related
+- Participating youth appeared to develop perspective-taking skills, with 84% of students reporting greater openness to others' perspectives — related

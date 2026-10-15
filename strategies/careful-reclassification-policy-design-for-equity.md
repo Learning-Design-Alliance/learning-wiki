@@ -17,7 +17,7 @@ sources:
 # Consider policy design carefully to ensure equitable reclassification opportunities for EL students
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The report's closing recommendation urges policymakers to weigh how reclassification criteria structures shape EL students' opportunities. It states "it remains essential to emphasize the importance of careful consideration of policy design to ensure equitable opportunities for EL students," because the inclusion of non-ELP assessments is associated with lower eligibility and reclassification rates and may prolong EL status. The recommendation is framed as motivating "a conversation around effective policy design that levels learning opportunities for this population nationwide."
@@ -38,9 +38,6 @@ The report's closing recommendation urges policymakers to weigh how reclassifica
 
 ## Claims
 
-- [Disparities in reclassification eligibility across states widen as grade levels progress, with states relying solely on ELP criteria showing sharp increases by grade 5](../claims/eligibility-disparities-widen-across-grades.md) [+W]
-- [States mandating non-ELP reclassification requirements have higher shares of long-term ELs](../claims/mandated-non-elp-requirements-higher-long-term-el-shares.md) [+W]
-- [Policy adherence is high across states (96-98 percent of eligible students reclassified) but is relatively lower in the state mandating end-of-grade assessment proficiency](../claims/policy-adherence-high-but-lower-in-mandated-assessment-state.md) [+W]
 
 ## Related Strategies
 

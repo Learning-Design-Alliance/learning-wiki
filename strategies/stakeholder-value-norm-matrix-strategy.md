@@ -17,7 +17,7 @@ sources:
 # Use the stakeholder-by-value norm matrix as actionable rules for implementing ethical AIED
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The review proposes its combined matrix as a practical tool: ethical norms are treated as "actionable rules that could be used to achieve the desired behaviours described by the EVs". Stakeholders can look up their set (developers, educational institutes, end users, regulators) and find the norms the literature assigns for each main ethical value, e.g. educational institutes carrying most human-oversight norms and regulators most goodwill norms. The grouping per stakeholder set helps different stakeholders ensure AI used in education is ethical, and the grouping per value supports implementing AIED in compliance with specific values.
@@ -38,7 +38,6 @@ The review proposes its combined matrix as a practical tool: ethical norms are t
 
 ## Claims
 
-- [Ethical norms for AIED were grouped into a combined matrix of stakeholder sets by main ethical values, with educational institutes the only stakeholder set covering all six values](../claims/aied-ethical-norms-stakeholder-value-matrix.md) [+W]
 
 ## Related Strategies
 

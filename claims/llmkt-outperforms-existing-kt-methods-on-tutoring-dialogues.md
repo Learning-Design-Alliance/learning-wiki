@@ -10,8 +10,8 @@ generated:
 evidence_strength: mixed
 sources:
   - id: alexander-scarlatos-2024
-    resource: "https://arxiv.org/abs/2409.16490"
-    title: "Alexander Scarlatos, Ryan S. Baker, and Andrew Lan. (2024). Exploring Knowledge Tracing in Tutor-Student Dialogues using LLMs. Published in LAK25: The 15th International Learning Analytics and Knowledge Conference. https://arxiv.org/abs/2409.16490"
+    resource: "https://doi.org/10.48550/arxiv.2409.16490"
+    title: "Alexander Scarlatos, Ryan S. Baker, and Andrew Lan. (2024). Exploring Knowledge Tracing in Tutor-Student Dialogues using LLMs. Published in LAK25: The 15th International Learning Analytics and Knowledge Conference. https://arxiv.org/abs/2409.16490 [doi:10.48550/arxiv.2409.16490](https://doi.org/10.48550/arxiv.2409.16490)"
     author: Alexander Scarlatos, Ryan S. Baker, and Andrew Lan
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # LLMKT outperforms existing knowledge tracing methods at predicting student turn correctness in the CoMTA and MathDial tutoring dialogue datasets, and generally outperforms DKT-Sem.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` LLMKT significantly outperforms all existing KT methods (BKT, DKT, DKVMN, AKT, SAINT, simpleKT) and generally outperforms DKT-Sem on both datasets. [→ Alexander Scarlatos 2024](#alexander-scarlatos-2024)
@@ -40,7 +40,7 @@ sources:
 
 ### Alexander Scarlatos 2024
 
-Alexander Scarlatos, Ryan S. Baker, and Andrew Lan. (2024). Exploring Knowledge Tracing in Tutor-Student Dialogues using LLMs. Published in LAK25: The 15th International Learning Analytics and Knowledge Conference. https://arxiv.org/abs/2409.16490
+Alexander Scarlatos, Ryan S. Baker, and Andrew Lan. (2024). Exploring Knowledge Tracing in Tutor-Student Dialogues using LLMs. Published in LAK25: The 15th International Learning Analytics and Knowledge Conference. https://arxiv.org/abs/2409.16490 [doi:10.48550/arxiv.2409.16490](https://doi.org/10.48550/arxiv.2409.16490)
 
 `q2 · i?` · `design · r2`
 
@@ -68,7 +68,7 @@ MathDial results from the same benchmark comparison, where existing methods impr
 - [In a qualitative case study, LLMKT adjusts KC mastery estimates using the dialogue's textual content, such as the difficulty of the tutor's question, rather than only prior correctness labels.](llmkt-uses-dialogue-text-to-adjust-kc-mastery-estimates.md) — related
 - [LLMKT's predicted knowledge change curves on CoMTA are mixed across the 15 most frequent KCs, though overall they mostly resemble the power law of practice when dialogues have sufficient turns.](llmkt-knowledge-change-curves-show-mixed-trends-resembling-power-law-of-practice.md) — related
 - [Standardized benchmarks are often too generic to reflect the needs of innovative educational applications](standardized-benchmarks-too-generic-for-education.md) — related
-- [Representing exercises by KC name descriptions outperformed ID-based representation when aligning an LLM to knowledge tracing](description-based-representation-beats-id-based-llm-kt.md) — related
+- Representing exercises by KC name descriptions outperformed ID-based representation when aligning an LLM to knowledge tracing — related
 - [Among deep learning KT models, simpler DKT performs comparably to complex architectures under limited dialogue data](dkt-comparable-to-complex-kt-architectures.md) — related
 - [An IRT-based difficulty-aware conversational KT framework improves AUC over the LLMKT baseline on both QATD2k and MathDial](irt-difficulty-aware-kt-beats-llmkt-auc.md) — related
-- [Deep Knowledge Tracing substantially outperforms Bayesian Knowledge Tracing on knowledge tracing benchmarks](dkt-outperforms-bkt-auc-benchmarks.md) — related
+- Deep Knowledge Tracing substantially outperforms Bayesian Knowledge Tracing on knowledge tracing benchmarks — related

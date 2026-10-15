@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: cansu-koyuturk-2026
-    resource: "https://arxiv.org/abs/2605.18372"
-    title: "Cansu Koyuturk, Sabrina Guidotti, and Dimitri Ognibene. (2026). The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human–AI Collaboration. https://arxiv.org/abs/2605.18372"
+    resource: "https://doi.org/10.48550/arxiv.2605.18372"
+    title: "Cansu Koyuturk, Sabrina Guidotti, and Dimitri Ognibene. (2026). The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human–AI Collaboration. https://arxiv.org/abs/2605.18372 [doi:10.48550/arxiv.2605.18372](https://doi.org/10.48550/arxiv.2605.18372)"
     author: Cansu Koyuturk, Sabrina Guidotti, and Dimitri Ognibene
     q: 3
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Carryover of user errors into AI advice reduces both advice quality and final ranking accuracy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Evidence** · 2 studies · 2 causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Advice quality was negatively associated with the proportion of user errors carried over into the assistant's advice (b = -0.390, p < .001), while positively associated with overall overlap (b = 0.933, p < .001). [→ Cansu Koyuturk 2026](#cansu-koyuturk-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Cansu Koyuturk 2026
 
-Cansu Koyuturk, Sabrina Guidotti, and Dimitri Ognibene. (2026). The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human–AI Collaboration. https://arxiv.org/abs/2605.18372
+Cansu Koyuturk, Sabrina Guidotti, and Dimitri Ognibene. (2026). The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human–AI Collaboration. https://arxiv.org/abs/2605.18372 [doi:10.48550/arxiv.2605.18372](https://doi.org/10.48550/arxiv.2605.18372)
 
 `q3 · i?` · `causal · r2`
 

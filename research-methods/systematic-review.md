@@ -17,7 +17,7 @@ sources:
 # Systematic review
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 6 claims (6 for) · 3 studies (2 quant-synthesis, 1 theoretical), `q1`–`q3` · 0 of 3 report an effect size · 6 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 3 studies (2 quant-synthesis, 1 theoretical), `q1`–`q3` · 0 of 3 report an effect size · 5 claims rest on one study
 
 ## Description
 The article defines systematic reviews as a distinct genre of research synthesis. It states that "It is important to define what we mean by a systematic review to distinguish it from simple summaries of research", and that "Systematic reviews are designed to answer a question and prevent the information overload that decision makers at all levels may face." The framework positions the systematic review as a purposeful, question-anchored alternative to ad hoc summaries, used to support evidence-based decision making at all levels.
@@ -32,7 +32,6 @@ The article defines systematic reviews as a distinct genre of research synthesis
 - **Systematic review corpus of 622 reports yielding 53 program evaluations and 44 meta-analyzable effect sizes**: The review assembled an evidence corpus by hand-searching all volumes of 35 journals from 1983 to the end of May 2009 and 18 electronic databases, including non-English reports and unpublished work. Of "622 reports concerned with bullying prevention", 89 reports describing 53 different program evaluations were included, and 44 provided calculable effect sizes for bullying or victimization. Evaluations spanned four design types: randomized experiments, before-and-after intervention-control comparisons, other intervention-control comparisons, and age-cohort designs. (Maria M. Ttofi (2011))
 
 ### Claims
-- [Decision makers face research summaries whose findings point in different directions, raising questions about study quality and comparability](../claims/decision-makers-face-conflicting-research-findings.md) [+W]
 - [Systematic reviews are designed to answer a question and prevent information overload for decision makers](../claims/systematic-reviews-prevent-information-overload.md) [+W]
 - [Using computerized systems as a differentiation tool has small to moderate positive effects on primary students' language and math performance](../claims/computerized-differentiation-systems-positive-effects-primary.md) [+M]
 - [Differentiation embedded in a broader program or reform has small to moderate positive effects on primary students' performance](../claims/differentiation-within-broader-program-positive-effects.md) [+M]
@@ -75,7 +74,6 @@ The article defines systematic reviews as a distinct genre of research synthesis
 
 ### Claims
 
-- [Decision makers face research summaries whose findings point in different directions, raising questions about study quality and comparability](../claims/decision-makers-face-conflicting-research-findings.md) [+W]
 - [Systematic reviews are designed to answer a question and prevent information overload for decision makers](../claims/systematic-reviews-prevent-information-overload.md) [+W]
 
 ## Related Theories

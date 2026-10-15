@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 <!-- title before 2026-10-15: Peer assisted learning is an effective learning approach that promotes knowledge construction, collaboration ability, and interpersonal interaction -->
 
 ## Subclaims
@@ -48,7 +49,7 @@ The article's review section defines peer assisted learning as "acquiring knowle
 - [Active and collaborative approaches promote higher-order thinking and complex reasoning (review attribution)](active-collaborative-approaches-higher-order-thinking.md) — related
 - [A descriptive report of a blended online peer-assisted learning community in a Zhejiang Normal University distance-education course asserts, without reported data, that it promoted interpersonal interaction and informal learning](blended-peer-assisted-learning-experiment-effective-at-zjnu.md) — a narrower finding that bears on this claim
 - [An ICAP theory article reports, second-hand and without describing the design, a study in which concept mapping with a peer enhanced learning more than concept mapping alone](interactive-beats-constructive-concept-mapping.md) — related
-- [Online peer assisted learning communities foster informal learning and spontaneous interest-based groups](online-peer-assisted-learning-fosters-informal-learning.md) — a narrower finding that bears on this claim
+- Online peer assisted learning communities foster informal learning and spontaneous interest-based groups — a narrower finding that bears on this claim
 - [Structured Peer Tutoring Outperforms Unstructured](structured-peer-tutoring-outperforms-unstructured.md) — a narrower finding that bears on this claim
 - [Peer-assisted learning interventions improve achievement for elementary students](peer-assisted-learning-improves-achievement.md) — a narrower finding that bears on this claim
 - [Teaching Others Generative Strategy](learning-by-teaching-improves-tutor-learning.md) — a narrower finding that bears on this claim

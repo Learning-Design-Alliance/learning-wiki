@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: pikulski-1973
-    resource: "https://eric.ed.gov/?id=ED085660"
-    title: "Pikulski, J. J. (1973). *Criterion referenced measures for clinical evaluations*. ERIC Document ED085660. https://eric.ed.gov/?id=ED085660"
+    resource: "https://doi.org/10.1080/19388077409557262"
+    title: "Pikulski, J. J. (1973). *Criterion referenced measures for clinical evaluations*. ERIC Document ED085660. https://eric.ed.gov/?id=ED085660 [doi:10.1080/19388077409557262](https://doi.org/10.1080/19388077409557262)"
     author: Pikulski, J. J.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Pikulski 1973
 
-Pikulski, J. J. (1973). *Criterion referenced measures for clinical evaluations*. ERIC Document ED085660. https://eric.ed.gov/?id=ED085660
+Pikulski, J. J. (1973). *Criterion referenced measures for clinical evaluations*. ERIC Document ED085660. https://eric.ed.gov/?id=ED085660 [doi:10.1080/19388077409557262](https://doi.org/10.1080/19388077409557262)
 
 `q2 · i?` · `theoretical · r?`
 
@@ -48,7 +48,7 @@ The article's conceptual discussion of criterion-referenced measurement explains
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| Pikulski 1973 | q2 · theoretical · r? | i? | this claim; [Criterion-referenced test items should represent skills essential to learning to read and ](criterion-referenced-items-should-represent-essential-skills-in-a-teaching-hierarchy.md) (supports) |
+| [Pikulski 1973](https://doi.org/10.1080/19388077409557262) | q2 · theoretical · r? | i? | this claim; [Criterion-referenced test items should represent skills essential to learning to read and ](criterion-referenced-items-should-represent-essential-skills-in-a-teaching-hierarchy.md) (supports) |
 | Gentile 1971 | q1 · theoretical · r2 | i? | [Rank-ordering students is irrelevant to teaching because teaching is not claimed to have o](rank-ordering-irrelevant-to-teaching.md) (supports); [Competitive (norm-referenced) grading pits students against one another and discourages co](competitive-grading-pits-students-against-each-other.md) (supports); [Abandoning assessment entirely is not an acceptable alternative to competitive grading, pe](nonassessment-unacceptable-alternative.md) (qualifies) |
 | Hunt 1973 | q1 · theoretical · r2 | i? | [Norm-referenced mental-age and IQ metrics distract investigators from the structural and h](norm-referenced-metrics-hide-structural-development.md) (supports) |
 <!-- synthesis:end -->

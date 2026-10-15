@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: jeongyeon-kim-and-john-mitchell-2026
-    resource: "https://arxiv.org/abs/2609.11109"
-    title: "Jeongyeon Kim and John Mitchell. (2026). How AI Coders Discuss, Disagree, and Reach Consensus: Challenges and Opportunities for LLM-Based Qualitative Coding. arXiv. https://arxiv.org/abs/2609.11109"
+    resource: "https://doi.org/10.48550/arxiv.2609.11109"
+    title: "Jeongyeon Kim and John Mitchell. (2026). How AI Coders Discuss, Disagree, and Reach Consensus: Challenges and Opportunities for LLM-Based Qualitative Coding. arXiv. https://arxiv.org/abs/2609.11109 [doi:10.48550/arxiv.2609.11109](https://doi.org/10.48550/arxiv.2609.11109)"
     author: Jeongyeon Kim and John Mitchell
     q: 2
     i: 0
@@ -30,7 +30,7 @@ sources:
 # The number of conflicting labels before discussion shows no relationship with accuracy gains from AI agent discussions, while post-discussion conflict frequency negatively predicts gains
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2` · `i0`–`i1`
+> **Evidence** · 2 studies · 2 design `r2` · `q2` · `i0`–`i1`
 
 ## Subclaims
 `q2 i0` Pre-discussion conflicting labels did not influence accuracy gains (p=0.059, effect size -0.037). [→ Jeongyeon Kim and John Mitchell 2026](#jeongyeon-kim-and-john-mitchell-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Jeongyeon Kim and John Mitchell 2026
 
-Jeongyeon Kim and John Mitchell. (2026). How AI Coders Discuss, Disagree, and Reach Consensus: Challenges and Opportunities for LLM-Based Qualitative Coding. arXiv. https://arxiv.org/abs/2609.11109
+Jeongyeon Kim and John Mitchell. (2026). How AI Coders Discuss, Disagree, and Reach Consensus: Challenges and Opportunities for LLM-Based Qualitative Coding. arXiv. https://arxiv.org/abs/2609.11109 [doi:10.48550/arxiv.2609.11109](https://doi.org/10.48550/arxiv.2609.11109)
 
 `q2 · i0` · `design · r2`
 

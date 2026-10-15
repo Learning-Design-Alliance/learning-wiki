@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: md-zabirul-islam-2026
-    resource: "https://arxiv.org/abs/2606.20608"
-    title: "Md Zabirul Islam, Md Motaleb Hossen Manik, and Ge Wang. (2026). CourseBlueprint: A Structured Pipeline for Adaptive Pedagogical Video Generation Grounded in Course Corpora. arXiv preprint. https://arxiv.org/abs/2606.20608"
+    resource: "https://doi.org/10.48550/arxiv.2606.20608"
+    title: "Md Zabirul Islam, Md Motaleb Hossen Manik, and Ge Wang. (2026). CourseBlueprint: A Structured Pipeline for Adaptive Pedagogical Video Generation Grounded in Course Corpora. arXiv preprint. https://arxiv.org/abs/2606.20608 [doi:10.48550/arxiv.2606.20608](https://doi.org/10.48550/arxiv.2606.20608)"
     author: Md Zabirul Islam, Md Motaleb Hossen Manik, and Ge Wang
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Md Zabirul Islam 2026
 
-Md Zabirul Islam, Md Motaleb Hossen Manik, and Ge Wang. (2026). CourseBlueprint: A Structured Pipeline for Adaptive Pedagogical Video Generation Grounded in Course Corpora. arXiv preprint. https://arxiv.org/abs/2606.20608
+Md Zabirul Islam, Md Motaleb Hossen Manik, and Ge Wang. (2026). CourseBlueprint: A Structured Pipeline for Adaptive Pedagogical Video Generation Grounded in Course Corpora. arXiv preprint. https://arxiv.org/abs/2606.20608 [doi:10.48550/arxiv.2606.20608](https://doi.org/10.48550/arxiv.2606.20608)
 
 `q2 · i?` · `design · r2`
 

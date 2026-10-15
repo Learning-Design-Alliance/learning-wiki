@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 5 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` The implicit assumption that conversational fluency in English is a good indicator of English proficiency has resulted in countless bilingual children being diagnosed as learning disabled or retarded. [→ Cummins 1999](#cummins-1999)
@@ -69,8 +70,8 @@ The author argues that ignoring acquisition-rate differences caused premature ex
 - [Early-exit transitional bilingual programs that provide minimal early-grade English literacy and then transition students to all-English classrooms with no support are inappropriate](early-exit-transitional-transition-unsupported-inappropriate.md) — related
 - [Fluent bilingualism enhances metalinguistic awareness](bilingual-fluency-enhances-metalinguistic-awareness.md) — related
 - [Situated perspective explains Latino students' mathematical meaning-making in bilingual classrooms better than a discontinuity model (review reports Moschkovich, 1996)](situated-perspective-bilingual-math-meaning.md) — related
-- [Surface conversational fluency develops within about two years, but academic proficiency in English takes 5-7 years for immigrant students](academic-proficiency-takes-5-7-years.md) — related
-- [Critics argue Cummins' framework neglects the sociocultural context and CALP may index acculturation rather than cognitive ability](sociocultural-critique-cummins-framework.md) — related
+- Surface conversational fluency develops within about two years, but academic proficiency in English takes 5-7 years for immigrant students — related
+- Critics argue Cummins' framework neglects the sociocultural context and CALP may index acculturation rather than cognitive ability — related
 - [Weak grasp of context can make AI misdiagnoses systematically harmful when a flawed decision pattern is replicated across many students](ai-context-misdiagnosis-systematic-harm.md) — related
 - [Bilingual staff help differentiate typical language development from disability, but interviewees described no systematic process for doing so](bilingual-staff-differentiation-no-systematic-process.md) — related
 - [It is inappropriate to use KEA scores to evaluate teachers or preschool programs, hold children back from kindergarten, or diagnose learning disabilities](kea-inappropriate-uses-teacher-eval-retention-diagnosis.md) — related

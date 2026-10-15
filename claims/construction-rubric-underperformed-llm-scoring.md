@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: arun-balajiee-lekshmi-narayanan-2026
-    resource: "https://arxiv.org/abs/2605.21614"
-    title: "Arun-Balajiee Lekshmi-Narayanan, Mohammad Hassany, Peter Brusilovsky. (2026). Exploring the Effectiveness of Using LLMs for Automated Assessment of Student Self–Explanations in Programming Education. https://arxiv.org/abs/2605.21614"
+    resource: "https://doi.org/10.48550/arxiv.2605.21614"
+    title: "Arun-Balajiee Lekshmi-Narayanan, Mohammad Hassany, Peter Brusilovsky. (2026). Exploring the Effectiveness of Using LLMs for Automated Assessment of Student Self–Explanations in Programming Education. https://arxiv.org/abs/2605.21614 [doi:10.48550/arxiv.2605.21614](https://doi.org/10.48550/arxiv.2605.21614)"
     author: Arun-Balajiee Lekshmi-Narayanan, Mohammad Hassany, Peter Brusilovsky
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Arun-Balajiee Lekshmi-Narayanan 2026
 
-Arun-Balajiee Lekshmi-Narayanan, Mohammad Hassany, Peter Brusilovsky. (2026). Exploring the Effectiveness of Using LLMs for Automated Assessment of Student Self–Explanations in Programming Education. https://arxiv.org/abs/2605.21614
+Arun-Balajiee Lekshmi-Narayanan, Mohammad Hassany, Peter Brusilovsky. (2026). Exploring the Effectiveness of Using LLMs for Automated Assessment of Student Self–Explanations in Programming Education. https://arxiv.org/abs/2605.21614 [doi:10.48550/arxiv.2605.21614](https://doi.org/10.48550/arxiv.2605.21614)
 
 `q2 · i?` · `design · r2`
 
@@ -44,9 +44,9 @@ Result from the same 5-fold cross-validation comparison on the balanced dataset.
 
 ## Related Claims
 - [Growth is compartmentalized by question: on the code-tracing prompt students grew in procedural code tracing while physics correctness improved only slightly](compartmentalized-ct-growth-by-question.md) — related
-- [Model performance is robust to minor prompt wording changes but sensitive to holistic rubric redesign](rubric-structure-part-of-assessment-construct.md) — related
+- Model performance is robust to minor prompt wording changes but sensitive to holistic rubric redesign — related
 - [Removing detailed rubric explanations from prompts improved grading accuracy across all approaches in an ablation study](simplified-prompts-outperform-detailed-rubrics.md) — related
 - [Curricular chain-of-thought prompting improves competency-classification accuracy over zero-shot, with gains concentrated in larger models, while definition-based prompting does not improve performance](curricular-cot-improves-accuracy-larger-models.md) — related
-- [Zero-shot prompt type has minimal impact on LLM-human coding concordance](prompt-type-minimal-impact-llm-coding.md) — related
+- Zero-shot prompt type has minimal impact on LLM-human coding concordance — related
 - [LLM-based automated assessment of student code self-explanations outperforms semantic similarity methods on a balanced classification task](llm-assessment-outperforms-semantic-similarity-code-explanations.md) — related
 - [Instructor-scripted self-explanation prompts have limitations, motivating computer-generated prompts](computer-generated-self-explanation-prompts-recommendation.md) — related

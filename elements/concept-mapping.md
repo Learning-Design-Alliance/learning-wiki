@@ -13,7 +13,7 @@ generated:
 # Concept Mapping
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (4 for, 3 mixed) · 7 studies (2 causal, 2 quant-synthesis, 2 qualitative, 1 design), `q2`–`q4` · 4 of 7 report an effect size · 4 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 6 studies (2 causal, 2 quant-synthesis, 1 qualitative, 1 design), `q2`–`q4` · 4 of 6 report an effect size · 2 claims rest on one study
 
 ## Description
 Concept mapping is the element in which learners represent concepts and their relationships visually, typically as nodes and labeled links. It is useful for organizing prior knowledge, identifying structure, and making connections visible before, during, or after learning.
@@ -46,8 +46,6 @@ Concept mapping is the element in which learners represent concepts and their re
 - [An ICAP theory article reports, second-hand and without describing the design, a study in which concept mapping with a peer enhanced learning more than concept mapping alone](../claims/interactive-beats-constructive-concept-mapping.md) [+W]
 - [Learner-constructed graphic organizers are not shown to outperform provided ones: the one direct test, with college readers, favoured provided organizers on transfer](../claims/learner-constructed-graphic-organizers-outperform-provided.md) [+M]
 - [AI-section students showed tool-linked self-efficacy and attenuated metacognitive calibration, with the human-pair contrast group showing larger concept-map gains in cross-links and hierarchy](../claims/attenuated-calibration-tool-linked-self-efficacy.md) [~W]
-- [Declarative knowledge dominates students' GenAI concept maps; only 9 of 64 maps integrate declarative, procedural, and conditional knowledge](../claims/declarative-dominance-integrated-knowledge-rare.md) [~W]
-- [Undergraduate students' GenAI concept maps cluster into five mental model characteristics: technical-process, educational-tool, transitional, consequence-aware, and integrated](../claims/five-genai-mental-model-categories-concept-maps.md) [~W]
 
 ## Related Elements
 

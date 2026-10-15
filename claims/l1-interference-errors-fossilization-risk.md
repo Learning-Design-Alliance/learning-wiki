@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: yu-liming-1990
-    resource: "https://eric.ed.gov/?id=EJ420159"
-    title: "Yu Liming. (1990). The Comprehensible Output Hypothesis and Self-directed Learning: A Learner's Perspective. TESL Canada Journal/Revue TESL du Canada, Vol. 8, No. 1. https://eric.ed.gov/?id=EJ420159"
+    resource: "https://doi.org/10.18806/tesl.v8i1.575"
+    title: "Yu Liming. (1990). The Comprehensible Output Hypothesis and Self-directed Learning: A Learner's Perspective. TESL Canada Journal/Revue TESL du Canada, Vol. 8, No. 1. https://eric.ed.gov/?id=EJ420159 [doi:10.18806/tesl.v8i1.575](https://doi.org/10.18806/tesl.v8i1.575)"
     author: Yu Liming
     q: 1
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # L1-induced errors persist in advanced learners and risk fossilization if learners rely on compensatory communication strategies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q1`
+> **Evidence** · 2 studies · 2 qualitative `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Most of the author's errors came from L1 interference, such as "from your behind" produced by subconscious translation from Chinese. [→ Yu Liming 1990](#yu-liming-1990)
@@ -40,7 +40,7 @@ sources:
 
 ### Yu Liming 1990
 
-Yu Liming. (1990). The Comprehensible Output Hypothesis and Self-directed Learning: A Learner's Perspective. TESL Canada Journal/Revue TESL du Canada, Vol. 8, No. 1. https://eric.ed.gov/?id=EJ420159
+Yu Liming. (1990). The Comprehensible Output Hypothesis and Self-directed Learning: A Learner's Perspective. TESL Canada Journal/Revue TESL du Canada, Vol. 8, No. 1. https://eric.ed.gov/?id=EJ420159 [doi:10.18806/tesl.v8i1.575](https://doi.org/10.18806/tesl.v8i1.575)
 
 `q1 · i?` · `qualitative · r2`
 
@@ -63,7 +63,7 @@ Diary-based argument about advanced learners who already have working grammar an
 
 ## Related Claims
 - [Errors serve as valuable feedback for teachers and learners, but unhandled errors risk fossilization](errors-as-feedback-fossilization-risk.md) — a broader claim this one bears on
-- [Morphological and derivational interference in Polish-English deceptive pairs is unidirectional, operating only in translation from Polish into English](morphological-interference-unidirectional-polish-to-english.md) — related
-- [Use of a deceptive word need not cause complete misunderstanding, but some semantic affinity in the pair is always necessary for such a translation to be correct](deceptive-word-use-not-always-complete-misunderstanding.md) — related
-- [Risk of semantic interference varies systematically across the four relation types, with full contrast always producing faulty translation when a formal replica is used](interference-risk-varies-by-relation-type.md) — related
+- Morphological and derivational interference in Polish-English deceptive pairs is unidirectional, operating only in translation from Polish into English — related
+- Use of a deceptive word need not cause complete misunderstanding, but some semantic affinity in the pair is always necessary for such a translation to be correct — related
+- Risk of semantic interference varies systematically across the four relation types, with full contrast always producing faulty translation when a formal replica is used — related
 - [Learners show no first-language transfer for manner adverbs, judging sentence-final placement acceptable and pre-verbal placement unacceptable despite Chinese word order](no-l1-transfer-manner-adverb-positions.md) — reports the opposite

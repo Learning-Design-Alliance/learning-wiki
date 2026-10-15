@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: qiong-jia-2010
-    resource: "https://www.ccsenet.org/ies"
-    title: "Qiong Jia. (2010). A Brief Study on the Implication of Constructivism Teaching Theory on Classroom Teaching Reform in Basic Education. International Education Studies, 3(2). https://www.ccsenet.org/ies"
+    resource: "https://doi.org/10.5539/ies.v3n2p197"
+    title: "Qiong Jia. (2010). A Brief Study on the Implication of Constructivism Teaching Theory on Classroom Teaching Reform in Basic Education. International Education Studies, 3(2). https://www.ccsenet.org/ies [doi:10.5539/ies.v3n2p197](https://doi.org/10.5539/ies.v3n2p197)"
     author: Qiong Jia
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Qiong Jia 2010
 
-Qiong Jia. (2010). A Brief Study on the Implication of Constructivism Teaching Theory on Classroom Teaching Reform in Basic Education. International Education Studies, 3(2). https://www.ccsenet.org/ies
+Qiong Jia. (2010). A Brief Study on the Implication of Constructivism Teaching Theory on Classroom Teaching Reform in Basic Education. International Education Studies, 3(2). https://www.ccsenet.org/ies [doi:10.5539/ies.v3n2p197](https://doi.org/10.5539/ies.v3n2p197)
 
 `q1 · i?` · `theoretical · r2`
 
@@ -47,5 +47,5 @@ Theoretical exposition in the article's section on learning, arguing that constr
 - [Graphic Organizers Support Novice Comprehension](graphic-organizers-support-novice-comprehension.md) — a narrower finding that bears on this claim
 - [Mentored inquiry with staged mechanistic sensemaking supports the transition from intuitive to formal equation reasoning](mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning.md) — a narrower finding that bears on this claim
 - [The paper argues experiential training of early childhood workers is likely to produce reflective, creative caregivers and children who learn better](experiential-training-ecd-workers-better-child-outcomes.md) — related
-- [Equating one lexical item with one English counterpart is theoretically objectionable; entries should capture collocational restrictions and register](one-to-one-lexical-equation-objectionable.md) — related
+- Equating one lexical item with one English counterpart is theoretically objectionable; entries should capture collocational restrictions and register — related
 - [The review's purpose is to stimulate research on learner-generated drawing, with the framework intended to guide and organize future research efforts](drawing-review-purpose-stimulate-future-research.md) — related

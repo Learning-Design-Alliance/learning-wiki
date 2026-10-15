@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` In most cases youth did not persist with problem-solving projects, and by not completing them they missed opportunities to collaborate and acquire new scientific knowledge through free-choice learning. [→ Gitari 2016](#gitari-2016)
@@ -44,11 +45,11 @@ Conclusion drawn from the qualitative narratives: "In most cases, the motivation
 ## Related Claims
 
 - [Not all students in connectivist courses could autonomously direct their own learning, and some felt disconnected and demotivated](connectivist-courses-student-agency-problems.md) — the general claim this finding bears on, with the studies behind it
-- [Urban high school youth report applying school science in non-guided everyday problem-solving, occurring mainly in home-and-family and play-and-recreation settings](youth-apply-school-science-everyday-home-recreation-problems.md) — related
+- Urban high school youth report applying school science in non-guided everyday problem-solving, occurring mainly in home-and-family and play-and-recreation settings — related
 - [Youth engaged free-choice learning heuristics in everyday problem-solving but typically skipped the assess phase](youth-skip-assess-phase-free-choice-heuristics.md) — related
 - [Students in interdisciplinary design studio courses reported high authentic motivation stemming from the problems rather than grades](studio-authentic-motivation-beyond-grades.md) — related
 - [Pre-tests reduced adult learners' persistence in a MOOC, though they improved post-test scores among those who completed it](pretesting-can-harm-motivation.md) — related
 - [Interdisciplinary studio collaboration deepened students' disciplinary skills while exposing them to cross-disciplinary skills](interdisciplinary-collab-deepens-disciplinary-and-cross-disciplinary-skills.md) — related
-- [Youth problem-solving situations show affinity for personal relevance but absence of initiative for societal problems](youth-problems-personal-relevance-not-societal.md) — related
-- [Learning Studio participation was associated with positive indicators of engagement and persistence, especially among high school students](learning-studios-engagement-persistence-indicators.md) — reports the opposite
+- Youth problem-solving situations show affinity for personal relevance but absence of initiative for societal problems — related
+- Learning Studio participation was associated with positive indicators of engagement and persistence, especially among high school students — reports the opposite
 - [A persistent theory-practice gap: students may develop conceptual AI understanding but lack opportunities to apply it in authentic contexts](ail-theory-practice-gap-he-programs.md) — related

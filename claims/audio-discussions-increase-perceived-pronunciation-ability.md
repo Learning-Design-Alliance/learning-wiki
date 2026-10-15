@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2` · `i1` small
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Between the first and final VoiceThread activity, students' perceived pronunciation ability improved significantly (Z = -2.321, p < .05), with the mean self-assessment score rising from 4.00 to 4.58. [→ Lepore 2014](#lepore-2014)
@@ -45,7 +46,7 @@ Wilcoxon signed-rank test on self-assessment forms from 36 consenting students i
 ## Related Claims
 - [Students reported significantly less difficulty with comprehensibility and accuracy of pronunciation between the first and final audio discussion activity](decreased-perceived-pronunciation-difficulty.md) — related
 - [Participation in interpersonal audio discussions produced no statistically significant changes in overall willingness to communicate, though most students reported unchanged or increased WTC](audio-discussions-no-significant-wtc-change.md) — related
-- [Self-reported strength and weakness rankings shifted over the semester: comprehensibility remained the most-cited strength, fluency declined as a weakness, and accuracy weakness rankings stayed unchanged](strength-weakness-rankings-shift-over-semester.md) — related
-- [Individual WTC variables (confidence, motivation, perceived performance, anxiety) correlate positively with overall WTC throughout interpersonal audio discussion activities](wtc-variables-positively-correlated-overall-wtc.md) — related
+- Self-reported strength and weakness rankings shifted over the semester: comprehensibility remained the most-cited strength, fluency declined as a weakness, and accuracy weakness rankings stayed unchanged — related
+- Individual WTC variables (confidence, motivation, perceived performance, anxiety) correlate positively with overall WTC throughout interpersonal audio discussion activities — related
 - [WTC decreases as class size increases on both talk-time and turns of talk](wtc-decreases-as-class-size-increases.md) — related
 - [Resource scarcity and large class sizes limit individualized pronunciation feedback in Bangladeshi classrooms](resource-scarcity-large-classes-limit-pronunciation-feedback.md) — related

@@ -13,7 +13,7 @@ generated:
 # Racial Identity Work
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (6 for) · 13 studies (6 causal, 3 review, 2 quant-synthesis, 1 qualitative, 1 theoretical), `q1`–`q4` · 1 of 13 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 12 studies (6 causal, 3 review, 2 quant-synthesis, 1 theoretical), `q1`–`q4` · 1 of 12 report an effect size · 1 claim rests on one study
 
 ## Description
 Racial identity work is the sustained, reflective examination of one's own racial identity, biases, and positional privilege — undertaken by educators as professional learning rather than as a one-off training event. It draws on models of racial identity development (e.g., Helms's White racial identity model) in which progress requires actively confronting discomfort, misinformation, and defensive reactions rather than avoiding them. Educators who do this work are better positioned to advocate for learners from marginalized racial groups and to model self-advocacy and systemic critique for them.
@@ -102,7 +102,6 @@ Racial identity work functions as a form of [Scaffolding](../principles/scaffold
 
 - [Belonging](../elements/belonging.md) — teachers who understand racial identity dynamics are better positioned to signal that students' identities are valued, supporting belonging interventions [Belonging interventions improve outcomes.](../claims/belonging-interventions-improve-outcomes.md) [+S]
 - [Considering the Opposite](../principles/considering-the-opposite.md) — a concrete reflection technique: deliberately entertaining alternative interpretations of a disciplinary decision or low expectation reduces biased judgment [Considering the opposite reduces bias.](../claims/considering-the-opposite-reduces-bias.md) [+M]
-- [Experiences of racism and assimilationist schooling shape teachers' resolve to prevent non-white children's cultures from being overlooked](../claims/racism-shapes-resolve-to-teach-childrens-cultures.md) [+W]
 
 ## Related Strategies
 - [Building Empathy](../principles/building-empathy.md) — perspective-taking exercises that complement identity reflection with structured empathy practice

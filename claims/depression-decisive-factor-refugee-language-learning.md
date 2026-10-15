@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Depression, often somaticized in elderly refugees as loss of appetite, short attention span, nightmares and inability to sleep, impairs concentration and reinforces a cycle of not speaking English. [→ Grognet 1997](#grognet-1997)
@@ -43,7 +44,7 @@ The digest's factors section asserts, without cited data, that depression is com
 
 
 ## Related Claims
-- [Social identity and power relations between speakers mediate when and whether older refugees communicate in English](social-identity-power-mediate-refugee-english-use.md) — related
+- Social identity and power relations between speakers mediate when and whether older refugees communicate in English — related
 - [A practitioner digest asserts, without cited studies, that no research evidence suggests older adults cannot succeed in learning another language](no-evidence-older-adults-cannot-learn-language.md) — related
-- [Participation in a solution-focused cognitive-behavioural life coaching program is associated with significantly enhanced mental health, quality of life and increased goal attainment in normal adults.](sfcb-life-coaching-enhances-mental-health-goal-attainment.md) — related
+- Participation in a solution-focused cognitive-behavioural life coaching program is associated with significantly enhanced mental health, quality of life and increased goal attainment in normal adults. — related
 - [Distress tolerance and intolerance of uncertainty are consistently associated with mental health problems](distress-tolerance-uncertainty-intolerance-associations.md) — related

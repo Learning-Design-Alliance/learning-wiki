@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: kini-2016
-    resource: "https://learningpolicyinstitute.org/our-work/publications-resources/does-teaching-experience-increase-teacher-effectiveness-review-research"
-    title: "Kini, T., & Podolsky, A. (2016). Does Teaching Experience Increase Teacher Effectiveness? A Review of the Research. Learning Policy Institute. https://learningpolicyinstitute.org/our-work/publications-resources/does-teaching-experience-increase-teacher-effectiveness-review-research"
+    resource: "https://doi.org/10.54300/625.642"
+    title: "Kini, T., & Podolsky, A. (2016). Does Teaching Experience Increase Teacher Effectiveness? A Review of the Research. Learning Policy Institute. https://learningpolicyinstitute.org/our-work/publications-resources/does-teaching-experience-increase-teacher-effectiveness-review-research [doi:10.54300/625.642](https://doi.org/10.54300/625.642)"
     author: "Kini, T., & Podolsky, A."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Kini 2016
 
-Kini, T., & Podolsky, A. (2016). Does Teaching Experience Increase Teacher Effectiveness? A Review of the Research. Learning Policy Institute. https://learningpolicyinstitute.org/our-work/publications-resources/does-teaching-experience-increase-teacher-effectiveness-review-research
+Kini, T., & Podolsky, A. (2016). Does Teaching Experience Increase Teacher Effectiveness? A Review of the Research. Learning Policy Institute. https://learningpolicyinstitute.org/our-work/publications-resources/does-teaching-experience-increase-teacher-effectiveness-review-research [doi:10.54300/625.642](https://doi.org/10.54300/625.642)
 
 `q2 · i?` · `review · r2`
 
@@ -44,6 +44,6 @@ The review's executive summary and findings heading state that "more experienced
 
 ## Related Claims
 
-- [Teachers whose colleagues are more experienced improve more quickly, with novices benefiting most](peer-experience-spillover-teacher-improvement.md) — a narrower finding that bears on this claim
+- Teachers whose colleagues are more experienced improve more quickly, with novices benefiting most — a narrower finding that bears on this claim
 - [Teacher leaders can play a valuable role in supporting the professional learning of their colleagues](teacher-leaders-support-colleague-professional-learning.md) — related
 - [Collaboration with colleagues around instruction has consistently positive relationships with math and science instructional practices](colleague-collaboration-consistently-positive-practices.md) — related

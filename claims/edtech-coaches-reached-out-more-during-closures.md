@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: mahsa-bakhshaei-2020
-    resource: "https://digitalpromise.dspacedirect.org/items/fd1d2f26-7b23-4dd8-9cd6-35f85e92e0c3"
-    title: "Mahsa Bakhshaei, John Seylar, Pati Ruiz, and Mai Chou Vang. (2020). The Valuable Role of Edtech Coaches during the COVID-19 Pandemic: A National Survey. Digital Promise. https://digitalpromise.dspacedirect.org/items/fd1d2f26-7b23-4dd8-9cd6-35f85e92e0c3"
+    resource: "https://doi.org/10.51388/20.500.12265/101"
+    title: "Mahsa Bakhshaei, John Seylar, Pati Ruiz, and Mai Chou Vang. (2020). The Valuable Role of Edtech Coaches during the COVID-19 Pandemic: A National Survey. Digital Promise. https://digitalpromise.dspacedirect.org/items/fd1d2f26-7b23-4dd8-9cd6-35f85e92e0c3 [doi:10.51388/20.500.12265/101](https://doi.org/10.51388/20.500.12265/101)"
     author: Mahsa Bakhshaei, John Seylar, Pati Ruiz, and Mai Chou Vang
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Mahsa Bakhshaei 2020
 
-Mahsa Bakhshaei, John Seylar, Pati Ruiz, and Mai Chou Vang. (2020). The Valuable Role of Edtech Coaches during the COVID-19 Pandemic: A National Survey. Digital Promise. https://digitalpromise.dspacedirect.org/items/fd1d2f26-7b23-4dd8-9cd6-35f85e92e0c3
+Mahsa Bakhshaei, John Seylar, Pati Ruiz, and Mai Chou Vang. (2020). The Valuable Role of Edtech Coaches during the COVID-19 Pandemic: A National Survey. Digital Promise. https://digitalpromise.dspacedirect.org/items/fd1d2f26-7b23-4dd8-9cd6-35f85e92e0c3 [doi:10.51388/20.500.12265/101](https://doi.org/10.51388/20.500.12265/101)
 
 `q2 · i?` · `associational · r1`
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: yueqiao-jin-2024
-    resource: "https://arxiv.org/abs/2411.00283"
-    title: "Yueqiao Jin, Roberto Martinez-Maldonado, Dragan Gašević and Lixiang Yan. (2024). GLAT: The Generative AI Literacy Assessment Test. https://arxiv.org/abs/2411.00283"
+    resource: "https://doi.org/10.48550/arxiv.2411.00283"
+    title: "Yueqiao Jin, Roberto Martinez-Maldonado, Dragan Gašević and Lixiang Yan. (2024). GLAT: The Generative AI Literacy Assessment Test. https://arxiv.org/abs/2411.00283 [doi:10.48550/arxiv.2411.00283](https://doi.org/10.48550/arxiv.2411.00283)"
     author: Yueqiao Jin, Roberto Martinez-Maldonado, Dragan Gašević and Lixiang Yan
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Yueqiao Jin 2024
 
-Yueqiao Jin, Roberto Martinez-Maldonado, Dragan Gašević and Lixiang Yan. (2024). GLAT: The Generative AI Literacy Assessment Test. https://arxiv.org/abs/2411.00283
+Yueqiao Jin, Roberto Martinez-Maldonado, Dragan Gašević and Lixiang Yan. (2024). GLAT: The Generative AI Literacy Assessment Test. https://arxiv.org/abs/2411.00283 [doi:10.48550/arxiv.2411.00283](https://doi.org/10.48550/arxiv.2411.00283)
 
 `q2 · i?` · `design · r3`
 

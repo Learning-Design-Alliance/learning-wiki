@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: sander-de-jong-2026
-    resource: "https://arxiv.org/abs/2609.27726"
-    title: "Sander de Jong. (2026). Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement. Workshop paper presented at CHIWORK'26 Workshop on Human Agency and Skill in AI-Supported Work. https://arxiv.org/abs/2609.27726"
+    resource: "https://doi.org/10.48550/arxiv.2609.27726"
+    title: "Sander de Jong. (2026). Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement. Workshop paper presented at CHIWORK'26 Workshop on Human Agency and Skill in AI-Supported Work. https://arxiv.org/abs/2609.27726 [doi:10.48550/arxiv.2609.27726](https://doi.org/10.48550/arxiv.2609.27726)"
     author: Sander de Jong
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Sander de Jong 2026
 
-Sander de Jong. (2026). Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement. Workshop paper presented at CHIWORK'26 Workshop on Human Agency and Skill in AI-Supported Work. https://arxiv.org/abs/2609.27726
+Sander de Jong. (2026). Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement. Workshop paper presented at CHIWORK'26 Workshop on Human Agency and Skill in AI-Supported Work. https://arxiv.org/abs/2609.27726 [doi:10.48550/arxiv.2609.27726](https://doi.org/10.48550/arxiv.2609.27726)
 
 `q1 · i?` · `theoretical · r2`
 

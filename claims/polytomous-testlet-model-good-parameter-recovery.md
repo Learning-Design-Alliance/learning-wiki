@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: yanmei-li-2010
-    resource: "http://www.ets.org/research/contact.html"
-    title: "Yanmei Li, Shuhong Li, and Lin Wang. (2010). Application of a General Polytomous Testlet Model to the Reading Section of a Large-Scale English Language Assessment. ETS Research Report RR-10-21. http://www.ets.org/research/contact.html"
+    resource: "https://doi.org/10.1002/j.2333-8504.2010.tb02228.x"
+    title: "Yanmei Li, Shuhong Li, and Lin Wang. (2010). Application of a General Polytomous Testlet Model to the Reading Section of a Large-Scale English Language Assessment. ETS Research Report RR-10-21. http://www.ets.org/research/contact.html [doi:10.1002/j.2333-8504.2010.tb02228.x](https://doi.org/10.1002/j.2333-8504.2010.tb02228.x)"
     author: Yanmei Li, Shuhong Li, and Lin Wang
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Yanmei Li 2010
 
-Yanmei Li, Shuhong Li, and Lin Wang. (2010). Application of a General Polytomous Testlet Model to the Reading Section of a Large-Scale English Language Assessment. ETS Research Report RR-10-21. http://www.ets.org/research/contact.html
+Yanmei Li, Shuhong Li, and Lin Wang. (2010). Application of a General Polytomous Testlet Model to the Reading Section of a Large-Scale English Language Assessment. ETS Research Report RR-10-21. http://www.ets.org/research/contact.html [doi:10.1002/j.2333-8504.2010.tb02228.x](https://doi.org/10.1002/j.2333-8504.2010.tb02228.x)
 
 `q2 · i?` · `design · r2`
 

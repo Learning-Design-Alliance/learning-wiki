@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: sun-2025
-    resource: "https://arxiv.org/abs/2605.13906"
-    title: "Sun, Y., Xin, H., Li, S., Niu, Q., Chai, C. S., Huang, L., & Chen, G. (2025). Modeling AI-TPACK in Practice: Insights from Teachers' Multi-Agent Workflow Design. https://arxiv.org/abs/2605.13906"
+    resource: "https://doi.org/10.48550/arxiv.2605.13906"
+    title: "Sun, Y., Xin, H., Li, S., Niu, Q., Chai, C. S., Huang, L., & Chen, G. (2025). Modeling AI-TPACK in Practice: Insights from Teachers' Multi-Agent Workflow Design. https://arxiv.org/abs/2605.13906 [doi:10.48550/arxiv.2605.13906](https://doi.org/10.48550/arxiv.2605.13906)"
     author: "Sun, Y., Xin, H., Li, S., Niu, Q., Chai, C. S., Huang, L., & Chen, G."
     q: 2
     i: "?"
@@ -38,7 +38,7 @@ sources:
 # Teachers designing multi-agent workflows fall into three behavioral archetypes: Systematic Optimizers, Prolific Creators, and Passive Observers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · associational `r1`–`r2` · `q2`
+> **Evidence** · 2 studies (3 entries) · 2 associational `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` K-means clustering of 61 teachers' platform actions identified three distinct behavioral profiles with different compositions of configuration, creation, browsing, and cloning activity. [→ Sun 2025](#sun-2025)
@@ -47,7 +47,7 @@ sources:
 
 ### Sun 2025
 
-Sun, Y., Xin, H., Li, S., Niu, Q., Chai, C. S., Huang, L., & Chen, G. (2025). Modeling AI-TPACK in Practice: Insights from Teachers' Multi-Agent Workflow Design. https://arxiv.org/abs/2605.13906
+Sun, Y., Xin, H., Li, S., Niu, Q., Chai, C. S., Huang, L., & Chen, G. (2025). Modeling AI-TPACK in Practice: Insights from Teachers' Multi-Agent Workflow Design. https://arxiv.org/abs/2605.13906 [doi:10.48550/arxiv.2605.13906](https://doi.org/10.48550/arxiv.2605.13906)
 
 `q2 · i?` · `associational · r2`
 

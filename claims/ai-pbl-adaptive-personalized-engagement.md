@@ -44,9 +44,9 @@ Thematic synthesis of the 50 included studies in this systematic review; the rev
 
 
 ## Related Claims
-- [A systematic review of 14 studies (8,305 participants) found AI-based tools enhanced comprehension, engagement, problem-solving, and critical thinking by personalizing learning experiences](ai-math-review-14-studies-outcomes.md) — possibly the same claim (merge candidate)
+- A systematic review of 14 studies (8,305 participants) found AI-based tools enhanced comprehension, engagement, problem-solving, and critical thinking by personalizing learning experiences — possibly the same claim (merge candidate)
 - [AI tools can enhance short-term task performance while undermining durable learning (the learning-performance paradox)](gpt4-access-harms-learning-after-withdrawal.md) — reports the opposite
-- [The review found AI was effective for improving basic problem-solving but required teacher mediation to handle more complex mathematical tasks](ai-basic-problems-teacher-mediation-complex-tasks.md) — related
+- The review found AI was effective for improving basic problem-solving but required teacher mediation to handle more complex mathematical tasks — related
 - [Educators' use of AI in PBL is accompanied by persistent ethical concerns about data privacy, algorithmic bias, and educator autonomy](ai-pbl-ethical-concerns-privacy-bias-autonomy.md) — related
 - The review identifies scarcity of long-term impact assessment, limited empirical validation of integrity interventions, and missing equity-focused policy research as key research gaps — related
 - [AI raises the ceiling on problem complexity by reducing access complexity rather than cognitive demand](ai-raises-problem-complexity-ceiling.md) — a narrower finding that bears on this claim

@@ -48,7 +48,7 @@ This is the report's own summary assertion, supported by its description of scor
 |---|---|---|---|
 | [Badrinarayan 2025](https://doi.org/10.54300/411.469) | q1 · review · r2 | i? | this claim |
 | [Ilhan 2018](https://doi.org/10.14689/ejer.2018.75.6) | q3 · associational · r2 | i? | [Raters differed significantly in severity/leniency in the MFRM analysis](raters-differed-severity-mfrm.md) (qualifies) |
-| Morzinski 2010 | q2 · design · r2 | i? | [In one community-college lab class, six scorers rating six teams with an engineering rubri](engineering-rubric-low-scoring-reliability.md) (qualifies) |
+| [Morzinski 2010](https://doi.org/10.48550/arxiv.1009.3296) | q2 · design · r2 | i? | [In one community-college lab class, six scorers rating six teams with an engineering rubri](engineering-rubric-low-scoring-reliability.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

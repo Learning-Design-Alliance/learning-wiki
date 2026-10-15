@@ -44,5 +44,5 @@ In the focus groups, participants with program-dedicated advisors described tail
 
 ## Related Claims
 - [Many community college students lack individual access to a counselor to discuss placement results, and students in dedicated programs report greater counseling satisfaction](counseling-access-limited-dedicated-programs-better.md) — related
-- [First-year seminars populated by major or advisor show higher retention than unconnected seminars](fys-major-advisor-linkage-higher-retention.md) — related
+- First-year seminars populated by major or advisor show higher retention than unconnected seminars — related
 - [Broad advisor caseloads may have limited the effectiveness of the GEAR UP messaging by preventing college-specific guidance](gear-up-advisor-caseload-limited-effectiveness.md) — related

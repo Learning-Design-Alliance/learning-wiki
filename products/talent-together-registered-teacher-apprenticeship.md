@@ -13,7 +13,7 @@ generated:
 # Talent Together registered teacher apprenticeship
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 Talent Together is a Michigan partnership programme that provides uncertified school employees with a paid, job-embedded route to teacher certification.
@@ -23,7 +23,6 @@ Talent Together is a Michigan partnership programme that provides uncertified sc
 
 ### Claims
 
-- [Apprentices most valued paid, job-embedded in-classroom experience with students as the central component of their preparation](../claims/rtap-in-classroom-experience-most-valued.md) [+W]
 
 ## Related Products and Programmes
 

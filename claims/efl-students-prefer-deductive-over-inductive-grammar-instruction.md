@@ -44,7 +44,7 @@ Descriptive survey results from 927 students grouped by year of study. The artic
 
 ## Related Claims
 - [Prep School and undergraduate students differed significantly on overall beliefs, MFI-FFI and FonF-FonFs, but not on implicit-explicit or inductive-deductive preferences](prep-undergrad-belief-differences-mixed-across-constructs.md) — related
-- [ESL learners rate deductive and inductive consciousness-raising tasks equally effective, regardless of proficiency](learners-rate-deductive-inductive-equally-effective.md) — reports the opposite
+- ESL learners rate deductive and inductive consciousness-raising tasks equally effective, regardless of proficiency — reports the opposite
 - [Majorities of students believed inductive instruction more effective for simple structures and, conversely, for difficult structures](student-beliefs-inductive-effectiveness-structure-complexity.md) — related
 - [All student groups preferred explicit over implicit grammar instruction](efl-students-prefer-explicit-over-implicit-grammar-instruction.md) — related
 - [Focus on form was the least preferred method of grammar instruction regardless of year of study](fonf-least-preferred-grammar-instruction.md) — related

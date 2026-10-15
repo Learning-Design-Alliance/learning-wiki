@@ -62,7 +62,7 @@ Narrative review attribution: the article reports the Valiandes and Neophytou (2
 
 
 ## Related Claims
-- [Teachers who used the Kit & Kaboodle science curriculum daily saw a larger test-score gain than teachers who used it sporadically](kit-kaboodle-daily-use-gains.md) — related
+- Teachers who used the Kit & Kaboodle science curriculum daily saw a larger test-score gain than teachers who used it sporadically — related
 - [Prompting strategies for activating deep learning alone are insufficient for preserving a long-term learning advantage](deep-prompt-advantage-fades-at-follow-up.md) — related
 - [Professional development needs roughly 50 hours in a specific area, and long-term content-specific support outperforms one-shot sessions](fifty-hours-content-specific-pd.md) — related
 - [Passive dissemination approaches are generally ineffective and unlikely to result in professional behavior change](passive-dissemination-ineffective-provider-behavior.md) — related

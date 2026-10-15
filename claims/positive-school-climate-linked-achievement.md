@@ -46,4 +46,4 @@ The report cites a review of 78 school climate studies since 2000 finding that "
 - [A positive school climate improves academic achievement and reduces the negative effects of poverty on achievement](positive-school-climate-improves-achievement.md) — a broader claim this one bears on
 - [The article reviews evidence that aspects of the learning environment most closely associated with successful development of early academic competence differ by socioeconomic background](ses-differences-access-academically-auspicious-environments.md) — related
 - [The strongest college-readiness predictors measure four broad constructs: academic preparation, aspirations and expectations, socioeconomic status, and teacher perceptions](four-college-readiness-constructs-factor-analysis.md) — related
-- [Many teacher background characteristics showed no association with SEL skills, well-being, or school climate perceptions](teacher-background-characteristics-null-associations-sel.md) — related
+- Many teacher background characteristics showed no association with SEL skills, well-being, or school climate perceptions — related

@@ -116,21 +116,21 @@ There is also a cultural dimension: in high-power-distance educational contexts,
 - [Teachers feel more in control and more competent when they have a formal plan for discipline and procedures](formal-discipline-plan-increases-teacher-control-and-competence.md) — related
 - [The different elements of the Engagement Framework are interrelated in practice, with gains in one dimension reinforcing others](framework-elements-interrelated-in-practice.md) — related
 - [Grading practices can diminish interest, encourage easier paths, and reduce quality of thinking in maker education](grading-harms-maker-education-outcomes.md) — related
-- [The article argues learning is a natural, enjoyable human process rather than one driven by pressure and anxiety](learning-is-natural-enjoyable-process-argument.md) — related
+- The article argues learning is a natural, enjoyable human process rather than one driven by pressure and anxiety — related
 - [Students in the style-informed EFL classes reported that the teaching procedure was useful and that their interests and motivation increased](students-report-increased-motivation-style-informed-elt.md) — related
-- [In SDT, autonomy is not synonymous with independence nor the opposite of dependence](autonomy-not-synonymous-with-independence.md) — related
+- In SDT, autonomy is not synonymous with independence nor the opposite of dependence — related
 - [Autonomy-supportive teaching contrasts with controlling teaching, and controlled students do poorly compared to autonomous students](autonomy-support-versus-controlling-teaching.md) — possibly the same claim (merge candidate)
 - [A 1977 theoretical paper on writing asserts, citing unspecified experiments, that stating tasks and standards for success explicitly strongly raises student motivation](explicit-tasks-standards-boost-writing-motivation.md) — related
-- [IE's doing-with stance and democratic ethos map onto SDT autonomy support](ie-doing-with-maps-onto-autonomy-support.md) — related
+- IE's doing-with stance and democratic ethos map onto SDT autonomy support — related
 - [Positive teacher-student relationships fulfill relatedness needs and support internalization of learning](relatedness-care-support-internalization.md) — related
 - [Strengthening the student-educator relationship can contribute positively to marginalised students' self-efficacy and sense of belonging in higher education](student-educator-relationship-builds-self-efficacy-and-belonging.md) — related
-- [Extensive reading yields affective benefits: positive attitudes, motivation, confidence, and reduced anxiety, with difficult texts raising anxiety](extensive-reading-affective-benefits-anxiety-moderator.md) — a narrower finding that bears on this claim
+- Extensive reading yields affective benefits: positive attitudes, motivation, confidence, and reduced anxiety, with difficult texts raising anxiety — a narrower finding that bears on this claim
 - [Interest/enjoyment and perceived choice were the weakest motivation dimensions, suggesting Mangomon's RPG mechanics did not yet fully serve learner autonomy](rpg-mechanics-not-yet-serve-autonomy.md) — a narrower finding that bears on this claim
 - [Teachers shape writing outcomes through instructional practices and through engagement, support, and feedback](teacher-practices-support-feedback-shape-writing.md) — related
 - [Educators perceived FH2T positioned students as doers of mathematics with agency and mathematical decision making in a safe practice environment](fh2t-students-doers-of-mathematics-agency.md) — a narrower finding that bears on this claim
 - [Formative assessment is theorized to foster motivation by supporting autonomy, competence, and relatedness](formative-assessment-fosters-motivation-autonomy-competence-relatedness.md) — a narrower finding that bears on this claim
-- [Educators grew more confident supporting student autonomy and leading media production through the program](360-filmmakers-challenge-educator-confidence-autonomy.md) — related
-- [Students found personal meaning and pride in their films, which appeared to fuel intrinsic motivation and persistence](360-filmmakers-challenge-personal-meaning-motivation.md) — a narrower finding that bears on this claim
+- Educators grew more confident supporting student autonomy and leading media production through the program — related
+- Students found personal meaning and pride in their films, which appeared to fuel intrinsic motivation and persistence — a narrower finding that bears on this claim
 - [Autonomy, meaningful purpose, and interest improve intrinsic motivation and deeper processing](interest-autonomy-purpose-boost-motivation.md) — related
 - [Purpose in learning increases engagement, self-regulation, and academic performance](purpose-increases-engagement-self-regulation-performance.md) — related
 - [IPS implemented with adult support and regular review may increase students’ academic engagement, agency, career-relevant knowledge and skills, and college/career drive](ips-with-adult-support-and-review-associated-outcomes.md) — a narrower finding that bears on this claim

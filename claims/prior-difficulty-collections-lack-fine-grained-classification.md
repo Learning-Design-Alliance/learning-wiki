@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: dimitri-eckert-and-christian-kautz-2026
-    resource: "https://arxiv.org/abs/2605.26966"
-    title: "Dimitri Eckert and Christian Kautz. (2026). How Students (Mis)understand Conditionals and Loops – A Taxonomy. arXiv preprint. https://arxiv.org/abs/2605.26966"
+    resource: "https://doi.org/10.48550/arxiv.2605.26966"
+    title: "Dimitri Eckert and Christian Kautz. (2026). How Students (Mis)understand Conditionals and Loops – A Taxonomy. arXiv preprint. https://arxiv.org/abs/2605.26966 [doi:10.48550/arxiv.2605.26966](https://doi.org/10.48550/arxiv.2605.26966)"
     author: Dimitri Eckert and Christian Kautz
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Dimitri Eckert and Christian Kautz 2026
 
-Dimitri Eckert and Christian Kautz. (2026). How Students (Mis)understand Conditionals and Loops – A Taxonomy. arXiv preprint. https://arxiv.org/abs/2605.26966
+Dimitri Eckert and Christian Kautz. (2026). How Students (Mis)understand Conditionals and Loops – A Taxonomy. arXiv preprint. https://arxiv.org/abs/2605.26966 [doi:10.48550/arxiv.2605.26966](https://doi.org/10.48550/arxiv.2605.26966)
 
 `q2 · i?` · `design · r1`
 

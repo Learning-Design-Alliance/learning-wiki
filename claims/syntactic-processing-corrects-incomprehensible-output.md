@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: yu-liming-1990
-    resource: "https://eric.ed.gov/?id=EJ420159"
-    title: "Yu Liming. (1990). The Comprehensible Output Hypothesis and Self-directed Learning: A Learner's Perspective. TESL Canada Journal/Revue TESL du Canada, Vol. 8, No. 1. https://eric.ed.gov/?id=EJ420159"
+    resource: "https://doi.org/10.18806/tesl.v8i1.575"
+    title: "Yu Liming. (1990). The Comprehensible Output Hypothesis and Self-directed Learning: A Learner's Perspective. TESL Canada Journal/Revue TESL du Canada, Vol. 8, No. 1. https://eric.ed.gov/?id=EJ420159 [doi:10.18806/tesl.v8i1.575](https://doi.org/10.18806/tesl.v8i1.575)"
     author: Yu Liming
     q: 1
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Syntactic rather than semantic processing of input is essential for correcting incomprehensible output
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q1`
+> **Evidence** · 2 studies · 2 qualitative `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Correcting incomprehensible output required grammatical analysis of input structure, as when journal review revealed the need for "have the telephone installed" instead of "install the telephone". [→ Yu Liming 1990](#yu-liming-1990)
@@ -40,7 +40,7 @@ sources:
 
 ### Yu Liming 1990
 
-Yu Liming. (1990). The Comprehensible Output Hypothesis and Self-directed Learning: A Learner's Perspective. TESL Canada Journal/Revue TESL du Canada, Vol. 8, No. 1. https://eric.ed.gov/?id=EJ420159
+Yu Liming. (1990). The Comprehensible Output Hypothesis and Self-directed Learning: A Learner's Perspective. TESL Canada Journal/Revue TESL du Canada, Vol. 8, No. 1. https://eric.ed.gov/?id=EJ420159 [doi:10.18806/tesl.v8i1.575](https://doi.org/10.18806/tesl.v8i1.575)
 
 `q1 · i?` · `qualitative · r2`
 
@@ -62,9 +62,9 @@ Diary self-study enumerating four situations for eliminating incomprehensible ou
 
 
 ## Related Claims
-- [There is no direct evidence that comprehensible input is necessary for L2 acquisition; the input hypothesis remains untested](no-direct-evidence-input-hypothesis.md) — related
+- There is no direct evidence that comprehensible input is necessary for L2 acquisition; the input hypothesis remains untested — related
 - [Pushing for comprehensible output drives understanding and assimilation of comprehensible input](pushing-output-drives-input-assimilation.md) — related
-- [Combined semantic and syntactic contextual information expedites word recognition compared with syntactic information alone](combined-semantic-syntactic-context-expedites-word-recognition.md) — related
+- Combined semantic and syntactic contextual information expedites word recognition compared with syntactic information alone — related
 - [Young developing readers rely more heavily on semantic and syntactic information for word-level analysis than adult readers, per Schwantes' study](young-readers-rely-on-semantic-syntactic-context-for-word-analysis.md) — related
 - [Learners acquired untaught syntactic properties but failed to show sensitivity to agreement they had been explicitly taught and practiced](untaught-syntax-acquired-taught-agreement-not.md) — related
 - [Dialogue journals inherently meet conditions deemed necessary for second language acquisition](dialogue-journals-meet-sla-conditions.md) — related

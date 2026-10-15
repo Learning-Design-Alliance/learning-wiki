@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: tithi-2026
-    resource: "https://arxiv.org/abs/2602.07308"
-    title: "Tithi, S.D., Alam, N., Yasir, T., Shi, Y., Tian, X., Chi, M., Barnes, T. (2026). Adaptive Scaffolding for Cognitive Engagement in an Intelligent Tutoring System. arXiv. https://arxiv.org/abs/2602.07308"
+    resource: "https://doi.org/10.48550/arxiv.2602.07308"
+    title: "Tithi, S.D., Alam, N., Yasir, T., Shi, Y., Tian, X., Chi, M., Barnes, T. (2026). Adaptive Scaffolding for Cognitive Engagement in an Intelligent Tutoring System. arXiv. https://arxiv.org/abs/2602.07308 [doi:10.48550/arxiv.2602.07308](https://doi.org/10.48550/arxiv.2602.07308)"
     author: Tithi, S.D., Alam, N., Yasir, T., Shi, Y., Tian, X., Chi, M., Barnes, T.
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Tithi 2026
 
-Tithi, S.D., Alam, N., Yasir, T., Shi, Y., Tian, X., Chi, M., Barnes, T. (2026). Adaptive Scaffolding for Cognitive Engagement in an Intelligent Tutoring System. arXiv. https://arxiv.org/abs/2602.07308
+Tithi, S.D., Alam, N., Yasir, T., Shi, Y., Tian, X., Chi, M., Barnes, T. (2026). Adaptive Scaffolding for Cognitive Engagement in an Intelligent Tutoring System. arXiv. https://arxiv.org/abs/2602.07308 [doi:10.48550/arxiv.2602.07308](https://doi.org/10.48550/arxiv.2602.07308)
 
 `q3 · i?` · `causal · r2`
 
@@ -50,6 +50,6 @@ Controlled between-subjects classroom study (N=113 undergraduates in a discrete 
 - [The DRL policy produced a significantly different scaffolding distribution than Control and BKT, favoring Guided examples (60%) and avoiding Buggy examples (4%)](drl-policy-favors-guided-examples-distribution.md) — related
 - [All training policies narrowed the prior-knowledge achievement gap from pretest to posttest, with BKT achieving the largest reduction (77.1%)](bkt-largest-achievement-gap-reduction.md) — related
 - [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — a broader claim this one bears on
-- [Students receiving Adaptive proactive hints based on HelpNeed predictions achieve significantly higher posttest optimality than Control students](adaptive-proactive-hints-higher-posttest-optimality.md) — related
+- Students receiving Adaptive proactive hints based on HelpNeed predictions achieve significantly higher posttest optimality than Control students — related
 - [Structured GenAI scaffolding training raises sophomore STEM students' posttest CSEM electromagnetism scores over problem-solving training (d = 0.81)](genai-scaffolding-training-improves-revision-performance.md) — related
 - [Adaptive task difficulty in an ITS did not improve second-graders' mathematics posttest performance compared with an identical non-adaptive ITS](task-difficulty-adaptation-no-learning-benefit-second-grade.md) — reports the opposite

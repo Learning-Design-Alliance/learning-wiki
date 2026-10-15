@@ -64,8 +64,8 @@ Authors' interpretation (type e) drawn from the product analysis: novice IDC gro
 ## Related Claims
 - [Lesson-plan quality grows steadily across three iterative design rounds, but no product reaches the excellent grade](iterative-design-steady-growth-no-excellent.md) — related
 - [Self-reported average level of technology use rose across three administrations of the LoA survey, though not for every technology](loa-pilot-self-reported-increase-all-20-technologies.md) — related
-- [Interactive whiteboard results showed shifts between orientation/preparation after returning to schools, raising questions about perceived versus actual use](loa-whiteboard-perceived-versus-actual-use.md) — related
-- [The CHAT approach yielded richer understanding of technology integration than a cognitive paradigm, but pilot findings must be interpreted cautiously (two subjects only)](chat-richer-understanding-pilot-caveats.md) — related
-- [Reported videoconferencing adoption rose significantly after practitioners returned to the workplace (p<0.005), with mean level increasing from 2.00 to 4.53](loa-videoconferencing-significant-post-posttest-increase.md) — related
+- Interactive whiteboard results showed shifts between orientation/preparation after returning to schools, raising questions about perceived versus actual use — related
+- The CHAT approach yielded richer understanding of technology integration than a cognitive paradigm, but pilot findings must be interpreted cautiously (two subjects only) — related
+- Reported videoconferencing adoption rose significantly after practitioners returned to the workplace (p<0.005), with mean level increasing from 2.00 to 4.53 — related
 - [A 13-week TPACK-based course significantly improves pre-service preschool teachers' instructional design competence compared with traditional instruction](tpack-course-improves-preservice-preschool-idc.md) — related
 - [Across repetition cycles, attention can shift from message meaning to linguistic form, enabling recycled language and self-correction](attention-shift-meaning-to-form-over-cycles.md) — related

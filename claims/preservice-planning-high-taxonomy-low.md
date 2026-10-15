@@ -48,4 +48,4 @@ Descriptive statistics (Table 1) for 101 pre-service teachers: STEBI mean 70.50 
 - [Seniors outperformed juniors in determining taxonomy and method-technique, but not in self-efficacy or strategy determination](seniors-better-taxonomy-method-technique.md) — related
 - [University examination questions concentrate at the lower cognitive levels of Bloom's Taxonomy, dominated by comprehension and knowledge](exam-questions-concentrate-lower-bloom-levels.md) — related
 - [Pre-service teachers choose strategies, methods, and techniques mainly for fit with objective content and for promoting active student participation](reasons-for-choosing-strategies-methods-techniques.md) — related
-- [Adult teachers' questions concentrate at low Bloom's levels, and cooperative learning's dialogue and questioning support critical thinking across Bloom's taxonomy](teacher-questions-low-bloom-levels-cooperative-dialogue.md) — related
+- Adult teachers' questions concentrate at low Bloom's levels, and cooperative learning's dialogue and questioning support critical thinking across Bloom's taxonomy — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: yueqiao-jin-2025
-    resource: "https://arxiv.org/abs/2507.04398"
-    title: "Yueqiao Jin, Kaixun Yang, Roberto Martinez-Maldonado, Dragan Gašević and Lixiang Yan. (2025). The Agency Gap in AI-Supported Writing: How Reactive and Proactive Agent Designs Shape Multimodal Reasoning. https://arxiv.org/abs/2507.04398"
+    resource: "https://doi.org/10.48550/arxiv.2507.04398"
+    title: "Yueqiao Jin, Kaixun Yang, Roberto Martinez-Maldonado, Dragan Gašević and Lixiang Yan. (2025). The Agency Gap in AI-Supported Writing: How Reactive and Proactive Agent Designs Shape Multimodal Reasoning. https://arxiv.org/abs/2507.04398 [doi:10.48550/arxiv.2507.04398](https://doi.org/10.48550/arxiv.2507.04398)"
     author: Yueqiao Jin, Kaixun Yang, Roberto Martinez-Maldonado, Dragan Gašević and Lixiang Yan
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Yueqiao Jin 2025
 
-Yueqiao Jin, Kaixun Yang, Roberto Martinez-Maldonado, Dragan Gašević and Lixiang Yan. (2025). The Agency Gap in AI-Supported Writing: How Reactive and Proactive Agent Designs Shape Multimodal Reasoning. https://arxiv.org/abs/2507.04398
+Yueqiao Jin, Kaixun Yang, Roberto Martinez-Maldonado, Dragan Gašević and Lixiang Yan. (2025). The Agency Gap in AI-Supported Writing: How Reactive and Proactive Agent Designs Shape Multimodal Reasoning. https://arxiv.org/abs/2507.04398 [doi:10.48550/arxiv.2507.04398](https://doi.org/10.48550/arxiv.2507.04398)
 
 `q1 · i?` · `causal · r2`
 

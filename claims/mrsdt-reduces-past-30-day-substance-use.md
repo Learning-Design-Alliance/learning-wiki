@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: susanne-james-burdumy-2012
-    resource: "https://www.mathematica.org/publications/ja-the-effectiveness-of-mandatoryrandom-student-drug-testing-a-cluster-randomized-trial"
-    title: "Susanne James-Burdumy, Brian Goesling, John Deke, Eric Einspruch. (2012). The Effectiveness of Mandatory-Random Student Drug Testing: A Cluster Randomized Trial. Journal of Adolescent Health, vol. 50, issue 2. https://www.mathematica.org/publications/ja-the-effectiveness-of-mandatoryrandom-student-drug-testing-a-cluster-randomized-trial"
+    resource: "https://doi.org/10.1016/j.jadohealth.2011.08.012"
+    title: "Susanne James-Burdumy, Brian Goesling, John Deke, Eric Einspruch. (2012). The Effectiveness of Mandatory-Random Student Drug Testing: A Cluster Randomized Trial. Journal of Adolescent Health, vol. 50, issue 2. https://www.mathematica.org/publications/ja-the-effectiveness-of-mandatoryrandom-student-drug-testing-a-cluster-randomized-trial [doi:10.1016/j.jadohealth.2011.08.012](https://doi.org/10.1016/j.jadohealth.2011.08.012)"
     author: Susanne James-Burdumy, Brian Goesling, John Deke, Eric Einspruch
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Susanne James-Burdumy 2012
 
-Susanne James-Burdumy, Brian Goesling, John Deke, Eric Einspruch. (2012). The Effectiveness of Mandatory-Random Student Drug Testing: A Cluster Randomized Trial. Journal of Adolescent Health, vol. 50, issue 2. https://www.mathematica.org/publications/ja-the-effectiveness-of-mandatoryrandom-student-drug-testing-a-cluster-randomized-trial
+Susanne James-Burdumy, Brian Goesling, John Deke, Eric Einspruch. (2012). The Effectiveness of Mandatory-Random Student Drug Testing: A Cluster Randomized Trial. Journal of Adolescent Health, vol. 50, issue 2. https://www.mathematica.org/publications/ja-the-effectiveness-of-mandatoryrandom-student-drug-testing-a-cluster-randomized-trial [doi:10.1016/j.jadohealth.2011.08.012](https://doi.org/10.1016/j.jadohealth.2011.08.012)
 
 `q3 · i?` · `causal · r?`
 

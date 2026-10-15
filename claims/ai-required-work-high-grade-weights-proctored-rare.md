@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: francis-geng-2026
-    resource: "https://arxiv.org/abs/2608.05898"
-    title: "Francis Geng, Anshul Shah, Mia Chen, Paul Denny, Juho Leinonen, Bill Griswold, Gerald Soosai Raj, and Leo Porter. (2026). Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis. https://arxiv.org/abs/2608.05898"
+    resource: "https://doi.org/10.48550/arxiv.2608.05898"
+    title: "Francis Geng, Anshul Shah, Mia Chen, Paul Denny, Juho Leinonen, Bill Griswold, Gerald Soosai Raj, and Leo Porter. (2026). Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis. https://arxiv.org/abs/2608.05898 [doi:10.48550/arxiv.2608.05898](https://doi.org/10.48550/arxiv.2608.05898)"
     author: Francis Geng, Anshul Shah, Mia Chen, Paul Denny, Juho Leinonen, Bill Griswold, Gerald Soosai Raj, and Leo Porter
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Francis Geng 2026
 
-Francis Geng, Anshul Shah, Mia Chen, Paul Denny, Juho Leinonen, Bill Griswold, Gerald Soosai Raj, and Leo Porter. (2026). Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis. https://arxiv.org/abs/2608.05898
+Francis Geng, Anshul Shah, Mia Chen, Paul Denny, Juho Leinonen, Bill Griswold, Gerald Soosai Raj, and Leo Porter. (2026). Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis. https://arxiv.org/abs/2608.05898 [doi:10.48550/arxiv.2608.05898](https://doi.org/10.48550/arxiv.2608.05898)
 
 `q2 · i?` · `qualitative · r2`
 

@@ -18,7 +18,7 @@ sources:
 # CBM Computation progress-monitoring probes for first-grade math
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 These are brief, standardized first-grade mathematics computation probes used to monitor student progress in RTI, with performance scored by correctly computed digits.
@@ -27,10 +27,6 @@ These are brief, standardized first-grade mathematics computation probes used to
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [CBM slope cutoffs of .25 (primary) and .50 (secondary) digits per week define adequate first-grade responsiveness](../claims/cbm-slope-cutoffs-first-grade-responsiveness.md) [+W]
-- [RTI identifies learning disabilities via dual discrepancy in level and rate of performance](../claims/rti-dual-discrepancy-level-and-rate.md) [+W]
-- [Student self-graphing of CBM scores is reported as motivating during secondary prevention](../claims/self-graphing-cbm-progress-motivating.md) [+W]
-- [Three options exist for setting IEP goals: end-of-year benchmarks, intra-individual framework, and national norms](../claims/three-options-setting-iep-goals-cbm.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -65,10 +61,6 @@ Curriculum-based measurement (CBM) Computation probes are brief standardized mat
 
 ## Claims
 
-- [CBM slope cutoffs of .25 (primary) and .50 (secondary) digits per week define adequate first-grade responsiveness](../claims/cbm-slope-cutoffs-first-grade-responsiveness.md) [+W]
-- [RTI identifies learning disabilities via dual discrepancy in level and rate of performance](../claims/rti-dual-discrepancy-level-and-rate.md) [+W]
-- [Student self-graphing of CBM scores is reported as motivating during secondary prevention](../claims/self-graphing-cbm-progress-motivating.md) [+W]
-- [Three options exist for setting IEP goals: end-of-year benchmarks, intra-individual framework, and national norms](../claims/three-options-setting-iep-goals-cbm.md) [+W]
 
 ## Related Elements
 - 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: grace-liu-2026
-    resource: "https://arxiv.org/abs/2604.04721"
-    title: "Grace Liu, Brian Christian, Tsvetomira Dumbalska, Michiel A. Bakker, Rachit Dubey. (2026). AI Assistance Reduces Persistence and Hurts Independent Performance. Published as a conference paper at COLM 2026. https://arxiv.org/abs/2604.04721"
+    resource: "https://doi.org/10.48550/arxiv.2604.04721"
+    title: "Grace Liu, Brian Christian, Tsvetomira Dumbalska, Michiel A. Bakker, Rachit Dubey. (2026). AI Assistance Reduces Persistence and Hurts Independent Performance. Published as a conference paper at COLM 2026. https://arxiv.org/abs/2604.04721 [doi:10.48550/arxiv.2604.04721](https://doi.org/10.48550/arxiv.2604.04721)"
     author: Grace Liu, Brian Christian, Tsvetomira Dumbalska, Michiel A. Bakker, Rachit Dubey
     q: 3
     i: 2
@@ -30,7 +30,7 @@ sources:
 # In a randomized experiment on fraction problems, participants who used an AI assistant solved fewer unassisted test problems and skipped more than control participants
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i1`–`i2`
+> **Evidence** · 2 studies · 2 causal `r2` · `q3` · `i1`–`i2`
 
 ## Subclaims
 `q3 i2` After AI removal, the AI condition had a lower unassisted solve rate than controls (Cohen's d = -0.42). [→ Grace Liu 2026](#grace-liu-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Grace Liu 2026
 
-Grace Liu, Brian Christian, Tsvetomira Dumbalska, Michiel A. Bakker, Rachit Dubey. (2026). AI Assistance Reduces Persistence and Hurts Independent Performance. Published as a conference paper at COLM 2026. https://arxiv.org/abs/2604.04721
+Grace Liu, Brian Christian, Tsvetomira Dumbalska, Michiel A. Bakker, Rachit Dubey. (2026). AI Assistance Reduces Persistence and Hurts Independent Performance. Published as a conference paper at COLM 2026. https://arxiv.org/abs/2604.04721 [doi:10.48550/arxiv.2604.04721](https://doi.org/10.48550/arxiv.2604.04721)
 
 `q3 · i2` · `causal · r2`
 

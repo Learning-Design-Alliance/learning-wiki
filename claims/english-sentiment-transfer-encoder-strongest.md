@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: esteban-u-vega-barajas-2026
-    resource: "https://arxiv.org/abs/2607.11873"
-    title: "Esteban U. Vega Barajas. (2026). A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol. https://arxiv.org/abs/2607.11873"
+    resource: "https://doi.org/10.48550/arxiv.2607.11873"
+    title: "Esteban U. Vega Barajas. (2026). A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol. https://arxiv.org/abs/2607.11873 [doi:10.48550/arxiv.2607.11873](https://doi.org/10.48550/arxiv.2607.11873)"
     author: Esteban U. Vega Barajas
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Esteban U. Vega Barajas 2026
 
-Esteban U. Vega Barajas. (2026). A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol. https://arxiv.org/abs/2607.11873
+Esteban U. Vega Barajas. (2026). A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol. https://arxiv.org/abs/2607.11873 [doi:10.48550/arxiv.2607.11873](https://doi.org/10.48550/arxiv.2607.11873)
 
 `q2 · i?` · `design · r2`
 

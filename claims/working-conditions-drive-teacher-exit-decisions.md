@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: podolsky-2016
-    resource: "https://learningpolicyinstitute.org/product/solving-teacher-shortage"
-    title: "Podolsky, A., Kini, T., Bishop, J., & Darling-Hammond, L. (2016). Solving the Teacher Shortage: How to Attract and Retain Excellent Educators. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/solving-teacher-shortage"
+    resource: "https://doi.org/10.54300/262.960"
+    title: "Podolsky, A., Kini, T., Bishop, J., & Darling-Hammond, L. (2016). Solving the Teacher Shortage: How to Attract and Retain Excellent Educators. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/solving-teacher-shortage [doi:10.54300/262.960](https://doi.org/10.54300/262.960)"
     author: "Podolsky, A., Kini, T., Bishop, J., & Darling-Hammond, L."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Working conditions, especially accountability pressures and administrative support, shape teachers' decisions to leave or stay
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Evidence** · 2 studies · 1 review `r2`, 1 associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Approximately 25% of public school teachers who left in 2012 rated dissatisfaction with school assessment and accountability measures as extremely or very important in their decision to leave. [→ Podolsky 2016](#podolsky-2016)
@@ -40,7 +40,7 @@ sources:
 
 ### Podolsky 2016
 
-Podolsky, A., Kini, T., Bishop, J., & Darling-Hammond, L. (2016). Solving the Teacher Shortage: How to Attract and Retain Excellent Educators. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/solving-teacher-shortage
+Podolsky, A., Kini, T., Bishop, J., & Darling-Hammond, L. (2016). Solving the Teacher Shortage: How to Attract and Retain Excellent Educators. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/solving-teacher-shortage [doi:10.54300/262.960](https://doi.org/10.54300/262.960)
 
 `q2 · i?` · `associational · r1`
 
@@ -65,10 +65,10 @@ The report's school-leadership subsection synthesizes survey research on why tea
 - [Teachers who find their administrators unsupportive are more than twice as likely to leave as those who feel well-supported](administrative-support-double-attrition-odds.md) — related
 - [Dissatisfaction is the most-cited reason for leaving, cited by 55% of profession-leavers and 66% of school-movers](dissatisfaction-top-reason-for-turnover.md) — related
 - [Mentoring strongly influences new teachers' decisions to stay in or leave teaching (review attribution)](mentoring-influences-new-teacher-retention.md) — related
-- [Teachers are more likely to stay in schools where they perceive colleagues as collaborators, feel influence over their work environment, and trust their principal as an instructional leader](work-environment-predicts-teacher-retention-chicago.md) — a narrower finding that bears on this claim
+- Teachers are more likely to stay in schools where they perceive colleagues as collaborators, feel influence over their work environment, and trust their principal as an instructional leader — a narrower finding that bears on this claim
 - [Working conditions shape educator retention and also influence recruitment decisions and the effectiveness of collaborative evaluation and induction](working-conditions-shape-retention-and-recruitment.md) — a broader claim this one bears on
-- [Dissatisfaction with leadership and staff cohesion predicts staying only in high-poverty schools](leadership-cohesion-retention-high-poverty.md) — related
-- [Louisiana teachers of color report working conditions, not salary, as primary reasons for leaving high-need schools](louisiana-teachers-of-color-working-conditions-turnover.md) — a narrower finding that bears on this claim
+- Dissatisfaction with leadership and staff cohesion predicts staying only in high-poverty schools — related
+- Louisiana teachers of color report working conditions, not salary, as primary reasons for leaving high-need schools — a narrower finding that bears on this claim
 - [Minority teachers who depart rarely cite retirement; dissatisfaction, pursuit of better jobs, and personal reasons dominate their reported turnover reasons](minority-teacher-departure-reasons-self-report.md) — related
 - [Teachers cite principal support as one of the most important factors in their decision to stay in a school or the profession](principal-support-key-to-teacher-retention.md) — related
 - [Effective, supportive principals retain teachers, with the largest effects in high-need schools](supportive-principals-retain-teachers.md) — a narrower finding that bears on this claim

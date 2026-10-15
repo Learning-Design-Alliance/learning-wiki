@@ -18,7 +18,7 @@ sources:
 # Lexia English
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Lexia English Language Development is a blended English-language-development programme from Lexia Learning for K–6 English Learners, combining student-directed digital lessons with teacher-led instruction and progress data.
@@ -29,9 +29,6 @@ Lexia English Language Development is a blended English-language-development pro
 - **Blended online practice with speech-recognition feedback plus teacher-led small-group oral language instruction**: The program's instructional design combines interactive, student-directed online lessons, in which "speech recognition to provide immediate feedback" supports listening and speaking practice in academic contexts, with teacher-led instruction on oral language, grammar, and vocabulary. Content is organized across 19 content-based levels spanning subjects such as science, math, and social studies, and teachers receive real-time progress data with aligned small-group lesson plans. (Lexia English Language Development (2022))
 
 ### Claims
-- [Effects of Lexia English Language Development are strongest among students with lower baseline English proficiency](../claims/lexia-english-effects-strongest-lower-baseline.md) [+W]
-- [Lexia English Language Development raises English language proficiency (ELPAC) with an effect size of +0.23](../claims/lexia-english-elpac-effect-023.md) [+M]
-- [Lexia English Language Development raises English language arts literacy (SBAC) with an effect size of +0.22](../claims/lexia-english-sbac-effect-022.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -71,9 +68,6 @@ A blended learning program designed to accelerate academic English proficiency f
 
 ## Claims
 
-- [Effects of Lexia English Language Development are strongest among students with lower baseline English proficiency](../claims/lexia-english-effects-strongest-lower-baseline.md) [+W]
-- [Lexia English Language Development raises English language proficiency (ELPAC) with an effect size of +0.23](../claims/lexia-english-elpac-effect-023.md) [+W]
-- [Lexia English Language Development raises English language arts literacy (SBAC) with an effect size of +0.22](../claims/lexia-english-sbac-effect-022.md) [+W]
 
 ## Related Elements
 
@@ -115,7 +109,6 @@ The program's instructional design combines interactive, student-directed online
 - Grammar and vocabulary development
 
 ### Claims
-- [Lexia English Elpac Effect 023](../claims/lexia-english-elpac-effect-023.md) [+M]
 
 ## Related Designs
 - 

@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Students routed individualized, consequential revision guidance back to instructors while valuing AI for immediate, broadly applicable language feedback, framing this as an expertise comparison rather than rejection of AI. [→ Serpil 2026](#serpil-2026)
@@ -43,8 +44,8 @@ Third theme of the interview-based thematic analysis. A participant explained: "
 
 
 ## Related Claims
-- [Trustworthiness and goodwill, more than expertise, set the limits of students' reliance on AI-generated feedback](sct-trustworthiness-goodwill-limit-reliance.md) — related
-- [EFL students perceive AI-generated writing feedback as a competent source that improves vocabulary, grammar, structure, coherence, and values its immediacy](ai-feedback-perceived-expertise-efl-writing.md) — related
-- [Students' reservations about AI feedback centre on trustworthiness (data privacy) and goodwill (impersonal, demotivating feedback)](ai-feedback-trustworthiness-goodwill-concerns.md) — related
+- Trustworthiness and goodwill, more than expertise, set the limits of students' reliance on AI-generated feedback — related
+- EFL students perceive AI-generated writing feedback as a competent source that improves vocabulary, grammar, structure, coherence, and values its immediacy — related
+- Students' reservations about AI feedback centre on trustworthiness (data privacy) and goodwill (impersonal, demotivating feedback) — related
 - [First-year EAP students prefer a hybrid feedback model combining AI-generated comments with instructor feedback over either source alone](students-prefer-hybrid-ai-instructor-feedback.md) — possibly the same claim (merge candidate)
 - [Students trust educator feedback more than AI-generated feedback: 90.5% versus 60.1% rated it somewhat or very trustworthy in an Australian survey](educator-feedback-trusted-more-than-ai-feedback.md) — related

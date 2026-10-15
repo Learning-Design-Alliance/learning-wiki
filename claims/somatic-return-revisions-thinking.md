@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Peter Reason's participatory inquiry holds that allowing direct experience of feeling the presence of the world enables re-visioning thinking and changing perception. [→ Loper 2000](#loper-2000)
@@ -44,8 +45,8 @@ The review-style article attributes this position to Peter Reason (1994) and his
 
 ## Related Claims
 - [A 1970 teacher self-analysis programme asserts, without reporting data, that questions referring to direct, concrete experiences are the most effective stimulators of pupil thinking](direct-experience-questions-stimulate-thinking.md) — related
-- [A playful embodied pedagogy tends to make transformative learning affirming and may promote less catastrophic responses to disorientation](playful-pedagogy-less-catastrophic-responses.md) — related
-- [The nervous system is hypothesized to include an all-spreading nondirectional relational medium alongside directional connections](all-spreading-nondirectional-relational-medium.md) — related
-- [Changes in the constraints of activity (attention, object location, interaction patterns) provide opportunities for new locally stable patterns of thinking to take hold](changing-activity-constraints-enable-new-coherences.md) — related
-- [Writing Program Administrators' responses to conflict are frequently somatic, with conflict becoming a physical trope expressed as illness](wpa-conflict-responses-somatic-physical-trope.md) — related
+- A playful embodied pedagogy tends to make transformative learning affirming and may promote less catastrophic responses to disorientation — related
+- The nervous system is hypothesized to include an all-spreading nondirectional relational medium alongside directional connections — related
+- Changes in the constraints of activity (attention, object location, interaction patterns) provide opportunities for new locally stable patterns of thinking to take hold — related
+- Writing Program Administrators' responses to conflict are frequently somatic, with conflict becoming a physical trope expressed as illness — related
 - [Somatically informed dance teachers use six facilitation strategies to deepen movement sensation](somatically-informed-teachers-six-movement-awareness-strategies.md) — related

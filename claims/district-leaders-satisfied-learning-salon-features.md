@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: alexandra-merritt-johnson-2023
-    resource: "https://digitalpromise.dspacedirect.org/items/b6e86f03-55b6-4577-a7a6-927065ac9bff"
-    title: "Alexandra Merritt Johnson, Ph.D, Sherenna Bates, and Kimberly Smith. (2023). Hidden in Plain Sight: The Opportunity to Bridge District Equity Gaps by Fostering Collaborations with BIPOC Solution Providers. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.dspacedirect.org/items/b6e86f03-55b6-4577-a7a6-927065ac9bff"
+    resource: "https://doi.org/10.51388/20.500.12265/197"
+    title: "Alexandra Merritt Johnson, Ph.D, Sherenna Bates, and Kimberly Smith. (2023). Hidden in Plain Sight: The Opportunity to Bridge District Equity Gaps by Fostering Collaborations with BIPOC Solution Providers. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.dspacedirect.org/items/b6e86f03-55b6-4577-a7a6-927065ac9bff [doi:10.51388/20.500.12265/197](https://doi.org/10.51388/20.500.12265/197)"
     author: Alexandra Merritt Johnson, Ph.D, Sherenna Bates, and Kimberly Smith
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Alexandra Merritt Johnson 2023
 
-Alexandra Merritt Johnson, Ph.D, Sherenna Bates, and Kimberly Smith. (2023). Hidden in Plain Sight: The Opportunity to Bridge District Equity Gaps by Fostering Collaborations with BIPOC Solution Providers. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.dspacedirect.org/items/b6e86f03-55b6-4577-a7a6-927065ac9bff
+Alexandra Merritt Johnson, Ph.D, Sherenna Bates, and Kimberly Smith. (2023). Hidden in Plain Sight: The Opportunity to Bridge District Equity Gaps by Fostering Collaborations with BIPOC Solution Providers. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.dspacedirect.org/items/b6e86f03-55b6-4577-a7a6-927065ac9bff [doi:10.51388/20.500.12265/197](https://doi.org/10.51388/20.500.12265/197)
 
 `q2 · i?` · `design · r2`
 
@@ -45,5 +45,5 @@ Descriptive post-engagement survey (15 Likert and open-ended items via Qualtrics
 ## Related Claims
 - [90% of surveyed district leaders and solution providers would participate in another Learning Salon even if no changes were made](ninety-percent-would-repeat-salon.md) — related
 - [Solution providers reported high satisfaction with facilitator preparedness, networking, and solution mapping, with some dissatisfaction on other components](providers-satisfied-salon-components.md) — related
-- [Teachers and school directors were uniformly satisfied with digital content training, and coaches observed 96% fidelity in blended-learning implementation](haiti-pilot-training-satisfaction-96-fidelity.md) — related
-- [Charlotte-Mecklenburg’s Strategic Staffing Initiative improved leadership satisfaction and student achievement in struggling schools](strategic-staffing-initiative-outcomes.md) — related
+- Teachers and school directors were uniformly satisfied with digital content training, and coaches observed 96% fidelity in blended-learning implementation — related
+- Charlotte-Mecklenburg’s Strategic Staffing Initiative improved leadership satisfaction and student achievement in struggling schools — related

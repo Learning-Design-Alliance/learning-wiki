@@ -44,5 +44,5 @@ The publisher page asserts this characterization of rapid-cycle evaluation direc
 
 ## Related Claims
 - [Determining the right M&E activities for a new or evolving solution is challenging, and more complex when investing in multiple solutions at once](me-selection-challenging-multi-solution-investments.md) — a broader claim this one bears on
-- [Instruction can harm learners in ways its performance data do not show.](instruction-has-unintended-moral-effects-that-performance-data-miss.md) — related
+- Instruction can harm learners in ways its performance data do not show. — related
 - [Relational trust and rapid-response adaptation help research-practice partnerships survive acute disruption](rpp-adaptive-practices-sustain-partnerships-during-disruption.md) — related

@@ -44,7 +44,7 @@ Four random-effects meta-analyses (Hedges & Olkin method) pooled 19 experimental
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Should learners assess their own work, and can their self-ratings be trusted?* This table gathers the studies behind this claim and the 9 narrower claims that bear on it: **15 distinct studies** (7 causal, 3 quant-synthesis, 3 review, 1 associational, 1 theoretical), `q2`–`q4`, 3 of 15 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Should learners assess their own work, and can their self-ratings be trusted?* This table gathers the studies behind this claim and the 8 narrower claims that bear on it: **14 distinct studies** (6 causal, 3 quant-synthesis, 3 review, 1 associational, 1 theoretical), `q2`–`q4`, 3 of 14 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -58,7 +58,6 @@ Four random-effects meta-analyses (Hedges & Olkin method) pooled 19 experimental
 | [Andrade et al. 2010](https://doi.org/10.1080/09695941003696172) | q2 · causal · r? | i? | [Self-assessing against a rubric improved the quality of student work in two non-randomised](rubrics-improve-student-work.md) (supports) |
 | [Panadero & Romero 2014](https://doi.org/10.1080/0969594x.2013.877872) | q2 · causal · r? | i? | [Self-assessing against a rubric improved the quality of student work in two non-randomised](rubrics-improve-student-work.md) (supports) |
 | [Dai 2026](https://doi.org/10.3389/fpsyg.2026.1829268) | q3 · causal · r2 | i? | [In one 2×2 experiment with 120 undergraduates, an Assessment-Performance Calibration Activ](apca-improves-self-assessment-accuracy-overconfidence.md) (qualifies) |
-| Mohammad Amanlou 2026 | q2 · causal · r2 | i? | [Guided-LLM students showed the strongest self-assessment calibration, with the highest wel](guided-llm-self-assessment-calibration-alignment.md) (qualifies) |
 | [Zimmerman 2002](https://doi.org/10.1207/s15430421tip4102_2) | q3 · review · r? | i? | [Self-regulated learning models treat self-monitoring as a core process through which learn](self-monitoring-improves-self-regulation.md) (supports) |
 | [Butler & Winne 1995](https://doi.org/10.3102/00346543065003245) | q3 · theoretical · r? | i? | [Self-regulated learning models treat self-monitoring as a core process through which learn](self-monitoring-improves-self-regulation.md) (supports) |
 | [Fusco 2025](https://doi.org/10.51388/20.500.12265/252) | q3 · review · r1 | i? | [Peer and self-assessment both show significant effects on academic performance with no sig](peer-self-assessment-improve-performance-equally.md) (supports) |
@@ -96,9 +95,9 @@ Four random-effects meta-analyses (Hedges & Olkin method) pooled 19 experimental
 - [Action-oriented feedback](../strategies/action-oriented-feedback.md) — external feedback that complements learner self-judgment.
 - [Assessment](../elements/assessment.md) — the element family that self-assessment tasks belong to.
 - [Adding small peer feedback groups to web-based SRL training and a diary (Group TDP) produced statistically significant gains in SRL knowledge, the SRL overall score, self-efficacy and the mathematics focus score, the last of which Group TD did not show](peer-feedback-groups-added-to-web-based-srl-training-raise-srl-self-efficacy-and-math-focus-score.md) — related
-- [Self-efficacy for self-regulated learning predicts academic achievement above and beyond prior achievement, gender, SES, intelligence, personality traits, and self-esteem](self-efficacy-for-srl-predicts-achievement-beyond-traits.md) — related
+- Self-efficacy for self-regulated learning predicts academic achievement above and beyond prior achievement, gender, SES, intelligence, personality traits, and self-esteem — related
 - [Language teachers in two workshops responded positively to the evaluation framework, leading to a four-category revision](teacher-workshops-validate-app-evaluation-framework.md) — related
-- [In a game-based problem-solving study, trait self-regulation scores related significantly only to knowledge map scores, with higher planning, self-monitoring, effort and self-efficacy going with better knowledge map performance](trait-self-regulation-relates-only-to-knowledge-map-scores-in-a-puzzle-game.md) — related
+- In a game-based problem-solving study, trait self-regulation scores related significantly only to knowledge map scores, with higher planning, self-monitoring, effort and self-efficacy going with better knowledge map performance — related
 - [Formative-assessment-based LA shows positive effects on achievement, motivation, and understanding, with personalized feedback reading time mattering](formative-assessment-la-positive-effects.md) — related
 - [Learning paths used for SRL improved accuracy and performance without increasing effort, and tutoring-system benefits required sustained practice](learning-paths-srl-accuracy-without-effort.md) — related
 - [Feedback about self as a person is the least effective feedback level; task, process, and self-regulation feedback support learning and combine for greater impact](feedback-levels-task-process-self-regulation-effective.md) — related
@@ -109,4 +108,4 @@ Four random-effects meta-analyses (Hedges & Olkin method) pooled 19 experimental
 - [AI-assisted practice applications improved music students' performance outcomes, self-efficacy, and self-regulated learning](ai-practice-apps-improve-music-learning-outcomes.md) — related
 - [A randomized controlled trial with 86 K-12 students found a significant gain in self-regulated-learning strategy use from agentic coaching systems](agentic-srl-coaching-rct-86-significant-strategy-gain.md) — related
 - [LLMs can deliver scalable, personalized, interactive feedback almost instantly, reducing dependency on teacher availability and supporting self-regulated learning in large courses](llms-scalable-personalized-feedback-large-courses.md) — related
-- [Correlations with self-regulation tend to be larger for course grades than for standardized test scores in several coded studies](course-grades-versus-standardized-tests-correlates.md) — related
+- Correlations with self-regulation tend to be larger for course grades than for standardized test scores in several coded studies — related

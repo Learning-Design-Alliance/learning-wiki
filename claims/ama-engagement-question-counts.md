@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: saniya-vahedian-movahed-and-fred-martin-2025
-    resource: "https://arxiv.org/abs/2502.14217"
-    title: "Saniya Vahedian Movahed and Fred Martin. (2025). Ask Me Anything: Exploring children's attitudes toward an age-tailored AI-powered chatbot. arXiv. https://arxiv.org/abs/2502.14217"
+    resource: "https://doi.org/10.48550/arxiv.2502.14217"
+    title: "Saniya Vahedian Movahed and Fred Martin. (2025). Ask Me Anything: Exploring children's attitudes toward an age-tailored AI-powered chatbot. arXiv. https://arxiv.org/abs/2502.14217 [doi:10.48550/arxiv.2502.14217](https://doi.org/10.48550/arxiv.2502.14217)"
     author: Saniya Vahedian Movahed and Fred Martin
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Saniya Vahedian Movahed and Fred Martin 2025
 
-Saniya Vahedian Movahed and Fred Martin. (2025). Ask Me Anything: Exploring children's attitudes toward an age-tailored AI-powered chatbot. arXiv. https://arxiv.org/abs/2502.14217
+Saniya Vahedian Movahed and Fred Martin. (2025). Ask Me Anything: Exploring children's attitudes toward an age-tailored AI-powered chatbot. arXiv. https://arxiv.org/abs/2502.14217 [doi:10.48550/arxiv.2502.14217](https://doi.org/10.48550/arxiv.2502.14217)
 
 `q2 · i?` · `design · r2`
 
@@ -44,4 +44,4 @@ Quantitative analysis of interaction logs from the 63-student school study measu
 
 ## Related Claims
 - [Children use a 'trust test' strategy, asking a chatbot questions they already know the answers to, to evaluate it as a credible information source](children-trust-test-chatbot-with-known-answers.md) — related
-- [In a voluntary pilot of a GenAI practice platform, 34 of 95 registrants attempted at least one question, generating 230 submissions with highly uneven engagement](genai-practice-platform-uptake-230-submissions.md) — related
+- In a voluntary pilot of a GenAI practice platform, 34 of 95 registrants attempted at least one question, generating 230 submissions with highly uneven engagement — related

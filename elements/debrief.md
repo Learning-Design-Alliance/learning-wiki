@@ -14,7 +14,7 @@ generated:
 # Debrief
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 13 claims (10 for, 3 mixed) · 18 studies (9 quant-synthesis, 4 causal, 2 qualitative, 1 review, 1 associational, 1 design), `q1`–`q4` · 7 of 18 report an effect size · 7 claims rest on one study
+> **Evidence** · 12 claims (9 for, 3 mixed) · 17 studies (9 quant-synthesis, 4 causal, 1 review, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 7 of 17 report an effect size · 6 claims rest on one study
 
 ## Description
 A debrief is a facilitated reflective conversation conducted after a learning experience — a simulation, role-play, case discussion, experiment, or complex task — in which learners reconstruct what happened, analyze why, and draw out transferable lessons. It converts raw experience into articulated understanding, functioning as the sense-making phase of experiential learning cycles.
@@ -68,7 +68,6 @@ Debriefing is where much of the learning from experience is actually consolidate
 - [Peer discussion improves conceptual understanding](../claims/peer-discussion-improves-conceptual-understanding.md) [+M]
 - [Students' evaluation of group processing increased over the course and after](../claims/group-processing-perceived-value-increases-over-time.md) [+M]
 - [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](../claims/reflective-practice-evidence-mixed-in-professional-education.md) [~M]
-- [Contextual factors influence preservice teachers' demonstration of reflective judgment](../claims/contextual-factors-influence-reflective-judgment-demonstration.md) [+M]
 - [Students perceive debriefing and guided psychometric-property exploration as the most beneficial components of a simulated clinical course](../claims/debriefing-psychometric-instruction-valued.md) [+W]
 
 ## Design Decisions
@@ -101,7 +100,7 @@ Debriefing is where much of the learning from experience is actually consolidate
 
 ### How long should the debrief be, and in what setting?
 - **Default:** plan duration, peer interaction and the reflective activity deliberately; across 23 controlled studies (n = 2,010) reflection interventions averaged g = 0.56, and the effect depended on all three — [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](../claims/reflective-practice-evidence-mixed-in-professional-education.md) [~M]
-- **Default:** allow enough time and lower the evaluative pressure; time for reflection, a high-pressure evaluative atmosphere, and dialogue with peers and mentors shaped the reflective judgment student teachers showed — [Contextual factors influence preservice teachers' demonstration of reflective judgment](../claims/contextual-factors-influence-reflective-judgment-demonstration.md) [+M]
+- **Default:** allow enough time and lower the evaluative pressure; time for reflection, a high-pressure evaluative atmosphere, and dialogue with peers and mentors shaped the reflective judgment student teachers showed — Contextual factors influence preservice teachers' demonstration of reflective judgment [+M]
 - **Tested with:** higher-education reflection interventions; six student teachers in one urban school (a qualitative pilot).
 - **Not settled:** the direction of Guo's moderators (which durations and activities do better) is not given on the claim page, and no wiki claim sets a minimum debrief length.
 

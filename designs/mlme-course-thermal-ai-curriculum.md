@@ -17,7 +17,7 @@ sources:
 # MLME: an open-access, project-based AI curriculum for thermal engineering totaling 39.1 hours with four core projects and three optional projects
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The Machine Learning for Mechanical Engineers (MLME) course at UARK integrates AI into thermal engineering for ME students, distinct from computer-science AI courses by focusing on selection and implementation of AI algorithms for thermal problems. The article states the course is "organized into a timeline format ... totaling 39.1 hours, and covers various topics such as linear regression, multilayer perceptron (MLP), convolutional neural networks (CNN), and time series analysis." Four assignment projects cover heat flux prediction (MLP, GPR), pre-/post-CHF image classification (CNN), unsupervised PCA/SVD clustering, and RNN time-series prediction of vapor fraction; three extra projects and student-proposed projects serve as final-exam options. Syllabus, data, and code are released in open-access repositories.
@@ -40,7 +40,6 @@ The Machine Learning for Mechanical Engineers (MLME) course at UARK integrates A
 
 ### Claims
 - Worked Examples Reduced Grade Variance Mlme [+M]
-- [Mlme Grades Improved Across Years](../claims/mlme-grades-improved-across-years.md) [+M]
 
 ## Related Designs
 

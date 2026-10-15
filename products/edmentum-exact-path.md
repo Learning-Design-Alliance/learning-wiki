@@ -22,7 +22,7 @@ sources:
 # Edmentum Exact Path
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (5 for) · 3 studies (3 causal), `q2` · 1 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Edmentum Exact Path is a personalized K–12 learning platform that uses diagnostic and adaptive assessments to create individualized Math and English Language Arts learning paths and report student growth.
@@ -32,11 +32,6 @@ Edmentum Exact Path is a personalized K–12 learning platform that uses diagnos
 - **Edmentum Exact Path Growth personalized learning program**: Exact Path Growth is "a personalized learning program for K-12 learners, designed to accelerate, measure, and report student achievement in Math and English Language Arts standards." It offers individualized learning paths, adaptive diagnostic assessments, and educator-led interventions. It provides flexible assessment options, using its own diagnostic assessment or integrating with NWEA MAP Growth, Renaissance Star, or select state assessments to personalize learning paths. (Exact Path Growth Evidence Rating Summary (2024))
 
 ### Claims
-- [Exact Path use produced a statistically significant positive effect on 6th-grade ELA achievement (effect size = +0.16) in a quasi-experimental study](../claims/exact-path-ela-effect-016.md) [+W]
-- [Exact Path use produced a statistically significant positive effect on 6th-grade Mathematics achievement (effect size = +0.06) in the same quasi-experimental study](../claims/exact-path-math-effect-006-dcps.md) [+W]
-- [The Exact Path evaluation sample was demographically diverse, including 42% African American, 47% economically disadvantaged, and 22% ESE students](../claims/exact-path-study-diverse-sample.md) [+W]
-- [Exact Path Proficiency + Growth shows statistically significant positive ELA effects across Grades 6-8](../claims/exact-path-bundle-ela-significant-grades-6-8.md) [+W]
-- [The supporting evidence for Exact Path is a single quasi-experimental study of nearly 10,000 diverse grade 6 students](../claims/exact-path-evidence-base-quasi-experimental-dcps.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -75,13 +70,6 @@ Exact Path Growth is "a personalized learning program for K-12 learners, designe
 
 ## Claims
 
-- [Exact Path use produced a statistically significant positive effect on 6th-grade ELA achievement (effect size = +0.16) in a quasi-experimental study](../claims/exact-path-ela-effect-016.md) [+W]
-- [Exact Path use produced a statistically significant positive effect on 6th-grade Mathematics achievement (effect size = +0.06) in the same quasi-experimental study](../claims/exact-path-math-effect-006-dcps.md) [+W]
-- [The Exact Path evaluation sample was demographically diverse, including 42% African American, 47% economically disadvantaged, and 22% ESE students](../claims/exact-path-study-diverse-sample.md) [+W]
-- [Exact Path Proficiency + Growth shows statistically significant positive ELA effects across Grades 6-8](../claims/exact-path-bundle-ela-significant-grades-6-8.md) [+W]
-- [Exact Path has a statistically significant positive effect on grade 6 ELA achievement (effect size +0.16)](../claims/exact-path-ela-effect-016.md) [+W]
-- [The supporting evidence for Exact Path is a single quasi-experimental study of nearly 10,000 diverse grade 6 students](../claims/exact-path-evidence-base-quasi-experimental-dcps.md) [+W]
-- [Exact Path has a statistically significant positive effect on grade 6 Mathematics achievement (effect size +0.06)](../claims/exact-path-math-effect-006-dcps.md) [+W]
 
 ## Related Elements
 
@@ -126,9 +114,6 @@ Exact Path Growth is a personalized learning program for K-12 learners in Math a
 
 ## Claims
 
-- [Exact Path has a statistically significant positive effect on grade 6 ELA achievement (effect size +0.16)](../claims/exact-path-ela-effect-016.md) [+W]
-- [The supporting evidence for Exact Path is a single quasi-experimental study of nearly 10,000 diverse grade 6 students](../claims/exact-path-evidence-base-quasi-experimental-dcps.md) [+W]
-- [Exact Path has a statistically significant positive effect on grade 6 Mathematics achievement (effect size +0.06)](../claims/exact-path-math-effect-006-dcps.md) [+W]
 
 ## Related Elements
 

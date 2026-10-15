@@ -63,8 +63,8 @@ The same evaluation's reading contrast found no differences versus a regular aft
 
 ## Related Claims
 - [In a meta-analysis of 73 after-school programs, the presence of an academic component was the largest predictor of a program producing significant academic improvements](academic-component-largest-predictor-after-school-gains.md) — related
-- [Enhanced Core Reading Instruction improves word-level reading outcomes for first graders compared to control (average effect size +0.24)](ecri-improves-word-reading-outcomes-first-grade.md) — related
-- [Reading Go! tutoring produced significantly positive decoding and word-reading outcomes for low-performing first graders compared to students who did not receive the program](reading-go-positive-decoding-word-reading-outcomes.md) — related
+- Enhanced Core Reading Instruction improves word-level reading outcomes for first graders compared to control (average effect size +0.24) — related
+- Reading Go! tutoring produced significantly positive decoding and word-reading outcomes for low-performing first graders compared to students who did not receive the program — related
 - [SMART® tutoring produced a statistically significant positive effect on first-graders' word identification after two years of intervention](smart-significant-word-identification-effect.md) — related
 - [Fast Track produced a positive, statistically significant effect on reading achievement/literacy after one year, significant on the Spache DRS but not on the Woodcock-Johnson Letter-Word Identification subtest](fast-track-positive-reading-achievement-mixed-measures.md) — related
 - [UBMS provides intensive academic instruction in math and science](ubms-intensive-academic-instruction.md) — related

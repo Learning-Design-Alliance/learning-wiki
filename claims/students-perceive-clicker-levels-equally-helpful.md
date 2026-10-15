@@ -46,4 +46,4 @@ From the student perceptions survey administered before each exam in both semest
 - [Students rate clicker questions and lecture as more helpful than the textbook](clickers-and-lecture-rated-above-textbook.md) — related
 - [HOCS clicker questions during learning improve performance on LOCS exam questions more than LOCS clicker questions do](hocs-clickers-improve-locs-exam-performance.md) — related
 - [Students perform better overall on LOCS exam questions than on HOCS exam questions](locs-exam-questions-outperform-hocs.md) — related
-- [No instructor bias was evident in students' liking of the clicker implementation or perceived learning benefit](no-instructor-bias-clicker-perceptions.md) — related
+- No instructor bias was evident in students' liking of the clicker implementation or perceived learning benefit — related

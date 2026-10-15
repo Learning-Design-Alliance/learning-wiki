@@ -44,5 +44,5 @@ The report cites Buly's (2005) in-depth literacy assessment study of fourth-grad
 
 ## Related Claims
 - [Automatic word recognition frees resources for comprehension](automatic-word-recognition-frees-resources-for-comprehension.md) — related
-- [One year of STARI significantly improves word recognition, basic reading comprehension efficiency, and morphological awareness in struggling middle school readers](stari-improves-word-recognition-comprehension-morphological-awareness.md) — related
+- One year of STARI significantly improves word recognition, basic reading comprehension efficiency, and morphological awareness in struggling middle school readers — related
 - [Phoneme awareness is a stronger predictor of reading development than rhyme awareness](phoneme-awareness-stronger-predictor-than-rhyme.md) — related

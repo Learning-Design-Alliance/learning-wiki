@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: debanjana-kar-2025
-    resource: "https://arxiv.org/abs/2508.19993"
-    title: "Debanjana Kar, Leopold Böss, Dacia Braca, Sebastian Dennerlein, Nina Hubig, Philipp Wintersberger, and Yufang Hou. (2025). MathBuddy: A Multimodal System for Affective Math Tutoring. https://arxiv.org/abs/2508.19993"
+    resource: "https://doi.org/10.48550/arxiv.2508.19993"
+    title: "Debanjana Kar, Leopold Böss, Dacia Braca, Sebastian Dennerlein, Nina Hubig, Philipp Wintersberger, and Yufang Hou. (2025). MathBuddy: A Multimodal System for Affective Math Tutoring. https://arxiv.org/abs/2508.19993 [doi:10.48550/arxiv.2508.19993](https://doi.org/10.48550/arxiv.2508.19993)"
     author: Debanjana Kar, Leopold Böss, Dacia Braca, Sebastian Dennerlein, Nina Hubig, Philipp Wintersberger, and Yufang Hou
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Debanjana Kar 2025
 
-Debanjana Kar, Leopold Böss, Dacia Braca, Sebastian Dennerlein, Nina Hubig, Philipp Wintersberger, and Yufang Hou. (2025). MathBuddy: A Multimodal System for Affective Math Tutoring. https://arxiv.org/abs/2508.19993
+Debanjana Kar, Leopold Böss, Dacia Braca, Sebastian Dennerlein, Nina Hubig, Philipp Wintersberger, and Yufang Hou. (2025). MathBuddy: A Multimodal System for Affective Math Tutoring. https://arxiv.org/abs/2508.19993 [doi:10.48550/arxiv.2508.19993](https://doi.org/10.48550/arxiv.2508.19993)
 
 `q2 · i?` · `causal · r1`
 

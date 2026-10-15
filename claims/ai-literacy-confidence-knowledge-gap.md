@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: yifan-liu-2026
-    resource: "https://arxiv.org/abs/2606.08936"
-    title: "Yifan Liu, Jaime Arguello, Orland Hoeber, Chang Liu, Soo Young Rieh, Luanne Sinnamon, et al. (2026). Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS). ACM SIGIR Forum. https://arxiv.org/abs/2606.08936"
+    resource: "https://doi.org/10.48550/arxiv.2606.08936"
+    title: "Yifan Liu, Jaime Arguello, Orland Hoeber, Chang Liu, Soo Young Rieh, Luanne Sinnamon, et al. (2026). Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS). ACM SIGIR Forum. https://arxiv.org/abs/2606.08936 [doi:10.48550/arxiv.2606.08936](https://doi.org/10.48550/arxiv.2606.08936)"
     author: Yifan Liu, Jaime Arguello, Orland Hoeber, Chang Liu, Soo Young Rieh, Luanne Sinnamon, et al
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Yifan Liu 2026
 
-Yifan Liu, Jaime Arguello, Orland Hoeber, Chang Liu, Soo Young Rieh, Luanne Sinnamon, et al. (2026). Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS). ACM SIGIR Forum. https://arxiv.org/abs/2606.08936
+Yifan Liu, Jaime Arguello, Orland Hoeber, Chang Liu, Soo Young Rieh, Luanne Sinnamon, et al. (2026). Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS). ACM SIGIR Forum. https://arxiv.org/abs/2606.08936 [doi:10.48550/arxiv.2606.08936](https://doi.org/10.48550/arxiv.2606.08936)
 
 `q2 · i?` · `review · r2`
 
@@ -44,5 +44,5 @@ The report attributes this finding to prior empirical work by Archambault et al.
 
 ## Related Claims
 - [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md) — related
-- [The GenAI session strengthened immediate AI-handling confidence and workflow literacy, but students remained hesitant about transferring these skills to employment](gen-aitecture-ai-handling-confidence-transfer-hesitation.md) — related
+- The GenAI session strengthened immediate AI-handling confidence and workflow literacy, but students remained hesitant about transferring these skills to employment — related
 - [People use AI on simple tasks at a rate significantly higher than they predict for themselves (self-estimate miscalibration), especially on easy task variants](self-estimate-miscalibration-ai-use-simple-tasks.md) — related

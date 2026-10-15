@@ -44,6 +44,6 @@ The abstract states the report presents the "results of a special validity analy
 
 ## Related Claims
 - [The 2003 Puerto Rico assessment data showed problems with item misfit](item-misfit-problems-2003-puerto-rico-data.md) — related
-- [In 2003, fourth-grade public school students in Puerto Rico scored lower on average in NAEP mathematics than public school students in the nation (179 vs. 234 on the 0–500 scale).](pr-grade4-2003-naep-math-lower-than-nation.md) — related
+- In 2003, fourth-grade public school students in Puerto Rico scored lower on average in NAEP mathematics than public school students in the nation (179 vs. 234 on the 0–500 scale). — related
 - [Preliminary analyses of the 2003 Puerto Rico data led to changes in administration and translation procedures for the 2005 assessment](preliminary-analyses-drove-2005-procedure-changes.md) — related
 - [A trial Spanish-language NAEP mathematics assessment was administered to Puerto Rico public school students in grades 4 and 8 in 2003](trial-spanish-naep-math-puerto-rico-2003.md) — related

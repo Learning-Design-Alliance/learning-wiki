@@ -18,7 +18,7 @@ sources:
 # Early Learning in Mathematics (ELM)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (2 for, 1 against) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 A kindergarten core mathematics curriculum developed for whole-class delivery, comprising 120 45-minute lessons plus daily 15-minute calendar activities.
@@ -29,9 +29,6 @@ A kindergarten core mathematics curriculum developed for whole-class delivery, c
 - **Focused coverage of a small number of key mathematical ideas with explicit, systematic instruction**: ELM's instructional design pattern emphasizes depth over breadth: "The curriculum emphasizes a small number of key ideas in math to provide more focused coverage, instead of trying to teach a comprehensive but more surface set of skills." It pairs this focused coverage with "Explicit and systematic instructional design." The pattern structures a full year of 120 45-minute lessons plus daily calendar activities. (Early Learning in Mathematics (ELM): Evidence Rating (2021))
 
 ### Claims
-- [A follow-up to the middle of first grade on the SAT-10 found no differences between ELM and control (effect size = 0.00)](../claims/elm-follow-up-first-grade-no-difference.md) [-W]
-- [ELM produces a small positive effect on kindergarten early mathematics ability (+0.11), significant at the student level but not at the cluster level](../claims/elm-kindergarten-math-effect-0-11-student-level.md) [+W]
-- [ELM effects are larger for initially low achievers than for high achievers, with particularly large effects for English Learners (ES = +0.30)](../claims/elm-larger-effects-low-achievers-english-learners.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -65,9 +62,6 @@ ELM is "a core mathematics program for kindergartners that provides 120 45-minut
 
 ## Claims
 
-- [A follow-up to the middle of first grade on the SAT-10 found no differences between ELM and control (effect size = 0.00)](../claims/elm-follow-up-first-grade-no-difference.md) [-W]
-- [ELM produces a small positive effect on kindergarten early mathematics ability (+0.11), significant at the student level but not at the cluster level](../claims/elm-kindergarten-math-effect-0-11-student-level.md) [+W]
-- [ELM effects are larger for initially low achievers than for high achievers, with particularly large effects for English Learners (ES = +0.30)](../claims/elm-larger-effects-low-achievers-english-learners.md) [+W]
 
 ## Related Elements
 - 

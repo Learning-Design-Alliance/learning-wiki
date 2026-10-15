@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: favero-2025
-    resource: "https://arxiv.org/abs/2507.06878"
-    title: "Favero, L., Pérez-Ortiz, J. A., Käser, T., & Oliver, N. (2025). Do AI tutors empower or enslave learners? Toward a critical use of AI in education. Applications of Generative AI to support teaching and learning in Higher Education, co-located with AIED 2025, Palermo, Italy. https://arxiv.org/abs/2507.06878"
+    resource: "https://doi.org/10.48550/arxiv.2507.06878"
+    title: "Favero, L., Pérez-Ortiz, J. A., Käser, T., & Oliver, N. (2025). Do AI tutors empower or enslave learners? Toward a critical use of AI in education. Applications of Generative AI to support teaching and learning in Higher Education, co-located with AIED 2025, Palermo, Italy. https://arxiv.org/abs/2507.06878 [doi:10.48550/arxiv.2507.06878](https://doi.org/10.48550/arxiv.2507.06878)"
     author: "Favero, L., Pérez-Ortiz, J. A., Käser, T., & Oliver, N."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Surveys show young adults are the heaviest educational ChatGPT users and most worry about data privacy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · theoretical `r2` · `q2`
+> **Evidence** · 2 studies · 2 theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Over one-third of U.S. adults aged 18–24 use ChatGPT regularly, with more than a quarter of their messages education-related, and 61% of surveyed students worry about data privacy. [→ Favero 2025](#favero-2025)
@@ -39,7 +39,7 @@ sources:
 
 ### Favero 2025
 
-Favero, L., Pérez-Ortiz, J. A., Käser, T., & Oliver, N. (2025). Do AI tutors empower or enslave learners? Toward a critical use of AI in education. Applications of Generative AI to support teaching and learning in Higher Education, co-located with AIED 2025, Palermo, Italy. https://arxiv.org/abs/2507.06878
+Favero, L., Pérez-Ortiz, J. A., Käser, T., & Oliver, N. (2025). Do AI tutors empower or enslave learners? Toward a critical use of AI in education. Applications of Generative AI to support teaching and learning in Higher Education, co-located with AIED 2025, Palermo, Italy. https://arxiv.org/abs/2507.06878 [doi:10.48550/arxiv.2507.06878](https://doi.org/10.48550/arxiv.2507.06878)
 
 `q2 · i?` · `theoretical · r2`
 

@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` The review reports that in a systemic-approach project for in-service mathematics teachers of Latino students, preliminary results showed teachers had difficulties making connections across processes, concepts, assessment, and subjects, and that short-term, fragmented training hinders acquiring a holistic view. [→ Vilma Mesa 1998](#vilma-mesa-1998)
@@ -44,4 +45,4 @@ Narrative review attributing this to Khisty (1997), a project for in-service mat
 
 ## Related Claims
 - [Situated perspective explains Latino students' mathematical meaning-making in bilingual classrooms better than a discontinuity model (review reports Moschkovich, 1996)](situated-perspective-bilingual-math-meaning.md) — related
-- [CHAT's rejection of the theory/practice divide frames CSL as boundary crossing that develops connective skills](chat-rejects-theory-practice-divide-csl-boundary-crossing.md) — related
+- CHAT's rejection of the theory/practice divide frames CSL as boundary crossing that develops connective skills — related

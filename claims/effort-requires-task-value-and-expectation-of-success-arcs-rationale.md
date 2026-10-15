@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` The digest argues, from expectancy-value theory, that effort needs two prerequisites (valuing the task and believing one can succeed), so the learning task should be engaging, meaningful and promote positive expectations of success. [→ Small 1997](#small-1997)
@@ -44,13 +45,13 @@ Theoretical argument in the digest, not a tested result. It states that in expec
 
 ## Related Claims
 - [Task Value Increases Motivation And Engagement](task-value-increases-motivation-and-engagement.md)
-- [The ARCS Model is described as an easy-to-apply heuristic approach to increasing the motivational appeal of instruction, asserted without evidence in this digest](arcs-model-increases-motivational-appeal-assertion.md) — related
+- The ARCS Model is described as an easy-to-apply heuristic approach to increasing the motivational appeal of instruction, asserted without evidence in this digest — related
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related
 - [Teachers who believe AI use will contribute to their professional success and identity (attainment value) may be more motivated to use it (theoretical argument).](teacher-attainment-value-increases-motivation-to-use-ai.md) — related
 - [Teachers who believe AI will help them reach professional goals and improve students' learning outcomes (utility value) may be more motivated to use it (theoretical argument).](teacher-utility-value-increases-motivation-to-use-ai.md) — related
 - [Student-centered writing environments are argued to lower anxiety, increase confidence, and provide natural language contexts](student-centered-environments-lower-anxiety-increase-confidence.md) — related
 - [Teachers' expectancy beliefs about successfully using AI applications shape their motivation to use them (theoretical argument).](teacher-expectancy-beliefs-shape-motivation-to-use-ai.md) — a narrower finding that bears on this claim
-- [Appropriately used technology can support practices that improve achievement, but inappropriate use can harm student performance](technology-use-right-tool-right-objective.md) — related
-- [Preservice elementary teachers hold positive outcome expectancy beliefs that effective teaching improves student EE learning](preservice-teachers-positive-ee-outcome-expectancy.md) — a narrower finding that bears on this claim
+- Appropriately used technology can support practices that improve achievement, but inappropriate use can harm student performance — related
+- Preservice elementary teachers hold positive outcome expectancy beliefs that effective teaching improves student EE learning — a narrower finding that bears on this claim
 - [Developing a common understanding of expected learning helps all students succeed, not only those with school-aligned prior knowledge](shared-understanding-expected-learning-helps-all-students.md) — related

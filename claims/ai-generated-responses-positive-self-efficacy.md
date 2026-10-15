@@ -47,6 +47,6 @@ In the same quasi-experiment, self-efficacy was measured with the SQEIAIGRASQ qu
 
 ## Related Claims
 - [Students exposed to AI-generated responses achieved higher performance in solving quadratic equations than those taught through conventional teaching methods](ai-generated-responses-higher-quadratic-achievement.md) — related
-- [AI interaction mode (Tutor, Collaborator, Solver) significantly influences high school students' observed behavior during problem-solving](ai-interaction-mode-significantly-influences-observed-behavior.md) — related
+- AI interaction mode (Tutor, Collaborator, Solver) significantly influences high school students' observed behavior during problem-solving — related
 - [Strengthening the student-educator relationship can contribute positively to marginalised students' self-efficacy and sense of belonging in higher education](student-educator-relationship-builds-self-efficacy-and-belonging.md) — related
 - [Academic self-efficacy is associated with high school graduation rates and mathematics achievement](self-efficacy-associated-graduation-and-math.md) — a broader claim this one bears on

@@ -47,4 +47,4 @@ The review reports, citing Allensworth & Easton (2007), that early ninth-grade a
 - [Within every student category, freshman GPA, course failures, and absences are strongly related to five-year graduation rates, with large drops per half grade point, per additional course failure, and per absence band](freshman-indicators-predict-graduation-within-disability-categories.md) — related
 - [Attendance Support students maintained a 3.0 GPA despite low attendance but graduated high school at 71 percent, below the district average, and fewer than half attended college](condensed-eot-attendance-support-below-average-graduation.md) — related
 - [Low attendance is linked with lower academic skills, grades, and high school graduation, and high attendance with higher ones](attendance-linked-academic-skills-grades-graduation.md) — a broader claim this one bears on
-- [Schools with strong social-emotional value-added help ninth-grade students stay on track and miss school less often](strong-sel-value-added-schools-on-track-absenteeism.md) — related
+- Schools with strong social-emotional value-added help ninth-grade students stay on track and miss school less often — related

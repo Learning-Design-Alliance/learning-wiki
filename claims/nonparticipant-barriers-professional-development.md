@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: corcoran-2003
-    resource: "https://eric.ed.gov/?id=ED480404"
-    title: "Corcoran, Tom. (2003). The Merck Institute for Science Education: A Successful Intermediary for Education Reform. CPRE Research Report Series RR-052. https://eric.ed.gov/?id=ED480404"
+    resource: "https://doi.org/10.1037/e383112004-001"
+    title: "Corcoran, Tom. (2003). The Merck Institute for Science Education: A Successful Intermediary for Education Reform. CPRE Research Report Series RR-052. https://eric.ed.gov/?id=ED480404 [doi:10.1037/e383112004-001](https://doi.org/10.1037/e383112004-001)"
     author: Corcoran, Tom
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Corcoran 2003
 
-Corcoran, Tom. (2003). The Merck Institute for Science Education: A Successful Intermediary for Education Reform. CPRE Research Report Series RR-052. https://eric.ed.gov/?id=ED480404
+Corcoran, Tom. (2003). The Merck Institute for Science Education: A Successful Intermediary for Education Reform. CPRE Research Report Series RR-052. https://eric.ed.gov/?id=ED480404 [doi:10.1037/e383112004-001](https://doi.org/10.1037/e383112004-001)
 
 `q2 · i?` · `design · r2`
 
@@ -46,6 +46,6 @@ Following the non-participant study, the Partnership added general-topic offerin
 - [Intensive three-year professional development changed Leader Teachers' practice dramatically, but peer diffusion of reform was uneven](leader-teacher-diffusion-uneven.md) — related
 - [Working conditions shape educator retention and also influence recruitment decisions and the effectiveness of collaborative evaluation and induction](working-conditions-shape-retention-and-recruitment.md) — related
 - [PD support type and salience depends on a teacher team's current phase in the adaptive learning cycle](pd-support-salience-depends-on-adaptive-cycle-phase.md) — related
-- [An intensive competency-based mastery workshop can be an effective diffusion strategy for statewide curriculum leaders to develop learning systems](competency-workshop-effective-diffusion-strategy.md) — related
+- An intensive competency-based mastery workshop can be an effective diffusion strategy for statewide curriculum leaders to develop learning systems — related
 - [Instructional coaching provides individualized support adapted to teachers' needs and classroom contexts, in contrast to traditional professional development workshops](coaching-individualized-support-versus-workshops.md) — related
 - [Professional learning, broadly defined to include teacher collaboration, coaching, and workshops, was the most important support strategy for instructional change](professional-learning-most-important-support.md) — related

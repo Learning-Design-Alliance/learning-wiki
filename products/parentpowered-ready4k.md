@@ -18,7 +18,7 @@ sources:
 # ParentPowered READY4K!
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 ParentPowered READY4K! is a family text-messaging programme developed and run by ParentPowered that sends age- or grade-tailored early-learning activities and guidance to families.
@@ -28,9 +28,6 @@ ParentPowered READY4K! is a family text-messaging programme developed and run by
 - **ParentPowered READY4K! family text-messaging program**: ParentPowered delivers "three text messages to family members per week for fifty-two weeks," tailored to the student's age or grade and available in more than ten languages. Messages contain age-differentiated insights, activities and learning-expansions aligned to state standards and federal frameworks, covering a whole-child curriculum. Schools can craft local messages and access engagement data, surveys and impact reports through the ParentPowered Dashboard. (ParentPowered READY4K! Evidence Summary (2016))
 
 ### Claims
-- [READY4K! improves teacher-reported parental involvement at school](../claims/ready4k-improves-teacher-reported-involvement.md) [+W]
-- [In kindergarten, READY4K! messages raise literacy scores, with the largest gains in the personalized messaging arm](../claims/ready4k-kindergarten-personalized-messaging-gains.md) [+W]
-- [READY4K! literacy gains are largest for children in the lower half of the baseline skill distribution](../claims/ready4k-largest-gains-lower-baseline-half.md) [+W]
 - [Parent-delivered READY4K! text messages improve preschool children's early literacy performance](../claims/ready4k-texts-improve-preschool-literacy.md) [+W]
 
 ## Related Products and Programmes
@@ -68,9 +65,6 @@ ParentPowered delivers "three text messages to family members per week for fifty
 
 ## Claims
 
-- [READY4K! improves teacher-reported parental involvement at school](../claims/ready4k-improves-teacher-reported-involvement.md) [+W]
-- [In kindergarten, READY4K! messages raise literacy scores, with the largest gains in the personalized messaging arm](../claims/ready4k-kindergarten-personalized-messaging-gains.md) [+W]
-- [READY4K! literacy gains are largest for children in the lower half of the baseline skill distribution](../claims/ready4k-largest-gains-lower-baseline-half.md) [+W]
 - [Parent-delivered READY4K! text messages improve preschool children's early literacy performance](../claims/ready4k-texts-improve-preschool-literacy.md) [+W]
 
 ## Related Elements

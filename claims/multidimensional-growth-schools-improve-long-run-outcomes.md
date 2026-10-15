@@ -50,7 +50,7 @@ The study used administrative records and 5Essentials Survey measures of socioem
 - [The article claims schools can improve attendance, test scores, and graduation rates by identifying high-impact metrics and fostering a collaborative culture of improvement](schools-improve-via-high-impact-metrics-and-collaboration.md) — related
 - [Academic self-efficacy is associated with high school graduation rates and mathematics achievement](self-efficacy-associated-graduation-and-math.md) — related
 - [Students' survey reports of their school experiences predict later academic and well-being outcomes including attendance, grades, test scores, graduation, college enrollment, and well-being](student-experience-survey-reports-predict-school-outcomes.md) — related
-- [Social-emotional value-added measures are nearly as predictive of a high school's impact on test scores as test-score value-added](sel-value-added-predictive-of-test-score-impact.md) — a narrower finding that bears on this claim
+- Social-emotional value-added measures are nearly as predictive of a high school's impact on test scores as test-score value-added — a narrower finding that bears on this claim
 - [Timing of English learner reclassification influences later outcomes such as high school graduation](reclassification-timing-influences-later-outcomes.md) — related
 - [Comprehensive community school interventions show positive impacts on student outcomes including attendance, achievement, graduation, and reduced achievement gaps](community-schools-comprehensive-positive-impact.md) — related
 - [Schools fostering high self-esteem and social and scholastic success reduce the likelihood of emotional and behavioral disturbance](rutter-school-ethos-high-expectations-protective.md) — related

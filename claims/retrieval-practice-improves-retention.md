@@ -127,7 +127,7 @@ The chapter reports Rowland's (2014) meta-analysis as its quantitative synthesis
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does retrieving material (quizzes, practice tests, recall) improve later retention more than restudying it?* This table gathers the studies behind this claim and the 13 narrower claims that bear on it: **12 distinct studies** (5 review, 4 quant-synthesis, 3 causal), `q2`–`q4`, 7 of 12 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does retrieving material (quizzes, practice tests, recall) improve later retention more than restudying it?* This table gathers the studies behind this claim and the 12 narrower claims that bear on it: **11 distinct studies** (4 quant-synthesis, 4 review, 3 causal), `q2`–`q4`, 7 of 11 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -142,7 +142,6 @@ The chapter reports Rowland's (2014) meta-analysis as its quantitative synthesis
 | [motz-result](https://doi.org/10.51388/20.500.12265/234) | q3 · causal · r? | i? | [In a Terracotta study across classes, retrieval practice review outperformed restudy revie](terracotta-retrieval-practice-outperforms-restudy.md) (supports) |
 | [Donoghue & Hattie 2021](https://doi.org/10.3389/feduc.2021.581216) | q3 · quant-synthesis · r? | i2 · medium effect, overall d = 0.56; 0.85 distributed practice, 0.74 practice testing | [Across ten learning techniques, distributed practice and practice testing have the largest](ten-learning-techniques-ranked-distributed-practice-and-practice-testing-highest.md) (supports) |
 | [Carpenter 2022](https://doi.org/10.1038/s44159-022-00089-1) | q2 · review · r? | i? | [Retrieval practice enhances learning across domains and the lifespan in applied educationa](retrieval-practice-enhances-learning-applied-settings.md) (supports) |
-| Digital Promise and the Institute for Applied Neuroscience 2019 | q2 · review · r1 | i? | [Retrieval practice strengthens memory and produces stronger, more enduring learning](retrieval-practice-strengthens-memory.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -252,7 +251,7 @@ Open questions that evidence entries should address include: how retrieval pract
 - [A middle school math teacher replaced rereading with three retrieval-practice strategies after learning that rereading is not effective for long-term retention](retrieval-practice-implementation-case-newell.md) — a narrower finding that bears on this claim
 - [In a Terracotta study across classes, retrieval practice review outperformed restudy review on subsequent exams](terracotta-retrieval-practice-outperforms-restudy.md) — a narrower finding that bears on this claim
 - [After training, d.tech teachers adopted low-stakes practice tests and spaced, interleaved practice in their classrooms](dtech-teachers-adopt-retrieval-interleaving.md) — a narrower finding that bears on this claim
-- [Retrieval practice strengthens memory and produces stronger, more enduring learning](retrieval-practice-strengthens-memory.md) — a broader claim this one bears on
+- Retrieval practice strengthens memory and produces stronger, more enduring learning — a broader claim this one bears on
 - [Spaced and interleaved homework practice improves learning and retention](spaced-interleaved-homework-practice.md) — related
 - [Cognitive overload degrades learning](../claims/cognitive-overload-degrades-learning.md) — a boundary condition: retrieval that exceeds working-memory capacity may not help
 - [Repeated successful retrieval during learning predicted final recall in both experiments](repeated-retrieval-success-predicts-final-recall.md) — related

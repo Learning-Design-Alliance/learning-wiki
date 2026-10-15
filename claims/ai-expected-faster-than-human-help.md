@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: sunny-yu-2026
-    resource: "https://arxiv.org/abs/2605.23177"
-    title: "Sunny Yu, Myra Cheng, Ahmad Jabbar, Ilia Sucholutsky, Katherine M. Collins, Dan Jurafsky, Robert D. Hawkins. (2026). Cognitive offloading and the speedup illusion in human-AI interaction. arXiv. https://arxiv.org/abs/2605.23177"
+    resource: "https://doi.org/10.48550/arxiv.2605.23177"
+    title: "Sunny Yu, Myra Cheng, Ahmad Jabbar, Ilia Sucholutsky, Katherine M. Collins, Dan Jurafsky, Robert D. Hawkins. (2026). Cognitive offloading and the speedup illusion in human-AI interaction. arXiv. https://arxiv.org/abs/2605.23177 [doi:10.48550/arxiv.2605.23177](https://doi.org/10.48550/arxiv.2605.23177)"
     author: Sunny Yu, Myra Cheng, Ahmad Jabbar, Ilia Sucholutsky, Katherine M. Collins, Dan Jurafsky, Robert D. Hawkins
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Sunny Yu 2026
 
-Sunny Yu, Myra Cheng, Ahmad Jabbar, Ilia Sucholutsky, Katherine M. Collins, Dan Jurafsky, Robert D. Hawkins. (2026). Cognitive offloading and the speedup illusion in human-AI interaction. arXiv. https://arxiv.org/abs/2605.23177
+Sunny Yu, Myra Cheng, Ahmad Jabbar, Ilia Sucholutsky, Katherine M. Collins, Dan Jurafsky, Robert D. Hawkins. (2026). Cognitive offloading and the speedup illusion in human-AI interaction. arXiv. https://arxiv.org/abs/2605.23177 [doi:10.48550/arxiv.2605.23177](https://doi.org/10.48550/arxiv.2605.23177)
 
 `q3 · i?` · `causal · r3`
 

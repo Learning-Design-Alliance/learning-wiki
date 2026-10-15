@@ -62,4 +62,4 @@ The report states this finding to explain why segregation is most often between 
 
 
 ## Related Claims
-- [The authors infer the DC voucher program is likely reducing racial segregation in schooling, since 94% of voucher users are African American](dc-voucher-program-likely-reducing-segregation.md) — related
+- The authors infer the DC voucher program is likely reducing racial segregation in schooling, since 94% of voucher users are African American — related

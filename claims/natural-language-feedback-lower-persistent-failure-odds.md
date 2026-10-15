@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: shihao-wang-2026
-    resource: "https://arxiv.org/abs/2609.29874"
-    title: "Shihao Wang. (2026). A Risk-Adaptive and Evidence-Constrained Framework for Generative AI Feedback in Programming Education. https://arxiv.org/abs/2609.29874"
+    resource: "https://doi.org/10.48550/arxiv.2609.29874"
+    title: "Shihao Wang. (2026). A Risk-Adaptive and Evidence-Constrained Framework for Generative AI Feedback in Programming Education. https://arxiv.org/abs/2609.29874 [doi:10.48550/arxiv.2609.29874](https://doi.org/10.48550/arxiv.2609.29874)"
     author: Shihao Wang
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Recorded natural-language feedback was associated with lower odds of subsequent persistent failure than no feedback in the randomized course subset
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Evidence** · 2 studies · 1 causal `r2`, 1 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` After adjustment for task, attempt count, consecutive failures, and edit fraction, the natural-language condition was associated with lower odds of persistent failure than no feedback (odds ratio = 0.234, 95% CI [0.091, 0.602]). [→ Shihao Wang 2026](#shihao-wang-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Shihao Wang 2026
 
-Shihao Wang. (2026). A Risk-Adaptive and Evidence-Constrained Framework for Generative AI Feedback in Programming Education. https://arxiv.org/abs/2609.29874
+Shihao Wang. (2026). A Risk-Adaptive and Evidence-Constrained Framework for Generative AI Feedback in Programming Education. https://arxiv.org/abs/2609.29874 [doi:10.48550/arxiv.2609.29874](https://doi.org/10.48550/arxiv.2609.29874)
 
 `q2 · i?` · `causal · r2`
 

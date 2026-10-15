@@ -45,7 +45,7 @@ Observational finding from the report's five-year study of the 10 Math in Common
 ## Related Claims
 - [Integrating principals into district MiC leadership teams grounded CoP conversations in practice and helped teams interpret school-level achievement data](principals-in-leadership-teams-ground-cop-in-practice.md) — related
 - [Interviewees identified leadership prioritization, staff buy-in, and investments in staffing, training, partnerships, and funding as facilitators of trauma-engaged implementation](leadership-buy-in-investments-facilitate-trauma-engaged-implementation.md) — related
-- [Female principals empowered others through shared ownership, committee involvement, and staff development](female-principals-empower-others-shared-ownership.md) — related
+- Female principals empowered others through shared ownership, committee involvement, and staff development — related
 - [Improvement teams with representation from teachers, principals, and district leadership gained broader buy-in than teams missing any level](cross-level-team-composition-buy-in.md) — related
 - [Availability of CAASPP statewide assessment data changed MiC leadership teams' discussions and appeared to accelerate districts' ability to monitor improvement](caaspp-data-accelerated-improvement-monitoring.md) — related
 - [Selecting a few focal Standards for Mathematical Practice at a time was more productive for teacher PD than studying all SMPs simultaneously](focal-smps-deep-study-more-productive.md) — related

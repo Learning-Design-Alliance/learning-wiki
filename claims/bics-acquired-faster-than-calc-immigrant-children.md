@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 5 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Immigrant children often acquire peer-appropriate conversational fluency in English within about 2 years, but academic catch-up requires considerably longer (5-10 years); Cummins presents this as the typical pattern for immigrant children learning a second language, not an order that holds in every or even most situations. [→ Cummins 1999](#cummins-1999)
@@ -46,5 +47,5 @@ Cummins cites prior research (Collier, 1987; Cummins, 1984) on second language a
 - [Assuming conversational fluency indicates English proficiency has led to bilingual children being misdiagnosed as learning disabled or retarded and to premature exit from support programs](conversational-fluency-misleading-proficiency-indicator.md) — related
 - [BICS and CALP intersect developmentally but are not identical or reducible one to the other](bics-calp-intersect-not-identical.md) — related
 - [The BICS-before-CALP sequence is typical for immigrant children but not universal: high L2 CALP can precede fluent L2 BICS in certain situations](calp-can-precede-bics-in-certain-situations.md) — related
-- [Surface conversational fluency develops within about two years, but academic proficiency in English takes 5-7 years for immigrant students](academic-proficiency-takes-5-7-years.md) — possibly the same claim (merge candidate)
-- [Critics argue Cummins' framework neglects the sociocultural context and CALP may index acculturation rather than cognitive ability](sociocultural-critique-cummins-framework.md) — related
+- Surface conversational fluency develops within about two years, but academic proficiency in English takes 5-7 years for immigrant students — possibly the same claim (merge candidate)
+- Critics argue Cummins' framework neglects the sociocultural context and CALP may index acculturation rather than cognitive ability — related

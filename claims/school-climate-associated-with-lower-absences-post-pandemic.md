@@ -83,7 +83,7 @@ Same models; related measures are teacher-parent trust, parent involvement in sc
 ## Related Claims
 - [Absences remained as strongly related to test scores and GPAs in post-pandemic years as pre-pandemic years](absence-achievement-link-persists-post-pandemic.md) — related
 - [Schools serving similar students from similar neighborhoods had substantially different absence rates, with over half of school variation unexplained by student backgrounds or prior absences](school-absence-variation-net-of-students-neighborhoods.md) — related
-- [Teachers are more likely to stay in schools where parents support their work and where students feel safe and peers behave appropriately](parent-partnerships-and-climate-predict-teacher-staying.md) — related
+- Teachers are more likely to stay in schools where parents support their work and where students feel safe and peers behave appropriately — related
 - [More students were very chronically absent (missing 20% or more of days) and fewer students had strong attendance (under 5%) after the pandemic](very-chronic-absence-up-strong-attendance-down.md) — related
 - [Students' perceptions of their classes and schools matter more for attendance in post-pandemic years than before the pandemic](student-perceptions-attendance-post-pandemic.md) — a broader claim this one bears on
 - [Yearly high school attendance grew up to 3.55 percentage points more in schools with strong 5Essentials Survey measures than in schools with average scores](high-school-attendance-strong-5essentials-measures.md) — related

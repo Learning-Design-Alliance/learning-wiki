@@ -46,13 +46,14 @@ Spanjers, I. A. E., Wouters, P., van Gog, T., & van Merriënboer, J. J. G. (2011
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*For whom: does the benefit depend on prior knowledge or learner characteristics?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **3 distinct studies** (2 causal, 1 quant-synthesis), `q3`, 1 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*For whom: does the benefit depend on prior knowledge or learner characteristics?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **4 distinct studies** (3 causal, 1 quant-synthesis), `q3`, 2 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Spanjers et al. 2011](https://doi.org/10.1016/j.chb.2010.05.011) | q3 · causal · r? | i? | this claim |
 | [Rey 2019](https://doi.org/10.1007/s10648-018-9456-4) | q3 · quant-synthesis · r? | i? | [Learners with high prior knowledge benefit more from segmenting in retention performance t](prior-knowledge-moderates-segmenting-retention.md) (counts against) |
-| Veronica Pimenova 2026 | q3 · causal · r1 | i3; i? | [Segmentation reduces errors and hesitations for participants with and without ADHD, with l](segmentation-benefit-larger-for-adhd-group.md) (qualifies); [ADHD medication status shows no significant interaction with segmentation, though medicate](medication-status-segmentation-interaction-null.md) (qualifies) |
+| [Veronica Pimenova 2026](https://doi.org/10.48550/arxiv.2607.24612) | q3 · causal · r1 | i3; i? | [Segmentation reduces errors and hesitations for participants with and without ADHD, with l](segmentation-benefit-larger-for-adhd-group.md) (qualifies); [ADHD medication status shows no significant interaction with segmentation, though medicate](medication-status-segmentation-interaction-null.md) (qualifies) |
+| Veronica Pimenova 2026 (2) | q3 · causal · r2 | i3 | [Segmentation reduces errors and hesitations for participants with and without ADHD, with l](segmentation-benefit-larger-for-adhd-group.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -88,7 +89,7 @@ Spanjers, I. A. E., Wouters, P., van Gog, T., & van Merriënboer, J. J. G. (2011
 - [Segmentation reduces overall cognitive load during multimedia learning](segmenting-reduces-cognitive-load.md) — related
 - [Design principle effects are larger in system-paced and in complex media, and learner prior knowledge was not a significant moderator (p = 0.14)](design-principle-effects-moderated-by-pacing-and-complexity.md) — reports the opposite
 - [In one meta-regression, the PS-I fidelity benefit tended to shrink for interventions spanning only a few hours, a marginal interaction (p = .055)](psi-fidelity-time-span-interaction.md) — related
-- [Experiment 5 showed superior performance for learners who had previously studied isolated elements followed by interacting elements instruction, supporting expertise as the key factor in the technique's benefits](experiment5-expertise-factor-isolated-interacting-benefit.md) — related
+- Experiment 5 showed superior performance for learners who had previously studied isolated elements followed by interacting elements instruction, supporting expertise as the key factor in the technique's benefits — related
 - [Segmentation of dynamic visualizations shows an expertise reversal effect: students with lower prior knowledge benefit, while students with higher prior knowledge learn equally well with or without segmentation](segmentation-expertise-reversal-dynamic-visualizations.md) — possibly the same claim (merge candidate)
 - [Segmenting complex dynamic visualizations into pieces with pauses improves learning outcomes, especially transfer performance, compared with non-segmented presentations](segmentation-improves-learning-dynamic-visualizations.md) — related
 - [Video benefits learning only when its interactivity matches or exceeds the comparison condition](video-benefit-depends-on-relative-interactivity.md) — related

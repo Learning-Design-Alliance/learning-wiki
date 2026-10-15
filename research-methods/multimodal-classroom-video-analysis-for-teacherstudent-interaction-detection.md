@@ -17,7 +17,7 @@ sources:
 # Multimodal classroom-video analysis for teacher–student interaction detection
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 A computational pipeline combining three modalities from high school mathematics classroom videos: OpenPose pose estimation with Euclidean-distance tracking postprocessing and group boundary boxes, openSMILE eGeMAPS acoustic/prosodic features (88 features), and WhisperX word-level transcripts aligned to detected windows. A pose-based heuristic flags teacher–group interactions using vertical dominance and proximity with 10-second smoothing and a 10-second minimum episode length. An on-premises Mistral large language model classified transcript snippets for question-asking, confusion, need for help, and math talk.
@@ -27,12 +27,6 @@ A computational pipeline combining three modalities from high school mathematics
 - **Multimodal pipeline for detecting and analyzing teacher–student group interactions in classroom video**: A computational pipeline combining three modalities from high school mathematics classroom videos: OpenPose pose estimation with Euclidean-distance tracking postprocessing and group boundary boxes, openSMILE eGeMAPS acoustic/prosodic features (88 features), and WhisperX word-level transcripts aligned to detected windows. A pose-based heuristic flags teacher–group interactions using vertical dominance and proximity with 10-second smoothing and a 10-second minimum episode length. An on-premises Mistral large language model classified transcript snippets for question-asking, confusion, need for help, and math talk. (Hur et al. (2026))
 
 ### Claims
-- [Computer-led exploration set the decision boundary for what counted as an interaction, shaping which events became detectable and how interpretation proceeded](../claims/computer-led-exploration-shaped-detectable-events.md) [+W]
-- [LLM-detected confusion in student dialogue decreased after teacher–group interactions (β = −0.061, p = .049)](../claims/confusion-decreased-after-interactions.md) [+W]
-- [Ground-truth validation found the detector identified 55% of human-coded interactions, with misses driven by visual constraints such as teachers outside boundary boxes or obscured](../claims/detector-recall-55-percent-visual-constraints.md) [~W]
-- [The pose-based detector surfaced 317 teacher–group interaction events across 21 student groups, averaging 15.10 events per group with mean duration 32.73 seconds](../claims/detector-surfaced-317-interaction-events.md) [+W]
-- [Qualitative coding of detected clips found students most often gazed at task materials (47.6%), overt help-seeking was nearly absent (1.6%), and the teacher was present in 49.2% of segments](../claims/gaze-coding-detected-clips.md) [+W]
-- [Mixed-effects models showed significant shifts in pose keypoints emphasized by the detector before-to-during and before-to-after interactions, while no audio features changed significantly](../claims/keypoint-shifts-significant-audio-null.md) [+W]
 
 ## Related Research Methods
 -
@@ -69,12 +63,6 @@ A computational pipeline combining three modalities from high school mathematics
 
 ## Claims
 
-- [Computer-led exploration set the decision boundary for what counted as an interaction, shaping which events became detectable and how interpretation proceeded](../claims/computer-led-exploration-shaped-detectable-events.md) [+W]
-- [LLM-detected confusion in student dialogue decreased after teacher–group interactions (β = −0.061, p = .049)](../claims/confusion-decreased-after-interactions.md) [+W]
-- [Ground-truth validation found the detector identified 55% of human-coded interactions, with misses driven by visual constraints such as teachers outside boundary boxes or obscured](../claims/detector-recall-55-percent-visual-constraints.md) [~W]
-- [The pose-based detector surfaced 317 teacher–group interaction events across 21 student groups, averaging 15.10 events per group with mean duration 32.73 seconds](../claims/detector-surfaced-317-interaction-events.md) [+W]
-- [Qualitative coding of detected clips found students most often gazed at task materials (47.6%), overt help-seeking was nearly absent (1.6%), and the teacher was present in 49.2% of segments](../claims/gaze-coding-detected-clips.md) [+W]
-- [Mixed-effects models showed significant shifts in pose keypoints emphasized by the detector before-to-during and before-to-after interactions, while no audio features changed significantly](../claims/keypoint-shifts-significant-audio-null.md) [+W]
 
 ## Related Elements
 - 

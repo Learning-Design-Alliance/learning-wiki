@@ -22,7 +22,7 @@ sources:
 # STEMscopes
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (5 for) · 2 studies (2 causal), `q2` · 2 of 2 report an effect size · 5 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 STEMscopes is a comprehensive digital and print K–12 science curriculum with hands-on materials, interactive investigations, and embedded assessments, developed and provided by Accelerate Learning, Inc.
@@ -34,10 +34,6 @@ STEMscopes is a comprehensive digital and print K–12 science curriculum with h
 
 ### Claims
 - [A smaller student subset showed a similar STEMscopes advantage on the NWEA MAP Growth science assessment (effect size +0.17)](../claims/stemscopes-nwea-map-similar-result.md) [+W]
-- [Grade 5 students using STEMscopes significantly outperformed comparison students on STAAR Science (effect size +0.17), though the school-level difference was not significant](../claims/stemscopes-staar-grade5-outperformed-es-017.md) [+W]
-- [A significantly higher percentage of STEMscopes Math students met or exceeded grade-level benchmarks (77% vs. 69%)](../claims/stemscopes-math-benchmark-percentage.md) [+W]
-- [STEMscopes Math students scored significantly higher on STAAR Math than comparison students in a Texas quasi-experiment (effect size +0.19)](../claims/stemscopes-math-staar-positive-quasi-experiment.md) [+W]
-- [Positive STEMscopes Math effects were found for Economically Disadvantaged (+0.51), Hispanic (+0.35) and Black (+0.74) students](../claims/stemscopes-math-subgroup-effects.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -74,7 +70,6 @@ STEMscopes is a comprehensive digital science curriculum for elementary science 
 ## Claims
 
 - [A smaller student subset showed a similar STEMscopes advantage on the NWEA MAP Growth science assessment (effect size +0.17)](../claims/stemscopes-nwea-map-similar-result.md) [+W]
-- [Grade 5 students using STEMscopes significantly outperformed comparison students on STAAR Science (effect size +0.17), though the school-level difference was not significant](../claims/stemscopes-staar-grade5-outperformed-es-017.md) [+W]
 
 ## Related Elements
 
@@ -117,9 +112,6 @@ STEMscopes Math is "a comprehensive, standards-aligned core mathematics curricul
 
 ## Claims
 
-- [A significantly higher percentage of STEMscopes Math students met or exceeded grade-level benchmarks (77% vs. 69%)](../claims/stemscopes-math-benchmark-percentage.md) [+W]
-- [STEMscopes Math students scored significantly higher on STAAR Math than comparison students in a Texas quasi-experiment (effect size +0.19)](../claims/stemscopes-math-staar-positive-quasi-experiment.md) [+W]
-- [Positive STEMscopes Math effects were found for Economically Disadvantaged (+0.51), Hispanic (+0.35) and Black (+0.74) students](../claims/stemscopes-math-subgroup-effects.md) [+W]
 
 ## Related Elements
 

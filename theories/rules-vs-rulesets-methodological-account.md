@@ -16,7 +16,7 @@ sources:
 # Rules-versus-rulesets methodological account: rulesets answer exploratory sequential questions while regression answers average unique-impact questions
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 This account distinguishes what rule induction methods can and cannot answer relative to regression. Ruleset induction "is better suited for modeling rather than identifying specific rules" because rules lose relational meaning outside their ruleset context, whereas association rule mining conducts an exhaustive search producing rules independent of the algorithm and other rules. Ruleset induction answers an exploratory, sequential question about which sets of characteristics characterize each outcome level, while regression answers how much unique impact each independent variable has assuming equal impact across individuals. The author used this account to position the methods as complements rather than substitutes.
@@ -38,11 +38,6 @@ This account distinguishes what rule induction methods can and cannot answer rel
 
 ### Claims
 
-- [Rule Induction Subgroup Specific Relationships](../claims/rule-induction-subgroup-specific-relationships.md) [+M]
-- [Rulesets At A Glance Sample Description](../claims/rulesets-at-a-glance-sample-description.md) [+M]
-- [Rule induction models achieved comparable or slightly worse predictive accuracy than regression in re-analyses of two NELS:88 studies](../claims/rule-induction-accuracy-comparable-or-worse-than-regression.md) [+W]
-- [Rule induction identifies useful cut-points of continuous predictors and groupings of nominal predictors, and surfaces outcome-related variables omitted from regression models](../claims/rule-induction-cutpoints-and-omitted-variables.md) [+W]
-- [Of 213 rules induced in Study 1, 16 appeared to add information beyond regression in the training set but 5 seemed to be false alarms on the test set](../claims/study1-rules-additional-information-and-false-alarms.md) [+W]
 
 ## Related Theories
 - 

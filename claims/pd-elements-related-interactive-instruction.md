@@ -46,7 +46,7 @@ Cross-sectional analysis of the 1997 and 1999 citywide teacher surveys (13,000 t
 
 ## Related Claims
 - [Professional development frequency shows no significant relationship to didactic teaching, while quality and basic-skills content do](pd-frequency-null-didactic-quality-content-positive.md) — related
-- [In Chicago middle grades, schools with more extensive CCSS-M professional learning showed significantly greater post-implementation improvements in instructional practices, math grades, pass rates, and test scores](ccssm-professional-learning-greater-improvements-chicago-middle-grades.md) — related
+- In Chicago middle grades, schools with more extensive CCSS-M professional learning showed significantly greater post-implementation improvements in instructional practices, math grades, pass rates, and test scores — related
 - [Student reports of standards-aligned instructional practices improved more in Chicago middle-grade schools with more extensive CCSS-M professional learning](standards-aligned-practice-reports-improved-with-pl.md) — related
 - [Interactive instruction is positively associated with one-year achievement gains in reading and mathematics in Chicago elementary schools](interactive-instruction-positive-achievement-gains-chicago.md) — related
 - [Higher quality professional development in 1997 predicts increases in school orientation toward innovation from 1997 to 1999](pd-quality-predicts-innovation-growth.md) — related

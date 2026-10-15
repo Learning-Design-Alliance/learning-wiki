@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 7 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Induction and errorful learning take on differential usefulness depending on whether the target is response precision, simple associations, concepts, rules and principles, or higher-order strategies. [→ Glaser 1966](#glaser-1966)
@@ -43,6 +44,6 @@ A conceptual analysis: response precision and associations appear not to require
 
 
 ## Related Claims
-- [Retention differs by type of knowledge tested, with concepts and rules retained best and problem solving worst](retention-varies-by-knowledge-type.md) — related
+- Retention differs by type of knowledge tested, with concepts and rules retained best and problem solving worst — related
 - [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](interleaving-improves-inductive-learning.md) — related
 - [Majorities of students believed inductive instruction more effective for simple structures and, conversely, for difficult structures](student-beliefs-inductive-effectiveness-structure-complexity.md) — a narrower finding that bears on this claim

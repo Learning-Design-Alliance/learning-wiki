@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: giulia-boaa-2025
-    resource: "https://github.com/CodeCruncher63/ISCR2025"
-    title: "Giulia Boaa, Marco Boaa, Cristina Gena, Alessandro Mazzei, Massimo Donini, and Alberto Lillo. (2025). Using the Pepper Robot to Support Sign Language Communication. https://github.com/CodeCruncher63/ISCR2025"
+    resource: "https://doi.org/10.1007/978-981-95-2382-5_8"
+    title: "Giulia Boaa, Marco Boaa, Cristina Gena, Alessandro Mazzei, Massimo Donini, and Alberto Lillo. (2025). Using the Pepper Robot to Support Sign Language Communication. https://github.com/CodeCruncher63/ISCR2025 [doi:10.1007/978-981-95-2382-5_8](https://doi.org/10.1007/978-981-95-2382-5_8)"
     author: Giulia Boaa, Marco Boaa, Cristina Gena, Alessandro Mazzei, Massimo Donini, and Alberto Lillo
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # A MATLAB inverse-kinematics pipeline automated generation of 38 of 52 LIS signs on Pepper and cut authoring time from 45–60 to under 10 minutes per sign
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r3` · `q2`
+> **Evidence** · 2 studies · 2 design `r3` · `q2`
 
 ## Subclaims
 `q2 i?` The semi-automated pipeline successfully generated 38 of the 52 manually implemented signs (73%); ten failed due to asymmetric or body-involving movements and four due to kinematic infeasibility or solver instability. [→ Giulia Boaa 2025](#giulia-boaa-2025)
@@ -40,7 +40,7 @@ sources:
 
 ### Giulia Boaa 2025
 
-Giulia Boaa, Marco Boaa, Cristina Gena, Alessandro Mazzei, Massimo Donini, and Alberto Lillo. (2025). Using the Pepper Robot to Support Sign Language Communication. https://github.com/CodeCruncher63/ISCR2025
+Giulia Boaa, Marco Boaa, Cristina Gena, Alessandro Mazzei, Massimo Donini, and Alberto Lillo. (2025). Using the Pepper Robot to Support Sign Language Communication. https://github.com/CodeCruncher63/ISCR2025 [doi:10.1007/978-981-95-2382-5_8](https://doi.org/10.1007/978-981-95-2382-5_8)
 
 `q2 · i?` · `design · r3`
 

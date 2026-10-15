@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: luke-2017
-    resource: "https://digitalpromise.dspacedirect.org/items/383e02ba-587a-4192-be68-175543798661"
-    title: "Luke, Christina C.; Gibson, Sierra; Francisco, Aubrey T. (2017). Rapid Cycle Pilots: Using Edtech to Support English Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/383e02ba-587a-4192-be68-175543798661"
+    resource: "https://doi.org/10.51388/20.500.12265/26"
+    title: "Luke, Christina C.; Gibson, Sierra; Francisco, Aubrey T. (2017). Rapid Cycle Pilots: Using Edtech to Support English Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/383e02ba-587a-4192-be68-175543798661 [doi:10.51388/20.500.12265/26](https://doi.org/10.51388/20.500.12265/26)"
     author: Luke, Christina C.; Gibson, Sierra; Francisco, Aubrey T.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Luke 2017
 
-Luke, Christina C.; Gibson, Sierra; Francisco, Aubrey T. (2017). Rapid Cycle Pilots: Using Edtech to Support English Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/383e02ba-587a-4192-be68-175543798661
+Luke, Christina C.; Gibson, Sierra; Francisco, Aubrey T. (2017). Rapid Cycle Pilots: Using Edtech to Support English Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/383e02ba-587a-4192-be68-175543798661 [doi:10.51388/20.500.12265/26](https://doi.org/10.51388/20.500.12265/26)
 
 `q2 · i?` · `design · r2`
 

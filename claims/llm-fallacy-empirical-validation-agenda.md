@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: hyunwoo-kim-2026
-    resource: "https://arxiv.org/abs/2604.14807"
-    title: "Hyunwoo Kim, Harin Yu, Hanau Yi. (2026). The LLM Fallacy: Misattribution in AI-Assisted Cognitive Workflows. https://arxiv.org/abs/2604.14807"
+    resource: "https://doi.org/10.48550/arxiv.2604.14807"
+    title: "Hyunwoo Kim, Harin Yu, Hanau Yi. (2026). The LLM Fallacy: Misattribution in AI-Assisted Cognitive Workflows. https://arxiv.org/abs/2604.14807 [doi:10.48550/arxiv.2604.14807](https://doi.org/10.48550/arxiv.2604.14807)"
     author: Hyunwoo Kim, Harin Yu, Hanau Yi
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Hyunwoo Kim 2026
 
-Hyunwoo Kim, Harin Yu, Hanau Yi. (2026). The LLM Fallacy: Misattribution in AI-Assisted Cognitive Workflows. https://arxiv.org/abs/2604.14807
+Hyunwoo Kim, Harin Yu, Hanau Yi. (2026). The LLM Fallacy: Misattribution in AI-Assisted Cognitive Workflows. https://arxiv.org/abs/2604.14807 [doi:10.48550/arxiv.2604.14807](https://doi.org/10.48550/arxiv.2604.14807)
 
 `q1 · i?` · `theoretical · r2`
 
@@ -45,4 +45,4 @@ Future-work section proposing measurement frameworks for the LLM fallacy, includ
 ## Related Claims
 - [The article claims LLM-assisted workflows weaken the validity of output-based evaluation in hiring, education, and certification](output-based-evaluation-misaligned-llm-assistance.md) — related
 - [The decisive empirical test of AI-augmented instruction frameworks is whether students retain representational competence when AI support is withdrawn](withdrawal-condition-ai-instruction-frameworks.md) — related
-- [genAI-supported work can improve while the constructive processing underlying durable expertise erodes (the performance–metacognition dilemma)](performance-metacognition-dilemma-genai.md) — related
+- genAI-supported work can improve while the constructive processing underlying durable expertise erodes (the performance–metacognition dilemma) — related

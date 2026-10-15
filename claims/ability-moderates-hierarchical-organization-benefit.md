@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`–`q3`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 4 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q3 i?` Among low-ability subjects in Experiment 1 there was no significant difference between any treatment means; among medium-ability subjects the H treatment significantly exceeded the combined S1 and S2 mean. [→ Eylon 1979](#eylon-1979)

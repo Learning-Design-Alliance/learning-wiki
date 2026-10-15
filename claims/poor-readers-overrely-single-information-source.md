@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Remedial readers with a deficit in one source (e.g., phonics) shift away from that source and overrely on their strength, which initially works but becomes a weakness as texts grow unfamiliar. [→ Walker 1989](#walker-1989)

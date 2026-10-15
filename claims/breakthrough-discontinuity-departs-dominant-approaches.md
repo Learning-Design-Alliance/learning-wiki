@@ -44,7 +44,7 @@ Conceptual field note defining the discontinuity factor, drawing on research on 
 
 ## Related Claims
 - [Generativity: breakthroughs enable follow-on innovations, adaptation, and scaling through recombination](breakthrough-generativity-new-opportunity-spaces.md) — related
-- [Colonization-introduced formal education creates greater discontinuities with informal education than evolved systems](colonization-widens-formal-informal-education-discontinuities.md) — related
+- Colonization-introduced formal education creates greater discontinuities with informal education than evolved systems — related
 - [Expanded participation and new forms of evidence: breakthroughs reach previously excluded populations and may require new metrics](breakthrough-expanded-participation-new-evidence-forms.md) — related
 - [Substantial improvement in outcomes: breakthroughs change learning or life trajectories rather than improving incrementally](breakthrough-substantial-outcome-improvement-trajectories.md) — related
 - [System reconfiguration: breakthroughs reshape relationships among actors, capabilities, and institutional routines](breakthrough-system-reconfiguration-actors-routines.md) — related

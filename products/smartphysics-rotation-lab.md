@@ -13,7 +13,7 @@ generated:
 # SmartPhysics: Rotation Lab
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 A self-contained, AI-generated browser application developed by Josep Ll. Suñer et al. that uses mobile-device motion sensors to measure, visualize, and export rotational-kinematics data for introductory physics learning.
@@ -24,10 +24,6 @@ A self-contained, AI-generated browser application developed by Josep Ll. Suñer
 
 ### Claims
 
-- [In uniform circular motion, smartphone orientation-API and gyroscope measurements of angular velocity agree with each other within 0.1% and with independent Tracker video analysis within 0.5%](../claims/ucm-smartphone-channels-agree-within-0-5-percent.md) [+M]
-- [In uniformly accelerated circular motion, angular acceleration determinations from the orientation API, the gyroscope, and Tracker video analysis agree with a maximum discrepancy below 1%](../claims/uacm-angular-acceleration-three-methods-below-1-percent.md) [+M]
-- [Gyroscope-based angular velocity measurements are robust to slight off-center smartphone placement on the rotating platform because they depend on rotation rate about the z-axis rather than spatial position](../claims/gyroscope-robust-to-off-center-placement.md) [+W]
-- [The smartphone records verify the rotational kinematic equations: constant angular velocity yields linear angular position in UCM, and constant angular acceleration yields linear angular velocity and quadratic angular position in UACM](../claims/smartphone-records-verify-rotational-kinematic-equations.md) [+W]
 
 ## Related Products and Programmes
 -

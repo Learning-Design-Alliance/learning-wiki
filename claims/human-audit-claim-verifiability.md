@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: dana-rezazadegan-2026
-    resource: "https://arxiv.org/abs/2606.27619"
-    title: "Dana Rezazadegan, Atie Kia, Phongpadid Nandavong, Dominique Carlon, Jeremy Nguyen, Abhik Banerjee, James Marshall, Anthony McCosker, Yong-Bin Kang. (2026). DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners' Insights from Online Forums. https://arxiv.org/abs/2606.27619"
+    resource: "https://doi.org/10.48550/arxiv.2606.27619"
+    title: "Dana Rezazadegan, Atie Kia, Phongpadid Nandavong, Dominique Carlon, Jeremy Nguyen, Abhik Banerjee, James Marshall, Anthony McCosker, Yong-Bin Kang. (2026). DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners' Insights from Online Forums. https://arxiv.org/abs/2606.27619 [doi:10.48550/arxiv.2606.27619](https://doi.org/10.48550/arxiv.2606.27619)"
     author: Dana Rezazadegan, Atie Kia, Phongpadid Nandavong, Dominique Carlon, Jeremy Nguyen, Abhik Banerjee, James Marshall, Anthony McCosker, Yong-Bin Kang
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Of 100 human-audited claims, 39 are fully verifiable, 55 partially verifiable, and 6 not verifiable, with main responses showing stronger provenance than follow-ups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Human assessors verified 39 of 100 claims fully, 55 partially, and 6 not at all due to missing citation or source evidence. [→ Dana Rezazadegan 2026](#dana-rezazadegan-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Dana Rezazadegan 2026
 
-Dana Rezazadegan, Atie Kia, Phongpadid Nandavong, Dominique Carlon, Jeremy Nguyen, Abhik Banerjee, James Marshall, Anthony McCosker, Yong-Bin Kang. (2026). DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners' Insights from Online Forums. https://arxiv.org/abs/2606.27619
+Dana Rezazadegan, Atie Kia, Phongpadid Nandavong, Dominique Carlon, Jeremy Nguyen, Abhik Banerjee, James Marshall, Anthony McCosker, Yong-Bin Kang. (2026). DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners' Insights from Online Forums. https://arxiv.org/abs/2606.27619 [doi:10.48550/arxiv.2606.27619](https://doi.org/10.48550/arxiv.2606.27619)
 
 `q2 · i?` · `design · r2`
 

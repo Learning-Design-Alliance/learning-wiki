@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: jianxiao-jiang-2025
-    resource: "https://arxiv.org/abs/2510.09183"
-    title: "Jianxiao Jiang, Yu Zhang. (2025). Student Development Agent: Risk-free Simulation for Evaluating AIED Innovations. Preprint. https://arxiv.org/abs/2510.09183"
+    resource: "https://doi.org/10.48550/arxiv.2510.09183"
+    title: "Jianxiao Jiang, Yu Zhang. (2025). Student Development Agent: Risk-free Simulation for Evaluating AIED Innovations. Preprint. https://arxiv.org/abs/2510.09183 [doi:10.48550/arxiv.2510.09183](https://doi.org/10.48550/arxiv.2510.09183)"
     author: Jianxiao Jiang, Yu Zhang
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Jianxiao Jiang 2025
 
-Jianxiao Jiang, Yu Zhang. (2025). Student Development Agent: Risk-free Simulation for Evaluating AIED Innovations. Preprint. https://arxiv.org/abs/2510.09183
+Jianxiao Jiang, Yu Zhang. (2025). Student Development Agent: Risk-free Simulation for Evaluating AIED Innovations. Preprint. https://arxiv.org/abs/2510.09183 [doi:10.48550/arxiv.2510.09183](https://doi.org/10.48550/arxiv.2510.09183)
 
 `q2 · i?` · `design · r2`
 
@@ -44,7 +44,7 @@ An expert-informed card-sorting evaluation with two education experts assessed t
 
 ## Related Claims
 - [The framework shows high scoring consistency, with 79% agreement and 81% inter-rater reliability on physics questions](framework-scoring-high-consistency-physics.md) — related
-- [The Reflective Judgment Model coding rubric achieves high inter-rater reliability (alpha .93) when applied to teacher educators' interview narratives](rjm-high-interrater-reliability-teacher-educators.md) — related
+- The Reflective Judgment Model coding rubric achieves high inter-rater reliability (alpha .93) when applied to teacher educators' interview narratives — related
 - [Trained scorers applied the historical thinking skills rubrics with good overall inter-rater consistency](hts-rubrics-good-inter-rater-consistency.md) — related
 - [Three independent expert instructors reached exceptionally high inter-rater reliability when grading 1200 bash exam responses, establishing a reliable human reference standard](expert-triad-high-inter-rater-reliability-bash-grading.md) — related
 - [Making trustworthiness metrics and visualizations explicit increased inter-rater reliability among learning engineers evaluating LLM responses](trustworthiness-metrics-visualizations-increase-expert-agreement.md) — related

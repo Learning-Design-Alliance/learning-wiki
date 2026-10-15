@@ -43,4 +43,4 @@ Theoretical argument in the article's background and motivation section, reviewi
 
 
 ## Related Claims
-- [Learning analytics and EDM researchers raise practical concerns: impoverished ontologies, easy-to-collect data bias, interdisciplinary demands, and negative consequences for students](edm-learning-analytics-practice-concerns.md) — related
+- Learning analytics and EDM researchers raise practical concerns: impoverished ontologies, easy-to-collect data bias, interdisciplinary demands, and negative consequences for students — related

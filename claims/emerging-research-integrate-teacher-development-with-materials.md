@@ -44,4 +44,4 @@ The publication's introductory framing states the state of the evidence: it says
 
 ## Related Claims
 - [For novel material (impulse-momentum theorem), no statistical difference emerges among group-based styles with verbal TA interaction; the tutorial material itself dominates](novel-material-instructor-support-less-important.md) — related
-- [After the IDEAS academy, both studied teachers' classrooms moved toward more student-centered methods, with inquiry and collaborative learning emerging](academy-shift-toward-student-centered-methods.md) — related
+- After the IDEAS academy, both studied teachers' classrooms moved toward more student-centered methods, with inquiry and collaborative learning emerging — related

@@ -63,6 +63,6 @@ The synthesis reports, citing the same global faculty survey, that "Preferences 
 
 ## Related Claims
 - [Institutional GenAI guidance is more pro-use than computing course syllabus policies, where 92% of syllabi set explicit permissions and half prohibit use outright](institutional-pro-use-course-guarded-genai-policies.md) — related
-- [Australian university policy environments yield mostly restrictive or indeterminate GenAI classifications, with no combination clearly permitted](genai-policy-vignettes-mostly-restrictive-indeterminate.md) — related
+- Australian university policy environments yield mostly restrictive or indeterminate GenAI classifications, with no combination clearly permitted — related
 - [Institutions diverge in default GenAI permission stances, ranging from unauthorized-unless-authorized to program-level carve-outs where instructors may not ban AI use](genai-default-permission-stance-divergence.md) — related
 - [Universities converge on disclosure and attribution expectations as the condition distinguishing legitimate AI assistance from misrepresentation](genai-disclosure-attribution-convergence.md) — related

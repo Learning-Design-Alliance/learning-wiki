@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: danae-kamdar-2025
-    resource: "https://digitalpromise.dspacedirect.org/items/f37dc670-36a6-4f6e-a6c4-bf312be4fac0"
-    title: "Danae Kamdar, Tiffany Leones, Amanda LaTasha Armstrong, Shelton Daal & Ximena Dominguez. (2025). Unlocking the Potential of Technology Innovations: A Vision for Supporting Multilingual Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/f37dc670-36a6-4f6e-a6c4-bf312be4fac0"
+    resource: "https://doi.org/10.51388/20.500.12265/260"
+    title: "Danae Kamdar, Tiffany Leones, Amanda LaTasha Armstrong, Shelton Daal & Ximena Dominguez. (2025). Unlocking the Potential of Technology Innovations: A Vision for Supporting Multilingual Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/f37dc670-36a6-4f6e-a6c4-bf312be4fac0 [doi:10.51388/20.500.12265/260](https://doi.org/10.51388/20.500.12265/260)"
     author: "Danae Kamdar, Tiffany Leones, Amanda LaTasha Armstrong, Shelton Daal & Ximena Dominguez"
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Danae Kamdar 2025
 
-Danae Kamdar, Tiffany Leones, Amanda LaTasha Armstrong, Shelton Daal & Ximena Dominguez. (2025). Unlocking the Potential of Technology Innovations: A Vision for Supporting Multilingual Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/f37dc670-36a6-4f6e-a6c4-bf312be4fac0
+Danae Kamdar, Tiffany Leones, Amanda LaTasha Armstrong, Shelton Daal & Ximena Dominguez. (2025). Unlocking the Potential of Technology Innovations: A Vision for Supporting Multilingual Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/f37dc670-36a6-4f6e-a6c4-bf312be4fac0 [doi:10.51388/20.500.12265/260](https://doi.org/10.51388/20.500.12265/260)
 
 `q2 · i?` · `review · r2`
 
@@ -43,7 +43,7 @@ Quantitative analysis of the deep dive review's 33 articles, coded by four resea
 
 
 ## Related Claims
-- [Research on educational technology commonly finds no difference in learner outcomes between schools that use or do not use a technology](edtech-research-often-no-outcome-difference.md) — related
+- Research on educational technology commonly finds no difference in learner outcomes between schools that use or do not use a technology — related
 - [Only a minority of studies systematically evaluated features designed for multilingual learners](mll-edtech-features-rarely-systematically-evaluated.md) — related
 - [Research on technology for young multilingual learners concentrates on literacy, with few studies in science, mathematics, or social studies](mll-edtech-research-literacy-dominant.md) — related
 - [Edtech designers rarely make explicit design for multilingual learners central, favoring general universal design](mll-explicit-design-less-prominent-than-universal-design.md) — related

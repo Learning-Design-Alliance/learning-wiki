@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: léonard-boussioux-2026
-    resource: "https://arxiv.org/abs/2609.38183"
-    title: "Léonard Boussioux*, Ziyi Zhao*, and Kanghyun Cho*. (2026). One Tool, One Taste? How Vibe Coding Trades Collective Diversity for Individual Creativity. arXiv. https://arxiv.org/abs/2609.38183"
+    resource: "https://doi.org/10.48550/arxiv.2609.38183"
+    title: "Léonard Boussioux*, Ziyi Zhao*, and Kanghyun Cho*. (2026). One Tool, One Taste? How Vibe Coding Trades Collective Diversity for Individual Creativity. arXiv. https://arxiv.org/abs/2609.38183 [doi:10.48550/arxiv.2609.38183](https://doi.org/10.48550/arxiv.2609.38183)"
     author: "Léonard Boussioux*, Ziyi Zhao*, and Kanghyun Cho*"
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Chat-driven vibe-coding builders converge on a single generate-and-check script whose dominant time cost is dead waiting for the tool
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
+> **Evidence** · 2 studies · 2 associational `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` All seven chat-driven builders' sessions match the canonical generate-and-check loop more often than a shuffled within-person null (conformance 0.21–0.80; z = +2.8 to +6.2), and the strongest recurring motif appears about 1.89 times more often than a first-order Markov null predicts. [→ Léonard Boussioux* 2026](#leonard-boussioux-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Léonard Boussioux* 2026
 
-Léonard Boussioux*, Ziyi Zhao*, and Kanghyun Cho*. (2026). One Tool, One Taste? How Vibe Coding Trades Collective Diversity for Individual Creativity. arXiv. https://arxiv.org/abs/2609.38183
+Léonard Boussioux*, Ziyi Zhao*, and Kanghyun Cho*. (2026). One Tool, One Taste? How Vibe Coding Trades Collective Diversity for Individual Creativity. arXiv. https://arxiv.org/abs/2609.38183 [doi:10.48550/arxiv.2609.38183](https://doi.org/10.48550/arxiv.2609.38183)
 
 `q2 · i?` · `associational · r2`
 
@@ -67,4 +67,4 @@ Waiting-economics decomposition of generation intervals across the recorded sess
 - [Vibe-coded websites built for 73 distinct businesses converge into roughly a dozen recurring visual designs despite an explicit originality incentive](vibe-coding-cohort-visual-concentration.md) — related
 - [Low comment rewriting does not imply a smooth process: students describe the main effort as verifying generated code rather than revising prompts](verification-burden-shifts-work-from-rewriting-to-reviewing.md) — related
 - [A substantial share of builders' voiced design intentions never reaches the typed prompt, leaving design choices to the production stack's defaults](translation-loss-voiced-intents-dropped.md) — related
-- [Verbal acceptance with residual doubt from the intuitive-error agent signalled convergence: it occurred in seven of eight sessions, and all seven of those converged](residual-doubt-marker-signals-convergence.md) — related
+- Verbal acceptance with residual doubt from the intuitive-error agent signalled convergence: it occurred in seven of eight sessions, and all seven of those converged — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: jifan-yu-2024
-    resource: "https://arxiv.org/abs/2409.03512"
-    title: "Jifan Yu, Zheyuan Zhang, Daniel Zhang-li, Shangqing Tu, Zhanxin Hao, Ruimiao Li, Haoxuan Li, Yuanchun Wang, Hanming Li, Linlu Gong, Jie Cao, Jiayin Lin, Jinchang Zhou, Fei Qin, Haohua Wang, Jianxiao Jiang, Lijun Deng, Yisi Zhan, Chaojun Xiao, Xusheng Dai, Xuan Yan, Nianyi Lin, Nan Zhang, Ruixin Ni, Yang Dang, Lei Hou, Yu Zhang, Xu Han, Manli Li, Juanzi Li, Zhiyuan Liu, Huiqin Liu, Maosong Sun. (2024). From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents. Preprint. Under review. https://arxiv.org/abs/2409.03512"
+    resource: "https://doi.org/10.48550/arxiv.2409.03512"
+    title: "Jifan Yu, Zheyuan Zhang, Daniel Zhang-li, Shangqing Tu, Zhanxin Hao, Ruimiao Li, Haoxuan Li, Yuanchun Wang, Hanming Li, Linlu Gong, Jie Cao, Jiayin Lin, Jinchang Zhou, Fei Qin, Haohua Wang, Jianxiao Jiang, Lijun Deng, Yisi Zhan, Chaojun Xiao, Xusheng Dai, Xuan Yan, Nianyi Lin, Nan Zhang, Ruixin Ni, Yang Dang, Lei Hou, Yu Zhang, Xu Han, Manli Li, Juanzi Li, Zhiyuan Liu, Huiqin Liu, Maosong Sun. (2024). From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents. Preprint. Under review. https://arxiv.org/abs/2409.03512 [doi:10.48550/arxiv.2409.03512](https://doi.org/10.48550/arxiv.2409.03512)"
     author: Jifan Yu, Zheyuan Zhang, Daniel Zhang-li, Shangqing Tu, Zhanxin Hao, Ruimiao Li, Haoxuan Li, Yuanchun Wang, Hanming Li, Linlu Gong, Jie Cao, Jiayin Lin, Jinchang Zhou, Fei Qin, Haohua Wang, Jianxiao Jiang, Lijun Deng, Yisi Zhan, Chaojun Xiao, Xusheng Dai, Xuan Yan, Nianyi Lin, Nan Zhang, Ruixin Ni, Yang Dang, Lei Hou, Yu Zhang, Xu Han, Manli Li, Juanzi Li, Zhiyuan Liu, Huiqin Liu, Maosong Sun
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Students reported significant perceived gains in abstract and critical thinking, with other higher-order thinking effects ambiguous
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Pre-post comparisons showed significant increases in students' perceptions of the course's positive effects on their abstract thinking and critical thinking. [→ Jifan Yu 2024](#jifan-yu-2024)
@@ -40,7 +40,7 @@ sources:
 
 ### Jifan Yu 2024
 
-Jifan Yu, Zheyuan Zhang, Daniel Zhang-li, Shangqing Tu, Zhanxin Hao, Ruimiao Li, Haoxuan Li, Yuanchun Wang, Hanming Li, Linlu Gong, Jie Cao, Jiayin Lin, Jinchang Zhou, Fei Qin, Haohua Wang, Jianxiao Jiang, Lijun Deng, Yisi Zhan, Chaojun Xiao, Xusheng Dai, Xuan Yan, Nianyi Lin, Nan Zhang, Ruixin Ni, Yang Dang, Lei Hou, Yu Zhang, Xu Han, Manli Li, Juanzi Li, Zhiyuan Liu, Huiqin Liu, Maosong Sun. (2024). From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents. Preprint. Under review. https://arxiv.org/abs/2409.03512
+Jifan Yu, Zheyuan Zhang, Daniel Zhang-li, Shangqing Tu, Zhanxin Hao, Ruimiao Li, Haoxuan Li, Yuanchun Wang, Hanming Li, Linlu Gong, Jie Cao, Jiayin Lin, Jinchang Zhou, Fei Qin, Haohua Wang, Jianxiao Jiang, Lijun Deng, Yisi Zhan, Chaojun Xiao, Xusheng Dai, Xuan Yan, Nianyi Lin, Nan Zhang, Ruixin Ni, Yang Dang, Lei Hou, Yu Zhang, Xu Han, Manli Li, Juanzi Li, Zhiyuan Liu, Huiqin Liu, Maosong Sun. (2024). From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents. Preprint. Under review. https://arxiv.org/abs/2409.03512 [doi:10.48550/arxiv.2409.03512](https://doi.org/10.48550/arxiv.2409.03512)
 
 `q2 · i?` · `design · r2`
 
@@ -63,4 +63,4 @@ Interview data from the MAIC pilot: several students 'noted a lack of deep think
 
 ## Related Claims
 - [Five-day no-code AI agent creation improves students' CT self-perception, with large gains in abstract and algorithmic thinking and a medium gain in pattern recognition and generalization](ai-agent-creation-ct-self-perception-gains.md) — related
-- [Ideation discussion activities in Design Thinking significantly improved EFL students' overall critical thinking test scores from pre-test to post-test](ideation-discussion-improves-efl-critical-thinking-scores.md) — related
+- Ideation discussion activities in Design Thinking significantly improved EFL students' overall critical thinking test scores from pre-test to post-test — related

@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r1` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Teachers voiced that viewing households as repositories of funds of knowledge challenges notions of culture as only represented through dances, food, folklore, and the like. [→ Funds of Knowledge: Learning from Language Minority Households. ERIC Digest 1994](#funds-of-knowledge-learning-from-language-minority-households-eric-digest-1994)

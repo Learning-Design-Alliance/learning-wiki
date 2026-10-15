@@ -52,4 +52,4 @@ Qualitative evidence synthesis of 54 Scopus-indexed empirical studies (2021–20
 - [The most critical challenge in integrating AI into instructional design is pedagogical alignment (14 of 28 studies, 50.0%)](ai-id-challenge-pedagogical-alignment.md) — related
 - [The most frequent limitation of AI in instructional design is content reliability and transparency (16 of 28 studies, 57.14%)](ai-id-limitation-content-reliability-transparency.md) — related
 - [Technical difficulties were the most frequently reported implementation limitation, mentioned in ten of the thirteen studies](pepper-technical-difficulties-most-reported-limitation.md) — related
-- [Most participants articulated technical and contextual limitations of AI evaluation, including handwriting misreading and unawareness of the instructor's rating system](students-aware-ai-evaluation-limitations.md) — related
+- Most participants articulated technical and contextual limitations of AI evaluation, including handwriting misreading and unawareness of the instructor's rating system — related

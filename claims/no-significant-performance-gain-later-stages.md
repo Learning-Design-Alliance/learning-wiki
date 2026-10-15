@@ -46,4 +46,4 @@ Statistical comparison of the four ML models' average performance between the De
 - [Balancing the dataset significantly improved model predictive performance but increased bias under demographic parity](data-balancing-improves-accuracy-increases-bias.md) — related
 - [Incorporating more learning activity data reduced the potential bias caused by overreliance on demographic information](learning-activity-data-reduces-demographic-bias.md) — related
 - [Stage 1 (after the first unit review assignment) is the optimal point for identifying at-risk students, balancing timeliness, accuracy, and fairness](stage1-optimal-early-at-risk-identification.md) — related
-- [Early-stage performance data is particularly important for predicting attrition, while demographic data has limited predictive value once performance data is available](performance-data-dominates-demographics-in-dropout-prediction.md) — related
+- Early-stage performance data is particularly important for predicting attrition, while demographic data has limited predictive value once performance data is available — related

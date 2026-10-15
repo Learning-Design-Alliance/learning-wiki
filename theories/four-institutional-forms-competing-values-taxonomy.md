@@ -16,7 +16,7 @@ sources:
 # Four-type taxonomy of institutional forms organized on flexibility/control and internal/external emphasis dimensions
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The chapter organizes four major organizational forms — hierarchy, market, clan, and adhocracy — on the same two dimensions used to frame cognitive styles: flexibility versus control and internal versus external emphasis. Hierarchies emphasize order, predictability, and internal structures; adhocracies emphasize flexibility and external constituencies; clans emphasize internal processes and individual participation; markets emphasize rational productivity oriented toward external competition. The author reports that "each of these four types of institutions exists in American higher education" in his research on 335 four-year colleges and universities.
@@ -36,8 +36,6 @@ The chapter organizes four major organizational forms — hierarchy, market, cla
 - institutional adaptation, renewal, and effectiveness in turbulent environments
 
 ### Claims
-- [Congruent Leadership Form Domain Effectiveness](../claims/congruent-leadership-form-domain-effectiveness.md) [+M]
-- [Paradoxical Institutional Characteristics Improve Effectiveness Over Time](../claims/paradoxical-institutional-characteristics-improve-effectiveness-over-time.md) [+M]
 
 ## Related Theories
 

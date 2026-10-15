@@ -13,7 +13,7 @@ generated:
 # Collaborative Problem-Solving
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (7 for, 1 mixed) · 11 studies (2 causal, 2 quant-synthesis, 2 design, 2 theoretical, 1 review, 1 associational, 1 qualitative), `q2`–`q4` · 1 of 11 report an effect size · 7 claims rest on one study
+> **Evidence** · 7 claims (6 for, 1 mixed) · 10 studies (2 causal, 2 quant-synthesis, 2 theoretical, 1 review, 1 associational, 1 qualitative, 1 design), `q2`–`q4` · 1 of 10 report an effect size · 6 claims rest on one study
 
 ## Description
 Collaborative problem-solving (CPS) places a small group of learners around a problem that no single member can solve alone, requiring them to pool knowledge, divide cognitive labor, negotiate approaches, and converge on a shared solution. It functions simultaneously as a content-learning activity and as practice in the social-cognitive skills — perspective-taking, task regulation, and joint reasoning — that the OECD treats as a distinct competency domain.
@@ -61,7 +61,6 @@ CPS improves learning when the group's discussion forces learners to externalize
 - [GenAI students collaboratively phrased and troubleshooted questions, with collaborative problem-solving varying substantially between the two genAI groups](../claims/genai-collaborative-troubleshooting-varied-by-group.md) [~W]
 - [Active and collaborative approaches promote higher-order thinking and complex reasoning (review attribution)](../claims/active-collaborative-approaches-higher-order-thinking.md) [+W]
 - [Groups of high-performing students often fail problem-solving tasks when they do not collaborate, showing why collaborative skills need assessment and feedback](../claims/high-performing-groups-fail-without-collaboration.md) [+W]
-- [Puzzlets gameplay showed problem-solving progress on debugging tasks, and collaboration improved after the teacher introduced driver-passenger role strategies](../claims/puzzlets-debugging-progress-and-collaboration-growth.md) [+W]
 
 ## Related Elements
 - [Collaboration](collaboration.md) — the general group-work element; CPS is its problem-anchored form

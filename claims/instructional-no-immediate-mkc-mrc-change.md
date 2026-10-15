@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: pau-benazet-i-montobbio-2026
-    resource: "https://arxiv.org/abs/2607.20047"
-    title: "Pau Benazet i Montobbio, Janne Rotter, Davinia Hernández-Leo. (2026). Experiential Versus Instructional Approaches for Eliciting Metacognitive Awareness in AI-Assisted Learning: A Short-Term Longitudinal Study. https://arxiv.org/abs/2607.20047"
+    resource: "https://doi.org/10.48550/arxiv.2607.20047"
+    title: "Pau Benazet i Montobbio, Janne Rotter, Davinia Hernández-Leo. (2026). Experiential Versus Instructional Approaches for Eliciting Metacognitive Awareness in AI-Assisted Learning: A Short-Term Longitudinal Study. https://arxiv.org/abs/2607.20047 [doi:10.48550/arxiv.2607.20047](https://doi.org/10.48550/arxiv.2607.20047)"
     author: Pau Benazet i Montobbio, Janne Rotter, Davinia Hernández-Leo
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Pau Benazet i Montobbio 2026
 
-Pau Benazet i Montobbio, Janne Rotter, Davinia Hernández-Leo. (2026). Experiential Versus Instructional Approaches for Eliciting Metacognitive Awareness in AI-Assisted Learning: A Short-Term Longitudinal Study. https://arxiv.org/abs/2607.20047
+Pau Benazet i Montobbio, Janne Rotter, Davinia Hernández-Leo. (2026). Experiential Versus Instructional Approaches for Eliciting Metacognitive Awareness in AI-Assisted Learning: A Short-Term Longitudinal Study. https://arxiv.org/abs/2607.20047 [doi:10.48550/arxiv.2607.20047](https://doi.org/10.48550/arxiv.2607.20047)
 
 `q3 · i?` · `causal · r2`
 

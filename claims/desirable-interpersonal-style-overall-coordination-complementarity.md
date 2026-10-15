@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: pennings-2017
-    resource: "https://complicityjournal.org"
-    title: "Pennings, H. J. M. (2017). Using a Complexity Approach to Study the Interpersonal Dynamics in Teacher-Student Interactions: A Case Study of Two Teachers. Complicity: An International Journal of Complexity and Education, 14(2). https://complicityjournal.org"
+    resource: "https://doi.org/10.29173/cmplct29338"
+    title: "Pennings, H. J. M. (2017). Using a Complexity Approach to Study the Interpersonal Dynamics in Teacher-Student Interactions: A Case Study of Two Teachers. Complicity: An International Journal of Complexity and Education, 14(2). https://complicityjournal.org [doi:10.29173/cmplct29338](https://doi.org/10.29173/cmplct29338)"
     author: Pennings, H. J. M.
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # The teacher with the more desirable interpersonal style showed overall coordination consistent with the complementarity principle, while the less desirable teacher's coordination did not
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Evidence** · 2 studies · 1 associational `r1`, 1 qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Ethan's classroom cross-correlations (.71 Communion, -.86 Agency) were consistent with the complementarity principle, whereas Sam's (-.39 Communion, -.06 Agency) were not consistent on Communion and only very weakly on Agency. [→ Pennings 2017](#pennings-2017)
@@ -39,7 +39,7 @@ sources:
 
 ### Pennings 2017
 
-Pennings, H. J. M. (2017). Using a Complexity Approach to Study the Interpersonal Dynamics in Teacher-Student Interactions: A Case Study of Two Teachers. Complicity: An International Journal of Complexity and Education, 14(2). https://complicityjournal.org
+Pennings, H. J. M. (2017). Using a Complexity Approach to Study the Interpersonal Dynamics in Teacher-Student Interactions: A Case Study of Two Teachers. Complicity: An International Journal of Complexity and Education, 14(2). https://complicityjournal.org [doi:10.29173/cmplct29338](https://doi.org/10.29173/cmplct29338)
 
 `q2 · i?` · `qualitative · r2`
 
@@ -65,4 +65,4 @@ Same case-study analysis for Sam's classroom: the cross-correlations were "not c
 - [Phase analysis showed Ethan leading the interaction with sameness in Communion and oppositeness in Agency, while Sam led in Communion but followed in Agency](phase-lead-lag-differs-between-teachers.md) — related
 - [The hypothesis that both teachers can refrain from complementarity when facing hostile student behavior could not be confirmed](refraining-from-complementarity-hypothesis-not-confirmed.md) — related
 - [During the early stage of therapy, more severely maladjusted clients elicit higher levels of therapist complementarity](early-stage-maladjustment-elicits-complementarity.md) — related
-- [The four-phase model predicts favored interpersonal styles appear early and style flexibility grows with accumulated specific experience](style-flexibility-grows-with-specific-experience.md) — related
+- The four-phase model predicts favored interpersonal styles appear early and style flexibility grows with accumulated specific experience — related

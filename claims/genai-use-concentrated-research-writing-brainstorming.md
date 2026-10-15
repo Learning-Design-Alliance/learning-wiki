@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: stefana-broadbent-2026
-    resource: "https://arxiv.org/abs/2607.17094"
-    title: "Stefana Broadbent. (2026). A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico di Milano in 2025/2026. Department of Design, Politecnico di Milano. https://arxiv.org/abs/2607.17094"
+    resource: "https://doi.org/10.48550/arxiv.2607.17094"
+    title: "Stefana Broadbent. (2026). A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico di Milano in 2025/2026. Department of Design, Politecnico di Milano. https://arxiv.org/abs/2607.17094 [doi:10.48550/arxiv.2607.17094](https://doi.org/10.48550/arxiv.2607.17094)"
     author: Stefana Broadbent
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Design students' GenAI use concentrates on research, writing and brainstorming tasks, with low use for image, media and code generation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Evidence** · 2 studies · 2 associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Research-related tasks (finding information, summarising, brainstorming) were selected by more than two thirds of respondents, while image, audio, video, games and code generation were selected by less than one in three. [→ Stefana Broadbent 2026](#stefana-broadbent-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Stefana Broadbent 2026
 
-Stefana Broadbent. (2026). A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico di Milano in 2025/2026. Department of Design, Politecnico di Milano. https://arxiv.org/abs/2607.17094
+Stefana Broadbent. (2026). A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico di Milano in 2025/2026. Department of Design, Politecnico di Milano. https://arxiv.org/abs/2607.17094 [doi:10.48550/arxiv.2607.17094](https://doi.org/10.48550/arxiv.2607.17094)
 
 `q2 · i?` · `associational · r1`
 

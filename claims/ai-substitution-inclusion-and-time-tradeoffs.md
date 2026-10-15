@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: rummel-2026
-    resource: "https://arxiv.org/abs/2609.09856"
-    title: "Rummel, N., Nachtigall, V., & Panadero, E. (2026). “With a Thermomix You Lose the Ability to Cook”: A Kitchen Machine Analogy for Applications of Generative AI in Education. https://arxiv.org/abs/2609.09856"
+    resource: "https://doi.org/10.48550/arxiv.2609.09856"
+    title: "Rummel, N., Nachtigall, V., & Panadero, E. (2026). “With a Thermomix You Lose the Ability to Cook”: A Kitchen Machine Analogy for Applications of Generative AI in Education. https://arxiv.org/abs/2609.09856 [doi:10.48550/arxiv.2609.09856](https://doi.org/10.48550/arxiv.2609.09856)"
     author: "Rummel, N., Nachtigall, V., & Panadero, E."
     q: 1
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Substituting tasks with generative AI may promote inclusion and free time for more demanding activities, but risks foundational-skill loss and presupposes prior knowledge
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · theoretical `r2` · `q1`
+> **Evidence** · 2 studies · 2 theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Substituting school assignments with generative AI might promote inclusion and participation among students who would otherwise struggle due to special needs or language barriers. [→ Rummel 2026](#rummel-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Rummel 2026
 
-Rummel, N., Nachtigall, V., & Panadero, E. (2026). “With a Thermomix You Lose the Ability to Cook”: A Kitchen Machine Analogy for Applications of Generative AI in Education. https://arxiv.org/abs/2609.09856
+Rummel, N., Nachtigall, V., & Panadero, E. (2026). “With a Thermomix You Lose the Ability to Cook”: A Kitchen Machine Analogy for Applications of Generative AI in Education. https://arxiv.org/abs/2609.09856 [doi:10.48550/arxiv.2609.09856](https://doi.org/10.48550/arxiv.2609.09856)
 
 `q1 · i?` · `theoretical · r2`
 

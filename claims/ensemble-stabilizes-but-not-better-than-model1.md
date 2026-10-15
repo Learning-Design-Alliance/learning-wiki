@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: lu-2024
-    resource: "https://osf.io/mdpzc/"
-    title: "Lu, Y., Tong, L., & Cheng, Y. (2024). Advanced Knowledge Tracing: Incorporating Process Data and Curricula Information via an Attention-Based Framework for Accuracy and Interpretability. Journal of Educational Data Mining, 16(2). https://osf.io/mdpzc/"
+    resource: "https://doi.org/10.31219/osf.io/3k7z2"
+    title: "Lu, Y., Tong, L., & Cheng, Y. (2024). Advanced Knowledge Tracing: Incorporating Process Data and Curricula Information via an Attention-Based Framework for Accuracy and Interpretability. Journal of Educational Data Mining, 16(2). https://osf.io/mdpzc/ [doi:10.31219/osf.io/3k7z2](https://doi.org/10.31219/osf.io/3k7z2)"
     author: "Lu, Y., Tong, L., & Cheng, Y."
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Lu 2024
 
-Lu, Y., Tong, L., & Cheng, Y. (2024). Advanced Knowledge Tracing: Incorporating Process Data and Curricula Information via an Attention-Based Framework for Accuracy and Interpretability. Journal of Educational Data Mining, 16(2). https://osf.io/mdpzc/
+Lu, Y., Tong, L., & Cheng, Y. (2024). Advanced Knowledge Tracing: Incorporating Process Data and Curricula Information via an Attention-Based Framework for Accuracy and Interpretability. Journal of Educational Data Mining, 16(2). https://osf.io/mdpzc/ [doi:10.31219/osf.io/3k7z2](https://doi.org/10.31219/osf.io/3k7z2)
 
 `q3 · i? · the article prints no effect size for this finding` · `design · r2`
 
@@ -48,4 +48,4 @@ Results section, Table 4: the rank-averaging ensemble of five trained models rea
 - [The proposed Transformer-based framework achieved first place in the EDM Cup 2023 with an AUC of 78.969% on the private evaluation dataset](transformer-kt-first-place-edm-cup-2023.md) — related
 - [Both pedagogy-expertise-weighted and unanimous-vote ensembles frequently worsen LLM alignment with student learning](ensembling-worsens-llm-alignment-with-learning.md) — related
 - [Ensemble modeling of multiple LLM scorers yields performance gains in automated divergent thinking scoring](ensemble-models-performance-gains-llm-scoring.md) — reports the opposite
-- [Majority-vote ensembling across three runs produced only modest accuracy gains (1% to 5%) with no model showing degradation](ensemble-majority-vote-modest-gains-no-degradation.md) — related
+- Majority-vote ensembling across three runs produced only modest accuracy gains (1% to 5%) with no model showing degradation — related

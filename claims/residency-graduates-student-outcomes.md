@@ -63,5 +63,5 @@ A 2012 study of Boston Teacher Residency graduates found first-year teachers as 
 
 ## Related Claims
 - [Students of residency graduates show achievement outcomes comparable to or better than other novices, with gains emerging over time](residency-graduates-student-achievement.md) — possibly the same claim (merge candidate)
-- [A 2011 study found residency-trained teachers outperformed same-experience peers by nearly two months' worth of learning by their fifth year and were more likely to stay in teaching](teacher-residency-study-gains.md) — a broader claim this one bears on
+- A 2011 study found residency-trained teachers outperformed same-experience peers by nearly two months' worth of learning by their fifth year and were more likely to stay in teaching — a broader claim this one bears on
 - [Residency graduates report strongly positive perceptions of their preparation, and principals tend to perceive them as more effective than other novice teachers](residency-graduates-perceived-effective.md) — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: fernandes-2026
-    resource: "https://arxiv.org/abs/2605.25856"
-    title: "Fernandes, D., Buschek, D., Tankelevitch, L., Kosch, T., & Welsch, R. (2026). Explaining Too Much? Understanding How Large Language Model Reasoning Traces Influence Performance and Metacognition. https://arxiv.org/abs/2605.25856"
+    resource: "https://doi.org/10.48550/arxiv.2605.25856"
+    title: "Fernandes, D., Buschek, D., Tankelevitch, L., Kosch, T., & Welsch, R. (2026). Explaining Too Much? Understanding How Large Language Model Reasoning Traces Influence Performance and Metacognition. https://arxiv.org/abs/2605.25856 [doi:10.48550/arxiv.2605.25856](https://doi.org/10.48550/arxiv.2605.25856)"
     author: "Fernandes, D., Buschek, D., Tankelevitch, L., Kosch, T., & Welsch, R."
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Fernandes 2026
 
-Fernandes, D., Buschek, D., Tankelevitch, L., Kosch, T., & Welsch, R. (2026). Explaining Too Much? Understanding How Large Language Model Reasoning Traces Influence Performance and Metacognition. https://arxiv.org/abs/2605.25856
+Fernandes, D., Buschek, D., Tankelevitch, L., Kosch, T., & Welsch, R. (2026). Explaining Too Much? Understanding How Large Language Model Reasoning Traces Influence Performance and Metacognition. https://arxiv.org/abs/2605.25856 [doi:10.48550/arxiv.2605.25856](https://doi.org/10.48550/arxiv.2605.25856)
 
 `q3 · i?` · `causal · r2`
 
@@ -46,7 +46,7 @@ Trial-level Type-2 ROC area computed per participant from ten items did not diff
 - [Self Assessment Accuracy Is Low Without Training](self-assessment-accuracy-is-low-without-training.md) — the general claim this finding bears on, with the studies behind it
 - [Full reasoning traces impaired task performance relative to both answer-only and summary-trace conditions in AI-assisted LSAT reasoning](full-traces-impair-ai-assisted-reasoning-performance.md) — related
 - [Full reasoning traces worsened calibration bias and Brier scores relative to both other conditions](full-traces-worsen-calibration-and-brier-scores.md) — related
-- [Guided-LLM students showed the strongest self-assessment calibration, with the highest well-calibrated rate and strongest self-assessment–performance correlations](guided-llm-self-assessment-calibration-alignment.md) — related
+- Guided-LLM students showed the strongest self-assessment calibration, with the highest well-calibrated rate and strongest self-assessment–performance correlations — related
 - [Review-attributed evidence: user confidence in model answers exceeds model internal confidence, and explanation design narrows the gap](calibration-gap-configuration-dependent.md) — related
 - [Tell and no-agent conditions showed no significant JoL–confidence correlations, with mixed results for progress and mastery](tell-none-conditions-mixed-jol-correlations.md) — related
 - [Participants substantially overestimated their performance in all trace conditions, with the largest overestimation under full traces](overestimation-largest-under-full-traces.md) — related

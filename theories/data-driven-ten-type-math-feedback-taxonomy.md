@@ -16,7 +16,7 @@ sources:
 # A data-driven, ten-type taxonomy of teacher feedback on open-ended mathematics responses
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 This taxonomy organizes teacher-authored feedback into 10 empirically derived types: Direct Correction, Targeted Affirmation, Hinting, Non-verbal Affirmation, Rhetorical Question, Show Your Work, Generic Comment, Direct Critique, Worked Example, and Non-specific Positivity. It was built through a pipeline of qualitative coding, factor analysis, and K-means clustering on authentic ASSISTments feedback, and the article states it "illustrates how core dimensions of teacher feedback can combine to reveal distinct patterns of instructional practice." Unlike broader frameworks, it delineates subtypes of affirmation and correctness feedback by specificity and modality.
@@ -39,8 +39,6 @@ This taxonomy organizes teacher-authored feedback into 10 empirically derived ty
 
 ### Claims
 
-- [Efa Twelve Feedback Factors](../claims/efa-twelve-feedback-factors.md) [+M]
-- [Ten Cluster Feedback Types](../claims/ten-cluster-feedback-types.md) [+M]
 - [Some teacher feedback codes commonly co-occur, such as Confirmation with Positive Affect and Mathematical Suggestions with Hints](../claims/feedback-codes-co-occurrence-patterns.md) [+W]
 
 ## Related Theories

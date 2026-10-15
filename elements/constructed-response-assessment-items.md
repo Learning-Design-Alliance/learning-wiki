@@ -13,7 +13,7 @@ generated:
 # Constructed-Response Assessment Items
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 18 claims (5 for, 11 mixed, 2 against) · 15 studies (6 design, 3 causal, 3 associational, 1 review, 1 qualitative, 1 theoretical), `q1`–`q3` · 1 of 15 report an effect size · 18 claims rest on one study
+> **Evidence** · 16 claims (4 for, 10 mixed, 2 against) · 13 studies (5 design, 3 associational, 2 causal, 1 review, 1 qualitative, 1 theoretical), `q1`–`q3` · 1 of 13 report an effect size · 16 claims rest on one study
 
 ## Description
 Constructed-response items ask students to recall information and produce their own answer rather than recognize a provided one, which reduces guessing compared with [selected-response items](selected-response-assessment-items.md). Two major kinds are used: **completion/short-answer** items (answerable in a word, phrase, number, or symbol — the same underlying format whether phrased as a statement to complete or a question to answer) and **extended-response** items (answers ranging from a paragraph to several pages, often called essay questions when they run long).
@@ -50,14 +50,12 @@ The central disadvantage of extended-response items is unreliable scoring: diffe
 - [Adding writing prompts and essays to state English language arts assessments shifted classroom instruction toward writing](../claims/ela-writing-prompts-shift-instruction.md) [~W]
 - [Despite generally accurate feedback, the LLM's scoring explanations could be unpredictable and prone to logical inconsistency, failing to award points even when citing the correct rubric directive](../claims/llm-logical-inconsistency-scoring-feedback.md) [-W]
 - [LLMs overrate short underdeveloped essays and over-penalize minor language errors in well-developed essays](../claims/llm-overrate-short-essays-overpenalize-errors.md) [~W]
-- [The mixed-scenario essay-last design lowered essay scores and reduced essay writing time and word count relative to the single-scenario essay-last design](../claims/mixed-scenario-lower-scores-less-writing.md) [~W]
 - [Adding a model answer to the GPT-4 prompt was counterproductive, lowering scoring reliability](../claims/model-answer-in-prompt-lowered-reliability.md) [~W]
 - [Different LLMs rely on different subsets of rubric traits when assigning essay scores](../claims/llms-weight-rubric-traits-differently.md) [~W]
 - [For short-answer questions, real student responses received higher LLM-likelihood estimates than LLM-generated responses, a reversal of the pattern in other tasks](../claims/short-answer-detection-reversal.md) [~W]
 - [Students perceive AI scoring as accurate for grammar, mechanics, and organization but skeptical of its ability to evaluate diverse styles, complex writing, tone, and emotion](../claims/ai-scoring-perceptions-lower-vs-higher-order.md) [~W]
 - [Admissions staff rate essays they perceive as AI-generated lower than essays they believe are human-written, even after adjusting for measured essay quality and actual AI authorship](../claims/perceived-ai-use-lowers-staff-quality-ratings.md) [-W]
 - [The revised Round II grading workflow reduced AI over-awarding and total-score MAD, most clearly for OE1 (7.1% to 4.8%) and QM (9.4% to 3.8%)](../claims/revised-workflow-reduces-overawarding-mad.md) [~W]
-- [Multi-agent essay scoring system (MASS) reportedly achieves increased consistency and reliability compared to stand-alone LLMs](../claims/mass-essay-scoring-improved-consistency.md) [+W]
 - [Claude3 and PaLM2 show substantial agreement but fall short on identifying failing grades](../claims/claude3-palm2-substantial-agreement-failing-grades.md) [~W]
 - [Newer LLM generations such as GPT-4 generally outperform GPT-3.5 in short-answer grading accuracy, but this advantage is not consistent across all tasks and domains](../claims/gpt4-advantage-uneven-across-tasks.md) [+W]
 - [Prompt quality and detailed scoring rubrics significantly influence the accuracy and consistency of LLM-generated grades](../claims/prompt-rubric-quality-drives-llm-grading.md) [~W]

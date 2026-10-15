@@ -18,7 +18,7 @@ sources:
 # UCSMP secondary mathematics curriculum
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 7 claims (5 for, 2 mixed) · 3 studies (3 causal), `q2` · 2 of 3 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (4 for, 2 mixed) · 2 studies (2 causal), `q2` · 2 of 2 report an effect size · 5 claims rest on one study
 
 ## Description
 A University of Chicago School Mathematics Project curriculum package for secondary mathematics courses, including student textbooks, teacher editions and resources, assessment materials, and technology resources.
@@ -33,7 +33,6 @@ A University of Chicago School Mathematics Project curriculum package for second
 - [UCSMP Algebra has potentially positive effects on general mathematics achievement for secondary students, with a small extent of evidence](../claims/ucsmp-algebra-positive-general-mathematics-achievement.md) [+W]
 - [The WWC rates multiple UCSMP courses as having potentially positive effects on mathematics achievement for secondary students](../claims/wwc-rating-multiple-ucsmp-courses-potentially-positive.md) [+W]
 - [The WWC rates UCSMP Algebra as having potentially positive effects on mathematics achievement for secondary students](../claims/wwc-rating-ucsmp-algebra-potentially-positive.md) [+W]
-- [Hourly-exam differences between groups occurred on trigonometry tests rather than algebra tests](../claims/hourly-exam-differences-trigonometry-not-algebra.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -75,7 +74,6 @@ UCSMP is a core secondary mathematics curriculum developed by the University of 
 - [UCSMP Algebra has potentially positive effects on general mathematics achievement for secondary students, with a small extent of evidence](../claims/ucsmp-algebra-positive-general-mathematics-achievement.md) [+W]
 - [The WWC rates multiple UCSMP courses as having potentially positive effects on mathematics achievement for secondary students](../claims/wwc-rating-multiple-ucsmp-courses-potentially-positive.md) [+W]
 - [The WWC rates UCSMP Algebra as having potentially positive effects on mathematics achievement for secondary students](../claims/wwc-rating-ucsmp-algebra-potentially-positive.md) [+W]
-- [Hourly-exam differences between groups occurred on trigonometry tests rather than algebra tests](../claims/hourly-exam-differences-trigonometry-not-algebra.md) [+W]
 
 ## Related Elements
 

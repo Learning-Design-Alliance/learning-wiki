@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: chan-2026
-    resource: "https://arxiv.org/abs/2607.05412"
-    title: "Chan, J. Y. (Zexi Chen), Chen, M., Hong, Y., Song, Z., Wang, H., & Xu, X. (2026). Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda. https://arxiv.org/abs/2607.05412"
+    resource: "https://doi.org/10.48550/arxiv.2607.05412"
+    title: "Chan, J. Y. (Zexi Chen), Chen, M., Hong, Y., Song, Z., Wang, H., & Xu, X. (2026). Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda. https://arxiv.org/abs/2607.05412 [doi:10.48550/arxiv.2607.05412](https://doi.org/10.48550/arxiv.2607.05412)"
     author: "Chan, J. Y. (Zexi Chen), Chen, M., Hong, Y., Song, Z., Wang, H., & Xu, X."
     q: 2
     i: "?"
@@ -38,7 +38,7 @@ sources:
 # The review identifies three pathways of AI-empowered STEM education: technological leap to generative AI, integration into instructional systems, and value shift toward competency cultivation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · review `r2` · `q2`
+> **Evidence** · 2 studies (3 entries) · 2 review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Path 1: AI evolved from a basic tool linked to education and technology toward generative AI, becoming an intelligent partner embedded in instruction. [→ Chan 2026](#chan-2026)
@@ -49,7 +49,7 @@ sources:
 
 ### Chan 2026
 
-Chan, J. Y. (Zexi Chen), Chen, M., Hong, Y., Song, Z., Wang, H., & Xu, X. (2026). Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda. https://arxiv.org/abs/2607.05412
+Chan, J. Y. (Zexi Chen), Chen, M., Hong, Y., Song, Z., Wang, H., & Xu, X. (2026). Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda. https://arxiv.org/abs/2607.05412 [doi:10.48550/arxiv.2607.05412](https://doi.org/10.48550/arxiv.2607.05412)
 
 `q2 · i?` · `review · r2`
 

@@ -17,7 +17,7 @@ sources:
 # Conference Telephone Set for classroom telelectures
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A Conference Telephone Set, borrowed from the university telephone office for each lecture, was the audio equipment used to deliver hour-long expert telelectures to the seminar room. After testing, the author reports "the volume was much greater" than the earlier hands-off set, and "We used this equipment for the last six lectures." Its drawback was that individual microphones had to be passed around the table for students to speak.
@@ -39,7 +39,6 @@ A Conference Telephone Set, borrowed from the university telephone office for ea
 ## Claims
 
 - [Passing individual microphones discouraged some students from asking questions during telelectures](../claims/microphone-use-discourages-student-questions.md) [~W]
-- [Students found one-hour telelectures too short and wanted more time for listening and questioning](../claims/one-hour-telelectures-too-short.md) [~W]
 
 ## Related Elements
 

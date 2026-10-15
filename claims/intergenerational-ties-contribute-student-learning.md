@@ -61,4 +61,4 @@ Definitional/interpretive statement accompanying the Intergenerational Ties scal
 
 ## Related Claims
 
-- [Program participation benefited participants' family roles and intergenerational communication, including parenting, advising relatives on health, and reduced reliance on children as translators](training-benefited-family-communication-and-caretaking-roles.md) — related
+- Program participation benefited participants' family roles and intergenerational communication, including parenting, advising relatives on health, and reduced reliance on children as translators — related

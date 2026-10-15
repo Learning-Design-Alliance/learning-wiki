@@ -16,7 +16,7 @@ sources:
 # The micro-credential ecosystem of issuers, earners, and recognizers
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 2 studies (2 design), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The report situates earned micro-credentials within "a larger micro-credential ecosystem" that "requires three unique and distinct roles: issuers, earners, and recognizers." Issuers are organizations such as non-profits and universities supported by Digital Promise to develop micro-credential content; earners are educators who develop and submit evidence of learning; recognizers — districts, states, and others — give credentials value and accept them as evidence of learning in an educator's career.
@@ -39,9 +39,6 @@ The report situates earned micro-credentials within "a larger micro-credential e
 
 ### Claims
 
-- [As of mid-2017 the Digital Promise micro-credential ecosystem had drawn over 5,000 submissions from educators in approximately 550 districts, with about 55 percent of portfolio submitters awarded a micro-credential](../claims/dp-ecosystem-2017-submission-uptake.md) [+W]
-- [Districts and universities increasingly attach concrete incentives to earning Digital Promise micro-credentials](../claims/recognizer-incentives-for-micro-credentials.md) [+W]
-- [Nine states offered CEUs for Digital Promise micro-credentials by 2017, but no coherent framework existed for valuing micro-credentials](../claims/nine-states-ceus-no-coherent-valuation-framework.md) [~W]
 
 ## Related Theories
 

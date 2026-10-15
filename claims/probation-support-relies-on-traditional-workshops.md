@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: kara-finnigan-and-jennifer-oday-2003
-    resource: "https://eric.ed.gov/?id=ED474395"
-    title: "Kara Finnigan and Jennifer O'Day, with the assistance of David Wakelyn. (2003). External Support to Schools on Probation: Getting a Leg Up? https://eric.ed.gov/?id=ED474395"
+    resource: "https://doi.org/10.1037/e565292006-001"
+    title: "Kara Finnigan and Jennifer O'Day, with the assistance of David Wakelyn. (2003). External Support to Schools on Probation: Getting a Leg Up? https://eric.ed.gov/?id=ED474395 [doi:10.1037/e565292006-001](https://doi.org/10.1037/e565292006-001)"
     author: "Kara Finnigan and Jennifer O'Day, with the assistance of David Wakelyn"
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Kara Finnigan and Jennifer O'Day 2003
 
-Kara Finnigan and Jennifer O'Day, with the assistance of David Wakelyn. (2003). External Support to Schools on Probation: Getting a Leg Up? https://eric.ed.gov/?id=ED474395
+Kara Finnigan and Jennifer O'Day, with the assistance of David Wakelyn. (2003). External Support to Schools on Probation: Getting a Leg Up? https://eric.ed.gov/?id=ED474395 [doi:10.1037/e565292006-001](https://doi.org/10.1037/e565292006-001)
 
 `q2 · i?` · `qualitative · r2`
 
@@ -50,6 +50,6 @@ From the provider strategy analysis: partners' professional development consiste
 - [Instructional coaching provides individualized support adapted to teachers' needs and classroom contexts, in contrast to traditional professional development workshops](coaching-individualized-support-versus-workshops.md) — related
 - [Providers located low performance within schools and targeted the instructional unit of teachers, materials, and students](providers-target-instructional-unit-teachers-materials-students.md) — related
 - [Teachers tended to adopt district-provided tools, and single-application step-by-step training supported uptake of Forms](district-provided-tools-single-tool-training.md) — related
-- [Teachers were dissatisfied with existing professional development and wanted workshops tailored to their needs, subjects, and knowledge level](pr-teachers-dissatisfied-pd-want-tailored-workshops.md) — related
+- Teachers were dissatisfied with existing professional development and wanted workshops tailored to their needs, subjects, and knowledge level — related
 - [Professional learning, broadly defined to include teacher collaboration, coaching, and workshops, was the most important support strategy for instructional change](professional-learning-most-important-support.md) — related
 - [Teachers prefer professional learning led by their colleagues over training from outside consultants](teachers-prefer-colleague-led-professional-learning.md) — related

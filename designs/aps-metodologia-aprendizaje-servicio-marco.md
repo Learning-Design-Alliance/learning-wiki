@@ -17,7 +17,7 @@ sources:
 # La metodología Aprendizaje-Servicio (ApS) como marco para desarrollar competencias prácticas y valores en estudiantes universitarios
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 El catálogo presenta el Aprendizaje-Servicio (ApS) como metodología socioeducativa aplicada desde la educación física y el deporte. Según el prólogo, "Dicha metodología permite, desde la práctica socioeducativa, y en este caso vinculada también a la educación física y el deporte, fomentar en los estudiantes competencias prácticas relacionadas con un mayor compromiso con la sociedad así como valores de igualdad, respecto, tolerancia y justicia social". Los proyectos descritos la aplican con estudiantes del Doble Grado en Educación Primaria y Ciencias de la Actividad Física y del Deporte que intervienen con colectivos vulnerables.
@@ -39,7 +39,6 @@ El catálogo presenta el Aprendizaje-Servicio (ApS) como metodología socioeduca
 - aplicación práctica de contenido curricular
 
 ### Claims
-- [Aps Beneficios Desarrollo Personal Social Cognitivo](../claims/aps-beneficios-desarrollo-personal-social-cognitivo.md) [+M]
 
 ## Related Designs
 - 

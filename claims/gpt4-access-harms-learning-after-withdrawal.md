@@ -181,7 +181,7 @@ Every entry this page had was a second-hand report of one trial (Bastani et al.,
 
 ## Related Claims
 
-- [Observable output alone is insufficient evidence of learning when generative AI can produce sophisticated work without underlying cognitive change](behavioral-equivalence-problem-generative-ai.md) — a broader claim this one bears on
+- Observable output alone is insufficient evidence of learning when generative AI can produce sophisticated work without underlying cognitive change — a broader claim this one bears on
 - [Review reports a randomized trial in which unrestricted ChatGPT study produced lower delayed retention than traditional methods](chatgpt-unrestricted-lower-delayed-retention-rct.md) — related
 - [AI-induced gains are not purely delegation: treated participants do not perform worse once AI is removed, and lower-education participants retain part of their gain, though a 0.200 SD gap re-emerges](ai-gains-carry-over-followup-not-pure-delegation.md) — reports the opposite
 - [AI access raises immediate unaided test scores by 7.2 percentage points (0.28 SD) after a timed learning phase](genai-access-raises-immediate-test-scores.md) — related
@@ -244,7 +244,7 @@ Every entry this page had was a second-hand report of one trial (Bastani et al.,
 - [Engagement remains an observable and evidential proxy for learning that AI has not broken, though it is not invulnerable](engagement-surviving-proxy.md) — related
 - [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — a broader claim this one bears on
 - [In TBLT, teachers perceive scaffolding collapse, a shortcut paradox, invisible inequity, and task realism corrosion](tblt-four-ethical-tensions.md) — a narrower finding that bears on this claim
-- [A systematic review of 14 studies (8,305 participants) found AI-based tools enhanced comprehension, engagement, problem-solving, and critical thinking by personalizing learning experiences](ai-math-review-14-studies-outcomes.md) — related
+- A systematic review of 14 studies (8,305 participants) found AI-based tools enhanced comprehension, engagement, problem-solving, and critical thinking by personalizing learning experiences — related
 - [A systematic review of AI in problem-based learning reports, as a dominant theme of its 50 studies, that AI tools support adaptive, personalized learning linked to better engagement and problem-solving](ai-pbl-adaptive-personalized-engagement.md) — reports the opposite
 - [AI task scaffolding is positively associated with critical thinking and technical problem-solving among AI-using university students](ai-task-scaffolding-positive-higher-order-outcomes.md) — related
 - [Frequent generative AI use enhances perceived confidence and efficiency but increases technological dependence among university students](genai-self-efficacy-paradox-technological-dependence.md) — related

@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Tutors reported confusion over discrepancies between the two feedback sources, particularly because both used comparable 5-point scales, and higher learner ratings often led them to distrust automated feedback. [→ Yeon Su Park 2026](#yeon-su-park-2026)
@@ -63,6 +64,6 @@ Tutors preferred learner feedback because they felt "the automated system could 
 ## Related Claims
 
 - [AI multimodal feedback is rated higher than educator feedback on specificity, clarity, simplicity, motivation, satisfaction, and lower mental effort, with comparable correctness, trust, and acceptance](ai-feedback-higher-perceived-quality-value.md) — the general claim this finding bears on, with the studies behind it
-- [Tutors on Ringle rated automated feedback significantly more negatively than learner feedback across six of seven perception dimensions](tutors-rate-automated-feedback-more-negatively-than-learner-feedback.md) — related
-- [Learner feedback on Ringle was often missing and positively skewed, while automated feedback was consistently available with a broader, more fine-grained score distribution](learner-feedback-skewed-automated-fine-grained.md) — related
+- Tutors on Ringle rated automated feedback significantly more negatively than learner feedback across six of seven perception dimensions — related
+- Learner feedback on Ringle was often missing and positively skewed, while automated feedback was consistently available with a broader, more fine-grained score distribution — related
 - [Trust in customized agents was associated with clear, accurate, and contextually aligned feedback](trust-customized-agents-accuracy-contextual-alignment.md) — related

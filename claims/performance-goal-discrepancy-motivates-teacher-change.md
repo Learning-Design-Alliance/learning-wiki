@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Seeing oneself acting in unsuccessful teaching patterns creates a discrepancy between actual performance and goals, and the desire to eliminate that discrepancy provides motivation for change. [→ Guided Self-Analyses Early Childhood Education Program: Teaching Young Children. Overview 1970](#guided-self-analyses-early-childhood-education-program-teaching-young-children-overview-1970)

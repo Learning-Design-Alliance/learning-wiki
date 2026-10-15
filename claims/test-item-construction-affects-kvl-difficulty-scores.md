@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: adam-nohejl-2026
-    resource: "https://arxiv.org/abs/2605.14257"
-    title: "Adam Nohejl, Xuanxin Wu, Yusuke Ide, Maria Angelica Riera Machin, Yi-Ning Chang, Hitomi Yanaka. (2026). Sakura at BEA 2026 Shared Task 1: What Makes Vocabulary Difficult? https://arxiv.org/abs/2605.14257"
+    resource: "https://doi.org/10.48550/arxiv.2605.14257"
+    title: "Adam Nohejl, Xuanxin Wu, Yusuke Ide, Maria Angelica Riera Machin, Yi-Ning Chang, Hitomi Yanaka. (2026). Sakura at BEA 2026 Shared Task 1: What Makes Vocabulary Difficult? https://arxiv.org/abs/2605.14257 [doi:10.48550/arxiv.2605.14257](https://doi.org/10.48550/arxiv.2605.14257)"
     author: Adam Nohejl, Xuanxin Wu, Yusuke Ide, Maria Angelica Riera Machin, Yi-Ning Chang, Hitomi Yanaka
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Adam Nohejl 2026
 
-Adam Nohejl, Xuanxin Wu, Yusuke Ide, Maria Angelica Riera Machin, Yi-Ning Chang, Hitomi Yanaka. (2026). Sakura at BEA 2026 Shared Task 1: What Makes Vocabulary Difficult? https://arxiv.org/abs/2605.14257
+Adam Nohejl, Xuanxin Wu, Yusuke Ide, Maria Angelica Riera Machin, Yi-Ning Chang, Hitomi Yanaka. (2026). Sakura at BEA 2026 Shared Task 1: What Makes Vocabulary Difficult? https://arxiv.org/abs/2605.14257 [doi:10.48550/arxiv.2605.14257](https://doi.org/10.48550/arxiv.2605.14257)
 
 `q2 · i?` · `design · r2`
 

@@ -44,10 +44,10 @@ Case-study interviews and document review of DPS's first-year rollout report the
 
 ## Related Claims
 - [Bulk negotiation with the Kahoot! provider reduced the per-teacher price from $149.99 to $44.60, saving the district over $25,000 on licenses](dps-kahoot-bulk-price-saving-25000.md) — a narrower finding that bears on this claim
-- [Students, teachers, and principals are perceived to have limited involvement in ed-tech procurement decisions, and providers are far less satisfied with end-user involvement than district stakeholders](limited-end-user-involvement-edtech-procurement.md) — related
-- [Ed-tech providers are overwhelmingly dissatisfied with procurement: only 4 percent say today's processes meet contemporary needs, and nearly two-thirds report the processes directly influence their product development](providers-dissatisfied-edtech-procurement-meets-needs.md) — related
+- Students, teachers, and principals are perceived to have limited involvement in ed-tech procurement decisions, and providers are far less satisfied with end-user involvement than district stakeholders — related
+- Ed-tech providers are overwhelmingly dissatisfied with procurement: only 4 percent say today's processes meet contemporary needs, and nearly two-thirds report the processes directly influence their product development — related
 - [Edtech tool access per district grew more than 350% between 2019 and 2025, yet most tools are unused or used at low intensity](edtech-procurement-implementation-gap.md) — related
 - [Consolidating edtech tools enabled DPS to pursue vendor partnerships that systematically compare app usage with student data to evaluate tool effectiveness](dps-consolidation-enables-impact-analysis.md) — related
-- [Funding is a top procurement challenge for districts, and many districts treat learning technology as a supplemental purchase rather than part of core curriculum budgets](funding-top-edtech-procurement-challenge.md) — related
+- Funding is a top procurement challenge for districts, and many districts treat learning technology as a supplemental purchase rather than part of core curriculum budgets — related
 - [DPS's evaluation process led schools to use safer edtech products by prioritizing student data privacy and accessibility review](dps-evaluation-safer-edtech-products.md) — related
 - [Denver Public Schools' cross-functional AI-edtech review cut its edtech portfolio from over 1,000 tools to fewer than 350 while saving millions of dollars](denver-cross-functional-review-shrunk-edtech-portfolio.md) — a broader claim this one bears on

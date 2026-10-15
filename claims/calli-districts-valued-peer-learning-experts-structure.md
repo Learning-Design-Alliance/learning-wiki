@@ -44,7 +44,7 @@ Formative interviews with district improvement team members over four years foun
 
 ## Related Claims
 - [Interacting repeatedly across convenings built trust that enabled districts to give and receive critiques of one another's plans](repeated-convenings-trust-enables-critique.md) — a narrower finding that bears on this claim
-- [The FACE Collaborative fostered collaborative leadership behaviors including mutual support, resource sharing, expert learning, and partnership building](face-collaborative-fostered-collaborative-leadership-behaviors.md) — related
+- The FACE Collaborative fostered collaborative leadership behaviors including mutual support, resource sharing, expert learning, and partnership building — related
 - [Continuous improvement for equity requires trust and courageous conversations; without trusting relationships, the improvement process will not help](ci-equity-requires-trust-and-courageous-conversations.md) — related
 - [Time constraints, limited capacity, funder expectations, and communication gaps were the most consistent barriers to participation, offset by recurring structures, relational trust, actionable data, and networked channels](barriers-and-supports-shaping-participation.md) — related
 - [The authors assert that Systems Review participation builds SEA teams' capacity for shared purpose, decision-making, and adaptive change management](systems-review-builds-capacity-outcomes.md) — related

@@ -44,4 +44,4 @@ Evaluation of the SensEnablr dashboard with 30 consenting tertiary students who 
 
 ## Related Claims
 - [Students reported that the dashboard boosted learning motivation and that predictive and prescriptive insights were beneficial to their learning](sensenablr-boosted-motivation-perceptions.md) — related
-- [Learning management system adoption rose from mostly non-use/orientation to routine-through-integration levels by December](loa-lms-adoption-growth.md) — related
+- Learning management system adoption rose from mostly non-use/orientation to routine-through-integration levels by December — related

@@ -53,4 +53,4 @@ Quasi-experimental pretest-posttest control group study of 45 first-year EFL stu
 - [Experimental and control groups were equivalent in vocabulary before the glossing treatment](gloss-study-groups-equivalent-at-pretest.md) — related
 - [Only L1-gloss-L2-ex and L1-in-text-gloss conditions significantly outperform the no-gloss control on all three vocabulary recall tests](gloss-l2-ex-and-in-text-gloss-beat-control-scheffe.md) — related
 - [Learning style (visual-verbal) shows no significant correlation with the effectiveness of pictorial elucidation for adolescent EFL learners](learning-style-no-correlation-pictorial-elucidation-effect.md) — related
-- [After concept-model instruction, students' posttest vocabulary scores ranged from 57.78% to 82.22% correct, compared with pretest scores of 0% to 8.89%](posttest-gains-pretest-to-posttest-concept-model.md) — related
+- After concept-model instruction, students' posttest vocabulary scores ranged from 57.78% to 82.22% correct, compared with pretest scores of 0% to 8.89% — related

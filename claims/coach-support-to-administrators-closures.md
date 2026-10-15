@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: mahsa-bakhshaei-2020
-    resource: "https://digitalpromise.dspacedirect.org/items/fd1d2f26-7b23-4dd8-9cd6-35f85e92e0c3"
-    title: "Mahsa Bakhshaei, John Seylar, Pati Ruiz, and Mai Chou Vang. (2020). The Valuable Role of Edtech Coaches during the COVID-19 Pandemic: A National Survey. Digital Promise. https://digitalpromise.dspacedirect.org/items/fd1d2f26-7b23-4dd8-9cd6-35f85e92e0c3"
+    resource: "https://doi.org/10.51388/20.500.12265/101"
+    title: "Mahsa Bakhshaei, John Seylar, Pati Ruiz, and Mai Chou Vang. (2020). The Valuable Role of Edtech Coaches during the COVID-19 Pandemic: A National Survey. Digital Promise. https://digitalpromise.dspacedirect.org/items/fd1d2f26-7b23-4dd8-9cd6-35f85e92e0c3 [doi:10.51388/20.500.12265/101](https://doi.org/10.51388/20.500.12265/101)"
     author: Mahsa Bakhshaei, John Seylar, Pati Ruiz, and Mai Chou Vang
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Mahsa Bakhshaei 2020
 
-Mahsa Bakhshaei, John Seylar, Pati Ruiz, and Mai Chou Vang. (2020). The Valuable Role of Edtech Coaches during the COVID-19 Pandemic: A National Survey. Digital Promise. https://digitalpromise.dspacedirect.org/items/fd1d2f26-7b23-4dd8-9cd6-35f85e92e0c3
+Mahsa Bakhshaei, John Seylar, Pati Ruiz, and Mai Chou Vang. (2020). The Valuable Role of Edtech Coaches during the COVID-19 Pandemic: A National Survey. Digital Promise. https://digitalpromise.dspacedirect.org/items/fd1d2f26-7b23-4dd8-9cd6-35f85e92e0c3 [doi:10.51388/20.500.12265/101](https://doi.org/10.51388/20.500.12265/101)
 
 `q2 · i?` · `associational · r1`
 
@@ -43,7 +43,7 @@ Survey of 148 edtech coaches (Figure 5) on support to district/school leaders: s
 
 
 ## Related Claims
-- [Most U.S. educators surveyed report being engaged in coaching, with respondents across all 50 states](83-percent-survey-respondents-engaged-in-coaching.md) — related
+- Most U.S. educators surveyed report being engaged in coaching, with respondents across all 50 states — related
 - [About one-third of edtech coaches felt unprepared at closure onset to support non-digital-instruction needs such as social-emotional support and equitable lessons](coach-readiness-gaps-nondigital-support.md) — related
 - [Edtech coaches frequently helped teachers use video conferencing tools, LMS platforms, and asynchronous instruction during closures](coach-support-to-teachers-closures.md) — related
 - [During 2020 school closures, teachers and school/district leaders reached out to edtech coaches more than before, with teachers reaching out more](edtech-coaches-reached-out-more-during-closures.md) — related

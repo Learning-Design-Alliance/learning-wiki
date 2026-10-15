@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: national-academies-of-sciences-2018
-    resource: "https://www.nationalacademies.org/publications/24783"
-    title: "National Academies of Sciences, Engineering, and Medicine. (2018). How People Learn II: Learners, Contexts, and Cultures. Consensus Study Report. https://www.nationalacademies.org/publications/24783"
+    resource: "https://doi.org/10.17226/24783"
+    title: "National Academies of Sciences, Engineering, and Medicine. (2018). How People Learn II: Learners, Contexts, and Cultures. Consensus Study Report. https://www.nationalacademies.org/publications/24783 [doi:10.17226/24783](https://doi.org/10.17226/24783)"
     author: National Academies of Sciences, Engineering, and Medicine
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### National Academies of Sciences 2018
 
-National Academies of Sciences, Engineering, and Medicine. (2018). How People Learn II: Learners, Contexts, and Cultures. Consensus Study Report. https://www.nationalacademies.org/publications/24783
+National Academies of Sciences, Engineering, and Medicine. (2018). How People Learn II: Learners, Contexts, and Cultures. Consensus Study Report. https://www.nationalacademies.org/publications/24783 [doi:10.17226/24783](https://doi.org/10.17226/24783)
 
 `q1 · i?` · `review · r?`
 

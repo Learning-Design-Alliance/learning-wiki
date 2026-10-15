@@ -17,7 +17,7 @@ sources:
 # Continuous Hint Factory (CHF)
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The CHF is a hint-generation method extending the Hint Factory to "vast and sparsely populated state spaces". It works in three steps: embed past student data in the edit distance space; infer a hint policy there via Gaussian process prediction for structured data, producing a weighted average of reference states chosen in a probabilistically optimal sense; and transform this mixture back into a human-readable edit via pre-image identification. By averaging multiple reference solutions it avoids emulating individual stylistic particularities without relying on frequency information.
@@ -41,9 +41,6 @@ The CHF is a hint-generation method extending the Hint Factory to "vast and spar
 
 ## Claims
 
-- [The Continuous Hint Factory predicts capable students' next edits more accurately than existing prediction schemes on two learning tasks, especially an open-ended programming task](../claims/chf-predicts-capable-student-edits-more-accurately.md) [+W]
-- [Frequency-based hint policies fail in sparsely populated state spaces because almost no state is visited more than once](../claims/frequency-hint-policies-fail-sparse-spaces.md) [+W]
-- [Student solution states in programming tasks are extremely sparsely populated, with the vast majority of states visited only once](../claims/programming-state-sparsity-states-visited-once.md) [+W]
 
 ## Related Elements
 - 

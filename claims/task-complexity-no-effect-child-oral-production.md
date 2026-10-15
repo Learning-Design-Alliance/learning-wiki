@@ -45,4 +45,4 @@ One-way ANOVA on oral post-test scores across the three task-complexity groups f
 ## Related Claims
 - [Child EFL learners receiving recasts in task-based lessons improve their production of third person singular -s from pretest to posttest, in a study with no no-recast comparison group](recasts-facilitate-child-efl-third-person-s-development.md) — related
 - [Higher task complexity is associated with lower written production of the target form among child learners receiving recasts](task-complexity-negatively-related-child-written-production.md) — related
-- [Oral language development on a task follows at least three distinct patterns: fluency, complexity, or both](three-patterns-oral-development.md) — related
+- Oral language development on a task follows at least three distinct patterns: fluency, complexity, or both — related

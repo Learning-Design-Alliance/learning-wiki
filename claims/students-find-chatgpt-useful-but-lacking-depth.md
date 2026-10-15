@@ -45,7 +45,7 @@ Qualitative student comment (S1) on how students generally evaluated ChatGPT's a
 ## Related Claims
 - [SMEs rated ChatGPT's content accuracy acceptable but inconsistent across questions and significantly below human TAs' accuracy](chatgpt-lab-accuracy-acceptable-inconsistent-below-human-tas.md) — related
 - [Students rated human TA responses more favorably overall but preferred ChatGPT responses 40% of the time](students-prefer-human-ta-responses-but-40-percent-prefer-chatgpt.md) — related
-- [Students wanted more detailed feedback explaining why answers were incorrect and linking to relevant course content](students-want-detailed-explanatory-feedback.md) — related
+- Students wanted more detailed feedback explaining why answers were incorrect and linking to relevant course content — related
 - [Students find computer-based simulation feedback insufficient because incorrect responses are marked without explanation](simucase-feedback-insufficient.md) — related
 - [Students' main AI challenges are content reliability and depth, and most expect AI to serve as tutor, creative partner, and critical thinking partner rather than mere content generator](student-critical-ai-role-expectations.md) — a broader claim this one bears on
 - [First-year EAP students prefer a hybrid feedback model combining AI-generated comments with instructor feedback over either source alone](students-prefer-hybrid-ai-instructor-feedback.md) — related

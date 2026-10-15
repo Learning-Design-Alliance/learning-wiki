@@ -17,7 +17,7 @@ sources:
 # Empathy Interview Protocol for inclusive computing pathways
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 A five-step interview protocol that educators use to elicit students' experiences with CS/CT before designing computing pathways. The steps are Step 0: Notice (begin with yourself and your identity), Step 1: Answer (reflect on your own experiences), Step 2: Listen (interview students and, if time, their caregiver), Step 3: Observe (understand context, uncover needs, hear honest feedback), and Step 4: Reflect (sit with the stories shared). The paper states its development is "grounded in the empathizing techniques and protocols from" equityXdesign and d.school's Liberatory Design Frameworks, and draws on Freire's Pedagogy of the Oppressed and Costanza-Chock's Design Justice. A complete protocol is available at the printed link.
@@ -40,8 +40,6 @@ A five-step interview protocol that educators use to elicit students' experience
 
 ## Claims
 
-- [Student voices provided insights into factors that may impact participation in CS programs in Iowa City](../claims/student-voices-insights-cs-participation-factors.md) [+W]
-- [Teacher and administrator perceptions of what impacts minoritized students' computing participation were not always aligned with what students themselves identified](../claims/teacher-perceptions-misaligned-student-identified-computing-barriers.md) [+W]
 
 ## Related Elements
 - 

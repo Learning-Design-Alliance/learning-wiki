@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: kim-2026
-    resource: "https://arxiv.org/abs/2605.29090"
-    title: "Kim, Jiyoon; Toyama, Kentaro; Kim, Sangmi; Carroll, John. (2026). \"It's OK Because...\": The Wild West of Student Rationalization of AI Use in Academic Writing. https://arxiv.org/abs/2605.29090"
+    resource: "https://doi.org/10.48550/arxiv.2605.29090"
+    title: "Kim, Jiyoon; Toyama, Kentaro; Kim, Sangmi; Carroll, John. (2026). \"It's OK Because...\": The Wild West of Student Rationalization of AI Use in Academic Writing. https://arxiv.org/abs/2605.29090 [doi:10.48550/arxiv.2605.29090](https://doi.org/10.48550/arxiv.2605.29090)"
     author: Kim, Jiyoon; Toyama, Kentaro; Kim, Sangmi; Carroll, John
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Kim 2026
 
-Kim, Jiyoon; Toyama, Kentaro; Kim, Sangmi; Carroll, John. (2026). "It's OK Because...": The Wild West of Student Rationalization of AI Use in Academic Writing. https://arxiv.org/abs/2605.29090
+Kim, Jiyoon; Toyama, Kentaro; Kim, Sangmi; Carroll, John. (2026). "It's OK Because...": The Wild West of Student Rationalization of AI Use in Academic Writing. https://arxiv.org/abs/2605.29090 [doi:10.48550/arxiv.2605.29090](https://doi.org/10.48550/arxiv.2605.29090)
 
 `q2 · i?` · `qualitative · r2`
 

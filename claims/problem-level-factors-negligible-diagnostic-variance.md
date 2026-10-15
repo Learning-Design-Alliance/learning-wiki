@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: tahreem-yasir-2026
-    resource: "https://arxiv.org/abs/2605.16207"
-    title: "Tahreem Yasir, Wenbo Li, Sam Gilson, Sutapa Dey Tithi, Xiaoyi Tian, Tiffany Barnes. (2026). Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most. arXiv:2605.16207. https://arxiv.org/abs/2605.16207"
+    resource: "https://doi.org/10.48550/arxiv.2605.16207"
+    title: "Tahreem Yasir, Wenbo Li, Sam Gilson, Sutapa Dey Tithi, Xiaoyi Tian, Tiffany Barnes. (2026). Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most. arXiv:2605.16207. https://arxiv.org/abs/2605.16207 [doi:10.48550/arxiv.2605.16207](https://doi.org/10.48550/arxiv.2605.16207)"
     author: Tahreem Yasir, Wenbo Li, Sam Gilson, Sutapa Dey Tithi, Xiaoyi Tian, Tiffany Barnes
     q: 2
     i: "?"
@@ -38,7 +38,7 @@ sources:
 # Step complexity, distance to conclusion, and inference rule explain negligible diagnostic variance, with complexity predicting misdiagnosis only for optimal steps
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · causal `r2` · `q2`
+> **Evidence** · 2 studies (3 entries) · 2 causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Step complexity predicted misdiagnosis only for optimal solutions (misdiagnosed M = 2.46 vs correctly classified M = 1.95, p < .05) and explained negligible variance overall (η² < .01). [→ Tahreem Yasir 2026](#tahreem-yasir-2026)
@@ -49,7 +49,7 @@ sources:
 
 ### Tahreem Yasir 2026
 
-Tahreem Yasir, Wenbo Li, Sam Gilson, Sutapa Dey Tithi, Xiaoyi Tian, Tiffany Barnes. (2026). Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most. arXiv:2605.16207. https://arxiv.org/abs/2605.16207
+Tahreem Yasir, Wenbo Li, Sam Gilson, Sutapa Dey Tithi, Xiaoyi Tian, Tiffany Barnes. (2026). Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most. arXiv:2605.16207. https://arxiv.org/abs/2605.16207 [doi:10.48550/arxiv.2605.16207](https://doi.org/10.48550/arxiv.2605.16207)
 
 `q2 · i?` · `causal · r2`
 

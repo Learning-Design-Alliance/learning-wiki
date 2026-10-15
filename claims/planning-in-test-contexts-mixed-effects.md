@@ -10,8 +10,8 @@ generated:
 evidence_strength: mixed
 sources:
   - id: yingli-wang-2008
-    resource: "https://www.ccsenet.org/journal/index.php/elt"
-    title: "Yingli Wang. (2008). Influence of Planning on Students' Language Performance in Task-based Language Teaching. English Language Teaching, 1(1). https://www.ccsenet.org/journal/index.php/elt"
+    resource: "https://doi.org/10.5539/elt.v1n1p83"
+    title: "Yingli Wang. (2008). Influence of Planning on Students' Language Performance in Task-based Language Teaching. English Language Teaching, 1(1). https://www.ccsenet.org/journal/index.php/elt [doi:10.5539/elt.v1n1p83](https://doi.org/10.5539/elt.v1n1p83)"
     author: Yingli Wang
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Planning effects on performance in test contexts are mixed, appearing for high-proficiency learners and high-load tasks but not overall
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Evidence** · 2 studies · 2 review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Wigglesworth (1997) found planned/unplanned performance differences especially for high-proficiency learners and high cognitive load tasks. [→ Yingli Wang 2008](#yingli-wang-2008)
@@ -40,7 +40,7 @@ sources:
 
 ### Yingli Wang 2008
 
-Yingli Wang. (2008). Influence of Planning on Students' Language Performance in Task-based Language Teaching. English Language Teaching, 1(1). https://www.ccsenet.org/journal/index.php/elt
+Yingli Wang. (2008). Influence of Planning on Students' Language Performance in Task-based Language Teaching. English Language Teaching, 1(1). https://www.ccsenet.org/journal/index.php/elt [doi:10.5539/elt.v1n1p83](https://doi.org/10.5539/elt.v1n1p83)
 
 `q2 · i?` · `review · r2`
 

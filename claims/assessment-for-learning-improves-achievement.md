@@ -83,14 +83,13 @@ A narrative review of the classroom formative assessment literature, the source 
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does adjusting instruction to evidence of learners' thinking gathered during teaching raise achievement over teaching the plan unchanged?* This table gathers the studies behind this claim and the 15 narrower claims that bear on it: **15 distinct studies** (4 qualitative, 3 quant-synthesis, 3 review, 2 design, 2 causal, 1 theoretical), `q1`–`q3`, 3 of 15 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does adjusting instruction to evidence of learners' thinking gathered during teaching raise achievement over teaching the plan unchanged?* This table gathers the studies behind this claim and the 14 narrower claims that bear on it: **14 distinct studies** (4 qualitative, 3 quant-synthesis, 3 review, 2 causal, 1 theoretical, 1 design), `q2`–`q3`, 3 of 14 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Lee et al. 2020](https://doi.org/10.1080/08957347.2020.1732383) | q3 · quant-synthesis · r? | i1 · small effect, d=.29 | this claim |
 | [Kingston and Nash 2011](https://doi.org/10.1111/j.1745-3992.2011.00220.x) | q3 · quant-synthesis · r2 | i1 · small effect, weighted mean ES=.20 | this claim |
 | [Black and Wiliam 1998](https://doi.org/10.1080/0969595980050102) | q2 · review · r? | i? | this claim |
-| Burnstein 2007 | q1 · design · r1 | i? | [The review reports that formative assessment produces significant and often substantial le](formative-assessment-produces-substantial-learning-gains-cited.md) (supports) |
 | Jones 2024 | q2 · theoretical · r2 | i? | [Teacher feedback as part of formative assessment has been shown by multiple studies to mov](teacher-feedback-moves-learning-forward.md) (supports) |
 | Center on School Turnaround at WestEd 2018 | q2 · design · r1 | i? | [Hattie's synthesis identifies lesson study, formative evaluation of teaching, discussion o](hattie-high-effect-size-instructional-factors.md) (supports) |
 | Darling-Hammond 2020 | q2 · review · r2 | i? | [Grade retention and tracking students into remedial instruction undermine achievement, whi](retention-and-downtracking-undermine-achievement.md) (supports) |
@@ -98,10 +97,10 @@ A narrative review of the classroom formative assessment literature, the source 
 | [Rebecka Rundquist 2024](https://doi.org/10.18608/jla.2024.8299) | q2 · quant-synthesis · r2 | i? | [Formative-assessment-based LA shows positive effects on achievement, motivation, and under](formative-assessment-la-positive-effects.md) (supports) |
 | [Yao X-C and Fan L 2026](https://doi.org/10.3389/fpsyg.2026.1905455) | q2 · causal · r2 | i3; i? | [The Diagnostic Review class gained more writing points across three cycles than the Contro](diagnostic-review-larger-writing-gains.md) (supports); [The Diagnostic Review class scored higher on diagnostic accuracy, actionability, comprehen](diagnostic-review-higher-process-indicators.md) (supports); [Group-by-cycle interactions were significant for diagnostic accuracy, comprehension, revis](group-cycle-interactions-formative-outcomes.md) (qualifies) |
 | Ian D. Beatty 2008 | q2 · qualitative · r2 | i? | [Teachers reported that CRS-and-TEFA use gave them more information about student thinking ](tefa-formative-information-changed-lessons.md) (supports) |
-| Digital Promise 2018 | q2 · qualitative · r2 | i? | [Teachers use Microsoft Forms for real-time formative assessment to make in-the-moment inst](forms-realtime-formative-assessment-uses.md) (supports) |
+| [Digital Promise 2018](https://doi.org/10.51388/20.500.12265/52) | q2 · qualitative · r2 | i? | [Teachers use Microsoft Forms for real-time formative assessment to make in-the-moment inst](forms-realtime-formative-assessment-uses.md) (supports) |
 | [Robertson et al. 2021](https://doi.org/10.1080/07370008.2020.1832096) | q2 · qualitative · r2 | i? | [Developing curricular design knowledge enables small-scale responsive adaptations within a](curricular-knowledge-enables-responsive-instructional-moves.md) (qualifies) |
 | [McElhaney 2024](https://doi.org/10.51388/20.500.12265/231) | q2 · review · r2 | i? | [Most surveyed teachers make small customizations to OpenSciEd materials often or daily, co](teacher-customizations-storyline-curriculum.md) (qualifies) |
-| Yanjie Zhang 2026 | q2 · qualitative · r2 | i? | [Teachers in the formative study agreed lesson plans need adjustment when student ability d](stem-more-amenable-difficulty-scaling.md) (qualifies) |
+| [Yanjie Zhang 2026](https://doi.org/10.48550/arxiv.2606.17633) | q2 · qualitative · r2 | i? | [Teachers in the formative study agreed lesson plans need adjustment when student ability d](stem-more-amenable-difficulty-scaling.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -136,7 +135,7 @@ Boundary conditions matter. Gains depend on the *use* of assessment information 
 - [Retrieval practice improves long-term retention.](retrieval-practice-improves-retention.md) — low-stakes quizzing is a common formative assessment vehicle
 - [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](peer-assessment-improves-performance.md) — peer assessment operationalizes formative assessment at scale
 - [Universal school-based SEL programs improve students' behaviour, with a small and, in recent randomised trials, negligible effect on academic achievement](sel-programs-improve-behavior-and-achievement.md) — related
-- [The review reports that formative assessment produces significant and often substantial learning gains, citing Black and Wiliam](formative-assessment-produces-substantial-learning-gains-cited.md) — related
+- The review reports that formative assessment produces significant and often substantial learning gains, citing Black and Wiliam — related
 - [Project-based learning improves achievement](project-based-learning-improves-achievement.md) — related
 - [Reading and writing abilities share substantial overlap, supporting teaching writing based on reading](reading-writing-abilities-overlap.md) — related
 - [High-stakes testing accountability is pervasive in American K-12 schooling while its efficacy remains contested](high-stakes-testing-pervasive-efficacy-contested.md) — related

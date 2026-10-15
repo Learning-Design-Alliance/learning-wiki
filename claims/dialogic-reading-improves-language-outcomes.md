@@ -102,16 +102,16 @@ A meta-analysis of 31 experiments and quasi-experiments (2,049 children) in whic
 - [Joint Book Reading Predicts Literacy Success](joint-book-reading-predicts-literacy-success.md) — related
 - [Parent Involvement Improves Early Reading](parent-involvement-improves-early-reading.md) — related
 - [Parent Coaching Outperforms Information Only](parent-coaching-outperforms-information-only.md) — related
-- [Classroom interactional structures such as questions, recasts, and feedback influence students' processing of targeted content](interactional-structures-shape-content-processing.md) — related
-- [A disadvantaged-child program with heavy oral language emphasis led all compared programs in cognitive gains](oral-language-emphasis-program-led-cognitive-gains.md) — related
+- Classroom interactional structures such as questions, recasts, and feedback influence students' processing of targeted content — related
+- A disadvantaged-child program with heavy oral language emphasis led all compared programs in cognitive gains — related
 - [Level of implementation moderates Dialogic Reading's effects on children's oral language](implementation-level-moderates-dialogic-reading-effects.md) — related
 - [Parent-implemented dialogic reading showed no statistically significant differences from a group story-time comparison on any language measure (Crain-Thoreson & Dale, 1999)](crain-thoreson-dale-1999-parent-led-null-effects.md) — reports the opposite
 - [Dialogic reading favored significant gains on lexical diversity during play and total utterances during book reading, but not on four other measures (Dale et al., 1996)](dale-1996-significant-lexical-diversity-play-total-utterances-book-reading.md) — a narrower finding that bears on this claim
 - [Language and print knowledge instructional features produced statistically comparable performance within their domains, leaving unclear which features are most effective](instructional-features-comparable-within-domains.md) — related
-- [Reading development proceeds from oral language through decoding and fluency to comprehension, but as an interwoven lattice rather than a simple linear process](reading-development-interwoven-lattice-not-linear.md) — related
+- Reading development proceeds from oral language through decoding and fluency to comprehension, but as an interwoven lattice rather than a simple linear process — related
 - [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — like dialogic reading, structured interaction that increases learner talk is the active ingredient.
 - [Chunking Reduces Working Memory Load](chunking-reduces-working-memory-load.md) — relevant to why well-scaffolded prompts keep young children's language production within manageable demands.
-- [Embedding literacy materials in play settings increases children's literacy engagement and environmental print reading](literacy-embedded-play-increases-literacy-engagement.md) — related
+- Embedding literacy materials in play settings increases children's literacy engagement and environmental print reading — related
 - [Parent Implemented Intervention Improves Outcomes](parent-implemented-intervention-improves-outcomes.md) — related
 - [Intervention dosage moderates child language outcomes: brief interventions under 60 minutes show no significant effect](book-sharing-dosage-moderates-language-outcomes.md) — related
 - [Child age, caregiver education and country income level do not moderate book-sharing intervention effects on child language](book-sharing-effects-invariant-age-education-income.md) — related

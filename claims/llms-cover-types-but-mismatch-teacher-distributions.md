@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: norah-almousa-2026
-    resource: "https://arxiv.org/abs/2609.28026"
-    title: "Norah Almousa, Shayan Peyghambari Oskoui, Raquel Coelho, Gayle Rogers, Xiang Lorraine Li, Diane Litman. (2026). Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing. arXiv preprint. https://arxiv.org/abs/2609.28026"
+    resource: "https://doi.org/10.48550/arxiv.2609.28026"
+    title: "Norah Almousa, Shayan Peyghambari Oskoui, Raquel Coelho, Gayle Rogers, Xiang Lorraine Li, Diane Litman. (2026). Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing. arXiv preprint. https://arxiv.org/abs/2609.28026 [doi:10.48550/arxiv.2609.28026](https://doi.org/10.48550/arxiv.2609.28026)"
     author: Norah Almousa, Shayan Peyghambari Oskoui, Raquel Coelho, Gayle Rogers, Xiang Lorraine Li, Diane Litman
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Norah Almousa 2026
 
-Norah Almousa, Shayan Peyghambari Oskoui, Raquel Coelho, Gayle Rogers, Xiang Lorraine Li, Diane Litman. (2026). Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing. arXiv preprint. https://arxiv.org/abs/2609.28026
+Norah Almousa, Shayan Peyghambari Oskoui, Raquel Coelho, Gayle Rogers, Xiang Lorraine Li, Diane Litman. (2026). Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing. arXiv preprint. https://arxiv.org/abs/2609.28026 [doi:10.48550/arxiv.2609.28026](https://doi.org/10.48550/arxiv.2609.28026)
 
 `q2 · i?` · `design · r2`
 

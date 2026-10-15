@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: zirui-shan-2026
-    resource: "https://arxiv.org/abs/2607.02361"
-    title: "Zirui Shan, Vanessa Echeverria, Yuheng Li, Yi-Shan Tsai, and Roberto Martinez-Maldonado. (2026). Data Comics for Education: Evaluating Effectiveness, Benefits, and the Ethics of AI-Assisted Creation. https://arxiv.org/abs/2607.02361"
+    resource: "https://doi.org/10.48550/arxiv.2607.02361"
+    title: "Zirui Shan, Vanessa Echeverria, Yuheng Li, Yi-Shan Tsai, and Roberto Martinez-Maldonado. (2026). Data Comics for Education: Evaluating Effectiveness, Benefits, and the Ethics of AI-Assisted Creation. https://arxiv.org/abs/2607.02361 [doi:10.48550/arxiv.2607.02361](https://doi.org/10.48550/arxiv.2607.02361)"
     author: Zirui Shan, Vanessa Echeverria, Yuheng Li, Yi-Shan Tsai, and Roberto Martinez-Maldonado
     q: 3
     i: 2
@@ -38,7 +38,7 @@ sources:
 # Data comics outperformed conventional visualisations on both information retrieval and comprehension tasks, with the largest gains in comprehension, particularly multiple-insight questions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · causal `r2` · `q3` · `i2`–`i3`
+> **Evidence** · 2 studies (3 entries) · 2 causal `r2` · `q3` · `i2`–`i3`
 
 ## Subclaims
 `q3 i2` For information retrieval tasks, the correct rate was significantly higher with DC than CV, with a moderate effect size (r = 0.341). [→ Zirui Shan 2026](#zirui-shan-2026)
@@ -49,7 +49,7 @@ sources:
 
 ### Zirui Shan 2026
 
-Zirui Shan, Vanessa Echeverria, Yuheng Li, Yi-Shan Tsai, and Roberto Martinez-Maldonado. (2026). Data Comics for Education: Evaluating Effectiveness, Benefits, and the Ethics of AI-Assisted Creation. https://arxiv.org/abs/2607.02361
+Zirui Shan, Vanessa Echeverria, Yuheng Li, Yi-Shan Tsai, and Roberto Martinez-Maldonado. (2026). Data Comics for Education: Evaluating Effectiveness, Benefits, and the Ethics of AI-Assisted Creation. https://arxiv.org/abs/2607.02361 [doi:10.48550/arxiv.2607.02361](https://doi.org/10.48550/arxiv.2607.02361)
 
 `q3 · i2` · `causal · r2`
 

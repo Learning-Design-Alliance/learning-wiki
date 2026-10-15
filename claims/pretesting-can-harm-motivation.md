@@ -71,7 +71,7 @@ Janelli, M., & Lipnevich, A. A. (2021). Effects of pre-tests and feedback on per
 - [Conflict-based instruction improves science conceptual learning, though staged contradictions helped only learners who reported being confused, and no study isolates disequilibrium as the mechanism](cognitive-disequilibrium-motivates-conceptual-change.md) — productive failure can motivate, but only under the right conditions
 - [Autonomy supports intrinsic motivation](autonomy-supports-intrinsic-motivation.md) — competence and autonomy are key drivers of the motivation at risk here
 - [Belonging interventions improve outcomes](belonging-interventions-improve-outcomes.md) — framing failure as normal and shared can buffer the motivational harm of early errors
-- [Instruction can harm learners in ways its performance data do not show.](instruction-has-unintended-moral-effects-that-performance-data-miss.md) — a broader claim this one bears on
+- Instruction can harm learners in ways its performance data do not show. — a broader claim this one bears on
 - [Retrieval Failure Reduces Benefit](retrieval-failure-reduces-benefit.md) — related
 - [Random measurement noise in pretest scores produces a negative contribution to the correlation between normalized gain and pretest score](measurement-noise-negative-gain-pretest-correlation.md) — related
 - [Youth motivation to persist in everyday problem-solving is minimal, costing them collaboration and new knowledge](minimal-persistence-everyday-problem-solving-youth.md) — related

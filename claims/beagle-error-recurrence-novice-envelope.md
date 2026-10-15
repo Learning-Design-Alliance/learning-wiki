@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: hanchen-david-wang-2026
-    resource: "https://arxiv.org/abs/2602.13280"
-    title: "Hanchen David Wang, Clayton Cohn, Zifan Xu, Siyuan Guo, Gautam Biswas, Meiyi Ma. (2026). BEAGLE: Behavior-Enforced Agent for Grounded Learner Emulation. Preprint. https://arxiv.org/abs/2602.13280"
+    resource: "https://doi.org/10.48550/arxiv.2602.13280"
+    title: "Hanchen David Wang, Clayton Cohn, Zifan Xu, Siyuan Guo, Gautam Biswas, Meiyi Ma. (2026). BEAGLE: Behavior-Enforced Agent for Grounded Learner Emulation. Preprint. https://arxiv.org/abs/2602.13280 [doi:10.48550/arxiv.2602.13280](https://doi.org/10.48550/arxiv.2602.13280)"
     author: Hanchen David Wang, Clayton Cohn, Zifan Xu, Siyuan Guo, Gautam Biswas, Meiyi Ma
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Hanchen David Wang 2026
 
-Hanchen David Wang, Clayton Cohn, Zifan Xu, Siyuan Guo, Gautam Biswas, Meiyi Ma. (2026). BEAGLE: Behavior-Enforced Agent for Grounded Learner Emulation. Preprint. https://arxiv.org/abs/2602.13280
+Hanchen David Wang, Clayton Cohn, Zifan Xu, Siyuan Guo, Gautam Biswas, Meiyi Ma. (2026). BEAGLE: Behavior-Enforced Agent for Grounded Learner Emulation. Preprint. https://arxiv.org/abs/2602.13280 [doi:10.48550/arxiv.2602.13280](https://doi.org/10.48550/arxiv.2602.13280)
 
 `q2 · i?` · `design · r2`
 

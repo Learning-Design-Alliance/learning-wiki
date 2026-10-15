@@ -44,12 +44,12 @@ The guide's introduction asserts, without presenting new data, that whole-person
 
 ## Related Claims
 - [Mixed delivery early care systems experience fragmentation that creates barriers such as siloed funding, inefficient subsidies, and workforce turnover](mixed-delivery-fragmentation-barriers.md) — related
-- [The current learning ecosystem serving frontline workers is siloed and does not support the flow of data between stakeholders or workers](frontline-ecosystem-siloed-data-flow.md) — related
+- The current learning ecosystem serving frontline workers is siloed and does not support the flow of data between stakeholders or workers — related
 - [Structural barriers — fragmented health systems, insufficient reimbursement and workforce shortages — constrain integration of psychological care in diabetes services](structural-barriers-psychological-care-integration.md) — related
 - [Fragmented data systems made intervention planning slow and burdensome, with educators spending 2-3 hours building a single student intervention plan](fragmented-data-systems-slow-intervention-planning.md) — related
 - [Network participation faced challenges of teacher time, resources, and fragmentation, with about 40 percent of principals reporting few useful resources](network-participation-time-resource-challenges.md) — related
 - [Limited school staff time is a crucial obstacle impeding cross-sector collaboration](limited-staff-time-obstacle-collaboration.md) — related
-- [US federal adult education funding structures (AEFLA and Title I) are fragmented and lack purchasing leverage, making scale difficult for ed-tech entrepreneurs](adult-ed-delivery-structures-fractured.md) — related
+- US federal adult education funding structures (AEFLA and Title I) are fragmented and lack purchasing leverage, making scale difficult for ed-tech entrepreneurs — related
 - [Coherence with preexisting initiatives made relationship-centered change more readily embraced](coherence-preexisting-initiatives-uptake.md) — related
 - [Strong, consistent early childhood leadership coupled with long-term strategic planning is essential to local preschool system coherence in mixed delivery systems](ece-leadership-strategic-planning-local-coherence.md) — related
 - [Insufficient data systems, LCFF funding limits, transportation barriers, and child welfare capacity constraints impede coordinated support for students in foster care](foster-care-coordination-challenges.md) — a narrower finding that bears on this claim

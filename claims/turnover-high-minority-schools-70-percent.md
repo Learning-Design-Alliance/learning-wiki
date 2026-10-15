@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: carver-thomas-2017
-    resource: "https://learningpolicyinstitute.org/product/teacher-turnover"
-    title: "Carver-Thomas, D. & Darling-Hammond, L. (2017). Teacher turnover: Why it matters and what we can do about it. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/teacher-turnover"
+    resource: "https://doi.org/10.54300/454.278"
+    title: "Carver-Thomas, D. & Darling-Hammond, L. (2017). Teacher turnover: Why it matters and what we can do about it. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/teacher-turnover [doi:10.54300/454.278](https://doi.org/10.54300/454.278)"
     author: "Carver-Thomas, D. & Darling-Hammond, L."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Carver-Thomas 2017
 
-Carver-Thomas, D. & Darling-Hammond, L. (2017). Teacher turnover: Why it matters and what we can do about it. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/teacher-turnover
+Carver-Thomas, D. & Darling-Hammond, L. (2017). Teacher turnover: Why it matters and what we can do about it. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/teacher-turnover [doi:10.54300/454.278](https://doi.org/10.54300/454.278)
 
 `q2 · i?` · `associational · r2`
 

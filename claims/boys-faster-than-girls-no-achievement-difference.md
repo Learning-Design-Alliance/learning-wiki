@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Girls answered, on average, about 7 seconds later than boys for correct answers, incorrect answers and non-answers, and boys responded faster to 31 out of 32 items. [→ Srdjan Verbić & Boris Tomić 2008](#srdjan-verbic-boris-tomic-2008)
@@ -63,11 +64,11 @@ The authors' comparison of achievement across gender groups in the same test fou
 
 ## Related Claims
 - [DIF was found for four items but could not be anticipated from differential response times between boys and girls alone](dif-not-predictable-from-differential-response-times.md) — related
-- [The negative response time–likelihood trend holds for boys (R=-0.22) but not for girls (R=+0.04)](rt-likelihood-trend-boys-not-girls.md) — related
-- [Mean response likelihood does not differ significantly between boys and girls, but its variance is 1.46 times greater for girls](likelihood-variance-greater-for-girls.md) — related
-- [Rapid responding was rare (0.3% of responses under 5 seconds) on this instructed low-stakes test, far below previously reported low-stakes levels](rapid-responding-rare-under-non-answer-instruction.md) — related
+- The negative response time–likelihood trend holds for boys (R=-0.22) but not for girls (R=+0.04) — related
+- Mean response likelihood does not differ significantly between boys and girls, but its variance is 1.46 times greater for girls — related
+- Rapid responding was rare (0.3% of responses under 5 seconds) on this instructed low-stakes test, far below previously reported low-stakes levels — related
 - [Boys and girls do not differ in the type of mental models of the day and night cycle they hold](no-gender-difference-day-night-mental-models.md) — related
-- [No significant difference between boys and girls in the degree of animistic or anthropomorphic explanation](no-gender-difference-animistic-explanations.md) — related
+- No significant difference between boys and girls in the degree of animistic or anthropomorphic explanation — related
 - [The experimental group answered achievement tests faster (6.18 minutes) than the control group (7.51 minutes)](cft-hypertext-design-faster-test-completion.md) — related
-- [Education Corps tutoring effects are stronger for boys (+0.33) than for girls (near zero), attributed to girls benefiting more from Tier 1 instruction](education-corps-boys-gains-girls-near-zero.md) — related
+- Education Corps tutoring effects are stronger for boys (+0.33) than for girls (near zero), attributed to girls benefiting more from Tier 1 instruction — related
 - [Ability and speed are negatively correlated, and the reading test's ability estimates are more affected by speed than the math test's](negative-ability-speed-correlation-li52-stronger.md) — related

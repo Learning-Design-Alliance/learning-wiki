@@ -46,4 +46,4 @@ Secondary qualitative finding from the gateway math faculty and student study. T
 - [Well-designed courseware enhances efficiency, supports independent student navigation, and lets faculty focus on teaching rather than technical challenges](courseware-efficiency-usability-gateway-math.md) — related
 - [Instructors widely relaxed deadlines and adjusted grading to accommodate pandemic circumstances, while balancing compassion with academic rigor](instructors-flexible-deadlines-grading-covid.md) — related
 - [Students want ongoing targeted formative feedback, but faculty time constraints and large class sizes limit providing it](formative-feedback-constraints-gateway-math.md) — related
-- [Qualitative interviews identify prior coding interest, time resources, course pacing, and financial constraints as key experiential factors shaping LC101 persistence](qualitative-experience-themes-lc101-persistence.md) — related
+- Qualitative interviews identify prior coding interest, time resources, course pacing, and financial constraints as key experiential factors shaping LC101 persistence — related

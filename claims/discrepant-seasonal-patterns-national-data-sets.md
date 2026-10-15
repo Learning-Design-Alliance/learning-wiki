@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: dennis-condron-2021
-    resource: "https://journals.sagepub.com/home/soe"
-    title: "Dennis Condron, Douglas Downery, Megan Kuhfeld. (2021). Schools as refractors: Change in variance in children's cognitive skills change while in school versus out. Sociology of Education, 94(4), 316-340. https://journals.sagepub.com/home/soe"
+    resource: "https://doi.org/10.1177/00380407211041542"
+    title: "Dennis Condron, Douglas Downery, Megan Kuhfeld. (2021). Schools as refractors: Change in variance in children's cognitive skills change while in school versus out. Sociology of Education, 94(4), 316-340. https://journals.sagepub.com/home/soe [doi:10.1177/00380407211041542](https://doi.org/10.1177/00380407211041542)"
     author: Dennis Condron, Douglas Downery, Megan Kuhfeld
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Dennis Condron 2021
 
-Dennis Condron, Douglas Downery, Megan Kuhfeld. (2021). Schools as refractors: Change in variance in children's cognitive skills change while in school versus out. Sociology of Education, 94(4), 316-340. https://journals.sagepub.com/home/soe
+Dennis Condron, Douglas Downery, Megan Kuhfeld. (2021). Schools as refractors: Change in variance in children's cognitive skills change while in school versus out. Sociology of Education, 94(4), 316-340. https://journals.sagepub.com/home/soe [doi:10.1177/00380407211041542](https://doi.org/10.1177/00380407211041542)
 
 `q1 · i?` · `associational · r?`
 

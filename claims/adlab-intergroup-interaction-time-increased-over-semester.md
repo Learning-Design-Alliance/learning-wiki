@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: irving-2013
-    resource: "https://arxiv.org/abs/1312.1953"
-    title: "Irving, P. W., & Sayre, E. C. (2013). Conditions for building a community of practice in an advanced physics laboratory. https://arxiv.org/abs/1312.1953"
+    resource: "https://doi.org/10.48550/arxiv.1312.1953"
+    title: "Irving, P. W., & Sayre, E. C. (2013). Conditions for building a community of practice in an advanced physics laboratory. https://arxiv.org/abs/1312.1953 [doi:10.48550/arxiv.1312.1953](https://doi.org/10.48550/arxiv.1312.1953)"
     author: "Irving, P. W., & Sayre, E. C."
     q: 2
     i: 2
@@ -31,7 +31,7 @@ sources:
 
 ### Irving 2013
 
-Irving, P. W., & Sayre, E. C. (2013). Conditions for building a community of practice in an advanced physics laboratory. https://arxiv.org/abs/1312.1953
+Irving, P. W., & Sayre, E. C. (2013). Conditions for building a community of practice in an advanced physics laboratory. https://arxiv.org/abs/1312.1953 [doi:10.48550/arxiv.1312.1953](https://doi.org/10.48550/arxiv.1312.1953)
 
 `q2 · i2` · `qualitative · r3`
 

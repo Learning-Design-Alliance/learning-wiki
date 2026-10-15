@@ -47,7 +47,7 @@ The review's discussion of implicit teaching strategies reports that higher-orde
 
 ## Related Claims
 - [Direct CT instruction combined with modeling, coaching, and discussion yields more consistent CT improvement than implicit teaching strategies](direct-ct-instruction-outperforms-implicit-strategies.md) — possibly the same claim (merge candidate)
-- [Critical questions support competency-based science assessment by evaluating higher-order thinking, knowledge transfer and reasoning patterns beyond fact memorization](critical-questions-competency-based-science-assessment.md) — related
+- Critical questions support competency-based science assessment by evaluating higher-order thinking, knowledge transfer and reasoning patterns beyond fact memorization — related
 - [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) — related
-- [In a qualitative study of 32 EFL teacher-education students, participants described deeper, more reflective thinking after metacognitive and critical-thinking instruction, and one reported applying it in other disciplines](ct-metacog-upper-level-thought.md) — related
+- In a qualitative study of 32 EFL teacher-education students, participants described deeper, more reflective thinking after metacognitive and critical-thinking instruction, and one reported applying it in other disciplines — related
 - [Retrieval Practice Improves Transfer](retrieval-practice-improves-transfer.md) — related

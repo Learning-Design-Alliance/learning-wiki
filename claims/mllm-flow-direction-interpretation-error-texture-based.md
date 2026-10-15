@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: patrick-phuoc-do-2026
-    resource: "https://arxiv.org/abs/2607.15176"
-    title: "Patrick Phuoc Do, Chau M. Ta, Chaoli Wang. (2026). Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy. https://arxiv.org/abs/2607.15176"
+    resource: "https://doi.org/10.48550/arxiv.2607.15176"
+    title: "Patrick Phuoc Do, Chau M. Ta, Chaoli Wang. (2026). Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy. https://arxiv.org/abs/2607.15176 [doi:10.48550/arxiv.2607.15176](https://doi.org/10.48550/arxiv.2607.15176)"
     author: Patrick Phuoc Do, Chau M. Ta, Chaoli Wang
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Patrick Phuoc Do 2026
 
-Patrick Phuoc Do, Chau M. Ta, Chaoli Wang. (2026). Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy. https://arxiv.org/abs/2607.15176
+Patrick Phuoc Do, Chau M. Ta, Chaoli Wang. (2026). Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy. https://arxiv.org/abs/2607.15176 [doi:10.48550/arxiv.2607.15176](https://doi.org/10.48550/arxiv.2607.15176)
 
 `q2 · i?` · `design · r2`
 

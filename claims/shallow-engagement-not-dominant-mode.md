@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: youjie-chen-2026
-    resource: "https://arxiv.org/abs/2602.00447"
-    title: "Youjie Chen, Xixi Shi, Xinyu Liu, Shuaiguo Wang, Tracy Xiao Liu, Dragan Gašević. (2026). Not All Students Engage Alike: Multi-Institution Patterns in GenAI Tutor Use. arXiv preprint. https://arxiv.org/abs/2602.00447"
+    resource: "https://doi.org/10.48550/arxiv.2602.00447"
+    title: "Youjie Chen, Xixi Shi, Xinyu Liu, Shuaiguo Wang, Tracy Xiao Liu, Dragan Gašević. (2026). Not All Students Engage Alike: Multi-Institution Patterns in GenAI Tutor Use. arXiv preprint. https://arxiv.org/abs/2602.00447 [doi:10.48550/arxiv.2602.00447](https://doi.org/10.48550/arxiv.2602.00447)"
     author: Youjie Chen, Xixi Shi, Xinyu Liu, Shuaiguo Wang, Tracy Xiao Liu, Dragan Gašević
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Youjie Chen 2026
 
-Youjie Chen, Xixi Shi, Xinyu Liu, Shuaiguo Wang, Tracy Xiao Liu, Dragan Gašević. (2026). Not All Students Engage Alike: Multi-Institution Patterns in GenAI Tutor Use. arXiv preprint. https://arxiv.org/abs/2602.00447
+Youjie Chen, Xixi Shi, Xinyu Liu, Shuaiguo Wang, Tracy Xiao Liu, Dragan Gašević. (2026). Not All Students Engage Alike: Multi-Institution Patterns in GenAI Tutor Use. arXiv preprint. https://arxiv.org/abs/2602.00447 [doi:10.48550/arxiv.2602.00447](https://doi.org/10.48550/arxiv.2602.00447)
 
 `q2 · i?` · `associational · r2`
 

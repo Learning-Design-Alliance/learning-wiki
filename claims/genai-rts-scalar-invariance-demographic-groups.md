@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: hossain-2026
-    resource: "https://arxiv.org/abs/2607.14301"
-    title: "Hossain, S., & Nawmi, T. A. (2026). Measuring How Students Rely on Generative AI in Academic Writing: Development and Multi-Source Validation of the Generative AI Reliance Types Scale (GenAI-RTS). https://arxiv.org/abs/2607.14301"
+    resource: "https://doi.org/10.48550/arxiv.2607.14301"
+    title: "Hossain, S., & Nawmi, T. A. (2026). Measuring How Students Rely on Generative AI in Academic Writing: Development and Multi-Source Validation of the Generative AI Reliance Types Scale (GenAI-RTS). https://arxiv.org/abs/2607.14301 [doi:10.48550/arxiv.2607.14301](https://doi.org/10.48550/arxiv.2607.14301)"
     author: "Hossain, S., & Nawmi, T. A."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Hossain 2026
 
-Hossain, S., & Nawmi, T. A. (2026). Measuring How Students Rely on Generative AI in Academic Writing: Development and Multi-Source Validation of the Generative AI Reliance Types Scale (GenAI-RTS). https://arxiv.org/abs/2607.14301
+Hossain, S., & Nawmi, T. A. (2026). Measuring How Students Rely on Generative AI in Academic Writing: Development and Multi-Source Validation of the Generative AI Reliance Types Scale (GenAI-RTS). https://arxiv.org/abs/2607.14301 [doi:10.48550/arxiv.2607.14301](https://doi.org/10.48550/arxiv.2607.14301)
 
 `q2 · i?` · `design · r2`
 

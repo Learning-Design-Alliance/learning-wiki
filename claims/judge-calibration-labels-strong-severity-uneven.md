@@ -10,8 +10,8 @@ generated:
 evidence_strength: mixed
 sources:
   - id: yubo-li-2026
-    resource: "https://arxiv.org/abs/2607.22606"
-    title: "Yubo Li, Rema Padman, Ramayya Krishnan. (2026). Auditing Institutional Heterogeneity for Generative AI in Patient Education: A Large-Scale Study of 102 US Transplant Handbooks. arXiv preprint. https://arxiv.org/abs/2607.22606"
+    resource: "https://doi.org/10.48550/arxiv.2607.22606"
+    title: "Yubo Li, Rema Padman, Ramayya Krishnan. (2026). Auditing Institutional Heterogeneity for Generative AI in Patient Education: A Large-Scale Study of 102 US Transplant Handbooks. arXiv preprint. https://arxiv.org/abs/2607.22606 [doi:10.48550/arxiv.2607.22606](https://doi.org/10.48550/arxiv.2607.22606)"
     author: Yubo Li, Rema Padman, Ramayya Krishnan
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # The LLM judge agrees with human annotators at 87.7% (κ = 0.842) on consensus pairs, but severity-rating agreement is uneven and medium-tier boundaries are uncertain
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Evidence** · 2 studies · 2 associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` On the 146 pairs where both annotators agree, judge agreement is 87.7% (κ = 0.842; macro-F1 0.841). [→ Yubo Li 2026](#yubo-li-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Yubo Li 2026
 
-Yubo Li, Rema Padman, Ramayya Krishnan. (2026). Auditing Institutional Heterogeneity for Generative AI in Patient Education: A Large-Scale Study of 102 US Transplant Handbooks. arXiv preprint. https://arxiv.org/abs/2607.22606
+Yubo Li, Rema Padman, Ramayya Krishnan. (2026). Auditing Institutional Heterogeneity for Generative AI in Patient Education: A Large-Scale Study of 102 US Transplant Handbooks. arXiv preprint. https://arxiv.org/abs/2607.22606 [doi:10.48550/arxiv.2607.22606](https://doi.org/10.48550/arxiv.2607.22606)
 
 `q2 · i?` · `associational · r2`
 

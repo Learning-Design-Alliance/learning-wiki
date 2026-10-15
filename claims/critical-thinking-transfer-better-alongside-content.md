@@ -43,4 +43,4 @@ Narrative review attribution: the review reports Nickerson's (1988) conclusion o
 
 
 ## Related Claims
-- [In a qualitative study of 32 EFL teacher-education students, participants described deeper, more reflective thinking after metacognitive and critical-thinking instruction, and one reported applying it in other disciplines](ct-metacog-upper-level-thought.md) — related
+- In a qualitative study of 32 EFL teacher-education students, participants described deeper, more reflective thinking after metacognitive and critical-thinking instruction, and one reported applying it in other disciplines — related

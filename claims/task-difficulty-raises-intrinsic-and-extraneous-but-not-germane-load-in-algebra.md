@@ -67,8 +67,8 @@ Same experiment, task-difficulty contrast on the CLM germane subscale: "no signi
 - [Goal setting improves performance](goal-setting-improves-performance.md) — related
 - [No significant interaction between prior knowledge and task difficulty was observed in a worked-example algebra study](no-prior-knowledge-by-task-difficulty-interaction-in-algebra-worked-examples.md) — related
 - [Prior knowledge, worked-example type (full vs completion) and task difficulty show a significant three-way interaction on an algebra posttest, but not on self-reported cognitive load](prior-knowledge-worked-example-task-difficulty-three-way-interaction-on-algebra-posttest.md) — related
-- [There are two types of germane load: one that increases with an increase in intrinsic load and one that increases as intrinsic load decreases](two-types-of-germane-load-related-to-intrinsic-load.md) — related
-- [Type 1 one-step equations (1 operational, 2 relational lines) are argued to be easier to learn than Type 2 (2 operational, 3 relational lines) due to lower cognitive load](type1-easier-than-type2-one-step-equations.md) — related
-- [Organization and task analysis were the most difficult problems in New York state writing competency testing](organization-task-analysis-hardest-writing-problems.md) — related
+- There are two types of germane load: one that increases with an increase in intrinsic load and one that increases as intrinsic load decreases — related
+- Type 1 one-step equations (1 operational, 2 relational lines) are argued to be easier to learn than Type 2 (2 operational, 3 relational lines) due to lower cognitive load — related
+- Organization and task analysis were the most difficult problems in New York state writing competency testing — related
 - [Task difficulty increases hesitations, with significantly more hesitations on Medium and Hard tasks than Easy tasks](task-difficulty-increases-hesitations-scratch-videos.md) — related
 - [Germane cognitive load is reformulated as redistributing working memory resources from extraneous to intrinsic processing rather than adding to total load](germane-load-redistributive-function-reformulation.md) — related

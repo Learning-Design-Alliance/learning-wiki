@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: dietzel-1974
-    resource: "https://eric.ed.gov/?id=ED091646"
-    title: "Dietzel, C. S.; Abeles, Norman. (1974). Client-Therapist Complementarity and Therapeutic Outcome. https://eric.ed.gov/?id=ED091646"
+    resource: "https://doi.org/10.1037/h0076731"
+    title: "Dietzel, C. S.; Abeles, Norman. (1974). Client-Therapist Complementarity and Therapeutic Outcome. https://eric.ed.gov/?id=ED091646 [doi:10.1037/h0076731](https://doi.org/10.1037/h0076731)"
     author: Dietzel, C. S.; Abeles, Norman
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Dietzel 1974
 
-Dietzel, C. S.; Abeles, Norman. (1974). Client-Therapist Complementarity and Therapeutic Outcome. https://eric.ed.gov/?id=ED091646
+Dietzel, C. S.; Abeles, Norman. (1974). Client-Therapist Complementarity and Therapeutic Outcome. https://eric.ed.gov/?id=ED091646 [doi:10.1037/h0076731](https://doi.org/10.1037/h0076731)
 
 `q2 · i?` · `associational · r1`
 

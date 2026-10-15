@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: berry-2019
-    resource: "https://digitalpromise.dspacedirect.org/items/65a7d0ed-66b1-4d5b-ac51-6bcf25285dd3"
-    title: "Berry, B., & Byrd, P. A. (2019). Micro-credentials and Education Policy in the United States: Recognizing Learning and Leadership for Our Nation's Teachers. Digital Promise. https://digitalpromise.dspacedirect.org/items/65a7d0ed-66b1-4d5b-ac51-6bcf25285dd3"
+    resource: "https://doi.org/10.51388/20.500.12265/104"
+    title: "Berry, B., & Byrd, P. A. (2019). Micro-credentials and Education Policy in the United States: Recognizing Learning and Leadership for Our Nation's Teachers. Digital Promise. https://digitalpromise.dspacedirect.org/items/65a7d0ed-66b1-4d5b-ac51-6bcf25285dd3 [doi:10.51388/20.500.12265/104](https://doi.org/10.51388/20.500.12265/104)"
     author: "Berry, B., & Byrd, P. A."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Berry 2019
 
-Berry, B., & Byrd, P. A. (2019). Micro-credentials and Education Policy in the United States: Recognizing Learning and Leadership for Our Nation's Teachers. Digital Promise. https://digitalpromise.dspacedirect.org/items/65a7d0ed-66b1-4d5b-ac51-6bcf25285dd3
+Berry, B., & Byrd, P. A. (2019). Micro-credentials and Education Policy in the United States: Recognizing Learning and Leadership for Our Nation's Teachers. Digital Promise. https://digitalpromise.dspacedirect.org/items/65a7d0ed-66b1-4d5b-ac51-6bcf25285dd3 [doi:10.51388/20.500.12265/104](https://doi.org/10.51388/20.500.12265/104)
 
 `q2 · i?` · `review · r2`
 
@@ -43,6 +43,6 @@ The brief reports, citing a New America report, that as of early 2018 only 11 st
 
 
 ## Related Claims
-- [Nine states offered CEUs for Digital Promise micro-credentials by 2017, but no coherent framework existed for valuing micro-credentials](nine-states-ceus-no-coherent-valuation-framework.md) — related
+- Nine states offered CEUs for Digital Promise micro-credentials by 2017, but no coherent framework existed for valuing micro-credentials — related
 - [State certification directors are cautious yet hopeful about micro-credentials, citing quality control and compensation-system fit as concerns](state-directors-micro-credential-concerns.md) — related
-- [Districts and universities increasingly attach concrete incentives to earning Digital Promise micro-credentials](recognizer-incentives-for-micro-credentials.md) — related
+- Districts and universities increasingly attach concrete incentives to earning Digital Promise micro-credentials — related

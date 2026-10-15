@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q3`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q3 i?` For Goal 2 (organizing cooperative activities), there was some effort but limited success project-wide; for Goal 3 (developing replicable models), CLASP made little progress. [→ Small 1994](#small-1994)
@@ -43,8 +44,8 @@ The evaluation's executive summary states that while Goal 1 was largely achieved
 
 
 ## Related Claims
-- [Communication, cooperation, and coordination were the most critical factors in successful CLASP programming](clasp-critical-success-factors-communication.md) — related
-- [CLASP succeeded in bringing ethnically diverse and underserved users into the library but programs often failed to create links to books, reading, or library services](clasp-diverse-users-missing-library-links.md) — related
-- [CLASP's impact centered on the number of programs offered rather than program type, with few differences between CLASP and non-CLASP library programs](clasp-impact-number-over-type.md) — related
-- [CLASP successfully established library use among children, reaching thousands of new users who were highly satisfied with programs](clasp-successful-library-use-children.md) — related
+- Communication, cooperation, and coordination were the most critical factors in successful CLASP programming — related
+- CLASP succeeded in bringing ethnically diverse and underserved users into the library but programs often failed to create links to books, reading, or library services — related
+- CLASP's impact centered on the number of programs offered rather than program type, with few differences between CLASP and non-CLASP library programs — related
+- CLASP successfully established library use among children, reaching thousands of new users who were highly satisfied with programs — related
 - [Formal partnerships enhanced interagency collaboration but required time to form, service benchmarks, and regular communication](promise-formal-partnerships-enhance-collaboration-with-conditions.md) — related

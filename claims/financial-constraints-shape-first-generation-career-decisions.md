@@ -48,7 +48,7 @@ Reflective editorial section on financial barriers, drawn from the authors' shar
 ## Related Claims
 - [The editorial's insights derive from reflections of 13 first-generation chemists and cannot represent all first-generation scientists](thirteen-first-generation-chemists-scope-limit.md) — related
 - [Lack of mentorship and guidance is a key barrier for first-generation chemists, stemming from limited awareness rather than ability](mentorship-gap-barrier-first-generation-chemists.md) — related
-- [Qualitative interviews identify prior coding interest, time resources, course pacing, and financial constraints as key experiential factors shaping LC101 persistence](qualitative-experience-themes-lc101-persistence.md) — related
+- Qualitative interviews identify prior coding interest, time resources, course pacing, and financial constraints as key experiential factors shaping LC101 persistence — related
 - [Psychological barriers, including imposter syndrome and feelings of not belonging, hinder first-generation chemists' visibility and opportunity-seeking](psychological-belonging-barrier-first-generation-chemists.md) — related
 - [College-specific barriers related to resources, time, and local labor market conditions limited implementation of the statewide E-HLTH career studies certificate](college-specific-barriers-limited-ehlth-certificate-implementation.md) — related
 - [Cost, inflexible formats, and misalignment with goals or industry demand are reported barriers to educational and training opportunities](tech-training-cost-inflexibility-misalignment-barriers.md) — related

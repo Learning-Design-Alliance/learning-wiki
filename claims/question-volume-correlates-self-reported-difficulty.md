@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: youssef-medhat-2026
-    resource: "https://arxiv.org/abs/2606.10736"
-    title: "Youssef Medhat, Junsoo Park, Ploy Thajchayapong and Ashok K. Goel. (2026). Detecting Knowledge Gaps from Conversational AI Interactions Using Curriculum Prerequisite Graphs. CSEDM'26: 10th Workshop on Computer Science Educational Data Mining. https://arxiv.org/abs/2606.10736"
+    resource: "https://doi.org/10.48550/arxiv.2606.10736"
+    title: "Youssef Medhat, Junsoo Park, Ploy Thajchayapong and Ashok K. Goel. (2026). Detecting Knowledge Gaps from Conversational AI Interactions Using Curriculum Prerequisite Graphs. CSEDM'26: 10th Workshop on Computer Science Educational Data Mining. https://arxiv.org/abs/2606.10736 [doi:10.48550/arxiv.2606.10736](https://doi.org/10.48550/arxiv.2606.10736)"
     author: Youssef Medhat, Junsoo Park, Ploy Thajchayapong and Ashok K. Goel
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Youssef Medhat 2026
 
-Youssef Medhat, Junsoo Park, Ploy Thajchayapong and Ashok K. Goel. (2026). Detecting Knowledge Gaps from Conversational AI Interactions Using Curriculum Prerequisite Graphs. CSEDM'26: 10th Workshop on Computer Science Educational Data Mining. https://arxiv.org/abs/2606.10736
+Youssef Medhat, Junsoo Park, Ploy Thajchayapong and Ashok K. Goel. (2026). Detecting Knowledge Gaps from Conversational AI Interactions Using Curriculum Prerequisite Graphs. CSEDM'26: 10th Workshop on Computer Science Educational Data Mining. https://arxiv.org/abs/2606.10736 [doi:10.48550/arxiv.2606.10736](https://doi.org/10.48550/arxiv.2606.10736)
 
 `q2 · i?` · `associational · r1`
 

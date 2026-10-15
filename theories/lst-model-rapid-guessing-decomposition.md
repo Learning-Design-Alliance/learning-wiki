@@ -16,7 +16,7 @@ sources:
 # Latent State Trait (LST) decomposition of test disengagement over repeated administrations
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The study applies a Latent State Trait (LST) model to decompose an individual's relative standing at each test occasion into two components. As the abstract explains, standing "is decomposed into a trait factor that is free of situational or interactional effects and an occasion factor capturing the situational or interactional component." If rank ordering is entirely consistent over time, observed variance is fully attributable to the trait factor. The authors use this framework to judge whether rapid guessing is trait-like or state-like across six administrations over three years.

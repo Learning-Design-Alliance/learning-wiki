@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: hong-qu-2026
-    resource: "https://arxiv.org/abs/2609.18505"
-    title: "Hong Qu, Zichao Ling, Yadie Yang. (2026). Integrating Flipped Learning and Generative AI for Practice-Based Design Education: Evidence from a Knit Yarn Design Course. https://arxiv.org/abs/2609.18505"
+    resource: "https://doi.org/10.48550/arxiv.2609.18505"
+    title: "Hong Qu, Zichao Ling, Yadie Yang. (2026). Integrating Flipped Learning and Generative AI for Practice-Based Design Education: Evidence from a Knit Yarn Design Course. https://arxiv.org/abs/2609.18505 [doi:10.48550/arxiv.2609.18505](https://doi.org/10.48550/arxiv.2609.18505)"
     author: Hong Qu, Zichao Ling, Yadie Yang
     q: 2
     i: 3
@@ -30,7 +30,7 @@ sources:
 # Intervention cohort scored significantly higher on creativity thinking, design skills, and problem solving, but not on presentation or attendance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r1` · `q2` · `i3` large
+> **Evidence** · 2 studies · 2 causal `r1` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Between-cohort differences were statistically significant for creativity thinking (g = 1.09), design skills (g = 1.42), and problem solving (g = 1.23), but not for presentation (p = 0.100) or attendance (p = 0.445). [→ Hong Qu 2026](#hong-qu-2026)
@@ -39,7 +39,7 @@ sources:
 
 ### Hong Qu 2026
 
-Hong Qu, Zichao Ling, Yadie Yang. (2026). Integrating Flipped Learning and Generative AI for Practice-Based Design Education: Evidence from a Knit Yarn Design Course. https://arxiv.org/abs/2609.18505
+Hong Qu, Zichao Ling, Yadie Yang. (2026). Integrating Flipped Learning and Generative AI for Practice-Based Design Education: Evidence from a Knit Yarn Design Course. https://arxiv.org/abs/2609.18505 [doi:10.48550/arxiv.2609.18505](https://doi.org/10.48550/arxiv.2609.18505)
 
 `q2 · i3` · `causal · r1`
 
@@ -62,6 +62,6 @@ Null results for two rubric dimensions in the same historical-cohort comparison:
 
 ## Related Claims
 - [GenAI-assisted education produces significantly higher higher-order thinking abilities than non-GenAI approaches (g = 0.72)](genai-higher-order-thinking-g072.md) — a broader claim this one bears on
-- [Subtask creativity scores correlate significantly with the main task total, supporting summed scoring](creact-subtask-main-task-correlations.md) — related
+- Subtask creativity scores correlate significantly with the main task total, supporting summed scoring — related
 - [The study's findings suggest AI-supported inquiry-based learning mainly supports creativity and affective development, with limited effect on problem-solving skills](ai-ibi-mainly-supports-creativity-and-affect.md) — related
 - [AI-supported inquiry-based learning did not produce a statistically significant improvement in students' critical problem-solving skills](ai-ibi-no-significant-gain-critical-problem-solving.md) — related

@@ -13,7 +13,7 @@ generated:
 # Learning Tasks
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (5 for, 2 mixed) · 14 studies (5 causal, 3 quant-synthesis, 2 review, 2 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 3 of 14 report an effect size · 3 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 12 studies (5 causal, 3 quant-synthesis, 2 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 2 of 12 report an effect size · 1 claim rests on one study
 
 ## Description
 A learning task is the integrated unit of work around which instruction is organized: a problem to solve, a case to analyze, a project to complete, or a performance to produce. Rather than decomposing content into isolated topics presented before application, task-centered design places learners in a meaningful, whole task from the start, with supporting information and part-task practice organized around it [Merrill's first principles identify task-centeredness as the core condition for effective instruction.](https://doi.org/10.1109/MTS.2002.1024043) [+M].
@@ -54,8 +54,6 @@ Learning tasks drive learning because they force learners to *use* knowledge rat
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- [Washington's Tuskegee practice anticipated the project method, building an institution around it decades before Kilpatrick](../claims/washington-anticipated-project-method.md) [~W]
-- [Class 6B increased 41 percent units on one task addressing the critical aspect of dividing a whole in similar parts](../claims/task-level-41-percent-unit-gain-dividing-whole-similar-parts.md) [+W]
 
 ## Related Elements
 - [Practice](practice.md) — tasks provide the meaningful context; distributed practice within and across tasks builds fluency

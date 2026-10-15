@@ -43,10 +43,10 @@ The review's C1 synthesis, citing Aberšek and Flogie (2021), Chaudhry and Kazim
 
 
 ## Related Claims
-- [AI-driven situated learning reshapes education by enhancing authenticity and transforming evaluation into assessment woven into the learning process](ai-authenticity-evaluation-reshaping.md) — a narrower finding that bears on this claim
+- AI-driven situated learning reshapes education by enhancing authenticity and transforming evaluation into assessment woven into the learning process — a narrower finding that bears on this claim
 - Thematic analysis of AI and SEC literature yields three AI themes and two SEC themes — possibly the same claim (merge candidate)
-- [Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs](human-guidance-ethical-grounding-ai.md) — related
-- [AI presents four solution types for overcoming situated learning barriers: adaptive systems, intelligent tutoring in authentic scenarios, administrative automation, and data-driven teacher support](ai-four-solution-types-situated-learning.md) — related
+- Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs — related
+- AI presents four solution types for overcoming situated learning barriers: adaptive systems, intelligent tutoring in authentic scenarios, administrative automation, and data-driven teacher support — related
 - [AI integration is associated with improvements in teaching, learning, and administrative efficiency in higher education when supported by adequate infrastructure](ai-integration-improves-teaching-learning-admin-efficiency.md) — related
 - [AI tools are reshaping traditional experimental approaches and creating novel opportunities for enhanced learning experiences in chemistry](ai-reshaping-experimental-approaches-learning-opportunities.md) — a narrower finding that bears on this claim
 - [GenAI offers transformative possibilities for personalised learning, research support and administrative efficiency in Global South higher education](genai-global-south-transformative-possibilities.md) — a narrower finding that bears on this claim

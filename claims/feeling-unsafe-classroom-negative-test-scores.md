@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: johanna-lacoe-2020
-    resource: "https://www.mathematica.org/publications/too-scared-to-learn-the-academic-consequences-of-feeling-unsafe-in-the-classroom"
-    title: "Johanna Lacoe. (2020). Too Scared to Learn? The Academic Consequences of Feeling Unsafe in the Classroom. Urban Education, vol. 55, issue 10. https://www.mathematica.org/publications/too-scared-to-learn-the-academic-consequences-of-feeling-unsafe-in-the-classroom"
+    resource: "https://doi.org/10.1177/0042085916674059"
+    title: "Johanna Lacoe. (2020). Too Scared to Learn? The Academic Consequences of Feeling Unsafe in the Classroom. Urban Education, vol. 55, issue 10. https://www.mathematica.org/publications/too-scared-to-learn-the-academic-consequences-of-feeling-unsafe-in-the-classroom [doi:10.1177/0042085916674059](https://doi.org/10.1177/0042085916674059)"
     author: Johanna Lacoe
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Johanna Lacoe 2020
 
-Johanna Lacoe. (2020). Too Scared to Learn? The Academic Consequences of Feeling Unsafe in the Classroom. Urban Education, vol. 55, issue 10. https://www.mathematica.org/publications/too-scared-to-learn-the-academic-consequences-of-feeling-unsafe-in-the-classroom
+Johanna Lacoe. (2020). Too Scared to Learn? The Academic Consequences of Feeling Unsafe in the Classroom. Urban Education, vol. 55, issue 10. https://www.mathematica.org/publications/too-scared-to-learn-the-academic-consequences-of-feeling-unsafe-in-the-classroom [doi:10.1177/0042085916674059](https://doi.org/10.1177/0042085916674059)
 
 `q2 · i?` · `associational · r2`
 

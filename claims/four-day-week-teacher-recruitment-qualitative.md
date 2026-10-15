@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: m-rebecca-kilburn-2021
-    resource: "https://www.nwea.org/research/publication/does-four-equal-five-implementation-and-outcomes-of-the-four-day-school-week/"
-    title: "M. Rebecca Kilburn, Andrea Phillips, Celia Gomez, Louis Mariano, Christopher Doss, Wendy Troxel, Emily Morton, Kevin Estes. (2021). Does four equal five? Implementation and outcomes of the four-day school week. NWEA Research report. https://www.nwea.org/research/publication/does-four-equal-five-implementation-and-outcomes-of-the-four-day-school-week/"
+    resource: "https://doi.org/10.7249/rr-a373-1"
+    title: "M. Rebecca Kilburn, Andrea Phillips, Celia Gomez, Louis Mariano, Christopher Doss, Wendy Troxel, Emily Morton, Kevin Estes. (2021). Does four equal five? Implementation and outcomes of the four-day school week. NWEA Research report. https://www.nwea.org/research/publication/does-four-equal-five-implementation-and-outcomes-of-the-four-day-school-week/ [doi:10.7249/rr-a373-1](https://doi.org/10.7249/rr-a373-1)"
     author: M. Rebecca Kilburn, Andrea Phillips, Celia Gomez, Louis Mariano, Christopher Doss, Wendy Troxel, Emily Morton, Kevin Estes
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### M. Rebecca Kilburn 2021
 
-M. Rebecca Kilburn, Andrea Phillips, Celia Gomez, Louis Mariano, Christopher Doss, Wendy Troxel, Emily Morton, Kevin Estes. (2021). Does four equal five? Implementation and outcomes of the four-day school week. NWEA Research report. https://www.nwea.org/research/publication/does-four-equal-five-implementation-and-outcomes-of-the-four-day-school-week/
+M. Rebecca Kilburn, Andrea Phillips, Celia Gomez, Louis Mariano, Christopher Doss, Wendy Troxel, Emily Morton, Kevin Estes. (2021). Does four equal five? Implementation and outcomes of the four-day school week. NWEA Research report. https://www.nwea.org/research/publication/does-four-equal-five-implementation-and-outcomes-of-the-four-day-school-week/ [doi:10.7249/rr-a373-1](https://doi.org/10.7249/rr-a373-1)
 
 `q2 · i?` · `qualitative · r?`
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: ethan-chew-2026
-    resource: "https://arxiv.org/abs/2606.18319"
-    title: "Ethan Chew, Enjia Wu, Iruss Eng, Ian Lim, Ranen Sim, Brandon Koh, Kaleb Nim, Caden Toh, Wei Dong Soin, Darius Koh, Galen Tay, Prannaya Gupta, Jonathan Koong, Yong Zhi Lim. (2026). ASTRA: A Scalable Next-Generation ATCO Training Simulator with Autonomous Simpilots. https://arxiv.org/abs/2606.18319"
+    resource: "https://doi.org/10.48550/arxiv.2606.18319"
+    title: "Ethan Chew, Enjia Wu, Iruss Eng, Ian Lim, Ranen Sim, Brandon Koh, Kaleb Nim, Caden Toh, Wei Dong Soin, Darius Koh, Galen Tay, Prannaya Gupta, Jonathan Koong, Yong Zhi Lim. (2026). ASTRA: A Scalable Next-Generation ATCO Training Simulator with Autonomous Simpilots. https://arxiv.org/abs/2606.18319 [doi:10.48550/arxiv.2606.18319](https://doi.org/10.48550/arxiv.2606.18319)"
     author: Ethan Chew, Enjia Wu, Iruss Eng, Ian Lim, Ranen Sim, Brandon Koh, Kaleb Nim, Caden Toh, Wei Dong Soin, Darius Koh, Galen Tay, Prannaya Gupta, Jonathan Koong, Yong Zhi Lim
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # DSPy prompt optimization improves all radiotelephony evaluators, with the largest gain in accuracy (+7.9%)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` After DSPy optimization, evaluator performance improved for accuracy (83.8 to 91.7%), brevity (85.5 to 89.7%), and completeness (81.5 to 88.1%), measured by inverted MAE on held-out sets. [→ Ethan Chew 2026](#ethan-chew-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Ethan Chew 2026
 
-Ethan Chew, Enjia Wu, Iruss Eng, Ian Lim, Ranen Sim, Brandon Koh, Kaleb Nim, Caden Toh, Wei Dong Soin, Darius Koh, Galen Tay, Prannaya Gupta, Jonathan Koong, Yong Zhi Lim. (2026). ASTRA: A Scalable Next-Generation ATCO Training Simulator with Autonomous Simpilots. https://arxiv.org/abs/2606.18319
+Ethan Chew, Enjia Wu, Iruss Eng, Ian Lim, Ranen Sim, Brandon Koh, Kaleb Nim, Caden Toh, Wei Dong Soin, Darius Koh, Galen Tay, Prannaya Gupta, Jonathan Koong, Yong Zhi Lim. (2026). ASTRA: A Scalable Next-Generation ATCO Training Simulator with Autonomous Simpilots. https://arxiv.org/abs/2606.18319 [doi:10.48550/arxiv.2606.18319](https://doi.org/10.48550/arxiv.2606.18319)
 
 `q2 · i?` · `design · r2`
 

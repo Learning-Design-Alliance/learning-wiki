@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: adam-coscia-2026
-    resource: "https://arxiv.org/abs/2608.04006"
-    title: "Adam Coscia, Sujata Duwal, Langdon Holmes, Scott Crossley, and Alex Endert. (2026). Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education. https://arxiv.org/abs/2608.04006"
+    resource: "https://doi.org/10.48550/arxiv.2608.04006"
+    title: "Adam Coscia, Sujata Duwal, Langdon Holmes, Scott Crossley, and Alex Endert. (2026). Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education. https://arxiv.org/abs/2608.04006 [doi:10.48550/arxiv.2608.04006](https://doi.org/10.48550/arxiv.2608.04006)"
     author: Adam Coscia, Sujata Duwal, Langdon Holmes, Scott Crossley, and Alex Endert
     q: 2
     i: "?"
@@ -32,7 +32,7 @@ sources:
 
 ### Adam Coscia 2026
 
-Adam Coscia, Sujata Duwal, Langdon Holmes, Scott Crossley, and Alex Endert. (2026). Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education. https://arxiv.org/abs/2608.04006
+Adam Coscia, Sujata Duwal, Langdon Holmes, Scott Crossley, and Alex Endert. (2026). Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education. https://arxiv.org/abs/2608.04006 [doi:10.48550/arxiv.2608.04006](https://doi.org/10.48550/arxiv.2608.04006)
 
 `q2 · i?` · `design · r3`
 

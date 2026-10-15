@@ -44,5 +44,5 @@ Thematic analysis of think-aloud and observation data from the case study. The a
 
 ## Related Claims
 - [GPT-4 generated detailed per-response feedback that was useful for identifying scoring errors and could support personalized student feedback](gpt4-feedback-useful-for-error-identification.md) — related
-- [Platform users were more convinced than non-users that immediate, imperfect AI feedback is more useful than delayed demonstrator feedback (79% versus 59%)](users-value-immediate-ai-feedback-more-than-nonusers.md) — related
+- Platform users were more convinced than non-users that immediate, imperfect AI feedback is more useful than delayed demonstrator feedback (79% versus 59%) — related
 - [Three multilingual international students critically evaluated AI feedback, recognized peer-AI agreement, and maintained their voices while revising](multilingual-students-critically-evaluate-ai-feedback-pairr.md) — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: zekun-wu-2026
-    resource: "https://arxiv.org/abs/2607.00445"
-    title: "Zekun Wu, Man Su, Huiyong Li, Tomohiro Nagashima, and Anna Maria Feit. (2026). Gaze-Informed Proactive AI Assistance for Children Exploring Picture Books. https://arxiv.org/abs/2607.00445"
+    resource: "https://doi.org/10.48550/arxiv.2607.00445"
+    title: "Zekun Wu, Man Su, Huiyong Li, Tomohiro Nagashima, and Anna Maria Feit. (2026). Gaze-Informed Proactive AI Assistance for Children Exploring Picture Books. https://arxiv.org/abs/2607.00445 [doi:10.48550/arxiv.2607.00445](https://doi.org/10.48550/arxiv.2607.00445)"
     author: Zekun Wu, Man Su, Huiyong Li, Tomohiro Nagashima, and Anna Maria Feit
     q: 3
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Gaze-based assistance produced a significantly higher follow-up fixation rate on the spoken secondary AOI than the baseline
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r1` · `q3`
+> **Evidence** · 2 studies · 2 causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Children fixated the secondary AOI during a significantly higher proportion of gaze-based assistance instances (M = 54.06%) than baseline instances (M = 35.48%), p < .05. [→ Zekun Wu 2026](#zekun-wu-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Zekun Wu 2026
 
-Zekun Wu, Man Su, Huiyong Li, Tomohiro Nagashima, and Anna Maria Feit. (2026). Gaze-Informed Proactive AI Assistance for Children Exploring Picture Books. https://arxiv.org/abs/2607.00445
+Zekun Wu, Man Su, Huiyong Li, Tomohiro Nagashima, and Anna Maria Feit. (2026). Gaze-Informed Proactive AI Assistance for Children Exploring Picture Books. https://arxiv.org/abs/2607.00445 [doi:10.48550/arxiv.2607.00445](https://doi.org/10.48550/arxiv.2607.00445)
 
 `q3 · i?` · `causal · r1`
 

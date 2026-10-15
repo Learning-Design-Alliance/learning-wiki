@@ -10,6 +10,7 @@ generated:
 evidence_strength: moderate
 sources:
   - id: drift-1
+    resource: "https://doi.org/10.48550/arxiv.2607.18598"
     title: drift-1
     q: 2
     i: "?"
@@ -36,7 +37,7 @@ sources:
 
 ### drift-1
 
-Shi Shi, Lingyun Chen, Zitao Zhang, Amanda R. Draper, and Eli Blevis. 2026. Designing for What Cannot Be Seen: Supporting Embodied String Learning for Musicians with Blindness and Low-Vision. The 28th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS '26). https://arxiv.org/abs/2607.18598
+Shi Shi, Lingyun Chen, Zitao Zhang, Amanda R. Draper, and Eli Blevis. 2026. Designing for What Cannot Be Seen: Supporting Embodied String Learning for Musicians with Blindness and Low-Vision. The 28th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS '26). https://arxiv.org/abs/2607.18598 [doi:10.48550/arxiv.2607.18598](https://doi.org/10.48550/arxiv.2607.18598)
 
 `q2 · i?` · `qualitative · r3`
 

@@ -13,7 +13,7 @@ generated:
 # The K-16 Square
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 A K-16 education-system alignment framework drafted by state education CEOs with the National Association of System Heads and The Education Trust to coordinate standards for graduation, college admission, teaching, and teacher preparation.
@@ -22,7 +22,6 @@ A K-16 education-system alignment framework drafted by state education CEOs with
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [About three-quarters of U.S. high school graduates go to college within two years, yet nearly half of college students take at least one remedial course, and students who required remediation graduated at lower rates](../claims/college-going-high-remediation-low-completion.md) [+M]
 
 ## Related Products and Programmes
 -

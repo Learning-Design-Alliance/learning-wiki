@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: rohit-mehra-2026
-    resource: "https://arxiv.org/abs/2607.06074"
-    title: "Rohit Mehra, Kapil Singi, Vikrant Kaulgud, Vibhu Saujanya Sharma, Swapnajeet Gon Choudhury, Swati Sharma, Adam P. Burden, Majd Sakr. (2026). Prompt Coach: An Empirical Evaluation of an Agentic Tutor for Learning Prompt Engineering in Software Development. https://arxiv.org/abs/2607.06074"
+    resource: "https://doi.org/10.48550/arxiv.2607.06074"
+    title: "Rohit Mehra, Kapil Singi, Vikrant Kaulgud, Vibhu Saujanya Sharma, Swapnajeet Gon Choudhury, Swati Sharma, Adam P. Burden, Majd Sakr. (2026). Prompt Coach: An Empirical Evaluation of an Agentic Tutor for Learning Prompt Engineering in Software Development. https://arxiv.org/abs/2607.06074 [doi:10.48550/arxiv.2607.06074](https://doi.org/10.48550/arxiv.2607.06074)"
     author: Rohit Mehra, Kapil Singi, Vikrant Kaulgud, Vibhu Saujanya Sharma, Swapnajeet Gon Choudhury, Swati Sharma, Adam P. Burden, Majd Sakr
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # A 60-minute session with Prompt Coach significantly improved professional developers' prompt quality, a 13.73% relative gain overall
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
+> **Evidence** · 2 studies · 1 causal `r1`, 1 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` After a 60-minute PC learning session, mean prompt-quality scores rose from 63.04 to 71.69 (+13.73%, paired Wilcoxon p < .001). [→ Rohit Mehra 2026](#rohit-mehra-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Rohit Mehra 2026
 
-Rohit Mehra, Kapil Singi, Vikrant Kaulgud, Vibhu Saujanya Sharma, Swapnajeet Gon Choudhury, Swati Sharma, Adam P. Burden, Majd Sakr. (2026). Prompt Coach: An Empirical Evaluation of an Agentic Tutor for Learning Prompt Engineering in Software Development. https://arxiv.org/abs/2607.06074
+Rohit Mehra, Kapil Singi, Vikrant Kaulgud, Vibhu Saujanya Sharma, Swapnajeet Gon Choudhury, Swati Sharma, Adam P. Burden, Majd Sakr. (2026). Prompt Coach: An Empirical Evaluation of an Agentic Tutor for Learning Prompt Engineering in Software Development. https://arxiv.org/abs/2607.06074 [doi:10.48550/arxiv.2607.06074](https://doi.org/10.48550/arxiv.2607.06074)
 
 `q2 · i?` · `design · r2`
 

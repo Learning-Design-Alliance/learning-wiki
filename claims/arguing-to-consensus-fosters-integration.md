@@ -41,4 +41,4 @@ The primer reports, citing Felton et al. (2015), that "arguing to reach consensu
 
 
 ## Related Claims
-- [Students high in Need for Cognition are more persuaded by unintelligible messages than students low in Need for Cognition](need-for-cognition-moderates-unintelligible-persuasion.md) — related
+- Students high in Need for Cognition are more persuaded by unintelligible messages than students low in Need for Cognition — related

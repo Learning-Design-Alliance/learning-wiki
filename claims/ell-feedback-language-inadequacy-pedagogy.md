@@ -42,7 +42,7 @@ Lexical comparison of feedback generated with ELL-designated prompts versus base
 
 
 ## Related Claims
-- [Empirical gains from AI tools in Arab EL2 classrooms are most consistent for surface-level outcomes, while higher-order writing quality and speaking proficiency show mixed results contingent on teacher mediation](surface-gains-mixed-higher-order-outcomes.md) — a broader claim this one bears on
+- Empirical gains from AI tools in Arab EL2 classrooms are most consistent for surface-level outcomes, while higher-order writing quality and speaking proficiency show mixed results contingent on teacher mediation — a broader claim this one bears on
 - [Race prompts elicit culturally stereotyped feedback: Black, Hispanic, and Asian students are positioned through cultural or linguistic stereotypes while White students receive argument-structure feedback](race-prompts-cultural-stereotype-feedback.md) — related
 - [ChatGPT-3.5 feedback on EAP argumentative essays aligns closely with human instructor scoring and identifies surface-level issues, but is less effective on rhetorical structure and contextual nuance](chatgpt-feedback-aligns-with-human-scoring-but-weak-on-rhetorical-structure.md) — related
 - [Faculty testing of AI chatbots on real student homework found feedback quality uneven, prompting-dependent, and focused on surface features](ai-chatbot-homework-feedback-limits.md) — a narrower finding that bears on this claim

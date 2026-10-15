@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: rana-abou-khamis-2026
-    resource: "https://arxiv.org/abs/2607.28650"
-    title: "Rana Abou Khamis, Hala Assal, and Ashraf Matrawy. (2026). Unanticipated Effects of Generative AI on Expertise Pathways and Performance Perception in System Administration. https://arxiv.org/abs/2607.28650"
+    resource: "https://doi.org/10.48550/arxiv.2607.28650"
+    title: "Rana Abou Khamis, Hala Assal, and Ashraf Matrawy. (2026). Unanticipated Effects of Generative AI on Expertise Pathways and Performance Perception in System Administration. https://arxiv.org/abs/2607.28650 [doi:10.48550/arxiv.2607.28650](https://doi.org/10.48550/arxiv.2607.28650)"
     author: Rana Abou Khamis, Hala Assal, and Ashraf Matrawy
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Rana Abou Khamis 2026
 
-Rana Abou Khamis, Hala Assal, and Ashraf Matrawy. (2026). Unanticipated Effects of Generative AI on Expertise Pathways and Performance Perception in System Administration. https://arxiv.org/abs/2607.28650
+Rana Abou Khamis, Hala Assal, and Ashraf Matrawy. (2026). Unanticipated Effects of Generative AI on Expertise Pathways and Performance Perception in System Administration. https://arxiv.org/abs/2607.28650 [doi:10.48550/arxiv.2607.28650](https://doi.org/10.48550/arxiv.2607.28650)
 
 `q2 · i?` · `qualitative · r2`
 
@@ -44,6 +44,6 @@ Interview theme on organizational comparison: P1 described team member A finishi
 
 ## Related Claims
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
-- [A lack of funding privileges more resourceful partners, and CHARM-EU declined stakeholder funding requests to avoid favoring some student teams over others](funding-evenhandedness-impedes-global-south-pilots.md) — related
-- [Full equality in ICEL decision-making and funding distribution is not possible for non-EU partners in European Universities alliances](full-equality-unattainable-non-eu-partners-eu-alliances.md) — related
+- A lack of funding privileges more resourceful partners, and CHARM-EU declined stakeholder funding requests to avoid favoring some student teams over others — related
+- Full equality in ICEL decision-making and funding distribution is not possible for non-EU partners in European Universities alliances — related
 - [Students report that GenAI creates an uneven playing field in assessment, favoring students who use it over those who work independently](genai-uneven-playing-field-assessment-fairness.md) — related

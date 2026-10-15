@@ -12,7 +12,7 @@ generated:
 # Countable versus dispositional prompt-rule audit
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (1 causal, 1 associational), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The paper's organizing framework splits system-prompt instructions into two kinds. Countable rules "set targets that anyone can check from the output, such as the two-sentence cap on replies", while dispositional rules "describe how the agent should behave or its manner, such as not being overly agreeable". Instruction-following benchmarks only test the first kind, leaving manner rules unmeasured; the paper supplies the missing scoring mechanism through human coders and validated LLM annotators applied to a deployment's own transcripts, treating an unaudited agent as an unverified treatment in the health-intervention sense.

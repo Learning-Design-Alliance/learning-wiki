@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: ralf-raumanns-2026
-    resource: "https://arxiv.org/abs/2607.20149"
-    title: "Ralf Raumanns, Theresa Elstner, Louis Ferger-Andrews, Louise M. Carlsen, Martin Potthast, Gerard Schouten, Josien P. W. Pluim, and Veronika Cheplygina. (2026). Data annotations as pedagogical hints: from subjective labels to critical thinking. https://arxiv.org/abs/2607.20149"
+    resource: "https://doi.org/10.48550/arxiv.2607.20149"
+    title: "Ralf Raumanns, Theresa Elstner, Louis Ferger-Andrews, Louise M. Carlsen, Martin Potthast, Gerard Schouten, Josien P. W. Pluim, and Veronika Cheplygina. (2026). Data annotations as pedagogical hints: from subjective labels to critical thinking. https://arxiv.org/abs/2607.20149 [doi:10.48550/arxiv.2607.20149](https://doi.org/10.48550/arxiv.2607.20149)"
     author: Ralf Raumanns, Theresa Elstner, Louis Ferger-Andrews, Louise M. Carlsen, Martin Potthast, Gerard Schouten, Josien P. W. Pluim, and Veronika Cheplygina
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Inter-annotator agreement was moderate (combined mean Fleiss's κ of 0.62 across 23 groups), yet most students reported having reached consensus
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Fleiss's κ computed for 23 student groups showed a combined mean of 0.62, indicating the intended subjectivity was present in the dataset. [→ Ralf Raumanns 2026](#ralf-raumanns-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Ralf Raumanns 2026
 
-Ralf Raumanns, Theresa Elstner, Louis Ferger-Andrews, Louise M. Carlsen, Martin Potthast, Gerard Schouten, Josien P. W. Pluim, and Veronika Cheplygina. (2026). Data annotations as pedagogical hints: from subjective labels to critical thinking. https://arxiv.org/abs/2607.20149
+Ralf Raumanns, Theresa Elstner, Louis Ferger-Andrews, Louise M. Carlsen, Martin Potthast, Gerard Schouten, Josien P. W. Pluim, and Veronika Cheplygina. (2026). Data annotations as pedagogical hints: from subjective labels to critical thinking. https://arxiv.org/abs/2607.20149 [doi:10.48550/arxiv.2607.20149](https://doi.org/10.48550/arxiv.2607.20149)
 
 `q2 · i?` · `design · r2`
 

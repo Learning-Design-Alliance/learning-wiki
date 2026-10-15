@@ -18,7 +18,7 @@ sources:
 # Istation Reading
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Istation Reading is a digital reading assessment and instructional platform developed and provided by Istation, with professional learning for educators and school leaders to support implementation.
@@ -29,8 +29,6 @@ Istation Reading is a digital reading assessment and instructional platform deve
 
 ### Claims
 - [Istation use is associated with significantly greater NWEA MAP Reading growth than comparison students in a South Carolina district (ES +0.06)](../claims/istation-sc-map-reading-growth-006.md) [+W]
-- [Istation users scored significantly higher on STAAR Reading than non-using schoolmates in a large urban Texas district (ES +0.10)](../claims/istation-tx-staar-reading-010.md) [+W]
-- [Across two quasi-experimental studies, Istation Reading shows a weighted mean effect size of +0.08, qualifying it for a Promising evidence rating](../claims/istation-weighted-mean-008-promising.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -65,8 +63,6 @@ The article describes an implementation-support component: "A variety of profess
 ## Claims
 
 - [Istation use is associated with significantly greater NWEA MAP Reading growth than comparison students in a South Carolina district (ES +0.06)](../claims/istation-sc-map-reading-growth-006.md) [+W]
-- [Istation users scored significantly higher on STAAR Reading than non-using schoolmates in a large urban Texas district (ES +0.10)](../claims/istation-tx-staar-reading-010.md) [+W]
-- [Across two quasi-experimental studies, Istation Reading shows a weighted mean effect size of +0.08, qualifying it for a Promising evidence rating](../claims/istation-weighted-mean-008-promising.md) [+W]
 
 ## Related Elements
 
@@ -114,8 +110,6 @@ Istation Reading is, in the article's words, "a computer-adaptive testing and su
 ## Claims
 
 - [Istation use is associated with significantly greater NWEA MAP Reading growth than comparison students in a South Carolina district (ES +0.06)](../claims/istation-sc-map-reading-growth-006.md) [+W]
-- [Istation users scored significantly higher on STAAR Reading than non-using schoolmates in a large urban Texas district (ES +0.10)](../claims/istation-tx-staar-reading-010.md) [+W]
-- [Across two quasi-experimental studies, Istation Reading shows a weighted mean effect size of +0.08, qualifying it for a Promising evidence rating](../claims/istation-weighted-mean-008-promising.md) [+W]
 
 ## Related Elements
 

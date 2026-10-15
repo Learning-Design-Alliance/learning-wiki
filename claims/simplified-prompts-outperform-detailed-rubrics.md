@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: olga-manakina-2026
-    resource: "https://arxiv.org/abs/2608.23814"
-    title: "Olga Manakina, Igor Bogdanov. (2026). Learning to Grade Efficiently: A Bandit-Driven Prompt-Selection Framework for Low-Cost LLM Essay Scoring. https://arxiv.org/abs/2608.23814"
+    resource: "https://doi.org/10.48550/arxiv.2608.23814"
+    title: "Olga Manakina, Igor Bogdanov. (2026). Learning to Grade Efficiently: A Bandit-Driven Prompt-Selection Framework for Low-Cost LLM Essay Scoring. https://arxiv.org/abs/2608.23814 [doi:10.48550/arxiv.2608.23814](https://doi.org/10.48550/arxiv.2608.23814)"
     author: Olga Manakina, Igor Bogdanov
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Olga Manakina 2026
 
-Olga Manakina, Igor Bogdanov. (2026). Learning to Grade Efficiently: A Bandit-Driven Prompt-Selection Framework for Low-Cost LLM Essay Scoring. https://arxiv.org/abs/2608.23814
+Olga Manakina, Igor Bogdanov. (2026). Learning to Grade Efficiently: A Bandit-Driven Prompt-Selection Framework for Low-Cost LLM Essay Scoring. https://arxiv.org/abs/2608.23814 [doi:10.48550/arxiv.2608.23814](https://doi.org/10.48550/arxiv.2608.23814)
 
 `q2 · i?` · `causal · r1`
 
@@ -47,6 +47,6 @@ Ablation study comparing prompts with detailed IELTS Key Assessment Criteria des
 - [A multi-armed bandit controller achieves scoring accuracy comparable to exhaustive grid search while reducing LLM calls by 78.4% and token consumption by 72.8%](mab-prompt-selection-reduces-aes-costs.md) — related
 - [Grading recipes without calibration examples perform substantially worse on MAE, though multi-step without examples ranks second on QWK](no-example-recipes-worse-mae.md) — related
 - [The multi-step grading recipe with calibration examples achieves the highest scoring accuracy and receives the majority of bandit arm pulls](multi-step-examples-highest-aes-accuracy.md) — related
-- [Model performance is robust to minor prompt wording changes but sensitive to holistic rubric redesign](rubric-structure-part-of-assessment-construct.md) — related
+- Model performance is robust to minor prompt wording changes but sensitive to holistic rubric redesign — related
 - [A construction-focused correctness rubric underperformed behavior-focused and undefined prompts for LLM scoring of code explanations](construction-rubric-underperformed-llm-scoring.md) — related
 - [Prompt quality and detailed scoring rubrics significantly influence the accuracy and consistency of LLM-generated grades](prompt-rubric-quality-drives-llm-grading.md) — reports the opposite

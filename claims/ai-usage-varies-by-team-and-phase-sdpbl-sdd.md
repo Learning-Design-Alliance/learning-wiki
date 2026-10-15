@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: hidetake-tanaka-2026
-    resource: "https://arxiv.org/abs/2608.30572"
-    title: "Hidetake Tanaka, Hiroshi Igaki, Kazumasa Shimari, Kiyoshi Honda, and Naoki Fukuyasu. (2026). Practical Implementation Report on Introducing Spec-Driven Development Using AI Agents in Software Development PBL. https://arxiv.org/abs/2608.30572"
+    resource: "https://doi.org/10.48550/arxiv.2608.30572"
+    title: "Hidetake Tanaka, Hiroshi Igaki, Kazumasa Shimari, Kiyoshi Honda, and Naoki Fukuyasu. (2026). Practical Implementation Report on Introducing Spec-Driven Development Using AI Agents in Software Development PBL. https://arxiv.org/abs/2608.30572 [doi:10.48550/arxiv.2608.30572](https://doi.org/10.48550/arxiv.2608.30572)"
     author: Hidetake Tanaka, Hiroshi Igaki, Kazumasa Shimari, Kiyoshi Honda, and Naoki Fukuyasu
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Hidetake Tanaka 2026
 
-Hidetake Tanaka, Hiroshi Igaki, Kazumasa Shimari, Kiyoshi Honda, and Naoki Fukuyasu. (2026). Practical Implementation Report on Introducing Spec-Driven Development Using AI Agents in Software Development PBL. https://arxiv.org/abs/2608.30572
+Hidetake Tanaka, Hiroshi Igaki, Kazumasa Shimari, Kiyoshi Honda, and Naoki Fukuyasu. (2026). Practical Implementation Report on Introducing Spec-Driven Development Using AI Agents in Software Development PBL. https://arxiv.org/abs/2608.30572 [doi:10.48550/arxiv.2608.30572](https://doi.org/10.48550/arxiv.2608.30572)
 
 `q2 · i?` · `design · r2`
 

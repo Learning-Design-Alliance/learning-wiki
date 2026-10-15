@@ -60,7 +60,7 @@ Systematic literature review of recent studies on AI ethics in education. The re
 - [The design-based approach yields a transparent, equitable GenAI policy and deeper instructor thinking about assessment](aligned-genai-policy-two-benefits.md) — a narrower finding that bears on this claim
 - [Regulatory and ethics compliance posed substantial, underestimated challenges that delayed the ITS rollout by a year](compliance-effort-delayed-its-rollout.md) — a narrower finding that bears on this claim
 - [Existing AI literacy frameworks treat teacher agency narrowly as tool adoption, leaving human–AI co-agency undertheorized](agency-narrowed-to-tool-adoption.md) — related
-- [Awareness of GenAI governance and regulation remains limited, appearing in a small transitional cluster](limited-regulatory-awareness-transitional-cluster.md) — related
+- Awareness of GenAI governance and regulation remains limited, appearing in a small transitional cluster — related
 - [A scaffolded participatory exercise in which students wrote rules governing the instructor's own AI use produced an accountability framework the instructor found more usable than institutional guidance](student-authored-instructor-ai-rules-accountability.md) — a narrower finding that bears on this claim
 - [Practitioner governance activity in Australian Group of Eight institutions outpaces what the published GenAI literature has documented, while Indonesian participants report less formal scaffolding](governance-practice-outpaces-genai-scholarship.md) — related
 - [Institutional AI policy formation lags behind practical AI presence in coursework, leaving many faculty in policy vacuums](institutional-ai-policy-maturity-lags-adoption.md) — a narrower finding that bears on this claim

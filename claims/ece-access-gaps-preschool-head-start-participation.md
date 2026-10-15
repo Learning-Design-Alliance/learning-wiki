@@ -44,4 +44,4 @@ The whitepaper's Background section reports participation rates for U.S. early c
 
 ## Related Claims
 - [Only about half of eligible children attend NC Pre-K, leaving almost 33,000 eligible children per year unserved](nc-pre-k-half-of-eligible-children-unserved.md) — related
-- [Evidence on preschool attendance by young children in foster care is largely unexamined, with one cited source reporting six percent of foster children under age six attend Head Start](foster-care-preschool-attendance-evidence-gap.md) — related
+- Evidence on preschool attendance by young children in foster care is largely unexamined, with one cited source reporting six percent of foster children under age six attend Head Start — related

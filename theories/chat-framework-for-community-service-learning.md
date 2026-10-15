@@ -16,7 +16,7 @@ sources:
 # Cultural-historical activity theory (CHAT) as a framework for analyzing community service-learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 CHAT is described as a cross-disciplinary framework for studying how humans purposefully transform natural and social reality as a culturally and historically situated, socially mediated process. The paper uses it to analyze CSL in higher education, tracing three generations: Vygotsky's object-oriented action mediated by cultural tools, Leont'ev's collective activity, and Engeström's interacting activity systems. Activity systems direct attention to division of labour, tools, rules, and outcomes.
@@ -38,11 +38,6 @@ CHAT is described as a cross-disciplinary framework for studying how humans purp
 
 ### Claims
 
-- [CHAT references are noticeably absent from commonly cited CSL literature despite shared commitments with Dewey and Freire](../claims/chat-absent-from-csl-literature.md) [+W]
-- [Contradictions within and across activity systems are vital forces for change and provide a rationale for CSL](../claims/chat-contradictions-activity-systems-rationale-for-csl.md) [+W]
-- [CHAT is an interventionist research method aimed at transformation, but tensions persist between adaptive and transformative orientations](../claims/chat-interventionist-transformation-tensions.md) [+W]
-- [Knowledge development as social collaboration: ZPD and collective activity systems support CSL learning networks](../claims/chat-knowledge-development-social-collaborative-csl.md) [+W]
-- [CHAT's rejection of the theory/practice divide frames CSL as boundary crossing that develops connective skills](../claims/chat-rejects-theory-practice-divide-csl-boundary-crossing.md) [+W]
 
 ## Related Theories
 

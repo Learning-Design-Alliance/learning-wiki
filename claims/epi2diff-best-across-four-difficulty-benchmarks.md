@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: chenguang-wang-2026
-    resource: "https://arxiv.org/abs/2606.28186"
-    title: "Chenguang Wang, Ming Li, Xinyue Zeng, Zhuochun Li, Hong Jiao, Tianyi Zhou, Dawei Zhou. (2026). Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction. https://arxiv.org/abs/2606.28186"
+    resource: "https://doi.org/10.48550/arxiv.2606.28186"
+    title: "Chenguang Wang, Ming Li, Xinyue Zeng, Zhuochun Li, Hong Jiao, Tianyi Zhou, Dawei Zhou. (2026). Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction. https://arxiv.org/abs/2606.28186 [doi:10.48550/arxiv.2606.28186](https://doi.org/10.48550/arxiv.2606.28186)"
     author: Chenguang Wang, Ming Li, Xinyue Zeng, Zhuochun Li, Hong Jiao, Tianyi Zhou, Dawei Zhou
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Chenguang Wang 2026
 
-Chenguang Wang, Ming Li, Xinyue Zeng, Zhuochun Li, Hong Jiao, Tianyi Zhou, Dawei Zhou. (2026). Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction. https://arxiv.org/abs/2606.28186
+Chenguang Wang, Ming Li, Xinyue Zeng, Zhuochun Li, Hong Jiao, Tianyi Zhou, Dawei Zhou. (2026). Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction. https://arxiv.org/abs/2606.28186 [doi:10.48550/arxiv.2606.28186](https://doi.org/10.48550/arxiv.2606.28186)
 
 `q2 · i?` · `design · r2`
 

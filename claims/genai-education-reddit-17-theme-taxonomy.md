@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: pelin-yüce-2026
-    resource: "https://arxiv.org/abs/2605.17712"
-    title: "Pelin Yüce, Xiangruo Dai, Rebecca Owens, Tuğrulcan Elmas. (2026). ChatGPT vs Teachers vs Students: Large-Scale Analysis of Generative AI Discourse in Education Communities on Reddit. arXiv. https://arxiv.org/abs/2605.17712"
+    resource: "https://doi.org/10.48550/arxiv.2605.17712"
+    title: "Pelin Yüce, Xiangruo Dai, Rebecca Owens, Tuğrulcan Elmas. (2026). ChatGPT vs Teachers vs Students: Large-Scale Analysis of Generative AI Discourse in Education Communities on Reddit. arXiv. https://arxiv.org/abs/2605.17712 [doi:10.48550/arxiv.2605.17712](https://doi.org/10.48550/arxiv.2605.17712)"
     author: Pelin Yüce, Xiangruo Dai, Rebecca Owens, Tuğrulcan Elmas
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Pelin Yüce 2026
 
-Pelin Yüce, Xiangruo Dai, Rebecca Owens, Tuğrulcan Elmas. (2026). ChatGPT vs Teachers vs Students: Large-Scale Analysis of Generative AI Discourse in Education Communities on Reddit. arXiv. https://arxiv.org/abs/2605.17712
+Pelin Yüce, Xiangruo Dai, Rebecca Owens, Tuğrulcan Elmas. (2026). ChatGPT vs Teachers vs Students: Large-Scale Analysis of Generative AI Discourse in Education Communities on Reddit. arXiv. https://arxiv.org/abs/2605.17712 [doi:10.48550/arxiv.2605.17712](https://doi.org/10.48550/arxiv.2605.17712)
 
 `q2 · i?` · `associational · r2`
 

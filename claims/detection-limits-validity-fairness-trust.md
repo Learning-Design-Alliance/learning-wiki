@@ -43,7 +43,7 @@ A narrative-review assertion in which the authors, citing Liang et al. (2023) an
 
 
 ## Related Claims
-- [GPT detectors frequently misclassify non-native English writing as AI-generated, raising fairness concerns for AI policy](gpt-detectors-biased-against-nonnative-english-writers.md) — a narrower finding that bears on this claim
+- GPT detectors frequently misclassify non-native English writing as AI-generated, raising fairness concerns for AI policy — a narrower finding that bears on this claim
 - [AI-detection tools produce inequitable outcomes, disadvantaging non-native English speakers through false positives](ai-detection-tools-inequitable-false-positives.md) — a narrower finding that bears on this claim
 - [AI-text detectors misclassify authentic TOEFL essays by non-native English speakers at a mean false-positive rate of 61.3% across seven detectors, far more often than native-speaker essays](detector-61-3-percent-false-positives-non-native-toefl.md) — a narrower finding that bears on this claim
 - [AI detectors using perplexity disproportionately misclassify non-native English writers, and the mechanism plausibly extends to other low-perplexity writers](perplexity-bias-non-native-english-writers.md) — a narrower finding that bears on this claim

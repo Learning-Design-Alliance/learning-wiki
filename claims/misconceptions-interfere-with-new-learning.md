@@ -73,7 +73,7 @@ Reviews roughly twenty years of research (since the mid-1980s) on refutation tex
 | [Tippett 2010](https://doi.org/10.1007/s10763-010-9203-x) | q3 · review · r? | i? | this claim |
 | Woloshyn 1992 | q3 · causal · r2 | i? | [In one experiment, refutational text (misbelief stated first, then fact) enhanced free rec](refutational-text-order-enhances-retention.md) (supports); [Elaborative interrogation produced greater pretest-to-posttest gains on items about common](elaborative-interrogation-improves-misbelief-items-pretest-posttest.md) (supports) |
 | Blosser 1993 | q2 / q3 · review · r3 | i? | [Conceptual change strategies in cooperative groups reduced misconceptions in community col](cooperative-conceptual-change-chemistry-misconceptions.md) (supports) |
-| Farr 2012 | q2 · design · r2 | i? | [A demonstration-plus-guided-inquiry-plus-computational-model sequence helped most students](guided-inquiry-computational-model-overcomes-amplitude-misconception.md) (qualifies) |
+| [Farr 2012](https://doi.org/10.48550/arxiv.1109.3720) | q2 · design · r2 | i? | [A demonstration-plus-guided-inquiry-plus-computational-model sequence helped most students](guided-inquiry-computational-model-overcomes-amplitude-misconception.md) (qualifies) |
 | [Pacaci et al. 2024](https://doi.org/10.1002/tea.21887) | q4 · quant-synthesis · r? | i3 · large effect, g=1.10 (adjusted g=0.93) | [Conflict-based instruction improves science conceptual learning, though staged contradicti](cognitive-disequilibrium-motivates-conceptual-change.md) (supports) |
 | [Lehman et al. 2013](https://doi.org/10.3233/jai-130025) | q3 · causal · r1 | i? | [Conflict-based instruction improves science conceptual learning, though staged contradicti](cognitive-disequilibrium-motivates-conceptual-change.md) (supports) |
 | Tao 1997 | q2 · qualitative · r2 | i? | [Computer-supported collaborative learning with simulation programs fostered conceptual cha](cscl-simulation-conceptual-change-cognitive-engagement.md) (qualifies) |
@@ -105,7 +105,7 @@ Reviews roughly twenty years of research (since the mid-1980s) on refutation tex
 - [The learning cycle is reported as an effective means for learning science concepts and processes](learning-cycle-effective-science-learning.md) — related
 - [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — related
 - [A network of three mutually overlapping intuitive ideas (less distance implies less time, bunched up means faster, faster implies less time) stabilizes students' initial thinking](network-of-intuitive-ideas-stabilizes-thinking.md) — related
-- [Change in new teachers requires a restructuring of their prior beliefs](new-teacher-change-requires-restructuring-prior-beliefs.md) — related
+- Change in new teachers requires a restructuring of their prior beliefs — related
 - [Perceived discrepancy between actual teaching performance and goals motivates teachers to change their teaching](performance-goal-discrepancy-motivates-teacher-change.md) — related
 - [AI was found lacking in diagnosing student misconceptions because models do not understand lack of logic or sense making](ai-lacking-diagnosing-misconceptions.md) — related
 - [Training-data contamination motivates newly designed cases: models can reproduce popular tabular records that frequently appear in public notebooks](llm-tabular-data-contamination-motivation.md) — related

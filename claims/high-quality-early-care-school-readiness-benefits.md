@@ -44,7 +44,7 @@ The article asserts these benefits of high-quality early care without citing spe
 
 ## Related Claims
 - [Early childhood education attendance is associated with statistically significant reductions in special education placement and grade retention](ece-reduces-special-education-retention.md) — possibly the same claim (merge candidate)
-- [Children attending early childhood education programs are far more likely to be on track in emergent literacy and numeracy](cl-early-childhood-education-improves-school-readiness.md) — related
+- Children attending early childhood education programs are far more likely to be on track in emergent literacy and numeracy — related
 - [Early childhood education attendance is associated with higher high school completion, college attendance, and employment](ece-higher-completion-college-employment.md) — related
 - [Early childhood education attendance is associated with decreased high school disciplinary measures including juvenile incarceration compared to similar non-attending children](ece-decreased-discipline-incarceration.md) — related
 - [Early childhood education attendance is associated with long-term health benefits, particularly reduced prevalence of risk factors for chronic diseases](ece-attendance-long-term-health-benefits.md) — related

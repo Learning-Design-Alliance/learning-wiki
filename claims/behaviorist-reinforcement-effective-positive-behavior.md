@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 6 design pages cite it; treat it as a lead to check, not an established finding.
 <!-- deprecated title (2026-10-05, overstated its evidence): Behaviorist reinforcement methods are reported to be effective in creating positive behavior across learning environments -->
 
 ## Subclaims
@@ -44,8 +45,8 @@ The review reports, citing John Dawning, Tedd Keating and Karl Bennett (2005), t
 
 
 ## Related Claims
-- [Behaviorism holds that the mind does not help a person acquire knowledge; learning is driven by the external environment](behaviorism-mind-not-source-of-knowledge.md) — related
+- Behaviorism holds that the mind does not help a person acquire knowledge; learning is driven by the external environment — related
 - [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — reports the opposite
 - [Positive Greetings At The Door Improve Engagement](positive-greetings-at-the-door-improve-engagement.md) — related
 - [Co-regulation strategies were reported to create a safe, positive classroom climate and to help youth manage emotions](co-regulation-supports-climate-and-youth-emotion-regulation.md) — related
-- [Little firm evidence supports learning by contiguity alone in any realm of behavior](little-evidence-for-contiguity-only-learning.md) — related
+- Little firm evidence supports learning by contiguity alone in any realm of behavior — related

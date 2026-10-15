@@ -13,7 +13,7 @@ generated:
 # Metacognition
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (6 for) · 11 studies (5 quant-synthesis, 3 associational, 2 review, 1 causal), `q2`–`q4` · 5 of 11 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (5 for) · 10 studies (5 quant-synthesis, 2 review, 2 associational, 1 causal), `q2`–`q4` · 5 of 10 report an effect size
 
 ## Description
 Metacognition is the element in which learners monitor, explain, and regulate their own thinking.
@@ -27,7 +27,6 @@ Metacognition is the element in which learners monitor, explain, and regulate th
 - [Metacognitive strategy instruction, which includes comprehension monitoring, improves academic performance by a medium amount, and in one non-randomised study comprehension-monitoring training raised low achievers' reading scores](../claims/self-monitoring-comprehension-improves-learning.md) [+M]
 - [Metacognitive Strategies Improve Learning](../claims/metacognitive-strategies-improve-learning.md) [+S]
 - [Learners misjudge which learning strategies are effective](../claims/learners-misjudge-effective-learning-strategies.md) [+M]
-- [Students showed deficiencies in maintaining and monitoring their reading plan within the three-element view of metacognition](../claims/students-deficient-monitoring-maintaining-plan.md) [+M]
 - [Prior Knowledge Needed For Accurate Self Assessment](../claims/prior-knowledge-needed-for-accurate-self-assessment.md) [+M]
 
 ## Related Elements

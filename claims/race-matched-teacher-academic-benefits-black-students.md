@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: carver-thomas-2018
-    resource: "https://learningpolicyinstitute.org/product/diversifying-teaching-profession"
-    title: "Carver-Thomas, D. (2018). Diversifying the teaching profession: How to recruit and retain teachers of color. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/diversifying-teaching-profession"
+    resource: "https://doi.org/10.54300/559.310"
+    title: "Carver-Thomas, D. (2018). Diversifying the teaching profession: How to recruit and retain teachers of color. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/diversifying-teaching-profession [doi:10.54300/559.310](https://doi.org/10.54300/559.310)"
     author: Carver-Thomas, D.
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Having a race-matched teacher is associated with higher test scores and long-term academic benefits for Black students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Evidence** · 2 studies · 2 review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In a reanalysis of Tennessee STAR data, Black elementary students with Black teachers had reading and math test scores 3 to 6 percentile points higher than students without Black teachers, with gains accumulating each year with a race-matched teacher. [→ Carver-Thomas 2018](#carver-thomas-2018)
@@ -40,7 +40,7 @@ sources:
 
 ### Carver-Thomas 2018
 
-Carver-Thomas, D. (2018). Diversifying the teaching profession: How to recruit and retain teachers of color. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/diversifying-teaching-profession
+Carver-Thomas, D. (2018). Diversifying the teaching profession: How to recruit and retain teachers of color. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/diversifying-teaching-profession [doi:10.54300/559.310](https://doi.org/10.54300/559.310)
 
 `q2 · i?` · `review · r2`
 
@@ -65,5 +65,5 @@ The review attributes this long-term finding to a second reanalysis of the same 
 - [Research by others indicates pairing teachers and students of the same race significantly increases reading and math achievement of Black and White students and raises high school completion probability](race-matched-teacher-achievement-benefits.md) — possibly the same claim (merge candidate)
 - [Students of color benefit academically and behaviorally from having teachers of the same race.](same-race-teacher-benefits.md) — related
 - [Teacher impacts on Black students' test scores vary widely, from 0.2 standard deviations in middle school English to 0.5 standard deviations in elementary school math between high- and low-effectiveness teachers](teacher-effectiveness-black-students-varies-widely.md) — related
-- [Teacher effects are cumulative and long-lived: sequences of effective versus ineffective teachers produce vastly different fifth-grade math outcomes in Tennessee](cumulative-teacher-sequence-effects-tennessee.md) — related
-- [Teacher-student racial match benefits students, including lower dropout and higher college enrollment for Black students](teacher-student-racial-match-benefits.md) — related
+- Teacher effects are cumulative and long-lived: sequences of effective versus ineffective teachers produce vastly different fifth-grade math outcomes in Tennessee — related
+- Teacher-student racial match benefits students, including lower dropout and higher college enrollment for Black students — related

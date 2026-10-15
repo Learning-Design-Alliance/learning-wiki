@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: megan-kuhfeld-2019
-    resource: "https://www.nwea.org/research/publication/when-does-inequality-grow-school-summer-and-achievement-gaps/"
-    title: "Megan Kuhfeld, Dennis Condron, Douglas Downey. (2019). When does inequality grow? School, summer, and achievement gaps. NWEA Research. https://www.nwea.org/research/publication/when-does-inequality-grow-school-summer-and-achievement-gaps/"
+    resource: "https://doi.org/10.3102/0013189x20977854"
+    title: "Megan Kuhfeld, Dennis Condron, Douglas Downey. (2019). When does inequality grow? School, summer, and achievement gaps. NWEA Research. https://www.nwea.org/research/publication/when-does-inequality-grow-school-summer-and-achievement-gaps/ [doi:10.3102/0013189x20977854](https://doi.org/10.3102/0013189x20977854)"
     author: Megan Kuhfeld, Dennis Condron, Douglas Downey
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Megan Kuhfeld 2019
 
-Megan Kuhfeld, Dennis Condron, Douglas Downey. (2019). When does inequality grow? School, summer, and achievement gaps. NWEA Research. https://www.nwea.org/research/publication/when-does-inequality-grow-school-summer-and-achievement-gaps/
+Megan Kuhfeld, Dennis Condron, Douglas Downey. (2019). When does inequality grow? School, summer, and achievement gaps. NWEA Research. https://www.nwea.org/research/publication/when-does-inequality-grow-school-summer-and-achievement-gaps/ [doi:10.3102/0013189x20977854](https://doi.org/10.3102/0013189x20977854)
 
 `q2 · i?` · `associational · r?`
 

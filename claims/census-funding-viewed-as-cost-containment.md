@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: elizabeth-dhuey-2013
-    resource: "https://direct.mit.edu/edfp"
-    title: "Elizabeth Dhuey, Stephen Lipscomb. (2013). Funding Special Education by Total District Enrollment: Advantages, Disadvantages, and Policy Considerations. Education Finance and Policy, vol. 8, issue 3. https://direct.mit.edu/edfp"
+    resource: "https://doi.org/10.1162/edfp_a_00098"
+    title: "Elizabeth Dhuey, Stephen Lipscomb. (2013). Funding Special Education by Total District Enrollment: Advantages, Disadvantages, and Policy Considerations. Education Finance and Policy, vol. 8, issue 3. https://direct.mit.edu/edfp [doi:10.1162/edfp_a_00098](https://doi.org/10.1162/edfp_a_00098)"
     author: Elizabeth Dhuey, Stephen Lipscomb
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Elizabeth Dhuey 2013
 
-Elizabeth Dhuey, Stephen Lipscomb. (2013). Funding Special Education by Total District Enrollment: Advantages, Disadvantages, and Policy Considerations. Education Finance and Policy, vol. 8, issue 3. https://direct.mit.edu/edfp
+Elizabeth Dhuey, Stephen Lipscomb. (2013). Funding Special Education by Total District Enrollment: Advantages, Disadvantages, and Policy Considerations. Education Finance and Policy, vol. 8, issue 3. https://direct.mit.edu/edfp [doi:10.1162/edfp_a_00098](https://doi.org/10.1162/edfp_a_00098)
 
 `q1 · i?` · `review · r2`
 

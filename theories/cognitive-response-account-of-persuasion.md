@@ -16,7 +16,7 @@ sources:
 # Greenwald's cognitive response account: rehearsal of the recipient's own cognitive responses explains persisting persuasion effects
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (1 causal, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The paper reproduces Greenwald's (1968) analysis of persuasion as a complex stimulus evoking a complex cognitive response, whose essential dimensions are response content (acceptance versus rejection) and intensity. Greenwald proposes that "rehearsal and learning of cognitive responses to persuasion may provide a basis for explaining persisting effects of communications in terms of cognitive learning." The article cites this to highlight the role of learners' own cognitive reactions, noting effects can range from persuasion to boomerang depending on whether rehearsed content supports or opposes the advocated position.
@@ -37,8 +37,6 @@ The paper reproduces Greenwald's (1968) analysis of persuasion as a complex stim
 
 ### Claims
 
-- [Unintelligible messages produce more agreement and cognitive elaboration than a no-message control](../claims/unintelligible-beats-no-message-control.md) [+W]
-- [Pure contiguity fails to explain cognitive learning: repeated contiguity between cognitions does not make one evoke the other](../claims/contiguity-alone-fails-in-cognitive-learning.md) [+W]
 
 ## Related Theories
 

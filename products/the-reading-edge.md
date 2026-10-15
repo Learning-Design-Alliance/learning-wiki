@@ -18,7 +18,7 @@ sources:
 # The Reading Edge
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The Reading Edge is a whole-school cooperative-learning reading programme adapted from Student Team Reading and delivered by classroom teachers during regular language-arts instruction.
@@ -28,8 +28,6 @@ The Reading Edge is a whole-school cooperative-learning reading programme adapte
 - **The Reading Edge whole-school cooperative learning reading program**: The Reading Edge is "a whole-school cooperative learning approach to reading instruction" adapted from Student Team Reading. Students work in "4-5 member teams to help each other build reading skills," engaging in partner reading, story retelling, story-related writing, word mastery, and story-structure activities to prepare for individual assessments. Instruction includes explicit teaching of metacognitive skills such as clarification, summarization, predication, and graphic organizers. It is delivered by classroom teachers during usual Language Arts/Reading time. (The Reading Edge (2008))
 
 ### Claims
-- [After one year, middle school students using Reading Edge scored higher on the Gates-MacGinitie Reading Tests with an overall effect size of +0.15](../claims/reading-edge-gates-macginitie-es-015.md) [+W]
-- [Reading Edge produced statistically significant gains in reading comprehension and vocabulary](../claims/reading-edge-significant-comprehension-vocabulary-gains.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -66,8 +64,6 @@ The Reading Edge is "a whole-school cooperative learning approach to reading ins
 
 ## Claims
 
-- [After one year, middle school students using Reading Edge scored higher on the Gates-MacGinitie Reading Tests with an overall effect size of +0.15](../claims/reading-edge-gates-macginitie-es-015.md) [+W]
-- [Reading Edge produced statistically significant gains in reading comprehension and vocabulary](../claims/reading-edge-significant-comprehension-vocabulary-gains.md) [+W]
 
 ## Related Elements
 

@@ -45,7 +45,7 @@ CFA (Proc TCALIS, maximum likelihood) on goal scores from MAP Reading and Mathem
 ## Related Claims
 - [The longitudinal achievement constructs of MAP reading and mathematics CATs remain invariant across five time points in ten states (except Indiana mathematics)](map-cat-longitudinal-construct-invariance-ten-states.md) — related
 - [MAP tests show metric invariance across grades for all studied tests except Michigan Mathematics tests](map-cat-metric-invariance-across-grades.md) — related
-- [Achievement dimensionality appears to change from pretest to end-of-course testing, questioning unidimensional ICC measurement of individual growth during instruction](achievement-dimensionality-changes-during-instruction.md) — related
+- Achievement dimensionality appears to change from pretest to end-of-course testing, questioning unidimensional ICC measurement of individual growth during instruction — related
 - [Chi-square difference tests show significant loading invariance constraints for Kansas Reading but all constraints significant for Michigan Mathematics](mgcfa-chi-square-difference-patterns-kansas-michigan.md) — related
 - [Quadratic latent growth fits MAP longitudinal achievement data better than linear growth across ten states](quadratic-growth-fits-map-better-than-linear.md) — related
 - [Item parceling at the testlet level substantially improves model fit, allowing partial (Rasch, 2PL) or full (bifactor) recovery of CAT constructs](parceling-testlet-level-recovers-cat-construct.md) — related

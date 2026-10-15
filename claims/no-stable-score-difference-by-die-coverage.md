@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: jorge-fábrega-2026
-    resource: "https://arxiv.org/abs/2610.02731"
-    title: "Jorge Fábrega. (2026). Same Performance, Different Process: Epistemic Ownership in AI-Mediated Education. Preprint. https://arxiv.org/abs/2610.02731"
+    resource: "https://doi.org/10.48550/arxiv.2610.02731"
+    title: "Jorge Fábrega. (2026). Same Performance, Different Process: Epistemic Ownership in AI-Mediated Education. Preprint. https://arxiv.org/abs/2610.02731 [doi:10.48550/arxiv.2610.02731](https://doi.org/10.48550/arxiv.2610.02731)"
     author: Jorge Fábrega
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Jorge Fábrega 2026
 
-Jorge Fábrega. (2026). Same Performance, Different Process: Epistemic Ownership in AI-Mediated Education. Preprint. https://arxiv.org/abs/2610.02731
+Jorge Fábrega. (2026). Same Performance, Different Process: Epistemic Ownership in AI-Mediated Education. Preprint. https://arxiv.org/abs/2610.02731 [doi:10.48550/arxiv.2610.02731](https://doi.org/10.48550/arxiv.2610.02731)
 
 `q2 · i?` · `associational · r1`
 

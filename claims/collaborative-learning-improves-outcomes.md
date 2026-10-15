@@ -62,7 +62,7 @@ This meta-analysis covered 39 classroom (not laboratory) studies from 1980 onwar
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does small-group work beat working alone, and how should groups be set up?* This table gathers the studies behind this claim and the 13 narrower claims that bear on it: **20 distinct studies** (7 review, 4 quant-synthesis, 3 causal, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4`, 4 of 20 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does small-group work beat working alone, and how should groups be set up?* This table gathers the studies behind this claim and the 12 narrower claims that bear on it: **19 distinct studies** (6 review, 4 quant-synthesis, 3 causal, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4`, 4 of 19 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -77,15 +77,14 @@ This meta-analysis covered 39 classroom (not laboratory) studies from 1980 onwar
 | Dubin and Taveggia 1968 | q2 · review · r? | i? | [Discussion promotes more active thinking than lecture, though lecture is no worse for tran](discussion-promotes-more-active-thought-than-lecture.md) (qualifies) |
 | [Siegel et al 1963](https://doi.org/10.1037/h0049171) | q3 · causal · r? | i? | [Discussion promotes more active thinking than lecture, though lecture is no worse for tran](discussion-promotes-more-active-thought-than-lecture.md) (qualifies) |
 | Bligh 2000 | q2 · review · r? | i? | [Discussion promotes more active thinking than lecture, though lecture is no worse for tran](discussion-promotes-more-active-thought-than-lecture.md) (qualifies) |
-| Rafelski 2010 | q1 · design · r2 | i? | [In this inquiry, student pairs work better than groups of three because larger groups risk](pairs-better-than-triads-in-stellar-inquiry.md) (qualifies) |
+| [Rafelski 2010](https://doi.org/10.48550/arxiv.1009.5404) | q1 · design · r2 | i? | [In this inquiry, student pairs work better than groups of three because larger groups risk](pairs-better-than-triads-in-stellar-inquiry.md) (qualifies) |
 | [Tobin 1987](https://doi.org/10.3102/00346543057001069) | q3 · review · r? | i? | [Reviews of classroom studies, read from their abstracts, associate longer teacher wait tim](increasing-wait-time-improves-response-quality.md) (qualifies) |
 | [Rowe 1986](https://doi.org/10.1177/002248718603700110) | q2 · review · r? | i? | [Reviews of classroom studies, read from their abstracts, associate longer teacher wait tim](increasing-wait-time-improves-response-quality.md) (qualifies) |
-| Judi Fusco 2024 | q2 · review · r2 | i? | [Meta-analytic studies show moderate to large effect sizes for collaborative learning on bo](meta-analytic-moderate-large-effects-collaborative-learning.md) (supports) |
 | [Chi 2018](https://doi.org/10.1111/cogs.12626) | q2 · design · r2 | i? | [An ICAP theory article reports, second-hand and without describing the design, a study in ](interactive-beats-constructive-concept-mapping.md) (supports) |
 | Philadelphia Mayor's Commission on Literacy 1994 | q2 · design · r1 | i? | [Research at primary and secondary levels indicates students learn more through non-competi](collaborative-group-work-beats-competitive-classrooms-k12.md) (supports) |
 | [Walls 2016](https://doi.org/10.14434/josotl.v16i2.19217) | q2 · theoretical · r2 | i? | [Active and collaborative approaches promote higher-order thinking and complex reasoning (r](active-collaborative-approaches-higher-order-thinking.md) (supports) |
 | [benefits-1](https://doi.org/10.51388/20.500.12265/251) | q2 · review · r2 | i? | [Collaborative argumentation benefits students' motivation, content learning, domain argume](collaborative-argumentation-benefits-summary.md) (supports) |
-| Viki M. Young 2026 | q2 · qualitative · r2 | i? | [Students report that peer collaboration and group work support their learning, and many wa](students-report-peer-collaboration-supports-learning.md) (qualifies) |
+| [Viki M. Young 2026](https://doi.org/10.51388/20.500.12265/286) | q2 · qualitative · r2 | i? | [Students report that peer collaboration and group work support their learning, and many wa](students-report-peer-collaboration-supports-learning.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -116,13 +115,13 @@ This meta-analysis covered 39 classroom (not laboratory) studies from 1980 onwar
 - [Cooperative learning shows benefits for gifted and high-ability students, though long-term evidence is lacking](cooperative-learning-gifted-students.md) — a narrower finding that bears on this claim
 - [A 2007 report on an online peer-assisted learning community asserts, citing no studies, that peer coaching has proved a highly effective form of teacher professional development in the UK, US and other countries since the 1980s](peer-coaching-supports-teacher-professional-development.md) — related
 - [Project-based learning improves achievement](project-based-learning-improves-achievement.md) — related
-- [Student oral presentations of laboratory results became the central activity stimulating active and cooperative learning](student-lab-presentations-central-activity.md) — related
-- [Review reports that collaborative feedback tasks improved students' writing accuracy for both low and highly proficient students (Tang & Tithecott)](cfts-improved-writing-accuracy-tang-tithecott.md) — a narrower finding that bears on this claim
+- Student oral presentations of laboratory results became the central activity stimulating active and cooperative learning — related
+- Review reports that collaborative feedback tasks improved students' writing accuracy for both low and highly proficient students (Tang & Tithecott) — a narrower finding that bears on this claim
 - [Research at primary and secondary levels indicates students learn more through non-competitive collaborative group work than in individualized competitive classrooms](collaborative-group-work-beats-competitive-classrooms-k12.md) — a broader claim this one bears on
 - [Collaborative tasks should be complex enough that joint effort is worthwhile, engaging the collective working memory effect](collective-working-memory-effect-task-complexity.md) — related
-- [Opportunities for peer collaboration largely disappeared when STEM courses went remote, with few instructors sustaining collaborative activities online](covid-stem-collaboration-reduced-remote.md) — a narrower finding that bears on this claim
+- Opportunities for peer collaboration largely disappeared when STEM courses went remote, with few instructors sustaining collaborative activities online — a narrower finding that bears on this claim
 - [Educators who implemented FH2T through partner or group work perceived it promoted peer collaboration and mathematical discussion](fh2t-promoted-peer-collaboration-discussion.md) — related
-- [Meta-analytic studies show moderate to large effect sizes for collaborative learning on both achievement and attitudes](meta-analytic-moderate-large-effects-collaborative-learning.md) — related
+- Meta-analytic studies show moderate to large effect sizes for collaborative learning on both achievement and attitudes — related
 - [More group engagement in social regulation of learning is associated with higher-quality collaborative products](more-regulation-higher-product-quality.md) — a narrower finding that bears on this claim
 - [Collaborative learning opportunities largely disappeared when courses shifted to remote instruction](remote-shift-reduced-collaborative-learning.md) — related
 - [A district math administrator reported that schools supported by coaches with mathematics expertise showed greater gains and stronger collaborative structures than schools without such support](math-expertise-coaches-associated-greater-gains.md) — related

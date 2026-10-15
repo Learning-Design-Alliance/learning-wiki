@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: shahin-hossain-2026
-    resource: "https://arxiv.org/abs/2606.28749"
-    title: "Shahin Hossain. (2026). Four Types of LLM Reliance and Their Predictors Among Undergraduate Writers: A Mixed-Methods Study at a Minority-Serving R1 University. arXiv. https://arxiv.org/abs/2606.28749"
+    resource: "https://doi.org/10.48550/arxiv.2606.28749"
+    title: "Shahin Hossain. (2026). Four Types of LLM Reliance and Their Predictors Among Undergraduate Writers: A Mixed-Methods Study at a Minority-Serving R1 University. arXiv. https://arxiv.org/abs/2606.28749 [doi:10.48550/arxiv.2606.28749](https://doi.org/10.48550/arxiv.2606.28749)"
     author: Shahin Hossain
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Shahin Hossain 2026
 
-Shahin Hossain. (2026). Four Types of LLM Reliance and Their Predictors Among Undergraduate Writers: A Mixed-Methods Study at a Minority-Serving R1 University. arXiv. https://arxiv.org/abs/2606.28749
+Shahin Hossain. (2026). Four Types of LLM Reliance and Their Predictors Among Undergraduate Writers: A Mixed-Methods Study at a Minority-Serving R1 University. arXiv. https://arxiv.org/abs/2606.28749 [doi:10.48550/arxiv.2606.28749](https://doi.org/10.48550/arxiv.2606.28749)
 
 `q3 · i?` · `associational · r2`
 

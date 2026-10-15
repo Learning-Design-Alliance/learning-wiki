@@ -10,7 +10,7 @@ evidence_strength: moderate
 sources:
   - id: dallas-study-cited-in-bracey-2004
     resource: "https://www.heinemann.com/products/e00594.aspx"
-    title: "Bracey, G. W. (2004). *Setting the record straight: Responses to misconceptions about public education in the U.S.* (2nd ed.). Heinemann. [https://www.heinemann.com/products/e00594.aspx](https://www.heinemann.com/products/e00594.aspx)"
+    title: "Bracey, G. W. (2004). *Setting the record straight: Responses to misconceptions about public education in the U.S.* (2nd ed.). Heinemann. [https://www.heinemann.com/products/e00594.aspx](https://www.heinemann.com/products/e00594.aspx) [doi:10.1177/019263650508964208](https://doi.org/10.1177/019263650508964208)"
     author: Bracey, G. W.
     q: 2
     i: 3
@@ -34,7 +34,7 @@ Teacher effectiveness, tracked as a growth or value-added measure rather than a 
 
 ### Dallas study cited in Bracey 2004
 
-Bracey, G. W. (2004). *Setting the record straight: Responses to misconceptions about public education in the U.S.* (2nd ed.). Heinemann. [https://www.heinemann.com/products/e00594.aspx](https://www.heinemann.com/products/e00594.aspx)
+Bracey, G. W. (2004). *Setting the record straight: Responses to misconceptions about public education in the U.S.* (2nd ed.). Heinemann. [https://www.heinemann.com/products/e00594.aspx](https://www.heinemann.com/products/e00594.aspx) [doi:10.1177/019263650508964208](https://doi.org/10.1177/019263650508964208)
 
 `q2 · longitudinal cohort study of low-achieving students tracked across three years, cited secondarily · i3 · large gap in downstream pass rates (90% vs. 42%) · n=low-achieving 4th-grade cohort, Dallas Independent School District` · `associational · r?`
 
@@ -46,17 +46,17 @@ This finding is the empirical backbone of the argument for growth (or "value-add
 
 ## Related Claims
 - [Active learning narrows achievement gaps for disadvantaged and underrepresented students](active-learning-narrows-achievement-gaps.md) — another case where an instructional-design choice has a larger effect on already-disadvantaged students than on their peers
-- [District achievement data showed performance dropping off substantially in the middle grades relative to national norms](achievement-drops-in-middle-grades.md) — related
-- [Summer reading loss disproportionately widens academic gaps for low-income children](summer-reading-loss-widens-gaps.md) — related
+- District achievement data showed performance dropping off substantially in the middle grades relative to national norms — related
+- Summer reading loss disproportionately widens academic gaps for low-income children — related
 - [Teacher expectation bias predicted Dutch secondary students' performance up to five years later, after controls for prior achievement, IQ and motivation, in one large correlational cohort study](teacher-expectation-effects-on-achievement.md) — related
 - [Disadvantaged students in grades 4-8 receive less effective teaching on average than other students in the same grades](disadvantaged-students-receive-less-effective-teaching.md) — related
 - [Teachers in districts with large fractions of disadvantaged students receive lower value-added ratings when student background characteristics are omitted](vam-omitting-background-lowers-disadvantaged-district-ratings.md) — related
 - [Early socioeconomic math performance gaps grow over time, producing substantial differences by fourth grade](early-math-gaps-grow-by-fourth-grade.md) — related
 - [Accurate teacher-student data links are required when high-stakes teacher evaluation decisions include student achievement growth](accurate-teacher-student-links-high-stakes-evaluation.md) — related
-- [The paper examines consequences for teachers versus students of classifying and misclassifying teachers as effective or ineffective](value-added-misclassification-consequences-teachers-students.md) — related
+- The paper examines consequences for teachers versus students of classifying and misclassifying teachers as effective or ineffective — related
 - [Learners face compounding systemic challenges: widening gaps, isolation, and shifting skill demands](systemic-challenges-gaps-isolation-shifting-skills.md) — related
-- [Teachers improve faster in supportive professional environments, with gaps widening over time](supportive-environments-faster-teacher-improvement.md) — related
-- [Teacher effects are cumulative and long-lived: sequences of effective versus ineffective teachers produce vastly different fifth-grade math outcomes in Tennessee](cumulative-teacher-sequence-effects-tennessee.md) — related
-- [In Dallas, sequences of three effective versus three ineffective teachers separated students by more than 35 percentile points in reading and 50 points in math](dallas-teacher-sequence-reading-math-gaps.md) — related
-- [Low-income students are disproportionately assigned weak teachers, with cumulative achievement consequences](inequitable-teacher-distribution-achievement-consequences.md) — possibly the same claim (merge candidate)
-- [Students' achievement gains depend strongly on the sequence of teachers they are assigned, with several effective teachers producing dramatic gains and two ineffective teachers producing losses students may never recover](teacher-sequence-effectiveness-gains-losses.md) — related
+- Teachers improve faster in supportive professional environments, with gaps widening over time — related
+- Teacher effects are cumulative and long-lived: sequences of effective versus ineffective teachers produce vastly different fifth-grade math outcomes in Tennessee — related
+- In Dallas, sequences of three effective versus three ineffective teachers separated students by more than 35 percentile points in reading and 50 points in math — related
+- Low-income students are disproportionately assigned weak teachers, with cumulative achievement consequences — possibly the same claim (merge candidate)
+- Students' achievement gains depend strongly on the sequence of teachers they are assigned, with several effective teachers producing dramatic gains and two ineffective teachers producing losses students may never recover — related

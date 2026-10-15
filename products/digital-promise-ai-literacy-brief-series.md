@@ -26,7 +26,7 @@ sources:
 # Digital Promise AI Literacy Brief Series
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 4 studies (3 theoretical, 1 review), `q1`–`q2` · 0 of 4 report an effect size · 6 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A series of Digital Promise implementation briefs that provides audience-specific AI literacy recommendations, strategies, examples, and equity considerations for PK-12, postsecondary, workforce, and informal learning settings.
@@ -41,11 +41,6 @@ A series of Digital Promise implementation briefs that provides audience-specifi
 - **AI Literacy Framework's three Modes of Engagement: Understand, Use, Evaluate**: The report presents Digital Promise's AI Literacy Framework as three interconnected Modes of Engagement supporting educators and students. It states the framework 'establishes three Modes of Engagement to support educators and students engaging in AI literacy': Understand (acquiring basic knowledge of what AI can do and how it works), Use (interacting, creating, and problem-solving with AI across contexts), and Evaluate (centering human judgment and justice to critically consider benefits and costs of AI). The report argues hands-on experience with both cloud-based and locally-run LLMs helps students move through these modes rather than remaining passive users. (Schiner (2025))
 
 ### Claims
-- [Generative AI can help people finish tasks more quickly but does not accelerate learning itself](../claims/genai-speeds-tasks-not-learning.md) [~W]
-- [Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs](../claims/human-guidance-ethical-grounding-ai.md) [+W]
-- [Generative AI systems carry strong potential for introduced and inherited bias](../claims/generative-ai-bias-potential.md) [+W]
-- [People may absorb bias from AI and carry it beyond their interactions with the algorithm](../claims/humans-absorb-bias-from-ai.md) [+W]
-- [Six named risks from AI systems span overestimation, data collection, synthetic outputs, invisibility, bias replication, and human and environmental costs](../claims/six-risks-from-ai-systems.md) [+W]
 - [AI systems relying on black-box models should not be used for high-stakes applications](../claims/black-box-ai-not-for-high-stakes-applications.md) [+W]
 
 ## Related Products and Programmes
@@ -142,11 +137,6 @@ Digital Promise's AI Literacy Framework defines a learner and educator capabilit
 
 ### Claims
 
-- [Generative AI can help people finish tasks more quickly but does not accelerate learning itself](../claims/genai-speeds-tasks-not-learning.md) [~W]
-- [Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs](../claims/human-guidance-ethical-grounding-ai.md) [+W]
-- [Generative AI systems carry strong potential for introduced and inherited bias](../claims/generative-ai-bias-potential.md) [+W]
-- [People may absorb bias from AI and carry it beyond their interactions with the algorithm](../claims/humans-absorb-bias-from-ai.md) [+W]
-- [Six named risks from AI systems span overestimation, data collection, synthetic outputs, invisibility, bias replication, and human and environmental costs](../claims/six-risks-from-ai-systems.md) [+W]
 
 ## Related Theories
 
@@ -195,9 +185,6 @@ Digital Promise's AI Literacy Framework defines AI literacy as "the knowledge an
 
 ### Claims
 
-- [Generative AI systems carry strong potential for introduced and inherited bias](../claims/generative-ai-bias-potential.md) [+W]
-- [People may absorb bias from AI and carry it beyond their interactions with the algorithm](../claims/humans-absorb-bias-from-ai.md) [+W]
-- [Six named risks from AI systems span overestimation, data collection, synthetic outputs, invisibility, bias replication, and human and environmental costs](../claims/six-risks-from-ai-systems.md) [+W]
 
 ## Related Theories
 

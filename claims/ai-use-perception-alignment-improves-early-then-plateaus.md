@@ -10,8 +10,8 @@ generated:
 evidence_strength: mixed
 sources:
   - id: laura-graf-2026
-    resource: "https://arxiv.org/abs/2606.23237"
-    title: "Laura Graf, Ramona Beinstingel, Stephan Krusche, Oleksandra Poquet. (2026). Students' Perception Accuracy of Partners' AI Use and its Relation to Collaboration Performance. Preprint, Technical University of Munich. https://arxiv.org/abs/2606.23237"
+    resource: "https://doi.org/10.48550/arxiv.2606.23237"
+    title: "Laura Graf, Ramona Beinstingel, Stephan Krusche, Oleksandra Poquet. (2026). Students' Perception Accuracy of Partners' AI Use and its Relation to Collaboration Performance. Preprint, Technical University of Munich. https://arxiv.org/abs/2606.23237 [doi:10.48550/arxiv.2606.23237](https://doi.org/10.48550/arxiv.2606.23237)"
     author: Laura Graf, Ramona Beinstingel, Stephan Krusche, Oleksandra Poquet
     q: 2
     i: 2
@@ -31,7 +31,7 @@ sources:
 
 ### Laura Graf 2026
 
-Laura Graf, Ramona Beinstingel, Stephan Krusche, Oleksandra Poquet. (2026). Students' Perception Accuracy of Partners' AI Use and its Relation to Collaboration Performance. Preprint, Technical University of Munich. https://arxiv.org/abs/2606.23237
+Laura Graf, Ramona Beinstingel, Stephan Krusche, Oleksandra Poquet. (2026). Students' Perception Accuracy of Partners' AI Use and its Relation to Collaboration Performance. Preprint, Technical University of Munich. https://arxiv.org/abs/2606.23237 [doi:10.48550/arxiv.2606.23237](https://doi.org/10.48550/arxiv.2606.23237)
 
 `q2 · i2` · `associational · r2`
 

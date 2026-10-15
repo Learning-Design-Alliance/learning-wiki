@@ -57,7 +57,7 @@ The paper's most important methodological caution is built into its own framing:
 - [Attending to affect in co-design supports community formation and cross-scale transfer](attending-to-affect-in-co-design-supports-community-and-cross-scale-transfer.md) — related
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
 - [High-confidence errors lead to better retention after correction than low-confidence errors.](high-confidence-errors-improve-retention.md) — related
-- [Emotions form a critical piece of how, what, when, and why people learn, so education should leverage the emotional aspects of learning](emotions-critical-to-learning-leverage-in-design.md) — a broader claim this one bears on
+- Emotions form a critical piece of how, what, when, and why people learn, so education should leverage the emotional aspects of learning — a broader claim this one bears on
 - [AI scaffolding differs from human scaffolding in availability, feedback timing, and dynamic adjustment, making its developmental impact conditional](ai-scaffolding-developmental-impact-conditional.md) — related
 - [AI task scaffolding is positively associated with critical thinking and technical problem-solving among AI-using university students](ai-task-scaffolding-positive-higher-order-outcomes.md) — related
 - [Affective experience during situated collaborative problem solving is organized around a stable epistemic core linking curiosity, optimism, and confusion with short-range persistence](stable-epistemic-core-curiosity-optimism-confusion-cps.md) — related

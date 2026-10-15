@@ -39,6 +39,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · review `r1`–`r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 <!-- deprecated title (2026-09-30, overstated its evidence): Teacher-researchers in funds of knowledge work face difficulties, including helpless pessimism and heavy time demands, which reflective after-school labs helped them overcome; they judged the process worthwhile. -->
 
 ## Subclaims

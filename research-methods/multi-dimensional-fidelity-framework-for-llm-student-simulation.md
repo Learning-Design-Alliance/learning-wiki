@@ -12,7 +12,7 @@ generated:
 # Multi-dimensional fidelity framework for LLM student simulation
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 20 claims (13 for, 7 mixed) · 10 studies (5 causal, 4 design, 1 theoretical), `q1`–`q2` · 1 of 10 report an effect size · 20 claims rest on one study
+> **Evidence** · 17 claims (12 for, 5 mixed) · 8 studies (4 design, 3 causal, 1 theoretical), `q1`–`q2` · 1 of 8 report an effect size · 17 claims rest on one study
 
 ## Description
 The article names competency bias as "the inherent tendency of preference-tuned models to produce correct solutions even when prompted to simulate novice students", and frames simulating learners as a multi-dimensional fidelity problem with behavioral, epistemic, and perceptual components. Behavioral infidelity is the linear construction trap avoiding iterative trial-and-error; epistemic infidelity is the curse of incompetence, where LLMs act as masked experts who diagnose errors before execution; perceptual infidelity is RLHF-flattened output diversity. BEAGLE is designed explicitly against these three objectives.
@@ -33,8 +33,6 @@ The article names competency bias as "the inherent tendency of preference-tuned 
 - [In a human Turing test, participants could not reliably distinguish BEAGLE traces from real student data (52.8% accuracy; d′ = 0.15 within the ±0.3 equivalence bound, pTOST = 0.038)](../claims/beagle-traces-turing-test-indistinguishable.md) [+M]
 - [LLM student simulators exhibit near-zero Selective Flip Score, flipping at similarly high rates under targeted, misaligned, and generic feedback](../claims/llm-simulators-near-zero-sfs-indiscriminate-flipping.md) [+M]
 - [Supervised fine-tuning on misconception-faithful demonstrations sharply improves SFS (up to +0.555 on Malrule for Qwen3-4B)](../claims/sft-improves-selective-update-behavior.md) [+M]
-- [Cognitive Diagnostic Profiling raises distribution-level overlap between simulated and human examinee ability distributions, with the informative condition highest for seven of eight configurations](../claims/cdp-improves-distribution-level-alignment.md) [+M]
-- [The further gain from informative CDP depends on profile-level alignment: where within-profile behavior is inaccurate, adding pattern prevalences brings little or negative gain](../claims/informative-cdp-gain-depends-on-profile-alignment.md) [~M]
 - [LLM-generated erroneous code aligns with authentic student errors at levels that depend on model and prompting strategy, with Claude Sonnet 4 most consistently aligned](../claims/llm-error-alignment-depends-on-model-and-prompting-strategy.md) [+M]
 - [Higher-struggling-level problems elicit more diverse but less student-like LLM-generated errors](../claims/higher-struggling-problems-elicit-more-diverse-less-student-like-errors.md) [+M]
 - [Across chess, L2 writing, and math, trained StudentSim simulators outperform every reference baseline on behavioral fidelity (F)](../claims/studentsim-outperforms-baselines-behavioral-fidelity.md) [+M]
@@ -42,7 +40,6 @@ The article names competency bias as "the inherent tendency of preference-tuned 
 - [BEAGLE generalizes across tasks and LLM backbones: on the out-of-distribution Gradient Descent task it still shrinks DKL by ≥3×, raises error recurrence to ≥79%, and improves all three perceptual scores](../claims/beagle-cross-task-cross-backbone-generalization.md) [~W]
 - [Human evaluators rate the framework's simulated solutions higher than the second-best setting across all model settings](../claims/human-evaluation-prefers-prototype-refine-simulations.md) [+W]
 - [Beam search-based self-refinement improves simulated solution alignment with predicted student behavior](../claims/beam-search-self-refinement-improves-solution-simulation.md) [~W]
-- [LLM-generated BREQ responses capture overall item-mean patterns but are more extreme and less variable than human responses](../claims/llm-survey-responses-extreme-low-variability.md) [~W]
 - [GRPO training shifts profiles from broad summaries toward diagnostic, behaviorally grounded representations that better support simulation](../claims/grpo-refines-profiles-toward-diagnostic-representations.md) [~W]
 - [The competence paradox: broadly capable LLMs cannot genuinely unknow expert knowledge when simulating novices](../claims/competence-paradox-llm-student-simulation.md) [+W]
 - [LLM-generated errors received significantly higher plausibility ratings than authentic student errors, explained by a narrower, cleaner error-type distribution](../claims/llm-errors-score-higher-plausibility-than-authentic-student-errors.md) [~W]

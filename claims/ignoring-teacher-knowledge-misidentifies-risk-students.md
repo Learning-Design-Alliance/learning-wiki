@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: james-soland-2015
-    resource: "https://www.nwea.org/research/publication/is-moneyball-the-next-big-thing-in-education/"
-    title: "James Soland. (2015). Is Moneyball the next big thing in education? Phi Delta Kappan 96(4), 64–67. https://www.nwea.org/research/publication/is-moneyball-the-next-big-thing-in-education/"
+    resource: "https://doi.org/10.1177/0031721714561450"
+    title: "James Soland. (2015). Is Moneyball the next big thing in education? Phi Delta Kappan 96(4), 64–67. https://www.nwea.org/research/publication/is-moneyball-the-next-big-thing-in-education/ [doi:10.1177/0031721714561450](https://doi.org/10.1177/0031721714561450)"
     author: James Soland
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### James Soland 2015
 
-James Soland. (2015). Is Moneyball the next big thing in education? Phi Delta Kappan 96(4), 64–67. https://www.nwea.org/research/publication/is-moneyball-the-next-big-thing-in-education/
+James Soland. (2015). Is Moneyball the next big thing in education? Phi Delta Kappan 96(4), 64–67. https://www.nwea.org/research/publication/is-moneyball-the-next-big-thing-in-education/ [doi:10.1177/0031721714561450](https://doi.org/10.1177/0031721714561450)
 
 `q1 · i?` · `theoretical · r2`
 
@@ -43,8 +43,8 @@ The abstract warns, as an argument rather than a finding, that ignoring the diff
 
 
 ## Related Claims
-- [In descriptive logit models, demographic variables predict dropout at enrollment (e.g., males have a 60% higher chance of dropping out than females), but most lose significance once first-semester performance data is controlled](logit-demographic-predictors-weaken-after-performance-controls.md) — related
+- In descriptive logit models, demographic variables predict dropout at enrollment (e.g., males have a 60% higher chance of dropping out than females), but most lose significance once first-semester performance data is controlled — related
 - [Evidence is mixed on whether including demographic variables as predictors improves model performance in educational prediction](mixed-evidence-demographic-predictor-performance.md) — related
 - [Including demographic variables as predictors can reduce actionability by de-emphasizing correlated actionable risk factors and by discounting intervention effects](demographic-predictors-reduce-actionability.md) — related
-- [Early-stage performance data is particularly important for predicting attrition, while demographic data has limited predictive value once performance data is available](performance-data-dominates-demographics-in-dropout-prediction.md) — related
+- Early-stage performance data is particularly important for predicting attrition, while demographic data has limited predictive value once performance data is available — related
 - [Predictive learning analytics can generate early warnings of dropout risk and trigger targeted interventions in adult education](predictive-analytics-early-warning-dropout-adults.md) — related

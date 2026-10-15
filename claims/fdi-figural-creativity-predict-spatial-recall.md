@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i1` small
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Forward stepwise regression identified Hidden Patterns (field-dependence-independence) and Figural Creativity as significant predictors of map reconstruction accuracy in both samples, together accounting for 31% of variance in the high school sample and 24% in the college sample. [→ Shaha 1982](#shaha-1982)
@@ -43,5 +44,5 @@ Forward stepwise multiple regression on the high school sample (n=64) entered Fi
 
 
 ## Related Claims
-- [Verbal ability predicts spatial recall only for the less verbal, more heterogeneous high school sample, not for college students](verbal-ability-predicts-spatial-recall-only-heterogeneous-sample.md) — related
+- Verbal ability predicts spatial recall only for the less verbal, more heterogeneous high school sample, not for college students — related
 - [Field-independent subjects more accurately reconstruct spatial arrays than field-dependent subjects](field-independent-better-map-feature-placement.md) — related

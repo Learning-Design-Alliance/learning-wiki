@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: yusuf-pisan-2026
-    resource: "https://arxiv.org/abs/2608.05175"
-    title: "Yusuf Pisan. (2026). Teaching Intro AI When the Tools Can Do the Homework: A Course Redesign and a Student Bill of Rights. https://arxiv.org/abs/2608.05175"
+    resource: "https://doi.org/10.48550/arxiv.2608.05175"
+    title: "Yusuf Pisan. (2026). Teaching Intro AI When the Tools Can Do the Homework: A Course Redesign and a Student Bill of Rights. https://arxiv.org/abs/2608.05175 [doi:10.48550/arxiv.2608.05175](https://doi.org/10.48550/arxiv.2608.05175)"
     author: Yusuf Pisan
     q: 1
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Students objected to the instructor's visible AI delegation even though AI scores never counted toward grades, so decoupling the stakes did not decouple the resentment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q1`
+> **Evidence** · 2 studies · 2 design `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Students resented the visible delegation of grading and materials creation to AI, and that the AI scores moved no one's marks did not soften the objection. [→ Yusuf Pisan 2026](#yusuf-pisan-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Yusuf Pisan 2026
 
-Yusuf Pisan. (2026). Teaching Intro AI When the Tools Can Do the Homework: A Course Redesign and a Student Bill of Rights. https://arxiv.org/abs/2608.05175
+Yusuf Pisan. (2026). Teaching Intro AI When the Tools Can Do the Homework: A Course Redesign and a Student Bill of Rights. https://arxiv.org/abs/2608.05175 [doi:10.48550/arxiv.2608.05175](https://doi.org/10.48550/arxiv.2608.05175)
 
 `q1 · i?` · `design · r2`
 

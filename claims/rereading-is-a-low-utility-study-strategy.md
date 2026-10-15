@@ -84,7 +84,7 @@ Undergraduates read educational texts (textbook chapters or a Scientific America
 - [First-cycle underperformance was attributed to low-quality student-generated questions that failed to represent journal article patterns](question-quality-limited-first-cycle-outcomes.md) — related
 - [Rereading is less effective than retrieval practice](rereading-less-effective-than-retrieval-practice.md) — related
 - [In a Terracotta study across classes, retrieval practice review outperformed restudy review on subsequent exams](terracotta-retrieval-practice-outperforms-restudy.md) — related
-- [Retrieval practice strengthens memory and produces stronger, more enduring learning](retrieval-practice-strengthens-memory.md) — related
+- Retrieval practice strengthens memory and produces stronger, more enduring learning — related
 - [Quizzing outperforms no/filler activity, fewer-question testing, restudying, and other elaborative strategies, with the advantage shrinking as the control condition's reexposure increases.](quizzing-beats-restudying-and-elaborative-controls.md) — related
 - [Elaborative interrogation improved true/false test performance in an introductory biology course context](elaborative-interrogation-biology-course-context.md) — related
 - [Summarization, highlighting, the keyword mnemonic, imagery for text, and rereading receive low utility assessments](five-techniques-low-utility.md) — a broader claim this one bears on

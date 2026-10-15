@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: biscevic-2018
-    resource: "https://www.scientiasocialis.lt/pec/"
-    title: "Biscevic, I., Pasalic, A., & Memisevic, H. (2018). The effects of executive functions and theory of mind on semantic fluency in preschool children. Problems of Education in the 21st Century, 76(1). https://www.scientiasocialis.lt/pec/"
+    resource: "https://doi.org/10.33225/pec/18.76.21"
+    title: "Biscevic, I., Pasalic, A., & Memisevic, H. (2018). The effects of executive functions and theory of mind on semantic fluency in preschool children. Problems of Education in the 21st Century, 76(1). https://www.scientiasocialis.lt/pec/ [doi:10.33225/pec/18.76.21](https://doi.org/10.33225/pec/18.76.21)"
     author: "Biscevic, I., Pasalic, A., & Memisevic, H."
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Biscevic 2018
 
-Biscevic, I., Pasalic, A., & Memisevic, H. (2018). The effects of executive functions and theory of mind on semantic fluency in preschool children. Problems of Education in the 21st Century, 76(1). https://www.scientiasocialis.lt/pec/
+Biscevic, I., Pasalic, A., & Memisevic, H. (2018). The effects of executive functions and theory of mind on semantic fluency in preschool children. Problems of Education in the 21st Century, 76(1). https://www.scientiasocialis.lt/pec/ [doi:10.33225/pec/18.76.21](https://doi.org/10.33225/pec/18.76.21)
 
 `q1 · i?` · `associational · r1`
 

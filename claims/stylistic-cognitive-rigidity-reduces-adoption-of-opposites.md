@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` The more individuals rely on and reinforce one way of thinking over any other, the more narrow and rigid their viewpoint becomes and the less able they are to understand or adopt an opposite style. [→ Cameron 1984](#cameron-1984)

@@ -49,4 +49,4 @@ The report cites a national study comparing residency and traditional pathway di
 - Claremont's resident cohort grew from 5 residents in 2020 to 34 full-time residents in 2022–23 and became increasingly diverse — related
 - [CSUB residency participants are more racially diverse than California's general teacher population and better reflect the diversity of CSUB's student body than other credentialing pathways](csub-residencies-diversify-teacher-workforce.md) — a narrower finding that bears on this claim
 - [The center-based early educator workforce is more racially and ethnically diverse than the TK–12 workforce, with 66% identifying as people of color versus 39%](ece-workforce-more-diverse-than-tk12.md) — related
-- [Tennessee's educator diversity efforts leave two recruitment pathways unfunded: minority serving institutions and teacher academies/dual enrollment](tennessee-msi-and-teacher-academy-investment-gaps.md) — related
+- Tennessee's educator diversity efforts leave two recruitment pathways unfunded: minority serving institutions and teacher academies/dual enrollment — related

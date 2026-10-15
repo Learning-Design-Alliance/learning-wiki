@@ -44,4 +44,4 @@ Within-school SEM result: the direct path from principal leadership to academic 
 
 ## Related Claims
 - [Within schools, principal leadership relates to individual teachers' instruction through multiple pathways, with the strongest via program quality (professional development and coherence)](leadership-instruction-within-schools-program-quality.md) — related
-- [Principals' direct involvement with classroom instruction showed no benefits and some detriments for instructional quality in high schools](direct-instructional-involvement-no-benefits-detriments.md) — possibly the same claim (merge candidate)
+- Principals' direct involvement with classroom instruction showed no benefits and some detriments for instructional quality in high schools — possibly the same claim (merge candidate)

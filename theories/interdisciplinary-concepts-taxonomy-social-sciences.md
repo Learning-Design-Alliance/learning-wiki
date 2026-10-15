@@ -16,7 +16,7 @@ sources:
 # Taxonomy of interdisciplinary concepts for organizing K-12 social sciences curricula
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The framework nominates a set of broad interdisciplinary concepts—citizenship, justice, freedom, diversity, culture, resources, multiple causation, needs, property, authority/power, scarcity, social control, morality, change, conflict, interdependence, environment, and truth—as organizers for curricula from kindergarten through grade twelve. It states that 'Certain concepts are recommended for organizing and developing the curricula in the social sciences' and that each is 'derived from more than one of the social science disciplines.' Each concept receives a discussion elaborating its constituent ideas.
@@ -38,9 +38,7 @@ The framework nominates a set of broad interdisciplinary concepts—citizenship,
 
 ### Claims
 
-- [The framework directs social sciences programs toward five stated student outcomes including understandings, skills, respect for diversity, values clarification, and participation](../claims/five-social-science-program-goals.md) [+W]
 - [The framework's first Goal I program goal is helping students understand interdisciplinary concepts through studies of human experience, with the remaining goals implicit in the illustrative objectives](../claims/goal-i-program-goals-explication.md) [+W]
-- [Social sciences instruction is drawn from seven disciplines: anthropology, economics, geography, history, political science, psychology, and sociology](../claims/seven-disciplines-social-sciences-instruction.md) [+W]
 
 ## Related Theories
 

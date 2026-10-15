@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Senior high school girls averaged 61 points lower than boys on the SAT (50 points lower in math, 11 in verbal) despite having higher grades in all high school subjects and in college, indicating systematic underprediction of female performance. [→ Sex and Race Differences on Standardized Tests: Oversight Hearings before the Subcommittee on Civil and Constitutional Rights of the Committee on the Judiciary 1989](#sex-and-race-differences-on-standardized-tests-oversight-hearings-before-the-subcommittee-on-civil-and-constitutional-rights-of-the-committee-on-the-judiciary-1989)
@@ -49,7 +50,7 @@ Testimony of Phyllis Rosser, a consultant on sex bias in testing, at the April 2
 | Sex and Race Differences on Standardized Tests: Oversight Hearings before the Subcommittee on Civil and Constitutional Rights of the Committee on the Judiciary 1989 | q2 · theoretical · r1 | i? | this claim; [Women admitted to MIT with lower SAT math scores perform as well as men in freshman math c](mit-lower-sat-math-scores-equal-performance.md) (supports) |
 | Halpern 2007 | q2 · associational · r? | i? | [Girls score lower than boys on timed standardized math and science tests at the same cours](timed-test-gender-gap-underpredicts-college-performance.md) (supports) |
 | Elaine Allensworth 2008 | q2 · associational · r2 | i? | [Among students with the same high grades, ACT scores differ substantially by race/ethnicit](act-score-gaps-by-race-at-same-gpa.md) (supports) |
-| Allensworth 2019 | q3 · associational · r3 | i? | [Students with the same HSGPA or the same ACT score graduate from college at different rate](high-school-effects-same-gpa-act-graduation-rates.md) (qualifies) |
+| [Allensworth 2019](https://doi.org/10.3102/0013189x20902110) | q3 · associational · r3 | i? | [Students with the same HSGPA or the same ACT score graduate from college at different rate](high-school-effects-same-gpa-act-graduation-rates.md) (qualifies) |
 | Allensworth 2020 | q2 · associational · r2 | i? | [Students with the same HSGPA or the same ACT score graduate from college at different rate](high-school-effects-same-gpa-act-graduation-rates.md) (qualifies) |
 | Allensworth 2025 | q2 · associational · r2 | i? | [GPA combined with test scores was the best prediction of college degree attainment for all](gpa-test-scores-best-college-degree-prediction-el.md) (qualifies) |
 <!-- synthesis:end -->

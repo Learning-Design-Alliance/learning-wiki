@@ -43,4 +43,4 @@ Cluster randomized controlled trial in 25 rural and suburban middle schools; 59 
 ## Related Claims
 - [In the grades 4-5 cluster RCT, ITSS produced statistically significant positive effects on all six comprehension outcomes (average effect size 0.24)](itss-grade45-rct-comprehension-gains.md) — related
 - [ITSS has positive effects on reading comprehension, based on two studies meeting WWC standards covering 6,724 students](itss-positive-effects-comprehension.md) — a broader claim this one bears on
-- [ITSS significantly improves Grade 7 reading comprehension in rural and suburban schools (effect size +0.18)](itss-grade7-significant-reading-gain.md) — related
+- ITSS significantly improves Grade 7 reading comprehension in rural and suburban schools (effect size +0.18) — related

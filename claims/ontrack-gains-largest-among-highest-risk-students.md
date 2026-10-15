@@ -75,7 +75,7 @@ The same subgroup analysis reports that on-track rates "among Black young men in
 - [On-track gains were largest for students with the lowest incoming skills and for African American males](on-track-gains-largest-for-lowest-skills-and-black-males.md) — possibly the same claim (merge candidate)
 - [Citywide freshman on-track rates improved from 48 to 58 percent over a decade, with declines tied to increased course-taking](on-track-rate-citywide-trends.md) — related
 - [Schools vary widely in freshman on-track rates even among students with similar backgrounds](school-differences-in-on-track-rates.md) — related
-- [Learning gains were highest for students whose background knowledge was lowest at pre-test](haiti-pilot-highest-gains-lowest-background-knowledge.md) — related
+- Learning gains were highest for students whose background knowledge was lowest at pre-test — related
 - [The share of students in the On-Track category increased by 20 percentage points between 2009 and 2019 while the Intensive Support share decreased from 12 to 8 percent](condensed-eot-ontrack-increase-over-time.md) — related
 - [Long-term English Learners without IEPs had the lowest Freshman OnTrack rate and substantially lower graduation rates than district average](long-term-els-no-iep-lowest-ontrack-graduation.md) — related
 - [On-Track gains were largest in the lowest-performing schools and among African American and Latino males](on-track-gains-largest-bottom-quartile-and-minority-males.md) — related

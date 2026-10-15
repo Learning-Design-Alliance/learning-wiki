@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: zirui-shan-2026
-    resource: "https://arxiv.org/abs/2607.02361"
-    title: "Zirui Shan, Vanessa Echeverria, Yuheng Li, Yi-Shan Tsai, and Roberto Martinez-Maldonado. (2026). Data Comics for Education: Evaluating Effectiveness, Benefits, and the Ethics of AI-Assisted Creation. https://arxiv.org/abs/2607.02361"
+    resource: "https://doi.org/10.48550/arxiv.2607.02361"
+    title: "Zirui Shan, Vanessa Echeverria, Yuheng Li, Yi-Shan Tsai, and Roberto Martinez-Maldonado. (2026). Data Comics for Education: Evaluating Effectiveness, Benefits, and the Ethics of AI-Assisted Creation. https://arxiv.org/abs/2607.02361 [doi:10.48550/arxiv.2607.02361](https://doi.org/10.48550/arxiv.2607.02361)"
     author: Zirui Shan, Vanessa Echeverria, Yuheng Li, Yi-Shan Tsai, and Roberto Martinez-Maldonado
     q: 2
     i: "?"
@@ -32,7 +32,7 @@ sources:
 
 ### Zirui Shan 2026
 
-Zirui Shan, Vanessa Echeverria, Yuheng Li, Yi-Shan Tsai, and Roberto Martinez-Maldonado. (2026). Data Comics for Education: Evaluating Effectiveness, Benefits, and the Ethics of AI-Assisted Creation. https://arxiv.org/abs/2607.02361
+Zirui Shan, Vanessa Echeverria, Yuheng Li, Yi-Shan Tsai, and Roberto Martinez-Maldonado. (2026). Data Comics for Education: Evaluating Effectiveness, Benefits, and the Ethics of AI-Assisted Creation. https://arxiv.org/abs/2607.02361 [doi:10.48550/arxiv.2607.02361](https://doi.org/10.48550/arxiv.2607.02361)
 
 `q2 · i?` · `qualitative · r2`
 

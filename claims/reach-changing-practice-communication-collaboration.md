@@ -51,5 +51,5 @@ Teacher and administrator survey data from the year-two REACH brief. "Eighty-six
 - [REACH observations consumed substantial administrator time—about six hours per observation cycle and roughly two to three full weeks per year](observation-workload-administrator-time.md) — related
 - [Most teachers and administrators report that the REACH observation process supports teacher professional growth and improved instructional conversations](reach-observation-process-supports-growth.md) — related
 - [Teachers in the lowest achieving schools are more likely to report that reform has changed and will change their classroom practices, though differences are modest](instructional-change-highest-in-lowest-achieving-schools.md) — related
-- [Most coaches rate their professional development as effective, and administrators describe it as tailored, timely, and multi-year](coach-professional-development-perceived-effective.md) — related
+- Most coaches rate their professional development as effective, and administrators describe it as tailored, timely, and multi-year — related
 - [Principals and teachers report needing more support in areas such as analyzing student data and using assessments to measure growth](educator-capacity-support-needs-tpe.md) — related

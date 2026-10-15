@@ -46,4 +46,4 @@ The review reports, citing an included study, that "girls exhibited higher behav
 - [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Gender effects on self-regulated learning are mediated by culture, discipline, and age, with mixed direction across samples](gender-effects-on-srl-mediated-by-culture-discipline-age.md) — related
+- Gender effects on self-regulated learning are mediated by culture, discipline, and age, with mixed direction across samples — related

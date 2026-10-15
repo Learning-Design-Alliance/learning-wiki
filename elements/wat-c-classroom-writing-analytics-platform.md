@@ -17,7 +17,7 @@ sources:
 # WAT-C (Writing Analytics Toolkit Classroom), an open-source web platform providing formative writing feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 WAT-C is the classroom-facing implementation of the Writing Analytics Toolkit, an open-source platform providing formative feedback on student writing using natural language processing. The alpha version evaluated here "generates analytics in three categories for persuasive and source-based essays: basic analytics (e.g., word count, sentence length), a holistic overall score (1–6 scale), and advanced analytics" developed via NLP and principal component analysis. It presents 13 advanced metrics (e.g., Sophisticated Wording, Word Variety, Sentence Cohesion) on five-level continua with clickable pop-up explanations, revision suggestions, and example use cases, and includes teacher features for assigning tasks, selecting metrics, uploading rubrics, and tracking submissions.
@@ -38,7 +38,6 @@ WAT-C is the classroom-facing implementation of the Writing Analytics Toolkit, a
 
 ## Claims
 
-- [Focus groups with nine writing instructors identified four design priorities for WAT-C: clearer feedback, instructor customization, reduced administrative burden, and a simplified interface](../claims/wat-c-four-design-priorities-instructor-focus-groups.md) [+W]
 
 ## Related Elements
 - 

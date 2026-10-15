@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: kang-xue-2021
-    resource: "https://www.frontiersin.org/journals/psychology"
-    title: "Kang Xue, Laine Bradshaw. (2021). A semi-supervised learning-based diagnostic classification method using artificial neural networks. Frontiers in Psychology, 11, 3992. https://www.frontiersin.org/journals/psychology"
+    resource: "https://doi.org/10.3389/fpsyg.2020.618336"
+    title: "Kang Xue, Laine Bradshaw. (2021). A semi-supervised learning-based diagnostic classification method using artificial neural networks. Frontiers in Psychology, 11, 3992. https://www.frontiersin.org/journals/psychology [doi:10.3389/fpsyg.2020.618336](https://doi.org/10.3389/fpsyg.2020.618336)"
     author: Kang Xue, Laine Bradshaw
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Kang Xue 2021
 
-Kang Xue, Laine Bradshaw. (2021). A semi-supervised learning-based diagnostic classification method using artificial neural networks. Frontiers in Psychology, 11, 3992. https://www.frontiersin.org/journals/psychology
+Kang Xue, Laine Bradshaw. (2021). A semi-supervised learning-based diagnostic classification method using artificial neural networks. Frontiers in Psychology, 11, 3992. https://www.frontiersin.org/journals/psychology [doi:10.3389/fpsyg.2020.618336](https://doi.org/10.3389/fpsyg.2020.618336)
 
 `q1 · i?` · `design · r2`
 
@@ -45,4 +45,4 @@ The article states this as background about previously proposed ANN approaches, 
 ## Related Claims
 - [A semi-supervised ANN method combining DINA and DINO achieves appreciated classification performance across test conditions, especially when diagnostic quality is not high or the Q-matrix contains misspecified elements](semi-supervised-ann-cdm-robust-classification.md) — reports the opposite
 - [Misspecification of theoretical diagnostic classification models and inaccurate Q-matrices impact classification accuracy](tdcm-qmatrix-misspecification-hurts-classification.md) — related
-- [Academic GPA, associate degree program and high school type have negligible influence on vocational students' LMS acceptance](demographics-negligible-lms-acceptance.md) — related
+- Academic GPA, associate degree program and high school type have negligible influence on vocational students' LMS acceptance — related

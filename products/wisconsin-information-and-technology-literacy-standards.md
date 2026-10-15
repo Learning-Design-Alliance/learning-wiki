@@ -18,7 +18,7 @@ sources:
 # Wisconsin Information and Technology Literacy Standards
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 A Wisconsin Department of Public Instruction framework defining information and technology literacy content standards, grade-banded performance standards, and proficiency indicators for local curriculum guidance.
@@ -29,10 +29,6 @@ A Wisconsin Department of Public Instruction framework defining information and 
 - **Unified conceptual framework for information and technology literacy progressing from physical access to responsible group participation**: The document defines Information and Technology Literacy as "the ability of an individual, working independently or with others, to use tools, resources, processes, and systems responsibly to access and evaluate information in any medium." It unifies information literacy, media literacy, and technology literacy perspectives, stating: "This framework demonstrates a progression from the physical access skills for the use of media and technology, to the intellectual access skills of information use, to skills and attitudes for learning independently, and finally to the skills needed for working responsibly and productively within groups." The four content standards instantiate this progression. (Wisconsin State Dept. of Public Instruction (1998))
 
 ### Claims
-- [The task force states the performance standards require district commitment to technological infrastructure, technical support, and ongoing teacher training.](../claims/itl-standards-infrastructure-prerequisite.md) [+W]
-- [Adopting Wisconsin's Model Academic Standards is voluntary, and districts may use them as guides for local curriculum.](../claims/standards-adoption-voluntary-local-guides.md) [+W]
-- [The Wisconsin information and technology literacy standards are organized into four content standards: media and technology, information and inquiry, independent learning, and the learning community.](../claims/wisconsin-itl-four-content-standards.md) [+W]
-- [The Wisconsin standards call for shared applications of knowledge in five general categories to be developed in every class across the curriculum.](../claims/five-applied-knowledge-categories-across-curriculum.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -69,10 +65,6 @@ A state standards publication issued by the Wisconsin Department of Public Instr
 
 ### Claims
 <!- - Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] - ->
-- [The task force states the performance standards require district commitment to technological infrastructure, technical support, and ongoing teacher training.](../claims/itl-standards-infrastructure-prerequisite.md) [+W]
-- [Adopting Wisconsin's Model Academic Standards is voluntary, and districts may use them as guides for local curriculum.](../claims/standards-adoption-voluntary-local-guides.md) [+W]
-- [The Wisconsin information and technology literacy standards are organized into four content standards: media and technology, information and inquiry, independent learning, and the learning community.](../claims/wisconsin-itl-four-content-standards.md) [+W]
-- [The Wisconsin standards call for shared applications of knowledge in five general categories to be developed in every class across the curriculum.](../claims/five-applied-knowledge-categories-across-curriculum.md) [+W]
 
 ## Related Elements
 - 
@@ -112,10 +104,6 @@ The document defines Information and Technology Literacy as "the ability of an i
 
 ### Claims
 
-- [Wisconsin Itl Four Content Standards](../claims/wisconsin-itl-four-content-standards.md) [+M]
-- [The Wisconsin standards call for shared applications of knowledge in five general categories to be developed in every class across the curriculum.](../claims/five-applied-knowledge-categories-across-curriculum.md) [+W]
-- [The task force states the performance standards require district commitment to technological infrastructure, technical support, and ongoing teacher training.](../claims/itl-standards-infrastructure-prerequisite.md) [+W]
-- [Adopting Wisconsin's Model Academic Standards is voluntary, and districts may use them as guides for local curriculum.](../claims/standards-adoption-voluntary-local-guides.md) [+W]
 
 ## Related Theories
 - 

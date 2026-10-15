@@ -49,4 +49,4 @@ In the same experiment's RQ2 results, the ai draft condition's idea attribution 
 - [Experimental-group students framed AI as a flexible writing scaffold supporting their own composing rather than a substitute for authorship](ai-scaffold-authorship-retained-theme1.md) — related
 - [Synchronous AI suggestions shape subsequent writing, offering new ideas but risking influence over the writer's voice and argument](synchronous-suggestions-shape-subsequent-writing.md) — related
 - [LLM-group participants reported low ownership of their essays and fell behind in their ability to quote from essays written minutes earlier](llm-group-low-ownership-poor-quoting-own-essays.md) — related
-- [Evaluators attribute substantially less ownership to writers who used GenAI ideas, but impose only a marginal profit-sharing penalty](evaluators-discount-ownership-of-genai-assisted-stories.md) — related
+- Evaluators attribute substantially less ownership to writers who used GenAI ideas, but impose only a marginal profit-sharing penalty — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: nataliya-kosmyna-2025
-    resource: "https://arxiv.org/abs/2506.08872"
-    title: "Nataliya Kosmyna, Eugene Hauptmann, Ye Tong Yuan, Jessica Situ, Xian-Hao Liao, Ashly Vivian Beresnitzky, Iris Braunstein, Pattie Maes. (2025). Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task. Preprint, under review. https://arxiv.org/abs/2506.08872"
+    resource: "https://doi.org/10.48550/arxiv.2506.08872"
+    title: "Nataliya Kosmyna, Eugene Hauptmann, Ye Tong Yuan, Jessica Situ, Xian-Hao Liao, Ashly Vivian Beresnitzky, Iris Braunstein, Pattie Maes. (2025). Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task. Preprint, under review. https://arxiv.org/abs/2506.08872 [doi:10.48550/arxiv.2506.08872](https://doi.org/10.48550/arxiv.2506.08872)"
     author: Nataliya Kosmyna, Eugene Hauptmann, Ye Tong Yuan, Jessica Situ, Xian-Hao Liao, Ashly Vivian Beresnitzky, Iris Braunstein, Pattie Maes
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Nataliya Kosmyna 2025
 
-Nataliya Kosmyna, Eugene Hauptmann, Ye Tong Yuan, Jessica Situ, Xian-Hao Liao, Ashly Vivian Beresnitzky, Iris Braunstein, Pattie Maes. (2025). Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task. Preprint, under review. https://arxiv.org/abs/2506.08872
+Nataliya Kosmyna, Eugene Hauptmann, Ye Tong Yuan, Jessica Situ, Xian-Hao Liao, Ashly Vivian Beresnitzky, Iris Braunstein, Pattie Maes. (2025). Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task. Preprint, under review. https://arxiv.org/abs/2506.08872 [doi:10.48550/arxiv.2506.08872](https://doi.org/10.48550/arxiv.2506.08872)
 
 `q2 · i?` · `causal · r1`
 
@@ -46,5 +46,5 @@ Session 4 EEG comparison reported in the Summary of Results section: Brain-to-LL
 - [Brain connectivity during essay writing systematically scales down with the amount of external support, with Brain-only strongest, Search Engine intermediate, and LLM weakest](brain-connectivity-scales-down-with-external-support-essay-writing.md) — related
 - [In session 4, LLM-to-Brain participants showed weaker neural connectivity and under-engagement of alpha and beta networks, while Brain-to-LLM participants showed higher memory recall and re-engagement of occipito-parietal and prefrontal nodes](session4-llm-to-brain-weaker-connectivity-brain-to-llm-reengagement.md) — possibly the same claim (merge candidate)
 - [Over four months and four sessions, LLM-group participants performed worse than Brain-only participants at neural, linguistic, and scoring levels](llm-group-worse-neural-linguistic-scoring-four-sessions.md) — a broader claim this one bears on
-- [Frontal EEG spectral activity shows no statistically significant differences across AI interaction modes or between with-AI and no-AI conditions](no-significant-eeg-differences-across-ai-modes.md) — related
-- [Engagement-index EEG metrics show no significant differences across AI modes, and a possible short-term AI carryover effect remains unconfirmed](engagement-index-null-and-unconfirmed-carryover.md) — related
+- Frontal EEG spectral activity shows no statistically significant differences across AI interaction modes or between with-AI and no-AI conditions — related
+- Engagement-index EEG metrics show no significant differences across AI modes, and a possible short-term AI carryover effect remains unconfirmed — related

@@ -18,7 +18,7 @@ sources:
 # Vocabulary Levels Test (Schmitt, Schmitt & Clapham, 2001)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 A frequency-level receptive vocabulary assessment developed by Norbert Schmitt, Diane Schmitt, and Clapham that measures knowledge of words from 2000-, 3000-, 5000-, and 10000-word frequency bands plus academic vocabulary.
@@ -27,10 +27,6 @@ A frequency-level receptive vocabulary assessment developed by Norbert Schmitt, 
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Adding the 10000-word frequency level does not significantly improve prediction of listening comprehension](../claims/10000-word-level-negligible-listening-variance.md) [~W]
-- [The 5000-word frequency level is the strongest single predictor of advanced listening comprehension variance](../claims/5000-word-level-strongest-listening-predictor.md) [+W]
-- [Receptive vocabulary knowledge correlates moderately with advanced L2 listening comprehension in advanced Turkish EFL learners](../claims/receptive-vocabulary-moderately-correlates-advanced-listening.md) [+W]
-- [Vocabulary test means decrease as word-frequency level rises, but learners scored better on academic vocabulary than the 3000 level](../claims/vocabulary-means-decrease-with-frequency-level.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -64,10 +60,6 @@ A receptive vocabulary measure with five sections covering four word-frequency l
 
 ## Claims
 
-- [Adding the 10000-word frequency level does not significantly improve prediction of listening comprehension](../claims/10000-word-level-negligible-listening-variance.md) [~W]
-- [The 5000-word frequency level is the strongest single predictor of advanced listening comprehension variance](../claims/5000-word-level-strongest-listening-predictor.md) [+W]
-- [Receptive vocabulary knowledge correlates moderately with advanced L2 listening comprehension in advanced Turkish EFL learners](../claims/receptive-vocabulary-moderately-correlates-advanced-listening.md) [+W]
-- [Vocabulary test means decrease as word-frequency level rises, but learners scored better on academic vocabulary than the 3000 level](../claims/vocabulary-means-decrease-with-frequency-level.md) [+W]
 
 ## Related Elements
 - 

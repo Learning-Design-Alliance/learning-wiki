@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: murray-2001
-    resource: "https://teslcanadajournal.ca"
-    title: "Murray, G. L., & Bollinger, D. J. (2001). Developing Cross-Cultural Awareness: Learning Through the Experiences of Others. TESL Canada Journal, 19(1). https://teslcanadajournal.ca"
+    resource: "https://doi.org/10.18806/tesl.v19i1.920"
+    title: "Murray, G. L., & Bollinger, D. J. (2001). Developing Cross-Cultural Awareness: Learning Through the Experiences of Others. TESL Canada Journal, 19(1). https://teslcanadajournal.ca [doi:10.18806/tesl.v19i1.920](https://doi.org/10.18806/tesl.v19i1.920)"
     author: "Murray, G. L., & Bollinger, D. J."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Murray 2001
 
-Murray, G. L., & Bollinger, D. J. (2001). Developing Cross-Cultural Awareness: Learning Through the Experiences of Others. TESL Canada Journal, 19(1). https://teslcanadajournal.ca
+Murray, G. L., & Bollinger, D. J. (2001). Developing Cross-Cultural Awareness: Learning Through the Experiences of Others. TESL Canada Journal, 19(1). https://teslcanadajournal.ca [doi:10.18806/tesl.v19i1.920](https://doi.org/10.18806/tesl.v19i1.920)
 
 `q2 · i?` · `design · r2`
 

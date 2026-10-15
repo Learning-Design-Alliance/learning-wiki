@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: harsh-kumar-2026
-    resource: "https://arxiv.org/abs/2604.02677"
-    title: "Harsh Kumar, Zi Kang (Jace) Mu, Jonathan Vincentius, Ashton Anderson. (2026). Human Thinking under Plural LLM Assistance: Mathematical Problem Solving and Open-Ended Writing. Working Paper, July 2026, Toronto, Canada. https://arxiv.org/abs/2604.02677"
+    resource: "https://doi.org/10.48550/arxiv.2604.02677"
+    title: "Harsh Kumar, Zi Kang (Jace) Mu, Jonathan Vincentius, Ashton Anderson. (2026). Human Thinking under Plural LLM Assistance: Mathematical Problem Solving and Open-Ended Writing. Working Paper, July 2026, Toronto, Canada. https://arxiv.org/abs/2604.02677 [doi:10.48550/arxiv.2604.02677](https://doi.org/10.48550/arxiv.2604.02677)"
     author: Harsh Kumar, Zi Kang (Jace) Mu, Jonathan Vincentius, Ashton Anderson
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Harsh Kumar 2026
 
-Harsh Kumar, Zi Kang (Jace) Mu, Jonathan Vincentius, Ashton Anderson. (2026). Human Thinking under Plural LLM Assistance: Mathematical Problem Solving and Open-Ended Writing. Working Paper, July 2026, Toronto, Canada. https://arxiv.org/abs/2604.02677
+Harsh Kumar, Zi Kang (Jace) Mu, Jonathan Vincentius, Ashton Anderson. (2026). Human Thinking under Plural LLM Assistance: Mathematical Problem Solving and Open-Ended Writing. Working Paper, July 2026, Toronto, Canada. https://arxiv.org/abs/2604.02677 [doi:10.48550/arxiv.2604.02677](https://doi.org/10.48550/arxiv.2604.02677)
 
 `q2 · i?` · `causal · r?`
 

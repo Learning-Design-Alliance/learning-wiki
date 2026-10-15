@@ -47,10 +47,10 @@ A randomized controlled trial randomly assigned low-performing first-graders in 
 - [SMART® effects on comprehension were not statistically significant on either subtest, though the domain-average effect size was substantively important](smart-comprehension-nonsignificant-substantive-average.md) — related
 - [After one year of SMART® intervention, only the fluency outcome was statistically significant, while alphabetics and comprehension effects were not](smart-one-year-interim-mixed-significance.md) — related
 - [Fast Track produced a positive, statistically significant effect on reading achievement/literacy after one year, significant on the Spache DRS but not on the Woodcock-Johnson Letter-Word Identification subtest](fast-track-positive-reading-achievement-mixed-measures.md) — related
-- [Lower-performing students and first graders in 1:1 sessions benefited most from OnYourMark tutoring](onyourmark-lowest-performers-first-grade-11-benefit-most.md) — related
-- [Reading Go! tutoring produced significantly positive decoding and word-reading outcomes for low-performing first graders compared to students who did not receive the program](reading-go-positive-decoding-word-reading-outcomes.md) — related
-- [Enhanced Core Reading Instruction improves word-level reading outcomes for first graders compared to control (average effect size +0.24)](ecri-improves-word-reading-outcomes-first-grade.md) — related
+- Lower-performing students and first graders in 1:1 sessions benefited most from OnYourMark tutoring — related
+- Reading Go! tutoring produced significantly positive decoding and word-reading outcomes for low-performing first graders compared to students who did not receive the program — related
+- Enhanced Core Reading Instruction improves word-level reading outcomes for first graders compared to control (average effect size +0.24) — related
 - [Enhanced math instruction adapted to after-school settings produced modest but statistically significant math gains after one year, while enhanced reading instruction showed no differences](enhanced-academic-instruction-math-gains-reading-null.md) — related
 - [Two years of multicomponent fluency intervention produced greater word-reading and fluency growth than one year or control, with no comprehension differences](two-year-fluency-intervention-greater-word-reading-growth.md) — related
-- [TRI shows an average effect size of +0.51 on Woodcock reading outcomes across two studies](tri-average-effect-size-051-woodcock-outcomes.md) — related
+- TRI shows an average effect size of +0.51 on Woodcock reading outcomes across two studies — related
 - [Scenario-based tutor lessons produced a significant pooled 7.4% learning gain, driven by three lessons with established construct validity while three newer lessons showed no significant gains](scenario-lessons-pooled-74-percent-gain.md) — related

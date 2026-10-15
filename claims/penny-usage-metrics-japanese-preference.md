@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: steve-woollaston-2026
-    resource: "https://arxiv.org/abs/2607.14575"
-    title: "Steve Woollaston, Brendan Flanagan, Yuko Toyokawa and Hiroaki Ogata. (2026). Penny: Transition Network Analysis of Learner-Chatbot Interactions in Scaffolded EFL Writing. Preprint, accepted at the 1st Workshop on Transition Network Analysis (TNA) at LAK '26. https://arxiv.org/abs/2607.14575"
+    resource: "https://doi.org/10.48550/arxiv.2607.14575"
+    title: "Steve Woollaston, Brendan Flanagan, Yuko Toyokawa and Hiroaki Ogata. (2026). Penny: Transition Network Analysis of Learner-Chatbot Interactions in Scaffolded EFL Writing. Preprint, accepted at the 1st Workshop on Transition Network Analysis (TNA) at LAK '26. https://arxiv.org/abs/2607.14575 [doi:10.48550/arxiv.2607.14575](https://doi.org/10.48550/arxiv.2607.14575)"
     author: Steve Woollaston, Brendan Flanagan, Yuko Toyokawa and Hiroaki Ogata
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Steve Woollaston 2026
 
-Steve Woollaston, Brendan Flanagan, Yuko Toyokawa and Hiroaki Ogata. (2026). Penny: Transition Network Analysis of Learner-Chatbot Interactions in Scaffolded EFL Writing. Preprint, accepted at the 1st Workshop on Transition Network Analysis (TNA) at LAK '26. https://arxiv.org/abs/2607.14575
+Steve Woollaston, Brendan Flanagan, Yuko Toyokawa and Hiroaki Ogata. (2026). Penny: Transition Network Analysis of Learner-Chatbot Interactions in Scaffolded EFL Writing. Preprint, accepted at the 1st Workshop on Transition Network Analysis (TNA) at LAK '26. https://arxiv.org/abs/2607.14575 [doi:10.48550/arxiv.2607.14575](https://doi.org/10.48550/arxiv.2607.14575)
 
 `q2 · i?` · `associational · r1`
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: siddhartha-pradhan-2026
-    resource: "https://arxiv.org/abs/2605.23048"
-    title: "Siddhartha Pradhan, Yanping Pei, Morgan Lee, Puyuan Zhang, Erin Ottmar, and Adam C. Sales. (2026). StanBKT: Rethinking Parameter Estimation in Bayesian Knowledge Tracing. https://arxiv.org/abs/2605.23048"
+    resource: "https://doi.org/10.48550/arxiv.2605.23048"
+    title: "Siddhartha Pradhan, Yanping Pei, Morgan Lee, Puyuan Zhang, Erin Ottmar, and Adam C. Sales. (2026). StanBKT: Rethinking Parameter Estimation in Bayesian Knowledge Tracing. https://arxiv.org/abs/2605.23048 [doi:10.48550/arxiv.2605.23048](https://doi.org/10.48550/arxiv.2605.23048)"
     author: Siddhartha Pradhan, Yanping Pei, Morgan Lee, Puyuan Zhang, Erin Ottmar, and Adam C. Sales
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Siddhartha Pradhan 2026
 
-Siddhartha Pradhan, Yanping Pei, Morgan Lee, Puyuan Zhang, Erin Ottmar, and Adam C. Sales. (2026). StanBKT: Rethinking Parameter Estimation in Bayesian Knowledge Tracing. https://arxiv.org/abs/2605.23048
+Siddhartha Pradhan, Yanping Pei, Morgan Lee, Puyuan Zhang, Erin Ottmar, and Adam C. Sales. (2026). StanBKT: Rethinking Parameter Estimation in Bayesian Knowledge Tracing. https://arxiv.org/abs/2605.23048 [doi:10.48550/arxiv.2605.23048](https://doi.org/10.48550/arxiv.2605.23048)
 
 `q2 · i?` · `causal · r?`
 

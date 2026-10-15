@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Not Satisfied accounts for only 5 percent of the reduced online drop-reason data, suggesting dissatisfaction with technology, instruction, or content is not the primary dropout driver. [→ Jia Frydenberg 2007](#jia-frydenberg-2007)
@@ -47,5 +48,5 @@ Analysis of coded withdrawal reasons from online courses over two years, after c
 - [Online attrition during Orientation Week is twice that of onground classes' first week](orientation-week-attrition-double-online.md) — related
 - [Self-reported withdrawal reasons are largely similar online and onground, led by no/other reason, transfer, and schedule conflict](withdrawal-reasons-similar-across-modalities.md) — related
 - [After instruction has begun, drop rates are essentially the same in online and onground continuing education classes](no-drop-rate-difference-after-instruction-starts.md) — related
-- [Attrition did not differ significantly between cognitive apprenticeship and control sections, and withdrawing students did not cite the instructional method](attrition-non-significant-technical-math-quasi-experiment.md) — related
+- Attrition did not differ significantly between cognitive apprenticeship and control sections, and withdrawing students did not cite the instructional method — related
 - [Undergraduate course satisfaction dropped sharply after courses moved fully online during COVID-19, with very satisfied students falling from 51 percent to 19 percent](satisfaction-drop-sudden-online-covid.md) — related

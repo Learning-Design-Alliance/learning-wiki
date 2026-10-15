@@ -61,4 +61,4 @@ The only source recorded here states this effect as a conclusion and supports it
 
 ## Related Claims
 - [The perception that language minority students bring language disadvantages and knowledge deficiencies from home has too often led to lowered academic expectations for them.](deficit-view-of-minority-households-lowers-academic-expectations.md) — related
-- [Expanding the quilt task into an integrated STEM project was judged by its two designers to give students multiple entry points and to feel fun rather than too school-like](integrated-stem-quilt-project-judged-to-offer-multiple-entry-points.md) — related
+- Expanding the quilt task into an integrated STEM project was judged by its two designers to give students multiple entry points and to feel fun rather than too school-like — related

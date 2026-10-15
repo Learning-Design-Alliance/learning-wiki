@@ -44,4 +44,4 @@ The review reports the High/Scope Educational Research Foundation's 15-year foll
 
 ## Related Claims
 - [Adolescent substance use is associated with low academic outcomes, delinquency, and risky sexual behaviors, per cited prior work](adolescent-substance-use-negative-consequences.md) — related
-- [The locus of control scale fails to discriminate delinquent from normal adolescents, casting doubt on its clinical screening utility](locus-of-control-fails-to-discriminate-delinquents.md) — related
+- The locus of control scale fails to discriminate delinquent from normal adolescents, casting doubt on its clinical screening utility — related

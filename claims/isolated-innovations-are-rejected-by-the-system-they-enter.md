@@ -65,7 +65,7 @@ A public-domain ERIC digest from 2000, drawn from Ellsworth's book *Surviving Ch
 | Ellsworth 2000 | q2 · review · r2 | i? | this claim |
 | Gilbert 1999 | q2 · theoretical · r3 | i? | [A tool's effectiveness results from the whole configuration of events, activities, and con](tool-effectiveness-depends-on-context-configuration.md) (supports) |
 | Trout 2021 | q1 · theoretical · r2 | i? | [Technical restorative practices implementation falls short when the adaptive components of](adaptive-shift-precedes-technical-restorative-success.md) (supports); [Relational elements — trust, voice and agency, and equity — are preconditions for restorat](relational-elements-precede-technical-restorative-results.md) (supports) |
-| Roschelle 2021 | q1 · review · r3 | i? | [Inquiry environments are hard to scale because they are ambitious learning activity system](inquiry-environments-ambitious-systems-hard-to-scale.md) (supports) |
+| [Roschelle 2021](https://doi.org/10.4324/9781315685779-7) | q1 · review · r3 | i? | [Inquiry environments are hard to scale because they are ambitious learning activity system](inquiry-environments-ambitious-systems-hard-to-scale.md) (supports) |
 | [Stoll 2006](https://doi.org/10.1007/s10833-006-0001-8) | q2 · review · r? | i? | [Educational reform's progress depends on teachers' individual and collective capacity and ](reform-progress-depends-on-teacher-and-school-capacity.md) (supports) |
 | How the Organization of Schools and Local Communities Shape Educational Improvement 2017 | q1 · review · r? | i? | [Teachers' ability to deliver strong instruction depends substantially on the school contex](instruction-delivery-depends-on-school-context.md) (supports) |
 | [Katia Tödt 2026](https://doi.org/10.1007/978-3-032-26816-7_1) | q1 · theoretical · r2 | i? | [Digital education innovations are an interplay of technological, pedagogical, organisation](digital-education-innovation-four-dimension-interplay.md) (supports) |
@@ -83,11 +83,11 @@ A public-domain ERIC digest from 2000, drawn from Ellsworth's book *Surviving Ch
 - [Change is a specialized instance of the general communication model](change-as-specialized-communication-instance.md) — related
 - [Follow-up or post-implementation contact by change agents relates most strongly to adoption success; without it adoption falters](follow-up-contact-strongest-adoption-success-factor.md) — related
 - [Advanced technology's hyperinteractivity can intensify social inequality in education](hyperinteractivity-can-intensify-inequality.md) — related
-- [Interactive whiteboard results showed shifts between orientation/preparation after returning to schools, raising questions about perceived versus actual use](loa-whiteboard-perceived-versus-actual-use.md) — related
-- [Social media tools plugged into learning management systems are presented as \"social learning\" solutions without being designed around social learning theory](social-media-tools-misappropriated-as-social-learning.md) — a narrower finding that bears on this claim
+- Interactive whiteboard results showed shifts between orientation/preparation after returning to schools, raising questions about perceived versus actual use — related
+- Social media tools plugged into learning management systems are presented as \"social learning\" solutions without being designed around social learning theory — a narrower finding that bears on this claim
 - [An article on narrative inquiry asserts, without data, that teachers' internal drive rather than top-down prescriptions leads to the most successful change in educational practice](teacher-internal-drive-successful-change.md) — related
-- [An intensive competency-based mastery workshop can be an effective diffusion strategy for statewide curriculum leaders to develop learning systems](competency-workshop-effective-diffusion-strategy.md) — related
-- [An innovation and improvement space in local school communities brought forward new leaders](local-innovation-space-new-leaders.md) — related
+- An intensive competency-based mastery workshop can be an effective diffusion strategy for statewide curriculum leaders to develop learning systems — related
+- An innovation and improvement space in local school communities brought forward new leaders — related
 - [Coherence is theorized to assist teacher effectiveness through coordinated professional development and collaborative work on clear goals](coherence-theory-teacher-effectiveness.md) — a narrower finding that bears on this claim
 - [Better coordination, communication, and coherence across professional learning and supports are needed to sustain centering student experience](coherence-alignment-student-experience-supports.md) — a narrower finding that bears on this claim
 - [Assessment accommodations, once adopted, tend to feel transitional rather than fully equal parts of an assessment](accommodations-feel-transitional-not-fully-equal.md) — a narrower finding that bears on this claim

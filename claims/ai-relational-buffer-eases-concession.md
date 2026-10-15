@@ -10,6 +10,7 @@ generated:
 evidence_strength: moderate
 sources:
   - id: relational-1
+    resource: "https://doi.org/10.48550/arxiv.2608.07503"
     title: relational-1
     q: 2
     i: "?"
@@ -29,7 +30,7 @@ sources:
 
 ### relational-1
 
-Ching-Jung Cheng, Yu-Chan Chung, Bing-Chen Chiu, Yu-Hsuan Lin, and Jia-Wei Liao. 2026. Exploring AI-Supported Disciplinary Mediation in Student Project Teams' Text-Based Communication: A Probe-Grounded Co-Design Study. OzCHI '26. https://arxiv.org/abs/2608.07503
+Ching-Jung Cheng, Yu-Chan Chung, Bing-Chen Chiu, Yu-Hsuan Lin, and Jia-Wei Liao. 2026. Exploring AI-Supported Disciplinary Mediation in Student Project Teams' Text-Based Communication: A Probe-Grounded Co-Design Study. OzCHI '26. https://arxiv.org/abs/2608.07503 [doi:10.48550/arxiv.2608.07503](https://doi.org/10.48550/arxiv.2608.07503)
 
 `q2 · i?` · `qualitative · r3`
 

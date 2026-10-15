@@ -16,7 +16,7 @@ sources:
 # Six-barrier taxonomy of K-12 ed-tech procurement challenges
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 3 studies (2 qualitative, 1 associational), `q1`–`q2` · 0 of 3 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The report organizes its interview and workshop findings into six themes that name the major barriers districts face when purchasing education technology: public scrutiny, school culture, procurement regulations, unclear proof points among many choices, shifting and limited resources, and trust. The IDEO team "spoke to 34 superintendents, district leaders, entrepreneurs, and education experts to identify common themes in the procurement process," then prioritized these barriers at a two-day workshop. Each theme is illustrated with practitioner quotes and paired with industry inspiration examples used to spark solution ideas.
@@ -37,10 +37,6 @@ The report organizes its interview and workshop findings into six themes that na
 
 ### Claims
 
-- [Public Scrutiny Risk Aversion Edtech Procurement](../claims/public-scrutiny-risk-aversion-edtech-procurement.md) [+M]
-- [Peer Trust High Outsider Trust Low Edtech](../claims/peer-trust-high-outsider-trust-low-edtech.md) [+M]
-- [Funding is a top procurement challenge for districts, and many districts treat learning technology as a supplemental purchase rather than part of core curriculum budgets](../claims/funding-top-edtech-procurement-challenge.md) [+W]
-- [School districts and ed-tech developers hold different perspectives on the role and value of school-based technology pilots in procurement](../claims/districts-developers-differ-pilot-perspectives.md) [+W]
 
 ## Related Theories
 - 

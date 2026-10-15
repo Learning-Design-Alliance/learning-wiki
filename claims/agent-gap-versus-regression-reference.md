@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: jianxiao-jiang-2025
-    resource: "https://arxiv.org/abs/2510.09183"
-    title: "Jianxiao Jiang, Yu Zhang. (2025). Student Development Agent: Risk-free Simulation for Evaluating AIED Innovations. Preprint. https://arxiv.org/abs/2510.09183"
+    resource: "https://doi.org/10.48550/arxiv.2510.09183"
+    title: "Jianxiao Jiang, Yu Zhang. (2025). Student Development Agent: Risk-free Simulation for Evaluating AIED Innovations. Preprint. https://arxiv.org/abs/2510.09183 [doi:10.48550/arxiv.2510.09183](https://doi.org/10.48550/arxiv.2510.09183)"
     author: Jianxiao Jiang, Yu Zhang
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Jianxiao Jiang 2025
 
-Jianxiao Jiang, Yu Zhang. (2025). Student Development Agent: Risk-free Simulation for Evaluating AIED Innovations. Preprint. https://arxiv.org/abs/2510.09183
+Jianxiao Jiang, Yu Zhang. (2025). Student Development Agent: Risk-free Simulation for Evaluating AIED Innovations. Preprint. https://arxiv.org/abs/2510.09183 [doi:10.48550/arxiv.2510.09183](https://doi.org/10.48550/arxiv.2510.09183)
 
 `q2 · i?` · `design · r2`
 

@@ -171,7 +171,7 @@ Narrative review of Richland et al. (2009), in which participants attempted five
 - [Advance organizers improve learning.](advance-organizers-improve-learning.md) — a structure-building device that supports the encoding retrieval depends on
 - [Retrieval practice effects on mediator-cued final tests have been positive, but Coppens et al. (2016) concluded the true effect may be only about 0.10 to 0.20](mediator-cued-final-test-effects-of-retrieval-practice-may-be-small.md) — related
 - [Two-part collaborative assessment, individual then group answering, transforms summative testing into a learning experience and may reduce test anxiety](two-part-collaborative-assessment-learning-experience.md) — related
-- [Retrieval practice strengthens memory and produces stronger, more enduring learning](retrieval-practice-strengthens-memory.md) — related
+- Retrieval practice strengthens memory and produces stronger, more enduring learning — related
 - [Classroom pretesting improves high-stakes exam performance on pretested content by 8–9% over a multi-week course](classroom-pretesting-exam-gains.md) — a narrower finding that bears on this claim
 - [A review reports that pretesting helps paired-associate learning only when correct-answer feedback is immediate, but helps trivia-fact learning even when feedback is delayed up to 24 hours](feedback-timing-moderates-pretesting.md) — a narrower finding that bears on this claim
 - [Learners fail to recognize the benefits of pre-instruction testing, ranking it as least effective despite benefiting from it](metacognitive-illusion-pretesting-underrated.md) — a narrower finding that bears on this claim

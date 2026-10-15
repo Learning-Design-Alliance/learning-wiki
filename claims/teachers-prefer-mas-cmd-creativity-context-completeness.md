@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: jiayi-wang-2025
-    resource: "https://arxiv.org/abs/2508.16659"
-    title: "Jiayi Wang, Ruiwei Xiao, Xinying Hou, John Stamper. (2025). Enabling Multi-Agent Systems as Learning Designers: Applying Learning Sciences to AI Instructional Design. https://arxiv.org/abs/2508.16659"
+    resource: "https://doi.org/10.48550/arxiv.2508.16659"
+    title: "Jiayi Wang, Ruiwei Xiao, Xinying Hou, John Stamper. (2025). Enabling Multi-Agent Systems as Learning Designers: Applying Learning Sciences to AI Instructional Design. https://arxiv.org/abs/2508.16659 [doi:10.48550/arxiv.2508.16659](https://doi.org/10.48550/arxiv.2508.16659)"
     author: Jiayi Wang, Ruiwei Xiao, Xinying Hou, John Stamper
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Jiayi Wang 2025
 
-Jiayi Wang, Ruiwei Xiao, Xinying Hou, John Stamper. (2025). Enabling Multi-Agent Systems as Learning Designers: Applying Learning Sciences to AI Instructional Design. https://arxiv.org/abs/2508.16659
+Jiayi Wang, Ruiwei Xiao, Xinying Hou, John Stamper. (2025). Enabling Multi-Agent Systems as Learning Designers: Applying Learning Sciences to AI Instructional Design. https://arxiv.org/abs/2508.16659 [doi:10.48550/arxiv.2508.16659](https://doi.org/10.48550/arxiv.2508.16659)
 
 `q2 · i?` · `causal · r1`
 
@@ -45,4 +45,4 @@ Thematic analysis of written feedback from the 20 teachers. Teachers described M
 ## Related Claims
 - [MAS-CMD was rated significantly higher than MAS-Roles on QM criterion 5.2C active learning by 20 expert teachers, with a large effect size](mas-cmd-higher-active-learning-rating-than-mas-roles.md) — related
 - [The three system architectures differ sharply in computational cost, with MAS-CMD trading the highest rubric scores for the greatest latency and token usage](quality-efficiency-tradeoff-mas-architectures.md) — related
-- [Mathematics teachers appreciate ChatGPT-generated generative learning activities as hands-on, collaborative, engaging, open-ended, differentiated, and using multiple representations](teachers-appreciate-chatgpt-generative-learning-affordances.md) — a broader claim this one bears on
+- Mathematics teachers appreciate ChatGPT-generated generative learning activities as hands-on, collaborative, engaging, open-ended, differentiated, and using multiple representations — a broader claim this one bears on

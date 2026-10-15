@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Anthropomorphic explanations were present in older children but less frequently; of the 14-year-olds' fuse explanations quoted, only Kim's was anthropomorphic. [→ Watts 1991](#watts-1991)
@@ -43,5 +44,5 @@ In the authors' classroom data, 14-year-olds learning about fuses gave mostly me
 
 
 ## Related Claims
-- [Animistic and anthropomorphic explanations do not diminish with age but survive into adulthood, contrary to the Piagetian stage account](animistic-explanations-persist-beyond-piagetian-stages.md) — reports the opposite
-- [Seven-year-olds' classroom talk shows animistic explanations linking flames, plants and floating objects to human needs and feelings](young-childrens-animistic-classroom-explanations.md) — related
+- Animistic and anthropomorphic explanations do not diminish with age but survive into adulthood, contrary to the Piagetian stage account — reports the opposite
+- Seven-year-olds' classroom talk shows animistic explanations linking flames, plants and floating objects to human needs and feelings — related

@@ -17,7 +17,7 @@ sources:
 # Social learning theory expectancy framework (generalized and specific expectancies)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 mixed) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Rotter's social learning theory, as applied in this article, conceptualizes behavior as determined by generalized expectancies, such as locus of control (internal versus external reinforcement), and by specific expectancies formed from experience in particular situations. The article uses this framework to interpret academic achievement in expectancy terms, measuring generalized expectancies with the Nowicki-Strickland CNS-IE and specific expectancies with the Rotter Level of Aspiration Board. The study's findings that internal locus of control and realistic specific expectancies both predicted achievement were taken as supportive of "conceptualizing achievement in expectancy terms".
@@ -41,9 +41,6 @@ Rotter's social learning theory, as applied in this article, conceptualizes beha
 
 - Internal Locus Control Higher Achievement [+M]
 - Realistic Expectancies Predict Achievement [+M]
-- [Academic achievement is significantly correlated with locus of control for normal adolescents but not for delinquent adolescents](../claims/achievement-locus-correlation-only-normal-adolescents.md) [~W]
-- [Prior evidence suggested locus of control relates to achievement independently of intelligence, which the present results contradict for delinquent adolescents](../claims/prior-claim-achievement-independent-of-intelligence-questioned.md) [~W]
-- [Locus of control scores show no significant main effects of behavioral condition (normal vs. delinquent) or sex](../claims/no-group-or-sex-effect-on-locus-of-control.md) [~W]
 
 ## Related Theories
 

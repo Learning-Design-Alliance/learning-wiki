@@ -26,7 +26,7 @@ sources:
 # Future Forward
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 12 claims (8 for, 3 mixed, 1 against) · 2 studies (2 causal), `q2`–`q3` · 2 of 2 report an effect size · 12 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Future Forward is a branded early-literacy tutoring and family-engagement programme implemented by participating schools and sites for struggling students in kindergarten through grade 3.
@@ -36,18 +36,8 @@ Future Forward is a branded early-literacy tutoring and family-engagement progra
 - **Future Forward literacy program model**: Future Forward is an early elementary literacy program administered by Education Analytics that "leverages community agencies and combines one-on-one intensive tutoring with parent engagement to promote students’ literacy development both at school and at home." Within sites, a site manager (typically a certified teacher) oversees tutoring by paraprofessionals or volunteers, and a family engagement coordinator handles family outreach including monthly family events. Students participate for one school year with a minimum of two 30-minute tutoring sessions per week and at least two family contacts per month. (Curtis J. Jones et al. (2021))
 
 ### Claims
-- [A COVID-19-modified version of Future Forward yielded a non-significant but positive effect of +0.09](../claims/future-forward-covid-modified-nonsignificant-effect.md) [+W]
-- [A one-semester version of Future Forward showed significant reading gains on Star Reading and DIBELS](../claims/future-forward-one-semester-significant-reading-gains.md) [+W]
-- [Future Forward produces statistically significant gains in foundational literacy skills in a two-year RCT](../claims/future-forward-rct-literacy-gains.md) [+W]
-- [A regression discontinuity study found a positive but non-significant effect of +0.16 on standardized literacy growth](../claims/future-forward-rd-nonsignificant-positive-effect.md) [+W]
-- [Future Forward holds 'Strong' evidence ratings for Family Engagement and Attendance in addition to literacy](../claims/future-forward-strong-ratings-family-engagement-attendance.md) [+W]
-- [The tutoring component of Future Forward scaled up successfully to 14 schools, with 89.7% of participants receiving the intended sessions](../claims/future-forward-tutoring-scaled-up.md) [+W]
-- [The family engagement component of Future Forward did not fully scale up, with only about 30% of families receiving intended contacts](../claims/future-forward-family-engagement-not-scaled.md) [-W] — (also cited [~W])
-- [One year of Future Forward participation raises regular-school-day attendance of lower-primary students relative to business-as-usual literacy instruction](../claims/future-forward-improves-school-attendance.md) [+W]
+- The family engagement component of Future Forward did not fully scale up, with only about 30% of families receiving intended contacts [-W] — (also cited [~W])
 - [Prior randomized studies of Future Forward/SPARK met WWC standards Without Reservations and found positive impacts on literacy and attendance](../claims/future-forward-prior-rct-evidence.md) [+W]
-- [The family engagement component of FF did not fully scale up: only 30.2% of families were contacted at the intended frequency and no site met the fidelity threshold](../claims/ff-family-engagement-under-implementation.md) [~W]
-- [The attendance impact of Future Forward is larger for Black students, male students, and students with low baseline attendance](../claims/future-forward-differential-impact-subgroups.md) [~W]
-- [Black male students with low baseline attendance show the largest Future Forward attendance gains, though not statistically significant](../claims/future-forward-black-male-low-attendance-gains.md) [~W]
 
 ## Related Products and Programmes
 -
@@ -87,14 +77,6 @@ Future Forward is a freestanding early literacy program for kindergarten through
 
 ## Claims
 
-- [A COVID-19-modified version of Future Forward yielded a non-significant but positive effect of +0.09](../claims/future-forward-covid-modified-nonsignificant-effect.md) [+W]
-- [A one-semester version of Future Forward showed significant reading gains on Star Reading and DIBELS](../claims/future-forward-one-semester-significant-reading-gains.md) [+W]
-- [Future Forward produces statistically significant gains in foundational literacy skills in a two-year RCT](../claims/future-forward-rct-literacy-gains.md) [+W]
-- [A regression discontinuity study found a positive but non-significant effect of +0.16 on standardized literacy growth](../claims/future-forward-rd-nonsignificant-positive-effect.md) [+W]
-- [Future Forward holds 'Strong' evidence ratings for Family Engagement and Attendance in addition to literacy](../claims/future-forward-strong-ratings-family-engagement-attendance.md) [+W]
-- [The tutoring component of Future Forward scaled up successfully to 14 schools, with 89.7% of participants receiving the intended sessions](../claims/future-forward-tutoring-scaled-up.md) [+W]
-- [The family engagement component of Future Forward did not fully scale up, with only about 30% of families receiving intended contacts](../claims/future-forward-family-engagement-not-scaled.md) [-W]
-- [One year of Future Forward participation raises regular-school-day attendance of lower-primary students relative to business-as-usual literacy instruction](../claims/future-forward-improves-school-attendance.md) [+W]
 - [Prior randomized studies of Future Forward/SPARK met WWC standards Without Reservations and found positive impacts on literacy and attendance](../claims/future-forward-prior-rct-evidence.md) [+W]
 
 ## Related Elements
@@ -146,15 +128,7 @@ Future Forward is an early elementary literacy program administered by Education
 ## Claims
 
 - [Prior randomized studies of FF/SPARK found positive impacts on literacy and school attendance meeting WWC standards Without Reservations](../claims/future-forward-prior-rct-evidence.md) [+W]
-- [One year of Future Forward participation produced a statistically significant positive impact on school attendance of lower-primary students compared to BAU literacy instruction](../claims/future-forward-improves-school-attendance.md) [+W]
-- [The tutoring component of FF scaled up successfully to 14 schools, with 89.7% of participants receiving the intended tutoring dosage](../claims/future-forward-tutoring-scaled-up.md) [+W]
-- [The tutoring component of Future Forward scaled up successfully to 14 schools, with 89.7% of participants receiving the intended sessions](../claims/future-forward-tutoring-scaled-up.md) [+W]
-- [The family engagement component of FF did not fully scale up: only 30.2% of families were contacted at the intended frequency and no site met the fidelity threshold](../claims/ff-family-engagement-under-implementation.md) [~W]
-- [The family engagement component of Future Forward did not fully scale up, with only about 30% of families receiving intended contacts](../claims/future-forward-family-engagement-not-scaled.md) [~W]
-- [One year of Future Forward participation raises regular-school-day attendance of lower-primary students relative to business-as-usual literacy instruction](../claims/future-forward-improves-school-attendance.md) [+W]
 - [Prior randomized studies of Future Forward/SPARK met WWC standards Without Reservations and found positive impacts on literacy and attendance](../claims/future-forward-prior-rct-evidence.md) [+W]
-- [The attendance impact of Future Forward is larger for Black students, male students, and students with low baseline attendance](../claims/future-forward-differential-impact-subgroups.md) [~W]
-- [Black male students with low baseline attendance show the largest Future Forward attendance gains, though not statistically significant](../claims/future-forward-black-male-low-attendance-gains.md) [~W]
 
 ## Related Elements
 
@@ -198,12 +172,7 @@ Future Forward is an early elementary literacy program administered by Education
 
 ## Claims
 
-- [One year of Future Forward participation raises regular-school-day attendance of lower-primary students relative to business-as-usual literacy instruction](../claims/future-forward-improves-school-attendance.md) [+W]
 - [Prior randomized studies of Future Forward/SPARK met WWC standards Without Reservations and found positive impacts on literacy and attendance](../claims/future-forward-prior-rct-evidence.md) [+W]
-- [The tutoring component of Future Forward scaled up successfully to 14 schools, with 89.7% of participants receiving the intended sessions](../claims/future-forward-tutoring-scaled-up.md) [+W]
-- [The family engagement component of Future Forward did not fully scale up, with only about 30% of families receiving intended contacts](../claims/future-forward-family-engagement-not-scaled.md) [~W]
-- [The attendance impact of Future Forward is larger for Black students, male students, and students with low baseline attendance](../claims/future-forward-differential-impact-subgroups.md) [~W]
-- [Black male students with low baseline attendance show the largest Future Forward attendance gains, though not statistically significant](../claims/future-forward-black-male-low-attendance-gains.md) [~W]
 
 ## Related Elements
 

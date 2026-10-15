@@ -46,8 +46,8 @@ Observational log analysis of anonymized activity data from 67,686 students in 2
 - [Game-oriented engagement declines with grade level while assessment-driven engagement peaks in Grade 8](game-orientation-declines-assessment-driven-peaks-grade-8.md) — related
 - [No K–8 student profile showed balanced engagement across all four platform components](no-balanced-engagement-across-platform-components.md) — a narrower finding that bears on this claim
 - [Three distinct learner profiles emerge from function art activities: Repetitivists, Simplists, and Multifunctionists](function-art-three-learner-profiles.md) — related
-- [The 96 thinking styles profiles cluster into three groups, with Achievement Motivation Thinking the most common](thinking-style-profiles-three-clusters.md) — related
-- [K-means clustering of factor scores identifies 10 distinct types of teacher feedback content, mostly scaffolding-oriented](ten-cluster-feedback-types.md) — related
+- The 96 thinking styles profiles cluster into three groups, with Achievement Motivation Thinking the most common — related
+- K-means clustering of factor scores identifies 10 distinct types of teacher feedback content, mostly scaffolding-oriented — related
 - [Exploratory K-means clustering identifies four heterogeneous student AI-user profiles differing in experience, competence, usefulness, trust, and control, but the solution's optimality and stability are not established](exploratory-four-cluster-student-ai-profiles.md) — related
 - [Teachers' post-workshop platform engagement fell into three behavioral profiles, with most teachers showing minimal creation and browsing](three-behavioral-engagement-profiles-ai-agent-creation.md) — related
 - [Clustering yields a small number of behaviorally distinct team clusters that instructors can use for cluster-differentiated feedback](clustering-cluster-differentiated-feedback-ttx.md) — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: mixed
 sources:
   - id: laurent-brisson-2026
-    resource: "https://arxiv.org/abs/2607.22598"
-    title: "Laurent Brisson, Maria Teresa Segarra and Gregory Smits. (2026). A didactical-driven teacher assistant for a dimensional modeling course. https://arxiv.org/abs/2607.22598"
+    resource: "https://doi.org/10.48550/arxiv.2607.22598"
+    title: "Laurent Brisson, Maria Teresa Segarra and Gregory Smits. (2026). A didactical-driven teacher assistant for a dimensional modeling course. https://arxiv.org/abs/2607.22598 [doi:10.48550/arxiv.2607.22598](https://doi.org/10.48550/arxiv.2607.22598)"
     author: Laurent Brisson, Maria Teresa Segarra and Gregory Smits
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Laurent Brisson 2026
 
-Laurent Brisson, Maria Teresa Segarra and Gregory Smits. (2026). A didactical-driven teacher assistant for a dimensional modeling course. https://arxiv.org/abs/2607.22598
+Laurent Brisson, Maria Teresa Segarra and Gregory Smits. (2026). A didactical-driven teacher assistant for a dimensional modeling course. https://arxiv.org/abs/2607.22598 [doi:10.48550/arxiv.2607.22598](https://doi.org/10.48550/arxiv.2607.22598)
 
 `q2 · i?` · `design · r2`
 

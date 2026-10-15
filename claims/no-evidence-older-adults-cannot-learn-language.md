@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 <!-- title before 2026-10-15: No research evidence suggests older adults cannot succeed in learning another language, though adults need more deliberate learning effort than children -->
 
 ## Subclaims
@@ -46,5 +47,5 @@ The digest's review section states this as an assertion about the research liter
 ## Related Claims
 - [Mental health, especially depression, is probably the single most decisive factor in refugee language learning](depression-decisive-factor-refugee-language-learning.md) — related
 - [Learning ability does not decline with age in healthy older adults](learning-ability-does-not-decline-with-age.md) — possibly the same claim (merge candidate)
-- [No age is optimal or critical for second language learning, and older learners can benefit more from cognitive approaches](no-critical-age-language-learning.md) — related
-- [Aging does not substantially reduce informal learning participation, though preference shifts from courses to self-directed learning](aging-does-not-reduce-informal-learning.md) — related
+- No age is optimal or critical for second language learning, and older learners can benefit more from cognitive approaches — related
+- Aging does not substantially reduce informal learning participation, though preference shifts from courses to self-directed learning — related

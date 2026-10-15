@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Problem counts differed sharply by condition: Streak gave around 17 AD, 10 AS and 9 M problems; BKT default around 11 AD and 6 AS and M; DKT random gave around 78 AD problems but fewer than 3 in AS and M. [→ counts-1](#counts-1)
@@ -42,6 +43,6 @@ Simulation results shown in Figure 1 report problems administered per condition 
 
 ## Related Claims
 - [BKT is the most efficient knowledge tracing approach overall in simulated online mastery learning, though DKT is more efficient for AS and M problems](bkt-most-efficient-online-mastery-learning.md) — related
-- [Deep Knowledge Tracing has a fundamental limitation that prevents it from supporting mastery learning on multi-step problems](dkt-limitation-multi-step-mastery-learning.md) — related
-- [Simulated students (Apprentice agents) can successfully evaluate online knowledge tracing models, exposing errors before costly classroom testing](simulated-students-evaluate-online-knowledge-tracing.md) — a broader claim this one bears on
+- Deep Knowledge Tracing has a fundamental limitation that prevents it from supporting mastery learning on multi-step problems — related
+- Simulated students (Apprentice agents) can successfully evaluate online knowledge tracing models, exposing errors before costly classroom testing — a broader claim this one bears on
 - [KT4EQG remains competitive when evaluated with alternative knowledge tracers (BKT and DKT), though its advantage varies across modules](kt4eqg-competitive-under-alternative-tracers.md) — related

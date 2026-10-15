@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: jiaojiao-zhao-2026
-    resource: "https://arxiv.org/abs/2606.09041"
-    title: "Jiaojiao Zhao, Weisheng Zhang, Jiawen Cai, Haibin Gao, and Luyao Zhang. (2026). Culturally-Aware AI for Cross-Boundary Community Learning: Undergraduate Innovation at the Intersection of Computation and Design. https://arxiv.org/abs/2606.09041"
+    resource: "https://doi.org/10.48550/arxiv.2606.09041"
+    title: "Jiaojiao Zhao, Weisheng Zhang, Jiawen Cai, Haibin Gao, and Luyao Zhang. (2026). Culturally-Aware AI for Cross-Boundary Community Learning: Undergraduate Innovation at the Intersection of Computation and Design. https://arxiv.org/abs/2606.09041 [doi:10.48550/arxiv.2606.09041](https://doi.org/10.48550/arxiv.2606.09041)"
     author: Jiaojiao Zhao, Weisheng Zhang, Jiawen Cai, Haibin Gao, and Luyao Zhang
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Jiaojiao Zhao 2026
 
-Jiaojiao Zhao, Weisheng Zhang, Jiawen Cai, Haibin Gao, and Luyao Zhang. (2026). Culturally-Aware AI for Cross-Boundary Community Learning: Undergraduate Innovation at the Intersection of Computation and Design. https://arxiv.org/abs/2606.09041
+Jiaojiao Zhao, Weisheng Zhang, Jiawen Cai, Haibin Gao, and Luyao Zhang. (2026). Culturally-Aware AI for Cross-Boundary Community Learning: Undergraduate Innovation at the Intersection of Computation and Design. https://arxiv.org/abs/2606.09041 [doi:10.48550/arxiv.2606.09041](https://doi.org/10.48550/arxiv.2606.09041)
 
 `q1 · i?` · `qualitative · r1`
 

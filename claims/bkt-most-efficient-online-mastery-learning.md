@@ -27,6 +27,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Across simulated conditions, BKT generally had the best efficiency (predicted correctness divided by practice opportunities), while DKT random showed the highest efficiency for AS and M problems. [→ eff-1](#eff-1)
@@ -59,8 +60,8 @@ Efficiency metric computed by dividing AFM+S end-of-training predictions by numb
 
 ## Related Claims
 - [In simulated online mastery learning, BKT gave the fewest problems, Streak the second fewest, Random the most, and DKT gave almost as many as Random in one problem type and the least in the other two](problem-counts-by-knowledge-tracing-condition.md) — related
-- [Simulated students (Apprentice agents) can successfully evaluate online knowledge tracing models, exposing errors before costly classroom testing](simulated-students-evaluate-online-knowledge-tracing.md) — a broader claim this one bears on
-- [Deep Knowledge Tracing has a fundamental limitation that prevents it from supporting mastery learning on multi-step problems](dkt-limitation-multi-step-mastery-learning.md) — related
-- [BKT learning-rate parameters estimated from simulated student data correlate positively with those estimated from human data](simulated-data-initializes-bkt-parameters.md) — related
+- Simulated students (Apprentice agents) can successfully evaluate online knowledge tracing models, exposing errors before costly classroom testing — a broader claim this one bears on
+- Deep Knowledge Tracing has a fundamental limitation that prevents it from supporting mastery learning on multi-step problems — related
+- BKT learning-rate parameters estimated from simulated student data correlate positively with those estimated from human data — related
 - [Per-pitch BKT attains the highest accuracy, lowest BCE and lowest Brier score of the four model families, but lower AUC than IRT](bkt-highest-accuracy-lower-auc-than-irt.md) — related
 - [KT4EQG remains competitive when evaluated with alternative knowledge tracers (BKT and DKT), though its advantage varies across modules](kt4eqg-competitive-under-alternative-tracers.md) — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: rismanchian-2026
-    resource: "https://arxiv.org/abs/2605.21629"
-    title: "Rismanchian, S., Uzun, H., Matayoshi, J., Cosyn, E., & Kurd-Misto, E. (2026). Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build. arXiv preprint. https://arxiv.org/abs/2605.21629"
+    resource: "https://doi.org/10.48550/arxiv.2605.21629"
+    title: "Rismanchian, S., Uzun, H., Matayoshi, J., Cosyn, E., & Kurd-Misto, E. (2026). Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build. arXiv preprint. https://arxiv.org/abs/2605.21629 [doi:10.48550/arxiv.2605.21629](https://doi.org/10.48550/arxiv.2605.21629)"
     author: "Rismanchian, S., Uzun, H., Matayoshi, J., Cosyn, E., & Kurd-Misto, E."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Rismanchian 2026
 
-Rismanchian, S., Uzun, H., Matayoshi, J., Cosyn, E., & Kurd-Misto, E. (2026). Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build. arXiv preprint. https://arxiv.org/abs/2605.21629
+Rismanchian, S., Uzun, H., Matayoshi, J., Cosyn, E., & Kurd-Misto, E. (2026). Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build. arXiv preprint. https://arxiv.org/abs/2605.21629 [doi:10.48550/arxiv.2605.21629](https://doi.org/10.48550/arxiv.2605.21629)
 
 `q2 · i?` · `causal · r2`
 

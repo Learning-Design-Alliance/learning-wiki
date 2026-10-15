@@ -10,6 +10,7 @@ generated:
 evidence_strength: weak
 sources:
   - id: human-1
+    resource: "https://doi.org/10.48550/arxiv.2605.17857"
     title: human-1
     q: 2
     i: "?"
@@ -36,7 +37,7 @@ sources:
 
 ### human-1
 
-Cassandra Lucas, Anshul Bihani, Rohini Kukka, Chun-Hua Tsai, Jaydeb Sarker, and Mia Mohammad Imran. 2026. TowardsSocratiCode: Designing a Generative AI-Based Programming Tutor for K-12 Students through a 4-Week Participatory Design Study. https://arxiv.org/abs/2605.17857
+Cassandra Lucas, Anshul Bihani, Rohini Kukka, Chun-Hua Tsai, Jaydeb Sarker, and Mia Mohammad Imran. 2026. TowardsSocratiCode: Designing a Generative AI-Based Programming Tutor for K-12 Students through a 4-Week Participatory Design Study. https://arxiv.org/abs/2605.17857 [doi:10.48550/arxiv.2605.17857](https://doi.org/10.48550/arxiv.2605.17857)
 
 `q2 · i?` · `design · r?`
 
@@ -59,7 +60,7 @@ Observation from the study's thematic analysis: occasional human intervention wa
 
 ## Related Claims
 - [Adult learners emphasize human-in-the-loop AI design that keeps final learning decisions with learners and instructors](human-in-the-loop-ai-design-pf.md) — related
-- [Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs](human-guidance-ethical-grounding-ai.md) — related
+- Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs — related
 - [Situational-level real-time AI guidance for tutors raised students' topic mastery, especially for students of lower-rated tutors](tutor-copilot-raises-exit-ticket-mastery-4pp.md) — related
-- [Practitioners hold near-universal commitments to human oversight and critical evaluation of AI outputs](practitioner-oversight-governance-norms.md) — related
+- Practitioners hold near-universal commitments to human oversight and critical evaluation of AI outputs — related
 - [Iterative prompt refinement shifted a generative-AI tutor from tutorial-style explanation delivery toward dialogic Socratic support for K-12 beginners](prompt-refinement-shifts-genai-toward-socratic-support.md) — related

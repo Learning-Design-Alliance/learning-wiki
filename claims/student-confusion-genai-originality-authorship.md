@@ -50,4 +50,4 @@ The originality findings from the thematic analysis report that "The views of pa
 - [Engineering students treat GenAI as acceptable when it stimulates reflection but view directly copying outputs as cheating, leveraging its fallibility to prompt double-checking](genai-ethics-reflection-versus-copying-boundaries.md) — related
 - [Student perceptions of AI use in academic work are neutral and range from viewing AI as valid learning assistance to viewing it as cheating, depending on task type, transparency, and assessment design](student-ai-perceptions-neutral-task-dependent.md) — a broader claim this one bears on
 - [Whether student GenAI use constitutes academic misconduct depends fundamentally on the prior question of the university's purpose](genai-misconduct-depends-on-university-purpose.md) — related
-- [Evaluators view GenAI use in story writing as broadly acceptable but reject unacknowledged use and demand compensation for source creators](evaluator-limits-on-acceptable-genai-use.md) — related
+- Evaluators view GenAI use in story writing as broadly acceptable but reject unacknowledged use and demand compensation for source creators — related

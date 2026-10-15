@@ -45,10 +45,10 @@ Response time-based analysis of data from an adaptive achievement test compared 
 ## Related Claims
 - [A proposed effort-guided adaptive test alleviates item difficulty mistargeting caused by unmotivated test taking, as shown by simulation](effort-guided-adaptive-test-alleviates-mistargeting.md) — related
 - [Effort-moderated scoring yields more accurate scores than traditional scoring on an adaptive achievement test](effort-moderated-scoring-more-accurate-than-traditional.md) — related
-- [Rapid-guessing behavior on an adaptive achievement test is inconsistent with an absorbing state model of unmotivated test taking](rapid-guessing-inconsistent-absorbing-state-model.md) — a narrower finding that bears on this claim
-- [Solution behavior accuracy does not decrease across item positions, contradicting decreasing effort models of unmotivated test taking](solution-accuracy-no-decreasing-effort.md) — a narrower finding that bears on this claim
-- [An effort-guided CAT that holds the provisional achievement estimate constant after rapid guesses reduces standard errors and ameliorates severe item mis-targeting](effort-guided-cat-reduces-mis-targeting.md) — related
-- [Rapid guessing is unrelated to item difficulty, inconsistent with the difficulty-based model of test-taking motivation](rapid-guessing-unrelated-item-difficulty.md) — a narrower finding that bears on this claim
+- Rapid-guessing behavior on an adaptive achievement test is inconsistent with an absorbing state model of unmotivated test taking — a narrower finding that bears on this claim
+- Solution behavior accuracy does not decrease across item positions, contradicting decreasing effort models of unmotivated test taking — a narrower finding that bears on this claim
+- An effort-guided CAT that holds the provisional achievement estimate constant after rapid guesses reduces standard errors and ameliorates severe item mis-targeting — related
+- Rapid guessing is unrelated to item difficulty, inconsistent with the difficulty-based model of test-taking motivation — a narrower finding that bears on this claim
 - [The test platform detects rapid guessing in real time and attempts to re-engage disengaged students to protect score validity](map-growth-real-time-engagement-detection-re-engagement.md) — related
 - [E-M scoring leaves residual score distortion, suggesting some disengaged test responses are nonrapid rather than rapid guesses](nonrapid-disengaged-responses-residual-distortion.md) — related
-- [Effort-moderated scoring yields more accurate achievement scores and better person fit than traditional MLE scoring when rapid guessing is present](effort-moderated-scoring-more-accurate-better-fit.md) — related
+- Effort-moderated scoring yields more accurate achievement scores and better person fit than traditional MLE scoring when rapid guessing is present — related

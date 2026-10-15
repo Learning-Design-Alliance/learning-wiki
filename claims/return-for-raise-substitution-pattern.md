@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: daniel-prol-2026
-    resource: "https://arxiv.org/abs/2609.15944"
-    title: "Daniel Prol, Juho Leinonen, Arto Hellas, Saleh Alkhamees, Amin Alipour. (2026). Pulla: A Parsons Problem Tool for Fine-Grained Behavioral Tracing and Instructor-Facing Problem-Solving Analysis. arXiv. https://arxiv.org/abs/2609.15944"
+    resource: "https://doi.org/10.48550/arxiv.2609.15944"
+    title: "Daniel Prol, Juho Leinonen, Arto Hellas, Saleh Alkhamees, Amin Alipour. (2026). Pulla: A Parsons Problem Tool for Fine-Grained Behavioral Tracing and Instructor-Facing Problem-Solving Analysis. arXiv. https://arxiv.org/abs/2609.15944 [doi:10.48550/arxiv.2609.15944](https://doi.org/10.48550/arxiv.2609.15944)"
     author: Daniel Prol, Juho Leinonen, Arto Hellas, Saleh Alkhamees, Amin Alipour
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Students across both deployments substituted return statements for exception-raising constructs, treating error conditions as reasons to exit early
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` At the University of Houston, 60% of students with incorrect attempts on SafeDivide (P1) placed a return statement rather than throwing an exception, and 47% substituted return for throw on P3. [→ Daniel Prol 2026](#daniel-prol-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Daniel Prol 2026
 
-Daniel Prol, Juho Leinonen, Arto Hellas, Saleh Alkhamees, Amin Alipour. (2026). Pulla: A Parsons Problem Tool for Fine-Grained Behavioral Tracing and Instructor-Facing Problem-Solving Analysis. arXiv. https://arxiv.org/abs/2609.15944
+Daniel Prol, Juho Leinonen, Arto Hellas, Saleh Alkhamees, Amin Alipour. (2026). Pulla: A Parsons Problem Tool for Fine-Grained Behavioral Tracing and Instructor-Facing Problem-Solving Analysis. arXiv. https://arxiv.org/abs/2609.15944 [doi:10.48550/arxiv.2609.15944](https://doi.org/10.48550/arxiv.2609.15944)
 
 `q2 · i?` · `design · r2`
 

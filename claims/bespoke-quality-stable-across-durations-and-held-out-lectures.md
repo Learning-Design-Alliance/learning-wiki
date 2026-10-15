@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: romain-puech-2026
-    resource: "https://arxiv.org/abs/2609.26540"
-    title: "Romain Puech, Dewang Kumar Agarwal, Antonio Santamaría Escobar, Dimitris Bertsimas. (2026). Bespoke: Generating MOOC-Quality Industry-Personalized Lecture Videos at Scale. arXiv preprint. https://arxiv.org/abs/2609.26540"
+    resource: "https://doi.org/10.48550/arxiv.2609.26540"
+    title: "Romain Puech, Dewang Kumar Agarwal, Antonio Santamaría Escobar, Dimitris Bertsimas. (2026). Bespoke: Generating MOOC-Quality Industry-Personalized Lecture Videos at Scale. arXiv preprint. https://arxiv.org/abs/2609.26540 [doi:10.48550/arxiv.2609.26540](https://doi.org/10.48550/arxiv.2609.26540)"
     author: Romain Puech, Dewang Kumar Agarwal, Antonio Santamaría Escobar, Dimitris Bertsimas
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Overall quality was similar across durations and across the 21-lecture held-out set unused during system development
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Medium (5–15 minute) and long videos scored similarly on global quality (3.36 vs. 3.53; Mann–Whitney U p = 0.60), and videos from the 21 held-out lectures scored G = 3.36 versus 3.51 on the 10 development lectures. [→ Romain Puech 2026](#romain-puech-2026)
@@ -39,7 +39,7 @@ sources:
 
 ### Romain Puech 2026
 
-Romain Puech, Dewang Kumar Agarwal, Antonio Santamaría Escobar, Dimitris Bertsimas. (2026). Bespoke: Generating MOOC-Quality Industry-Personalized Lecture Videos at Scale. arXiv preprint. https://arxiv.org/abs/2609.26540
+Romain Puech, Dewang Kumar Agarwal, Antonio Santamaría Escobar, Dimitris Bertsimas. (2026). Bespoke: Generating MOOC-Quality Industry-Personalized Lecture Videos at Scale. arXiv preprint. https://arxiv.org/abs/2609.26540 [doi:10.48550/arxiv.2609.26540](https://doi.org/10.48550/arxiv.2609.26540)
 
 `q2 · i?` · `design · r2`
 

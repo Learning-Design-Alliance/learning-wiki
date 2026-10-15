@@ -127,7 +127,7 @@ Cited in the report's introduction as background on turnover: "teachers with lit
 ## Related Claims
 
 - [Schools with high teacher turnover and large proportions of underprepared teachers are associated with lower achievement for all students and for students experiencing homelessness, after accounting for other factors](teacher-turnover-underprepared-teachers-lower-achievement-homeless.md) — related
-- [Comprehensive preparation and quality mentoring reduce early-career teacher attrition](preparation-mentoring-reduce-attrition.md) — possibly the same claim (merge candidate)
+- Comprehensive preparation and quality mentoring reduce early-career teacher attrition — possibly the same claim (merge candidate)
 - [Underprepared teachers are two to three times more likely to leave than prepared teachers, driving a revolving door in high-poverty schools](underprepared-teachers-leave-two-to-three-times-more.md) — possibly the same claim (merge candidate)
 - [Alternatively certified teachers are 25% more likely to leave their schools and the profession, controlling for other factors](alternative-certification-25-percent-more-likely-to-leave.md) — related
 - [Novice TRP teachers' district retention rates are roughly the same as those of teachers entering through other preparation programs](trp-retention-similar-to-other-routes.md) — related

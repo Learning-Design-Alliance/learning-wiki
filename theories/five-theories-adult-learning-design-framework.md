@@ -16,7 +16,7 @@ sources:
 # Five adult learning theories — andragogy, experiential learning, self-directed learning, transformational learning, and neuroscience — as a design framework for adult-learning technology
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The report organizes its design guidance around "five of the prevailing theories about how adults learn: andragogy, experiential learning, self-directed learning, transformational learning, and neuroscience." Each theory yields design moves — experience-based tasks, problem solving, reflection, learner control, and transformative triggers — that the report translates into recommendations for products serving low-skilled adult learners.
@@ -38,7 +38,6 @@ The report organizes its design guidance around "five of the prevailing theories
 - adult basic education and English language learning
 
 ### Claims
-- [Adult Ed Access Gap And Mobile Readiness](../claims/adult-ed-access-gap-and-mobile-readiness.md) [+W]
 
 ## Related Theories
 

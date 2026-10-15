@@ -12,7 +12,7 @@ generated:
 # Videoconferencing for Collaboration
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 6 studies (4 quant-synthesis, 1 design, 1 theoretical), `q2`–`q4` · 4 of 6 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 5 studies (4 quant-synthesis, 1 theoretical), `q2`–`q4` · 4 of 5 report an effect size
 
 ## Description
 Videoconferencing platforms with built-in collaboration features — Microsoft Teams, Google Meet, Zoom — allow teachers to replicate teamwork experiences online. These platforms typically combine synchronous video and audio with digital whiteboards, screensharing, breakout rooms, and real-time co-editing, enabling students to brainstorm strategies, share resources, and produce joint work without co-location.
@@ -59,7 +59,6 @@ Videoconferencing can support [Collaborative Learning](../principles/collaborati
 
 ## Claims
 
-- [Reported videoconferencing adoption rose significantly after practitioners returned to the workplace (p<0.005), with mean level increasing from 2.00 to 4.53](../claims/loa-videoconferencing-significant-post-posttest-increase.md) [+W]
 
 ## Related Strategies
 

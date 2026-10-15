@@ -12,7 +12,7 @@ generated:
 # LLM scoring, generated-feedback, and essay-feature analysis framework
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 11 claims (4 for, 7 mixed) · 7 studies (4 associational, 1 causal, 1 review, 1 design), `q2`–`q3` · 0 of 7 report an effect size · 11 claims rest on one study
+> **Evidence** · 10 claims (4 for, 6 mixed) · 6 studies (3 associational, 1 causal, 1 review, 1 design), `q2` · 0 of 6 report an effect size · 10 claims rest on one study
 
 ## Description
 The article proposes an analysis framework in which "Essays are first evaluated by LLMs to produce both predicted scores and textual feedback." Essay-level features (length, Flesch Reading Ease readability, and LanguageTool error counts) and feedback-derived signals (trait-specific praise and criticism via aspect-based sentiment analysis with a DeBERTa-v3 ABSA model, confidence above 0.9) are then extracted and related to the scores. The framework was applied to GPT-3.5, GPT-4.1, GPT-5-mini, and Llama 2, 3, and 4 models on the ASAP and DREsS datasets to compare LLM scores with human ratings and examine how feedback sentiment and essay characteristics relate to assigned scores.
@@ -31,7 +31,6 @@ The article proposes an analysis framework in which "Essays are first evaluated 
 - [In one reviewed study, GPT-4 automated essay scoring showed score inflation, with AI–human rating discrepancies exceeding 1.5 standard deviations in 38% of graduate-level bibliographies](../claims/gpt4-essay-score-inflation.md) [~W]
 - [Implicit demographic conditioning inflates AES scores in some models, with Llama-70B scores rising 1.57 points over its own default, while GPT models remain stable](../claims/implicit-conditioning-inflates-aes-scores-llama-70b.md) [~W]
 - [LLMs agree strongly with their own consensus grades (most ICC > 0.8), far more than with human teachers' grades](../claims/llm-high-consensus-agreement-circularity-risk.md) [~W]
-- [ML-based scoring approaches more often overestimated expert-assigned scores, whereas LLM-based approaches more often underestimated them](../claims/ml-overestimates-llm-underestimates-pattern.md) [~W]
 - [Full-scale LLM versions consistently achieve higher agreement with human grades than their mini and nano counterparts](../claims/full-scale-llms-outperform-mini-nano-grading.md) [~W]
 - [Teachers systematically assign higher grades than all evaluated LLM grading models](../claims/teachers-grade-higher-than-all-llm-models.md) [~W]
 - [Document length alone carries some signal (word-count classifier ROC-AUC 0.68), but the fixed-word sliding-window design largely prevents stylometric features from capturing length differences](../claims/sliding-window-controls-document-length-effects.md) [~W]

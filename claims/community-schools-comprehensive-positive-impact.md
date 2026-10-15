@@ -46,7 +46,7 @@ The report's synthesis of 24 comprehensive community school evaluations, includi
 - [Well-implemented community schools improve attendance, behavior, engagement, and academic outcomes, with longer and more sustained implementation associated with more significant outcomes](community-schools-implementation-strength-related-to-outcomes.md) — possibly the same claim (merge candidate)
 - [Evidence on RJ's impact on academic outcomes is limited and mixed, with graduation-rate gains in one study and no GPA change in another](rj-academic-outcomes-evidence-mixed.md) — related
 - [Graduation rates improved for all racial, ethnic, and economic groups, but racial and ethnic gaps increased while gender, poverty, and disability gaps declined](graduation-gaps-racial-widened-others-narrowed.md) — related
-- [BARR reduces ninth-grade chronic absenteeism in a large school-level randomized study](barr-reduces-ninth-grade-chronic-absenteeism.md) — related
+- BARR reduces ninth-grade chronic absenteeism in a large school-level randomized study — related
 - Graduates' academic qualifications improved alongside graduation rates, with ACT scores rising from 16.7 to 18.6 between 2003 and 2014 — related
 - [High schools that foster 8th-to-9th-grade student growth across multiple dimensions positively influence students' social and academic trajectories](multidimensional-growth-schools-improve-long-run-outcomes.md) — related
 - [Attending both a KIPP middle school and a KIPP high school had large positive impacts on college enrollment and persistence](kipp-middle-plus-high-large-enrollment-persistence-impacts.md) — related

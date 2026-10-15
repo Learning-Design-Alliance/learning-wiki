@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: brandon-pardi-2026
-    resource: "https://arxiv.org/abs/2606.15572"
-    title: "Brandon Pardi, Garret Castro, Michael Pisman, Avash Adhikari, and Santosh Chandrasekhar. (2026). Improving Capstone Team Outcomes through Dynamic Skill Matching and Preference Alignment. https://arxiv.org/abs/2606.15572"
+    resource: "https://doi.org/10.48550/arxiv.2606.15572"
+    title: "Brandon Pardi, Garret Castro, Michael Pisman, Avash Adhikari, and Santosh Chandrasekhar. (2026). Improving Capstone Team Outcomes through Dynamic Skill Matching and Preference Alignment. https://arxiv.org/abs/2606.15572 [doi:10.48550/arxiv.2606.15572](https://doi.org/10.48550/arxiv.2606.15572)"
     author: Brandon Pardi, Garret Castro, Michael Pisman, Avash Adhikari, and Santosh Chandrasekhar
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Brandon Pardi 2026
 
-Brandon Pardi, Garret Castro, Michael Pisman, Avash Adhikari, and Santosh Chandrasekhar. (2026). Improving Capstone Team Outcomes through Dynamic Skill Matching and Preference Alignment. https://arxiv.org/abs/2606.15572
+Brandon Pardi, Garret Castro, Michael Pisman, Avash Adhikari, and Santosh Chandrasekhar. (2026). Improving Capstone Team Outcomes through Dynamic Skill Matching and Preference Alignment. https://arxiv.org/abs/2606.15572 [doi:10.48550/arxiv.2606.15572](https://doi.org/10.48550/arxiv.2606.15572)
 
 `q2 · i?` · `design · r2`
 
@@ -45,5 +45,5 @@ Results section comparison on the same UC Merced capstone datasets (Fall 2023 an
 ## Related Claims
 - [Manual team formation required over 20 hours of instructor effort, while the algorithm produced assignments in milliseconds](algorithm-reduces-instructor-workload-milliseconds.md) — related
 - [A dynamic skill-weighted matching algorithm achieves higher percentage of skills fulfilled than manual and random assignment across both evaluated semesters](dynamic-skill-matching-higher-skill-coverage.md) — related
-- [MAB assignment yields higher average rewards (student outcomes) than uniform random assignment during experiments](mab-assignment-higher-average-student-rewards.md) — related
+- MAB assignment yields higher average rewards (student outcomes) than uniform random assignment during experiments — related
 - [Former capstone students' team-formation priorities centered on interesting topics, preferred teammates, and skill or career alignment](student-team-formation-priorities-survey.md) — related

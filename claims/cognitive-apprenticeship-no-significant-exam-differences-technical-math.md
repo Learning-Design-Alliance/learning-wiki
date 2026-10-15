@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 4 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` No significant differences were found between the apprenticeship and control groups on the post-treatment examinations, even when prior ability was used as a covariate. [→ Johnson 1992](#johnson-1992)
@@ -45,9 +46,9 @@ Quasi-experiment in community college technical mathematics: two teachers each t
 
 - [The review reports that cognitive apprenticeship instructional methods were significantly more effective than traditional methods for college-level writing skills](ca-methods-more-effective-than-traditional-writing-college.md) — the general claim this finding bears on, with the studies behind it
 - [Cognitive apprenticeship students became more anxious about mathematics but reported gains in self-confidence, rapport, and enjoyment](cognitive-apprenticeship-attitude-anxiety-confidence-effects.md) — related
-- [Teacher-by-method interaction was significant on the standardized MPE posttest, with control-group performance dependent on the teacher](teacher-method-interaction-significant-mpe-posttest.md) — related
-- [Attrition did not differ significantly between cognitive apprenticeship and control sections, and withdrawing students did not cite the instructional method](attrition-non-significant-technical-math-quasi-experiment.md) — related
-- [Hourly-exam differences between groups occurred on trigonometry tests rather than algebra tests](hourly-exam-differences-trigonometry-not-algebra.md) — related
+- Teacher-by-method interaction was significant on the standardized MPE posttest, with control-group performance dependent on the teacher — related
+- Attrition did not differ significantly between cognitive apprenticeship and control sections, and withdrawing students did not cite the instructional method — related
+- Hourly-exam differences between groups occurred on trigonometry tests rather than algebra tests — related
 - [Algebra ability level differences appear on both criteria with no treatment-by-ability interaction](ability-level-differences-verbal-problem-solving.md) — related
-- [Middle school students began the study with weak information problem-solving knowledge and especially weak application ability](students-weak-initial-il-skills.md) — related
+- Middle school students began the study with weak information problem-solving knowledge and especially weak application ability — related
 - [Objective learning gains did not differ significantly by condition in the primary ANCOVA, but KBD showed a significant positive effect on learning gains in exploratory regressions accounting for learner covariates](kbd-objective-learning-gains-ancova-null-exploratory-positive.md) — related

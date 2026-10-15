@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i1` small
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i1` In a real-time matched study of 1,060 6th-8th grade students, students of teachers who received e2L coaching outperformed students in comparison schools with no e2L coaching on end-of-year STAAR math (effect size = +0.13). [→ engage2learn (e2L): Evidence Rating 2022](#engage2learn-e2l-evidence-rating-2022)
@@ -44,4 +45,4 @@ Second matched study using propensity score matching to create a well-matched co
 
 ## Related Claims
 - [Students of engage2learn teachers scored significantly higher on NWEA MAP than students of non-e2L teachers in the same schools and in comparison schools](e2l-teachers-students-higher-nwea-map.md) — related
-- [STAAR results in the first e2L study were conflicting: positive versus separate control schools but negative versus non-e2L teachers in the same schools](e2l-staar-conflicting-results-study-one.md) — related
+- STAAR results in the first e2L study were conflicting: positive versus separate control schools but negative versus non-e2L teachers in the same schools — related

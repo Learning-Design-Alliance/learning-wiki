@@ -18,7 +18,7 @@ sources:
 # OnYourMark
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (2 for, 1 against) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 1 claim (1 against) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 OnYourMark is a virtual, individualized, high-dosage early-literacy tutoring programme run by OnYourMark in partnership with schools for kindergarten through grade 2 students.
@@ -28,9 +28,7 @@ OnYourMark is a virtual, individualized, high-dosage early-literacy tutoring pro
 - **OnYourMark virtual early literacy tutoring program**: OnYourMark is an early literacy tutoring service providing "virtual, individualized, high dosage instruction focused on foundational early literacy skills". It is grounded in the science of reading, partners with schools as a complement to existing literacy instruction, and delivers a phonics, phonological awareness and fluency curriculum in 1:1 or 2:1 sessions embedded into the school day, four 20-minute sessions per week from September to May. (OnYourMark (2023))
 
 ### Claims
-- [Lower-performing students and first graders in 1:1 sessions benefited most from OnYourMark tutoring](../claims/onyourmark-lowest-performers-first-grade-11-benefit-most.md) [+M]
 - [OnYourMark tutoring did not produce significantly better performance on the NWEA MAP](../claims/onyourmark-no-significant-nwea-map-effect.md) [-M]
-- [Virtual 1:1 and 2:1 high-dosage tutoring improved K-2 students' early literacy performance on DIBELS relative to business-as-usual control](../claims/onyourmark-virtual-tutoring-improves-dibels.md) [+M]
 
 ## Related Products and Programmes
 -
@@ -65,9 +63,7 @@ OnYourMark is an early literacy tutoring service providing "virtual, individuali
 
 ## Claims
 
-- [Lower-performing students and first graders in 1:1 sessions benefited most from OnYourMark tutoring](../claims/onyourmark-lowest-performers-first-grade-11-benefit-most.md) [+M]
 - [OnYourMark tutoring did not produce significantly better performance on the NWEA MAP](../claims/onyourmark-no-significant-nwea-map-effect.md) [-M]
-- [Virtual 1:1 and 2:1 high-dosage tutoring improved K-2 students' early literacy performance on DIBELS relative to business-as-usual control](../claims/onyourmark-virtual-tutoring-improves-dibels.md) [+M]
 
 ## Related Elements
 

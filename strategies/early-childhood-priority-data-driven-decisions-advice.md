@@ -17,7 +17,7 @@ sources:
 # District and school leaders advise making early childhood a priority and using data to make every decision in school turnaround
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 In reflecting on their turnaround experience, Horace Mann's principal and superintendent offered direct advice to other leaders. Conaway advised, "Use data to make every decision!" and to put high-quality teachers with students and make the vision clear. Adams advised superintendents: "Make early childhood a priority... Get young children in the classroom and ensure they have great teachers," noting that by second grade children are on grade level and can be tracked for college and career readiness.
@@ -38,8 +38,6 @@ In reflecting on their turnaround experience, Horace Mann's principal and superi
 
 ## Claims
 
-- [Elliott Elementary, one of Nebraska's five lowest performing schools, used SIG funds to launch a pre-kindergarten program and reset its improvement course](../claims/elliott-sig-launched-pk-program-turnaround.md) [+W]
-- [Three SIG Cohort 1 elementary schools that integrated PK–3 early learning strategies into turnaround plans showed improved student achievement](../claims/sig-schools-integrating-pk3-strategies-improved-achievement.md) [+W]
 
 ## Related Strategies
 

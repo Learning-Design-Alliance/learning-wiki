@@ -18,7 +18,7 @@ sources:
 # Zearn Math
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Zearn Math is a nonprofit-developed online supplemental K–8 mathematics curriculum and digital learning program used during math instruction, intervention, and tutoring.
@@ -29,11 +29,8 @@ Zearn Math is a nonprofit-developed online supplemental K–8 mathematics curric
 - **Zearn professional development and coaching supports for educators and school leaders**: Zearn offers professional development through live onsite and virtual sessions that help educators launch the program and use data to identify student needs, with foundational and advanced sessions tailored to implementation goals. It also provides on-demand professional development building pedagogical content knowledge for each K-5 math unit, a library of asynchronous resources including webinars and tutorials, and optional school-based coaching to help establish strong usage routines and support data-driven implementation. No additional personnel are required to use the program. (Zearn Math evidence review (2024))
 
 ### Claims
-- [Across three studies of Zearn Math the average effect size is +0.09, qualifying the program for a Strong evidence rating](../claims/zearn-average-effect-009-strong-rating.md) [+W]
-- [Louisiana students using Zearn Math with dedicated implementation support scored significantly higher on LEAP (effect size +0.20)](../claims/zearn-louisiana-leap-effect-020.md) [+M]
-- [An earlier pilot implementation of Zearn Math without full implementation support found no significant differences versus comparison students](../claims/zearn-pilot-no-significant-differences.md) [-W] — (also cited [~M])
+- An earlier pilot implementation of Zearn Math without full implementation support found no significant differences versus comparison students [-W] — (also cited [~M])
 - [Zearn Math schools significantly outperformed control schools on NWEA MAP in a large Texas RCT (effect size +0.11 overall)](../claims/zearn-rct-nwea-map-effect-011.md) [+W]
-- [In the Texas RCT, Zearn Math effects on the Texas STAAR assessment were directionally positive but not statistically significant](../claims/zearn-rct-staar-not-significant.md) [~W]
 
 ## Related Products and Programmes
 -
@@ -68,11 +65,7 @@ Zearn Math is a nonprofit online supplemental program for grades K-8 in which st
 
 ## Claims
 
-- [Across three studies of Zearn Math the average effect size is +0.09, qualifying the program for a Strong evidence rating](../claims/zearn-average-effect-009-strong-rating.md) [+W]
-- [Louisiana students using Zearn Math with dedicated implementation support scored significantly higher on LEAP (effect size +0.20)](../claims/zearn-louisiana-leap-effect-020.md) [+M]
-- [An earlier pilot implementation of Zearn Math without full implementation support found no significant differences versus comparison students](../claims/zearn-pilot-no-significant-differences.md) [-W]
 - [Zearn Math schools significantly outperformed control schools on NWEA MAP in a large Texas RCT (effect size +0.11 overall)](../claims/zearn-rct-nwea-map-effect-011.md) [+W]
-- [In the Texas RCT, Zearn Math effects on the Texas STAAR assessment were directionally positive but not statistically significant](../claims/zearn-rct-staar-not-significant.md) [~W]
 
 ## Related Elements
 
@@ -112,8 +105,6 @@ Zearn offers professional development through live onsite and virtual sessions t
 
 ## Claims
 
-- [Louisiana students using Zearn Math with dedicated implementation support scored significantly higher on LEAP (effect size +0.20)](../claims/zearn-louisiana-leap-effect-020.md) [+M]
-- [An earlier pilot implementation of Zearn Math without full implementation support found no significant differences versus comparison students](../claims/zearn-pilot-no-significant-differences.md) [~M]
 
 ## Related Elements
 - [Zearn Math Digital Lessons](../products/zearn-math.md)

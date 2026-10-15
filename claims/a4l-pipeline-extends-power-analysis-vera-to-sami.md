@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: y-bai-2025
-    resource: "https://arxiv.org/abs/2605.30303"
-    title: "Y. Bai, P. Thajchayapong, A. Goel. (2025). Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple Domains. https://arxiv.org/abs/2605.30303"
+    resource: "https://doi.org/10.48550/arxiv.2605.30303"
+    title: "Y. Bai, P. Thajchayapong, A. Goel. (2025). Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple Domains. https://arxiv.org/abs/2605.30303 [doi:10.48550/arxiv.2605.30303](https://doi.org/10.48550/arxiv.2605.30303)"
     author: Y. Bai, P. Thajchayapong, A. Goel
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Y. Bai 2025
 
-Y. Bai, P. Thajchayapong, A. Goel. (2025). Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple Domains. https://arxiv.org/abs/2605.30303
+Y. Bai, P. Thajchayapong, A. Goel. (2025). Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple Domains. https://arxiv.org/abs/2605.30303 [doi:10.48550/arxiv.2605.30303](https://doi.org/10.48550/arxiv.2605.30303)
 
 `q2 · i?` · `design · r2`
 

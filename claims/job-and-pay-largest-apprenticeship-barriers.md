@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Finding another job was the most cited reason for apprenticeship non-completion (29.1%), followed by low pay (13.9%). [→ Huang 2025](#huang-2025)
@@ -43,9 +44,9 @@ Descriptive analysis of survey-reported reasons for non-persistence in the appre
 
 
 ## Related Claims
-- [Black students are more likely to complete the apprenticeship component of LC101 when accounting for all other factors, suggesting alternative STEM programs may represent vehicles for racial equity in STEM](black-students-more-likely-complete-apprenticeship.md) — related
+- Black students are more likely to complete the apprenticeship component of LC101 when accounting for all other factors, suggesting alternative STEM programs may represent vehicles for racial equity in STEM — related
 - [Interest alignment is highest among course completers while economic motivations (higher pay, better benefits, increased stability) are highest among non-completers](interest-alignment-vs-economic-motivations-persistence.md) — related
-- [Qualitative interviews identify prior coding interest, time resources, course pacing, and financial constraints as key experiential factors shaping LC101 persistence](qualitative-experience-themes-lc101-persistence.md) — related
+- Qualitative interviews identify prior coding interest, time resources, course pacing, and financial constraints as key experiential factors shaping LC101 persistence — related
 - [Time constraints (47.3%) and course difficulty (27.7%) are the two largest barriers to completing the LC101 coursework phase](time-and-difficulty-largest-coursework-barriers.md) — related
 - [The most cited barriers to adult learning are situational, but adults also face internal barriers such as low confidence in their ability to learn](adult-learner-barriers-situational-and-internal.md) — a broader claim this one bears on
 - [An adult-education market report asserts, quoting earlier research it does not detail, that adult training yields better results the more closely it relates to a real job or occupation](employer-relevant-training-improves-adult-outcomes.md) — related

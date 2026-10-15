@@ -17,7 +17,7 @@ sources:
 # NMSA 9th Grade Academy course teaching skills for success with research-based learning strategies
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The 9th Grade Academy is a mandatory NMSA seminar, required since 2014, in which students learn skills for success including study habits, close reading skills, and public speaking meant to carry through high school. In the past two years its curriculum was enhanced to reflect the school's research commitment; teacher Kim Martinez introduced spaced practice, retrieval practice, and elaboration to prepare students for a test.
@@ -39,8 +39,6 @@ The 9th Grade Academy is a mandatory NMSA seminar, required since 2014, in which
 
 ## Claims
 
-- [NMSA staff report that growth mindset connects the school's arts and academic aims, and the concept is now introduced explicitly in the classroom](../claims/growth-mindset-connects-arts-and-academics.md) [+W]
-- [In a teacher-run classroom survey, students most preferred practice test questions among three retrieval-practice strategies, and about three-quarters reported feeling well prepared after using retrieval strategies versus about a quarter without them](../claims/nmsa-survey-preference-practice-testing.md) [+W]
 
 ## Related Elements
 

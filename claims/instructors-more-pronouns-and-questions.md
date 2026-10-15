@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: yijun-liu-2026
-    resource: "https://arxiv.org/abs/2606.06271"
-    title: "Yijun Liu, Yifan Song, John Gallagher, Sarah Sterman, Tal August. (2026). FOXGLOVE: Understanding Goal-Oriented and Anchored Writing Feedback from Experts and LLMs on Argumentative Essays. https://arxiv.org/abs/2606.06271"
+    resource: "https://doi.org/10.48550/arxiv.2606.06271"
+    title: "Yijun Liu, Yifan Song, John Gallagher, Sarah Sterman, Tal August. (2026). FOXGLOVE: Understanding Goal-Oriented and Anchored Writing Feedback from Experts and LLMs on Argumentative Essays. https://arxiv.org/abs/2606.06271 [doi:10.48550/arxiv.2606.06271](https://doi.org/10.48550/arxiv.2606.06271)"
     author: Yijun Liu, Yifan Song, John Gallagher, Sarah Sterman, Tal August
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Instructors use more first-person and second-person pronouns and more questions than LLMs in feedback comments
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Evidence** · 2 studies · 2 associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Human feedback has a higher density of first-person pronouns (1.26 vs. 0.03 per 100 words) and second-person pronouns (5.19 vs. 3.75 per 100 words) than LLM feedback. [→ Yijun Liu 2026](#yijun-liu-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Yijun Liu 2026
 
-Yijun Liu, Yifan Song, John Gallagher, Sarah Sterman, Tal August. (2026). FOXGLOVE: Understanding Goal-Oriented and Anchored Writing Feedback from Experts and LLMs on Argumentative Essays. https://arxiv.org/abs/2606.06271
+Yijun Liu, Yifan Song, John Gallagher, Sarah Sterman, Tal August. (2026). FOXGLOVE: Understanding Goal-Oriented and Anchored Writing Feedback from Experts and LLMs on Argumentative Essays. https://arxiv.org/abs/2606.06271 [doi:10.48550/arxiv.2606.06271](https://doi.org/10.48550/arxiv.2606.06271)
 
 `q2 · i?` · `associational · r1`
 

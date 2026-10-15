@@ -45,7 +45,7 @@ Questionnaire survey of the 13 teachers using a 5-point Likert scale on ChatGPT'
 ## Related Claims
 - [ChatGPT-assisted lesson plans for children's STEAM art education received higher blind expert quality ratings than traditional teacher-generated plans (average 21.0 vs 17.0)](chatgpt-assisted-plans-outscore-traditional-art-lesson-plans.md) — related
 - [Lesson designers report LLM-generated lessons save substantial time drafting scenarios and multiple-choice questions](llm-lessons-time-saving-scenario-drafting.md) — related
-- [Teachers find ChatGPT a creative, fast, iterative brainstorming partner that adds specific numbers and details when posing math questions from photos](chatgpt-brainstorming-partner-affordances.md) — related
+- Teachers find ChatGPT a creative, fast, iterative brainstorming partner that adds specific numbers and details when posing math questions from photos — related
 - [Students rated ChatGPT highly for completing activities more quickly, among the highest-scoring survey items in both courses](chatgpt-rated-high-for-speed-of-completion.md) — related
 - [Students rated the flipped-learning component highest and the GenAI module lower, with GenAI rated stronger for ideation than for time saving or direct output use](genai-rated-for-ideation-not-time-saving.md) — related
 - [ChatGPT-generated art lesson plans pose challenges of impracticality, overlooked safety issues, and required teacher revision time](chatgpt-lesson-plan-challenges-practicality-safety.md) — reports the opposite

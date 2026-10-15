@@ -63,7 +63,7 @@ Teacher feedback on their own rankings of TEC elements: "Session 1 of the DVD ep
 
 ## Related Claims
 - [Nearly all teachers implemented the TEC Summer Learning Program as planned despite wide variation in program conditions](tec-summer-high-fidelity-despite-variation.md) — related
-- [Teachers find skill-development features of micro-credentials most appealing and badge sharing and display least appealing](skill-features-appeal-more-than-badges.md) — related
+- Teachers find skill-development features of micro-credentials most appealing and badge sharing and display least appealing — related
 - [Program appeal rested on flexibility and financial savings, with some modules completable in under 10 minutes](microcredential-appeal-flexibility-financial-savings.md) — related
 - [Teachers reported increased motivation and confidence leading groups and new instructional strategies from using the TEC curriculum](tec-summer-teacher-outcome-gains.md) — related
 - [Teachers reported student gains in motivation and confidence to engage in literacy and mathematics learning activities](tec-summer-teacher-reported-motivation-gains.md) — related

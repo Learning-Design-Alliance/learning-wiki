@@ -71,14 +71,6 @@
         [
           "srl-effect-no-course-type-difference",
           "+"
-        ],
-        [
-          "srl-is-domain-specific-strategy-use-varies-by-subject",
-          "~"
-        ],
-        [
-          "bilingual-students-benefit-metacognitive-strategy-instruction",
-          "+"
         ]
       ]
     },

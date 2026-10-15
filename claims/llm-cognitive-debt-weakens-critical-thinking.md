@@ -49,5 +49,5 @@ The article attributes this to recent research on AI assistants for essay writin
 - [Over four months and four sessions, LLM-group participants performed worse than Brain-only participants at neural, linguistic, and scoring levels](llm-group-worse-neural-linguistic-scoring-four-sessions.md) — a narrower finding that bears on this claim
 - [Brain connectivity during essay writing systematically scales down with the amount of external support, with Brain-only strongest, Search Engine intermediate, and LLM weakest](brain-connectivity-scales-down-with-external-support-essay-writing.md) — a narrower finding that bears on this claim
 - [Unguarded answer-giving AI harmed unaided exam performance while a guarded version of the same model erased the harm (Bastani et al., 2025, as reported)](gpt4-access-harms-learning-after-withdrawal.md) — related
-- [AI assistance raises individual creative self-assessments but reduces collective diversity of novel content (reviewed finding)](ai-creativity-individual-gain-collective-diversity-loss.md) — related
+- AI assistance raises individual creative self-assessments but reduces collective diversity of novel content (reviewed finding) — related
 - [Unstructured LLM use risks cognitive offloading that displaces effortful thought and weakens argument construction](unstructured-llm-use-cognitive-offloading.md) — related

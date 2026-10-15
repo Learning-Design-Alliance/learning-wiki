@@ -16,7 +16,7 @@ sources:
 # Free-choice learning as a cultural pathway framing everyday knowledge application
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article frames learning through non-guided everyday problem-solving as free-choice learning, drawing on Falk, Storksdieck and Dierking. It states that "free-choice learning is best viewed as a cultural pathway in the domains that span all of life, be they sociocultural, historical, material, and affect laden practices." The framework is combined with Reif's account of unstructured problems, in which a heuristic delineates probable think-spaces such as describe, analyze, construct solution, assess and exploit, and with Ormrod's processes of vicarious learning, trial and error, metacognition and self-regulation.
@@ -39,9 +39,6 @@ The article frames learning through non-guided everyday problem-solving as free-
 ### Claims
 
 - [Youth Skip Assess Phase Free Choice Heuristics](../claims/youth-skip-assess-phase-free-choice-heuristics.md) [+M]
-- [Urban high school youth report applying school science in non-guided everyday problem-solving, occurring mainly in home-and-family and play-and-recreation settings](../claims/youth-apply-school-science-everyday-home-recreation-problems.md) [+W]
-- [Youth possess sociocultural and cognitive know-how for knowledge application, but indigenous knowledge was not integrated and mobilization is lacking](../claims/youth-knowhow-springboard-indigenous-knowledge-gap.md) [+W]
-- [Youth problem-solving situations show affinity for personal relevance but absence of initiative for societal problems](../claims/youth-problems-personal-relevance-not-societal.md) [+W]
 
 ## Related Theories
 - 

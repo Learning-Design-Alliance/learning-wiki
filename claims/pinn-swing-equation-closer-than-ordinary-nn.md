@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: junjie-yin-2026
-    resource: "https://arxiv.org/abs/2608.02599"
-    title: "Junjie Yin, Buxin She, Xinyu Feng, Fangxing (Fran) Li. (2026). Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework. arXiv preprint. https://arxiv.org/abs/2608.02599"
+    resource: "https://doi.org/10.48550/arxiv.2608.02599"
+    title: "Junjie Yin, Buxin She, Xinyu Feng, Fangxing (Fran) Li. (2026). Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework. arXiv preprint. https://arxiv.org/abs/2608.02599 [doi:10.48550/arxiv.2608.02599](https://doi.org/10.48550/arxiv.2608.02599)"
     author: Junjie Yin, Buxin She, Xinyu Feng, Fangxing (Fran) Li
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Junjie Yin 2026
 
-Junjie Yin, Buxin She, Xinyu Feng, Fangxing (Fran) Li. (2026). Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework. arXiv preprint. https://arxiv.org/abs/2608.02599
+Junjie Yin, Buxin She, Xinyu Feng, Fangxing (Fran) Li. (2026). Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework. arXiv preprint. https://arxiv.org/abs/2608.02599 [doi:10.48550/arxiv.2608.02599](https://doi.org/10.48550/arxiv.2608.02599)
 
 `q1 · i?` · `design · r2`
 

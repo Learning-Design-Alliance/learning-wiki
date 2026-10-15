@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: james-soland-2015
-    resource: "https://www.nwea.org/research/publication/is-moneyball-the-next-big-thing-in-education/"
-    title: "James Soland. (2015). Is Moneyball the next big thing in education? Phi Delta Kappan 96(4), 64–67. https://www.nwea.org/research/publication/is-moneyball-the-next-big-thing-in-education/"
+    resource: "https://doi.org/10.1177/0031721714561450"
+    title: "James Soland. (2015). Is Moneyball the next big thing in education? Phi Delta Kappan 96(4), 64–67. https://www.nwea.org/research/publication/is-moneyball-the-next-big-thing-in-education/ [doi:10.1177/0031721714561450](https://doi.org/10.1177/0031721714561450)"
     author: James Soland
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### James Soland 2015
 
-James Soland. (2015). Is Moneyball the next big thing in education? Phi Delta Kappan 96(4), 64–67. https://www.nwea.org/research/publication/is-moneyball-the-next-big-thing-in-education/
+James Soland. (2015). Is Moneyball the next big thing in education? Phi Delta Kappan 96(4), 64–67. https://www.nwea.org/research/publication/is-moneyball-the-next-big-thing-in-education/ [doi:10.1177/0031721714561450](https://doi.org/10.1177/0031721714561450)
 
 `q1 · i?` · `theoretical · r2`
 

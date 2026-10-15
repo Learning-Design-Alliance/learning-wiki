@@ -45,5 +45,5 @@ Survey study using a bespoke three-item self-efficacy scale (αs = 0.75 − 0.86
 ## Related Claims
 - [Students rated the LLM-based assignments as useful, challenging, engaging, and enjoyable at both the first and fifth iterations, with no significant change across the semester](positive-affective-responses-llm-assignments.md) — related
 - [Midterm self-efficacy (comfort and confidence) did not differ between conditions after three assignments, though both varied significantly across algorithmic topics](genai-condition-no-self-efficacy-difference.md) — related
-- [Students shifted AI usage toward debugging and concept explanation over the semester, with 31 of 89 reporting more debugging use](cs1-ai-usage-shift-debugging.md) — related
+- Students shifted AI usage toward debugging and concept explanation over the semester, with 31 of 89 reporting more debugging use — related
 - [Students in a scaffolded LLM-collaboration course improved significantly on initial argument quality, prompt engineering, and response to AI feedback from the first to the fifth assignment](argumentative-writing-gains-scaffolded-llm-assignments.md) — related

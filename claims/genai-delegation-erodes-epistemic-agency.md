@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: riichiro-mizoguchi-2026
-    resource: "https://arxiv.org/abs/2608.05545"
-    title: "Riichiro Mizoguchi, Tomoki Aburatani, Kento Koike, Machi Shimmei. (2026). Vibe Compiler: A Research-Logic Synthesis Tool That Runs without Prompt Engineering —Toward Enhancing Metacognition for Sustaining Agency in the Age of Generative AI—. arXiv preprint. https://arxiv.org/abs/2608.05545"
+    resource: "https://doi.org/10.48550/arxiv.2608.05545"
+    title: "Riichiro Mizoguchi, Tomoki Aburatani, Kento Koike, Machi Shimmei. (2026). Vibe Compiler: A Research-Logic Synthesis Tool That Runs without Prompt Engineering —Toward Enhancing Metacognition for Sustaining Agency in the Age of Generative AI—. arXiv preprint. https://arxiv.org/abs/2608.05545 [doi:10.48550/arxiv.2608.05545](https://doi.org/10.48550/arxiv.2608.05545)"
     author: Riichiro Mizoguchi, Tomoki Aburatani, Kento Koike, Machi Shimmei
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Riichiro Mizoguchi 2026
 
-Riichiro Mizoguchi, Tomoki Aburatani, Kento Koike, Machi Shimmei. (2026). Vibe Compiler: A Research-Logic Synthesis Tool That Runs without Prompt Engineering —Toward Enhancing Metacognition for Sustaining Agency in the Age of Generative AI—. arXiv preprint. https://arxiv.org/abs/2608.05545
+Riichiro Mizoguchi, Tomoki Aburatani, Kento Koike, Machi Shimmei. (2026). Vibe Compiler: A Research-Logic Synthesis Tool That Runs without Prompt Engineering —Toward Enhancing Metacognition for Sustaining Agency in the Age of Generative AI—. arXiv preprint. https://arxiv.org/abs/2608.05545 [doi:10.48550/arxiv.2608.05545](https://doi.org/10.48550/arxiv.2608.05545)
 
 `q2 · i?` · `design · r2`
 

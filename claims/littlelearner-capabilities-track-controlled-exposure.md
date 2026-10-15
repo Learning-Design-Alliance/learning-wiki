@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: fanfei-li-2026
-    resource: "https://arxiv.org/abs/2608.13545"
-    title: "Fanfei Li, Jana Zeller, Manuel Prada-Corral, Thaddäus Wiedemer, Prasanna Mayilvahanan, Ryan Cotterell, Wieland Brendel. (2026). LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure. Preprint. https://arxiv.org/abs/2608.13545"
+    resource: "https://doi.org/10.48550/arxiv.2608.13545"
+    title: "Fanfei Li, Jana Zeller, Manuel Prada-Corral, Thaddäus Wiedemer, Prasanna Mayilvahanan, Ryan Cotterell, Wieland Brendel. (2026). LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure. Preprint. https://arxiv.org/abs/2608.13545 [doi:10.48550/arxiv.2608.13545](https://doi.org/10.48550/arxiv.2608.13545)"
     author: Fanfei Li, Jana Zeller, Manuel Prada-Corral, Thaddäus Wiedemer, Prasanna Mayilvahanan, Ryan Cotterell, Wieland Brendel
     q: 2
     i: "?"
@@ -38,7 +38,7 @@ sources:
 # LittleLearner's capabilities tightly track its controlled exposure: strong on in-scope tasks, degrading beyond the K-5 boundary
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · causal `r2` · `q2`
+> **Evidence** · 2 studies (3 entries) · 2 causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` On Jeopardy science questions split by NGSS grade scope, LittleLearner shows a sudden drop in factual knowledge beyond its exposure horizon while UNFILTERED performs comparably across both bins. [→ Fanfei Li 2026](#fanfei-li-2026)
@@ -49,7 +49,7 @@ sources:
 
 ### Fanfei Li 2026
 
-Fanfei Li, Jana Zeller, Manuel Prada-Corral, Thaddäus Wiedemer, Prasanna Mayilvahanan, Ryan Cotterell, Wieland Brendel. (2026). LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure. Preprint. https://arxiv.org/abs/2608.13545
+Fanfei Li, Jana Zeller, Manuel Prada-Corral, Thaddäus Wiedemer, Prasanna Mayilvahanan, Ryan Cotterell, Wieland Brendel. (2026). LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure. Preprint. https://arxiv.org/abs/2608.13545 [doi:10.48550/arxiv.2608.13545](https://doi.org/10.48550/arxiv.2608.13545)
 
 `q2 · i?` · `causal · r2`
 

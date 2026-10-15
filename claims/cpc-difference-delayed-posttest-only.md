@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` High cognitive processing capacity students were significantly better than low CPC students on the delayed posttest only, with mean scores of 8.38 and 7.76. [→ Furukawa 1978](#furukawa-1978)
@@ -44,5 +45,5 @@ Extreme-groups comparison of high versus low CPC students in the retention study
 ## Related Claims
 
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](chunking-reduces-working-memory-load.md) — the general claim this finding bears on, with the studies behind it
-- [Retention after learning with the chunking method is high, with 85% to 95% of original learning retained over three months](chunking-method-high-retention.md) — related
-- [The correlation between cognitive processing capacity and test performance is non-significant when using the chunking method](cpc-correlation-nonsignificant-chunking.md) — reports the opposite
+- Retention after learning with the chunking method is high, with 85% to 95% of original learning retained over three months — related
+- The correlation between cognitive processing capacity and test performance is non-significant when using the chunking method — reports the opposite

@@ -13,7 +13,7 @@ generated:
 # Justification
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 4 studies (2 theoretical, 1 causal, 1 design), `q1`–`q2` · 1 of 4 report an effect size · 5 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 causal, 1 theoretical), `q1`–`q2` · 1 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Justification is the element in which learners explain why a claim, choice, or solution is warranted using reasons, criteria, or evidence. It is useful when the instructional goal is to strengthen explanation quality rather than only reach an answer.
@@ -36,9 +36,6 @@ Justification is the element in which learners explain why a claim, choice, or s
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- [Trigg and O'Hear's argument that the justification demand is bogus is mistaken](../claims/trigg-ohear-bogus-demand-argument-rejected.md) [+W]
-- [The demand for a justification of rationality is a legitimate demand, not a bogus one](../claims/demand-for-justification-of-rationality-is-legitimate.md) [+W]
-- [Preschoolers' justifications split between true-constancy and pseudo-constant explanations](../claims/true-versus-pseudo-constancy-justifications-preschoolers.md) [+W]
 - [Elementary students prefer and can evaluate mechanistic explanations using explanatory power and accuracy criteria](../claims/elementary-students-prefer-mechanistic-explanations.md) [+W]
 - [Pseudo-agency: students may appear engaged without understanding the epistemic purpose of their actions](../claims/pseudo-agency-surface-engagement-without-purpose.md) [~W]
 

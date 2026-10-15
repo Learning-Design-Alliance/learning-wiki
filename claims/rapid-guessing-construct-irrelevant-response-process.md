@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: steven-wise-2020
-    resource: "https://www.nwea.org/research/publication/a-cessation-of-measurement-identifying-test-taker-disengagement-using-response-time/"
-    title: "Steven Wise, Megan Kuhfeld. (2020). A cessation of measurement: Identifying test taker disengagement using response time. NWEA Research presentation, National Council on Measurement in Education 2020 virtual conference. https://www.nwea.org/research/publication/a-cessation-of-measurement-identifying-test-taker-disengagement-using-response-time/"
+    resource: "https://doi.org/10.4324/9781351064781-11"
+    title: "Steven Wise, Megan Kuhfeld. (2020). A cessation of measurement: Identifying test taker disengagement using response time. NWEA Research presentation, National Council on Measurement in Education 2020 virtual conference. https://www.nwea.org/research/publication/a-cessation-of-measurement-identifying-test-taker-disengagement-using-response-time/ [doi:10.4324/9781351064781-11](https://doi.org/10.4324/9781351064781-11)"
     author: Steven Wise, Megan Kuhfeld
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Steven Wise 2020
 
-Steven Wise, Megan Kuhfeld. (2020). A cessation of measurement: Identifying test taker disengagement using response time. NWEA Research presentation, National Council on Measurement in Education 2020 virtual conference. https://www.nwea.org/research/publication/a-cessation-of-measurement-identifying-test-taker-disengagement-using-response-time/
+Steven Wise, Megan Kuhfeld. (2020). A cessation of measurement: Identifying test taker disengagement using response time. NWEA Research presentation, National Council on Measurement in Education 2020 virtual conference. https://www.nwea.org/research/publication/a-cessation-of-measurement-identifying-test-taker-disengagement-using-response-time/ [doi:10.4324/9781351064781-11](https://doi.org/10.4324/9781351064781-11)
 
 `q2 · i?` · `associational · r?`
 

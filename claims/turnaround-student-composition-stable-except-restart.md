@@ -63,7 +63,7 @@ Analysis of student composition before and after Closure and Restart reforms, wh
 
 ## Related Claims
 - [School turnaround is a gradual process rather than an immediate event triggered by replacing staff or leadership](turnaround-is-a-process-not-an-event.md) — related
-- [There was no increase in the share of families leaving CPS after the school closings; 94 percent reenrolled in a CPS school](chicago-closings-no-increase-in-families-leaving-district.md) — related
-- [Students affected by the school closures were more disadvantaged than typical CPS students, and the closed schools served more vulnerable populations than other schools](chicago-closings-affected-students-more-disadvantaged.md) — related
-- [Two-thirds of reenrolled displaced students attended their designated welcoming school, with rates varying from 6 to 90 percent across closed schools](chicago-closings-66-percent-attended-welcoming-school.md) — related
+- There was no increase in the share of families leaving CPS after the school closings; 94 percent reenrolled in a CPS school — related
+- Students affected by the school closures were more disadvantaged than typical CPS students, and the closed schools served more vulnerable populations than other schools — related
+- Two-thirds of reenrolled displaced students attended their designated welcoming school, with rates varying from 6 to 90 percent across closed schools — related
 - [Closure and Restart, AUSL, and OSI models rehired fewer than 10 percent of prior teachers, and post-reform workforces were younger, less experienced, more likely white, and more likely provisionally certified](turnaround-teacher-workforce-replacement-patterns.md) — related

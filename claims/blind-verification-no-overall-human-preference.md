@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: liu-2026
-    resource: "https://arxiv.org/abs/2607.28890"
-    title: "Liu, A., Esbenshade, L., Xiao, M., Tian, V., Zhang, Z., He, K., & Sun, M. (2026). Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground Truth. Preprint, no identifier printed in text. https://arxiv.org/abs/2607.28890"
+    resource: "https://doi.org/10.48550/arxiv.2607.28890"
+    title: "Liu, A., Esbenshade, L., Xiao, M., Tian, V., Zhang, Z., He, K., & Sun, M. (2026). Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground Truth. Preprint, no identifier printed in text. https://arxiv.org/abs/2607.28890 [doi:10.48550/arxiv.2607.28890](https://doi.org/10.48550/arxiv.2607.28890)"
     author: "Liu, A., Esbenshade, L., Xiao, M., Tian, V., Zhang, Z., He, K., & Sun, M."
     q: 2
     i: 0
@@ -30,7 +30,7 @@ sources:
 # Blind expert verification shows no overall preference for human over LLM qualitative coding when sources are judged symmetrically
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i0` negligible
+> **Evidence** · 2 studies · 2 associational `r2` · `q2` · `i0` negligible
 
 ## Subclaims
 `q2 i0` Among decisive Human vs. LLM comparisons, an independent blind domain expert preferred human coding 51.5% and LLM coding 48.5% of the time, a statistically negligible deviation from chance. [→ Liu 2026](#liu-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Liu 2026
 
-Liu, A., Esbenshade, L., Xiao, M., Tian, V., Zhang, Z., He, K., & Sun, M. (2026). Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground Truth. Preprint, no identifier printed in text. https://arxiv.org/abs/2607.28890
+Liu, A., Esbenshade, L., Xiao, M., Tian, V., Zhang, Z., He, K., & Sun, M. (2026). Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground Truth. Preprint, no identifier printed in text. https://arxiv.org/abs/2607.28890 [doi:10.48550/arxiv.2607.28890](https://doi.org/10.48550/arxiv.2607.28890)
 
 `q2 · i0` · `associational · r2`
 

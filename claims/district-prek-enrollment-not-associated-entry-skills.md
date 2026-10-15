@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: kuhfeld-2019
-    resource: "http://www.edworkingpapers.com/ai19-137"
-    title: "Kuhfeld, Megan, Soland, James, Pitts, Christine, & Burchinal, Margaret. (2019). Trends in Children's Academic Skills at School Entry: 2010 to 2017. EdWorkingPaper No. 19-137, Annenberg Institute at Brown University. http://www.edworkingpapers.com/ai19-137"
+    resource: "https://doi.org/10.3102/0013189x20931078"
+    title: "Kuhfeld, Megan, Soland, James, Pitts, Christine, & Burchinal, Margaret. (2019). Trends in Children's Academic Skills at School Entry: 2010 to 2017. EdWorkingPaper No. 19-137, Annenberg Institute at Brown University. http://www.edworkingpapers.com/ai19-137 [doi:10.3102/0013189x20931078](https://doi.org/10.3102/0013189x20931078)"
     author: "Kuhfeld, Megan, Soland, James, Pitts, Christine, & Burchinal, Margaret"
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Kuhfeld 2019
 
-Kuhfeld, Megan, Soland, James, Pitts, Christine, & Burchinal, Margaret. (2019). Trends in Children's Academic Skills at School Entry: 2010 to 2017. EdWorkingPaper No. 19-137, Annenberg Institute at Brown University. http://www.edworkingpapers.com/ai19-137
+Kuhfeld, Megan, Soland, James, Pitts, Christine, & Burchinal, Margaret. (2019). Trends in Children's Academic Skills at School Entry: 2010 to 2017. EdWorkingPaper No. 19-137, Annenberg Institute at Brown University. http://www.edworkingpapers.com/ai19-137 [doi:10.3102/0013189x20931078](https://doi.org/10.3102/0013189x20931078)
 
 `q2 · i?` · `associational · r3`
 
@@ -44,7 +44,7 @@ Three-level HLM of kindergarten cohorts nested in schools within districts (read
 
 ## Related Claims
 - [Nearly half the variance in kindergarten-entry scores lies between districts, with less variance in achievement trends at the district level](district-level-variance-kindergarten-entry-scores.md) — related
-- [District pre-pandemic performance and pandemic recovery predict kindergarten math more strongly than state-funded PreK4 enrollment, which loses significance once both are controlled](district-performance-stronger-predictor-than-prek4-enrollment.md) — related
-- [No statistically significant links between district kindergarten offerings or PreK4 programming and kindergarten math growth](no-significant-district-offerings-math-links.md) — related
-- [Kindergarten math growth from fall to spring is greater in High PreK4 investment states than in Growing or Low states](high-prek4-states-greater-kindergarten-math-growth.md) — related
+- District pre-pandemic performance and pandemic recovery predict kindergarten math more strongly than state-funded PreK4 enrollment, which loses significance once both are controlled — related
+- No statistically significant links between district kindergarten offerings or PreK4 programming and kindergarten math growth — related
+- Kindergarten math growth from fall to spring is greater in High PreK4 investment states than in Growing or Low states — related
 - [Kindergarten-entry math and reading scores were mostly flat 2010-2014 then slightly declined by 2017, with median math down about 0.24 SD and reading down 0.14 SD](kindergarten-entry-scores-declined-2010-2017.md) — related

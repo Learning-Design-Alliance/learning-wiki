@@ -43,5 +43,5 @@ Multiple regression analyses in the survey of 1,045 undergraduates tested social
 ## Related Claims
 - [Cheating tendency significantly predicts AI-assisted academic dishonesty, and the association is stronger at higher levels of AI use](cheating-tendency-predicts-ai-dishonesty-moderated-by-ai-use.md) — related
 - [Student perceptions of AI use in academic work are neutral and range from viewing AI as valid learning assistance to viewing it as cheating, depending on task type, transparency, and assessment design](student-ai-perceptions-neutral-task-dependent.md) — related
-- [Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs](human-guidance-ethical-grounding-ai.md) — related
+- Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs — related
 - [Students rate their ethical awareness of AI higher than instructors, while instructors report stronger willingness to experiment with AI tools and higher behavioural intention](students-higher-ethical-awareness-instructors-higher-intention.md) — related

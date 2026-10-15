@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: zara-contractor-and-germán-reyes-2026
-    resource: "https://arxiv.org/abs/2607.08849"
-    title: "Zara Contractor and Germán Reyes. (2026). Experimental Evidence on the Learning Impact of Generative AI. https://arxiv.org/abs/2607.08849"
+    resource: "https://doi.org/10.48550/arxiv.2607.08849"
+    title: "Zara Contractor and Germán Reyes. (2026). Experimental Evidence on the Learning Impact of Generative AI. https://arxiv.org/abs/2607.08849 [doi:10.48550/arxiv.2607.08849](https://doi.org/10.48550/arxiv.2607.08849)"
     author: Zara Contractor and Germán Reyes
     q: 4
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Random assignment to AI access produces a strong first stage: about 70 percent of treated students use AI, most often to explain concepts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2`–`r3` · `q4`
+> **Evidence** · 2 studies · 2 causal `r2`–`r3` · `q4`
 
 ## Subclaims
 `q4 i?` Assignment to the AI-allowed condition increases measured AI usage by 65.9 pp and self-reported use by 60.9 pp, from a near-zero control baseline, with 88 percent of users reporting AI helpful. [→ Zara Contractor and Germán Reyes 2026](#zara-contractor-and-german-reyes-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Zara Contractor and Germán Reyes 2026
 
-Zara Contractor and Germán Reyes. (2026). Experimental Evidence on the Learning Impact of Generative AI. https://arxiv.org/abs/2607.08849
+Zara Contractor and Germán Reyes. (2026). Experimental Evidence on the Learning Impact of Generative AI. https://arxiv.org/abs/2607.08849 [doi:10.48550/arxiv.2607.08849](https://doi.org/10.48550/arxiv.2607.08849)
 
 `q4 · i?` · `causal · r3`
 
@@ -62,12 +62,12 @@ LLM-classified ChatGPT conversation logs from treated students, complemented by 
 
 
 ## Related Claims
-- [CS1-CR students reported overwhelmingly positive sentiment toward code reviews, with 65% agreeing they helped avoid over-reliance on AI and 90% reporting increased motivation to understand their code](cs1-cr-positive-sentiment-code-reviews.md) — related
-- [Assigning an in-person engagement-focused human tutor increases elementary students' weekly usage of an AI literacy platform](human-tutor-increases-ai-platform-usage.md) — related
-- [Students shifted AI usage toward debugging and concept explanation over the semester, with 31 of 89 reporting more debugging use](cs1-ai-usage-shift-debugging.md) — related
+- CS1-CR students reported overwhelmingly positive sentiment toward code reviews, with 65% agreeing they helped avoid over-reliance on AI and 90% reporting increased motivation to understand their code — related
+- Assigning an in-person engagement-focused human tutor increases elementary students' weekly usage of an AI literacy platform — related
+- Students shifted AI usage toward debugging and concept explanation over the semester, with 31 of 89 reporting more debugging use — related
 - The percentage of pasted characters in coding assignments rose significantly from 61.0% in Fall 2024 to 68.1% in CS1-CR — related
 - [Falsifiable hypothesis: unrestricted AI use on deep-processing tasks will produce a product–process dissociation—higher-rated assignments but lower unaided delayed transfer](h3-product-process-dissociation-hypothesis.md) — related
 - [Unrestricted ChatGPT access yields better practice performance but significantly worse exam scores](gpt4-access-harms-learning-after-withdrawal.md) — related
 - [AI access shifts learning-time composition away from writing toward reading and searching, with total learning time unchanged](genai-shifts-time-from-writing-to-research.md) — related
 - [A general-purpose LLM used as a tutor without pedagogical prompting overwhelmingly provides high assistance, with more than 95% of responses classified as Explaining or Solving](default-llm-tutoring-high-assistance-concentration.md) — related
-- [Students in an OOP course report using GenAI significantly more often for explanation seeking and debugging than for code generation](oop-genai-explanations-debugging-exceed-code-generation.md) — related
+- Students in an OOP course report using GenAI significantly more often for explanation seeking and debugging than for code generation — related

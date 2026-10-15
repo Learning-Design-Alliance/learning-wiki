@@ -16,7 +16,7 @@ sources:
 # Teaching style as a relatively stable construct, measurable in variations of approach rather than content or methodology, intervening between inputs and outputs
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article defines teaching style as "measurable variations in approaches used in teaching, rather than what is taught or, strictly speaking, the methodology used." Style is postulated to remain relatively constant for a teacher even as methodology varies over time and situations, and must be inferred from classroom confrontation between teachers and children. Style variables are conceived as intervening between inputs (class and teacher history, content, methodology) and outputs (effects on children, teachers and situations). The framework is operationalized through standardized tasks and eight behavioral scales, with the residue of between-teacher variance under systematic variation of non-stylistic factors providing the source for hypothesized style domains.
@@ -39,8 +39,6 @@ The article defines teaching style as "measurable variations in approaches used 
 
 ### Claims
 
-- [Teaching Task Predictions Forecast Style Five Of Six](../claims/teaching-task-predictions-forecast-style-five-of-six.md) [+W]
-- [Teaching style scales show moderate inter-scale correlations (.50-.70) and observer agreement on ratings between .50 and .60](../claims/style-scale-correlations-and-observer-agreement.md) [+W]
 
 ## Related Theories
 - 

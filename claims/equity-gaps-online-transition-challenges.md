@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: means-2020
-    resource: "https://digitalpromise.dspacedirect.org/items/32aee7c4-5363-4d50-bc9c-a338e7dfac7e"
-    title: "Means, B., and Neisler, J., with Langer Research Associates. (2020). Suddenly Online: A National Survey of Undergraduates During the COVID-19 Pandemic. San Mateo, CA: Digital Promise. https://digitalpromise.dspacedirect.org/items/32aee7c4-5363-4d50-bc9c-a338e7dfac7e"
+    resource: "https://doi.org/10.51388/20.500.12265/98"
+    title: "Means, B., and Neisler, J., with Langer Research Associates. (2020). Suddenly Online: A National Survey of Undergraduates During the COVID-19 Pandemic. San Mateo, CA: Digital Promise. https://digitalpromise.dspacedirect.org/items/32aee7c4-5363-4d50-bc9c-a338e7dfac7e [doi:10.51388/20.500.12265/98](https://doi.org/10.51388/20.500.12265/98)"
     author: Means, B., and Neisler, J., with Langer Research Associates
     q: 3
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Hispanic and low-income students reported more challenges and technology problems after the shift online than non-Hispanic White and higher-income peers; rural students did not differ
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
+> **Evidence** · 2 studies · 2 associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Hispanic students reported more major challenges than non-Hispanic White students (e.g., 27 versus 12 percent for home/family conflicts; 27 versus 16 percent for finding a quiet place). [→ Means 2020](#means-2020)
@@ -40,7 +40,7 @@ sources:
 
 ### Means 2020
 
-Means, B., and Neisler, J., with Langer Research Associates. (2020). Suddenly Online: A National Survey of Undergraduates During the COVID-19 Pandemic. San Mateo, CA: Digital Promise. https://digitalpromise.dspacedirect.org/items/32aee7c4-5363-4d50-bc9c-a338e7dfac7e
+Means, B., and Neisler, J., with Langer Research Associates. (2020). Suddenly Online: A National Survey of Undergraduates During the COVID-19 Pandemic. San Mateo, CA: Digital Promise. https://digitalpromise.dspacedirect.org/items/32aee7c4-5363-4d50-bc9c-a338e7dfac7e [doi:10.51388/20.500.12265/98](https://doi.org/10.51388/20.500.12265/98)
 
 `q3 · i?` · `associational · r2`
 
@@ -63,7 +63,7 @@ Survey analysis compared frequencies of connectivity and hardware/software probl
 
 ## Related Claims
 - [The number of challenges a student experienced was strongly associated with post-COVID course satisfaction: 81 percent satisfaction with no challenges versus 32 percent with four or more](challenge-count-associated-satisfaction.md) — related
-- [Nearly half of STEM students experienced internet connectivity problems that interfered with course participation after the COVID shift to remote instruction](covid-stem-connectivity-problems-prevalence.md) — related
+- Nearly half of STEM students experienced internet connectivity problems that interfered with course participation after the COVID shift to remote instruction — related
 - [Technology access problems during the COVID shift were more prevalent among minoritized students and students from lower-income households](covid-stem-tech-access-inequity.md) — possibly the same claim (merge candidate)
 - [Staying motivated was the most pervasive challenge of learning remotely, and students missed instructor feedback, peer collaboration, and hands-on experiences](motivation-and-lost-interaction-challenges-remote.md) — related
 - [Students in courses with guided note-taking and other active learning activities reported less difficulty with motivation and engagement after the shift online](guided-note-taking-supported-remote-engagement.md) — related
@@ -76,6 +76,6 @@ Survey analysis compared frequencies of connectivity and hardware/software probl
 - [Digital skill gaps among U.S. workers are pronounced by race, while over 90 percent of jobs demand digital skills](racial-digital-skill-gaps-workforce.md) — related
 - [During spring 2020 remote instruction, internet connectivity and hardware/software problems interfered with course participation for large shares of undergraduates](remote-covid-technology-access-problems-widespread.md) — related
 - [Motivation, internet connectivity, and hardware/software problems were widespread challenges in remote STEM courses](widespread-remote-stem-challenges-motivation-connectivity.md) — related
-- [BIPOC survey respondents were more likely than White respondents to report experiencing racial discrimination at work](bipoc-more-likely-report-workplace-racial-discrimination.md) — related
+- BIPOC survey respondents were more likely than White respondents to report experiencing racial discrimination at work — related
 - [AI in adult education risks reinforcing existing inequalities via the digital divide, particularly for rural, low-income, and marginalized learners](ai-digital-divide-reinforces-inequality.md) — related
 - [Distributing hardware without capable software produced no measurable effect on mathematics or language scores in a large randomized evaluation, as the article reports citing Cristia et al.](olpc-randomized-hardware-null-no-score-effect.md) — related

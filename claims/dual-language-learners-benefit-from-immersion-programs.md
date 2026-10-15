@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` The report states, citing research, that multilingualism is an asset associated with cognitive, linguistic, social, and cultural strengths, and that dual language learners especially benefit from dual language immersion programs. [→ Carrie Gillispie 2021](#carrie-gillispie-2021)

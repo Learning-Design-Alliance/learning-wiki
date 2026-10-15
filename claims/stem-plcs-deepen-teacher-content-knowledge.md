@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` STEM teachers in learning teams understood the mathematics and science better and felt more prepared to teach them, including elementary teachers. [→ Kathleen Fulton & Ted Britton 2011](#kathleen-fulton-ted-britton-2011)
@@ -45,7 +46,7 @@ Knowledge synthesis of empirical studies and expert advice on STEM PLCs. The syn
 
 - [Participation in mathematics PLC changed teachers' collaboration norms, understanding of mathematics and its teaching, and ability to design and carry out teaching](plc-participation-changes-teacher-norms-understanding-practice.md) — the general claim this finding bears on, with the studies behind it
 - [Participation in STEM PLCs positively impacts teachers' understanding of or preparedness to teach content and attitudes toward teaching methods](stem-plc-teacher-knowledge-attitude-gains.md) — a broader claim this one bears on
-- [Students of teachers in STEM learning communities learn mathematics better, but published evidence covers only mathematics and remains emerging](stem-plcs-improve-student-math-achievement.md) — related
+- Students of teachers in STEM learning communities learn mathematics better, but published evidence covers only mathematics and remains emerging — related
 - [Student teachers who perceived their mentors modeled effective instruction and provided coaching, feedback, and job assistance felt better prepared, and domain-specific coaching was related to higher first-year REACH ratings](cps-mentor-coaching-and-modeling-associated-with-preparedness-and-effectiveness.md) — related
 - [Teachers reported feeling more familiar with and more prepared to teach the CCSS in 2016 than in 2015, with elementary and ELA-group teachers higher than high school and math-group teachers](ccss-preparedness-increased-2016.md) — related
 - [Published policy statements and expert advice universally recommend STEM PLCs, with cautions against superficial definition and implementation](stem-plcs-universally-recommended.md) — related

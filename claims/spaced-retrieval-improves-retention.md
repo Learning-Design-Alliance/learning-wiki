@@ -69,7 +69,7 @@ Meta-analysis (subset 1) aggregating 39 effect sizes from studies comparing spac
 | [Nakata 2015](https://doi.org/10.1017/s0272263114000825) | q3 · causal · r? | i? | [Expanding retrieval schedules have not shown consistent advantages over equally spaced or ](expanding-retrieval-schedules-are-not-superior-to-equal-or-contracting-schedules.md) (qualifies) |
 | [Adesope 2017](https://doi.org/10.3102/0034654316689306) | q4 · quant-synthesis · r3 | i2 | [A single practice test produced a larger effect (g = 0.70) than two or more practice tests](single-practice-test-larger-effect.md) (qualifies) |
 | [Yang 2020](https://doi.org/10.1037/bul0000309) | q4 · quant-synthesis · r3 | i?; i0; i1 | [The classroom testing effect increases with the number of test repetitions on the same con](test-repetitions-positive-relationship-classroom.md) (supports); [Both preclass (g = 0.186) and postclass (g = 0.536) quizzes enhance learning, with postcla](postclass-quizzes-and-longer-duration-larger-gains.md) (qualifies) |
-| Mahir Akgun and Sacip Toker 2026 | q3 · causal · r2 | i2 | [Adaptive spaced retrieval practice produced higher end-of-semester posttest performance th](adaptive-retrieval-posttest-retention-advantage.md) (supports) |
+| [Mahir Akgun and Sacip Toker 2026](https://doi.org/10.48550/arxiv.2606.22328) | q3 · causal · r2 | i2 | [Adaptive spaced retrieval practice produced higher end-of-semester posttest performance th](adaptive-retrieval-posttest-retention-advantage.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -118,7 +118,7 @@ Meta-analysis (subset 1) aggregating 39 effect sizes from studies comparing spac
 - [The authors attribute the spaced-practice knowledge benefit to deeper learning or transfer, because quiz and final-test items were never repeated](spaced-practice-benefit-reflects-transfer-not-item-memorization.md) — related
 - [A middle school math teacher replaced rereading with three retrieval-practice strategies after learning that rereading is not effective for long-term retention](retrieval-practice-implementation-case-newell.md) — related
 - [After training, d.tech teachers adopted low-stakes practice tests and spaced, interleaved practice in their classrooms](dtech-teachers-adopt-retrieval-interleaving.md) — a narrower finding that bears on this claim
-- [Retrieval practice strengthens memory and produces stronger, more enduring learning](retrieval-practice-strengthens-memory.md) — a broader claim this one bears on
+- Retrieval practice strengthens memory and produces stronger, more enduring learning — a broader claim this one bears on
 - [Spacing content over time and interweaving different content strengthens learning and retention](spacing-interleaving-improve-retention.md) — related
 - [Expanding interstudy intervals led to better recall than fixed intervals, but conclusions are tentative](expanding-isis-better-than-fixed-tentative.md) — related
 - [Expanding and uniform spacing schedules of retrieval practice do not differ significantly in final retention (g = 0.034)](expanding-versus-uniform-retrieval-no-difference.md) — related

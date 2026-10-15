@@ -44,9 +44,9 @@ Teacher report on notebook implementation in the in-school implementation findin
 
 ## Related Claims
 - [During observed playlist sessions, students were mostly on task and concentrating, though off-task behavior rose when the digital notebook was repeated](bromp-observation-mostly-on-task-concentrating.md) — related
-- [Student engagement with the Science Power Notebooks and eBooks dropped significantly after the transition to distance learning](notebook-ebook-engagement-dropped-distance-learning.md) — related
+- Student engagement with the Science Power Notebooks and eBooks dropped significantly after the transition to distance learning — related
 - [Technical issues (login scanning, internet connectivity, projector setup, and glitches) frustrated students and created a significant barrier to playlist implementation](technical-issues-barrier-playlist-implementation.md) — related
-- [Virtual implementation of Hero Elementary varied widely across classrooms, with teachers mixing synchronous and asynchronous instructional strategies](wide-variation-virtual-science-implementation-sync-async.md) — related
+- Virtual implementation of Hero Elementary varied widely across classrooms, with teachers mixing synchronous and asynchronous instructional strategies — related
 - [Several teachers found the eBooks not user friendly, citing issues with images covering the text.](hero-elementary-ebooks-not-user-friendly-images-covering-text.md) — related
 - [Digital game loading time caused issues but students had no significant navigation problems once the game loaded.](hero-elementary-game-loading-time-navigation-issues.md) — related
 - [Teachers found Hero Elementary playlist hands-on activities easy to implement because materials were supplied and prepped.](hero-elementary-hands-on-activities-easy-implementation-prepped-materials.md) — related

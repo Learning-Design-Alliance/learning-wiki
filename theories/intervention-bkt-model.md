@@ -16,7 +16,7 @@ sources:
 # Intervention-BKT: a BKT extension that models the effect of instructional interventions on student knowledge states
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 Intervention-BKT (IBKT) extends Bayesian Knowledge Tracing by adding input nodes representing instructional interventions such as elicit and tell. The article describes it as "an extension of BKT, which incorporates the effect of multiple types of instructional interventions on student modeling": a student's knowledge state depends on the previous state and the current intervention, and performance depends on both the knowledge state and the intervention. It is a special case of an Input Output Hidden Markov Model using 1+4×K parameters, with per-intervention Learning Rate, Forget, Guess and Slip parameters.
@@ -36,7 +36,6 @@ Intervention-BKT (IBKT) extends Bayesian Knowledge Tracing by adding input nodes
 - domain knowledge in physics and probability as measured by post-test scores and learning gains
 
 ### Claims
-- [Bkt Best Post Test Prediction Intervention Tutors](../claims/bkt-best-post-test-prediction-intervention-tutors.md) [~M]
 
 ## Related Theories
 

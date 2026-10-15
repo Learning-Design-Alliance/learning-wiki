@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: christina-luke-and-viki-m-young-2020
-    resource: "https://digitalpromise.dspacedirect.org/items/8960df64-de36-4121-8af2-651b343b0884"
-    title: "Christina Luke and Viki M. Young. (2020). Integrating Micro-credentials into Professional Learning: Lessons from Five Districts. Digital Promise. https://digitalpromise.dspacedirect.org/items/8960df64-de36-4121-8af2-651b343b0884"
+    resource: "https://doi.org/10.51388/20.500.12265/103"
+    title: "Christina Luke and Viki M. Young. (2020). Integrating Micro-credentials into Professional Learning: Lessons from Five Districts. Digital Promise. https://digitalpromise.dspacedirect.org/items/8960df64-de36-4121-8af2-651b343b0884 [doi:10.51388/20.500.12265/103](https://doi.org/10.51388/20.500.12265/103)"
     author: Christina Luke and Viki M. Young
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Christina Luke and Viki M. Young 2020
 
-Christina Luke and Viki M. Young. (2020). Integrating Micro-credentials into Professional Learning: Lessons from Five Districts. Digital Promise. https://digitalpromise.dspacedirect.org/items/8960df64-de36-4121-8af2-651b343b0884
+Christina Luke and Viki M. Young. (2020). Integrating Micro-credentials into Professional Learning: Lessons from Five Districts. Digital Promise. https://digitalpromise.dspacedirect.org/items/8960df64-de36-4121-8af2-651b343b0884 [doi:10.51388/20.500.12265/103](https://doi.org/10.51388/20.500.12265/103)
 
 `q2 · i?` · `design · r2`
 
@@ -44,7 +44,7 @@ Teacher survey in the five-district collaborative on ongoing support. District l
 
 ## Related Claims
 - [Collaborative planning time with colleagues was the top support cited by teachers earning micro-credentials, cited by 74 percent of respondents](collaborative-planning-time-top-micro-credential-support.md) — related
-- [Talladega County Schools narrowed a broad CT framework to five core competencies embedded across the curriculum](core-five-ct-competencies-talladega.md) — related
+- Talladega County Schools narrowed a broad CT framework to five core competencies embedded across the curriculum — related
 - [Teachers participating in the micro-credential collaborative reported positive receptivity, with 84 percent agreeing micro-credentials were significant to their computational thinking learning](micro-credential-teacher-receptivity-positive.md) — related
-- [Pilot districts report teacher knowledge and integration, not student demand, as their principal equity challenges](district-equity-challenges-teacher-capacity.md) — related
+- Pilot districts report teacher knowledge and integration, not student demand, as their principal equity challenges — related
 - [76.5% of students demand a shift toward hands-on practical computer activities over theoretical instruction](student-demand-hands-on-it-instruction.md) — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: smith-2024
-    resource: "https://digitalpromise.dspacedirect.org/items/73f2e0fa-dca8-4cd0-a8da-eb18b59453c4"
-    title: "Smith, K., & Young, V. M. (2024). A New Narrative: How Unlocking the Power of R&D Through Inclusive Innovation Can Transform Education. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.dspacedirect.org/items/73f2e0fa-dca8-4cd0-a8da-eb18b59453c4"
+    resource: "https://doi.org/10.51388/20.500.12265/202"
+    title: "Smith, K., & Young, V. M. (2024). A New Narrative: How Unlocking the Power of R&D Through Inclusive Innovation Can Transform Education. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.dspacedirect.org/items/73f2e0fa-dca8-4cd0-a8da-eb18b59453c4 [doi:10.51388/20.500.12265/202](https://doi.org/10.51388/20.500.12265/202)"
     author: "Smith, K., & Young, V. M."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Smith 2024
 
-Smith, K., & Young, V. M. (2024). A New Narrative: How Unlocking the Power of R&D Through Inclusive Innovation Can Transform Education. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.dspacedirect.org/items/73f2e0fa-dca8-4cd0-a8da-eb18b59453c4
+Smith, K., & Young, V. M. (2024). A New Narrative: How Unlocking the Power of R&D Through Inclusive Innovation Can Transform Education. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.dspacedirect.org/items/73f2e0fa-dca8-4cd0-a8da-eb18b59453c4 [doi:10.51388/20.500.12265/202](https://doi.org/10.51388/20.500.12265/202)
 
 `q2 · i?` · `associational · r1`
 
@@ -45,4 +45,4 @@ Self-report survey outcome from the Bristol Township School District student-led
 ## Related Claims
 - [Most teachers participate in informal professional development activities, which generate more satisfaction than formal in-service days](informal-pd-more-satisfying-than-in-service.md) — related
 - [Students report peer support and distraction as effective coping, rarely self-regulation or professional help-seeking](students-prefer-peer-support-diversion-over-professional-help.md) — related
-- [Teachers of color report workplace racism with mental-health toll, and the 'invisible tax' of extra duties](toc-workplace-racism-invisible-tax.md) — related
+- Teachers of color report workplace racism with mental-health toll, and the 'invisible tax' of extra duties — related

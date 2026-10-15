@@ -17,7 +17,7 @@ sources:
 # State policy package to expand equitable access to advanced coursework: credit transparency, automatic enrollment with opt-out, fee removal, disaggregated data reporting, and belonging supports
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (6 for) · 4 studies (2 theoretical, 1 review, 1 associational), `q2` · 0 of 4 report an effect size · 6 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The brief recommends that Massachusetts require public higher education institutions to be "transparent and consistent in awarding college credit" (e.g., Bills S.838 and H.1280, barring minimum score requirements above 3 without stated reasoning), expand course eligibility via automatic enrollment with family opt-out based on multiple measures, eliminate AP exam fee barriers, report enrollment data separated by course type and disaggregated by race and ethnicity, and invest in recruiting AP teachers of color, near-peer mentors, culturally sustaining curricula, and targeted supports such as AP Bootcamps.
@@ -40,11 +40,6 @@ The brief recommends that Massachusetts require public higher education institut
 
 ## Claims
 
-- [High school curricular rigor is the number one indicator of college completion, more influential than race, family income, or parent education](../claims/curricular-rigor-top-predictor-college-completion.md) [+W]
-- [Black and Latino students are about one-third of Massachusetts public high school students but only 18% of AP test takers](../claims/black-latino-underrepresented-ap-test-takers.md) [+W]
-- [Only a fraction of eligible Black and Latino students are enrolled in AP Biology, Chemistry, and Physics courses](../claims/fraction-eligible-black-latino-students-enrolled-ap-stem.md) [+W]
-- [In Massachusetts, only about half of Latino and Black 11th-12th graders completed at least one advanced course in 2021-22, compared to 64% of all students](../claims/ma-advanced-course-completion-racial-gaps.md) [+W]
-- [Massachusetts high schools with majority-Black or majority-Latino enrollment are much less likely to offer any AP course than majority-White schools](../claims/majority-black-latino-schools-less-likely-offer-ap.md) [+W]
 - [Years of science study in high school are directly related to college entrance exam achievement, and Hispanic and Black students complete advanced science courses at smaller rates](../claims/years-science-study-sat-achievement.md) [+W]
 
 ## Related Strategies

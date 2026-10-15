@@ -18,7 +18,7 @@ sources:
 # Reading Horizons Discovery
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 Reading Horizons Discovery is Reading Horizons' digital K–3 foundational reading curriculum based on systematic, cumulative, explicit phonics instruction informed by Orton–Gillingham and Structured Literacy.
@@ -28,7 +28,6 @@ Reading Horizons Discovery is Reading Horizons' digital K–3 foundational readi
 - **Reading Horizons Discovery K-3 foundational reading curriculum**: Reading Horizons Discovery is a K-3 foundational reading program built on "the instructional principles of Orton-Gillingham and Structured Literacy." At its center is the Reading Horizons method, in which instruction is "systematic and cumulative, organized in a sequence that appropriately scaffolds teaching and learning." Each English sound is explicitly taught with its representing letter(s), and students practice and apply, or "transfer," the skills learned through engaging activities. The program runs on Windows, Chrome, Edge, and Safari and requires no special staff qualifications or certifications. (Reading Horizons Discovery (2022))
 
 ### Claims
-- [Reading Horizons Discovery produced a small statistically significant positive effect on DIBELS 8 composite scores in K-3 students compared to matched comparison students](../claims/reading-horizons-discovery-dibels-positive-effect.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -62,7 +61,6 @@ Reading Horizons Discovery is a K-3 foundational reading program built on "the i
 
 ## Claims
 
-- [Reading Horizons Discovery produced a small statistically significant positive effect on DIBELS 8 composite scores in K-3 students compared to matched comparison students](../claims/reading-horizons-discovery-dibels-positive-effect.md) [+W]
 
 ## Related Elements
 

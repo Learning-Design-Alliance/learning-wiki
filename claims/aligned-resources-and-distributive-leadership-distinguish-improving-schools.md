@@ -45,11 +45,11 @@ Longitudinal field research on 12 Annenberg schools over five years. The report 
 ## Related Claims
 - [High-performing CHSRI schools shared four practices for guiding and sustaining instructional improvement: defining leadership responsibilities, creatively distributing them, institutionalizing routines, and focusing team work on school-wide goals](chsri-four-improvement-practices.md) — related
 - [Principals in improving schools actively reach out to teachers, parents, and community leaders and coordinate programs strategically](improving-school-principals-reach-out-coordinate-programs.md) — related
-- [Female principals empowered others through shared ownership, committee involvement, and staff development](female-principals-empower-others-shared-ownership.md) — related
+- Female principals empowered others through shared ownership, committee involvement, and staff development — related
 - [Annenberg external partners accumulated substantial experience working with schools but were not particularly successful in promoting improvement across the large number of schools they served](annenberg-partners-experienced-but-not-particularly-successful.md) — related
 - [External partners played the central role in forming and running implementation networks, with most principal interaction directed at partners rather than other schools](external-partners-central-to-network-function.md) — related
 - [External partners' influence is necessarily limited by their minor role in schools' attention and activity](partner-influence-limited-by-minor-role-in-schools.md) — related
 - [Partner success varies substantially between schools based on teacher and administrator willingness to collaborate](partner-success-varies-by-school-willingness.md) — related
 - [External partners sparked documented improvements in instruction, parent involvement, and school climate](partners-sparked-positive-changes-despite-limited-influence.md) — related
-- [Strong state-level leadership is reported as a key enabler of school improvement efforts, including through resource allocation and dedicated teams](state-leadership-enables-school-improvement.md) — related
+- Strong state-level leadership is reported as a key enabler of school improvement efforts, including through resource allocation and dedicated teams — related
 - [Effective leadership plays a pivotal role in guiding digital transformation in educational organizations](leadership-pivotal-digital-transformation-education.md) — related

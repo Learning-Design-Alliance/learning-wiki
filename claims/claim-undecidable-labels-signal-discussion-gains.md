@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: jeongyeon-kim-and-john-mitchell-2026
-    resource: "https://arxiv.org/abs/2609.11109"
-    title: "Jeongyeon Kim and John Mitchell. (2026). How AI Coders Discuss, Disagree, and Reach Consensus: Challenges and Opportunities for LLM-Based Qualitative Coding. arXiv. https://arxiv.org/abs/2609.11109"
+    resource: "https://doi.org/10.48550/arxiv.2609.11109"
+    title: "Jeongyeon Kim and John Mitchell. (2026). How AI Coders Discuss, Disagree, and Reach Consensus: Challenges and Opportunities for LLM-Based Qualitative Coding. arXiv. https://arxiv.org/abs/2609.11109 [doi:10.48550/arxiv.2609.11109](https://doi.org/10.48550/arxiv.2609.11109)"
     author: Jeongyeon Kim and John Mitchell
     q: 2
     i: 1
@@ -30,7 +30,7 @@ sources:
 # Undecidable labels before discussion predict accuracy gains from AI agent discussions, but persistent undecidable labels after discussion signal smaller gains
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2` · `i1` small
+> **Evidence** · 2 studies · 2 design `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i1` A higher number of 'Undecidable' labels in initial coding predicts greater accuracy improvement through discussions (effect size 0.123, p<0.01). [→ Jeongyeon Kim and John Mitchell 2026](#jeongyeon-kim-and-john-mitchell-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Jeongyeon Kim and John Mitchell 2026
 
-Jeongyeon Kim and John Mitchell. (2026). How AI Coders Discuss, Disagree, and Reach Consensus: Challenges and Opportunities for LLM-Based Qualitative Coding. arXiv. https://arxiv.org/abs/2609.11109
+Jeongyeon Kim and John Mitchell. (2026). How AI Coders Discuss, Disagree, and Reach Consensus: Challenges and Opportunities for LLM-Based Qualitative Coding. arXiv. https://arxiv.org/abs/2609.11109 [doi:10.48550/arxiv.2609.11109](https://doi.org/10.48550/arxiv.2609.11109)
 
 `q2 · i1` · `design · r2`
 

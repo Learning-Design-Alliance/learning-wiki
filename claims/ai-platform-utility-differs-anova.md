@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: george-efthimiou-2026
-    resource: "https://www.mdpi.com/journal/educationsciences"
-    title: "George Efthimiou, Katerina Plakitsi. (2026). Preservice Early Childhood Educators' Engagement with Generative AI in Science Activity Design: The Case of Magnetism. https://www.mdpi.com/journal/educationsciences"
+    resource: "https://doi.org/10.35542/osf.io/m5erf_v1"
+    title: "George Efthimiou, Katerina Plakitsi. (2026). Preservice Early Childhood Educators' Engagement with Generative AI in Science Activity Design: The Case of Magnetism. https://www.mdpi.com/journal/educationsciences [doi:10.35542/osf.io/m5erf_v1](https://doi.org/10.35542/osf.io/m5erf_v1)"
     author: George Efthimiou, Katerina Plakitsi
     q: 2
     i: 3
@@ -30,7 +30,7 @@ sources:
 # Perceived overall utility of generative AI differs significantly across the five platforms used, favoring platforms with structured task breakdowns
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r1` · `q2` · `i3` large
+> **Evidence** · 2 studies · 2 associational `r1` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` A one-way ANOVA showed a significant difference among AI platforms (ChatGPT, Gemini, DeepSeek, Meta AI, Copilot) in overall perceived utility, F(4, 126) = 6.52, p < .001, η² = .17. [→ George Efthimiou 2026](#george-efthimiou-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### George Efthimiou 2026
 
-George Efthimiou, Katerina Plakitsi. (2026). Preservice Early Childhood Educators' Engagement with Generative AI in Science Activity Design: The Case of Magnetism. https://www.mdpi.com/journal/educationsciences
+George Efthimiou, Katerina Plakitsi. (2026). Preservice Early Childhood Educators' Engagement with Generative AI in Science Activity Design: The Case of Magnetism. https://www.mdpi.com/journal/educationsciences [doi:10.35542/osf.io/m5erf_v1](https://doi.org/10.35542/osf.io/m5erf_v1)
 
 `q2 · i3` · `associational · r1`
 

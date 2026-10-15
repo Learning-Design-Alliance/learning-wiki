@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: tare-2018
-    resource: "https://digitalpromise.dspacedirect.org/items/e59c6e47-4209-4187-a0ef-b8da08283ec6"
-    title: "Tare, M., Nobles, S., & Xiao, W. (2018). Partnerships that work: Tapping research to address learner variability in young readers. Washington, DC: Digital Promise Global. https://digitalpromise.dspacedirect.org/items/e59c6e47-4209-4187-a0ef-b8da08283ec6"
+    resource: "https://doi.org/10.51388/20.500.12265/67"
+    title: "Tare, M., Nobles, S., & Xiao, W. (2018). Partnerships that work: Tapping research to address learner variability in young readers. Washington, DC: Digital Promise Global. https://digitalpromise.dspacedirect.org/items/e59c6e47-4209-4187-a0ef-b8da08283ec6 [doi:10.51388/20.500.12265/67](https://doi.org/10.51388/20.500.12265/67)"
     author: "Tare, M., Nobles, S., & Xiao, W."
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Tare 2018
 
-Tare, M., Nobles, S., & Xiao, W. (2018). Partnerships that work: Tapping research to address learner variability in young readers. Washington, DC: Digital Promise Global. https://digitalpromise.dspacedirect.org/items/e59c6e47-4209-4187-a0ef-b8da08283ec6
+Tare, M., Nobles, S., & Xiao, W. (2018). Partnerships that work: Tapping research to address learner variability in young readers. Washington, DC: Digital Promise Global. https://digitalpromise.dspacedirect.org/items/e59c6e47-4209-4187-a0ef-b8da08283ec6 [doi:10.51388/20.500.12265/67](https://doi.org/10.51388/20.500.12265/67)
 
 `q1 · i?` · `qualitative · r1`
 
@@ -45,5 +45,5 @@ Teacher interview comment illustrating finding passages on the same topic (water
 ## Related Claims
 - [Teachers reported that audio supports promoted inclusivity by letting all students access the same content and discuss it together](audio-supports-inclusivity-shared-discussion.md) — related
 - [Teachers who tried ReadWorks features reported high intent to assign more and higher-level articles (89% and 82%)](readworks-features-raise-teacher-assignment-ambitions.md) — related
-- [Extensive reading yields affective benefits: positive attitudes, motivation, confidence, and reduced anxiety, with difficult texts raising anxiety](extensive-reading-affective-benefits-anxiety-moderator.md) — related
+- Extensive reading yields affective benefits: positive attitudes, motivation, confidence, and reduced anxiety, with difficult texts raising anxiety — related
 - [Teachers reacted unanimously positively to new audio supports on the ReadWorks platform and offered them to all students, not only struggling readers](teachers-positive-reactions-readworks-audio-supports.md) — related

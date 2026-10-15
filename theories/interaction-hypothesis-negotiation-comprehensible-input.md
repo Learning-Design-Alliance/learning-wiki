@@ -16,7 +16,7 @@ sources:
 # Interaction hypothesis (Long): negotiation of meaning during interaction generates comprehensible input that drives L2 acquisition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 8 claims (5 for, 1 mixed, 2 against) · 2 studies (1 causal, 1 review), `q2`–`q3` · 1 of 2 report an effect size · 8 claims rest on one study
+> **Evidence** · 6 claims (3 for, 1 mixed, 2 against) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 The article organizes its study around Long's interaction hypothesis, under which modification of interaction in NNS-NS encounters keeps interaction going and provides comprehensible input. As the article states, "The more L2 interaction the learner holds with others, the more negotiation of meaning would take place, and subsequently, the more comprehensible input the learner would receive." Negotiation of meaning is defined as interactional work (clarification requests, confirmation checks, recasts, repetition, elaboration) done when communication problems occur, and acquisition is claimed to occur effectively within interaction.
@@ -44,8 +44,6 @@ The article organizes its study around Long's interaction hypothesis, under whic
 - [In college groups, no correlation was found between frequency of negotiation of meaning and vocabulary score](../claims/college-no-negotiation-vocabulary-correlation.md) [-W]
 - [In high school groups, frequency of negotiation of meaning correlates positively with vocabulary score (r = 0.761) and with comprehensible input (r = 0.310)](../claims/negotiation-frequency-correlates-vocabulary-high-school.md) [+M]
 - [In both high school and college groups, learners with negotiation of meaning scored higher on the delayed post-vocabulary test than learners with pre-modified input only](../claims/negotiation-meaning-improves-vocabulary-scores-both-levels.md) [+M]
-- [The quality rather than the quantity of interactional modifications predicts comprehensible input](../claims/interaction-quality-over-quantity.md) [+M]
-- [Native-speaker conversations with learners show more interactional modification than native-speaker conversations in two-way information-exchange tasks, but not in tasks without information exchange](../claims/two-way-tasks-promote-interactional-restructuring.md) [+M]
 
 ## Related Theories
 - [Long's interaction hypothesis](long-interaction-hypothesis.md) — the canonical page for this theory

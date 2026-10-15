@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r?` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` The cognitive-only coaching program increased deep and achieving approaches to learning and academic self-concepts, reduced test anxiety and nonstudy-related anxiety and depression, while academic performance declined relative to the control group. [→ Grant 2001](#grant-2001)
@@ -65,6 +66,6 @@ Study 2 evaluated a behavioural-based coaching program with trainee accountants.
 - [Affect Regulation](../learner-variables/affect-regulation.md) — outcome: instruction changes it
 
 ## Related Claims
-- [A combined cognitive and behavioural coaching program outperformed cognitive-only and behavioural-only programs for academic performance, with gains maintained at follow-up only for the combined program.](combined-cognitive-behavioural-coaching-superior.md) — related
-- [Participation in a solution-focused cognitive-behavioural life coaching program is associated with significantly enhanced mental health, quality of life and increased goal attainment in normal adults.](sfcb-life-coaching-enhances-mental-health-goal-attainment.md) — related
+- A combined cognitive and behavioural coaching program outperformed cognitive-only and behavioural-only programs for academic performance, with gains maintained at follow-up only for the combined program. — related
+- Participation in a solution-focused cognitive-behavioural life coaching program is associated with significantly enhanced mental health, quality of life and increased goal attainment in normal adults. — related
 - [Using the ITS reduced executive state-math anxiety and improved algebra learning across conditions](its-reduces-executive-state-ma-improves-algebra.md) — related

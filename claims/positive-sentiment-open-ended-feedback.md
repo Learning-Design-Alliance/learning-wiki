@@ -46,4 +46,4 @@ Sentiment analysis of open-ended survey responses conducted by ChatGPT4, which t
 - [90% of open-ended survey responses about the ChatGPT activity were neutral in sentiment, with 2% positive and 8% negative](open-ended-responses-mostly-neutral-sentiment.md) — reports the opposite
 - [Sentiment toward GenAI in the course was 86% positive overall, while ethical concerns generated 62% negative sentiment](genai-sentiment-86-positive-62-negative-ethics.md) — related
 - [Participants' perceptions of AI in higher education shifted from 20% negative and 40% neutral pre-institute to 0% negative and 90% positive post-institute](ubridge-perception-shift-positive.md) — related
-- [Human-LLM sentiment divergences were patterned: the LLM tended to assign affective labels to statements a human coder read as neutral](llm-affective-label-bias-neutral-statements.md) — related
+- Human-LLM sentiment divergences were patterned: the LLM tended to assign affective labels to statements a human coder read as neutral — related

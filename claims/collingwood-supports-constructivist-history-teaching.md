@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: lemisko-2004
-    resource: "https://www.quasar.ualberta.ca/css"
-    title: "Lemisko, L.S. (2004). The Historical Imagination: Collingwood in the Classroom. Canadian Social Studies. https://www.quasar.ualberta.ca/css"
+    resource: "https://doi.org/10.29173/css130"
+    title: "Lemisko, L.S. (2004). The Historical Imagination: Collingwood in the Classroom. Canadian Social Studies. https://www.quasar.ualberta.ca/css [doi:10.29173/css130](https://doi.org/10.29173/css130)"
     author: Lemisko, L.S.
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Lemisko 2004
 
-Lemisko, L.S. (2004). The Historical Imagination: Collingwood in the Classroom. Canadian Social Studies. https://www.quasar.ualberta.ca/css
+Lemisko, L.S. (2004). The Historical Imagination: Collingwood in the Classroom. Canadian Social Studies. https://www.quasar.ualberta.ca/css [doi:10.29173/css130](https://doi.org/10.29173/css130)
 
 `q1 · i?` · `theoretical · r2`
 

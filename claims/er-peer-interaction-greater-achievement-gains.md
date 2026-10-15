@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 4 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` In a pretest-posttest study, students doing ER with peer interaction significantly outperformed students in the three other conditions on reading achievement gains. [→ Jacobs 2000](#jacobs-2000)
@@ -47,7 +48,7 @@ The article reports, citing Manning and Manning (1984), a pretest-posttest study
 - [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [The article cautions that CL-structured group activities are only a potential part of the solution for ER motivation, not a guarantee](cl-not-magic-wand-for-er-motivation.md) — related
 - [Teacher-student interactive semantic mapping produced higher EFL reading comprehension posttest scores than teacher-initiated and student-mediated semantic mapping](interactive-semantic-mapping-outperforms-teacher-initiated-and-student-mediated.md) — related
-- [Posttest reading comprehension differed significantly across the three semantic mapping conditions overall](posttest-omnibus-anova-semantic-mapping-conditions.md) — related
+- Posttest reading comprehension differed significantly across the three semantic mapping conditions overall — related
 - The three treatment groups were equivalent in reading comprehension at pretest — related
 - [Teacher-initiated and student-mediated semantic mapping did not differ significantly in their effects on EFL reading comprehension](teacher-initiated-and-student-mediated-mapping-no-difference.md) — related
 - [The article advances a five-part rationale for benefits of adding a peer element to extensive reading](five-rationales-peer-element-er.md) — related

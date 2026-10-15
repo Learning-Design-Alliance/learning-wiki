@@ -17,7 +17,7 @@ sources:
 # Include both range-finding and pin-pointing phases when applying the body of work method
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report stresses that the standard application of the body of work method involves two distinct phases: range-finding, where work samples cover the entire range sparsely, and pin-pointing, which uses only samples near the proposed cut scores. Omitting pin-pointing left judges unsure whether a single portfolio's classification defined a cut score and left large gaps between adjacent portfolios that did not define the cut score well.
@@ -39,7 +39,6 @@ The report stresses that the standard application of the body of work method inv
 
 ### Claims
 
-- [Ordered Portfolio Presentation Contamination](../claims/ordered-portfolio-presentation-contamination.md) [~M]
 - [A body of work standard setting process produced classification agreement rates ranging from 71% to 97% for an alternate portfolio assessment](../claims/body-of-work-agreement-rates-71-97.md) [+W]
 
 ## Related Principles

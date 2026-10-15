@@ -13,7 +13,7 @@ generated:
 # TutorTrace dataset of IDE telemetry, behavioral segments, and observable metrics from 480 learners across four introductory Python deployments
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies (2 design, 1 causal, 1 associational), `q2` · 0 of 4 report an effect size
+> **Evidence** · 2 claims (2 for) · 3 studies (1 causal, 1 associational, 1 design), `q2` · 0 of 3 report an effect size
 
 ## Description
 TutorTrace is a publicly released dataset created by its authors that combines IDE telemetry, AI interaction logs, task outcomes, and expert-validated learner behavioral classifications for studying AI-assisted programming help-seeking.

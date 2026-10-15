@@ -16,7 +16,7 @@ sources:
 # SDT motivational spectrum from amotivation through four extrinsic regulations to intrinsic motivation
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 5 studies (3 theoretical, 1 quant-synthesis, 1 review), `q1`–`q4` · 1 of 5 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 5 studies (3 theoretical, 1 quant-synthesis, 1 review), `q1`–`q4` · 1 of 5 report an effect size · 2 claims rest on one study
 
 ## Description
 The article describes SDT's motivational spectrum as a fine-grained alternative to viewing motivation as all-or-nothing: "a spectrum of motivation from amotivation (literally, without motivation) through externally motivated behaviors, to intrinsic motivation." Four types of extrinsic motivation are distinguished: external regulation (rewards, money, or the task outcome), introjected regulation (fears of guilt, shame, or having to do the task), identified regulation (taking on a task because one knows it is valuable), and integrated regulation (engaging because the activity represents who one is). Intrinsic motivation, at the most positive end, originates when a person volitionally undertakes a task because she finds it inherently satisfying and enjoyable.
@@ -37,7 +37,6 @@ The article describes SDT's motivational spectrum as a fine-grained alternative 
 
 ### Claims
 
-- [In SDT, autonomy is not synonymous with independence nor the opposite of dependence](../claims/autonomy-not-synonymous-with-independence.md) [+W]
 - [Autonomy-supportive teaching contrasts with controlling teaching, and controlled students do poorly compared to autonomous students](../claims/autonomy-support-versus-controlling-teaching.md) [+W]
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]
 - [The article argues extrinsic rewards such as grades can reduce intrinsic motivation and should be phased out](../claims/extrinsic-rewards-undermine-intrinsic-motivation-argument.md) [+W]

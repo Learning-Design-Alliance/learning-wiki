@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: hidetake-tanaka-2026
-    resource: "https://arxiv.org/abs/2608.30572"
-    title: "Hidetake Tanaka, Hiroshi Igaki, Kazumasa Shimari, Kiyoshi Honda, and Naoki Fukuyasu. (2026). Practical Implementation Report on Introducing Spec-Driven Development Using AI Agents in Software Development PBL. https://arxiv.org/abs/2608.30572"
+    resource: "https://doi.org/10.48550/arxiv.2608.30572"
+    title: "Hidetake Tanaka, Hiroshi Igaki, Kazumasa Shimari, Kiyoshi Honda, and Naoki Fukuyasu. (2026). Practical Implementation Report on Introducing Spec-Driven Development Using AI Agents in Software Development PBL. https://arxiv.org/abs/2608.30572 [doi:10.48550/arxiv.2608.30572](https://doi.org/10.48550/arxiv.2608.30572)"
     author: Hidetake Tanaka, Hiroshi Igaki, Kazumasa Shimari, Kiyoshi Honda, and Naoki Fukuyasu
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Hidetake Tanaka 2026
 
-Hidetake Tanaka, Hiroshi Igaki, Kazumasa Shimari, Kiyoshi Honda, and Naoki Fukuyasu. (2026). Practical Implementation Report on Introducing Spec-Driven Development Using AI Agents in Software Development PBL. https://arxiv.org/abs/2608.30572
+Hidetake Tanaka, Hiroshi Igaki, Kazumasa Shimari, Kiyoshi Honda, and Naoki Fukuyasu. (2026). Practical Implementation Report on Introducing Spec-Driven Development Using AI Agents in Software Development PBL. https://arxiv.org/abs/2608.30572 [doi:10.48550/arxiv.2608.30572](https://doi.org/10.48550/arxiv.2608.30572)
 
 `q2 · i?` · `design · r2`
 
@@ -46,4 +46,4 @@ Descriptive analysis (RQ3) plotting average instructor-assessed code comprehensi
 - [In SDPBL with SDD introduced, AI usage varies greatly by team and phase, with all teams using AI in Implementation and Debugging but large team differences in Investigation and Planning](ai-usage-varies-by-team-and-phase-sdpbl-sdd.md) — related
 - [Team code comprehension dropped in lec09 when Implementation-phase AI usage peaked, and recovered in lec10 following instructor intervention](comprehension-dropped-lec09-recovered-after-intervention.md) — related
 - [Across the student body as a whole, no clear statistical trend was confirmed between AI usage levels and code comprehension](no-statistical-trend-ai-usage-comprehension.md) — reports the opposite
-- [Higher GenAI usage clusters report greater perceived difficulty, lower self-assessed understanding, and different trust in AI-generated code](genai-usage-clusters-perceptions-difficulty-trust.md) — related
+- Higher GenAI usage clusters report greater perceived difficulty, lower self-assessed understanding, and different trust in AI-generated code — related

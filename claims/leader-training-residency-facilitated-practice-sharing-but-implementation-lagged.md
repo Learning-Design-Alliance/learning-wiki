@@ -49,9 +49,9 @@ Qualitative implementation analysis of grantee activities from December 2012 thr
 - [Teacher leaders can play a valuable role in supporting the professional learning of their colleagues](teacher-leaders-support-colleague-professional-learning.md) — related
 - [Intensive three-year professional development changed Leader Teachers' practice dramatically, but peer diffusion of reform was uneven](leader-teacher-diffusion-uneven.md) — related
 - [Interviews with 13 education leaders from Kentucky and California, two states with contrasting teacher-evaluation approaches, provided the data for the collaborative grounded theory analysis](thirteen-education-leaders-interviews-two-states-teacher-evaluation.md) — related
-- [League district leaders rated professional development highly and reported extensive peer networking and best-practice sharing](league-professional-development-networking-ratings.md) — related
-- [In 10 schools where teachers had facilitated whole-class instruction for years, learning to differentiate within small groups required a steeper learning curve and different kinds of support](dls-whole-class-schools-steeper-curve.md) — related
+- League district leaders rated professional development highly and reported extensive peer networking and best-practice sharing — related
+- In 10 schools where teachers had facilitated whole-class instruction for years, learning to differentiate within small groups required a steeper learning curve and different kinds of support — related
 - [Reallocating resources enabled differentiated professional learning for English learners and students with disabilities](differentiated-professional-learning-reallocation.md) — related
-- [The FACE Collaborative fostered collaborative leadership behaviors including mutual support, resource sharing, expert learning, and partnership building](face-collaborative-fostered-collaborative-leadership-behaviors.md) — related
+- The FACE Collaborative fostered collaborative leadership behaviors including mutual support, resource sharing, expert learning, and partnership building — related
 - [Networks and professional learning communities of practicing principals support sharing best practices and problem solving on the job](principal-networks-professional-learning-communities.md) — related
 - [Effective leadership plays a pivotal role in guiding digital transformation in educational organizations](leadership-pivotal-digital-transformation-education.md) — related

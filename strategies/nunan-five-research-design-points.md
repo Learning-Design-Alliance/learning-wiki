@@ -17,7 +17,7 @@ sources:
 # SLA researchers should make future research more contextualised, theoretically broader, methodologically wider, and involve teachers
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Nunan proposes five key points for future classroom-oriented SLA research: more contextualised (classroom-based rather than classroom-oriented) research, extended theoretical bases, a wider range of research tools and methods, re-evaluation of the process/product distinction, and a more active role for classroom practitioners. He argues researchers should investigate "real behaviour in real classrooms" and adopt methods from content classroom research such as verbal protocols, stimulated recall and case studies.
@@ -37,8 +37,6 @@ Nunan proposes five key points for future classroom-oriented SLA research: more 
 - second language acquisition
 
 ### Claims
-- [Sla Studies Rarely Classroom Based](../claims/sla-studies-rarely-classroom-based.md) [+M]
-- [Classroom Sla Studies Basic Statistics](../claims/classroom-sla-studies-basic-statistics.md) [+M]
 
 ## Related Principles
 - 

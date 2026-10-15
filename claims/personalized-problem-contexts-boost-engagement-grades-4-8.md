@@ -50,10 +50,10 @@ The guide's practice recommendation asserts, without cited studies or effect siz
 |---|---|---|---|
 | Preparing Problems for Classroom Instruction 2012 | q1 · theoretical · r1 | i? | this claim |
 | [Walkington 2013](https://doi.org/10.1037/a0031882) | q3 · causal · r2 | i?; i1 | [Personalization to student interests improved accuracy on hard knowledge components involv](personalization-improves-hard-kc-accuracy-algebra-its.md) (supports); [Personalizing algebra story problems to student interests improved accuracy on easy knowle](personalization-improves-easy-kc-accuracy-algebra-its.md) (supports); [Students receiving personalized problems gamed the tutoring system less during the persona](personalization-reduces-gaming-behavior.md) (supports); [Personalization reduced time spent on hard expression-writing steps, and students who had ](personalization-reduces-solution-time-efficiency.md) (supports); [In a small subgroup of struggling students (n = 25), interest personalization greatly impr](personalization-struggling-students-moderation.md) (qualifies) |
-| engagement | q2 · qualitative · r3 | i? | [Most participants described interest-personalized GenAI analogies as more engaging or memo](personalized-analogies-more-engaging-memorable.md) (supports) |
+| [engagement](https://doi.org/10.48550/arxiv.2609.06095) | q2 · qualitative · r3 | i? | [Most participants described interest-personalized GenAI analogies as more engaging or memo](personalized-analogies-more-engaging-memorable.md) (supports) |
 | [Murphy 2026](https://doi.org/10.51388/20.500.12265/306) | q2 · causal · r2 | i? | [Localizing word-problem character names improved MATHia performance only for specific subg](localized-names-personalization-subgroup-performance.md) (qualifies) |
 | [Walkington 2025](https://doi.org/10.1007/978-3-032-29770-9_5) | q2 · design · r2 | i? | [Students frequently reported that personalized problem topics did not match their interest](students-report-topic-mismatch-interests.md) (qualifies) |
-| Guo 2025 | q3 · causal · r1 | i? | [The generative AI relevance intervention did not significantly increase students' interest](ai-relevance-intervention-no-interest-effect.md) (counts against) |
+| [Guo 2025](https://doi.org/10.31234/osf.io/srxga_v1) | q3 · causal · r1 | i? | [The generative AI relevance intervention did not significantly increase students' interest](ai-relevance-intervention-no-interest-effect.md) (counts against) |
 <!-- synthesis:end -->
 
 ## Discussion

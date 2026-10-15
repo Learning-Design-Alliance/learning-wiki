@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: guo-2025
-    resource: "https://www.google.com/search?q=%22Utilizing+generative+AI+to+promote+high+school+students%27+personal+relevance+to+math+and+interest+in+the+math+class%22"
-    title: "Guo, Z., Fryer, L. K., & Shum, A. (2025). Utilizing generative AI to promote high school students' personal relevance to math and interest in the math class: An intervention. https://www.google.com/search?q=%22Utilizing+generative+AI+to+promote+high+school+students%27+personal+relevance+to+math+and+interest+in+the+math+class%22"
+    resource: "https://doi.org/10.31234/osf.io/srxga_v1"
+    title: "Guo, Z., Fryer, L. K., & Shum, A. (2025). Utilizing generative AI to promote high school students' personal relevance to math and interest in the math class: An intervention. https://www.google.com/search?q=%22Utilizing+generative+AI+to+promote+high+school+students%27+personal+relevance+to+math+and+interest+in+the+math+class%22 [doi:10.31234/osf.io/srxga_v1](https://doi.org/10.31234/osf.io/srxga_v1)"
     author: "Guo, Z., Fryer, L. K., & Shum, A."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Interviews indicate individualized AI-generated identity-based relevance was perceived as overly abstract, while collective AI dialogue connected math to current concerns and cross-domain applications
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
+> **Evidence** · 2 studies · 1 causal `r1`, 1 qualitative `r?` · `q2`
 
 ## Subclaims
 `q2 i?` In the individual condition, 7 of 10 interviewed students described AI-generated connections between math and their future job or interests as overly abstract and possibly not useful. [→ Guo 2025](#guo-2025)
@@ -40,7 +40,7 @@ sources:
 
 ### Guo 2025
 
-Guo, Z., Fryer, L. K., & Shum, A. (2025). Utilizing generative AI to promote high school students' personal relevance to math and interest in the math class: An intervention. https://www.google.com/search?q=%22Utilizing+generative+AI+to+promote+high+school+students%27+personal+relevance+to+math+and+interest+in+the+math+class%22
+Guo, Z., Fryer, L. K., & Shum, A. (2025). Utilizing generative AI to promote high school students' personal relevance to math and interest in the math class: An intervention. https://www.google.com/search?q=%22Utilizing+generative+AI+to+promote+high+school+students%27+personal+relevance+to+math+and+interest+in+the+math+class%22 [doi:10.31234/osf.io/srxga_v1](https://doi.org/10.31234/osf.io/srxga_v1)
 
 `q2 · i?` · `causal · r1`
 
@@ -69,6 +69,6 @@ Thematic analysis of the same 20 follow-up interviews; the article also reports 
 - [Identical representational designs produced wide individual variation in what felt helpful versus overwhelming (representational fit)](representational-fit-individual-variation.md) — related
 - [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](manipulatives-require-connection-to-concept.md) — a broader claim this one bears on
 - [The individualized generative AI condition showed no significant effect on relevance as identification with math compared with the control group or the collective condition](individual-ai-condition-no-significant-relevance-effect.md) — related
-- [Real-world and racially diverse examples in courseware content helped students retain, comprehend, and relate to statistics](real-world-examples-aid-comprehension-and-relevance.md) — related
+- Real-world and racially diverse examples in courseware content helped students retain, comprehend, and relate to statistics — related
 - [Participants envisioned switchable AI roles — strategic advisor, cross-domain translator, and perspective challenger — whose expansion destabilized perceived neutrality and raised authority and accountability concerns](switchable-ai-roles-neutrality-authority-tension.md) — related
 - [A collective generative AI relevance intervention significantly improved high school students' relevance as identification with math immediately after the intervention compared with a control group](collective-ai-intervention-improves-relevance-identification-math.md) — related

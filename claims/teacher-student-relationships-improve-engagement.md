@@ -170,11 +170,11 @@ A narrative review reports this meta-analysis of more than 90 PreK–12 articles
 - [The evidence base does not yet provide a menu of program options for helping students at risk of dropping out, and program developers need a way to identify approaches while stronger scientific evidence is developed](no-menu-of-dropout-prevention-program-options-yet.md) — related
 - [Classroom environment is positively associated with students' self-reported motivation and other noncognitive factors within students](classroom-environment-relates-to-noncognitive-factors.md) — a narrower finding that bears on this claim
 - [Classrooms in high-performing CHSRI schools showed positive, mutually respectful student-teacher relationships with emotional and academic support](chsri-positive-student-teacher-relationships.md) — a narrower finding that bears on this claim
-- [Teachers are more likely to stay in schools where parents support their work and where students feel safe and peers behave appropriately](parent-partnerships-and-climate-predict-teacher-staying.md) — related
+- Teachers are more likely to stay in schools where parents support their work and where students feel safe and peers behave appropriately — related
 - [Coherent instruction is theorized to promote achievement by supporting connected learning experiences and student motivation](coherence-theory-student-learning-motivation.md) — related
 - [Schools that mitigated proximity-to-homicide effects had stronger, more positive school climates, including engaging instruction and trusting relationships](positive-school-climate-mitigates-homicide-effects.md) — related
 - [Academic and test disengagement are connected through a common association with poor self-management](self-management-common-link-disengagement.md) — related
 - [Teacher support is one of the strongest predictors of student belonging](teacher-support-predicts-student-belonging.md) — related
 - [The paper reports that culturally responsive pedagogies are associated with more student engagement, agency, and responsibility for seeking information](crse-pedagogies-engagement-agency-claim.md) — related
 - [Positive teacher–student relationships relate to math outcomes through self-efficacy, intrinsic motivation, belonging, engagement, and mathematics identity](relationships-pathways-self-efficacy-motivation-identity.md) — a narrower finding that bears on this claim
-- [Subject-matter-centered reform that ignores climate may raise achievement scores while increasing dropout rates](subject-centered-reform-dropout-risk.md) — related
+- Subject-matter-centered reform that ignores climate may raise achievement scores while increasing dropout rates — related

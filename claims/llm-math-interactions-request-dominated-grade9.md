@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: abdelghani-2026
-    resource: "https://arxiv.org/abs/2606.28472"
-    title: "Abdelghani, R., Kaiser, P., Murayama, K. (2026). Changes in Help-Seeking Strategies Predict unaided Performance during AI-based Mathematical Learning. https://arxiv.org/abs/2606.28472"
+    resource: "https://doi.org/10.48550/arxiv.2606.28472"
+    title: "Abdelghani, R., Kaiser, P., Murayama, K. (2026). Changes in Help-Seeking Strategies Predict unaided Performance during AI-based Mathematical Learning. https://arxiv.org/abs/2606.28472 [doi:10.48550/arxiv.2606.28472](https://doi.org/10.48550/arxiv.2606.28472)"
     author: Abdelghani, R., Kaiser, P., Murayama, K.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Abdelghani 2026
 
-Abdelghani, R., Kaiser, P., Murayama, K. (2026). Changes in Help-Seeking Strategies Predict unaided Performance during AI-based Mathematical Learning. https://arxiv.org/abs/2606.28472
+Abdelghani, R., Kaiser, P., Murayama, K. (2026). Changes in Help-Seeking Strategies Predict unaided Performance during AI-based Mathematical Learning. https://arxiv.org/abs/2606.28472 [doi:10.48550/arxiv.2606.28472](https://doi.org/10.48550/arxiv.2606.28472)
 
 `q2 · i?` · `qualitative · r?`
 
@@ -49,7 +49,7 @@ Descriptive analysis of the conversational corpus from 112 Grade-9 students chat
 - [Within a single LLM session, students' help-seeking shifts toward answer- and verification-seeking while explicit self-regulation modestly increases](within-session-hs-shifts-toward-closure-srl-increases.md) — related
 - [Students' stated pre-interaction intentions only weakly correspond to their enacted help-seeking with an LLM](stated-intentions-weakly-match-enacted-help-seeking.md) — related
 - [Contingent tutoring held delegation at the level of an answer-on-request assistant while delivering more artifacts, one decision at a time](contingent-tutor-delegation-held-delivery-rose.md) — related
-- [Planning was the most frequently coded category (777; 14.8%), with Discourse Continuity (561; 10.7%) reflecting multi-turn reformatting requests](planning-most-frequent-category-777.md) — related
+- Planning was the most frequently coded category (777; 14.8%), with Discourse Continuity (561; 10.7%) reflecting multi-turn reformatting requests — related
 - [Students' help requests to the AI tutor were predominantly instrumental rather than executive, with procedural content and low verification](instrumental-help-seeking-procedural-low-verification.md) — related
 - [Learning-oriented intentions did not significantly predict enacted in-chat behavior; only selecting final solutions predicted executive and answer-seeking requests](intent-enactment-gap-genai-help-seeking.md) — related
 - [During AI-tutor interactions, students' turns were dominated by help requests with near-absent monitoring and evaluation](request-dominance-monitoring-evaluate-absent.md) — possibly the same claim (merge candidate)

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: rumble-2026
-    resource: "https://arxiv.org/abs/2607.13370"
-    title: "Rumble, T., Zarrin, J., Lovell, P. G., Falconer, R. (2026). Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System. arXiv. https://arxiv.org/abs/2607.13370"
+    resource: "https://doi.org/10.48550/arxiv.2607.13370"
+    title: "Rumble, T., Zarrin, J., Lovell, P. G., Falconer, R. (2026). Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System. arXiv. https://arxiv.org/abs/2607.13370 [doi:10.48550/arxiv.2607.13370](https://doi.org/10.48550/arxiv.2607.13370)"
     author: Rumble, T., Zarrin, J., Lovell, P. G., Falconer, R.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Rumble 2026
 
-Rumble, T., Zarrin, J., Lovell, P. G., Falconer, R. (2026). Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System. arXiv. https://arxiv.org/abs/2607.13370
+Rumble, T., Zarrin, J., Lovell, P. G., Falconer, R. (2026). Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System. arXiv. https://arxiv.org/abs/2607.13370 [doi:10.48550/arxiv.2607.13370](https://doi.org/10.48550/arxiv.2607.13370)
 
 `q2 · i?` · `design · r2`
 

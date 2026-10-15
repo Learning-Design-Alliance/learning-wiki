@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: udeshi-2026
-    resource: "https://sites.google.com/khanacademy.org/aied2026supplementalmaterial/home"
-    title: "Udeshi, T., Khazenzon, A., Khan, K., Breen, N., Corwin, R., DiGiano, C., Weatherholtz, K., Zaluski, M. (2026). Methodologies for Improving the Quality of AI Tutoring in K-12 Education. https://sites.google.com/khanacademy.org/aied2026supplementalmaterial/home"
+    resource: "https://doi.org/10.1007/978-3-032-29755-6_14"
+    title: "Udeshi, T., Khazenzon, A., Khan, K., Breen, N., Corwin, R., DiGiano, C., Weatherholtz, K., Zaluski, M. (2026). Methodologies for Improving the Quality of AI Tutoring in K-12 Education. https://sites.google.com/khanacademy.org/aied2026supplementalmaterial/home [doi:10.1007/978-3-032-29755-6_14](https://doi.org/10.1007/978-3-032-29755-6_14)"
     author: Udeshi, T., Khazenzon, A., Khan, K., Breen, N., Corwin, R., DiGiano, C., Weatherholtz, K., Zaluski, M.
     q: 2
     i: "?"
@@ -38,7 +38,7 @@ sources:
 # Providing the tutor with student mastery and practice-history context improved engagement and next-item correctness
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · causal `r2` · `q2`
+> **Evidence** · 2 studies (3 entries) · 2 causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Providing an AFPM mastery estimate decreased tutor giving away the final answer by 55.16% ± 7.42%, increased behavioral engagement by 2.83% ± 1.73%, and decreased text complexity (reading level) by 5.59% ± 1.57%. [→ Udeshi 2026](#udeshi-2026)
@@ -49,7 +49,7 @@ sources:
 
 ### Udeshi 2026
 
-Udeshi, T., Khazenzon, A., Khan, K., Breen, N., Corwin, R., DiGiano, C., Weatherholtz, K., Zaluski, M. (2026). Methodologies for Improving the Quality of AI Tutoring in K-12 Education. https://sites.google.com/khanacademy.org/aied2026supplementalmaterial/home
+Udeshi, T., Khazenzon, A., Khan, K., Breen, N., Corwin, R., DiGiano, C., Weatherholtz, K., Zaluski, M. (2026). Methodologies for Improving the Quality of AI Tutoring in K-12 Education. https://sites.google.com/khanacademy.org/aied2026supplementalmaterial/home [doi:10.1007/978-3-032-29755-6_14](https://doi.org/10.1007/978-3-032-29755-6_14)
 
 `q2 · i?` · `causal · r2`
 
@@ -85,5 +85,5 @@ Live experiment providing Khanmigo a summary of the student's attempt history fo
 - [Limiting verbose Math Agent guidance sharply reduced answer giveaway but decreased cognitive engagement](math-agent-guidance-limit-tradeoff.md) — related
 - [Model selection experiments show newer models are not strict improvements, with component-specific effects on quality metrics](model-migration-component-specific-metric-effects.md) — related
 - [LLMKT's predicted knowledge change curves on CoMTA are mixed across the 15 most frequent KCs, though overall they mostly resemble the power law of practice when dialogues have sufficient turns.](llmkt-knowledge-change-curves-show-mixed-trends-resembling-power-law-of-practice.md) — related
-- [CLST's predicted mastery levels track response correctness and move similarly for related knowledge components](clst-mastery-tracks-correctness-and-related-kcs.md) — related
+- CLST's predicted mastery levels track response correctness and move similarly for related knowledge components — related
 - [Most models struggle to engage with a student's prior debugging attempts even when the iteration history is provided](models-struggle-acknowledging-debugging-progression.md) — related

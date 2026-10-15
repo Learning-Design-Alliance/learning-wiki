@@ -16,7 +16,7 @@ sources:
 # Basic Systems Model for staff development planning with six sequential decision points
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (2 design), `q1` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The workbook teaches a Basic Systems Model in which staff development planning proceeds through sequential decision points: Rationale, Objectives, Criterion Measures, Techniques and Strategies, Field Test, and Evaluation. The article defines the approach as "a plan for solving problems that describes the interrelation of sequential decision points", with feedback communicating information from later decision points to earlier ones. Each decision point answers a guiding question (Why? What? How much? How?), and each is elaborated into sub-decision points such as felt needs, verified needs, and problem statement under Rationale.
@@ -38,9 +38,7 @@ The workbook teaches a Basic Systems Model in which staff development planning p
 
 ### Claims
 
-- [In a systems approach to staff development, felt needs must be legitimized by data before planning proceeds](../claims/felt-needs-require-data-verification.md) [+W]
 - [Field Test II with students should not be implemented until Field Test I evaluation yields a go decision on staff competencies](../claims/sequential-field-testing-go-no-go.md) [+W]
-- [Simulation allows the expense and effect of a policy change to be evaluated before implementation](../claims/simulation-evaluates-policy-change-before-implementation.md) [+W]
 
 ## Related Theories
 - 

@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Some principles of reason assessment, such as the prohibition on begging the question, are general and subject-neutral, while others, such as those linking a dead battery to a car that will not start, apply only in specialized domains and require specialized knowledge. [→ Weinstein 1989](#weinstein-1989)
@@ -46,4 +47,4 @@ Theoretical argument in Siegel's plenary paper, illustrated with worked examples
 - [Weinstein argues critical thinking needs a disciplinary perspective incorporating substantive methodological criteria from within disciplines](disciplinary-perspective-critical-thinking.md) — a narrower finding that bears on this claim
 - [Storying is socially and politically non-neutral: it privileges some storylines and silences others](storying-privileges-some-storylines-silences-others.md) — related
 - [Material choice shapes conceptual learning and who feels invited to learn](material-choice-shapes-conceptual-learning-and-participation.md) — related
-- [In a qualitative study of 32 EFL teacher-education students, participants described deeper, more reflective thinking after metacognitive and critical-thinking instruction, and one reported applying it in other disciplines](ct-metacog-upper-level-thought.md) — related
+- In a qualitative study of 32 EFL teacher-education students, participants described deeper, more reflective thinking after metacognitive and critical-thinking instruction, and one reported applying it in other disciplines — related

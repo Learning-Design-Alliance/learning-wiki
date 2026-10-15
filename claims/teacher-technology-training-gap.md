@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: weaver-2022
-    resource: "https://digitalpromise.dspacedirect.org/items/38939984-18ea-4af0-8081-c787ac30d48d"
-    title: "Weaver, D'Andre J., Ph.D. (2022). Delivering on the Promise of Digital Equity. Digital Promise. https://digitalpromise.dspacedirect.org/items/38939984-18ea-4af0-8081-c787ac30d48d"
+    resource: "https://doi.org/10.51388/20.500.12265/166"
+    title: "Weaver, D'Andre J., Ph.D. (2022). Delivering on the Promise of Digital Equity. Digital Promise. https://digitalpromise.dspacedirect.org/items/38939984-18ea-4af0-8081-c787ac30d48d [doi:10.51388/20.500.12265/166](https://doi.org/10.51388/20.500.12265/166)"
     author: "Weaver, D'Andre J., Ph.D."
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Weaver 2022
 
-Weaver, D'Andre J., Ph.D. (2022). Delivering on the Promise of Digital Equity. Digital Promise. https://digitalpromise.dspacedirect.org/items/38939984-18ea-4af0-8081-c787ac30d48d
+Weaver, D'Andre J., Ph.D. (2022). Delivering on the Promise of Digital Equity. Digital Promise. https://digitalpromise.dspacedirect.org/items/38939984-18ea-4af0-8081-c787ac30d48d [doi:10.51388/20.500.12265/166](https://doi.org/10.51388/20.500.12265/166)
 
 `q3 · i?` · `review · r1`
 
@@ -43,7 +43,7 @@ The report cites a National Center for Education Statistics survey: "only 18 per
 
 
 ## Related Claims
-- [About 70 percent of teachers use the internet weekly for lesson preparation, but only 45 to 50 percent use software in instruction or expect weekly student use](teacher-technology-use-preparation-versus-instruction-gap.md) — related
+- About 70 percent of teachers use the internet weekly for lesson preparation, but only 45 to 50 percent use software in instruction or expect weekly student use — related
 - [School-related factors influence teachers' digital data use only indirectly, mediated by teacher will-skill-tool characteristics, in a model explaining 50% of variance](school-factors-mediated-by-teacher-characteristics.md) — related
-- [Teacher technology use and school culture explain an additional 18 percent of school-by-school differences in high school student technology use](teacher-use-culture-explain-school-variance-student-tech-use.md) — related
+- Teacher technology use and school culture explain an additional 18 percent of school-by-school differences in high school student technology use — related
 - [Only 18 percent of schools strongly agree teachers are sufficiently trained to use technology for instruction](schools-teacher-technology-training-insufficient.md) — possibly the same claim (merge candidate)

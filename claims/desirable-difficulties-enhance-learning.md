@@ -136,7 +136,7 @@ A multilevel meta-analysis comparing interleaved with blocked presentation of it
 - [Spacing out retrieval practice produces better long-term retention than massing it](spaced-retrieval-outperforms-restudy.md) — related
 - [Desirable difficulty: harder-to-learn conditions yield enhanced long-term retention](desirable-difficulty-enhances-long-term-retention.md) — related
 - [Spaced retrieval practice outperformed both massed retrieval practice and no-practice control on delayed financial knowledge, while massed and control did not differ](spaced-beats-massed-and-control-financial-knowledge.md) — related
-- [Productive difficulty at the edge of mastery, with high expectations, fosters deeper learning](productive-difficulty-edge-of-mastery.md) — related
+- Productive difficulty at the edge of mastery, with high expectations, fosters deeper learning — related
 - [Spaced and interleaved homework practice improves learning and retention](spaced-interleaved-homework-practice.md) — related
 - [Struggling to encode, retrieve, and reorganize information produces deeper comprehension and retention, and AI-supplied ready-made solutions short-circuit these processes](ai-removing-struggle-short-circuits-desirable-difficulties.md) — a narrower finding that bears on this claim
 - [Classroom testing (quizzing) significantly boosts student academic achievement to a medium extent (g = 0.499).](classroom-quizzing-medium-effect-achievement.md) — possibly the same claim (merge candidate)

@@ -68,7 +68,7 @@ RQ3 theme on bridging virtual and real-world practice. Repeated virtual practice
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — related
 - [Integrating literacy and science within authentic real-world experiences can produce greater learning in both areas than teaching either separately](integrated-literacy-science-greater-learning-than-separate.md) — related
-- [AI-driven situated learning reshapes education by enhancing authenticity and transforming evaluation into assessment woven into the learning process](ai-authenticity-evaluation-reshaping.md) — a broader claim this one bears on
+- AI-driven situated learning reshapes education by enhancing authenticity and transforming evaluation into assessment woven into the learning process — a broader claim this one bears on
 - [Pretraining learners on a system's key parts and terms before the main lesson improved knowledge and real-world transfer in one VR experiment, and is reported second-hand to improve learning in multimedia studies](pretraining-improves-transfer.md) — related
 - [Physical Experience Enhances Science Learning](physical-experience-enhances-science-learning.md) — related
 - [Learners valued safe, repeatable, nonjudgmental AI practice environments that reduced anxiety and bridged the theory-practice gap](ai-simulation-safe-practice-environments.md) — related

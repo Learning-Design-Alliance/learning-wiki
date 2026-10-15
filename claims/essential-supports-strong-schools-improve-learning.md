@@ -44,7 +44,7 @@ The report states this as a finding from CCSR's longitudinal studies of Chicago 
 
 ## Related Claims
 - [Chicago elementary schools strong in most essential supports were at least ten times more likely than weak-support schools to show substantial gains in both reading and mathematics](strong-essential-supports-ten-times-more-likely-substantial-gains.md) — a narrower finding that bears on this claim
-- [Chicago schools strong in most of the five essential supports were about 10 times more likely to show substantial gains in reading and mathematics](chicago-strong-essentials-tenfold-gains.md) — a narrower finding that bears on this claim
+- Chicago schools strong in most of the five essential supports were about 10 times more likely to show substantial gains in reading and mathematics — a narrower finding that bears on this claim
 - [Elementary schools strong in three or more of the five essential supports were ten times more likely to substantially improve student math and reading scores (attributed to Bryk et al., 2010)](schools-strong-three-plus-supports-ten-times-more-likely-improve.md) — a narrower finding that bears on this claim
 - [Elementary schools strong on at least three of five essential organizational elements were 10 times more likely to improve and 30 times less likely to stagnate](five-essential-elements-three-of-five-improvement-odds.md) — a narrower finding that bears on this claim
 - [Fewer than 10 percent of elementary schools with a sustained weakness in one essential support showed improvements in student outcomes (attributed to Bryk et al., 2010)](sustained-weakness-one-support-few-improve.md) — related

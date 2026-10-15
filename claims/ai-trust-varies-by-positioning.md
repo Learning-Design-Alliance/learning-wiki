@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: hillary-greene-nolan-2024
-    resource: "https://digitalpromise.dspacedirect.org/items/4f2d86a3-9b66-4538-a5ad-977bb8fbacf7"
-    title: "Hillary Greene Nolan, Ph.D, Merijke Coenraad, Ph.D, Viki Young, Ph.D. (2024). Teaching Partner, Grading Assistant, Substitute Teacher: Three Ways Teachers Positioned an Artificial Intelligence Tool in Writing Instruction. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.dspacedirect.org/items/4f2d86a3-9b66-4538-a5ad-977bb8fbacf7"
+    resource: "https://doi.org/10.51388/20.500.12265/226"
+    title: "Hillary Greene Nolan, Ph.D, Merijke Coenraad, Ph.D, Viki Young, Ph.D. (2024). Teaching Partner, Grading Assistant, Substitute Teacher: Three Ways Teachers Positioned an Artificial Intelligence Tool in Writing Instruction. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.dspacedirect.org/items/4f2d86a3-9b66-4538-a5ad-977bb8fbacf7 [doi:10.51388/20.500.12265/226](https://doi.org/10.51388/20.500.12265/226)"
     author: Hillary Greene Nolan, Ph.D, Merijke Coenraad, Ph.D, Viki Young, Ph.D.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Hillary Greene Nolan 2024
 
-Hillary Greene Nolan, Ph.D, Merijke Coenraad, Ph.D, Viki Young, Ph.D. (2024). Teaching Partner, Grading Assistant, Substitute Teacher: Three Ways Teachers Positioned an Artificial Intelligence Tool in Writing Instruction. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.dspacedirect.org/items/4f2d86a3-9b66-4538-a5ad-977bb8fbacf7
+Hillary Greene Nolan, Ph.D, Merijke Coenraad, Ph.D, Viki Young, Ph.D. (2024). Teaching Partner, Grading Assistant, Substitute Teacher: Three Ways Teachers Positioned an Artificial Intelligence Tool in Writing Instruction. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.dspacedirect.org/items/4f2d86a3-9b66-4538-a5ad-977bb8fbacf7 [doi:10.51388/20.500.12265/226](https://doi.org/10.51388/20.500.12265/226)
 
 `q2 · i?` · `qualitative · r3`
 
@@ -48,4 +48,4 @@ Interview finding on grading practices. Partner teachers showed skepticism, e.g.
 - [Partner-positioned teachers built students' AI literacy, while assistant and substitute teachers' transparency centered on gaming scores](partner-positioning-builds-student-ai-literacy.md) — related
 - [Among 24 Topeka teachers, half positioned the AI as a teaching partner, 29% as a grading assistant, and 21% as a substitute teacher](teacher-positioning-distribution-topeka.md) — related
 - [Teachers who positioned AI as a partner remained instructional leaders, weaving the tool into rich instruction and using score data to decide what to re-teach](partner-positioning-instructional-leadership.md) — related
-- [People may absorb bias from AI and carry it beyond their interactions with the algorithm](humans-absorb-bias-from-ai.md) — related
+- People may absorb bias from AI and carry it beyond their interactions with the algorithm — related

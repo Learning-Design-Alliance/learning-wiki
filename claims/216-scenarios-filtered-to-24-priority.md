@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: gibson-2025
-    resource: "https://arxiv.org/abs/2605.24142"
-    title: "Gibson, D. C., Azukas, M. E., & Yilmaz Soylu, M. (2025). A Taxonomy of Metacognitive Learning Scenarios in Professional Contexts: Integrating Systems Theory with Empirical Constraints. https://arxiv.org/abs/2605.24142"
+    resource: "https://doi.org/10.48550/arxiv.2605.24142"
+    title: "Gibson, D. C., Azukas, M. E., & Yilmaz Soylu, M. (2025). A Taxonomy of Metacognitive Learning Scenarios in Professional Contexts: Integrating Systems Theory with Empirical Constraints. https://arxiv.org/abs/2605.24142 [doi:10.48550/arxiv.2605.24142](https://doi.org/10.48550/arxiv.2605.24142)"
     author: "Gibson, D. C., Azukas, M. E., & Yilmaz Soylu, M."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Combinatorial enumeration yields 216 scenarios, filtered to 24 priority scenarios across three developmental tiers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · theoretical `r2` · `q2`
+> **Evidence** · 2 studies · 2 theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The six-node model with stated constraints generates 216 mathematically valid scenarios, and four sequential constraint-based filters reduce this to 24 priority scenarios distributed as 6 novice, 10 developing, and 8 expert/adaptive. [→ Gibson 2025](#gibson-2025)
@@ -39,7 +39,7 @@ sources:
 
 ### Gibson 2025
 
-Gibson, D. C., Azukas, M. E., & Yilmaz Soylu, M. (2025). A Taxonomy of Metacognitive Learning Scenarios in Professional Contexts: Integrating Systems Theory with Empirical Constraints. https://arxiv.org/abs/2605.24142
+Gibson, D. C., Azukas, M. E., & Yilmaz Soylu, M. (2025). A Taxonomy of Metacognitive Learning Scenarios in Professional Contexts: Integrating Systems Theory with Empirical Constraints. https://arxiv.org/abs/2605.24142 [doi:10.48550/arxiv.2605.24142](https://doi.org/10.48550/arxiv.2605.24142)
 
 `q2 · i?` · `theoretical · r2`
 

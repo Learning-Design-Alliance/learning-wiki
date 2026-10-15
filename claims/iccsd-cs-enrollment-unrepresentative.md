@@ -46,5 +46,5 @@ District case report: ICCSD examined 2017 high school CS enrollment against wide
 - [Students in the lowest-SES neighborhoods were 3 percentage points less likely to enroll in CS, a gap largely explained by differential access to schools offering CS](low-ses-cs-enrollment-access-explained.md) — related
 - [In schools offering both course types, enrollment differs by race/ethnicity, with more White students in single-discipline courses](racialized-enrollment-single-discipline-courses.md) — related
 - [Student access to CS grew faster than school access because larger high schools were more likely to offer CS, reaching 92 percent of students by 2018](student-cs-access-92-percent-2018.md) — related
-- [Iowa City schools observed inequitable course enrollment in computational thinking, computer science, and advanced STEM electives by race/ethnicity, income, gender, and ELL status](iowa-city-inequitable-cs-stem-enrollment.md) — possibly the same claim (merge candidate)
-- [Student voices provided insights into factors that may impact participation in CS programs in Iowa City](student-voices-insights-cs-participation-factors.md) — related
+- Iowa City schools observed inequitable course enrollment in computational thinking, computer science, and advanced STEM electives by race/ethnicity, income, gender, and ELL status — possibly the same claim (merge candidate)
+- Student voices provided insights into factors that may impact participation in CS programs in Iowa City — related

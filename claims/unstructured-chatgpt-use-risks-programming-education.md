@@ -64,11 +64,11 @@ The chapter reports, citing Cowan et al. (2023), that "only 30% of ChatGPT outpu
 ## Related Claims
 - [A 2026 text-mining review chapter reports that studies of ChatGPT in programming education find benefits where it is used with structured pedagogical guidance and teacher facilitation](structured-chatgpt-integration-improves-programming-learning.md) — reports the opposite
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — a broader claim this one bears on
-- [Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs](teacher-big-picture-genai-concerns.md) — related
+- Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs — related
 - [Students report negative experiences with ChatGPT including inaccurate outputs, lack of emotional connection, and risk of overreliance, which constrain competence](chatgpt-negative-experiences-inaccuracy-overreliance.md) — related
 - [Unreliable AI-generated output is the most frequently reported technical limitation of AI-supported undergraduate EFL instruction, appearing in 22 of 54 studies (41%)](unreliable-ai-output-most-frequent-technical-limitation-efl.md) — related
 - [Overreliance on AI is the most prevalent pedagogical limitation (27 studies, 50%), followed by reduced critical thinking (25 studies, 46%)](overreliance-reduced-critical-thinking-ai-efl.md) — a broader claim this one bears on
-- [Reviewed studies consistently raise concerns about AI accuracy, overreliance, academic integrity, and reduced critical engagement in Arab EL2 contexts](ai-concerns-overreliance-integrity-arab-el2.md) — related
+- Reviewed studies consistently raise concerns about AI accuracy, overreliance, academic integrity, and reduced critical engagement in Arab EL2 contexts — related
 - The most frequent co-occurrence pattern pairs AI system performance limitations with learner cognitive and autonomy risks, reported together in 25 studies (46%), as association rather than causation — related
 - [Academic integrity concerns were the third most prevalent pedagogical limitation, reported in 20 of 54 studies (37%)](academic-integrity-concerns-ai-efl-prevalence.md) — related
 - [Automated verification of AI-drafted content produced mixed results: strong accuracy and integrity scores but only 5 of 10 chapters meeting the pedagogical-progression bar](verification-layer-one-mixed-results.md) — related

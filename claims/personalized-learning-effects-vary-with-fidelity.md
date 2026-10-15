@@ -49,8 +49,8 @@ RAND matched students in NGLC schools implementing PL practices (adaptive softwa
 |---|---|---|---|
 | [Pane et al. 2017](https://doi.org/10.7249/rr2042) | q2 · causal · r2 | i0 · negligible-to-small, overall effect size 0.09 SD (math, sig.) / 0.07 SD (reading, n.s.) | this claim |
 | Constantakis 2016 | q2 · associational · r1 | i? | [Adult education programs used product-generated learner data minimally, mostly tracking us](adult-ed-minimal-learner-data-use.md) (supports) |
-| Tripathi 2026 | q1 · review · r2 | i? | [An analytical chapter identifies reward hacking, engagement optimization over learning, an](rl-reward-misalignment-failure-modes.md) (supports) |
-| Haley Noh 2026 | q2 · design · r2 | i? | [System constraints have minimal effect on already-efficient task-selection strategies whil](constraints-selectively-affect-inefficient-strategies.md) (qualifies) |
+| [Tripathi 2026](https://doi.org/10.48550/arxiv.2605.21962) | q1 · review · r2 | i? | [An analytical chapter identifies reward hacking, engagement optimization over learning, an](rl-reward-misalignment-failure-modes.md) (supports) |
+| [Haley Noh 2026](https://doi.org/10.48550/arxiv.2605.21613) | q2 · design · r2 | i? | [System constraints have minimal effect on already-efficient task-selection strategies whil](constraints-selectively-affect-inefficient-strategies.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -88,9 +88,9 @@ RAND matched students in NGLC schools implementing PL practices (adaptive softwa
 - [Some blended learning interventions improve student outcomes, but whether a positive effect exists varies across interventions and domains of achievement](blended-learning-effects-vary-by-intervention-and-domain.md) — related
 - [High-dosage tutoring, frequent teacher feedback and coaching, and data-driven instructional practices show moderately strong evidence of association with charter-school achievement impacts](tutoring-coaching-data-use-charter-impacts.md) — related
 - [Teachers who achieve high-dosage CAL practice show strong initial buy-in, a clear implementation strategy for practice timing, and close monitoring with follow-up](high-dosage-cal-teachers-buy-in-strategy-monitoring.md) — related
-- [Adaptive training produced substantial and sustained gains in working memory for children with poor working memory](adaptive-training-sustained-working-memory-gains.md) — related
+- Adaptive training produced substantial and sustained gains in working memory for children with poor working memory — related
 - [Teachers varied in Data Routine enactment, with Sensemaking about the Data least common, and sensemaking activities were strongly associated with open-ended questioning](data-routine-sensemaking-least-common-open-questioning.md) — related
 - [Three fidelity components—completing Apply It problems, following up on Time-Sensitive Interventions, and having Automated Messages on—differentiate classes with better-vs-poorer-than-expected grades.](three-key-fidelity-components-achievement.md) — a narrower finding that bears on this claim
 - [Practitioners identified classroom complexities and fidelity-of-implementation variability as considerations experimental research should account for beyond causal effects](practitioner-considerations-experimental-research.md) — related
-- [Teachers and school directors were uniformly satisfied with digital content training, and coaches observed 96% fidelity in blended-learning implementation](haiti-pilot-training-satisfaction-96-fidelity.md) — related
+- Teachers and school directors were uniformly satisfied with digital content training, and coaches observed 96% fidelity in blended-learning implementation — related
 - [ITS benefits in mathematics education vary by system design, domain, learner characteristics, intervention intensity, outcome measurement, teacher mediation, and implementation context](its-benefits-vary-by-design-context.md) — a broader claim this one bears on

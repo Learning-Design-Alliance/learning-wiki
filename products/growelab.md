@@ -18,7 +18,7 @@ sources:
 # GroweLab
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 GroweLab is engage2learn's all-in-one coaching and talent-development platform for facilitating and documenting educator coaching and tracking professional-growth data and outcomes.
@@ -29,7 +29,6 @@ GroweLab is engage2learn's all-in-one coaching and talent-development platform f
 
 ### Claims
 - [Students of e2L-coached teachers outperformed students in comparison schools on end-of-year STAAR math in a propensity-score-matched study](../claims/e2l-coaching-staar-math-outperformed.md) [+W]
-- [STAAR results in the first e2L study were conflicting: positive versus separate control schools but negative versus non-e2L teachers in the same schools](../claims/e2l-staar-conflicting-results-study-one.md) [~W]
 - [Students of engage2learn teachers scored significantly higher on NWEA MAP than students of non-e2L teachers in the same schools and in comparison schools](../claims/e2l-teachers-students-higher-nwea-map.md) [+W]
 
 ## Related Products and Programmes
@@ -69,7 +68,6 @@ GroweLab is engage2learn's technology platform for delivering and documenting ed
 ## Claims
 
 - [Students of e2L-coached teachers outperformed students in comparison schools on end-of-year STAAR math in a propensity-score-matched study](../claims/e2l-coaching-staar-math-outperformed.md) [+W]
-- [STAAR results in the first e2L study were conflicting: positive versus separate control schools but negative versus non-e2L teachers in the same schools](../claims/e2l-staar-conflicting-results-study-one.md) [~W]
 - [Students of engage2learn teachers scored significantly higher on NWEA MAP than students of non-e2L teachers in the same schools and in comparison schools](../claims/e2l-teachers-students-higher-nwea-map.md) [+W]
 
 ## Related Elements

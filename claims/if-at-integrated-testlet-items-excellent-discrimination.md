@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: slepkov-2013
-    resource: "https://arxiv.org/abs/1308.4365"
-    title: "Slepkov, A. D. (2013). Integrated Testlets and the Immediate Feedback Assessment Technique. https://arxiv.org/abs/1308.4365"
+    resource: "https://doi.org/10.48550/arxiv.1308.4365"
+    title: "Slepkov, A. D. (2013). Integrated Testlets and the Immediate Feedback Assessment Technique. https://arxiv.org/abs/1308.4365 [doi:10.48550/arxiv.1308.4365](https://doi.org/10.48550/arxiv.1308.4365)"
     author: Slepkov, A. D.
     q: 2
     i: 2
@@ -31,7 +31,7 @@ sources:
 
 ### Slepkov 2013
 
-Slepkov, A. D. (2013). Integrated Testlets and the Immediate Feedback Assessment Technique. https://arxiv.org/abs/1308.4365
+Slepkov, A. D. (2013). Integrated Testlets and the Immediate Feedback Assessment Technique. https://arxiv.org/abs/1308.4365 [doi:10.48550/arxiv.1308.4365](https://doi.org/10.48550/arxiv.1308.4365)
 
 `q2 · i2` · `design · r2`
 

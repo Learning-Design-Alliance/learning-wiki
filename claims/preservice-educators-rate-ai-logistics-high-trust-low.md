@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: george-efthimiou-2026
-    resource: "https://www.mdpi.com/journal/educationsciences"
-    title: "George Efthimiou, Katerina Plakitsi. (2026). Preservice Early Childhood Educators' Engagement with Generative AI in Science Activity Design: The Case of Magnetism. https://www.mdpi.com/journal/educationsciences"
+    resource: "https://doi.org/10.35542/osf.io/m5erf_v1"
+    title: "George Efthimiou, Katerina Plakitsi. (2026). Preservice Early Childhood Educators' Engagement with Generative AI in Science Activity Design: The Case of Magnetism. https://www.mdpi.com/journal/educationsciences [doi:10.35542/osf.io/m5erf_v1](https://doi.org/10.35542/osf.io/m5erf_v1)"
     author: George Efthimiou, Katerina Plakitsi
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### George Efthimiou 2026
 
-George Efthimiou, Katerina Plakitsi. (2026). Preservice Early Childhood Educators' Engagement with Generative AI in Science Activity Design: The Case of Magnetism. https://www.mdpi.com/journal/educationsciences
+George Efthimiou, Katerina Plakitsi. (2026). Preservice Early Childhood Educators' Engagement with Generative AI in Science Activity Design: The Case of Magnetism. https://www.mdpi.com/journal/educationsciences [doi:10.35542/osf.io/m5erf_v1](https://doi.org/10.35542/osf.io/m5erf_v1)
 
 `q2 · i?` · `design · r2`
 
@@ -45,5 +45,5 @@ Descriptive analysis of post-interaction Likert reflection items from 131 preser
 ## Related Claims
 - [Students rated ChatGPT highly for completing activities more quickly, among the highest-scoring survey items in both courses](chatgpt-rated-high-for-speed-of-completion.md) — related
 - [Epistemic trust in AI-generated content did not differ significantly across the five AI platforms](epistemic-trust-stable-across-platforms.md) — related
-- [Reviewed studies consistently raise concerns about AI accuracy, overreliance, academic integrity, and reduced critical engagement in Arab EL2 contexts](ai-concerns-overreliance-integrity-arab-el2.md) — related
+- Reviewed studies consistently raise concerns about AI accuracy, overreliance, academic integrity, and reduced critical engagement in Arab EL2 contexts — related
 - [Students rated the flipped-learning component highest and the GenAI module lower, with GenAI rated stronger for ideation than for time saving or direct output use](genai-rated-for-ideation-not-time-saving.md) — reports the opposite

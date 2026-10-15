@@ -9,7 +9,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: german-and-barrett-2005
-    title: "German, T. P., & Barrett, H. C. (2005). Functional fixedness in a technologically sparse culture. *Psychological Science, 16*(1), 1-5."
+    resource: "https://doi.org/10.1111/j.0956-7976.2005.00771.x"
+    title: "German, T. P., & Barrett, H. C. (2005). Functional fixedness in a technologically sparse culture. *Psychological Science, 16*(1), 1-5. [doi:10.1111/j.0956-7976.2005.00771.x](https://doi.org/10.1111/j.0956-7976.2005.00771.x)"
     author: "German, T. P., & Barrett, H. C."
     q: 2
     i: "?"
@@ -44,7 +45,7 @@ Functional fixedness is a tendency to regard the functions of objects and ideas 
 
 ### German and Barrett 2005
 
-German, T. P., & Barrett, H. C. (2005). Functional fixedness in a technologically sparse culture. *Psychological Science, 16*(1), 1-5.
+German, T. P., & Barrett, H. C. (2005). Functional fixedness in a technologically sparse culture. *Psychological Science, 16*(1), 1-5. [doi:10.1111/j.0956-7976.2005.00771.x](https://doi.org/10.1111/j.0956-7976.2005.00771.x)
 
 `q2 · experimental study` · `i? · no source text available to check; the entry prints no effect size` · `n=unreported in secondary source` · `causal · r?`
 
@@ -63,7 +64,7 @@ Functional fixedness and response set are both failures of problem representatio
 
 ## Related Claims
 - [A preservice teacher's self-perceived confidence and success with traditional mathematics inhibited reinterpreting his understanding of mathematics](math-confidence-inhibits-philosophy-reinterpretation.md) — related
-- [A Flexible problem-solving approach within a Fixed-Cooperative course appeared to support cooperative learning](flexible-problem-solving-supports-cooperative-learning.md) — related
-- [Rapid prototyping methods can amplify novice designers' tendency to commit to a solution too early.](rapid-prototyping-can-amplify-novice-designers-premature-commitment-to-solutions.md) — related
-- [The monograph relates beliefs about learner, purpose, content, and learning process to three learning models: problem-solving, acquiring content, and self-actualization](three-learning-models-summary-apps.md) — related
+- A Flexible problem-solving approach within a Fixed-Cooperative course appeared to support cooperative learning — related
+- Rapid prototyping methods can amplify novice designers' tendency to commit to a solution too early. — related
+- The monograph relates beliefs about learner, purpose, content, and learning process to three learning models: problem-solving, acquiring content, and self-actualization — related
 - [Well-defined tasks and accessible materials support shared creative influence in group work](well-defined-tasks-and-accessible-materials-support-shared-creative-influence.md) — related

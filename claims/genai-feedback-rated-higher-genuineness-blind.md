@@ -46,4 +46,4 @@ Mann–Whitney U comparison of post-intervention perception questionnaire scores
 - [The GenAI feedback group showed a statistically significant post-intervention improvement in the Task Strategies dimension of SRL compared with the tutor group](genai-feedback-improved-task-strategies-srl.md) — related
 - [Students in the generative AI-supported condition reported favorable perceptions of the instruction, with feedback for correcting mistakes rated highest](genai-geometry-favorable-perceptions.md) — related
 - [Students rate LLM-generated response-level feedback favourably, with clarity and perceived accuracy highest and actionability and usefulness lowest](llm-response-feedback-clarity-accuracy-highest-actionability-usefulness-lowest.md) — related
-- [Tutors on Ringle rated automated feedback significantly more negatively than learner feedback across six of seven perception dimensions](tutors-rate-automated-feedback-more-negatively-than-learner-feedback.md) — related
+- Tutors on Ringle rated automated feedback significantly more negatively than learner feedback across six of seven perception dimensions — related

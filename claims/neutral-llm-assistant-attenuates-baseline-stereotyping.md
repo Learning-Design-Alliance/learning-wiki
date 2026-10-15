@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: ariyan-hossain-2026
-    resource: "https://arxiv.org/abs/2606.15914"
-    title: "Ariyan Hossain, Kazi Kamruzzaman Rabbi, Farig Sadeque, S M Taiabul Haque. (2026). Contaminated Collaboration: Measuring Gender Bias Transfer in LLM-Assisted Student Writing. arXiv preprint. https://arxiv.org/abs/2606.15914"
+    resource: "https://doi.org/10.48550/arxiv.2606.15914"
+    title: "Ariyan Hossain, Kazi Kamruzzaman Rabbi, Farig Sadeque, S M Taiabul Haque. (2026). Contaminated Collaboration: Measuring Gender Bias Transfer in LLM-Assisted Student Writing. arXiv preprint. https://arxiv.org/abs/2606.15914 [doi:10.48550/arxiv.2606.15914](https://doi.org/10.48550/arxiv.2606.15914)"
     author: Ariyan Hossain, Kazi Kamruzzaman Rabbi, Farig Sadeque, S M Taiabul Haque
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Ariyan Hossain 2026
 
-Ariyan Hossain, Kazi Kamruzzaman Rabbi, Farig Sadeque, S M Taiabul Haque. (2026). Contaminated Collaboration: Measuring Gender Bias Transfer in LLM-Assisted Student Writing. arXiv preprint. https://arxiv.org/abs/2606.15914
+Ariyan Hossain, Kazi Kamruzzaman Rabbi, Farig Sadeque, S M Taiabul Haque. (2026). Contaminated Collaboration: Measuring Gender Bias Transfer in LLM-Assisted Student Writing. arXiv preprint. https://arxiv.org/abs/2606.15914 [doi:10.48550/arxiv.2606.15914](https://doi.org/10.48550/arxiv.2606.15914)
 
 `q2 · i?` · `causal · r2`
 

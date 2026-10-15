@@ -18,7 +18,7 @@ sources:
 # LAVAC
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 LAVAC (Laboratoire Audio-Visuel Actif-Comparatif) is a networked multimedia language-laboratory system developed for language instruction, providing linked student terminals, courseware-authoring tools, multimedia courseware, and teacher tutoring controls.
@@ -29,7 +29,6 @@ LAVAC (Laboratoire Audio-Visuel Actif-Comparatif) is a networked multimedia lang
 - **Virtual Recorder and Video Sequencer automatic segmenting devices**: Derived from LAVAC, the Virtual Recorder (1998) is an audio sequencer with a new student interface that spares teachers linking text or images to sound segments; the Video Sequencer (March 1999) extends this to video. "The video sequencer can complete real-time automatic segmenting of sound and images and automatically insert an answering time span after each sequence." Segmenting detects blanks or volume drops in the sound signal, with tunable thresholds (language-sound level 5-15 on a 1-127 scale, blank duration 0.2 to 8 seconds, answering span 10 to 999% of segment length). Coupled to IBM ViaVoice, the teacher's spoken transcript is written with 90% accuracy for deriving textual help. (Toma (2000))
 
 ### Claims
-- [Visible sound-wave displays led students to speak louder and notice sounds they would otherwise have missed](../claims/sound-wave-display-prompts-louder-speech-and-sound-noticing.md) [+W]
 - [Students are more attentive to the teacher's model track when they hear their own recording first](../claims/student-recording-first-increases-attention-to-model.md) [+W]
 - [Students pause the video after a few sequences to consult a segment menu and judge workload by segment count](../claims/students-pause-video-to-view-segment-menu.md) [+W]
 
@@ -65,7 +64,6 @@ LAVAC (Laboratoire Audio-Visuel Actif-Comparatif) is a networked multimedia lang
 
 ## Claims
 
-- [Visible sound-wave displays led students to speak louder and notice sounds they would otherwise have missed](../claims/sound-wave-display-prompts-louder-speech-and-sound-noticing.md) [+W]
 - [Students are more attentive to the teacher's model track when they hear their own recording first](../claims/student-recording-first-increases-attention-to-model.md) [+W]
 - [Students pause the video after a few sequences to consult a segment menu and judge workload by segment count](../claims/students-pause-video-to-view-segment-menu.md) [+W]
 
@@ -107,7 +105,6 @@ Derived from LAVAC, the Virtual Recorder (1998) is an audio sequencer with a new
 ## Claims
 
 - [Students pause the video after a few sequences to consult a segment menu and judge workload by segment count](../claims/students-pause-video-to-view-segment-menu.md) [+W]
-- [Visible sound-wave displays led students to speak louder and notice sounds they would otherwise have missed](../claims/sound-wave-display-prompts-louder-speech-and-sound-noticing.md) [+W]
 - [Students are more attentive to the teacher's model track when they hear their own recording first](../claims/student-recording-first-increases-attention-to-model.md) [+W]
 
 ## Related Elements

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: carver-thomas-2018
-    resource: "https://learningpolicyinstitute.org/product/diversifying-teaching-profession"
-    title: "Carver-Thomas, D. (2018). Diversifying the teaching profession: How to recruit and retain teachers of color. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/diversifying-teaching-profession"
+    resource: "https://doi.org/10.54300/559.310"
+    title: "Carver-Thomas, D. (2018). Diversifying the teaching profession: How to recruit and retain teachers of color. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/diversifying-teaching-profession [doi:10.54300/559.310](https://doi.org/10.54300/559.310)"
     author: Carver-Thomas, D.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Carver-Thomas 2018
 
-Carver-Thomas, D. (2018). Diversifying the teaching profession: How to recruit and retain teachers of color. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/diversifying-teaching-profession
+Carver-Thomas, D. (2018). Diversifying the teaching profession: How to recruit and retain teachers of color. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/diversifying-teaching-profession [doi:10.54300/559.310](https://doi.org/10.54300/559.310)
 
 `q2 · i?` · `review · r2`
 
@@ -47,5 +47,5 @@ The review reports that even after exam modifications, fail-rate disparities per
 - [Preservice candidates pass teaching performance assessments at higher rates than intern candidates](preservice-candidates-outpass-interns-on-tpas.md) — related
 - [Sufficient clinical feedback predicts TPA passing for preservice candidates but not for internship candidates](clinical-feedback-predicts-tpa-passing-preservice-only.md) — related
 - [African American teacher candidates are less likely to receive job offers than white candidates despite similar or better qualifications.](discriminatory-teacher-hiring.md) — related
-- [New York City teachers fail state certification examinations at far higher rates than teachers elsewhere in New York State](nyc-teachers-fail-licensure-exams-higher-rates.md) — related
-- [Michigan repealed its basic skills test requirement after finding it disproportionately excluded people of color from preparation programs](michigan-repealed-basic-skills-test-gatekeeper.md) — a narrower finding that bears on this claim
+- New York City teachers fail state certification examinations at far higher rates than teachers elsewhere in New York State — related
+- Michigan repealed its basic skills test requirement after finding it disproportionately excluded people of color from preparation programs — a narrower finding that bears on this claim

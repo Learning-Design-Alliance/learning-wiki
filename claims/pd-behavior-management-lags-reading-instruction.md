@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: epstein-2008
-    resource: "https://ies.ed.gov/ncee/wwc/PracticeGuide/4"
-    title: "Epstein, M., Atkins, M., Cullinan, D., Kutash, K., and Weaver, R. (2008). Reducing Behavior Problems in the Elementary School Classroom: A Practice Guide (NCEE #2008-012). Washington, DC: National Center for Education Evaluation and Regional Assistance, Institute of Education Sciences, U.S. Department of Education. https://ies.ed.gov/ncee/wwc/PracticeGuide/4"
+    resource: "https://doi.org/10.1037/e602222011-001"
+    title: "Epstein, M., Atkins, M., Cullinan, D., Kutash, K., and Weaver, R. (2008). Reducing Behavior Problems in the Elementary School Classroom: A Practice Guide (NCEE #2008-012). Washington, DC: National Center for Education Evaluation and Regional Assistance, Institute of Education Sciences, U.S. Department of Education. https://ies.ed.gov/ncee/wwc/PracticeGuide/4 [doi:10.1037/e602222011-001](https://doi.org/10.1037/e602222011-001)"
     author: Epstein, M., Atkins, M., Cullinan, D., Kutash, K., and Weaver, R.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Epstein 2008
 
-Epstein, M., Atkins, M., Cullinan, D., Kutash, K., and Weaver, R. (2008). Reducing Behavior Problems in the Elementary School Classroom: A Practice Guide (NCEE #2008-012). Washington, DC: National Center for Education Evaluation and Regional Assistance, Institute of Education Sciences, U.S. Department of Education. https://ies.ed.gov/ncee/wwc/PracticeGuide/4
+Epstein, M., Atkins, M., Cullinan, D., Kutash, K., and Weaver, R. (2008). Reducing Behavior Problems in the Elementary School Classroom: A Practice Guide (NCEE #2008-012). Washington, DC: National Center for Education Evaluation and Regional Assistance, Institute of Education Sciences, U.S. Department of Education. https://ies.ed.gov/ncee/wwc/PracticeGuide/4 [doi:10.1037/e602222011-001](https://doi.org/10.1037/e602222011-001)
 
 `q2 · i?` · `review · r2`
 
@@ -43,5 +43,5 @@ Descriptive percentages from the Special Education Elementary Longitudinal Study
 
 
 ## Related Claims
-- [In a National Staff Development Council survey, over 90 percent of teachers reported recent PD but only 59 percent found content-related PD useful](nsdc-pd-usefulness-survey.md) — related
+- In a National Staff Development Council survey, over 90 percent of teachers reported recent PD but only 59 percent found content-related PD useful — related
 - [Teachers participate almost universally in formal professional development (averaging 30 required hours per year) but report much lower satisfaction with it than participation](formal-pd-high-participation-low-satisfaction.md) — related

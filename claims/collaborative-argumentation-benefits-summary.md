@@ -43,5 +43,5 @@ The primer attributes this benefits list to Chinn and Clark (2013), covering mot
 
 - [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Argumentation Improves Reasoning](argumentation-improves-reasoning.md) — related
-- [Collaboration scripts improve collaborative skills and domain learning, but highly prescriptive scripts can undermine learner motivation and agency](scripts-improve-skills-prescriptive-scripts-harm-motivation.md) — related
+- Collaboration scripts improve collaborative skills and domain learning, but highly prescriptive scripts can undermine learner motivation and agency — related
 - [Research on PBL covers flexible knowledge, problem-solving, and SDL skills but little on collaboration and motivation](pbl-evidence-uneven-across-goals.md) — related

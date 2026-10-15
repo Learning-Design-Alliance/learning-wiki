@@ -65,4 +65,4 @@ The review reports these positive signals alongside settings where incorrect key
 - [Students' main AI challenges are content reliability and depth, and most expect AI to serve as tutor, creative partner, and critical thinking partner rather than mere content generator](student-critical-ai-role-expectations.md) — related
 - [Educators use AI tools mainly for personalized learning and language support and frequently use generative AI for lesson planning](educators-ai-use-personalization-lesson-planning.md) — related
 - [75% of student-authored physics questions met combined high-quality criteria (clear, correct, plausible distractors, above recall, adequate explanation)](peerwise-student-questions-75-percent-high-quality.md) — related
-- [Benchmark items showed high mean difficulty and low item discrimination, with many trivial items and only one broken item](ngss-benchmark-items-high-difficulty-low-discrimination.md) — related
+- Benchmark items showed high mean difficulty and low item discrimination, with many trivial items and only one broken item — related

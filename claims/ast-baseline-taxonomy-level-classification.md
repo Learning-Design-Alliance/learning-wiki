@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: alonso-carracedo-2026
-    resource: "https://arxiv.org/abs/2607.00140"
-    title: "Alonso-Carracedo, M., Fernandez-Boullon, R., Celard, P., Rodríguez-Martínez, F. J., & Otero-Cerdeira, L. (2026). CogTax: A Four-Level Cognitive Taxonomy for Command-Line Computing Education. arXiv. https://arxiv.org/abs/2607.00140"
+    resource: "https://doi.org/10.48550/arxiv.2607.00140"
+    title: "Alonso-Carracedo, M., Fernandez-Boullon, R., Celard, P., Rodríguez-Martínez, F. J., & Otero-Cerdeira, L. (2026). CogTax: A Four-Level Cognitive Taxonomy for Command-Line Computing Education. arXiv. https://arxiv.org/abs/2607.00140 [doi:10.48550/arxiv.2607.00140](https://doi.org/10.48550/arxiv.2607.00140)"
     author: "Alonso-Carracedo, M., Fernandez-Boullon, R., Celard, P., Rodríguez-Martínez, F. J., & Otero-Cerdeira, L."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Alonso-Carracedo 2026
 
-Alonso-Carracedo, M., Fernandez-Boullon, R., Celard, P., Rodríguez-Martínez, F. J., & Otero-Cerdeira, L. (2026). CogTax: A Four-Level Cognitive Taxonomy for Command-Line Computing Education. arXiv. https://arxiv.org/abs/2607.00140
+Alonso-Carracedo, M., Fernandez-Boullon, R., Celard, P., Rodríguez-Martínez, F. J., & Otero-Cerdeira, L. (2026). CogTax: A Four-Level Cognitive Taxonomy for Command-Line Computing Education. arXiv. https://arxiv.org/abs/2607.00140 [doi:10.48550/arxiv.2607.00140](https://doi.org/10.48550/arxiv.2607.00140)
 
 `q2 · i?` · `design · r2`
 
@@ -46,4 +46,4 @@ Cross-validation evaluation of a LinearSVC on AST features over the complete 585
 - [A combined AST-plus-embedding classifier achieves 89% accuracy assigning CogTax levels to 585 expert-annotated Linux/bash commands, outperforming either representation alone](combined-ast-embedding-classifier-89-accuracy.md) — related
 - [All three trained classifiers outperformed the zero-rule baseline (28.4% accuracy) for classifying cognitive engagement in discussion posts](classifiers-beat-zero-rule-baseline-engagement.md) — related
 - [Taxonomy level is defined as the maximum of cognitive complexity and operational impact, ensuring monotone coverage of both dimensions](cogtax-max-rule-monotone-coverage.md) — related
-- [The classifier's dominant error was labelling Low Stress students as Moderate Stress, a bias the authors judge safe because over-assignment yields extra support while the dangerous high-as-low error was uncommon](confusion-matrix-low-to-moderate-misclassification-safe-direction.md) — related
+- The classifier's dominant error was labelling Low Stress students as Moderate Stress, a bias the authors judge safe because over-assignment yields extra support while the dangerous high-as-low error was uncommon — related

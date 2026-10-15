@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: alonso-carracedo-2026
-    resource: "https://arxiv.org/abs/2607.02432"
-    title: "Alonso-Carracedo, M., Fernandez-Boullon, R., Celard, P., Rodríguez-Martínez, F. J., Otero-Cerdeira, L. (2026). Automated grading of Linux/bash examinations using large language models: a four-level cognitive taxonomy approach. https://arxiv.org/abs/2607.02432"
+    resource: "https://doi.org/10.48550/arxiv.2607.02432"
+    title: "Alonso-Carracedo, M., Fernandez-Boullon, R., Celard, P., Rodríguez-Martínez, F. J., Otero-Cerdeira, L. (2026). Automated grading of Linux/bash examinations using large language models: a four-level cognitive taxonomy approach. https://arxiv.org/abs/2607.02432 [doi:10.48550/arxiv.2607.02432](https://doi.org/10.48550/arxiv.2607.02432)"
     author: Alonso-Carracedo, M., Fernandez-Boullon, R., Celard, P., Rodríguez-Martínez, F. J., Otero-Cerdeira, L.
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Rubric-enhanced prompting (Variant 2) raises LLM assigned scores relative to the no-rubric baseline, with model-specific gaps at particular taxonomy levels
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Evidence** · 2 studies · 2 causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` GPT shows a positive V2 gap at every taxonomy level, largest at L3 (approximately 7.5 percentage points). [→ Alonso-Carracedo 2026](#alonso-carracedo-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Alonso-Carracedo 2026
 
-Alonso-Carracedo, M., Fernandez-Boullon, R., Celard, P., Rodríguez-Martínez, F. J., Otero-Cerdeira, L. (2026). Automated grading of Linux/bash examinations using large language models: a four-level cognitive taxonomy approach. https://arxiv.org/abs/2607.02432
+Alonso-Carracedo, M., Fernandez-Boullon, R., Celard, P., Rodríguez-Martínez, F. J., Otero-Cerdeira, L. (2026). Automated grading of Linux/bash examinations using large language models: a four-level cognitive taxonomy approach. https://arxiv.org/abs/2607.02432 [doi:10.48550/arxiv.2607.02432](https://doi.org/10.48550/arxiv.2607.02432)
 
 `q2 · i?` · `causal · r2`
 
@@ -65,5 +65,5 @@ Per-level comparison of Gemini 3.0 Pro's assigned grades under the two prompt va
 - [All four evaluated LLMs produce strongly bimodal item-level score distributions on bash exams, and rubric-enhanced prompts amplify the near-perfect-score peak](llm-bash-score-distributions-bimodal-v2-amplifies.md) — related
 - [All four LLMs award a smaller share of available marks as bash question cognitive complexity increases, with L4 questions receiving the lowest proportions](llm-scores-decline-with-cogtax-level.md) — related
 - [Despite generally accurate feedback, the LLM's scoring explanations could be unpredictable and prone to logical inconsistency, failing to award points even when citing the correct rubric directive](llm-logical-inconsistency-scoring-feedback.md) — related
-- [Model performance is robust to minor prompt wording changes but sensitive to holistic rubric redesign](rubric-structure-part-of-assessment-construct.md) — related
+- Model performance is robust to minor prompt wording changes but sensitive to holistic rubric redesign — related
 - [gpt-4o graded student submissions most correctly in almost all assignments, but gemini-1.0-pro graded the boolean-algebra assignment most correctly](grader-llm-correctness-comparison-socrates.md) — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: yanjie-zhang-2026
-    resource: "https://arxiv.org/abs/2606.17633"
-    title: "Yanjie Zhang, Jiajun Zhu, Minyu Wu, Huamin Qu, and Sicheng Song. (2026). AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction. https://arxiv.org/abs/2606.17633"
+    resource: "https://doi.org/10.48550/arxiv.2606.17633"
+    title: "Yanjie Zhang, Jiajun Zhu, Minyu Wu, Huamin Qu, and Sicheng Song. (2026). AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction. https://arxiv.org/abs/2606.17633 [doi:10.48550/arxiv.2606.17633](https://doi.org/10.48550/arxiv.2606.17633)"
     author: Yanjie Zhang, Jiajun Zhu, Minyu Wu, Huamin Qu, and Sicheng Song
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Yanjie Zhang 2026
 
-Yanjie Zhang, Jiajun Zhu, Minyu Wu, Huamin Qu, and Sicheng Song. (2026). AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction. https://arxiv.org/abs/2606.17633
+Yanjie Zhang, Jiajun Zhu, Minyu Wu, Huamin Qu, and Sicheng Song. (2026). AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction. https://arxiv.org/abs/2606.17633 [doi:10.48550/arxiv.2606.17633](https://doi.org/10.48550/arxiv.2606.17633)
 
 `q2 · i?` · `qualitative · r2`
 
@@ -45,5 +45,5 @@ Semi-structured interviews in the formative study's cross-school migration theme
 
 - [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [A formative study with six teachers and two experts identified five core challenges in lesson plan adaptation, including lack of systematic student profile data and fragmented refinement workflows](five-challenges-lesson-plan-adaptation.md) — related
-- [Kolb's inventory successfully differentiated group learning styles by students' subject majors](kolb-inventory-group-styles-by-subject-major.md) — related
+- Kolb's inventory successfully differentiated group learning styles by students' subject majors — related
 - [Pre-service teachers struggle with instructional design and lesson planning despite existing standards and coursework](pre-service-teachers-struggle-lesson-design.md) — related

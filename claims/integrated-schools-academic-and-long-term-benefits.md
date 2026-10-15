@@ -62,8 +62,8 @@ The report attributes to economist Rucker Johnson a large-scale study of court-o
 
 
 ## Related Claims
-- [Teacher-student racial and cultural match is associated with benefits for students of color and all P-12 students](educator-diversity-benefits-students-of-color.md) — related
+- Teacher-student racial and cultural match is associated with benefits for students of color and all P-12 students — related
 - [Racially integrated learning environments have positive impacts on academic achievement for students of all races, per the research the report synthesizes](integrated-schools-academic-benefits-all-races.md) — possibly the same claim (merge candidate)
 - [Interdistrict desegregation choice plans decrease segregation, help close racial achievement gaps, and improve racial attitudes and long-term outcomes](interdistrict-desegregation-choice-benefits.md) — a narrower finding that bears on this claim
-- [The authors infer the DC voucher program is likely reducing racial segregation in schooling, since 94% of voucher users are African American](dc-voucher-program-likely-reducing-segregation.md) — related
+- The authors infer the DC voucher program is likely reducing racial segregation in schooling, since 94% of voucher users are African American — related
 - [Whole school magnets and magnets without selective admissions policies have generally been found more effective at integration that supports achievement gains](whole-school-magnets-more-effective-integration.md) — related

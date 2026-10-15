@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: alexander-scarlatos-2024
-    resource: "https://arxiv.org/abs/2409.16490"
-    title: "Alexander Scarlatos, Ryan S. Baker, and Andrew Lan. (2024). Exploring Knowledge Tracing in Tutor-Student Dialogues using LLMs. Published in LAK25: The 15th International Learning Analytics and Knowledge Conference. https://arxiv.org/abs/2409.16490"
+    resource: "https://doi.org/10.48550/arxiv.2409.16490"
+    title: "Alexander Scarlatos, Ryan S. Baker, and Andrew Lan. (2024). Exploring Knowledge Tracing in Tutor-Student Dialogues using LLMs. Published in LAK25: The 15th International Learning Analytics and Knowledge Conference. https://arxiv.org/abs/2409.16490 [doi:10.48550/arxiv.2409.16490](https://doi.org/10.48550/arxiv.2409.16490)"
     author: Alexander Scarlatos, Ryan S. Baker, and Andrew Lan
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Expert former math teachers rated GPT-4o's dialogue annotations very highly for student correctness and moderate-to-high for knowledge components, with volatile inter-rater reliability.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Three former math teachers rating 166 turn pairs from 30 CoMTA dialogues gave GPT-4o very high scores for correctness and moderate-to-high scores for KCs. [→ Alexander Scarlatos 2024](#alexander-scarlatos-2024)
@@ -40,7 +40,7 @@ sources:
 
 ### Alexander Scarlatos 2024
 
-Alexander Scarlatos, Ryan S. Baker, and Andrew Lan. (2024). Exploring Knowledge Tracing in Tutor-Student Dialogues using LLMs. Published in LAK25: The 15th International Learning Analytics and Knowledge Conference. https://arxiv.org/abs/2409.16490
+Alexander Scarlatos, Ryan S. Baker, and Andrew Lan. (2024). Exploring Knowledge Tracing in Tutor-Student Dialogues using LLMs. Published in LAK25: The 15th International Learning Analytics and Knowledge Conference. https://arxiv.org/abs/2409.16490 [doi:10.48550/arxiv.2409.16490](https://doi.org/10.48550/arxiv.2409.16490)
 
 `q2 · i?` · `design · r2`
 

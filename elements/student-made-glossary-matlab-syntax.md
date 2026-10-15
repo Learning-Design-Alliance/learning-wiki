@@ -17,7 +17,7 @@ sources:
 # Student-made glossary assignment for MATLAB syntax
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 A homework intervention in which students complete a five-column glossary form: "syntax, overview of the syntax, student developed test case(s) based on instructor guidelines, hand computations to predict results of test cases, and MATLAB results". Column complexity follows a hierarchical analysis of intellectual skills (discrimination, concepts, rules), letting students build a schema and gain a sense of accomplishment on smaller parts of the learning task before solving application problems.
@@ -38,10 +38,6 @@ A homework intervention in which students complete a five-column glossary form: 
 
 ## Claims
 
-- [Implementing a student-made glossary significantly lowered first-year engineering students' satisfaction with the M-Tutor tutorial](../claims/glossary-intervention-lowered-satisfaction-m-tutor.md) [-W]
-- [Students' reactions to the glossary were significantly and positively related to their post-satisfaction level](../claims/glossary-reaction-regression-post-satisfaction.md) [+W]
-- [Pre-intervention, students gave the least positive response to the Satisfaction component of the ARCS model](../claims/pre-survey-satisfaction-lowest-arcs-component.md) [+W]
-- [The authors caution that the glossary likely was not the cause of the observed motivational loss due to confounds and a long temporal gap](../claims/temporal-gap-confounds-motivational-loss-caution.md) [~W]
 
 ## Related Elements
 - 

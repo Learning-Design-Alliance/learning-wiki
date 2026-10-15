@@ -49,6 +49,6 @@ Narrative synthesis in the "Environments Filled With Safety and Belonging" scien
 - [Adverse childhood experiences create toxic stress that impairs attention, learning, and behavior, and school responses can magnify or buffer the harm](aces-toxic-stress-impair-learning.md) — related
 - [Children learn more effectively when they feel secure and have positive feelings about the people and content they encounter](security-and-positive-feelings-support-learning.md) — related
 - [Prolonged or overwhelming stress disrupts self-regulation development by physically changing brain wiring toward emotional reactivity](toxic-stress-disrupts-self-regulation-development.md) — a broader claim this one bears on
-- [Physically or emotionally unsafe environments activate the adolescent stress-response system, which can impede cognition](unsafe-environments-trigger-stress-response-impeding-cognition.md) — a broader claim this one bears on
-- [Regulate-relate-reason sequence: students reason once regulated and feeling supported](regulate-relate-reason-sequence.md) — related
+- Physically or emotionally unsafe environments activate the adolescent stress-response system, which can impede cognition — a broader claim this one bears on
+- Regulate-relate-reason sequence: students reason once regulated and feeling supported — related
 - [Anxiety in foreign language classroom learning experiences is linked with oral performance among Japanese EFL learners](flca-linked-with-oral-performance-japanese-efl.md) — related

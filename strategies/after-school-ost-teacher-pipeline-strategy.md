@@ -17,7 +17,7 @@ sources:
 # Build an after-school/out-of-school-time pipeline into teaching to diversify the teacher workforce
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The brief proposes recruiting and preparing staff with experience in after-school or out-of-school time (OST) programs to enter teaching, calling this an "underutilized strategy" and a "potentially high-leverage pipeline of teachers of color." It details three moves: allocate resources for recruitment relationships between nontraditional preparation programs and OST providers; increase scholarships, loan forgiveness, and tuition reimbursements for candidates with OST experience, focused on candidates of color and GYO participants; and adopt statewide guidelines and supports for nontraditional pathways including licensure test preparation and at least one year of mentor-teacher support and coaching before participants become teachers of record.
@@ -44,7 +44,6 @@ The brief proposes recruiting and preparing staff with experience in after-schoo
 
 ## Claims
 
-- [Participants noted lack of representation of people of color among teachers and called for workforce diversification](../claims/teacher-diversity-representation-matters.md) [+W]
 
 ## Related Strategies
 

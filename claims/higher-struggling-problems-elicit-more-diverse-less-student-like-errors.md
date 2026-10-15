@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: ali-keramati-2026
-    resource: "https://arxiv.org/abs/2606.14113"
-    title: "Ali Keramati, Jie Cao, Iman Mohammadi, Mark Warschauer, Yang Shi. (2026). Simulating Students' Java Programming Errors with Large Language Models. arXiv preprint. https://arxiv.org/abs/2606.14113"
+    resource: "https://doi.org/10.48550/arxiv.2606.14113"
+    title: "Ali Keramati, Jie Cao, Iman Mohammadi, Mark Warschauer, Yang Shi. (2026). Simulating Students' Java Programming Errors with Large Language Models. arXiv preprint. https://arxiv.org/abs/2606.14113 [doi:10.48550/arxiv.2606.14113](https://doi.org/10.48550/arxiv.2606.14113)"
     author: Ali Keramati, Jie Cao, Iman Mohammadi, Mark Warschauer, Yang Shi
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Higher-struggling-level problems elicit more diverse but less student-like LLM-generated errors
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Mean edit distances among LLM submissions increased substantially from low- to medium-struggling problems and remained high at high-struggling problems, indicating harder problems elicit more heterogeneous erroneous outputs. [→ Ali Keramati 2026](#ali-keramati-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Ali Keramati 2026
 
-Ali Keramati, Jie Cao, Iman Mohammadi, Mark Warschauer, Yang Shi. (2026). Simulating Students' Java Programming Errors with Large Language Models. arXiv preprint. https://arxiv.org/abs/2606.14113
+Ali Keramati, Jie Cao, Iman Mohammadi, Mark Warschauer, Yang Shi. (2026). Simulating Students' Java Programming Errors with Large Language Models. arXiv preprint. https://arxiv.org/abs/2606.14113 [doi:10.48550/arxiv.2606.14113](https://doi.org/10.48550/arxiv.2606.14113)
 
 `q2 · i?` · `design · r2`
 

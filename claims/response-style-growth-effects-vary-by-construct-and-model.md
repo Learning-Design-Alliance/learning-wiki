@@ -11,8 +11,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: james-soland-2020
-    resource: "https://www.nwea.org/research/publication/do-response-styles-affect-estimates-of-growth-on-social-emotional-constructs-evidence-from-four-years-of-longitudinal-survey-scores-journal/"
-    title: "James Soland, Megan Kuhfeld. (2020). Do response styles affect estimates of growth on social-emotional constructs? Evidence from four years of longitudinal survey scores. Multivariate Behavioral Research. https://www.nwea.org/research/publication/do-response-styles-affect-estimates-of-growth-on-social-emotional-constructs-evidence-from-four-years-of-longitudinal-survey-scores-journal/"
+    resource: "https://doi.org/10.1080/00273171.2020.1778440"
+    title: "James Soland, Megan Kuhfeld. (2020). Do response styles affect estimates of growth on social-emotional constructs? Evidence from four years of longitudinal survey scores. Multivariate Behavioral Research. https://www.nwea.org/research/publication/do-response-styles-affect-estimates-of-growth-on-social-emotional-constructs-evidence-from-four-years-of-longitudinal-survey-scores-journal/ [doi:10.1080/00273171.2020.1778440](https://doi.org/10.1080/00273171.2020.1778440)"
     author: James Soland, Megan Kuhfeld
     q: 2
     i: "?"
@@ -37,7 +37,7 @@ sources:
 
 ### James Soland 2020
 
-James Soland, Megan Kuhfeld. (2020). Do response styles affect estimates of growth on social-emotional constructs? Evidence from four years of longitudinal survey scores. Multivariate Behavioral Research. https://www.nwea.org/research/publication/do-response-styles-affect-estimates-of-growth-on-social-emotional-constructs-evidence-from-four-years-of-longitudinal-survey-scores-journal/
+James Soland, Megan Kuhfeld. (2020). Do response styles affect estimates of growth on social-emotional constructs? Evidence from four years of longitudinal survey scores. Multivariate Behavioral Research. https://www.nwea.org/research/publication/do-response-styles-affect-estimates-of-growth-on-social-emotional-constructs-evidence-from-four-years-of-longitudinal-survey-scores-journal/ [doi:10.1080/00273171.2020.1778440](https://doi.org/10.1080/00273171.2020.1778440)
 
 `q2 · i?` · `associational · r?`
 
@@ -78,4 +78,4 @@ Empirical and simulation analyses scored four years of longitudinal survey data 
 - [Multidimensional IRT scores that account for latent variable covariances over time produce better recovery of growth parameters in longitudinal growth models than sum scores and other IRT approaches](multidimensional-irt-covariance-scores-better-growth-recovery.md) — related
 - [Differing response styles create a construct-irrelevant source of bias that distorts inferences from survey data](response-styles-construct-irrelevant-bias.md) — related
 - [Little of the existing IRT scaling and linking expertise from large-scale educational assessment is applied to scaling psychological and social-emotional survey constructs](scaling-expertise-gap-sel-constructs.md) — related
-- [In a four-timepoint quadratic-growth simulation, the MIRT model marginally outperforms sum score and cross-sectional models for slope and quadratic means and much better recovers intercept and slope variances](mirt-better-quadratic-growth-recovery-four-timepoints.md) — related
+- In a four-timepoint quadratic-growth simulation, the MIRT model marginally outperforms sum score and cross-sectional models for slope and quadratic means and much better recovers intercept and slope variances — related

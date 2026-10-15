@@ -42,5 +42,5 @@ Background finding cited in the contract-development section (attributed to Moln
 
 ## Related Claims
 - [Developing outcomes-based contracts enabled districts to engage in collaborative, data-driven decision-making processes to select populations, outcomes, and pricing.](obc-contract-development-collaborative-data-driven-decisions.md) — related
-- [Discovery of ed-tech products is a serious challenge for both districts and providers](discovery-serious-challenge-districts-providers.md) — related
+- Discovery of ed-tech products is a serious challenge for both districts and providers — related
 - [The OBC model enabled districts to better establish instructional coherence, support increased student engagement, and assess associated outcomes.](obc-instructional-coherence-engagement-outcomes.md) — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: rachatasumrit-2023
-    resource: "https://osf.io/29wpe"
-    title: "Rachatasumrit, N., Koedinger, K. R., & Carvalho, P. F. (2023). Evidence and theory for why the best example-problem ratio to optimize learning gain depends on knowledge content. https://osf.io/29wpe"
+    resource: "https://doi.org/10.31234/osf.io/eyxfw"
+    title: "Rachatasumrit, N., Koedinger, K. R., & Carvalho, P. F. (2023). Evidence and theory for why the best example-problem ratio to optimize learning gain depends on knowledge content. https://osf.io/29wpe [doi:10.31234/osf.io/eyxfw](https://doi.org/10.31234/osf.io/eyxfw)"
     author: "Rachatasumrit, N., Koedinger, K. R., & Carvalho, P. F."
     q: 2
     i: 2
@@ -31,7 +31,7 @@ sources:
 
 ### Rachatasumrit 2023
 
-Rachatasumrit, N., Koedinger, K. R., & Carvalho, P. F. (2023). Evidence and theory for why the best example-problem ratio to optimize learning gain depends on knowledge content. https://osf.io/29wpe
+Rachatasumrit, N., Koedinger, K. R., & Carvalho, P. F. (2023). Evidence and theory for why the best example-problem ratio to optimize learning gain depends on knowledge content. https://osf.io/29wpe [doi:10.31234/osf.io/eyxfw](https://doi.org/10.31234/osf.io/eyxfw)
 
 `q2 · i2` · `theoretical · r3`
 

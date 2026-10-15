@@ -42,4 +42,4 @@ Theoretical argument in the framework-rationale section. The authors further sta
 
 ## Related Claims
 - [Grounded theory analysis of professor interviews identifies five functional domains of graduate students' generative AI literacy](five-functional-domains-genai-literacy-graduate.md) — related
-- [Causal model analysis of taxonomy test data suggests a Y-shaped structure rather than Bloom's cumulative hierarchy](y-shaped-structure-challenges-bloom-cumulative-hierarchy.md) — related
+- Causal model analysis of taxonomy test data suggests a Y-shaped structure rather than Bloom's cumulative hierarchy — related

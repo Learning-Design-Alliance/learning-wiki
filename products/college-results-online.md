@@ -13,7 +13,7 @@ generated:
 # College Results Online
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 An Education Trust interactive web tool for examining and comparing four-year college graduation rates, including trends and outcomes for diverse student groups.
@@ -24,7 +24,6 @@ An Education Trust interactive web tool for examining and comparing four-year co
 - **College Results Online web tool comparing four-year colleges' graduation rates within peer groups**: College Results Online (CRO, www.collegeresults.org) is an Education Trust web tool that "compares each four-year college's graduation rate, disaggregated among demographic groups, relative to its peer institutions." Each peer group is determined by an algorithm of 14 variables, including measures of selectivity, student demographics, and institution size and sector, shown in research to correlate with graduation rates. The report proposes CRO peer groups as a benchmarking mechanism for states setting institutional eligibility standards for state grant funds, with both a performance floor and an upper limit above which colleges automatically qualify. (Michael Dannenberg et al. (2013))
 
 ### Claims
-- [Colleges serving very similar students show large graduation-rate differences, e.g., UC Riverside's rate is 15 percentage points higher than University of Illinois at Chicago's and 27 points higher for underrepresented students of color](../claims/institution-graduation-rates-vary-beyond-student-mix.md) [+M]
 
 ## Related Products and Programmes
 -

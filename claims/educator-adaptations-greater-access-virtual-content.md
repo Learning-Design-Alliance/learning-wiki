@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Educator adaptations such as live versus video demonstrations, home scavenger hunts for materials, and sibling support gave students greater access to virtual content. [→ Li 2022](#li-2022)
@@ -45,8 +46,8 @@ Study 2 educator interviews and telemetry data: educators tried different strate
 ## Related Claims
 - [Animated videos were the easiest and most engaging Hero Elementary component to implement virtually, providing an accessible shared entry point for students with IEPs and English learners](animated-videos-easiest-engaging-virtual-component.md) — related
 - [Teachers reported the program was easy to implement and children enjoyed the activities, with modifications made for time, space, darkness, and plant-growth constraints](nico-nor-teacher-implementation-experience.md) — related
-- [Parents used the digital Family Guide flexibly, modifying activities to fit their routines or creating new activities based on family interests](parents-adapted-family-guide-activities.md) — related
-- [Virtual implementation of Hero Elementary varied widely across classrooms, with teachers mixing synchronous and asynchronous instructional strategies](wide-variation-virtual-science-implementation-sync-async.md) — related
+- Parents used the digital Family Guide flexibly, modifying activities to fit their routines or creating new activities based on family interests — related
+- Virtual implementation of Hero Elementary varied widely across classrooms, with teachers mixing synchronous and asynchronous instructional strategies — related
 - [Educators rarely facilitated connections between playlist activities or to students' lives; introductions and debriefings focused on logistics rather than science content](educators-rarely-facilitated-connections-between-playlists.md) — related
 - [Teachers found Hero Elementary playlist hands-on activities easy to implement because materials were supplied and prepped.](hero-elementary-hands-on-activities-easy-implementation-prepped-materials.md) — related
-- [In informal virtual programs, technology access was the first and most significant barrier to participating in Hero Elementary](technology-access-most-significant-barrier-informal-virtual.md) — reports the opposite
+- In informal virtual programs, technology access was the first and most significant barrier to participating in Hero Elementary — reports the opposite

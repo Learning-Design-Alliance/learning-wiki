@@ -46,7 +46,7 @@ Qualitative case study finding on family engagement across the three study schoo
 - [Belonging](../learner-variables/belonging.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Female principals empowered others through shared ownership, committee involvement, and staff development](female-principals-empower-others-shared-ownership.md) — related
+- Female principals empowered others through shared ownership, committee involvement, and staff development — related
 - [PKTP family learning activities created opportunities for informal teacher-family relationships and a greater sense of community](pktp-family-activities-built-informal-relationships.md) — related
 - [Strong local community connections and commitment can provide one of the biggest boosts to rural school turnaround efforts](rural-community-commitment-boosts-turnaround.md) — related
 - [Professional development from CHSRI and CPS is valued by some small-school staff but viewed by others as irrelevant, hard to schedule, and poorly connected to school needs](chsri-professional-development-mixed-reception.md) — related

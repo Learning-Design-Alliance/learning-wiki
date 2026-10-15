@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: jifan-yu-2024
-    resource: "https://arxiv.org/abs/2409.03512"
-    title: "Jifan Yu, Zheyuan Zhang, Daniel Zhang-li, Shangqing Tu, Zhanxin Hao, Ruimiao Li, Haoxuan Li, Yuanchun Wang, Hanming Li, Linlu Gong, Jie Cao, Jiayin Lin, Jinchang Zhou, Fei Qin, Haohua Wang, Jianxiao Jiang, Lijun Deng, Yisi Zhan, Chaojun Xiao, Xusheng Dai, Xuan Yan, Nianyi Lin, Nan Zhang, Ruixin Ni, Yang Dang, Lei Hou, Yu Zhang, Xu Han, Manli Li, Juanzi Li, Zhiyuan Liu, Huiqin Liu, Maosong Sun. (2024). From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents. Preprint. Under review. https://arxiv.org/abs/2409.03512"
+    resource: "https://doi.org/10.48550/arxiv.2409.03512"
+    title: "Jifan Yu, Zheyuan Zhang, Daniel Zhang-li, Shangqing Tu, Zhanxin Hao, Ruimiao Li, Haoxuan Li, Yuanchun Wang, Hanming Li, Linlu Gong, Jie Cao, Jiayin Lin, Jinchang Zhou, Fei Qin, Haohua Wang, Jianxiao Jiang, Lijun Deng, Yisi Zhan, Chaojun Xiao, Xusheng Dai, Xuan Yan, Nianyi Lin, Nan Zhang, Ruixin Ni, Yang Dang, Lei Hou, Yu Zhang, Xu Han, Manli Li, Juanzi Li, Zhiyuan Liu, Huiqin Liu, Maosong Sun. (2024). From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents. Preprint. Under review. https://arxiv.org/abs/2409.03512 [doi:10.48550/arxiv.2409.03512](https://doi.org/10.48550/arxiv.2409.03512)"
     author: Jifan Yu, Zheyuan Zhang, Daniel Zhang-li, Shangqing Tu, Zhanxin Hao, Ruimiao Li, Haoxuan Li, Yuanchun Wang, Hanming Li, Linlu Gong, Jie Cao, Jiayin Lin, Jinchang Zhou, Fei Qin, Haohua Wang, Jianxiao Jiang, Lijun Deng, Yisi Zhan, Chaojun Xiao, Xusheng Dai, Xuan Yan, Nianyi Lin, Nan Zhang, Ruixin Ni, Yang Dang, Lei Hou, Yu Zhang, Xu Han, Manli Li, Juanzi Li, Zhiyuan Liu, Huiqin Liu, Maosong Sun
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Jifan Yu 2024
 
-Jifan Yu, Zheyuan Zhang, Daniel Zhang-li, Shangqing Tu, Zhanxin Hao, Ruimiao Li, Haoxuan Li, Yuanchun Wang, Hanming Li, Linlu Gong, Jie Cao, Jiayin Lin, Jinchang Zhou, Fei Qin, Haohua Wang, Jianxiao Jiang, Lijun Deng, Yisi Zhan, Chaojun Xiao, Xusheng Dai, Xuan Yan, Nianyi Lin, Nan Zhang, Ruixin Ni, Yang Dang, Lei Hou, Yu Zhang, Xu Han, Manli Li, Juanzi Li, Zhiyuan Liu, Huiqin Liu, Maosong Sun. (2024). From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents. Preprint. Under review. https://arxiv.org/abs/2409.03512
+Jifan Yu, Zheyuan Zhang, Daniel Zhang-li, Shangqing Tu, Zhanxin Hao, Ruimiao Li, Haoxuan Li, Yuanchun Wang, Hanming Li, Linlu Gong, Jie Cao, Jiayin Lin, Jinchang Zhou, Fei Qin, Haohua Wang, Jianxiao Jiang, Lijun Deng, Yisi Zhan, Chaojun Xiao, Xusheng Dai, Xuan Yan, Nianyi Lin, Nan Zhang, Ruixin Ni, Yang Dang, Lei Hou, Yu Zhang, Xu Han, Manli Li, Juanzi Li, Zhiyuan Liu, Huiqin Liu, Maosong Sun. (2024). From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents. Preprint. Under review. https://arxiv.org/abs/2409.03512 [doi:10.48550/arxiv.2409.03512](https://doi.org/10.48550/arxiv.2409.03512)
 
 `q2 · i?` · `associational · r2`
 
@@ -43,7 +43,7 @@ Correlational analysis of over 100,000 learning records from the MAIC pilot, reg
 
 
 ## Related Claims
-- [Early-semester LMS interaction data predicts AI-assisted cheating risk in the final exam, with Logistic Regression achieving AUC = 0.763 under LOOCV](lms-traces-predict-ai-assisted-cheating-risk.md) — related
-- [Course-module views, assignment submissions, and video-access days are the most stable predictors, all lower in the high-risk group (Cliff's delta values from 0.50 to 0.60)](stable-lms-features-lower-in-high-risk-group.md) — related
+- Early-semester LMS interaction data predicts AI-assisted cheating risk in the final exam, with Logistic Regression achieving AUC = 0.763 under LOOCV — related
+- Course-module views, assignment submissions, and video-access days are the most stable predictors, all lower in the high-risk group (Cliff's delta values from 0.50 to 0.60) — related
 - [Instruction type predicts post-test performance with a large effect size after controls (linear and quantile regression)](ai-tutor-regression-large-effect-size.md) — related
 - [Students in MAIC tend to prefer the passive continuous mode over interactive mode](students-prefer-continuous-mode.md) — related

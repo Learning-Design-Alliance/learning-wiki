@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Dewey treats moral knowledge as dependent on the process of moral inquiry, meaning character education should provide opportunities to deliberate about core ethical values and apply critical evaluation in specific situations. [→ Xiangdong Liu 2014](#xiangdong-liu-2014)
@@ -47,6 +48,6 @@ Philosophical argument in the section on Dewey's view of character education: th
 - [Dewey rejects Kohlberg's fixed stage hierarchy: moral inquiry happens only in problematic situations where no single action seems morally justified, and must be repeated as concrete situations arise](dewey-rejects-fixed-moral-stages.md) — related
 - [Dewey holds that virtues cannot be given fixed meanings because they express interests in changing objects and institutions, so virtues should be taught in relation to specific situations](dewey-virtues-not-fixed-meaning.md) — related
 - [A meta-analysis of 55 studies found Kohlberg's dilemma discussion approach had a moderate to significant effect on moral education, and Just Community Schools provided a moral culture](dilemma-discussion-meta-analysis-moderate-effect.md) — related
-- [The relational taxonomy is argued to support values and moral education because fostering ego strength addresses the gap between moral reasoning and moral behavior](relational-taxonomy-supports-moral-education.md) — related
+- The relational taxonomy is argued to support values and moral education because fostering ego strength addresses the gap between moral reasoning and moral behavior — related
 - [Dewey grounds morality in everyday problems, making administrative practice chiefly an ethical undertaking resolved by reflective appraisal of competing values](dewey-morality-in-everyday-problems.md) — related
 - [Ten developmental experiences are proposed as key mechanisms whereby settings influence character development](ten-developmental-experiences-build-character.md) — related

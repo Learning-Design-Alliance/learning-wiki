@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: steven-glazerman-2012
-    resource: "https://www.mathematica.org/publications/random-assignment-within-schools-lessons-learned-from-the-teach-for-america-experiment"
-    title: "Steven Glazerman. (2012). Random Assignment Within Schools: Lessons Learned from the Teach For America Experiment. Education Finance and Policy, vol. 7, no. 2. https://www.mathematica.org/publications/random-assignment-within-schools-lessons-learned-from-the-teach-for-america-experiment"
+    resource: "https://doi.org/10.1162/edfp_a_00059"
+    title: "Steven Glazerman. (2012). Random Assignment Within Schools: Lessons Learned from the Teach For America Experiment. Education Finance and Policy, vol. 7, no. 2. https://www.mathematica.org/publications/random-assignment-within-schools-lessons-learned-from-the-teach-for-america-experiment [doi:10.1162/edfp_a_00059](https://doi.org/10.1162/edfp_a_00059)"
     author: Steven Glazerman
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Steven Glazerman 2012
 
-Steven Glazerman. (2012). Random Assignment Within Schools: Lessons Learned from the Teach For America Experiment. Education Finance and Policy, vol. 7, no. 2. https://www.mathematica.org/publications/random-assignment-within-schools-lessons-learned-from-the-teach-for-america-experiment
+Steven Glazerman. (2012). Random Assignment Within Schools: Lessons Learned from the Teach For America Experiment. Education Finance and Policy, vol. 7, no. 2. https://www.mathematica.org/publications/random-assignment-within-schools-lessons-learned-from-the-teach-for-america-experiment [doi:10.1162/edfp_a_00059](https://doi.org/10.1162/edfp_a_00059)
 
 `q2 · i?` · `theoretical · r?`
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: farnaz-baksh-2026
-    resource: "https://arxiv.org/abs/2606.15239"
-    title: "Farnaz Baksh, Matevž B. Zorec, Feiazie Baksh, and Karl Kruusamäe. (2026). Co-Creating Buildable and Open Social Robot Study Companions with University Students. https://arxiv.org/abs/2606.15239"
+    resource: "https://doi.org/10.48550/arxiv.2606.15239"
+    title: "Farnaz Baksh, Matevž B. Zorec, Feiazie Baksh, and Karl Kruusamäe. (2026). Co-Creating Buildable and Open Social Robot Study Companions with University Students. https://arxiv.org/abs/2606.15239 [doi:10.48550/arxiv.2606.15239](https://doi.org/10.48550/arxiv.2606.15239)"
     author: Farnaz Baksh, Matevž B. Zorec, Feiazie Baksh, and Karl Kruusamäe
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Farnaz Baksh 2026
 
-Farnaz Baksh, Matevž B. Zorec, Feiazie Baksh, and Karl Kruusamäe. (2026). Co-Creating Buildable and Open Social Robot Study Companions with University Students. https://arxiv.org/abs/2606.15239
+Farnaz Baksh, Matevž B. Zorec, Feiazie Baksh, and Karl Kruusamäe. (2026). Co-Creating Buildable and Open Social Robot Study Companions with University Students. https://arxiv.org/abs/2606.15239 [doi:10.48550/arxiv.2606.15239](https://doi.org/10.48550/arxiv.2606.15239)
 
 `q2 · i?` · `design · r2`
 

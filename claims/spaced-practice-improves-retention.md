@@ -327,7 +327,7 @@ Nakata, T. (2015). Effects of expanding and equal spacing on second language voc
 - [Spaced retrieval practice (successive relearning) produced multi-year retention of foreign language vocabulary in adults, as reported by the review](spaced-retrieval-multiyear-vocabulary-retention.md) — a narrower finding that bears on this claim
 - [Cognitive load reduction improves learning.](../claims/cognitive-load-reduction-improves-learning.md) — spacing manages load across time rather than within a single episode
 - [Self-Regulated Learning](../theories/self-regulated-learning.md) — learners' spacing decisions are shaped by flawed metacognitive judgments
-- [Retrieval practice strengthens memory and produces stronger, more enduring learning](retrieval-practice-strengthens-memory.md) — related
+- Retrieval practice strengthens memory and produces stronger, more enduring learning — related
 - [ISI effects on recall are nonmonotonic and depend jointly on retention interval](isi-effect-nonmonotonic-joint-retention-interval.md) — related
 - [Total retrieval spacing improved one-week vocabulary recall while relative schedules were not distinguished](total-retrieval-spacing-beats-massed-but-relative-schedule-not-distinguished.md) — related
 - [When exemplars are already interleaved, larger temporal spacing between same-category exemplars yields better inductive learning than smaller spacing](larger-spacing-better-interleaved-induction.md) — a narrower finding that bears on this claim

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: anas-h-alzahrani-2026
-    resource: "https://arxiv.org/abs/2605.26870"
-    title: "Anas H. Alzahrani, MD, PhD, MPH. (2026). Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study. arXiv preprint. https://arxiv.org/abs/2605.26870"
+    resource: "https://doi.org/10.48550/arxiv.2605.26870"
+    title: "Anas H. Alzahrani, MD, PhD, MPH. (2026). Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study. arXiv preprint. https://arxiv.org/abs/2605.26870 [doi:10.48550/arxiv.2605.26870](https://doi.org/10.48550/arxiv.2605.26870)"
     author: Anas H. Alzahrani, MD, PhD, MPH
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Anas H. Alzahrani 2026
 
-Anas H. Alzahrani, MD, PhD, MPH. (2026). Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study. arXiv preprint. https://arxiv.org/abs/2605.26870
+Anas H. Alzahrani, MD, PhD, MPH. (2026). Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study. arXiv preprint. https://arxiv.org/abs/2605.26870 [doi:10.48550/arxiv.2605.26870](https://doi.org/10.48550/arxiv.2605.26870)
 
 `q1 · i?` · `design · r2`
 

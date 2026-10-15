@@ -22,7 +22,7 @@ sources:
 # Reading Plus
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 2 studies (2 causal), `q2`–`q3` · 1 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (1 for, 2 mixed) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Reading Plus® is a web-based individualized reading intervention platform developed and operated by Reading Plus® to provide scaffolded silent-reading practice, assessment, and progress monitoring for students.
@@ -40,7 +40,6 @@ Reading Plus® is a web-based individualized reading intervention platform devel
 - [Baseline equivalence was established only for low-achieving students, so analyses for other grades and subpopulations do not meet WWC evidence standards](../claims/reading-plus-baseline-equivalence-low-achievers-only.md) [~W]
 - [The extent of evidence for Reading Plus® on adolescent learners is small, resting on a single study that met WWC standards with reservations](../claims/reading-plus-evidence-extent-small-one-study.md) [~W]
 - [Reading Plus® produced a statistically significant positive effect on FCAT reading comprehension for low-achieving adolescent learners, with a small WWC-calculated effect of 0.06](../claims/reading-plus-small-significant-comprehension-effect-low-achievers.md) [+W]
-- [Reading Plus students showed significantly greater improvements in reading proficiency than control students receiving other targeted reading instruction (effect size +0.11)](../claims/reading-plus-significant-gains-grade-es-011.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -213,7 +212,6 @@ Reading Plus is a web-based literacy program for grades 3-12+ designed to streng
 
 ## Claims
 
-- [Reading Plus students showed significantly greater improvements in reading proficiency than control students receiving other targeted reading instruction (effect size +0.11)](../claims/reading-plus-significant-gains-grade-es-011.md) [+W]
 
 ## Related Elements
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: potter-2018
-    resource: "https://arxiv.org/abs/1205.6970"
-    title: "Potter, W., Webb, D., West, E., Paul, C., Bowen, M., Weiss, B., Coleman, L., & De Leone, C. (2018). Sixteen years of Collaborative Learning through Active Sense-making in Physics (CLASP) at UC Davis. https://arxiv.org/abs/1205.6970"
+    resource: "https://doi.org/10.48550/arxiv.1205.6970"
+    title: "Potter, W., Webb, D., West, E., Paul, C., Bowen, M., Weiss, B., Coleman, L., & De Leone, C. (2018). Sixteen years of Collaborative Learning through Active Sense-making in Physics (CLASP) at UC Davis. https://arxiv.org/abs/1205.6970 [doi:10.48550/arxiv.1205.6970](https://doi.org/10.48550/arxiv.1205.6970)"
     author: "Potter, W., Webb, D., West, E., Paul, C., Bowen, M., Weiss, B., Coleman, L., & De Leone, C."
     q: 2
     i: 2
@@ -31,7 +31,7 @@ sources:
 
 ### Potter 2018
 
-Potter, W., Webb, D., West, E., Paul, C., Bowen, M., Weiss, B., Coleman, L., & De Leone, C. (2018). Sixteen years of Collaborative Learning through Active Sense-making in Physics (CLASP) at UC Davis. https://arxiv.org/abs/1205.6970
+Potter, W., Webb, D., West, E., Paul, C., Bowen, M., Weiss, B., Coleman, L., & De Leone, C. (2018). Sixteen years of Collaborative Learning through Active Sense-making in Physics (CLASP) at UC Davis. https://arxiv.org/abs/1205.6970 [doi:10.48550/arxiv.1205.6970](https://doi.org/10.48550/arxiv.1205.6970)
 
 `q2 · i2` · `causal · r1`
 

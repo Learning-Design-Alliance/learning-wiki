@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: esposito-2026
-    resource: "https://arxiv.org/abs/2604.27618"
-    title: "Esposito, N., Tricarico, A., Porzio, L., Aghazadeh Ardebili, A., & Stella, M. (2026). Math Education Digital Shadows for Investigating Learning with GenAI: Mathematics Performance, Anxiety, and Confidence in LLMs. arXiv preprint. https://arxiv.org/abs/2604.27618"
+    resource: "https://doi.org/10.48550/arxiv.2604.27618"
+    title: "Esposito, N., Tricarico, A., Porzio, L., Aghazadeh Ardebili, A., & Stella, M. (2026). Math Education Digital Shadows for Investigating Learning with GenAI: Mathematics Performance, Anxiety, and Confidence in LLMs. arXiv preprint. https://arxiv.org/abs/2604.27618 [doi:10.48550/arxiv.2604.27618](https://doi.org/10.48550/arxiv.2604.27618)"
     author: "Esposito, N., Tricarico, A., Porzio, L., Aghazadeh Ardebili, A., & Stella, M."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Esposito 2026
 
-Esposito, N., Tricarico, A., Porzio, L., Aghazadeh Ardebili, A., & Stella, M. (2026). Math Education Digital Shadows for Investigating Learning with GenAI: Mathematics Performance, Anxiety, and Confidence in LLMs. arXiv preprint. https://arxiv.org/abs/2604.27618
+Esposito, N., Tricarico, A., Porzio, L., Aghazadeh Ardebili, A., & Stella, M. (2026). Math Education Digital Shadows for Investigating Learning with GenAI: Mathematics Performance, Anxiety, and Confidence in LLMs. arXiv preprint. https://arxiv.org/abs/2604.27618 [doi:10.48550/arxiv.2604.27618](https://doi.org/10.48550/arxiv.2604.27618)
 
 `q2 · i?` · `design · r2`
 
@@ -44,7 +44,7 @@ Task 2 analysis comparing summed psychometric score distributions between human-
 
 ## Related Claims
 - [AI-assistant mode inflates self-reported mathematics self-efficacy and suppresses reported anxiety](ai-assistant-mode-inflates-math-self-efficacy.md) — related
-- [Interview-containing prompts increased response diversity for Claude and GPT, while Gemini diversified with demographic-only prompts](interview-prompts-increase-llm-response-diversity.md) — related
-- [LLM-generated BREQ responses capture overall item-mean patterns but are more extreme and less variable than human responses](llm-survey-responses-extreme-low-variability.md) — a broader claim this one bears on
+- Interview-containing prompts increased response diversity for Claude and GPT, while Gemini diversified with demographic-only prompts — related
+- LLM-generated BREQ responses capture overall item-mean patterns but are more extreme and less variable than human responses — a broader claim this one bears on
 - [Priming human shadows as math lovers or haters shifts LLM emotional tone about mathematics](persona-priming-shifts-llm-math-sentiment.md) — related
 - [Demographic and psychometric response prompting produces higher-variance, heavier-tailed originality distributions than a no-context baseline, though still less variable than humans](response-prompting-styles-increase-variance.md) — related

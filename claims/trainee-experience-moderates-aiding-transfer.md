@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Unlike fourth-semester trainees, first-semester trainees showed no positive or negative transfer of training from aided Task One displays. [→ Rouse 1980](#rouse-1980)
@@ -43,7 +44,7 @@ Experiment Five with 48 first-semester trainees in a two-year FAA certificate pr
 
 
 ## Related Claims
-- [Computer aiding produces positive transfer of training: aided-trained subjects maintain performance on unaided fault-diagnosis displays](computer-aiding-positive-transfer-unaided-fault-diagnosis.md) — related
-- [Context-free diagnostic training transfers to context-specific performance: aided Task One training reduced cost to solution on two of three FAULT powerplants](context-free-training-transfers-to-context-specific-fault-diagnosis.md) — related
+- Computer aiding produces positive transfer of training: aided-trained subjects maintain performance on unaided fault-diagnosis displays — related
+- Context-free diagnostic training transfers to context-specific performance: aided Task One training reduced cost to solution on two of three FAULT powerplants — related
 - [Forced pacing eliminates positive transfer from computer aiding and leads subjects to use strategies requiring many more tests than necessary](forced-pacing-eliminates-aiding-transfer.md) — related
 - [Errorless discrimination training avoids emotional responses and yields more effective transfer than errorful training (Terrace's pigeon studies)](errorless-discrimination-learning-transfer-advantage.md) — related

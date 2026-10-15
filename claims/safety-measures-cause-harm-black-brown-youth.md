@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: trout-2022
-    resource: "https://eric.ed.gov/?id=ED628885"
-    title: "Trout, L., Pate, C., Wu, K., & McKenna, J. (2022). Reimagining school safety: A guide for schools and communities. WestEd. https://eric.ed.gov/?id=ED628885"
+    resource: "https://doi.org/10.3102/1882099"
+    title: "Trout, L., Pate, C., Wu, K., & McKenna, J. (2022). Reimagining school safety: A guide for schools and communities. WestEd. https://eric.ed.gov/?id=ED628885 [doi:10.3102/1882099](https://doi.org/10.3102/1882099)"
     author: "Trout, L., Pate, C., Wu, K., & McKenna, J."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Trout 2022
 
-Trout, L., Pate, C., Wu, K., & McKenna, J. (2022). Reimagining school safety: A guide for schools and communities. WestEd. https://eric.ed.gov/?id=ED628885
+Trout, L., Pate, C., Wu, K., & McKenna, J. (2022). Reimagining school safety: A guide for schools and communities. WestEd. https://eric.ed.gov/?id=ED628885 [doi:10.3102/1882099](https://doi.org/10.3102/1882099)
 
 `q2 · i?` · `theoretical · r2`
 
@@ -51,5 +51,5 @@ The guide asserts, in its Paradigm of Safety section, that "Attempts to bring sa
 - [Available data suggest schools with metal detectors identify more weapons through searches without scanning devices than through scanning](metal-detector-weapon-detection-evidence-weak.md) — related
 - [Metal detectors impose substantial equipment, personnel, training and time costs on schools](metal-detector-costs-equipment-personnel-time.md) — related
 - [Metal detector use in US schools has held steady or slightly decreased since the 1990s despite renewed calls after the Parkland shooting](school-metal-detector-use-steady-or-decreasing.md) — related
-- [Hardening strategies such as police in schools and metal detectors intervene too late in the pathway to violence to prevent attacks](hardening-intervenes-too-late-pathway-violence.md) — related
+- Hardening strategies such as police in schools and metal detectors intervene too late in the pathway to violence to prevent attacks — related
 - [District leaders filtered student and community voices through their own perspectives, so neither district fully removed security personnel despite calls to end policing in schools](leaders-filter-community-voices-security-retained.md) — related

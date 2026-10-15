@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: stelzer-2008
-    resource: "https://arxiv.org/abs/0806.0405"
-    title: "Stelzer, Gladding, Mestre, and Brookes. (2008). Comparing the efficacy of multimedia modules with traditional textbooks for learning introductory physics content. https://arxiv.org/abs/0806.0405"
+    resource: "https://doi.org/10.48550/arxiv.0806.0405"
+    title: "Stelzer, Gladding, Mestre, and Brookes. (2008). Comparing the efficacy of multimedia modules with traditional textbooks for learning introductory physics content. https://arxiv.org/abs/0806.0405 [doi:10.48550/arxiv.0806.0405](https://doi.org/10.48550/arxiv.0806.0405)"
     author: Stelzer, Gladding, Mestre, and Brookes
     q: 2
     i: 2
@@ -31,7 +31,7 @@ sources:
 
 ### Stelzer 2008
 
-Stelzer, Gladding, Mestre, and Brookes. (2008). Comparing the efficacy of multimedia modules with traditional textbooks for learning introductory physics content. https://arxiv.org/abs/0806.0405
+Stelzer, Gladding, Mestre, and Brookes. (2008). Comparing the efficacy of multimedia modules with traditional textbooks for learning introductory physics content. https://arxiv.org/abs/0806.0405 [doi:10.48550/arxiv.0806.0405](https://doi.org/10.48550/arxiv.0806.0405)
 
 `q2 · i2` · `causal · r2`
 

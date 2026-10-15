@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: steven-wise-2017
-    resource: "https://www.nwea.org/research/publication/a-general-approach-to-measuring-test-taking-effort-on-computer-based-tests/"
-    title: "Steven Wise, Lingyun Gao. (2017). A general approach to measuring test-taking effort on computer-based tests. Applied Measurement in Education, 30(4), 343–354. https://www.nwea.org/research/publication/a-general-approach-to-measuring-test-taking-effort-on-computer-based-tests/"
+    resource: "https://doi.org/10.1080/08957347.2017.1353992"
+    title: "Steven Wise, Lingyun Gao. (2017). A general approach to measuring test-taking effort on computer-based tests. Applied Measurement in Education, 30(4), 343–354. https://www.nwea.org/research/publication/a-general-approach-to-measuring-test-taking-effort-on-computer-based-tests/ [doi:10.1080/08957347.2017.1353992](https://doi.org/10.1080/08957347.2017.1353992)"
     author: Steven Wise, Lingyun Gao
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Steven Wise 2017
 
-Steven Wise, Lingyun Gao. (2017). A general approach to measuring test-taking effort on computer-based tests. Applied Measurement in Education, 30(4), 343–354. https://www.nwea.org/research/publication/a-general-approach-to-measuring-test-taking-effort-on-computer-based-tests/
+Steven Wise, Lingyun Gao. (2017). A general approach to measuring test-taking effort on computer-based tests. Applied Measurement in Education, 30(4), 343–354. https://www.nwea.org/research/publication/a-general-approach-to-measuring-test-taking-effort-on-computer-based-tests/ [doi:10.1080/08957347.2017.1353992](https://doi.org/10.1080/08957347.2017.1353992)
 
 `q2 · i?` · `design · r1`
 
@@ -47,9 +47,9 @@ The article's abstract reports, citing prior work, that Response Time Effort (RT
 - [A general process for measuring item-level effort extends effort measurement to omitted and constructed responses](general-item-level-effort-process-expanded-item-types.md) — related
 - [RTE is limited to selected-response items that must be answered before advancing](rte-limited-to-answered-selected-response-items.md) — related
 - [Test-taking engagement plays an essential role in the pursuit of valid scores](test-taking-engagement-essential-for-valid-scores.md) — a broader claim this one bears on
-- [Solution behavior accuracy does not decrease across item positions, contradicting decreasing effort models of unmotivated test taking](solution-accuracy-no-decreasing-effort.md) — related
+- Solution behavior accuracy does not decrease across item positions, contradicting decreasing effort models of unmotivated test taking — related
 - [Test-taking disengagement distorts both individual and aggregated test scores](disengagement-distorts-individual-and-aggregated-scores.md) — related
-- [In simulation, effort-moderated scoring (EM-CAT and EG-CAT) yields negligible bias and nominal 95% confidence interval coverage, unlike MLE-CAT scoring](effort-moderated-cat-negligible-bias-simulation.md) — related
-- [Effort-moderated scoring yields more accurate achievement scores and better person fit than traditional MLE scoring when rapid guessing is present](effort-moderated-scoring-more-accurate-better-fit.md) — related
-- [An effort-guided CAT that holds the provisional achievement estimate constant after rapid guesses reduces standard errors and ameliorates severe item mis-targeting](effort-guided-cat-reduces-mis-targeting.md) — related
+- In simulation, effort-moderated scoring (EM-CAT and EG-CAT) yields negligible bias and nominal 95% confidence interval coverage, unlike MLE-CAT scoring — related
+- Effort-moderated scoring yields more accurate achievement scores and better person fit than traditional MLE scoring when rapid guessing is present — related
+- An effort-guided CAT that holds the provisional achievement estimate constant after rapid guesses reduces standard errors and ameliorates severe item mis-targeting — related
 - [Responses used in effort-moderated scoring can sometimes reflect less-than-full, or partial, engagement, making E-M scores less trustworthy](em-scoring-responses-can-show-partial-engagement.md) — related

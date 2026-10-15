@@ -45,7 +45,7 @@ The paper's key finding on regression discontinuity designs: robust methods guar
 ## Related Claims
 - [Education evaluators increasingly design studies to detect impacts smaller than 0.20 standard deviations](evaluators-target-impacts-below-020-sd.md) — related
 - [A regression discontinuity design on Review Exercise data supports a causal link between leveling up and higher assessment accuracy, at least for the first level-up](rdd-review-exercises-causal-leveling-up.md) — related
-- [A regression discontinuity study found a positive but non-significant effect of +0.16 on standardized literacy growth](future-forward-rd-nonsignificant-positive-effect.md) — related
+- A regression discontinuity study found a positive but non-significant effect of +0.16 on standardized literacy growth — related
 - [Regression discontinuity impact estimates for two education interventions were not significantly different from experimental impact estimates, though point-estimate differences were sometimes nontrivial](rd-replication-matches-experimental-estimates-two-interventions.md) — related
 - The RD evaluation was powered to detect overall SES impacts of 0.12 standard deviations or larger — a narrower finding that bears on this claim
 - [Individual RD impact estimates show substantial variation in bias, warranting caution when interpreting single RD estimates](rd-individual-estimates-substantial-bias-variation.md) — related

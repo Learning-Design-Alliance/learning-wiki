@@ -43,7 +43,7 @@ Same pilot attitude survey of 29 students; the article reports these two percent
 
 
 ## Related Claims
-- [Open answers in the pilot cluster into three themes: feeling the wave through one's own body, the learning curve of hand tracking, and the experience leaving a mental trace students expect to use at the exam](ar-open-answer-three-themes-embodied-experience.md) — related
+- Open answers in the pilot cluster into three themes: feeling the wave through one's own body, the learning curve of hand tracking, and the experience leaving a mental trace students expect to use at the exam — related
 - [In Pilot District 3, majorities of students agreed that Compact Writing Assignments gave them topic choice and that autonomy and varied expression formats improved engagement and writing quality](compact-writing-assignments-student-choice-engagement.md) — related
 - [In a pilot with 29 introductory radiation physics students, students reported that the pinch-and-spread gesture helped them feel wavelength and amplitude, with amplitude receiving the highest mean rating of 4.59](ar-pinch-gesture-students-feel-wavelength-amplitude-pilot.md) — related
 - [Participants rated SOPHIE 2.0 as engaging, easy to use, and clinically relevant in a self-service format](sophie2-high-perceived-usability-and-value.md) — related

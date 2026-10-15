@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: dawid-ratajczyk-2026
-    resource: "https://osf.io/59qtm/"
-    title: "Dawid Ratajczyk, Agata Dymarska, Adam Matłoka, Michał Tomczyk, Małgorzata Wiącek. (2026). Thinking With AI, Reasoning Without It: Cognitive Offloading to Generative AI Weakens Effort Regulation. Preprint. https://osf.io/59qtm/"
+    resource: "https://doi.org/10.31234/osf.io/83jum_v1"
+    title: "Dawid Ratajczyk, Agata Dymarska, Adam Matłoka, Michał Tomczyk, Małgorzata Wiącek. (2026). Thinking With AI, Reasoning Without It: Cognitive Offloading to Generative AI Weakens Effort Regulation. Preprint. https://osf.io/59qtm/ [doi:10.31234/osf.io/83jum_v1](https://doi.org/10.31234/osf.io/83jum_v1)"
     author: Dawid Ratajczyk, Agata Dymarska, Adam Matłoka, Michał Tomczyk, Małgorzata Wiącek
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Dawid Ratajczyk 2026
 
-Dawid Ratajczyk, Agata Dymarska, Adam Matłoka, Michał Tomczyk, Małgorzata Wiącek. (2026). Thinking With AI, Reasoning Without It: Cognitive Offloading to Generative AI Weakens Effort Regulation. Preprint. https://osf.io/59qtm/
+Dawid Ratajczyk, Agata Dymarska, Adam Matłoka, Michał Tomczyk, Małgorzata Wiącek. (2026). Thinking With AI, Reasoning Without It: Cognitive Offloading to Generative AI Weakens Effort Regulation. Preprint. https://osf.io/59qtm/ [doi:10.31234/osf.io/83jum_v1](https://doi.org/10.31234/osf.io/83jum_v1)
 
 `q3 · i?` · `causal · r3`
 

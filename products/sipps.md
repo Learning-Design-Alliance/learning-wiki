@@ -18,7 +18,7 @@ sources:
 # SIPPS
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies (2 causal, 1 quant-synthesis, 1 review), `q2`–`q4` · 3 of 4 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 3 studies (1 causal, 1 quant-synthesis, 1 review), `q3`–`q4` · 2 of 3 report an effect size
 
 ## Description
 SIPPS (Systematic Instruction in Phonological Awareness, Phonics, and Sight Words) is a structured-literacy curriculum developed and distributed by Collaborative Classroom for foundational reading instruction and intervention in grades K–12.
@@ -30,7 +30,6 @@ SIPPS (Systematic Instruction in Phonological Awareness, Phonics, and Sight Word
 - **Three-level developmental progression of word-recognition instruction with an older-student variant**: The curriculum organizes word-recognition instruction into "three developmental levels of progression in word recognition: simple alphabetic (SIPPS Beginning Level), spelling-pattern (SIPPS Extension Level), and polysyllabic/morphemic (SIPPS Challenge Level)." A separate variant, SIPPS Plus, covers the simple alphabetic and spelling-pattern phases but is designed specifically for older students in grades 4–12, allowing the same progression to serve adolescent struggling readers. (SIPPS program description et al. (2022))
 
 ### Claims
-- [SIPPS as a Tier 2 intervention significantly improves first- and second-graders' reading skills on DIBELS (effect size +0.25)](../claims/sipps-tier2-dibels-effect-025.md) [+W]
 - [Systematic Phonics Improves Word Reading](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+M]
 
 ## Related Products and Programmes
@@ -66,7 +65,6 @@ SIPPS is a foundational skills reading curriculum for new and struggling readers
 
 ## Claims
 
-- [SIPPS as a Tier 2 intervention significantly improves first- and second-graders' reading skills on DIBELS (effect size +0.25)](../claims/sipps-tier2-dibels-effect-025.md) [+W]
 
 ## Related Elements
 
@@ -107,7 +105,6 @@ SIPPS is built on "the premise that beginning literacy is best taught through tw
 
 ### Claims
 
-- [SIPPS as a Tier 2 intervention significantly improves first- and second-graders' reading skills on DIBELS (effect size +0.25)](../claims/sipps-tier2-dibels-effect-025.md) [+W]
 - [Systematic Phonics Improves Word Reading](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+M]
 
 ## Related Theories

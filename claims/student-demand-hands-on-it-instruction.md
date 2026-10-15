@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: nicolas-rodriguez-alvarez-2026
-    resource: "https://arxiv.org/abs/2605.26010"
-    title: "Nicolas Rodriguez-Alvarez, Alan Martin Blanch-Marsolini, Samuel Vara-Gutierrez, Hugo Gil-Garcia, Javier Calzon-Dueñas, and Fernando Rodriguez-Merino. (2026). The Illusion of Competence: Self-Perceived Digital Literacy and AI Readiness Among European Secondary Students. arXiv. https://arxiv.org/abs/2605.26010"
+    resource: "https://doi.org/10.48550/arxiv.2605.26010"
+    title: "Nicolas Rodriguez-Alvarez, Alan Martin Blanch-Marsolini, Samuel Vara-Gutierrez, Hugo Gil-Garcia, Javier Calzon-Dueñas, and Fernando Rodriguez-Merino. (2026). The Illusion of Competence: Self-Perceived Digital Literacy and AI Readiness Among European Secondary Students. arXiv. https://arxiv.org/abs/2605.26010 [doi:10.48550/arxiv.2605.26010](https://doi.org/10.48550/arxiv.2605.26010)"
     author: Nicolas Rodriguez-Alvarez, Alan Martin Blanch-Marsolini, Samuel Vara-Gutierrez, Hugo Gil-Garcia, Javier Calzon-Dueñas, and Fernando Rodriguez-Merino
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Nicolas Rodriguez-Alvarez 2026
 
-Nicolas Rodriguez-Alvarez, Alan Martin Blanch-Marsolini, Samuel Vara-Gutierrez, Hugo Gil-Garcia, Javier Calzon-Dueñas, and Fernando Rodriguez-Merino. (2026). The Illusion of Competence: Self-Perceived Digital Literacy and AI Readiness Among European Secondary Students. arXiv. https://arxiv.org/abs/2605.26010
+Nicolas Rodriguez-Alvarez, Alan Martin Blanch-Marsolini, Samuel Vara-Gutierrez, Hugo Gil-Garcia, Javier Calzon-Dueñas, and Fernando Rodriguez-Merino. (2026). The Illusion of Competence: Self-Perceived Digital Literacy and AI Readiness Among European Secondary Students. arXiv. https://arxiv.org/abs/2605.26010 [doi:10.48550/arxiv.2605.26010](https://doi.org/10.48550/arxiv.2605.26010)
 
 `q2 · i?` · `associational · r1`
 

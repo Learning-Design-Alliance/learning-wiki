@@ -17,7 +17,7 @@ sources:
 # Regression discontinuity design power and validity analysis
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 7 claims (7 for) · 6 studies (3 causal, 2 theoretical, 1 quant-synthesis), `q2`–`q3` · 0 of 6 report an effect size · 7 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 5 studies (2 causal, 2 theoretical, 1 quant-synthesis), `q2`–`q3` · 0 of 5 report an effect size · 6 claims rest on one study
 
 ## Description
 The evidence base for this working paper is a set of four previously published education studies whose data were reanalyzed to estimate the statistical power of regression discontinuity designs relative to randomized controlled trials. The paper states it is "using data from four previously published education studies" to produce its design-effect estimates. The identities and details of the four studies are not printed on the available page.
@@ -33,7 +33,6 @@ The evidence base for this working paper is a set of four previously published e
 - [Robust RDD methods protect against model misspecification but require much larger sample sizes to detect small effects](../claims/rdd-robust-methods-need-larger-samples.md) [+W]
 - [A study qualifies as an RD design only if assignment uses an ordinal forcing variable with at least four unique values on each side of the cutoff and no confounding factor](../claims/rd-qualification-criteria-forcing-variable.md) [+W]
 - [Regression discontinuity estimates show high internal validity, with average bias below 0.01 standard deviations relative to RCT estimates at the same cutoff](../claims/rd-average-bias-below-0-01-sd-high-internal-validity.md) [+W]
-- [A regression discontinuity study found a positive but non-significant effect of +0.16 on standardized literacy growth](../claims/future-forward-rd-nonsignificant-positive-effect.md) [+W]
 
 ## Related Research Methods
 -
@@ -73,7 +72,6 @@ The evidence base for this working paper is a set of four previously published e
 - [Robust RDD methods protect against model misspecification but require much larger sample sizes to detect small effects](../claims/rdd-robust-methods-need-larger-samples.md) [+W]
 - [A study qualifies as an RD design only if assignment uses an ordinal forcing variable with at least four unique values on each side of the cutoff and no confounding factor](../claims/rd-qualification-criteria-forcing-variable.md) [+W]
 - [Regression discontinuity estimates show high internal validity, with average bias below 0.01 standard deviations relative to RCT estimates at the same cutoff](../claims/rd-average-bias-below-0-01-sd-high-internal-validity.md) [+W]
-- [A regression discontinuity study found a positive but non-significant effect of +0.16 on standardized literacy growth](../claims/future-forward-rd-nonsignificant-positive-effect.md) [+W]
 
 ## Related Elements
 

@@ -18,7 +18,7 @@ sources:
 # OGAP Math
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 OGAP Math is a professional learning system that supports K–8 mathematics teachers in using research-based learning progressions, student-work analysis, item banks, and frameworks to guide instruction.
@@ -28,8 +28,6 @@ OGAP Math is a professional learning system that supports K–8 mathematics teac
 - **OGAP Math professional learning system**: OGAP Math is a professional learning system that "develops teachers’ knowledge of mathematics and pedagogy through research-based learning progressions." It trains teachers "to analyze student work as an ongoing assessment, helping them recognize strategies and misconceptions to guide instruction in real-time and over time." The program includes research-based item banks and frameworks across core K–8 mathematics domains and aims to strengthen teacher expertise in both content and pedagogy to improve student mathematics achievement. (OGAP Math program description (2024))
 
 ### Claims
-- [OGAP Math improves upper-elementary math achievement on the Pennsylvania state math test with an effect size of +0.20 over two years](../claims/ogap-math-pssa-effect-020-two-year-rct.md) [+W]
-- [The OGAP trial population was racially diverse and predominantly low-income, supporting scope to high-poverty urban districts](../claims/ogap-trial-high-poverty-urban-sample.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -66,8 +64,6 @@ OGAP Math is a professional learning system that "develops teachers’ knowledge
 
 ## Claims
 
-- [OGAP Math improves upper-elementary math achievement on the Pennsylvania state math test with an effect size of +0.20 over two years](../claims/ogap-math-pssa-effect-020-two-year-rct.md) [+W]
-- [The OGAP trial population was racially diverse and predominantly low-income, supporting scope to high-poverty urban districts](../claims/ogap-trial-high-poverty-urban-sample.md) [+W]
 
 ## Related Elements
 - 

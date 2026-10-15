@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: jaewook-kim-2026
-    resource: "https://arxiv.org/abs/2605.04727"
-    title: "Jaewook Kim, Hyeoncheol Kim. (2026). Ensuring Reliability in Programming Knowledge Tracing: A Re-evaluation of Attention-augmented Models and Experimental Protocols. Preprint, International Conference on Intelligent Tutoring Systems (ITS 2026), Springer LNCS. https://arxiv.org/abs/2605.04727"
+    resource: "https://doi.org/10.48550/arxiv.2605.04727"
+    title: "Jaewook Kim, Hyeoncheol Kim. (2026). Ensuring Reliability in Programming Knowledge Tracing: A Re-evaluation of Attention-augmented Models and Experimental Protocols. Preprint, International Conference on Intelligent Tutoring Systems (ITS 2026), Springer LNCS. https://arxiv.org/abs/2605.04727 [doi:10.48550/arxiv.2605.04727](https://doi.org/10.48550/arxiv.2605.04727)"
     author: Jaewook Kim, Hyeoncheol Kim
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Jaewook Kim 2026
 
-Jaewook Kim, Hyeoncheol Kim. (2026). Ensuring Reliability in Programming Knowledge Tracing: A Re-evaluation of Attention-augmented Models and Experimental Protocols. Preprint, International Conference on Intelligent Tutoring Systems (ITS 2026), Springer LNCS. https://arxiv.org/abs/2605.04727
+Jaewook Kim, Hyeoncheol Kim. (2026). Ensuring Reliability in Programming Knowledge Tracing: A Re-evaluation of Attention-augmented Models and Experimental Protocols. Preprint, International Conference on Intelligent Tutoring Systems (ITS 2026), Springer LNCS. https://arxiv.org/abs/2605.04727 [doi:10.48550/arxiv.2605.04727](https://doi.org/10.48550/arxiv.2605.04727)
 
 `q2 · i?` · `causal · r2`
 
@@ -46,6 +46,6 @@ Analysis of hyperparameter sensitivity for Code-DKT and ECKT (Section 3.3) on Co
 - [Task-specific hyperparameter optimization substantially raises baseline DKT performance, indicating prior DKT-vs-PKT gaps partly reflect insufficient baseline tuning](task-specific-hyperparameter-tuning-raises-dkt-baseline.md) — related
 - [MBP-KT performance is optimal with sliding-window size N between 2 and 4 and is not sensitive to pattern-set length K (variation within 2%)](mbp-kt-hyperparameter-sensitivity-n-k.md) — reports the opposite
 - [Extending maximum sequence length from 50 to 100 does not lead to consistent knowledge-tracing performance improvements; negative changes appear more frequently across models and datasets](longer-sequence-length-no-consistent-pkt-gain.md) — related
-- [DynEmb's response-prediction AUC is stable over a wide range of question-embedding dimensionalities](dynemb-performance-stable-across-embedding-dimensionality.md) — reports the opposite
-- [OptimNN is insensitive to optimizer learning rate and network hyperparameters, unlike plain SGD on BKT](optimnn-hyperparameter-insensitivity.md) — reports the opposite
-- [DKT's input/output representation significantly affects performance, with KC inputs and item outputs working best on most datasets](dkt-input-output-representation-affects-performance.md) — related
+- DynEmb's response-prediction AUC is stable over a wide range of question-embedding dimensionalities — reports the opposite
+- OptimNN is insensitive to optimizer learning rate and network hyperparameters, unlike plain SGD on BKT — reports the opposite
+- DKT's input/output representation significantly affects performance, with KC inputs and item outputs working best on most datasets — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: luo-lan-2024
-    resource: "https://arxiv.org/abs/2606.18030"
-    title: "LUO Lan, WANG Anqi, ZHOU Muzhi, ZHU Junhua, CAI Jie, YU Ao, and PAN Hui. (2024). ParaTutor: Coordinating Parent-Child Math Tutoring through Role-Separated LLM Scaffolding. https://arxiv.org/abs/2606.18030"
+    resource: "https://doi.org/10.48550/arxiv.2606.18030"
+    title: "LUO Lan, WANG Anqi, ZHOU Muzhi, ZHU Junhua, CAI Jie, YU Ao, and PAN Hui. (2024). ParaTutor: Coordinating Parent-Child Math Tutoring through Role-Separated LLM Scaffolding. https://arxiv.org/abs/2606.18030 [doi:10.48550/arxiv.2606.18030](https://doi.org/10.48550/arxiv.2606.18030)"
     author: LUO Lan, WANG Anqi, ZHOU Muzhi, ZHU Junhua, CAI Jie, YU Ao, and PAN Hui
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### LUO Lan 2024
 
-LUO Lan, WANG Anqi, ZHOU Muzhi, ZHU Junhua, CAI Jie, YU Ao, and PAN Hui. (2024). ParaTutor: Coordinating Parent-Child Math Tutoring through Role-Separated LLM Scaffolding. https://arxiv.org/abs/2606.18030
+LUO Lan, WANG Anqi, ZHOU Muzhi, ZHU Junhua, CAI Jie, YU Ao, and PAN Hui. (2024). ParaTutor: Coordinating Parent-Child Math Tutoring through Role-Separated LLM Scaffolding. https://arxiv.org/abs/2606.18030 [doi:10.48550/arxiv.2606.18030](https://doi.org/10.48550/arxiv.2606.18030)
 
 `q1 · i?` · `qualitative · r3`
 

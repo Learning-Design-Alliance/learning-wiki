@@ -43,5 +43,5 @@ The review reports, citing Zhu et al. (2025a), a study categorising students' pr
 
 
 ## Related Claims
-- [A bespoke GenAI image workflow most robustly expanded architecture students' creative search space, while less uniformly supporting refinement of final design decisions](gen-aitecture-expanded-creative-search-space.md) — related
+- A bespoke GenAI image workflow most robustly expanded architecture students' creative search space, while less uniformly supporting refinement of final design decisions — related
 - [Embedded AI assistance enabled a novice student to troubleshoot in real time and stay in creative flow](copilot-embedded-support-real-time-troubleshooting.md) — related

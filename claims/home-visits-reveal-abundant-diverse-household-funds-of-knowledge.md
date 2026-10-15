@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r1` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Teachers who entered minority students' homes to identify and document existing knowledge found funds of knowledge "abundant and diverse", including farming and animal husbandry, construction, trade, business, and finance. [→ Funds of Knowledge: Learning from Language Minority Households. ERIC Digest 1994](#funds-of-knowledge-learning-from-language-minority-households-eric-digest-1994)

@@ -12,7 +12,7 @@ generated:
 # Working Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 33 claims (22 for, 7 mixed, 4 against) · 34 studies (12 causal, 8 review, 6 quant-synthesis, 4 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 4 of 34 report an effect size · 30 claims rest on one study
+> **Evidence** · 28 claims (17 for, 7 mixed, 4 against) · 31 studies (12 causal, 7 review, 6 quant-synthesis, 4 associational, 2 qualitative), `q1`–`q4` · 4 of 31 report an effect size · 25 claims rest on one study
 
 ## Description
 How much a learner can hold and manipulate at once. It is the best-evidenced dimension here and the most directly actionable: it converts into element counts per screen, whether two sources must be read together, and whether a problem is given whole or as a worked example. Capacity is near-fixed, but *effective* capacity is not — prior knowledge supplies the schemas that let several items be held as one, which is why the same screen overloads a novice and not an expert [~S].
@@ -38,19 +38,19 @@ How much a learner can hold and manipulate at once. It is the best-evidenced dim
 - [Redundancy effect impairs learning](../claims/redundancy-principle.md) [-M] — duplicated information must be processed and reconciled before it can be discarded
 - [Presenting words as narration rather than on-screen text alongside graphics](../claims/modality-effect-narration-over-text.md) [+M] — splits input across channels instead of contending for the visual one; instruction changes it
 - [Segmentation benefits shrink with expertise](../claims/segmentation-benefits-shrink-with-expertise.md) [~M] — the boundary condition — the same segmentation stops paying as schemas form
-- [Adaptive training produced substantial and sustained gains in working memory for children with poor working memory](../claims/adaptive-training-sustained-working-memory-gains.md) [+M] — instruction changes it
-- [Childhood poverty interferes with adult working memory, with chronic childhood stress a major contributor](../claims/childhood-poverty-impairs-adult-working-memory.md) [+M] — instruction changes it
+- Adaptive training produced substantial and sustained gains in working memory for children with poor working memory [+M] — instruction changes it
+- Childhood poverty interferes with adult working memory, with chronic childhood stress a major contributor [+M] — instruction changes it
 - [CLT-aligned e-learning modules improved cognitive load profiles and OSCE performance in simulation-based medical training (review-attributed to Gutierrez et al., 2023)](../claims/clt-aligned-e-learning-modules-improve-osce-performance.md) [+W] — instruction changes it
 - [Cognitive Overload Degrades Learning](../claims/cognitive-overload-degrades-learning.md) [+M] — learners who differ on it differ in outcomes
 - [Deliberate practice can expand short-term memory capacity beyond the conventional seven-item limit](../claims/deliberate-practice-expands-memory-capacity.md) [+W] — instruction changes it
-- [Multisensory literacy strategies help students with low working memory become better at decoding](../claims/multisensory-strategies-low-working-memory-decoding.md) [+W] — an instructional effect differs with it
+- Multisensory literacy strategies help students with low working memory become better at decoding [+W] — an instructional effect differs with it
 - [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [+W] — instruction changes it
 - [Revised visuals reduce cognitive load while reading lesson text for low prior knowledge students but increase it for middle prior knowledge students](../claims/revised-visuals-cognitive-load-text-prior-knowledge-interaction.md) [~M] — instruction changes it
 - [Stereotype threat in collaborative contexts can interfere with working memory and reduce meaningful contribution](../claims/stereotype-threat-undermines-collaborative-contribution.md) [+W] — instruction changes it
 - [Studies disagree on whether low or high working memory learners benefit more from retrieval practice, and several find no relationship](../claims/relation-between-working-memory-and-retrieval-practice-benefit-is-inconsistent.md) [~M] — an instructional effect differs with it
-- [Type 1 one-step equations (1 operational, 2 relational lines) are argued to be easier to learn than Type 2 (2 operational, 3 relational lines) due to lower cognitive load](../claims/type1-easier-than-type2-one-step-equations.md) [+W] — instruction changes it
+- Type 1 one-step equations (1 operational, 2 relational lines) are argued to be easier to learn than Type 2 (2 operational, 3 relational lines) due to lower cognitive load [+W] — instruction changes it
 - [Under the components model in ECLS-K, working memory is the most closely associated EF component with math, but only at time point 1 does it show a positive residual correlation beyond latent EF](../claims/working-memory-strongest-component-association-ecls-k.md) [~W] — learners who differ on it differ in outcomes
-- [Working memory is a strong predictor of decoding skills](../claims/working-memory-strong-predictor-decoding.md) [+W] — learners who differ on it differ in outcomes
+- Working memory is a strong predictor of decoding skills [+W] — learners who differ on it differ in outcomes
 - [A scrutable concept-map interface reduced teachers' perceived cognitive load and helped them generate scaffolds quickly when creating classroom content with generative AI](../claims/concept-catalyst-reduces-cognitive-load-quick-generation.md) [+W] — instruction changes it
 - [Identical representational designs produced wide individual variation in what felt helpful versus overwhelming (representational fit)](../claims/representational-fit-individual-variation.md) [~W] — an instructional effect differs with it
 - [Role design improves learners' perceived usefulness and ease of use of GAI, but moderately increases collaborative cognitive load](../claims/role-design-improves-gai-perceptions-raises-cognitive-load.md) [+M] — instruction changes it

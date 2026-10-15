@@ -44,4 +44,4 @@ Macro cycle two retrospective analysis of coded feedback. Faculty and accreditin
 
 ## Related Claims
 - [Design-based research with 114 participants across two macro cycles produced and refined the faculty technology standards](dbr-two-macro-cycles-114-participants-standards.md) — related
-- [Six named risks from AI systems span overestimation, data collection, synthetic outputs, invisibility, bias replication, and human and environmental costs](six-risks-from-ai-systems.md) — related
+- Six named risks from AI systems span overestimation, data collection, synthetic outputs, invisibility, bias replication, and human and environmental costs — related

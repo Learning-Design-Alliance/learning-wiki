@@ -12,7 +12,7 @@ generated:
 # Remnant-based covariate adjustment (ReLOOP+)
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 This principle directs platform researchers analyzing randomized experiments to train outcome-prediction models on log data from non-experimental ('remnant') users and incorporate those predictions, together with within-sample covariates, into design-based covariate-adjusted estimators such as ReLOOP+. The article's summary of its findings: "covariate adjustment can lead to substantial gains in precision, with the greatest improvement resulting from adjustment using both within-sample aggregated covariates and remnant-based imputations." Because adjustment is design-based, estimates remain unbiased and inference valid even if the imputation model is poor.
@@ -22,8 +22,6 @@ This principle directs platform researchers analyzing randomized experiments to 
 - **When analyzing A/B tests on online learning platforms, use remnant-trained imputation models for covariate adjustment alongside within-sample covariates to gain precision without sacrificing unbiasedness**: This principle directs platform researchers analyzing randomized experiments to train outcome-prediction models on log data from non-experimental ('remnant') users and incorporate those predictions, together with within-sample covariates, into design-based covariate-adjusted estimators such as ReLOOP+. The article's summary of its findings: "covariate adjustment can lead to substantial gains in precision, with the greatest improvement resulting from adjustment using both within-sample aggregated covariates and remnant-based imputations." Because adjustment is design-based, estimates remain unbiased and inference valid even if the imputation model is poor. (Adam C. Sales et al. (2023))
 
 ### Claims
-- [Remnant-based covariate adjustment (ReLOOP/ReLOOP+) reduces estimated sampling variance in A/B effect estimates relative to t-tests, equivalent to roughly a 20% average sample-size increase](../claims/reloop-remnant-imputation-variance-reduction-vs-ttest.md) [+M]
-- [Remnant-based adjustment still adds precision beyond within-sample-only machine-learning adjustment (LOOP), equivalent to roughly a 10–20% sample-size increase in about half of cases](../claims/reloop-gains-beyond-within-sample-loop.md) [+M]
 
 ## Related Research Methods
 -

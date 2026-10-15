@@ -49,13 +49,13 @@ Analysis of CTC credential data and California Department of Education hire esti
 - [Estimated teacher hires increased 43% between 2013–14 and 2017–18, outpacing growth in credential issuance](teacher-hire-demand-increased-43-percent.md) — related
 - [The GSTG likely contributed to a 23% increase in California-prepared preliminary teaching credentials between 2022–23 and 2023–24](gstg-associated-credential-increase.md) — related
 - [Teachers on substandard credentials are unequally distributed, concentrated in districts serving more low-income students](substandard-credentials-unequal-district-distribution.md) — related
-- [Teachers continue to improve in their second decade of teaching, though fewer studies find improvement after 15 years](teachers-keep-improving-second-decade.md) — related
+- Teachers continue to improve in their second decade of teaching, though fewer studies find improvement after 15 years — related
 - [Newly hired Texas teachers with standard or intern certificates declined sharply over the past decade while uncertified new hires became the largest category](texas-new-hire-certification-mix-shifted.md) — related
 - [About 75% of surveyed California districts report a shortage of qualified teachers for 2016-17, and over 80% of these say shortages have worsened since 2013-14](california-districts-report-worsening-teacher-shortages-2016.md) — related
 - California TPP completers applying for preliminary credentials increased 35% between 2016–17 and 2020–21, with the largest increases among multiple subject credential earners and private institutions — related
 - [Half of all new California teaching credentials issued in 2023 went to teachers on substandard credentials](half-2023-ca-credentials-substandard.md) — related
 - [Districts attribute shortages chiefly to a shrinking supply of newly credentialed teachers, cited by 79% of shortage districts](shrinking-teacher-supply-top-cited-shortage-cause.md) — related
-- [Fresno’s Skillful Leader Project improved teacher retention and hiring](skillful-leader-project-retention-hiring.md) — related
+- Fresno’s Skillful Leader Project improved teacher retention and hiring — related
 - [California saw a modest increase in newly prepared teachers beginning in 2020, though completers remain about half the 2004 peak](california-modest-increase-teacher-completers-2020-2021.md) — related
 - [Teacher shortages disproportionately impact students in priority and highest-need California schools, which have fewer fully credentialed and more inexperienced teachers](california-shortages-disproportionately-impact-priority-schools.md) — related
 - [District leaders attribute limited pools of fully credentialed applicants to licensure testing requirements and inadequate financial aid for teacher preparation](licensure-testing-and-cost-barriers-limit-teacher-pipeline.md) — related

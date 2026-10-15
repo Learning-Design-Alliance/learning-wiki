@@ -92,7 +92,7 @@ Using a quasi-experimental design across two sections of a required first-year e
 - [Chunking reduces working memory load](../claims/chunking-reduces-working-memory-load.md) — structured prompts manage the working-memory demands that unstructured reflection can impose.
 - [Cognitive overload degrades learning](../claims/cognitive-overload-degrades-learning.md) — reflection layered onto overloaded learners is a key failure condition for this claim.
 - [3-2-1 reflection](../strategies/3-2-1_reflection.md) — a concrete structured-reflection strategy operationalizing this claim.
-- [Mastery-approach goals predict metacognitive strategies while fear of failure is negatively associated with metacognitive self-regulation](mastery-goals-predict-metacognitive-strategies-fear-of-failure-negative.md) — related
+- Mastery-approach goals predict metacognitive strategies while fear of failure is negatively associated with metacognitive self-regulation — related
 - [Metacognitive prompts improve learning](metacognitive-prompts-improve-learning.md) — related
 - [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) — related
 - [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](reflective-practice-evidence-mixed-in-professional-education.md) — related

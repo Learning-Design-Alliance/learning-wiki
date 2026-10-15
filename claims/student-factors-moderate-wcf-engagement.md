@@ -45,4 +45,4 @@ The review reports, citing Zheng and Yu (2018), that low linguistic knowledge an
 ## Related Claims
 - [Student engagement with WCF is the current research hotspot, with engagement analyzed as cognitive, affective and behavioral dimensions](student-engagement-wcf-hotspot-tripartite.md) — related
 - [Low- and high-proficiency EFL learners differ significantly in self-efficacy, intrinsic goal orientation, and test anxiety](proficiency-groups-differ-motivational-factors.md) — related
-- [Review reports that collaborative feedback tasks improved students' writing accuracy for both low and highly proficient students (Tang & Tithecott)](cfts-improved-writing-accuracy-tang-tithecott.md) — reports the opposite
+- Review reports that collaborative feedback tasks improved students' writing accuracy for both low and highly proficient students (Tang & Tithecott) — reports the opposite

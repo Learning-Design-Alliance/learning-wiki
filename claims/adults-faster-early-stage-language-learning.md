@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Although children may have an advantage in achieving native-like fluency in the long run, adults learn languages more quickly than children in the early stages. [→ Schleppegrell 1987](#schleppegrell-1987)
@@ -44,4 +45,4 @@ The digest reports, citing Krashen, Long, and Scarcella (1979), studies comparin
 
 ## Related Claims
 - [Adult learners generally find pronunciation more difficult than children and are unlikely to achieve native-like pronunciation, though experience and self-monitoring offset this somewhat](adults-find-pronunciation-harder-than-children.md) — related
-- [No age is optimal or critical for second language learning, and older learners can benefit more from cognitive approaches](no-critical-age-language-learning.md) — related
+- No age is optimal or critical for second language learning, and older learners can benefit more from cognitive approaches — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: john-engberg-2011
-    resource: "https://www.mathematica.org/publications/closing-schools-in-a-shrinking-district-do-student-outcomes-depend-on-which-schools-are-closed"
-    title: "John Engberg, Brian Gill, Gema Zamarro, Ron Zimmer. (2011). Closing Schools in a Shrinking District: Do Student Outcomes Depend on Which Schools are Closed. Mathematica. https://www.mathematica.org/publications/closing-schools-in-a-shrinking-district-do-student-outcomes-depend-on-which-schools-are-closed"
+    resource: "https://doi.org/10.1016/j.jue.2011.10.001"
+    title: "John Engberg, Brian Gill, Gema Zamarro, Ron Zimmer. (2011). Closing Schools in a Shrinking District: Do Student Outcomes Depend on Which Schools are Closed. Mathematica. https://www.mathematica.org/publications/closing-schools-in-a-shrinking-district-do-student-outcomes-depend-on-which-schools-are-closed [doi:10.1016/j.jue.2011.10.001](https://doi.org/10.1016/j.jue.2011.10.001)"
     author: John Engberg, Brian Gill, Gema Zamarro, Ron Zimmer
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### John Engberg 2011
 
-John Engberg, Brian Gill, Gema Zamarro, Ron Zimmer. (2011). Closing Schools in a Shrinking District: Do Student Outcomes Depend on Which Schools are Closed. Mathematica. https://www.mathematica.org/publications/closing-schools-in-a-shrinking-district-do-student-outcomes-depend-on-which-schools-are-closed
+John Engberg, Brian Gill, Gema Zamarro, Ron Zimmer. (2011). Closing Schools in a Shrinking District: Do Student Outcomes Depend on Which Schools are Closed. Mathematica. https://www.mathematica.org/publications/closing-schools-in-a-shrinking-district-do-student-outcomes-depend-on-which-schools-are-closed [doi:10.1016/j.jue.2011.10.001](https://doi.org/10.1016/j.jue.2011.10.001)
 
 `q1 · i?` · `causal · r?`
 

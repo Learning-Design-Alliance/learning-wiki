@@ -44,4 +44,4 @@ Spearman's rank correlation analysis across all six coders combined on the coded
 
 ## Related Claims
 - [Perceptions of feedback characteristics vary between researcher and teacher coders, with agreement shaped by professional background](coder-background-varies-feedback-interpretation.md) — related
-- [Exploratory factor analysis of coder-assigned feedback codes yields 12 latent factors, several combining multiple codes with inverse loadings](efa-twelve-feedback-factors.md) — related
+- Exploratory factor analysis of coder-assigned feedback codes yields 12 latent factors, several combining multiple codes with inverse loadings — related

@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Once instruction had begun and students had encountered the instructor, the percentage dropping out was essentially the same online and onground, with no significant difference. [→ Jia Frydenberg 2007](#jia-frydenberg-2007)
@@ -48,5 +49,5 @@ Secondary analysis regrouping the two-year drop data: online drops before course
 - [Online attrition during Orientation Week is twice that of onground classes' first week](orientation-week-attrition-double-online.md) — related
 - [Online continuing education courses show lower persistence than comparable onground courses (79% vs 84%) over eight quarters](online-continuing-education-persistence-lower-than-onground.md) — related
 - [Self-reported withdrawal reasons are largely similar online and onground, led by no/other reason, transfer, and schedule conflict](withdrawal-reasons-similar-across-modalities.md) — related
-- [Attrition did not differ significantly between cognitive apprenticeship and control sections, and withdrawing students did not cite the instructional method](attrition-non-significant-technical-math-quasi-experiment.md) — related
-- [Course modality moderated student experience: instructor responsiveness was more prevalent in face-to-face classes and online students reported more frustration](modality-moderates-courseware-experience.md) — related
+- Attrition did not differ significantly between cognitive apprenticeship and control sections, and withdrawing students did not cite the instructional method — related
+- Course modality moderated student experience: instructor responsiveness was more prevalent in face-to-face classes and online students reported more frustration — related

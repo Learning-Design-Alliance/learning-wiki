@@ -43,7 +43,7 @@ Secondary qualitative finding from faculty and student interviews and surveys in
 
 
 ## Related Claims
-- [Undergraduate statistics students most frequently used and valued the courseware's ungraded formative practice features, the Readiness Check and Self Check](students-value-ungraded-formative-practice-lumen-one.md) — a narrower finding that bears on this claim
+- Undergraduate statistics students most frequently used and valued the courseware's ungraded formative practice features, the Readiness Check and Self Check — a narrower finding that bears on this claim
 - [Adaptive courseware in a corequisite statistics course was associated with improved course outcomes, particularly for Pell-eligible and corequisite students, but effects are confounded with instructor practices](wileyplus-adaptive-courseware-statistics-outcomes.md) — related
 - [Students want ongoing targeted formative feedback, but faculty time constraints and large class sizes limit providing it](formative-feedback-constraints-gateway-math.md) — related
 - [Gateway math students benefit from a balance of social, active learning and independent practice, but faculty constraints limit active learning](balance-active-learning-independent-practice-gateway-math.md) — related

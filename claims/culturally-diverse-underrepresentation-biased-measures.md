@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: mcglonn-nelson-2005
-    resource: "https://eric.ed.gov/?id=EJ746045"
-    title: "McGlonn-Nelson, K. (2005). Looking Outward: Exploring the Intersections of Sociocultural Theory and Gifted Education. The Journal of Secondary Gifted Education, 17(1), 48-55. https://eric.ed.gov/?id=EJ746045"
+    resource: "https://doi.org/10.4219/jsge-2005-391"
+    title: "McGlonn-Nelson, K. (2005). Looking Outward: Exploring the Intersections of Sociocultural Theory and Gifted Education. The Journal of Secondary Gifted Education, 17(1), 48-55. https://eric.ed.gov/?id=EJ746045 [doi:10.4219/jsge-2005-391](https://doi.org/10.4219/jsge-2005-391)"
     author: McGlonn-Nelson, K.
     q: 2
     i: "?"
@@ -32,7 +32,7 @@ sources:
 
 ### McGlonn-Nelson 2005
 
-McGlonn-Nelson, K. (2005). Looking Outward: Exploring the Intersections of Sociocultural Theory and Gifted Education. The Journal of Secondary Gifted Education, 17(1), 48-55. https://eric.ed.gov/?id=EJ746045
+McGlonn-Nelson, K. (2005). Looking Outward: Exploring the Intersections of Sociocultural Theory and Gifted Education. The Journal of Secondary Gifted Education, 17(1), 48-55. https://eric.ed.gov/?id=EJ746045 [doi:10.4219/jsge-2005-391](https://doi.org/10.4219/jsge-2005-391)
 
 `q2 · i?` · `review · r1`
 
@@ -47,7 +47,7 @@ Narrative review attributing this to Ford (2003): giftedness is determined by so
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| McGlonn-Nelson 2005 | q2 · review · r1 | i? | this claim; [Traditional gifted identification tests cannot fully determine learning potential and omit](traditional-identification-tests-fail-learning-potential.md) (supports) |
+| [McGlonn-Nelson 2005](https://doi.org/10.4219/jsge-2005-391) | q2 · review · r1 | i? | this claim; [Traditional gifted identification tests cannot fully determine learning potential and omit](traditional-identification-tests-fail-learning-potential.md) (supports) |
 | Gifted and talented students at risk for underachievement 2008 | q2 · review · r1 | i? | [Culturally and linguistically diverse students are underrepresented in gifted identificati](gifted-underrepresentation-diverse-students.md) (supports); [Teachers underrefer culturally and linguistically diverse students for gifted identificati](teacher-underreferral-diverse-gifted.md) (qualifies) |
 | Sex and Race Differences on Standardized Tests: Oversight Hearings before the Subcommittee on Civil and Constitutional Rights of the Committee on the Judiciary 1989 | q2 · review · r1 | i? | [Testimony at a 1987 congressional hearing reported that the Johns Hopkins talent search, w](test-scores-gate-gifted-program-entry.md) (supports); [PSAT-based National Merit scholarship selection distributes awards disproportionately to b](psat-national-merit-awards-skew-male.md) (supports) |
 <!-- synthesis:end -->

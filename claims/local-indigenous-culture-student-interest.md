@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: mcgloin-2009
-    resource: "https://ro.uow.edu.au/jutlp/"
-    title: "McGloin, C., Marshall, A. & Adams, M. (2009). Leading the Way: Indigenous Knowledge and Collaboration at an Indigenous Centre. Journal of University Teaching and Learning Practice. https://ro.uow.edu.au/jutlp/"
+    resource: "https://doi.org/10.53761/1.6.2.4"
+    title: "McGloin, C., Marshall, A. & Adams, M. (2009). Leading the Way: Indigenous Knowledge and Collaboration at an Indigenous Centre. Journal of University Teaching and Learning Practice. https://ro.uow.edu.au/jutlp/ [doi:10.53761/1.6.2.4](https://doi.org/10.53761/1.6.2.4)"
     author: "McGloin, C., Marshall, A. & Adams, M."
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### McGloin 2009
 
-McGloin, C., Marshall, A. & Adams, M. (2009). Leading the Way: Indigenous Knowledge and Collaboration at an Indigenous Centre. Journal of University Teaching and Learning Practice. https://ro.uow.edu.au/jutlp/
+McGloin, C., Marshall, A. & Adams, M. (2009). Leading the Way: Indigenous Knowledge and Collaboration at an Indigenous Centre. Journal of University Teaching and Learning Practice. https://ro.uow.edu.au/jutlp/ [doi:10.53761/1.6.2.4](https://doi.org/10.53761/1.6.2.4)
 
 `q2 · i?` · `qualitative · r1`
 
@@ -46,5 +46,5 @@ Observational finding reported from the Leading the Way research into teaching a
 
 ## Related Claims
 - [Community projects need conceptual framing to avoid narrowing the learning object](community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object.md) — related
-- [Children managed conflict between Indigenous and Western teachings by holding both belief systems side by side or switching by context](children-manage-knowledge-conflict-collateral-learning.md) — related
-- [Participating in Elder-led Indigenous teaching changed the teacher's pedagogical practice and deepened her connection to the community](elder-coteaching-changes-teacher-pedagogy.md) — related
+- Children managed conflict between Indigenous and Western teachings by holding both belief systems side by side or switching by context — related
+- Participating in Elder-led Indigenous teaching changed the teacher's pedagogical practice and deepened her connection to the community — related

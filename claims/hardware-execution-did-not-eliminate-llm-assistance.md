@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: alexei-kaltchenko-and-gurnivaj-tiwana-2026
-    resource: "https://arxiv.org/abs/2608.19707"
-    title: "Alexei Kaltchenko and Gurnivaj Tiwana. (2026). ChatGPT Solves All Tested Qiskit Homework Assignments. arXiv. https://arxiv.org/abs/2608.19707"
+    resource: "https://doi.org/10.48550/arxiv.2608.19707"
+    title: "Alexei Kaltchenko and Gurnivaj Tiwana. (2026). ChatGPT Solves All Tested Qiskit Homework Assignments. arXiv. https://arxiv.org/abs/2608.19707 [doi:10.48550/arxiv.2608.19707](https://doi.org/10.48550/arxiv.2608.19707)"
     author: Alexei Kaltchenko and Gurnivaj Tiwana
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Alexei Kaltchenko and Gurnivaj Tiwana 2026
 
-Alexei Kaltchenko and Gurnivaj Tiwana. (2026). ChatGPT Solves All Tested Qiskit Homework Assignments. arXiv. https://arxiv.org/abs/2608.19707
+Alexei Kaltchenko and Gurnivaj Tiwana. (2026). ChatGPT Solves All Tested Qiskit Homework Assignments. arXiv. https://arxiv.org/abs/2608.19707 [doi:10.48550/arxiv.2608.19707](https://doi.org/10.48550/arxiv.2608.19707)
 
 `q2 · i?` · `design · r2`
 

@@ -43,4 +43,4 @@ Authors' self-reflective interpretation (type e) drawing on Attygalle's (2017) T
 
 
 ## Related Claims
-- [Female principals empowered others through shared ownership, committee involvement, and staff development](female-principals-empower-others-shared-ownership.md) — related
+- Female principals empowered others through shared ownership, committee involvement, and staff development — related

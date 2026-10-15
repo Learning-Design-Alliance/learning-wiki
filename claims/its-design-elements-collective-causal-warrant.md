@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: manyee-wong-2015
-    resource: "https://www.mathematica.org/publications/adding-design-elements-to-improve-time-series-designs-no-child-left-behind-as-an-example-of-causal"
-    title: "Manyee Wong, Thomas D. Cook, Peter M. Steiner. (2015). Adding Design Elements to Improve Time Series Designs: No Child Left Behind as an Example of Causal Pattern-Matching. Journal of Research on Educational Effectiveness, vol. 8, no. 2. https://www.mathematica.org/publications/adding-design-elements-to-improve-time-series-designs-no-child-left-behind-as-an-example-of-causal"
+    resource: "https://doi.org/10.1080/19345747.2013.878011"
+    title: "Manyee Wong, Thomas D. Cook, Peter M. Steiner. (2015). Adding Design Elements to Improve Time Series Designs: No Child Left Behind as an Example of Causal Pattern-Matching. Journal of Research on Educational Effectiveness, vol. 8, no. 2. https://www.mathematica.org/publications/adding-design-elements-to-improve-time-series-designs-no-child-left-behind-as-an-example-of-causal [doi:10.1080/19345747.2013.878011](https://doi.org/10.1080/19345747.2013.878011)"
     author: Manyee Wong, Thomas D. Cook, Peter M. Steiner
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Manyee Wong 2015
 
-Manyee Wong, Thomas D. Cook, Peter M. Steiner. (2015). Adding Design Elements to Improve Time Series Designs: No Child Left Behind as an Example of Causal Pattern-Matching. Journal of Research on Educational Effectiveness, vol. 8, no. 2. https://www.mathematica.org/publications/adding-design-elements-to-improve-time-series-designs-no-child-left-behind-as-an-example-of-causal
+Manyee Wong, Thomas D. Cook, Peter M. Steiner. (2015). Adding Design Elements to Improve Time Series Designs: No Child Left Behind as an Example of Causal Pattern-Matching. Journal of Research on Educational Effectiveness, vol. 8, no. 2. https://www.mathematica.org/publications/adding-design-elements-to-improve-time-series-designs-no-child-left-behind-as-an-example-of-causal [doi:10.1080/19345747.2013.878011](https://doi.org/10.1080/19345747.2013.878011)
 
 `q1 · i?` · `theoretical · r2`
 

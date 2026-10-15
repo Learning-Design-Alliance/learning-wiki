@@ -18,7 +18,7 @@ sources:
 # Flashlight360
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Flashlight360 is a browser-based platform for educators and administrators to monitor and assess multilingual students' speaking and writing progress, providing scoring and feedback across defined language-skill areas.
@@ -28,9 +28,6 @@ Flashlight360 is a browser-based platform for educators and administrators to mo
 - **Flashlight360 speaking and writing progress-monitoring and assessment tool for multilingual students**: Flashlight360 is a tool "designed to monitor and assess progress in speaking and writing for multilingual students." It "provides scoring and feedback across five areas of speaking and three areas of writing, helping students demonstrate their language skills." It runs in major browsers on PCs, Macs, Chromebooks, and iPads, and can be managed by paraprofessionals, teachers, EL coaches, and administrators. (Flashlight360 program description (2024))
 
 ### Claims
-- [One-year Flashlight360 use outgains matched comparison on WIDA ACCESS composite scores (effect size +0.10)](../claims/flashlight360-one-year-composite-outgains.md) [+W]
-- [Two-year Flashlight360 use outgains matched comparison on WIDA ACCESS composite scores (effect size +0.13)](../claims/flashlight360-two-year-composite-outgains.md) [+W]
-- [One-year Flashlight360 students significantly outgain matched comparisons on WIDA ACCESS Writing and Speaking subscales by more than 10 points](../claims/flashlight360-writing-speaking-subscale-gains.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -65,9 +62,6 @@ Flashlight360 is a tool "designed to monitor and assess progress in speaking and
 
 ## Claims
 
-- [One-year Flashlight360 use outgains matched comparison on WIDA ACCESS composite scores (effect size +0.10)](../claims/flashlight360-one-year-composite-outgains.md) [+W]
-- [Two-year Flashlight360 use outgains matched comparison on WIDA ACCESS composite scores (effect size +0.13)](../claims/flashlight360-two-year-composite-outgains.md) [+W]
-- [One-year Flashlight360 students significantly outgain matched comparisons on WIDA ACCESS Writing and Speaking subscales by more than 10 points](../claims/flashlight360-writing-speaking-subscale-gains.md) [+W]
 
 ## Related Elements
 - 

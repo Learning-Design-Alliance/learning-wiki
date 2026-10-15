@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: jesse-a-rodríguez-2026
-    resource: "https://arxiv.org/abs/2605.05410"
-    title: "Jesse A. Rodríguez. (2026). LaTA: A Drop-In, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM Coursework. arXiv preprint. https://arxiv.org/abs/2605.05410"
+    resource: "https://doi.org/10.48550/arxiv.2605.05410"
+    title: "Jesse A. Rodríguez. (2026). LaTA: A Drop-In, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM Coursework. arXiv preprint. https://arxiv.org/abs/2605.05410 [doi:10.48550/arxiv.2605.05410](https://doi.org/10.48550/arxiv.2605.05410)"
     author: Jesse A. Rodríguez
     q: 2
     i: 3
@@ -31,7 +31,7 @@ sources:
 
 ### Jesse A. Rodríguez 2026
 
-Jesse A. Rodríguez. (2026). LaTA: A Drop-In, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM Coursework. arXiv preprint. https://arxiv.org/abs/2605.05410
+Jesse A. Rodríguez. (2026). LaTA: A Drop-In, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM Coursework. arXiv preprint. https://arxiv.org/abs/2605.05410 [doi:10.48550/arxiv.2605.05410](https://doi.org/10.48550/arxiv.2605.05410)
 
 `q2 · i3` · `associational · r1`
 

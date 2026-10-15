@@ -47,4 +47,4 @@ The article interprets its findings as suggesting embedding "may be a more valid
 - [Embedding items has the potential to be a more equitable measure of reading comprehension for marginalized groups](embedded-items-potential-equity-marginalized-groups.md) — related
 - [Embedding comprehension items within reading passages significantly affects measured reading achievement compared with answering items at the end of the passage](embedding-items-within-passages-significant-achievement-impact.md) — related
 - [Traditional end-of-passage assessment formats may inadvertently measure extraneous constructs such as working memory, attention, and language](end-of-passage-format-measures-extraneous-constructs.md) — related
-- [Using embedded aids required students to take about 7% longer, on average, to complete an assigned chapter, and comprehension scores reflected this additional effort.](embedded-aids-increase-reading-time-modestly.md) — related
+- Using embedded aids required students to take about 7% longer, on average, to complete an assigned chapter, and comprehension scores reflected this additional effort. — related

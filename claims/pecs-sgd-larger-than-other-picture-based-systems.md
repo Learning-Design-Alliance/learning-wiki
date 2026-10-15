@@ -46,6 +46,6 @@ The meta-analysis compared three types of AAC interventions across the included 
 ## Related Claims
 - [AAC interventions showed positive effects on all targeted behavioral outcomes, with greater effects for communication skills than other skill categories](aac-positive-all-outcomes-communication-skills-greater.md) — related
 - [Aided AAC interventions had large effects on targeted behavioral outcomes in individuals with ASD, per a meta-analysis of 24 single-case studies](aided-aac-large-effects-asd-single-case-meta-analysis.md) — a broader claim this one bears on
-- [Review evidence shows no consistent differences between picture exchange and speech-generating devices for communication and request outcomes](no-consistent-pe-vs-sgd-effectiveness-differences.md) — reports the opposite
-- [Heterogeneity across reviewed single-subject studies limits broad AAC comparisons, warranting more focused syntheses](heterogeneity-limits-aac-reviews.md) — related
+- Review evidence shows no consistent differences between picture exchange and speech-generating devices for communication and request outcomes — reports the opposite
+- Heterogeneity across reviewed single-subject studies limits broad AAC comparisons, warranting more focused syntheses — related
 - [Aided AAC systems show advantages over manual signs for acquiring requests, and motor imitation and matching skills predict manual sign acquisition](aided-systems-advantage-over-manual-signs.md) — related

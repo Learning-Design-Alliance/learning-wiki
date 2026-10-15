@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: christina-clark-tuttle-2011
-    resource: "https://www.mathematica.org/publications/using-lotteries-to-evaluate-schools-of-choice-evidence-from-a-national-study-of-charter-schools"
-    title: "Christina Clark Tuttle, Philip Gleason, Melissa Clark. (2011). Using Lotteries to Evaluate Schools of Choice: Evidence from a National Study of Charter Schools. Economics of Education Review, vol. 31, issue 2. https://www.mathematica.org/publications/using-lotteries-to-evaluate-schools-of-choice-evidence-from-a-national-study-of-charter-schools"
+    resource: "https://doi.org/10.1016/j.econedurev.2011.07.002"
+    title: "Christina Clark Tuttle, Philip Gleason, Melissa Clark. (2011). Using Lotteries to Evaluate Schools of Choice: Evidence from a National Study of Charter Schools. Economics of Education Review, vol. 31, issue 2. https://www.mathematica.org/publications/using-lotteries-to-evaluate-schools-of-choice-evidence-from-a-national-study-of-charter-schools [doi:10.1016/j.econedurev.2011.07.002](https://doi.org/10.1016/j.econedurev.2011.07.002)"
     author: Christina Clark Tuttle, Philip Gleason, Melissa Clark
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Christina Clark Tuttle 2011
 
-Christina Clark Tuttle, Philip Gleason, Melissa Clark. (2011). Using Lotteries to Evaluate Schools of Choice: Evidence from a National Study of Charter Schools. Economics of Education Review, vol. 31, issue 2. https://www.mathematica.org/publications/using-lotteries-to-evaluate-schools-of-choice-evidence-from-a-national-study-of-charter-schools
+Christina Clark Tuttle, Philip Gleason, Melissa Clark. (2011). Using Lotteries to Evaluate Schools of Choice: Evidence from a National Study of Charter Schools. Economics of Education Review, vol. 31, issue 2. https://www.mathematica.org/publications/using-lotteries-to-evaluate-schools-of-choice-evidence-from-a-national-study-of-charter-schools [doi:10.1016/j.econedurev.2011.07.002](https://doi.org/10.1016/j.econedurev.2011.07.002)
 
 `q2 · i?` · `associational · r?`
 

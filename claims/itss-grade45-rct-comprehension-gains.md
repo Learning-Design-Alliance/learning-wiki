@@ -59,6 +59,6 @@ In the same grades 4-5 cluster RCT, the researcher-designed main idea summary me
 
 ## Related Claims
 - [In the grade 7 cluster RCT, ITSS produced statistically significant positive effects on all eight comprehension outcomes (average effect size 0.23)](itss-grade7-rct-comprehension-gains.md) — related
-- [ITSS shows a positive but statistically non-significant effect on Grade 4 reading comprehension (effect size +0.10)](itss-grade4-positive-nonsignificant.md) — reports the opposite
-- [ITSS significantly improves Grade 5 reading comprehension after 6 to 7 months of implementation (effect size +0.20)](itss-grade5-significant-reading-gain.md) — related
+- ITSS shows a positive but statistically non-significant effect on Grade 4 reading comprehension (effect size +0.10) — reports the opposite
+- ITSS significantly improves Grade 5 reading comprehension after 6 to 7 months of implementation (effect size +0.20) — related
 - [ITSS has positive effects on reading comprehension, based on two studies meeting WWC standards covering 6,724 students](itss-positive-effects-comprehension.md) — a broader claim this one bears on

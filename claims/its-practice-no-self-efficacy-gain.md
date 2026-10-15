@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: xinfei-cen-2026
-    resource: "https://arxiv.org/abs/2606.17470"
-    title: "Xinfei Cen, Vincent Aleven, Kenneth R. Koedinger, Conrad Borchers, and Paulo F. Carvalho. (2026). Self-Efficacy and Favorability Shape Learning from Tutoring Systems and Paper Practice. https://arxiv.org/abs/2606.17470"
+    resource: "https://doi.org/10.48550/arxiv.2606.17470"
+    title: "Xinfei Cen, Vincent Aleven, Kenneth R. Koedinger, Conrad Borchers, and Paulo F. Carvalho. (2026). Self-Efficacy and Favorability Shape Learning from Tutoring Systems and Paper Practice. https://arxiv.org/abs/2606.17470 [doi:10.48550/arxiv.2606.17470](https://doi.org/10.48550/arxiv.2606.17470)"
     author: Xinfei Cen, Vincent Aleven, Kenneth R. Koedinger, Conrad Borchers, and Paulo F. Carvalho
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # ITS-based practice did not improve post-training self-efficacy relative to paper-based practice; baseline self-efficacy was the primary determinant
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Evidence** · 2 studies · 2 causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Training condition did not significantly predict post-training self-efficacy (t(57.96) = 0.49, p = .629), contrary to expectation. [→ Xinfei Cen 2026](#xinfei-cen-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Xinfei Cen 2026
 
-Xinfei Cen, Vincent Aleven, Kenneth R. Koedinger, Conrad Borchers, and Paulo F. Carvalho. (2026). Self-Efficacy and Favorability Shape Learning from Tutoring Systems and Paper Practice. https://arxiv.org/abs/2606.17470
+Xinfei Cen, Vincent Aleven, Kenneth R. Koedinger, Conrad Borchers, and Paulo F. Carvalho. (2026). Self-Efficacy and Favorability Shape Learning from Tutoring Systems and Paper Practice. https://arxiv.org/abs/2606.17470 [doi:10.48550/arxiv.2606.17470](https://doi.org/10.48550/arxiv.2606.17470)
 
 `q2 · i?` · `causal · r2`
 

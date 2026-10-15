@@ -45,5 +45,5 @@ The article's instrumental case study of college instructors used inductive anal
 ## Related Claims
 - [Governance model shaped AIAS adoption: rapid central rollout generated momentum but curtailed reflection, while department-led adoption built ownership but fragmented strategy](governance-models-shape-aias-adoption.md) — related
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
-- [Organizational climate can influence people's behavior and may be linked to teaching practices (attributed to Milem)](organizational-climate-influences-teaching-behavior.md) — related
+- Organizational climate can influence people's behavior and may be linked to teaching practices (attributed to Milem) — related
 - [Under GenAI power dynamics, many instructors updated teaching practices to retain authority and promote student accountability](instructors-update-practices-to-retain-authority-accountability.md) — a narrower finding that bears on this claim

@@ -44,4 +44,4 @@ The guide's Key Findings section lists the factors verbatim: "Intentional instru
 
 
 ## Related Claims
-- [Communication, cooperation, and coordination were the most critical factors in successful CLASP programming](clasp-critical-success-factors-communication.md) — related
+- Communication, cooperation, and coordination were the most critical factors in successful CLASP programming — related

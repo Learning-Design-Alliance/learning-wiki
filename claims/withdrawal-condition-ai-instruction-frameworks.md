@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: jochen-kuhn-2026
-    resource: "https://arxiv.org/abs/2601.13812"
-    title: "Jochen Kuhn, Stefan Küchemann, David J. Rakestraw, & Patrik Vogt. (2026). It's Not the Tool, It's the Task: A Framework for Cognitively Activated AI Augmentation in Physics Instruction. https://arxiv.org/abs/2601.13812"
+    resource: "https://doi.org/10.48550/arxiv.2601.13812"
+    title: "Jochen Kuhn, Stefan Küchemann, David J. Rakestraw, & Patrik Vogt. (2026). It's Not the Tool, It's the Task: A Framework for Cognitively Activated AI Augmentation in Physics Instruction. https://arxiv.org/abs/2601.13812 [doi:10.48550/arxiv.2601.13812](https://doi.org/10.48550/arxiv.2601.13812)"
     author: "Jochen Kuhn, Stefan Küchemann, David J. Rakestraw, & Patrik Vogt"
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Jochen Kuhn 2026
 
-Jochen Kuhn, Stefan Küchemann, David J. Rakestraw, & Patrik Vogt. (2026). It's Not the Tool, It's the Task: A Framework for Cognitively Activated AI Augmentation in Physics Instruction. https://arxiv.org/abs/2601.13812
+Jochen Kuhn, Stefan Küchemann, David J. Rakestraw, & Patrik Vogt. (2026). It's Not the Tool, It's the Task: A Framework for Cognitively Activated AI Augmentation in Physics Instruction. https://arxiv.org/abs/2601.13812 [doi:10.48550/arxiv.2601.13812](https://doi.org/10.48550/arxiv.2601.13812)
 
 `q1 · i?` · `design · r2`
 
@@ -43,7 +43,7 @@ Theoretical argument in the conclusion of a design-proposal article. The authors
 
 
 ## Related Claims
-- [genAI-supported work can improve while the constructive processing underlying durable expertise erodes (the performance–metacognition dilemma)](performance-metacognition-dilemma-genai.md) — related
+- genAI-supported work can improve while the constructive processing underlying durable expertise erodes (the performance–metacognition dilemma) — related
 - [Robotic projected AI assistance yields 60% higher short-term learning transfer than screen-based ChatGPT once assistance is withdrawn](aifred-higher-short-term-learning-transfer.md) — related
 - [Product-outcome studies report GenAI-related gains on product-quality measures but do not assess durable, transferable learning](genai-product-outcome-gains-superficial.md) — related
 - [When AI assistance is withdrawn, student performance tends to decline, revealing a lack of internalized learning strategies](ai-assistance-withdrawal-performance-decline.md) — possibly the same claim (merge candidate)

@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 5 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Students in interviews and focus groups commented that the length of recorded lecture material was an impediment to maintaining focus on course content. [→ Means 2020](#means-2020)
@@ -45,8 +46,8 @@ Case study data: a biology student described retaining little across 20-minute v
 
 - [Segmenting Improves Multimedia Learning](segmenting-improves-multimedia-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Students in courses with guided note-taking and other active learning activities reported less difficulty with motivation and engagement after the shift online](guided-note-taking-supported-remote-engagement.md) — related
-- [Pre-reflective students initially reacted negatively to the lecture-free course but the restructure fostered growth in their reflective judgment](pre-reflective-students-growth-in-restructured-course.md) — related
-- [Highly reflective students often viewed the lecture-free restructured course negatively, as unchallenging and lacking in content](highly-reflective-students-found-restructured-course-unchallenging.md) — related
+- Pre-reflective students initially reacted negatively to the lecture-free course but the restructure fostered growth in their reflective judgment — related
+- Highly reflective students often viewed the lecture-free restructured course negatively, as unchallenging and lacking in content — related
 - [Most remote courses used both synchronous and asynchronous delivery mechanisms](remote-courses-mixed-synchronous-asynchronous-delivery.md) — related
 - [Students in the focus group and interviews described home learning environments during the pandemic as, for some, more responsive to their needs than school environments](students-describe-home-environments-more-responsive-than-school.md) — related
 - [Overall quality was similar across durations and across the 21-lecture held-out set unused during system development](bespoke-quality-stable-across-durations-and-held-out-lectures.md) — related

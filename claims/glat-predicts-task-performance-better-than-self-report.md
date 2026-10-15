@@ -11,16 +11,16 @@ generated:
 evidence_strength: moderate
 sources:
   - id: daniele-verí-2026
-    resource: "https://arxiv.org/abs/2609.15624"
-    title: "Daniele Verí. (2026). Beyond AI Literacy: A Structured Review and Exploratory Meta-Analysis of Measures for Competent Generative-AI Use. arXiv. https://arxiv.org/abs/2609.15624"
+    resource: "https://doi.org/10.48550/arxiv.2609.15624"
+    title: "Daniele Verí. (2026). Beyond AI Literacy: A Structured Review and Exploratory Meta-Analysis of Measures for Competent Generative-AI Use. arXiv. https://arxiv.org/abs/2609.15624 [doi:10.48550/arxiv.2609.15624](https://doi.org/10.48550/arxiv.2609.15624)"
     author: Daniele Verí
     q: 3
     i: "?"
     kind: quant-synthesis
     rigour: 1
   - id: yueqiao-jin-2024
-    resource: "https://arxiv.org/abs/2411.00283"
-    title: "Yueqiao Jin, Roberto Martinez-Maldonado, Dragan Gašević and Lixiang Yan. (2024). GLAT: The Generative AI Literacy Assessment Test. https://arxiv.org/abs/2411.00283"
+    resource: "https://doi.org/10.48550/arxiv.2411.00283"
+    title: "Yueqiao Jin, Roberto Martinez-Maldonado, Dragan Gašević and Lixiang Yan. (2024). GLAT: The Generative AI Literacy Assessment Test. https://arxiv.org/abs/2411.00283 [doi:10.48550/arxiv.2411.00283](https://doi.org/10.48550/arxiv.2411.00283)"
     author: Yueqiao Jin, Roberto Martinez-Maldonado, Dragan Gašević and Lixiang Yan
     q: 2
     i: "?"
@@ -43,7 +43,7 @@ sources:
 
 ### Daniele Verí 2026
 
-Daniele Verí. (2026). Beyond AI Literacy: A Structured Review and Exploratory Meta-Analysis of Measures for Competent Generative-AI Use. arXiv. https://arxiv.org/abs/2609.15624
+Daniele Verí. (2026). Beyond AI Literacy: A Structured Review and Exploratory Meta-Analysis of Measures for Competent Generative-AI Use. arXiv. https://arxiv.org/abs/2609.15624 [doi:10.48550/arxiv.2609.15624](https://doi.org/10.48550/arxiv.2609.15624)
 
 `q3 · i?` · `quant-synthesis · r1`
 
@@ -53,7 +53,7 @@ Criterion evidence from the GLAT validation study (Jin et al., 2025) as reported
 
 ### Yueqiao Jin 2024
 
-Yueqiao Jin, Roberto Martinez-Maldonado, Dragan Gašević and Lixiang Yan. (2024). GLAT: The Generative AI Literacy Assessment Test. https://arxiv.org/abs/2411.00283
+Yueqiao Jin, Roberto Martinez-Maldonado, Dragan Gašević and Lixiang Yan. (2024). GLAT: The Generative AI Literacy Assessment Test. https://arxiv.org/abs/2411.00283 [doi:10.48550/arxiv.2411.00283](https://doi.org/10.48550/arxiv.2411.00283)
 
 `q2 · i?` · `associational · r2`
 

@@ -80,14 +80,13 @@ Self versus yoked post hoc comparisons on retention AE: "both the Self-After and
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Who should decide when feedback arrives, and does the setting (in front of peers, mid-performance) matter?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **5 distinct studies** (2 qualitative, 2 design, 1 causal), `q2`–`q3`, 1 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Who should decide when feedback arrives, and does the setting (in front of peers, mid-performance) matter?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **4 distinct studies** (2 qualitative, 1 causal, 1 design), `q2`–`q3`, 1 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Carter 2014](https://doi.org/10.3389/fpsyg.2014.01325) | q3 · causal · r1 | i3; i? | this claim |
 | [Gómez Argüelles 2019](https://doi.org/10.15446/profile.v21n1.69508) | q2 · qualitative · r3 | i? | [Instructors favored delayed over immediate oral corrective feedback, believing immediate c](teachers-favor-delayed-ocf-over-immediate.md) (qualifies) |
-| Zhiqi Gao 2026 | q2 · qualitative · r3 | i? | [Formative participants preferred post-session debriefing over in-session interruption, wit](feedback-timing-post-session-debrief-preference.md) (qualifies) |
-| Lili Chen 2026 | q2 · design · r2 | i? | [Platform users were more convinced than non-users that immediate, imperfect AI feedback is](users-value-immediate-ai-feedback-more-than-nonusers.md) (qualifies) |
+| [Zhiqi Gao 2026](https://doi.org/10.48550/arxiv.2606.17512) | q2 · qualitative · r3 | i? | [Formative participants preferred post-session debriefing over in-session interruption, wit](feedback-timing-post-session-debrief-preference.md) (qualifies) |
 | [Rienties 2026](https://doi.org/10.1016/j.caeai.2026.100607) | q2 · design · r3 | i? | [Distance students prefer an institution-embedded assistant offering 24/7 immediate, contex](aida-preferred-24-7-context-specific-feedback.md) (qualifies) |
 <!-- synthesis:end -->
 

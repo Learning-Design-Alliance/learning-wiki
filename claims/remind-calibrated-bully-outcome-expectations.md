@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: elaheh-sanoubari-2026
-    resource: "https://arxiv.org/abs/2604.00300"
-    title: "Elaheh Sanoubari, Neil Fernandes, Keith Rebello, Alicia Pan, Andrew Houston, and Kerstin Dautenhahn. (2026). Play-Testing REMind: Evaluating an Educational Robot-Mediated Role-Play Game. https://arxiv.org/abs/2604.00300"
+    resource: "https://doi.org/10.48550/arxiv.2604.00300"
+    title: "Elaheh Sanoubari, Neil Fernandes, Keith Rebello, Alicia Pan, Andrew Houston, and Kerstin Dautenhahn. (2026). Play-Testing REMind: Evaluating an Educational Robot-Mediated Role-Play Game. https://arxiv.org/abs/2604.00300 [doi:10.48550/arxiv.2604.00300](https://doi.org/10.48550/arxiv.2604.00300)"
     author: Elaheh Sanoubari, Neil Fernandes, Keith Rebello, Alicia Pan, Andrew Houston, and Kerstin Dautenhahn
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Elaheh Sanoubari 2026
 
-Elaheh Sanoubari, Neil Fernandes, Keith Rebello, Alicia Pan, Andrew Houston, and Kerstin Dautenhahn. (2026). Play-Testing REMind: Evaluating an Educational Robot-Mediated Role-Play Game. https://arxiv.org/abs/2604.00300
+Elaheh Sanoubari, Neil Fernandes, Keith Rebello, Alicia Pan, Andrew Houston, and Kerstin Dautenhahn. (2026). Play-Testing REMind: Evaluating an Educational Robot-Mediated Role-Play Game. https://arxiv.org/abs/2604.00300 [doi:10.48550/arxiv.2604.00300](https://doi.org/10.48550/arxiv.2604.00300)
 
 `q2 · i?` · `design · r2`
 

@@ -43,5 +43,5 @@ The report's West Virginia case study summary states that researchers found "sub
 
 
 ## Related Claims
-- [Two additional state characteristics are marginally associated with kindergarten math improvement: proportion of districts offering state-funded PreK and meeting all ten quality benchmarks](marginal-state-characteristics-math-improvement.md) — related
+- Two additional state characteristics are marginally associated with kindergarten math improvement: proportion of districts offering state-funded PreK and meeting all ten quality benchmarks — related
 - [Children who attend pre-kindergarten are more ready for kindergarten at the end of their pre-k year than children who do not attend](prek-attendance-kindergarten-readiness.md) — a broader claim this one bears on

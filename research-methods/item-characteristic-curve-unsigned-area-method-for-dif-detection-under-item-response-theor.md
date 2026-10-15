@@ -17,7 +17,7 @@ sources:
 # Item characteristic curve (unsigned area) method for DIF detection under item response theory
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The ICC method compares item characteristic curves estimated separately for reference and focal groups, computing the unsigned area between the male and female curves as a DIF index, using a probability index developed by Linn. Item parameters come from Samejima's graded-response model with random MML estimation, with a linear transformation placing groups on a common scale. A randomly split reference-group baseline estimates DIF attributable to sampling variation. The article notes this procedure yields one index per pair of rating categories rather than a simultaneous estimate.
@@ -27,7 +27,6 @@ The ICC method compares item characteristic curves estimated separately for refe
 - **Item characteristic curve (unsigned area) method for DIF detection under item response theory**: The ICC method compares item characteristic curves estimated separately for reference and focal groups, computing the unsigned area between the male and female curves as a DIF index, using a probability index developed by Linn. Item parameters come from Samejima's graded-response model with random MML estimation, with a linear transformation placing groups on a common scale. A randomly split reference-group baseline estimates DIF attributable to sampling variation. The article notes this procedure yields one index per pair of rating categories rather than a simultaneous estimate. (Holweger et al. (1998))
 
 ### Claims
-- [ICC method flags seven items with the largest DIF indices, two of which show slight nonuniform DIF that the unsigned-area measure understates](../claims/icc-identifies-seven-largest-dif-items.md) [+M]
 - [The assessment violates IRT assumptions of unidimensionality and local independence, which the authors identify as a likely cause of the method discrepancy](../claims/irt-assumption-violations-cause-dif-method-discrepancy.md) [+W]
 
 ## Related Research Methods
@@ -61,7 +60,6 @@ The ICC method compares item characteristic curves estimated separately for refe
 - detecting differential item functioning via comparison of item characteristic curves
 
 ### Claims
-- [Icc Identifies Seven Largest Dif Items](../claims/icc-identifies-seven-largest-dif-items.md) [+M]
 - [Irt Assumption Violations Cause Dif Method Discrepancy](../claims/irt-assumption-violations-cause-dif-method-discrepancy.md) [+W]
 
 ## Related Theories

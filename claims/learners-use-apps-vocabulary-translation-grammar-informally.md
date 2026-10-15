@@ -47,4 +47,4 @@ Narrative review of user studies, section 2.1. The review reports this from Rose
 - [Most language-learning apps focus on cognitive processes and receptive skills, lacking sociocognitive and collaborative activities](apps-focus-cognitive-receptive-skills-lack-collaboration.md) — related
 - [Mobile language learning apps are used mainly for vocabulary learning among surveyed app users](mall-vocabulary-most-supported-skill.md) — related
 - [Translation features in mobile apps enabled direct communication between educators and parents who speak languages other than English](app-translation-features-direct-communication.md) — related
-- [79% of literacy apps include adult-directed information, but few offer performance feedback (17%) or detail on educational content (14%)](parent-directed-information-rarely-instructional.md) — related
+- 79% of literacy apps include adult-directed information, but few offer performance feedback (17%) or detail on educational content (14%) — related

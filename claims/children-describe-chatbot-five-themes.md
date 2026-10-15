@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: saniya-vahedian-movahed-and-fred-martin-2025
-    resource: "https://arxiv.org/abs/2502.14217"
-    title: "Saniya Vahedian Movahed and Fred Martin. (2025). Ask Me Anything: Exploring children's attitudes toward an age-tailored AI-powered chatbot. arXiv. https://arxiv.org/abs/2502.14217"
+    resource: "https://doi.org/10.48550/arxiv.2502.14217"
+    title: "Saniya Vahedian Movahed and Fred Martin. (2025). Ask Me Anything: Exploring children's attitudes toward an age-tailored AI-powered chatbot. arXiv. https://arxiv.org/abs/2502.14217 [doi:10.48550/arxiv.2502.14217](https://doi.org/10.48550/arxiv.2502.14217)"
     author: Saniya Vahedian Movahed and Fred Martin
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Saniya Vahedian Movahed and Fred Martin 2025
 
-Saniya Vahedian Movahed and Fred Martin. (2025). Ask Me Anything: Exploring children's attitudes toward an age-tailored AI-powered chatbot. arXiv. https://arxiv.org/abs/2502.14217
+Saniya Vahedian Movahed and Fred Martin. (2025). Ask Me Anything: Exploring children's attitudes toward an age-tailored AI-powered chatbot. arXiv. https://arxiv.org/abs/2502.14217 [doi:10.48550/arxiv.2502.14217](https://doi.org/10.48550/arxiv.2502.14217)
 
 `q2 · i?` · `design · r2`
 

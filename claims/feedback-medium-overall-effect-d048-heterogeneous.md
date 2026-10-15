@@ -58,6 +58,6 @@ Q-test of homogeneity across all 994 effect sizes shows "The probability of homo
 
 
 ## Related Claims
-- [Feedback in CALL has a significant moderate positive effect on student language learning outcomes (RE g = 0.56) across 21 studies](call-feedback-medium-positive-effect.md) — related
+- Feedback in CALL has a significant moderate positive effect on student language learning outcomes (RE g = 0.56) across 21 studies — related
 - [Variation in meta-analytic effect sizes stems from synthesists' methodological choices (inclusion criteria, data extraction, formulas, outlier handling) and from study quality](meta-analysis-variation-from-methodological-choices.md) — related
 - [Feedback Addressing Task Improves Learning](feedback-addressing-task-improves-learning.md) — related

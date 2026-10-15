@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: bates-2013
-    resource: "https://arxiv.org/abs/1308.2202"
-    title: "Bates, S. P., Galloway, R. K., Riise, J., and Homer, D. (2013). Assessing the quality of a student-generated question repository. https://arxiv.org/abs/1308.2202"
+    resource: "https://doi.org/10.48550/arxiv.1308.2202"
+    title: "Bates, S. P., Galloway, R. K., Riise, J., and Homer, D. (2013). Assessing the quality of a student-generated question repository. https://arxiv.org/abs/1308.2202 [doi:10.48550/arxiv.1308.2202](https://doi.org/10.48550/arxiv.1308.2202)"
     author: Bates, S. P., Galloway, R. K., Riise, J., and Homer, D.
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Bates 2013
 
-Bates, S. P., Galloway, R. K., Riise, J., and Homer, D. (2013). Assessing the quality of a student-generated question repository. https://arxiv.org/abs/1308.2202
+Bates, S. P., Galloway, R. K., Riise, J., and Homer, D. (2013). Assessing the quality of a student-generated question repository. https://arxiv.org/abs/1308.2202 [doi:10.48550/arxiv.1308.2202](https://doi.org/10.48550/arxiv.1308.2202)
 
 `q3 · i?` · `design · r2`
 
@@ -48,6 +48,6 @@ Post-hoc coding of a representative sample of 602 questions from four introducto
 - [Explanation-quality distributions differed significantly between years for Physics 1A (2011 slightly lower) but not Physics 1B](explanation-quality-differs-by-year-1a-only.md) — related
 - [Over 95% of student-authored questions included an explanation, mostly of good or excellent quality](student-explanations-majority-good-or-excellent.md) — related
 - Question cognitive-level distributions differed significantly between years for Physics 1B but not Physics 1A — related
-- [Adult teachers' questions concentrate at low Bloom's levels, and cooperative learning's dialogue and questioning support critical thinking across Bloom's taxonomy](teacher-questions-low-bloom-levels-cooperative-dialogue.md) — related
+- Adult teachers' questions concentrate at low Bloom's levels, and cooperative learning's dialogue and questioning support critical thinking across Bloom's taxonomy — related
 - [Students created and took peer assessments in Forms, learning through writing quiz questions and answer options](forms-peer-collaboration-quiz-authoring.md) — related
 - [AI-generated assessment items frequently need faculty correction, supporting AI as a draft generator within quality assurance](genai-assessment-items-draft-generator-quality-assurance.md) — related

@@ -18,7 +18,7 @@ sources:
 # Four-Element Family Engagement Framework
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 A named family-engagement improvement framework or playbook that organizes work around capacity, process, infrastructure, and outcomes for adoption by schools and education organizations.
@@ -28,9 +28,6 @@ A named family-engagement improvement framework or playbook that organizes work 
 - **Four facets of meaningful and effective family engagement**: The report organizes its analysis of effective family engagement around four facets: "communication; shared decision-making; connections, trust, and mutual respect; and cultural inclusiveness." It holds that authentic engagement is a collaboration that "involves shared decision-making, trust, mutual respect, and should be asset based and culturally responsive," and that engagement strategies mainly bringing parents into the school building tend to be less effective than programs linking families to children's learning at home. The report uses these facets to structure its survey findings and recommendations. (Morgan et al. (2024))
 
 ### Claims
-- [Most parents of first and second graders report general satisfaction with their school's family engagement, but teachers want more time and professional development](../claims/parents-satisfied-family-engagement-teachers-want-support.md) [+M]
-- [While most parents agree they can influence school decisions, fewer than one-fifth report their school offers opportunities to provide input on classroom or schoolwide decisions](../claims/few-parents-offered-decision-input-opportunities.md) [+M]
-- [Most parents and teachers say their schools are culturally inclusive, but about one-fifth of parents and one-quarter of teachers disagree that instruction connects students' cultures to learning](../claims/culturally-sustainable-instruction-lags-inclusion.md) [+M]
 
 ## Related Products and Programmes
 

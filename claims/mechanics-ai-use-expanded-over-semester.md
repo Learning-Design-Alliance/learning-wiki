@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: shuang-geng-2026
-    resource: "https://arxiv.org/abs/2607.28710"
-    title: "Shuang Geng, Helen Lallos-Harrell, Jiya Ashar, Thomas J. McKenna, Annwesa Dasgupta, Caleb Farny, and Emma Lejeune. (2026). Structured AI Demonstrations and Student LLM Use in Engineering Mechanics: Study Design and Preliminary Results. https://arxiv.org/abs/2607.28710"
+    resource: "https://doi.org/10.48550/arxiv.2607.28710"
+    title: "Shuang Geng, Helen Lallos-Harrell, Jiya Ashar, Thomas J. McKenna, Annwesa Dasgupta, Caleb Farny, and Emma Lejeune. (2026). Structured AI Demonstrations and Student LLM Use in Engineering Mechanics: Study Design and Preliminary Results. https://arxiv.org/abs/2607.28710 [doi:10.48550/arxiv.2607.28710](https://doi.org/10.48550/arxiv.2607.28710)"
     author: Shuang Geng, Helen Lallos-Harrell, Jiya Ashar, Thomas J. McKenna, Annwesa Dasgupta, Caleb Farny, and Emma Lejeune
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Shuang Geng 2026
 
-Shuang Geng, Helen Lallos-Harrell, Jiya Ashar, Thomas J. McKenna, Annwesa Dasgupta, Caleb Farny, and Emma Lejeune. (2026). Structured AI Demonstrations and Student LLM Use in Engineering Mechanics: Study Design and Preliminary Results. https://arxiv.org/abs/2607.28710
+Shuang Geng, Helen Lallos-Harrell, Jiya Ashar, Thomas J. McKenna, Annwesa Dasgupta, Caleb Farny, and Emma Lejeune. (2026). Structured AI Demonstrations and Student LLM Use in Engineering Mechanics: Study Design and Preliminary Results. https://arxiv.org/abs/2607.28710 [doi:10.48550/arxiv.2607.28710](https://doi.org/10.48550/arxiv.2607.28710)
 
 `q2 · i?` · `associational · r1`
 
@@ -44,6 +44,6 @@ Pre/post survey in an undergraduate engineering mechanics course (pre n=100, pos
 
 ## Related Claims
 - [At baseline, mechanics-specific AI use was inversely related to course performance, but the direction of causation is indistinguishable](baseline-mechanics-ai-use-inversely-related-performance.md) — related
-- [In a voluntary pilot of a GenAI practice platform, 34 of 95 registrants attempted at least one question, generating 230 submissions with highly uneven engagement](genai-practice-platform-uptake-230-submissions.md) — related
+- In a voluntary pilot of a GenAI practice platform, 34 of 95 registrants attempted at least one question, generating 230 submissions with highly uneven engagement — related
 - [A majority of physics students (76%) perceived a positive change in their Gen AI interactions after prompt-engineering training](prompt-engineering-training-improves-perceived-gen-ai-interactions.md) — related
 - [Students' mean self-rated impact of AI on their mechanics learning rose from 5.85 to 6.35 on a 0-10 scale](perceived-ai-impact-rating-rose.md) — related

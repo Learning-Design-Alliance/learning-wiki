@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: taelin-karidi-2026
-    resource: "https://arxiv.org/abs/2606.29442"
-    title: "Taelin Karidi, Ofra Amir, and Ido Roll. (2026). AI in the Wild: A Large Scale Analysis of Authentic Interactions of College Students with Generative AI. https://arxiv.org/abs/2606.29442"
+    resource: "https://doi.org/10.48550/arxiv.2606.29442"
+    title: "Taelin Karidi, Ofra Amir, and Ido Roll. (2026). AI in the Wild: A Large Scale Analysis of Authentic Interactions of College Students with Generative AI. https://arxiv.org/abs/2606.29442 [doi:10.48550/arxiv.2606.29442](https://doi.org/10.48550/arxiv.2606.29442)"
     author: Taelin Karidi, Ofra Amir, and Ido Roll
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Taelin Karidi 2026
 
-Taelin Karidi, Ofra Amir, and Ido Roll. (2026). AI in the Wild: A Large Scale Analysis of Authentic Interactions of College Students with Generative AI. https://arxiv.org/abs/2606.29442
+Taelin Karidi, Ofra Amir, and Ido Roll. (2026). AI in the Wild: A Large Scale Analysis of Authentic Interactions of College Students with Generative AI. https://arxiv.org/abs/2606.29442 [doi:10.48550/arxiv.2606.29442](https://doi.org/10.48550/arxiv.2606.29442)
 
 `q2 · i?` · `associational · r1`
 
@@ -44,4 +44,4 @@ Distributional analysis of Bloom-level cognitive intent across all annotated tur
 
 ## Related Claims
 - [Interaction context and cognitive intent are structurally associated: task-directed interactions sit at lower-to-mid Bloom levels while own-work references carry higher-level requests](context-intent-joint-association.md) — related
-- [Higher-order questions (synthesis and evaluation) were rarely present in the examined question papers](higher-order-bloom-questions-rare.md) — related
+- Higher-order questions (synthesis and evaluation) were rarely present in the examined question papers — related

@@ -18,7 +18,7 @@ sources:
 # Library of Congress DBPH talking-book audio service network
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (2 for, 1 against) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 A Library of Congress Division for the Blind and Physically Handicapped service network that distributes recorded books and magazines, lending equipment and providing reader support through regional, state, local, and volunteer organizations.
@@ -27,9 +27,6 @@ A Library of Congress Division for the Blind and Physically Handicapped service 
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [The recommended conversion plan projects reader-population growth of 20 percent per year toward a goal of 2.25 million readers](../claims/conversion-plan-20-percent-annual-reader-growth.md) [+W]
-- [Plan 2 is the most cost-effective of twelve delineated conversion plans for recorded-book media conversion](../claims/plan2-most-cost-effective-disc-to-cassette-conversion.md) [+W]
-- [Equipment suppliers criticize DBPH procurement practices, including price-only awards and insufficient quality specifications](../claims/price-only-procurement-criticized-by-suppliers.md) [-W]
 
 ## Related Products and Programmes
 -
@@ -63,9 +60,6 @@ A national free reading service for blind and physically handicapped readers, au
 
 ### Claims
 <!- - Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] - ->
-- [The recommended conversion plan projects reader-population growth of 20 percent per year toward a goal of 2.25 million readers](../claims/conversion-plan-20-percent-annual-reader-growth.md) [+W]
-- [Plan 2 is the most cost-effective of twelve delineated conversion plans for recorded-book media conversion](../claims/plan2-most-cost-effective-disc-to-cassette-conversion.md) [+W]
-- [Equipment suppliers criticize DBPH procurement practices, including price-only awards and insufficient quality specifications](../claims/price-only-procurement-criticized-by-suppliers.md) [-W]
 
 ## Related Elements
 - 

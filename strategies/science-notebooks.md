@@ -12,7 +12,7 @@ generated:
 # Science Notebooks
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (4 for, 2 against) · 13 studies (5 causal, 5 quant-synthesis, 2 review, 1 theoretical), `q1`–`q4` · 6 of 13 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (4 for, 1 against) · 12 studies (5 quant-synthesis, 4 causal, 2 review, 1 theoretical), `q1`–`q4` · 6 of 12 report an effect size
 
 ## Description
 Science notebooks are structured written records in which students document observations, record data, make drawings and diagrams, note predictions, and construct explanations over the course of scientific investigations. The notebook functions simultaneously as a working tool (a place to think), a formative assessment source for the teacher, and a genre practice ground for the communication norms of science. Implementation typically pairs notebook entries with investigation cycles: students write before (predictions), during (data, sketches), and after (claims and explanations) hands-on work.
@@ -61,7 +61,6 @@ Science notebooks operationalize the "writing to learn" tradition: transforming 
 
 ## Claims
 
-- [Student engagement with the Science Power Notebooks and eBooks dropped significantly after the transition to distance learning](../claims/notebook-ebook-engagement-dropped-distance-learning.md) [-W]
 
 ## Related Strategies
 - [Claim-Evidence-Reasoning Frameworks](../strategies/claim-evidence-reasoning.md) — the explanation scaffold most commonly embedded in notebook prompts

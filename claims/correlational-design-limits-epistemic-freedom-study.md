@@ -49,10 +49,10 @@ The authors' own limitations section for this correlational, cross-sectional stu
 - [Learner-centered teacher–student relationships are associated with better student outcomes](teacher-student-relationships-improve-engagement.md) — related
 - [Short-term, non-longitudinal training programmes pose challenges for estimating long-term skill retention](short-term-training-challenges-long-term-skill-retention.md) — related
 - [Adults' resorting to epistemic violence correlates negatively with past enjoyment of and tendency toward education-related epistemic freedom](epistemic-violence-negatively-correlated-epistemic-freedom.md) — related
-- [Overlapping confidence intervals of Japanese math performance and mastery learning effects indicate a potential relationship, not a causal conclusion](overlapping-ci-potential-relationship.md) — a narrower finding that bears on this claim
+- Overlapping confidence intervals of Japanese math performance and mastery learning effects indicate a potential relationship, not a causal conclusion — a narrower finding that bears on this claim
 - [The three Pittsburgh teacher effectiveness measures are positively, moderately correlated, suggesting they are valid and complementary](pittsburgh-teacher-measures-moderately-correlated.md) — related
 - [School median student growth percentiles correlate with student disadvantage](school-mgp-correlates-student-disadvantage.md) — a narrower finding that bears on this claim
 - [A K-3 school-level growth measure was estimated and examined, with validity and precision concerns suggesting cautious use for accountability](k3-growth-measure-validity-precision-caution.md) — related
 - [Several component measure ratings and the overall rating had low, negative correlations with student socioeconomic disadvantage, suggesting possible bias against principals of more disadvantaged schools](principal-ratings-negative-correlation-socioeconomic-disadvantage.md) — related
-- [First-grade students reported finding eSpark engaging, and app ratings averaged 0.68 on a like/dislike scale, though the rating measure has limited validity](espark-student-engagement-positive-ratings.md) — related
+- First-grade students reported finding eSpark engaging, and app ratings averaged 0.68 on a like/dislike scale, though the rating measure has limited validity — related
 - [Self-selection into ST Math adoption limits causal interpretation of the positive math outcomes](st-math-evaluation-voluntary-participation-selection-bias.md) — a narrower finding that bears on this claim

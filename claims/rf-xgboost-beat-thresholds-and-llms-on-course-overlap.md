@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: arthur-nijdam-2026
-    resource: "https://arxiv.org/abs/2608.05910"
-    title: "Arthur Nijdam, Paul Stankovski Wagner, Sara Ramezanian. (2026). CourseGraph: Finding overlaps and differences in Computer Science courses across universities. https://arxiv.org/abs/2608.05910"
+    resource: "https://doi.org/10.48550/arxiv.2608.05910"
+    title: "Arthur Nijdam, Paul Stankovski Wagner, Sara Ramezanian. (2026). CourseGraph: Finding overlaps and differences in Computer Science courses across universities. https://arxiv.org/abs/2608.05910 [doi:10.48550/arxiv.2608.05910](https://doi.org/10.48550/arxiv.2608.05910)"
     author: Arthur Nijdam, Paul Stankovski Wagner, Sara Ramezanian
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # On the TU/e CS overlap dataset, supervised NLP classifiers (Random Forest, XGBoost) outperform thresholding and zero-shot LLM baselines at detecting course overlap
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In 5-fold cross-validation on the TU/e dataset, Random Forest achieved F1 = 0.74 and XGBoost F1 = 0.73, the best balance of precision and recall among evaluated methods. [→ Arthur Nijdam 2026](#arthur-nijdam-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Arthur Nijdam 2026
 
-Arthur Nijdam, Paul Stankovski Wagner, Sara Ramezanian. (2026). CourseGraph: Finding overlaps and differences in Computer Science courses across universities. https://arxiv.org/abs/2608.05910
+Arthur Nijdam, Paul Stankovski Wagner, Sara Ramezanian. (2026). CourseGraph: Finding overlaps and differences in Computer Science courses across universities. https://arxiv.org/abs/2608.05910 [doi:10.48550/arxiv.2608.05910](https://doi.org/10.48550/arxiv.2608.05910)
 
 `q2 · i?` · `design · r2`
 

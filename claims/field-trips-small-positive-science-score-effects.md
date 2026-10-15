@@ -11,8 +11,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: emilyn-ruble-whitesell-2016
-    resource: "https://www.mathematica.org/publications/a-day-at-the-museum-the-impact-of-field-trips-on-middle-school-science-achievement"
-    title: "Emilyn Ruble Whitesell. (2016). A Day at the Museum: The Impact of Field Trips on Middle School Science Achievement. Journal of Research in Science Teaching, vol. 53, issue 7. https://www.mathematica.org/publications/a-day-at-the-museum-the-impact-of-field-trips-on-middle-school-science-achievement"
+    resource: "https://doi.org/10.1002/tea.21322"
+    title: "Emilyn Ruble Whitesell. (2016). A Day at the Museum: The Impact of Field Trips on Middle School Science Achievement. Journal of Research in Science Teaching, vol. 53, issue 7. https://www.mathematica.org/publications/a-day-at-the-museum-the-impact-of-field-trips-on-middle-school-science-achievement [doi:10.1002/tea.21322](https://doi.org/10.1002/tea.21322)"
     author: Emilyn Ruble Whitesell
     q: 3
     i: "?"
@@ -35,7 +35,7 @@ sources:
 
 ### Emilyn Ruble Whitesell 2016
 
-Emilyn Ruble Whitesell. (2016). A Day at the Museum: The Impact of Field Trips on Middle School Science Achievement. Journal of Research in Science Teaching, vol. 53, issue 7. https://www.mathematica.org/publications/a-day-at-the-museum-the-impact-of-field-trips-on-middle-school-science-achievement
+Emilyn Ruble Whitesell. (2016). A Day at the Museum: The Impact of Field Trips on Middle School Science Achievement. Journal of Research in Science Teaching, vol. 53, issue 7. https://www.mathematica.org/publications/a-day-at-the-museum-the-impact-of-field-trips-on-middle-school-science-achievement [doi:10.1002/tea.21322](https://doi.org/10.1002/tea.21322)
 
 `q3 · i?` · `causal · r2`
 

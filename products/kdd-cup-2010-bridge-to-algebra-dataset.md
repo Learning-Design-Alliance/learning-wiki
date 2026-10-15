@@ -18,7 +18,7 @@ sources:
 # KDD Cup 2010 Bridge to Algebra dataset
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 A Carnegie Learning–donated dataset distributed through the PSLC DataShop containing large-scale student interaction records from mathematics curriculum practice for educational data-mining and knowledge-tracing research.
@@ -28,7 +28,6 @@ A Carnegie Learning–donated dataset distributed through the PSLC DataShop cont
 - **KDD Cup 2010 Bridge to Algebra dataset and the hmmsclbl fitting tool**: The KDD Cup 2010 Bridge to Algebra dataset, donated by Carnegie Learning and downloadable from the PSLC DataShop, is the validation corpus for Spectral BKT. It "contains about 20 million transactions belonging to over 6 thousand students working on nearly 150 sections of mathematics curriculum practicing around 1650 skills", including curriculum and problem context, cognitive skill labels, timing, first-attempt correctness, and assistance information. The authors describe it as the largest freely available collection of learner data. Models were fit and cross-validated with hmmsclbl, a C/C++ utility available at the standard-bkt GitHub repository. (Falakmasir et al. (2015))
 
 ### Claims
-- [Spectral BKT achieves higher prediction accuracy than standard BKT on the KDD Cup 2010 Bridge to Algebra data, reaching 92% accuracy](../claims/spectral-bkt-beats-standard-bkt-accuracy-kdd2010.md) [+M]
 
 ## Related Products and Programmes
 
@@ -64,7 +63,6 @@ The KDD Cup 2010 Bridge to Algebra dataset, donated by Carnegie Learning and dow
 
 ### Claims
 <!- - Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] - ->
-- [Spectral BKT achieves higher prediction accuracy than standard BKT on the KDD Cup 2010 Bridge to Algebra data, reaching 92% accuracy](../claims/spectral-bkt-beats-standard-bkt-accuracy-kdd2010.md) [+M]
 
 ## Related Elements
 

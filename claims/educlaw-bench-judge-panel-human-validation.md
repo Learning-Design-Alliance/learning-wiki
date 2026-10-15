@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: lee-2026
-    resource: "https://arxiv.org/abs/2608.03206"
-    title: "Lee, U.; Lee, S.; Jeong, Y.; Lee, E.; Shin, M.; Kwon, H. (2026). EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners. https://arxiv.org/abs/2608.03206"
+    resource: "https://doi.org/10.48550/arxiv.2608.03206"
+    title: "Lee, U.; Lee, S.; Jeong, Y.; Lee, E.; Shin, M.; Kwon, H. (2026). EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners. https://arxiv.org/abs/2608.03206 [doi:10.48550/arxiv.2608.03206](https://doi.org/10.48550/arxiv.2608.03206)"
     author: Lee, U.; Lee, S.; Jeong, Y.; Lee, E.; Shin, M.; Kwon, H.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Lee 2026
 
-Lee, U.; Lee, S.; Jeong, Y.; Lee, E.; Shin, M.; Kwon, H. (2026). EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners. https://arxiv.org/abs/2608.03206
+Lee, U.; Lee, S.; Jeong, Y.; Lee, E.; Shin, M.; Kwon, H. (2026). EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners. https://arxiv.org/abs/2608.03206 [doi:10.48550/arxiv.2608.03206](https://doi.org/10.48550/arxiv.2608.03206)
 
 `q2 · i?` · `design · r2`
 
@@ -52,7 +52,7 @@ Human validation with two domain experts scoring about 40 judged days per axis, 
 - [Human-LLM agreement on a complex multi-label codebook falls well below human-human agreement, while LLM-LLM agreement is comparable to human-human agreement](human-llm-agreement-gap-jaccard.md) — reports the opposite
 - [An LLM-based AI Evaluator agrees with expert human raters on collaboration transcripts at a level similar to inter-expert agreement](llm-evaluator-agreement-matches-expert-raters.md) — related
 - [Automated judging aligns strongly with three domain experts (r = 0.82 for role fidelity) but exhibits a conservative bias, scoring ethical deviation 0.08 points lower than humans](automated-judge-human-alignment-conservative-bias.md) — related
-- [An open-source Llama3 model reached substantial agreement with a human coder when sentiment-labeling pre-extracted student reflection quotes](llama3-substantial-kappa-sentiment-labeling-quotes.md) — related
+- An open-source Llama3 model reached substantial agreement with a human coder when sentiment-labeling pre-extracted student reflection quotes — related
 - [Unanimous-fail panels alone reduced benchmark activation by approximately 40% on average for three Critical evaluators, but were insufficient on their own](unanimous-panels-40-percent-activation-reduction.md) — related
 - [LLM-as-a-Judge scores correlate with blinded human expert judgments, more strongly for Medical Narrative Generation than Story Direction](llm-judge-correlates-human-experts-medgame.md) — related
 - [Automated metrics and LLM judges can misalign with expert human preferences in non-verifiable educational evaluation](non-verifiability-crisis-llm-judges-misalign.md) — reports the opposite

@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Nonfunded partnerships through research barter, where high-quality research is carried out in a hybrid environment without money changing hands, enhanced reciprocity because the Global South partner initiated the challenge and cocreated the solution. [→ Vijge 2025](#vijge-2025)
@@ -43,10 +44,10 @@ Autoethnographic reflection on funding and resources. The authors "observed that
 
 
 ## Related Claims
-- [Both a lack of rules and a plethora of rules and regulations reduce equality and reciprocity in ICEL, creating a balance dilemma](bureaucracy-levels-dilemma-icel-equality-reciprocity.md) — related
-- [Full equality in ICEL decision-making and funding distribution is not possible for non-EU partners in European Universities alliances](full-equality-unattainable-non-eu-partners-eu-alliances.md) — related
-- [EU funding criteria often do not allow channeling funding to Global South partners, requiring separate funding for ICEL](eu-funding-criteria-exclude-global-south-partners.md) — related
-- [A lack of funding privileges more resourceful partners, and CHARM-EU declined stakeholder funding requests to avoid favoring some student teams over others](funding-evenhandedness-impedes-global-south-pilots.md) — related
-- [Staff time for the Capstone was limited and unequally divided across CHARM-EU partners, with University of Pretoria staff receiving no hours or funding](unequal-staff-hours-undermine-equal-decision-making-icel.md) — related
-- [Students felt uncomfortable with short-term European fieldwork in South Africa with limited interaction with local researchers and communities](short-term-fieldwork-limits-reciprocal-engagement.md) — related
+- Both a lack of rules and a plethora of rules and regulations reduce equality and reciprocity in ICEL, creating a balance dilemma — related
+- Full equality in ICEL decision-making and funding distribution is not possible for non-EU partners in European Universities alliances — related
+- EU funding criteria often do not allow channeling funding to Global South partners, requiring separate funding for ICEL — related
+- A lack of funding privileges more resourceful partners, and CHARM-EU declined stakeholder funding requests to avoid favoring some student teams over others — related
+- Staff time for the Capstone was limited and unequally divided across CHARM-EU partners, with University of Pretoria staff receiving no hours or funding — related
+- Students felt uncomfortable with short-term European fieldwork in South Africa with limited interaction with local researchers and communities — related
 - [When engagement with partners is relatively limited, researchers should be especially thoughtful about how findings translate to action-oriented recommendations](limited-engagement-requires-careful-action-oriented-recommendations.md) — related

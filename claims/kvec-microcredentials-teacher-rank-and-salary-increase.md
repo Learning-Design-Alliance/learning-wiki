@@ -41,5 +41,5 @@ Findings from the Kentucky Valley Educational Cooperative case study, based on s
 
 
 ## Related Claims
-- [Districts and universities increasingly attach concrete incentives to earning Digital Promise micro-credentials](recognizer-incentives-for-micro-credentials.md) — related
+- Districts and universities increasingly attach concrete incentives to earning Digital Promise micro-credentials — related
 - [Most rural learner participants reported micro-credentials yielded increased opportunity for skill development, job promotion, salary increase, credential attainment, and/or enrollment in additional educational programming](rural-microcredential-learners-report-skill-and-employment-gains.md) — a broader claim this one bears on

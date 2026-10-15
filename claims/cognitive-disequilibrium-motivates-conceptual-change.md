@@ -114,11 +114,11 @@ Thirty-two undergraduates took part in eight computer-based "trialogues" about r
 - [Analogical reasoning improves transfer.](comparing-contrasting-cases-improves-learning.md) — analogy is one route for resolving disequilibrium by mapping a familiar conception onto the anomalous case
 - [Cognitive flexibility theory: multiple cases.](cognitive-flexibility-theory-multiple-cases.md) — multiple representations and cases help learners restructure knowledge after conflict
 - [Coherence principle: irrelevant material hurts learning.](coherence-principle-irrelevant-material-hurts-learning.md) — conflict should come from the target conception, not from extraneous material adding load
-- [Contradictions within and across activity systems are vital forces for change and provide a rationale for CSL](chat-contradictions-activity-systems-rationale-for-csl.md) — related
+- Contradictions within and across activity systems are vital forces for change and provide a rationale for CSL — related
 - [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](misconceptions-interfere-with-new-learning.md) — related
-- [Children in Constructivist kindergarten classrooms showed greater effort resolving interpersonal conflicts than children in eclectic or didactic classrooms](constructivist-kindergarten-greater-conflict-resolution-effort.md) — related
-- [Higher internal disequilibrium (Level Mixture) predicts Modal Level advance but not Map Drawing Mean improvement](level-mixture-predicts-modal-level-advance.md) — a narrower finding that bears on this claim
-- [Change in new teachers requires a restructuring of their prior beliefs](new-teacher-change-requires-restructuring-prior-beliefs.md) — related
+- Children in Constructivist kindergarten classrooms showed greater effort resolving interpersonal conflicts than children in eclectic or didactic classrooms — related
+- Higher internal disequilibrium (Level Mixture) predicts Modal Level advance but not Map Drawing Mean improvement — a narrower finding that bears on this claim
+- Change in new teachers requires a restructuring of their prior beliefs — related
 - [Peer conflicts did not always produce conceptual change; they appeared to work only for students prepared to reflect on and reconstruct their conceptions](peer-conflicts-conditional-on-reflection.md) — a narrower finding that bears on this claim
 - [Conflict with a machine-learning decision support system's output induces deeper reflection than confirmation](conflict-seed-induces-deeper-reflection.md) — a narrower finding that bears on this claim
 - [Immersive learning tools should surface misconceptions and track learner difficulties so instructors can adapt teaching and assessment](tools-should-surface-misconceptions-track-difficulties.md) — related

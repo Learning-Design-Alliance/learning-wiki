@@ -38,7 +38,7 @@ sources:
 # NWEA MAP Growth assessment and longitudinal achievement database
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 12 claims (12 for) · 5 studies (5 associational), `q2`–`q3` · 0 of 5 report an effect size · 10 claims rest on one study
+> **Evidence** · 12 claims (12 for) · 4 studies (4 associational), `q2`–`q3` · 0 of 4 report an effect size · 12 claims rest on one study
 
 ## Description
 A longitudinal database of student achievement and growth scores collected through NWEA's MAP Growth assessments and used for large-scale educational analysis.

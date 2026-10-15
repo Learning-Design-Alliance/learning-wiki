@@ -17,7 +17,7 @@ sources:
 # ICAP theory: a taxonomy of four cognitive engagement modes with a hierarchical learning prediction
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 10 claims (7 for, 3 mixed) · 5 studies (2 design, 1 review, 1 associational, 1 theoretical), `q1`–`q2` · 1 of 5 report an effect size · 10 claims rest on one study
+> **Evidence** · 8 claims (5 for, 3 mixed) · 4 studies (2 design, 1 associational, 1 theoretical), `q1`–`q2` · 1 of 4 report an effect size · 8 claims rest on one study
 
 ## Description
 ICAP defines four modes of cognitive engagement — Interactive, Constructive, Active, and Passive — operationally differentiated by students' overt behaviors and products. The article states that "ICAP encompasses three components: a taxonomy of four engagement modes and the operational definition of each mode, a metric that can define the degree of engagement based on the cognitive processes corresponding to the four behavioral modes, and a hypothesis that can predict the hierarchical levels of student learning as a function of the mode of engagement." Each mode is mapped to underlying knowledge-change processes (storing, activating, linking, inferring), and the modes are hierarchically ordered so that Interactive subsumes Constructive, which subsumes Active, which subsumes Passive.
@@ -42,8 +42,8 @@ ICAP defines four modes of cognitive engagement — Interactive, Constructive, A
 
 ### Claims
 
-- [Included AI literacy activities spanned all four ICAP modes, with passive modes in nine studies, active in five, constructive in seven, and interactive in eight](../claims/icap-modes-across-ai-literacy-studies.md) [+W] — attached 2026-10-11 from A Hingle (2024), which proposed "ICAP framework: Interactive-Constructive-Active-Passive hierarchy of learning modes".
-- [The largest learning gain in the ICAP hierarchy occurs when moving from the Active to the Constructive mode](../claims/active-to-constructive-largest-leap.md) [+W] — attached 2026-10-11 from A Hingle (2024), which proposed "ICAP framework: Interactive-Constructive-Active-Passive hierarchy of learning modes"; tests this page's relationship.
+- Included AI literacy activities spanned all four ICAP modes, with passive modes in nine studies, active in five, constructive in seven, and interactive in eight [+W] — attached 2026-10-11 from A Hingle (2024), which proposed "ICAP framework: Interactive-Constructive-Active-Passive hierarchy of learning modes".
+- The largest learning gain in the ICAP hierarchy occurs when moving from the Active to the Constructive mode [+W] — attached 2026-10-11 from A Hingle (2024), which proposed "ICAP framework: Interactive-Constructive-Active-Passive hierarchy of learning modes"; tests this page's relationship.
 - [Scaffolded assistant support marks richer constructive participation at the conversation level across all six task settings](../claims/scaffolded-support-constructive-participation.md) [+W] — attached 2026-10-11 from Chen et al. (2026), which proposed "Turn-level behavioural signatures of informal learning: ICAP engagement depth and scaffolding translated into role-specific labels for naturalistic human–LLM logs".
 - [Fully offloading schoolwork to generative AI without personal input forgoes meaningful engagement and skill development](../claims/full-ai-offloading-forgoes-engagement-and-skills.md) [+W] — attached 2026-10-12 from Rummel et al. (2026), which proposed "ICAP framework: four modes of cognitive engagement from passive to interactive".
 - [Using generative AI as a dialogic partner for brainstorming, feedback, and co-construction can support constructive and interactive learning](../claims/ai-dialogic-partner-constructive-interactive-learning.md) [+W] — attached 2026-10-12 from Rummel et al. (2026), which proposed "ICAP framework: four modes of cognitive engagement from passive to interactive".

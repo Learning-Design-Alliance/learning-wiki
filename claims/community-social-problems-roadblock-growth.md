@@ -45,5 +45,5 @@ Descriptive trend analysis of the community social-problems survey item across 2
 ## Related Claims
 - [The same four roadblocks to school improvement topped principals' rankings across ten years of surveys, with subgroup contrasts in emphasis](cps-roadblocks-stable-top-four.md) — related
 - [More than half of CPS high school teachers report robbery or theft problems and over 60 percent report gang activity and physical conflicts among students](high-school-teacher-crime-disorder-reports.md) — related
-- [The proportion of U.S. students in deep poverty has grown from 14.3 percent to 21.1 percent, totaling over 10 million students](deep-poverty-students-grew-14-to-21-percent.md) — related
+- The proportion of U.S. students in deep poverty has grown from 14.3 percent to 21.1 percent, totaling over 10 million students — related
 - [Managing resources under student-based budgeting was the single most challenging roadblock CPS administrators reported since 1992, with 66 percent rating it a significant or complete roadblock in 2017](student-based-budgeting-highest-cps-roadblock.md) — related

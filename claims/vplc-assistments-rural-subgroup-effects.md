@@ -66,4 +66,4 @@ Subgroup analysis of low-performing rural students (n = 733 per Table 3). The ta
 - [The vPLC-augmented ASSISTments treatment sample comprised 59 teachers and 2,855 students in grades 6-8 from 36 public schools across 24 U.S. states, half in rural areas](treatment-sample-rural-middle-schools-assistments.md) — related
 - [Low-performing students (below the 50th pretest percentile) showed significant improvement with vPLC-augmented ASSISTments](vplc-assistments-low-performing-significant-gain.md) — related
 - [vPLC-augmented ASSISTments did not significantly improve overall middle school math achievement relative to a virtual comparison group](vplc-assistments-no-significant-overall-effect.md) — a broader claim this one bears on
-- [eMINTS produces a statistically significant positive effect on state math measures (ES +0.15) in a 3-year rural Missouri study](emints-math-effect-015-strong.md) — related
+- eMINTS produces a statistically significant positive effect on state math measures (ES +0.15) in a 3-year rural Missouri study — related

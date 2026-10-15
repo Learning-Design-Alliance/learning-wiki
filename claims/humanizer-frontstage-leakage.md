@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: roe-2026
-    resource: "https://arxiv.org/abs/2605.02649"
-    title: "Roe, J., Perkins, M., Bannister, P., Furze, L., & Wood, J. (2026). Dramaturgies of Deception: AI Humanizers and the Performance of Legitimacy in Higher Education Assessment. A preprint. https://arxiv.org/abs/2605.02649"
+    resource: "https://doi.org/10.48550/arxiv.2605.02649"
+    title: "Roe, J., Perkins, M., Bannister, P., Furze, L., & Wood, J. (2026). Dramaturgies of Deception: AI Humanizers and the Performance of Legitimacy in Higher Education Assessment. A preprint. https://arxiv.org/abs/2605.02649 [doi:10.48550/arxiv.2605.02649](https://doi.org/10.48550/arxiv.2605.02649)"
     author: "Roe, J., Perkins, M., Bannister, P., Furze, L., & Wood, J."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Roe 2026
 
-Roe, J., Perkins, M., Bannister, P., Furze, L., & Wood, J. (2026). Dramaturgies of Deception: AI Humanizers and the Performance of Legitimacy in Higher Education Assessment. A preprint. https://arxiv.org/abs/2605.02649
+Roe, J., Perkins, M., Bannister, P., Furze, L., & Wood, J. (2026). Dramaturgies of Deception: AI Humanizers and the Performance of Legitimacy in Higher Education Assessment. A preprint. https://arxiv.org/abs/2605.02649 [doi:10.48550/arxiv.2605.02649](https://doi.org/10.48550/arxiv.2605.02649)
 
 `q2 · i?` · `qualitative · r3`
 

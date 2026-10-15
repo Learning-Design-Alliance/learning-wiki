@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: tomohiro-nagashima-2026
-    resource: "https://arxiv.org/abs/2606.03822"
-    title: "Tomohiro Nagashima, Mirella Hladký, and Vera Rief. (2026). Warning About AI Fallibility Increases Help-Seeking in an Intelligent Tutoring System. https://arxiv.org/abs/2606.03822"
+    resource: "https://doi.org/10.48550/arxiv.2606.03822"
+    title: "Tomohiro Nagashima, Mirella Hladký, and Vera Rief. (2026). Warning About AI Fallibility Increases Help-Seeking in an Intelligent Tutoring System. https://arxiv.org/abs/2606.03822 [doi:10.48550/arxiv.2606.03822](https://doi.org/10.48550/arxiv.2606.03822)"
     author: Tomohiro Nagashima, Mirella Hladký, and Vera Rief
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Tomohiro Nagashima 2026
 
-Tomohiro Nagashima, Mirella Hladký, and Vera Rief. (2026). Warning About AI Fallibility Increases Help-Seeking in an Intelligent Tutoring System. https://arxiv.org/abs/2606.03822
+Tomohiro Nagashima, Mirella Hladký, and Vera Rief. (2026). Warning About AI Fallibility Increases Help-Seeking in an Intelligent Tutoring System. https://arxiv.org/abs/2606.03822 [doi:10.48550/arxiv.2606.03822](https://doi.org/10.48550/arxiv.2606.03822)
 
 `q2 · i?` · `causal · r2`
 

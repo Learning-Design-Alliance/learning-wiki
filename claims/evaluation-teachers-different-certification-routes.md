@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: jill-constantine-2009
-    resource: "https://www.mathematica.org/publications/evaluation-of-teachers-trained-through-different-routes-to-certification"
-    title: "Jill Constantine. (2009). Evaluation of Teachers Trained Through Different Routes to Certification. Mathematica. https://www.mathematica.org/publications/evaluation-of-teachers-trained-through-different-routes-to-certification"
+    resource: "https://doi.org/10.1108/978-1-61735-022-120251031"
+    title: "Jill Constantine. (2009). Evaluation of Teachers Trained Through Different Routes to Certification. Mathematica. https://www.mathematica.org/publications/evaluation-of-teachers-trained-through-different-routes-to-certification [doi:10.1108/978-1-61735-022-120251031](https://doi.org/10.1108/978-1-61735-022-120251031)"
     author: Jill Constantine
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Jill Constantine 2009
 
-Jill Constantine. (2009). Evaluation of Teachers Trained Through Different Routes to Certification. Mathematica. https://www.mathematica.org/publications/evaluation-of-teachers-trained-through-different-routes-to-certification
+Jill Constantine. (2009). Evaluation of Teachers Trained Through Different Routes to Certification. Mathematica. https://www.mathematica.org/publications/evaluation-of-teachers-trained-through-different-routes-to-certification [doi:10.1108/978-1-61735-022-120251031](https://doi.org/10.1108/978-1-61735-022-120251031)
 
 `q1 · i?` · `causal · r?`
 

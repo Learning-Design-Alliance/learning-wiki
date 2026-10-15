@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: gina-livermore-2020
-    resource: "https://www.mathematica.org/publications/insights-about-the-transition-system-for-ssi-youth-from-the-national-evaluation-of-promoting"
-    title: "Gina Livermore, Todd Honeycutt, Arif Mamun, Jacqueline Kauff. (2020). Insights About the Transition System for SSI Youth from the National Evaluation of Promoting Readiness of Minors in SSI (PROMISE). Journal of Vocational Rehabilitation, vol. 52, no. 1. https://www.mathematica.org/publications/insights-about-the-transition-system-for-ssi-youth-from-the-national-evaluation-of-promoting"
+    resource: "https://doi.org/10.3233/jvr-191056"
+    title: "Gina Livermore, Todd Honeycutt, Arif Mamun, Jacqueline Kauff. (2020). Insights About the Transition System for SSI Youth from the National Evaluation of Promoting Readiness of Minors in SSI (PROMISE). Journal of Vocational Rehabilitation, vol. 52, no. 1. https://www.mathematica.org/publications/insights-about-the-transition-system-for-ssi-youth-from-the-national-evaluation-of-promoting [doi:10.3233/jvr-191056](https://doi.org/10.3233/jvr-191056)"
     author: Gina Livermore, Todd Honeycutt, Arif Mamun, Jacqueline Kauff
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Gina Livermore 2020
 
-Gina Livermore, Todd Honeycutt, Arif Mamun, Jacqueline Kauff. (2020). Insights About the Transition System for SSI Youth from the National Evaluation of Promoting Readiness of Minors in SSI (PROMISE). Journal of Vocational Rehabilitation, vol. 52, no. 1. https://www.mathematica.org/publications/insights-about-the-transition-system-for-ssi-youth-from-the-national-evaluation-of-promoting
+Gina Livermore, Todd Honeycutt, Arif Mamun, Jacqueline Kauff. (2020). Insights About the Transition System for SSI Youth from the National Evaluation of Promoting Readiness of Minors in SSI (PROMISE). Journal of Vocational Rehabilitation, vol. 52, no. 1. https://www.mathematica.org/publications/insights-about-the-transition-system-for-ssi-youth-from-the-national-evaluation-of-promoting [doi:10.3233/jvr-191056](https://doi.org/10.3233/jvr-191056)
 
 `q3 · i?` · `causal · r?`
 
@@ -44,9 +44,9 @@ Finding on interagency collaboration from the national PROMISE evaluation. The a
 
 ## Related Claims
 - [CLASP made limited progress on cooperative activities and little progress on developing replicable collaboration models](clasp-limited-collaboration-models.md) — related
-- [CLASP succeeded in bringing ethnically diverse and underserved users into the library but programs often failed to create links to books, reading, or library services](clasp-diverse-users-missing-library-links.md) — related
+- CLASP succeeded in bringing ethnically diverse and underserved users into the library but programs often failed to create links to books, reading, or library services — related
 - [Relational trust and rapid-response adaptation help research-practice partnerships survive acute disruption](rpp-adaptive-practices-sustain-partnerships-during-disruption.md) — related
-- [Communication, cooperation, and coordination were the most critical factors in successful CLASP programming](clasp-critical-success-factors-communication.md) — related
+- Communication, cooperation, and coordination were the most critical factors in successful CLASP programming — related
 - [FEIP was associated with improvements in interagency collaboration and organizational capacity to support family engagement](feip-interagency-collaboration-capacity-improvements.md) — related
 - Community organizations and public agencies in Silicon Valley rarely hold formal partnerships with schools, but nearly half report engaging in collaborative community vision setting — related
 - [SSSCs collaborate with a range of state organizations, most commonly through co-branding or sharing information externally](sssc-collaboration-co-branding-information-sharing.md) — related

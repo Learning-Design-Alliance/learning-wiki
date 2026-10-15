@@ -16,7 +16,7 @@ sources:
 # Baldwin's genetic logic as the elaboration of natural thought processes
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 In his four-volume Thought and Things, Baldwin differentiated three types of logic: formal, dialectical, and genetic. The paper states that "the genetic logic adopted by Baldwin concerned itself with the elaboration of natural thought processes," revealing themselves through individuals' adaptive responses to their environments — forming new habits, organizing new experiences, and learning about the world. This framework anticipates Piaget's constructivist genetic epistemology.
@@ -38,11 +38,6 @@ In his four-volume Thought and Things, Baldwin differentiated three types of log
 
 ### Claims
 
-- [Baldwin, not Piaget, first proposed progressive stage-by-stage development and a genetic epistemology founded on assimilation and accommodation](../claims/baldwin-first-genetic-epistemology-stage-synthesis.md) [+W]
-- [Both Baldwin and Piaget explained development through the complementary processes of assimilation and accommodation, with accommodation arising from conflict with habit](../claims/assimilation-accommodation-baldwin-piaget-shared.md) [+W]
-- [Baldwin's work receives little recognition today although his theories anticipated Piaget's, for reasons including lack of empirical basis and a 1908 scandal](../claims/baldwin-little-notoriety-reasons.md) [+W]
-- [Scholarly views differ on whether Piaget appropriated Baldwin's ideas or extended them with empirical support](../claims/piaget-appropriation-versus-extension-debate.md) [+W]
-- [Piaget denied Baldwin's influence, calling the theoretical similarities simple convergences, yet his mentor Janet had been strongly influenced by Baldwin](../claims/piaget-denial-janet-transmission-baldwin.md) [+W]
 
 ## Related Theories
 

@@ -15,7 +15,7 @@ sources:
 # Five frameworks for evaluating ex ante broader impacts of research vary in emphasis on methods versus outcomes
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (2 review), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The report describes five frameworks that can be used to evaluate ex ante broader impacts: the HERG Payback Framework, SIAMPI, Contribution Mapping, the Research Contribution Framework, and the RAPID Outcome Mapping Approach. They "vary widely in their emphasis on methods and outcomes." HERG "assumes that broader impacts of research are linear," while other models assume steps in the research process can feed back to earlier steps and that broader impacts can occur at any stage. SIAMPI focuses on productive interactions between researchers and non-academics; Contribution Mapping focuses on actor activities toward research methods; the Research Contribution Framework focuses on research uptake by non-academics within defined organizations; and RAPID focuses exclusively on outcomes including attitude and behavior changes of non-academics.
@@ -36,8 +36,6 @@ The report describes five frameworks that can be used to evaluate ex ante broade
 
 ### Claims
 
-- [Funders generally defer to reviewers on how to weigh intellectual merit versus broader impacts, leaving relative emphasis to reviewer discretion](../claims/funders-defer-to-reviewer-discretion-on-criterion-weighting.md) [+W]
-- [Funders and reviewers assess intellectual merit using both discovery potential and inquiry plans, but assess broader impacts focusing on outcomes with less attention to methods](../claims/intellectual-merit-versus-broader-impacts-assessment-focus.md) [+W]
 
 ## Related Theories
 

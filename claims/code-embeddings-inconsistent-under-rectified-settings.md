@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: jaewook-kim-2026
-    resource: "https://arxiv.org/abs/2605.04727"
-    title: "Jaewook Kim, Hyeoncheol Kim. (2026). Ensuring Reliability in Programming Knowledge Tracing: A Re-evaluation of Attention-augmented Models and Experimental Protocols. Preprint, International Conference on Intelligent Tutoring Systems (ITS 2026), Springer LNCS. https://arxiv.org/abs/2605.04727"
+    resource: "https://doi.org/10.48550/arxiv.2605.04727"
+    title: "Jaewook Kim, Hyeoncheol Kim. (2026). Ensuring Reliability in Programming Knowledge Tracing: A Re-evaluation of Attention-augmented Models and Experimental Protocols. Preprint, International Conference on Intelligent Tutoring Systems (ITS 2026), Springer LNCS. https://arxiv.org/abs/2605.04727 [doi:10.48550/arxiv.2605.04727](https://doi.org/10.48550/arxiv.2605.04727)"
     author: Jaewook Kim, Hyeoncheol Kim
     q: 2
     i: "?"
@@ -38,7 +38,7 @@ sources:
 # Under causally valid, tuned settings, code-level embeddings do not consistently improve performance: rectified Code-DKT underperforms tuned DKT on several assignments, while ECKT remains competitive
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · causal `r2` · `q2`
+> **Evidence** · 2 studies (3 entries) · 2 causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` On assignments 439 and 494, the rectified Code-DKT model underperforms the tuned DKT baseline despite using code-level representations. [→ Jaewook Kim 2026](#jaewook-kim-2026)
@@ -49,7 +49,7 @@ sources:
 
 ### Jaewook Kim 2026
 
-Jaewook Kim, Hyeoncheol Kim. (2026). Ensuring Reliability in Programming Knowledge Tracing: A Re-evaluation of Attention-augmented Models and Experimental Protocols. Preprint, International Conference on Intelligent Tutoring Systems (ITS 2026), Springer LNCS. https://arxiv.org/abs/2605.04727
+Jaewook Kim, Hyeoncheol Kim. (2026). Ensuring Reliability in Programming Knowledge Tracing: A Re-evaluation of Attention-augmented Models and Experimental Protocols. Preprint, International Conference on Intelligent Tutoring Systems (ITS 2026), Springer LNCS. https://arxiv.org/abs/2605.04727 [doi:10.48550/arxiv.2605.04727](https://doi.org/10.48550/arxiv.2605.04727)
 
 `q2 · i?` · `causal · r2`
 

@@ -17,7 +17,7 @@ sources:
 # Supplement classroom instruction with consistent in-school tutoring sessions that use student performance data to guide instruction
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article describes a tutoring model in which sessions occur during the school day, are consistent across the year, and use "student performance data to guide instruction." Tutoring is intended to supplement, not replace, regular classroom instruction, with progress monitoring tracking student progress over the school year.
@@ -37,7 +37,6 @@ The article describes a tutoring model in which sessions occur during the school
 - Improving mathematics achievement over the school year
 
 ### Claims
-- [Go Tutor Corps Math Tutoring Positive Gains](../claims/go-tutor-corps-math-tutoring-positive-gains.md) [+M]
 
 ## Related Designs
 - 

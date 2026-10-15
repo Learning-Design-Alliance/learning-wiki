@@ -16,7 +16,7 @@ sources:
 # Ethnomethodology as 'serious ethnography' for studying interaction in natural settings
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The essay describes Goffman's method of inquiry, "serious ethnography" or ethnomethodology, whose studies "explore the influence of peoples' standpoints (or perspective) on their thought and action in great detail." Ethnomethodologists examine physical and social circumstances, habits, background knowledge, and practical motives. Goffman's goal was to "identify the countless patterns and natural sequences of behavior occurring when persons come into one anothers' immediate presence," making the familiar appear unfamiliar so that real understanding could be determined.
@@ -38,8 +38,6 @@ The essay describes Goffman's method of inquiry, "serious ethnography" or ethnom
 
 ### Claims
 
-- [Goffman rejected laboratory experiments because they had not uncovered fields of naturalistic study and fostered bias toward negative cases](../claims/goffman-objections-laboratory-experiments.md) [+W]
-- [Social norms hold force only because they are expected and unchallenged, as Garfinkel's breaching studies showed](../claims/norms-force-unchallenged-garfinkel-breaching.md) [+W]
 
 ## Related Theories
 

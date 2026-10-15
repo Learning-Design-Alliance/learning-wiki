@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: heidi-taveter-and-marina-lepp-2026
-    resource: "https://arxiv.org/abs/2607.24757"
-    title: "Heidi Taveter and Marina Lepp. (2026). From Idea to Classroom in Days: Using “Vibe Coding” to Create a Programming Process Visualizer from IDE Activity Logs. https://arxiv.org/abs/2607.24757"
+    resource: "https://doi.org/10.48550/arxiv.2607.24757"
+    title: "Heidi Taveter and Marina Lepp. (2026). From Idea to Classroom in Days: Using “Vibe Coding” to Create a Programming Process Visualizer from IDE Activity Logs. https://arxiv.org/abs/2607.24757 [doi:10.48550/arxiv.2607.24757](https://doi.org/10.48550/arxiv.2607.24757)"
     author: Heidi Taveter and Marina Lepp
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Heidi Taveter and Marina Lepp 2026
 
-Heidi Taveter and Marina Lepp. (2026). From Idea to Classroom in Days: Using “Vibe Coding” to Create a Programming Process Visualizer from IDE Activity Logs. https://arxiv.org/abs/2607.24757
+Heidi Taveter and Marina Lepp. (2026). From Idea to Classroom in Days: Using “Vibe Coding” to Create a Programming Process Visualizer from IDE Activity Logs. https://arxiv.org/abs/2607.24757 [doi:10.48550/arxiv.2607.24757](https://doi.org/10.48550/arxiv.2607.24757)
 
 `q2 · i?` · `design · r2`
 

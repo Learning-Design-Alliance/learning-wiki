@@ -18,7 +18,7 @@ sources:
 # Maker Learning Leadership Framework
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 A Digital Promise framework that helps K–12 leadership teams establish a maker-learning vision, build a supporting culture, and develop sustainable maker-learning programs.
@@ -27,7 +27,6 @@ A Digital Promise framework that helps K–12 leadership teams establish a maker
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [School leaders developing maker learning programs cite lack of unity around goals, a small research base, lack of academic integration models, and no planning frameworks as key challenges](../claims/maker-program-development-challenges.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -61,7 +60,6 @@ A framework published by Digital Promise in December 2017 to support sustainable
 
 ## Claims
 
-- [School leaders developing maker learning programs cite lack of unity around goals, a small research base, lack of academic integration models, and no planning frameworks as key challenges](../claims/maker-program-development-challenges.md) [+W]
 
 ## Related Elements
 - 

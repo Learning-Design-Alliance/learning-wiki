@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: mario-brcic-2026
-    resource: "https://arxiv.org/abs/2606.26181"
-    title: "Mario Brcic, Stjepan Frljic. (2026). The Effortless Trap: Productive Struggle, AI, and the Illusion of Learning. Preprint. https://arxiv.org/abs/2606.26181"
+    resource: "https://doi.org/10.48550/arxiv.2606.26181"
+    title: "Mario Brcic, Stjepan Frljic. (2026). The Effortless Trap: Productive Struggle, AI, and the Illusion of Learning. Preprint. https://arxiv.org/abs/2606.26181 [doi:10.48550/arxiv.2606.26181](https://doi.org/10.48550/arxiv.2606.26181)"
     author: Mario Brcic, Stjepan Frljic
     q: 2
     i: 2
@@ -31,7 +31,7 @@ sources:
 
 ### Mario Brcic 2026
 
-Mario Brcic, Stjepan Frljic. (2026). The Effortless Trap: Productive Struggle, AI, and the Illusion of Learning. Preprint. https://arxiv.org/abs/2606.26181
+Mario Brcic, Stjepan Frljic. (2026). The Effortless Trap: Productive Struggle, AI, and the Illusion of Learning. Preprint. https://arxiv.org/abs/2606.26181 [doi:10.48550/arxiv.2606.26181](https://doi.org/10.48550/arxiv.2606.26181)
 
 `q2 · i2` · `theoretical · r3`
 

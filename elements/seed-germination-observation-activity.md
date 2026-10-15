@@ -17,7 +17,7 @@ sources:
 # Seed germination observation activity for K-2 data collection
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 Seed germination is presented as a K-2 activity in which students observe and record changes over time, producing data for analysis. The webinar lists it alongside classroom graphs and a group tree as content-area data activities, with examples at teacher, individual-student, at-home, and at-school levels. It serves as a science-embedded context for the data and analysis standards.
@@ -39,7 +39,6 @@ Seed germination is presented as a K-2 activity in which students observe and re
 
 ## Claims
 
-- [The webinar presents glyphs, pictographs, bar graphs, and Google Forms as ways for K-2 students to collect and analyze data.](../claims/k2-glyphs-pictographs-graphs-forms-data-collection.md) [+W]
 
 ## Related Elements
 

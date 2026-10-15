@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: sutcher-2016
-    resource: "https://learningpolicyinstitute.org/product/coming-crisis-teaching"
-    title: "Sutcher, L., Darling-Hammond, L., & Carver-Thomas, D. (2016). A coming crisis in teaching? Teacher supply, demand, and shortages in the U.S. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/coming-crisis-teaching"
+    resource: "https://doi.org/10.54300/247.242"
+    title: "Sutcher, L., Darling-Hammond, L., & Carver-Thomas, D. (2016). A coming crisis in teaching? Teacher supply, demand, and shortages in the U.S. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/coming-crisis-teaching [doi:10.54300/247.242](https://doi.org/10.54300/247.242)"
     author: "Sutcher, L., Darling-Hammond, L., & Carver-Thomas, D."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # High teacher attrition, near 8% annually, is the largest share of teacher demand, and halving it could virtually eliminate shortages
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Evidence** · 2 studies · 2 associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Attrition of nearly 8% of the workforce annually accounts for the largest share of annual teacher demand, and reducing attrition by half could virtually eliminate shortages. [→ Sutcher 2016](#sutcher-2016)
@@ -40,7 +40,7 @@ sources:
 
 ### Sutcher 2016
 
-Sutcher, L., Darling-Hammond, L., & Carver-Thomas, D. (2016). A coming crisis in teaching? Teacher supply, demand, and shortages in the U.S. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/coming-crisis-teaching
+Sutcher, L., Darling-Hammond, L., & Carver-Thomas, D. (2016). A coming crisis in teaching? Teacher supply, demand, and shortages in the U.S. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/coming-crisis-teaching [doi:10.54300/247.242](https://doi.org/10.54300/247.242)
 
 `q2 · i?` · `associational · r2`
 
@@ -70,7 +70,7 @@ International comparison reported in the report: U.S. attrition "hovering near 8
 - [Teacher turnover costs districts billions annually and harms student achievement](teacher-turnover-costs-and-achievement-harm.md) — related
 - [Teachers without full comprehensive preparation leave at two to three times the rate of comprehensively prepared teachers](underprepared-teachers-leave-at-2-3-times-rate.md) — related
 - [Sierra Middle School staff attrition was cut nearly in half after the 2023–24 school year](sierra-staff-attrition-cut-nearly-in-half.md) — a narrower finding that bears on this claim
-- [Fresno’s Skillful Leader Project improved teacher retention and hiring](skillful-leader-project-retention-hiring.md) — a narrower finding that bears on this claim
+- Fresno’s Skillful Leader Project improved teacher retention and hiring — a narrower finding that bears on this claim
 - [District leaders report pandemic-era teacher workloads have at least doubled, contributing to burnout concerns and earlier-than-planned retirements](pandemic-teacher-workload-increase-burnout-retirement.md) — related
 - [Texas teacher attrition has exceeded the national average by about 25% over the past decade, reaching nearly 12% in 2021–22](texas-attrition-above-national-average.md) — related
 - [In 2021–22, 99.7% of Texas teacher hires replaced teachers who had left the prior year, making attrition the dominant driver of demand](texas-attrition-drives-99-7-percent-of-hires.md) — a narrower finding that bears on this claim

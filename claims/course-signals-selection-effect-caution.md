@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: kaushik-dutta-2026
-    resource: "https://arxiv.org/abs/2608.06322"
-    title: "Kaushik Dutta. (2026). From Precision Medicine to Precision Education: A Vision for AI-Powered Student Digital Twins, Preventive Student Success, and Career-Aligned Academic Pathways. arXiv preprint. https://arxiv.org/abs/2608.06322"
+    resource: "https://doi.org/10.48550/arxiv.2608.06322"
+    title: "Kaushik Dutta. (2026). From Precision Medicine to Precision Education: A Vision for AI-Powered Student Digital Twins, Preventive Student Success, and Career-Aligned Academic Pathways. arXiv preprint. https://arxiv.org/abs/2608.06322 [doi:10.48550/arxiv.2608.06322](https://doi.org/10.48550/arxiv.2608.06322)"
     author: Kaushik Dutta
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Kaushik Dutta 2026
 
-Kaushik Dutta. (2026). From Precision Medicine to Precision Education: A Vision for AI-Powered Student Digital Twins, Preventive Student Success, and Career-Aligned Academic Pathways. arXiv preprint. https://arxiv.org/abs/2608.06322
+Kaushik Dutta. (2026). From Precision Medicine to Precision Education: A Vision for AI-Powered Student Digital Twins, Preventive Student Success, and Career-Aligned Academic Pathways. arXiv preprint. https://arxiv.org/abs/2608.06322 [doi:10.48550/arxiv.2608.06322](https://doi.org/10.48550/arxiv.2608.06322)
 
 `q2 · i?` · `theoretical · r2`
 

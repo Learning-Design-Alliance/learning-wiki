@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: finkelstein-2026
-    resource: "https://arxiv.org/abs/2510.01467"
-    title: "Finkelstein, N. (2026). A principled way to think about AI in education: guidance for educators and policy makers on action based on goals, models of human learning, and use of technologies. Draft manuscript, University of Colorado, Boulder. https://arxiv.org/abs/2510.01467"
+    resource: "https://doi.org/10.48550/arxiv.2510.01467"
+    title: "Finkelstein, N. (2026). A principled way to think about AI in education: guidance for educators and policy makers on action based on goals, models of human learning, and use of technologies. Draft manuscript, University of Colorado, Boulder. https://arxiv.org/abs/2510.01467 [doi:10.48550/arxiv.2510.01467](https://doi.org/10.48550/arxiv.2510.01467)"
     author: Finkelstein, N.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Finkelstein 2026
 
-Finkelstein, N. (2026). A principled way to think about AI in education: guidance for educators and policy makers on action based on goals, models of human learning, and use of technologies. Draft manuscript, University of Colorado, Boulder. https://arxiv.org/abs/2510.01467
+Finkelstein, N. (2026). A principled way to think about AI in education: guidance for educators and policy makers on action based on goals, models of human learning, and use of technologies. Draft manuscript, University of Colorado, Boulder. https://arxiv.org/abs/2510.01467 [doi:10.48550/arxiv.2510.01467](https://doi.org/10.48550/arxiv.2510.01467)
 
 `q2 · i?` · `theoretical · r3`
 

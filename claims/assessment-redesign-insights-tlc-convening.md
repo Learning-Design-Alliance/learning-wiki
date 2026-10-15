@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Conversation participants proposed making assessment content and purpose relevant, lowering stakes, offering choice in how students demonstrate knowledge, addressing test anxiety, and providing more preparation structures. [→ Iwatani 2023](#iwatani-2023)
@@ -43,7 +44,7 @@ Qualitative analysis of post-conversation participant interviews from three teac
 
 
 ## Related Claims
-- [Participants identified performance concerns, classroom distractions, unclear purpose of learning, and time/coverage pressures as barriers to adolescent healthy risk-taking, with relevance and feeling heard as promoters](barriers-promoters-adolescent-risk-taking-tlc.md) — related
+- Participants identified performance concerns, classroom distractions, unclear purpose of learning, and time/coverage pressures as barriers to adolescent healthy risk-taking, with relevance and feeling heard as promoters — related
 - [Fortnightly web conferences with open-ended discussion supported students' academic and social engagement and community formation](web-conferences-support-online-community.md) — related
 - [In Layers, Context-Centered-mindset participants drew on students' communities and home lives while Context-Neutral-mindset participants adapted content without students' out-of-school experiences](layers-topics-track-context-centered-mindsets.md) — related
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related

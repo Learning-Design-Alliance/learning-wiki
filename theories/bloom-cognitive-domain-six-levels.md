@@ -16,7 +16,7 @@ sources:
 # Bloom's Taxonomy cognitive domain as a six-level framework for classifying examination questions
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article uses Bloom's cognitive domain, established by Benjamin Bloom in 1956, as the organizing framework for analyzing assessment. It comprises "six levels i.e. knowledge, comprehension, application, analysis, synthesis and evaluation", ordered from remembering previously learned material to making judgments based on criteria. The study operationalizes each level through keyword lists (e.g., list, summarize, solve, analyze, design, evaluate) that an expert committee used to classify examination questions manually.
@@ -37,7 +37,6 @@ The article uses Bloom's cognitive domain, established by Benjamin Bloom in 1956
 
 ### Claims
 - [Exam Questions Concentrate Lower Bloom Levels](../claims/exam-questions-concentrate-lower-bloom-levels.md) [+M]
-- [Higher Order Bloom Questions Rare](../claims/higher-order-bloom-questions-rare.md) [+M]
 
 ## Related Theories
 

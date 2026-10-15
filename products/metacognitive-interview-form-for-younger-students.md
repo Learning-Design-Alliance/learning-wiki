@@ -18,7 +18,7 @@ sources:
 # Metacognitive Interview Form for Younger Students
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 An informal, semi-structured NCREL reading assessment interview that elicits younger students’ awareness and use of metacognitive strategies before, during, and after reading.
@@ -28,7 +28,6 @@ An informal, semi-structured NCREL reading assessment interview that elicits you
 - **Metacognitive Interview Form for Younger Students (NCREL, 1995 rev. ed.)**: The Metacognitive Interview Form for Younger Students (NCREL, 1995 rev. ed.) is an informal assessment tool used to explore students' awareness and deliberate use of metacognitive strategies during reading. It "consists of four semi-structured questions that elicit the use of metacognitive strategies," asking what to do before reading, while reading, when having trouble understanding, and what else is needed to really understand. In this study teachers administered it after students read a short passage silently, with individual interviews for low-ability or non-readers. (Gil-Garcia et al. (2001))
 
 ### Claims
-- [Percentage of metacognitive interview responses varied by grade band: 66% (grades 2-3), 97% (grade 5), 82% (grade 6), and 41% (grades 7-12)](../claims/metacognitive-response-percentages-by-grade.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -62,7 +61,6 @@ The Metacognitive Interview Form for Younger Students (NCREL, 1995 rev. ed.) is 
 
 ### Claims
 <!- - Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] - ->
-- [Percentage of metacognitive interview responses varied by grade band: 66% (grades 2-3), 97% (grade 5), 82% (grade 6), and 41% (grades 7-12)](../claims/metacognitive-response-percentages-by-grade.md) [+W]
 
 ## Related Elements
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: alessia-ciacco-2026
-    resource: "https://arxiv.org/abs/2608.05427"
-    title: "Alessia Ciacco, Luigi Di Puglia Pugliese, Francesca Guerriero. (2026). School network reorganization under educational and spatial constraints using classical and quantum optimization. https://arxiv.org/abs/2608.05427"
+    resource: "https://doi.org/10.48550/arxiv.2608.05427"
+    title: "Alessia Ciacco, Luigi Di Puglia Pugliese, Francesca Guerriero. (2026). School network reorganization under educational and spatial constraints using classical and quantum optimization. https://arxiv.org/abs/2608.05427 [doi:10.48550/arxiv.2608.05427](https://doi.org/10.48550/arxiv.2608.05427)"
     author: Alessia Ciacco, Luigi Di Puglia Pugliese, Francesca Guerriero
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Alessia Ciacco 2026
 
-Alessia Ciacco, Luigi Di Puglia Pugliese, Francesca Guerriero. (2026). School network reorganization under educational and spatial constraints using classical and quantum optimization. https://arxiv.org/abs/2608.05427
+Alessia Ciacco, Luigi Di Puglia Pugliese, Francesca Guerriero. (2026). School network reorganization under educational and spatial constraints using classical and quantum optimization. https://arxiv.org/abs/2608.05427 [doi:10.48550/arxiv.2608.05427](https://doi.org/10.48550/arxiv.2608.05427)
 
 `q1 · i?` · `design · r2`
 

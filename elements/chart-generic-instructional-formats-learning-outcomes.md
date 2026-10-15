@@ -17,7 +17,7 @@ sources:
 # Chart No. 1: eight generic instructional formats mapped to generic learning outcomes from a mastery viewpoint
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (1 causal, 1 theoretical), `q1`–`q2` · 1 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Chart No. 1 presents the author's proposed analysis of the black box called the instruction/learning interface, taking a mastery viewpoint on eight generic learning outcomes. It lists coded generic instructional formats (A Lecture through H Programmed Instruction), each with a generic description of the instructional format, the related generic learning outcomes, and group size, drawing on taxonomies by Bloom, Krathwohl, Harrow, Simpson, Gagne, and others. For example, lecture is described as formal oral presentation of primarily one-way communication, linked to student acquisition of cognitive and affective types of knowledge.
@@ -41,7 +41,6 @@ Chart No. 1 presents the author's proposed analysis of the black box called the 
 
 ## Claims
 
-- [Data Element 1107 (Method of Instruction) shows three deficiencies: higher-education bias, non-descriptive morphology, and no stated relation between instructional methods and learning outcomes](../claims/element-1107-three-deficiencies-method-of-instruction.md) [+W]
 - [In one synthesis of group-based mastery learning, five observational studies found more time-on-task in mastery classes and one community-college evaluation found lower attrition in seven of eight disciplines](../claims/mastery-improves-engagement-attrition.md) [+W]
 
 ## Related Elements

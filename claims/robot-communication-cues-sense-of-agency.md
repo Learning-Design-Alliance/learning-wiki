@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: glawe-2025
-    resource: "https://arxiv.org/abs/2509.22271"
-    title: "Glawe, F., Schmeckel, T., Brauner, P., & Ziefle, M. (2025). Human Autonomy and Sense of Agency in Human-Robot Interaction: A Systematic Literature Review. arXiv. https://arxiv.org/abs/2509.22271"
+    resource: "https://doi.org/10.48550/arxiv.2509.22271"
+    title: "Glawe, F., Schmeckel, T., Brauner, P., & Ziefle, M. (2025). Human Autonomy and Sense of Agency in Human-Robot Interaction: A Systematic Literature Review. arXiv. https://arxiv.org/abs/2509.22271 [doi:10.48550/arxiv.2509.22271](https://doi.org/10.48550/arxiv.2509.22271)"
     author: "Glawe, F., Schmeckel, T., Brauner, P., & Ziefle, M."
     q: 2
     i: "?"
@@ -38,7 +38,7 @@ sources:
 # Robot communication cues affect sense of agency: predicted-path display and averted gaze reduce it, direct gaze raises it, and facial expression shows no effect
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · review `r2` · `q2`
+> **Evidence** · 2 studies (3 entries) · 2 review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Displaying a delivery robot's predicted movement path increased sense of agency, whereas displaying the predicted path of the approaching human decreased it. [→ Glawe 2025](#glawe-2025)
@@ -49,7 +49,7 @@ sources:
 
 ### Glawe 2025
 
-Glawe, F., Schmeckel, T., Brauner, P., & Ziefle, M. (2025). Human Autonomy and Sense of Agency in Human-Robot Interaction: A Systematic Literature Review. arXiv. https://arxiv.org/abs/2509.22271
+Glawe, F., Schmeckel, T., Brauner, P., & Ziefle, M. (2025). Human Autonomy and Sense of Agency in Human-Robot Interaction: A Systematic Literature Review. arXiv. https://arxiv.org/abs/2509.22271 [doi:10.48550/arxiv.2509.22271](https://doi.org/10.48550/arxiv.2509.22271)
 
 `q2 · i?` · `review · r2`
 

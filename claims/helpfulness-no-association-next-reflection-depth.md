@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: andres-karjus-2026
-    resource: "https://arxiv.org/abs/2607.16115"
-    title: "Andres Karjus, Janika Leoste, Tiia Õun. (2026). Student Evaluation of Repeated AI Feedback Across a Semester of Writing. arXiv:2607.16115 [cs.CY]. https://arxiv.org/abs/2607.16115"
+    resource: "https://doi.org/10.48550/arxiv.2607.16115"
+    title: "Andres Karjus, Janika Leoste, Tiia Õun. (2026). Student Evaluation of Repeated AI Feedback Across a Semester of Writing. arXiv:2607.16115 [cs.CY]. https://arxiv.org/abs/2607.16115 [doi:10.48550/arxiv.2607.16115](https://doi.org/10.48550/arxiv.2607.16115)"
     author: Andres Karjus, Janika Leoste, Tiia Õun
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Andres Karjus 2026
 
-Andres Karjus, Janika Leoste, Tiia Õun. (2026). Student Evaluation of Repeated AI Feedback Across a Semester of Writing. arXiv:2607.16115 [cs.CY]. https://arxiv.org/abs/2607.16115
+Andres Karjus, Janika Leoste, Tiia Õun. (2026). Student Evaluation of Repeated AI Feedback Across a Semester of Writing. arXiv:2607.16115 [cs.CY]. https://arxiv.org/abs/2607.16115 [doi:10.48550/arxiv.2607.16115](https://doi.org/10.48550/arxiv.2607.16115)
 
 `q2 · i?` · `associational · r2`
 

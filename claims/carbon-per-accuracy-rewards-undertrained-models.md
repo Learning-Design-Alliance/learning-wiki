@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: eimler-2026
-    resource: "https://arxiv.org/abs/2606.11215"
-    title: "Eimler, S.C., Erle, L., Flood, D., Haiman, A., Häckert, L., Helgert, A., McGinness, L., Yapici, B. (2026). The Environmental Cost of LLMs in AIED: Reporting and Practices. https://arxiv.org/abs/2606.11215"
+    resource: "https://doi.org/10.48550/arxiv.2606.11215"
+    title: "Eimler, S.C., Erle, L., Flood, D., Haiman, A., Häckert, L., Helgert, A., McGinness, L., Yapici, B. (2026). The Environmental Cost of LLMs in AIED: Reporting and Practices. https://arxiv.org/abs/2606.11215 [doi:10.48550/arxiv.2606.11215](https://doi.org/10.48550/arxiv.2606.11215)"
     author: Eimler, S.C., Erle, L., Flood, D., Haiman, A., Häckert, L., Helgert, A., McGinness, L., Yapici, B.
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Eimler 2026
 
-Eimler, S.C., Erle, L., Flood, D., Haiman, A., Häckert, L., Helgert, A., McGinness, L., Yapici, B. (2026). The Environmental Cost of LLMs in AIED: Reporting and Practices. https://arxiv.org/abs/2606.11215
+Eimler, S.C., Erle, L., Flood, D., Haiman, A., Häckert, L., Helgert, A., McGinness, L., Yapici, B. (2026). The Environmental Cost of LLMs in AIED: Reporting and Practices. https://arxiv.org/abs/2606.11215 [doi:10.48550/arxiv.2606.11215](https://doi.org/10.48550/arxiv.2606.11215)
 
 `q1 · i?` · `theoretical · r2`
 
@@ -44,4 +44,4 @@ This is the authors' analytical argument about their own proposed metric, not an
 
 ## Related Claims
 - Few AIED 2025 papers report computational costs or discuss environmental impacts, and reporting is non-standardized — related
-- [Training large AI models carries substantial environmental and human labor costs](ai-training-environmental-labor-costs.md) — related
+- Training large AI models carries substantial environmental and human labor costs — related

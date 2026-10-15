@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: jiaojiao-zhao-2026
-    resource: "https://arxiv.org/abs/2606.09041"
-    title: "Jiaojiao Zhao, Weisheng Zhang, Jiawen Cai, Haibin Gao, and Luyao Zhang. (2026). Culturally-Aware AI for Cross-Boundary Community Learning: Undergraduate Innovation at the Intersection of Computation and Design. https://arxiv.org/abs/2606.09041"
+    resource: "https://doi.org/10.48550/arxiv.2606.09041"
+    title: "Jiaojiao Zhao, Weisheng Zhang, Jiawen Cai, Haibin Gao, and Luyao Zhang. (2026). Culturally-Aware AI for Cross-Boundary Community Learning: Undergraduate Innovation at the Intersection of Computation and Design. https://arxiv.org/abs/2606.09041 [doi:10.48550/arxiv.2606.09041](https://doi.org/10.48550/arxiv.2606.09041)"
     author: Jiaojiao Zhao, Weisheng Zhang, Jiawen Cai, Haibin Gao, and Luyao Zhang
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Jiaojiao Zhao 2026
 
-Jiaojiao Zhao, Weisheng Zhang, Jiawen Cai, Haibin Gao, and Luyao Zhang. (2026). Culturally-Aware AI for Cross-Boundary Community Learning: Undergraduate Innovation at the Intersection of Computation and Design. https://arxiv.org/abs/2606.09041
+Jiaojiao Zhao, Weisheng Zhang, Jiawen Cai, Haibin Gao, and Luyao Zhang. (2026). Culturally-Aware AI for Cross-Boundary Community Learning: Undergraduate Innovation at the Intersection of Computation and Design. https://arxiv.org/abs/2606.09041 [doi:10.48550/arxiv.2606.09041](https://doi.org/10.48550/arxiv.2606.09041)
 
 `q2 · i?` · `design · r2`
 
@@ -43,9 +43,9 @@ Method section describing the technical architecture of the case: Claude Code as
 
 
 ## Related Claims
-- [LLM-assisted inductive qualitative coding carries risks of superficial themes, broad or redundant codes, and hallucinated interpretations, so LLMs should augment rather than replace human researchers](llm-inductive-coding-risks-require-human-oversight.md) — related
-- [A hybrid human-AI workflow using GPT-4o with retrieval-augmented generation supported efficient inductive thematic analysis while preserving researcher judgment](hybrid-gpt4o-human-inductive-thematic-analysis-workflow.md) — related
-- [Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs](human-guidance-ethical-grounding-ai.md) — related
+- LLM-assisted inductive qualitative coding carries risks of superficial themes, broad or redundant codes, and hallucinated interpretations, so LLMs should augment rather than replace human researchers — related
+- A hybrid human-AI workflow using GPT-4o with retrieval-augmented generation supported efficient inductive thematic analysis while preserving researcher judgment — related
+- Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs — related
 - [AI methodologies may redistribute epistemic agency, moving researchers from primary analyst to interpreter and validator of AI-generated outputs](ai-redistributes-researcher-epistemic-agency.md) — related
 - [Across 28 project contexts, human-in-the-loop and independent peer review identified no conceptual or mathematical hallucinations, and Python visualization scripts executed without compilation errors on the zero-shot attempt.](no-conceptual-hallucinations-28-contexts.md) — related
 - [The v6m workflow produced compilations passing PDF/UA-2 and ISO 32005 validation in 16 of 17 successive transcription tests across 16 videos](v6m-workflow-16-of-17-validation-passes.md) — related

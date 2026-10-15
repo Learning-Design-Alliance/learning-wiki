@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: ethan-dickey-2026
-    resource: "https://arxiv.org/abs/2607.27586"
-    title: "Ethan Dickey, Marios Mertzanidis, Alexandros Psomas. (2026). Is Solving Better Than Evaluating GenAI Solutions? https://arxiv.org/abs/2607.27586"
+    resource: "https://doi.org/10.48550/arxiv.2607.27586"
+    title: "Ethan Dickey, Marios Mertzanidis, Alexandros Psomas. (2026). Is Solving Better Than Evaluating GenAI Solutions? https://arxiv.org/abs/2607.27586 [doi:10.48550/arxiv.2607.27586](https://doi.org/10.48550/arxiv.2607.27586)"
     author: Ethan Dickey, Marios Mertzanidis, Alexandros Psomas
     q: 3
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Most students reported no change in study habits, but students who adapted their study strategies rated GenAI-evaluation assignments as significantly more helpful
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Evidence** · 2 studies · 2 causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` 77.0% of surveyed students (154/200) reported the modified homework did not change how they studied for exams. [→ Ethan Dickey 2026](#ethan-dickey-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Ethan Dickey 2026
 
-Ethan Dickey, Marios Mertzanidis, Alexandros Psomas. (2026). Is Solving Better Than Evaluating GenAI Solutions? https://arxiv.org/abs/2607.27586
+Ethan Dickey, Marios Mertzanidis, Alexandros Psomas. (2026). Is Solving Better Than Evaluating GenAI Solutions? https://arxiv.org/abs/2607.27586 [doi:10.48550/arxiv.2607.27586](https://doi.org/10.48550/arxiv.2607.27586)
 
 `q3 · i?` · `causal · r2`
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: michael-hardy-2026
-    resource: "https://arxiv.org/abs/2603.00883"
-    title: "Michael Hardy, Yunsung Kim. (2026). Knowledge without Wisdom: Measuring Misalignment between LLMs and Intended Impact. arXiv. https://arxiv.org/abs/2603.00883"
+    resource: "https://doi.org/10.48550/arxiv.2603.00883"
+    title: "Michael Hardy, Yunsung Kim. (2026). Knowledge without Wisdom: Measuring Misalignment between LLMs and Intended Impact. arXiv. https://arxiv.org/abs/2603.00883 [doi:10.48550/arxiv.2603.00883](https://doi.org/10.48550/arxiv.2603.00883)"
     author: Michael Hardy, Yunsung Kim
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Michael Hardy 2026
 
-Michael Hardy, Yunsung Kim. (2026). Knowledge without Wisdom: Measuring Misalignment between LLMs and Intended Impact. arXiv. https://arxiv.org/abs/2603.00883
+Michael Hardy, Yunsung Kim. (2026). Knowledge without Wisdom: Measuring Misalignment between LLMs and Intended Impact. arXiv. https://arxiv.org/abs/2603.00883 [doi:10.48550/arxiv.2603.00883](https://doi.org/10.48550/arxiv.2603.00883)
 
 `q2 · i?` · `associational · r2`
 
@@ -45,7 +45,7 @@ Analysis of 16 LLMs' ordinal ratings of 479 lesson transcripts from 311 classroo
 ## Related Claims
 - [LLM-generated 7C collaboration assessment scores fall within the range of human expert variability across ten discussions](llm-7c-scores-within-expert-variability.md) — related
 - [An LLM-based AI Evaluator agrees with expert human raters on collaboration transcripts at a level similar to inter-expert agreement](llm-evaluator-agreement-matches-expert-raters.md) — related
-- [LLM-based transcript classifications agreed highly with human judgment for explicit questions (κ = .778) and math talk (κ = .722), but only moderately for need for help (κ = .562) and confusion (κ = .531)](llm-classification-agreement-varies-by-construct.md) — related
+- LLM-based transcript classifications agreed highly with human judgment for explicit questions (κ = .778) and math talk (κ = .722), but only moderately for need for help (κ = .562) and confusion (κ = .531) — related
 - [Expert former math teachers rated GPT-4o's dialogue annotations very highly for student correctness and moderate-to-high for knowledge components, with volatile inter-rater reliability.](expert-teachers-rate-gpt-4o-dialogue-annotations-as-largely-accurate.md) — related
 - [GPT-4o mini achieved the lowest ACT balance MAE (6.12) in replicating human supervisor ratings across 49 full transcripts](gpt-4o-mini-lowest-act-balance-mae.md) — related
 - [Machine–machine agreement exceeds human–machine agreement but remains below human–human agreement](machine-machine-above-human-machine-below-human-human.md) — possibly the same claim (merge candidate)

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: sukjaitham-2026
-    resource: "https://osf.io/4w6rz/overview?view_only=dd3ec8d2878243579a463ccd0d77d723"
-    title: "Sukjaitham, S., Schaaf, M., Brod, G., & Breitwieser, J. (2026). Adaptivity Makes Feedback Effective: Evidence From AI-Generated Feedback on Children's Plans. Preprint. https://osf.io/4w6rz/overview?view_only=dd3ec8d2878243579a463ccd0d77d723"
+    resource: "https://doi.org/10.31234/osf.io/t2eac_v1"
+    title: "Sukjaitham, S., Schaaf, M., Brod, G., & Breitwieser, J. (2026). Adaptivity Makes Feedback Effective: Evidence From AI-Generated Feedback on Children's Plans. Preprint. https://osf.io/4w6rz/overview?view_only=dd3ec8d2878243579a463ccd0d77d723 [doi:10.31234/osf.io/t2eac_v1](https://doi.org/10.31234/osf.io/t2eac_v1)"
     author: "Sukjaitham, S., Schaaf, M., Brod, G., & Breitwieser, J."
     q: 3
     i: 3
@@ -31,7 +31,7 @@ sources:
 
 ### Sukjaitham 2026
 
-Sukjaitham, S., Schaaf, M., Brod, G., & Breitwieser, J. (2026). Adaptivity Makes Feedback Effective: Evidence From AI-Generated Feedback on Children's Plans. Preprint. https://osf.io/4w6rz/overview?view_only=dd3ec8d2878243579a463ccd0d77d723
+Sukjaitham, S., Schaaf, M., Brod, G., & Breitwieser, J. (2026). Adaptivity Makes Feedback Effective: Evidence From AI-Generated Feedback on Children's Plans. Preprint. https://osf.io/4w6rz/overview?view_only=dd3ec8d2878243579a463ccd0d77d723 [doi:10.31234/osf.io/t2eac_v1](https://doi.org/10.31234/osf.io/t2eac_v1)
 
 `q3 · i3` · `causal · r3`
 

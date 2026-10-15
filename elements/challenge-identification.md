@@ -13,7 +13,7 @@ generated:
 # Challenge Identification
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (1 causal, 1 associational), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Challenge identification is the element in which learners or instructors surface the central obstacle, tension, or problem to be addressed.
@@ -23,7 +23,6 @@ Challenge identification is the element in which learners or instructors surface
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- [Spontaneous discovery of contradictions was much higher among American students than among Soviet peers, attributed to lack of mediation of challenge](../claims/spontaneous-contradiction-discovery-higher-american-than-soviet.md) [+W]
 - [Lack of confidence and inappropriate language use were observed obstacles to students' mathematical communication during the experiment](../claims/confidence-obstacles-math-communication.md) [+W]
 
 ## Related Elements

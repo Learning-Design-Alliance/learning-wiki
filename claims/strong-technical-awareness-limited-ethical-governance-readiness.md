@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: md-masudul-islam-2025
-    resource: "https://orcid.org/0000-0001-7643-5420"
-    title: "Md. Masudul Islam, Mirza Niaz Morshed, Md. Shafiqul Islam. (2025). Artificial Intelligence Literacy and Sustainable Development: An Ethical Governance and Development Goals Framework. https://orcid.org/0000-0001-7643-5420"
+    resource: "https://doi.org/10.1002/sd.71155"
+    title: "Md. Masudul Islam, Mirza Niaz Morshed, Md. Shafiqul Islam. (2025). Artificial Intelligence Literacy and Sustainable Development: An Ethical Governance and Development Goals Framework. https://orcid.org/0000-0001-7643-5420 [doi:10.1002/sd.71155](https://doi.org/10.1002/sd.71155)"
     author: Md. Masudul Islam, Mirza Niaz Morshed, Md. Shafiqul Islam
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Md. Masudul Islam 2025
 
-Md. Masudul Islam, Mirza Niaz Morshed, Md. Shafiqul Islam. (2025). Artificial Intelligence Literacy and Sustainable Development: An Ethical Governance and Development Goals Framework. https://orcid.org/0000-0001-7643-5420
+Md. Masudul Islam, Mirza Niaz Morshed, Md. Shafiqul Islam. (2025). Artificial Intelligence Literacy and Sustainable Development: An Ethical Governance and Development Goals Framework. https://orcid.org/0000-0001-7643-5420 [doi:10.1002/sd.71155](https://doi.org/10.1002/sd.71155)
 
 `q2 · i?` · `associational · r1`
 
@@ -51,4 +51,4 @@ Cross-sectional survey of 300 participants from diverse professional backgrounds
 - [Students rate ethical awareness and responsible use highest and academic integrity lowest, with responsibility for defending ethical appropriateness the lowest-rated item](student-survey-ethical-ai-profile-academic-integrity-lowest.md) — related
 - [Students rate their ethical awareness of AI higher than instructors, while instructors report stronger willingness to experiment with AI tools and higher behavioural intention](students-higher-ethical-awareness-instructors-higher-intention.md) — related
 - [Professional staff show a pragmatically compressed GenAI profile with high ethical awareness and the widest span of create-level endorsement of any cohort](professional-staff-compressed-genai-profile.md) — reports the opposite
-- [Awareness of GenAI governance and regulation remains limited, appearing in a small transitional cluster](limited-regulatory-awareness-transitional-cluster.md) — related
+- Awareness of GenAI governance and regulation remains limited, appearing in a small transitional cluster — related

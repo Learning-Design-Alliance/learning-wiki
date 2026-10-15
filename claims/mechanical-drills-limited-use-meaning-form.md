@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: robert-dekeyser-2010
-    resource: "https://www.um.es/ijes"
-    title: "Robert DeKeyser. (2010). Practice for Second Language Learning: Don't Throw out the Baby with the Bathwater. International Journal of English Studies, 10(1). https://www.um.es/ijes"
+    resource: "https://doi.org/10.6018/ijes/2010/1/114021"
+    title: "Robert DeKeyser. (2010). Practice for Second Language Learning: Don't Throw out the Baby with the Bathwater. International Journal of English Studies, 10(1). https://www.um.es/ijes [doi:10.6018/ijes/2010/1/114021](https://doi.org/10.6018/ijes/2010/1/114021)"
     author: Robert DeKeyser
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Robert DeKeyser 2010
 
-Robert DeKeyser. (2010). Practice for Second Language Learning: Don't Throw out the Baby with the Bathwater. International Journal of English Studies, 10(1). https://www.um.es/ijes
+Robert DeKeyser. (2010). Practice for Second Language Learning: Don't Throw out the Baby with the Bathwater. International Journal of English Studies, 10(1). https://www.um.es/ijes [doi:10.6018/ijes/2010/1/114021](https://doi.org/10.6018/ijes/2010/1/114021)
 
 `q1 · i?` · `theoretical · r2`
 
@@ -43,5 +43,5 @@ Theoretical argument reviewing prior critiques (e.g. DeKeyser 1998; Krashen). Th
 
 
 ## Related Claims
-- [The review reports that behaviorism cannot deal with complex human behavior and fails to explain linguistic generativity](behaviorism-fails-linguistic-generativity.md) — a broader claim this one bears on
+- The review reports that behaviorism cannot deal with complex human behavior and fails to explain linguistic generativity — a broader claim this one bears on
 - [Across repetition cycles, attention can shift from message meaning to linguistic form, enabling recycled language and self-correction](attention-shift-meaning-to-form-over-cycles.md) — related

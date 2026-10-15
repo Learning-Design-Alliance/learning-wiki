@@ -13,7 +13,7 @@ generated:
 # GAIDE: A Guiding Framework for AI-Integrated Design for Educators
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 Song et al.'s GAIDE framework guides K–12 teachers through AI understanding, iterative collaborative design and prototyping, and reflection on ethical application when creating AI-powered learning technologies.
@@ -23,7 +23,6 @@ Song et al.'s GAIDE framework guides K–12 teachers through AI understanding, i
 - **GAIDE: A Guiding Framework for AI-Integrated Design for Educators**: GAIDE is a framework supporting K-12 teachers in creating AI-powered learning technologies through vibe coding. It combines Design Thinking phases with adapted INTERACT design components, bookended by an initial Understand AI phase and a final Reflect on Ethical Application phase. Revisions from the empirical workshop included that "Learning Environment was removed, and Learning Objectives was newly introduced" in the Design phase, and the framework visualizes a non-linear, iterative cycle of collaborative design. (Song et al. (2026))
 
 ### Claims
-- [In an eight-week teacher workshop, the AI technology creation process was iterative and non-linear, with Understand AI and Reflect on Ethical Application phases surrounding the design cycle](../claims/workshop-iterative-ai-creation-process-cordtra.md) [+M]
 
 ## Related Products and Programmes
 

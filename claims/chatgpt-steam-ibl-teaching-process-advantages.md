@@ -45,5 +45,5 @@ The review's cross-phase synthesis of process-level advantages, part of the 104 
 ## Related Claims
 - [ChatGPT use in STEAM IBL is reported to enhance learner outcomes including motivation, critical thinking, engagement, and problem-solving](chatgpt-steam-ibl-learner-advantages.md) — related
 - [ChatGPT-supported STEAM IBL research is split evenly between K-12 and higher education, but undergraduates dominate and no study examined elementary learners](chatgpt-steam-ibl-participant-gaps.md) — related
-- [Teachers find ChatGPT a creative, fast, iterative brainstorming partner that adds specific numbers and details when posing math questions from photos](chatgpt-brainstorming-partner-affordances.md) — related
+- Teachers find ChatGPT a creative, fast, iterative brainstorming partner that adds specific numbers and details when posing math questions from photos — related
 - [Recurring benefits of GenAI in STEAM education include engagement, teacher productivity, and creativity when supported by sound pedagogy](genai-steam-benefits-engagement-productivity.md) — a broader claim this one bears on

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: ira-nichols-barrer-2022
-    resource: "https://www.mathematica.org/publications/the-impacts-on-college-enrollment-of-a-charter-network-serving-disadvantaged-students-evidence"
-    title: "Ira Nichols-Barrer, Maria Bartlett, Thomas Coen, Philip Gleason. (2022). The Impacts on College Enrollment of a Charter Network Serving Disadvantaged Students: Evidence from KIPP Middle School Lotteries. Journal of Research on Educational Effectiveness (online ahead of print). https://www.mathematica.org/publications/the-impacts-on-college-enrollment-of-a-charter-network-serving-disadvantaged-students-evidence"
+    resource: "https://doi.org/10.1080/19345747.2022.2049406"
+    title: "Ira Nichols-Barrer, Maria Bartlett, Thomas Coen, Philip Gleason. (2022). The Impacts on College Enrollment of a Charter Network Serving Disadvantaged Students: Evidence from KIPP Middle School Lotteries. Journal of Research on Educational Effectiveness (online ahead of print). https://www.mathematica.org/publications/the-impacts-on-college-enrollment-of-a-charter-network-serving-disadvantaged-students-evidence [doi:10.1080/19345747.2022.2049406](https://doi.org/10.1080/19345747.2022.2049406)"
     author: Ira Nichols-Barrer, Maria Bartlett, Thomas Coen, Philip Gleason
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Ira Nichols-Barrer 2022
 
-Ira Nichols-Barrer, Maria Bartlett, Thomas Coen, Philip Gleason. (2022). The Impacts on College Enrollment of a Charter Network Serving Disadvantaged Students: Evidence from KIPP Middle School Lotteries. Journal of Research on Educational Effectiveness (online ahead of print). https://www.mathematica.org/publications/the-impacts-on-college-enrollment-of-a-charter-network-serving-disadvantaged-students-evidence
+Ira Nichols-Barrer, Maria Bartlett, Thomas Coen, Philip Gleason. (2022). The Impacts on College Enrollment of a Charter Network Serving Disadvantaged Students: Evidence from KIPP Middle School Lotteries. Journal of Research on Educational Effectiveness (online ahead of print). https://www.mathematica.org/publications/the-impacts-on-college-enrollment-of-a-charter-network-serving-disadvantaged-students-evidence [doi:10.1080/19345747.2022.2049406](https://doi.org/10.1080/19345747.2022.2049406)
 
 `q3 · i?` · `causal · r?`
 

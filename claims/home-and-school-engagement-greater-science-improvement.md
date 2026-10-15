@@ -65,6 +65,6 @@ Linear regressions comparing the randomly assigned home-component subsample of i
 
 ## Related Claims
 
-- [Children in classrooms implementing the Early Science with Nico and Nor program made significantly more improvement in science learning than peers in comparison classrooms.](nico-nor-greater-science-learning-gains-than-comparison.md) — related
+- Children in classrooms implementing the Early Science with Nico and Nor program made significantly more improvement in science learning than peers in comparison classrooms. — related
 - [Parent Involvement Improves Early Reading](parent-involvement-improves-early-reading.md) — related
 - [Children in intervention classrooms made significantly more improvement in science learning than children in comparison (business as usual) classrooms](nico-nor-science-gains-over-comparison.md) — related

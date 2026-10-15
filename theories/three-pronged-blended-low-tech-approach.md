@@ -16,7 +16,7 @@ sources:
 # Three-pronged approach to blended learning in low-tech settings: pedagogy training, mother-tongue content, and infrastructure
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (5 for) · 3 studies (1 review, 1 design, 1 theoretical), `q1`–`q2` · 0 of 3 report an effect size · 5 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (1 review, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The pilot's organizing framework is a "three-pronged approach" combining (1) training Haitian educators in tech-informed pedagogy, (2) increasing availability of culturally relevant, mother-tongue digital content, and (3) improving schools' access to solar power and satellite connectivity. It treats blended learning adoption in low-tech settings as requiring simultaneous investment in human capacity, content relevance and language, and physical infrastructure.
@@ -37,11 +37,8 @@ The pilot's organizing framework is a "three-pronged approach" combining (1) tra
 
 ### Claims
 
-- [Haitian teachers reported that pilot trainings improved their teaching, classroom management, and use of technology](../claims/haiti-teacher-training-self-reported-improvements.md) [+W]
 - [Mead argued that treating the mother tongue as inferior impedes movement between home and school language structures](../claims/mead-mother-tongue-status-affects-bilingual-learning.md) [+W]
 - [Preservation of the mother tongue predicts second-language achievement among migrant children](../claims/mother-tongue-preservation-predicts-l2-achievement.md) [+W]
-- [Students in the Haiti blended learning pilot showed statistically significant learning gains, with the lowest-baseline students gaining the most](../claims/haiti-blended-pilot-significant-gains-lowest-baseline.md) [+W]
-- [In 75% of observed lesson segments in the Haiti pilot, all pupils were engaged](../claims/haiti-blended-pilot-75-percent-segments-all-engaged.md) [+W]
 
 ## Related Theories
 

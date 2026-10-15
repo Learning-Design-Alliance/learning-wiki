@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: anahita-golrang-2026
-    resource: "https://arxiv.org/abs/2605.02703"
-    title: "Anahita Golrang, Kshitij Sharma, Simon Dehaen, Olga Viberg. (2026). ProPACT: A Proactive AI-Driven Adaptive Collaborative Tutor for Pair Programming. https://arxiv.org/abs/2605.02703"
+    resource: "https://doi.org/10.48550/arxiv.2605.02703"
+    title: "Anahita Golrang, Kshitij Sharma, Simon Dehaen, Olga Viberg. (2026). ProPACT: A Proactive AI-Driven Adaptive Collaborative Tutor for Pair Programming. https://arxiv.org/abs/2605.02703 [doi:10.48550/arxiv.2605.02703](https://doi.org/10.48550/arxiv.2605.02703)"
     author: Anahita Golrang, Kshitij Sharma, Simon Dehaen, Olga Viberg
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Anahita Golrang 2026
 
-Anahita Golrang, Kshitij Sharma, Simon Dehaen, Olga Viberg. (2026). ProPACT: A Proactive AI-Driven Adaptive Collaborative Tutor for Pair Programming. https://arxiv.org/abs/2605.02703
+Anahita Golrang, Kshitij Sharma, Simon Dehaen, Olga Viberg. (2026). ProPACT: A Proactive AI-Driven Adaptive Collaborative Tutor for Pair Programming. https://arxiv.org/abs/2605.02703 [doi:10.48550/arxiv.2605.02703](https://doi.org/10.48550/arxiv.2605.02703)
 
 `q3 · i?` · `causal · r2`
 
@@ -48,4 +48,4 @@ Within-subjects experiment (26 dyads); t-test on feedback uptake, operationalize
 - No order effect of condition sequence on any dependent measure in the within-subjects design — related
 - [Proactive feedback produces significant post-intervention increases in Joint Mental Effort of dyads](propact-feedback-increases-jme-post-intervention.md) — related
 - [Revision after chatbot feedback predominantly results in successful uptake, indicating effective error correction](penny-feedback-successful-uptake.md) — related
-- [Tutors' feedback uptake did not differ significantly between automated and learner feedback](feedback-uptake-no-significant-difference.md) — related
+- Tutors' feedback uptake did not differ significantly between automated and learner feedback — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: fanfei-li-2026
-    resource: "https://arxiv.org/abs/2608.13545"
-    title: "Fanfei Li, Jana Zeller, Manuel Prada-Corral, Thaddäus Wiedemer, Prasanna Mayilvahanan, Ryan Cotterell, Wieland Brendel. (2026). LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure. Preprint. https://arxiv.org/abs/2608.13545"
+    resource: "https://doi.org/10.48550/arxiv.2608.13545"
+    title: "Fanfei Li, Jana Zeller, Manuel Prada-Corral, Thaddäus Wiedemer, Prasanna Mayilvahanan, Ryan Cotterell, Wieland Brendel. (2026). LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure. Preprint. https://arxiv.org/abs/2608.13545 [doi:10.48550/arxiv.2608.13545](https://doi.org/10.48550/arxiv.2608.13545)"
     author: Fanfei Li, Jana Zeller, Manuel Prada-Corral, Thaddäus Wiedemer, Prasanna Mayilvahanan, Ryan Cotterell, Wieland Brendel
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # The multi-stage filtering pipeline reduces Beyond-K-5 retention to near zero while preserving a minority of K-5 content
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Evidence** · 2 studies · 1 causal `r2`, 1 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` On the held-out CommonCoreText ground-truth set, the pipeline reduces Beyond-K-5 retention to 0% while preserving about 35% of K-5 documents. [→ Fanfei Li 2026](#fanfei-li-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Fanfei Li 2026
 
-Fanfei Li, Jana Zeller, Manuel Prada-Corral, Thaddäus Wiedemer, Prasanna Mayilvahanan, Ryan Cotterell, Wieland Brendel. (2026). LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure. Preprint. https://arxiv.org/abs/2608.13545
+Fanfei Li, Jana Zeller, Manuel Prada-Corral, Thaddäus Wiedemer, Prasanna Mayilvahanan, Ryan Cotterell, Wieland Brendel. (2026). LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure. Preprint. https://arxiv.org/abs/2608.13545 [doi:10.48550/arxiv.2608.13545](https://doi.org/10.48550/arxiv.2608.13545)
 
 `q2 · i?` · `design · r2`
 

@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Error analysis overstresses production data although comprehension data is equally important for understanding language acquisition. [→ XIE Fang 2007](#xie-fang-2007)
@@ -47,6 +48,6 @@ Authors' critical discussion in §5 of error analysis's limitations. The article
 ## Related Claims
 - [A 1982 bilingual-education teacher-training packet asserts, citing Krashen, that repetitive drill and grammar-focused instruction are ineffective for second language acquisition](drill-and-grammar-focus-ineffective-for-l2-acquisition.md) — related
 - [Learner errors arise from interlingual transfer, intralingual overgeneralization, cultural interference, and communicative strategies](error-sources-interlingual-intralingual-cultural.md) — related
-- [Children follow a similar four-stage sequence in acquiring specific syntactic forms, from no usage through error-filled production to correct usage](four-stage-syntax-acquisition-sequence.md) — related
+- Children follow a similar four-stage sequence in acquiring specific syntactic forms, from no usage through error-filled production to correct usage — related
 - [Errors should be distinguished from mistakes, and analysis proceeds through recognition, description, and explanation stages](error-versus-mistake-analysis-procedure.md) — related
 - [Teachers report difficulty locating conceptual gaps because students stop progressing silently after difficulty, making disengagement hard to detect during class](silent-disengagement-stuck-points-theme.md) — related

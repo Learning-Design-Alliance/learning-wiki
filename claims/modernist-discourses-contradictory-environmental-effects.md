@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` The narrative strategies of modern science raised environmental awareness, yet the problems may themselves have resulted from modern industrialised societies' cultivation of stories in which the earth is construed and exploited as an object of instrumental value. [→ Gough 1992](#gough-1992)
@@ -43,9 +44,9 @@ Theoretical argument in the 'Environmental education: the story so far' section 
 
 
 ## Related Claims
-- [Deconstructing the modern metaphors of nature cultivated by modern science and industrialism is a first step toward reconstructing relationships with the earth](deconstructing-modern-nature-metaphors-first-step.md) — related
-- [Premodern cultures' narratives assimilate language to the world rather than vice versa, offering environmental educators place-bound narrative strategies](premodern-narratives-assimilate-language-to-world.md) — related
-- [The narratives of premodern mythologies and postmodern physics accept that the creation of meaning in the world is a human and communal responsibility, which modern science fails to do](meaning-creation-human-communal-responsibility.md) — related
+- Deconstructing the modern metaphors of nature cultivated by modern science and industrialism is a first step toward reconstructing relationships with the earth — related
+- Premodern cultures' narratives assimilate language to the world rather than vice versa, offering environmental educators place-bound narrative strategies — related
+- The narratives of premodern mythologies and postmodern physics accept that the creation of meaning in the world is a human and communal responsibility, which modern science fails to do — related
 - [Narrative and storying genres in educational inquiry risk disempowering the very people they claim to empower](narrative-genres-may-disempower-while-claiming-empowerment.md) — related
-- [Postmodern texts advance five characteristic theses against Enlightenment certainties](five-postmodern-theses-anti-enlightenment.md) — related
-- [Language is the prime humanistic instrument, at once both the tool and the product of reason](language-prime-humanistic-instrument.md) — related
+- Postmodern texts advance five characteristic theses against Enlightenment certainties — related
+- Language is the prime humanistic instrument, at once both the tool and the product of reason — related

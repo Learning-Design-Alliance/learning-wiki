@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q3` · `i2` medium
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q3 i2` The ANOVA for defining concepts showed a significant clarity-by-structure interaction, with clarity and the interaction each accounting for 44% of score variance. [→ Snyder 1991](#snyder-1991)
@@ -66,4 +67,4 @@ Omnibus ANOVA on the application measure. The article reports the interaction ac
 - [Each positive clarity move (keys, links, framing, focusing, examples) correlates positively with every concept achievement measure](positive-clarity-moves-correlate-achievement.md) — related
 - [Students accurately perceive differences between clear and unclear lessons regardless of concept structure](students-perceive-lesson-clarity.md) — related
 - [Clarity matters less as concept structure becomes simpler: no significant clear-vs-unclear difference for constant successive lessons](clarity-less-relevant-simpler-structures.md) — related
-- [Clarity, task orientation, time on task, criterion-material learning, and structuring correlate positively with learning](structure-variables-correlated-learning.md) — related
+- Clarity, task orientation, time on task, criterion-material learning, and structuring correlate positively with learning — related

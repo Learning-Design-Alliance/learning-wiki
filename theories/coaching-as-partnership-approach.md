@@ -16,7 +16,7 @@ sources:
 # Coaching as a partnership among principals, coaches, and teachers
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The report adopts a partnership framing of instructional coaching, attributed to Knight (2007), in which principals, coaches, and teachers all "define, understand, and engage in coaching as a partnership." Under this account, engaged principals are key to a successful coaching program, administrators chiefly support coach-teacher collaboration, and administrators can also collaborate closely with their coach. The report organizes its five recommended administrator actions under two partnership roles: supporting coach-teacher collaboration and collaborating closely with the coach.
@@ -36,7 +36,6 @@ The report adopts a partnership framing of instructional coaching, attributed to
 - Effective instructional coaching leading to improved teaching practices
 
 ### Claims
-- [Administrator Involvement Improves Coaching Outcomes](../claims/administrator-involvement-improves-coaching-outcomes.md) [+M]
 
 ## Related Theories
 

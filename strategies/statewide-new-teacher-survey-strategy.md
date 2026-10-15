@@ -17,7 +17,7 @@ sources:
 # States conduct a statewide survey of new teachers with comparable questions across all programs
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The brief recommends that states conduct a survey of new teachers to alleviate the burden on EPPs and produce comparable data, since "states are uniquely positioned to do this work at scale, asking the same questions of all teachers in the state to have comparable data across programs." Recommended survey topics include teacher training and professional development needs, teachers' feelings of preparedness, and teachers' job satisfaction. States can also survey new teachers' employers so administrators face one common form, and make program-level findings publicly available.
@@ -41,7 +41,6 @@ The brief recommends that states conduct a survey of new teachers to alleviate t
 
 ## Claims
 
-- [States that survey new teachers typically do so in the first year of teaching](../claims/states-survey-completers-first-year.md) [~W]
 
 ## Related Strategies
 

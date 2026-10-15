@@ -18,7 +18,7 @@ sources:
 # Simple Solutions
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 A branded supplemental curriculum from Simple Solutions that provides brief daily distributed-practice lessons with spiral review and optional online resources for K–8 subjects.
@@ -28,8 +28,6 @@ A branded supplemental curriculum from Simple Solutions that provides brief dail
 - **Simple Solutions spiral-review program**: Simple Solutions is a spiral review supplement designed to build long-term mastery of key math skills through daily distributed practice. Each lesson includes "ten to fifteen review problems, typically completed in about 10–15 minutes per day", and the spiral structure continually reintroduces previously covered content to strengthen recall and reduce learning loss. It can be implemented in grades K–8 across math, reading, science, or social studies alongside the core curriculum, with online resources and automated scoring options. (Simple Solutions Learning (2025))
 
 ### Claims
-- [Gains from the Simple Solutions spiral-review program were strongest among fourth-grade students](../claims/simple-solutions-gains-strongest-fourth-grade.md) [+W]
-- [Using the Simple Solutions spiral-review supplement produces significantly greater math gains than not using it, with a small effect size of +0.13](../claims/simple-solutions-spiral-review-greater-i-ready-gains.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -63,8 +61,6 @@ Simple Solutions is a spiral review supplement designed to build long-term maste
 
 ## Claims
 
-- [Gains from the Simple Solutions spiral-review program were strongest among fourth-grade students](../claims/simple-solutions-gains-strongest-fourth-grade.md) [+W]
-- [Using the Simple Solutions spiral-review supplement produces significantly greater math gains than not using it, with a small effect size of +0.13](../claims/simple-solutions-spiral-review-greater-i-ready-gains.md) [+W]
 
 ## Related Elements
 

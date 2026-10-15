@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: unggi-lee-2026
-    resource: "https://arxiv.org/abs/2601.13882"
-    title: "Unggi Lee, Sookbun Lee, Heungsoo Choi, Jinseo Lee, Haeun Park, Younghoon Jeon, Sungmin Cho, Minju Kang, Junbo Koh, Jiyeong Bae, Minwoo Nam, Juyeon Eun, Yeonji Jung, Yeil Jeong. (2026). OpenLearnLM Benchmark: A Unified Framework for Evaluating Knowledge, Skill, and Attitude in Educational Large Language Models. https://arxiv.org/abs/2601.13882"
+    resource: "https://doi.org/10.48550/arxiv.2601.13882"
+    title: "Unggi Lee, Sookbun Lee, Heungsoo Choi, Jinseo Lee, Haeun Park, Younghoon Jeon, Sungmin Cho, Minju Kang, Junbo Koh, Jiyeong Bae, Minwoo Nam, Juyeon Eun, Yeonji Jung, Yeil Jeong. (2026). OpenLearnLM Benchmark: A Unified Framework for Evaluating Knowledge, Skill, and Attitude in Educational Large Language Models. https://arxiv.org/abs/2601.13882 [doi:10.48550/arxiv.2601.13882](https://doi.org/10.48550/arxiv.2601.13882)"
     author: Unggi Lee, Sookbun Lee, Heungsoo Choi, Jinseo Lee, Haeun Park, Younghoon Jeon, Sungmin Cho, Minju Kang, Junbo Koh, Jiyeong Bae, Minwoo Nam, Juyeon Eun, Yeonji Jung, Yeil Jeong
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Unggi Lee 2026
 
-Unggi Lee, Sookbun Lee, Heungsoo Choi, Jinseo Lee, Haeun Park, Younghoon Jeon, Sungmin Cho, Minju Kang, Junbo Koh, Jiyeong Bae, Minwoo Nam, Juyeon Eun, Yeonji Jung, Yeil Jeong. (2026). OpenLearnLM Benchmark: A Unified Framework for Evaluating Knowledge, Skill, and Attitude in Educational Large Language Models. https://arxiv.org/abs/2601.13882
+Unggi Lee, Sookbun Lee, Heungsoo Choi, Jinseo Lee, Haeun Park, Younghoon Jeon, Sungmin Cho, Minju Kang, Junbo Koh, Jiyeong Bae, Minwoo Nam, Juyeon Eun, Yeonji Jung, Yeil Jeong. (2026). OpenLearnLM Benchmark: A Unified Framework for Evaluating Knowledge, Skill, and Attitude in Educational Large Language Models. https://arxiv.org/abs/2601.13882 [doi:10.48550/arxiv.2601.13882](https://doi.org/10.48550/arxiv.2601.13882)
 
 `q2 · i?` · `associational · r1`
 

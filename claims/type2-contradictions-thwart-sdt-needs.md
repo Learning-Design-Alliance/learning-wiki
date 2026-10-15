@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: haiyang-xin-2026
-    resource: "https://arxiv.org/abs/2605.12934"
-    title: "Haiyang Xin, Qiannan Niu, Shuang Li, Yimeng Sun, Ching Sing Chai, Lingyun Huang, Gaowei Chen. (2026). An Activity-Theoretical Approach to Teacher Professional Development in Pedagogical AI Agent Design. https://arxiv.org/abs/2605.12934"
+    resource: "https://doi.org/10.48550/arxiv.2605.12934"
+    title: "Haiyang Xin, Qiannan Niu, Shuang Li, Yimeng Sun, Ching Sing Chai, Lingyun Huang, Gaowei Chen. (2026). An Activity-Theoretical Approach to Teacher Professional Development in Pedagogical AI Agent Design. https://arxiv.org/abs/2605.12934 [doi:10.48550/arxiv.2605.12934](https://doi.org/10.48550/arxiv.2605.12934)"
     author: Haiyang Xin, Qiannan Niu, Shuang Li, Yimeng Sun, Ching Sing Chai, Lingyun Huang, Gaowei Chen
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Haiyang Xin 2026
 
-Haiyang Xin, Qiannan Niu, Shuang Li, Yimeng Sun, Ching Sing Chai, Lingyun Huang, Gaowei Chen. (2026). An Activity-Theoretical Approach to Teacher Professional Development in Pedagogical AI Agent Design. https://arxiv.org/abs/2605.12934
+Haiyang Xin, Qiannan Niu, Shuang Li, Yimeng Sun, Ching Sing Chai, Lingyun Huang, Gaowei Chen. (2026). An Activity-Theoretical Approach to Teacher Professional Development in Pedagogical AI Agent Design. https://arxiv.org/abs/2605.12934 [doi:10.48550/arxiv.2605.12934](https://doi.org/10.48550/arxiv.2605.12934)
 
 `q2 · i?` · `design · r3`
 
@@ -44,6 +44,6 @@ CHAT contradiction analysis mapping interview-identified barriers onto activity 
 
 ## Related Claims
 - [87% of K-12 teachers ceased meaningful AI agent creation within three weeks of completing a two-day professional development workshop](87-percent-teachers-cease-ai-agent-creation-three-weeks.md) — related
-- [Contradictions within and across activity systems are vital forces for change and provide a rationale for CSL](chat-contradictions-activity-systems-rationale-for-csl.md) — related
-- [CHAT is an interventionist research method aimed at transformation, but tensions persist between adaptive and transformative orientations](chat-interventionist-transformation-tensions.md) — related
+- Contradictions within and across activity systems are vital forces for change and provide a rationale for CSL — related
+- CHAT is an interventionist research method aimed at transformation, but tensions persist between adaptive and transformative orientations — related
 - [Engineering students perceive AI chatbot benefits as strongest for relief from competence frustration, moderate for autonomy, and weakest for relatedness](ai-chatbot-need-specific-benefits-engineering-students.md) — related

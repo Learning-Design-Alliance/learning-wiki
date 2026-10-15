@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: digital-promise-2017
-    resource: "https://digitalpromise.dspacedirect.org/items/a84a9ab5-6541-417f-ba96-4a66715e7732"
-    title: "Digital Promise. (2017). Computational Thinking for a Computational World. https://digitalpromise.dspacedirect.org/items/a84a9ab5-6541-417f-ba96-4a66715e7732"
+    resource: "https://doi.org/10.51388/20.500.12265/62"
+    title: "Digital Promise. (2017). Computational Thinking for a Computational World. https://digitalpromise.dspacedirect.org/items/a84a9ab5-6541-417f-ba96-4a66715e7732 [doi:10.51388/20.500.12265/62](https://doi.org/10.51388/20.500.12265/62)"
     author: Digital Promise
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Digital Promise 2017
 
-Digital Promise. (2017). Computational Thinking for a Computational World. https://digitalpromise.dspacedirect.org/items/a84a9ab5-6541-417f-ba96-4a66715e7732
+Digital Promise. (2017). Computational Thinking for a Computational World. https://digitalpromise.dspacedirect.org/items/a84a9ab5-6541-417f-ba96-4a66715e7732 [doi:10.51388/20.500.12265/62](https://doi.org/10.51388/20.500.12265/62)
 
 `q2 · i?` · `theoretical · r2`
 

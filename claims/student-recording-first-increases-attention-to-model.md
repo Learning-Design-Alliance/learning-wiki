@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 4 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` In the video sequencer's sequential listening mode, playing the student's recording before the teacher's master track made students much more attentive to the teacher's production than the opposite order. [→ Toma 2000](#toma-2000)
@@ -46,5 +47,5 @@ Classroom tests with the LAVAC video sequencer's sequential listening mode, repo
 - [Attention](../learner-variables/attention.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Visible sound-wave displays led students to speak louder and notice sounds they would otherwise have missed](sound-wave-display-prompts-louder-speech-and-sound-noticing.md) — related
+- Visible sound-wave displays led students to speak louder and notice sounds they would otherwise have missed — related
 - [Students pause the video after a few sequences to consult a segment menu and judge workload by segment count](students-pause-video-to-view-segment-menu.md) — related

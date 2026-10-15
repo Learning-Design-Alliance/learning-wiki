@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: qian-shen-2026
-    resource: "https://arxiv.org/abs/2605.13709"
-    title: "Qian Shen, Fanghua Cao, Min Yao, Shlok Gilda, Bonnie J. Dorr, Walter L. Leite. (2026). Children's English Reading Story Generation via Supervised Fine-Tuning of Compact LLMs with Controllable Difficulty and Safety. https://arxiv.org/abs/2605.13709"
+    resource: "https://doi.org/10.48550/arxiv.2605.13709"
+    title: "Qian Shen, Fanghua Cao, Min Yao, Shlok Gilda, Bonnie J. Dorr, Walter L. Leite. (2026). Children's English Reading Story Generation via Supervised Fine-Tuning of Compact LLMs with Controllable Difficulty and Safety. https://arxiv.org/abs/2605.13709 [doi:10.48550/arxiv.2605.13709](https://doi.org/10.48550/arxiv.2605.13709)"
     author: Qian Shen, Fanghua Cao, Min Yao, Shlok Gilda, Bonnie J. Dorr, Walter L. Leite
     q: 2
     i: 3
@@ -30,7 +30,7 @@ sources:
 # Fine-tuned 8B LLMs generate K-2 stories with difficulty-related metric scores statistically significantly different from (mostly better than) zero-shot GPT-4o and Llama 3.3 70B
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r1` · `q2` · `i3` large
+> **Evidence** · 2 studies · 1 causal `r1`, 1 design `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Welch's T-tests comparing best-performing fine-tuned 8B stories against GPT-4o and Llama 3.3 70B stories show all p-values below 0.001 and all Cohen's d greater than 0.8 for coherence, syntactic complexity, Spache readability, and LM-PPL. [→ Qian Shen 2026](#qian-shen-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Qian Shen 2026
 
-Qian Shen, Fanghua Cao, Min Yao, Shlok Gilda, Bonnie J. Dorr, Walter L. Leite. (2026). Children's English Reading Story Generation via Supervised Fine-Tuning of Compact LLMs with Controllable Difficulty and Safety. https://arxiv.org/abs/2605.13709
+Qian Shen, Fanghua Cao, Min Yao, Shlok Gilda, Bonnie J. Dorr, Walter L. Leite. (2026). Children's English Reading Story Generation via Supervised Fine-Tuning of Compact LLMs with Controllable Difficulty and Safety. https://arxiv.org/abs/2605.13709 [doi:10.48550/arxiv.2605.13709](https://doi.org/10.48550/arxiv.2605.13709)
 
 `q2 · i3` · `causal · r1`
 

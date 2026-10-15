@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: brian-gill-2007
-    resource: "https://www.mathematica.org/publications/rhetoric-vs-reality-what-we-know-and-what-we-need-to-know-about-vouchers-and-charter-schools"
-    title: "Brian Gill, P. Mike Timpane, Karen E. Ross, Dominic J. Brewer, Kevin Booker. (2007). Rhetoric Versus Reality: What We Know and What We Need to Know About Vouchers and Charter Schools. Santa Monica, CA: RAND Corporation. https://www.mathematica.org/publications/rhetoric-vs-reality-what-we-know-and-what-we-need-to-know-about-vouchers-and-charter-schools"
+    resource: "https://doi.org/10.7249/mr1118-1"
+    title: "Brian Gill, P. Mike Timpane, Karen E. Ross, Dominic J. Brewer, Kevin Booker. (2007). Rhetoric Versus Reality: What We Know and What We Need to Know About Vouchers and Charter Schools. Santa Monica, CA: RAND Corporation. https://www.mathematica.org/publications/rhetoric-vs-reality-what-we-know-and-what-we-need-to-know-about-vouchers-and-charter-schools [doi:10.7249/mr1118-1](https://doi.org/10.7249/mr1118-1)"
     author: Brian Gill, P. Mike Timpane, Karen E. Ross, Dominic J. Brewer, Kevin Booker
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Brian Gill 2007
 
-Brian Gill, P. Mike Timpane, Karen E. Ross, Dominic J. Brewer, Kevin Booker. (2007). Rhetoric Versus Reality: What We Know and What We Need to Know About Vouchers and Charter Schools. Santa Monica, CA: RAND Corporation. https://www.mathematica.org/publications/rhetoric-vs-reality-what-we-know-and-what-we-need-to-know-about-vouchers-and-charter-schools
+Brian Gill, P. Mike Timpane, Karen E. Ross, Dominic J. Brewer, Kevin Booker. (2007). Rhetoric Versus Reality: What We Know and What We Need to Know About Vouchers and Charter Schools. Santa Monica, CA: RAND Corporation. https://www.mathematica.org/publications/rhetoric-vs-reality-what-we-know-and-what-we-need-to-know-about-vouchers-and-charter-schools [doi:10.7249/mr1118-1](https://doi.org/10.7249/mr1118-1)
 
 `q2 · i?` · `review · r?`
 
@@ -46,4 +46,4 @@ The book's own summary of its updated synthesis of empirical evidence on voucher
 - [Charter schools, on average, show test-score impacts that are not substantially better or worse than conventional public schools](charter-schools-test-score-impacts-comparable-to-traditional-public-schools.md) — a narrower finding that bears on this claim
 - [Policy design details are likely critical to the effects of school choice programs](choice-program-design-details-critical-to-effects.md) — a narrower finding that bears on this claim
 - [On average, lottery-based charter middle schools are neither more nor less successful than traditional public schools in improving student achievement](charter-middle-schools-no-average-achievement-advantage.md) — a narrower finding that bears on this claim
-- [After one year, DC's voucher program had no statistically significant effect, positive or negative, on public school test-score gains](dc-voucher-competition-no-public-school-effect-year-one.md) — a narrower finding that bears on this claim
+- After one year, DC's voucher program had no statistically significant effect, positive or negative, on public school test-score gains — a narrower finding that bears on this claim

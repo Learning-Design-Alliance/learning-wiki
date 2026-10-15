@@ -43,4 +43,4 @@ Testimonio cualitativo de Jessica, educadora de ciencias de sexto a octavo grado
 
 
 ## Related Claims
-- [En el piloto, la mitad de los coaches y la mayoría de los maestros ganaron micro-credenciales alineadas con sus retos de coaching.](pr-coaching-pilot-microcredential-earnings.md) — related
+- En el piloto, la mitad de los coaches y la mayoría de los maestros ganaron micro-credenciales alineadas con sus retos de coaching. — related

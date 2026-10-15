@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Several teachers reported gaining more information about how their students were thinking about concepts, and reported instances of changing lessons as a result. [→ Ian D. Beatty 2008](#ian-d-beatty-2008)
@@ -46,5 +47,5 @@ Teacher self-report data from the project's first site, with instances the autho
 - [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — the general claim this finding bears on, with the studies behind it
 
 - [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) — the general claim this finding bears on, with the studies behind it
-- [Teachers adapt TEFA to their own terms and contexts, with learning trajectories that are personal and idiosyncratic](teachers-adapt-tefa-to-own-terms.md) — related
+- Teachers adapt TEFA to their own terms and contexts, with learning trajectories that are personal and idiosyncratic — related
 - [After one year of TEFA professional development, videotaped lessons showed increased discussion time, more student-student interactions, less IRE interaction, and more varied discussion formats](tefa-pd-year-one-observable-practice-changes.md) — related

@@ -46,5 +46,5 @@ The review announces its scope as documenting frequency effects across eleven na
 - [Constructions typically emerge developmentally from formula, through low-scope pattern, to construction](emergence-route-formula-low-scope-pattern-construction.md) — related
 - [Learners' sensitivity to frequency has implications for theories of implicit and explicit learning and their interactions](frequency-sensitivity-implications-implicit-explicit-learning.md) — a narrower finding that bears on this claim
 - [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](comprehensible-input-insufficient-grammar-acquisition.md) — related
-- [There is no direct evidence that comprehensible input is necessary for L2 acquisition; the input hypothesis remains untested](no-direct-evidence-input-hypothesis.md) — related
+- There is no direct evidence that comprehensible input is necessary for L2 acquisition; the input hypothesis remains untested — related
 - [Processing instruction produces significant gains in both sentence-level comprehension and production](processing-instruction-gains-comprehension-and-production.md) — related

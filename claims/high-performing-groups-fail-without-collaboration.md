@@ -47,5 +47,5 @@ The review attributes this finding to Barron (2003) as the rationale for assessi
 - [Small-group learning improves undergraduate STEM achievement](small-group-learning-improves-stem-achievement.md) — a broader claim this one bears on
 - [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](cooperative-learning-group-rewards-and-individual-accountability.md) — a broader claim this one bears on
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
-- [Puzzlets gameplay showed problem-solving progress on debugging tasks, and collaboration improved after the teacher introduced driver-passenger role strategies](puzzlets-debugging-progress-and-collaboration-growth.md) — related
-- [Introducing CT as a problem-solving approach that often involves digital technology helped teachers](introduce-ct-as-problem-solving-approach.md) — related
+- Puzzlets gameplay showed problem-solving progress on debugging tasks, and collaboration improved after the teacher introduced driver-passenger role strategies — related
+- Introducing CT as a problem-solving approach that often involves digital technology helped teachers — related

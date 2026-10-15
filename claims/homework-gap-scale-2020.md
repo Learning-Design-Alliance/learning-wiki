@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: weaver-2022
-    resource: "https://digitalpromise.dspacedirect.org/items/38939984-18ea-4af0-8081-c787ac30d48d"
-    title: "Weaver, D'Andre J., Ph.D. (2022). Delivering on the Promise of Digital Equity. Digital Promise. https://digitalpromise.dspacedirect.org/items/38939984-18ea-4af0-8081-c787ac30d48d"
+    resource: "https://doi.org/10.51388/20.500.12265/166"
+    title: "Weaver, D'Andre J., Ph.D. (2022). Delivering on the Promise of Digital Equity. Digital Promise. https://digitalpromise.dspacedirect.org/items/38939984-18ea-4af0-8081-c787ac30d48d [doi:10.51388/20.500.12265/166](https://doi.org/10.51388/20.500.12265/166)"
     author: "Weaver, D'Andre J., Ph.D."
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Weaver 2022
 
-Weaver, D'Andre J., Ph.D. (2022). Delivering on the Promise of Digital Equity. Digital Promise. https://digitalpromise.dspacedirect.org/items/38939984-18ea-4af0-8081-c787ac30d48d
+Weaver, D'Andre J., Ph.D. (2022). Delivering on the Promise of Digital Equity. Digital Promise. https://digitalpromise.dspacedirect.org/items/38939984-18ea-4af0-8081-c787ac30d48d [doi:10.51388/20.500.12265/166](https://doi.org/10.51388/20.500.12265/166)
 
 `q3 · i?` · `review · r1`
 
@@ -54,7 +54,7 @@ The report cites the late-2020 Common Sense Media and Boston Consulting Group do
 - [Community college students hold concrete quality criteria for edtech, including evidence of claims, accessibility, and peer and faculty connection](ccc-students-concrete-edtech-quality-criteria.md) — related
 - [Digital skills gaps span demographic groups and shape e-learning, job performance, and earnings](digital-literacy-gaps-span-demographics.md) — related
 - [Chronic absence rates among Native students vary widely across states, with Alaska highest at 60% Native versus 37% White in 2022/23](aian-chronic-absence-state-disparities.md) — related
-- [In informal virtual programs, technology access was the first and most significant barrier to participating in Hero Elementary](technology-access-most-significant-barrier-informal-virtual.md) — related
-- [Lack of home computer and broadband access hinders FAFSA completion policy implementation, particularly in rural and low-income areas](technology-access-barriers-fafsa-implementation.md) — a narrower finding that bears on this claim
+- In informal virtual programs, technology access was the first and most significant barrier to participating in Hero Elementary — related
+- Lack of home computer and broadband access hinders FAFSA completion policy implementation, particularly in rural and low-income areas — a narrower finding that bears on this claim
 - [AI in adult education risks reinforcing existing inequalities via the digital divide, particularly for rural, low-income, and marginalized learners](ai-digital-divide-reinforces-inequality.md) — related
 - [Individual internet penetration in rural Bangladesh (36.5%) is about half the urban rate (71.4%), which one case-study preprint argues puts cloud-dependent AI tools out of reach for rural learners](rural-urban-connectivity-exclusion-bangladesh.md) — related

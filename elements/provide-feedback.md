@@ -13,7 +13,7 @@ generated:
 # Provide Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 17 claims (7 for, 8 mixed, 1 against, 1 unmarked) · 24 studies (7 quant-synthesis, 5 causal, 5 review, 3 qualitative, 2 design, 1 associational, 1 theoretical), `q2`–`q4` · 6 of 24 report an effect size · 12 claims rest on one study
+> **Evidence** · 16 claims (7 for, 7 mixed, 1 against, 1 unmarked) · 23 studies (7 quant-synthesis, 5 causal, 5 review, 2 qualitative, 2 design, 1 associational, 1 theoretical), `q2`–`q4` · 6 of 23 report an effect size · 11 claims rest on one study
 
 ## Description
 Providing feedback gives learners information about the gap between their current and desired performance, so they can correct errors and refine understanding. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? (Hattie & Timperley, 2007). It functions as the corrective loop that makes [Practice](practice.md) productive rather than merely repetitive.
@@ -64,7 +64,6 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Subtle indirect cueing feedback tends to have higher impacts on learning outcomes than other forms of feedback, per research the review cites](../claims/subtle-cueing-feedback-higher-impact.md) [~W]
 - [Students rate human-generated feedback as superior to AI-generated feedback in quality, helpfulness, and clarity, and as more likely to be acted upon](../claims/human-feedback-rated-superior-to-ai-feedback.md) [+W]
 - [Students need clear guidance so they are not overwhelmed by Ecree's feedback, which may be most useful for advanced writers](../claims/students-need-guidance-ecree-feedback-advanced-writers.md) [~W]
-- [Most participants articulated technical and contextual limitations of AI evaluation, including handwriting misreading and unawareness of the instructor's rating system](../claims/students-aware-ai-evaluation-limitations.md) [~W]
 
 ## Related Elements
 - [Assess Performance](assess-performance.md) — assessment generates the information that feedback translates into guidance

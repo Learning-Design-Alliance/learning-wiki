@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: monica-farid-2022
-    resource: "https://www.mathematica.org/publications/the-education-and-work-experiences-of-promise-youth"
-    title: "Monica Farid, Karen Katz, Anna Hill, Ankita Patnaik. (2022). Promoting Readiness of Minors in Supplemental Security Income (PROMISE): The Education and Work Experiences of PROMISE Youth. Mathematica. https://www.mathematica.org/publications/the-education-and-work-experiences-of-promise-youth"
+    resource: "https://doi.org/10.1177/0193841x211055588"
+    title: "Monica Farid, Karen Katz, Anna Hill, Ankita Patnaik. (2022). Promoting Readiness of Minors in Supplemental Security Income (PROMISE): The Education and Work Experiences of PROMISE Youth. Mathematica. https://www.mathematica.org/publications/the-education-and-work-experiences-of-promise-youth [doi:10.1177/0193841x211055588](https://doi.org/10.1177/0193841x211055588)"
     author: Monica Farid, Karen Katz, Anna Hill, Ankita Patnaik
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Monica Farid 2022
 
-Monica Farid, Karen Katz, Anna Hill, Ankita Patnaik. (2022). Promoting Readiness of Minors in Supplemental Security Income (PROMISE): The Education and Work Experiences of PROMISE Youth. Mathematica. https://www.mathematica.org/publications/the-education-and-work-experiences-of-promise-youth
+Monica Farid, Karen Katz, Anna Hill, Ankita Patnaik. (2022). Promoting Readiness of Minors in Supplemental Security Income (PROMISE): The Education and Work Experiences of PROMISE Youth. Mathematica. https://www.mathematica.org/publications/the-education-and-work-experiences-of-promise-youth [doi:10.1177/0193841x211055588](https://doi.org/10.1177/0193841x211055588)
 
 `q2 · i?` · `causal · r2`
 

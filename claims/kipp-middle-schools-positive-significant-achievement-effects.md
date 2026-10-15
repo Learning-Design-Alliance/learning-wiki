@@ -11,8 +11,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: philip-m-gleason-2014
-    resource: "https://www.mathematica.org/publications/do-kipp-schools-boost-student-achievement"
-    title: "Philip M. Gleason, Christina Clark Tuttle, Brian Gill, Ira Nichols-Barrer, Bing-ru Teh. (2014). Do KIPP Schools Boost Student Achievement? Education Finance and Policy, vol. 9, no. 1. https://www.mathematica.org/publications/do-kipp-schools-boost-student-achievement"
+    resource: "https://doi.org/10.1162/edfp_a_00119"
+    title: "Philip M. Gleason, Christina Clark Tuttle, Brian Gill, Ira Nichols-Barrer, Bing-ru Teh. (2014). Do KIPP Schools Boost Student Achievement? Education Finance and Policy, vol. 9, no. 1. https://www.mathematica.org/publications/do-kipp-schools-boost-student-achievement [doi:10.1162/edfp_a_00119](https://doi.org/10.1162/edfp_a_00119)"
     author: Philip M. Gleason, Christina Clark Tuttle, Brian Gill, Ira Nichols-Barrer, Bing-ru Teh
     q: 3
     i: "?"
@@ -43,7 +43,7 @@ sources:
 
 ### Philip M. Gleason 2014
 
-Philip M. Gleason, Christina Clark Tuttle, Brian Gill, Ira Nichols-Barrer, Bing-ru Teh. (2014). Do KIPP Schools Boost Student Achievement? Education Finance and Policy, vol. 9, no. 1. https://www.mathematica.org/publications/do-kipp-schools-boost-student-achievement
+Philip M. Gleason, Christina Clark Tuttle, Brian Gill, Ira Nichols-Barrer, Bing-ru Teh. (2014). Do KIPP Schools Boost Student Achievement? Education Finance and Policy, vol. 9, no. 1. https://www.mathematica.org/publications/do-kipp-schools-boost-student-achievement [doi:10.1162/edfp_a_00119](https://doi.org/10.1162/edfp_a_00119)
 
 `q3 · i?` · `causal · r?`
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: lucile-favero-2026
-    resource: "https://arxiv.org/abs/2608.17451"
-    title: "Lucile Favero, Juan Antonio Pérez-Ortiz, Tanja Käser, Nuria Oliver. (2026). From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle of AI in Education (and Beyond). arXiv preprint. https://arxiv.org/abs/2608.17451"
+    resource: "https://doi.org/10.48550/arxiv.2608.17451"
+    title: "Lucile Favero, Juan Antonio Pérez-Ortiz, Tanja Käser, Nuria Oliver. (2026). From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle of AI in Education (and Beyond). arXiv preprint. https://arxiv.org/abs/2608.17451 [doi:10.48550/arxiv.2608.17451](https://doi.org/10.48550/arxiv.2608.17451)"
     author: Lucile Favero, Juan Antonio Pérez-Ortiz, Tanja Käser, Nuria Oliver
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Lucile Favero 2026
 
-Lucile Favero, Juan Antonio Pérez-Ortiz, Tanja Käser, Nuria Oliver. (2026). From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle of AI in Education (and Beyond). arXiv preprint. https://arxiv.org/abs/2608.17451
+Lucile Favero, Juan Antonio Pérez-Ortiz, Tanja Käser, Nuria Oliver. (2026). From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle of AI in Education (and Beyond). arXiv preprint. https://arxiv.org/abs/2608.17451 [doi:10.48550/arxiv.2608.17451](https://doi.org/10.48550/arxiv.2608.17451)
 
 `q2 · i?` · `qualitative · r2`
 

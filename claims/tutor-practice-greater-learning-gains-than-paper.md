@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: xinfei-cen-2026
-    resource: "https://arxiv.org/abs/2606.17470"
-    title: "Xinfei Cen, Vincent Aleven, Kenneth R. Koedinger, Conrad Borchers, and Paulo F. Carvalho. (2026). Self-Efficacy and Favorability Shape Learning from Tutoring Systems and Paper Practice. https://arxiv.org/abs/2606.17470"
+    resource: "https://doi.org/10.48550/arxiv.2606.17470"
+    title: "Xinfei Cen, Vincent Aleven, Kenneth R. Koedinger, Conrad Borchers, and Paulo F. Carvalho. (2026). Self-Efficacy and Favorability Shape Learning from Tutoring Systems and Paper Practice. https://arxiv.org/abs/2606.17470 [doi:10.48550/arxiv.2606.17470](https://doi.org/10.48550/arxiv.2606.17470)"
     author: Xinfei Cen, Vincent Aleven, Kenneth R. Koedinger, Conrad Borchers, and Paulo F. Carvalho
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Xinfei Cen 2026
 
-Xinfei Cen, Vincent Aleven, Kenneth R. Koedinger, Conrad Borchers, and Paulo F. Carvalho. (2026). Self-Efficacy and Favorability Shape Learning from Tutoring Systems and Paper Practice. https://arxiv.org/abs/2606.17470
+Xinfei Cen, Vincent Aleven, Kenneth R. Koedinger, Conrad Borchers, and Paulo F. Carvalho. (2026). Self-Efficacy and Favorability Shape Learning from Tutoring Systems and Paper Practice. https://arxiv.org/abs/2606.17470 [doi:10.48550/arxiv.2606.17470](https://doi.org/10.48550/arxiv.2606.17470)
 
 `q2 · i?` · `causal · r2`
 
@@ -45,6 +45,6 @@ Linear mixed-effects analysis of learning gains from a counterbalanced within-su
 ## Related Claims
 - [Among low baseline self-efficacy students, favorability toward a format moderated its benefit: tutor favorability favored tutor gains, paper unfavorability favored paper gains](favorability-moderates-format-benefit-low-self-efficacy.md) — related
 - [Students with lower baseline performance (below the 50th percentile) showed significantly greater math achievement gains with ASSISTments than matched virtual peers](assistments-low-performers-significant-gains.md) — related
-- [GO Tutor Corps high-impact math tutoring produced significantly greater mathematics achievement gains than no tutoring for matched grade 6-10 students](go-tutor-corps-math-tutoring-positive-gains.md) — related
+- GO Tutor Corps high-impact math tutoring produced significantly greater mathematics achievement gains than no tutoring for matched grade 6-10 students — related
 - [In one 30-student study of high-school English learners (Lu 2008, reported in a review), vocabulary learned by mobile phone showed greater gains than vocabulary learned from print](sms-vocabulary-learning-beats-paper-materials.md) — related
 - [Low-performing students (below the 50th pretest percentile) showed significant improvement with vPLC-augmented ASSISTments](vplc-assistments-low-performing-significant-gain.md) — related

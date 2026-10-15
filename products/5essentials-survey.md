@@ -77,7 +77,7 @@ sources:
 # 5Essentials Survey
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 44 claims (37 for, 6 mixed, 1 against) · 18 studies (16 associational, 1 causal, 1 design), `q1`–`q3` · 0 of 18 report an effect size · 43 claims rest on one study
+> **Evidence** · 34 claims (31 for, 2 mixed, 1 against) · 16 studies (14 associational, 1 causal, 1 design), `q1`–`q3` · 0 of 16 report an effect size · 33 claims rest on one study
 
 ## Description
 The 5Essentials Survey is a statewide school-climate and organizational-conditions assessment developed by the University of Chicago Consortium on School Research and administered to Illinois students and teachers by the Illinois State Board of Education.
@@ -109,7 +109,6 @@ The 5Essentials Survey is a statewide school-climate and organizational-conditio
 - [Schools with higher 5Essentials Survey scores, especially more Supportive Environments, are more likely to reduce students' fear of bullying](../claims/supportive-environment-predicts-bullying-fear-reduction.md) [+W]
 - [Schools strong on clusters of the five essential supports were 10 times more likely to improve learning of reading and mathematics](../claims/schools-strong-three-plus-supports-ten-times-more-likely-improve.md) [+W]
 - [The five essential supports matter in combination: strength on clusters of supports, not isolated domains, predicts improvement](../claims/supports-matter-in-combined-clusters.md) [+W]
-- [Chicago schools strong in most of the five essential supports were about 10 times more likely to show substantial gains in reading and mathematics](../claims/chicago-strong-essentials-tenfold-gains.md) [+W]
 - [Strength on most 5Essentials measures was similarly likely across poverty levels, but five measures were less prevalent in high-poverty schools](../claims/5essentials-five-measures-less-prevalent-high-poverty.md) [+W]
 - [5Essentials Survey measures predicted school improvement in both high- and low-poverty schools at elementary and high school levels](../claims/5essentials-predicts-improvement-high-low-poverty.md) [+W]
 - [Accountability pressures overshadowed the survey's improvement potential without reducing its predictive power](../claims/accountability-overshadows-improvement-potential.md) [~W]
@@ -119,11 +118,6 @@ The 5Essentials Survey is a statewide school-climate and organizational-conditio
 - [Only 50% of a school's 5Essentials score is explained by the previous year's score, indicating substantial year-to-year malleability of school climate](../claims/5essentials-score-only-half-explained-by-prior-year.md) [+M]
 - [Strong scores and growth on the 5Essentials Survey predict student success measures including GPA, attendance, test scores, and college enrollment](../claims/5essentials-scores-predict-student-success-measures.md) [+M]
 - [When Supportive Environment improves, the other 5Essentials essential supports often improve](../claims/supportive-environment-improvement-co-occurs-other-essentials.md) [+W]
-- [Relational trust correlates with school leadership and with collaboration among teachers in both contexts](../claims/relational-trust-correlates-leadership-collaboration.md) [+W]
-- [Relational trust appears to materialize in schools regardless of vast differences in environments](../claims/relational-trust-materializes-regardless-of-environments.md) [+W]
-- [Teachers and students in Valparaíso and Illinois responded similarly and positively about trust among teachers, between teachers and principals, and between students and teachers](../claims/relational-trust-similar-positive-valparaiso-illinois.md) [+W]
-- [Teacher-parent trust was much lower in Valparaíso than in Illinois](../claims/teacher-parent-trust-lower-valparaiso.md) [+W]
-- [School size and student socioeconomic status conditioned trust levels differently in the two contexts](../claims/school-size-ses-condition-trust-differently.md) [~W]
 - [High schools that foster 8th-to-9th-grade student growth across multiple dimensions positively influence students' social and academic trajectories](../claims/multidimensional-growth-schools-improve-long-run-outcomes.md) [+W]
 - [School quality measures that exclude schools' impacts on socioemotional development underestimate or misidentify many impactful schools](../claims/quality-metrics-excluding-sed-misidentify-impactful-schools.md) [+W]
 - [Schools' impacts on socioemotional development and behaviors in 9th grade matter substantially more for long-run trajectories than test score impacts](../claims/sed-behavior-impacts-exceed-test-score-impacts-long-run.md) [+W]
@@ -136,10 +130,6 @@ The 5Essentials Survey is a statewide school-climate and organizational-conditio
 - [Intergenerational ties in the community contribute positively to student learning, per research cited in the report](../claims/intergenerational-ties-contribute-student-learning.md) [+W]
 - [Joint problem solving distinguishes top- from bottom-quartile Chicago high schools: half of top-quartile teachers describe strong processes plus 13 percent very strong, while bottom-quartile teachers most often describe weak processes (46 percent)](../claims/joint-problem-solving-quartile-contrast-1997.md) [+W]
 - [Program coherence varies widely within quartiles: more than half of top-quartile teachers report moderate coherence and 32 percent report little or none, while 44 percent of bottom-quartile teachers report strong or very strong coherence](../claims/program-coherence-quartile-contrast-1997.md) [+W]
-- [CPS schools are most likely to be strong in effective leaders, collaborative teachers, and ambitious instruction, but least likely to be strong in involved families](../claims/cps-individual-essentials-community-patterns.md) [+W]
-- [For Illinois high schools, strength in the five essentials is related to outcomes but the relationships tend to be minimal except in CPS](../claims/illinois-high-school-essentials-outcomes-cps.md) [~W]
-- [Larger elementary and middle schools (600+ students) are more likely to be weak in three or more essentials](../claims/school-size-elementary-essentials-weakness.md) [~W]
-- [Socioeconomically disadvantaged schools are less likely to be strong in the essentials, with a stronger effect in Chicago than the rest of Illinois](../claims/socioeconomic-disadvantage-essentials-strength.md) [~W]
 - [Recalibrated 5Essentials measures based on 2014–19 data maintained acceptable Rasch reliability and school-level variance](../claims/recalibrated-5essentials-measures-reliability.md) [+W]
 - [The 1997 Chicago Annenberg surveys reached 308 elementary schools and 62 high schools with response rates high enough to receive individual school reports](../claims/1997-ccsr-surveys-308-elementary-62-high-schools.md) [+M]
 - [In schools where students experience peer support for academic work, student learning is more likely](../claims/peer-support-academic-work-learning-more-likely.md) [+W]
@@ -354,7 +344,6 @@ A set of survey-based diagnostic tools created by designers and researchers buil
 - [Schools strong on clusters of the five essential supports were 10 times more likely to improve learning of reading and mathematics](../claims/schools-strong-three-plus-supports-ten-times-more-likely-improve.md) [+W]
 - [The five essential supports matter in combination: strength on clusters of supports, not isolated domains, predicts improvement](../claims/supports-matter-in-combined-clusters.md) [+W]
 - [Elementary schools strong in three or more of the five essential supports were ten times more likely to substantially improve student math and reading scores (attributed to Bryk et al., 2010)](../claims/schools-strong-three-plus-supports-ten-times-more-likely-improve.md) [+W]
-- [Chicago schools strong in most of the five essential supports were about 10 times more likely to show substantial gains in reading and mathematics](../claims/chicago-strong-essentials-tenfold-gains.md) [+W]
 
 ## Related Elements
 
@@ -494,11 +483,6 @@ The article tags its work with "5Essentials school survey" and "school climate,"
 
 ## Claims
 
-- [Relational trust correlates with school leadership and with collaboration among teachers in both contexts](../claims/relational-trust-correlates-leadership-collaboration.md) [+W]
-- [Relational trust appears to materialize in schools regardless of vast differences in environments](../claims/relational-trust-materializes-regardless-of-environments.md) [+W]
-- [Teachers and students in Valparaíso and Illinois responded similarly and positively about trust among teachers, between teachers and principals, and between students and teachers](../claims/relational-trust-similar-positive-valparaiso-illinois.md) [+W]
-- [Teacher-parent trust was much lower in Valparaíso than in Illinois](../claims/teacher-parent-trust-lower-valparaiso.md) [+W]
-- [School size and student socioeconomic status conditioned trust levels differently in the two contexts](../claims/school-size-ses-condition-trust-differently.md) [~W]
 
 ## Related Elements
 
@@ -850,11 +834,6 @@ The 5Essentials Survey is a confidential statewide survey administered to studen
 
 ## Claims
 
-- [Chicago schools strong in most of the five essential supports were about 10 times more likely to show substantial gains in reading and mathematics](../claims/chicago-strong-essentials-tenfold-gains.md) [+W]
-- [CPS schools are most likely to be strong in effective leaders, collaborative teachers, and ambitious instruction, but least likely to be strong in involved families](../claims/cps-individual-essentials-community-patterns.md) [+W]
-- [For Illinois high schools, strength in the five essentials is related to outcomes but the relationships tend to be minimal except in CPS](../claims/illinois-high-school-essentials-outcomes-cps.md) [~W]
-- [Larger elementary and middle schools (600+ students) are more likely to be weak in three or more essentials](../claims/school-size-elementary-essentials-weakness.md) [~W]
-- [Socioeconomically disadvantaged schools are less likely to be strong in the essentials, with a stronger effect in Chicago than the rest of Illinois](../claims/socioeconomic-disadvantage-essentials-strength.md) [~W]
 - [Recalibrated 5Essentials measures based on 2014–19 data maintained acceptable Rasch reliability and school-level variance](../claims/recalibrated-5essentials-measures-reliability.md) [+W] — attached 2026-10-09 from Hart et al. (2020), which proposed "5Essentials Survey: 22 Rasch-scored measures of school organization for teachers and students"; tests this page's relationship.
 
 ## Related Elements

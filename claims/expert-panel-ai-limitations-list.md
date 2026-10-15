@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: roschelle-2020
-    resource: "https://circls.org/reports/ai-report"
-    title: "Roschelle, J., Lester, J. & Fusco, J. (Eds.) (2020). AI and the future of learning: Expert panel report [Report]. Digital Promise. https://circls.org/reports/ai-report"
+    resource: "https://doi.org/10.51388/20.500.12265/106"
+    title: "Roschelle, J., Lester, J. & Fusco, J. (Eds.) (2020). AI and the future of learning: Expert panel report [Report]. Digital Promise. https://circls.org/reports/ai-report [doi:10.51388/20.500.12265/106](https://doi.org/10.51388/20.500.12265/106)"
     author: "Roschelle, J., Lester, J. & Fusco, J. (Eds.)"
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Roschelle 2020
 
-Roschelle, J., Lester, J. & Fusco, J. (Eds.) (2020). AI and the future of learning: Expert panel report [Report]. Digital Promise. https://circls.org/reports/ai-report
+Roschelle, J., Lester, J. & Fusco, J. (Eds.) (2020). AI and the future of learning: Expert panel report [Report]. Digital Promise. https://circls.org/reports/ai-report [doi:10.51388/20.500.12265/106](https://doi.org/10.51388/20.500.12265/106)
 
 `q1 · i?` · `qualitative · r2`
 
@@ -45,11 +45,11 @@ Expert-panel discussion at a facilitated online convening; the report records th
 ## Related Claims
 
 - [Weak grasp of context can make AI misdiagnoses systematically harmful when a flawed decision pattern is replicated across many students](ai-context-misdiagnosis-systematic-harm.md) — a narrower finding that bears on this claim
-- [Fine-tuned GPT-4o-mini delivers equitable name-detection performance across cultural and gender groups, reducing cultural biases present in baseline models](fine-tuned-gpt4o-mini-equitable-across-culture-gender.md) — related
+- Fine-tuned GPT-4o-mini delivers equitable name-detection performance across cultural and gender groups, reducing cultural biases present in baseline models — related
 - [Current best learner performance models are severely biased outside the interval containing most of the data, hindering downstream adaptive policies and open learner models](learner-models-miscalibrated-outside-data-interval.md) — related
 - [Across 28 K-12 AI pilot projects, AI demonstrated success at categorizing and coding datasets, translating language, and triangulating qualitative findings with quantitative data](ai-success-coding-datasets-translation-triangulation.md) — related
-- [Generative AI systems carry strong potential for introduced and inherited bias](generative-ai-bias-potential.md) — related
-- [Training constraints during AI development create potential biases that may be amplified by the population data used](ai-training-constraints-create-potential-biases.md) — related
+- Generative AI systems carry strong potential for introduced and inherited bias — related
+- Training constraints during AI development create potential biases that may be amplified by the population data used — related
 - [AI-based proctoring systems trained on western behavioural norms may exacerbate cultural and social challenges in non-English-speaking regions](ai-proctoring-western-norms-cultural-bias.md) — a narrower finding that bears on this claim
 - [Algorithmic bias and data privacy are central ethical risks of AI in adult education](algorithmic-bias-privacy-risks-adult-education.md) — related
 - The evidence base on AI in higher education shows geographical, publication, and time-horizon biases, with successful implementations overreported — related

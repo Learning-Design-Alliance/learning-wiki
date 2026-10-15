@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: yimeng-sun-2026
-    resource: "https://arxiv.org/abs/2605.14330"
-    title: "Yimeng Sun, Haiyang Xin, Qiannan Niu, Shuang Li, Lingyun Huang, Gaowei Chen. (2026). Computational Thinking Development in AI Agent Creation: A Mixed-Methods Study. https://arxiv.org/abs/2605.14330"
+    resource: "https://doi.org/10.48550/arxiv.2605.14330"
+    title: "Yimeng Sun, Haiyang Xin, Qiannan Niu, Shuang Li, Lingyun Huang, Gaowei Chen. (2026). Computational Thinking Development in AI Agent Creation: A Mixed-Methods Study. https://arxiv.org/abs/2605.14330 [doi:10.48550/arxiv.2605.14330](https://doi.org/10.48550/arxiv.2605.14330)"
     author: Yimeng Sun, Haiyang Xin, Qiannan Niu, Shuang Li, Lingyun Huang, Gaowei Chen
     q: 2
     i: 2
@@ -31,7 +31,7 @@ sources:
 
 ### Yimeng Sun 2026
 
-Yimeng Sun, Haiyang Xin, Qiannan Niu, Shuang Li, Lingyun Huang, Gaowei Chen. (2026). Computational Thinking Development in AI Agent Creation: A Mixed-Methods Study. https://arxiv.org/abs/2605.14330
+Yimeng Sun, Haiyang Xin, Qiannan Niu, Shuang Li, Lingyun Huang, Gaowei Chen. (2026). Computational Thinking Development in AI Agent Creation: A Mixed-Methods Study. https://arxiv.org/abs/2605.14330 [doi:10.48550/arxiv.2605.14330](https://doi.org/10.48550/arxiv.2605.14330)
 
 `q2 · i2` · `causal · r1`
 

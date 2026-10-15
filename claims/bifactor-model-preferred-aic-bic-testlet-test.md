@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: rijmen-2009
-    resource: "http://www.ets.org/research/contact.html"
-    title: "Rijmen, F. (2009). Three Multidimensional Models for Testlet-Based Tests: Formal Relations and an Empirical Comparison. ETS Research Report RR-09-37. http://www.ets.org/research/contact.html"
+    resource: "https://doi.org/10.1002/j.2333-8504.2009.tb02194.x"
+    title: "Rijmen, F. (2009). Three Multidimensional Models for Testlet-Based Tests: Formal Relations and an Empirical Comparison. ETS Research Report RR-09-37. http://www.ets.org/research/contact.html [doi:10.1002/j.2333-8504.2009.tb02194.x](https://doi.org/10.1002/j.2333-8504.2009.tb02194.x)"
     author: Rijmen, F.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Rijmen 2009
 
-Rijmen, F. (2009). Three Multidimensional Models for Testlet-Based Tests: Formal Relations and an Empirical Comparison. ETS Research Report RR-09-37. http://www.ets.org/research/contact.html
+Rijmen, F. (2009). Three Multidimensional Models for Testlet-Based Tests: Formal Relations and an Empirical Comparison. ETS Research Report RR-09-37. http://www.ets.org/research/contact.html [doi:10.1002/j.2333-8504.2009.tb02194.x](https://doi.org/10.1002/j.2333-8504.2009.tb02194.x)
 
 `q2 · i?` · `theoretical · r3`
 
@@ -46,11 +46,11 @@ Empirical comparison fitting a unidimensional 2PL model, a second-order model, a
 - [Ignoring testlet effects by fitting a unidimensional 2PL model produced mild shrinkage of item intercept and loading estimates toward zero relative to the bifactor model](ignoring-testlet-effects-shrinks-parameter-estimates.md) — related
 - [The second-order multidimensional IRT model for testlets is formally equivalent to the testlet model, and both are restricted bifactor models](second-order-model-equivalent-to-testlet-model.md) — related
 - [The proportionality restrictions that the testlet model imposes on the bifactor model were implausible in the applied dataset, as specific-to-general loading quotients varied far from constant within testlets](testlet-proportionality-restrictions-implausible.md) — related
-- [Model-fit statistics disagree on the best calibration for the Oral scale in the lower elementary population but agree on a two-dimensional model for the upper elementary population](mirt-model-fit-inconsistent-lower-elementary.md) — related
+- Model-fit statistics disagree on the best calibration for the Oral scale in the lower elementary population but agree on a two-dimensional model for the upper elementary population — related
 - [The reciprocal EF–ER model fits only marginally better than a forward-only model, so model preference rests on theory as much as fit](reciprocal-versus-forward-only-model-fit.md) — related
-- [Model-complexity penalties favor Spectral BKT under student-stratified cross-validation but not under item-stratified cross-validation](spectral-bkt-aic-bic-stratification-dependent.md) — related
+- Model-complexity penalties favor Spectral BKT under student-stratified cross-validation but not under item-stratified cross-validation — related
 - [The assessment violates IRT assumptions of unidimensionality and local independence, which the authors identify as a likely cause of the method discrepancy](irt-assumption-violations-cause-dif-method-discrepancy.md) — related
-- [In concurrent unidimensional calibration the Speaking subtest dominates the Oral scale score while Listening and Speaking correlate only moderately](speaking-dominates-concurrent-oral-scale.md) — related
+- In concurrent unidimensional calibration the Speaking subtest dominates the Oral scale score while Listening and Speaking correlate only moderately — related
 - [A multidimensional IRT model with simple structure fits testlet-based reading data better than both the general polytomous testlet model and the standard 2PL/GPCM](mirt-ss-fits-testlet-data-better.md) — related
 - [Most Turkish IRT-based scale development studies did not check the unidimensionality or local independence assumptions](irt-assumptions-often-unchecked-turkey.md) — related
 - [Item parceling at the testlet level substantially improves model fit, allowing partial (Rasch, 2PL) or full (bifactor) recovery of CAT constructs](parceling-testlet-level-recovers-cat-construct.md) — related

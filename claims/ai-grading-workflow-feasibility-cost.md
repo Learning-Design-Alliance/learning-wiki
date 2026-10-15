@@ -62,6 +62,6 @@ Cost accounting in Sect. 3.2 compares the token cost with 16 TAs × 5 h × $44/h
 
 
 ## Related Claims
-- [In a real academic pilot, AISSA processed 90 presentations reliably at 1–3 minutes per submission and an estimated cost of $0.06–0.07 USD per evaluation](aissa-pilot-reliable-low-cost-processing.md) — related
+- In a real academic pilot, AISSA processed 90 presentations reliably at 1–3 minutes per submission and an estimated cost of $0.06–0.07 USD per evaluation — related
 - [Human scoring and feedback for HDR takes about 11 minutes 30 seconds per learner, while GPT-based scoring and feedback is nearly instant](hdr-human-scoring-time-burden.md) — related
 - [Structure and layout of the exam pages strongly contribute to the success of the multimodal grading method and, for now, appear to be required](structure-and-layout-required-for-ai-grading.md) — related

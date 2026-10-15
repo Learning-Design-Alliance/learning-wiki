@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` A sense of control over learning plus personally meaningful, world-benefiting goals improves students' intrinsic motivation, persistence, and depth of processing. [→ Digital Promise and the Institute for Applied Neuroscience 2019](#digital-promise-and-the-institute-for-applied-neuroscience-2019)
@@ -46,10 +47,10 @@ The synthesis reports that autonomy and meaningful goals improve intrinsic motiv
 - [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Students found personal meaning and pride in their films, which appeared to fuel intrinsic motivation and persistence](360-filmmakers-challenge-personal-meaning-motivation.md) — a narrower finding that bears on this claim
+- Students found personal meaning and pride in their films, which appeared to fuel intrinsic motivation and persistence — a narrower finding that bears on this claim
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related
-- [The article argues learning is a natural, enjoyable human process rather than one driven by pressure and anxiety](learning-is-natural-enjoyable-process-argument.md) — related
+- The article argues learning is a natural, enjoyable human process rather than one driven by pressure and anxiety — related
 - [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — related
 - [Adding friction to objectively meaningless tasks increases their appraised sense of purpose and meaning](added-friction-increases-appraised-purpose.md) — related
 - [Student motivation, enjoyment, and engagement are higher in natural learning settings, including spillover to subsequent indoor lessons](nature-settings-boost-motivation-engagement.md) — related

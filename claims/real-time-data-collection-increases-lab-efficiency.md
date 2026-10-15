@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` The ethnographer recorded that the Fall 2005 technology lab lasted only an hour whereas the Fall 2004 lab lasted a full two hours, indicating technology significantly increased class efficiency. [→ Brewe 2007](#brewe-2007)
@@ -44,5 +45,5 @@ Ethnographic observation of the momentum labs in both years by a supporting facu
 
 ## Related Claims
 - [Students in a technology-enhanced modeling physics class learned significantly more than students in an otherwise identical no-technology class](real-time-data-collection-increases-modeling-physics-learning.md) — related
-- [Students who experienced the technology-enhanced class were far more favorable toward technology (76.0%) than no-technology students (20.4%)](student-survey-favorable-toward-lab-technology.md) — related
+- Students who experienced the technology-enhanced class were far more favorable toward technology (76.0%) than no-technology students (20.4%) — related
 - [A tablet-based AR app displaying real-time measurement data above circuit components aided conceptual knowledge acquisition more effectively than traditional physics lab lessons](ar-realtime-measurement-aids-conceptual-knowledge-physics.md) — related

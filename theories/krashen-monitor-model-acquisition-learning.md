@@ -16,7 +16,7 @@ sources:
 # Krashen's Monitor Model: acquisition versus learning as separate internal rule systems
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (5 for) · 3 studies (2 theoretical, 1 review), `q1`–`q2` · 1 of 3 report an effect size · 5 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (1 causal, 1 theoretical), `q2` · 1 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 Krashen's Monitor Model divides classroom activities into acquisition activities, which expose students to comprehensible target language samples, and learning activities, which focus on particular language forms through error correction, drills, and grammar explanation. Performance is initiated by acquired basic competence, while learned Monitor rules can modify output only when there is enough time, as on paper-and-pencil tests. The article retains this acquisition-learning distinction as Krashen's basic insight even while criticizing its absolute conscious/unconscious split.
@@ -39,9 +39,7 @@ Krashen's Monitor Model divides classroom activities into acquisition activities
 
 - [Monitoring significantly improves a second language learner's accuracy on learnable rules (subject-verb agreement, regular past tense) in the most monitored style](../claims/monitoring-improves-learnable-rule-accuracy.md) [+W]
 - [Monitoring lowers accuracy for unlearnable rules: preposition usage was significantly less accurate in the more monitored style](../claims/monitoring-lowers-preposition-accuracy.md) [+W]
-- [Monitoring is a variable phenomenon, not all-or-nothing, and monitoring in formal styles may pull up accuracy in less formal styles](../claims/monitoring-variable-not-all-or-nothing.md) [+W]
 - [A 1982 bilingual-education teacher-training packet asserts, citing Krashen, that repetitive drill and grammar-focused instruction are ineffective for second language acquisition](../claims/drill-and-grammar-focus-ineffective-for-l2-acquisition.md) [+W]
-- [Comprehensible input in natural language contexts is presented as essential to second language acquisition](../claims/comprehensible-input-essential-l2-acquisition.md) [+W]
 
 ## Related Theories
 

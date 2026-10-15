@@ -49,6 +49,6 @@ Cohort comparison of post-policy versus pre-policy students by percentile rank g
 - [For targeted students overall, the policy produced only negligible changes in algebra grades and failure rates despite test-score gains](double-dose-algebra-improved-test-scores-modest-grades-effects.md) — related
 - [Failure rates increased and grades declined for higher-skill students in single-period algebra after the policy](grades-declined-higher-skill-single-period-students.md) — related
 - [Fish pond effects: above-norm students became more likely to fail algebra when their skills were low relative to classroom peers after sorting](fish-pond-effects-increase-failure-above-norm.md) — related
-- [The double-dose policy affected non-targeted high-ability students: their algebra test scores improved while their grades declined](double-dose-spillover-high-ability-scores-up-grades-down.md) — related
+- The double-dose policy affected non-targeted high-ability students: their algebra test scores improved while their grades declined — related
 - [Sorting by ability affects grades and pass rates differently from test scores: high-skilled students' grades and pass rates decline while low-skilled students' grades improve](sorting-opposite-effects-grades-vs-test-scores.md) — related
-- [Only 64% of Black Michigan students passed Algebra I by 10th grade in 2021-22, below the 74% statewide average, while white students were the sole group above it at 78%](michigan-algebra-i-pass-rate-gaps.md) — related
+- Only 64% of Black Michigan students passed Algebra I by 10th grade in 2021-22, below the 74% statewide average, while white students were the sole group above it at 78% — related

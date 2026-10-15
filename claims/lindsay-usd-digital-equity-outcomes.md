@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: weaver-2022
-    resource: "https://digitalpromise.dspacedirect.org/items/38939984-18ea-4af0-8081-c787ac30d48d"
-    title: "Weaver, D'Andre J., Ph.D. (2022). Delivering on the Promise of Digital Equity. Digital Promise. https://digitalpromise.dspacedirect.org/items/38939984-18ea-4af0-8081-c787ac30d48d"
+    resource: "https://doi.org/10.51388/20.500.12265/166"
+    title: "Weaver, D'Andre J., Ph.D. (2022). Delivering on the Promise of Digital Equity. Digital Promise. https://digitalpromise.dspacedirect.org/items/38939984-18ea-4af0-8081-c787ac30d48d [doi:10.51388/20.500.12265/166](https://doi.org/10.51388/20.500.12265/166)"
     author: "Weaver, D'Andre J., Ph.D."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Weaver 2022
 
-Weaver, D'Andre J., Ph.D. (2022). Delivering on the Promise of Digital Equity. Digital Promise. https://digitalpromise.dspacedirect.org/items/38939984-18ea-4af0-8081-c787ac30d48d
+Weaver, D'Andre J., Ph.D. (2022). Delivering on the Promise of Digital Equity. Digital Promise. https://digitalpromise.dspacedirect.org/items/38939984-18ea-4af0-8081-c787ac30d48d [doi:10.51388/20.500.12265/166](https://doi.org/10.51388/20.500.12265/166)
 
 `q2 · i?` · `qualitative · r1`
 

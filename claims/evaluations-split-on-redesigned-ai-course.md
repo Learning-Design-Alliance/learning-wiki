@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: yusuf-pisan-2026
-    resource: "https://arxiv.org/abs/2608.05175"
-    title: "Yusuf Pisan. (2026). Teaching Intro AI When the Tools Can Do the Homework: A Course Redesign and a Student Bill of Rights. https://arxiv.org/abs/2608.05175"
+    resource: "https://doi.org/10.48550/arxiv.2608.05175"
+    title: "Yusuf Pisan. (2026). Teaching Intro AI When the Tools Can Do the Homework: A Course Redesign and a Student Bill of Rights. https://arxiv.org/abs/2608.05175 [doi:10.48550/arxiv.2608.05175](https://doi.org/10.48550/arxiv.2608.05175)"
     author: Yusuf Pisan
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Yusuf Pisan 2026
 
-Yusuf Pisan. (2026). Teaching Intro AI When the Tools Can Do the Homework: A Course Redesign and a Student Bill of Rights. https://arxiv.org/abs/2608.05175
+Yusuf Pisan. (2026). Teaching Intro AI When the Tools Can Do the Homework: A Course Redesign and a Student Bill of Rights. https://arxiv.org/abs/2608.05175 [doi:10.48550/arxiv.2608.05175](https://doi.org/10.48550/arxiv.2608.05175)
 
 `q1 · i?` · `design · r2`
 

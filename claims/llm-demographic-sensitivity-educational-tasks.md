@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: donya-rooein-2026
-    resource: "https://arxiv.org/abs/2609.16993"
-    title: "Donya Rooein, Luca Benedetto, Dirk Hovy. (2026). The Role of Implicit and Explicit Demographic Signals in Large Language Model-based Student Assessment. https://arxiv.org/abs/2609.16993"
+    resource: "https://doi.org/10.48550/arxiv.2609.16993"
+    title: "Donya Rooein, Luca Benedetto, Dirk Hovy. (2026). The Role of Implicit and Explicit Demographic Signals in Large Language Model-based Student Assessment. https://arxiv.org/abs/2609.16993 [doi:10.48550/arxiv.2609.16993](https://doi.org/10.48550/arxiv.2609.16993)"
     author: Donya Rooein, Luca Benedetto, Dirk Hovy
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Donya Rooein 2026
 
-Donya Rooein, Luca Benedetto, Dirk Hovy. (2026). The Role of Implicit and Explicit Demographic Signals in Large Language Model-based Student Assessment. https://arxiv.org/abs/2609.16993
+Donya Rooein, Luca Benedetto, Dirk Hovy. (2026). The Role of Implicit and Explicit Demographic Signals in Large Language Model-based Student Assessment. https://arxiv.org/abs/2609.16993 [doi:10.48550/arxiv.2609.16993](https://doi.org/10.48550/arxiv.2609.16993)
 
 `q2 · i?` · `causal · r2`
 

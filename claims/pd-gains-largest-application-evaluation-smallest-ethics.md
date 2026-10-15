@@ -45,5 +45,5 @@ Study 3 pre-post dimension analysis (n=36). Table 5: practical application 45(20
 ## Related Claims
 - [Iterative coding of 27 AIL sources yields seven dimensions, with technical, application and critical-thinking dimensions most frequent and legal/regulatory knowledge rarest](ail-seven-dimensions-coding-frequencies.md) — related
 - [A GenAI-integrated professional development program produced significant pre-to-post gains in EAP educators' ethical awareness (d = 0.93) and digital andragogical competence](genai-pd-significant-ethical-awareness-gains.md) — reports the opposite
-- [Learning gains were highest for students whose background knowledge was lowest at pre-test](haiti-pilot-highest-gains-lowest-background-knowledge.md) — related
+- Learning gains were highest for students whose background knowledge was lowest at pre-test — related
 - [A professional development masterclass produces a 24% overall improvement in educators' AI utilization competence with large effect sizes](pd-masterclass-24-percent-ai-competence-gain.md) — a broader claim this one bears on

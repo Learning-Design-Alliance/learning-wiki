@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: zohal-shah-2024
-    resource: "https://digitalpromise.dspacedirect.org/items/2a854754-2233-4d09-9112-5b2f668321e8"
-    title: "Zohal Shah, Marilys Galindo, Chioma Aso-Hernandez, Christina Luke Luna, Keun-woo Lee, Josh Weisgrau, Teresa Solorzano, Britney Jacobs. (2024). The Promise of Micro-credentials and Learning and Employment Record Technologies for Youth and K-12 Schools. Digital Promise. https://digitalpromise.dspacedirect.org/items/2a854754-2233-4d09-9112-5b2f668321e8"
+    resource: "https://doi.org/10.51388/20.500.12265/224"
+    title: "Zohal Shah, Marilys Galindo, Chioma Aso-Hernandez, Christina Luke Luna, Keun-woo Lee, Josh Weisgrau, Teresa Solorzano, Britney Jacobs. (2024). The Promise of Micro-credentials and Learning and Employment Record Technologies for Youth and K-12 Schools. Digital Promise. https://digitalpromise.dspacedirect.org/items/2a854754-2233-4d09-9112-5b2f668321e8 [doi:10.51388/20.500.12265/224](https://doi.org/10.51388/20.500.12265/224)"
     author: Zohal Shah, Marilys Galindo, Chioma Aso-Hernandez, Christina Luke Luna, Keun-woo Lee, Josh Weisgrau, Teresa Solorzano, Britney Jacobs
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Micro-credentials function as motivational aids and carry perceived risks around credibility, visibility, and privacy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 1 review `r?`, 1 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Micro-credentials serve as recognition of learning, a motivational aid, and a progress-tracking assessment, with external reward signaling progress supporting learner self-efficacy. [→ Zohal Shah 2024](#zohal-shah-2024)
@@ -40,7 +40,7 @@ sources:
 
 ### Zohal Shah 2024
 
-Zohal Shah, Marilys Galindo, Chioma Aso-Hernandez, Christina Luke Luna, Keun-woo Lee, Josh Weisgrau, Teresa Solorzano, Britney Jacobs. (2024). The Promise of Micro-credentials and Learning and Employment Record Technologies for Youth and K-12 Schools. Digital Promise. https://digitalpromise.dspacedirect.org/items/2a854754-2233-4d09-9112-5b2f668321e8
+Zohal Shah, Marilys Galindo, Chioma Aso-Hernandez, Christina Luke Luna, Keun-woo Lee, Josh Weisgrau, Teresa Solorzano, Britney Jacobs. (2024). The Promise of Micro-credentials and Learning and Employment Record Technologies for Youth and K-12 Schools. Digital Promise. https://digitalpromise.dspacedirect.org/items/2a854754-2233-4d09-9112-5b2f668321e8 [doi:10.51388/20.500.12265/224](https://doi.org/10.51388/20.500.12265/224)
 
 `q2 · i?` · `review · r?`
 
@@ -63,5 +63,5 @@ The review attributes risk findings to Pitt et al. (2018), noting 80% of partici
 
 ## Related Claims
 - [Program appeal rested on flexibility and financial savings, with some modules completable in under 10 minutes](microcredential-appeal-flexibility-financial-savings.md) — related
-- [Districts and universities increasingly attach concrete incentives to earning Digital Promise micro-credentials](recognizer-incentives-for-micro-credentials.md) — related
+- Districts and universities increasingly attach concrete incentives to earning Digital Promise micro-credentials — related
 - [State certification directors are cautious yet hopeful about micro-credentials, citing quality control and compensation-system fit as concerns](state-directors-micro-credential-concerns.md) — related

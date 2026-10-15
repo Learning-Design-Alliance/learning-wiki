@@ -17,7 +17,7 @@ sources:
 # Align Tier 2 supplemental reading instruction with Tier 1 core instruction through teacher professional development and materials
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The program's central design principle is alignment: it provides "teachers with professional development and materials to improve the alignment of Tier 2 with Tier 1 core instruction." Core reading teachers also receive professional days on the same strategies, so both tiers teach the same content with shared routines.
@@ -38,7 +38,6 @@ The program's central design principle is alignment: it provides "teachers with 
 - foundational reading skills, vocabulary, and comprehension aligned with the Common Core State Standards
 
 ### Claims
-- [Ecri Improves Word Reading Outcomes First Grade](../claims/ecri-improves-word-reading-outcomes-first-grade.md) [+M]
 
 ## Related Designs
 - 

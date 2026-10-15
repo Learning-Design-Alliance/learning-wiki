@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: matthew-t-johnson-2019
-    resource: "https://www.mathematica.org/publications/changes-in-hbcu-financial-aid-and-student-enrollment-after-the-tightening-of-plus-credit-standards"
-    title: "Matthew T. Johnson, Julie Bruch, Brian Gill. (2019). Changes in HBCU Financial Aid and Student Enrollment After the Tightening of PLUS Credit Standards. Journal of Student Financial Aid, vol. 48, issue 2. https://www.mathematica.org/publications/changes-in-hbcu-financial-aid-and-student-enrollment-after-the-tightening-of-plus-credit-standards"
+    resource: "https://doi.org/10.55504/0884-9153.1627"
+    title: "Matthew T. Johnson, Julie Bruch, Brian Gill. (2019). Changes in HBCU Financial Aid and Student Enrollment After the Tightening of PLUS Credit Standards. Journal of Student Financial Aid, vol. 48, issue 2. https://www.mathematica.org/publications/changes-in-hbcu-financial-aid-and-student-enrollment-after-the-tightening-of-plus-credit-standards [doi:10.55504/0884-9153.1627](https://doi.org/10.55504/0884-9153.1627)"
     author: Matthew T. Johnson, Julie Bruch, Brian Gill
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Matthew T. Johnson 2019
 
-Matthew T. Johnson, Julie Bruch, Brian Gill. (2019). Changes in HBCU Financial Aid and Student Enrollment After the Tightening of PLUS Credit Standards. Journal of Student Financial Aid, vol. 48, issue 2. https://www.mathematica.org/publications/changes-in-hbcu-financial-aid-and-student-enrollment-after-the-tightening-of-plus-credit-standards
+Matthew T. Johnson, Julie Bruch, Brian Gill. (2019). Changes in HBCU Financial Aid and Student Enrollment After the Tightening of PLUS Credit Standards. Journal of Student Financial Aid, vol. 48, issue 2. https://www.mathematica.org/publications/changes-in-hbcu-financial-aid-and-student-enrollment-after-the-tightening-of-plus-credit-standards [doi:10.55504/0884-9153.1627](https://doi.org/10.55504/0884-9153.1627)
 
 `q2 · i?` · `causal · r?`
 

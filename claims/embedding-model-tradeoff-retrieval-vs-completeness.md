@@ -10,8 +10,8 @@ generated:
 evidence_strength: mixed
 sources:
   - id: ronghua-xu-2026
-    resource: "https://arxiv.org/abs/2608.08163"
-    title: "Ronghua Xu, Kepha Barasa, Manoj Kumal, Xinyun Liu, Weihua Zhou, Xin Qian. (2026). Agentic AI-driven Immersive Simulation: A Knowledge-Aware Virtual Training Platform for High Dose Rate (HDR) Brachytherapy. arXiv. https://arxiv.org/abs/2608.08163"
+    resource: "https://doi.org/10.48550/arxiv.2608.08163"
+    title: "Ronghua Xu, Kepha Barasa, Manoj Kumal, Xinyun Liu, Weihua Zhou, Xin Qian. (2026). Agentic AI-driven Immersive Simulation: A Knowledge-Aware Virtual Training Platform for High Dose Rate (HDR) Brachytherapy. arXiv. https://arxiv.org/abs/2608.08163 [doi:10.48550/arxiv.2608.08163](https://doi.org/10.48550/arxiv.2608.08163)"
     author: Ronghua Xu, Kepha Barasa, Manoj Kumal, Xinyun Liu, Weihua Zhou, Xin Qian
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Ronghua Xu 2026
 
-Ronghua Xu, Kepha Barasa, Manoj Kumal, Xinyun Liu, Weihua Zhou, Xin Qian. (2026). Agentic AI-driven Immersive Simulation: A Knowledge-Aware Virtual Training Platform for High Dose Rate (HDR) Brachytherapy. arXiv. https://arxiv.org/abs/2608.08163
+Ronghua Xu, Kepha Barasa, Manoj Kumal, Xinyun Liu, Weihua Zhou, Xin Qian. (2026). Agentic AI-driven Immersive Simulation: A Knowledge-Aware Virtual Training Platform for High Dose Rate (HDR) Brachytherapy. arXiv. https://arxiv.org/abs/2608.08163 [doi:10.48550/arxiv.2608.08163](https://doi.org/10.48550/arxiv.2608.08163)
 
 `q2 · i?` · `design · r2`
 

@@ -16,7 +16,7 @@ sources:
 # Myness–Otherness dialogical framework of culture in EFL learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article frames culture as "a progression from monological to dialogical processes" in which learners recognize "Myness" and "Otherness" — the relationship between the individual's own cultural identity and that of others. In the EFL classroom this dialogic dynamic is treated as the sphere of culture between society and the individual, and the study asks students to step out of their "myness" to examine their professional identity from a distance. Cultural awareness is defined as acknowledgement, tolerance, and acceptance of diversity with the ability to reflect and evaluate it critically.
@@ -38,9 +38,6 @@ The article frames culture as "a progression from monological to dialogical proc
 
 ### Claims
 
-- [Ct Metacog Upper Level Thought](../claims/ct-metacog-upper-level-thought.md) [+W]
-- [Metacognitive and reflective instruction through culture exploration was followed by considerable development of English communication competencies and a positive emotional group culture](../claims/ct-metacog-communication-competencies.md) [+W]
-- [Metacognitive and reflective instruction through culture exploration is associated with increased student engagement in the EFL classroom](../claims/ct-metacog-culture-engagement.md) [+W]
 
 ## Related Theories
 

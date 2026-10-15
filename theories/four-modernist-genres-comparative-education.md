@@ -16,7 +16,7 @@ sources:
 # Four modernist genres opposing the postmodern challenge in comparative education
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 In close reading of the selected texts, the author identifies four modernist positions that acknowledge or oppose the postmodern critique: Metanarratives of Reason, Emancipation and Progress; Rational Actor Gaming; Critical Modernist Appropriations; and Reflexive Modernity Adaptations. These sites are mapped and compared "according to how they choose to understand reality, and how they problematize practice," forming the modernist side of the debate field in Figure 3. Modernity theorists tend to situate the postmodern debate as internal to late modernity.
@@ -37,8 +37,6 @@ In close reading of the selected texts, the author identifies four modernist pos
 
 ### Claims
 
-- [Postmodern texts advance five characteristic theses against Enlightenment certainties](../claims/five-postmodern-theses-anti-enlightenment.md) [+W]
-- [The central characteristic of postmodern sensibility is an ontological shift from essentialist to anti-essentialist views of reality](../claims/postmodern-ontological-shift-anti-essentialism.md) [+W]
 
 ## Related Theories
 

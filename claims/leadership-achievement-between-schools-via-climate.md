@@ -44,5 +44,5 @@ Between-school SEM panels predicting school-adjusted EPAS gains (standardized co
 
 ## Related Claims
 - [Principal effects on student achievement are largely indirect, mediated through school organizational processes](principal-effects-indirect-through-organizational-processes.md) — a broader claim this one bears on
-- [School learning climate is the only process through which high school leadership accounts for differences across schools in instructional quality and achievement](learning-climate-only-cross-school-pathway.md) — related
+- School learning climate is the only process through which high school leadership accounts for differences across schools in instructional quality and achievement — related
 - [Within schools, principal leadership relates to individual teachers' instruction through multiple pathways, with the strongest via program quality (professional development and coherence)](leadership-instruction-within-schools-program-quality.md) — related

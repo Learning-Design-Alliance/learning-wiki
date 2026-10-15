@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` In videotaped lessons from the first site, time spent in discussion during the question cycle increased and the frequency of student-student interactions during discussions increased. [→ Ian D. Beatty 2008](#ian-d-beatty-2008)
@@ -44,7 +45,7 @@ Observational analysis of classroom video from the first project site, comparing
 
 
 ## Related Claims
-- [Teachers adapt TEFA to their own terms and contexts, with learning trajectories that are personal and idiosyncratic](teachers-adapt-tefa-to-own-terms.md) — related
+- Teachers adapt TEFA to their own terms and contexts, with learning trajectories that are personal and idiosyncratic — related
 - [Teachers reported that CRS-and-TEFA use gave them more information about student thinking and that they changed lessons in response to that formative information](tefa-formative-information-changed-lessons.md) — related
-- [Teachers typically encounter the first three TEFA skill areas in order: technology operation, question design, then discourse orchestration](tefa-skill-areas-sequential-order.md) — related
+- Teachers typically encounter the first three TEFA skill areas in order: technology operation, question design, then discourse orchestration — related
 - [The TEFA-T model improves students' critical thinking skills on all measured indicators compared with conventional instruction](tefa-t-improves-critical-thinking-skills.md) — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: frank-2012
-    resource: "https://journals.aps.org/prper/"
-    title: "Frank, B. W., and Scherr, R. E. (2012). Interactional processes for stabilizing conceptual coherences in physics. Submitted to PRST-PER. https://journals.aps.org/prper/"
+    resource: "https://doi.org/10.1103/physrevstper.8.020101"
+    title: "Frank, B. W., and Scherr, R. E. (2012). Interactional processes for stabilizing conceptual coherences in physics. Submitted to PRST-PER. https://journals.aps.org/prper/ [doi:10.1103/physrevstper.8.020101](https://doi.org/10.1103/physrevstper.8.020101)"
     author: Frank, B. W., and Scherr, R. E.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Frank 2012
 
-Frank, B. W., and Scherr, R. E. (2012). Interactional processes for stabilizing conceptual coherences in physics. Submitted to PRST-PER. https://journals.aps.org/prper/
+Frank, B. W., and Scherr, R. E. (2012). Interactional processes for stabilizing conceptual coherences in physics. Submitted to PRST-PER. https://journals.aps.org/prper/ [doi:10.1103/physrevstper.8.020101](https://doi.org/10.1103/physrevstper.8.020101)
 
 `q2 · i?` · `qualitative · r2`
 
@@ -47,14 +47,14 @@ Analysis in Section 4.B.2 of the material setting: strips stacked side-by-side p
 
 ## Related Claims
 - [Precisely coordinated transitions among spatial-orientational behavioral clusters help stabilize local patterns of student thinking](behavioral-clusters-stabilize-thinking.md) — related
-- [Changes in the constraints of activity (attention, object location, interaction patterns) provide opportunities for new locally stable patterns of thinking to take hold](changing-activity-constraints-enable-new-coherences.md) — related
-- [Contextual micro-features (worksheet wording, salient length differences, matching part-whole structure) support persistence of the less-distance-implies-less-time intuition](contextual-features-stabilize-distance-time-inference.md) — a narrower finding that bears on this claim
+- Changes in the constraints of activity (attention, object location, interaction patterns) provide opportunities for new locally stable patterns of thinking to take hold — related
+- Contextual micro-features (worksheet wording, salient length differences, matching part-whole structure) support persistence of the less-distance-implies-less-time intuition — a narrower finding that bears on this claim
 - [Material arrangement of artifacts (strips centered and ordered by length, worksheets held close) affords and stabilizes the initial pattern of activity; later decentralization enables new patterns](material-arrangement-affords-stability.md) — related
-- [Synchronized collective behaviors oriented to strips and worksheets dynamically stabilize the students' initial activity and thinking](synchronized-interactional-behaviors-stabilize-activity.md) — a broader claim this one bears on
+- Synchronized collective behaviors oriented to strips and worksheets dynamically stabilize the students' initial activity and thinking — a broader claim this one bears on
 - [Coordinating attention between whole-strip length and dot spacing does not disrupt and may stabilize the idea that shorter strips take less time](part-whole-coordination-preserves-initial-idea.md) — related
 - [A network of three mutually overlapping intuitive ideas (less distance implies less time, bunched up means faster, faster implies less time) stabilizes students' initial thinking](network-of-intuitive-ideas-stabilizes-thinking.md) — related
 - [Reflexive noticing shifts teacher discourse from stabilization to possibility, while surprises alone often re-stabilize it](reflexive-noticing-shifts-stabilization-to-possibility-discourse.md) — related
 - [Students' collective understanding during a physics tutorial alternates repeatedly between two distinct interpretations of tickertape distance rather than changing once](student-understanding-alternates-between-local-coherences-tickertape.md) — related
 - [The colloquial ambiguity of the words short and long in a worksheet question sustains the intuition that less distance implies less time](worksheet-wording-sustains-less-distance-less-time.md) — related
-- [Overlaying a grid onto the MIT-P display reifies the attentional anchor and abruptly shifts students into a new unit-based interaction routine](grid-overlay-reifies-anchor-shifts-routine.md) — a narrower finding that bears on this claim
+- Overlaying a grid onto the MIT-P display reifies the attentional anchor and abruptly shifts students into a new unit-based interaction routine — a narrower finding that bears on this claim
 - [Structural stability in the model is decided by a convex hull constraint on the resultant center of mass](convex-hull-com-stability-constraint.md) — related

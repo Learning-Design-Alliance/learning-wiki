@@ -18,7 +18,7 @@ sources:
 # Metacognitive Interview Form for Younger and Older Students
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A semi-structured interview assessment developed by the North Central Regional Educational Laboratory (NCREL) to measure younger and older students' metacognitive reading-strategy use before, during, and after reading.
@@ -28,10 +28,8 @@ A semi-structured interview assessment developed by the North Central Regional E
 - **Metacognitive Interview Form for Younger and Older Students (NCREL, 1995 rev. ed.)**: The Metacognitive Interview Form for Younger and Older Students (NCREL, 1995 rev. ed.) was the instrument administered to determine the degree of metacognitive strategy use by primary, middle, and high school students. It contains semi-structured questions about what to do before, during, and after reading, and when comprehension breaks down, with versions differing in item number by grade band (5 items for grades 2-3, 6 for grade 5, 4 for grade 6, 6 for grades 7-12). Teachers administered it after students silently read a short passage, with individual interviews for low-ability readers. (Gil et al. (2001))
 
 ### Claims
-- [Percentage of metacognitive interview responses varied by grade band: 66% (grades 2-3), 97% (grade 5), 82% (grade 6), and 41% (grades 7-12)](../claims/metacognitive-response-percentages-by-grade.md) [+W]
 - [Upper-level students most often reported contextual analysis, setting the purpose for reading, monitoring comprehension, and rereading](../claims/secondary-students-top-metacognitive-behaviors.md) [+W]
 - [Predicting, using contextual analysis, and rereading were the most frequently used metacognitive behaviors; deciding when to stop, independent reading time, and testing were least frequent](../claims/predicting-contextual-analysis-rereading-most-frequent.md) [+W]
-- [Students showed deficiencies in maintaining and monitoring their reading plan within the three-element view of metacognition](../claims/students-deficient-monitoring-maintaining-plan.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -68,10 +66,8 @@ The Metacognitive Interview Form for Younger and Older Students (NCREL, 1995 rev
 
 ### Claims
 <!- - Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] - ->
-- [Percentage of metacognitive interview responses varied by grade band: 66% (grades 2-3), 97% (grade 5), 82% (grade 6), and 41% (grades 7-12)](../claims/metacognitive-response-percentages-by-grade.md) [+W]
 - [Upper-level students most often reported contextual analysis, setting the purpose for reading, monitoring comprehension, and rereading](../claims/secondary-students-top-metacognitive-behaviors.md) [+W]
 - [Predicting, using contextual analysis, and rereading were the most frequently used metacognitive behaviors; deciding when to stop, independent reading time, and testing were least frequent](../claims/predicting-contextual-analysis-rereading-most-frequent.md) [+W]
-- [Students showed deficiencies in maintaining and monitoring their reading plan within the three-element view of metacognition](../claims/students-deficient-monitoring-maintaining-plan.md) [+W]
 
 ## Related Elements
 

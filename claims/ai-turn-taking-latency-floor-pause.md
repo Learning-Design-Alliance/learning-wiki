@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: russell-scheinberg-2026
-    resource: "https://arxiv.org/abs/2606.22225"
-    title: "Russell Scheinberg, Ameeta Agrawal, Tetyana Sydorenko, Kalab Kahsay, Nina Vyatkina, Griet Boone. (2026). What Changes When the Interlocutor Is an AI? Interactional Fluency and Linguistic Uptake in L2 Spoken Dialogue. https://arxiv.org/abs/2606.22225"
+    resource: "https://doi.org/10.48550/arxiv.2606.22225"
+    title: "Russell Scheinberg, Ameeta Agrawal, Tetyana Sydorenko, Kalab Kahsay, Nina Vyatkina, Griet Boone. (2026). What Changes When the Interlocutor Is an AI? Interactional Fluency and Linguistic Uptake in L2 Spoken Dialogue. https://arxiv.org/abs/2606.22225 [doi:10.48550/arxiv.2606.22225](https://doi.org/10.48550/arxiv.2606.22225)"
     author: Russell Scheinberg, Ameeta Agrawal, Tetyana Sydorenko, Kalab Kahsay, Nina Vyatkina, Griet Boone
     q: 3
     i: 3
@@ -31,7 +31,7 @@ sources:
 
 ### Russell Scheinberg 2026
 
-Russell Scheinberg, Ameeta Agrawal, Tetyana Sydorenko, Kalab Kahsay, Nina Vyatkina, Griet Boone. (2026). What Changes When the Interlocutor Is an AI? Interactional Fluency and Linguistic Uptake in L2 Spoken Dialogue. https://arxiv.org/abs/2606.22225
+Russell Scheinberg, Ameeta Agrawal, Tetyana Sydorenko, Kalab Kahsay, Nina Vyatkina, Griet Boone. (2026). What Changes When the Interlocutor Is an AI? Interactional Fluency and Linguistic Uptake in L2 Spoken Dialogue. https://arxiv.org/abs/2606.22225 [doi:10.48550/arxiv.2606.22225](https://doi.org/10.48550/arxiv.2606.22225)
 
 `q3 · i3` · `causal · r2`
 

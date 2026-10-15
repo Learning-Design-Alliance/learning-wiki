@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: ahmad-d-suleiman-2026
-    resource: "https://arxiv.org/abs/2607.11032"
-    title: "Ahmad D. Suleiman, Daqing Hou, and Maliha Noushin Raida. (2026). LLM-Generated Design Problems for Assessing Higher-Order Thinking in Project-Based Learning. arXiv preprint arXiv:2607.11032. https://arxiv.org/abs/2607.11032"
+    resource: "https://doi.org/10.48550/arxiv.2607.11032"
+    title: "Ahmad D. Suleiman, Daqing Hou, and Maliha Noushin Raida. (2026). LLM-Generated Design Problems for Assessing Higher-Order Thinking in Project-Based Learning. arXiv preprint arXiv:2607.11032. https://arxiv.org/abs/2607.11032 [doi:10.48550/arxiv.2607.11032](https://doi.org/10.48550/arxiv.2607.11032)"
     author: Ahmad D. Suleiman, Daqing Hou, and Maliha Noushin Raida
     q: 2
     i: "?"
@@ -32,7 +32,7 @@ sources:
 
 ### Ahmad D. Suleiman 2026
 
-Ahmad D. Suleiman, Daqing Hou, and Maliha Noushin Raida. (2026). LLM-Generated Design Problems for Assessing Higher-Order Thinking in Project-Based Learning. arXiv preprint arXiv:2607.11032. https://arxiv.org/abs/2607.11032
+Ahmad D. Suleiman, Daqing Hou, and Maliha Noushin Raida. (2026). LLM-Generated Design Problems for Assessing Higher-Order Thinking in Project-Based Learning. arXiv preprint arXiv:2607.11032. https://arxiv.org/abs/2607.11032 [doi:10.48550/arxiv.2607.11032](https://doi.org/10.48550/arxiv.2607.11032)
 
 `q2 · i?` · `design · r2`
 

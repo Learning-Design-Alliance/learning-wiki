@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Coached teachers reported more frequent ITU practices to develop student skills (printed effect sizes = .4, p < .001), e.g., monthly student use of technology for creativity (51% vs. 38% in core subjects). [→ Mahsa Bakhshaei 2020](#mahsa-bakhshaei-2020)

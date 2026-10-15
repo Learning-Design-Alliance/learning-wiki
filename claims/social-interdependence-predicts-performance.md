@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2` · `i2` medium
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Performance indicators are unrelated to role interdependence and specialization but correlate rather strongly with social interdependence. [→ Pennings 1974](#pennings-1974)
@@ -62,6 +63,6 @@ Correlation between the social interdependence measure and an anxiety scale (fee
 
 
 ## Related Claims
-- [Integration–performance link fails in specialized offices, contradicting the differentiation–integration paradigm](integration-performance-link-fails-in-specialized-offices.md) — related
+- Integration–performance link fails in specialized offices, contradicting the differentiation–integration paradigm — related
 - [Modes of interdependence are weakly or negligibly intercorrelated across brokerage offices](interdependence-modes-weakly-negatively-correlated.md) — related
 - [Negative specialization–role interdependence relationship holds only in offices low on workgroup process](specialization-role-interdependence-moderated-by-social-climate.md) — related

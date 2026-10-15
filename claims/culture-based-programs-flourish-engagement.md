@@ -44,7 +44,7 @@ The report's narrative review, citing McCarty (2002) and Reyhner & Hurtado (2008
 ## Related Claims
 
 - [The paper reports that culturally responsive pedagogies are associated with more student engagement, agency, and responsibility for seeking information](crse-pedagogies-engagement-agency-claim.md) — the general claim this finding bears on, with the studies behind it
-- [Premodern cultures' narratives assimilate language to the world rather than vice versa, offering environmental educators place-bound narrative strategies](premodern-narratives-assimilate-language-to-world.md) — related
+- Premodern cultures' narratives assimilate language to the world rather than vice versa, offering environmental educators place-bound narrative strategies — related
 - [Educators' knowledge of students' family and community contexts, including shared language and cultural background, helped schools reach and be reached by families](family-community-knowledge-reach-families.md) — related
 - [American Indian and Alaska Native students often do not willingly participate in the question-answer activity that constitutes most classroom discussions, because direct questioning in front of peers contradicts community norms](ai-an-students-question-answer-participation.md) — related
 - [Multimodal, culturally grounded formative assessment supports engagement and agency](multimodal-culturally-grounded-assessment-supports-engagement-and-agency.md) — related

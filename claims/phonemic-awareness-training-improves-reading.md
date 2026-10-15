@@ -97,18 +97,18 @@ This National Reading Panel meta-analysis pooled 52 peer-reviewed studies (96 tr
 - [Automatic word recognition frees resources for comprehension.](automatic-word-recognition-frees-resources-for-comprehension.md) — the downstream mechanism through which phonemic awareness is expected to benefit reading
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — relevant to why blending and segmenting routines must be automated to avoid overload during decoding
 - [Expertise reversal effect.](../theories/expertise-reversal-effect.md) — predicts fading benefits once learners can already decode, bounding when training should be delivered
-- [Increased cognitive flexibility may strengthen the effectiveness of phonemic awareness, reading, and spelling instruction for kindergarten and first-grade students with low cognitive flexibility](cf-training-may-strengthen-early-literacy-instruction.md) — a narrower finding that bears on this claim
+- Increased cognitive flexibility may strengthen the effectiveness of phonemic awareness, reading, and spelling instruction for kindergarten and first-grade students with low cognitive flexibility — a narrower finding that bears on this claim
 - [Phoneme awareness is a stronger predictor of reading development than rhyme awareness](phoneme-awareness-stronger-predictor-than-rhyme.md) — related
 - [Phonics instruction has a small but statistically confirmed effect for children with reading disabilities, while Orton-Gillingham structured-literacy programs show positive but non-significant effects](structured-literacy-interventions-help-struggling-readers.md) — related
 - [Systematic Phonics Improves Word Reading](phonics-instruction-outperforms-whole-word-for-generalization.md) — related
 - [The author of a 1997 conference paper reports finding no research supporting reverse transfer of skills from literacy to oral language](reverse-transfer-literacy-to-oral-unsupported.md) — related
-- [Rhyming poetry instruction improves first-grade students' reading fluency scores, linked to phonemic awareness](rhyming-poetry-improves-reading-fluency.md) — a narrower finding that bears on this claim
-- [Spector argues that beginning reading instruction should be designed to facilitate the acquisition of phonemic awareness](spector-phonemic-awareness-reading-instruction.md) — a narrower finding that bears on this claim
+- Rhyming poetry instruction improves first-grade students' reading fluency scores, linked to phonemic awareness — a narrower finding that bears on this claim
+- Spector argues that beginning reading instruction should be designed to facilitate the acquisition of phonemic awareness — a narrower finding that bears on this claim
 - [Cognitive load reduction improves learning.](cognitive-load-reduction-improves-learning.md) — phonological training lowers the intrinsic load of early decoding tasks
 - [Cognitive load theory.](../theories/cognitive-load-theory.md) — the theoretical frame explaining why sound-level instruction eases early decoding
 - [Morphological awareness contributes to pseudoword reading and reading comprehension beyond phonological awareness](morphological-awareness-contributes-reading-development.md) — related
 - [Training effects were larger on outcome measures aligned with the trained skill (blending, segmenting) than on less aligned measures](alignment-trained-skill-larger-effects-phonological-awareness.md) — related
 - [Phonological awareness training plus letter knowledge training has potentially positive effects on preschoolers' early reading/writing](pat-lk-potentially-positive-early-reading-writing.md) — a narrower finding that bears on this claim
 - [Phonemic segmentation training favored over rhyme/alliteration training on print knowledge, phonological processing, and early reading/writing (Yeh 2003), with substantively important but non-significant differences](phonemic-segmentation-favored-over-rhyme-alliteration-yeh.md) — related
-- [RAAL, the targeted RA program, had significant positive effects versus control (effect size +0.10)](raal-significant-positive-effects.md) — related
-- [Reading development proceeds from oral language through decoding and fluency to comprehension, but as an interwoven lattice rather than a simple linear process](reading-development-interwoven-lattice-not-linear.md) — related
+- RAAL, the targeted RA program, had significant positive effects versus control (effect size +0.10) — related
+- Reading development proceeds from oral language through decoding and fluency to comprehension, but as an interwoven lattice rather than a simple linear process — related

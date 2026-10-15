@@ -71,4 +71,4 @@ Context-specific sentiment analysis with a custom lexicon and LDA topic modellin
 - [Engineering students treat GenAI as acceptable when it stimulates reflection but view directly copying outputs as cheating, leveraging its fallibility to prompt double-checking](genai-ethics-reflection-versus-copying-boundaries.md) — related
 - [Critical discourse analysis of 49 educator Reddit posts identifies seven forms of academic erasure in AI-supported writing](seven-forms-academic-erasure-educator-discourse.md) — related
 - [Preferred scoring and feedback methods differ significantly across assignment types, with AI-based scoring rarely preferred and mixed options most chosen for low-stakes assignments](scoring-preferences-vary-by-assignment-type.md)
-- [Evaluators view GenAI use in story writing as broadly acceptable but reject unacknowledged use and demand compensation for source creators](evaluator-limits-on-acceptable-genai-use.md) — related
+- Evaluators view GenAI use in story writing as broadly acceptable but reject unacknowledged use and demand compensation for source creators — related

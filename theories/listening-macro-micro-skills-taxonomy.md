@@ -16,7 +16,7 @@ sources:
 # Taxonomy of macro- and micro-skills of listening comprehension
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The paper organizes listening skills into macro-language use, "the learning of elements of language and their potential combinations", and micro-skills that each perform different functions. It reports Rivers and Temperly's seven enumerated listening abilities, Richards' 33 micro-skills (of which ten are listed, from retaining chunks of language to recognizing core conversational vocabulary), Richards' three listening areas (conversational, academic, pleasure listening), and Richards' three levels of processing: propositional identification, interpretation of illocutionary force, and activation of real world knowledge.
@@ -38,8 +38,6 @@ The paper organizes listening skills into macro-language use, "the learning of e
 ### Claims
 
 - [A 2010 teacher guide reports, citing Postovsky (1974, 1975), that delaying oral production and emphasising aural comprehension early in EFL instruction gives better results than intensive oral practice](../claims/listening-first-outperforms-intensive-oral-practice.md) [+W]
-- [Listening is the most frequently used of the four language skills, consuming the largest share of communication time](../claims/listening-most-used-language-skill.md) [+W]
-- [Listening proficiency transfers to other language skills, including reading and writing, in second language learners](../claims/listening-transfer-to-other-language-skills.md) [+W]
 
 ## Related Theories
 

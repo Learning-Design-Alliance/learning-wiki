@@ -17,7 +17,7 @@ sources:
 # Latent class forest
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The latent class forest (LCF) embeds latent class analysis within a random forest ensemble, recursively partitioning observations via EM-estimated two-class splits at each internal node, then clustering a pairwise distance matrix built from terminal-node similarity. The authors state: "We introduce a latent class forest, a latent class analysis and a random forest ensemble that will recursively partition observations into groups to help identify at-risk students." It extends RPMM and latent class trees, using bootstrapped samples and random subsets of inputs per split.
@@ -27,11 +27,6 @@ The latent class forest (LCF) embeds latent class analysis within a random fores
 - **Latent class forest: a random forest ensemble of latent class trees for model-based clustering of at-risk students**: The latent class forest (LCF) embeds latent class analysis within a random forest ensemble, recursively partitioning observations via EM-estimated two-class splits at each internal node, then clustering a pairwise distance matrix built from terminal-node similarity. The authors state: "We introduce a latent class forest, a latent class analysis and a random forest ensemble that will recursively partition observations into groups to help identify at-risk students." It extends RPMM and latent class trees, using bootstrapped samples and random subsets of inputs per split. (Pelaez et al. (2019))
 
 ### Claims
-- [High-risk LCF groups concentrate URM, first-generation, EOP, Compact, commuter, and lower-academic-preparation students](../claims/lcf-high-risk-group-demographic-composition.md) [+W]
-- [LCF showed the most differentiated input patterns across risk groups (11 inputs) versus comparison methods](../claims/lcf-most-differentiated-input-patterns.md) [+W]
-- [LCF outperformed k-means, RPMM, and SS-RPMM on cluster validity indices in the same PSY 101 data](../claims/lcf-outperforms-comparison-methods-validity-indices.md) [+W]
-- [LCF identifies three PSY 101 risk groups with strongly differentiated DFW rates of 28%, 12%, and 6%](../claims/lcf-three-risk-groups-dfw-rates.md) [+W]
-- [SI attendance was associated with a significant DFW decrease in the highest-risk group but smaller, non-significant decreases in mid- and low-risk groups](../claims/si-benefit-highest-risk-group.md) [+W]
 
 ## Related Research Methods
 -
@@ -65,11 +60,6 @@ The latent class forest (LCF) embeds latent class analysis within a random fores
 
 ### Claims
 
-- [High-risk LCF groups concentrate URM, first-generation, EOP, Compact, commuter, and lower-academic-preparation students](../claims/lcf-high-risk-group-demographic-composition.md) [+W]
-- [LCF showed the most differentiated input patterns across risk groups (11 inputs) versus comparison methods](../claims/lcf-most-differentiated-input-patterns.md) [+W]
-- [LCF outperformed k-means, RPMM, and SS-RPMM on cluster validity indices in the same PSY 101 data](../claims/lcf-outperforms-comparison-methods-validity-indices.md) [+W]
-- [LCF identifies three PSY 101 risk groups with strongly differentiated DFW rates of 28%, 12%, and 6%](../claims/lcf-three-risk-groups-dfw-rates.md) [+W]
-- [SI attendance was associated with a significant DFW decrease in the highest-risk group but smaller, non-significant decreases in mid- and low-risk groups](../claims/si-benefit-highest-risk-group.md) [+W]
 
 ## Related Theories
 - 

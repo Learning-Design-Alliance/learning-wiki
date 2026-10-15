@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: md-zarzees-uddin-shah-chowdhury-and-samin-rahman-khan-2026
-    resource: "https://arxiv.org/abs/2608.22660"
-    title: "Md Zarzees Uddin Shah Chowdhury and Samin Rahman Khan. (2026). Evaluation in the Age of AI: Output as Evidence of Learning. https://arxiv.org/abs/2608.22660"
+    resource: "https://doi.org/10.48550/arxiv.2608.22660"
+    title: "Md Zarzees Uddin Shah Chowdhury and Samin Rahman Khan. (2026). Evaluation in the Age of AI: Output as Evidence of Learning. https://arxiv.org/abs/2608.22660 [doi:10.48550/arxiv.2608.22660](https://doi.org/10.48550/arxiv.2608.22660)"
     author: Md Zarzees Uddin Shah Chowdhury and Samin Rahman Khan
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Md Zarzees Uddin Shah Chowdhury and Samin Rahman Khan 2026
 
-Md Zarzees Uddin Shah Chowdhury and Samin Rahman Khan. (2026). Evaluation in the Age of AI: Output as Evidence of Learning. https://arxiv.org/abs/2608.22660
+Md Zarzees Uddin Shah Chowdhury and Samin Rahman Khan. (2026). Evaluation in the Age of AI: Output as Evidence of Learning. https://arxiv.org/abs/2608.22660 [doi:10.48550/arxiv.2608.22660](https://doi.org/10.48550/arxiv.2608.22660)
 
 `q2 · i?` · `associational · r1`
 
@@ -43,8 +43,8 @@ The article reports, citing Gonsalves, research into student attitudes showing "
 
 
 ## Related Claims
-- [Students frequently do not complete mandatory AI use declarations, perceiving them as admissions of wrongdoing (attributed to Gonsalves)](students-avoid-ai-declarations-fearing-consequences.md) — a narrower finding that bears on this claim
+- Students frequently do not complete mandatory AI use declarations, perceiving them as admissions of wrongdoing (attributed to Gonsalves) — a narrower finding that bears on this claim
 - [Fear that AI will replace jobs creates significant barriers to workforce engagement in AI literacy training](job-replacement-fear-barriers-ai-training.md) — related
-- [Disclosure status alone often changes little in substantive classification, and false declarations change fewer classifications than expected](disclosure-alone-often-changes-little.md) — related
+- Disclosure status alone often changes little in substantive classification, and false declarations change fewer classifications than expected — related
 - [AI use threatens students' computing identities as competent, hardworking, and ethical, with students identifying as cheaters, lazy, or incompetent even where AI is permitted](ai-use-threatens-computing-identity.md) — related
 - [Universities converge on disclosure and attribution expectations as the condition distinguishing legitimate AI assistance from misrepresentation](genai-disclosure-attribution-convergence.md) — related

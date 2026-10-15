@@ -16,7 +16,7 @@ sources:
 # Role distance as one dimension of authenticity: a continuum from complete role embracement to complete role alienation
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The paper proposes linking Goffman's concept of role distance to Halpin and Croft's concept of authenticity, treating authenticity as a "derived concept" positioned on a role distance continuum. The continuum ranges "from behavior perceived as expressing complete embracement of a particular role through behavior perceived as expressing complete alienation from a particular role" (Figure 1). The author argues this substitution circumvents complications of the concept of self implicit in the authenticity term, while cautioning that role distance is not the absolute equivalent of authenticity.
@@ -37,8 +37,6 @@ The paper proposes linking Goffman's concept of role distance to Halpin and Crof
 
 ### Claims
 
-- [Authenticity Concept Lacks Operational Definition](../claims/authenticity-concept-lacks-operational-definition.md) [+M]
-- [Supporting the proposition that role distance constitutes one dimension of authenticity requires positive empirical relationships between role distance measures and OCDQ Esprit, Thrust, and Open Climate measures](../claims/role-distance-validation-requires-ocdq-relationships.md) [+W]
 
 ## Related Theories
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: gennie-mansi-2026
-    resource: "https://arxiv.org/abs/2606.30590"
-    title: "Gennie Mansi, Sunni Newton, Roxanne Moore, Meltem Alemdar, Mark Riedl. (2026). Concept Catalyst: Exploring Scrutable Interfaces to Structure K-12 Teacher Interactions with Generative AI. https://arxiv.org/abs/2606.30590"
+    resource: "https://doi.org/10.48550/arxiv.2606.30590"
+    title: "Gennie Mansi, Sunni Newton, Roxanne Moore, Meltem Alemdar, Mark Riedl. (2026). Concept Catalyst: Exploring Scrutable Interfaces to Structure K-12 Teacher Interactions with Generative AI. https://arxiv.org/abs/2606.30590 [doi:10.48550/arxiv.2606.30590](https://doi.org/10.48550/arxiv.2606.30590)"
     author: Gennie Mansi, Sunni Newton, Roxanne Moore, Meltem Alemdar, Mark Riedl
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Building the concept map supported teachers' reflection, helping them synthesize what students should learn and iterate on their plans
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The concept map helped teachers iterate on what students should address in their writing and visualize how concepts connected. [→ Gennie Mansi 2026](#gennie-mansi-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Gennie Mansi 2026
 
-Gennie Mansi, Sunni Newton, Roxanne Moore, Meltem Alemdar, Mark Riedl. (2026). Concept Catalyst: Exploring Scrutable Interfaces to Structure K-12 Teacher Interactions with Generative AI. https://arxiv.org/abs/2606.30590
+Gennie Mansi, Sunni Newton, Roxanne Moore, Meltem Alemdar, Mark Riedl. (2026). Concept Catalyst: Exploring Scrutable Interfaces to Structure K-12 Teacher Interactions with Generative AI. https://arxiv.org/abs/2606.30590 [doi:10.48550/arxiv.2606.30590](https://doi.org/10.48550/arxiv.2606.30590)
 
 `q2 · i?` · `design · r2`
 

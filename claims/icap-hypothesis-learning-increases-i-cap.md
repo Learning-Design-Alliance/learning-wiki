@@ -44,10 +44,10 @@ The article's central hypothesis, derived conceptually from the taxonomy and its
 
 ## Related Claims
 - [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) — possibly the same claim (merge candidate)
-- [Included AI literacy activities spanned all four ICAP modes, with passive modes in nine studies, active in five, constructive in seven, and interactive in eight](icap-modes-across-ai-literacy-studies.md) — related
+- Included AI literacy activities spanned all four ICAP modes, with passive modes in nine studies, active in five, constructive in seven, and interactive in eight — related
 - [Generative (Constructive) engagement by young children produces better learning than attentive (Passive) engagement](constructive-beats-passive-young-children.md) — a narrower finding that bears on this claim
 - [Teachers had minimal success designing Constructive and Interactive activities after ICAP professional development](teachers-struggle-designing-interactive-activities.md) — related
 - [In the 5-year translation project, students learned significantly more in Constructive than Active activities](students-learned-more-constructive-than-active.md) — a narrower finding that bears on this claim
 - [Engagement modes were unevenly distributed across units, with some units rated Interactive and others entirely Passive](uneven-icap-mode-distribution-across-units.md) — related
-- [The largest learning gain in the ICAP hierarchy occurs when moving from the Active to the Constructive mode](active-to-constructive-largest-leap.md) — a narrower finding that bears on this claim
+- The largest learning gain in the ICAP hierarchy occurs when moving from the Active to the Constructive mode — a narrower finding that bears on this claim
 - [An ICAP theory article reports, second-hand and without describing the design, a study in which concept mapping with a peer enhanced learning more than concept mapping alone](interactive-beats-constructive-concept-mapping.md) — a narrower finding that bears on this claim

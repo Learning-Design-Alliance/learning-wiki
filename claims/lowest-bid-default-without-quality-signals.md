@@ -41,6 +41,6 @@ The report's assertion about district procurement behavior, offered without supp
 
 
 ## Related Claims
-- [Stakeholders report that education leaders, educators, and investors lack common language or indicators to assess edtech quality, hindering evidence-based decisions](no-common-standards-edtech-quality-assessment.md) — a broader claim this one bears on
-- [Education stakeholders report that limited, hard-to-find, and rarely trustworthy information about edtech products creates significant barriers to selection](edtech-product-information-scarce-untrustworthy.md) — a broader claim this one bears on
+- Stakeholders report that education leaders, educators, and investors lack common language or indicators to assess edtech quality, hindering evidence-based decisions — a broader claim this one bears on
+- Education stakeholders report that limited, hard-to-find, and rarely trustworthy information about edtech products creates significant barriers to selection — a broader claim this one bears on
 - [Evidence and evaluation standards for educational AI are immature, widening the gap between product release pace and rigorous evaluation](edtech-ai-evidence-standards-immature.md) — related

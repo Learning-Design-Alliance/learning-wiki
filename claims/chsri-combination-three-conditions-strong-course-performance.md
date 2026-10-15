@@ -48,4 +48,4 @@ Comparative analysis of ten CHSRI small schools using survey measures, qualitati
 - [Building a strong learning climate by supporting and guiding teacher collaboration around common goals is highlighted as a key finding](learning-climate-teacher-collaboration-common-goals.md) — related
 - [High-performing CHSRI schools shared four practices for guiding and sustaining instructional improvement: defining leadership responsibilities, creatively distributing them, institutionalizing routines, and focusing team work on school-wide goals](chsri-four-improvement-practices.md) — related
 - [The five essential supports matter in combination: strength on clusters of supports, not isolated domains, predicts improvement](supports-matter-in-combined-clusters.md) — a broader claim this one bears on
-- [Knowledge of the on-track indicator and its use in district accountability were not enough to change school practice](ontrack-knowledge-accountability-insufficient-practice-change.md) — related
+- Knowledge of the on-track indicator and its use in district accountability were not enough to change school practice — related

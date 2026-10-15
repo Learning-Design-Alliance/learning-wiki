@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: corcoran-2003
-    resource: "https://eric.ed.gov/?id=ED480404"
-    title: "Corcoran, Tom. (2003). The Merck Institute for Science Education: A Successful Intermediary for Education Reform. CPRE Research Report Series RR-052. https://eric.ed.gov/?id=ED480404"
+    resource: "https://doi.org/10.1037/e383112004-001"
+    title: "Corcoran, Tom. (2003). The Merck Institute for Science Education: A Successful Intermediary for Education Reform. CPRE Research Report Series RR-052. https://eric.ed.gov/?id=ED480404 [doi:10.1037/e383112004-001](https://doi.org/10.1037/e383112004-001)"
     author: Corcoran, Tom
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Intensive three-year professional development changed Leader Teachers' practice dramatically, but peer diffusion of reform was uneven
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r3` · `q2`
+> **Evidence** · 2 studies · 2 design `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Leader Teachers receiving nearly 500 hours of professional development over three years changed their practice dramatically and engaged students in inquiry regularly, though practice stabilized after three years. [→ Corcoran 2003](#corcoran-2003)
@@ -40,7 +40,7 @@ sources:
 
 ### Corcoran 2003
 
-Corcoran, Tom. (2003). The Merck Institute for Science Education: A Successful Intermediary for Education Reform. CPRE Research Report Series RR-052. https://eric.ed.gov/?id=ED480404
+Corcoran, Tom. (2003). The Merck Institute for Science Education: A Successful Intermediary for Education Reform. CPRE Research Report Series RR-052. https://eric.ed.gov/?id=ED480404 [doi:10.1037/e383112004-001](https://doi.org/10.1037/e383112004-001)
 
 `q2 · i?` · `design · r3`
 
@@ -65,7 +65,7 @@ CPRE's account of the Leader Teacher diffusion strategy: success depended on sel
 - [Network learning spread beyond the network through a website, conference presentations, school and district sharing, and AIR-led professional learning communities](bmtn-external-spread-channels.md) — related
 - [Non-participation in intensive professional development reflected enjoyment, preparation, and conceptions of professional development, not experience or science background](nonparticipant-barriers-professional-development.md) — related
 - [Content familiarity, not teaching experience, predicted reform-based science teaching practice](content-familiarity-predicts-reform-practice-experience-does-not.md) — related
-- [An intensive competency-based mastery workshop can be an effective diffusion strategy for statewide curriculum leaders to develop learning systems](competency-workshop-effective-diffusion-strategy.md) — related
+- An intensive competency-based mastery workshop can be an effective diffusion strategy for statewide curriculum leaders to develop learning systems — related
 - [Without clear expectations and support from district leaders, coaches might not devote sufficient time to the full range of coaching activities needed to improve teachers' instruction](coaches-need-district-expectations-full-activities.md) — related
 - [An intensive principal professional development program did not change principals' practices in the ways intended by the program](principal-pd-instructional-leadership-no-practice-change.md) — related
 - [Teacher leaders can play a valuable role in supporting the professional learning of their colleagues](teacher-leaders-support-colleague-professional-learning.md) — related

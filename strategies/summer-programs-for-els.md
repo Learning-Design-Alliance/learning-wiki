@@ -17,7 +17,7 @@ sources:
 # Offer summer and out-of-school-time programs for current-ELs and dually-identified students
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (1 for, 2 mixed) · 3 studies (2 associational, 1 causal), `q2`–`q3` · 0 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Because EL groups lost more learning during summers than never-ELs despite faster school-year growth, the author recommends that "schools and communities might consider offering programs during summers and other out-of-school time." The article cites evidence that targeted summer programs of extensive duration had positive academic effects for high school newcomer ELs and for elementary students from socioeconomically-disadvantaged families.
@@ -41,7 +41,6 @@ Because EL groups lost more learning during summers than never-ELs despite faste
 ## Claims
 
 - [Academic rebounding in reading and math was uneven across school years and summers, especially in reading](../claims/rebounding-uneven-across-school-years-summers-reading.md) [~W]
-- [Despite program gains, most treatment students remained below algebra-readiness benchmarks at the end of the Elevate Math summer program](../claims/elevate-math-participants-still-not-algebra-ready.md) [~W]
 - [ELs lost more academic skill during summers than never-ELs in both math and reading](../claims/el-greater-summer-loss-both-subjects.md) [+W]
 
 ## Related Strategies

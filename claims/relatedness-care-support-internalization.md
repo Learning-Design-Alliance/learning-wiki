@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Students in classrooms with higher levels of relatedness are more likely to internalize the teacher's values and find more identified regulation for learning, and student satisfaction with the class increases when positive relationships are valued. [→ Jennifer D. Moss 2017](#jennifer-d-moss-2017)
@@ -43,6 +44,6 @@ The article's relatedness section links IE's care element to SDT's relatedness n
 
 
 ## Related Claims
-- [Both SDT and IE hold that people's actions are based on their perceptions of their contexts](perception-determines-behavior-ie-sdt.md) — related
+- Both SDT and IE hold that people's actions are based on their perceptions of their contexts — related
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related
 - [Positive teacher–student relationships are associated with greater student engagement and, more weakly, with achievement](teacher-student-relationships-improve-engagement.md) — related

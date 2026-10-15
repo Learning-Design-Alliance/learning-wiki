@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: howard-ziyu-han-2026
-    resource: "https://arxiv.org/abs/2608.04166"
-    title: "Howard Ziyu Han, Nikolas Martelaro. (2026). Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers. https://arxiv.org/abs/2608.04166"
+    resource: "https://doi.org/10.48550/arxiv.2608.04166"
+    title: "Howard Ziyu Han, Nikolas Martelaro. (2026). Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers. https://arxiv.org/abs/2608.04166 [doi:10.48550/arxiv.2608.04166](https://doi.org/10.48550/arxiv.2608.04166)"
     author: Howard Ziyu Han, Nikolas Martelaro
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Howard Ziyu Han 2026
 
-Howard Ziyu Han, Nikolas Martelaro. (2026). Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers. https://arxiv.org/abs/2608.04166
+Howard Ziyu Han, Nikolas Martelaro. (2026). Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers. https://arxiv.org/abs/2608.04166 [doi:10.48550/arxiv.2608.04166](https://doi.org/10.48550/arxiv.2608.04166)
 
 `q3 · i?` · `causal · r2`
 

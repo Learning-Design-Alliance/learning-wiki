@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: baker-2023
-    resource: "https://jedm.educationaldatamining.org/index.php/JEDM/article/view/619"
-    title: "Baker, R. S., Esbenshade, L., Vitale, J., & Karumbaiah, S. (2023). Using Demographic Data as Predictor Variables: a Questionable Choice. Journal of Educational Data Mining, 15(2). https://jedm.educationaldatamining.org/index.php/JEDM/article/view/619"
+    resource: "https://doi.org/10.35542/osf.io/y4wvj"
+    title: "Baker, R. S., Esbenshade, L., Vitale, J., & Karumbaiah, S. (2023). Using Demographic Data as Predictor Variables: a Questionable Choice. Journal of Educational Data Mining, 15(2). https://jedm.educationaldatamining.org/index.php/JEDM/article/view/619 [doi:10.35542/osf.io/y4wvj](https://doi.org/10.35542/osf.io/y4wvj)"
     author: "Baker, R. S., Esbenshade, L., Vitale, J., & Karumbaiah, S."
     q: 1
     i: "?"
@@ -38,7 +38,7 @@ sources:
 # Including demographic variables as predictors can reduce actionability by de-emphasizing correlated actionable risk factors and by discounting intervention effects
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · theoretical `r3` · `q1`
+> **Evidence** · 2 studies (3 entries) · 2 theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` Including demographic variables can cause models to de-emphasize correlated risk factors more directly aligned with a student's particular needs. [→ Baker 2023](#baker-2023)
@@ -48,7 +48,7 @@ sources:
 
 ### Baker 2023
 
-Baker, R. S., Esbenshade, L., Vitale, J., & Karumbaiah, S. (2023). Using Demographic Data as Predictor Variables: a Questionable Choice. Journal of Educational Data Mining, 15(2). https://jedm.educationaldatamining.org/index.php/JEDM/article/view/619
+Baker, R. S., Esbenshade, L., Vitale, J., & Karumbaiah, S. (2023). Using Demographic Data as Predictor Variables: a Questionable Choice. Journal of Educational Data Mining, 15(2). https://jedm.educationaldatamining.org/index.php/JEDM/article/view/619 [doi:10.35542/osf.io/y4wvj](https://doi.org/10.35542/osf.io/y4wvj)
 
 `q1 · i?` · `theoretical · r3`
 
@@ -83,7 +83,7 @@ The authors argue such a model embeds a form of demographic destiny: it "risks d
 - [The argument that excluding demographic predictors amounts to color-blind racism is contested: inclusion can also produce racist decision-making](colorblind-racism-argument-for-inclusion-contested.md) — related
 - [Heterogeneity within demographic categories means group variables as predictors can disadvantage atypical group members and underrepresented groups](demographic-category-heterogeneity-harms-atypical-members.md) — related
 - [Using demographic variables as predictors risks reinforcing biases embedded in training labels, including self-fulfilling prophecies](demographic-predictors-reinforce-training-label-bias.md) — related
-- [In descriptive logit models, demographic variables predict dropout at enrollment (e.g., males have a 60% higher chance of dropping out than females), but most lose significance once first-semester performance data is controlled](logit-demographic-predictors-weaken-after-performance-controls.md) — related
+- In descriptive logit models, demographic variables predict dropout at enrollment (e.g., males have a 60% higher chance of dropping out than females), but most lose significance once first-semester performance data is controlled — related
 - [Evidence is mixed on whether including demographic variables as predictors improves model performance in educational prediction](mixed-evidence-demographic-predictor-performance.md) — a narrower finding that bears on this claim
 - [Using predictive analytics while ignoring teacher knowledge may misidentify students at risk of dropping out and negatively influence teacher views](ignoring-teacher-knowledge-misidentifies-risk-students.md) — related
 - [Prior research established correlations between observable student experiences such as frustration and clickstream data in ASSISTments, enabling experience-variable equity research without demographic data](bromp-frustration-clickstream-correlations.md) — related

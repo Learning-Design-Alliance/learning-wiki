@@ -44,4 +44,4 @@ Retrospective matched study during 2021-2022 with 169 6th-8th grade teachers in 
 
 ## Related Claims
 - [Students of e2L-coached teachers outperformed students in comparison schools on end-of-year STAAR math in a propensity-score-matched study](e2l-coaching-staar-math-outperformed.md) — related
-- [STAAR results in the first e2L study were conflicting: positive versus separate control schools but negative versus non-e2L teachers in the same schools](e2l-staar-conflicting-results-study-one.md) — related
+- STAAR results in the first e2L study were conflicting: positive versus separate control schools but negative versus non-e2L teachers in the same schools — related

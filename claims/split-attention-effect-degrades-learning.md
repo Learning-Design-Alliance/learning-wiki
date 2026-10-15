@@ -139,7 +139,7 @@ Boundary conditions follow from the same mechanism. Integration benefits are lar
 - [Cognitive Load Theory](../theories/cognitive-load-theory.md) — the theoretical framework from which the split attention effect is derived
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — predicts the split-attention cost shrinks or reverses as learner expertise grows
 - [Cognitive load reduction improves learning.](cognitive-load-reduction-improves-learning.md) — the broader claim that reducing extraneous load, including via integration, improves outcomes
-- [Pure contiguity fails to explain cognitive learning: repeated contiguity between cognitions does not make one evoke the other](contiguity-alone-fails-in-cognitive-learning.md) — related
+- Pure contiguity fails to explain cognitive learning: repeated contiguity between cognitions does not make one evoke the other — related
 - [Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice](concept-mapping-improves-learning.md) — related
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — related
 - [Expertise Reversal Guidance Hurts Experts](expertise-reversal-effect.md) — related

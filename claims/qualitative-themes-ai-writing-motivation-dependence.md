@@ -44,7 +44,7 @@ Semi-structured interviews with eight purposively selected respondents, each las
 
 ## Related Claims
 - [Engineering students develop implicit rules for using GenAI as a self-directed, efficient learning tool when traditional educational tools fall short](genai-implicit-rules-self-directed-efficient-learning.md) — related
-- [A hybrid human-AI workflow using GPT-4o with retrieval-augmented generation supported efficient inductive thematic analysis while preserving researcher judgment](hybrid-gpt4o-human-inductive-thematic-analysis-workflow.md) — related
+- A hybrid human-AI workflow using GPT-4o with retrieval-augmented generation supported efficient inductive thematic analysis while preserving researcher judgment — related
 - [Students view AI videos as appropriate for simple, visualizable, and supplemental learning contexts but inappropriate for complex, subjective, or interactive ones](students-contextualize-ai-video-appropriateness.md) — related
 - [Students' primary concerns about AI videos are inaccurate information, reduced interaction with educators, and diminished educational value](student-concerns-ai-videos-quality-interaction-value.md) — related
 - [The amount of AI-generated code in a submission was the dominant factor influencing students' ethical and rule-compliance judgments](amount-of-ai-generated-code-dominant-factor-in-ethical-judgments.md) — related

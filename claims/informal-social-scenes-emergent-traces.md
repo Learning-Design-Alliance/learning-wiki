@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: yulei-ye-2026
-    resource: "https://arxiv.org/abs/2605.30144"
-    title: "Yulei Ye, Wenhao Li, Zhong Wen, Yunshu Huang, Yichen Hu, Zifan Wei, Yige Wang, Xinyu Xie, Haoxuan Yang, Yanjun Huang, Ruijia Li, Hong Qian, Yu Song, Bo Jiang, Bingdong Li, Lijun Li, Bo Zhang, Pinlong Cai, Xingcheng Xu, Shuangye Chen, Xia Hu, Liang He, Aimin Zhou, Jingjing Qu, Jing Shao, Xiangfeng Wang. (2026). AgentSchool: An LLM-Powered Multi-Agent Simulation for Education. arXiv. https://arxiv.org/abs/2605.30144"
+    resource: "https://doi.org/10.48550/arxiv.2605.30144"
+    title: "Yulei Ye, Wenhao Li, Zhong Wen, Yunshu Huang, Yichen Hu, Zifan Wei, Yige Wang, Xinyu Xie, Haoxuan Yang, Yanjun Huang, Ruijia Li, Hong Qian, Yu Song, Bo Jiang, Bingdong Li, Lijun Li, Bo Zhang, Pinlong Cai, Xingcheng Xu, Shuangye Chen, Xia Hu, Liang He, Aimin Zhou, Jingjing Qu, Jing Shao, Xiangfeng Wang. (2026). AgentSchool: An LLM-Powered Multi-Agent Simulation for Education. arXiv. https://arxiv.org/abs/2605.30144 [doi:10.48550/arxiv.2605.30144](https://doi.org/10.48550/arxiv.2605.30144)"
     author: Yulei Ye, Wenhao Li, Zhong Wen, Yunshu Huang, Yichen Hu, Zifan Wei, Yige Wang, Xinyu Xie, Haoxuan Yang, Yanjun Huang, Ruijia Li, Hong Qian, Yu Song, Bo Jiang, Bingdong Li, Lijun Li, Bo Zhang, Pinlong Cai, Xingcheng Xu, Shuangye Chen, Xia Hu, Liang He, Aimin Zhou, Jingjing Qu, Jing Shao, Xiangfeng Wang
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Yulei Ye 2026
 
-Yulei Ye, Wenhao Li, Zhong Wen, Yunshu Huang, Yichen Hu, Zifan Wei, Yige Wang, Xinyu Xie, Haoxuan Yang, Yanjun Huang, Ruijia Li, Hong Qian, Yu Song, Bo Jiang, Bingdong Li, Lijun Li, Bo Zhang, Pinlong Cai, Xingcheng Xu, Shuangye Chen, Xia Hu, Liang He, Aimin Zhou, Jingjing Qu, Jing Shao, Xiangfeng Wang. (2026). AgentSchool: An LLM-Powered Multi-Agent Simulation for Education. arXiv. https://arxiv.org/abs/2605.30144
+Yulei Ye, Wenhao Li, Zhong Wen, Yunshu Huang, Yichen Hu, Zifan Wei, Yige Wang, Xinyu Xie, Haoxuan Yang, Yanjun Huang, Ruijia Li, Hong Qian, Yu Song, Bo Jiang, Bingdong Li, Lijun Li, Bo Zhang, Pinlong Cai, Xingcheng Xu, Shuangye Chen, Xia Hu, Liang He, Aimin Zhou, Jingjing Qu, Jing Shao, Xiangfeng Wang. (2026). AgentSchool: An LLM-Powered Multi-Agent Simulation for Education. arXiv. https://arxiv.org/abs/2605.30144 [doi:10.48550/arxiv.2605.30144](https://doi.org/10.48550/arxiv.2605.30144)
 
 `q2 · i?` · `design · r2`
 

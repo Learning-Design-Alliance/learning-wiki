@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Interview participants described Appalachian culture as having aspirational, resistance, and familial capital (concepts from Yosso 2005) that connect to problem-solving and computational thinking. [→ Finding kinship in a far away land: The relevance of Japanese cultural perspectives to education research in Eastern Kentucky 2022](#finding-kinship-in-a-far-away-land-the-relevance-of-japanese-cultural-perspectives-to-education-research-in-eastern-kentucky-2022)
@@ -44,7 +45,7 @@ Qualitative interview data from 2021 with project partners, analyzed using Yosso
 
 ## Related Claims
 - [Aspirational capital and kinship sustained the Tough As Nails CT initiative through the COVID-19 pandemic](appalachian-cultural-wealth-sustained-ct-project-covid.md) — a narrower finding that bears on this claim
-- [Appalachia's problem-solving heritage may be getting lost or forgotten as the coal industry collapses](appalachian-problem-solving-heritage-lost.md) — related
+- Appalachia's problem-solving heritage may be getting lost or forgotten as the coal industry collapses — related
 - [Connecting CT education to real community opportunities is powerful for teachers and students](connect-ct-to-community-opportunities.md) — related
-- [Introducing CT as a problem-solving approach that often involves digital technology helped teachers](introduce-ct-as-problem-solving-approach.md) — related
+- Introducing CT as a problem-solving approach that often involves digital technology helped teachers — related
 - [Eastern Kentucky educators and organizations have focused attention on CS and CT education for K-16 students as part of regional revitalization](eastern-ky-educators-invest-in-k16-cs-ct.md) — related

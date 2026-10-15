@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: wei-wang-2026
-    resource: "https://arxiv.org/abs/2606.25337"
-    title: "Wei Wang, Enlin Gu, Antonio Loquercio, Haimin Hu, Rahul Mangharam. (2026). AI Coaching for Accelerating Human Skill Development with Reinforcement Learning. arXiv preprint. https://arxiv.org/abs/2606.25337"
+    resource: "https://doi.org/10.48550/arxiv.2606.25337"
+    title: "Wei Wang, Enlin Gu, Antonio Loquercio, Haimin Hu, Rahul Mangharam. (2026). AI Coaching for Accelerating Human Skill Development with Reinforcement Learning. arXiv preprint. https://arxiv.org/abs/2606.25337 [doi:10.48550/arxiv.2606.25337](https://doi.org/10.48550/arxiv.2606.25337)"
     author: Wei Wang, Enlin Gu, Antonio Loquercio, Haimin Hu, Rahul Mangharam
     q: 3
     i: 2
@@ -30,7 +30,7 @@ sources:
 # L2C coaching significantly reduces learners' lap times and failure counts from pre- to post-coaching in FPV drone racing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2`–`i3`
+> **Evidence** · 2 studies · 2 causal `r2` · `q3` · `i2`–`i3`
 
 ## Subclaims
 `q3 i2` After about 40 minutes of L2C coaching, learners' lap times dropped by 27.9% on average (dz = -1.08, p = 0.005). [→ Wei Wang 2026](#wei-wang-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Wei Wang 2026
 
-Wei Wang, Enlin Gu, Antonio Loquercio, Haimin Hu, Rahul Mangharam. (2026). AI Coaching for Accelerating Human Skill Development with Reinforcement Learning. arXiv preprint. https://arxiv.org/abs/2606.25337
+Wei Wang, Enlin Gu, Antonio Loquercio, Haimin Hu, Rahul Mangharam. (2026). AI Coaching for Accelerating Human Skill Development with Reinforcement Learning. arXiv preprint. https://arxiv.org/abs/2606.25337 [doi:10.48550/arxiv.2606.25337](https://doi.org/10.48550/arxiv.2606.25337)
 
 `q3 · i2` · `causal · r2`
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: isuru-nanayakkara-and-thilina-halloluwa-2026
-    resource: "https://arxiv.org/abs/2608.16541"
-    title: "Isuru Nanayakkara and Thilina Halloluwa. (2026). Automating Learner Assessment: Benchmarking Machine Learning and Deep Learning Models for EEG-Based Familiarity Prediction. https://arxiv.org/abs/2608.16541"
+    resource: "https://doi.org/10.48550/arxiv.2608.16541"
+    title: "Isuru Nanayakkara and Thilina Halloluwa. (2026). Automating Learner Assessment: Benchmarking Machine Learning and Deep Learning Models for EEG-Based Familiarity Prediction. https://arxiv.org/abs/2608.16541 [doi:10.48550/arxiv.2608.16541](https://doi.org/10.48550/arxiv.2608.16541)"
     author: Isuru Nanayakkara and Thilina Halloluwa
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Isuru Nanayakkara and Thilina Halloluwa 2026
 
-Isuru Nanayakkara and Thilina Halloluwa. (2026). Automating Learner Assessment: Benchmarking Machine Learning and Deep Learning Models for EEG-Based Familiarity Prediction. https://arxiv.org/abs/2608.16541
+Isuru Nanayakkara and Thilina Halloluwa. (2026). Automating Learner Assessment: Benchmarking Machine Learning and Deep Learning Models for EEG-Based Familiarity Prediction. https://arxiv.org/abs/2608.16541 [doi:10.48550/arxiv.2608.16541](https://doi.org/10.48550/arxiv.2608.16541)
 
 `q2 · i?` · `associational · r1`
 

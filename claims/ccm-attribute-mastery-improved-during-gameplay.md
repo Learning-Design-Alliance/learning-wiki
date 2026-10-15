@@ -64,4 +64,4 @@ Figure 6 distribution patterns of the five attributes in the two gameplay halves
 ## Related Claims
 - [Scaffold use correlated significantly with mastery of attributes 1, 3, and 4, but not attributes 2 and 5](scaffolding-correlates-mastery-three-of-five-attributes.md) — related
 - [CCM-estimated skill profiles showed minor positive correlations with external pre- and post-test scores, ranging from .018 to .495](ccm-external-validation-correlations-pre-post-tests.md) — related
-- [Puzzlets gameplay showed problem-solving progress on debugging tasks, and collaboration improved after the teacher introduced driver-passenger role strategies](puzzlets-debugging-progress-and-collaboration-growth.md) — related
+- Puzzlets gameplay showed problem-solving progress on debugging tasks, and collaboration improved after the teacher introduced driver-passenger role strategies — related

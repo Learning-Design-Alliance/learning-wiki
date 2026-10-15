@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: zabaleta-2026
-    resource: "https://arxiv.org/abs/2609.11559"
-    title: "Zabaleta, M. & Lin, B. (2026). PRISMA-LLM: An Empirical Reporting Framework for AI-Assisted Systematic Reviews. https://arxiv.org/abs/2609.11559"
+    resource: "https://doi.org/10.48550/arxiv.2609.11559"
+    title: "Zabaleta, M. & Lin, B. (2026). PRISMA-LLM: An Empirical Reporting Framework for AI-Assisted Systematic Reviews. https://arxiv.org/abs/2609.11559 [doi:10.48550/arxiv.2609.11559](https://doi.org/10.48550/arxiv.2609.11559)"
     author: "Zabaleta, M. & Lin, B."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Reporting coverage increases with LLM workflow complexity, from prompt-only to engineered and retrieval/adapted/agentic methods
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Evidence** · 2 studies · 2 associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Among papers from 2023 onward, mean reporting richness rises across method-complexity groups: software/product-only 2.6, prompt-only LLM 5.2, engineered/structured LLM 8.4, and retrieval/adapted/agentic LLM 9.1. [→ Zabaleta 2026](#zabaleta-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Zabaleta 2026
 
-Zabaleta, M. & Lin, B. (2026). PRISMA-LLM: An Empirical Reporting Framework for AI-Assisted Systematic Reviews. https://arxiv.org/abs/2609.11559
+Zabaleta, M. & Lin, B. (2026). PRISMA-LLM: An Empirical Reporting Framework for AI-Assisted Systematic Reviews. https://arxiv.org/abs/2609.11559 [doi:10.48550/arxiv.2609.11559](https://doi.org/10.48550/arxiv.2609.11559)
 
 `q2 · i?` · `associational · r2`
 

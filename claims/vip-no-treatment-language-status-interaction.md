@@ -46,5 +46,5 @@ The report states, based on correspondence with the study authors, that the Carl
 - [Reading and Language](../learner-variables/reading-and-language.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
-- [Native versus non-native instructor status was a minor factor in students' perceived quality interaction](native-instructor-status-minor-factor.md) — related
+- Native versus non-native instructor status was a minor factor in students' perceived quality interaction — related
 - [Word frequency does not modulate the transposed-character effect in either experiment](frequency-does-not-modulate-tc-effect.md) — related

@@ -62,6 +62,6 @@ Analysis method as printed: "Session data were qualitatively analyzed and organi
 
 
 ## Related Claims
-- [Black students and families in LBUSD report the lowest sense of belonging of all groups in grades 4 through 12, with 65 percent of elementary and 47 percent of secondary respondents reporting positive belonging](lbusd-black-belonging-lowest-core-pulse.md) — related
+- Black students and families in LBUSD report the lowest sense of belonging of all groups in grades 4 through 12, with 65 percent of elementary and 47 percent of secondary respondents reporting positive belonging — related
 - [Community listening sessions identified shared themes of access and affordability, market shifts, workforce development, wages, outreach, inclusion, family supports, and facilities](listening-session-shared-findings-themes.md) — related
 - [Community engagement for the needs assessment reached nearly 630 community members who provided over 1,400 points of collected data](yolo-engagement-630-members-1400-data-points.md) — related

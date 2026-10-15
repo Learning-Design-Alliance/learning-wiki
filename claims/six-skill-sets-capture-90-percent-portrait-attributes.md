@@ -42,4 +42,4 @@ Document analysis of 69 publicly available district Portraits (31 from League of
 
 ## Related Claims
 - [Fewer than one fifth of districts with Portraits have taken the step of identifying actionable Practices within their Skill Sets](fewer-than-one-fifth-districts-identify-practices.md) — related
-- [Student portfolios are reported to be a useful method for noticing student growth on Portrait of a Graduate competencies](portfolios-notice-portrait-of-graduate-growth.md) — related
+- Student portfolios are reported to be a useful method for noticing student growth on Portrait of a Graduate competencies — related

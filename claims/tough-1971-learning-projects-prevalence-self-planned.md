@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 4 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` In Tough's 1971 study of sixty-six adults across seven occupational categories, all but one interviewee had conducted a learning project in the previous year, fewer than one per cent of projects were undertaken for credit, and 68% were self-planned. [→ Percy 1994](#percy-1994)
@@ -62,8 +63,8 @@ Across the seven occupational groups, total hours devoted to learning projects d
 
 
 ## Related Claims
-- [Research on adults' self-directed learning has been extensive in North America but almost absent in Britain over the past twenty-five years](north-american-british-sdl-research-imbalance.md) — related
-- [Penland's 1979 national survey found about 80% of US adults considered themselves continuing learners and over three quarters had planned their own learning projects in the prior year](penland-1979-national-self-initiated-learning.md) — related
-- [Tough's 1967 study found all forty sampled graduates engaged in self-teaching, assisted on average by 10.6 helpers each](tough-1967-adults-self-teach-with-helpers.md) — related
-- [Over 95% of Canadian adults are involved in some form of informal learning activities they identify as significant](over-95-percent-canadian-adults-informal-learning.md) — related
-- [Employed Canadian adults report about 6 hours per week of employment-related informal learning](employment-related-informal-learning-hours.md) — related
+- Research on adults' self-directed learning has been extensive in North America but almost absent in Britain over the past twenty-five years — related
+- Penland's 1979 national survey found about 80% of US adults considered themselves continuing learners and over three quarters had planned their own learning projects in the prior year — related
+- Tough's 1967 study found all forty sampled graduates engaged in self-teaching, assisted on average by 10.6 helpers each — related
+- Over 95% of Canadian adults are involved in some form of informal learning activities they identify as significant — related
+- Employed Canadian adults report about 6 hours per week of employment-related informal learning — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: qin-xie-2026
-    resource: "https://arxiv.org/abs/2609.10842"
-    title: "Qin Xie. (2026). Alternative AI Philosophy: Daoism as Method for AI in Education. https://arxiv.org/abs/2609.10842"
+    resource: "https://doi.org/10.48550/arxiv.2609.10842"
+    title: "Qin Xie. (2026). Alternative AI Philosophy: Daoism as Method for AI in Education. https://arxiv.org/abs/2609.10842 [doi:10.48550/arxiv.2609.10842](https://doi.org/10.48550/arxiv.2609.10842)"
     author: Qin Xie
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Qin Xie 2026
 
-Qin Xie. (2026). Alternative AI Philosophy: Daoism as Method for AI in Education. https://arxiv.org/abs/2609.10842
+Qin Xie. (2026). Alternative AI Philosophy: Daoism as Method for AI in Education. https://arxiv.org/abs/2609.10842 [doi:10.48550/arxiv.2609.10842](https://doi.org/10.48550/arxiv.2609.10842)
 
 `q1 · i?` · `theoretical · r3`
 
@@ -44,5 +44,5 @@ Comparative textual interpretation contrasting the Analects' study-for-officiald
 
 ## Related Claims
 - [Positioning personal experience as an epistemic resource supports expansion from inward to outward critical orientations](positioning-personal-experience-as-epistemic-resource-supports-critical-orientation-expansion.md) — related
-- [The Western linear, material construction of time is only one among many constructions of reality, and deconstructing it is another step toward reconstructing the relationship with the earth](western-linear-time-one-construction-among-many.md) — related
-- [Knowledge is not a picture of the real world; its adequacy is tested for logical consistency and experiential validity](knowledge-viability-not-picture-of-reality.md) — related
+- The Western linear, material construction of time is only one among many constructions of reality, and deconstructing it is another step toward reconstructing the relationship with the earth — related
+- Knowledge is not a picture of the real world; its adequacy is tested for logical consistency and experiential validity — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: stephenson-2025
-    resource: "https://digitalpromise.dspacedirect.org/items/73c883c0-4652-499d-aeb2-74f773749c60"
-    title: "Stephenson, S. P., Leones, T., Kamdar, D., Prado, Y., & Ddamulira, J. (2025). A National Context of Generative AI for Reading to Support English Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/73c883c0-4652-499d-aeb2-74f773749c60"
+    resource: "https://doi.org/10.51388/20.500.12265/258"
+    title: "Stephenson, S. P., Leones, T., Kamdar, D., Prado, Y., & Ddamulira, J. (2025). A National Context of Generative AI for Reading to Support English Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/73c883c0-4652-499d-aeb2-74f773749c60 [doi:10.51388/20.500.12265/258](https://doi.org/10.51388/20.500.12265/258)"
     author: "Stephenson, S. P., Leones, T., Kamdar, D., Prado, Y., & Ddamulira, J."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Educators use AI tools mainly for personalized learning and language support and frequently use generative AI for lesson planning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
+> **Evidence** · 2 studies · 2 qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Educators most often cited ChatGPT for their own use and commonly reported using such tools for curriculum or lesson development. [→ Stephenson 2025](#stephenson-2025)
@@ -40,7 +40,7 @@ sources:
 
 ### Stephenson 2025
 
-Stephenson, S. P., Leones, T., Kamdar, D., Prado, Y., & Ddamulira, J. (2025). A National Context of Generative AI for Reading to Support English Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/73c883c0-4652-499d-aeb2-74f773749c60
+Stephenson, S. P., Leones, T., Kamdar, D., Prado, Y., & Ddamulira, J. (2025). A National Context of Generative AI for Reading to Support English Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/73c883c0-4652-499d-aeb2-74f773749c60 [doi:10.51388/20.500.12265/258](https://doi.org/10.51388/20.500.12265/258)
 
 `q2 · i?` · `qualitative · r2`
 
@@ -62,10 +62,10 @@ Interview and listening-session data showed "some level of AI tool use" among ne
 
 
 ## Related Claims
-- [Mathematics teachers appreciate ChatGPT-generated generative learning activities as hands-on, collaborative, engaging, open-ended, differentiated, and using multiple representations](teachers-appreciate-chatgpt-generative-learning-affordances.md) — related
-- [Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs](teacher-big-picture-genai-concerns.md) — related
+- Mathematics teachers appreciate ChatGPT-generated generative learning activities as hands-on, collaborative, engaging, open-ended, differentiated, and using multiple representations — related
+- Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs — related
 - [Mathematics teachers critique ChatGPT-generated generative learning lessons for poor fit to students, boredom, preparation time, missing student-facing materials, mathematical flaws, and required materials](teachers-critique-chatgpt-lesson-output.md) — related
-- [Teachers find ChatGPT a creative, fast, iterative brainstorming partner that adds specific numbers and details when posing math questions from photos](chatgpt-brainstorming-partner-affordances.md) — related
+- Teachers find ChatGPT a creative, fast, iterative brainstorming partner that adds specific numbers and details when posing math questions from photos — related
 - [State guidance documents describe opportunities for AI in education with encouraging tones that recommend safe exploration](state-ai-guidance-opportunities-safe-exploration.md) — related
 - [Students reported satisfaction with the detailed analyses, personalized multi-dimensional recommendations and motivational guidance provided by the AI systems](students-satisfied-with-genai-feedback-quality.md) — related
 - [AI applications in science and chemistry education most frequently affect learning-process outcomes, reported in 9 of 18 studies](ai-applications-mostly-affect-learning-process-outcomes.md) — related

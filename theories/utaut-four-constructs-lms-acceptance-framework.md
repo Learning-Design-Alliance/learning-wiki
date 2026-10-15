@@ -16,7 +16,7 @@ sources:
 # UTAUT framework for technology acceptance
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 2 studies (2 associational), `q2` · 1 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The Unified Theory of Acceptance and Use of Technology (UTAUT) explains individuals' acceptance of a technology through four determinants of an individual's aim of use. The article states that "UTAUT includes four basic elements that determine an individual's aim of use: performance expectancy, effort expectancy, facilitating conditions and social influence". It was developed by Venkatesh et al. (2003) by incorporating components from eight different models, and the present study applies it, via the Sezer and Yilmaz (2019) framework, to predict students' LMS acceptance with an ANN model.
@@ -37,10 +37,6 @@ The Unified Theory of Acceptance and Use of Technology (UTAUT) explains individu
 
 ### Claims
 
-- [Ann Utaut Predictors Lms Acceptance Vocational](../claims/ann-utaut-predictors-lms-acceptance-vocational.md) [+M]
-- [Cross Correlation Confirms Utaut Predictor Ranking](../claims/cross-correlation-confirms-utaut-predictor-ranking.md) [+M]
-- [Adding mobile user typology to the UTAUT predictors renders effort expectancy non-significant, suggesting the typology accounts for ease of use](../claims/typology-renders-effort-expectancy-nonsignificant.md) [~W]
-- [ANN modelling is a usable method for identifying predictors of technology acceptance in educational settings](../claims/ann-method-usable-technology-acceptance-studies.md) [+W]
 
 ## Related Theories
 

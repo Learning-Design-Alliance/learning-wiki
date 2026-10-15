@@ -43,11 +43,11 @@ Difference-in-differences analysis of biannual national test scores (n ≈ 350,0
 
 
 ## Related Claims
-- [The 2020 COVID-19 school closures caused a decrease in Flemish grade 6 school-average mathematics scores of roughly 0.19 standard deviations relative to previous cohorts](covid-closures-math-loss-019-sd.md) — related
-- [Science and French scores also decreased significantly after the 2020 school closures, by roughly 0.22-0.33 and 0.19-0.30 standard deviations respectively](covid-closures-science-french-losses.md) — related
+- The 2020 COVID-19 school closures caused a decrease in Flemish grade 6 school-average mathematics scores of roughly 0.19 standard deviations relative to previous cohorts — related
+- Science and French scores also decreased significantly after the 2020 school closures, by roughly 0.22-0.33 and 0.19-0.30 standard deviations respectively — related
 - [COVID-19-related school closures in spring 2020 had a negative overall effect on student achievement (median −0.08 SD across eleven studies)](covid-school-closures-negative-achievement-effect.md) — a broader claim this one bears on
 - [Children from low-SES families were more negatively affected by COVID-19 school closures than children from high-SES families](covid-closures-low-ses-students-more-affected.md) — related
-- [Overall grade point average across mathematics, Dutch, science and social sciences decreased by 0.25 standard deviations in 2020](covid-closures-gpa-loss-025-sd.md) — related
+- Overall grade point average across mathematics, Dutch, science and social sciences decreased by 0.25 standard deviations in 2020 — related
 - [Fall 2020 math achievement was 5 to 10 percentile points lower than pre-COVID-19 performance by same-grade students](fall-2020-math-achievement-5-10-percentile-points-lower.md) — related
 - [Students in grades 3-8 made reading and math gains in 2020-21 but ended the year with lower achievement than in a typical year, with larger declines in math than in reading](covid-2020-21-lower-achievement-larger-math-declines.md) — related
 - [Average fall 2021 math scores in Grades 3–8 were .20–.27 SD lower than same-grade peers' fall 2019 scores](covid-math-decline-020-027-sd-grades-3-8.md) — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: dongjie-yang-2026
-    resource: "https://arxiv.org/abs/2608.03952"
-    title: "Dongjie Yang, Siyan Lin, Leixian Shen, Rui Sheng, Huamin Qu, and Zixin Chen. (2026). TACT: Taxonomy-Aligned Post-Training for Pedagogically Adaptive English Tutoring. https://arxiv.org/abs/2608.03952"
+    resource: "https://doi.org/10.48550/arxiv.2608.03952"
+    title: "Dongjie Yang, Siyan Lin, Leixian Shen, Rui Sheng, Huamin Qu, and Zixin Chen. (2026). TACT: Taxonomy-Aligned Post-Training for Pedagogically Adaptive English Tutoring. https://arxiv.org/abs/2608.03952 [doi:10.48550/arxiv.2608.03952](https://doi.org/10.48550/arxiv.2608.03952)"
     author: Dongjie Yang, Siyan Lin, Leixian Shen, Rui Sheng, Huamin Qu, and Zixin Chen
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Dongjie Yang 2026
 
-Dongjie Yang, Siyan Lin, Leixian Shen, Rui Sheng, Huamin Qu, and Zixin Chen. (2026). TACT: Taxonomy-Aligned Post-Training for Pedagogically Adaptive English Tutoring. https://arxiv.org/abs/2608.03952
+Dongjie Yang, Siyan Lin, Leixian Shen, Rui Sheng, Huamin Qu, and Zixin Chen. (2026). TACT: Taxonomy-Aligned Post-Training for Pedagogically Adaptive English Tutoring. https://arxiv.org/abs/2608.03952 [doi:10.48550/arxiv.2608.03952](https://doi.org/10.48550/arxiv.2608.03952)
 
 `q2 · i?` · `design · r2`
 

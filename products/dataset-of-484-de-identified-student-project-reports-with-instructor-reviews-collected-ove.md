@@ -18,7 +18,7 @@ sources:
 # Dataset of 484 de-identified student project reports with instructor reviews collected over twelve semesters
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (1 for, 2 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 A publicly released research dataset created by Qinjin Jia et al. containing 484 de-identified graduate student project reports and associated instructor reviews from twelve semesters of an object-oriented development course.
@@ -27,9 +27,6 @@ A publicly released research dataset created by Qinjin Jia et al. containing 484
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Manual inspection of all system-generated feedback reveals four deficiencies: non-factual statements, frequent repeated text, lack of project-specific problem or suggestion statements, and inability to give feedback on images](../claims/insta-reviewer-four-feedback-deficiencies.md) [~M]
-- [Insta-Reviewer generates near-human-quality feedback on student project reports, outperforming expert feedback on Problems and Positive Tone but trailing it on Readability, Suggestions, and Factuality](../claims/insta-reviewer-near-human-project-report-feedback.md) [+M]
-- [Most student project reports exceed the BART model's 1024-token input limit, motivating a select-then-generate design because truncation can lose critical information](../claims/project-reports-exceed-bart-token-limit.md) [~M]
 
 ## Related Products and Programmes
 -
@@ -63,9 +60,6 @@ The authors collected "de-identified students’ project reports and associated 
 
 ## Claims
 
-- [Manual inspection of all system-generated feedback reveals four deficiencies: non-factual statements, frequent repeated text, lack of project-specific problem or suggestion statements, and inability to give feedback on images](../claims/insta-reviewer-four-feedback-deficiencies.md) [~M]
-- [Insta-Reviewer generates near-human-quality feedback on student project reports, outperforming expert feedback on Problems and Positive Tone but trailing it on Readability, Suggestions, and Factuality](../claims/insta-reviewer-near-human-project-report-feedback.md) [+M]
-- [Most student project reports exceed the BART model's 1024-token input limit, motivating a select-then-generate design because truncation can lose critical information](../claims/project-reports-exceed-bart-token-limit.md) [~M]
 
 ## Related Elements
 

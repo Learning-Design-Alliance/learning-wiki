@@ -44,5 +44,5 @@ In the longitudinal sample of 467 preschoolers, girls had significantly higher t
 
 ## Related Claims
 - [No statistically significant sex differences in the direct associations among EF, task orientation, and mathematics or in the mediating effect of task orientation](no-sex-differences-ef-task-orientation-math-pathways.md) — related
-- [Gender effects on self-regulated learning are mediated by culture, discipline, and age, with mixed direction across samples](gender-effects-on-srl-mediated-by-culture-discipline-age.md) — related
+- Gender effects on self-regulated learning are mediated by culture, discipline, and age, with mixed direction across samples — related
 - [Growth in task orientation partially mediates the association between executive function and mathematics achievement in preschoolers](task-orientation-partially-mediates-ef-math.md) — related

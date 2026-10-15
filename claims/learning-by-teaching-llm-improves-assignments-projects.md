@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: xinming-yang-2025
-    resource: "https://arxiv.org/abs/2508.05979"
-    title: "Xinming Yang, Haasil Pujara, Jun Li. (2025). Learning by Teaching: Engaging Students as Instructors of Large Language Models in Computer Science Education. Published as a conference paper at COLM 2025. https://arxiv.org/abs/2508.05979"
+    resource: "https://doi.org/10.48550/arxiv.2508.05979"
+    title: "Xinming Yang, Haasil Pujara, Jun Li. (2025). Learning by Teaching: Engaging Students as Instructors of Large Language Models in Computer Science Education. Published as a conference paper at COLM 2025. https://arxiv.org/abs/2508.05979 [doi:10.48550/arxiv.2508.05979](https://doi.org/10.48550/arxiv.2508.05979)"
     author: Xinming Yang, Haasil Pujara, Jun Li
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Learning-by-teaching an LLM improved assignment and project performance versus historical cohorts, but not exam performance, in an undergraduate CS course
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
+> **Evidence** · 2 studies · 2 causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Students taught with the Socrates learning-by-teaching assignments scored significantly higher on assignments (p = 0.028) and projects (p = 0.018) than historical cohorts. [→ Xinming Yang 2025](#xinming-yang-2025)
@@ -40,7 +40,7 @@ sources:
 
 ### Xinming Yang 2025
 
-Xinming Yang, Haasil Pujara, Jun Li. (2025). Learning by Teaching: Engaging Students as Instructors of Large Language Models in Computer Science Education. Published as a conference paper at COLM 2025. https://arxiv.org/abs/2508.05979
+Xinming Yang, Haasil Pujara, Jun Li. (2025). Learning by Teaching: Engaging Students as Instructors of Large Language Models in Computer Science Education. Published as a conference paper at COLM 2025. https://arxiv.org/abs/2508.05979 [doi:10.48550/arxiv.2508.05979](https://doi.org/10.48550/arxiv.2508.05979)
 
 `q2 · i?` · `causal · r1`
 

@@ -43,7 +43,7 @@ The chapter's abstract states the authors "discuss methodological issues in rese
 
 
 ## Related Claims
-- [In the fully regulative context, critique proceeds by methodological correctness or paradigmatic positioning](regulative-context-critique-methodological-or-paradigmatic.md) — related
+- In the fully regulative context, critique proceeds by methodological correctness or paradigmatic positioning — related
 - [Prior charter school research shows mixed student achievement results, which the authors attribute to differing policy environments or methodological assumptions across studies](charter-achievement-mixed-results-attributed-to-policy-and-method-variation.md) — related
 - [Pedagogical challenges inherent in distance and online learning must be considered in instructional design and software development](pedagogical-challenges-distance-learning-design-software.md) — related
 - [A meta-analysis quantitatively verified the importance of three types of interaction in distance and online learning: among students, between instructor and students, and between students and content](three-interaction-types-verified-meta-analysis-distance-learning.md) — related

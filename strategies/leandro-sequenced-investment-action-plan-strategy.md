@@ -17,7 +17,7 @@ sources:
 # Sequenced multi-year investment plan across teacher and principal pipelines, early childhood, high-poverty schools, funding, and assessment and accountability to achieve Leandro compliance
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (1 for, 2 mixed) · 3 studies (1 causal, 1 review, 1 associational), `q2` · 0 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 causal, 1 review), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The action plan recommends that the state take immediate and six-year sequenced actions to transform its education system: ensuring an adequate supply of qualified teachers and principals, improving curriculum, instruction and assessment, expanding access to high-quality early childhood education, directing adequate and equitable funding to students with greater needs, strengthening supports for high-poverty schools and low-performing schools, and revising the state assessment and accountability systems to measure progress toward the Leandro tenets. Investments are phased in over an eight-year period across short-term and ongoing scenarios for K-12 district operations, early childhood programs, and state-level supports, with cost estimates provided for each critical need area.
@@ -44,7 +44,6 @@ The action plan recommends that the state take immediate and six-year sequenced 
 
 - [A leaky pipeline limits the residency program's district benefits: only about half of completers became CPS principals within four years, at roughly $535,000 cost per new principal](../claims/residency-leaky-pipeline-limited-roi.md) [~W]
 - [Principal turnover is common: 18% of principals leave schools each year and half of new principals leave within three years, with cascading consequences](../claims/principal-turnover-18-percent-annually.md) [+W]
-- [Students in high-poverty schools are more likely to be taught by inexperienced teachers, and teachers in high-minority schools are twice as likely to leave their school for another](../claims/inexperienced-teachers-high-poverty-schools.md) [~W]
 
 ## Related Strategies
 

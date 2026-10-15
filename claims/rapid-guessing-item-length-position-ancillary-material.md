@@ -46,4 +46,4 @@ Item-level analysis of the low-stakes instrument showed rapid guessing "varied b
 - [Rapid guessing on achievement tests varies across grades, subjects, and teachers](rapid-guessing-varies-grade-subject-teacher.md) — related
 - [Rapid-guessing behavior can distort test scores and adversely affect measurement](rapid-guessing-distorts-test-scores-and-measurement.md) — related
 - [Disengaged test taking materially impacts individual state summative test scores but may have relatively minor impact on score aggregations](disengagement-material-individual-summative-scores-minor-aggregations.md) — related
-- [Solution behavior accuracy does not decrease across item positions, contradicting decreasing effort models of unmotivated test taking](solution-accuracy-no-decreasing-effort.md) — related
+- Solution behavior accuracy does not decrease across item positions, contradicting decreasing effort models of unmotivated test taking — related

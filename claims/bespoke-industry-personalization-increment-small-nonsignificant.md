@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: romain-puech-2026
-    resource: "https://arxiv.org/abs/2609.26540"
-    title: "Romain Puech, Dewang Kumar Agarwal, Antonio Santamaría Escobar, Dimitris Bertsimas. (2026). Bespoke: Generating MOOC-Quality Industry-Personalized Lecture Videos at Scale. arXiv preprint. https://arxiv.org/abs/2609.26540"
+    resource: "https://doi.org/10.48550/arxiv.2609.26540"
+    title: "Romain Puech, Dewang Kumar Agarwal, Antonio Santamaría Escobar, Dimitris Bertsimas. (2026). Bespoke: Generating MOOC-Quality Industry-Personalized Lecture Videos at Scale. arXiv preprint. https://arxiv.org/abs/2609.26540 [doi:10.48550/arxiv.2609.26540](https://doi.org/10.48550/arxiv.2609.26540)"
     author: Romain Puech, Dewang Kumar Agarwal, Antonio Santamaría Escobar, Dimitris Bertsimas
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Romain Puech 2026
 
-Romain Puech, Dewang Kumar Agarwal, Antonio Santamaría Escobar, Dimitris Bertsimas. (2026). Bespoke: Generating MOOC-Quality Industry-Personalized Lecture Videos at Scale. arXiv preprint. https://arxiv.org/abs/2609.26540
+Romain Puech, Dewang Kumar Agarwal, Antonio Santamaría Escobar, Dimitris Bertsimas. (2026). Bespoke: Generating MOOC-Quality Industry-Personalized Lecture Videos at Scale. arXiv preprint. https://arxiv.org/abs/2609.26540 [doi:10.48550/arxiv.2609.26540](https://doi.org/10.48550/arxiv.2609.26540)
 
 `q2 · i?` · `design · r2`
 

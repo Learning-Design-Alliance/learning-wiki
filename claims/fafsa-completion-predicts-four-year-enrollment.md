@@ -11,8 +11,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: melissa-roderick-2009
-    resource: "https://consortium.uchicago.edu/publications/college-readiness-all-challenge-urban-high-schools"
-    title: "Melissa Roderick, Jenny Nagaoka, and Vanessa Coca. (2009). College Readiness for All: The Challenge for Urban High Schools. The Future of Children. https://consortium.uchicago.edu/publications/college-readiness-all-challenge-urban-high-schools"
+    resource: "https://doi.org/10.1353/foc.0.0024"
+    title: "Melissa Roderick, Jenny Nagaoka, and Vanessa Coca. (2009). College Readiness for All: The Challenge for Urban High Schools. The Future of Children. https://consortium.uchicago.edu/publications/college-readiness-all-challenge-urban-high-schools [doi:10.1353/foc.0.0024](https://doi.org/10.1353/foc.0.0024)"
     author: Melissa Roderick, Jenny Nagaoka, and Vanessa Coca
     q: 2
     i: "?"
@@ -43,7 +43,7 @@ sources:
 
 ### Melissa Roderick 2009
 
-Melissa Roderick, Jenny Nagaoka, and Vanessa Coca. (2009). College Readiness for All: The Challenge for Urban High Schools. The Future of Children. https://consortium.uchicago.edu/publications/college-readiness-all-challenge-urban-high-schools
+Melissa Roderick, Jenny Nagaoka, and Vanessa Coca. (2009). College Readiness for All: The Challenge for Urban High Schools. The Future of Children. https://consortium.uchicago.edu/publications/college-readiness-all-challenge-urban-high-schools [doi:10.1353/foc.0.0024](https://doi.org/10.1353/foc.0.0024)
 
 `q2 · i?` · `review · r3`
 
@@ -72,6 +72,6 @@ Part of the CCSR analysis of the path Chicago graduates took toward four-year en
 - [Find the Fit did not affect the share of students completing the FAFSA early](find-the-fit-no-effect-early-fafsa-completion.md) — related
 - [One-on-one adult support at school, such as a coach or counselor, helped students prioritize and complete college applications](one-on-one-adult-support-college-applications.md) — related
 - [Teacher assessment of college-going climate is positively associated with students taking each step toward four-year college enrollment](teacher-college-climate-associated-with-enrollment-steps.md) — related
-- [FAFSA completion is associated with higher college enrollment, with the strongest association for students in the lowest socioeconomic quintile](fafsa-completion-associated-higher-college-enrollment.md) — related
-- [Michigan's average student-to-counselor ratio was 565:1 in 2024-25, far above the recommended 250:1, and FAFSA completion is linked to higher immediate college enrollment](michigan-counselor-ratio-and-fafsa-completion-benefits.md) — related
+- FAFSA completion is associated with higher college enrollment, with the strongest association for students in the lowest socioeconomic quintile — related
+- Michigan's average student-to-counselor ratio was 565:1 in 2024-25, far above the recommended 250:1, and FAFSA completion is linked to higher immediate college enrollment — related
 - [Approximately 10 percent of CPS graduates accepted into a four-year college do not enroll the following fall](accepted-but-not-enrolled-summer-melt-cps.md) — related

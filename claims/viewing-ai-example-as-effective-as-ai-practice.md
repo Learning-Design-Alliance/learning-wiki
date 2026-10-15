@@ -10,8 +10,8 @@ generated:
 evidence_strength: strong
 sources:
   - id: benjamin-lira-2025
-    resource: "https://arxiv.org/abs/2502.02880"
-    title: "Benjamin Lira, Todd Rogers, Daniel G. Goldstein, Lyle Ungar, and Angela L. Duckworth. (2025). Coach not crutch: Evidence that AI can improve writing skill despite reducing effort. https://arxiv.org/abs/2502.02880"
+    resource: "https://doi.org/10.48550/arxiv.2502.02880"
+    title: "Benjamin Lira, Todd Rogers, Daniel G. Goldstein, Lyle Ungar, and Angela L. Duckworth. (2025). Coach not crutch: Evidence that AI can improve writing skill despite reducing effort. https://arxiv.org/abs/2502.02880 [doi:10.48550/arxiv.2502.02880](https://doi.org/10.48550/arxiv.2502.02880)"
     author: Benjamin Lira, Todd Rogers, Daniel G. Goldstein, Lyle Ungar, and Angela L. Duckworth
     q: 4
     i: 0
@@ -30,7 +30,7 @@ sources:
 # Merely viewing an AI-generated writing example improved writing skill as much as actively practicing with the AI tool, with benefits persisting one day later
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r3` · `q4` · `i0` negligible
+> **Evidence** · 2 studies · 2 causal `r3` · `q4` · `i0` negligible
 
 ## Subclaims
 `q4 i0` Participants who viewed an AI-generated example without editing it improved as much as participants who practiced with the AI tool (d=.03, p=.883). [→ Benjamin Lira 2025](#benjamin-lira-2025)
@@ -40,7 +40,7 @@ sources:
 
 ### Benjamin Lira 2025
 
-Benjamin Lira, Todd Rogers, Daniel G. Goldstein, Lyle Ungar, and Angela L. Duckworth. (2025). Coach not crutch: Evidence that AI can improve writing skill despite reducing effort. https://arxiv.org/abs/2502.02880
+Benjamin Lira, Todd Rogers, Daniel G. Goldstein, Lyle Ungar, and Angela L. Duckworth. (2025). Coach not crutch: Evidence that AI can improve writing skill despite reducing effort. https://arxiv.org/abs/2502.02880 [doi:10.48550/arxiv.2502.02880](https://doi.org/10.48550/arxiv.2502.02880)
 
 `q4 · i0` · `causal · r3`
 

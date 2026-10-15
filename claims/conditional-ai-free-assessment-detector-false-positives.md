@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: muhammad-sajjad-akbar-2026
-    resource: "https://arxiv.org/abs/2609.27842"
-    title: "Muhammad Sajjad Akbar, Geoffrey Challen, Fraida Fund, Casey Hopkins, Oscar Karnalim, Kevin Lin, James McGuffee, Shubbhi Taneja, Ranysha Ware. (2026). AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI. https://arxiv.org/abs/2609.27842"
+    resource: "https://doi.org/10.48550/arxiv.2609.27842"
+    title: "Muhammad Sajjad Akbar, Geoffrey Challen, Fraida Fund, Casey Hopkins, Oscar Karnalim, Kevin Lin, James McGuffee, Shubbhi Taneja, Ranysha Ware. (2026). AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI. https://arxiv.org/abs/2609.27842 [doi:10.48550/arxiv.2609.27842](https://doi.org/10.48550/arxiv.2609.27842)"
     author: Muhammad Sajjad Akbar, Geoffrey Challen, Fraida Fund, Casey Hopkins, Oscar Karnalim, Kevin Lin, James McGuffee, Shubbhi Taneja, Ranysha Ware
     q: 1
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Educators run more proctored AI-free assessments conditionally on compromised outcomes, and reject AI detectors based on classroom experience of false positives
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q1`
+> **Evidence** · 2 studies · 2 qualitative `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Participants apply a conditional rule: where a learning outcome is compromised by AI use, that outcome moves to a proctored AI-free assessment, weighted most heavily early in a course. [→ Muhammad Sajjad Akbar 2026](#muhammad-sajjad-akbar-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Muhammad Sajjad Akbar 2026
 
-Muhammad Sajjad Akbar, Geoffrey Challen, Fraida Fund, Casey Hopkins, Oscar Karnalim, Kevin Lin, James McGuffee, Shubbhi Taneja, Ranysha Ware. (2026). AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI. https://arxiv.org/abs/2609.27842
+Muhammad Sajjad Akbar, Geoffrey Challen, Fraida Fund, Casey Hopkins, Oscar Karnalim, Kevin Lin, James McGuffee, Shubbhi Taneja, Ranysha Ware. (2026). AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI. https://arxiv.org/abs/2609.27842 [doi:10.48550/arxiv.2609.27842](https://doi.org/10.48550/arxiv.2609.27842)
 
 `q1 · i?` · `qualitative · r2`
 
@@ -64,5 +64,5 @@ Same room, on ensuring a 200-student assignment is AI-free: detectors rejected o
 ## Related Claims
 
 - [AI-detection tools produce inequitable outcomes, disadvantaging non-native English speakers through false positives](ai-detection-tools-inequitable-false-positives.md) — related
-- [GPT detectors frequently misclassify non-native English writing as AI-generated, raising fairness concerns for AI policy](gpt-detectors-biased-against-nonnative-english-writers.md) — related
+- GPT detectors frequently misclassify non-native English writing as AI-generated, raising fairness concerns for AI policy — related
 - [In a course that had removed examinations, most student groups designing a fair grading policy reinvented proctored or handwritten assessment](students-reinvented-exams-in-ai-course-grading-design.md)

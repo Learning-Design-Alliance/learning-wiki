@@ -14,7 +14,7 @@ grain_size: course
 # Design Thinking
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 6 claims (2 for, 2 mixed, 2 against) · 10 studies (3 quant-synthesis, 2 causal, 2 theoretical, 1 review, 1 associational, 1 qualitative), `q1`–`q4` · 3 of 10 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 8 studies (3 quant-synthesis, 2 causal, 1 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 3 of 8 report an effect size · 1 claim rests on one study
 
 ## Description
 Design Thinking organizes the *design* of a course around five moves: empathize with the people who will learn, define the problem their situation actually poses, ideate broadly before committing, prototype cheaply, and test with real learners. Its defining commitment is that the design problem is discovered rather than assumed — the designer begins by investigating learners and their context, and treats the first course outline as a hypothesis to be falsified rather than a plan to be executed.
@@ -37,7 +37,7 @@ The same five moves are also used *with learners* — students empathizing with 
 - **The empathy stage produces shallow insight without interview skill**, and shallow insight is more dangerous than none because it is documented
 - **Ritual risk**: teams pass through five labelled stages without any iteration, producing an engaging workshop and an unchanged design
 - **Costly at small grain.** For one lesson the full cycle rarely pays; the process assumes a design large enough that being wrong about the problem is expensive
-- **Early prototyping can lock novices in.** Asking for a tentative solution at once and testing it cheaply may worsen a novice designer's habit of committing to the first idea. [Rapid prototyping methods can amplify novice designers' tendency to commit to a solution too early.](../claims/rapid-prototyping-can-amplify-novice-designers-premature-commitment-to-solutions.md) [-W]
+- **Early prototyping can lock novices in.** Asking for a tentative solution at once and testing it cheaply may worsen a novice designer's habit of committing to the first idea. Rapid prototyping methods can amplify novice designers' tendency to commit to a solution too early. [-W]
 - **Stakeholders tend to ask for incremental change.** Co-design with learners gives them ownership, but they rarely envision what they have not seen, so the designer has to help them be visionary (Svihla, 2018). A single intensive workshop also limits who can attend, and can end up treating one group's view as everyone's
 - **Power shapes what participants will say.** Learners brought into the design, especially children or people from marginalised communities, may not feel safe to be candid. See [Make the Invisible Visible: Power Dynamics](../methods/make-the-invisible-visible-power-dynamics.md)
 - **Divergent ideation is not a substitute for domain knowledge.** Novice designers generating options without knowing what is instructionally sound reproduce the search cost that [guidance becomes more necessary as task complexity and learner inexperience increase.](../claims/expertise-reversal-effect.md) [-S] describes, one level up
@@ -68,7 +68,6 @@ The same five moves are also used *with learners* — students empathizing with 
 ### Claims
 
 - [Students often do not know which questions to ask about college until it is too late, and want colleges to anticipate their information needs](../claims/students-unknow-questions-until-too-late.md) [~W]
-- [Design-thinking practices with AI are uneven: iterative prompting is common while feedback collection and structured needs assessment are least developed](../claims/uneven-design-practices-feedback-gap.md) [~W]
 
 #### Supporting
 - [Multiple varied cases support learning in ill-structured domains.](../claims/cognitive-flexibility-theory-multiple-cases.md) [+M] — the case for encountering several framings of a problem before committing to one
@@ -76,7 +75,7 @@ The same five moves are also used *with learners* — students empathizing with 
 
 #### Contradicting
 - [Guidance becomes more necessary as task complexity and learner inexperience increase.](../claims/expertise-reversal-effect.md) [-S] — minimally guided design work overloads inexperienced designers the same way it overloads novice learners
-- [Rapid prototyping methods can amplify novice designers' tendency to commit to a solution too early.](../claims/rapid-prototyping-can-amplify-novice-designers-premature-commitment-to-solutions.md) [-W] — a risk of the prototype move specific to novice designers
+- Rapid prototyping methods can amplify novice designers' tendency to commit to a solution too early. [-W] — a risk of the prototype move specific to novice designers
 
 ## Design
 

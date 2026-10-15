@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: anna-maria-velentza-2026
-    resource: "https://www.google.com/search?q=%22What+Robots+Do+Matters+More+Than+What+They+Look+Like%22"
-    title: "Anna-Maria Velentza, Konstantina Nikou, Anne-Gwenn Bosser, Nikolaos Fachantidis. (2026). What Robots Do Matters More Than What They Look Like: Task Context Shapes Trust in Educational HRI. https://www.google.com/search?q=%22What+Robots+Do+Matters+More+Than+What+They+Look+Like%22"
+    resource: "https://doi.org/10.1109/ro-man72286.2026.11714558"
+    title: "Anna-Maria Velentza, Konstantina Nikou, Anne-Gwenn Bosser, Nikolaos Fachantidis. (2026). What Robots Do Matters More Than What They Look Like: Task Context Shapes Trust in Educational HRI. https://www.google.com/search?q=%22What+Robots+Do+Matters+More+Than+What+They+Look+Like%22 [doi:10.1109/ro-man72286.2026.11714558](https://doi.org/10.1109/ro-man72286.2026.11714558)"
     author: Anna-Maria Velentza, Konstantina Nikou, Anne-Gwenn Bosser, Nikolaos Fachantidis
     q: 3
     i: 3
@@ -30,7 +30,7 @@ sources:
 # Task type strongly determines trust in educational robots, with highest trust for procedural instruction, moderate trust for teaching, and lowest trust when robots request personal information
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
+> **Evidence** · 2 studies · 2 causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` In a repeated-measures ANOVA, TASK had a significant large main effect on trust ratings (η² = .439). [→ Anna-Maria Velentza 2026](#anna-maria-velentza-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Anna-Maria Velentza 2026
 
-Anna-Maria Velentza, Konstantina Nikou, Anne-Gwenn Bosser, Nikolaos Fachantidis. (2026). What Robots Do Matters More Than What They Look Like: Task Context Shapes Trust in Educational HRI. https://www.google.com/search?q=%22What+Robots+Do+Matters+More+Than+What+They+Look+Like%22
+Anna-Maria Velentza, Konstantina Nikou, Anne-Gwenn Bosser, Nikolaos Fachantidis. (2026). What Robots Do Matters More Than What They Look Like: Task Context Shapes Trust in Educational HRI. https://www.google.com/search?q=%22What+Robots+Do+Matters+More+Than+What+They+Look+Like%22 [doi:10.1109/ro-man72286.2026.11714558](https://doi.org/10.1109/ro-man72286.2026.11714558)
 
 `q3 · i3` · `causal · r2`
 

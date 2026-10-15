@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: heejin-do-2026
-    resource: "https://arxiv.org/abs/2609.03215"
-    title: "Heejin Do, Jakub Kontak, Mrinmaya Sachan. (2026). SWIM: Student Writing Simulation via Proficiency-Conditioned Generation. arXiv preprint arXiv:2609.03215. https://arxiv.org/abs/2609.03215"
+    resource: "https://doi.org/10.48550/arxiv.2609.03215"
+    title: "Heejin Do, Jakub Kontak, Mrinmaya Sachan. (2026). SWIM: Student Writing Simulation via Proficiency-Conditioned Generation. arXiv preprint arXiv:2609.03215. https://arxiv.org/abs/2609.03215 [doi:10.48550/arxiv.2609.03215](https://doi.org/10.48550/arxiv.2609.03215)"
     author: Heejin Do, Jakub Kontak, Mrinmaya Sachan
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Heejin Do 2026
 
-Heejin Do, Jakub Kontak, Mrinmaya Sachan. (2026). SWIM: Student Writing Simulation via Proficiency-Conditioned Generation. arXiv preprint arXiv:2609.03215. https://arxiv.org/abs/2609.03215
+Heejin Do, Jakub Kontak, Mrinmaya Sachan. (2026). SWIM: Student Writing Simulation via Proficiency-Conditioned Generation. arXiv preprint arXiv:2609.03215. https://arxiv.org/abs/2609.03215 [doi:10.48550/arxiv.2609.03215](https://doi.org/10.48550/arxiv.2609.03215)
 
 `q2 · i?` · `causal · r2`
 

@@ -18,7 +18,7 @@ sources:
 # Charter Schools Program (CSP) technical-assistance set-aside
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 A federally funded component of the U.S. Department of Education's Charter Schools Program that supports grantees in providing technical assistance to prospective and current charter-school subgrantees.
@@ -29,9 +29,6 @@ A federally funded component of the U.S. Department of Education's Charter Schoo
 
 ### Claims
 
-- [State entity grantees on average used more TA set-aside funds for TA to applicants than for quality authorizing](../claims/se-grantees-more-ta-funds-applicants-than-authorizing.md) [+M]
-- [Most SE grantees used TA set-aside funds to support subgrantees in serving students with disabilities and English learners](../claims/se-grantees-ta-funds-students-with-disabilities-els.md) [+W]
-- [Reported activities for serving students with disabilities and ELs may under-represent grantee activity because of the data collection method](../claims/open-ended-ta-reporting-underrepresents-activities.md) [~W]
 
 ## Related Products and Programmes
 -
@@ -64,7 +61,6 @@ The report identifies 11 common activities grantees funded to support subgrant a
 - Successfully applying for and managing CSP subgrants and opening and operating charter schools
 
 ### Claims
-- [Se Grantees More Ta Funds Applicants Than Authorizing](../claims/se-grantees-more-ta-funds-applicants-than-authorizing.md) [+M]
 
 ## Related Designs
 - 

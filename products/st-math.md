@@ -18,7 +18,7 @@ sources:
 # ST Math
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 6 claims (6 for) · 2 studies (2 causal), `q3` · 2 of 2 report an effect size · 6 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 ST Math is game-based instructional software for K–12 mathematics developed and provided by the MIND Research Institute, using visual-spatial puzzles to support mathematics learning.
@@ -29,10 +29,6 @@ ST Math is game-based instructional software for K–12 mathematics developed an
 ### Claims
 - [Grade-level clusters provided with ST Math scored higher on state math proficiency rates and scale scores than matched comparison clusters across grades 3-5](../claims/st-math-provided-schools-higher-math-outcomes.md) [+M]
 - [Schools implementing ST Math with fidelity in at least one grade level showed larger math advantages (ES 0.31-0.35) than matched comparison clusters](../claims/st-math-fidelity-implementation-larger-effects.md) [+M]
-- [Across four studies, ST Math shows an average effect size of +0.07 on math achievement](../claims/st-math-average-effect-size-007.md) [+W]
-- [First cluster-randomized trial: ST Math students outperformed controls after one year (+0.09), with less robust results after two years (+0.03)](../claims/st-math-crt1-year-one-009-year-two-003.md) [+W]
-- [Second cluster-randomized trial in 52 high-poverty schools shows small but statistically significant math gains (+0.04), qualifying ST Math for ESSA Tier 1](../claims/st-math-crt2-essa-tier-one.md) [+W]
-- [Retrospective comparisons show stronger math achievement in ST Math schools than business-as-usual schools](../claims/st-math-retrospective-stronger-results.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -68,10 +64,6 @@ ST Math is described as "a PreK-8 supplemental program built on the science of h
 
 ## Claims
 
-- [Across four studies, ST Math shows an average effect size of +0.07 on math achievement](../claims/st-math-average-effect-size-007.md) [+W]
-- [First cluster-randomized trial: ST Math students outperformed controls after one year (+0.09), with less robust results after two years (+0.03)](../claims/st-math-crt1-year-one-009-year-two-003.md) [+W]
-- [Second cluster-randomized trial in 52 high-poverty schools shows small but statistically significant math gains (+0.04), qualifying ST Math for ESSA Tier 1](../claims/st-math-crt2-essa-tier-one.md) [+W]
-- [Retrospective comparisons show stronger math achievement in ST Math schools than business-as-usual schools](../claims/st-math-retrospective-stronger-results.md) [+W]
 
 ## Related Elements
 - 

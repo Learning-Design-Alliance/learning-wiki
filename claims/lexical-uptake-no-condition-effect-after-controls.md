@@ -10,8 +10,8 @@ generated:
 evidence_strength: mixed
 sources:
   - id: russell-scheinberg-2026
-    resource: "https://arxiv.org/abs/2606.22225"
-    title: "Russell Scheinberg, Ameeta Agrawal, Tetyana Sydorenko, Kalab Kahsay, Nina Vyatkina, Griet Boone. (2026). What Changes When the Interlocutor Is an AI? Interactional Fluency and Linguistic Uptake in L2 Spoken Dialogue. https://arxiv.org/abs/2606.22225"
+    resource: "https://doi.org/10.48550/arxiv.2606.22225"
+    title: "Russell Scheinberg, Ameeta Agrawal, Tetyana Sydorenko, Kalab Kahsay, Nina Vyatkina, Griet Boone. (2026). What Changes When the Interlocutor Is an AI? Interactional Fluency and Linguistic Uptake in L2 Spoken Dialogue. https://arxiv.org/abs/2606.22225 [doi:10.48550/arxiv.2606.22225](https://doi.org/10.48550/arxiv.2606.22225)"
     author: Russell Scheinberg, Ameeta Agrawal, Tetyana Sydorenko, Kalab Kahsay, Nina Vyatkina, Griet Boone
     q: 3
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Lexical adoption shows no significant condition effect after controlling for input volume, but AI-first participants adopted more words at the second dialogue position
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
+> **Evidence** · 2 studies · 2 causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i?` After accounting for input volume and learner output, condition does not reliably predict lexical adoption (β=−1.77, p=.062). [→ Russell Scheinberg 2026](#russell-scheinberg-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Russell Scheinberg 2026
 
-Russell Scheinberg, Ameeta Agrawal, Tetyana Sydorenko, Kalab Kahsay, Nina Vyatkina, Griet Boone. (2026). What Changes When the Interlocutor Is an AI? Interactional Fluency and Linguistic Uptake in L2 Spoken Dialogue. https://arxiv.org/abs/2606.22225
+Russell Scheinberg, Ameeta Agrawal, Tetyana Sydorenko, Kalab Kahsay, Nina Vyatkina, Griet Boone. (2026). What Changes When the Interlocutor Is an AI? Interactional Fluency and Linguistic Uptake in L2 Spoken Dialogue. https://arxiv.org/abs/2606.22225 [doi:10.48550/arxiv.2606.22225](https://doi.org/10.48550/arxiv.2606.22225)
 
 `q3 · i?` · `causal · r2`
 

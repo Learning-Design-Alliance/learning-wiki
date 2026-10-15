@@ -46,8 +46,8 @@ Narrative review reporting an Oakland observational comparison (Jain et al., 201
 - [Time and Continuity](../learner-variables/time-and-continuity.md) — outcome: instruction changes it
 
 ## Related Claims
-- [BARR reduces ninth-grade chronic absenteeism in a large school-level randomized study](barr-reduces-ninth-grade-chronic-absenteeism.md) — related
+- BARR reduces ninth-grade chronic absenteeism in a large school-level randomized study — related
 - [Schools in which chronic absenteeism decreased implemented phone calls, mentorship programs, and text messaging with moderate or high fidelity more frequently than schools in which it increased](decreased-absenteeism-schools-fidelity-phone-mentorship-texting.md) — related
 - [When educators partnered with families on attendance, chronic absenteeism rates dropped 15%](family-partnership-reduced-chronic-absenteeism-15-percent.md) — related
-- [EWIMS significantly reduces chronic absenteeism among grade 9 and 10 students after one year of implementation](ewims-reduces-chronic-absenteeism.md) — related
+- EWIMS significantly reduces chronic absenteeism among grade 9 and 10 students after one year of implementation — related
 - [Demopolis High School's Google Sheets-based student tracker was followed by a 7% drop in chronic absenteeism and over 3% change in graduation rate](dhs-sheets-tracker-absenteeism-graduation-gains.md) — related

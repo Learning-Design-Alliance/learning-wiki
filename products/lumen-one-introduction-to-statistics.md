@@ -18,7 +18,7 @@ sources:
 # Lumen One Introduction to Statistics
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 12 claims (10 for, 1 mixed, 1 against) · 3 studies (2 qualitative, 1 associational), `q1`–`q2` · 0 of 3 report an effect size · 12 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 Lumen Learning's online statistics courseware replaces or supplements textbooks with segmented multimedia content, interactive practice, study supports, and instructor-facing engagement and intervention tools.
@@ -34,12 +34,6 @@ Lumen Learning's online statistics courseware replaces or supplements textbooks 
 - [Meeting four or more implementation fidelity criteria is associated with course grades about 0.24 points higher than expected, a 0.58 grade-point swing versus meeting only two criteria.](../claims/implementation-fidelity-grade-residuals.md) [+W]
 - [Instructors in their second or subsequent term using Lumen One made greater use of six of seven instructor-facing courseware components than first-term users.](../claims/instructor-facing-use-increases-repeated-terms.md) [+W]
 - [Three fidelity components—completing Apply It problems, following up on Time-Sensitive Interventions, and having Automated Messages on—differentiate classes with better-vs-poorer-than-expected grades.](../claims/three-key-fidelity-components-achievement.md) [+W]
-- [Digital Promise and Achieving the Dream interviewed undergraduate statistics students about their Lumen One courseware experience](../claims/interviews-undergrad-stats-lumen-one-perceptions.md) [+W]
-- [Course modality moderated student experience: instructor responsiveness was more prevalent in face-to-face classes and online students reported more frustration](../claims/modality-moderates-courseware-experience.md) [~W]
-- [About half of students reported instructors helped bridge courseware guidance and their understanding through outreach, availability, and responsiveness](../claims/instructor-involvement-supports-courseware-use.md) [+W]
-- [Dedicated sense-of-belonging courseware features were underused: most students were unaware of the Lumen Community and vaguely remembered the Introduce Yourself module](../claims/belonging-features-underused-lumen-community.md) [-W]
-- [Undergraduate statistics students most frequently used and valued the courseware's ungraded formative practice features, the Readiness Check and Self Check](../claims/students-value-ungraded-formative-practice-lumen-one.md) [+W]
-- [Real-world and racially diverse examples in courseware content helped students retain, comprehend, and relate to statistics](../claims/real-world-examples-aid-comprehension-and-relevance.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -83,12 +77,6 @@ Lumen One Introduction to Statistics is an online courseware product designed to
 - [Meeting four or more implementation fidelity criteria is associated with course grades about 0.24 points higher than expected, a 0.58 grade-point swing versus meeting only two criteria.](../claims/implementation-fidelity-grade-residuals.md) [+W]
 - [Instructors in their second or subsequent term using Lumen One made greater use of six of seven instructor-facing courseware components than first-term users.](../claims/instructor-facing-use-increases-repeated-terms.md) [+W]
 - [Three fidelity components—completing Apply It problems, following up on Time-Sensitive Interventions, and having Automated Messages on—differentiate classes with better-vs-poorer-than-expected grades.](../claims/three-key-fidelity-components-achievement.md) [+W]
-- [Digital Promise and Achieving the Dream interviewed undergraduate statistics students about their Lumen One courseware experience](../claims/interviews-undergrad-stats-lumen-one-perceptions.md) [+W]
-- [Course modality moderated student experience: instructor responsiveness was more prevalent in face-to-face classes and online students reported more frustration](../claims/modality-moderates-courseware-experience.md) [~W]
-- [About half of students reported instructors helped bridge courseware guidance and their understanding through outreach, availability, and responsiveness](../claims/instructor-involvement-supports-courseware-use.md) [+W]
-- [Dedicated sense-of-belonging courseware features were underused: most students were unaware of the Lumen Community and vaguely remembered the Introduce Yourself module](../claims/belonging-features-underused-lumen-community.md) [-W]
-- [Undergraduate statistics students most frequently used and valued the courseware's ungraded formative practice features, the Readiness Check and Self Check](../claims/students-value-ungraded-formative-practice-lumen-one.md) [+W]
-- [Real-world and racially diverse examples in courseware content helped students retain, comprehend, and relate to statistics](../claims/real-world-examples-aid-comprehension-and-relevance.md) [+W]
 
 ## Related Elements
 

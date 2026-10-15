@@ -11,8 +11,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: frank-2012
-    resource: "https://journals.aps.org/prper/"
-    title: "Frank, B. W., and Scherr, R. E. (2012). Interactional processes for stabilizing conceptual coherences in physics. Submitted to PRST-PER. https://journals.aps.org/prper/"
+    resource: "https://doi.org/10.1103/physrevstper.8.020101"
+    title: "Frank, B. W., and Scherr, R. E. (2012). Interactional processes for stabilizing conceptual coherences in physics. Submitted to PRST-PER. https://journals.aps.org/prper/ [doi:10.1103/physrevstper.8.020101](https://doi.org/10.1103/physrevstper.8.020101)"
     author: Frank, B. W., and Scherr, R. E.
     q: 2
     i: "?"
@@ -43,7 +43,7 @@ sources:
 
 ### Frank 2012
 
-Frank, B. W., and Scherr, R. E. (2012). Interactional processes for stabilizing conceptual coherences in physics. Submitted to PRST-PER. https://journals.aps.org/prper/
+Frank, B. W., and Scherr, R. E. (2012). Interactional processes for stabilizing conceptual coherences in physics. Submitted to PRST-PER. https://journals.aps.org/prper/ [doi:10.1103/physrevstper.8.020101](https://doi.org/10.1103/physrevstper.8.020101)
 
 `q2 · i?` · `qualitative · r2`
 
@@ -70,10 +70,10 @@ Case study of one group of four students in an introductory physics tutorial, ba
 -
 - [A network of three mutually overlapping intuitive ideas (less distance implies less time, bunched up means faster, faster implies less time) stabilizes students' initial thinking](network-of-intuitive-ideas-stabilizes-thinking.md) — related
 - [Coordinating attention between whole-strip length and dot spacing does not disrupt and may stabilize the idea that shorter strips take less time](part-whole-coordination-preserves-initial-idea.md) — related
-- [Synchronized collective behaviors oriented to strips and worksheets dynamically stabilize the students' initial activity and thinking](synchronized-interactional-behaviors-stabilize-activity.md) — related
-- [Changes in the constraints of activity (attention, object location, interaction patterns) provide opportunities for new locally stable patterns of thinking to take hold](changing-activity-constraints-enable-new-coherences.md) — related
+- Synchronized collective behaviors oriented to strips and worksheets dynamically stabilize the students' initial activity and thinking — related
+- Changes in the constraints of activity (attention, object location, interaction patterns) provide opportunities for new locally stable patterns of thinking to take hold — related
 - [The physical stability of material artifacts such as stacked tickertape strips and worksheets stabilizes students' attention, action, and knowledge use](material-artifact-stability-stabilizes-thinking.md) — related
-- [Contextual micro-features (worksheet wording, salient length differences, matching part-whole structure) support persistence of the less-distance-implies-less-time intuition](contextual-features-stabilize-distance-time-inference.md) — related
+- Contextual micro-features (worksheet wording, salient length differences, matching part-whole structure) support persistence of the less-distance-implies-less-time intuition — related
 - [The colloquial ambiguity of the words short and long in a worksheet question sustains the intuition that less distance implies less time](worksheet-wording-sustains-less-distance-less-time.md) — related
 - [Co-construction of shared understanding needed to be accompanied by students' personal construction and sense making for conceptual change to be stable over time](personal-construction-required-stable-conceptual-change.md) — related
 - [Linguistic coherence predicts productive collaboration, strengthened by joint visual attention data](linguistic-coherence-predicts-productive-collaboration.md) — related

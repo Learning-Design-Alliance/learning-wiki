@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: christina-luke-2016
-    resource: "https://digitalpromise.dspacedirect.org/items/8017846c-4099-4af3-92e4-462cd5d6262d"
-    title: "Christina Luke, Christa M. Simone, Aubrey T. Francisco. (2016). Rapid Cycle Pilots: Summer Ed-Tech Programs. Digital Promise. https://digitalpromise.dspacedirect.org/items/8017846c-4099-4af3-92e4-462cd5d6262d"
+    resource: "https://doi.org/10.51388/20.500.12265/26"
+    title: "Christina Luke, Christa M. Simone, Aubrey T. Francisco. (2016). Rapid Cycle Pilots: Summer Ed-Tech Programs. Digital Promise. https://digitalpromise.dspacedirect.org/items/8017846c-4099-4af3-92e4-462cd5d6262d [doi:10.51388/20.500.12265/26](https://doi.org/10.51388/20.500.12265/26)"
     author: Christina Luke, Christa M. Simone, Aubrey T. Francisco
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Students used their assigned ed-tech tools far below recommended levels, and usage declined over the summer
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Kettle Moraine students averaged 54 minutes per week on TenMarks over 11 weeks, less than a third of the recommended three hours per week, with usage declining week to week. [→ Christina Luke 2016](#christina-luke-2016)
@@ -40,7 +40,7 @@ sources:
 
 ### Christina Luke 2016
 
-Christina Luke, Christa M. Simone, Aubrey T. Francisco. (2016). Rapid Cycle Pilots: Summer Ed-Tech Programs. Digital Promise. https://digitalpromise.dspacedirect.org/items/8017846c-4099-4af3-92e4-462cd5d6262d
+Christina Luke, Christa M. Simone, Aubrey T. Francisco. (2016). Rapid Cycle Pilots: Summer Ed-Tech Programs. Digital Promise. https://digitalpromise.dspacedirect.org/items/8017846c-4099-4af3-92e4-462cd5d6262d [doi:10.51388/20.500.12265/26](https://doi.org/10.51388/20.500.12265/26)
 
 `q2 · i?` · `design · r2`
 
@@ -64,5 +64,5 @@ Elizabeth Forward Amplify usage data shown in Figure 8; the report states these 
 ## Related Claims
 - [A matched-comparison analysis found no effect of the TenMarks summer program on NWEA MAP math scores](tenmarks-summer-no-effect-map.md) — related
 - [In the reviewed RCT, students averaged 21.8 hours of DreamBox usage, below the developer's recommended 90 minutes per week](dreambox-usage-21-8-hours-below-recommended-dose.md) — related
-- [Classworks students used the program an average of 11 minutes per week over 30 weeks](classworks-il-low-weekly-dosage.md) — related
+- Classworks students used the program an average of 11 minutes per week over 30 weeks — related
 - [Early trends suggest students of teachers using ASSISTments as the sole math edtech tool may have benefited more than students where it was part of a suite of tools](assistments-sole-tool-early-trends.md) — related

@@ -44,4 +44,4 @@ Theoretical argument in the discussion section. The article states 'Brofenbrenne
 
 ## Related Claims
 - [Ethical decision-making about AI emerges as tensions and contradictions negotiated across ecological levels](ethical-ai-decision-negotiated-across-levels.md) — related
-- [Contradictions within and across activity systems are vital forces for change and provide a rationale for CSL](chat-contradictions-activity-systems-rationale-for-csl.md) — related
+- Contradictions within and across activity systems are vital forces for change and provide a rationale for CSL — related
