@@ -50,7 +50,7 @@ The article adopts Kagan's (1994) four basic principles of cooperative learning,
 - [Cooperative Learning](../patterns/cooperative-learning.md)
 - [Kagan Cooperative Learning Strategies](../strategies/kagan_cooperative_learning_strategies.md)
 - [Numbered Heads Together](../strategies/numbered-heads-together.md)
-- [Literature Circles with rotating collaborative-skill roles for small-group pleasure reading](../patterns/literature-circles-rotating-collaborative-roles.md)
+- [Literature Circles with rotating collaborative-skill roles for small-group pleasure reading](../principles/collaborative-learning.md)
 
 ## Key Sources
 - Jacobs, George M. (2000). Reading Alone Together: Enhancing Extensive Reading via Student-Student Cooperation in Second Language Instruction. Paper presented at the Malaysian International Conference on English Language Teaching, Malacca, Malaysia. https://eric.ed.gov/?id=ED444377

@@ -75,9 +75,9 @@ The presentation defines Challenge-Based Learning as "A framework for learning w
 - [Free CBL resource set: global competence resources and Ciena Solutions Challenge supports including a Facilitation Guide and Challenge Builder](../products/ciena-solutions-challenge.md)
 - [Challenge Based Learning (CBL)](../strategies/challenge-based-learning-cbl.md)
 - [Challenge Based Learning](../strategies/challenge-based-learning-cbl.md)
-- [Prepare students with the skills and competencies to effectively and ethically complete societal-engagement investigations before meeting the challenge agent](../principles/prepare-students-before-challenge-agent-engagement.md)
+- [Prepare students with the skills and competencies to effectively and ethically complete societal-engagement investigations before meeting the challenge agent](../principles/community-based-learning.md)
 - [Combining challenge-based learning, community-engaged learning, COIL, and cross-university collaboration in one course design](../designs/cbl-cel-coil-cuc-integrated-course-pattern.md)
-- [Leave flexibility within the curriculum so student coaches can respond to emerging student needs in CEL/CBL courses](../principles/curriculum-flexibility-for-responsive-student-coaches.md)
+- [Leave flexibility within the curriculum so student coaches can respond to emerging student needs in CEL/CBL courses](../principles/responsive-teaching.md)
 - [Focus on Issues of Justice](../strategies/focus_on_issues_of_justice.md)
 
 ## Key Sources

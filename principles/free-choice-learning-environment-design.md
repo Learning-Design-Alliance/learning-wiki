@@ -140,7 +140,6 @@ Dwell time, voluntary return, self-extended projects, explained understanding at
 ## Related Principles
 - [Learner Choice](autonomy.md) — a related but distinct concept: bounded choice offered inside an otherwise fixed course, versus free-choice design's assumption of no externally imposed curriculum at all
 - [Informal Learning](../theories/informal-learning.md) — free-choice learning is a specific, environment-design instantiation of the broader informal-learning concept
-- [Autonomy](autonomy.md): converted; owns bounded choice and the case against controlling incentives
 - [Self-Directed Learning](self-directed-learning.md): when learner-directed study helps and for whom; the [pattern](../patterns/self-directed-learning.md) holds its sequence
 - [Engagement](engagement.md) and [Motivation](motivation.md): participation in required work
 

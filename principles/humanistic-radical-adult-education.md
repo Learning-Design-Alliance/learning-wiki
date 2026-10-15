@@ -135,8 +135,7 @@ Feeling heard, voicing a view, explaining a problem systemically, imagining an a
 - [Interrogate Voice, Credibility and Testimony When Studying Inequality in Education](../strategies/interrogate-voice-credibility-and-testimony-in-educational-inequality-research.md)
 - [Incorporate adult learners' cultural knowledge into curriculum to foster an inclusive, democratic learning environment](cultural-life-experiences-connections.md)
 - [Build productive instructor-learner relationships so adults feel connected and take an active role in learning](productive-instructor-learner-relationships.md)
-- [Critique of language in CCP must include critique of humanism and humanist historicization](critique-language-includes-critique-of-humanism.md)
-- [Cultural & Life Experiences Connections](cultural-life-experiences-connections.md) (experience as material for the task; the inward-to-outward move)
+- [Critique of language in CCP must include critique of humanism and humanist historicization](epistemic-cognition.md)
 - [Peer Discussion](peer-discussion.md)
 - [Community-Based Learning](community-based-learning.md)
 - [Autonomy](autonomy.md)
@@ -199,7 +198,7 @@ The article presents two further approaches within the pragmatic progressive sta
 - [Interrogate Voice, Credibility and Testimony When Studying Inequality in Education](../strategies/interrogate-voice-credibility-and-testimony-in-educational-inequality-research.md)
 - [Incorporate adult learners' cultural knowledge into curriculum to foster an inclusive, democratic learning environment](cultural-life-experiences-connections.md)
 - [Build productive instructor-learner relationships so adults feel connected and take an active role in learning](productive-instructor-learner-relationships.md)
-- [Critique of language in CCP must include critique of humanism and humanist historicization](critique-language-includes-critique-of-humanism.md)
+- [Critique of language in CCP must include critique of humanism and humanist historicization](epistemic-cognition.md)
 
 ## Examples
 
@@ -246,7 +245,7 @@ To counter apocalypticism that emerges when we fail to imagine life beyond oppre
 
 - [Expand critical communication pedagogy's sphere of concern to include more-than-human existents because anthropocentrism and speciesism maintain social hierarchy](humanistic-radical-adult-education.md)
 - [Render planetary ecological crisis concrete, embodied, proximal, and implicative for students](cultural-life-experiences-connections.md)
-- [Critique of language in CCP must include critique of humanism and humanist historicization](critique-language-includes-critique-of-humanism.md)
+- [Critique of language in CCP must include critique of humanism and humanist historicization](epistemic-cognition.md)
 
 ## Examples
 
@@ -290,7 +289,7 @@ This principle holds that critical communication pedagogy, alongside emancipatin
 
 - [Cultivate ecologically just speculative futurity as requisite to political praxis](humanistic-radical-adult-education.md)
 - [Render planetary ecological crisis concrete, embodied, proximal, and implicative for students](cultural-life-experiences-connections.md)
-- [Critique of language in CCP must include critique of humanism and humanist historicization](critique-language-includes-critique-of-humanism.md)
+- [Critique of language in CCP must include critique of humanism and humanist historicization](epistemic-cognition.md)
 
 ## Examples
 

@@ -1,7 +1,7 @@
 ---
 type: principle
 id: clear-structure
-aliases: [clear-structure-presentation, combine-signalling-and-cueing-to-highlight-changes]
+aliases: [clear-structure-presentation, combine-signalling-and-cueing-to-highlight-changes, teach-simple-design-cycle-maker-education, positive-clarity-moves-design-principle]
 title: Clear Structure
 description: "For learners without an organization of their own for unfamiliar material, making its organization explicit (signals, lean organizers, graphics that match the content and task) may improve what they select and recall on immediate tests, an effect qualified by prior knowledge, structural match and outcome."
 canonical: true
@@ -18,12 +18,20 @@ sources:
     resource: "https://eric.ed.gov/?id=EJ1205386"
     title: "Mutlu-Bayraktar, D. & Bayram, S. (2018). Effects of cueing and signaling on change blindness in multimedia learning environment. World Journal on Educational Technology: Current Issues, 11(1), 128–139. https://eric.ed.gov/?id=EJ1205386"
     author: "Mutlu-Bayraktar, D. & Bayram, S"
+  - id: lundberg-2018
+    resource: "https://eric.ed.gov/?id=EJ1179517"
+    title: "Lundberg, M., & Rasmussen, J. (2018). Foundational Principles and Practices to Consider in Assessing Maker Education. i-manager's Journal of Educational Technology, Vol. 14 No. 4, January - March 2018. https://eric.ed.gov/?id=EJ1179517"
+    author: "Lundberg, M., & Rasmussen, J"
+  - id: snyder-1991
+    resource: "https://eric.ed.gov/?id=ED331809"
+    title: "Snyder, Stephen; Bushur, Lori; Hoeksema, Pam; Olson, Mark; Clark, Shawn; Snyder, Jill. (1991). The Effect of Instructional Clarity and Concept Structure on Student Achievement and Perception. https://eric.ed.gov/?id=ED331809"
+    author: Snyder, Stephen; Bushur, Lori; Hoeksema, Pam; Olson, Mark; Clark, Shawn; Snyder, Jill
 ---
 
 # Clear Structure
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 24 claims (16 for, 8 mixed) · 31 studies (12 causal, 7 quant-synthesis, 6 review, 3 qualitative, 3 theoretical), `q1`–`q4` · 7 of 31 report an effect size · 15 claims rest on one study
+> **Evidence** · 29 claims (21 for, 8 mixed) · 33 studies (12 causal, 7 quant-synthesis, 6 review, 5 qualitative, 3 theoretical), `q1`–`q4` · 8 of 33 report an effect size · 20 claims rest on one study
 
 ## Conditional relationship
 
@@ -91,6 +99,11 @@ Claims this page cited before it was rewritten as a conditional model. Each was 
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+M] — not yet checked against its sources; read 2026-10-15: goal-setting, not the organization of material; one narrative review.
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — not settled: the text available could not confirm the entries (abstract); read 2026-10-15: adaptive tutoring support, not explicit organization; bears only loosely, through the idea that support should follow what the learner already knows.
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — not settled: the text available could not confirm the entries (abstract); read 2026-10-15: what a goal names (the process or the result), not how material is organized.
+- [A teacher's appropriation of the engineering design process reframed restrictive STEM narratives in her teaching and personal life](../claims/teacher-appropriation-of-edp-reframes-restrictive-stem-narratives.md) [+W]
+- [Instructional Clarity Main Effect Concept Achievement](../claims/instructional-clarity-main-effect-concept-achievement.md) [+M]
+- [Clarity and concept structure interact for defining and applying concepts, each accounting for about 40-44% of variance](../claims/clarity-concept-structure-interaction.md) [+M]
+- [Students accurately perceive differences between clear and unclear lessons regardless of concept structure](../claims/students-perceive-lesson-clarity.md) [+W]
+- [In the scanned textbooks, statistics terms such as cluster and outlier are defined vaguely before any examples, and more formal criteria are never developed](../claims/vague-statistics-definitions-never-formalized.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -109,6 +122,7 @@ A gain on an immediate test, a change in what is recalled, delayed retention, tr
 - [The signaling effect holds only for abstract animation representations: signaling significantly improved achievement over written text with abstract animation but not with concrete animation](../claims/signaling-effect-abstract-only.md) [~W]
 - [Students responded most positively to projects that felt authentic and were organized in a clear sequence with manageable milestones](../claims/student-engagement-authenticity-clear-sequence.md) [+W]
 - [Under unclear presentation, a more complex concept structure lessens students' ability to identify concepts](../claims/unclear-presentation-complex-structure-penalty.md) [+W]
+- [Maker Education Assessment Principles Practices Framework](../theories/maker-education-assessment-principles-practices-framework.md) [+M]
 
 ## Related Principles
 
@@ -123,10 +137,12 @@ A gain on an immediate test, a change in what is recalled, delayed retention, tr
 ## Examples
 
 - Module overviews, lesson roadmaps, worked agendas, and slide decks with consistent signaling
-- [Flipped Classroom](../patterns/flipped-classroom.md) — especially dependent on clear structure because pre-class and in-class phases must align visibly
+- [Flipped Classroom](flipped-learning.md) — especially dependent on clear structure because pre-class and in-class phases must align visibly
 - [State Objectives](../elements/state-objectives.md) and [Advance Organizers](../elements/advance-organizers.md) are concrete ways to implement this principle
 - Numbered procedures, exemplars, and checklists help make task structure inspectable for novices
 - [Increase access to digital learning so materials are organized and accessible online](../strategies/digital-learning-access-organized-materials.md)
+- [Use a three-part process-understanding-product rubric for formative and summative maker assessment](../strategies/three-part-rubric-maker-assessment.md)
+- [Use student-owned portfolios with digital and non-digital documentation to assess maker growth over time](../strategies/student-owned-portfolios-maker-assessment.md)
 
 ### Illustrative
 
@@ -143,6 +159,8 @@ A gain on an immediate test, a change in what is recalled, delayed retention, tr
 - Palis, A. G., & Quiros, P. A. (2014). Adult learning principles and presentation pearls. *Middle East African Journal of Ophthalmology, 21*(2), 114-122. [doi:10.4103/0974-9233.129748](https://doi.org/10.4103/0974-9233.129748)
 - Miraldi, L. B., & Miraldi, P. N. (2018). Best practices in slide design. In *The handbook of communication training*. [doi:10.4324/9781315185859-13](https://doi.org/10.4324/9781315185859-13)
 - Mutlu-Bayraktar, D. & Bayram, S. (2018). Effects of cueing and signaling on change blindness in multimedia learning environment. World Journal on Educational Technology: Current Issues, 11(1), 128–139. https://eric.ed.gov/?id=EJ1205386
+- Lundberg, M., & Rasmussen, J. (2018). Foundational Principles and Practices to Consider in Assessing Maker Education. i-manager's Journal of Educational Technology, Vol. 14 No. 4, January - March 2018. https://eric.ed.gov/?id=EJ1179517
+- Snyder, Stephen; Bushur, Lori; Hoeksema, Pam; Olson, Mark; Clark, Shawn; Snyder, Jill. (1991). The Effect of Instructional Clarity and Concept Structure on Student Achievement and Perception. https://eric.ed.gov/?id=ED331809
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above; the previous body, verbatim.
 
@@ -276,7 +294,7 @@ Clear structure and presentation matter because learners often waste effort tryi
 ## Examples
 <!- - Links to elements or patterns that apply this principle - ->
 - Module overviews, lesson roadmaps, worked agendas, and slide decks with consistent signaling
-- [Flipped Classroom](../patterns/flipped-classroom.md) — especially dependent on clear structure because pre-class and in-class phases must align visibly
+- [Flipped Classroom](flipped-learning.md) — especially dependent on clear structure because pre-class and in-class phases must align visibly
 - [State Objectives](../elements/state-objectives.md) and [Advance Organizers](../elements/advance-organizers.md) are concrete ways to implement this principle
 - Numbered procedures, exemplars, and checklists help make task structure inspectable for novices
 
@@ -326,4 +344,91 @@ The authors recommend that multimedia materials designed according to multimedia
 
 ## Key Sources
 - Mutlu-Bayraktar, D. & Bayram, S. (2018). Effects of cueing and signaling on change blindness in multimedia learning environment. World Journal on Educational Technology: Current Issues, 11(1), 128–139. https://eric.ed.gov/?id=EJ1205386
+-->
+
+<!-- merged 2026-10-15 from principles/teach-simple-design-cycle-maker-education ("Teach a simple, clear, memorable design cycle without treating it as a rigid checklist"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Teach a simple, clear, memorable design cycle without treating it as a rigid checklist
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+The paper recommends that maker education programs teach students an engineering design process. Because research is unclear whether one design cycle model is better than others, the chosen cycle should be "simple, clear, and memorable," and teachers should guard against treating the process like a checklist, since cycles are meant to suggest the iterative, forward-progress nature of the work and a tinkering mindset.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Students need a basic understanding of an engineering design process; the cycle chosen should be simple, clear, and memorable
+#### Constraints
+- Teachers must guard against being too rigid and treating the process like a checklist; no cycle is perfect
+
+### Target Learners
+- K-12 students in maker education programs
+
+### Target Learning Objectives
+- Understanding and using an engineering design process iteratively
+
+### Claims
+
+- [Maker Education Assessment Principles Practices Framework](../theories/maker-education-assessment-principles-practices-framework.md) [+M]
+- [A teacher's appropriation of the engineering design process reframed restrictive STEM narratives in her teaching and personal life](../claims/teacher-appropriation-of-edp-reframes-restrictive-stem-narratives.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Use a three-part process-understanding-product rubric for formative and summative maker assessment](../strategies/three-part-rubric-maker-assessment.md)
+- [Use student-owned portfolios with digital and non-digital documentation to assess maker growth over time](../strategies/student-owned-portfolios-maker-assessment.md)
+
+## Key Sources
+- Lundberg, M., & Rasmussen, J. (2018). Foundational Principles and Practices to Consider in Assessing Maker Education. i-manager's Journal of Educational Technology, Vol. 14 No. 4, January - March 2018. https://eric.ed.gov/?id=EJ1179517
+-->
+
+<!-- merged 2026-10-15 from principles/positive-clarity-moves-design-principle ("Design lessons with frequent positive clarity moves and avoid vagueness terms and mazes"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Design lessons with frequent positive clarity moves and avoid vagueness terms and mazes
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 7 claims (6 for, 1 mixed) · 2 studies (1 causal, 1 qualitative), `q2`–`q3` · 1 of 2 report an effect size · 7 claims rest on one study
+
+## Description
+Instructional clarity is "a cluster of instructor behaviors that contains an appropriate use of keys, links, framing statements, focusing and examples... and avoids vagueness terms and mazes." The article recommends instructors "provide frequent (18 per page of script) keys, links, focusing, framing, and examples in their presentations" and avoid vague terms and mazes, because the frequency of these moves predicted achievement across defining, identifying, and applying concepts, and clarity accounted for roughly half of score variance.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Clear lessons in the study averaged 17 to 18 positive clarity moves per page of script with an absence of mazes and vagueness terms
+#### Constraints
+- Prior work cited found more than 7.2 vagueness terms per minute and mazes at 5.1 per minute negatively affected achievement and perceived clarity
+- The correlation evidence does not establish which individual moves are causal, and the study used videotaped rather than live instruction
+
+### Target Learners
+- undergraduate students
+- teachers being trained to present clearly
+
+### Target Learning Objectives
+- concept learning and comprehension of instructed content
+
+### Claims
+
+- [Positive Clarity Moves Correlate Achievement](../claims/positive-clarity-moves-correlate-achievement.md) [+M]
+- [Instructional Clarity Main Effect Concept Achievement](../claims/instructional-clarity-main-effect-concept-achievement.md) [+M]
+- [Clarity and concept structure interact for defining and applying concepts, each accounting for about 40-44% of variance](../claims/clarity-concept-structure-interaction.md) [+M]
+- [Clarity matters less as concept structure becomes simpler: no significant clear-vs-unclear difference for constant successive lessons](../claims/clarity-less-relevant-simpler-structures.md) [~W]
+- [A clear variable coordinate lesson produced higher achievement than an unclear lesson with the same concept structure on all five measures](../claims/clear-variable-coordinate-beats-unclear.md) [+W]
+- [Students accurately perceive differences between clear and unclear lessons regardless of concept structure](../claims/students-perceive-lesson-clarity.md) [+W]
+- [In the scanned textbooks, statistics terms such as cluster and outlier are defined vaguely before any examples, and more formal criteria are never developed](../claims/vague-statistics-definitions-never-formalized.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Snyder, Stephen; Bushur, Lori; Hoeksema, Pam; Olson, Mark; Clark, Shawn; Snyder, Jill. (1991). The Effect of Instructional Clarity and Concept Structure on Student Achievement and Perception. https://eric.ed.gov/?id=ED331809
 -->

@@ -37,7 +37,7 @@ Meta-analyses consistently find that technology-mediated instruction produces le
 
 #### Implementation Variability
 - **Blended designs** combine online and face-to-face components; blended learning with structured online interaction outperforms either mode alone [~M] — see [Blended Learning](../patterns/blended-learning.md)
-- **Flipped designs** move exposition online to free class time for active work — see [Flipped Classroom](../patterns/flipped-classroom.md)
+- **Flipped designs** move exposition online to free class time for active work — see [Flipped Classroom](../principles/flipped-learning.md)
 - **Adaptive systems** adjust task difficulty and pacing to individual performance — see [Adaptive Learning](../principles/adaptive-learning.md)
 - **Simulation and visualization tools** (PhET, Labster) make dynamic or invisible processes observable
 
@@ -60,7 +60,7 @@ Meta-analyses consistently find that technology-mediated instruction produces le
 
 ## Related Strategies
 - [Blended Learning](../patterns/blended-learning.md) — the structural pattern most technology use in formal education serves
-- [Flipped Classroom](../patterns/flipped-classroom.md) — reassigns exposition to technology to free contact time for application
+- [Flipped Classroom](../principles/flipped-learning.md) — reassigns exposition to technology to free contact time for application
 - [Adaptive Learning](../principles/adaptive-learning.md) — technology's distinctive capability of individualizing pacing and difficulty
 
 ## Examples

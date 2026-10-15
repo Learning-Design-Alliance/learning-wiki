@@ -1,6 +1,7 @@
 ---
 type: principle
 id: activation
+aliases: [prior-knowledge-growth-point-new-knowledge]
 title: Activation
 description: "For learners whose relevant prior knowledge is accurate and is then used by the instruction that follows, an activity that makes it visible before instruction may improve comprehension or retention, while activating topic knowledge alone has often shown little effect and activated misconceptions need confronting."
 canonical: true
@@ -13,18 +14,26 @@ sources:
     resource: "https://nap.nationalacademies.org/catalog/9853/how-people-learn-brain-mind-experience-and-school-expanded-edition"
     title: "Bransford, J. D., Brown, A. L., & Cocking, R. R. (Eds.). (2000). *How people learn*. National Academy Press"
     author: "Bransford, J. D., Brown, A. L., & Cocking, R. R. (Eds.)"
+  - id: qiong-jia-2010
+    resource: "https://www.ccsenet.org/ies"
+    title: "Qiong Jia. (2010). A Brief Study on the Implication of Constructivism Teaching Theory on Classroom Teaching Reform in Basic Education. International Education Studies, 3(2). https://www.ccsenet.org/ies"
+    author: Qiong Jia
+  - id: merrill-2002
+    resource: "https://doi.org/10.1007/BF02505024"
+    title: "Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development, 50*(3), 43-59"
+    author: Merrill, M. D
 ---
 
 # Activation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 16 claims (6 for, 8 mixed, 2 against) · 22 studies (9 causal, 6 quant-synthesis, 6 review, 1 associational), `q2`–`q4` · 7 of 22 report an effect size · 9 claims rest on one study
+> **Evidence** · 19 claims (8 for, 9 mixed, 2 against) · 25 studies (9 causal, 6 quant-synthesis, 6 review, 2 qualitative, 1 associational, 1 theoretical), `q1`–`q4` · 7 of 25 report an effect size · 12 claims rest on one study
 
 ## Conditional relationship
 
 For a learner meeting new material that connects to something they already know, a short activity that makes the relevant prior knowledge visible before instruction (a prediction, an explanation of a familiar case, a pre-question, an organizer that relates the new content to the known) may improve comprehension or later retention of that material, compared with starting the instruction directly. The relationship is conditional on at least four things: that the learner has relevant and accurate knowledge to activate (`expertise` matters, but the useful observation is the task-specific starting response, not the label); that the activity surfaces knowledge that the following instruction actually uses; what kind of knowledge is activated (topic knowledge, metacognitive knowledge, a misconception); and the outcome and horizon (`immediate-performance`, `conceptual-understanding`, `delayed-retention`). Where the activated knowledge is inaccurate, the expected benefit depends on the instruction confronting it, not on the activation itself.
 
-No claim in this wiki tests the relationship as a whole against a no-activation comparison across these conditions. The recorded evidence is split: synthesis evidence on advance organizers and experiments on pre-questions point one way, and two experiments of topic-knowledge activation found little or no effect. The [Merrill activation pattern](../patterns/merrills-first-principles-activation.md) is the matching pattern page (not yet in this format); [prior knowledge activation](../elements/prior-knowledge-activation.md) and [advance organizers](../elements/advance-organizers.md) are the elements that carry it.
+No claim in this wiki tests the relationship as a whole against a no-activation comparison across these conditions. The recorded evidence is split: synthesis evidence on advance organizers and experiments on pre-questions point one way, and two experiments of topic-knowledge activation found little or no effect. The [Merrill activation pattern](activation.md) is the matching pattern page (not yet in this format); [prior knowledge activation](../elements/prior-knowledge-activation.md) and [advance organizers](../elements/advance-organizers.md) are the elements that carry it.
 
 ## Fitting the design to a situation
 
@@ -85,6 +94,9 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — not settled: the text available could not confirm the entries (abstract)
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — not settled: the text available could not confirm the entries (abstract)
 - [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [~M] — not settled: the text available could not confirm the entries (abstract)
+- [Learning Is Initiative Construction Old New Knowledge](../claims/learning-is-initiative-construction-old-new-knowledge.md) [+W]
+- [Students' appropriation of class interaction practices was mediated by prior sociohistorical educational experiences](../claims/prior-practices-mediate-class-interaction-appropriation.md) [~W]
+- [ELLs attempted academic terminology from prior lessons, with experience mediating their connection to the concept of vibration](../claims/experience-mediate-connection-academic-language-vibration.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -104,8 +116,14 @@ The present evidence does not establish an optimal activation format or duration
 - [Explicit Instruction](direct-instruction.md) — activation strengthens explicit teaching when prior knowledge is deliberately tied to new content rather than assumed
 - [Knowledge Organization](knowledge-organization.md) — activation helps learners fit new information into a meaningful structure
 - [Pretesting (Prequestions Before Study)](pretesting.md)
+- [Strengths-based Approach](strengths-based-approach.md)
+- [Change the teacher's role from indoctrinator to designer, guider, and academic consultant in student-centered teaching](teacher-as-mediator-not-content-disseminator.md)
 
 ## Examples
+- [Baseline Assessment](../strategies/baseline-assessment.md)
+- [Do Now / Bell Work](../strategies/do_now_bell_work.md)
+- [Create an interactive learning environment in real or semi-real contexts using modern teaching media](../strategies/interactive-real-semi-real-learning-environment.md)
+- [Learning-theory-based evaluation checklist of instructional strategies and techniques for textbook analysis](../elements/learning-theory-evaluation-checklist-elt-textbooks.md)
 
 ### Illustrative
 
@@ -118,6 +136,8 @@ The present evidence does not establish an optimal activation format or duration
 ## Key Sources
 - Ausubel, D. P. (1968). *Educational psychology: A cognitive view*. Holt, Rinehart and Winston.
 - Bransford, J. D., Brown, A. L., & Cocking, R. R. (Eds.). (2000). *How people learn*. National Academy Press. [https://nap.nationalacademies.org/catalog/9853/how-people-learn-brain-mind-experience-and-school-expanded-edition](https://nap.nationalacademies.org/catalog/9853/how-people-learn-brain-mind-experience-and-school-expanded-edition). [doi:10.17226/9853](https://doi.org/10.17226/9853)
+- Qiong Jia. (2010). A Brief Study on the Implication of Constructivism Teaching Theory on Classroom Teaching Reform in Basic Education. International Education Studies, 3(2). https://www.ccsenet.org/ies
+- Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development, 50*(3), 43-59. [https://doi.org/10.1007/BF02505024](https://doi.org/10.1007/BF02505024)
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above. The page's previous Description and Implications, kept verbatim.
 
@@ -160,4 +180,88 @@ Activation is most useful when new content will make more sense if learners firs
 - [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — prompts that ask learners to explain predictions or prior ideas can deepen the value of activation
 - [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [~M] — surfacing confidently held misconceptions can be instructionally productive if corrected promptly, but risky if left unresolved
 
+-->
+
+<!-- merged 2026-10-15 from principles/prior-knowledge-growth-point-new-knowledge ("Take students' previous knowledge and experience as the growth point of new knowledge"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Take students' previous knowledge and experience as the growth point of new knowledge
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 3 studies (2 qualitative, 1 theoretical), `q1`–`q2` · 0 of 3 report an effect size · 3 claims rest on one study
+
+## Description
+The article recommends that teaching start from what learners already know: "teaching should take students’ previous knowledge and experience as the growth point of new knowledge". Teachers should prepare in two fields before class — analyzing curriculum standards and textbooks to confirm teaching targets, and analyzing students' previous knowledge and experiences — then guide students to produce new knowledge from original ones, connecting new and old knowledge. The article grounds this in Ausubel's meaning-study view that the only important factor affecting study is what learners have known.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Teachers must analyze and understand students' previous knowledge and experiences before class, alongside curriculum standards and textbooks
+#### Constraints
+- 
+
+### Target Learners
+- students in basic education classrooms
+
+### Target Learning Objectives
+- connecting new knowledge with learners' prior knowledge and experiences
+
+### Claims
+
+- [Learning Is Initiative Construction Old New Knowledge](../claims/learning-is-initiative-construction-old-new-knowledge.md) [+M]
+- [Students' appropriation of class interaction practices was mediated by prior sociohistorical educational experiences](../claims/prior-practices-mediate-class-interaction-appropriation.md) [~W]
+- [ELLs attempted academic terminology from prior lessons, with experience mediating their connection to the concept of vibration](../claims/experience-mediate-connection-academic-language-vibration.md) [+W]
+
+## Related Principles
+
+- [Strengths-based Approach](strengths-based-approach.md)
+- [Change the teacher's role from indoctrinator to designer, guider, and academic consultant in student-centered teaching](teacher-as-mediator-not-content-disseminator.md)
+
+## Examples
+
+- [Baseline Assessment](../strategies/baseline-assessment.md)
+- [Do Now / Bell Work](../strategies/do_now_bell_work.md)
+- [Create an interactive learning environment in real or semi-real contexts using modern teaching media](../strategies/interactive-real-semi-real-learning-environment.md)
+- [Learning-theory-based evaluation checklist of instructional strategies and techniques for textbook analysis](../elements/learning-theory-evaluation-checklist-elt-textbooks.md)
+
+## Key Sources
+- Qiong Jia. (2010). A Brief Study on the Implication of Constructivism Teaching Theory on Classroom Teaching Reform in Basic Education. International Education Studies, 3(2). https://www.ccsenet.org/ies
+-->
+
+<!-- merged 2026-10-15 from patterns/merrills-first-principles-activation ("Merrill's First Principles (Activation)"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Merrill's First Principles (Activation)
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies (2 causal, 1 quant-synthesis), `q3` · 1 of 3 report an effect size
+
+## Description
+This page is the short-form canonical target for the activation move within Merrill's First Principles: prompting learners to recall or connect relevant prior knowledge before new instruction or application.
+
+## Implications
+
+### Context
+#### Requirements
+- **A meaningful connection to prior knowledge or experience**
+- **Prompts that surface relevant schemas**
+#### Constraints
+- **Activation that surfaces misconceptions still needs follow-up and correction**
+#### Grain Size
+- Lesson
+
+### Target Goals
+- Prepare learners to connect new ideas to existing knowledge.
+
+### Theory
+#### Supporting
+
+- [Activation](../principles/activation.md)
+- [Retrieval Practice](../principles/retrieval-practice.md)
+- [Advance organizers aided learning in a 1980 meta-analysis, but activating prior topic knowledge did not improve primary pupils' text comprehension in one experiment](../claims/activation-improves-learning.md) [+S]
+
+## Related Patterns
+- [Merrill's First Principles](../patterns/4cid-four-component-instructional-design.md)
+
+## Key Sources
+- Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development, 50*(3), 43-59. [https://doi.org/10.1007/BF02505024](https://doi.org/10.1007/BF02505024)
 -->

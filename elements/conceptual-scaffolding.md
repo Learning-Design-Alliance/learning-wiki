@@ -37,7 +37,7 @@ Conceptual scaffolding is the element in which learners are given temporary stru
 
 ### Affordances
 - [Scaffolding](../principles/scaffolding.md)
-- [Constructivist Learning](../principles/constructivism.md)
+- [Constructivist Learning](../principles/cognitive-activation.md)
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
@@ -53,7 +53,7 @@ Conceptual scaffolding is the element in which learners are given temporary stru
 
 ## Patterns That Use This Element
 - [Elaboration Theory](../patterns/elaboration-theory.md)
-- [Merrill's First Principles](../patterns/merrills-first-principles-of-instruction.md)
+- [Merrill's First Principles](../patterns/4cid-four-component-instructional-design.md)
 
 ## Examples
 - Providing a simplified conceptual model before asking learners to interpret a more complex case.

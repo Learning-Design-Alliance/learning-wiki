@@ -38,7 +38,7 @@ Discussion of authentic cases forces learners to apply concepts under the ambigu
 - **Harvard Business School method**: cold-calling in a plenary session, with the case as the sole preparation for class
 - **Small-group jigsaw**: subgroups analyze different facets or different cases, then teach one another
 - **Written pre-analysis**: learners submit a position memo before discussion, raising accountability
-- **Flipped variant**: content delivery moves online; class time is devoted entirely to case discussion ([Flipped Classroom](../patterns/flipped-classroom.md))
+- **Flipped variant**: content delivery moves online; class time is devoted entirely to case discussion ([Flipped Classroom](../principles/flipped-learning.md))
 
 ### Target Learners
 - Advanced novices and intermediate learners who have foundational concepts but lack application experience [Case-based learning improves exam performance over lecture in health professions education.](../claims/case-based-learning-improves-exam-performance.md) [+M]
@@ -67,7 +67,7 @@ Discussion of authentic cases forces learners to apply concepts under the ambigu
 - [Socratic Questioning](../elements/socratic-questioning.md) — the facilitation technique underlying effective probing
 
 ## Examples
-- **Harvard Business School case method** — MBA students analyze a business case daily in plenary discussion led by cold-calling; the model for the [case-based learning pattern](../patterns/case-based-learning-harvard-method.md). [https://www.hbs.edu/mba/academic-experience/Pages/the-hbs-case-method.aspx](https://www.hbs.edu/mba/academic-experience/Pages/the-hbs-case-method.aspx)
+- **Harvard Business School case method** — MBA students analyze a business case daily in plenary discussion led by cold-calling; the model for the [case-based learning pattern](../patterns/case-based-learning.md). [https://www.hbs.edu/mba/academic-experience/Pages/the-hbs-case-method.aspx](https://www.hbs.edu/mba/academic-experience/Pages/the-hbs-case-method.aspx)
 - **Harvard Business School Publishing case collections** — curated cases with teaching notes used across business education. [https://hbsp.harvard.edu](https://hbsp.harvard.edu)
 - **Problem-based learning in medical education** — tutorial groups discuss patient cases (e.g., the Maastricht and McMaster PBL curricula), with the case triggering self-directed learning followed by re-discussion.
 - **National Center for Case Study Teaching in Science (University at Buffalo)** — peer-reviewed teaching cases with facilitation notes for STEM discussion. [https://nccsts.lib.buffalo.edu](https://nccsts.lib.buffalo.edu)

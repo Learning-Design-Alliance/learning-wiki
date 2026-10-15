@@ -69,7 +69,7 @@ Learning centers operationalize small-group, active participation at scale: inst
 ## Examples
 - **Daily 5 / CAFE (Boushey & Moser)** — a widely adopted literacy rotation structure (Read to Self, Work on Writing, Word Work, etc.) built entirely on taught center routines with built-in accountability.
 - **Khan Academy station rotation** — classrooms use adaptive math practice as a digital center while the teacher runs small-group instruction at another station; a common [blended learning](../patterns/blended-learning.md) configuration.
-- **Kindergarten math centers (CGI-aligned)** — hands-on manipulative tasks at parallel stations while the teacher confers with small groups on problem-solving strategies, consistent with [Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md).
+- **Kindergarten math centers (CGI-aligned)** — hands-on manipulative tasks at parallel stations while the teacher confers with small groups on problem-solving strategies, consistent with [Cognitively Guided Instruction](../principles/responsive-teaching.md).
 
 ## Key Sources
 - Tomlinson, C. A. (2014). *The Differentiated Classroom: Responding to the Needs of All Learners* (2nd ed.). ASCD.

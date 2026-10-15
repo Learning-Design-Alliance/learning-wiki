@@ -46,7 +46,7 @@ Negotiation is the element in which learners work through competing interests, p
 
 ## Patterns That Use This Element
 - [Structured Academic Controversy](../patterns/structured-academic-controversy.md)
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md)
+- [Discussion-Based Learning](../principles/collaborative-learning.md)
 
 ## Examples
 - Learners negotiate a joint recommendation after representing different stakeholder interests.

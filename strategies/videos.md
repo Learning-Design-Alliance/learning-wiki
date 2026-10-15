@@ -37,7 +37,7 @@ Video's learning value comes from how well its design manages [Cognitive Load Ma
 #### Implementation Variability
 - Interactive video platforms (e.g., EDpuzzle) embed questions and voice-overs, converting viewing into [Active Learning](../principles/active-learning.md)
 - Subtitled video doubles as literacy support for English language learners and emerging readers [~S]
-- Teacher-recorded videos enable the [Flipped Classroom](../patterns/flipped-classroom.md) pattern, moving direct instruction outside class time
+- Teacher-recorded videos enable the [Flipped Classroom](../principles/flipped-learning.md) pattern, moving direct instruction outside class time
 - Short segments with stop-start-rewind control let teachers isolate key moments and prompt prediction or debate
 
 ### Target Learners
@@ -62,7 +62,7 @@ Video's learning value comes from how well its design manages [Cognitive Load Ma
 
 ## Related Strategies
 
-- [Flipped Classroom](../patterns/flipped-classroom.md) — video as the pre-class direct-instruction component
+- [Flipped Classroom](../principles/flipped-learning.md) — video as the pre-class direct-instruction component
 - [Demonstration](../elements/demonstration.md) — the most common instructional use of video: modeling a skill or process
 - [Chunking](../principles/chunking.md) — segmented video respects working memory limits [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]
 - [Use pre-task subtitled videos of similar (not identical) tasks to build familiarity while preserving cognitive complexity](pre-task-similar-task-subtitled-videos-strategy.md)

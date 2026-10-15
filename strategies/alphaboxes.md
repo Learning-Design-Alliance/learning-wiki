@@ -66,7 +66,7 @@ Alphaboxes works because it combines generative processing with social elaborati
 - [Collaboration](../elements/collaboration.md) — the strategy's core mechanism for distributing cognitive load across group members
 
 ## Patterns That Use This Strategy
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — Alphaboxes provides a concrete artifact that anchors and equalizes participation in discussion
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — Alphaboxes provides a concrete artifact that anchors and equalizes participation in discussion
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — the teacher-modeling phase makes comprehension strategies visible before group work
 
 ## Examples

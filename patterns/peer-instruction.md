@@ -106,7 +106,7 @@ Record: **question and intended distinction → individual answer, confidence an
 
 ## Elements and limits
 
-[ConcepTest](../elements/conceptest.md), [conceptual questioning](../elements/conceptual-questioning.md), [misconception probes](../elements/misconception-probes.md), [peer discussion](../elements/peer-discussion.md), [reassessment](../elements/reassessment.md), [feedback](../elements/feedback.md) and [debrief](../elements/debrief.md). Principles the cycle draws on: [Peer Discussion](../principles/peer-discussion.md), [Formative Assessment](../principles/formative-assessment.md), [Immediate Feedback](../principles/immediate-feedback.md) and [Purposeful Reflection](../principles/purposeful-reflection.md).
+[ConcepTest](../elements/conceptest.md), [conceptual questioning](../elements/conceptual-questioning.md), [misconception probes](../elements/misconception-probes.md), [peer discussion](../elements/peer-discussion.md), [reassessment](../elements/reassessment.md), [feedback](../elements/feedback.md) and [debrief](../elements/debrief.md). Principles the cycle draws on: [Peer Discussion](../principles/peer-discussion.md), [Formative Assessment](../principles/formative-assessment.md), [Immediate Feedback](../principles/immediate-feedback.md) and [Purposeful Reflection](../principles/reflection.md).
 
 This pattern is scoped to conceptual questions with a defensible answer. Open-ended discussion, procedural fluency, first exposure to unfamiliar material and attitude change need different configurations and evidence. The policy supports observation and design reasoning; its branches, any discussion threshold and its effect on delayed or transfer outcomes remain to be tested with learners.
 
@@ -117,7 +117,7 @@ This pattern is scoped to conceptual questions with a defensible answer. Open-en
 
 ## Related Patterns
 - [Think-Pair-Share](think-pair-share.md)
-- [Discussion Group](discussion-based-learning.md)
+- [Discussion Group](../principles/collaborative-learning.md)
 
 ## Examples
 - Physics learners debating force or motion concept questions before repolling.
@@ -204,7 +204,7 @@ In practice, students typically answer individually via clickers or a handheld r
 - [Peer Discussion](../principles/peer-discussion.md)
 - [Formative Assessment](../principles/formative-assessment.md)
 - [Immediate Feedback](../principles/immediate-feedback.md)
-- [Purposeful Reflection](../principles/purposeful-reflection.md)
+- [Purposeful Reflection](../principles/reflection.md)
 
 ### Personalization
 - Questions can be delivered through clickers, cards, hand signals, or digital polls.

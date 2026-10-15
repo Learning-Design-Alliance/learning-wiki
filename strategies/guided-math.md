@@ -37,7 +37,7 @@ Guided Math operationalizes [formative assessment](../patterns/formative-assessm
 
 #### Implementation Variability
 - **Guided Math with rotation (Sammons, 2010):** full station-rotation model with a schedule board, analogous to [Daily 5](../strategies/daily-5.md) structures in literacy
-- **CGI-informed guided groups:** group work built around students' invented strategies and problem types, as in [Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md)
+- **CGI-informed guided groups:** group work built around students' invented strategies and problem types, as in [Cognitively Guided Instruction](../principles/responsive-teaching.md)
 - **Push-in co-teaching model:** two teachers split the class so guided groups run simultaneously with shorter rotations
 - **Digital stations:** adaptive platforms (e.g., [Zearn](https://www.zearn.org), [DreamBox](https://www.dreambox.com)) deliver leveled practice at one station while the teacher works with a group
 

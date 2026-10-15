@@ -45,7 +45,7 @@ Fading scaffolding is the element in which supports such as hints, prompts, or m
 
 ## Patterns That Use This Element
 - [Four-Component Instructional Design](../patterns/4cid-four-component-instructional-design.md)
-- [Merrill's First Principles (Application)](../patterns/merrills-first-principles-application.md)
+- [Merrill's First Principles (Application)](../principles/guided-practice.md)
 
 ## Examples
 - Hints become shorter or less explicit over repeated practice attempts.

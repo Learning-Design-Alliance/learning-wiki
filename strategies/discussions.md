@@ -63,7 +63,7 @@ Structured discussion improves comprehension and literacy outcomes when it goes 
 ## Related Strategies
 - [Case-Based Learning](../patterns/case-based-learning.md) — discussions anchored in a rich case rather than a text
 - [Debate](../patterns/debate.md) — a formalized discussion structure with assigned positions
-- [Flipped Classroom](../patterns/flipped-classroom.md) — frees class time for discussion by moving exposition outside class
+- [Flipped Classroom](../principles/flipped-learning.md) — frees class time for discussion by moving exposition outside class
 
 ## Related Elements
 - [Class Discussion](../elements/class-discussion.md) — the core element this strategy orchestrates
@@ -73,7 +73,7 @@ Structured discussion improves comprehension and literacy outcomes when it goes 
 - [Argumentation](../elements/argumentation.md) — evidence-based claims and responses are the quality bar for text discussion
 
 ## Patterns That Use This Strategy
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — the parent pattern for talk-centered instruction
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — the parent pattern for talk-centered instruction
 - [Community of Inquiry](../principles/community-of-inquiry.md) — discussion as the vehicle for cognitive and social presence
 
 ## Examples

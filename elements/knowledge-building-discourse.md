@@ -64,7 +64,7 @@ Structured discourse deepens conceptual understanding because articulating and d
 - [Argumentation](argumentation.md) — the reasoning skill discourse develops and depends on
 
 ## Patterns That Use This Element
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — discourse as the primary instructional medium
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — discourse as the primary instructional medium
 - [Socratic Seminar](../patterns/socratic-seminar.md) — text-anchored questioning structure
 - [Fostering Communities of Learning (FCL)](../patterns/fostering-communities-of-learning-fcl.md) — cross-talk and jigsaw sharing as knowledge-building mechanisms
 

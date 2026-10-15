@@ -62,13 +62,13 @@ Data driven inquiry operationalizes [Assessment for Learning](../principles/asse
 
 - [Action Research](action-research.md) — the individual-teacher, research-oriented cousin of team data inquiry
 - [Formative Assessment](../patterns/formative-assessment.md) — supplies the fine-grained, timely evidence that makes inquiry actionable
-- [Collaborative Inquiry](../patterns/collaborative-inquiry.md) — the broader team-learning pattern this strategy instantiates
+- [Collaborative Inquiry](../principles/inquiry-based-learning.md) — the broader team-learning pattern this strategy instantiates
 - [Data-driven decision-making practices in tutoring programs](reading-corps-data-driven-decision-practices.md)
 
 ## Examples
 - **[Data Wise](https://www.gse.harvard.edu/data-wise)** (Harvard Graduate School of Education) — an eight-step protocol used by schools and districts to organize faculty data inquiry, emphasizing "creating a climate for data use" before analysis begins.
 - **PLC common assessment cycles** (Solution Tree / AllThingsPLC, https://www.allthingsplc.info) — grade-level teams administer common formative assessments, analyze item-level results by student group, and plan tiered reteaching.
-- **[Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md)** — teachers analyze student strategy data on math problems to infer children's informal reasoning and adapt instruction accordingly.
+- **[Cognitively Guided Instruction](../principles/responsive-teaching.md)** — teachers analyze student strategy data on math problems to infer children's informal reasoning and adapt instruction accordingly.
 
 ## Key Sources
 - Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74. [doi:10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)

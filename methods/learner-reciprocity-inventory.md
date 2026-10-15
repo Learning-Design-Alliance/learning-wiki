@@ -42,7 +42,7 @@ A companion inventory, also emerging from thematic data analysis, classifies lea
 
 ## Related Patterns
 
-- [Mediation typology of implicit-to-explicit moves in SCMC DA](../patterns/scmc-da-mediation-typology.md)
+- [Mediation typology of implicit-to-explicit moves in SCMC DA](../principles/teacher-as-mediator-not-content-disseminator.md)
 
 ## Examples
 -

@@ -72,7 +72,7 @@ Modeling works because learners acquire social-cognitive skills by observing a c
 - [Cognitive Conflict](../elements/cognitive-conflict.md) — productive tension between perspectives
 
 ## Patterns That Use This Strategy
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — perspective negotiation is the core activity
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — perspective negotiation is the core activity
 - [Case-Based Learning](../patterns/case-based-learning.md) — empathy modeling supports stakeholder analysis in cases
 
 ## Examples

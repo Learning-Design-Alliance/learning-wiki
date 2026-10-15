@@ -58,9 +58,8 @@ Conceptual questions work because generating an answer requires learners to elab
 
 ### Affordances
 - [Inquiry-Based Learning](../principles/inquiry-based-learning.md) — conceptual questions are the driving mechanism of inquiry: they define the gap learners investigate and give the investigation direction
-- [Constructivism](../principles/constructivism.md) — by requiring learners to articulate their own conceptions, questioning forces knowledge to be actively built rather than transmitted
+- [Constructivism](../principles/cognitive-activation.md) — by requiring learners to articulate their own conceptions, questioning forces knowledge to be actively built rather than transmitted
 - [Active Learning](../principles/active-learning.md) — every learner must generate an answer, not merely receive one; the question converts passive listening into retrieval and elaboration
-- [Cognitive Activation](../principles/cognitive-activation.md) — well-placed questions create the productive struggle and cognitive conflict that predict deep learning outcomes
 - (none yet linked)
 
 ### Claims
@@ -76,8 +75,8 @@ Conceptual questions work because generating an answer requires learners to elab
 - [Inquiry-Based Learning](inquiry-based-learning.md) — the broader pattern in which conceptual questions drive investigation
 
 ## Patterns That Use This Element
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — conceptual questions supply the discussion prompts that keep talk focused on ideas rather than opinions
-- [Flipped Classroom](../patterns/flipped-classroom.md) — class time is structured around conceptual questions on material encountered beforehand
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — conceptual questions supply the discussion prompts that keep talk focused on ideas rather than opinions
+- [Flipped Classroom](../principles/flipped-learning.md) — class time is structured around conceptual questions on material encountered beforehand
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — instructors use questioning to articulate and challenge learners' reasoning during coaching
 
 ## Examples

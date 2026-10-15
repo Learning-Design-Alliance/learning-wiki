@@ -96,7 +96,7 @@ The pattern is useful when instructors want inquiry without abandoning structure
 - [Inquiry-based Learning](../principles/inquiry-based-learning.md)
 - [Peer Discussion](../principles/peer-discussion.md)
 - [Guided Practice](../principles/guided-practice.md)
-- [Purposeful Reflection](../principles/purposeful-reflection.md)
+- [Purposeful Reflection](../principles/reflection.md)
 
 ### Personalization
 - Teams can have differentiated roles that support participation and accountability.
@@ -104,8 +104,7 @@ The pattern is useful when instructors want inquiry without abandoning structure
 - Application tasks can be tuned for different pacing or complexity levels.
 
 ## Related Patterns
-- [Guided Discovery Learning](guided-discovery-learning.md)
-- [Collaborative Inquiry](collaborative-inquiry.md)
+- [Guided Discovery Learning](../principles/inquiry-based-learning.md)
 
 ## Examples
 - Chemistry learners using data and representations to infer a concept before solving related problems.

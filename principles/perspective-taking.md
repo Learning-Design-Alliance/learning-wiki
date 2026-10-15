@@ -51,7 +51,7 @@ Perspective-taking helps learners move beyond their default frame by requiring t
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — novices often need structured roles or prompts before perspective-taking becomes analytically useful
 
 ## Related Principles
-- [Perspective-Seeking/Multiple Perspectives](perspective-seekingmultiple-perspectives.md)
+- [Perspective-Seeking/Multiple Perspectives](cognitive-flexibility.md)
 - [Social Learning](../theories/sociocultural-theory.md)
 - [Building Empathy](building-empathy.md)
 

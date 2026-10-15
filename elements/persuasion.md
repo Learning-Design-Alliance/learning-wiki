@@ -49,7 +49,7 @@ Persuasion tasks integrate knowledge by requiring learners to select, organize, 
 ### Affordances
 - [Active Learning](../principles/active-learning.md) — persuasion tasks require learners to generate and defend positions rather than receive them, producing the generative processing active learning depends on
 - [Collaborative Learning](../principles/collaborative-learning.md) — structured persuasion formats assign roles and require responsive exchange, creating positive interdependence around a contested question
-- [Constructivism](../principles/constructivism.md) — defending a position against live counterargument forces learners to reconstruct and test their understanding rather than retrieve it verbatim
+- [Constructivism](../principles/cognitive-activation.md) — defending a position against live counterargument forces learners to reconstruct and test their understanding rather than retrieve it verbatim
 - [Argumentation](argumentation.md) — persuasion is argumentation with an added audience dimension; strong persuasive tasks inherit the claim–evidence–warrant structure of argumentation frameworks
 
 ### Claims

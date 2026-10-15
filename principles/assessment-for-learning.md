@@ -120,7 +120,7 @@ Revise it if comparable learners using criteria-based self-assessment with a rev
 - [Multiple Methods of Assessment](multiple-methods-of-assessment.md)
 - [Competency-Based Learning & Assessment](competency-based-assessment.md)
 - [Wise Feedback Across Racial and Ethnic Difference](wise-feedback-across-difference.md) — an added requirement for feedback quality specifically when teacher and student differ in racial or ethnic background
-- [High-Stakes Testing and Accountability Effects](high-stakes-testing-accountability-effects.md) — the accountability pressure that can distort assessment for learning's low-stakes design
+- [High-Stakes Testing and Accountability Effects](summative-assessment.md) — the accountability pressure that can distort assessment for learning's low-stakes design
 
 ## Examples
 

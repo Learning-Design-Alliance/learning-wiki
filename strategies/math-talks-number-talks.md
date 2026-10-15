@@ -79,7 +79,7 @@ Math Talks operationalize [Active Learning](../principles/active-learning.md) an
 - [Peer Discussion](../elements/peer-discussion.md) — strategy comparison is where contrasting-case benefits are realized
 
 ## Patterns That Use This Strategy
-- [Cognitively Guided Instruction (CGI) for Math](../patterns/cognitively-guided-instruction-cgi-for-math.md) — shares the commitment to building instruction around students' own solution strategies
+- [Cognitively Guided Instruction (CGI) for Math](../principles/responsive-teaching.md) — shares the commitment to building instruction around students' own solution strategies
 - [Develop Understanding](../patterns/develop-understanding.md) — Math Talks serve as the sense-making routine within this pattern
 
 ## Examples

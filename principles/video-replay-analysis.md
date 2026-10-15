@@ -146,12 +146,11 @@ The expectation should weaken if studies comparing review of one's own recording
 Noticing in a recording, explaining it, the next performance and lasting change in practice are separate claims. The present evidence establishes no number of review cycles, no clip length and no criterion for handing the choice of clip to the learner.
 
 ## Related Principles
-- [Purposeful Reflection](purposeful-reflection.md) — replay provides concrete evidence for reflection instead of relying on memory alone.
+- [Purposeful Reflection](reflection.md) — replay provides concrete evidence for reflection instead of relying on memory alone.
 - [Immediate Feedback](immediate-feedback.md) — replay can make feedback more specific and discussable.
 - [Self-monitoring](self-monitoring.md) — video helps learners compare what they intended with what they actually did.
 - [Multimodal Instruction](multimodal-instruction.md) — replay adds a visual and auditory record that learners can revisit.
 - [Observation and Shadowing](observationshadowing.md) — owns watching someone else's practice, live or recorded; the early sessions here on others' clips follow it.
-- [Reflection](reflection.md) — owns examining one's own performance against a criterion and committing to a change; replay supplies the record.
 - [Debriefing](debriefing.md) — owns the facilitated conversation after an experience; the conversation after a replay is one.
 
 ## Examples
@@ -221,7 +220,7 @@ Video replay analysis is powerful because it gives learners a stable record of p
 - [Talk-time analysis showed the mentor spoke more than the mentee in video-recorded dialogues, with classroom management talk ranging from 3% to 39% of total talk time](../claims/mentor-mentee-talk-time-classroom-management-dialogues.md) [~W]
 
 ## Related Principles
-- [Purposeful Reflection](purposeful-reflection.md) — replay provides concrete evidence for reflection instead of relying on memory alone.
+- [Purposeful Reflection](reflection.md) — replay provides concrete evidence for reflection instead of relying on memory alone.
 - [Immediate Feedback](immediate-feedback.md) — replay can make feedback more specific and discussable.
 - [Self-monitoring](self-monitoring.md) — video helps learners compare what they intended with what they actually did.
 - [Multimodal Instruction](multimodal-instruction.md) — replay adds a visual and auditory record that learners can revisit.

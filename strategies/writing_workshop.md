@@ -51,7 +51,7 @@ The workshop format concentrates writing practice into large uninterrupted block
 - **Publishing cycle:** drafts move through revision and editing toward an authentic audience; publishing for real readers raises the quality of student work [Authentic audiences improve student work.](../claims/authentic-audiences-improve-student-work.md) [+M]
 - **Digital variants:** shared documents and comment threads substitute for in-person peer response in online or hybrid settings
 - **Station rotation**: small groups move through stations on distinct concerns (e.g., leads, evidence integration, sentence combining, editing)
-- **Flipped variant**: mini-lessons delivered as video before class, maximizing in-class writing and conferring time — consistent with [Flipped Classroom](../patterns/flipped-classroom.md) logic
+- **Flipped variant**: mini-lessons delivered as video before class, maximizing in-class writing and conferring time — consistent with [Flipped Classroom](../principles/flipped-learning.md) logic
 - **Digital workshops**: platforms such as [Peergrade](https://www.peergrade.io) and Google Docs comment threads structure peer feedback with rubric-anchored prompts
 
 ### Target Learners
@@ -136,7 +136,7 @@ Writing workshops operationalize process writing instruction, which meta-analyti
 #### Implementation Variability
 - **Station rotation**: small groups move through stations on distinct concerns (e.g., leads, evidence integration, sentence combining, editing)
 - **Conferencing model**: teacher circulates for brief [5-minute writing conferences](5-minute_writing_conferences.md) while the class writes
-- **Flipped variant**: mini-lessons delivered as video before class, maximizing in-class writing and conferring time — consistent with [Flipped Classroom](../patterns/flipped-classroom.md) logic
+- **Flipped variant**: mini-lessons delivered as video before class, maximizing in-class writing and conferring time — consistent with [Flipped Classroom](../principles/flipped-learning.md) logic
 - **Digital workshops**: platforms such as [Peergrade](https://www.peergrade.io) and Google Docs comment threads structure peer feedback with rubric-anchored prompts
 
 ### Target Learners

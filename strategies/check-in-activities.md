@@ -38,7 +38,7 @@ Check ins work primarily through social-emotional and motivational channels rath
 - **Affective check ins** — mood scales, emoji polls, one-word weather metaphors; fastest, best for pacing decisions
 - **Cognitive check ins** — "one thing you're still unsure about from last class"; connects to [Formative Assessment](../patterns/formative-assessment.md)
 - **Relational check ins** — brief personal shares in small groups; strongest belonging effect, highest time cost
-- **Asynchronous check ins** — LMS polls or entry tickets in online and flipped settings; see [Flipped Classroom](../patterns/flipped-classroom.md)
+- **Asynchronous check ins** — LMS polls or entry tickets in online and flipped settings; see [Flipped Classroom](../principles/flipped-learning.md)
 
 ### Target Learners
 - Learners in new or transitional environments (start of term, post-break, new cohorts), where belonging uncertainty is highest [Belonging interventions improve outcomes.](../claims/belonging-interventions-improve-outcomes.md) [+M]

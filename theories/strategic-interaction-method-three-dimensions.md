@@ -49,7 +49,7 @@ The Strategic-Interaction (S-I) Method, designed by Robert J. DiPietro, is a ped
 ## Examples
 
 - [Teacher training packets operationalize communicative competence theory through workshop activities, pre/posttests, and guided discussion rather than expert knowledge alone](../strategies/workshop-packet-operationalize-communicative-competence-theory.md)
-- [Open-ended scenario: collaboratively planned, acted-out, and debriefed role play for language learners](../patterns/open-ended-scenario-three-phase-structure.md)
+- [Open-ended scenario: collaboratively planned, acted-out, and debriefed role play for language learners](../patterns/experiential-learning-cycle.md)
 
 ## Key Sources
 - Calderon, Margarita; DiPietro, Robert J.; Larsen-Pusey, Mary Ann; Rubio, Olga. (1982). Methods and Techniques for Communicative Competence in Bilingual Education, Packet II. Series B. Teacher Edition. Evaluation, Dissemination and Assessment Center, Dallas. https://eric.ed.gov/?id=ED226608

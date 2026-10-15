@@ -71,7 +71,7 @@ Mindful moments work as an attention-reset mechanism: brief breath-focused pract
 
 ## Patterns That Use This Strategy
 - [Gagné's 9 Events of Instruction](../patterns/gagnes-9-events-of-instruction.md) — serves the "gain attention" event at lesson opening
-- [Flipped Classroom](../patterns/flipped-classroom.md) — a mindful moment at the start of in-class time helps learners shift from video-consumption mode to active practice mode
+- [Flipped Classroom](../principles/flipped-learning.md) — a mindful moment at the start of in-class time helps learners shift from video-consumption mode to active practice mode
 
 ## Tools
 - [Calm Schools Initiative](https://www.calm.com/schools) — free guided mindfulness audio for classrooms

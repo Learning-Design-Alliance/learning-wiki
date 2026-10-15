@@ -71,7 +71,7 @@ Bounce cards are a form of "talk moves" scaffolding: they externalize the discou
 
 ## Patterns That Use This Strategy
 - [Collaborative Learning](../patterns/collaborative-learning.md) — bounce cards operationalize the interaction norms cooperative learning requires
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — provides the turn-taking scaffolding that makes equitable discussion feasible
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — provides the turn-taking scaffolding that makes equitable discussion feasible
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — the modeling phase reflects expert discourse before independent student talk
 
 ## Examples

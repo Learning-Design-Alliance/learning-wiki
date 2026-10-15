@@ -1,7 +1,7 @@
 ---
 type: principle
 id: ongoing-study-teams-peer-coaching-in-service
-aliases: [literacy-coaches-job-embedded-support]
+aliases: [literacy-coaches-job-embedded-support, dl2f-teacher-development-sustainability-principle, on-the-job-specialist-training-for-tribal-development-personnel, sustained-follow-up-technology-pd, nic-instructionally-focused-pd-model]
 title: Teacher professional development should include ongoing activities like study teams and peer coaching rather than only occasional large-group sessions
 description: "For in-service teachers whose practice does not change after occasional large-group sessions, adding ongoing school-based structures (study teams, peer coaching, a school-based coach) with protected time, an instructional focus and non-evaluative participation is expected to change observed classroom practice more than the sessions alone; no claim in this wiki tests that comparison, and the nearest evidence (a coaching meta-analysis) favours pairing coaching with group training rather than replacing it."
 canonical: true
@@ -18,12 +18,28 @@ sources:
     resource: "https://www.excelined.org"
     title: "Comprehensive Early Literacy Policy: Fundamental Principles. (2024). ExcelinEd Policy Toolkit. https://www.excelined.org"
     author: "Comprehensive Early Literacy Policy: Fundamental Principles"
+  - id: merueña-2023
+    resource: "https://doi.org/10.36713/epra2016"
+    title: "Merueña, J. A. A. (2023). Dynamic Language Learning Framework (DL2F) Instructional Model. EPRA International Journal of Research and Development (IJRD). https://doi.org/10.36713/epra2016"
+    author: Merueña, J. A. A
+  - id: boise-cascade-center-for-community-development-1972
+    resource: "https://eric.ed.gov/?id=ED134349"
+    title: "Boise Cascade Center for Community Development. (1972). Indian Economic Development: An Evaluation of EDA's Selected Indian Reservation Program. Volume I: Narrative. https://eric.ed.gov/?id=ED134349"
+    author: Boise Cascade Center for Community Development
+  - id: ceo-forum-on-education-and-technology-1999
+    resource: "https://eric.ed.gov/?id=ED428747"
+    title: "CEO Forum on Education and Technology. (1999). School Technology and Readiness Report. Professional Development: A Link to Better Learning. The CEO Forum on Education and Technology, Year Two. https://eric.ed.gov/?id=ED428747"
+    author: CEO Forum on Education and Technology
+  - id: smith-2021
+    resource: "https://www.bettermathteachingnetwork.org/"
+    title: "Smith, T. M., Walters, K., Griffin, M., Jones, W., Lennon, V., & Sanders, Z. (2021). The Better Math Teaching Network: Lessons Learned From a 5-Year Instructionally Focused NIC. American Institutes for Research & WestEd. https://www.bettermathteachingnetwork.org/"
+    author: "Smith, T. M., Walters, K., Griffin, M., Jones, W., Lennon, V., & Sanders, Z"
 ---
 
 # Teacher professional development should include ongoing activities like study teams and peer coaching rather than only occasional large-group sessions
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 31 claims (19 for, 12 mixed) · 19 studies (5 review, 5 associational, 3 qualitative, 3 design, 1 causal, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 2 of 19 report an effect size · 30 claims rest on one study
+> **Evidence** · 45 claims (29 for, 15 mixed, 1 against) · 28 studies (9 design, 6 review, 5 associational, 4 qualitative, 2 causal, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 2 of 28 report an effect size · 43 claims rest on one study
 
 ## Conditional relationship
 
@@ -42,7 +58,7 @@ The earlier page (and the literacy-coach page folded into it this week) gave usa
 3. **Run peer coaching in pairs or trios, one cycle every two to three weeks.** A cycle: a 10–15 minute planning conversation in which the observed teacher names one thing they want watched; a 20–30 minute observation (live or on video) recording only that; a 20–30 minute debrief within two school days that starts from what students did, names one thing to keep and one to try, and is kept between the two teachers. Evidence status: cycle shape and timings are untested proposals. [Peer coaching is asserted, citing no studies, to be a highly effective form of teacher professional development](../claims/peer-coaching-supports-teacher-professional-development.md) [+W] is an assertion only. [Peer reflective groups encouraged student teachers to challenge existing theories](../claims/peer-reflective-groups-challenge-student-teacher-views.md) [+W] (one study of student teachers' writing and interviews, reported in a digest).
 4. **Keep participation voluntary and separate from appraisal.** Say in writing that what is seen in a peer observation or study-team meeting is not used in evaluation; let teachers choose their own focus within the shared practice. Evidence status: [coaching framed as a partnership, with voluntary non-evaluative participation](../claims/coaching-partnership-voluntary-non-evaluative.md) [+M] (correlations from one program's teacher survey); [a district culture of coaching makes teachers more comfortable participating](../claims/coaching-culture-increases-teacher-participation.md) [+W] (the authors' own qualitative finding).
 5. **Where the school has a coach, use the coach to run training, demonstrate, co-teach and observe with immediate feedback, and protect that time.** The folded literacy-coach page gave the coach's role: facilitate teacher training on evidence-based reading instruction and data-based decision making; demonstrate lessons; co-teach or observe and give immediate feedback. Spend most coaching time on instructional delivery rather than on behaviour management alone, and keep the coach's caseload and other duties small enough that weekly contact happens. Evidence status: [coaching time focused on instructional delivery improved practice, while time focused on behavioural management was associated with a decrease](../claims/coaching-focus-instructional-delivery-versus-behavior-management.md) [~M] (one study, reported second-hand); [time spent between teachers and coaches is one of the most important factors](../claims/coach-teacher-time-key-success-factor.md) [+W] (qualitative, from the authors of one three-year study). A literacy-coaching randomised trial with early childhood educators, [reported in a review](../claims/pd-coaching-expert-support-gains.md) [+M], found larger classroom-quality and child language and literacy gains than controls, with 16 hours of workshops and seven coaching sessions over a semester.
-6. **Pair the ongoing work with the instructional materials teachers will use.** The study team and the coach work on lessons from the curriculum the school has adopted, not on generic examples. Evidence status: [pairing coaching with instructional resources and materials is associated with larger gains](../claims/coaching-complementary-elements-moderators.md) [+M] (same exploratory regression; a video library alone was associated with smaller effects). The [high-quality instructional materials principle](hqim-adoption-with-professional-development.md) holds the materials side.
+6. **Pair the ongoing work with the instructional materials teachers will use.** The study team and the coach work on lessons from the curriculum the school has adopted, not on generic examples. Evidence status: [pairing coaching with instructional resources and materials is associated with larger gains](../claims/coaching-complementary-elements-moderators.md) [+M] (same exploratory regression; a video library alone was associated with smaller effects). The [high-quality instructional materials principle](../patterns/professional-development.md) holds the materials side.
 7. **Plan the year as an arc in which the source of support moves from coach or facilitator to the teachers.** Proposed default, untested:
    - *Weeks 1–10:* launch session; the coach or a trained facilitator leads every study-team meeting with a fixed protocol; the coach models or co-teaches once in each teacher's class; peer coaching starts in week 4 with the facilitator present at the first debrief.
    - *Weeks 11–25:* teachers take turns leading the study-team protocol; peer coaching carries most observation; the coach observes each teacher once a month and joins a study-team meeting once a month.
@@ -133,6 +149,20 @@ Claims this page cited before the rewrite, or found for it, that are not part of
 - [Professional development needs roughly 50 hours in a specific area, and long-term content-specific support outperforms one-shot sessions](../claims/fifty-hours-content-specific-pd.md) [+M]: a review attribution to Darling-Hammond and colleagues; the nearest statement in the wiki of ongoing-versus-one-shot, but second-hand, and the 50-hour figure sits against the meta-analytic dosage null.
 - [Supervisory teacher coaching shows mixed effects](../claims/supervisory-coaching-mixed-teacher-student-outcomes.md) [~M]: a review of 16 studies, six reporting improved teacher results; a limit on expecting every coaching structure to work.
 - [The complexity of coaching responsibilities may fragment the coaching process and reduce its impact](../claims/coaching-complexity-may-fragment-impact.md) [~W]: an author's rationale with no data, from the literacy-coaching literature; it bears on keeping a literacy coach's role narrow.
+- [ePortfolio produced more powerful outcomes when faculty and staff received extended intensive professional development than brief training or none](../claims/intensive-professional-development-stronger-epportfolio-outcomes.md) [+W]
+- [Students in ePortfolio-based Personal Development Plan sections had significantly higher first-year GPAs and retention than non-ePDP peers, but gains were not sustained without intensive professional development](../claims/epdp-pilot-gpa-retention-gains-not-sustained.md) [+W]
+- [Monthly coaching sessions helped teachers use and integrate MI Write with their instruction](../claims/monthly-coaching-helped-teachers-integrate-mi-write.md) [~W]
+- [A six-session faculty learning community on AI was implemented in a physics department, engaging nineteen faculty across biweekly meetings](../claims/physics-faculty-learning-community-ai-workshop-series.md) [+W]
+- [Only 20 Percent Teachers Prepared Integrate Technology](../claims/only-20-percent-teachers-prepared-integrate-technology.md) [+M]
+- [Technology Training Spending Inadequate](../claims/technology-training-spending-inadequate.md) [+M]
+- [Tutor engagement in Ubuntu professional learning sessions was high in both districts, with 82 percent of District A tutors and 94 percent of District B tutors attending all three sessions](../claims/air-tutors-tutor-ubuntu-attendance-high.md) [~W]
+- [Coached teachers report greater impact of their technology use on student engagement and learning](../claims/coaching-increases-perceived-itu-impact-engagement-learning.md) [+W]
+- [Pdsa Testing Routines Structure Teacher Reflection](../claims/pdsa-testing-routines-structure-teacher-reflection.md) [+M]
+- [Networking Opportunities Greatest Instructional Influence](../claims/networking-opportunities-greatest-instructional-influence.md) [+M]
+- [Collaboration appeared in 32 of 35 reviewed studies, and collaborative PD models showed student achievement gains](../claims/pd-collaboration-prevalence-and-gains.md) [+W]
+- [Teachers reported providing deep-engagement opportunities at levels similar to or greater than student reports, and about 8 in 10 attributed instruction changes to the network](../claims/teacher-reported-engagement-opportunities-increased.md) [+W]
+- [Content-focused, job-embedded PD linked to student gains: 31 of 35 reviewed studies featured a specific content focus](../claims/pd-content-focus-prevalence.md) [~W]
+- [Teacher-level cross-sector collaboration remained low across grantee sites, in part because many collaborative activities targeted school leaders rather than teachers](../claims/teacher-level-collaboration-remained-low-activities-targeted-leaders.md) [-W]
 
 ## Objective and learner-valued goal
 
@@ -148,12 +178,10 @@ Observed practice, student achievement, teacher satisfaction and maintenance aft
 
 ## Related Principles
 
-- [Teacher-coaches should create an environment of trust and build a reflection context unique to each learning situation](trust-environment-context-for-reflection.md)
-- [Advocate for teachers' voices, purposeful change, and continued professional development](coach-advocates-for-teachers-purposeful-change.md)
-- [Adopt high-quality instructional materials aligned to the science of reading, accompanied by professional development](hqim-adoption-with-professional-development.md)
-- [Use test-based 3rd-grade retention with multiple promotion options and good cause exemptions](test-based-retention-multiple-promotion-options.md)
+- [Teacher-coaches should create an environment of trust and build a reflection context unique to each learning situation](reflection.md)
+- [Advocate for teachers' voices, purposeful change, and continued professional development](../patterns/professional-development.md)
+- [Use test-based 3rd-grade retention with multiple promotion options and good cause exemptions](multiple-methods-of-assessment.md)
 - [Communities of Practice](communities-of-practice.md) — owns the model of sustained participation in a standing professional group; a study team is one instance.
-- [Reflection](reflection.md) — owns structured reflection; a study team examining assumptions is reflection with colleagues.
 - [Mentoring and Coaching](mentoring-and-coaching.md) — the one-to-one relationship a coach or mentor carries.
 
 ## Examples
@@ -165,10 +193,27 @@ Observed practice, student achievement, teacher satisfaction and maintenance aft
 - [Use action research projects in which pre-service and in-service teachers jointly inquire into instructional decision-making](../strategies/action-research-reflective-teacher-education.md)
 - [Concentrate professional development support at the point of intention–behaviour translation through clinically embedded coaching](../strategies/coaching-at-intention-behaviour-translation.md)
 - [Professional Development pattern](../patterns/professional-development.md) — the full coached-enactment cycle for one practice that these ongoing structures carry.
+- [Sustain a faculty community of practice for creative problem-solving pedagogy](../strategies/monthly-faculty-meetings-creative-pedagogy-development.md)
+- [Provide welcoming schools with more ongoing training, time for reflection, and targeted support when integrating displaced students and staff](../strategies/ongoing-training-support-welcoming-school-integration.md)
+- [Implement sustained educator development programs including needs assessment, coaching, communities of practice, and experiential learning](../strategies/educator-ai-development-support-programs.md)
+- [Establish continuing one-to-one specialist relationships so expert skills transfer to the tribe](../strategies/continuing-one-to-one-specialist-skill-transfer.md)
+- [CEO Forum recommendations: prepare and certify teachers for technology integration across pre-service, licensure, and in-service career stages](../strategies/ceoforum-teacher-tech-integration-recommendations.md)
+- [Support gamified learning implementation with teacher training, technical preparedness, and regular tool evaluation](../strategies/gamification-implementation-support-strategy.md)
+- [Multi-format teacher professional development for implementing the Facing History and Ourselves curriculum](../strategies/fhao-teacher-professional-development.md)
+- [Train tutors in academic strategies through supervised practice with ongoing professional development across the year](../strategies/tutor-pre-service-training-supervised-practice.md)
+- [Prepare and test technology before launch, scaffold the learning curve, and leverage tech-savvy students as peer resources](../strategies/prepare-test-technology-before-launch-scaffold.md)
+- [Eight recommendations for supporting teachers' technology integration, including personalized professional learning and formalized coaching](../strategies/pr-eight-recommendations-technology-integration-support.md)
+- [BMTN network resources: shared deep-engagement definitions and rubrics, a curated task library, and the Change Idea Summary Book](../elements/bmtn-shared-rubrics-task-library-resources.md)
+- [Support deep CI implementation through capacity inventories, gradual-release coaching, structured collaboration opportunities, and student voice](../strategies/nsi-implementation-support-strategies.md)
+- [Teaching is My Favorite Color: teacher-designed support network for teachers of color](../products/teaching-is-my-favorite-color.md)
 
 ## Key Sources
 - Ferraro, Joan M. (2000). Reflective Practice and Professional Development. ERIC Digest. https://eric.ed.gov/?id=ED449120
 - Comprehensive Early Literacy Policy: Fundamental Principles. (2024). ExcelinEd Policy Toolkit. https://www.excelined.org
+- Merueña, J. A. A. (2023). Dynamic Language Learning Framework (DL2F) Instructional Model. EPRA International Journal of Research and Development (IJRD). https://doi.org/10.36713/epra2016
+- Boise Cascade Center for Community Development. (1972). Indian Economic Development: An Evaluation of EDA's Selected Indian Reservation Program. Volume I: Narrative. https://eric.ed.gov/?id=ED134349
+- CEO Forum on Education and Technology. (1999). School Technology and Readiness Report. Professional Development: A Link to Better Learning. The CEO Forum on Education and Technology, Year Two. https://eric.ed.gov/?id=ED428747
+- Smith, T. M., Walters, K., Griffin, M., Jones, W., Lennon, V., & Sanders, Z. (2021). The Better Math Teaching Network: Lessons Learned From a 5-Year Instructionally Focused NIC. American Institutes for Research & WestEd. https://www.bettermathteachingnetwork.org/
 
 <!-- deprecated 2026-10-14: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -216,10 +261,10 @@ Drawing on Licklider's 1997 review of adult learning theory, the digest argues t
 
 ## Related Principles
 
-- [Teacher-coaches should create an environment of trust and build a reflection context unique to each learning situation](trust-environment-context-for-reflection.md)
-- [Advocate for teachers' voices, purposeful change, and continued professional development](coach-advocates-for-teachers-purposeful-change.md)
-- [Adopt high-quality instructional materials aligned to the science of reading, accompanied by professional development](hqim-adoption-with-professional-development.md)
-- [Use test-based 3rd-grade retention with multiple promotion options and good cause exemptions](test-based-retention-multiple-promotion-options.md)
+- [Teacher-coaches should create an environment of trust and build a reflection context unique to each learning situation](reflection.md)
+- [Advocate for teachers' voices, purposeful change, and continued professional development](../patterns/professional-development.md)
+- [Adopt high-quality instructional materials aligned to the science of reading, accompanied by professional development](../patterns/professional-development.md)
+- [Use test-based 3rd-grade retention with multiple promotion options and good cause exemptions](multiple-methods-of-assessment.md)
 
 ## Examples
 
@@ -266,12 +311,194 @@ The toolkit positions literacy coaches as "an important support mechanism for te
 
 ## Related Principles
 
-- [Adopt high-quality instructional materials aligned to the science of reading, accompanied by professional development](hqim-adoption-with-professional-development.md)
-- [Use test-based 3rd-grade retention with multiple promotion options and good cause exemptions](test-based-retention-multiple-promotion-options.md)
+- [Adopt high-quality instructional materials aligned to the science of reading, accompanied by professional development](../patterns/professional-development.md)
+- [Use test-based 3rd-grade retention with multiple promotion options and good cause exemptions](multiple-methods-of-assessment.md)
 
 ## Examples
 -
 
 ## Key Sources
 - Comprehensive Early Literacy Policy: Fundamental Principles. (2024). ExcelinEd Policy Toolkit. https://www.excelined.org
+-->
+
+<!-- merged 2026-10-15 from principles/dl2f-teacher-development-sustainability-principle ("Sustain framework implementation through ongoing teacher professional development and collaborative educator practices"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Sustain framework implementation through ongoing teacher professional development and collaborative educator practices
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 4 claims (3 for, 1 mixed) · 5 studies (5 design), `q1`–`q2` · 0 of 5 report an effect size · 3 claims rest on one study
+
+## Description
+The article identifies teacher development as a condition for sustained implementation of DL2F. It states that 'ongoing professional development for teachers and collaborative practices among educators contribute to the framework's successful implementation in the Philippine secondary school context', and repeats in the conclusion that these practices contribute significantly to the framework's sustained success.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Ongoing professional development for teachers
+- collaborative practices among educators
+#### Constraints
+- Stated for the Philippine secondary school implementation context
+
+### Target Learners
+- secondary school teachers implementing the framework
+
+### Target Learning Objectives
+- effective implementation of a communicative, task-based language framework
+
+### Claims
+
+- [Dl2F Dynamic Language Learning Framework](../theories/dl2f-dynamic-language-learning-framework.md) [+M]
+- [ePortfolio produced more powerful outcomes when faculty and staff received extended intensive professional development than brief training or none](../claims/intensive-professional-development-stronger-epportfolio-outcomes.md) [+W]
+- [Students in ePortfolio-based Personal Development Plan sections had significantly higher first-year GPAs and retention than non-ePDP peers, but gains were not sustained without intensive professional development](../claims/epdp-pilot-gpa-retention-gains-not-sustained.md) [+W]
+- [Monthly coaching sessions helped teachers use and integrate MI Write with their instruction](../claims/monthly-coaching-helped-teachers-integrate-mi-write.md) [~W]
+- [A six-session faculty learning community on AI was implemented in a physics department, engaging nineteen faculty across biweekly meetings](../claims/physics-faculty-learning-community-ai-workshop-series.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Sustain a faculty community of practice for creative problem-solving pedagogy](../strategies/monthly-faculty-meetings-creative-pedagogy-development.md)
+- [Sustained, needs-based PBIS professional development with in-classroom coaching to build teacher capacity](../strategies/sustained-pbis-professional-development-coaching.md)
+- [Provide welcoming schools with more ongoing training, time for reflection, and targeted support when integrating displaced students and staff](../strategies/ongoing-training-support-welcoming-school-integration.md)
+- [Implement sustained educator development programs including needs assessment, coaching, communities of practice, and experiential learning](../strategies/educator-ai-development-support-programs.md)
+
+## Key Sources
+- Merueña, J. A. A. (2023). Dynamic Language Learning Framework (DL2F) Instructional Model. EPRA International Journal of Research and Development (IJRD). https://doi.org/10.36713/epra2016
+-->
+
+<!-- merged 2026-10-15 from principles/on-the-job-specialist-training-for-tribal-development-personnel ("Outside specialists should train tribal personnel on the job by working alongside them on real projects rather than delivering one-time reports"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Outside specialists should train tribal personnel on the job by working alongside them on real projects rather than delivering one-time reports
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
+
+## Description
+The evaluation recommends replacing the traditional model in which an outside specialist studies a problem, writes a report, and leaves. Instead, it states, "EDA should provide a program of training and technical assist- ance under which outside specialists work along with tribal development personnel on projects and, in effect, train them on the job." The report treats this work-based pairing as the way technical assistance can build lasting local capability.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Qualified specialists must be employed under technical assistance contracts and work with tribal development personnel on viable projects
+#### Constraints
+- The report found the traditional report-based technical assistance model had produced little impact on the 16 reservations studied
+
+### Target Learners
+- tribal development personnel
+- reservation planners
+
+### Target Learning Objectives
+- economic development project skills
+- on-the-job transfer of specialist expertise
+
+### Claims
+- 
+
+## Related Principles
+- 
+
+## Examples
+
+- [Establish continuing one-to-one specialist relationships so expert skills transfer to the tribe](../strategies/continuing-one-to-one-specialist-skill-transfer.md)
+
+## Key Sources
+- Boise Cascade Center for Community Development. (1972). Indian Economic Development: An Evaluation of EDA's Selected Indian Reservation Program. Volume I: Narrative. https://eric.ed.gov/?id=ED134349
+-->
+
+<!-- merged 2026-10-15 from principles/sustained-follow-up-technology-pd ("Make technology professional development ongoing, sustained, and followed up rather than one-shot workshops"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Make technology professional development ongoing, sustained, and followed up rather than one-shot workshops
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 5 claims (4 for, 1 mixed) · 4 studies (2 review, 1 causal, 1 associational), `q2` · 0 of 4 report an effect size · 5 claims rest on one study
+
+## Description
+The report argues that the traditional pattern of one-shot workshops, without follow-up study, classroom observation, links to student activity, or measurement of results, is ineffective for technology integration. It states "One-time sessions are not particularly effective" and that professional development must become "a new mode of continuous improvement linked to the program goals of the institution and the performance of teachers and students in the classroom." Schools should guarantee adequate follow-up so emerging questions are addressed, differentiate activities by audience and specialty, and focus on teaching with technology rather than mechanics.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Adequate follow-up mechanisms so educators' emerging questions are addressed; time for professional development within the work week rather than relying on teachers' personal time
+#### Constraints
+- The report notes each school and district has distinct needs, budget constraints, and resources, so plans will differ and evolve over time
+
+### Target Learners
+- K-12 teachers and administrators
+
+### Target Learning Objectives
+- Integrating technology into instruction to improve student learning
+
+### Claims
+
+- [Only 20 Percent Teachers Prepared Integrate Technology](../claims/only-20-percent-teachers-prepared-integrate-technology.md) [+M]
+- [Technology Training Spending Inadequate](../claims/technology-training-spending-inadequate.md) [+M]
+- [Professional development needs roughly 50 hours in a specific area, and long-term content-specific support outperforms one-shot sessions](../claims/fifty-hours-content-specific-pd.md) [+W]
+- [Tutor engagement in Ubuntu professional learning sessions was high in both districts, with 82 percent of District A tutors and 94 percent of District B tutors attending all three sessions](../claims/air-tutors-tutor-ubuntu-attendance-high.md) [~W]
+- [Coached teachers report greater impact of their technology use on student engagement and learning](../claims/coaching-increases-perceived-itu-impact-engagement-learning.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+
+- [CEO Forum recommendations: prepare and certify teachers for technology integration across pre-service, licensure, and in-service career stages](../strategies/ceoforum-teacher-tech-integration-recommendations.md)
+- [Support gamified learning implementation with teacher training, technical preparedness, and regular tool evaluation](../strategies/gamification-implementation-support-strategy.md)
+- [Multi-format teacher professional development for implementing the Facing History and Ourselves curriculum](../strategies/fhao-teacher-professional-development.md)
+- [Train tutors in academic strategies through supervised practice with ongoing professional development across the year](../strategies/tutor-pre-service-training-supervised-practice.md)
+- [Prepare and test technology before launch, scaffold the learning curve, and leverage tech-savvy students as peer resources](../strategies/prepare-test-technology-before-launch-scaffold.md)
+- [Eight recommendations for supporting teachers' technology integration, including personalized professional learning and formalized coaching](../strategies/pr-eight-recommendations-technology-integration-support.md)
+
+## Key Sources
+- CEO Forum on Education and Technology. (1999). School Technology and Readiness Report. Professional Development: A Link to Better Learning. The CEO Forum on Education and Technology, Year Two. https://eric.ed.gov/?id=ED428747
+-->
+
+<!-- merged 2026-10-15 from principles/nic-instructionally-focused-pd-model ("Use instructionally focused networked improvement communities as professional development: connect work to teachers' classrooms, enable teacher collaboration, and build accountability through PDSA testing"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Use instructionally focused networked improvement communities as professional development: connect work to teachers' classrooms, enable teacher collaboration, and build accountability through PDSA testing
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 3 studies (1 review, 1 qualitative, 1 design), `q2` · 0 of 3 report an effect size · 6 claims rest on one study
+
+## Description
+The report recommends that administrators, instructional leaders, and teachers designing professional development "might consider a NIC or incorporating features of NICs." Interview analysis indicated NICs may be useful PD because "the work was directly connected to their classrooms, included opportunities to share and brainstorm new ideas with other teachers, and created a sense of accountability for addressing challenges and making incremental improvements." The BMTN embodied long-identified effective PD features: content focused, job embedded, and collaborative. Teachers also valued choosing their own improvement projects, an opportunity rarely available in other professional learning structures.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Sustained time commitment: roughly 100 hours of network activities per year for teachers, plus high multi-year retention to support cumulative improvement
+#### Constraints
+- The BMTN had shared learning goals and a culture of improving teaching but teachers used different curricula and assessments, so it lacked two of the four system features Hiebert and Stigler (2017) argue are needed to improve teaching at scale
+
+### Target Learners
+- high school math teachers
+- school and district instructional leaders
+
+### Target Learning Objectives
+- improving instructional routines that deepen student engagement with math content
+
+### Claims
+
+- [Pdsa Testing Routines Structure Teacher Reflection](../claims/pdsa-testing-routines-structure-teacher-reflection.md) [+M]
+- [Networking Opportunities Greatest Instructional Influence](../claims/networking-opportunities-greatest-instructional-influence.md) [+M]
+- [Collaboration appeared in 32 of 35 reviewed studies, and collaborative PD models showed student achievement gains](../claims/pd-collaboration-prevalence-and-gains.md) [+W]
+- [Teachers reported providing deep-engagement opportunities at levels similar to or greater than student reports, and about 8 in 10 attributed instruction changes to the network](../claims/teacher-reported-engagement-opportunities-increased.md) [+W]
+- [Content-focused, job-embedded PD linked to student gains: 31 of 35 reviewed studies featured a specific content focus](../claims/pd-content-focus-prevalence.md) [~W]
+- [Teacher-level cross-sector collaboration remained low across grantee sites, in part because many collaborative activities targeted school leaders rather than teachers](../claims/teacher-level-collaboration-remained-low-activities-targeted-leaders.md) [-W]
+
+## Related Principles
+- 
+
+## Examples
+
+- [BMTN network resources: shared deep-engagement definitions and rubrics, a curated task library, and the Change Idea Summary Book](../elements/bmtn-shared-rubrics-task-library-resources.md)
+- [Support deep CI implementation through capacity inventories, gradual-release coaching, structured collaboration opportunities, and student voice](../strategies/nsi-implementation-support-strategies.md)
+- [Teaching is My Favorite Color: teacher-designed support network for teachers of color](../products/teaching-is-my-favorite-color.md)
+
+## Key Sources
+- Smith, T. M., Walters, K., Griffin, M., Jones, W., Lennon, V., & Sanders, Z. (2021). The Better Math Teaching Network: Lessons Learned From a 5-Year Instructionally Focused NIC. American Institutes for Research & WestEd. https://www.bettermathteachingnetwork.org/
 -->

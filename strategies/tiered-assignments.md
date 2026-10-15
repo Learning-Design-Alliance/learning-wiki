@@ -96,7 +96,7 @@ Tiering operationalizes instruction within each learner's zone of proximal devel
 - **Literature circles with tiered texts**: same theme and essential question, texts at different reading levels, with common discussion prompts so the whole class synthesizes together.
 - **[Newsela](https://newsela.com)** — the same news article published at multiple Lexile levels, enabling text-level tiering with shared content and shared questions.
 - **[Zearn](https://www.zearn.org)** — digital math lessons with built-in scaffolding tiers (guided digital manipulatives → independent problem sets) aligned to a common lesson goal.
-- **Tiered math problem sets**: all students solve problems about proportional reasoning; one tier uses whole numbers and visual models, another uses fractions, a third adds multi-step open contexts. Widely used in [Cognitively Guided Instruction (CGI for Math)](../patterns/cognitively-guided-instruction-cgi-for-math.md) classrooms, where problem number choices are tiered by number size and structure.
+- **Tiered math problem sets**: all students solve problems about proportional reasoning; one tier uses whole numbers and visual models, another uses fractions, a third adds multi-step open contexts. Widely used in [Cognitively Guided Instruction (CGI for Math)](../principles/responsive-teaching.md) classrooms, where problem number choices are tiered by number size and structure.
 - **Tiered literature circles**: same novel, tiered role sheets — lower tiers provide sentence frames and page references, upper tiers require synthesizing across chapters.
 - **[Khan Academy](https://www.khanacademy.org)** — mastery-based pathways effectively tier practice items by difficulty, unlocking harder item tiers as learners demonstrate readiness.
 - **[Zearn](https://www.zearn.org)** — digital lessons paired with tiered "Bonuses" and scaffolded "Boosts" around the same grade-level objective.
@@ -171,7 +171,7 @@ Tiering keeps every learner inside their zone of proximal development: the task 
 - [Differentiate one shared article to each student's reading level rather than assigning varied texts](differentiate-single-article-to-reading-level.md)
 
 ## Examples
-- **Tiered math problem sets**: all students solve problems about proportional reasoning; one tier uses whole numbers and visual models, another uses fractions, a third adds multi-step open contexts. Widely used in [Cognitively Guided Instruction (CGI for Math)](../patterns/cognitively-guided-instruction-cgi-for-math.md) classrooms, where problem number choices are tiered by number size and structure.
+- **Tiered math problem sets**: all students solve problems about proportional reasoning; one tier uses whole numbers and visual models, another uses fractions, a third adds multi-step open contexts. Widely used in [Cognitively Guided Instruction (CGI for Math)](../principles/responsive-teaching.md) classrooms, where problem number choices are tiered by number size and structure.
 - **Tiered literature circles**: same novel, tiered role sheets — lower tiers provide sentence frames and page references, upper tiers require synthesizing across chapters.
 - **[Khan Academy](https://www.khanacademy.org)** — mastery-based pathways effectively tier practice items by difficulty, unlocking harder item tiers as learners demonstrate readiness.
 - **[Zearn](https://www.zearn.org)** — digital lessons paired with tiered "Bonuses" and scaffolded "Boosts" around the same grade-level objective.

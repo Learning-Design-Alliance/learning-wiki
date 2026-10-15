@@ -79,7 +79,7 @@ Belonging uncertainty — doubt about whether one fits in a setting — dispropo
 ## Patterns That Use This Element
 - [Community of Inquiry](../principles/community-of-inquiry.md) — social presence is the belonging component of the teaching–social–cognitive triad
 - [Cooperative Learning](../patterns/cooperative-learning.md) — positive interdependence structures peer acceptance into the task itself
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — depends on participants feeling safe to contribute
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — depends on participants feeling safe to contribute
 
 ## Examples
 

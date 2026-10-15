@@ -17,6 +17,10 @@ sources:
     resource: "https://doi.org/10.11114/jets.v5i6.2320"
     title: "Lin, L. F. (2017). Impacts of the problem-based learning pedagogy on English learners' reading comprehension, strategy use, and active learning attitudes. *Journal of Education and Training Studies, 5*(6), 109-125"
     author: Lin, L. F
+  - id: molenda-2002
+    resource: "https://eric.ed.gov/?id=ED470983"
+    title: "Molenda, Michael. (2002). A New Framework for Teaching in the Cognitive Domain. ERIC Digest. https://eric.ed.gov/?id=ED470983"
+    author: Molenda, Michael
 ---
 
 # Problem-based Learning
@@ -142,6 +146,7 @@ At the curriculum level, the expectation of a small and variable average should 
 - Thorndahl, K., & Stentoft, D. (2020). Thinking critically about critical thinking and problem-based learning in higher education: A scoping review. *The Interdisciplinary Journal of Problem-Based Learning, 14*(1). [https://doi.org/10.14434/ijpbl.v14i1.28773](https://doi.org/10.14434/ijpbl.v14i1.28773)
 - Lin, L. F. (2017). Impacts of the problem-based learning pedagogy on English learners' reading comprehension, strategy use, and active learning attitudes. *Journal of Education and Training Studies, 5*(6), 109-125. [https://doi.org/10.11114/jets.v5i6.2320](https://doi.org/10.11114/jets.v5i6.2320)
 - Savery, J. R. (2019). Overview of problem-based learning: Definitions and distinctions. In R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/overview_of_problem_based_learning](https://edtechbooks.org/lidtfoundations/overview_of_problem_based_learning)
+- Molenda, Michael. (2002). A New Framework for Teaching in the Cognitive Domain. ERIC Digest. https://eric.ed.gov/?id=ED470983
 
 <!-- deprecated 2026-10-01: superseded by the conditional model above. Old body kept verbatim.
 
@@ -199,4 +204,42 @@ Problem-based learning is strongest when the problem requires learners to integr
 ## Conditional relationship
 
 For a learner who must integrate knowledge to act on an ill-structured or authentic problem (a `complex-skill` or `principle` goal, not a `verbal-association` one), starting work from a problem *may* support conceptual understanding and transfer, provided the problem phase is followed or accompanied by guidance that connects the learner's attempts to the canonical ideas. The relationship is conditional on the learner's task-specific starting knowledge (`novice` learners left to discover essential content without support learn less), on age (in the one synthesis recorded here the problem-first advantage reversed for `child` learners in second to fifth grade), on the outcome chosen (no advantage is recorded for procedural fluency) and on the horizon at which it is measured. The wiki holds no direct comparison of whole problem-based curricula with conventional instruction; the evidence below concerns components of the relationship: problem-first sequencing, the amount of guidance, contingent support and case-based formats. The [pattern](../patterns/problem-based-learning.md) specifies a reusable design policy; its local diagnostic branches remain proposals.
+-->
+
+<!-- merged 2026-10-15 from patterns/problem-centered-task-level-progression-pattern ("Problem-centered instruction with task-level engagement and problem progression"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Problem-centered instruction with task-level engagement and problem progression
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
+
+## Description
+Within Merrill's framework, the problem-centered element holds that "Learning is promoted when learners are engaged in solving real-world problems." Its corollaries specify that learners are shown the tasks they will be able to do, are engaged at the problem or task level rather than just the operation or action level, and solve a progression of problems that are explicitly compared to one another. The digest presents these as the prescriptions for effective instruction supporting the framework's central problem element.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Learners must be shown the tasks they will be able to do and engaged at the problem or task level
+#### Constraints
+- The pattern is presented as part of a framework aimed primarily at cognitive learning
+
+### Target Learners
+- learners solving real-world problems in instruction
+
+### Target Goals
+- applying skills to whole tasks rather than isolated operations
+
+### Claims
+- 
+
+## Related Patterns
+
+- [Merrill's First Principles of Instruction](../patterns/4cid-four-component-instructional-design.md)
+
+## Examples
+-
+
+## Key Sources
+- Molenda, Michael. (2002). A New Framework for Teaching in the Cognitive Domain. ERIC Digest. https://eric.ed.gov/?id=ED470983
 -->

@@ -53,8 +53,8 @@ Collaborative discussion is the element in which learners build understanding to
 - [Consensus Building](consensus-building.md)
 
 ## Patterns That Use This Element
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md)
-- [Collaborative Inquiry](../patterns/collaborative-inquiry.md)
+- [Discussion-Based Learning](../principles/collaborative-learning.md)
+- [Collaborative Inquiry](../principles/inquiry-based-learning.md)
 
 ## Examples
 - Small-group discussion where learners must build a shared interpretation from different evidence.

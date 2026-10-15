@@ -62,7 +62,7 @@ Independent study builds self-regulatory capacity and can be efficient for well-
 - [Assessment](assessment.md) — provides the external feedback loop that self-regulation requires
 
 ## Patterns That Use This Element
-- [Flipped Classroom](../patterns/flipped-classroom.md) — independent study of content outside class frees class time for guided practice
+- [Flipped Classroom](../principles/flipped-learning.md) — independent study of content outside class frees class time for guided practice
 - [Competency-Based Learning](../patterns/competency-based-learning.md) — learners advance through material independently upon demonstrating mastery
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — the exploration phase, where learners attempt problems independently with fading support
 

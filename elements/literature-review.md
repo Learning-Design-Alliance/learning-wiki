@@ -44,7 +44,7 @@ Literature review is the element in which learners gather, evaluate, and synthes
 - [Resource Evaluation](resource-evaluation.md)
 
 ## Patterns That Use This Element
-- [Research-Based Learning](../patterns/research-based-learning.md)
+- [Research-Based Learning](../principles/inquiry-based-learning.md)
 
 ## Examples
 - Learners compare sources to identify major positions, gaps, or recurring findings.

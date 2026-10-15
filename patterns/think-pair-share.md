@@ -102,13 +102,13 @@ Record: **prompt and intended target â†’ think-phase time and individual note â†
 
 ## Elements and limits
 
-[Individual reflection](../elements/individual-reflection.md), [discussion prompt](../elements/discussion-prompt.md), [peer discussion](../elements/peer-discussion.md), [eliciting student thinking](../elements/eliciting-student-thinking.md), [sentence starters](../elements/sentence-starters.md), [class discussion](../elements/class-discussion.md) and [feedback](../elements/feedback.md). Principles the routine draws on: [Peer Discussion](../principles/peer-discussion.md), [Formative Assessment](../principles/formative-assessment.md), [Purposeful Reflection](../principles/purposeful-reflection.md) and [Immediate Feedback](../principles/immediate-feedback.md).
+[Individual reflection](../elements/individual-reflection.md), [discussion prompt](../elements/discussion-prompt.md), [peer discussion](../elements/peer-discussion.md), [eliciting student thinking](../elements/eliciting-student-thinking.md), [sentence starters](../elements/sentence-starters.md), [class discussion](../elements/class-discussion.md) and [feedback](../elements/feedback.md). Principles the routine draws on: [Peer Discussion](../principles/peer-discussion.md), [Formative Assessment](../principles/formative-assessment.md), [Purposeful Reflection](../principles/reflection.md) and [Immediate Feedback](../principles/immediate-feedback.md).
 
 This pattern is scoped to a short routine embedded in a larger lesson. It is not a substitute for extended inquiry, seminar discussion or collaborative projects, and procedural fluency and recall need other configurations. The policy supports observation and design reasoning; the effect of the whole routine, of think time before pairing, of any phase length and of share mode on learning remains to be tested with learners.
 
 ## Related Patterns
 - [Peer Instruction](peer-instruction.md)
-- [Discussion Group](discussion-based-learning.md)
+- [Discussion Group](../principles/collaborative-learning.md)
 
 ## Examples
 - A class concept question answered silently, discussed in pairs, and then synthesized whole-group.
@@ -187,7 +187,7 @@ The pattern is widely useful because it is lightweight and adaptable. It works e
 ### Affordances
 - [Peer Discussion](../principles/peer-discussion.md)
 - [Formative Assessment](../principles/formative-assessment.md)
-- [Purposeful Reflection](../principles/purposeful-reflection.md)
+- [Purposeful Reflection](../principles/reflection.md)
 - [Immediate Feedback](../principles/immediate-feedback.md)
 
 ### Personalization

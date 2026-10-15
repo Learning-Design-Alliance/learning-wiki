@@ -63,8 +63,8 @@ Invention tasks work by activating relevant prior knowledge and making learners 
 
 ## Patterns That Use This Element
 - [Productive Failure](../strategies/productive-failure.md) — invention is the core exploration phase
-- [5E Learning Cycle](../patterns/5e-learning-cycle.md) — the "explore" phase before "explain"
-- [Cognitively Guided Instruction (CGI for Math)](../patterns/cognitively-guided-instruction-cgi-for-math.md) — students invent strategies for word problems before formal algorithms are taught
+- [5E Learning Cycle](../principles/inquiry-based-learning.md) — the "explore" phase before "explain"
+- [Cognitively Guided Instruction (CGI for Math)](../principles/responsive-teaching.md) — students invent strategies for word problems before formal algorithms are taught
 
 ## Examples
 

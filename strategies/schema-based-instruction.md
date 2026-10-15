@@ -82,7 +82,7 @@ Schema-based instruction works because expert problem solving is driven by recog
 ## Examples
 - **Jitendra's schema-based instruction program** — a line of intervention studies teaching addition/subtraction and multiplication/division schemas with diagrams to elementary and middle school students, including students with disabilities; consistently improved word-problem accuracy relative to comparison instruction [Xin & Jitendra, 1999](https://doi.org/10.1080/00220679909597622).
 - **Fuchs et al.'s schema-broadening instruction** — third-grade word-problem curriculum that taught problem-type schemas and then broadened them to novel variants, improving transfer to unfamiliar problems [Fuchs et al., 2003](https://doi.org/10.1037/0022-0663.95.2.306).
-- **[Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md)** — a related research-based framework in which teachers learn the taxonomy of addition/subtraction problem structures and use it to interpret student thinking; the teacher-facing analogue of schema-based instruction.
+- **[Cognitively Guided Instruction](../principles/responsive-teaching.md)** — a related research-based framework in which teachers learn the taxonomy of addition/subtraction problem structures and use it to interpret student thinking; the teacher-facing analogue of schema-based instruction.
 - **Jitendra's schema-based instruction program** — a published intervention sequence for addition/subtraction and multiplication/division word problems using schematic diagrams; validated in multiple randomized trials with upper-elementary students.
 - **Special education math curricula** — schema-based instruction is a recommended practice in teaching word-problem solving to students with mathematics difficulties [Meta-analytic support for schema-based instruction with struggling learners.](https://doi.org/10.1111/j.1540-5826.2007.00237.x) [+S]
 
@@ -152,7 +152,7 @@ Schema-based instruction works because expert problem solving is schema-driven: 
 
 ## Examples
 - **Jitendra's schema-based instruction program** — a published intervention sequence for addition/subtraction and multiplication/division word problems using schematic diagrams; validated in multiple randomized trials with upper-elementary students.
-- **CGI classrooms** — [Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md) organizes word problems by the same problem-type taxonomy (change, combine, compare) and uses teachers' knowledge of these structures to sequence tasks.
+- **CGI classrooms** — [Cognitively Guided Instruction](../principles/responsive-teaching.md) organizes word problems by the same problem-type taxonomy (change, combine, compare) and uses teachers' knowledge of these structures to sequence tasks.
 - **Special education math curricula** — schema-based instruction is a recommended practice in teaching word-problem solving to students with mathematics difficulties [Meta-analytic support for schema-based instruction with struggling learners.](https://doi.org/10.1111/j.1540-5826.2007.00237.x) [+S]
 
 ## Key Sources

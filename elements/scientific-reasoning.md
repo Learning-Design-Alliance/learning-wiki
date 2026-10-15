@@ -56,8 +56,8 @@ Scientific reasoning is the element in which learners generate explanations, eva
 - [Evidence-Based Reasoning](evidence-based-reasoning.md)
 
 ## Patterns That Use This Element
-- [MEL Reasoning Pattern](../patterns/model-evidence-link-mel-reasoning-pattern.md)
-- [Guided Discovery Learning](../patterns/guided-discovery-learning.md)
+- [MEL Reasoning Pattern](../principles/epistemic-cognition.md)
+- [Guided Discovery Learning](../principles/inquiry-based-learning.md)
 
 ## Examples
 - Learners compare predictions to evidence and revise an explanatory model.

@@ -71,7 +71,7 @@ Perspective-taking tasks deepen narrative comprehension by requiring learners to
 
 ## Patterns That Use This Strategy
 - [Case-Based Learning](../patterns/case-based-learning.md) — shares the structure of adopting a stakeholder position within a rich scenario
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — the mixed-character debate enacts this pattern with narrative material
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — the mixed-character debate enacts this pattern with narrative material
 
 ## Examples
 - Students read *To Kill a Mockingbird* and relive the trial from the perspective of Scout Finch, Atticus Finch, or Tom Robinson, then debate the testimony in character.

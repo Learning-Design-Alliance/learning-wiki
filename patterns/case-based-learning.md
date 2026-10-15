@@ -1,6 +1,7 @@
 ---
 type: pattern
 id: case-based-learning
+aliases: [case-based-learning-harvard-method]
 title: Case-Based Learning
 description: "A reusable policy for learning from realistic cases: establish what learners can already do with the target concept, have them compare several cases that share a principle rather than study one at a time, make the principle explicit, and judge the unit on transfer to a new case rather than on enjoyment or recall."
 canonical: true
@@ -9,6 +10,11 @@ generated:
   by: claude/unspecified
   at: 2026-10-02
 grain_size: lesson
+sources:
+  - id: kim-2006
+    resource: "https://doi.org/10.1111/j.1365-2929.2006.02544.x"
+    title: "Kim, S., Phillips, W. R., Pinsky, L., Brock, D., Phillips, K., & Keary, J. (2006). A conceptual framework for developing teaching cases: A review and synthesis of the literature across disciplines. *Medical Education, 40*(9), 867-876"
+    author: "Kim, S., Phillips, W. R., Pinsky, L., Brock, D., Phillips, K., & Keary, J"
 ---
 
 # Case-Based Learning
@@ -22,7 +28,7 @@ A reusable policy for organizing a lesson around realistic cases (scenarios, inc
 
 **What the evidence does and does not test.** The wiki's strongest evidence concerns one component, *comparing* cases (`case-comparison`), against studying the same cases one at a time, single cases, or conventional instruction. Case-based learning as a whole format has one non-randomized classroom comparison and a systematic review that found its effect on learning inconclusive. So this page treats comparison, an explicit principle and a transfer probe as the configuration, and treats "use cases" on its own as an unsupported promise.
 
-[Problem-based learning](problem-based-learning.md) is a neighbouring, converted pattern: it organizes a unit around one problem learners must investigate and decides how much guidance to give before or after it. This pattern is narrower and works at lesson grain: the case is an object of analysis and comparison, not a driving problem, and its decisions concern case selection, comparison and the timing of the principle. Where a case is used as a problem to solve before instruction, use the problem-based pattern's guidance on problem-first phases. The [Harvard-method page](case-based-learning-harvard-method.md) describes one discussion-centred configuration of the format.
+[Problem-based learning](problem-based-learning.md) is a neighbouring, converted pattern: it organizes a unit around one problem learners must investigate and decides how much guidance to give before or after it. This pattern is narrower and works at lesson grain: the case is an object of analysis and comparison, not a driving problem, and its decisions concern case selection, comparison and the timing of the principle. Where a case is used as a problem to solve before instruction, use the problem-based pattern's guidance on problem-first phases. The [Harvard-method page](case-based-learning.md) describes one discussion-centred configuration of the format.
 
 ## Inputs: establish the design brief
 
@@ -109,14 +115,17 @@ This pattern is scoped to lessons in which cases are analysed and compared and t
 - [Case-based learning benefits depended on faculty-guided embedding, while complex cases and team workflows showed null or unfavorable effects](../claims/genai-cbl-faculty-guided-conditional-benefits.md) [~W]
 
 ## Related Patterns
-- [Case-Based Learning (Harvard Method)](case-based-learning-harvard-method.md)
+- [Problem-Based Learning (PBL)](problem-based-learning.md)
+- [Socratic Seminar](socratic-seminar.md)
 
 ## Key Sources
 - Herreid, C. F. (2011). *Case study teaching*. NSTA Press.
 - Kaddoura, M. A. (2011). Critical thinking skills of nursing students in lecture-based teaching and case-based learning. *International Journal for the Scholarship of Teaching and Learning, 5*(2). [doi:10.20429/ijsotl.2011.050220](https://doi.org/10.20429/ijsotl.2011.050220)
 - Hoffer, E. R. (2020). Case-based teaching: Using stories for engagement and inclusion. *International Journal on Social and Educational Sciences, 2*(2), 75-80.
 - Vinney, L., Friberg, J. C., & Smyers, M. (2019). Case-based perspective-taking as a mechanism to improve metacognition and higher-level thinking. *Journal of the Scholarship of Teaching and Learning, 19*(3), 91-104. [doi:10.14434/josotl.v19i2.24006](https://doi.org/10.14434/josotl.v19i2.24006)
-- Ellet, W. (2007). *The case study handbook: How to read, discuss, and write persuasively about cases*.
+- Ellet, W. (2007). *The case study handbook: How to read, discuss, and write persuasively about cases*. Harvard Business School Press.
+- Christensen, C. R., Garvin, D. A., & Sweet, A. (1991). *Education for judgment: The artistry of discussion leadership*. Harvard Business School Press.
+- Kim, S., Phillips, W. R., Pinsky, L., Brock, D., Phillips, K., & Keary, J. (2006). A conceptual framework for developing teaching cases: A review and synthesis of the literature across disciplines. *Medical Education, 40*(9), 867-876. [https://doi.org/10.1111/j.1365-2929.2006.02544.x](https://doi.org/10.1111/j.1365-2929.2006.02544.x)
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above. Old body kept verbatim.
 
@@ -194,12 +203,12 @@ Case-based learning is powerful because it places concepts inside realistic unce
 ## Related Principles
 - [Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md) — cases become stronger when decisions are framed for realistic stakeholders
 - [Inquiry-based Learning](../principles/inquiry-based-learning.md) — case work often begins with uncertainty, question generation, and evidence seeking
-- [Explaining Their Thinking](../principles/self-explanation.md) — case analysis depends on visible reasoning, not just chosen conclusions
+- [Explaining Their Thinking](../principles/cognitive-activation.md) — case analysis depends on visible reasoning, not just chosen conclusions
 - [Ask Experts](../principles/ask-experts.md) — expert commentary can make tacit judgment visible after learners attempt a case themselves
 
 ## Examples
 <!- - Links to elements or patterns that apply this principle - ->
-- [Case-Based Learning (Harvard Method)](../patterns/case-based-learning-harvard-method.md) — structured whole-class analysis of a complex case
+- [Case-Based Learning (Harvard Method)](case-based-learning.md) — structured whole-class analysis of a complex case
 - [Case Studies](../strategies/case_studies.md) — localized use of real or simulated scenarios for application and discussion
 - Medical diagnosis cases, business decision memos, legal briefs, and engineering incident reviews are all common implementations
 - Interrupted cases, where new information is released in stages, can preserve uncertainty while creating natural decision points
@@ -209,4 +218,105 @@ Case-based learning is powerful because it places concepts inside realistic unce
 - Hoffer, E. R. (2020). Case-based teaching: Using stories for engagement and inclusion. *International Journal on Social and Educational Sciences, 2*(2), 75-80.
 - Vinney, L., Friberg, J. C., & Smyers, M. (2019). Case-based perspective-taking as a mechanism to improve metacognition and higher-level thinking. *Journal of the Scholarship of Teaching and Learning, 19*(3), 91-104.
 - Ellet, W. (2007). *The case study handbook: How to read, discuss, and write persuasively about cases*.
+-->
+
+<!-- merged 2026-10-15 from patterns/case-based-learning-harvard-method ("Case-Based Learning (Harvard Method)"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Case-Based Learning (Harvard Method)
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 4 claims (1 for, 3 mixed) · 11 studies (4 causal, 3 quant-synthesis, 1 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 11 report an effect size · 2 claims rest on one study
+
+## Description
+Case-based learning in the Harvard method uses a carefully written case as the center of discussion, analysis, and decision making. Learners study a realistic situation, identify the central problem, weigh competing interpretations, and defend a course of action in discussion. The pattern does not treat the case as an illustration after the fact; the case is the primary vehicle through which learners reason.
+
+This pattern is especially useful when the goal is judgment under uncertainty. It gives learners practice dealing with incomplete information, multiple stakeholders, and tradeoffs that do not have a single clean answer. The instructor's role is to orchestrate discussion so that learners justify claims, compare alternatives, and surface assumptions.
+
+## Implications
+
+### Context
+#### Requirements
+- **A well-chosen case**: The case needs enough complexity, ambiguity, and evidence to support serious analysis.
+- **Structured discussion leadership**: The instructor must keep the discussion analytic rather than purely opinion-based.
+- **Expectation of preparation**: Learners need time to read, annotate, and form an initial position before class.
+- **Decision pressure**: Cases work best when learners must recommend or justify a response.
+#### Constraints
+- **Weak preparation collapses discussion**: If learners have not read or analyzed the case, the method becomes shallow.
+- **Participation inequality**: A few strong voices can dominate without facilitation norms.
+- **Novice uncertainty**: Learners may need more scaffolding if they lack domain knowledge or case-reading habits.
+- **Not ideal for first exposure to simple procedures**: The method is stronger for reasoning than for basic memorization.
+#### Grain Size
+- Lesson
+- Course
+
+### Target Goals
+- **Decision making under ambiguity**: Evaluating options with incomplete or conflicting evidence.
+- **Professional judgment**: Learning to reason like a practitioner in context.
+- **Discussion-based argumentation**: Defending claims and responding to alternatives.
+
+### Target Learners
+- **Higher education and professional learners**: Strong fit for business, law, medicine, public policy, and leadership contexts.
+- **Learners preparing for complex practice**: Useful when future work involves tradeoffs and stakeholder reasoning.
+- **Discussion-ready groups**: The method assumes active interpretation and participation.
+
+### Theory
+#### Supporting
+- Situated learning perspectives — cases situate reasoning in realistic professional contexts.
+- Social constructivist perspectives — understanding is refined through discussion and perspective comparison.
+- Reflective judgment traditions — learners improve by weighing evidence and defending choices under uncertainty.
+#### Contradicting / Qualifying
+- Cases are stronger for analysis and judgment than for introducing large amounts of unfamiliar content.
+- Instructors often need to add scaffolds for novices so discussion does not reward confidence over reasoning.
+
+### Claims
+#### Supporting
+- [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~S]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M]
+- [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [~S]
+#### Contradicting
+- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [~M]
+
+## Design
+
+### Sequence
+1. Assign a case and ask learners to identify the core problem, evidence, and possible actions.
+2. Have learners take a position or prepare a recommendation before discussion.
+3. Conduct class discussion that compares interpretations, assumptions, and tradeoffs.
+4. Push learners to justify recommendations with evidence from the case.
+5. Debrief the decision process and key lessons.
+
+### Elements Used
+- [Case Study](../elements/case-study.md)
+- [Class Discussion](../elements/class-discussion.md)
+- [Reflection](../elements/reflection.md)
+- [Assessment](../elements/assessment.md)
+
+### Affordances
+- [Case Studies/Case-Based Learning](case-based-learning.md)
+- [Debate](debate.md)
+- [Perspective-Seeking/Multiple Perspectives](../principles/cognitive-flexibility.md)
+- [Peer Discussion](../principles/peer-discussion.md)
+
+### Personalization
+- Cases can be selected for discipline, role, or stakeholder relevance.
+- Learners can prepare individual positions before group discussion to broaden participation.
+- Facilitation can vary from tightly guided questioning to more open Socratic exchange.
+
+## Related Patterns
+- [Problem-Based Learning (PBL)](problem-based-learning.md)
+- [Socratic Seminar](socratic-seminar.md)
+
+## Examples
+- Business strategy cases where learners recommend a course of action to a leadership team.
+- Clinical or legal cases in which learners interpret evidence and justify decisions.
+- Public policy discussions where learners weigh stakeholder tradeoffs from a shared dossier.
+
+## Impact
+- Supports judgment, reasoning, and discussion-based professional learning.
+- Most effective when preparation and facilitation make evidence use visible and accountable.
+
+## Key Sources
+- Christensen, C. R., Garvin, D. A., & Sweet, A. (1991). *Education for judgment: The artistry of discussion leadership*. Harvard Business School Press.
+- Ellet, W. (2007). *The case study handbook: How to read, discuss, and write persuasively about cases*. Harvard Business School Press.
+- Kim, S., Phillips, W. R., Pinsky, L., Brock, D., Phillips, K., & Keary, J. (2006). A conceptual framework for developing teaching cases: A review and synthesis of the literature across disciplines. *Medical Education, 40*(9), 867-876. [https://doi.org/10.1111/j.1365-2929.2006.02544.x](https://doi.org/10.1111/j.1365-2929.2006.02544.x)
 -->

@@ -42,7 +42,7 @@ In the collaborative classroom the paper describes, "the teacher is a facilitato
 - [Student Writing Only As Good As Conversation About Writing](../claims/student-writing-only-as-good-as-conversation-about-writing.md) [+W]
 
 ## Related Patterns
-- [Writing Workshop](../patterns/writing-workshop.md)
+- [Writing Workshop](../patterns/workshop-model.md)
 - [Collaborative Learning](../patterns/collaborative-learning.md)
 - [Process Writing Workshop](../strategies/process-writing-workshop.md)
 

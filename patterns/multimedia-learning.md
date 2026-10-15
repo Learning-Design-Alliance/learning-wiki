@@ -15,12 +15,16 @@ sources:
     resource: "https://eric.ed.gov/?id=EJ1255527"
     title: "Kutbay, E. & Akpınar, Y. (2020). Investigating modality, redundancy and signaling principles with abstract and concrete representation. International Journal of Education in Mathematics, Science and Technology (IJEMST), 8(2), 131-145. https://eric.ed.gov/?id=EJ1255527"
     author: "Kutbay, E. & Akpınar, Y"
+  - id: marjorie-ceballos-2022
+    resource: "https://eric.ed.gov/?id=EJ1380081"
+    title: "Marjorie Ceballos, Joyce W. Nutta. (2022). Emergent Bilinguals and Multimedia Instructional Design: Applying the Science of Learning Principles to Dual Language Instruction. Education Leadership Review, 23(1). https://eric.ed.gov/?id=EJ1380081"
+    author: Marjorie Ceballos, Joyce W. Nutta
 ---
 
 # Multimedia Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 36 claims (21 for, 15 mixed) · 31 studies (15 causal, 8 quant-synthesis, 5 review, 2 theoretical, 1 qualitative), `q1`–`q4` · 11 of 31 report an effect size · 29 claims rest on one study
+> **Evidence** · 38 claims (23 for, 15 mixed) · 32 studies (16 causal, 8 quant-synthesis, 5 review, 2 theoretical, 1 qualitative), `q1`–`q4` · 11 of 32 report an effect size · 30 claims rest on one study
 
 ## Description and scope
 
@@ -93,6 +97,8 @@ Ask for four facts when the brief omits them: **who controls the pace** (system-
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-01 (maintainer's decision); reread 2026-10-15: every claim listed here then was worked into the model above (configuration rules, situation rows or scope). -->
 None at present. Claims linked to this page later go here until they are read against the model.
+- [Dual Language Programs Gap Closure Longitudinal](../claims/dual-language-programs-gap-closure-longitudinal.md) [+M]
+- [Pretraining before complex lessons is associated with increased learning outcomes, especially for learners with minimal prior knowledge](../claims/pretraining-improves-transfer.md) [+W]
 
 ## Illustrative design instance and observation record
 
@@ -117,6 +123,7 @@ This pattern is scoped to explanations of structures, processes and relations pr
 - [Bimodal captioned input improved L2 listening skills, generalizing to unfamiliar sentences and speakers (attributed to Charles & Trenkic, 2015)](../claims/bimodal-captioned-input-improves-segmentation.md) [+W]
 - [Spoken text modality does not significantly differ from signaled written text modality, or from signaled written plus spoken text, for either abstract or concrete animation](../claims/spoken-versus-signaled-written-null.md) [~W]
 - [Nonsegmented spoken–written presentations show a larger advantage over spoken-only presentation than segmented ones](../claims/segmentation-moderates-verbal-redundancy.md) [~W]
+- [Sol Multimedia Lesson Sequence Eb](../designs/sol-multimedia-lesson-sequence-eb.md) [+M]
 
 ## Related Patterns
 
@@ -125,6 +132,7 @@ This pattern is scoped to explanations of structures, processes and relations pr
 ## Key Sources
 - Mayer, R. E. (2009). *Multimedia learning* (2nd ed.). Cambridge University Press. [doi:10.1017/cbo9780511811678](https://doi.org/10.1017/cbo9780511811678)
 - Kutbay, E. & Akpınar, Y. (2020). Investigating modality, redundancy and signaling principles with abstract and concrete representation. International Journal of Education in Mathematics, Science and Technology (IJEMST), 8(2), 131-145. https://eric.ed.gov/?id=EJ1255527
+- Marjorie Ceballos, Joyce W. Nutta. (2022). Emergent Bilinguals and Multimedia Instructional Design: Applying the Science of Learning Principles to Dual Language Instruction. Education Leadership Review, 23(1). https://eric.ed.gov/?id=EJ1380081
 
 <!-- deprecated 2026-10-01: superseded by the conditional model above. The old body follows verbatim.
 
@@ -206,4 +214,48 @@ The article's practical recommendation is that multimedia designers and teachers
 
 ## Key Sources
 - Kutbay, E. & Akpınar, Y. (2020). Investigating modality, redundancy and signaling principles with abstract and concrete representation. International Journal of Education in Mathematics, Science and Technology (IJEMST), 8(2), 131-145. https://eric.ed.gov/?id=EJ1255527
+-->
+
+<!-- merged 2026-10-15 from principles/leader-criteria-sol-alignment-digital-materials ("Educational leaders should set criteria ensuring digital multimedia materials for EBs align to SOL principles"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Educational leaders should set criteria ensuring digital multimedia materials for EBs align to SOL principles
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 6 claims (6 for) · 3 studies (1 causal, 1 quant-synthesis, 1 review), `q2`–`q4` · 1 of 3 report an effect size · 5 claims rest on one study
+
+## Description
+The article recommends that as schools and districts acquire digital multimedia instructional materials for EBs' second language learning, leaders responsible for selecting and creating materials should have set criteria to ensure alignment with the science of learning principles, and that leaders supporting and evaluating EB teaching benefit from understanding these principles so they can guide dual language and other teachers of EBs. This extends EB instructional leadership practices — developing teachers' expertise through observation, data analysis, lesson planning, and professional learning — to multimedia design quality.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Leaders need models of effective EB pedagogy in practice and understanding of SOL principles and their application
+#### Constraints
+- The article frames this as a recommendation for leaders; it does not itself test the effect of leader-set criteria on outcomes
+
+### Target Learners
+- Emergent bilinguals in dual language programs and other EB academic settings
+
+### Target Learning Objectives
+- Second language proficiency and simultaneous access to new academic content
+
+### Claims
+
+- [Sol Multimedia Lesson Sequence Eb](../designs/sol-multimedia-lesson-sequence-eb.md) [+M]
+- [Dual Language Programs Gap Closure Longitudinal](../claims/dual-language-programs-gap-closure-longitudinal.md) [+M]
+- [A practice article reports that the studies it cites found better post-test outcomes from words with relevant pictures than from words alone, especially with spoken words](../claims/multimedia-principle-words-and-pictures-outcomes.md) [+W]
+- [Pretraining before complex lessons is associated with increased learning outcomes, especially for learners with minimal prior knowledge](../claims/pretraining-improves-transfer.md) [+W]
+- [A narrative review reports that the signaling studies it cites found higher learning outcomes with signaled multimedia (illustrations with labeled text) than without](../claims/signaling-principle-increased-learning-outcomes.md) [+W]
+- [A meta-analysis of 36 studies found that instructional designs with spatial contiguity increased learning outcomes](../claims/split-attention-effect-degrades-learning.md) [+W]
+- [A narrative review cites one study in which simultaneous notes, worked example and explanation aided understanding, and another in which temporally contiguous instruction lowered perceived cognitive load](../claims/temporal-contiguity-lower-cognitive-load.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Marjorie Ceballos, Joyce W. Nutta. (2022). Emergent Bilinguals and Multimedia Instructional Design: Applying the Science of Learning Principles to Dual Language Instruction. Education Leadership Review, 23(1). https://eric.ed.gov/?id=EJ1380081
 -->

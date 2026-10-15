@@ -128,7 +128,7 @@ Record: **motivating task and what learners attempted, with their questions → 
 
 ## Elements and limits
 
-[Problem presentation](../elements/problem-presentation.md), [scaffolded inquiry](../elements/scaffolded-inquiry.md), [invention](../elements/invention.md), [scaffolding](../elements/scaffolding.md), [self-explanation](../elements/self-explanation.md), [application](../elements/application.md), [transfer tasks](../elements/transfer-tasks.md), [part-task practice](../elements/part-task-practice.md), [practice](../elements/practice.md) and [reflection](../elements/reflection.md). Principles the pattern draws on: [Problem-based Learning](../principles/problem-based-learning.md), [Inquiry-based Learning](../principles/inquiry-based-learning.md), [Productive Failure](../principles/productive-failure.md), [Scaffolding and Fading](../principles/scaffolding-and-fading.md), [Transfer of Learning](../principles/transfer-of-learning.md), [Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md) and [Real-world Math](../principles/real-world-math.md).
+[Problem presentation](../elements/problem-presentation.md), [scaffolded inquiry](../elements/scaffolded-inquiry.md), [invention](../elements/invention.md), [scaffolding](../elements/scaffolding.md), [self-explanation](../elements/self-explanation.md), [application](../elements/application.md), [transfer tasks](../elements/transfer-tasks.md), [part-task practice](../elements/part-task-practice.md), [practice](../elements/practice.md) and [reflection](../elements/reflection.md). Principles the pattern draws on: [Problem-based Learning](../principles/problem-based-learning.md), [Inquiry-based Learning](../principles/inquiry-based-learning.md), [Productive Failure](../principles/productive-failure.md), [Scaffolding and Fading](../principles/scaffolding-and-fading.md), [Transfer of Learning](../principles/transfer-of-learning.md), [Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md) and [Real-world Math](../principles/cultural-life-experiences-connections.md).
 
 This pattern is scoped to units in which a task can make a concept or principle necessary and a later task can require it. Procedures and domain-general skills, fact sets, and very young learners are better served by teaching first ([direct instruction](direct-instruction.md)). The policy supports observation and design reasoning; whether a motivate-construct-refine unit produces better use of an idea on new cases than the same content taught explanation-first, for which learners, at what time cost and at what delay, remains to be tested.
 
@@ -136,9 +136,8 @@ This pattern is scoped to units in which a task can make a concept or principle 
 - [Problem-Based Learning (PBL)](problem-based-learning.md)
 - [Anchored Instruction](anchored-instruction.md)
 - [4C/ID (Four-Component Instructional Design)](4cid-four-component-instructional-design.md) — owns whole-task training for complex skills, the nearest relative of the refine phase
-- [5E Learning Cycle](5e-learning-cycle.md) — another phased inquiry sequence with explanation after exploration
+- [5E Learning Cycle](../principles/inquiry-based-learning.md) — another phased inquiry sequence with explanation after exploration
 - [Direct Instruction](direct-instruction.md) — teach-first alternative for procedures, domain-general skills and young learners
-- [Storyline Science Curriculum Design](storyline-science-curriculum-design.md) — curriculum design around anchoring phenomena, in the same tradition
 
 ## Examples
 - Science learners exploring environmental data because they need it to explain a local problem.
@@ -219,7 +218,7 @@ LfU is especially useful when designers want inquiry to remain conceptually grou
 - [Problem-based Learning](../principles/problem-based-learning.md)
 - [Inquiry-based Learning](../principles/inquiry-based-learning.md)
 - [Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md)
-- [Real-world Math](../principles/real-world-math.md)
+- [Real-world Math](../principles/cultural-life-experiences-connections.md)
 
 ### Personalization
 - Problems can be varied to fit learner interests, roles, or community relevance.

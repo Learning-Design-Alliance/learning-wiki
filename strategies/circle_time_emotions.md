@@ -70,7 +70,7 @@ Structured social-emotional discussion builds emotional vocabulary and peer rela
 
 ## Patterns That Use This Strategy
 - [Cooperative Learning](../patterns/cooperative-learning.md) — circle time builds the relational foundation group work depends on
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — a specialized, normed variant of whole-class discussion
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — a specialized, normed variant of whole-class discussion
 
 ## Examples
 - **Second Step (Committee for Children)** — weekly SEL lessons that include structured sharing circles for emotion identification and problem-solving. [https://www.secondstep.org](https://www.secondstep.org)

@@ -56,7 +56,7 @@ Subitizing activities convert a laborious counting procedure into an automatic p
 3. **Elicit the quantity and the structure** — ask "How many? How did you see it?" so learners articulate part–whole decompositions, connecting perception to [Application of Knowledge](../elements/application-of-knowledge.md) in later arithmetic.
 4. **Vary arrangements** — repeat the same quantity in different configurations across days so learners abstract the quantity from the image.
 5. **Extend to conceptual subitizing** — increase to 6–10 items in two structured chunks (e.g., a 5-frame plus 2 dots), prompting learners to combine seen parts.
-6. **Connect to operations** — follow recognition with a quick task ("Show 5, now show 2 more") linking subitized quantities to early addition, in the spirit of [Cognitively Guided Instruction (CGI for Math)](../patterns/cognitively-guided-instruction-cgi-for-math.md).
+6. **Connect to operations** — follow recognition with a quick task ("Show 5, now show 2 more") linking subitized quantities to early addition, in the spirit of [Cognitively Guided Instruction (CGI for Math)](../principles/responsive-teaching.md).
 
 ## Related Strategies
 - Number Talks — classroom routines built around quick images and "how did you see it?" discourse

@@ -1,7 +1,7 @@
 ---
 type: pattern
 id: debate
-aliases: [debate-format]
+aliases: [debate-format, debate-laboratory-for-argumentation]
 title: Debate
 description: "A reusable policy for structured argument on a contested question, in which preparing, defending and answering opposing cases is expected to improve individual argument, conditional on an arguable resolution, evidence and questioning in the rules, moderated turns, a debrief, and an individual outcome at a stated horizon."
 canonical: true
@@ -19,6 +19,10 @@ sources:
     resource: "https://doi.org/10.1080/03098265.2011.619522"
     title: "Healey, R. L. (2012). The power of debate. *Journal of Geography in Higher Education, 36*(2), 239-257"
     author: Healey, R. L
+  - id: herbeck-1990
+    resource: "https://eric.ed.gov/?id=ED322540"
+    title: "Herbeck. (1990). The Case against Conditional Argumentation. https://eric.ed.gov/?id=ED322540"
+    author: Herbeck
 ---
 
 # Debate
@@ -114,18 +118,18 @@ Record: **resolution and intended target → starting written position → assig
 
 ## Elements and limits
 
-[Debate](../elements/debate.md), [structured debate](../elements/structured-debate.md), [argumentation](../elements/argumentation.md), [assigned positions](../elements/assigned-positions.md), [justification](../elements/justification.md), [role reversal](../elements/role-reversal.md), [peer discussion](../elements/peer-discussion.md), [class discussion](../elements/class-discussion.md), [rubric](../elements/rubrics.md), [feedback](../elements/feedback.md), [assessment](../elements/assessment.md) and [debrief](../elements/debrief.md). Principles the pattern draws on: [Debate](debate.md), [Perspective-Seeking/Multiple Perspectives](../principles/perspective-seekingmultiple-perspectives.md) and [Peer Discussion](../principles/peer-discussion.md).
+[Debate](../elements/debate.md), [structured debate](../elements/structured-debate.md), [argumentation](../elements/argumentation.md), [assigned positions](../elements/assigned-positions.md), [justification](../elements/justification.md), [role reversal](../elements/role-reversal.md), [peer discussion](../elements/peer-discussion.md), [class discussion](../elements/class-discussion.md), [rubric](../elements/rubrics.md), [feedback](../elements/feedback.md), [assessment](../elements/assessment.md) and [debrief](../elements/debrief.md). Principles the pattern draws on: [Debate](debate.md), [Perspective-Seeking/Multiple Perspectives](../principles/cognitive-flexibility.md) and [Peer Discussion](../principles/peer-discussion.md).
 
 This pattern is scoped to structured adversarial argument on a question that admits more than one defensible answer. Questions with one correct answer, topics where a pro/con frame would create a false equivalence, and goals that call for collaborative synthesis need other configurations (Structured Academic Controversy, seminar or discussion formats). The policy supports observation and design reasoning; whether debate improves individual reasoning, topic understanding or speaking more than another argument format, for which learners and at what horizon, remains to be tested.
 
 ## Claims
 
 - [More controversial, unresolved AI-coder debates produce higher discussion-prompted coding accuracy, while compromising and collaborating modes reduce it](../claims/claim-controversial-debates-improve-discussion-prompted-accuracy.md) [~W]
+- Defending Consistent Positions Improves Advocacy [+W]
 
 ## Related Patterns
 - [Socratic Seminar](socratic-seminar.md)
 - [Structured Academic Controversy (SAC)](structured-academic-controversy.md)
-- [Debate as a laboratory for argumentation theory, contingent on keeping debate practices accountable to argumentation principles](debate-laboratory-for-argumentation.md)
 
 ## Key Sources
 - Kuhn, D. (1991). *The skills of argument*. Cambridge University Press. [doi:10.1017/cbo9780511571350](https://doi.org/10.1017/cbo9780511571350)
@@ -134,6 +138,7 @@ This pattern is scoped to structured adversarial argument on a question that adm
 - Kennedy, R. (2007). In-class debates: Fertile ground for active learning and the cultivation of critical thinking and oral communication skills. *International Journal of Teaching and Learning in Higher Education, 19*(2).
 - Healey, R. L. (2012). The power of debate. *Journal of Geography in Higher Education, 36*(2), 239-257. [doi:10.1080/03098265.2011.619522](https://doi.org/10.1080/03098265.2011.619522)
 - Chikeleze, M., Johnson, I., & Gibson, T. (2018). Let's argue. *Journal of Leadership Education, 17*(2). [doi:10.12806/v17/i2/a4](https://doi.org/10.12806/v17/i2/a4)
+- Herbeck. (1990). The Case against Conditional Argumentation. https://eric.ed.gov/?id=ED322540
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above; the body it replaced, kept verbatim.
 
@@ -235,7 +240,7 @@ The pattern can take many forms, but the core features are role clarity, timed t
 
 ### Affordances
 - [Debate](debate.md)
-- [Perspective-Seeking/Multiple Perspectives](../principles/perspective-seekingmultiple-perspectives.md)
+- [Perspective-Seeking/Multiple Perspectives](../principles/cognitive-flexibility.md)
 - [Peer Discussion](../principles/peer-discussion.md)
 - [Positive Self-Talk](../principles/positive-self-talk.md)
 
@@ -248,7 +253,7 @@ The pattern can take many forms, but the core features are role clarity, timed t
 
 - [Socratic Seminar](socratic-seminar.md)
 - [Structured Academic Controversy (SAC)](structured-academic-controversy.md)
-- [Debate as a laboratory for argumentation theory, contingent on keeping debate practices accountable to argumentation principles](debate-laboratory-for-argumentation.md)
+- [Debate as a laboratory for argumentation theory, contingent on keeping debate practices accountable to argumentation principles](debate.md)
 
 ## Examples
 - Civics learners debating policy approaches using evidence from assigned sources.
@@ -322,8 +327,8 @@ Debate improves learning when it requires learners to justify positions with evi
 
 ## Related Principles
 - [Peer Discussion](../principles/peer-discussion.md) — debate is a more structured, adversarial form of discussion
-- [Perspective Seeking/Multiple Perspectives](../principles/perspective-seekingmultiple-perspectives.md) — debate can force consideration of alternative viewpoints
-- [Explaining Their Thinking](../principles/self-explanation.md) — debate externalizes reasoning under pressure
+- [Perspective Seeking/Multiple Perspectives](../principles/cognitive-flexibility.md) — debate can force consideration of alternative viewpoints
+- [Explaining Their Thinking](../principles/cognitive-activation.md) — debate externalizes reasoning under pressure
 - [Evaluating Sources](../principles/evaluating-sources.md) — evidence quality matters as much as speaking performance
 
 ## Examples
@@ -333,10 +338,54 @@ Debate improves learning when it requires learners to justify positions with evi
 - [Debate for the Opposite Team](../strategies/debate_for_the_opposite_team.md) — learners argue against their initial position to deepen perspective-taking
 - Policy, ethics, clinical decision, and civic issues often work better than purely factual prompts
 - Structured prep sheets for claim, evidence, counterclaim, and rebuttal help novices participate more equitably
-- [Debate as a laboratory for argumentation theory, contingent on keeping debate practices accountable to argumentation principles](../patterns/debate-laboratory-for-argumentation.md)
+- [Debate as a laboratory for argumentation theory, contingent on keeping debate practices accountable to argumentation principles](debate.md)
 
 ## Key Sources
 - Kennedy, R. (2007). In-class debates: Fertile ground for active learning and the cultivation of critical thinking and oral communication skills. *International Journal of Teaching and Learning in Higher Education, 19*(2).
 - Healey, R. L. (2012). The power of debate. *Journal of Geography in Higher Education, 36*(2), 239-257. [doi:10.1080/03098265.2011.619522](https://doi.org/10.1080/03098265.2011.619522)
 - Chikeleze, M., Johnson, I., & Gibson, T. (2018). Let's argue. *Journal of Leadership Education, 17*(2).
+-->
+
+<!-- merged 2026-10-15 from patterns/debate-laboratory-for-argumentation ("Debate as a laboratory for argumentation theory, contingent on keeping debate practices accountable to argumentation principles"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Debate as a laboratory for argumentation theory, contingent on keeping debate practices accountable to argumentation principles
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 2 claims (2 mixed) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+
+## Description
+This pattern holds that academic debate can serve as a laboratory for studying argumentation theory — for example, testing standards for assessing arguments and decision-making — but only if debate practices remain accountable to argumentation principles. Herbeck notes that despite extensive competition, few insights into argumentation theory have resulted, and cites Goodnight's observation that "a significant gap seems to be developing between theories of argument and theories of debate." Permitting conditional arguments, he argues, turns debate into "a laboratory for perfecting itself" and severs debate from argumentation theory.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Debate practices must remain accountable to argumentation principles; conditional claims that can be dropped at any point must be discouraged.
+#### Constraints
+- The article states that despite tens of thousands of rounds of competition, few insights into argumentation theory have resulted from academic debate as currently practiced.
+
+### Target Learners
+- policy debate students in academic debate programs
+
+### Target Goals
+- argument construction and advocacy
+- understanding standards for evaluating arguments
+
+### Claims
+
+- Defending Consistent Positions Improves Advocacy [+W]
+- [Unconstrained topic writing produces frivolous resolutions that perpetuate non-argumentative practices](../claims/unconstrained-topic-writing-yields-frivolous-resolutions.md) [~W]
+- [Parliamentary rules ban published evidence and omit cross examination, which the author argues undermines argumentation training](../claims/parliamentary-rules-ban-evidence-and-omit-cross-examination.md) [~W]
+
+## Related Patterns
+
+- [Debate Format](debate.md)
+- [Structured Academic Controversy (SAC)](structured-academic-controversy.md)
+
+## Examples
+
+- [Require consistent advocacy in debate activities: bar or discourage conditional arguments](../strategies/require-consistent-advocacy-in-debate.md)
+
+## Key Sources
+- Herbeck. (1990). The Case against Conditional Argumentation. https://eric.ed.gov/?id=ED322540
 -->

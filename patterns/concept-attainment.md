@@ -120,7 +120,7 @@ This pattern is scoped to inducing one concept with identifiable attributes from
 - [Direct Instruction](direct-instruction.md) — the definition-first alternative; concept attainment trades efficiency for deeper attribute discrimination, and the two can be sequenced (attain, then consolidate explicitly)
 - [Case-Based Learning](case-based-learning.md) — extends the same example-comparison logic to rich, ill-structured cases where the "concept" is a pattern of practice rather than a definable category
 - [Anchored Instruction](anchored-instruction.md) — situates concept use in a realistic problem context after or alongside example-based induction
-- [5E Learning Cycle](5e-learning-cycle.md) — shares the explain-after-explore ordering; concept attainment is a focused induction routine that can serve as the Explore/Explain pair
+- [5E Learning Cycle](../principles/inquiry-based-learning.md) — shares the explain-after-explore ordering; concept attainment is a focused induction routine that can serve as the Explore/Explain pair
 
 ## Examples
 - **Science — "mammal" in elementary school:** Teacher posts picture cards labeled yes (dog, whale, bat) and no (shark, penguin); students propose and discard attributes ("lives on land" fails on whale) until "warm-blooded, hair, milk" survives, then classify novel animals.

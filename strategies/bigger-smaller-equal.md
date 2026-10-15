@@ -66,7 +66,7 @@ The strategy converts an abstract symbolic comparison (magnitude relative to a b
 - [Provide guidance](../elements/provide-guidance.md) — brief justifications between rounds convert physical response into verbal reasoning
 
 ## Patterns That Use This Strategy
-- [Cognitively Guided Instruction (CGI) for Math](../patterns/cognitively-guided-instruction-cgi-for-math.md) — grounding number operations in students' informal, embodied understandings before symbolic work
+- [Cognitively Guided Instruction (CGI) for Math](../principles/responsive-teaching.md) — grounding number operations in students' informal, embodied understandings before symbolic work
 - [Direct Instruction](../patterns/direct-instruction.md) — the model–practice–feedback cycle within each round
 
 ## Examples

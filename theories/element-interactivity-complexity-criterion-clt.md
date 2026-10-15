@@ -47,7 +47,7 @@ Within Cognitive Load Theory, element interactivity is defined as "the coordinat
 ## Examples
 
 - [Teachers should determine a topic's element interactivity level and develop an instructional design appropriate to it](../principles/cognitive-load-management.md)
-- [Cognitive Load Reduction (CLT Scaffolding Approach)](../patterns/cognitive-load-reduction-clt-scaffolding-approach.md)
+- [Cognitive Load Reduction (CLT Scaffolding Approach)](../principles/cognitive-load-theory.md)
 - [4C/ID (Four-Component Instructional Design)](../patterns/4cid-four-component-instructional-design.md)
 
 ## Key Sources

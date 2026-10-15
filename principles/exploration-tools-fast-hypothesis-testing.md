@@ -1,6 +1,7 @@
 ---
 type: principle
 id: exploration-tools-fast-hypothesis-testing
+aliases: [use-lab-technology-to-free-time-for-analysis]
 title: Use computer tools that let students explore hypotheses and solutions faster so they can test many ideas without frustration
 description: "For learners exploring how a system behaves, a computer tool that returns the result of each idea in seconds is expected to let them test more hypotheses with less frustration and spend the saved time interpreting, improving conceptual understanding and inquiry skill when the exploration is guided; no claim in the wiki tests the speed of the cycle itself, though guidance during inquiry is supported."
 canonical: true
@@ -13,6 +14,10 @@ sources:
     resource: "https://eric.ed.gov/?id=ED331465"
     title: "Collins, Allan. (1988). Cognitive Apprenticeship and Instructional Technology. Technical Report. BBN Report No. 6899, BBN Labs, Inc. https://eric.ed.gov/?id=ED331465"
     author: Collins, Allan
+  - id: brewe-2007
+    resource: "https://scholar.google.com/scholar?q=Impacts+of+real-time+data+collection+on+introductory+algebra-based+physics"
+    title: "Brewe, E., Sawtelle, V., and Pamela, P. (2007). Impacts of real-time data collection on introductory algebra-based physics. https://scholar.google.com/scholar?q=Impacts+of+real-time+data+collection+on+introductory+algebra-based+physics"
+    author: Brewe, E., Sawtelle, V., and Pamela, P
 ---
 
 # Use computer tools that let students explore hypotheses and solutions faster so they can test many ideas without frustration
@@ -162,9 +167,11 @@ Speed of the test cycle, number of cycles, guidance, immediate understanding, de
 - [Exploration Station](../strategies/exploration_station.md)
 - [Learning Strategy & Tool \"Fair\"](../strategies/learning_strategy_&_tool_fair.md)
 - [Foster articulation by having students build testable artifacts and explain ideas to other students](../strategies/articulation-through-buildable-artifacts.md)
+- [Four recommendations for deepening mathematics integration in science investigations](../strategies/four-recommendations-math-in-science.md)
 
 ## Key Sources
 - Collins, Allan. (1988). Cognitive Apprenticeship and Instructional Technology. Technical Report. BBN Report No. 6899, BBN Labs, Inc. https://eric.ed.gov/?id=ED331465
+- Brewe, E., Sawtelle, V., and Pamela, P. (2007). Impacts of real-time data collection on introductory algebra-based physics. https://scholar.google.com/scholar?q=Impacts+of+real-time+data+collection+on+introductory+algebra-based+physics
 
 <!-- deprecated 2026-10-15: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -203,4 +210,43 @@ Exploration involves "pushing students to try out different hypotheses, methods 
 
 ## Key Sources
 - Collins, Allan. (1988). Cognitive Apprenticeship and Instructional Technology. Technical Report. BBN Report No. 6899, BBN Labs, Inc. https://eric.ed.gov/?id=ED331465
+-->
+
+<!-- merged 2026-10-15 from principles/use-lab-technology-to-free-time-for-analysis ("Use real-time data collection technology to free class time for interpretation, analysis, and further investigation rather than covering more material"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Use real-time data collection technology to free class time for interpretation, analysis, and further investigation rather than covering more material
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+
+## Description
+Because real-time data collection makes labs faster and represents data instantly, students can focus immediately on interpretation and analysis instead of building representations themselves and questioning their accuracy. The article shows the additional time was dedicated to further investigation of concepts and added problem solving, which the authors identify as a reason for greater learning. Technology should thus be used to do non-learning-critical tasks more quickly, freeing time for activities important to learning.
+
+## Design Implications
+
+### Context
+#### Requirements
+- A student-centered, active-engagement curriculum (such as modeling instruction) in which students construct and validate models with collected evidence
+#### Constraints
+- The authors state the gains would not be expected in a standard lecture-based course that merely swaps low-tech traditional labs for high-tech traditional labs
+
+### Target Learners
+- introductory algebra-based physics students
+
+### Target Learning Objectives
+- conceptual understanding of mechanics through model construction, prediction, and evidence-based validation
+
+### Claims
+- [Real Time Data Collection Increases Lab Efficiency](../claims/real-time-data-collection-increases-lab-efficiency.md) [+M]
+- [Lab Technology Gains Depend On Active Engagement Pedagogy](../claims/lab-technology-gains-depend-on-active-engagement-pedagogy.md) [+M]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Four recommendations for deepening mathematics integration in science investigations](../strategies/four-recommendations-math-in-science.md)
+
+## Key Sources
+- Brewe, E., Sawtelle, V., and Pamela, P. (2007). Impacts of real-time data collection on introductory algebra-based physics. https://scholar.google.com/scholar?q=Impacts+of+real-time+data+collection+on+introductory+algebra-based+physics
 -->

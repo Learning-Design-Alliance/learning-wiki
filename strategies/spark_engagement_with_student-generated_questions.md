@@ -83,8 +83,8 @@ Student question generation increases engagement and investment because learners
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — surfacing what students know sharpens the questions they can ask
 - [Case-Based Learning](../strategies/case-based-learning.md) — cases provide rich phenomena that provoke student questions
 - [Think-Pair-Share](../patterns/think-pair-share.md) — a low-stakes structure for generating and refining questions with peers
-- [Collaborative inquiry](../patterns/collaborative-inquiry.md) — student questions drive the shared investigative agenda
-- [Flipped classroom](../patterns/flipped-classroom.md) — students bring questions from pre-work to class time, making them the agenda for face-to-face sessions
+- [Collaborative inquiry](../principles/inquiry-based-learning.md) — student questions drive the shared investigative agenda
+- [Flipped classroom](../principles/flipped-learning.md) — students bring questions from pre-work to class time, making them the agenda for face-to-face sessions
 
 ## Examples
 - **Question Formulation Technique** ([Right Question Institute](https://rightquestion.org)) — a published routine in which students produce, improve, and prioritize questions on a "QFocus" prompt; used across K–12 and higher education to shift question-asking from teacher to student.
@@ -159,8 +159,8 @@ Question generation is itself a cognitive act: formulating a question requires i
 
 ## Related Strategies
 - [Case-based learning](../patterns/case-based-learning.md) — cases provide the authentic context from which student questions naturally arise
-- [Collaborative inquiry](../patterns/collaborative-inquiry.md) — student questions drive the shared investigative agenda
-- [Flipped classroom](../patterns/flipped-classroom.md) — students bring questions from pre-work to class time, making them the agenda for face-to-face sessions
+- [Collaborative inquiry](../principles/inquiry-based-learning.md) — student questions drive the shared investigative agenda
+- [Flipped classroom](../principles/flipped-learning.md) — students bring questions from pre-work to class time, making them the agenda for face-to-face sessions
 
 ## Examples
 - **Question Formulation Technique** ([Right Question Institute](https://rightquestion.org)) — a structured protocol used across K–12 and higher education in which students produce, improve, and prioritize questions about a "QFocus" prompt before a unit or text.

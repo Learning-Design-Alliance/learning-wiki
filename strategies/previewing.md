@@ -73,7 +73,7 @@ Previewing works by orienting attention and reducing uncertainty: learners who k
 ## Patterns That Use This Element
 - [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md) — "inform learners of objectives" and "gain attention" events
 - [Direct Instruction](../patterns/direct-instruction.md) — anticipatory set and stated objectives open each lesson
-- [Flipped Classroom](../patterns/flipped-classroom.md) — pre-class materials function as extended previews of in-class work
+- [Flipped Classroom](../principles/flipped-learning.md) — pre-class materials function as extended previews of in-class work
 
 ## Examples
 - Before a reading assignment, the teacher provides a brief summary of the main points and key vocabulary, then returns to those points during discussion.

@@ -69,7 +69,7 @@ Elaboration improves retention and comprehension because deeper processing at en
 
 ## Patterns That Use This Element
 - [Elaboration Theory](../patterns/elaboration-theory.md) — Reigeluth's model sequences instruction from simple to complex with elaborating layers of detail
-- [5E Learning Cycle](../patterns/5e-learning-cycle.md) — the "Explain" and "Elaborate" phases explicitly require learners to extend and connect concepts
+- [5E Learning Cycle](../principles/inquiry-based-learning.md) — the "Explain" and "Elaborate" phases explicitly require learners to extend and connect concepts
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — the articulation and reflection phases prompt learners to elaborate on their own reasoning
 
 ## Examples

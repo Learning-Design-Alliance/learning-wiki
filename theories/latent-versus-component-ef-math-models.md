@@ -48,7 +48,7 @@ The article formalizes two conceptual models for how EF relates to children's ma
 
 ## Examples
 
-- [EF interventions aiming to transfer to mathematics should target factors general to all EF components rather than specific components](../principles/ef-interventions-target-general-factors-for-math-transfer.md)
+- [EF interventions aiming to transfer to mathematics should target factors general to all EF components rather than specific components](../principles/transfer-of-learning.md)
 
 ## Key Sources
 - Nguyen, T., Duncan, R.J., & Bailey, D.H. (2019). Theoretical and methodological implications of associations between executive function and mathematics in early childhood. Contemporary Educational Psychology. https://doi.org/10.1016/j.cedpsych.2019.04.002

@@ -80,8 +80,8 @@ Number Talks operationalize [Active Learning](../principles/active-learning.md) 
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the opening problem should connect to strategies built in earlier talks
 - [Think-Pair-Share](../patterns/think-pair-share.md) — a turn-and-talk variant that widens participation before whole-class sharing
 - [Error Analysis](../principles/error-analysis.md) — discussing a flawed strategy publicly turns errors into contrast cases
-- [Cognitively Guided Instruction (CGI for Math)](../patterns/cognitively-guided-instruction-cgi-for-math.md) — shares the stance that student-generated strategies are the curriculum's raw material
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — Number Talks are a tightly structured, math-specific instance
+- [Cognitively Guided Instruction (CGI for Math)](../principles/responsive-teaching.md) — shares the stance that student-generated strategies are the curriculum's raw material
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — Number Talks are a tightly structured, math-specific instance
 - [Formative Assessment](../patterns/formative-assessment.md) — the routine doubles as daily evidence of student reasoning
 - [Extend rich student discourse beyond Math Talks and use participation structures and story problems to broaden access and sense-making](extend-discourse-beyond-math-talks.md)
 - [Use low-stakes, multiple-entry warm-ups like \"Which One Doesn't Belong?\" to reduce fear of wrong answers](which-one-doesnt-belong-low-stakes-warmup.md)
@@ -158,8 +158,8 @@ Number Talks operationalize [Active Learning](../principles/active-learning.md) 
 6. **Close by connecting** the strategies to the underlying property or big idea, and note which students used which strategies to inform tomorrow's problem choice ([Assessment](../elements/assessment.md) for learning).
 
 ## Related Strategies
-- [Cognitively Guided Instruction (CGI for Math)](../patterns/cognitively-guided-instruction-cgi-for-math.md) — shares the stance that student-generated strategies are the curriculum's raw material
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — Number Talks are a tightly structured, math-specific instance
+- [Cognitively Guided Instruction (CGI for Math)](../principles/responsive-teaching.md) — shares the stance that student-generated strategies are the curriculum's raw material
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — Number Talks are a tightly structured, math-specific instance
 - [Formative Assessment](../patterns/formative-assessment.md) — the routine doubles as daily evidence of student reasoning
 
 ## Examples

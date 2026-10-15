@@ -66,7 +66,7 @@ Lesson Study works because it converts teaching into a site of systematic inquir
 - [Shift the locus of professional learning to school sites and classrooms, connected to teachers' everyday practice](site-based-pd-connected-to-everyday-practice.md)
 
 ## Patterns That Use This Strategy
-- [Collaborative Inquiry](../patterns/collaborative-inquiry.md) — lesson study is the most formalized collaborative inquiry protocol for teachers
+- [Collaborative Inquiry](../principles/inquiry-based-learning.md) — lesson study is the most formalized collaborative inquiry protocol for teachers
 - [Communities of Practice](../principles/communities-of-practice.md) — sustained lesson study teams enact legitimate peripheral participation for novice teachers
 
 ## Examples

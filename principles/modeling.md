@@ -1,6 +1,7 @@
 ---
 type: principle
 id: modeling
+aliases: [model-cmr-through-observable-phenomena]
 title: Modeling
 description: "For a novice on a task whose key decisions a finished product hides, a model that narrates those decisions, studied actively and followed at once by supported practice, is expected to give better unaided performance than the product alone or no model, though no claim here tests live or narrated modelling directly; the evidence is carried from worked examples and self-explanation."
 canonical: true
@@ -8,12 +9,21 @@ status: review
 generated:
   by: claude/unspecified
   at: 2026-10-05
+sources:
+  - id: scharlott-2024
+    resource: "https://doi.org/10.1021/acs.jchemed.3c00517"
+    title: "Scharlott, L. J.; Rippey, D. W.; Rosa, V.; Becker, N. M. (2024). Progression toward Causal Mechanistic Reasoning through Phenomenon-Based Learning in Introductory Chemistry. Journal of Chemical Education. https://doi.org/10.1021/acs.jchemed.3c00517"
+    author: Scharlott, L. J.; Rippey, D. W.; Rosa, V.; Becker, N. M
+  - id: merrill-2002
+    resource: "https://doi.org/10.1007/BF02505024"
+    title: "Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development, 50*(3), 43-59"
+    author: Merrill, M. D
 ---
 
 # Modeling
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 22 claims (16 for, 6 mixed) · 32 studies (9 causal, 7 review, 4 qualitative, 4 theoretical, 3 quant-synthesis, 3 design, 2 associational), `q1`–`q4` · 2 of 32 report an effect size · 13 claims rest on one study
+> **Evidence** · 25 claims (18 for, 7 mixed) · 37 studies (11 causal, 7 review, 5 qualitative, 4 quant-synthesis, 4 theoretical, 3 associational, 3 design), `q1`–`q4` · 2 of 37 report an effect size · 15 claims rest on one study
 
 ## Conditional relationship
 
@@ -122,6 +132,9 @@ Claims that mention modelling but bear on this page little or not at all:
 - [Initial findings suggest video modeling pedagogy is suitable for active and deep learning through predicting, observing and explaining](../claims/video-modeling-suits-active-deep-learning.md) [+W]: "video modeling" here means students building physics models of motion in video-analysis software, not watching a demonstration; a design report with no systematic data. Does not bear on this page's relationship.
 - [Children, unlike animals, can imitate actions beyond their independent capabilities and profit from instruction](../claims/children-imitate-beyond-independent-capability.md) [+W]: a theoretical argument attributed to Vygotsky, in a review; it is a rationale for imitation within limits, not a test of modelling.
 - [Presentation software adoption rose even though it was modeled by instructors rather than directly taught](../claims/loa-presentation-software-modeled-not-taught-gain.md) [+W]: self-reported adoption of one technology rose in a 15-person pilot when instructors used it without teaching it; no comparison condition, so it does not separate modelling from other exposure.
+- [Instructional Cmr Time Correlates Student Cmr](../claims/instructional-cmr-time-correlates-student-cmr.md) [+M]
+- [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-example-problem-sequences.md) [+M]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 
 ## Objective and learner-valued goal
 
@@ -145,9 +158,12 @@ Imitation right after the model, unaided immediate performance, delayed retentio
 - [Cognitive Apprenticeship](scaffolding-and-fading.md) — extends modeling into coaching, scaffolding, and fading
 - [Worked Examples](worked-examples.md) — written solutions studied before a comparable problem; the best-evidenced form of modelling
 - [Guided Practice](guided-practice.md) — the supported attempts that should follow a model at once
-- [Self-Explanation](self-explanation.md) — prompting learners to explain what they watch or study
+- [Self-Explanation](cognitive-activation.md) — prompting learners to explain what they watch or study
 
 ## Examples
+- [Incorporate assessment questions that elicit causal mechanistic reasoning through phenomena, scaffolded but not over-probed](../strategies/align-assessments-with-cmr-phenomena.md)
+- An instructor models a complete solution path before learners solve a similar problem with support.
+- A clinical trainer demonstrates a procedure while narrating the key decision points.
 
 ### Illustrative
 
@@ -162,6 +178,8 @@ Imitation right after the model, unaided immediate performance, delayed retentio
 ## Key Sources
 - Bandura, A. (1986). *Social foundations of thought and action*. Prentice Hall.
 - Collins, A., Brown, J. S., & Holum, A. (1991). Cognitive apprenticeship: Making thinking visible. *American Educator, 15*(3), 6–11, 38–46.
+- Scharlott, L. J.; Rippey, D. W.; Rosa, V.; Becker, N. M. (2024). Progression toward Causal Mechanistic Reasoning through Phenomenon-Based Learning in Introductory Chemistry. Journal of Chemical Education. https://doi.org/10.1021/acs.jchemed.3c00517
+- Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development, 50*(3), 43-59. [https://doi.org/10.1007/BF02505024](https://doi.org/10.1007/BF02505024)
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -225,4 +243,114 @@ Modeling matters when learners cannot infer expert processes from finished produ
 ## Key Sources
 - Bandura, A. (1986). *Social foundations of thought and action*. Prentice Hall.
 - Collins, A., Brown, J. S., & Holum, A. (1991). Cognitive apprenticeship: Making thinking visible. *American Educator, 15*(3), 6–11, 38–46.
+-->
+
+<!-- merged 2026-10-15 from principles/model-cmr-through-observable-phenomena ("Model causal mechanistic reasoning in class through observable phenomena rather than using phenomena merely as hooks"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Model causal mechanistic reasoning in class through observable phenomena rather than using phenomena merely as hooks
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+The article recommends that instructors center class time on explaining how and why observable events happen using molecular-level entities, behaviors, and interactions, because students who were modeled causal mechanistic reasoning in the context of an observable phenomenon more readily translated it to phenomenon-based tasks. It cautions that "Phenomenon-Based Learning goes beyond using the phenomenon as a context placer, but rather it places emphasis on figuring specific happenings and maintaining the focus on that happening." Instructors should use established standards and curricula to guide content alignment.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Instructors must dedicate substantial class time to demonstrating causal mechanistic reasoning grounded in a phenomenon, including entities, behaviors, and connection back to the phenomenon.
+#### Constraints
+- The article states future work must determine if the phenomenon itself was the driving factor in higher levels of reasoning, and that increasing instructional time may not have a 1-to-1 relationship to student outcomes.
+
+### Target Learners
+- undergraduate introductory chemistry students
+
+### Target Learning Objectives
+- causal mechanistic explanation of chemical phenomena
+
+### Claims
+- [Instructional Cmr Time Correlates Student Cmr](../claims/instructional-cmr-time-correlates-student-cmr.md) [+M]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Incorporate assessment questions that elicit causal mechanistic reasoning through phenomena, scaffolded but not over-probed](../strategies/align-assessments-with-cmr-phenomena.md)
+
+## Key Sources
+- Scharlott, L. J.; Rippey, D. W.; Rosa, V.; Becker, N. M. (2024). Progression toward Causal Mechanistic Reasoning through Phenomenon-Based Learning in Introductory Chemistry. Journal of Chemical Education. https://doi.org/10.1021/acs.jchemed.3c00517
+-->
+
+<!-- merged 2026-10-15 from patterns/merrills-first-principles-demonstration ("Merrill's First Principles (Demonstration)"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Merrill's First Principles (Demonstration)
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 6 studies (3 causal, 1 quant-synthesis, 1 review, 1 qualitative), `q2`–`q4` · 0 of 6 report an effect size · 1 claim rests on one study
+
+## Description
+This page captures the demonstration-focused slice of Merrill's First Principles of Instruction: showing what successful performance or reasoning looks like before asking learners to apply it independently. It serves as the canonical short-form target for links that reference Merrill's demonstration move specifically rather than the full instructional pattern.
+
+## Implications
+
+### Context
+#### Requirements
+- **A target performance worth modeling**
+- **A visible expert example or reasoning process**
+- **Connection between the model and later learner application**
+#### Constraints
+- **Demonstration without practice is insufficient**
+- **Over-detailed models can overload novices**
+#### Grain Size
+- Lesson
+
+### Target Goals
+- Make expert performance visible.
+- Prepare learners for guided application.
+
+### Target Learners
+- Learners who need modeled reasoning, procedure, or task execution before independent work.
+
+### Theory
+#### Supporting
+- Worked-example and modeling traditions.
+- Task-centered instruction perspectives.
+#### Contradicting / Qualifying
+- Demonstration should lead into practice, feedback, and integration rather than remain passive viewing.
+
+### Claims
+- [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-example-problem-sequences.md) [+M]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
+
+## Design
+
+### Sequence
+1. Present the target task or subtask.
+2. Demonstrate successful performance or reasoning.
+3. Highlight key decisions, cues, or criteria.
+4. Transition learners into supported application.
+
+### Elements Used
+- [Demonstration](../elements/demonstration.md)
+- [Think-Aloud](../elements/think-aloud.md)
+- [Worked Examples](../elements/worked-examples.md)
+
+### Affordances
+- [Modeling](../principles/modeling.md)
+- [Worked Examples](../principles/worked-examples.md)
+- [Scaffolding and Fading](../principles/scaffolding-and-fading.md)
+
+## Related Patterns
+
+- [Merrill's First Principles of Instruction](../patterns/4cid-four-component-instructional-design.md)
+- [Demonstration, application, and integration corollaries of Merrill's framework](../patterns/merrill-demonstration-application-integration-corollaries.md)
+
+## Examples
+- An instructor models a complete solution path before learners solve a similar problem with support.
+- A clinical trainer demonstrates a procedure while narrating the key decision points.
+
+## Key Sources
+- Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development, 50*(3), 43-59. [https://doi.org/10.1007/BF02505024](https://doi.org/10.1007/BF02505024)
 -->

@@ -37,7 +37,7 @@ Counting strategies are developmentally valuable but computationally expensive: 
 #### Implementation Variability
 - **Counting all → counting on:** modeled via [Think-Aloud](../elements/think-aloud.md) and [Demonstration](../elements/demonstration.md), then discovered through practice
 - **Min strategy (count on from larger):** most children adopt this adaptively by age 5–6 without direct instruction [+S]
-- **Derived facts / decomposition** (e.g., 8 + 6 = 8 + 2 + 4): the bridge from counting to retrieval, supported by [Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md)
+- **Derived facts / decomposition** (e.g., 8 + 6 = 8 + 2 + 4): the bridge from counting to retrieval, supported by [Cognitively Guided Instruction](../principles/responsive-teaching.md)
 - **Counting up for subtraction** (13 − 9 → "9… 10, 11, 12, 13") is more accurate than counting down for small differences [+M]
 
 ### Target Learners
@@ -66,7 +66,7 @@ Counting strategies are developmentally valuable but computationally expensive: 
 - [Teach struggling students a counting-up strategy for calculation and missing-number word problems](counting-up-strategy-tutoring.md)
 
 ## Examples
-- **Cognitively Guided Instruction (CGI)** — teachers diagnose each child's counting strategy from problem-solving interviews and sequence problems to advance strategy sophistication ([CGI for Math](../patterns/cognitively-guided-instruction-cgi-for-math.md)).
+- **Cognitively Guided Instruction (CGI)** — teachers diagnose each child's counting strategy from problem-solving interviews and sequence problems to advance strategy sophistication ([CGI for Math](../principles/responsive-teaching.md)).
 - **Number Talks (Parrish, 2010)** — whole-class routines in which students share how they computed (e.g., counting on vs. making tens), making strategy differences visible and norming efficient choices.
 - **Assessment use:** asking children to solve addition problems and observing min-strategy use (latency scaling) is a standard diagnostic for early numeracy screening.
 

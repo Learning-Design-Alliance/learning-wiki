@@ -36,7 +36,7 @@ Time on task only pays off when it is *active* and *focused*: passive seat time 
 
 #### Implementation Variability
 - Whole-class rapid response formats (choral response, response cards, whiteboards) versus individual practice cycles
-- Station rotations, [Flipped Classroom](../patterns/flipped-classroom.md) designs that free class time for active work, or peer-tutoring structures
+- Station rotations, [Flipped Classroom](../principles/flipped-learning.md) designs that free class time for active work, or peer-tutoring structures
 - Intensity can be raised by shortening feedback loops rather than lengthening sessions
 
 ### Target Learners
@@ -59,7 +59,7 @@ Time on task only pays off when it is *active* and *focused*: passive seat time 
 
 ## Related Strategies
 - [Direct Instruction](../patterns/direct-instruction.md) — the scripted high-response-rate teaching model this strategy most often accompanies
-- [Flipped Classroom](../patterns/flipped-classroom.md) — reallocates exposure time outside class to maximize in-class active engagement
+- [Flipped Classroom](../principles/flipped-learning.md) — reallocates exposure time outside class to maximize in-class active engagement
 
 ## Examples
 - **National Institute for Direct Instruction (DI) programs** (e.g., *Reading Mastery*, https://www.nifdi.org) — rapid-paced choral and individual responding every few seconds, with in-program review distributed across lessons.

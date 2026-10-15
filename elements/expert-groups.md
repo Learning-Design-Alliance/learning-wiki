@@ -47,7 +47,7 @@ Expert groups promote deep processing because preparing to teach forces learners
 
 ### Affordances
 - [Collaborative Learning](../principles/collaborative-learning.md) — expert groups enact this principle by structuring positive interdependence: no learner can complete the task alone, so cooperation is built into the task rather than requested
-- [Constructivism](../principles/constructivism.md) — learners actively construct understanding by reorganizing source material into teachable form, consistent with social constructivist accounts of knowledge building through explanation
+- [Constructivism](../principles/cognitive-activation.md) — learners actively construct understanding by reorganizing source material into teachable form, consistent with social constructivist accounts of knowledge building through explanation
 - Distributed cognition — the structure distributes a knowledge domain across group members, so the group collectively knows more than any individual, and learning requires integrating distributed pieces
 
 ### Claims
@@ -62,7 +62,7 @@ Expert groups promote deep processing because preparing to teach forces learners
 - [Assessment](assessment.md) — individual accountability measures prevent free-riding
 
 ## Patterns That Use This Element
-- [Collaborative Inquiry](../patterns/collaborative-inquiry.md) — expert groups supply the distributed expertise phase
+- [Collaborative Inquiry](../principles/inquiry-based-learning.md) — expert groups supply the distributed expertise phase
 - Jigsaw — the canonical pattern; expert groups are its defining mechanism
 - [Collaborative Learning](../patterns/collaborative-learning.md) — expert groups as a structured variant with assigned expertise roles
 

@@ -47,7 +47,7 @@ Seminar format is the element in which learning is organized around sustained di
 
 ## Patterns That Use This Element
 - [Socratic Seminar](../patterns/socratic-seminar.md)
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md)
+- [Discussion-Based Learning](../principles/collaborative-learning.md)
 
 ## Examples
 - Text-centered seminar where learners respond to each other around a common prompt.

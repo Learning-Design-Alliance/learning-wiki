@@ -58,7 +58,7 @@ Argumentation improves conceptual understanding and scientific reasoning because
 - Argumentation skill: constructing, critiquing, and revising arguments
 
 ### Affordances
-- [Constructivism](../principles/constructivism.md) — justification enacts this principle by requiring learners to build and defend their own conclusions rather than receive them; the argument is the site of knowledge construction
+- [Constructivism](../principles/cognitive-activation.md) — justification enacts this principle by requiring learners to build and defend their own conclusions rather than receive them; the argument is the site of knowledge construction
 - [Active Learning](../principles/active-learning.md) — argumentation is inherently generative: learners produce claims, select evidence, and reason aloud rather than passively receiving content
 - [Collaborative Learning](../principles/collaborative-learning.md) — argumentation gains force from social interaction; peer critique and disagreement expose gaps that solo justification hides
 - [Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md) — defending a recommendation to a real or simulated audience (a client, a review panel) gives justification an authentic purpose and raises the stakes for evidence quality
@@ -82,8 +82,8 @@ Argumentation improves conceptual understanding and scientific reasoning because
 
 ## Patterns That Use This Element
 - [Debate](../patterns/debate.md) — the canonical argumentation pattern; assigned positions force evidence-gathering on both sides
-- [Case-Based Learning (Harvard Method)](../patterns/case-based-learning-harvard-method.md) — learners must justify recommendations from ambiguous case evidence and defend them against peer challenge
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — argumentation supplies the epistemic standards that distinguish rigorous discussion from opinion exchange
+- [Case-Based Learning (Harvard Method)](../patterns/case-based-learning.md) — learners must justify recommendations from ambiguous case evidence and defend them against peer challenge
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — argumentation supplies the epistemic standards that distinguish rigorous discussion from opinion exchange
 - MEL Reasoning Pattern — Model–Evidence–Link diagrams ask learners to connect competing models to evidence lines, making justification a visual, structured act
 
 ## Examples

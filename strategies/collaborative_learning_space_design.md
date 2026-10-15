@@ -61,8 +61,8 @@ Space design is an enabling condition rather than a learning mechanism in itself
 
 ## Related Strategies
 
-- [Flipped Classroom](../patterns/flipped-classroom.md) — freed class time is spent on the interaction that collaborative space makes possible
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — circular or clustered seating is a precondition for equitable discussion
+- [Flipped Classroom](../principles/flipped-learning.md) — freed class time is spent on the interaction that collaborative space makes possible
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — circular or clustered seating is a precondition for equitable discussion
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — shared work surfaces let groups observe and critique one another's reasoning in progress
 - [Use technology to facilitate active participation rather than replace face-to-face learning, potentially creating greater synchronicity between modes](technology-facilitates-not-replaces-face-to-face.md)
 

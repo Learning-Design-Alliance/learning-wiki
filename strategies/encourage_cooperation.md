@@ -76,7 +76,7 @@ Cooperative structures work because articulating ideas to peers forces elaborati
 - [Cooperative Learning](../patterns/cooperative-learning.md) — the formal pattern this strategy instantiates
 - [Collaborative Learning](../patterns/collaborative-learning.md) — broader family of peer-based designs
 - [Community of Inquiry](../principles/community-of-inquiry.md) — social presence as a condition for deep learning
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — dialogue-centered variant
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — dialogue-centered variant
 
 ## Examples
 - A learning center forms standing study groups; tutees work collaborative tutoring assignments and analyze cases together, then individually submit reflection notes to preserve accountability.

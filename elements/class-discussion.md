@@ -50,7 +50,7 @@ Discussion supports learning primarily when learners are doing generative cognit
 - [Active Learning](../principles/active-learning.md) — discussion is a canonical active-learning format; learners generate and defend ideas rather than receive them
 - [Collaborative Learning](../principles/collaborative-learning.md) — discussion enacts this principle by making knowledge construction a joint activity in which learners build on and challenge each other's contributions
 - [Community of Inquiry](../principles/community-of-inquiry.md) — sustained discussion develops the social and cognitive presence that this framework identifies as necessary for deep learning
-- [Constructivism](../principles/constructivism.md) — learners confront their interpretations against alternatives, creating the [Cognitive Conflict](cognitive-conflict.md) that drives conceptual revision
+- [Constructivism](../principles/cognitive-activation.md) — learners confront their interpretations against alternatives, creating the [Cognitive Conflict](cognitive-conflict.md) that drives conceptual revision
 - [Cognitive Activation](../principles/cognitive-activation.md) — well-facilitated discussion uses authentic questions and follow-ups that push learners beyond recall toward reasoning
 
 ### Claims
@@ -66,13 +66,13 @@ Discussion supports learning primarily when learners are doing generative cognit
 - [Coaching](coaching.md) — the facilitation stance instructors take during discussion
 
 ## Patterns That Use This Element
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — discussion as the primary instructional vehicle
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — discussion as the primary instructional vehicle
 - [Debate](../patterns/debate.md) — discussion formalized into structured opposing positions
 - [Case-Based Learning](../patterns/case-based-learning.md) — discussion applied to analyzing a shared case
-- [Flipped Classroom](../patterns/flipped-classroom.md) — class time freed for discussion after content delivery moves outside class
+- [Flipped Classroom](../principles/flipped-learning.md) — class time freed for discussion after content delivery moves outside class
 
 ## Examples
-- **[Socratic Seminar](../patterns/discussion-based-learning.md)** — a text-based discussion protocol in which students question each other with the teacher as facilitator; widely used in humanities classrooms
+- **[Socratic Seminar](../principles/collaborative-learning.md)** — a text-based discussion protocol in which students question each other with the teacher as facilitator; widely used in humanities classrooms
 - **[Paideia Seminars](https://www.paideia.org)** — published seminar protocols with rubrics for evaluating discussion quality
 - **[Perusall](https://www.perusall.com)** — asynchronous social annotation that structures discussion directly on course readings
 - **[Piazza](https://piazza.com)** — online Q&A platform supporting structured peer discussion in large courses

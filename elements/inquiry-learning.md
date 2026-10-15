@@ -67,7 +67,7 @@ Inquiry can produce deep, transferable understanding when learners have enough s
 ## Patterns That Use This Element
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — exploration phase, supported by modeling and coaching
 - [Anchored Instruction](../patterns/anchored-instruction.md) — inquiry launched from an authentic problem scenario
-- [Collaborative Inquiry](../patterns/collaborative-inquiry.md) — investigation distributed across a group
+- [Collaborative Inquiry](../principles/inquiry-based-learning.md) — investigation distributed across a group
 - [Case-Based Learning](../patterns/case-based-learning.md) — hypothesis-driven analysis of cases
 
 ## Examples
@@ -76,9 +76,9 @@ Inquiry can produce deep, transferable understanding when learners have enough s
 
 **[WISE (Web-Based Inquiry Science Environment)](https://wise.berkeley.edu)** — Scaffolds inquiry projects with embedded prompts, data visualization tools, and reflection notes; extensively studied as a model of guided inquiry.
 
-**[Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md)** — Teachers elicit and build on children's informal problem-solving strategies, a classroom-inquiry form in mathematics.
+**[Cognitively Guided Instruction](../principles/responsive-teaching.md)** — Teachers elicit and build on children's informal problem-solving strategies, a classroom-inquiry form in mathematics.
 
-**[Case-Based Learning (Harvard Method)](../patterns/case-based-learning-harvard-method.md)** — Learners analyze real cases and defend recommendations, inquiry in a discussion format.
+**[Case-Based Learning (Harvard Method)](../patterns/case-based-learning.md)** — Learners analyze real cases and defend recommendations, inquiry in a discussion format.
 - [Embed the ReACT reasoning-acting-observing-reflecting cycle in tutoring systems to mirror inquiry-based learning](../strategies/react-cycle-inquiry-based-learning.md)
 
 ## Key Sources

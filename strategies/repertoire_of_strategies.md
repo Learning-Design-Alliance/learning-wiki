@@ -36,7 +36,7 @@ Building a strategy repertoire shifts instruction from single-procedure mastery 
 
 #### Implementation Variability
 - **Comparison-first:** present two worked solutions side by side and discuss trade-offs before practice
-- **Invention-first:** let learners attempt problems, then share and compare student-generated methods (as in [Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md))
+- **Invention-first:** let learners attempt problems, then share and compare student-generated methods (as in [Cognitively Guided Instruction](../principles/responsive-teaching.md))
 - **Faded repertoire:** begin with one anchor strategy, add alternatives as expertise grows, consistent with the expertise-reversal principle [~S]
 
 ### Target Learners
@@ -72,7 +72,7 @@ Building a strategy repertoire shifts instruction from single-procedure mastery 
 ## Examples
 - **Number talks (K–6 mathematics):** a teacher poses one computation, students solve mentally with different methods, and the class compares strategies (e.g., decomposition vs. standard algorithm), making the repertoire public and evaluated.
 - **Comparison in algebra (Rittle-Johnson & Star's studies):** students studying two worked examples of the same problem side by side, explaining similarities and differences, showed greater procedural flexibility than students studying the examples sequentially.
-- **[Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md)** — teachers elicit and map children's informal strategies (direct modeling, counting, derived facts) rather than imposing a single algorithm.
+- **[Cognitively Guided Instruction](../principles/responsive-teaching.md)** — teachers elicit and map children's informal strategies (direct modeling, counting, derived facts) rather than imposing a single algorithm.
 
 ## Key Sources
 - Rittle-Johnson, B., & Star, J. R. (2007). Does comparing solution methods facilitate conceptual and procedural knowledge? An experimental study on learning to solve equations. *Journal of Educational Psychology, 99*(3), 561–574. [doi:10.1037/0022-0663.99.3.561](https://doi.org/10.1037/0022-0663.99.3.561)

@@ -19,13 +19,13 @@ Counting All is the earliest arithmetic strategy children use to solve additive 
 
 ## Design Implications
 
-Counting All embodies the developmental progression documented in [Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md): children's solution strategies move from direct modeling (counting all) through counting strategies to derived facts and recall [Carpenter et al. showed that teaching aligned with children's strategy progression improves achievement.](../claims/activation-improves-learning.md) [+M]. Because it requires holding a count in working memory while tracking objects, it is working-memory intensive, and instruction should reduce extraneous load by using organized arrangements of objects [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. The strategy's value is conceptual: it makes the part–whole structure of addition physically visible before symbolic notation is introduced.
+Counting All embodies the developmental progression documented in [Cognitively Guided Instruction](../principles/responsive-teaching.md): children's solution strategies move from direct modeling (counting all) through counting strategies to derived facts and recall [Carpenter et al. showed that teaching aligned with children's strategy progression improves achievement.](../claims/activation-improves-learning.md) [+M]. Because it requires holding a count in working memory while tracking objects, it is working-memory intensive, and instruction should reduce extraneous load by using organized arrangements of objects [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. The strategy's value is conceptual: it makes the part–whole structure of addition physically visible before symbolic notation is introduced.
 
 ### Context
 #### Requirements
 - Countable objects, fingers, or drawings that can be physically grouped and combined
 - Word problems or number stories whose semantics match the counting action (e.g., join and separate problems)
-- Teacher familiarity with the developmental sequence from direct modeling to abstract strategies, as in [Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md)
+- Teacher familiarity with the developmental sequence from direct modeling to abstract strategies, as in [Cognitively Guided Instruction](../principles/responsive-teaching.md)
 
 #### Constraints
 - Counting All becomes inefficient and error-prone as numbers grow; learners who remain dependent on it past the point of efficiency fall behind peers who transition to counting on and derived facts [-M] — persistent use signals a need for intervention, not more of the same practice
@@ -64,7 +64,7 @@ Counting All embodies the developmental progression documented in [Cognitively G
 - [Teach struggling students a counting-up strategy for calculation and missing-number word problems](counting-up-strategy-tutoring.md)
 
 ## Examples
-- **Cognitively Guided Instruction classrooms** — Teachers diagnose each child's strategy (counting all vs. counting on) from problem-solving interviews and sequence word problems to prompt strategy advancement (see [CGI for Math](../patterns/cognitively-guided-instruction-cgi-for-math.md)).
+- **Cognitively Guided Instruction classrooms** — Teachers diagnose each child's strategy (counting all vs. counting on) from problem-solving interviews and sequence word problems to prompt strategy advancement (see [CGI for Math](../principles/responsive-teaching.md)).
 - **Number Talks (Parrish, 2010)** — Early-years number talks ask children to share *how* they found a total, making counting-all strategies public and comparable to more efficient peer strategies.
 - **DreamBox Learning** — Adaptive early-numeracy lessons use virtual counters and ten-frames, first accepting counting-all solutions then nudging toward counting on as efficiency grows.
 

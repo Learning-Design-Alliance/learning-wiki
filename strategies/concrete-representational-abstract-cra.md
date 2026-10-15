@@ -123,7 +123,7 @@ CRA manages intrinsic cognitive load by giving abstract notation a referent lear
 5. Provide immediate corrective [feedback](../elements/provide-feedback.md) at each level and [assess performance](../elements/assess-performance.md) against a mastery criterion before advancing
 
 ## Related Strategies
-- [Cognitively Guided Instruction (CGI for Math)](../patterns/cognitively-guided-instruction-cgi-for-math.md) — shares CRA's commitment to grounding symbols in learners' own models of quantities
+- [Cognitively Guided Instruction (CGI for Math)](../principles/responsive-teaching.md) — shares CRA's commitment to grounding symbols in learners' own models of quantities
 - [Explicit Teaching](../patterns/direct-instruction.md) — CRA is typically delivered through explicit modeling, guided practice, and independent practice
 - [Manipulative-Based Instruction](../strategies/activating-prior-knowledge.md) — the concrete phase generalizes beyond mathematics to science and other domains
 - [Worked Examples](worked-examples-first.md) — CRA phases can be delivered as worked examples with representations shown step by step
@@ -139,7 +139,7 @@ CRA manages intrinsic cognitive load by giving abstract notation a referent lear
 - **Fraction equivalence**: fraction tiles compared physically, then bar diagrams, then the symbolic procedure for finding common denominators
 - **Witzel's CRA algebra curriculum**: solving *x* + 3 = 5 with cups and counters before pictorial sketches and finally symbolic manipulation
 - **[Number Frames / Number Pieces apps](https://www.mathlearningcenter.org/apps)** — free virtual manipulatives supporting the concrete and representational phases digitally
-- **[Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md)** — builds arithmetic understanding from children's informal, concrete modeling strategies toward abstract number sentences
+- **[Cognitively Guided Instruction](../principles/responsive-teaching.md)** — builds arithmetic understanding from children's informal, concrete modeling strategies toward abstract number sentences
 - **[Concrete-Representational-Abstract instruction for fractions](https://pubmed.ncbi.nlm.nih.gov/12815749/)** — Butler, Miller, Crehan, Babbitt & Pierce (2003) compared CRA and representational-only treatments for teaching fraction concepts to secondary students with learning disabilities; both improved, CRA strongest for subtraction
 - **[National Library of Virtual Manipulatives](https://nlvm.usu.edu)** — free virtual manipulatives (base-ten blocks, algebra tiles) supporting the concrete-to-representational transition in digital contexts
 - **Singapore Math / Math in Focus** — published curriculum built on the concrete–pictorial–abstract sequence, using bar models as the representational bridge to algebraic reasoning
@@ -218,7 +218,7 @@ CRA manages the transition from embodied, situated understanding to symbolic flu
 ## Examples
 **CRA mathematics intervention (Butler, Miller, Crehan, Babbitt & Pierce, 2003)** — Algebra instruction for secondary students with learning disabilities sequenced from concrete tiles to diagrams to symbolic equations; the CRA group outperformed a representational-abstract group on posttests and maintained gains at follow-up.
 
-**[Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md)** — Builds instruction from children's informal, concrete solution strategies toward formal abstract procedures, treating learners' own concrete methods as the starting point.
+**[Cognitively Guided Instruction](../principles/responsive-teaching.md)** — Builds instruction from children's informal, concrete solution strategies toward formal abstract procedures, treating learners' own concrete methods as the starting point.
 
 **[Brainingcamp](https://www.brainingcamp.com)** — Digital fraction tiles and other virtual manipulatives paired with symbolic notation on the same screen, enacting the concrete-to-abstract link in a single view.
 
@@ -324,7 +324,7 @@ CRA manages the transition from embodied understanding to symbolic fluency, redu
 - [Scaffolding](scaffolding.md) — the stage sequence is a scaffold that must be faded as symbolic competence grows
 
 ## Patterns That Use This Strategy
-- [Cognitively Guided Instruction (CGI) for Math](../patterns/cognitively-guided-instruction-cgi-for-math.md) — builds from children's informal, concrete problem-solving strategies toward symbolic procedures
+- [Cognitively Guided Instruction (CGI) for Math](../principles/responsive-teaching.md) — builds from children's informal, concrete problem-solving strategies toward symbolic procedures
 - [Direct Instruction](../patterns/direct-instruction.md) — scripted CRA sequences are common in DI mathematics programs
 - [Develop Understanding](../patterns/develop-understanding.md) — the concrete and representational phases enact the concept-development component
 
@@ -334,7 +334,7 @@ CRA manages the transition from embodied understanding to symbolic fluency, redu
 **Montessori mathematics materials** — Golden beads and stamp games embody place value concretely before symbolic work, an early precursor of the sequence.
 
 **Special education mathematics interventions** — The National Center on Intensive Intervention's mathematics lesson plans specify CRA sequences for fractions and computation (https://intensiveintervention.org).
-- **[Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md)** — builds arithmetic understanding from children's informal, concrete modeling strategies toward abstract number sentences
+- **[Cognitively Guided Instruction](../principles/responsive-teaching.md)** — builds arithmetic understanding from children's informal, concrete modeling strategies toward abstract number sentences
 - **[Concrete-Representational-Abstract instruction for fractions](https://pubmed.ncbi.nlm.nih.gov/12815749/)** — Butler, Miller, Crehan, Babbitt & Pierce (2003) compared CRA and representational-only treatments for teaching fraction concepts to secondary students with learning disabilities; both improved, CRA strongest for subtraction
 - **[National Library of Virtual Manipulatives](https://nlvm.usu.edu)** — free virtual manipulatives (base-ten blocks, algebra tiles) supporting the concrete-to-representational transition in digital contexts
 - **Singapore Math / Math in Focus** — published curriculum built on the concrete–pictorial–abstract sequence, using bar models as the representational bridge to algebraic reasoning
@@ -409,7 +409,7 @@ CRA sequencing manages the transition from embodied, perceptual understanding to
 - [Use CRA-based small-group math tutoring with scripts, manipulatives, and computer fact practice as secondary prevention](cra-small-group-math-tutoring-secondary-prevention.md)
 
 ## Examples
-- **[Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md)** — builds arithmetic understanding from children's informal, concrete modeling strategies toward abstract number sentences
+- **[Cognitively Guided Instruction](../principles/responsive-teaching.md)** — builds arithmetic understanding from children's informal, concrete modeling strategies toward abstract number sentences
 - **[Concrete-Representational-Abstract instruction for fractions](https://pubmed.ncbi.nlm.nih.gov/12815749/)** — Butler, Miller, Crehan, Babbitt & Pierce (2003) compared CRA and representational-only treatments for teaching fraction concepts to secondary students with learning disabilities; both improved, CRA strongest for subtraction
 - **[National Library of Virtual Manipulatives](https://nlvm.usu.edu)** — free virtual manipulatives (base-ten blocks, algebra tiles) supporting the concrete-to-representational transition in digital contexts
 - **Singapore Math / Math in Focus** — published curriculum built on the concrete–pictorial–abstract sequence, using bar models as the representational bridge to algebraic reasoning

@@ -30,7 +30,7 @@ The three-word constraint is the design's engine. By limiting each turn, it prev
 #### Constraints
 - The word limit frustrates learners with limited vocabulary in the topic domain, who may stall rather than elaborate [-W] — pair with [Accessible Vocabulary & Syntax](../principles/accessible-vocabulary-syntax.md) supports for multilingual learners
 - A poorly chosen sentence (trivial or too opaque) produces shallow or off-target talk; the activity inherits the quality of the selection
-- The constraint suppresses extended reasoning; it is a primer, not a substitute for full [Discussion-Based Learning](../patterns/discussion-based-learning.md) afterward [-W]
+- The constraint suppresses extended reasoning; it is a primer, not a substitute for full [Discussion-Based Learning](../principles/collaborative-learning.md) afterward [-W]
 - Conversations can drift to speculation unsupported by the text if no debrief anchors them back
 
 #### Implementation Variability

@@ -44,8 +44,7 @@ The paper adapts Hersey's Situational Leadership Model, already used in manageme
 
 ## Examples
 
-- [Four-quadrant progression from unready learner to independent library user with matching instructor behavior](../patterns/four-quadrant-library-learner-progression.md)
-- [Balance challenge and support when instructing inexperienced library users](../principles/balance-challenge-and-support-library-instruction.md)
+- [Four-quadrant progression from unready learner to independent library user with matching instructor behavior](../principles/scaffolding-and-fading.md)
 - [Use hands-on practice and immediate feedback in bibliographic instruction for ESL students](../strategies/hands-on-instruction-esl-students.md)
 - [Start adult learners in homogeneous small groups and use individual instruction with gradual release](../strategies/small-group-library-instruction-adult-learners.md)
 - [Switch to written notes when verbal communication with a hearing-impaired patron breaks down](../strategies/written-notes-communication-hearing-impaired-patrons.md)

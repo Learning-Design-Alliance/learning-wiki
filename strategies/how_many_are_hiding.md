@@ -65,7 +65,7 @@ The activity targets the part–whole schema — the understanding that a whole 
 - Number Talks — the whole-class discourse format in which hiding-game strategies can be shared and compared
 
 ## Patterns That Use This Strategy
-- [Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md) — the activity elicits children's informal strategies, which the teacher builds on rather than replacing
+- [Cognitively Guided Instruction](../principles/responsive-teaching.md) — the activity elicits children's informal strategies, which the teacher builds on rather than replacing
 
 ## Examples
 - **Investigations in Number, Data, and Space (TERC)** — Grade K/1 units include "how many are hiding"-style games (e.g., "Peek-a-Plus," "Counters in a Cup") as core number-composition activities. [https://investigations.terc.edu](https://investigations.terc.edu)

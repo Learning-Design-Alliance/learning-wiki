@@ -53,7 +53,7 @@ The article argues that instructional video is one pillar of pedagogical design 
 
 ## Related Principles
 
-- [Effective teaching requires compatibility among teaching style, learning style, content emphasis, and educational environment](four-factor-teaching-compatibility.md)
+- [Effective teaching requires compatibility among teaching style, learning style, content emphasis, and educational environment](personalization.md)
 
 ## Examples
 -

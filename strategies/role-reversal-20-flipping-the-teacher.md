@@ -60,7 +60,7 @@ Role reversal converts passive reception into generative work: preparing to teac
 
 ## Related Strategies
 - [Peer Teaching](peer-teaching.md) — the face-to-face parent strategy; role reversal 2.0 is its asynchronous, video-mediated form
-- [Flipped Classroom](../patterns/flipped-classroom.md) — inverts content delivery and practice; role reversal extends the inversion to content *creation*
+- [Flipped Classroom](../principles/flipped-learning.md) — inverts content delivery and practice; role reversal extends the inversion to content *creation*
 - [Learning-by-Teaching](learning-by-teaching.md) — the underlying generative mechanism
 
 ## Related Elements

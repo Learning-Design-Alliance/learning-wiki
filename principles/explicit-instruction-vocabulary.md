@@ -1,6 +1,7 @@
 ---
 type: principle
 id: explicit-instruction-vocabulary
+aliases: [explicit-morphology-in-integral-efl-curriculum]
 title: "Explicit Instruction: Vocabulary"
 description: "For a learner whose comprehension or use of language is limited by particular unknown words, explicitly teaching a small selected set and then arranging repeated encounters and use across contexts is expected to improve knowledge of those words and comprehension of texts that use them more than exposure alone, which claims test for school-age and second-language learners, but not for general comprehension, dose or schedule."
 canonical: true
@@ -25,12 +26,16 @@ sources:
     resource: "https://doi.org/10.1126/science.1182597"
     title: "Snow, C. E. (2010). Academic language and the challenge of reading for learning about science. *Science, 328*(5977), 450-452"
     author: Snow, C. E
+  - id: mohamed-farrag-ahmed-badawi-2019
+    resource: "https://doi.org/10.5539/elt.v12n4p166"
+    title: "Mohamed Farrag Ahmed Badawi. (2019). The Effect of Explicit English Morphology Instruction on EFL Secondary School Students’ Morphological Awareness and Reading Comprehension. English Language Teaching, 12(4). https://doi.org/10.5539/elt.v12n4p166"
+    author: Mohamed Farrag Ahmed Badawi
 ---
 
 # Explicit Instruction: Vocabulary
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 27 claims (22 for, 4 mixed, 1 against) · 35 studies (11 causal, 11 quant-synthesis, 9 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 5 of 35 report an effect size · 17 claims rest on one study
+> **Evidence** · 31 claims (25 for, 5 mixed, 1 against) · 36 studies (12 causal, 11 quant-synthesis, 9 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 6 of 36 report an effect size · 21 claims rest on one study
 
 ## Conditional relationship
 
@@ -139,6 +144,10 @@ Claims this page cited before it was rewritten as a conditional model, and other
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S] — about immediate-memory capacity; the earlier page used it to argue for small word sets, which it does not test
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — high-schoolers learning writing revision and a dart-throwing synthesis; it does not test vocabulary routines
 - [Students' mathematical vocabulary use shifted from lower to higher rubric levels after the intervention](../claims/math-vocabulary-levels-improve-post-test.md) [+W] — one class of 40 grade 8 students, pre–post without a comparison group (`r1`), in a mathematical-communication intervention that did not isolate vocabulary teaching; bears on disciplinary vocabulary only weakly
+- [Emi Raises Efl Morphological Awareness](../claims/emi-raises-efl-morphological-awareness.md) [+M]
+- [Emi Raises Efl Reading Comprehension](../claims/emi-raises-efl-reading-comprehension.md) [+M]
+- [Emi Effect Size Larger For Awareness Than Comprehension](../claims/emi-effect-size-larger-for-awareness-than-comprehension.md) [~M]
+- [Experimental and control groups were statistically equivalent on pre-test reading comprehension and morphological awareness](../claims/emi-groups-equivalent-at-pretest.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -165,7 +174,7 @@ Recognising a word, recalling its meaning, comprehending a text that uses it, us
 - [Direct Instruction](direct-instruction.md) — the general relationship between explicit explanation and modelling and less guided discovery, of which vocabulary teaching is one domain
 - [Scaffolding and Fading](scaffolding-and-fading.md) — how glosses, word banks and sentence frames are withdrawn
 - [Spaced Learning](spaced-learning.md) and [Retrieval Practice](retrieval-practice.md) — the scheduling and recall-practice models used for vocabulary review
-- [Self-Explanation](self-explanation.md) — asking learners to explain why an example fits a word
+- [Self-Explanation](cognitive-activation.md) — asking learners to explain why an example fits a word
 
 ## Examples
 <!-- Links to elements or patterns that apply this principle -->
@@ -175,12 +184,14 @@ Recognising a word, recalling its meaning, comprehending a text that uses it, us
 - Requiring learners to use target words in explanation, discussion, and writing tasks rather than only on quizzes
 - [Use the Ten Times Two routine to build observational vocabulary before data analysis](../strategies/ten-times-two-looking-activity.md)
 - [Pair fluency instruction with oral language and vocabulary support before first reading of a new text](../strategies/pair-fluency-instruction-with-vocabulary-support-eb.md)
+- [Two-unit explicit morphology instruction program (EMIP) with outcome-based teaching for EFL secondary students](../elements/emip-two-unit-morphology-program.md)
 
 ## Key Sources
 - Bruce Taylor, D., Mraz, M., Nichols, W. D., Rickelman, R. J., & Wood, K. D. (2009). Using explicit instruction to promote vocabulary learning for struggling readers. *Reading & Writing Quarterly, 25*(2-3), 205-220. [doi:10.1080/10573560802683663](https://doi.org/10.1080/10573560802683663)
 - Madrigal-Hopes, D. L., Villavicencio, E., Foote, M. M., & Green, C. (2014). Transforming English language learners' work readiness. *Adult Learning, 25*(2), 47-56. [doi:10.1177/1045159514522432](https://doi.org/10.1177/1045159514522432)
 - Riccomini, P. J., Smith, G. W., Hughes, E. M., & Fries, K. M. (2015). The Language of Mathematics: The Importance of Teaching and Learning Mathematical Vocabulary. *Reading & Writing Quarterly, 31*(3), 235-252. [doi:10.1080/10573569.2015.1030995](https://doi.org/10.1080/10573569.2015.1030995)
 - Snow, C. E. (2010). Academic language and the challenge of reading for learning about science. *Science, 328*(5977), 450-452. [doi:10.1126/science.1182597](https://doi.org/10.1126/science.1182597)
+- Mohamed Farrag Ahmed Badawi. (2019). The Effect of Explicit English Morphology Instruction on EFL Secondary School Students’ Morphological Awareness and Reading Comprehension. English Language Teaching, 12(4). https://doi.org/10.5539/elt.v12n4p166
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -255,4 +266,50 @@ Explicit vocabulary instruction works when it treats words as tools for meaning-
 - Madrigal-Hopes, D. L., Villavicencio, E., Foote, M. M., & Green, C. (2014). Transforming English language learners' work readiness. *Adult Learning, 25*(2), 47-56. [doi:10.1177/1045159514522432](https://doi.org/10.1177/1045159514522432)
 - Riccomini, P. J., Smith, G. W., Hughes, E. M., & Fries, K. M. (2015). The language of mathematics. *Reading & Writing Quarterly, 31*(3), 235-252.
 - Snow, C. E. (2010). Academic language and the challenge of reading for learning about science. *Science, 328*(5977), 450-452. [doi:10.1126/science.1182597](https://doi.org/10.1126/science.1182597)
+-->
+
+<!-- merged 2026-10-15 from principles/explicit-morphology-in-integral-efl-curriculum ("Make explicit English morphology instruction an integral part of the EFL secondary school curriculum"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Make explicit English morphology instruction an integral part of the EFL secondary school curriculum
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 5 claims (4 for, 1 mixed) · 3 studies (2 quant-synthesis, 1 causal), `q2`–`q3` · 2 of 3 report an effect size · 4 claims rest on one study
+
+## Description
+The article argues that EFL secondary students receive no regular explicit morphology instruction because teachers misperceive Communicative Language Teaching as excluding form-focused instruction, and that this marginalization costs students vocabulary and comprehension gains. It recommends that "teaching English morphology should be an integral part of EFL secondary school curriculum", that textbook designers incorporate a section promoting morphological awareness, and that teachers provide explicit morphological instruction. The recommendation rests on the study's experimental gains in morphological awareness and reading comprehension.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Explicit instruction presented in meaningful and communicative contexts, consistent with the article's reading of CLT
+- Teacher training: the article states more training sessions are required for EFL teachers to teach morphology
+#### Constraints
+- Evidence comes from one Egyptian secondary school with intact classes over a 21-day intervention; the authors state findings should not be generalized due to small sample, restricted duration, and uncontrolled EFL proficiency
+
+### Target Learners
+- EFL first-year secondary school students
+
+### Target Learning Objectives
+- Morphological awareness
+- Reading comprehension
+- Vocabulary knowledge
+
+### Claims
+
+- [Emi Raises Efl Morphological Awareness](../claims/emi-raises-efl-morphological-awareness.md) [+M]
+- [Emi Raises Efl Reading Comprehension](../claims/emi-raises-efl-reading-comprehension.md) [+M]
+- [Emi Effect Size Larger For Awareness Than Comprehension](../claims/emi-effect-size-larger-for-awareness-than-comprehension.md) [~M]
+- [Experimental and control groups were statistically equivalent on pre-test reading comprehension and morphological awareness](../claims/emi-groups-equivalent-at-pretest.md) [+W]
+- [Morphological Instruction Improves Vocabulary](../claims/morphological-instruction-improves-vocabulary.md) [+M]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Two-unit explicit morphology instruction program (EMIP) with outcome-based teaching for EFL secondary students](../elements/emip-two-unit-morphology-program.md)
+
+## Key Sources
+- Mohamed Farrag Ahmed Badawi. (2019). The Effect of Explicit English Morphology Instruction on EFL Secondary School Students’ Morphological Awareness and Reading Comprehension. English Language Teaching, 12(4). https://doi.org/10.5539/elt.v12n4p166
 -->

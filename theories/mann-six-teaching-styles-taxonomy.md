@@ -48,7 +48,7 @@ The paper adopts Richard Mann's (1975) scheme defining six teaching styles: expe
 
 ## Examples
 
-- [Effective teaching requires compatibility among teaching style, learning style, content emphasis, and educational environment](../principles/four-factor-teaching-compatibility.md)
+- [Effective teaching requires compatibility among teaching style, learning style, content emphasis, and educational environment](../principles/personalization.md)
 
 ## Key Sources
 - Bue, T. W. (1979). Teaching and Learning Styles in Higher Education: Match or Mismatch? https://eric.ed.gov/?id=ED172635

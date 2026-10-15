@@ -49,7 +49,7 @@ Hypertext supports flexible, non-linear exploration and can help learners build 
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — well-chunked nodes let learners process one idea at a time and offload structure onto the interface; poorly structured hypertext does the opposite, so this principle is the central design lever
 - [Cognitive Flexibility](../principles/cognitive-flexibility.md) — multiple linked routes through the same content let learners revisit concepts from different contexts, enacting the "criss-crossing the landscape" idea of Cognitive Flexibility Theory
 - [Self-Paced Learning](self-paced-learning.md) — learners control traversal speed and can revisit nodes as needed, aligning study time with individual needs
-- [Constructivism](../principles/constructivism.md) — learners actively assemble their own knowledge path rather than receiving a pre-sequenced presentation
+- [Constructivism](../principles/cognitive-activation.md) — learners actively assemble their own knowledge path rather than receiving a pre-sequenced presentation
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->

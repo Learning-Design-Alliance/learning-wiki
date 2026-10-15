@@ -63,7 +63,7 @@ Peer teaching works because explaining to another person demands deeper processi
 
 ## Patterns That Use This Element
 - [Collaborative Learning](../patterns/collaborative-learning.md) — peer teaching as the mechanism of group knowledge construction
-- [Collaborative Inquiry](../patterns/collaborative-inquiry.md) — groups teach findings to other groups, forcing synthesis before presentation
+- [Collaborative Inquiry](../principles/inquiry-based-learning.md) — groups teach findings to other groups, forcing synthesis before presentation
 
 ## Examples
 

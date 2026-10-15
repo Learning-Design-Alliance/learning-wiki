@@ -68,7 +68,7 @@ Peer interaction supports learning when it requires learners to actively constru
 
 ## Patterns That Use This Element
 - [Collaborative Learning](../patterns/collaborative-learning.md) — peer interaction as the core learning mechanism
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — structured talk as the primary instructional mode
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — structured talk as the primary instructional mode
 - [Case-Based Learning](../patterns/case-based-learning.md) — small-group analysis and debate of authentic cases
 
 ## Examples

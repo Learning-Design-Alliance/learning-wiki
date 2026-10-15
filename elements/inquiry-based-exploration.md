@@ -48,8 +48,7 @@ Inquiry can build deep conceptual understanding and durable engagement because l
 - Epistemic practices: learning how disciplines generate and justify knowledge
 
 ### Affordances
-- [Constructivism](../principles/constructivism.md) — inquiry enacts this principle directly: learners actively construct knowledge from experience and evidence rather than receiving transmitted content
-- [Cognitive Activation](../principles/cognitive-activation.md) — open problems demand elaboration, hypothesis generation, and reasoning, producing the deep cognitive engagement this principle targets
+- [Constructivism](../principles/cognitive-activation.md) — inquiry enacts this principle directly: learners actively construct knowledge from experience and evidence rather than receiving transmitted content
 - [Collaborative Learning](../principles/collaborative-learning.md) — investigation is naturally social; group inquiry exposes learners to alternative hypotheses and requires articulation and negotiation of ideas
 - [Scaffolding](../principles/scaffolding.md) — the central design problem of inquiry is calibrating guidance: enough structure to prevent unproductive search, faded progressively as learners develop investigative competence
 
@@ -68,7 +67,7 @@ Inquiry can build deep conceptual understanding and durable engagement because l
 - [Case Studies](case-studies.md) — a more bounded variant where the investigation works through a prepared case
 
 ## Patterns That Use This Element
-- [Collaborative Inquiry](../patterns/collaborative-inquiry.md) — inquiry structured as a group investigation cycle
+- [Collaborative Inquiry](../principles/inquiry-based-learning.md) — inquiry structured as a group investigation cycle
 - [Problem-Based Learning](../patterns/problem-based-learning.md) — inquiry organized around an authentic professional problem, typically with tutorial-group support
 - [Anchored Instruction](../patterns/anchored-instruction.md) — inquiry launched from a rich, shared problem context such as a video-based scenario
 

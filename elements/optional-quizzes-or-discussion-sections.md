@@ -66,7 +66,7 @@ Low-stakes retrieval opportunities strengthen retention more than rereading or p
 - [Check-ins](../principles/check-ins.md) — a lightweight variant used to surface confusion during instruction
 
 ## Patterns That Use This Element
-- [Flipped Classroom](../patterns/flipped-classroom.md) — optional quizzes check pre-class preparation; discussion sections are where in-class application happens
+- [Flipped Classroom](../principles/flipped-learning.md) — optional quizzes check pre-class preparation; discussion sections are where in-class application happens
 - [Traditional Lecture-Based Instruction](../patterns/traditional-lecture-based-instruction.md) — these activities supplement lectures with the retrieval and interaction lectures lack
 - [Formative Assessment](../patterns/formative-assessment.md) — optional quizzes are a low-stakes instantiation of the formative cycle
 

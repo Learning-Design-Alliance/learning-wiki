@@ -30,7 +30,7 @@ grain_size: lesson
 
 A reusable policy for improving a draft through peers' criterion-referenced comments, and for building reviewers' sense of quality by having them write those comments: **a reviewable draft (an essay, a proposal, a prototype, a recorded performance) and a short set of criteria → reviewers practise on an anchor draft of known quality → each reviewer reads one to three peers' drafts and writes comments that name a criterion, point to a place in the draft and suggest a change → the author reads the comments, decides which to act on and writes a revision plan → the author revises before the work is judged → both roles reflect on what they will do differently in their own next draft**. The intended change is in the quality of the revised work (`skill-performance`, scored on the task's own rubric), in each reviewer's own later work (`near-transfer` to their next draft), and, as a by-product, in how accurately and helpfully learners comment on drafts (`assessment-accuracy`).
 
-It sits beside two converted pages and does not repeat them. The [collaborative evaluation pattern](collaborative-evaluation.md) owns learning to judge quality: judging alone, comparing judgments in a group and checking them against a reference. This page starts where that one ends, with a single author's draft and comments meant to change it; where reviewers cannot yet tell strong from weak work, run collaborative evaluation on anchor drafts first. The [Assessment for Learning principle](../principles/assessment-for-learning.md) owns the general relationship (evidence read against shared criteria, low stakes, a revision step before the outcome is judged); this pattern is one configuration of it in which the evidence is read by peers. The [Peer Feedback/Peer Review principle](../principles/peer-feedback.md) and [Process-Based Writing](../principles/process-based-writing.md) are the principles it applies; the [writing workshop](writing-workshop.md) is a larger routine that can contain it.
+It sits beside two converted pages and does not repeat them. The [collaborative evaluation pattern](collaborative-evaluation.md) owns learning to judge quality: judging alone, comparing judgments in a group and checking them against a reference. This page starts where that one ends, with a single author's draft and comments meant to change it; where reviewers cannot yet tell strong from weak work, run collaborative evaluation on anchor drafts first. The [Assessment for Learning principle](../principles/assessment-for-learning.md) owns the general relationship (evidence read against shared criteria, low stakes, a revision step before the outcome is judged); this pattern is one configuration of it in which the evidence is read by peers. The [Peer Feedback/Peer Review principle](../principles/peer-learning.md) and [Process-Based Writing](../principles/process-based-writing.md) are the principles it applies; the [writing workshop](workshop-model.md) is a larger routine that can contain it.
 
 **No claim in this wiki tests structured peer review as a whole**: none compares the full cycle here (calibration, criterion-referenced comments, required revision, reflection) with a version lacking one of its parts, or with teacher comments alone, on the revised work. The claims that bear on it are of five kinds: peer feedback on writing against no feedback, self-assessment or teacher feedback (one meta-analysis, `postsecondary`); peer assessment against no assessment or teacher assessment on academic performance (one meta-analysis); whether giving feedback goes with gains in one's own work (one meta-analysis pooling both roles and one correlational study); what rubric guidance changes in reviewers' comments and ratings (two quasi-experiments); and how accurate and helpful secondary-school reviewers' comments are (two correlational studies). One claim limits the model: in the peer-assessment meta-analysis, a script or rubric did not raise the effect over freeform review. Further claims bear on single steps rather than the cycle: rubric-referenced self-assessment of one's own draft, contingent fading of support in tutoring, the specificity of AI-generated feedback and the revisions that follow it, a theoretical case for training reviewers, and students' doubts about novice peers in a technical subject. Each is carried to this pattern by extrapolation, and the page says how far. The sequence below is the earlier page's five steps, with a calibration step and a revision plan added, each labelled with its evidence status; the response-dependent policy is an **untested design proposal**.
 
@@ -139,7 +139,7 @@ Record: **draft and the criteria as given → each reviewer's comments on the an
 
 ## Elements and limits
 
-[Peer review](../elements/peer-review.md), [peer assessment](../elements/peer-assessment.md), [feedback](../elements/feedback.md), [rubrics](../elements/rubrics.md), [exemplars](../elements/exemplars.md), [revision](../elements/revision.md), [assessment](../elements/assessment.md), [reflection](../elements/reflection.md) and [peer discussion](../elements/peer-discussion.md). Principles the pattern applies: [Peer Feedback/Peer Review](../principles/peer-feedback.md), [Formative Assessment](../principles/formative-assessment.md), [Assessment for Learning](../principles/assessment-for-learning.md), [Multiple Methods of Assessment](../principles/multiple-methods-of-assessment.md), [Process-Based Writing](../principles/process-based-writing.md) and [Authentic Audiences and Purposes](../principles/authentic-audiences-purposes.md). [Calibrated Peer Review](../strategies/calibrated_peer_review.md) is a strategy that implements steps 2 and 3.
+[Peer review](../elements/peer-review.md), [peer assessment](../elements/peer-assessment.md), [feedback](../elements/feedback.md), [rubrics](../elements/rubrics.md), [exemplars](../elements/exemplars.md), [revision](../elements/revision.md), [assessment](../elements/assessment.md), [reflection](../elements/reflection.md) and [peer discussion](../elements/peer-discussion.md). Principles the pattern applies: [Peer Feedback/Peer Review](../principles/peer-learning.md), [Formative Assessment](../principles/formative-assessment.md), [Assessment for Learning](../principles/assessment-for-learning.md), [Multiple Methods of Assessment](../principles/multiple-methods-of-assessment.md), [Process-Based Writing](../principles/process-based-writing.md) and [Authentic Audiences and Purposes](../principles/authentic-audiences-purposes.md). [Calibrated Peer Review](../strategies/calibrated_peer_review.md) is a strategy that implements steps 2 and 3.
 
 This pattern is scoped to peers commenting on an individual's draft that the author then revises before it is judged. Learning to judge quality without a draft to improve is [collaborative evaluation](collaborative-evaluation.md); co-writing a shared text is [collaborative learning](collaborative-learning.md); the teacher-side loop of reading evidence and choosing a next action is [formative assessment](formative-assessment.md). The policy supports observation and design reasoning; whether the full cycle improves the revised work and the reviewer's own next draft more than peer comments without calibration or a required revision plan, for which learners, at what time cost and at what horizon, remains to be tested.
 
@@ -155,8 +155,8 @@ This pattern is scoped to peers commenting on an individual's draft that the aut
 
 ## Related Patterns
 - [Collaborative Evaluation](collaborative-evaluation.md)
-- [LDA Reflection](lda-reflection.md)
-- [Writing Workshop](writing-workshop.md) — a larger draft, feedback, revise and publish routine that can contain this cycle
+- [LDA Reflection](../principles/reflection.md)
+- [Writing Workshop](workshop-model.md) — a larger draft, feedback, revise and publish routine that can contain this cycle
 - [Formative Assessment](formative-assessment.md) — the teacher-side loop of reading evidence and choosing a next action
 - [Collaborative Learning](collaborative-learning.md) — the general joint-work policy; co-writing a shared text belongs there
 
@@ -239,7 +239,7 @@ The pattern works best when the review process is designed carefully. Unstructur
 - [Peer Discussion](../elements/peer-discussion.md)
 
 ### Affordances
-- [Peer Feedback/Peer Review](../principles/peer-feedback.md)
+- [Peer Feedback/Peer Review](../principles/peer-learning.md)
 - [Formative Assessment](../principles/formative-assessment.md)
 - [Multiple Methods of Assessment](../principles/multiple-methods-of-assessment.md)
 - [Process-Based Writing](../principles/process-based-writing.md)
@@ -251,7 +251,7 @@ The pattern works best when the review process is designed carefully. Unstructur
 
 ## Related Patterns
 - [Collaborative Evaluation](collaborative-evaluation.md)
-- [LDA Reflection](lda-reflection.md)
+- [LDA Reflection](../principles/reflection.md)
 
 ## Examples
 - Graduate seminar proposal reviews using a shared rubric.

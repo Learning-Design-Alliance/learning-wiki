@@ -69,7 +69,7 @@ Assessment is the structured collection of evidence about learner understanding,
 - [Reassessment](reassessment.md)
 
 ## Patterns That Use This Element
-- [Traditional Lecture, Reading, Midterm, Final Assessment](../patterns/traditional-lecture-reading-midterm-final-assessment.md)
+- [Traditional Lecture, Reading, Midterm, Final Assessment](../patterns/traditional-lecture-based-instruction.md)
 - [Collaborative Evaluation](../patterns/collaborative-evaluation.md)
 
 ## Examples

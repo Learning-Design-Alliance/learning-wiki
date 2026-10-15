@@ -45,7 +45,7 @@ The relationship is conditional on four things. **Fit**: whether the organizer's
 
 **What the evidence tests, and what it does not.** Two meta-analyses test one form of the relationship, concept and knowledge maps, against text, lists, outlines and other instruction, from Grade 4 to postsecondary, and find a moderate average benefit (below). Small designs test story maps with primary-age readers. No claim in the wiki tests the other common forms (compare-contrast matrices, cause-effect chains, sequence charts, writing-planning organizers) as such, or partly completed organizers, or a plan for fading the organizer across sessions; the one study recorded on format mismatch used bar graphs, not graphic organizers. The default design below is therefore a set of labelled proposals around a tested core.
 
-How the converted neighbours sit beside this: [Clear Structure](clear-structure.md) holds the general relationship that making an organization explicit (signals, previews, organizers, matching graphics) helps learners without an organization of their own; this page is the graphic case inside it and does not repeat its signalling evidence. [Activation](activation.md) holds organizers used before instruction to connect new material to what the learner already knows (advance organizers). [Chunking](chunking.md) holds the size of units and where their boundaries fall; an organizer shows how those units relate. [Self-Explanation](self-explanation.md) and [Retrieval Practice](retrieval-practice.md) hold the two activities this page recommends doing with an organizer.
+How the converted neighbours sit beside this: [Clear Structure](clear-structure.md) holds the general relationship that making an organization explicit (signals, previews, organizers, matching graphics) helps learners without an organization of their own; this page is the graphic case inside it and does not repeat its signalling evidence. [Activation](activation.md) holds organizers used before instruction to connect new material to what the learner already knows (advance organizers). [Chunking](chunking.md) holds the size of units and where their boundaries fall; an organizer shows how those units relate. [Self-Explanation](cognitive-activation.md) and [Retrieval Practice](retrieval-practice.md) hold the two activities this page recommends doing with an organizer.
 
 ## Default design, while the relationship is untested
 
@@ -150,13 +150,13 @@ A filled-in organizer, immediate comprehension, delayed retention, transfer and 
 
 ## Related Principles
 - [Creating Visual Representations](dual-coding.md) — graphic organizers are one concrete form of visual externalization.
-- [Metaphors & Analogies](metaphors-analogies.md) — organizers can help make analogical or conceptual relationships visible.
+- [Metaphors & Analogies](analogical-reasoning.md) — organizers can help make analogical or conceptual relationships visible.
 - [Process-Based Writing](process-based-writing.md) — organizers often support planning, sequencing, and revision in writing.
 - [Pre-Reading Questioning](pre-reading-questioning.md) — organizers can structure anticipation and comprehension before or during reading.
 - [Clear Structure](clear-structure.md) — the general relationship that making an organization explicit helps; graphic organizers are its visual case.
 - [Activation](activation.md) — organizers given before instruction to connect new material with prior knowledge.
 - [Chunking](chunking.md) — unit size and boundaries; an organizer shows how the units relate.
-- [Self-Explanation](self-explanation.md) — explaining an organizer's links is the activity this page pairs with it.
+- [Self-Explanation](cognitive-activation.md) — explaining an organizer's links is the activity this page pairs with it.
 - [Retrieval Practice](retrieval-practice.md) — rebuilding an organizer from memory is a retrieval task.
 
 ## Examples
@@ -232,7 +232,7 @@ Graphic organizers help when the structure of a task matters as much as its cont
 
 ## Related Principles
 - [Creating Visual Representations](dual-coding.md) — graphic organizers are one concrete form of visual externalization.
-- [Metaphors & Analogies](metaphors-analogies.md) — organizers can help make analogical or conceptual relationships visible.
+- [Metaphors & Analogies](analogical-reasoning.md) — organizers can help make analogical or conceptual relationships visible.
 - [Process-Based Writing](process-based-writing.md) — organizers often support planning, sequencing, and revision in writing.
 - [Pre-Reading Questioning](pre-reading-questioning.md) — organizers can structure anticipation and comprehension before or during reading.
 

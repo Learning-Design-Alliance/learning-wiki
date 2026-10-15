@@ -135,7 +135,7 @@ Record: **object and its reference judgment → criteria as given → each learn
 
 ## Elements and limits
 
-[Assessment](../elements/assessment.md), [Consensus Discussion](../elements/consensus-discussion.md), [Peer Discussion](../elements/peer-discussion.md), [Formative Assessment](../elements/formative-assessment.md), [rubrics](../elements/rubrics.md) and [exemplars](../elements/exemplars.md). Principles the pattern draws on: [Formative Assessment](../principles/formative-assessment.md), [Assessment for Learning](../principles/assessment-for-learning.md), [Multiple Methods of Assessment](../principles/multiple-methods-of-assessment.md), [Peer Feedback/Peer Review](../principles/peer-feedback.md) and [Evaluating Sources](../principles/evaluating-sources.md).
+[Assessment](../elements/assessment.md), [Consensus Discussion](../elements/consensus-discussion.md), [Peer Discussion](../elements/peer-discussion.md), [Formative Assessment](../elements/formative-assessment.md), [rubrics](../elements/rubrics.md) and [exemplars](../elements/exemplars.md). Principles the pattern draws on: [Formative Assessment](../principles/formative-assessment.md), [Assessment for Learning](../principles/assessment-for-learning.md), [Multiple Methods of Assessment](../principles/multiple-methods-of-assessment.md), [Peer Feedback/Peer Review](../principles/peer-learning.md) and [Evaluating Sources](../principles/evaluating-sources.md).
 
 This pattern is scoped to learners judging the quality of objects against criteria, with a reference judgment available. Where no reference exists and the question is which position to hold, use [structured academic controversy](structured-academic-controversy.md); where the aim is giving feedback on an individual's draft, [structured peer review](structured-peer-review.md). The policy supports observation and design reasoning; whether judging together and comparing with a reference improves each learner's later alone judgments more than judging alone with the same reference, for which learners, at what time cost and at what horizon, remains to be tested.
 
@@ -148,7 +148,7 @@ This pattern is scoped to learners judging the quality of objects against criter
 
 ## Related Patterns
 - [Structured Peer Review](structured-peer-review.md)
-- [Discussion Group](discussion-based-learning.md)
+- [Discussion Group](../principles/collaborative-learning.md)
 - [Collaborative Learning](collaborative-learning.md) — the general joint-work policy this page applies to evaluation tasks; its individual-check rule applies unchanged
 - [Structured Academic Controversy](structured-academic-controversy.md) — the configuration for a contested question with no reference judgment
 - [Peer Instruction](peer-instruction.md) — the same answer-alone, discuss, answer-again shape for concept questions
@@ -236,7 +236,7 @@ The pattern works best when the object being evaluated admits comparison and jus
 ### Affordances
 - [Formative Assessment](../principles/formative-assessment.md)
 - [Multiple Methods of Assessment](../principles/multiple-methods-of-assessment.md)
-- [Peer Feedback/Peer Review](../principles/peer-feedback.md)
+- [Peer Feedback/Peer Review](../principles/peer-learning.md)
 - [Evaluating Sources](../principles/evaluating-sources.md)
 
 ### Personalization
@@ -246,7 +246,7 @@ The pattern works best when the object being evaluated admits comparison and jus
 
 ## Related Patterns
 - [Structured Peer Review](structured-peer-review.md)
-- [Discussion Group](discussion-based-learning.md)
+- [Discussion Group](../principles/collaborative-learning.md)
 
 ## Examples
 - Teams comparing possible sources for a research project against credibility criteria.

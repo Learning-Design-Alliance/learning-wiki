@@ -15,7 +15,7 @@ generated:
 > **Evidence** · 5 claims (5 for) · 13 studies (7 quant-synthesis, 5 causal, 1 theoretical), `q2`–`q4` · 6 of 13 report an effect size
 
 ## Description
-Discussion-based learning positions dialogue as the primary engine of sense-making: learners articulate ideas, respond to others' reasoning, and negotiate meaning under the facilitation of an instructor. It ranges from whole-class dialogic discussion to small-group [discussion-group](../patterns/discussion-based-learning.md) formats, and depends on tasks that are genuinely open to multiple defensible positions rather than recall questions with a single answer.
+Discussion-based learning positions dialogue as the primary engine of sense-making: learners articulate ideas, respond to others' reasoning, and negotiate meaning under the facilitation of an instructor. It ranges from whole-class dialogic discussion to small-group [discussion-group](../principles/collaborative-learning.md) formats, and depends on tasks that are genuinely open to multiple defensible positions rather than recall questions with a single answer.
 
 ## Design Implications
 
@@ -66,7 +66,7 @@ Discussion is a form of active learning, and active-learning formats that replac
 - [Jigsaw](jigsaw.md) — interdependent group roles that make discussion necessary
 
 ## Examples
-- **Harvard Business School case method** — every class session is a facilitated discussion of a business case; students are called on cold and graded on contribution. See [case-based-learning-harvard-method](../patterns/case-based-learning-harvard-method.md).
+- **Harvard Business School case method** — every class session is a facilitated discussion of a business case; students are called on cold and graded on contribution. See [case-based-learning-harvard-method](../patterns/case-based-learning.md).
 - **Accountable Talk® (University of Pittsburgh, IFL)** — a talk framework with norms for accuracy, evidence, and reasoning: [https://ifl.pitt.edu](https://ifl.pitt.edu)
 - **Perusall** — social annotation platform where asynchronous discussion happens in the margins of course readings: [https://www.perusall.com](https://www.perusall.com)
 

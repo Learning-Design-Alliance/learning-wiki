@@ -87,7 +87,7 @@ The strategy exploits the concreteness of dot arrangements to offload counting o
 
 ## Examples
 - **Number Talks (Parrish, 2010)** — the classroom routine this activity instantiates; dot-card and ten-frame "quick looks" are standard opening tasks in K–1 number talks ([Math Solutions](https://mathsolutions.com/classroom-tools/number-talks/)).
-- **CGI problem types** — the strategy-explanation discussion mirrors [Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md), in which teachers elicit and build on children's informal strategies.
+- **CGI problem types** — the strategy-explanation discussion mirrors [Cognitively Guided Instruction](../principles/responsive-teaching.md), in which teachers elicit and build on children's informal strategies.
 - **DreamBox Learning** — digital lessons use flashed dot and ten-frame arrangements with strategy feedback, adapting number range to learner performance.
 - **[Number Talks](https://www.mathsolutions.com/number-talks/)** (Parrish, Math Solutions) — the canonical classroom routine: dot images and ten-frame cards with whole-class strategy sharing; "Find the Total" is a standard dot-image string.
 - **[DreamBox Learning](https://www.dreambox.com)** — adaptive digital lessons using ten-frame and dot-card totals with immediate feedback, automating the routine at scale.
@@ -165,7 +165,7 @@ Dot arrangements that support perceptual grouping reduce working-memory demand d
 - [Analogies](../elements/analogies.md) — connecting dot arrangements to dice, fingers, and ten-frames
 
 ## Patterns That Use This Strategy
-- [Cognitively Guided Instruction (CGI) for Math](../patterns/cognitively-guided-instruction-cgi-for-math.md) — eliciting children's informal strategies before formal instruction is the core CGI move
+- [Cognitively Guided Instruction (CGI) for Math](../principles/responsive-teaching.md) — eliciting children's informal strategies before formal instruction is the core CGI move
 - [Direct Instruction](../patterns/direct-instruction.md) — the strategy-labeling and feedback steps enact explicit teaching within an activity format
 
 ## Examples

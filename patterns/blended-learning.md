@@ -21,7 +21,7 @@ grain_size: course
 
 A reusable policy for dividing a course between online and in-person work so that each mode does some work the other does not, and for watching how learners respond to the division. The earlier page's working definition is kept as a convention: a course delivering roughly 30–80% of its content online, with some face-to-face interaction, is blended; one delivering 80% or more online is fully online. That threshold is a definition from the earlier page, not a tested boundary.
 
-It instantiates no single principle. The in-person part usually applies [active learning](../principles/active-learning.md) (class time spent generating, explaining or applying with feedback); the online part depends on [self-regulated learning](../principles/self-regulated-learning.md), because learners pace, attend and persist on their own; and where the online part runs as discussion, [community of inquiry](../principles/community-of-inquiry.md) describes the presences it aims at. [Flipped learning](flipped-classroom.md) is a narrower configuration inside this one: exposition moved online so that class time is free for application.
+It instantiates no single principle. The in-person part usually applies [active learning](../principles/active-learning.md) (class time spent generating, explaining or applying with feedback); the online part depends on [self-regulated learning](../principles/self-regulated-learning.md), because learners pace, attend and persist on their own; and where the online part runs as discussion, [community of inquiry](../principles/community-of-inquiry.md) describes the presences it aims at. [Flipped learning](../principles/flipped-learning.md) is a narrower configuration inside this one: exposition moved online so that class time is free for application.
 
 **The wiki has no claim that tests a blend as such against the same content, time and materials delivered in one mode.** The one synthesis recorded here found blended courses ahead of face-to-face ones, and its authors say the blended arms usually also had extra learning time and resources, so the advantage cannot be credited to the blend. The study configurations below are evidence; the response-dependent policy is an **untested design proposal**. Use it to decide what each mode is for and to collect better observations, not to promise a gain from the label.
 
@@ -144,7 +144,7 @@ A large U.S. Department of Education meta-analysis of K-12 and higher-education 
 - Combine flexibility of digital learning with the support or interaction of live learning.
 
 ### Related Patterns
-- [Flipped Learning](flipped-classroom.md)
+- [Flipped Learning](../principles/flipped-learning.md)
 
 ## Claims
 

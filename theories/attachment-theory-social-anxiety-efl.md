@@ -46,7 +46,7 @@ In its recommendations, the article invokes Attachment Theory (citing Erozkan, 2
 ## Examples
 
 - [Teacher strategies for alleviating EFL speaking anxiety: warm atmosphere, encouragement, L1 use, and learner-centered activities](../strategies/teacher-strategies-alleviate-speaking-anxiety.md)
-- [Provide supportive teacher gestures and sustained speaking practice opportunities to reduce foreign language classroom anxiety](../principles/teacher-support-and-speaking-practice-reduce-flca.md)
+- [Provide supportive teacher gestures and sustained speaking practice opportunities to reduce foreign language classroom anxiety](../principles/talking-and-writing-means-to-learning.md)
 
 ## Key Sources
 - Sadighi, F., & Dastpak, M. (2017). The Sources of Foreign Language Speaking Anxiety of Iranian English Language Learners. International Journal of Education & Literacy Studies, 5(4). https://doi.org/10.7575/aiac.ijels.v.5n.4p.111

@@ -1,7 +1,7 @@
 ---
 type: pattern
 id: professional-development
-aliases: [coaching-level-2-necessary-supports-implementation-and-dialogue]
+aliases: [coaching-level-2-necessary-supports-implementation-and-dialogue, coaching-level-3-sustaining-efforts-coach-learning-and-independence]
 title: Professional Development
 description: "A reusable policy for teachers: one observable classroom practice is modelled, rehearsed, enacted with the teacher's own students and given feedback in coaching cycles over a term, with support faded and use checked later; expected to change observed practice where the target is specific and coach time is sustained, though no claim here compares it with one-off workshops."
 canonical: true
@@ -16,12 +16,20 @@ sources:
     resource: "https://eric.ed.gov/?id=ED530353"
     title: "Smith, A. T. (2009). Considering Literacy Coaching Responsibilities in Terms of Teacher Change. University of Washington Bothell. https://eric.ed.gov/?id=ED530353"
     author: Smith, A. T
+  - id: dozier-2008
+    resource: "https://eric.ed.gov/?id=EJ1059644"
+    title: "Dozier, C. L. (2008). Literacy coaching: Engaging and learning with teachers. The Language and Literacy Spectrum, 18. https://eric.ed.gov/?id=EJ1059644"
+    author: Dozier, C. L
+  - id: comprehensive-early-literacy-policy-fundamental-principles-2024
+    resource: "https://www.excelined.org"
+    title: "Comprehensive Early Literacy Policy: Fundamental Principles. (2024). ExcelinEd Policy Toolkit. https://www.excelined.org"
+    author: "Comprehensive Early Literacy Policy: Fundamental Principles"
 ---
 
 # Professional Development
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 40 claims (24 for, 12 mixed, 4 against) · 36 studies (9 review, 9 qualitative, 7 quant-synthesis, 5 causal, 3 theoretical, 2 design, 1 associational), `q1`–`q4` · 7 of 36 report an effect size · 34 claims rest on one study
+> **Evidence** · 44 claims (26 for, 14 mixed, 4 against) · 39 studies (9 review, 9 qualitative, 7 quant-synthesis, 6 causal, 4 design, 3 theoretical, 1 associational), `q1`–`q4` · 7 of 39 report an effect size · 38 claims rest on one study
 
 ## Description and scope
 
@@ -122,6 +130,10 @@ Claims the earlier page cited, or that bear on teacher PD, which are not core ev
 - [Short, fragmented in-service training is reported to hinder a holistic view](../claims/systemic-approach-in-service-teacher-education.md) [-W] — a narrative review's report of preliminary results.
 - [Literacy coaching responsibilities fall into two major areas: teacher mentoring and literacy program advocacy](../claims/coaching-responsibilities-mentoring-and-advocacy.md) [+W]
 - [The complexity of coaching responsibilities may fragment the coaching process and reduce its impact](../claims/coaching-complexity-may-fragment-impact.md) [-W]
+- [Ongoing professional development and mentorship are critical to coaches' growth and confidence in their coaching skills](../claims/ongoing-pd-mentorship-critical-coach-growth.md) [+W]
+- [Monthly coaching sessions helped teachers use and integrate MI Write with their instruction](../claims/monthly-coaching-helped-teachers-integrate-mi-write.md) [~W]
+- [Student reports of standards-aligned instructional practices improved more in Chicago middle-grade schools with more extensive CCSS-M professional learning](../claims/standards-aligned-practice-reports-improved-with-pl.md) [+W]
+- [HQIM teacher guides differ substantially in the depth of educative guidance they provide for the same pedagogical practice](../claims/hqim-teacher-guides-vary-in-educative-guidance-depth.md) [~W]
 
 ## Illustrative design instance and observation record
 
@@ -154,9 +166,8 @@ This pattern is scoped to changing one observable teaching practice through enac
 ## Related Patterns
 
 - [Cognitive Apprenticeship](cognitive-apprenticeship.md) — the core learning model PD applies to adult learners: modeling → coaching → fading of expert practice
-- [Collaborative Inquiry](collaborative-inquiry.md) — a common PD structure in which teacher teams investigate questions from their own classrooms using student data
-- [Flipped Classroom](flipped-classroom.md) — a frequent target of PD and itself a model for PD design: content study outside meetings frees session time for active practice
-- [Level 3 sustaining efforts: extend coach learning and foster independent teacher learning communities](coaching-level-3-sustaining-efforts-coach-learning-and-independence.md)
+- [Collaborative Inquiry](../principles/inquiry-based-learning.md) — a common PD structure in which teacher teams investigate questions from their own classrooms using student data
+- [Flipped Classroom](../principles/flipped-learning.md) — a frequent target of PD and itself a model for PD design: content study outside meetings frees session time for active practice
 - [Fostering Communities of Learning](fostering-communities-of-learning-fcl.md) — the nearest community pattern, where the PD is carried by a standing group of colleagues
 - [Level 1 initial steps: address teacher beliefs through individual conferencing and establish teacher learning communities](../designs/coaching-level-1-initial-steps-beliefs-and-community-establishment.md)
 
@@ -173,6 +184,10 @@ This pattern is scoped to changing one observable teaching practice through enac
 - [Sustain tutor quality through layered professional development: live and asynchronous learning, observations, coaching, and weekly office hours](../strategies/layered-tutor-professional-development-support.md)
 - [Instructional Commons: record and disseminate top teachers' full-year instruction for peer-to-peer professional use](../strategies/instructional-commons-recorded-top-teacher-lessons.md)
 - [Sustained classroom-embedded professional development through demonstration teachers](../strategies/demonstration-teachers-classroom-embedded-pd.md)
+- [Level 3 sustaining efforts: extend coach learning and foster independent teacher learning communities](../patterns/professional-development.md)
+- [Professional Learning Communities](../strategies/professional-learning-communities.md)
+- [Certified Executive Coaches provide side-by-side professional development and improvement science support for ARC Core implementation](../strategies/arc-core-executive-coaching-pd-strategy.md)
+- [Provide professional development on the pedagogy and content of ethnic studies before implementing new ethnic studies standards](../strategies/pd-before-ethnic-studies-standards-implementation.md)
 
 ## Key Sources
 - Darling-Hammond, L., Hyler, M. E., & Gardner, M. (2017). Effective teacher professional development. *Learning Policy Institute*. [doi:10.54300/122.311](https://doi.org/10.54300/122.311)
@@ -181,6 +196,8 @@ This pattern is scoped to changing one observable teaching practice through enac
 - Darling-Hammond, L., Wei, R. C., Andree, A., Richardson, N., & Orphanos, S. (2009). Professional learning in the learning profession: A status report on teacher development in the United States and abroad. *National Staff Development Council*.
 - Timperley, H., Wilson, A., Barrar, H., & Fung, I. (2007). *Teacher professional learning and development: Best evidence synthesis iteration*. New Zealand Ministry of Education.
 - Smith, A. T. (2009). Considering Literacy Coaching Responsibilities in Terms of Teacher Change. University of Washington Bothell. https://eric.ed.gov/?id=ED530353
+- Dozier, C. L. (2008). Literacy coaching: Engaging and learning with teachers. The Language and Literacy Spectrum, 18. https://eric.ed.gov/?id=EJ1059644
+- Comprehensive Early Literacy Policy: Fundamental Principles. (2024). ExcelinEd Policy Toolkit. https://www.excelined.org
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -219,7 +236,7 @@ Program — effective PD unfolds over months to years, embedded in teachers' ong
 - Practicing K–12 teachers, especially those adopting new curricula, technologies, or pedagogies
 - Novice teachers in induction and mentoring programs, who benefit most from [coaching](../elements/coaching.md) and observation
 - Instructional coaches, department heads, and teacher-leaders who mediate PD for others
-- Higher-education faculty transitioning to active or [flipped classroom](flipped-classroom.md) formats
+- Higher-education faculty transitioning to active or [flipped classroom](../principles/flipped-learning.md) formats
 
 ### Theory
 #### Supporting
@@ -273,9 +290,9 @@ Program — effective PD unfolds over months to years, embedded in teachers' ong
 ## Related Patterns
 
 - [Cognitive Apprenticeship](cognitive-apprenticeship.md) — the core learning model PD applies to adult learners: modeling → coaching → fading of expert practice
-- [Collaborative Inquiry](collaborative-inquiry.md) — a common PD structure in which teacher teams investigate questions from their own classrooms using student data
-- [Flipped Classroom](flipped-classroom.md) — a frequent target of PD and itself a model for PD design: content study outside meetings frees session time for active practice
-- [Level 3 sustaining efforts: extend coach learning and foster independent teacher learning communities](coaching-level-3-sustaining-efforts-coach-learning-and-independence.md)
+- [Collaborative Inquiry](../principles/inquiry-based-learning.md) — a common PD structure in which teacher teams investigate questions from their own classrooms using student data
+- [Flipped Classroom](../principles/flipped-learning.md) — a frequent target of PD and itself a model for PD design: content study outside meetings frees session time for active practice
+- [Level 3 sustaining efforts: extend coach learning and foster independent teacher learning communities](professional-development.md)
 
 ## Examples
 
@@ -330,7 +347,7 @@ At the second level, mentoring consists of coaches who "plan, set goals, observe
 ## Related Patterns
 
 - [Level 1 initial steps: address teacher beliefs through individual conferencing and establish teacher learning communities](../designs/coaching-level-1-initial-steps-beliefs-and-community-establishment.md)
-- [Level 3 sustaining efforts: extend coach learning and foster independent teacher learning communities](coaching-level-3-sustaining-efforts-coach-learning-and-independence.md)
+- [Level 3 sustaining efforts: extend coach learning and foster independent teacher learning communities](professional-development.md)
 
 ## Examples
 
@@ -338,4 +355,139 @@ At the second level, mentoring consists of coaches who "plan, set goals, observe
 
 ## Key Sources
 - Smith, A. T. (2009). Considering Literacy Coaching Responsibilities in Terms of Teacher Change. University of Washington Bothell. https://eric.ed.gov/?id=ED530353
+-->
+
+<!-- merged 2026-10-15 from patterns/coaching-level-3-sustaining-efforts-coach-learning-and-independence ("Level 3 sustaining efforts: extend coach learning and foster independent teacher learning communities"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Level 3 sustaining efforts: extend coach learning and foster independent teacher learning communities
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 3 claims (2 for, 1 against) · 2 studies (1 qualitative, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 3 claims rest on one study
+
+## Description
+At the third level, mentoring turns inward: coaches attend district, regional, and national professional development to deepen literacy knowledge and support sustaining efforts. Advocacy shifts to helping teacher groups "support each other in their effort to improve instructional skills as independent learning communities." Michelle's monthly all-district coaching meetings and Diane's facilitation of a reciprocal teaching group that begins meeting independently illustrate this level.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Access to district, regional, and national professional development opportunities
+- Teacher groups ready to continue collaboration without coach facilitation
+#### Constraints
+- 
+
+### Target Learners
+- literacy coaches seeking professional growth
+- experienced teacher learning communities
+
+### Target Goals
+- sustain teacher change over time
+- develop coach mentoring and technology skills
+
+### Claims
+
+- [Literacy coaching responsibilities fall into two major areas: teacher mentoring and literacy program advocacy](../claims/coaching-responsibilities-mentoring-and-advocacy.md) [+W]
+- [The complexity of coaching responsibilities may fragment the coaching process and reduce its impact](../claims/coaching-complexity-may-fragment-impact.md) [-W]
+- [Ongoing professional development and mentorship are critical to coaches' growth and confidence in their coaching skills](../claims/ongoing-pd-mentorship-critical-coach-growth.md) [+W]
+
+## Related Patterns
+
+- [Level 1 initial steps: address teacher beliefs through individual conferencing and establish teacher learning communities](../designs/coaching-level-1-initial-steps-beliefs-and-community-establishment.md)
+- [Level 2 necessary supports: guide implementation of new instructional skills and facilitate learning community dialogue](professional-development.md)
+
+## Examples
+
+- [Use the coaching framework as a structured discussion guide with a note-taking grid and study group questions](../strategies/coaching-framework-discussion-guide-grid-questions.md)
+
+## Key Sources
+- Smith, A. T. (2009). Considering Literacy Coaching Responsibilities in Terms of Teacher Change. University of Washington Bothell. https://eric.ed.gov/?id=ED530353
+-->
+
+<!-- merged 2026-10-15 from principles/coach-advocates-for-teachers-purposeful-change ("Advocate for teachers' voices, purposeful change, and continued professional development"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Advocate for teachers' voices, purposeful change, and continued professional development
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 qualitative, 1 design), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+
+## Description
+The article casts the coach as an advocate, not an evaluator, who supports strong learning communities, continued professional development, collaboration, and thoughtful examination of literacy practices. Coaches help teachers articulate needs to administrators and support teachers to develop as professional decision makers. The author also stresses her own continued professional development, expecting "moments of intellectual unrest" as she reads extensively, attends conferences, and spends time in classrooms outside her original grade range.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Coaches must maintain their own professional and content knowledge and practical classroom experience
+#### Constraints
+- Advocacy may yield partial accommodations; in one building an extended literacy block was scheduled for three mornings rather than five
+
+### Target Learners
+- classroom teachers and school administrators
+
+### Target Learning Objectives
+- teacher professionalism and decision making
+- institutional conditions for literacy instruction
+
+### Claims
+
+- [Ongoing professional development and mentorship are critical to coaches' growth and confidence in their coaching skills](../claims/ongoing-pd-mentorship-critical-coach-growth.md) [+W]
+- [Monthly coaching sessions helped teachers use and integrate MI Write with their instruction](../claims/monthly-coaching-helped-teachers-integrate-mi-write.md) [~W]
+
+## Related Principles
+
+- [Teacher professional development should include ongoing activities like study teams and peer coaching rather than only occasional large-group sessions](../principles/ongoing-study-teams-peer-coaching-in-service.md)
+- [Engage teachers in literacy events learner-to-learner to build trusting coaching relationships](../principles/communities-of-practice.md)
+
+## Examples
+
+- [Level 3 sustaining efforts: extend coach learning and foster independent teacher learning communities](../patterns/professional-development.md)
+- [Professional Learning Communities](../strategies/professional-learning-communities.md)
+
+## Key Sources
+- Dozier, C. L. (2008). Literacy coaching: Engaging and learning with teachers. The Language and Literacy Spectrum, 18. https://eric.ed.gov/?id=EJ1059644
+-->
+
+<!-- merged 2026-10-15 from principles/hqim-adoption-with-professional-development ("Adopt high-quality instructional materials aligned to the science of reading, accompanied by professional development"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Adopt high-quality instructional materials aligned to the science of reading, accompanied by professional development
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 causal, 1 design), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+
+## Description
+The toolkit states that core curricula choices "greatly impact student learning and teacher practice" and that high-quality instructional materials should be aligned to the science of reading and state standards. Citing Opfer et al. (2016), it argues HQIM adoption gives teachers quality content and assignments, "significantly reducing the need for teachers to search for lower quality" materials online, and must be paired with professional development on the materials and shifts in practice.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Adoption must be accompanied by professional development that lets teachers explore materials and learn high-leverage practices for using HQIM.
+#### Constraints
+- 
+
+### Target Learners
+- K–3 students
+- Elementary teachers
+
+### Target Learning Objectives
+- Reading instruction quality
+- Alignment of curriculum to reading science and state standards
+
+### Claims
+
+- [Student reports of standards-aligned instructional practices improved more in Chicago middle-grade schools with more extensive CCSS-M professional learning](../claims/standards-aligned-practice-reports-improved-with-pl.md) [+W]
+- [HQIM teacher guides differ substantially in the depth of educative guidance they provide for the same pedagogical practice](../claims/hqim-teacher-guides-vary-in-educative-guidance-depth.md) [~W]
+
+## Related Principles
+
+- [Eliminate three-cueing from elementary reading curricula and educator preparation materials](../principles/eliminate-three-cueing-instruction.md)
+- [Support teachers with ongoing job-embedded science-of-reading training through school-based literacy coaches](../principles/ongoing-study-teams-peer-coaching-in-service.md)
+
+## Examples
+
+- [Certified Executive Coaches provide side-by-side professional development and improvement science support for ARC Core implementation](../strategies/arc-core-executive-coaching-pd-strategy.md)
+- [Provide professional development on the pedagogy and content of ethnic studies before implementing new ethnic studies standards](../strategies/pd-before-ethnic-studies-standards-implementation.md)
+
+## Key Sources
+- Comprehensive Early Literacy Policy: Fundamental Principles. (2024). ExcelinEd Policy Toolkit. https://www.excelined.org
 -->

@@ -51,7 +51,7 @@ The article enumerates three design insights that emerged as pushing the simulat
 ## Related Patterns
 
 - [Three Practices for Ontological Alignment in Computational Modeling](three-practices-for-ontological-alignment-in-computational-modeling.md)
-- [Four-category design pattern for implicit scaffolding in simulations](../patterns/four-category-implicit-scaffolding-pattern.md)
+- [Four-category design pattern for implicit scaffolding in simulations](../principles/productive-usage-guaranteed-by-design.md)
 
 ## Examples
 

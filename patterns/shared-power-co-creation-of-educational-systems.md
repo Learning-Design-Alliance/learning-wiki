@@ -17,6 +17,10 @@ sources:
     resource: "https://doi.org/10.1080/10508406.2020.1807349"
     title: "Meléndez, J. W. (2021). Latino immigrants in civil society: Addressing the double-bind of participation for expansive learning in participatory budgeting. Journal of the Learning Sciences, 30(1), 76-102."
     author: "Meléndez, J. W."
+  - id: ellen-hawley-mcwhirter-1998
+    resource: "https://cjc-rcc.ucalgary.ca/"
+    title: "Ellen Hawley McWhirter. (1998). An Empowerment Model of Counsellor Education. Canadian Journal of Counselling, 32(1). https://cjc-rcc.ucalgary.ca/"
+    author: Ellen Hawley McWhirter
 ---
 
 # Shared power: previously excluded students, families, and communities co-create and shape educational systems, policies, and practices
@@ -156,6 +160,7 @@ This pattern is scoped to sharing a real decision with a group the existing proc
 ## Key Sources
 - SWIFT Education Center. (2025, May). Rightful presence in education systems. https://swiftschools.org
 - Meléndez, J. W. (2021). Latino immigrants in civil society: Addressing the double-bind of participation for expansive learning in participatory budgeting. *Journal of the Learning Sciences, 30*(1), 76-102. [https://doi.org/10.1080/10508406.2020.1807349](https://doi.org/10.1080/10508406.2020.1807349)
+- Ellen Hawley McWhirter. (1998). An Empowerment Model of Counsellor Education. Canadian Journal of Counselling, 32(1). https://cjc-rcc.ucalgary.ca/
 
 <!-- deprecated 2026-10-14: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -321,4 +326,43 @@ Program (an ongoing civic or organizational participatory process, spanning mult
 
 ## Key Sources
 - Meléndez, J. W. (2021). Latino immigrants in civil society: Addressing the double-bind of participation for expansive learning in participatory budgeting. *Journal of the Learning Sciences, 30*(1), 76-102. [https://doi.org/10.1080/10508406.2020.1807349](https://doi.org/10.1080/10508406.2020.1807349)
+-->
+
+<!-- merged 2026-10-15 from principles/acknowledge-power-differences-not-false-equality ("Acknowledge real power differences between faculty and students rather than presuming equality"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Acknowledge real power differences between faculty and students rather than presuming equality
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
+
+## Description
+Within the Collaboration component, the article argues that reducing hierarchy must not obscure real power differences between counsellor and client or faculty member and student. "Rather than assuming a false equality, power differences should be freely acknowledged", with the faculty member viewed as an expert holding grading and evaluative power who simultaneously treats students' self-knowledge, existing skills, and life experience as another source of expertise. Pretending differences do not exist perpetuates the "homogeneity of power" and protects faculty from critique.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Faculty must view students' self-knowledge, existing skills, and life experience as essential resources in the education process while retaining honest acknowledgment of their evaluative power.
+#### Constraints
+- The article warns that presuming equality acts as if all involved are equally free to present viewpoints and initiate change, protecting faculty members from critique and from changing their methods.
+
+### Target Learners
+- counsellor education faculty
+- graduate counselling students
+
+### Target Learning Objectives
+- collaborative definition of problems and goals
+- critical awareness of power in helping relationships
+
+### Claims
+- Counselling Can Oppress Clients [+M]
+
+## Related Principles
+
+
+## Examples
+-
+
+## Key Sources
+- Ellen Hawley McWhirter. (1998). An Empowerment Model of Counsellor Education. Canadian Journal of Counselling, 32(1). https://cjc-rcc.ucalgary.ca/
 -->

@@ -47,7 +47,7 @@ Consensus discussions force learners to articulate, defend, and revise their rea
 
 ### Affordances
 - [Collaborative Learning](../principles/collaborative-learning.md) — consensus discussion enacts this principle by making peer interaction the mechanism of learning rather than an add-on; the joint deliverable creates the positive interdependence the principle requires
-- [Constructivism](../principles/constructivism.md) — learners must actively reconcile conflicting interpretations and build a shared conceptual position rather than receive one, enacting knowledge-as-constructed rather than knowledge-as-transmitted
+- [Constructivism](../principles/cognitive-activation.md) — learners must actively reconcile conflicting interpretations and build a shared conceptual position rather than receive one, enacting knowledge-as-constructed rather than knowledge-as-transmitted
 - [Community of Inquiry](../principles/community-of-inquiry.md) — consensus tasks generate genuine cognitive disequilibrium and social negotiation, the teaching and social presence conditions this framework identifies as necessary for deep learning
 - [Argumentation](argumentation.md) — reaching consensus requires claims, evidence, warrants, and rebuttals; the discussion format gives argumentation an authentic purpose beyond display
 
@@ -64,7 +64,7 @@ Consensus discussions force learners to articulate, defend, and revise their rea
 
 ## Patterns That Use This Element
 - [Structured Academic Controversy](../patterns/structured-academic-controversy.md) — the consensus phase is the culminating step after perspective-switching
-- [Collaborative Inquiry](../patterns/collaborative-inquiry.md) — groups converge on shared findings and interpretations
+- [Collaborative Inquiry](../principles/inquiry-based-learning.md) — groups converge on shared findings and interpretations
 - [Case-Based Learning](../patterns/case-based-learning.md) — small groups must agree on a diagnosis, recommendation, or ruling before presenting it
 
 ## Examples

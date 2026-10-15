@@ -95,7 +95,7 @@ The three facts that most change the decision:
 | Only a single session is available (a one-off placement) | Use a criterion-referenced placement check on the entry skills, 20 to 30 minutes; treat near-cut results as provisional and re-check in the first week of teaching | untested proposal |
 | Mixed modes: some learners in the room, some remote, some on phones only | Give the same items, time and aids in every mode, or record the difference beside each result; keep items short and single-screen for phones; compare results by mode before pooling | untested proposal |
 | One teacher for many learners, or facilitator time is scarce (volunteers, a short weekly session) | Learners self-score short checks against an answer key with worked reasons; the teacher spends contact time only on near-cut learners and the skill most learners have not mastered | untested proposal |
-| Results are reported for accountability (school, district or programme reports) | Report the percentage reaching each level with the number tested, and the level definitions; do not compare schools on a norm-referenced percentile alone; see [High-Stakes Testing and Accountability Effects](high-stakes-testing-accountability-effects.md) | untested proposal |
+| Results are reported for accountability (school, district or programme reports) | Report the percentage reaching each level with the number tested, and the level definitions; do not compare schools on a norm-referenced percentile alone; see [High-Stakes Testing and Accountability Effects](summative-assessment.md) | untested proposal |
 | A parent or learner asks why a classroom grade and a test score disagree | List the candidate explanations and gather one observation that separates them (a task in the test's format, a look at what the test covers) before changing either | untested; from the earlier page |
 | Self-paced mobile study for school-age learners with no live teacher | Teach the difference with short worked examples and a tap-to-sort activity (statements sorted into "tells you what I can do" and "tells you how I rank"), and assess with auto-scored items against a stated criterion; do not ask learners to write test items on a phone | untested proposal |
 
@@ -169,11 +169,10 @@ The model should weaken if teachers given skill-level criterion-referenced repor
 
 ## Related Principles
 - [Intelligence Testing: Uses and Limits](../theories/intelligence-testing-uses-and-limits.md) — the fuller treatment of aptitude/cognitive-ability tests' history, standardization, and cultural-bias concerns
-- [High-Stakes Testing and Accountability Effects](high-stakes-testing-accountability-effects.md) — the accountability use of criterion-referenced testing specifically, and its downstream effects on schools and curriculum
+- [High-Stakes Testing and Accountability Effects](summative-assessment.md) — the accountability use of criterion-referenced testing specifically, and its downstream effects on schools and curriculum
 - [Standardized Test Fairness and Bias](standardized-test-fairness-and-bias.md) — bias concerns that apply across both criterion- and norm-referenced formats
 - [Competency-Based Assessment](competency-based-assessment.md) — owns the criterion-referenced "demonstrated / not yet" threshold judgment, threshold setting and assessor agreement
 - [Mastery Learning](mastery-learning.md) — owns the gate a criterion-referenced check controls: correct, recheck, advance
-- [Summative Assessment](summative-assessment.md) — owns the design of the end-point judgment, whose cut it sets against the capability
 - [Validity, Reliability, and Bias in Classroom Assessment](validity-reliability-and-bias-in-classroom-assessment.md) — owns whether any score supports the decision drawn from it
 - [Criterion-referenced testing as defined by Glaser](../theories/criterion-referenced-testing-mastery-framework.md), [as a test construction approach](../theories/criterion-referenced-testing-definition.md) and [as a grading framework](../theories/criterion-referenced-mastery-testing-gentile.md) — the source-framed theory pages
 
@@ -223,7 +222,7 @@ Three test *types* are worth distinguishing precisely, since the terms are often
 
 ## Related Principles
 - [Intelligence Testing: Uses and Limits](../theories/intelligence-testing-uses-and-limits.md) — the fuller treatment of aptitude/cognitive-ability tests' history, standardization, and cultural-bias concerns
-- [High-Stakes Testing and Accountability Effects](high-stakes-testing-accountability-effects.md) — the accountability use of criterion-referenced testing specifically, and its downstream effects on schools and curriculum
+- [High-Stakes Testing and Accountability Effects](summative-assessment.md) — the accountability use of criterion-referenced testing specifically, and its downstream effects on schools and curriculum
 - [Standardized Test Fairness and Bias](standardized-test-fairness-and-bias.md) — bias concerns that apply across both criterion- and norm-referenced formats
 
 ## Examples

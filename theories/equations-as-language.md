@@ -48,7 +48,7 @@ A companion idea, anticipating mathematical formalisms through intuitive sensema
 - (none yet linked)
 
 ## Examples
-- [Guided Equation Appropriation](../patterns/guided-equation-appropriation.md) — an instructional pattern built on this theory's staged progression from intuitive sensemaking to formal reading comprehension
+- [Guided Equation Appropriation](../patterns/cognitive-apprenticeship.md) — an instructional pattern built on this theory's staged progression from intuitive sensemaking to formal reading comprehension
 
 ## Key Sources
 - Kapon, S., & Schvartzer, M. (2024). Guided Inquiry into a Physics Equation. *Cognition and Instruction, 42*(1), 159-206. [https://doi.org/10.1080/07370008.2023.2197232](https://doi.org/10.1080/07370008.2023.2197232)

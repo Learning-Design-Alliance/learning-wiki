@@ -45,7 +45,7 @@ Expert modeling is the element in which a skilled performer demonstrates not onl
 
 ## Patterns That Use This Element
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md)
-- [Merrill's First Principles](../patterns/merrills-first-principles-of-instruction.md)
+- [Merrill's First Principles](../patterns/4cid-four-component-instructional-design.md)
 
 ## Examples
 - A clinician verbalizes why a particular diagnosis step matters while examining a case.

@@ -79,7 +79,7 @@ Protocols work because they convert discussion from a social performance into a 
 ## Related Strategies
 - [Class Discussion](../elements/class-discussion.md) — the unstructured baseline that protocols formalize
 - [Debate](../patterns/debate.md) — an adversarial protocol variant with assigned positions and rebuttal obligations
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — the broader pattern in which protocols are the operating routines
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — the broader pattern in which protocols are the operating routines
 - [Cooperative Learning](../patterns/cooperative-learning.md) — small-group structures with complementary role and accountability mechanisms
 - [Think-Pair-Share](../patterns/think-pair-share.md) — the most widely used lightweight protocol
 - [Jigsaw](jigsaw.md) — a protocol that distributes expertise across group members

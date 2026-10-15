@@ -45,7 +45,7 @@ Public speaking is the element in which learners present ideas aloud to an audie
 
 ## Patterns That Use This Element
 - [Debate](../patterns/debate.md)
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md)
+- [Discussion-Based Learning](../principles/collaborative-learning.md)
 
 ## Examples
 - Short presentations, oral defenses, and persuasive speeches with peer feedback.

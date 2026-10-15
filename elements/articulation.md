@@ -47,7 +47,7 @@ Articulation strengthens metacognition and conceptual clarity because converting
 - Transfer: articulating principles underlying procedures supports application to new problems [+M]
 
 ### Affordances
-- [Constructivism](../principles/constructivism.md) — articulation enacts this principle by requiring learners to actively construct and test their own explanations rather than receive them; knowledge is rebuilt in the learner's own words
+- [Constructivism](../principles/cognitive-activation.md) — articulation enacts this principle by requiring learners to actively construct and test their own explanations rather than receive them; knowledge is rebuilt in the learner's own words
 - [Active Learning](../principles/active-learning.md) — verbalizing reasoning is a form of generative processing that goes beyond listening or watching
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — when used diagnostically, articulation lets instructors locate exactly where a learner's model breaks down, so support is targeted rather than blanket
 - [Collaborative Learning](../principles/collaborative-learning.md) — articulated reasoning becomes shared material that peers can question, extend, and correct

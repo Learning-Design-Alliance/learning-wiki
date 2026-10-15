@@ -70,7 +70,7 @@ Scaffolding works because it keeps task demands within working memory limits whi
 ## Patterns That Use This Strategy
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — scaffolding and fading are core teaching methods alongside modeling and coaching
 - [Four-Component Instructional Design](../patterns/4cid-four-component-instructional-design.md) — supportive information and procedural information function as embedded scaffolds within learning tasks
-- [Cognitive Load Reduction (CLT scaffolding approach)](../patterns/cognitive-load-reduction-clt-scaffolding-approach.md) — scaffolding as the primary technique for managing intrinsic load
+- [Cognitive Load Reduction (CLT scaffolding approach)](../principles/cognitive-load-theory.md) — scaffolding as the primary technique for managing intrinsic load
 
 ## Examples
 - A teacher provides sentence stems to help a student articulate their feelings in a journal, then gradually removes the stems as the student becomes comfortable self-regulating. (Learner Variability Project, [Digital Promise](https://digitalpromise.org/learner-variability-project/))

@@ -20,7 +20,7 @@ Pre-seminar preparation asks learners to engage with source material — reading
 
 ## Design Implications
 
-Preparation before discussion raises the quality of seminar talk because learners arrive with shared foundational knowledge, freeing group time for higher-order interaction [Flipped instruction improves exam performance over traditional lecture.](../patterns/flipped-classroom.md) [+M]. Preparation tasks that require active processing — answering guiding questions, annotating, self-quizzing — produce substantially better retention than passive review [Practice testing and distributed review outperform rereading.](../claims/spaced-practice-improves-retention.md) [+S]. Structuring preparation as generative work (summarizing, questioning, mapping) also positions learners to contribute rather than merely attend, consistent with the engagement hierarchy in which constructive and interactive modes outperform passive ones [Active and constructive engagement modes support deeper learning than passive modes.](../principles/active-learning.md) [+S].
+Preparation before discussion raises the quality of seminar talk because learners arrive with shared foundational knowledge, freeing group time for higher-order interaction [Flipped instruction improves exam performance over traditional lecture.](../principles/flipped-learning.md) [+M]. Preparation tasks that require active processing — answering guiding questions, annotating, self-quizzing — produce substantially better retention than passive review [Practice testing and distributed review outperform rereading.](../claims/spaced-practice-improves-retention.md) [+S]. Structuring preparation as generative work (summarizing, questioning, mapping) also positions learners to contribute rather than merely attend, consistent with the engagement hierarchy in which constructive and interactive modes outperform passive ones [Active and constructive engagement modes support deeper learning than passive modes.](../principles/active-learning.md) [+S].
 
 ### Context
 #### Requirements
@@ -36,7 +36,7 @@ Preparation before discussion raises the quality of seminar talk because learner
 - Less effective when the seminar topic is genuinely novel and open-ended — learners lack the schema to make sense of unguided first exposure [~M]
 
 ### Target Learners
-- Higher education and adult learners who can manage independent study time [Flipped instruction improves exam performance over traditional lecture.](../patterns/flipped-classroom.md) [+M]
+- Higher education and adult learners who can manage independent study time [Flipped instruction improves exam performance over traditional lecture.](../principles/flipped-learning.md) [+M]
 - Learners with adequate literacy and self-regulation skills; those without need scaffolds such as reading guides or [Reflection](reflection.md) prompts
 - Less suited to novices with no prior knowledge base, who benefit from instructor-led first exposure before independent preparation [~M]
 
@@ -64,7 +64,7 @@ Preparation before discussion raises the quality of seminar talk because learner
 
 ## Patterns That Use This Element
 - [Socratic Seminar](../patterns/socratic-seminar.md) — preparation is the precondition for text-based questioning
-- [Flipped Classroom](../patterns/flipped-classroom.md) — pre-class first exposure is the defining structural move
+- [Flipped Classroom](../principles/flipped-learning.md) — pre-class first exposure is the defining structural move
 - [Case-Based Learning](../patterns/case-based-learning.md) — learners prepare by analyzing the case before seminar deliberation
 
 ## Examples

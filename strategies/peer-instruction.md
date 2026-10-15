@@ -35,7 +35,7 @@ Peer Instruction operationalizes the finding that interactive engagement outperf
 - Large vote majorities (>90% correct) make discussion pointless; small majorities (<35%) may leave no student able to articulate the correct reasoning
 
 #### Implementation Variability
-- [Flipped Classroom](../patterns/flipped-classroom.md) variant: content delivery moves to pre-class reading with [Just-in-Time Teaching](../strategies/just-in-time-teaching.md) quizzes, freeing class time entirely for Peer Instruction cycles
+- [Flipped Classroom](../principles/flipped-learning.md) variant: content delivery moves to pre-class reading with [Just-in-Time Teaching](../strategies/just-in-time-teaching.md) quizzes, freeing class time entirely for Peer Instruction cycles
 - Two-stage or two-round exams: the same discussion mechanism applied to assessment, where students first answer individually then discuss and re-answer
 - Online adaptation: asynchronous discussion boards or breakout rooms in video conferencing replace shoulder-to-neighbor talk, at some cost to immediacy
 
@@ -50,7 +50,7 @@ Peer Instruction operationalizes the finding that interactive engagement outperf
 - Metacognitive awareness of one's own understanding, exposed by the gap between confidence and correctness
 
 ### Instructions
-1. Assign preparatory material and optionally a pre-class quiz so students arrive with baseline exposure ([Flipped Classroom](../patterns/flipped-classroom.md)).
+1. Assign preparatory material and optionally a pre-class quiz so students arrive with baseline exposure ([Flipped Classroom](../principles/flipped-learning.md)).
 2. Pose a [ConcepTest](../elements/conceptest.md) targeting a known misconception; students vote individually without discussion.
 3. Display the vote distribution. If answers are split (roughly 35–90% correct), have students discuss with a neighbor holding a *different* answer.
 4. Students revote. If the majority now answers correctly, briefly confirm and consolidate; if not, reteach or run a second round ([Class Discussion](../elements/class-discussion.md)).

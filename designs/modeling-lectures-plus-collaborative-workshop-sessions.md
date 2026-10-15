@@ -50,7 +50,7 @@ This pattern describes the structure of the experimental technical mathematics c
 ## Related Patterns
 
 - [Workshop Model](../patterns/workshop-model.md)
-- [Traditional Lecture / Reading / Midterm / Final Assessment](../patterns/traditional-lecture-reading-midterm-final-assessment.md)
+- [Traditional Lecture / Reading / Midterm / Final Assessment](../patterns/traditional-lecture-based-instruction.md)
 
 ## Examples
 -

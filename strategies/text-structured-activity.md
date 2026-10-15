@@ -61,7 +61,7 @@ Structured activities convert reading from passive reception into generative pro
 6. Optionally schedule revisiting of the material at spaced intervals ([Spaced Repetition](../elements/spaced-repetition.md))
 
 ## Related Strategies
-- [Flipped Classroom](../patterns/flipped-classroom.md) — text + structured activity is the most common low-bandwidth substitute for pre-class video
+- [Flipped Classroom](../principles/flipped-learning.md) — text + structured activity is the most common low-bandwidth substitute for pre-class video
 - [Direct Instruction](../patterns/direct-instruction.md) — the text can serve as the "present content" phase when scripted with worked examples
 - [Assigned Readings](../strategies/assigned_readings.md) — the unstructured baseline this strategy improves on by adding the activity component
 

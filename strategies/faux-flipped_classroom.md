@@ -15,7 +15,7 @@ generated:
 > **Evidence** · 4 claims (4 for) · 12 studies (7 quant-synthesis, 2 causal, 2 review, 1 theoretical), `q2`–`q4` · 6 of 12 report an effect size
 
 ## Description
-The faux-flipped classroom adapts the [Flipped Classroom](../patterns/flipped-classroom.md) model for young learners. Instead of sending instructional videos home as homework, students watch short teacher-created videos *during* class — often in a station-rotation or small-group structure — and the teacher then circulates to provide one-to-one guidance, feedback, and coaching on practice. The "faux" label reflects that the out-of-class/in-class inversion is softened: the goal is not homework replacement per se but freeing the teacher's attention for individualized support while students still have access to direct instruction.
+The faux-flipped classroom adapts the [Flipped Classroom](../principles/flipped-learning.md) model for young learners. Instead of sending instructional videos home as homework, students watch short teacher-created videos *during* class — often in a station-rotation or small-group structure — and the teacher then circulates to provide one-to-one guidance, feedback, and coaching on practice. The "faux" label reflects that the out-of-class/in-class inversion is softened: the goal is not homework replacement per se but freeing the teacher's attention for individualized support while students still have access to direct instruction.
 
 ## Design Implications
 
@@ -59,7 +59,7 @@ The model preserves the core benefit of flipped instruction — shifting first-e
 5. **Close with individual reflection or a quick check** so students and teacher can see what was learned and what needs revisiting.
 
 ## Related Strategies
-- [Flipped Classroom](../patterns/flipped-classroom.md) — the adolescent/adult model this adapts; the faux variant moves the video segment back into class
+- [Flipped Classroom](../principles/flipped-learning.md) — the adolescent/adult model this adapts; the faux variant moves the video segment back into class
 - [Blended Learning](../patterns/blended-learning.md) — the broader family of models combining digital instruction with face-to-face teaching
 - [Direct Instruction](../patterns/direct-instruction.md) — the video segment functions as a scripted, rewatchable form of explicit teaching
 

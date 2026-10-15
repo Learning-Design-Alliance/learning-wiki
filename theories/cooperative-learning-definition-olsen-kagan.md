@@ -51,7 +51,7 @@ The chapter defines cooperative learning using Olsen and Kagan's formulation: "C
 
 ## Examples
 
-- [Nine key elements structuring a cooperative lesson](../patterns/nine-key-elements-cooperative-lesson.md)
+- [Nine key elements structuring a cooperative lesson](../patterns/cooperative-learning.md)
 - [Use cooperative group work especially in areas requiring mutual trust, communication, and practice, and direct higher education students to cooperation often](../strategies/cooperative-learning-group-work-recommendation.md)
 - [Kagan Cooperative Learning Strategies](../strategies/kagan_cooperative_learning_strategies.md)
 - [Cooperative Learning Strategies](../strategies/cooperative-learning.md)

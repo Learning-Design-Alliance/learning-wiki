@@ -1,7 +1,7 @@
 ---
 type: pattern
 id: 4cid-four-component-instructional-design
-aliases: [4cid, tell-show-do-distributed-across-whole-tasks, whole-task-progression-increasing-complexity]
+aliases: [4cid, tell-show-do-distributed-across-whole-tasks, whole-task-progression-increasing-complexity, merrills-first-principles, merrills-first-principles-of-instruction]
 title: 4C/ID (Four-Component Instructional Design)
 description: "A reusable whole-task policy for complex skills: learning tasks in simple-to-complex task classes with fading support, supportive and just-in-time procedural information, and selective part-task practice, whose response-dependent branches are untested proposals."
 canonical: true
@@ -18,6 +18,14 @@ sources:
     resource: "https://eric.ed.gov/?id=EJ826059"
     title: "M. David Merrill. (2007). A Task-Centered Instructional Strategy. Journal of Research on Technology in Education, 40(1), 5–22. https://eric.ed.gov/?id=EJ826059"
     author: M. David Merrill
+  - id: merrill-2002
+    resource: "https://doi.org/10.1007/BF02505024"
+    title: "Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development, 50*(3), 43-59"
+    author: Merrill, M. D
+  - id: merrill-2007
+    resource: "https://doi.org/10.1080/15391523.2007.10782493"
+    title: "Merrill, M. D. (2007). A task-centered instructional strategy. *Journal of Research on Technology in Education, 40*(1), 5-22"
+    author: Merrill, M. D
 author: Jeroen J. G. van Merrienboer
 grain_size: unit
 ---
@@ -25,7 +33,7 @@ grain_size: unit
 # 4C/ID (Four-Component Instructional Design)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 12 claims (8 for, 4 mixed) · 15 studies (6 causal, 3 review, 3 theoretical, 1 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 0 of 15 report an effect size · 9 claims rest on one study
+> **Evidence** · 15 claims (10 for, 5 mixed) · 18 studies (8 causal, 4 theoretical, 3 review, 1 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 1 of 18 report an effect size · 12 claims rest on one study
 
 ## Description and scope
 
@@ -97,6 +105,9 @@ Every claim this page cited before the rewrite has been read against the model a
 - [Lecture-based and 4C/ID-based training produced comparable knowledge retention among emergency care professionals](../claims/no-knowledge-difference-lecture-vs-4cid-consent-training.md) [~W] — attached 2026-10-07 from Khan Abdus Salam et al. (2025), which proposed "Blend efficient lectures with structured 4C/ID-based workshops and role-play for consent-taking training".
 - [In one trial, task-centered Entrepreneur course students analyzed a new business as well as completed business majors](../claims/entrepreneur-course-trial-matches-business-majors.md) [+W]
 - [Learning varied tasks of the same type enables transfer to unencountered tasks of that type](../claims/task-variety-enables-transfer-same-task-type.md) [+W]
+- [Learning is effective when it builds on children's existing knowledge in real-world contexts, and early fraction foundations matter because many older children struggle with rational numbers](../claims/early-fraction-foundations-given-rational-number-difficulty.md) [+W]
+- [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-example-problem-sequences.md) [+M]
+- [Theory-based agents significantly outperform non-theory agents on Problem-centered design (d = 0.28) and Activation (d = 0.29), but non-theory agents score higher on Demonstration (d = -0.23)](../claims/theory-agents-problem-centered-activation-advantage.md) [~W]
 
 ## Illustrative design instance and observation record
 
@@ -117,8 +128,11 @@ This pattern is scoped to complex skills where whole-task transfer is the object
 
 ## Related Patterns
 - [Problem-Based Learning (PBL)](problem-based-learning.md)
-- [Cognitive Load Reduction (CLT Scaffolding Approach)](cognitive-load-reduction-clt-scaffolding-approach.md)
+- [Cognitive Load Reduction (CLT Scaffolding Approach)](../principles/cognitive-load-theory.md)
 - [Reigeluth's Elaboration Theory](elaboration-theory.md)
+- [Gagne's 9 Events of Instruction](gagnes-9-events-of-instruction.md)
+- [Demonstration, application, and integration corollaries of Merrill's framework](merrill-demonstration-application-integration-corollaries.md)
+- [Five core areas of classroom technology use as organizing units for assessment](five-core-areas-classroom-technology-use.md)
 
 ## Examples
 
@@ -128,12 +142,17 @@ This pattern is scoped to complex skills where whole-task transfer is the object
 - [Whole Task Practice](../strategies/whole-task-practice.md)
 - [Scaffolded Difficulty Progression](../strategies/scaffolded-difficulty-progression.md)
 - [Scaffold GenAI learning activities and assessments progressively across all undergraduate levels](../strategies/scaffolded-genai-activities-assessments-across-levels.md)
+- Clinical training where learners analyze a case, study demonstrations, practice decisions, and reflect on use in real settings.
+- Technical lessons that begin with a real task, activate prior knowledge, model performance, and then move into coached application.
+- Adult education modules that connect existing experience to a new strategy and then ask learners to apply it in work or life.
 
 ## Key Sources
 - van Merrienboer, J. J. G. (1997). *Training complex cognitive skills*. Educational Technology Publications.
 - van Merrienboer, J. J. G., Kester, L., & Paas, F. (2006). Teaching complex rather than simple tasks: Balancing intrinsic and germane load to enhance transfer of learning. *Applied Cognitive Psychology, 20*(3), 343-352. [https://doi.org/10.1002/acp.1250](https://doi.org/10.1002/acp.1250)
 - van Merrienboer, J. J. G., & Kirschner, P. A. (2018). *Ten steps to complex learning* (3rd ed.). Routledge. [doi:10.4324/9781315113210](https://doi.org/10.4324/9781315113210)
 - M. David Merrill. (2007). A Task-Centered Instructional Strategy. Journal of Research on Technology in Education, 40(1), 5–22. https://eric.ed.gov/?id=EJ826059
+- Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development, 50*(3), 43-59. [https://doi.org/10.1007/BF02505024](https://doi.org/10.1007/BF02505024)
+- Merrill, M. D. (2007). A task-centered instructional strategy. *Journal of Research on Technology in Education, 40*(1), 5-22. [https://doi.org/10.1080/15391523.2007.10782493](https://doi.org/10.1080/15391523.2007.10782493)
 
 <!-- deprecated 2026-10-01: superseded by the conditional model above; the pattern body as it stood before the rewrite, kept verbatim.
 
@@ -298,4 +317,171 @@ The pattern sequences a series of complete worked-example tasks rather than topi
 
 ## Key Sources
 - M. David Merrill. (2007). A Task-Centered Instructional Strategy. Journal of Research on Technology in Education, 40(1), 5–22. https://eric.ed.gov/?id=EJ826059
+-->
+
+<!-- merged 2026-10-15 from patterns/merrills-first-principles-of-instruction ("Merrill's First Principles of Instruction"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Merrill's First Principles of Instruction
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 6 claims (3 for, 3 mixed) · 11 studies (4 causal, 3 theoretical, 2 review, 1 quant-synthesis, 1 qualitative), `q1`–`q4` · 1 of 11 report an effect size · 4 claims rest on one study
+
+## Description
+Merrill's First Principles of Instruction is a task-centered pattern that organizes learning around five recurring moves: problem-centered work, activation of prior knowledge, demonstration, application, and integration. Rather than prescribing a rigid lesson script, it identifies a set of instructional conditions that tend to support effective learning across many settings. The pattern is strongest when learners are working toward meaningful performance, not just isolated recall.
+
+Its practical strength is that it balances authenticity with structured support. Learners encounter real or realistic tasks, but instruction still includes activation, modeling, guided application, and integration into personal or professional use.
+
+## Implications
+
+### Context
+#### Requirements
+- **Meaningful whole tasks**: Learning should be organized around authentic or realistic problems rather than decontextualized fragments alone.
+- **Activation of prior knowledge**: Learners need help connecting new instruction to what they already know.
+- **Demonstration and guided application**: Learners should see examples and then apply knowledge with support.
+- **Integration**: Instruction should help learners bring new learning back into their own contexts and practices.
+- **Activation, demonstration, application, and integration**
+#### Constraints
+- **Design effort**: Strong task-centered instruction requires more intentional design than content-first sequencing.
+- **Weak fit for pure fact coverage**: The pattern is most useful when understanding and application matter.
+- **Support needs vary by expertise**: Some learners need more modeling and guidance than others.
+- **Authenticity can be faked**: Poorly designed "real-world tasks" weaken the pattern quickly.
+- **Task-centered design requires more planning than content-first sequencing**
+#### Grain Size
+- Lesson
+- Course
+
+### Target Goals
+- **Applied understanding**: Learners use knowledge in meaningful tasks.
+- **Transfer**: Instruction is designed from the start for later use.
+- **Integrated performance**: Concepts, procedures, and strategy come together around a task.
+- Support applied understanding and transfer.
+
+### Target Learners
+- **Adult and professional learners**: Strong fit where real-world performance matters.
+- **Learners in concept-and-skill domains**: Useful when both understanding and application are required.
+- **Designers building task-centered instruction**: Provides a reusable high-level structure across domains.
+
+### Theory
+#### Supporting
+
+- Task-centered instruction traditions — authentic problems organize learning more effectively than isolated content alone.
+- Constructivist and generative perspectives — activation, demonstration, and application support meaningful learning.
+- Transfer-oriented design — integration improves the chances that learning will be used later.
+- [Problem-based Learning](../principles/problem-based-learning.md)
+- [Scaffolding](../principles/scaffolding.md)
+- [Learning is effective when it builds on children's existing knowledge in real-world contexts, and early fraction foundations matter because many older children struggle with rational numbers](../claims/early-fraction-foundations-given-rational-number-difficulty.md) [+W]
+
+#### Contradicting / Qualifying
+- Not every lesson needs all five principles equally, and designers still need to adapt to domain and learner expertise.
+- Task-centered instruction may need supplemental explicit teaching for foundational subskills.
+
+### Claims
+#### Supporting
+- [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+M]
+- [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-example-problem-sequences.md) [+M]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
+#### Contradicting
+
+- [Worked examples can become redundant or counterproductive for advanced learners.](../claims/worked-examples-less-effective-with-expertise.md) [~M]
+- [Theory-based agents significantly outperform non-theory agents on Problem-centered design (d = 0.28) and Activation (d = 0.29), but non-theory agents score higher on Demonstration (d = -0.23)](../claims/theory-agents-problem-centered-activation-advantage.md) [~W]
+
+## Design
+
+### Sequence
+1. Organize instruction around a real or realistic problem or task.
+2. Activate relevant prior knowledge or experience.
+3. Demonstrate what successful performance or reasoning looks like.
+4. Have learners apply the knowledge with support and feedback.
+5. Integrate learning by reflecting, teaching, or using it in a new context.
+
+### Elements Used
+- [Whole-task Performance](../elements/whole-task-performance.md)
+- [Activation](../elements/activation.md)
+- [Practice](../elements/practice.md)
+- [Reflection](../elements/reflection.md)
+- [Demonstration](../elements/demonstration.md)
+- [Application](../elements/application.md)
+
+### Affordances
+- [Problem-based Learning](../principles/problem-based-learning.md)
+- [Guided Practice](../principles/guided-practice.md)
+- [Worked Examples](../principles/worked-examples.md)
+- [Purposeful Reflection](../principles/reflection.md)
+
+### Personalization
+- Learners can work on tasks relevant to their own contexts while following the same instructional arc.
+- Demonstration and guidance can be adjusted based on expertise.
+- Integration can take many forms, including teaching others, reflection, or workplace application.
+
+## Related Patterns
+
+- [Four-Component Instructional Design](4cid-four-component-instructional-design.md)
+- [Gagne's 9 Events of Instruction](gagnes-9-events-of-instruction.md)
+- [Demonstration, application, and integration corollaries of Merrill's framework](merrill-demonstration-application-integration-corollaries.md)
+- [Problem-centered instruction with task-level engagement and problem progression](../principles/problem-based-learning.md)
+- [Five core areas of classroom technology use as organizing units for assessment](five-core-areas-classroom-technology-use.md)
+
+## Examples
+- Clinical training where learners analyze a case, study demonstrations, practice decisions, and reflect on use in real settings.
+- Technical lessons that begin with a real task, activate prior knowledge, model performance, and then move into coached application.
+- Adult education modules that connect existing experience to a new strategy and then ask learners to apply it in work or life.
+
+## Impact
+- Provides a practical high-level design frame for instruction that aims at use, not just exposure.
+- Works well across domains when designers keep the task at the center rather than treating the principles as a checklist.
+
+## Key Sources
+- Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development, 50*(3), 43-59. [https://doi.org/10.1007/BF02505024](https://doi.org/10.1007/BF02505024)
+- Merrill, M. D. (2007). A task-centered instructional strategy. *Journal of Research on Technology in Education, 40*(1), 5-22. [https://doi.org/10.1080/15391523.2007.10782493](https://doi.org/10.1080/15391523.2007.10782493)
+
+<!- - merged 2026-10-02 from patterns/merrills-first-principles ("Merrill's First Principles"), a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Merrill's First Principles
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+Merrill's First Principles is the short-form canonical target for task-centered instruction organized around problem-centered work, activation, demonstration, application, and integration.
+
+## Implications
+
+### Context
+#### Requirements
+- **Meaningful whole tasks**
+- **Activation, demonstration, application, and integration**
+#### Constraints
+- **Task-centered design requires more planning than content-first sequencing**
+#### Grain Size
+- Lesson
+- Course
+
+### Target Goals
+- Support applied understanding and transfer.
+
+### Theory
+#### Supporting
+- [Problem-based Learning](../principles/problem-based-learning.md)
+- [Scaffolding](../principles/scaffolding.md)
+
+### Claims
+- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+S]
+
+## Design
+
+### Elements Used
+- [Activation](../elements/activation.md)
+- [Demonstration](../elements/demonstration.md)
+- [Application](../elements/application.md)
+- [Reflection](../elements/reflection.md)
+
+## Related Patterns
+
+- [Merrill's First Principles of Instruction](4cid-four-component-instructional-design.md)
+- [Demonstration, application, and integration corollaries of Merrill's framework](merrill-demonstration-application-integration-corollaries.md)
+- [Problem-centered instruction with task-level engagement and problem progression](../principles/problem-based-learning.md)
+
+## Key Sources
+- Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development, 50*(3), 43-59. [https://doi.org/10.1007/BF02505024](https://doi.org/10.1007/BF02505024)
+- ->
 -->

@@ -66,7 +66,7 @@ The central design problem is that the count sequence to 100 far exceeds what yo
 - [Teach estimation of coin values and quantities using a 'more than'/'less than' framework rather than counting and rounding](more-than-less-than-estimation-framework.md)
 
 ## Examples
-- **Counting Collections (Teresa Lindblom / Cognitively Guided Instruction classrooms)** — children count jars of 60–120 objects, record how they grouped them, and share strategies; see [Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md)
+- **Counting Collections (Teresa Lindblom / Cognitively Guided Instruction classrooms)** — children count jars of 60–120 objects, record how they grouped them, and share strategies; see [Cognitively Guided Instruction](../principles/responsive-teaching.md)
 - **Siegler & Ramani's linear number board game** — a 1–100 path game shown to raise magnitude comparison and estimation accuracy in preschoolers [+S]
 - **DreamBox Learning** — adaptive digital lessons that use ten-frames and number-line models to build numbers to 100 with [adaptive difficulty](../elements/adaptive-difficulty.md)
 - **Every Day Counts calendar math** — daily whole-class routines building the count sequence and hundred-chart patterns across the school year

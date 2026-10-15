@@ -53,7 +53,7 @@ Dynamic assessment is presented as a Vygotskian alternative to psychometric test
 ## Examples
 
 - [Reciprocity inventory of learner responsiveness to mediation](../methods/learner-reciprocity-inventory.md)
-- [Mediation typology of implicit-to-explicit moves in SCMC DA](../patterns/scmc-da-mediation-typology.md)
+- [Mediation typology of implicit-to-explicit moves in SCMC DA](../principles/teacher-as-mediator-not-content-disseminator.md)
 - [Assess children's cognitive development both when performing alone and when assisted](../principles/multiple-methods-of-assessment.md)
 - [Use interactionist DA to give learners more opportunities to interact and improve writing accuracy](../strategies/use-interactionist-da-for-writing-accuracy.md)
 

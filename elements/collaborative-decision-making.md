@@ -44,7 +44,7 @@ Collaborative decision-making is the element in which learners evaluate options 
 - [Group Work](group-work.md)
 
 ## Patterns That Use This Element
-- [Collaborative Inquiry](../patterns/collaborative-inquiry.md)
+- [Collaborative Inquiry](../principles/inquiry-based-learning.md)
 - [Structured Academic Controversy](../patterns/structured-academic-controversy.md)
 
 ## Examples

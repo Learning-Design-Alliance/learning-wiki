@@ -34,7 +34,7 @@ The relationship is conditional on four things:
 
 **What is tested, and what is not.** One report (Eylon & Reif, 1979: three small experiments with college physics students and an advanced high-school physics class) tests the core contrast directly, the same content taught with a hierarchical or a single-level organization, and its claim pages carry the match, ability, detail-task and acquisition-task qualifications below. It is one study in one domain, with samples of 8 to 36, and the claim pages print F tests but no effect sizes. Two concept-mapping meta-analyses test one visual way for learners to build an organization. No claim tests other kinds of organization (causal chains, sequences, comparison matrices) as organization, a course-long framework revisited unit by unit, or how to fade a given organization across sessions. The default design below keeps the earlier page's guidance as labelled proposals around that tested core.
 
-How the converted neighbours sit beside this page: [Clear Structure](clear-structure.md) holds the relationship that making the *material's* organization visible (signals, previews, matching graphics) helps learners who lack one; [Graphic Organizers](graphic-organizers.md) holds the *visual form* (which diagram, who builds it); [Chunking](chunking.md) holds the *size* of units and where their boundaries fall; [Activation](activation.md) holds connecting new material to what learners already know before instruction; [Self-Explanation](self-explanation.md) and [Retrieval Practice](retrieval-practice.md) hold the two activities this page asks learners to do with an organization. This page asks a prior question: **which organization should the learner end up holding, given the tasks they will face, and how do they come to hold it?**
+How the converted neighbours sit beside this page: [Clear Structure](clear-structure.md) holds the relationship that making the *material's* organization visible (signals, previews, matching graphics) helps learners who lack one; [Graphic Organizers](graphic-organizers.md) holds the *visual form* (which diagram, who builds it); [Chunking](chunking.md) holds the *size* of units and where their boundaries fall; [Activation](activation.md) holds connecting new material to what learners already know before instruction; [Self-Explanation](cognitive-activation.md) and [Retrieval Practice](retrieval-practice.md) hold the two activities this page asks learners to do with an organization. This page asks a prior question: **which organization should the learner end up holding, given the tasks they will face, and how do they come to hold it?**
 
 ## Default design
 
@@ -150,7 +150,7 @@ Assisted sorting, unaided rebuilding, integrative-task performance, detail recal
 - [Chunking](chunking.md) — the size of units and where their boundaries fall
 - [Activation](activation.md) — connecting new material to what learners already know, including advance organizers
 - [Retrieval Practice](retrieval-practice.md) — rebuilding an organization from memory is a retrieval activity
-- [Self-Explanation](self-explanation.md) — explaining the links in an organization
+- [Self-Explanation](cognitive-activation.md) — explaining the links in an organization
 - [Sequencing](sequencing.md) — the order in which branches of an organization are taught
 
 ## Examples

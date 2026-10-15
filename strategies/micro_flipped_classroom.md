@@ -15,7 +15,7 @@ generated:
 > **Evidence** · 2 claims (2 for) · 6 studies (2 quant-synthesis, 2 review, 1 causal, 1 theoretical), `q2`–`q4` · 2 of 6 report an effect size
 
 ## Description
-Short video lectures (typically under 10 minutes, each covering a single concept) are assigned as pre-class study material together with brief assignments or comprehension checks. Class time is then devoted to applying, discussing, and extending that material rather than delivering it. The "micro" variant distinguishes itself from the general [Flipped Classroom](../patterns/flipped-classroom.md) by deliberately chunking pre-class content into small, single-objective segments with low-stakes accountability tasks attached.
+Short video lectures (typically under 10 minutes, each covering a single concept) are assigned as pre-class study material together with brief assignments or comprehension checks. Class time is then devoted to applying, discussing, and extending that material rather than delivering it. The "micro" variant distinguishes itself from the general [Flipped Classroom](../principles/flipped-learning.md) by deliberately chunking pre-class content into small, single-objective segments with low-stakes accountability tasks attached.
 
 ## Design Implications
 
@@ -59,7 +59,7 @@ The micro flipped approach combines first exposure outside class with active lea
 
 ## Related Strategies
 
-- [Flipped Classroom](../patterns/flipped-classroom.md) — the parent pattern; the micro variant differs mainly in granularity of pre-class content and tighter accountability loops
+- [Flipped Classroom](../principles/flipped-learning.md) — the parent pattern; the micro variant differs mainly in granularity of pre-class content and tighter accountability loops
 - [Blended Learning](../patterns/blended-learning.md) — the broader family of designs that mix online first exposure with face-to-face interaction
 - [Assign guided or scaffolded note-taking to be completed while watching lecture videos to keep video viewing active rather than passive](guided-note-taking-while-watching-videos.md)
 

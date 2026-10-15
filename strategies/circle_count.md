@@ -65,7 +65,7 @@ Circle Count distributes brief, high-frequency retrieval opportunities across ev
 - **Daily Math Warm-Up Routines** — the broader family of short, repeated opening activities of which Circle Count is one instance
 
 ## Examples
-- **Counting collections and count-around routines in CGI classrooms** — [Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md) classrooms routinely use count-around-the-circle as a warm-up before problem solving
+- **Counting collections and count-around routines in CGI classrooms** — [Cognitively Guided Instruction](../principles/responsive-teaching.md) classrooms routinely use count-around-the-circle as a warm-up before problem solving
 - **Kazemi & Hintz's *Intentional Talk* (2014)** — describes structured discussion around counting routines, including "open strategy sharing" and targeted pattern-noticing prompts during choral and circle counts
 - **Everyday Mathematics (McGraw-Hill)** — includes "Counting Patterns" mental-math routines in its daily routine block, functionally equivalent to Circle Count with skip-count variations
 

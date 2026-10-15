@@ -32,7 +32,7 @@ Chunking reduces the working-memory and attentional demands of a task by letting
 - Chunks that are too small fragment the task and disrupt workflow, forcing learners to repeatedly reconstruct context [-M]
 - Part-task practice alone can produce learners who can perform each piece but cannot coordinate them into fluent whole-task performance [Whole-task performance improves transfer.](../claims/whole-task-performance-improves-transfer.md) [-M] — re-integration must be planned, not assumed
 - Over-fragmentation can undermine autonomy and motivation for learners who prefer self-directed pacing [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [~M] — offer choice in chunk size or order where possible
-- Requires structured task management; learners with weak executive function may need the breakdown done *for* them initially, then [Fading](../patterns/cognitive-load-reduction-clt-scaffolding-approach.md) toward self-generated breakdowns [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M]
+- Requires structured task management; learners with weak executive function may need the breakdown done *for* them initially, then [Fading](../principles/cognitive-load-theory.md) toward self-generated breakdowns [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M]
 
 #### Implementation Variability
 - **Chunk size:** from single-step prompts for young or attention-challenged learners to multi-session project milestones for older students

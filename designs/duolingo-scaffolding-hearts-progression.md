@@ -41,8 +41,7 @@ The article describes Duolingo's design as scaffolding, in which learners progre
 
 ## Related Patterns
 
-- [Game-Based Mastery Learning (e.g., Duolingo Pattern)](../patterns/game-based-mastery-learning-eg-duolingo-pattern.md)
-- [Game-Based Mastery Learning (Duolingo Pattern)](../patterns/game-based-mastery-learning-duolingo-pattern.md)
+- [Game-Based Mastery Learning (e.g., Duolingo Pattern)](../patterns/game-based-mastery-learning.md)
 
 ## Examples
 -

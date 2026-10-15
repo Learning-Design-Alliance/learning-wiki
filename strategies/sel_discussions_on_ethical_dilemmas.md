@@ -63,7 +63,7 @@ Structured dilemma discussions work because they require learners to articulate 
 
 - [Case-based learning](../patterns/case-based-learning.md) — dilemmas are a moral-reasoning variant of the case discussion method
 - [Debate](../patterns/debate.md) — a more formalized structure for the same perspective-taking work
-- [Discussion-based learning](../patterns/discussion-based-learning.md) — the broader family of discussion formats this strategy draws on
+- [Discussion-based learning](../principles/collaborative-learning.md) — the broader family of discussion formats this strategy draws on
 - [Reconstruct Kohlberg-style moral education to integrate reason and feeling, self and relationship, and concept and context, using real problem situations instead of hypothetical dilemmas](integrate-reason-feeling-self-relationship-concept-context.md)
 
 ## Related Elements

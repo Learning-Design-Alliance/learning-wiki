@@ -74,7 +74,7 @@ Circulation converts pair talk from an unmonitored activity into a source of for
 ## Patterns That Use This Strategy
 - [Collaborative Learning](../patterns/collaborative-learning.md) — teacher orchestration of group work depends on monitoring
 - [Formative Assessment](../patterns/formative-assessment.md) — circulation is a primary source of in-flight evidence
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — listening informs which ideas enter the public dialogue
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — listening informs which ideas enter the public dialogue
 
 ## Examples
 - **Kazemi & Stipek's mathematics classrooms (2001):** teachers circulating during partner problem-solving pressed students with "Why do you think that?" rather than confirming answers, producing higher-quality conceptual talk.

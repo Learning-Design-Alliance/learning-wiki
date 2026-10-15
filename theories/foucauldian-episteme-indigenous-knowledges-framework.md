@@ -44,7 +44,7 @@ The paper frames its pedagogy using Foucault's account of how institutions sanct
 
 ## Examples
 
-- [Embed local Indigenous knowledge and community expertise in curricula, taught by Indigenous people themselves](../principles/embed-local-indigenous-knowledge-community-experts.md)
+- [Embed local Indigenous knowledge and community expertise in curricula, taught by Indigenous people themselves](../principles/community-based-learning.md)
 - [Indigenous–non-Indigenous academic collaboration grounded in trust, collegiality and un-learning of Western epistemic authority](../strategies/indigenous-non-indigenous-collaborative-pedagogy.md)
 
 ## Key Sources

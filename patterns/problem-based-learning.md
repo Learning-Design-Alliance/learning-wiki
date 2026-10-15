@@ -1,7 +1,7 @@
 ---
 type: pattern
 id: problem-based-learning
-aliases: [problem-based-learning-pbl]
+aliases: [problem-based-learning-pbl, maastricht-seven-step-pbl-tutorial-cycle]
 title: Problem-Based Learning
 description: "A reusable policy for problem-centred units: establish what learners already know of the target content, guide novices explicitly, use a problem-first phase only where learners can generate partial solutions and instruction follows, and judge the unit on individual outcomes."
 canonical: true
@@ -18,6 +18,10 @@ sources:
     resource: "https://doi.org/10.7771/1541-5015.1002"
     title: "Savery, J. R. (2006). Overview of problem-based learning: Definitions and distinctions. *Interdisciplinary Journal of Problem-Based Learning, 1*(1), 9-20"
     author: Savery, J. R
+  - id: murray-harvey-2013
+    resource: "https://eric.ed.gov/?id=EJ1108330"
+    title: "Murray-Harvey, R., Pourshafie, T., & Santos Reyes, W. (2013). What teacher education students learn about collaboration from problem-based learning. Journal of Problem Based Learning in Higher Education, 1(1), 114-134. https://eric.ed.gov/?id=EJ1108330"
+    author: "Murray-Harvey, R., Pourshafie, T., & Santos Reyes, W"
 author: PBL tradition
 grain_size: unit
 ---
@@ -25,7 +29,7 @@ grain_size: unit
 # Problem-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 22 claims (4 for, 16 mixed, 2 against) · 23 studies (8 causal, 5 theoretical, 4 quant-synthesis, 4 review, 2 qualitative), `q1`–`q4` · 4 of 23 report an effect size · 17 claims rest on one study
+> **Evidence** · 28 claims (8 for, 18 mixed, 2 against) · 25 studies (8 causal, 5 theoretical, 4 quant-synthesis, 4 review, 3 qualitative, 1 design), `q1`–`q4` · 4 of 25 report an effect size · 23 claims rest on one study
 
 ## Description and scope
 
@@ -106,6 +110,12 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Spontaneous responsiveness to real-world events in PBL can deepen student-directed inquiry beyond what designed curriculum achieves](../claims/spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry.md) [+W] — a single case study found that a teacher's in-the-moment departure from the written PBL sequence, to respond to an unplanned real-world event tied to the driving question, produced deeper student-initiated inquiry than the pre-designed ("contrived") authentic scenario; not yet checked against its sources
 - [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [~M] — not yet checked against its sources
 - [Solving novel problems before instruction improves conceptual understanding and transfer but not procedural knowledge](../claims/productive-failure-improves-conceptual-learning.md) [+W] — attached 2026-10-13 from Manu Kapur (2016), which proposed "Four design features for realizing the benefits of productive failure"; tests this page's relationship.
+- [Approximately half of students' analysed texts showed collaborative learning meeting co-regulation and co-construction descriptors](../claims/half-of-texts-showed-collaborative-learning.md) [+W]
+- [Students made minimal reference to higher-level cognitive or metacognitive processing benefits of group work, departing from prior PBL research](../claims/minimal-reference-higher-level-processing-benefits.md) [~W]
+- [Teacher education students in PBL identified valuing others' perspectives, interdependence, and learning about self as attitudes necessary for collaborative learning](../claims/pbl-attitudes-valuing-interdependence-self.md) [+W]
+- [Students described knowledge gained through PBL group work in terms of generation, application, and dissemination of knowledge, plus pedagogical knowledge for future teaching](../claims/pbl-knowledge-generation-application-dissemination.md) [+W]
+- [Students characterised the skills needed for collaborative group work as interpersonal (social), problem solving, and group skills](../claims/pbl-skills-interpersonal-problem-solving-group.md) [+W]
+- [In a self-selected survey, students favored delayed disclosure and agency, but 39.3% found the system too indirect and 42.9% reported repetition](../claims/staged-feedback-survey-perceptions.md) [~W]
 
 ## Illustrative design instance and observation record
 
@@ -124,13 +134,14 @@ This pattern is scoped to problem-centred units in which an explicit consolidati
 - [PBL's empirical evidence base is equivocal, attributed by the essay to implementation failures rather than design flaws](../claims/pbl-evidence-base-equivocal.md) [~W]
 - [AI-driven PBL environments enhance educator and student collaboration via real-time feedback, intelligent scaffolding, and data-informed instructional decisions](../claims/ai-pbl-enhances-educator-student-collaboration.md) [~W]
 - [A systematic review of AI in problem-based learning reports, as a dominant theme of its 50 studies, that AI tools support adaptive, personalized learning linked to better engagement and problem-solving](../claims/ai-pbl-adaptive-personalized-engagement.md) [~W]
+- [Prepare And Assess Pbl Process Reflection](../strategies/prepare-and-assess-pbl-process-reflection.md) [+M]
 
 ## Related Patterns
 - [Anchored Instruction](anchored-instruction.md)
-- [Case-Based Learning (Harvard Method)](case-based-learning-harvard-method.md)
+- [Case-Based Learning (Harvard Method)](case-based-learning.md)
 - [Interdisciplinary Societal Dilemma Units](../designs/interdisciplinary-societal-dilemma-units.md) — a variant specific to civic/societal dilemmas spanning named disciplines
 - [Organization Simulation for Interdisciplinary Learning](../designs/organization-simulation-for-interdisciplinary-learning.md) — adds a competitive external evaluator and organizational role structure to the authentic-problem, facilitated-inquiry core
-- [Interdisciplinary Course-Based Research Experience](interdisciplinary-course-based-research-experience.md) — organizes inquiry around a recurring shared object rather than a single driving problem
+- [Interdisciplinary Course-Based Research Experience](../principles/inquiry-based-learning.md) — organizes inquiry around a recurring shared object rather than a single driving problem
 - [Bioart Boundary-Crossing Making](../designs/bioart-boundary-crossing-making.md) — organizes inquiry around progressive institutional access and material engagement
 - [Learning by Producing (multimedia production as learning)](learning-by-producing-pattern.md)
 
@@ -144,6 +155,7 @@ This pattern is scoped to problem-centred units in which an explicit consolidati
 - Hmelo-Silver, C. E. (2004). Problem-based learning: What and how do students learn? *Educational Psychology Review, 16*(3), 235-266. [https://doi.org/10.1023/B:EDPR.0000034022.16470.f3](https://doi.org/10.1023/B:EDPR.0000034022.16470.f3)
 - Barrows, H. S., & Tamblyn, R. M. (1980). *Problem-based learning: An approach to medical education*. Springer.
 - Savery, J. R. (2006). Overview of problem-based learning: Definitions and distinctions. *Interdisciplinary Journal of Problem-Based Learning, 1*(1), 9-20. [https://doi.org/10.7771/1541-5015.1002](https://doi.org/10.7771/1541-5015.1002)
+- Murray-Harvey, R., Pourshafie, T., & Santos Reyes, W. (2013). What teacher education students learn about collaboration from problem-based learning. Journal of Problem Based Learning in Higher Education, 1(1), 114-134. https://eric.ed.gov/?id=EJ1108330
 
 <!-- deprecated 2026-10-01: superseded by the conditional model above. Old body kept verbatim.
 
@@ -173,7 +185,7 @@ Problem-Based Learning uses an authentic or ill-structured problem to drive inqu
 ### Theory
 #### Supporting
 - [Problem-based Learning](../principles/problem-based-learning.md)
-- [Constructivism](../principles/constructivism.md)
+- [Constructivism](../principles/cognitive-activation.md)
 
 ### Claims
 - [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+S]
@@ -289,10 +301,10 @@ The pattern is strongest when the problem is authentic enough to matter and the 
 ## Related Patterns
 
 - [Anchored Instruction](anchored-instruction.md)
-- [Case-Based Learning (Harvard Method)](case-based-learning-harvard-method.md)
+- [Case-Based Learning (Harvard Method)](case-based-learning.md)
 - [Interdisciplinary Societal Dilemma Units](../designs/interdisciplinary-societal-dilemma-units.md) — a variant specific to civic/societal dilemmas spanning named disciplines
 - [Organization Simulation for Interdisciplinary Learning](../designs/organization-simulation-for-interdisciplinary-learning.md) — adds a competitive external evaluator and organizational role structure to the authentic-problem, facilitated-inquiry core
-- [Interdisciplinary Course-Based Research Experience](interdisciplinary-course-based-research-experience.md) — organizes inquiry around a recurring shared object rather than a single driving problem
+- [Interdisciplinary Course-Based Research Experience](../principles/inquiry-based-learning.md) — organizes inquiry around a recurring shared object rather than a single driving problem
 - [Bioart Boundary-Crossing Making](../designs/bioart-boundary-crossing-making.md) — organizes inquiry around progressive institutional access and material engagement
 - [Learning by Producing (multimedia production as learning)](learning-by-producing-pattern.md)
 
@@ -309,4 +321,48 @@ The pattern is strongest when the problem is authentic enough to matter and the 
 - Barrows, H. S., & Tamblyn, R. M. (1980). *Problem-based learning: An approach to medical education*. Springer.
 - Hmelo-Silver, C. E. (2004). Problem-based learning: What and how do students learn? *Educational Psychology Review, 16*(3), 235-266. [https://doi.org/10.1023/B:EDPR.0000034022.16470.f3](https://doi.org/10.1023/B:EDPR.0000034022.16470.f3)
 - Savery, J. R. (2006). Overview of problem-based learning: Definitions and distinctions. *Interdisciplinary Journal of Problem-Based Learning, 1*(1), 9-20. [https://doi.org/10.7771/1541-5015.1002](https://doi.org/10.7771/1541-5015.1002)
+-->
+
+<!-- merged 2026-10-15 from patterns/maastricht-seven-step-pbl-tutorial-cycle ("Seven-step Maastricht PBL tutorial cycle with progressive case disclosure and group presentation"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Seven-step Maastricht PBL tutorial cycle with progressive case disclosure and group presentation
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 6 claims (4 for, 2 mixed) · 2 studies (1 qualitative, 1 design), `q2` · 0 of 2 report an effect size · 6 claims rest on one study
+
+## Description
+The course used a hybrid form of the 7-step Maastricht PBL model in which a case 'story' unfolds progressively over tutorials through 'pages' of information following a trigger scenario. Table 1 structures the cycle: whole-class work on clarification, definition, analysis and review; small groups establishing learning goals; self-directed study; reconvening to report and synthesise; a non-contact preparation week; a 15-minute group presentation with anonymous peer and tutor feedback; and a post-presentation debrief with self-assessment against a four-dimension tutorial performance survey.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Cases designed with practicing teachers to cover course objectives, represent teacher problems rather than student deficits, and be authentic classroom issues
+#### Constraints
+- Delivered as a hybrid: cases were interdisciplinary but confined to one course over one semester, concurrent with lectures
+
+### Target Learners
+- undergraduate and postgraduate teacher education students in tutorials of 15-25 students, in teams of around five
+
+### Target Goals
+- problem solving, self-directed learning, and collaborative teamwork alongside educational psychology content
+
+### Claims
+
+- [Prepare And Assess Pbl Process Reflection](../strategies/prepare-and-assess-pbl-process-reflection.md) [+M]
+- [Approximately half of students' analysed texts showed collaborative learning meeting co-regulation and co-construction descriptors](../claims/half-of-texts-showed-collaborative-learning.md) [+W]
+- [Students made minimal reference to higher-level cognitive or metacognitive processing benefits of group work, departing from prior PBL research](../claims/minimal-reference-higher-level-processing-benefits.md) [~W]
+- [Teacher education students in PBL identified valuing others' perspectives, interdependence, and learning about self as attitudes necessary for collaborative learning](../claims/pbl-attitudes-valuing-interdependence-self.md) [+W]
+- [Students described knowledge gained through PBL group work in terms of generation, application, and dissemination of knowledge, plus pedagogical knowledge for future teaching](../claims/pbl-knowledge-generation-application-dissemination.md) [+W]
+- [Students characterised the skills needed for collaborative group work as interpersonal (social), problem solving, and group skills](../claims/pbl-skills-interpersonal-problem-solving-group.md) [+W]
+- [In a self-selected survey, students favored delayed disclosure and agency, but 39.3% found the system too indirect and 42.9% reported repetition](../claims/staged-feedback-survey-perceptions.md) [~W]
+
+## Related Patterns
+- 
+
+## Examples
+-
+
+## Key Sources
+- Murray-Harvey, R., Pourshafie, T., & Santos Reyes, W. (2013). What teacher education students learn about collaboration from problem-based learning. Journal of Problem Based Learning in Higher Education, 1(1), 114-134. https://eric.ed.gov/?id=EJ1108330
 -->

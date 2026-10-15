@@ -70,7 +70,7 @@ Scenario based training works because it forces retrieval and application under 
 - [Adaptive scenario generation: introduce training scenarios targeting weaknesses identified from real-time performance metrics](astra-adaptive-scenario-generation.md)
 
 ## Examples
-- **Harvard Business School case method** ([Case-Based Learning (Harvard Method)](../patterns/case-based-learning-harvard-method.md)) — written business scenarios discussed under instructor facilitation; a scalable, low-fidelity form of scenario training.
+- **Harvard Business School case method** ([Case-Based Learning (Harvard Method)](../patterns/case-based-learning.md)) — written business scenarios discussed under instructor facilitation; a scalable, low-fidelity form of scenario training.
 - **vSim for Nursing (Laerdal/Wolters Kluwer)** (https://www.wolterskluwer.com/en/solutions/vsim-for-nursing) — branching virtual patient scenarios with embedded decision feedback and post-scenario debriefing.
 - **FAA/airline Line-Oriented Flight Training (LOFT)** — full-mission flight simulator scenarios replicating realistic flight conditions, followed by crew debrief; the canonical high-fidelity example.
 - **Code.org CS Discoveries "problem-solving process" units** (https://code.org/educate/curriculum/cs-discoveries) — structured scenarios requiring learners to apply a defined process to novel situations.

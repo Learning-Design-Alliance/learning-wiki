@@ -1,7 +1,7 @@
 ---
 type: principle
 id: cultural-life-experiences-connections
-aliases: [culturally-responsive-adult-curriculum, render-ecological-crisis-concrete-embodied-proximal]
+aliases: [culturally-responsive-adult-curriculum, render-ecological-crisis-concrete-embodied-proximal, real-world-math, relevant-immediately-useful-adult-materials, contextualize-abstract-content-older-learners, personalization-making-student-the-object-bridges-science-and-reality, invite-everyday-registers-science-activities]
 title: "Cultural & Life Experiences Connections"
 description: "For learners whose instruction draws on contexts they do not recognise or see no stake in, building some tasks, examples and assessments from their own cultural, community, family and work experience, tied to the concept taught, is expected to raise engagement, open sharing of developing thinking and the competence an assessment can see; no claim here compares it with the same content taught without that connection."
 canonical: true
@@ -34,12 +34,40 @@ sources:
     resource: "https://doi.org/10.31446/JCP.2025.1.07"
     title: "Rife, T. S. (2025). Critical Communication Pedagogy at the End of the World. Journal of Communication Pedagogy. https://doi.org/10.31446/JCP.2025.1.07"
     author: Rife, T. S
+  - id: civil-2020
+    resource: "https://doi.org/10.1007/s11858-019-01087-6"
+    title: "Civil, M., Stoehr, K. J., & Salazar, F. (2020). Learning with and from immigrant mothers: Implications for adult numeracy. *ZDM Mathematics Education, 52*(3), 489-500"
+    author: "Civil, M., Stoehr, K. J., & Salazar, F"
+  - id: piesch-2020
+    resource: "https://doi.org/10.1016/j.appdev.2020.101185"
+    title: "Piesch, H., Gaspard, H., Parrisius, C., Wille, E., & Nagengast, B. (2020). How can a relevance intervention in math support students' career choices? *Journal of Applied Developmental Psychology, 71*, 101185"
+    author: "Piesch, H., Gaspard, H., Parrisius, C., Wille, E., & Nagengast, B"
+  - id: schleppegrell-1987
+    resource: "https://eric.ed.gov/?id=ED287313"
+    title: "Schleppegrell, Mary. (1987). The Older Language Learner. ERIC Clearinghouse on Languages and Linguistics, Washington DC. https://eric.ed.gov/?id=ED287313"
+    author: Schleppegrell, Mary
+  - id: weintraub-2025
+    resource: "http://doi.org/10.35847/LWeintraub.7.1.37"
+    title: "Weintraub, L. (2025). Grandma Needs English, Too. Adult Literacy Education. http://doi.org/10.35847/LWeintraub.7.1.37"
+    author: Weintraub, L
+  - id: barber-et-al-2007
+    resource: "https://doi.org/10.48550/arXiv.0706.2717"
+    title: "Barber, R. P., Jr., Popalisky, D. J., Hacking, R., & Chiapella, K. (2007). Newton's 2nd Law and the Physics of Dance. arXiv:0706.2717. [doi:10.48550/arXiv.0706.2717](https://doi.org/10.48550/arXiv.0706.2717)"
+    author: "Barber, R. P., Jr., Popalisky, D. J., Hacking, R., & Chiapella, K."
+  - id: suarez-2008
+    resource: "https://www.eric.ed.gov"
+    title: "Suarez, E. and Otero, V. (2008). 3rd grade English language learners making sense of sound. https://www.eric.ed.gov"
+    author: Suarez, E. and Otero, V
+  - id: funds-of-knowledge-learning-from-language-minority-households-eric-digest-1994
+    resource: "https://eric.ed.gov/?id=ED367146"
+    title: "Funds of Knowledge: Learning from Language Minority Households. ERIC Digest. (1994). https://eric.ed.gov/?id=ED367146"
+    author: "Funds of Knowledge: Learning from Language Minority Households. ERIC Digest"
 ---
 
 # Cultural & Life Experiences Connections
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 30 claims (21 for, 9 mixed) · 39 studies (11 causal, 10 qualitative, 6 review, 4 quant-synthesis, 4 design, 3 theoretical, 1 associational), `q1`–`q4` · 3 of 39 report an effect size · 24 claims rest on one study
+> **Evidence** · 45 claims (34 for, 11 mixed) · 46 studies (12 qualitative, 11 causal, 8 design, 6 review, 4 quant-synthesis, 4 theoretical, 1 associational), `q1`–`q4` · 3 of 46 report an effect size · 39 claims rest on one study
 
 ## Conditional relationship
 
@@ -49,7 +77,7 @@ The relationship is conditional on whether the connection carries the concept ra
 
 **No claim in the wiki compares instruction connected to learners' cultural and life experiences with the same content taught without that connection.** The recorded evidence is four single-site design or qualitative studies without a comparison condition (12th-grade English, K-2 computational thinking, youth in community dance centres), two reviews of task value, and one paper that asserts an achievement benefit citing other literature and reports no data. Two more sources state an achievement benefit (a 1993 case-study paper and a 2024 practitioner brief), both by citing other literature, with no data of their own. They bear on the conditions and the likely mechanisms (more open sharing, competence made visible, a move from inward to outward critique) more than on the relationship itself. The nearest comparisons in the wiki test neighbouring variants, not this one: a randomised experiment in which algebra problems set in contexts drawn from students' interests raised accuracy on hard expression-writing steps within a tutoring unit, and a randomised field experiment in which localising word-problem character names raised performance only in some schools and did not raise belonging. Interests and names are not the learner's own cultural and community experience, so these neighbour the relationship without testing it; [Personalization](personalization.md) owns them.
 
-How the converted neighbours sit beside this page. [Activation](activation.md) holds the cognitive relationship of making prior *topic* knowledge visible before new material; when the purpose of a connection is only to give new content something to attach to, use its model, which records that activating topic knowledge did not improve primary pupils' comprehension. This page is about experience as an asset and a context for the task, not a warm-up before it. [Community-Based Learning](community-based-learning.md) holds the relationship of giving coursework a real role in a community, and [Authentic Audiences & Purposes](authentic-audiences-purposes.md) the relationship of addressing a product to a real reader; both can carry learners' experience, and this page does not repeat their models. [Self-Explanation](self-explanation.md) holds the prompt to explain, which this page uses to make the connection the learner's own.
+How the converted neighbours sit beside this page. [Activation](activation.md) holds the cognitive relationship of making prior *topic* knowledge visible before new material; when the purpose of a connection is only to give new content something to attach to, use its model, which records that activating topic knowledge did not improve primary pupils' comprehension. This page is about experience as an asset and a context for the task, not a warm-up before it. [Community-Based Learning](community-based-learning.md) holds the relationship of giving coursework a real role in a community, and [Authentic Audiences & Purposes](authentic-audiences-purposes.md) the relationship of addressing a product to a real reader; both can carry learners' experience, and this page does not repeat their models. [Self-Explanation](cognitive-activation.md) holds the prompt to explain, which this page uses to make the connection the learner's own.
 
 ## Default design, while the relationship is untested
 
@@ -144,6 +172,21 @@ Claims cited before this page was rewritten, or found while rewriting it, that a
 
 - [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~M] — a training-design article (van Merriënboer, Kester & Paas 2006), not a study; it argues for whole-task practice and does not concern cultural or life-experience connections. The earlier page cited it for transfer from recognisable contexts, which it does not test. Does not bear on the model.
 - [Collectively mourning extinct or near-extinct more-than-human entities facilitates recognition of the more-than-human as co-participants in shared reality](../claims/species-eulogy-fosters-more-than-human-recognition.md) [+W] — one instructor's reflective report (`q1`) on a eulogy assignment in an ecological-crisis communication course; it concerns recognising the more-than-human, not building tasks from learners' own experience, so it does not bear on the model's relationship, steps or rows.
+- [Students and faculty value real-world examples in gateway math, but limited resources and training often lead to procedural instruction](../claims/real-world-relevance-gateway-math-procedural-instruction.md) [~W]
+- [Among the five lessons rated highly for both mathematical sense-making and student questioning and reasoning, contextualized story problems featured prominently](../claims/contextualized-story-problems-sense-making.md) [+W]
+- [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](../claims/personalized-problem-contexts-boost-engagement-grades-4-8.md) [+W]
+- [Many practices in adult literacy programs violate principles of learning for adults, including short-timeframe funding, isolated individualized learning, ignored learner experience, and non-meaningful materials](../claims/adult-literacy-programs-violate-adult-learning-principles.md) [+W]
+- [Instructional modifications that lower barriers are optional supports for younger resilient learners but may be necessary for older beginners, pre-literate students, and learners dealing with trauma or disabilities](../claims/modifications-essential-for-vulnerable-learners.md) [+W]
+- [In one practitioner's report on her own older-beginner Step One class, with no comparison group, students gained an average of 128 BEST Plus points over 6 months and two former absolute beginners passed the citizenship test](../claims/older-beginner-esl-outcome-gains.md) [+W]
+- [The authors report that the kinesthetic experience enhances student understanding and that a student project provides evidence of the approach's effectiveness](../claims/kinesthetic-experience-enhances-understanding-physics-of-dance.md) [+W]
+- [Overlaying mass times calculated acceleration with net force from force plates provides a compelling visual connection to Newton's Second Law](../claims/ma-overlay-net-force-visual-connection-second-law.md) [+W]
+- [Two-force-plate recording revealed individual left-right impulse asymmetries in student jumps while total takeoff and landing impulses remained comparable](../claims/two-force-plate-impulse-asymmetry-student-project.md) [+W]
+- [Student video analysis of vertical jumps yields a free-fall acceleration estimate close to the local value of g](../claims/video-jump-analysis-estimates-g-near-local-value.md) [+W]
+- [A substantial fraction of students reported increased interest in physics and ability to connect physics to their life science majors and careers](../claims/life-science-examples-increase-interest-and-relevance.md) [+W]
+- [Everyday Language Formalized Classroom Protocol](../claims/everyday-language-formalized-classroom-protocol.md) [+M]
+- [Teacher Researcher Difficulties Eased By Reflective Labs](../claims/teacher-researcher-difficulties-eased-by-reflective-labs.md) [~W]
+- [In the Tucson household ethnography, exchanges within households' social networks were often reciprocal and built mutual trust through shared practical activities.](../claims/household-exchange-networks-are-reciprocal-and-build-trust.md) [+W]
+- [Teachers doing household ethnography had readier entree to families than anthropologists and were welcomed without suspicion in the Tucson project.](../claims/teachers-have-readier-household-entree-than-anthropologists.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -170,14 +213,19 @@ The present evidence establishes no dose, no sequence, no effect on achievement 
 - [Developing Your Cultural Awareness](developing-your-cultural-awareness.md) — instructors need awareness of their own assumptions to make meaningful connections well.
 - [Strengths-Based Approach](strengths-based-approach.md) — this principle treats learner background as an asset rather than a deficit.
 - [Instructor Accessibility](instructor-accessibility.md) — accessible relationships help learners contribute their own contexts to the work.
-- [Personalizing physics by making each student the object of study bridges science and everyday reality](personalization-making-student-the-object-bridges-science-and-reality.md)
-- [Make adult language materials relevant, immediately useful, and grounded in real-life experiences](relevant-immediately-useful-adult-materials.md)
 - [Activation](activation.md) — the cognitive relationship of making prior topic knowledge visible before new material; this page treats experience as an asset and a context for the task itself.
 - [Community-Based Learning](community-based-learning.md) — giving coursework a real role in a community, one place where learners' experience can carry the work.
 - [Authentic Audiences & Purposes](authentic-audiences-purposes.md) — addressing a product to a real reader, often someone from the learner's own community.
-- [Self-Explanation](self-explanation.md) — the explanation prompt this page uses to make a connection the learner's own.
+- [Self-Explanation](cognitive-activation.md) — the explanation prompt this page uses to make a connection the learner's own.
 - [Adopt humanistic and radical approaches so adult learners develop as individuals and can question social injustice](humanistic-radical-adult-education.md)
-- [Critique of language in CCP must include critique of humanism and humanist historicization](critique-language-includes-critique-of-humanism.md)
+- [Critique of language in CCP must include critique of humanism and humanist historicization](epistemic-cognition.md)
+- [Explicit Instruction: Math Strategies](explicit-instruction-math-strategies.md) — real-world tasks still benefit from direct teaching of methods and representations.
+- [Creating Visual Representations](dual-coding.md) — diagrams, tables, and models help learners connect context to mathematical structure.
+- [Problem-based Learning](problem-based-learning.md) — real-world math often works through applied, open-ended problems.
+- [Involve students in real-world problem solving to deepen engagement, retention, and understanding](real-world-problem-solving-maker-context.md)
+- [Teachers of older refugees should eliminate affective barriers, use adult learning strategies, make learning relevant to learner needs, and tap community goals](four-strategies-older-refugee-language-learners.md)
+- [Use the age-friendly ESL classroom as a remedy for social isolation by building a supportive community of learners with confidence-building and peer mentoring](expanding-social-networks.md)
+- [Teach older language learners at a measured pace, one new skill or concept at a time, with extra review and wait time](cognitive-load-management.md)
 
 ## Examples
 
@@ -190,6 +238,17 @@ The present evidence establishes no dose, no sequence, no effect on achievement 
 - [Panel protocol: open with community cultural resources, then moderated discussion connecting community assets to computing education](../strategies/community-cultural-resources-panel-protocol.md)
 - [Task students with proposing a neologism and a golden spike placement to expose the rhetoricity of historicizing the Anthropocene](../strategies/golden-spike-neologism-assignment.md)
 - [Assign speculative theory-fiction writing to build students' capacity for ecologically just futurity](../strategies/speculative-theory-fiction-assignment.md)
+- **Budget comparison task**: Learners compare phone plans, wages, or household expenses using proportional reasoning and estimation.
+- **Workplace measurement problem**: Learners calculate materials, time, or error tolerance for a job-related task.
+- **Community data inquiry**: Learners interpret local charts, rates, or survey results to make an argument.
+- [Cognitively Guided Instruction (CGI) for Math](responsive-teaching.md)
+- [Embed grammar and vocabulary in situations refugees will encounter, and design instruction that acknowledges age](../strategies/embed-language-in-refugee-situations-acknowledge-age.md)
+- [Step One: a free age-friendly pre-beginning ESL and citizenship curriculum for older immigrants](../products/step-one.md)
+- [Picture Dictionaries](../strategies/picture_dictionaries.md)
+- [Mystery Emotion](../strategies/mystery_emotion.md)
+- [Accommodate age-related physical and sensory changes through high-contrast large-print materials, clear face-to-face speech, easy-grip manipulatives, and short morning sessions](../strategies/physical-sensory-accommodations-older-learners.md)
+- [Weekly dance-first-then-physics cycle with dual experimental and experiential records](../designs/dance-first-physics-weekly-cycle-dual-record.md)
+- [Build mathematics instruction on children's funds of knowledge uncovered through home visits and teacher study groups](../strategies/funds-of-knowledge-mathematics-instruction.md)
 
 ## Key Sources
 - Hansman, C. A. (2001). Context-based adult learning. *New Directions for Adult and Continuing Education, 89*, 43-52. [https://doi.org/10.1002/ace.7](https://doi.org/10.1002/ace.7)
@@ -198,6 +257,15 @@ The present evidence establishes no dose, no sequence, no effect on achievement 
 - Higgs, J. M., Kaimana, M., & Isero, M. (2026). Leveraging Onto-Epistemic Heterogeneity for "Outward" Exploration: Cultivating Critical AI Awareness in the ELA Classroom. *Journal of the Learning Sciences*. [https://doi.org/10.1080/10508406.2026.2686084](https://doi.org/10.1080/10508406.2026.2686084)
 - Ellis, M. L. (2012). Using the Pragmatic Progressive Philosophy in Adult Education. https://eric.ed.gov/?id=ED536865
 - Rife, T. S. (2025). Critical Communication Pedagogy at the End of the World. Journal of Communication Pedagogy. https://doi.org/10.31446/JCP.2025.1.07
+- Brooks, C. (2015). Making maths useful: How two teachers prepare adult learners to apply their numeracy skills in their lives outside the classroom. *Adults Learning Mathematics, 10*(1), 24-39.
+- Civil, M., Stoehr, K. J., & Salazar, F. (2020). Learning with and from immigrant mothers: Implications for adult numeracy. *ZDM Mathematics Education, 52*(3), 489-500. [https://doi.org/10.1007/s11858-019-01076-2](https://doi.org/10.1007/s11858-019-01076-2)
+- Garrett, L., Huang, L., & Calhoun, M. (2016). A framework for authenticity in the mathematics and statistics classroom. *The Mathematics Educator, 25*(1), 32-55. [doi:10.63301/tme.v25i1.2012](https://doi.org/10.63301/tme.v25i1.2012)
+- Piesch, H., Gaspard, H., Parrisius, C., Wille, E., & Nagengast, B. (2020). How can a relevance intervention in math support students' career choices? *Journal of Applied Developmental Psychology, 71*, 101185. [https://doi.org/10.1016/j.appdev.2020.101185](https://doi.org/10.1016/j.appdev.2020.101185)
+- Schleppegrell, Mary. (1987). The Older Language Learner. ERIC Clearinghouse on Languages and Linguistics, Washington DC. https://eric.ed.gov/?id=ED287313
+- Weintraub, L. (2025). Grandma Needs English, Too. Adult Literacy Education. http://doi.org/10.35847/LWeintraub.7.1.37
+- Barber, R. P., Jr., Popalisky, D. J., Hacking, R., & Chiapella, K. (2007). Newton's 2nd Law and the Physics of Dance. arXiv:0706.2717. [doi:10.48550/arXiv.0706.2717](https://doi.org/10.48550/arXiv.0706.2717)
+- Suarez, E. and Otero, V. (2008). 3rd grade English language learners making sense of sound. https://www.eric.ed.gov
+- Funds of Knowledge: Learning from Language Minority Households. ERIC Digest. (1994). https://eric.ed.gov/?id=ED367146
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -260,8 +328,8 @@ Connecting instruction to learners’ cultural and life experiences improves lea
 - [Developing Your Cultural Awareness](developing-your-cultural-awareness.md) — instructors need awareness of their own assumptions to make meaningful connections well.
 - [Strengths-Based Approach](strengths-based-approach.md) — this principle treats learner background as an asset rather than a deficit.
 - [Instructor Accessibility](instructor-accessibility.md) — accessible relationships help learners contribute their own contexts to the work.
-- [Personalizing physics by making each student the object of study bridges science and everyday reality](personalization-making-student-the-object-bridges-science-and-reality.md)
-- [Make adult language materials relevant, immediately useful, and grounded in real-life experiences](relevant-immediately-useful-adult-materials.md)
+- [Personalizing physics by making each student the object of study bridges science and everyday reality](cultural-life-experiences-connections.md)
+- [Make adult language materials relevant, immediately useful, and grounded in real-life experiences](cultural-life-experiences-connections.md)
 
 ## Examples
 - **Community-based examples**: Mathematics, literacy, or policy tasks use scenarios drawn from learners' work, neighborhood, or civic contexts.
@@ -349,7 +417,7 @@ Extending Fassett and Warren's commitments to concrete mundane practices and str
 
 ## Related Principles
 
-- [Critique of language in CCP must include critique of humanism and humanist historicization](critique-language-includes-critique-of-humanism.md)
+- [Critique of language in CCP must include critique of humanism and humanist historicization](epistemic-cognition.md)
 - [Cultivate ecologically just speculative futurity as requisite to political praxis](humanistic-radical-adult-education.md)
 
 ## Examples
@@ -359,4 +427,307 @@ Extending Fassett and Warren's commitments to concrete mundane practices and str
 
 ## Key Sources
 - Rife, T. S. (2025). Critical Communication Pedagogy at the End of the World. Journal of Communication Pedagogy. https://doi.org/10.31446/JCP.2025.1.07
+-->
+
+<!-- merged 2026-10-15 from principles/real-world-math ("Real-world Math"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Real-world Math
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 6 claims (2 for, 4 mixed) · 13 studies (3 causal, 3 quant-synthesis, 3 qualitative, 2 theoretical, 1 review, 1 associational), `q1`–`q4` · 1 of 13 report an effect size · 4 claims rest on one study
+
+## Description
+Real-world math connects mathematical ideas to situations learners recognize as meaningful in work, home, community, finance, health, civic life, or further study. The point is not merely to decorate abstract content with a story problem; it is to show how mathematical reasoning helps make sense of actual decisions, quantities, tradeoffs, and patterns. For adult learners especially, relevance can improve persistence and reduce the sense that math is disconnected from everyday competence.
+
+This principle also broadens what counts as mathematical experience. When instructors draw on learners' cultural practices, workplace tasks, and informal problem-solving, math becomes something learners already use and can extend, not just something delivered by school. The quality of the context matters: examples should be authentic enough to support transfer without adding unnecessary complexity or stereotyping learner experience.
+
+## Implications
+Real-world math improves engagement and transfer when the mathematical structure is tied to situations learners actually care about. Authentic contexts can make the purpose of a concept clearer and support whole-task application [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~S], but relevance alone is not enough. Learners still need help seeing the underlying structure, explaining why the math fits the situation [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [~S], and navigating the extra complexity that context can introduce [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]. The best real-world math tasks respect learner experience without letting the context overshadow the mathematics.
+
+### Context
+#### Requirements
+- **Authentic contexts learners recognize**: Problems should connect to real uses of quantity, data, measurement, comparison, or modeling.
+- **Faithful mathematical structure**: The context must illuminate the concept instead of distracting from it.
+- **Instructor knowledge of learner context**: Relevance depends on understanding learners' goals, work, community, and prior math experiences.
+- **Opportunities to explain reasoning**: Real-world math is strongest when learners justify how the math fits the situation.
+#### Constraints
+- **Fake relevance**: Thin word problems or contrived contexts can feel manipulative and reduce trust.
+- **Context overload**: Rich situations can introduce literacy or background-knowledge demands that obscure the math.
+- **Cultural mismatch**: A context that feels authentic to one group may be confusing or alienating to another.
+- **Transfer is not automatic**: Learners still need help abstracting the underlying structure so they can use the math elsewhere.
+
+### Target Learners
+- **Adult learners rebuilding confidence in math**: Relevance can reduce resistance and increase willingness to engage.
+- **Learners preparing for work or everyday problem solving**: Strong fit when goals include budgeting, measurement, data interpretation, or quantitative decision making.
+- **Learners whose experiences are often excluded from school math**: Real-world framing can increase belonging when it respects cultural and community knowledge.
+- **Learners integrating math with other domains**: Useful when numeracy is embedded in science, civics, health, trades, or technical study.
+
+### Target Learning Objectives
+- **Applied numeracy**: Using math to analyze and act in everyday or workplace situations.
+- **Conceptual understanding**: Seeing how mathematical structure explains real situations.
+- **Transfer**: Recognizing when previously learned math applies in a new context.
+- **Motivation and persistence**: Increasing willingness to engage with math because it feels worthwhile.
+
+### Theory
+#### Supporting
+- Situated learning perspectives — understanding strengthens when knowledge is tied to meaningful activity and context.
+- Andragogical perspectives — adults are more likely to engage when content is clearly relevant to immediate goals and problems.
+- Constructivist and sociocultural perspectives — learners interpret math through prior knowledge, tools, language, and social practice.
+#### Contradicting / Qualifying
+- Real-world framing does not remove the need for explicit explanation, worked examples, and focused practice.
+- Context should support abstraction, not trap learning inside a single familiar example.
+
+### Claims
+
+- [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~S] — math tied to meaningful situations can support later application better than decontextualized drill alone
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — contextual math tasks often need responsive support so the situation clarifies rather than obscures the concept
+- [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [~S] — learners understand applied math more deeply when they justify why a model or method fits the real situation
+- [Students and faculty value real-world examples in gateway math, but limited resources and training often lead to procedural instruction](../claims/real-world-relevance-gateway-math-procedural-instruction.md) [~W]
+- [Among the five lessons rated highly for both mathematical sense-making and student questioning and reasoning, contextualized story problems featured prominently](../claims/contextualized-story-problems-sense-making.md) [+W]
+- [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](../claims/personalized-problem-contexts-boost-engagement-grades-4-8.md) [+W]
+
+## Related Principles
+
+- [Explicit Instruction: Math Strategies](explicit-instruction-math-strategies.md) — real-world tasks still benefit from direct teaching of methods and representations.
+- [Creating Visual Representations](dual-coding.md) — diagrams, tables, and models help learners connect context to mathematical structure.
+- [Authentic Audiences & Purposes](authentic-audiences-purposes.md) — relevance grows when math supports meaningful tasks and decisions.
+- [Problem-based Learning](problem-based-learning.md) — real-world math often works through applied, open-ended problems.
+- [Involve students in real-world problem solving to deepen engagement, retention, and understanding](real-world-problem-solving-maker-context.md)
+- [Make adult language materials relevant, immediately useful, and grounded in real-life experiences](cultural-life-experiences-connections.md)
+
+## Examples
+- **Budget comparison task**: Learners compare phone plans, wages, or household expenses using proportional reasoning and estimation.
+- **Workplace measurement problem**: Learners calculate materials, time, or error tolerance for a job-related task.
+- **Community data inquiry**: Learners interpret local charts, rates, or survey results to make an argument.
+- [Cognitively Guided Instruction (CGI) for Math](responsive-teaching.md)
+
+## Key Sources
+- Brooks, C. (2015). Making maths useful: How two teachers prepare adult learners to apply their numeracy skills in their lives outside the classroom. *Adults Learning Mathematics, 10*(1), 24-39.
+- Civil, M., Stoehr, K. J., & Salazar, F. (2020). Learning with and from immigrant mothers: Implications for adult numeracy. *ZDM Mathematics Education, 52*(3), 489-500. [https://doi.org/10.1007/s11858-019-01076-2](https://doi.org/10.1007/s11858-019-01076-2)
+- Garrett, L., Huang, L., & Calhoun, M. (2016). A framework for authenticity in the mathematics and statistics classroom. *The Mathematics Educator, 25*(1), 32-55. [doi:10.63301/tme.v25i1.2012](https://doi.org/10.63301/tme.v25i1.2012)
+- Piesch, H., Gaspard, H., Parrisius, C., Wille, E., & Nagengast, B. (2020). How can a relevance intervention in math support students' career choices? *Journal of Applied Developmental Psychology, 71*, 101185. [https://doi.org/10.1016/j.appdev.2020.101185](https://doi.org/10.1016/j.appdev.2020.101185)
+-->
+
+<!-- merged 2026-10-15 from principles/relevant-immediately-useful-adult-materials ("Make adult language materials relevant, immediately useful, and grounded in real-life experiences"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Make adult language materials relevant, immediately useful, and grounded in real-life experiences
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 3 studies (2 review, 1 design), `q1`–`q3` · 0 of 3 report an effect size · 1 claim rests on one study
+
+## Description
+Because older adults study a language for specific instrumental purposes, the digest holds that they will not tolerate boring or irrelevant content or grammar rules taught out of context. Adult learners need "materials designed to present structures and vocabulary that will be of immediate use to them, in a context which reflects the situations and functions they will encounter". Materials and activities that do not incorporate real life experiences will succeed with few older learners.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Materials must reflect the situations and functions learners will encounter when using the new language.
+#### Constraints
+- Materials and activities that do not incorporate real life experiences will succeed with few older learners.
+
+### Target Learners
+- older adult foreign language learners with instrumental goals
+
+### Target Learning Objectives
+- immediately usable vocabulary and structures for professional or survival situations
+
+### Claims
+
+- [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+W]
+- [Many practices in adult literacy programs violate principles of learning for adults, including short-timeframe funding, isolated individualized learning, ignored learner experience, and non-meaningful materials](../claims/adult-literacy-programs-violate-adult-learning-principles.md) [+W]
+
+## Related Principles
+
+- [Teachers of older refugees should eliminate affective barriers, use adult learning strategies, make learning relevant to learner needs, and tap community goals](four-strategies-older-refugee-language-learners.md)
+- [Cultural & Life Experiences Connections](cultural-life-experiences-connections.md)
+
+## Examples
+
+- [Embed grammar and vocabulary in situations refugees will encounter, and design instruction that acknowledges age](../strategies/embed-language-in-refugee-situations-acknowledge-age.md)
+
+## Key Sources
+- Schleppegrell, Mary. (1987). The Older Language Learner. ERIC Clearinghouse on Languages and Linguistics, Washington DC. https://eric.ed.gov/?id=ED287313
+-->
+
+<!-- merged 2026-10-15 from principles/contextualize-abstract-content-older-learners ("Contextualize abstract content in familiar, personal topics and teach new vocabulary primarily through visuals and body language"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Contextualize abstract content in familiar, personal topics and teach new vocabulary primarily through visuals and body language
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+
+## Description
+The author reports that abstract information is challenging for older learners, so the Step One curriculum is "highly contextualized, centering on familiar topics" such as students' own biographical information, families, and daily lives. New vocabulary is introduced primarily through visuals and body language, and civics topics are demonstrated with maps, calendars, and historical images. She also minimizes distractions and unnecessary teacher talk and maintains predictable routines, such as calling on homework review in seating order.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Instruction must be anchored in learners' own lives and supported by concrete visual materials rather than abstract presentation
+#### Constraints
+- Older students can be easily thrown off by distractions, so the approach depends on a low-distraction environment
+
+### Target Learners
+- older adult pre-beginning English learners
+
+### Target Learning Objectives
+- vocabulary acquisition
+- civics concept understanding
+
+### Claims
+
+- [Instructional modifications that lower barriers are optional supports for younger resilient learners but may be necessary for older beginners, pre-literate students, and learners dealing with trauma or disabilities](../claims/modifications-essential-for-vulnerable-learners.md) [+W]
+- [In one practitioner's report on her own older-beginner Step One class, with no comparison group, students gained an average of 128 BEST Plus points over 6 months and two former absolute beginners passed the citizenship test](../claims/older-beginner-esl-outcome-gains.md) [+W]
+
+## Related Principles
+
+- [Use the age-friendly ESL classroom as a remedy for social isolation by building a supportive community of learners with confidence-building and peer mentoring](expanding-social-networks.md)
+- [Teach older language learners at a measured pace, one new skill or concept at a time, with extra review and wait time](cognitive-load-management.md)
+
+## Examples
+
+- [Step One: a free age-friendly pre-beginning ESL and citizenship curriculum for older immigrants](../products/step-one.md)
+- [Picture Dictionaries](../strategies/picture_dictionaries.md)
+- [Mystery Emotion](../strategies/mystery_emotion.md)
+- [Accommodate age-related physical and sensory changes through high-contrast large-print materials, clear face-to-face speech, easy-grip manipulatives, and short morning sessions](../strategies/physical-sensory-accommodations-older-learners.md)
+
+## Key Sources
+- Weintraub, L. (2025). Grandma Needs English, Too. Adult Literacy Education. http://doi.org/10.35847/LWeintraub.7.1.37
+-->
+
+<!-- merged 2026-10-15 from principles/personalization-making-student-the-object-bridges-science-and-reality ("Personalizing physics by making each student the object of study bridges science and everyday reality"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Personalizing physics by making each student the object of study bridges science and everyday reality
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 5 claims (5 for) · 2 studies (2 design), `q2` · 0 of 2 report an effect size · 5 claims rest on one study
+
+## Description
+The course's central design move is personalization: rather than studying abstract objects, each student becomes the physical system that the laws describe. The authors state that "The central theme of this course is the personalization of the physics of motion by making each student the object", arguing this combination of scientific tools and personal involvement connects the science to reality for non-science majors.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Students must physically perform the movements being analyzed so personal experience and measurement refer to the same event
+#### Constraints
+- Developed for non-science majors in a core natural-science laboratory requirement
+
+### Target Learners
+- non-science-major undergraduates
+
+### Target Learning Objectives
+- understanding Newton's laws of motion
+- connecting scientific abstraction to lived experience
+
+### Claims
+
+- [The authors report that the kinesthetic experience enhances student understanding and that a student project provides evidence of the approach's effectiveness](../claims/kinesthetic-experience-enhances-understanding-physics-of-dance.md) [+W]
+- [Overlaying mass times calculated acceleration with net force from force plates provides a compelling visual connection to Newton's Second Law](../claims/ma-overlay-net-force-visual-connection-second-law.md) [+W]
+- [Two-force-plate recording revealed individual left-right impulse asymmetries in student jumps while total takeoff and landing impulses remained comparable](../claims/two-force-plate-impulse-asymmetry-student-project.md) [+W]
+- [Student video analysis of vertical jumps yields a free-fall acceleration estimate close to the local value of g](../claims/video-jump-analysis-estimates-g-near-local-value.md) [+W]
+- [A substantial fraction of students reported increased interest in physics and ability to connect physics to their life science majors and careers](../claims/life-science-examples-increase-interest-and-relevance.md) [+W]
+
+## Related Principles
+
+- [Cultural & Life Experiences Connections](cultural-life-experiences-connections.md)
+
+## Examples
+
+- [Weekly dance-first-then-physics cycle with dual experimental and experiential records](../designs/dance-first-physics-weekly-cycle-dual-record.md)
+
+## Key Sources
+- Barber, R. P., Jr., Popalisky, D. J., Hacking, R., & Chiapella, K. (2007). Newton's 2nd Law and the Physics of Dance. arXiv:0706.2717. [doi:10.48550/arXiv.0706.2717](https://doi.org/10.48550/arXiv.0706.2717)
+-->
+
+<!-- merged 2026-10-15 from principles/invite-everyday-registers-science-activities ("Invite students' everyday registers into science activities to encourage productive sense-making and mechanistic reasoning"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Invite students' everyday registers into science activities to encourage productive sense-making and mechanistic reasoning
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+
+## Description
+The article argues that classrooms recognizing and valuing students' everyday language foster productive engagement: "Classrooms that invite familiar registers and practices into science activities, encourage students to engage in productive sense-making, reasoning mechanistically [4], and argumentation." Physics is seen as particularly suited because of its appeal to shared, observable experiences. Teachers should avoid quickly correcting students toward academic terminology before they are ready.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Learning environments where students can use familiar language to think about and explain observations
+- Shared, observable physical phenomena that all students can experience together
+#### Constraints
+- The authors note it is often the case that teachers quickly correct students toward academic terminology before they are ready for it
+
+### Target Learners
+- Elementary English Language Learners
+
+### Target Learning Objectives
+- Scientific sense-making and mechanistic reasoning
+- English language development
+
+### Claims
+- [Ells Recruit Everyday Language Sound Discussion](../claims/ells-recruit-everyday-language-sound-discussion.md) [+M]
+- [Everyday Language Formalized Classroom Protocol](../claims/everyday-language-formalized-classroom-protocol.md) [+M]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Suarez, E. and Otero, V. (2008). 3rd grade English language learners making sense of sound. https://www.eric.ed.gov
+-->
+
+<!-- merged 2026-10-15 from patterns/funds-of-knowledge-teacher-research-model ("Funds of Knowledge Teacher-Research Model (Tucson Project)"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Funds of Knowledge Teacher-Research Model (Tucson Project)
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 5 claims (4 for, 1 mixed) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 5 claims rest on one study
+
+## Description
+A research model, described in the digest, in which teachers and university researchers in education and anthropology "enter minority households and discover knowledge and other resources therein" and then build classroom practice from what they find. It had three components: an ethnographic community study of household funds of knowledge, after-school teacher labs, and classroom studies implementing innovations based on the household study.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Teachers enter households for the purpose of identifying and documenting existing knowledge, not to discuss a student problem.
+- Collaboration between teacher-researchers and university-based researchers through after-school study groups.
+- Classroom studies that implement innovations based on the household study and conceptualized in the labs.
+#### Constraints
+- The digest advises tailoring the project model to the particular social and historical conditions of the site.
+- The model requires many after-school hours for home interviews and for writing and discussing observations in the labs.
+
+### Target Learners
+- Linguistically and culturally diverse working-class students, such as those from a predominantly Mexican working-class community of Tucson, Arizona
+- Teachers acting as teacher-researchers
+
+### Target Goals
+- Develop, transform, and enrich classroom practice by drawing on students' household funds of knowledge
+- Teachers' view of households as resources for learning
+
+### Claims
+
+- [Home Visits Reveal Abundant Diverse Household Funds Of Knowledge](../claims/home-visits-reveal-abundant-diverse-household-funds-of-knowledge.md) [+W]
+- [Funds Of Knowledge Research Raises Teacher Expectations](../claims/funds-of-knowledge-research-raises-teacher-expectations.md) [+W]
+- [Teacher Researcher Difficulties Eased By Reflective Labs](../claims/teacher-researcher-difficulties-eased-by-reflective-labs.md) [~W]
+- [In the Tucson household ethnography, exchanges within households' social networks were often reciprocal and built mutual trust through shared practical activities.](../claims/household-exchange-networks-are-reciprocal-and-build-trust.md) [+W]
+- [Teachers doing household ethnography had readier entree to families than anthropologists and were welcomed without suspicion in the Tucson project.](../claims/teachers-have-readier-household-entree-than-anthropologists.md) [+W]
+
+## Related Patterns
+- [After School Teacher Research Labs](../elements/after-school-teacher-research-labs.md)
+- [Funds Of Knowledge Household Interviews](../strategies/funds-of-knowledge-household-interviews.md)
+- [Home Visits](../strategies/home-visits.md)
+- [Leveraging_Family_Knowledge](../strategies/leveraging_family_knowledge.md)
+
+## Examples
+
+- [Build mathematics instruction on children's funds of knowledge uncovered through home visits and teacher study groups](../strategies/funds-of-knowledge-mathematics-instruction.md)
+
+## Key Sources
+- Funds of Knowledge: Learning from Language Minority Households. ERIC Digest. (1994). https://eric.ed.gov/?id=ED367146
 -->

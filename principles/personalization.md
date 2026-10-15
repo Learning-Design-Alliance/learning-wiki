@@ -1,7 +1,7 @@
 ---
 type: principle
 id: personalization
-aliases: [assess-child-preference-in-aac-decision-making, continuous-pupil-progress-individualized-structure]
+aliases: [assess-child-preference-in-aac-decision-making, continuous-pupil-progress-individualized-structure, four-factor-teaching-compatibility]
 title: Personalization
 description: "Where learners sharing one goal differ in prior knowledge, interests, access needs or preferred means, tailoring support, pace, problem contexts and means to each learner while the goal and criterion stay common is expected to raise engagement and, where tailoring rests on a diagnosis of responses, aligned achievement, though no claim in the wiki tests personalization as a whole against uniform instruction and tailoring to learning styles is contradicted."
 canonical: true
@@ -18,12 +18,16 @@ sources:
     resource: "https://eric.ed.gov/?id=ED120541"
     title: "Communications: Industrial Arts Curriculum Guide, Middle Schools 6-9 (Tentative). (1974). Louisiana State Department of Education. https://eric.ed.gov/?id=ED120541"
     author: "Communications: Industrial Arts Curriculum Guide, Middle Schools 6-9 (Tentative)"
+  - id: bue-1979
+    resource: "https://eric.ed.gov/?id=ED172635"
+    title: "Bue, T. W. (1979). Teaching and Learning Styles in Higher Education: Match or Mismatch? https://eric.ed.gov/?id=ED172635"
+    author: Bue, T. W
 ---
 
 # Personalization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 53 claims (25 for, 20 mixed, 3 against, 5 unmarked) · 61 studies (21 review, 16 causal, 8 qualitative, 7 theoretical, 3 quant-synthesis, 3 associational, 3 design), `q1`–`q4` · 6 of 61 report an effect size · 48 claims rest on one study
+> **Evidence** · 58 claims (29 for, 21 mixed, 3 against, 5 unmarked) · 63 studies (22 review, 16 causal, 8 qualitative, 7 theoretical, 4 associational, 3 quant-synthesis, 3 design), `q1`–`q4` · 6 of 63 report an effect size · 53 claims rest on one study
 
 ## Conditional relationship
 
@@ -141,6 +145,11 @@ Claims this page cited that were re-read against the model on 2026-10-15 and lef
 - [Individualized instruction has largely receded in recent AI-focused literature, functioning as a pedagogical predecessor to AI-based personalization](../claims/individualized-instruction-receded-ai-era.md) [+W] — a review's account of the literature; does not bear on the relationship, though it notes hybrid teacher-plus-system models.
 - [AI-enhanced assessment tools are reported to facilitate adaptive testing, real-time learner support, and data-driven insights](../claims/ai-tools-adaptive-testing-realtime-support-insights.md) [+W] — a narrative synthesis; no studies or effect sizes.
 - [ChatGPT was the most widely adopted AI platform in undergraduate higher education studies, with applications clustering around assessment automation and personalized learning support](../claims/chatgpt-dominant-platform-assessment-personalization.md) [+W] — a review of use cases; does not bear on the relationship.
+- [Faculty Student Learning Style Mismatch](../claims/faculty-student-learning-style-mismatch.md) [+M]
+- [Student Faculty Subject Matter Mismatch](../claims/student-faculty-subject-matter-mismatch.md) [+M]
+- [Faculty across departments describe the same ideal learning style for students](../claims/faculty-uniform-ideal-learning-style.md) [+W]
+- [Student learning styles differ significantly by department, particularly on Concrete Experience and Abstract Conceptualization](../claims/student-learning-style-department-differences.md) [+W]
+- [Cultural and linguistic background influences measured learning and cognitive styles, and should be considered in style assessment](../claims/cultural-background-influences-learning-style-measurement.md) [~W]
 
 ## Objective and learner-valued goal
 
@@ -159,6 +168,8 @@ Engagement, immediate achievement on an aligned test, time saved, delayed retent
 - [Cognitive Load Management](cognitive-load-management.md) — personalization is one of the main levers for keeping load within each learner's capacity
 - [Assessment for Learning](assessment-for-learning.md) — supplies the diagnostic evidence on which any personalization depends
 - [Activation](activation.md) — diagnosing and engaging prior knowledge is the first step in deciding what to personalize
+- [Select a video production style holistically, considering course type, complementary materials, and learner needs rather than video alone](holistic-video-style-selection-principle.md)
+- [Teach students to make the best of their intellectual styles rather than forcing one mandated mode](cognitive-styles.md)
 
 ## Examples
 
@@ -198,6 +209,7 @@ Engagement, immediate achievement on an aligned test, time saved, delayed retent
 - Pane, J. F., Steiner, E. D., Baird, M. D., & Hamilton, L. S. (2015). Continued progress: Promising evidence on personalized learning. *RAND Corporation*. [https://www.rand.org/pubs/research_reports/RR1365.html](https://www.rand.org/pubs/research_reports/RR1365.html) [doi:10.7249/rr1365](https://doi.org/10.7249/rr1365)
 - Nam, S., Kim, J., & Sparks, S. (2018). An Overview of Review Studies on Effectiveness of Major AAC Systems for Individuals with Developmental Disabilities Including Autism. The Journal of Special Education Apprenticeship, 7(2). https://eric.ed.gov/?id=EJ1185374
 - Communications: Industrial Arts Curriculum Guide, Middle Schools 6-9 (Tentative). (1974). Louisiana State Department of Education. https://eric.ed.gov/?id=ED120541
+- Bue, T. W. (1979). Teaching and Learning Styles in Higher Education: Match or Mismatch? https://eric.ed.gov/?id=ED172635
 
 <!-- deprecated 2026-10-14: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -421,4 +433,49 @@ The guide's preface promotes individualized instruction through a curriculum str
 
 ## Key Sources
 - Communications: Industrial Arts Curriculum Guide, Middle Schools 6-9 (Tentative). (1974). Louisiana State Department of Education. https://eric.ed.gov/?id=ED120541
+-->
+
+<!-- merged 2026-10-15 from principles/four-factor-teaching-compatibility ("Effective teaching requires compatibility among teaching style, learning style, content emphasis, and educational environment"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Effective teaching requires compatibility among teaching style, learning style, content emphasis, and educational environment
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 5 claims (4 for, 1 mixed) · 2 studies (1 review, 1 associational), `q2` · 0 of 2 report an effect size · 5 claims rest on one study
+
+## Description
+Drawing on Berquist and Phillips (1975), the article argues that an effective program should take into account the preferred teaching style of the faculty member, the preferred learning style of students, the content emphasis of the course, and the nature of the educational environment. Each of these four factors interacts with the others to help or hinder learning.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Faculty awareness of differences between instructor and learner preferences
+- Faculty skills in dealing with style differences
+#### Constraints
+- The article notes faculty are unlikely to change their perceptions of ideal learning types
+
+### Target Learners
+- college students
+
+### Target Learning Objectives
+- improving match between teaching and learning characteristics
+
+### Claims
+
+- [Faculty Student Learning Style Mismatch](../claims/faculty-student-learning-style-mismatch.md) [+M]
+- [Student Faculty Subject Matter Mismatch](../claims/student-faculty-subject-matter-mismatch.md) [+M]
+- [Faculty across departments describe the same ideal learning style for students](../claims/faculty-uniform-ideal-learning-style.md) [+W]
+- [Student learning styles differ significantly by department, particularly on Concrete Experience and Abstract Conceptualization](../claims/student-learning-style-department-differences.md) [+W]
+- [Cultural and linguistic background influences measured learning and cognitive styles, and should be considered in style assessment](../claims/cultural-background-influences-learning-style-measurement.md) [~W]
+
+## Related Principles
+
+- [Select a video production style holistically, considering course type, complementary materials, and learner needs rather than video alone](holistic-video-style-selection-principle.md)
+- [Teach students to make the best of their intellectual styles rather than forcing one mandated mode](cognitive-styles.md)
+
+## Examples
+-
+
+## Key Sources
+- Bue, T. W. (1979). Teaching and Learning Styles in Higher Education: Match or Mismatch? https://eric.ed.gov/?id=ED172635
 -->

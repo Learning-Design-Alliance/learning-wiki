@@ -158,8 +158,8 @@ This pattern is scoped to the shape of a mostly online course across a term. How
 
 ## Related Patterns
 - [Blended Learning](blended-learning.md) — divides a course between online and in-person time; this pattern shapes the online course itself
-- [Discussion-Based Learning](discussion-based-learning.md) — the discussion strand of this course at lesson scale
-- [Flipped Classroom](flipped-classroom.md) — shares the concern with using synchronous/interactive time well, though flipped classroom assumes a physical class session this pattern does not
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — the discussion strand of this course at lesson scale
+- [Flipped Classroom](../principles/flipped-learning.md) — shares the concern with using synchronous/interactive time well, though flipped classroom assumes a physical class session this pattern does not
 
 ## Examples
 - A weekly-rhythm asynchronous course with structured discussion prompts, peer response requirements, and a 48-hour instructor feedback commitment on assignments
@@ -242,7 +242,7 @@ Course-design literature converges on a recurring set of moves that build these 
 - Group composition and interaction structures can be adjusted for learners who report feeling isolated versus those already well-connected to peers
 
 ## Related Patterns
-- [Flipped Classroom](flipped-classroom.md) — shares the concern with using synchronous/interactive time well, though flipped classroom assumes a physical class session this pattern does not
+- [Flipped Classroom](../principles/flipped-learning.md) — shares the concern with using synchronous/interactive time well, though flipped classroom assumes a physical class session this pattern does not
 
 ## Examples
 - A weekly-rhythm asynchronous course with structured discussion prompts, peer response requirements, and a 48-hour instructor feedback commitment on assignments

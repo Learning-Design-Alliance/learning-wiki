@@ -69,7 +69,7 @@ Naming strategies converts tacit, in-the-moment decisions into explicit, transfe
 - [Use staged problem-solving reflection assignments to build metacognition around LLM use and surface student help-seeking perspectives](staged-problem-solving-reflections-llm-use.md)
 
 ## Examples
-- **Cognitively Guided Instruction (CGI) math classrooms** — after children solve word problems, teachers publicly name and chart the strategies children used (direct modeling, counting on, derived facts), building a shared repertoire the class references in later problems ([CGI for Math](../patterns/cognitively-guided-instruction-cgi-for-math.md)).
+- **Cognitively Guided Instruction (CGI) math classrooms** — after children solve word problems, teachers publicly name and chart the strategies children used (direct modeling, counting on, derived facts), building a shared repertoire the class references in later problems ([CGI for Math](../principles/responsive-teaching.md)).
 - **Reading strategy anchor charts in workshop-model classrooms** — teachers at [TCRWP](https://readingandwritingproject.org)-affiliated schools co-construct charts naming comprehension strategies ("back up and reread," "stop and jot") that students are then prompted to deploy by name during independent reading.
 - **Programming courses using post-solution debriefs** — after debugging exercises, students write a one-line "what I tried" entry to a shared log, giving the class a named toolkit of debugging strategies (binary search for the bug, rubber-duck explanation, minimal reproduction).
 

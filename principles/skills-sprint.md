@@ -133,7 +133,7 @@ A finished deliverable, each learner's unaided performance after the sprint, del
 - [Problem-based Learning](problem-based-learning.md) — sprints often organize work around a concrete challenge or problem.
 - [Experiential Learning](experiential-learning.md) — sprint cycles create action, feedback, and reflection opportunities.
 - [Goal Setting & Monitoring](goal-setting-monitoring.md) — clear milestones and visible progress are central to sprint structure.
-- [Peer Feedback/Peer Review](peer-feedback.md) — rapid critique helps teams improve within the sprint window.
+- [Peer Feedback/Peer Review](peer-learning.md) — rapid critique helps teams improve within the sprint window.
 - [Feedback Loops](feedback-loops.md) — the sprint's checkpoint is a review that should change the next block of work.
 - [Debriefing](debriefing.md) — how to run the facilitated review at the end of a sprint.
 - [Authentic Audiences and Purposes](authentic-audiences-purposes.md) — what a real user or audience changes in the deliverable.
@@ -202,7 +202,7 @@ Skills sprints are effective when a short, tightly bounded cycle focuses attenti
 - [Problem-based Learning](problem-based-learning.md) — sprints often organize work around a concrete challenge or problem.
 - [Experiential Learning](experiential-learning.md) — sprint cycles create action, feedback, and reflection opportunities.
 - [Goal Setting & Monitoring](goal-setting-monitoring.md) — clear milestones and visible progress are central to sprint structure.
-- [Peer Feedback/Peer Review](peer-feedback.md) — rapid critique helps teams improve within the sprint window.
+- [Peer Feedback/Peer Review](peer-learning.md) — rapid critique helps teams improve within the sprint window.
 
 ## Examples
 - **Design sprint**: Teams prototype a service, test assumptions, and present a revised concept within a week.

@@ -32,7 +32,7 @@ Justification is the element in which learners explain why a claim, choice, or s
 
 ### Affordances
 - [Epistemic Cognition](../principles/epistemic-cognition.md)
-- [Explaining Their Thinking](../principles/self-explanation.md)
+- [Explaining Their Thinking](../principles/cognitive-activation.md)
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
@@ -48,8 +48,8 @@ Justification is the element in which learners explain why a claim, choice, or s
 - [Evidence-Based Reasoning](evidence-based-reasoning.md)
 
 ## Patterns That Use This Element
-- [MEL Reasoning Pattern](../patterns/model-evidence-link-mel-reasoning-pattern.md)
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md)
+- [MEL Reasoning Pattern](../principles/epistemic-cognition.md)
+- [Discussion-Based Learning](../principles/collaborative-learning.md)
 
 ## Examples
 - Learners explain why a solution method fits the problem better than another.

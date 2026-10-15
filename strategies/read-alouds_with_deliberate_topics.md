@@ -73,7 +73,7 @@ Narrative provides concrete, emotionally engaging cases of social behavior that 
 - [Articulation](../elements/articulation.md) — asking students to verbalize a character's (or their own) reasoning makes social problem-solving explicit
 
 ## Patterns That Use This Strategy
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — the read-aloud supplies a shared text and authentic dilemma for discussion
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — the read-aloud supplies a shared text and authentic dilemma for discussion
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — teacher modeling of emotional reasoning during reading makes expert social cognition visible
 
 ## Examples

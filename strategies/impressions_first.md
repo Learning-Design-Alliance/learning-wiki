@@ -68,7 +68,7 @@ Impressions First is a form of [Activation](../principles/activation.md): elicit
 - [Check-In](../elements/check-in.md) — establishes the norm of tentative, honest response
 
 ## Patterns That Use This Strategy
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — impressions provide the initial, low-stakes contributions that seed discussion
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — impressions provide the initial, low-stakes contributions that seed discussion
 - [Develop Understanding](../patterns/develop-understanding.md) — first impressions are the pre-instruction baseline against which understanding develops
 
 ## Examples

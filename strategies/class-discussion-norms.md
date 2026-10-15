@@ -71,7 +71,6 @@ Discussion produces learning only when students actually reason with one another
 - All ages, but especially adolescents and adults in seminar or [Collaborative Learning](../principles/collaborative-learning.md) settings where peer-to-peer talk carries the instruction [+M]
 - Multilingual learners and students unfamiliar with academic discourse conventions, who benefit from explicit norms making the "hidden rules" of discussion visible [+M]
 - Mixed-status classrooms where unstructured discussion systematically advantages confident speakers [~M]
-- Adolescents and adults new to seminar-style or [Discussion-Based Learning](../patterns/discussion-based-learning.md) formats [+M]
 - Groups with wide status differences or mixed preparation, where unstructured discussion lets dominant voices monopolize airtime [~M]
 - Students from groups underrepresented in a field, for whom explicit safety and belonging signals are especially consequential [Brief belonging interventions improve academic outcomes, particularly for marginalized students.](../claims/belonging-interventions-improve-outcomes.md) [+M]
 
@@ -139,7 +138,7 @@ Discussion produces learning only when students actually reason with one another
 > **Evidence** · 4 claims (3 for, 1 mixed) · 9 studies (5 quant-synthesis, 4 causal), `q2`–`q4` · 4 of 9 report an effect size
 
 ## Description
-Discussion norms are explicit, co-developed or teacher-established agreements about how classroom discussion operates: how students respond to one another, how disagreement is expressed, how evidence is used, and how airtime is shared. They function as the procedural infrastructure that makes [Discussion-Based Learning](../patterns/discussion-based-learning.md) productive rather than chaotic or dominated by a few voices.
+Discussion norms are explicit, co-developed or teacher-established agreements about how classroom discussion operates: how students respond to one another, how disagreement is expressed, how evidence is used, and how airtime is shared. They function as the procedural infrastructure that makes [Discussion-Based Learning](../principles/collaborative-learning.md) productive rather than chaotic or dominated by a few voices.
 
 ## Design Implications
 
@@ -236,7 +235,7 @@ Discussion quality depends on psychological safety and clear participation struc
 - **Digital norms**: separate explicit expectations for chat, forums, and video discussion, where turn-taking cues are absent
 
 ### Target Learners
-- Adolescents and adults new to seminar-style or [Discussion-Based Learning](../patterns/discussion-based-learning.md) formats [+M]
+- Adolescents and adults new to seminar-style or [Discussion-Based Learning](../principles/collaborative-learning.md) formats [+M]
 - Groups with wide status differences or mixed preparation, where unstructured discussion lets dominant voices monopolize airtime [~M]
 - Students from groups underrepresented in a field, for whom explicit safety and belonging signals are especially consequential [Brief belonging interventions improve academic outcomes, particularly for marginalized students.](../claims/belonging-interventions-improve-outcomes.md) [+M]
 

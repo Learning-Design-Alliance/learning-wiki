@@ -138,8 +138,7 @@ The expectation against matching should weaken if a study using the crossover de
 Matching, building an approach, compensating with a job aid, and a change in the measured style are separate claims. The present evidence establishes none of the session counts, timings or fading points above.
 
 ## Related Principles
-- [Effective teaching requires compatibility among teaching style, learning style, content emphasis, and educational environment](four-factor-teaching-compatibility.md)
-- [Personalization](personalization.md) — owns what to tailor to each learner and on what basis
+- [Effective teaching requires compatibility among teaching style, learning style, content emphasis, and educational environment](personalization.md)
 - [Adaptive Learning](adaptive-learning.md) — owns choosing the next task from a learner's responses rather than a style
 - [Universal Design for Learning](universal-design-for-learning.md) — several routes for everyone, with the goal and criteria fixed
 - [Cognitive Flexibility](cognitive-flexibility.md) — revisiting content across cases and perspectives
@@ -200,7 +199,7 @@ There are two distinct ways to use knowledge of a student's cognitive style (Pri
 - [Embedded figures test performance differed by sex and correlated relatively highly with intelligence](../claims/embedded-figures-test-sex-difference-intelligence-correlation.md) [~W]
 
 ## Related Principles
-- [Effective teaching requires compatibility among teaching style, learning style, content emphasis, and educational environment](four-factor-teaching-compatibility.md)
+- [Effective teaching requires compatibility among teaching style, learning style, content emphasis, and educational environment](personalization.md)
 
 ## Examples
 
@@ -246,7 +245,7 @@ The article argues that teachers should recognize students' style preferences an
 
 ## Related Principles
 
-- [Effective teaching requires compatibility among teaching style, learning style, content emphasis, and educational environment](four-factor-teaching-compatibility.md)
+- [Effective teaching requires compatibility among teaching style, learning style, content emphasis, and educational environment](personalization.md)
 
 ## Examples
 -

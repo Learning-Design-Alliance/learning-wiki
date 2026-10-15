@@ -58,7 +58,7 @@ Second, and just as important: **treat students' existing beliefs with respect**
 
 ## Examples
 
-Just-In-Time Teaching's WarmUps are one concrete mechanism for surfacing misconceptions before they interfere with new instruction — see [Just-In-Time Teaching (JiTT)](../patterns/just-in-time-teaching.md).
+Just-In-Time Teaching's WarmUps are one concrete mechanism for surfacing misconceptions before they interfere with new instruction — see [Just-In-Time Teaching (JiTT)](../principles/responsive-teaching.md).
 - [Address AI-use miscalibration through belief-level interventions rather than mere exposure or surface-level nudges](../strategies/belief-level-interventions-ai-use-calibration.md)
 
 ## Key Sources

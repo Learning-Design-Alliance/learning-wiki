@@ -85,7 +85,7 @@ Peer tutoring works largely because explaining material to another person forces
 - [Cross-Age Tutoring](cross-age-tutoring.md) — the variant where tutors and tutees come from different grade levels
 - [Implement CWPT through daily peer-tutoring sessions with points, teams, and weekly testing](cwpt-daily-session-team-points-recipe.md)
 - [Direct Instruction](../patterns/direct-instruction.md) — tutoring typically follows initial teacher-led instruction; peers consolidate rather than introduce content
-- [Flipped Classroom](../patterns/flipped-classroom.md) — freed class time is a common venue for peer tutoring cycles
+- [Flipped Classroom](../principles/flipped-learning.md) — freed class time is a common venue for peer tutoring cycles
 - [Train students in tutor and group roles before routine use of peer tutoring or response groups](train-students-before-peer-tutoring-roles.md)
 
 ## Examples
@@ -166,7 +166,7 @@ Peer tutoring works because both roles learn: tutees receive individualized, imm
 
 - [Cooperative Learning](../patterns/cooperative-learning.md) — the broader family of structured peer interaction; tutoring is its most asymmetric, role-differentiated form
 - [Direct Instruction](../patterns/direct-instruction.md) — tutoring typically follows initial teacher-led instruction; peers consolidate rather than introduce content
-- [Flipped Classroom](../patterns/flipped-classroom.md) — freed class time is a common venue for peer tutoring cycles
+- [Flipped Classroom](../principles/flipped-learning.md) — freed class time is a common venue for peer tutoring cycles
 - [Implement CWPT through daily peer-tutoring sessions with points, teams, and weekly testing](cwpt-daily-session-team-points-recipe.md)
 - [Train students in tutor and group roles before routine use of peer tutoring or response groups](train-students-before-peer-tutoring-roles.md)
 

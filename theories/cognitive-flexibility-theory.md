@@ -91,7 +91,7 @@ The pattern often relies on case collections, cross-linking, comparison, and rev
 - [Peer Discussion](../elements/peer-discussion.md)
 
 ### Affordances
-- [Perspective-Seeking/Multiple Perspectives](../principles/perspective-seekingmultiple-perspectives.md)
+- [Perspective-Seeking/Multiple Perspectives](../principles/cognitive-flexibility.md)
 - [Case Studies/Case-Based Learning](../patterns/case-based-learning.md)
 - [Problem-based Learning](../principles/problem-based-learning.md)
 - [Creating Visual Representations](../principles/dual-coding.md)
@@ -103,7 +103,7 @@ The pattern often relies on case collections, cross-linking, comparison, and rev
 
 ## Related Patterns
 
-- [Case-Based Learning (Harvard Method)](../patterns/case-based-learning-harvard-method.md)
+- [Case-Based Learning (Harvard Method)](../patterns/case-based-learning.md)
 - [Problem-Based Learning (PBL)](../patterns/problem-based-learning.md)
 - [Flexible hypertext-based online course design with hierarchical navigation and multiple representations](../designs/flexible-hypertext-course-design-pattern.md)
 

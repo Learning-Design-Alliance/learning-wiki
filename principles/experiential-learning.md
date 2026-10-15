@@ -1,7 +1,7 @@
 ---
 type: principle
 id: experiential-learning
-aliases: [experiential-course-design-practice-centered-diagnostic]
+aliases: [experiential-course-design-practice-centered-diagnostic, kolb-derived-curriculum-guidelines, experiential-learning-as-program-philosophy, appropriating-disciplinary-tools-to-challenge-restrictive-narratives]
 title: Experiential Learning
 description: "For learners building applied, professional or interpersonal capability, an experience followed by structured reflection and a further attempt with feedback is expected to improve performance and transfer, while unguided experience for novices learns less than guided instruction."
 canonical: true
@@ -14,12 +14,20 @@ sources:
     resource: "https://eric.ed.gov/?id=ED392940"
     title: "Torkington, Kate. (1996). The Rationale for Experiential/Participatory Learning. Working Papers in Early Childhood Development 16. Bernard van Leer Foundation. https://eric.ed.gov/?id=ED392940"
     author: Torkington, Kate
+  - id: patil-2020
+    resource: "https://eric.ed.gov/?id=EJ1267932"
+    title: "Patil, T., Hunt, M., Cooper, K., & Townsend, R. (2020). Developing a case-based experiential learning model at a program level in a regional university: Reflections on the developmental process. Australian Journal of Adult Learning, 60(2). https://eric.ed.gov/?id=EJ1267932"
+    author: "Patil, T., Hunt, M., Cooper, K., & Townsend, R"
+  - id: watkins-2023
+    resource: "https://doi.org/10.1080/07370008.2022.2156512"
+    title: "Watkins, J. (2023). \"That is Still STEM\": Appropriating the Engineering Design Process to Challenge Dominant Narratives of Engineering and STEM. Cognition and Instruction, 41(4), 405-435."
+    author: "Watkins, J."
 ---
 
 # Experiential Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 18 claims (12 for, 6 mixed) · 29 studies (9 causal, 8 quant-synthesis, 4 theoretical, 3 review, 3 qualitative, 1 associational, 1 design), `q1`–`q4` · 5 of 29 report an effect size · 12 claims rest on one study
+> **Evidence** · 21 claims (14 for, 7 mixed) · 31 studies (9 causal, 8 quant-synthesis, 5 qualitative, 4 theoretical, 3 review, 1 associational, 1 design), `q1`–`q4` · 5 of 31 report an effect size · 15 claims rest on one study
 
 ## Conditional relationship
 
@@ -116,6 +124,9 @@ Claims this page cited before the 2026-10-02 rewrite. They are evidence about th
 - [Parent Education Experiential Evaluations Positive](../claims/parent-education-experiential-evaluations-positive.md) [+W]
 - [Experiential instruction produces larger immediate pre-post gains than instructional lecture in AI engagement and metacognitive knowledge of cognition](../claims/experiential-beats-instructional-immediate-aie-mkc.md) [+M] — attached 2026-10-11 from Pau Benazet i Montobbio et al. (2026), which proposed "Prioritize hands-on experiential activities over lecture-based instruction when cultivating metacognitive awareness of AI-assisted learning".
 - [Immediate experiential advantages in knowledge of cognition and engagement converged with the instructional group by five weeks](../claims/five-week-convergence-aie-mkc.md) [~M] — attached 2026-10-11 from Pau Benazet i Montobbio et al. (2026), which proposed "Prioritize hands-on experiential activities over lecture-based instruction when cultivating metacognitive awareness of AI-assisted learning".
+- [An internal program review found absence of a consistent pedagogical framework and need for active case-based materials](../claims/program-review-five-design-findings.md) [+W]
+- [Students perceive that applying knowledge gained through new meaningful experiences creates lasting personal growth (gain)](../claims/students-lasting-personal-growth-experiences.md) [+W]
+- [A teacher's appropriation of the engineering design process reframed restrictive STEM narratives in her teaching and personal life](../claims/teacher-appropriation-of-edp-reframes-restrictive-stem-narratives.md) [~W]
 
 ## Objective and learner-valued goal
 
@@ -140,6 +151,8 @@ An engaging experience, an immediate skill gain, an explanation, near transfer, 
 - [Problem-Based Learning](problem-based-learning.md) — one form of experiential design centered on complex problems
 - [Authentic Audiences & Purposes](authentic-audiences-purposes.md) — real stakes and users strengthen the relevance of experience
 - [Communities of Practice](communities-of-practice.md) — experiential learning deepens when learners participate in real social practices over time
+- [Federation University Case Based Experiential Model](../theories/federation-university-case-based-experiential-model.md)
+- (none yet linked)
 
 ## Examples
 <!-- Links to elements or patterns that apply this principle -->
@@ -153,6 +166,11 @@ An engaging experience, an immediate skill gain, an explanation, near transfer, 
 - [Context-prompt reflection assignments in which students elaborate on a concept, apply it to a novel problem, and receive AI feedback](../strategies/ai-reflection-context-prompt-assignments.md)
 - [Provide opportunities for independent practice with repeated cycles of use and structured reflection to strengthen regulatory skills over time](../strategies/independent-practice-cycles-for-ai-regulation.md)
 - [Use structured reflection tables, learning journals, prompt variation, adversarial queries, and peer debate to cultivate AI intuition](../strategies/reflection-tables-journals-debates-cultivate-ai-intuition.md)
+- [Use technology to facilitate active participation rather than replace face-to-face learning, potentially creating greater synchronicity between modes](../strategies/technology-facilitates-not-replaces-face-to-face.md)
+- [Active Learning Framework: pre-workshop, active workshop and post-workshop consolidation replacing lecture-tutorial format](../designs/active-learning-framework-three-components.md)
+- [Structured problem cases built on Kim et al.'s four conceptual elements (content, structure, attributes, process)](../elements/kim-et-al-case-conceptual-elements.md)
+- [Evaluate and assess experiential learning modules longitudinally to build pre-service teachers' pedagogical skills](../strategies/longitudinal-evaluation-of-elt-engineering-modules.md)
+- A teacher who initially described the engineering design process as a fixed sequence ("ask, imagine, plan, create, improve, communicate") later reflected, after her own messy LEGO-robotics project: "it can skip from one step to another, go backwards, go forward" — and subsequently reframed her own family's factory-floor work (loom fixing, supervising) as engineering she hadn't previously recognized as such.
 
 ## Key Sources
 - Dernova, M. (2015). Experiential learning theory as one of the foundations of adult learning practice worldwide. *Comparative Professional Pedagogy, 5*(2). [doi:10.1515/rpp-2015-0040](https://doi.org/10.1515/rpp-2015-0040)
@@ -160,6 +178,8 @@ An engaging experience, an immediate skill gain, an explanation, near transfer, 
 - Zeivots, S. (2016). Emotional highs in adult experiential learning. *Australian Journal of Adult Learning, 56*(3), 353-373.
 - Knowles, M. S., Holton, E. F., & Swanson, R. A. (2015). *The adult learner* (8th ed.). [doi:10.4324/9781315816951](https://doi.org/10.4324/9781315816951)
 - Torkington, Kate. (1996). The Rationale for Experiential/Participatory Learning. Working Papers in Early Childhood Development 16. Bernard van Leer Foundation. https://eric.ed.gov/?id=ED392940
+- Patil, T., Hunt, M., Cooper, K., & Townsend, R. (2020). Developing a case-based experiential learning model at a program level in a regional university: Reflections on the developmental process. Australian Journal of Adult Learning, 60(2). https://eric.ed.gov/?id=EJ1267932
+- Watkins, J. (2023). "That is Still STEM": Appropriating the Engineering Design Process to Challenge Dominant Narratives of Engineering and STEM. *Cognition and Instruction, 41*(4), 405-435. [https://doi.org/10.1080/07370008.2022.2156512](https://doi.org/10.1080/07370008.2022.2156512)
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above. Old body kept verbatim.
 
@@ -255,4 +275,142 @@ The paper closes with concrete guidance for trainers designing their own experie
 
 ## Key Sources
 - Torkington, Kate. (1996). The Rationale for Experiential/Participatory Learning. Working Papers in Early Childhood Development 16. Bernard van Leer Foundation. https://eric.ed.gov/?id=ED392940
+-->
+
+<!-- merged 2026-10-15 from principles/kolb-derived-curriculum-guidelines ("Guide experiential curriculum design with Kolb-derived principles: connect to existing knowledge, honour each learner's experiential base, cycle through experience and reflection, and shift power to the learner"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Guide experiential curriculum design with Kolb-derived principles: connect to existing knowledge, honour each learner's experiential base, cycle through experience and reflection, and shift power to the learner
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 3 claims (3 for) · 2 studies (1 qualitative, 1 design), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
+
+## Description
+The article enumerates four guidelines, based on Kolb (1984) and Lee and Caffarella (1994), that determined curriculum development. Experiential learning "allow s learners to connect with 'the existing knowledge, beliefs and affective characteristics'"; "Each learne r brings a unique experiential base to the instructional situation"; learning is multi-dimensional, moving from concrete experience through observation, reflection and abstract conceptualisation to application; and "The power b ase shifts from the teacher to the learner", with teachers acting as facilitators. These principles underpin the University Model's case-based activities.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Cases and activities that let learners bring and relate their own experience, observe, reflect, conceptualise and apply
+- Educators prepared to act as facilitators rather than transmitters of knowledge
+#### Constraints
+- Guidelines are drawn from Kolb (1984) and Lee and Caffarella (1994) as adapted for this program; the article reports no direct test of the guidelines themselves
+
+### Target Learners
+- undergraduate community and human services students
+
+### Target Learning Objectives
+- critical thinking and decision-making
+- self-directed learning
+- integration of existing beliefs and knowledge with new content
+
+### Claims
+
+- [Reviewed studies report experiential learning benefits for engagement, skills, confidence and outcomes in human services education](../claims/experiential-learning-engagement-skills-ethical-reasoning.md) [+M]
+- [An internal program review found absence of a consistent pedagogical framework and need for active case-based materials](../claims/program-review-five-design-findings.md) [+W]
+- [Students perceive that applying knowledge gained through new meaningful experiences creates lasting personal growth (gain)](../claims/students-lasting-personal-growth-experiences.md) [+W]
+
+## Related Principles
+
+- [Federation University Case Based Experiential Model](../theories/federation-university-case-based-experiential-model.md)
+- [Implement experiential learning as a program-level teaching philosophy rather than as isolated activities](experiential-learning.md)
+
+## Examples
+
+- [Use technology to facilitate active participation rather than replace face-to-face learning, potentially creating greater synchronicity between modes](../strategies/technology-facilitates-not-replaces-face-to-face.md)
+- [Active Learning Framework: pre-workshop, active workshop and post-workshop consolidation replacing lecture-tutorial format](../designs/active-learning-framework-three-components.md)
+- [Structured problem cases built on Kim et al.'s four conceptual elements (content, structure, attributes, process)](../elements/kim-et-al-case-conceptual-elements.md)
+- [Evaluate and assess experiential learning modules longitudinally to build pre-service teachers' pedagogical skills](../strategies/longitudinal-evaluation-of-elt-engineering-modules.md)
+
+## Key Sources
+- Patil, T., Hunt, M., Cooper, K., & Townsend, R. (2020). Developing a case-based experiential learning model at a program level in a regional university: Reflections on the developmental process. Australian Journal of Adult Learning, 60(2). https://eric.ed.gov/?id=EJ1267932
+-->
+
+<!-- merged 2026-10-15 from principles/experiential-learning-as-program-philosophy ("Implement experiential learning as a program-level teaching philosophy rather than as isolated activities"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Implement experiential learning as a program-level teaching philosophy rather than as isolated activities
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+The article argues that experiential learning should be adopted as an overarching curriculum philosophy spanning a whole degree program, not merely as discrete activities within units. Citing Itin (1999), it warns that when implemented "as a series of activities or strategies the experience for students can be disjointed and confusing", and concludes "experiential learning is best approached as a teaching philosophy and implemented as larger curriculum change". The Federation University model is presented as an instance of this program-level approach.
+
+## Design Implications
+
+### Context
+#### Requirements
+- A coherent teaching philosophy linking epistemology, learning process and instructional tools across all core and elective subjects
+#### Constraints
+- Transition to this way of learning caused difficulties for staff and students in the prior program-level implementation the article cites (Gray & Gibbons, 2002)
+
+### Target Learners
+- undergraduate professional-degree students (community and human services)
+
+### Target Learning Objectives
+- consistent learning experiences across units and delivery modes
+- integration of theory and practice
+
+### Claims
+
+- [An internal program review found absence of a consistent pedagogical framework and need for active case-based materials](../claims/program-review-five-design-findings.md) [+W]
+
+## Related Principles
+
+- [Guide experiential curriculum design with Kolb-derived principles: connect to existing knowledge, honour each learner's experiential base, cycle through experience and reflection, and shift power to the learner](experiential-learning.md)
+
+## Examples
+
+- [Active Learning Framework: pre-workshop, active workshop and post-workshop consolidation replacing lecture-tutorial format](../designs/active-learning-framework-three-components.md)
+- [Structured problem cases built on Kim et al.'s four conceptual elements (content, structure, attributes, process)](../elements/kim-et-al-case-conceptual-elements.md)
+- [Use technology to facilitate active participation rather than replace face-to-face learning, potentially creating greater synchronicity between modes](../strategies/technology-facilitates-not-replaces-face-to-face.md)
+
+## Key Sources
+- Patil, T., Hunt, M., Cooper, K., & Townsend, R. (2020). Developing a case-based experiential learning model at a program level in a regional university: Reflections on the developmental process. Australian Journal of Adult Learning, 60(2). https://eric.ed.gov/?id=EJ1267932
+-->
+
+<!-- merged 2026-10-15 from principles/appropriating-disciplinary-tools-to-challenge-restrictive-narratives ("Appropriating Disciplinary Tools to Challenge Restrictive Narratives"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Appropriating Disciplinary Tools to Challenge Restrictive Narratives
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+Disciplinary tools taught to teachers as fixed procedures (e.g., a linear six-step engineering design process) can themselves carry restrictive, exclusionary assumptions about the discipline — who counts as a practitioner, what kinds of work count as "real" engineering. When a teacher personally experiences authentic, ill-structured disciplinary work (rather than only teaching a scripted version of the tool), they can appropriate the tool's language to describe their own lived, messier experience — and then redeploy that appropriated, expanded understanding to challenge the restrictive narrative in their own teaching and beyond the classroom.
+
+## Implications
+
+### Context
+#### Requirements
+- Direct, personal engagement with authentic, ill-defined disciplinary problems (not only pre-scripted K-12 curricular versions of a discipline's tools)
+- Explicit reflection connecting the teacher's own lived experience back to the language of the formal tool, surfacing where the taught version diverges from the teacher's actual practice
+#### Constraints
+- This is evidence from a single case (one teacher over an 18-month program); the mechanism (lived experience → discourse appropriation → advocacy) is well-documented in this case but not established as reliable or common across other teachers or programs
+- The appropriation documented here produced classroom-level advocacy (more tinkering time, flexible pacing); it did not include a measure of downstream student outcomes
+
+### Target Learners
+- Teachers (especially those from backgrounds underrepresented in the discipline they teach) in extended professional-learning programs that include authentic, hands-on disciplinary engagement
+
+### Target Learning Objectives
+- Reframing a discipline's exclusionary narratives (e.g., a "weed-out" narrative in engineering) through a teacher's own transformed understanding and language, translated into concrete classroom advocacy for student agency and flexible time
+
+### Theory
+#### Supporting
+- Appropriation theory (Bakhtin; Levrini et al.; Polman; Wertsch) — transforming disciplinary discourse to embody it in one's own story, marked by being idiosyncratic, disciplinarily-grounded, and traceable across contexts
+- Sociohistorical narratives (Gresalfi & Hand) — grand, historically-sedimented stories (e.g., engineering's "weed-out" narrative) that shape who is positioned as belonging in a discipline
+#### Contradicting / Qualifying
+- (none yet linked)
+
+### Claims
+- [A teacher's appropriation of the engineering design process reframed restrictive STEM narratives in her teaching and personal life](../claims/teacher-appropriation-of-edp-reframes-restrictive-stem-narratives.md) [~M]
+
+## Related Principles
+- (none yet linked)
+
+## Examples
+- A teacher who initially described the engineering design process as a fixed sequence ("ask, imagine, plan, create, improve, communicate") later reflected, after her own messy LEGO-robotics project: "it can skip from one step to another, go backwards, go forward" — and subsequently reframed her own family's factory-floor work (loom fixing, supervising) as engineering she hadn't previously recognized as such.
+
+## Key Sources
+- Watkins, J. (2023). "That is Still STEM": Appropriating the Engineering Design Process to Challenge Dominant Narratives of Engineering and STEM. *Cognition and Instruction, 41*(4), 405-435. [https://doi.org/10.1080/07370008.2022.2156512](https://doi.org/10.1080/07370008.2022.2156512)
 -->

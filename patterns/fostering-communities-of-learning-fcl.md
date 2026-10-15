@@ -1,7 +1,7 @@
 ---
 type: pattern
 id: fostering-communities-of-learning-fcl
-aliases: [jigsaw, jigsaw-learning, jigsaw-method]
+aliases: [jigsaw, jigsaw-learning, jigsaw-method, plc-facets-catalyze-scholarship-epistemology]
 title: Fostering Communities of Learning (FCL)
 description: "A reusable research-and-teach cycle in which learners become expert on one part of a shared theme, teach it to peers in jigsaw groups and read through reciprocal teaching, expected to raise each learner's understanding of the whole theme where research is guided, teaching is structured and every member is checked on every part; no claim tests the pattern as a whole, only its components."
 canonical: true
@@ -11,12 +11,17 @@ generated:
   at: 2026-10-05
 author: Ann L. Brown and Joseph C. Campione
 grain_size: course
+sources:
+  - id: prytula-2012
+    resource: "https://doi.org/10.5539/ies.v5n4p112"
+    title: "Prytula, M. P. (2012). Teacher Metacognition within the Professional Learning Community. International Education Studies. https://doi.org/10.5539/ies.v5n4p112"
+    author: Prytula, M. P
 ---
 
 # Fostering Communities of Learning (FCL)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 19 claims (11 for, 8 mixed) · 36 studies (13 quant-synthesis, 10 review, 6 causal, 3 theoretical, 2 associational, 2 qualitative), `q1`–`q4` · 9 of 36 report an effect size · 8 claims rest on one study
+> **Evidence** · 23 claims (15 for, 8 mixed) · 38 studies (13 quant-synthesis, 10 review, 6 causal, 4 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 9 of 38 report an effect size · 12 claims rest on one study
 
 ## Description and scope
 
@@ -113,6 +118,10 @@ Claims this page cited before the 2026-10-05 rewrite, and claims found while rew
 - [Active participation in a community has a more significant impact on learning than mere membership](../claims/active-participation-beats-mere-membership-for-learning.md) [+W] — the authors' interpretation of a perception survey of 28 honours students; not a tested contrast.
 - [Within the CoP model, learners who do not progress toward the centre through nonparticipation are relegated to the fringes with invalidated identities](../claims/cop-nonparticipation-invalidates-learner-identities.md) [~W] — a theoretical critique; a reason to define what a valued contribution from a quieter member looks like.
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S]
+- [Plc Nurtures Teacher Metacognition](../claims/plc-nurtures-teacher-metacognition.md) [+M]
+- [Plc Leader Metacognition Shapes Led Work](../claims/plc-leader-metacognition-shapes-led-work.md) [+M]
+- [Disagreements within a PLC can catalyze teacher learning rather than impede it](../claims/plc-disagreements-catalyze-learning.md) [+W]
+- [Teachers in CHSRI schools reported statistically significantly higher perceptions of trust and collaboration than teachers in non-CHSRI schools](../claims/chrsi-teachers-higher-trust-collaboration-survey.md) [+W]
 
 ## Illustrative design instance and observation record
 
@@ -127,8 +136,8 @@ Record: **theme and parts → starting check by part → research group, sources
 This pattern is scoped to a class or cohort that researches the parts of a shared theme and teaches them to one another, over several weeks. Short coverage of a fixed syllabus, content learners cannot learn from available sources, and goals that are one learner's skill rather than shared understanding need other configurations ([direct instruction](direct-instruction.md), [cooperative learning](cooperative-learning.md), [peer instruction](peer-instruction.md)). Whether the full research-and-teach cycle produces better individual understanding than its components alone, or than direct teaching of the same content, for which learners, at what time cost and at what horizon, remains to be tested.
 
 ## Related Patterns
-- [Collaborative Inquiry](collaborative-inquiry.md)
-- [Discussion Group](discussion-based-learning.md)
+- [Collaborative Inquiry](../principles/inquiry-based-learning.md)
+- [Discussion Group](../principles/collaborative-learning.md)
 - [Student-Teams Achievement Divisions (STAD)](../strategies/student-teams-achievement-divisions.md) — another small-team cooperative structure, organized around shared whole-class content and individual testing rather than subtopic specialization
 
 ## Examples
@@ -149,6 +158,7 @@ This pattern is scoped to a class or cohort that researches the parts of a share
 - Arduini-Van Hoose, N. (2020). Cooperative learning. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
 - Aronson, E., & Patnoe, S. (2011). *Cooperation in the classroom: The jigsaw method*.
 - Aronson, E., & Patnoe, S. (2011). *Cooperation in the classroom* (3rd ed.). Pinter & Martin.
+- Prytula, M. P. (2012). Teacher Metacognition within the Professional Learning Community. International Education Studies. https://doi.org/10.5539/ies.v5n4p112
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -228,7 +238,7 @@ FCL is strongest when the curriculum can be organized around sustained inquiry a
 - Teachers can vary the degree of structure depending on how mature the learning community is.
 
 ## Related Patterns
-- [Collaborative Inquiry](collaborative-inquiry.md)
+- [Collaborative Inquiry](../principles/inquiry-based-learning.md)
 - [Jigsaw Method](fostering-communities-of-learning-fcl.md)
 
 ## Examples
@@ -327,7 +337,7 @@ Two documented variants differ in when specialization happens. In the original v
 ### Affordances
 - [Peer Discussion](../principles/peer-discussion.md)
 - [Communities of Practice](../principles/communities-of-practice.md)
-- [Perspective-Seeking/Multiple Perspectives](../principles/perspective-seekingmultiple-perspectives.md)
+- [Perspective-Seeking/Multiple Perspectives](../principles/cognitive-flexibility.md)
 - [Mentoring/Coaching](../principles/mentoring-and-coaching.md)
 
 ### Personalization
@@ -337,7 +347,7 @@ Two documented variants differ in when specialization happens. In the original v
 
 ## Related Patterns
 - [Fostering Communities of Learning (FCL)](fostering-communities-of-learning-fcl.md)
-- [Discussion Group](discussion-based-learning.md)
+- [Discussion Group](../principles/collaborative-learning.md)
 - [Student-Teams Achievement Divisions (STAD)](../strategies/student-teams-achievement-divisions.md) — another small-team cooperative structure, organized around shared whole-class content and individual testing rather than subtopic specialization
 
 ## Examples
@@ -417,4 +427,48 @@ Jigsaw Learning is the short-form canonical target for the jigsaw pattern in whi
 ## Key Sources
 - Aronson, E., & Patnoe, S. (2011). *Cooperation in the classroom* (3rd ed.). Pinter & Martin.
 - ->
+-->
+
+<!-- merged 2026-10-15 from patterns/plc-facets-catalyze-scholarship-epistemology ("PLC facets that catalyze scholarship epistemology: trust, common goal, reflection opportunity, dialogue, and accountability for results"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# PLC facets that catalyze scholarship epistemology: trust, common goal, reflection opportunity, dialogue, and accountability for results
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 4 claims (4 for) · 2 studies (2 qualitative), `q2` · 0 of 2 report an effect size · 4 claims rest on one study
+
+## Description
+In contrast to traditional institutional epistemology where knowledge is transmitted from one person to another, the article describes scholarship epistemology as bringing together theory and practice and constructing new knowledge by working together. The facets of the PLC that catalyze this include "working in an environment of trust, having a common goal, creating an opportunity for reflection, becoming engaged in dialogue, and being accountable for results". This pattern names the structural conditions a PLC needs to foster deeper, metacognitive professional thinking.
+
+## Design Implications
+
+### Context
+#### Requirements
+- An environment of trust and security for sharing, which Tracey reported working to ensure in her PLC.
+- A common goal so meetings have strong focus, as Lisa described.
+#### Constraints
+- Investment varies: Tracey stated there is not 100% investment all of the time.
+
+### Target Learners
+- practicing classroom teachers in PLCs
+- school leaders establishing PLCs
+
+### Target Goals
+- collaborative construction of professional knowledge
+- teacher metacognition and improved practice
+
+### Claims
+
+- [Plc Nurtures Teacher Metacognition](../claims/plc-nurtures-teacher-metacognition.md) [+M]
+- [Plc Leader Metacognition Shapes Led Work](../claims/plc-leader-metacognition-shapes-led-work.md) [+M]
+- [Disagreements within a PLC can catalyze teacher learning rather than impede it](../claims/plc-disagreements-catalyze-learning.md) [+W]
+- [Teachers in CHSRI schools reported statistically significantly higher perceptions of trust and collaboration than teachers in non-CHSRI schools](../claims/chrsi-teachers-higher-trust-collaboration-survey.md) [+W]
+
+## Related Patterns
+- 
+
+## Examples
+-
+
+## Key Sources
+- Prytula, M. P. (2012). Teacher Metacognition within the Professional Learning Community. International Education Studies. https://doi.org/10.5539/ies.v5n4p112
 -->

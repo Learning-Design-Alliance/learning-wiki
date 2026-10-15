@@ -48,7 +48,7 @@ The article draws on McLaughlin's (1987) cognitive theory and information proces
 
 ## Examples
 
-- [Devote class time in L2 reading instruction to bottom-up phonological practice rather than relying solely on top-down or translation-based approaches](../principles/devote-reading-class-time-to-phonological-practice.md)
+- [Devote class time in L2 reading instruction to bottom-up phonological practice rather than relying solely on top-down or translation-based approaches](../principles/phonics.md)
 
 ## Key Sources
 - Khatib, M., & Fat'hi, J. (2011). The Effect of Automatization of the Phonological Component on the Reading Comprehension of ESP Students. International Education Studies, 4(4). https://doi.org/10.5539/ies.v4n4p192

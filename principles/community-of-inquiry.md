@@ -26,7 +26,7 @@ The Community of Inquiry (CoI) framework describes a group of learners, usually 
 
 As stated, that is a framework's proposal, not a tested relationship. **No claim in the wiki compares learning outcomes under designs that differ in any of the three presences.** What the wiki holds is survey evidence from two small online graduate programmes, in which students' ratings of the presences are high, uneven across facilitation and resolution, and associated with self-reported metacognition, and a few neighbouring studies of online discussion. So this page is conditional in two senses: on the setting (discussion-led, with a shared object of inquiry and a facilitator), and on evidence still to come. It does not forecast that adding forums, social activities or instructor posts will raise achievement.
 
-[Collaborative learning](collaborative-learning.md) holds the conditional model of when joint work of any structure changes what each learner can do, and [peer discussion](peer-discussion.md) the narrower model of discussing a committed answer to a conceptual question; this page sits beside them, owning the facilitated, sustained, often online discourse community and what to observe when it stalls. [Social presence](social-presence.md) treats one of the three presences on its own, and the theory page [CoI framework: three presences and a metacognition lens](../theories/coi-framework-three-presences-metacognition-lens.md) records the framework as theory. No pattern page instantiates this principle; [online course design](../patterns/online-course-design.md) and [discussion-based learning](../patterns/discussion-based-learning.md) apply it and have not been rewritten against this model.
+[Collaborative learning](collaborative-learning.md) holds the conditional model of when joint work of any structure changes what each learner can do, and [peer discussion](peer-discussion.md) the narrower model of discussing a committed answer to a conceptual question; this page sits beside them, owning the facilitated, sustained, often online discourse community and what to observe when it stalls. [Social presence](social-presence.md) treats one of the three presences on its own, and the theory page [CoI framework: three presences and a metacognition lens](../theories/coi-framework-three-presences-metacognition-lens.md) records the framework as theory. No pattern page instantiates this principle; [online course design](../patterns/online-course-design.md) and [discussion-based learning](collaborative-learning.md) apply it and have not been rewritten against this model.
 
 ## Default design, while the relationship is untested
 
@@ -120,7 +120,7 @@ Perceived presence, the quality of the discourse, each learner's understanding a
 
 **[Online Course Design (Community of Inquiry)](../patterns/online-course-design.md)** — Applies this principle at the scale of a full online course, structured around Moore's three types of interaction.
 
-**[Discussion Group](../patterns/discussion-based-learning.md)** — A structured discussion environment where facilitation, prompts, and synthesis shape the quality of inquiry.
+**[Discussion Group](collaborative-learning.md)** — A structured discussion environment where facilitation, prompts, and synthesis shape the quality of inquiry.
 
 **Online seminar forums with active facilitation** — Learners respond to a shared problem or text, build on peers’ ideas, and receive guidance that keeps the discourse substantive rather than merely social.
 

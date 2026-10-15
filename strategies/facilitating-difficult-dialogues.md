@@ -63,7 +63,7 @@ Difficult dialogues work because productive discomfort — not comfort — drive
 
 - [Active Listening](../strategies/active-listening.md) — the micro-skill that keeps dialogue from becoming serial monologue
 - [Debate](../patterns/debate.md) — a more formalized structure for the same goal of engaging opposing views
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — the broader family of which difficult dialogues are the high-stakes subset
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — the broader family of which difficult dialogues are the high-stakes subset
 - [Facilitate cognitive disequilibrium about ethnocentric views](facilitate-cognitive-disequilibrium.md)
 
 ## Examples

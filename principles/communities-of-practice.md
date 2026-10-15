@@ -1,7 +1,7 @@
 ---
 type: principle
 id: communities-of-practice
-aliases: [engage-teachers-literacy-events-learner-to-learner, situated-account-plc-design]
+aliases: [engage-teachers-literacy-events-learner-to-learner, situated-account-plc-design, invest-in-plcs-for-teacher-metacognition]
 title: Communities of Practice
 description: "For adults and professionals entering a shared practice, sustained and structured participation with more experienced members, under norms of trust and critical inquiry, is proposed to change their practice and understanding over a term or more, though the wiki holds only descriptive, qualitative and argued evidence for it."
 canonical: true
@@ -22,12 +22,20 @@ sources:
     resource: "https://journals.sfu.ca/cje/index.php/cje"
     title: "Riveros, A., Newton, P., & Burgess, D. (2012). A Situated Account of Teacher Agency and Learning: Critical Reflections on Professional Learning Communities. Canadian Journal of Education, 35(1). https://journals.sfu.ca/cje/index.php/cje"
     author: "Riveros, A., Newton, P., & Burgess, D"
+  - id: harvey-2022
+    resource: "https://eric.ed.gov/?id=EJ1361397"
+    title: "Harvey, F., & Teledahl, A. (2022). Characteristics of Professional Learning Communities in Mathematics: A Systematic Review. Mathematics Teacher Education and Development, 24(1), 72–95. https://eric.ed.gov/?id=EJ1361397"
+    author: "Harvey, F., & Teledahl, A"
+  - id: prytula-2012
+    resource: "https://doi.org/10.5539/ies.v5n4p112"
+    title: "Prytula, M. P. (2012). Teacher Metacognition within the Professional Learning Community. International Education Studies. https://doi.org/10.5539/ies.v5n4p112"
+    author: Prytula, M. P
 ---
 
 # Communities of Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 29 claims (21 for, 7 mixed, 1 against) · 28 studies (6 causal, 6 qualitative, 5 review, 3 quant-synthesis, 3 associational, 3 theoretical, 2 design), `q1`–`q4` · 2 of 28 report an effect size · 26 claims rest on one study
+> **Evidence** · 32 claims (24 for, 7 mixed, 1 against) · 28 studies (6 causal, 6 qualitative, 5 review, 3 quant-synthesis, 3 associational, 3 theoretical, 2 design), `q1`–`q4` · 2 of 28 report an effect size · 29 claims rest on one study
 
 ## Conditional relationship
 
@@ -113,6 +121,9 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Participation in STEM PLCs positively impacts teachers' understanding of or preparedness to teach content and attitudes toward teaching methods](../claims/stem-plc-teacher-knowledge-attitude-gains.md) [+W] — attached 2026-10-10 from Fulton et al. (2010), which proposed "Design elements for STEM PLCs: time and pacing, subject composition, protocols, and facilitation with administrator support and trust"; tests this page's relationship.
 - [Plc Literature Trivializes Teacher Practice](../claims/plc-literature-trivializes-teacher-practice.md) [+W]
 - [Teacher Resistance Agency Challenges Plc](../claims/teacher-resistance-agency-challenges-plc.md) [+W]
+- [Plc Mathematics Three Objects Repertoire Most Common](../claims/plc-mathematics-three-objects-repertoire-most-common.md) [+M]
+- [Plc Nurtures Teacher Metacognition](../claims/plc-nurtures-teacher-metacognition.md) [+M]
+- [Teacher metacognition in PLCs appears at both a lower level (reflecting on what one does) and a higher level (reflecting on how one reflects)](../claims/plc-metacognition-lower-and-higher-levels.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -137,7 +148,7 @@ Changed participation norms, changed understanding, changed practice and a membe
 - [Peer Discussion](peer-discussion.md) — discussion is one mechanism communities use, but not the whole structure
 - [Authentic Audiences & Purposes](authentic-audiences-purposes.md) — communities provide real audiences, norms, and feedback loops for learner work
 - [Find each teacher's strengths and entry point before asking for instructional change](strengths-based-approach.md)
-- [Advocate for teachers' voices, purposeful change, and continued professional development](coach-advocates-for-teachers-purposeful-change.md)
+- [Advocate for teachers' voices, purposeful change, and continued professional development](../patterns/professional-development.md)
 - [Respond to student writing as an interested reader rather than only as an evaluator](process-based-writing.md)
 
 ## Examples
@@ -159,6 +170,8 @@ Changed participation norms, changed understanding, changed practice and a membe
 - Office of Educational Technology. (2014). *Designing online communities of practice for educators to create value*. U.S. Department of Education.
 - Dozier, C. L. (2008). Literacy coaching: Engaging and learning with teachers. The Language and Literacy Spectrum, 18. https://eric.ed.gov/?id=EJ1059644
 - Riveros, A., Newton, P., & Burgess, D. (2012). A Situated Account of Teacher Agency and Learning: Critical Reflections on Professional Learning Communities. Canadian Journal of Education, 35(1). https://journals.sfu.ca/cje/index.php/cje
+- Harvey, F., & Teledahl, A. (2022). Characteristics of Professional Learning Communities in Mathematics: A Systematic Review. Mathematics Teacher Education and Development, 24(1), 72–95. https://eric.ed.gov/?id=EJ1361397
+- Prytula, M. P. (2012). Teacher Metacognition within the Professional Learning Community. International Education Studies. https://doi.org/10.5539/ies.v5n4p112
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -250,7 +263,7 @@ The author argues that coaching relationships begin when coaches join teachers a
 ## Related Principles
 
 - [Find each teacher's strengths and entry point before asking for instructional change](strengths-based-approach.md)
-- [Advocate for teachers' voices, purposeful change, and continued professional development](coach-advocates-for-teachers-purposeful-change.md)
+- [Advocate for teachers' voices, purposeful change, and continued professional development](../patterns/professional-development.md)
 - [Respond to student writing as an interested reader rather than only as an evaluator](process-based-writing.md)
 
 ## Examples
@@ -300,4 +313,85 @@ The paper proposes a practice-based focus for PLCs: "professional learning in sc
 
 ## Key Sources
 - Riveros, A., Newton, P., & Burgess, D. (2012). A Situated Account of Teacher Agency and Learning: Critical Reflections on Professional Learning Communities. Canadian Journal of Education, 35(1). https://journals.sfu.ca/cje/index.php/cje
+-->
+
+<!-- merged 2026-10-15 from patterns/plc-mediating-artifacts-vary-by-object ("Mediating artifacts in mathematics PLC are selected according to the PLC's object"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Mediating artifacts in mathematics PLC are selected according to the PLC's object
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+Across the reviewed studies, PLC used infrastructural frameworks (most commonly lesson studies and video clubs) plus operative-level artifacts such as video clips, classroom data, and mathematical problems. The review found "the artifacts used were selected depending on the object": artifacts for collaboration norms create safety, trust and participation; artifacts for understanding highlight mathematical concepts and strategies; artifacts for repertoire highlight aspects of mathematics teaching such as lesson plans, observations and student data. The same artifact type, e.g. video clips, can serve different objects depending on its content.
+
+## Design Implications
+
+### Context
+#### Requirements
+- A teacher leader who prepares and presents structured questions and acts as a role model for desired norms supports artifact use for collaboration norms
+#### Constraints
+- Use of video clips from participating teachers' own classrooms can be a delicate practice since teachers may feel uncomfortable accepting and delivering critical reflections from and to their peers
+
+### Target Learners
+- in-service mathematics teachers in PLC groups of three to five or across schools
+
+### Target Goals
+- collaboration norms, mathematical understanding, and teaching repertoire development
+
+### Claims
+- [Plc Mathematics Three Objects Repertoire Most Common](../claims/plc-mathematics-three-objects-repertoire-most-common.md) [+M]
+
+## Related Patterns
+- 
+
+## Examples
+-
+
+## Key Sources
+- Harvey, F., & Teledahl, A. (2022). Characteristics of Professional Learning Communities in Mathematics: A Systematic Review. Mathematics Teacher Education and Development, 24(1), 72–95. https://eric.ed.gov/?id=EJ1361397
+-->
+
+<!-- merged 2026-10-15 from principles/invest-in-plcs-for-teacher-metacognition ("Invest in successful PLCs and apply teacher-metacognition findings to pre-service and in-service teacher education"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Invest in successful PLCs and apply teacher-metacognition findings to pre-service and in-service teacher education
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 4 claims (4 for) · 2 studies (1 review, 1 qualitative), `q2` · 0 of 2 report an effect size · 4 claims rest on one study
+
+## Description
+The article concludes that because the opportunity to learn how to be metacognitive is influenced by learning environments, the PLC may encourage the development of higher order thinking and metacognition as well as professional development. It argues that policy-makers and educational leaders should "invest the time and dollars necessary to make successful PLCs an experience for all teachers", and that findings on teacher metacognition should be applied to teacher education with increased emphasis on thinking over memorization.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Policy-maker and educational-leader investment of time and dollars to make successful PLCs available to all teachers.
+#### Constraints
+- The article frames this as an implication of a three-participant exploratory study and calls for further research into whether formal metacognitive theories can be pulled from such work.
+
+### Target Learners
+- practicing classroom teachers
+- pre-service and in-service teachers
+
+### Target Learning Objectives
+- teacher metacognition
+- higher order thinking
+- breaking the theory-practice divide
+
+### Claims
+
+- [Plc Nurtures Teacher Metacognition](../claims/plc-nurtures-teacher-metacognition.md) [+M]
+- [Teacher metacognition in PLCs appears at both a lower level (reflecting on what one does) and a higher level (reflecting on how one reflects)](../claims/plc-metacognition-lower-and-higher-levels.md) [+W]
+- [A small set of mathematics-only studies gives existence proof that teacher participation in a mathematics PLC can enhance student learning, but evidence is insufficient to link formal assessment results to PLC participation](../claims/stem-plc-math-student-learning-existence-proof.md) [+W]
+- [STEM PLC participation increases teachers' deliberation about students' mathematics or science thinking and shifts instruction toward attention to student reasoning and diverse problem-solving modes](../claims/stem-plc-instructional-practice-shifts.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Prytula, M. P. (2012). Teacher Metacognition within the Professional Learning Community. International Education Studies. https://doi.org/10.5539/ies.v5n4p112
 -->

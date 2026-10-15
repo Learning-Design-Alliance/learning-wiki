@@ -87,7 +87,7 @@ A shared metalanguage converts tacit design intuitions into discussable, revisab
 
 ## Patterns That Use This Strategy
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — shared vocabulary supports the articulation and reflection phases
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — metalanguage raises the quality and specificity of analytic talk
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — metalanguage raises the quality and specificity of analytic talk
 
 ## Examples
 - **MODE multimodal glossary** (2012, UCL Institute of Education) — a research-derived glossary of multimodal terms that classes can adapt: https://mode.ioe.ac.uk/whatismultimodality/

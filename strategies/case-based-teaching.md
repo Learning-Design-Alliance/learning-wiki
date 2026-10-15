@@ -64,7 +64,7 @@ Cases situate abstract principles in concrete, memorable contexts, which support
 - Jigsaw — a way to distribute case complexity across group members before synthesis
 
 ## Examples
-- **[Harvard Business School case method](https://www.hbs.edu/mba/academic-experience/Pages/the-hbs-case-method.aspx)** — every MBA course is built on ~500 prepared cases discussed via cold-calling; the canonical discussion-led implementation ([Case-Based Learning: Harvard Method](../patterns/case-based-learning-harvard-method.md)).
+- **[Harvard Business School case method](https://www.hbs.edu/mba/academic-experience/Pages/the-hbs-case-method.aspx)** — every MBA course is built on ~500 prepared cases discussed via cold-calling; the canonical discussion-led implementation ([Case-Based Learning: Harvard Method](../patterns/case-based-learning.md)).
 - **[National Center for Case Study Teaching in Science](https://www.nccsts.org)** — University at Buffalo repository of peer-reviewed science cases with teaching notes, used across undergraduate STEM.
 - **Problem-based medical curricula** — patient cases drive tutorial learning in programs modeled on McMaster and Maastricht ([Anchored Instruction](../patterns/anchored-instruction.md) shares the case-as-context structure).
 

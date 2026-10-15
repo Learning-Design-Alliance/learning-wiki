@@ -63,9 +63,8 @@ Experimentation supports learning by making learners active generators and teste
 - [Analogies](analogies.md) — comparing multiple experimental outcomes supports abstraction of the underlying principle
 
 ## Patterns That Use This Element
-- [5E Learning Cycle](../patterns/5e-learning-cycle.md) — the "Explore" and "Explain" phases center on structured experimentation before formal explanation
+- [5E Learning Cycle](../principles/inquiry-based-learning.md) — the "Explore" and "Explain" phases center on structured experimentation before formal explanation
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — the exploration phase, where learners test strategies in the target domain
-- [Collaborative Inquiry](../patterns/collaborative-inquiry.md) — groups jointly pose and test questions, distributing the reasoning load
 
 ## Examples
 

@@ -79,7 +79,7 @@ Students form simulated consulting organizations (e.g., HR-service companies) th
 
 ## Related Patterns
 - [Problem-Based Learning (PBL)](../patterns/problem-based-learning.md) — shares an authentic-problem, facilitated-inquiry structure, but this pattern adds a competitive external evaluator and an explicit organizational role structure
-- [Interdisciplinary Course-Based Research Experience](../patterns/interdisciplinary-course-based-research-experience.md) — a parallel higher-education pattern using a different shared object (a research paper) toward the same integrative goal
+- [Interdisciplinary Course-Based Research Experience](../principles/inquiry-based-learning.md) — a parallel higher-education pattern using a different shared object (a research paper) toward the same integrative goal
 
 ## Examples
 - Four course iterations at a Finnish university, 175 students total (84 in the analyzed sample), 12 teams; diary analysis (1,083 coded units) identified six recurring collective knowledge practices, and video analysis of two teams showed material tools (flip charts) mediating shifts from unfocused talk to structured, client-centered problem framing.

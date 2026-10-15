@@ -99,7 +99,7 @@ Part 1 should weaken if well-selected learner highlighting fails to improve perf
 - [Note-taking](note-taking.md) — annotation is note-taking anchored directly to a source text
 - [Evaluating Sources](evaluating-sources.md) — annotation can focus attention on evidence, credibility, and bias
 - [Inquiry-based Learning](inquiry-based-learning.md) — annotations help learners generate and refine questions from reading
-- [Purposeful Reflection](purposeful-reflection.md) — reviewing one's own annotations supports metacognitive reflection after reading
+- [Purposeful Reflection](reflection.md) — reviewing one's own annotations supports metacognitive reflection after reading
 
 ## Examples
 <!-- Links to elements or patterns that apply this principle -->

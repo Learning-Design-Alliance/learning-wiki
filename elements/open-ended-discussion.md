@@ -65,7 +65,7 @@ Open-ended discussion supports learning by requiring learners to articulate, def
 - [Case Studies](case-studies.md) — a common content anchor that gives discussion a shared object to interpret
 
 ## Patterns That Use This Element
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — discussion as the primary vehicle for content
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — discussion as the primary vehicle for content
 - [Socratic Seminar](../patterns/socratic-seminar.md) — text-anchored dialogue with questioning protocols
 - [Structured Academic Controversy](../patterns/structured-academic-controversy.md) — assigned positions followed by perspective switch, adding structure that mitigates status effects
 - [Debate](../patterns/debate.md) — the competitive, position-defending variant

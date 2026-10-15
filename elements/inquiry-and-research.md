@@ -47,7 +47,7 @@ Inquiry supports deep conceptual understanding and transfer when learners have e
 
 ### Affordances
 - [Inquiry-Based Learning](../principles/inquiry-based-learning.md) — inquiry and research is the operational core of this principle: the question drives the learning rather than the transmission of content
-- [Constructivism](../principles/constructivism.md) — learners actively construct explanations from evidence rather than receiving them, enacting the constructivist account of knowledge building
+- [Constructivism](../principles/cognitive-activation.md) — learners actively construct explanations from evidence rather than receiving them, enacting the constructivist account of knowledge building
 - [Active Learning](../principles/active-learning.md) — investigation requires learners to generate, evaluate, and revise ideas rather than passively receive them
 - [Cognitive Apprenticeship](../principles/scaffolding-and-fading.md) — research processes can be made visible through expert modeling of how investigators formulate and refine questions
 
@@ -65,13 +65,13 @@ Inquiry supports deep conceptual understanding and transfer when learners have e
 
 ## Patterns That Use This Element
 - [Problem-Based Learning](../patterns/problem-based-learning.md) — learners research a problem space to construct the knowledge needed for a solution
-- [Collaborative Inquiry](../patterns/collaborative-inquiry.md) — groups jointly pose questions, divide evidence gathering, and negotiate explanations
+- [Collaborative Inquiry](../principles/inquiry-based-learning.md) — groups jointly pose questions, divide evidence gathering, and negotiate explanations
 
 ## Examples
 
 **[Problem-Based Learning](../patterns/problem-based-learning.md)** — Learners receive an authentic problem (e.g., a patient case in medical education) and must research to identify what they need to know; the research process is the curriculum.
 
-**[Case-Based Learning: Harvard Method](../patterns/case-based-learning-harvard-method.md)** — Students investigate a written case, gathering and weighing evidence before defending an analysis in class discussion.
+**[Case-Based Learning: Harvard Method](../patterns/case-based-learning.md)** — Students investigate a written case, gathering and weighing evidence before defending an analysis in class discussion.
 
 **[WebQuests](https://webquest.org)** — Structured online inquiry tasks that curate sources and provide role-based question templates, exemplifying guided inquiry for novices.
 

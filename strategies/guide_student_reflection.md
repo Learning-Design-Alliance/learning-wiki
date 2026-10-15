@@ -64,7 +64,7 @@ Reflection supports learning only when it is specific and process-focused. Gener
 - [Build in stop-and-reflect moments asking students what thinking they are doing versus what thinking the AI is doing](stop-and-reflect-moments-ai-thinking.md)
 
 ## Examples
-- **Problem-solving debriefs in mathematics:** after a CGI-style problem session, the teacher asks students to explain how they monitored their own solution path and what they would change — the reflection phase of [Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md).
+- **Problem-solving debriefs in mathematics:** after a CGI-style problem session, the teacher asks students to explain how they monitored their own solution path and what they would change — the reflection phase of [Cognitively Guided Instruction](../principles/responsive-teaching.md).
 - **Learning journals in project-based courses:** students keep a weekly log answering "What did I try? What worked? What will I do differently?" which the instructor responds to briefly.
 - **Portfolio reflection in writing workshops:** students attach a reflective memo to each draft explaining their revision decisions, making their editing strategies visible for assessment.
 

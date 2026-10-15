@@ -55,7 +55,7 @@ Open questions push learners beyond retrieval into elaboration, explanation, and
 2. Pose the question, then wait at least 3–5 seconds; resist filling silence.
 3. Collect responses via pair-share or quick writing so every learner drafts an answer before public discussion.
 4. Probe with follow-ups that demand evidence, comparison, or implication rather than evaluating the first answer as right or wrong.
-5. Close by making the reasoning public — have learners compare positions or summarize the class's emerging answer, connecting to [Discussion-Based Learning](../patterns/discussion-based-learning.md).
+5. Close by making the reasoning public — have learners compare positions or summarize the class's emerging answer, connecting to [Discussion-Based Learning](../principles/collaborative-learning.md).
 
 ## Related Strategies
 

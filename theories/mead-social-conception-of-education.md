@@ -48,7 +48,7 @@ The course description of Mead's Course 50, quoted in the article, frames two in
 
 ## Examples
 
-- [Create social situations in which meaning arises through the learner's own response](../principles/create-social-situations-for-meaning.md)
+- [Create social situations in which meaning arises through the learner's own response](../principles/collaborative-learning.md)
 - [Organize education around the child's response to material rather than the material provided by elders](../principles/active-learning.md)
 
 ## Key Sources

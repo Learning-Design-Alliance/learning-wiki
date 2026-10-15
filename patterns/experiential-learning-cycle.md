@@ -1,6 +1,7 @@
 ---
 type: pattern
 id: experiential-learning-cycle
+aliases: [open-ended-scenario-three-phase-structure, pre-visit-onsite-post-visit-field-trip-arc]
 title: Experiential Learning Cycle
 description: "A reusable sequence of bounded experience, prompted debrief, a stated and checked principle and a changed attempt with feedback, repeated across sessions with support fading, is expected to improve performance and near transfer where learners can interpret the experience; no claim tests the cycle as a whole, only its steps."
 canonical: true
@@ -22,6 +23,14 @@ sources:
   - id: miettinen-2000
     title: "Miettinen, R. (2000). The concept of experiential learning and John Dewey's theory of reflective thought and action. *International Journal of Lifelong Education, 19*(1), 54–72"
     author: "Miettinen, R"
+  - id: calderon-1982
+    resource: "https://eric.ed.gov/?id=ED226607"
+    title: "Calderon, Margarita; And Others. (1982). Methods and Techniques for Communicative Competence in Bilingual Education, Packet II. Language Proficiency Acquisition, Assessment, and Communicative Behavior, Series B. Student Edition. Bilingual Education Teacher Training Packets. https://eric.ed.gov/?id=ED226607"
+    author: Calderon, Margarita; And Others
+  - id: bland-1995
+    resource: "https://eric.ed.gov/?id=ED401095"
+    title: "Bland, Samuel S. (1995). Sea Turtle Trek, Hammocks Beach State Park: An Environmental Education Learning Experience Designed for Grades 6-8. https://eric.ed.gov/?id=ED401095"
+    author: Bland, Samuel S
 author: "Kolb (1984)"
 grain_size: unit, course
 ---
@@ -29,7 +38,7 @@ grain_size: unit, course
 # Experiential Learning Cycle
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 18 claims (8 for, 7 mixed, 3 against) · 37 studies (15 quant-synthesis, 11 causal, 6 review, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 11 of 37 report an effect size · 8 claims rest on one study
+> **Evidence** · 21 claims (11 for, 7 mixed, 3 against) · 40 studies (15 quant-synthesis, 11 causal, 6 review, 4 design, 2 qualitative, 2 theoretical), `q1`–`q4` · 11 of 40 report an effect size · 11 claims rest on one study
 
 ## Description and scope
 
@@ -130,6 +139,9 @@ Claims this page cited before the 2026-10-05 rewrite and not used as core eviden
 - [Advance organizers aided learning in a 1980 meta-analysis, but activating prior topic knowledge did not improve primary pupils' text comprehension in one experiment](../claims/activation-improves-learning.md) [~M]: cited before as `[+M]` support for re-entering each loop with the previous rule; the claim has since been retitled to what its studies show, and it qualifies the preparation step rather than supporting it, so its marker here is `~`. Used in step 1 above.
 - [Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice](../claims/concept-mapping-improves-learning.md) [~M]: cited before as `[+M]` for the conceptualization artifact; the claim page records that mapping did no better than rereading with time matched. Used in step 4 above, with that qualification.
 - [Contingent scaffolding improves learning more than fixed or absent support](../claims/contingent-scaffolding-improves-learning.md) [+M]: added here as the nearest basis for the fading thresholds in step 6; not cited by the earlier page and not read against this sequence.
+- [A 1982 bilingual-education teacher-training packet asserts, citing Krashen, that repetitive drill and grammar-focused instruction are ineffective for second language acquisition](../claims/drill-and-grammar-focus-ineffective-for-l2-acquisition.md) [+W]
+- [The packet's authors assert that pre-, on-site, and post-visit activities build on students' newly gained knowledge when performed in series](../claims/field-trip-activity-series-builds-knowledge.md) [+W]
+- [The learning cycle is reported as an effective means for learning science concepts and processes](../claims/learning-cycle-effective-science-learning.md) [+W]
 
 ## Illustrative design instance and observation record
 
@@ -139,7 +151,7 @@ Record: **principle the loop targets → starting probe and response → experie
 
 ## Elements and limits
 
-[Simulation](../elements/simulation.md), [debriefing](../elements/debrief.md), [reflection](../elements/reflection.md), [articulation](../elements/articulation.md), [concept map](../elements/concept-map.md), [demonstration](../elements/demonstration.md), [coaching](../elements/coaching.md), [practice](../elements/practice.md), [feedback](../elements/feedback.md) and [scaffolding](../elements/scaffolding.md). Principles the pattern draws on: [Experiential Learning](../principles/experiential-learning.md), [Reflection](../principles/reflection.md), [Purposeful Reflection](../principles/purposeful-reflection.md), [Cognitive Disequilibrium](../principles/cognitive-disequilibrium.md), [Active Learning](../principles/active-learning.md), [Activation](../principles/activation.md), [Assessment for Learning](../principles/assessment-for-learning.md) and [Authentic Audiences and Purposes](../principles/authentic-audiences-purposes.md).
+[Simulation](../elements/simulation.md), [debriefing](../elements/debrief.md), [reflection](../elements/reflection.md), [articulation](../elements/articulation.md), [concept map](../elements/concept-map.md), [demonstration](../elements/demonstration.md), [coaching](../elements/coaching.md), [practice](../elements/practice.md), [feedback](../elements/feedback.md) and [scaffolding](../elements/scaffolding.md). Principles the pattern draws on: [Experiential Learning](../principles/experiential-learning.md), [Reflection](../principles/reflection.md), [Purposeful Reflection](../principles/reflection.md), [Cognitive Disequilibrium](../principles/cognitive-disequilibrium.md), [Active Learning](../principles/active-learning.md), [Activation](../principles/activation.md), [Assessment for Learning](../principles/assessment-for-learning.md) and [Authentic Audiences and Purposes](../principles/authentic-audiences-purposes.md).
 
 This pattern is scoped to repeated loops of experience, prompted debrief, stated principle and changed attempt, for a capability that can be shown on a new task. Well-defined procedures that need no discovery are usually faster taught by [direct instruction](direct-instruction.md) with practice; and the four stages are not established as a fixed order (Bergsteiner et al., 2010; Miettinen, 2000), so a design may begin from a principle and test it in experience. Whether repeated loops produce better performance or transfer than matched-time instruction with the same practice, for which learners, at what time cost and at what horizon, remains to be tested.
 
@@ -147,9 +159,8 @@ This pattern is scoped to repeated loops of experience, prompted debrief, stated
 - [Cognitive Apprenticeship](cognitive-apprenticeship.md) — shares the reflection and articulation stages, but leads with expert modeling rather than learner experience
 - [Problem-Based Learning](problem-based-learning.md) — an ill-structured problem plays the role of the concrete experience, with the same reliance on structured debrief to convert it into knowledge
 - [Inquiry-Based Learning](../principles/inquiry-based-learning.md) — organizes the same experience → explanation movement around investigation and evidence
-- [Guided Discovery Learning](guided-discovery-learning.md) — addresses the cycle's novice constraint by adding guidance to the experience stage
 - [Four-Component Instructional Design](4cid-four-component-instructional-design.md) — supplies formal rules for sequencing whole-task experiences and fading support across loops
-- [5E Learning Cycle](5e-learning-cycle.md) — a school-science cycle that builds an elicit, conflict and explain sequence into its engage and explain phases
+- [Five-unit arc building classroom skills toward a community field trip and public sharing](../designs/five-unit-field-trip-arc-riparian.md)
 
 ## Examples
 
@@ -163,12 +174,18 @@ This pattern is scoped to repeated loops of experience, prompted debrief, stated
 - [Close the feedback cycle with guided reflection on what was learned (post-noticing stage)](../strategies/post-noticing-reflection-guides.md)
 - [Provide opportunities for independent practice with repeated cycles of use and structured reflection to strengthen regulatory skills over time](../strategies/independent-practice-cycles-for-ai-regulation.md)
 - [Use structured reflection tables, learning journals, prompt variation, adversarial queries, and peer debate to cultivate AI intuition](../strategies/reflection-tables-journals-debates-cultivate-ai-intuition.md)
+- [Cooperative adaptation-card sorting to compare two turtle species](../strategies/cooperative-adaptation-card-sorting.md)
+- [Dichotomous key practice with sea turtle picture cards](../strategies/dichotomous-key-turtle-picture-cards.md)
+- [Predator/prey simulation game on the beach for hatchling survival](../strategies/predator-prey-hatchling-crawl-game.md)
+- [Analyzing real park nesting data to teach resource management](../strategies/real-nesting-data-analysis-activity.md)
 
 ## Key Sources
 - Kolb, D. A. (1984). *Experiential learning: Experience as the source of learning and development*. Prentice-Hall.
 - Kolb, A. Y., & Kolb, D. A. (2005). Learning styles and learning spaces: Enhancing experiential learning in higher education. *Academy of Management Learning & Education, 4*(2), 193–212. [doi:10.5465/amle.2005.17268566](https://doi.org/10.5465/amle.2005.17268566)
 - Bergsteiner, H., Avery, G. C., & Neumann, R. (2010). Kolb's experiential learning model: Critique from a modelling perspective. *Studies in Continuing Education, 32*(1), 29–46. [doi:10.1080/01580370903534355](https://doi.org/10.1080/01580370903534355)
 - Miettinen, R. (2000). The concept of experiential learning and John Dewey's theory of reflective thought and action. *International Journal of Lifelong Education, 19*(1), 54–72. [doi:10.1080/026013700293458](https://doi.org/10.1080/026013700293458)
+- Calderon, Margarita; And Others. (1982). Methods and Techniques for Communicative Competence in Bilingual Education, Packet II. Language Proficiency Acquisition, Assessment, and Communicative Behavior, Series B. Student Edition. Bilingual Education Teacher Training Packets. https://eric.ed.gov/?id=ED226607
+- Bland, Samuel S. (1995). Sea Turtle Trek, Hammocks Beach State Park: An Environmental Education Learning Experience Designed for Grades 6-8. https://eric.ed.gov/?id=ED401095
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -240,7 +257,7 @@ Unit or course. A single loop can fit inside one lesson (a lab followed by a str
 6. **Re-enter** — The result of experimentation becomes the next loop's concrete experience; scaffolding fades across successive loops ([Scaffolding](../elements/scaffolding.md))
 
 ### Affordances
-- [Purposeful Reflection](../principles/purposeful-reflection.md) — the pattern's core contribution is making reflection a scheduled stage with its own prompts and artifacts, rather than a hoped-for by-product of doing
+- [Purposeful Reflection](../principles/reflection.md) — the pattern's core contribution is making reflection a scheduled stage with its own prompts and artifacts, rather than a hoped-for by-product of doing
 - [Experiential Learning](../principles/experiential-learning.md) — supplies the concrete sequence that turns "learn by doing" from a slogan into a design with a defined route from event to transferable principle
 - [Active Learning](../principles/active-learning.md) — every stage but the first requires learners to produce something: an observation, an abstraction, a test
 - [Activation](../principles/activation.md) — each loop deliberately re-enters with the previous loop's conclusion as prior knowledge
@@ -263,7 +280,7 @@ Unit or course. A single loop can fit inside one lesson (a lab followed by a str
 - [Cognitive Apprenticeship](cognitive-apprenticeship.md) — shares the reflection and articulation stages, but leads with expert modeling rather than learner experience
 - [Problem-Based Learning](problem-based-learning.md) — an ill-structured problem plays the role of the concrete experience, with the same reliance on structured debrief to convert it into knowledge
 - [Inquiry-Based Learning](../principles/inquiry-based-learning.md) — organizes the same experience → explanation movement around investigation and evidence
-- [Guided Discovery Learning](guided-discovery-learning.md) — addresses the cycle's novice constraint by adding guidance to the experience stage
+- [Guided Discovery Learning](../principles/inquiry-based-learning.md) — addresses the cycle's novice constraint by adding guidance to the experience stage
 - [Four-Component Instructional Design](4cid-four-component-instructional-design.md) — supplies formal rules for sequencing whole-task experiences and fading support across loops
 
 ## Examples
@@ -282,4 +299,88 @@ Unit or course. A single loop can fit inside one lesson (a lab followed by a str
 - Kolb, A. Y., & Kolb, D. A. (2005). Learning styles and learning spaces: Enhancing experiential learning in higher education. *Academy of Management Learning & Education, 4*(2), 193–212. [doi:10.5465/amle.2005.17268566](https://doi.org/10.5465/amle.2005.17268566)
 - Bergsteiner, H., Avery, G. C., & Neumann, R. (2010). Kolb's experiential learning model: Critique from a modelling perspective. *Studies in Continuing Education, 32*(1), 29–46.
 - Miettinen, R. (2000). The concept of experiential learning and John Dewey's theory of reflective thought and action. *International Journal of Lifelong Education, 19*(1), 54–72.
+-->
+
+<!-- merged 2026-10-15 from patterns/open-ended-scenario-three-phase-structure ("Open-ended scenario: collaboratively planned, acted-out, and debriefed role play for language learners"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Open-ended scenario: collaboratively planned, acted-out, and debriefed role play for language learners
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+The open-ended scenario is a pedagogical device designed by DiPietro (1981) that "resembles a role play in that it grows from a set of circumstances" but differs in that "the dialogues are planned collaboratively by the second-langage learn- ers, then acted out", after which interactions and transactions are discussed with the language facilitator. It unfolds in three phases: off-stage (planning and discussion), on-stage (acting out the dialogue), and a debriefing stage in which interactions and transactions are discussed. The packet provides guidelines for constructing open-ended scenarios, a guide to discussion on scenario development, and workshop activities in which trainees build and evaluate scenarios.
+
+## Design Implications
+
+### Context
+#### Requirements
+- A language facilitator leads the debriefing stage; teachers need techniques to construct scenarios focused on intercultural problems
+#### Constraints
+- 
+
+### Target Learners
+- second language learners in bilingual or ESL classrooms
+
+### Target Goals
+- strategic and interactional competence in conversational language use
+
+### Claims
+
+- [A 1982 bilingual-education teacher-training packet asserts, citing Krashen, that repetitive drill and grammar-focused instruction are ineffective for second language acquisition](../claims/drill-and-grammar-focus-ineffective-for-l2-acquisition.md) [+W]
+
+## Related Patterns
+- 
+
+## Examples
+-
+
+## Key Sources
+- Calderon, Margarita; And Others. (1982). Methods and Techniques for Communicative Competence in Bilingual Education, Packet II. Language Proficiency Acquisition, Assessment, and Communicative Behavior, Series B. Student Edition. Bilingual Education Teacher Training Packets. https://eric.ed.gov/?id=ED226607
+-->
+
+<!-- merged 2026-10-15 from patterns/pre-visit-onsite-post-visit-field-trip-arc ("Pre-visit, on-site, post-visit field-trip activity arc"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Pre-visit, on-site, post-visit field-trip activity arc
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 2 claims (2 for) · 2 studies (2 design), `q1` · 0 of 2 report an effect size · 2 claims rest on one study
+
+## Description
+The Sea Turtle Trek packet structures a park field trip as three sequential activity phases: classroom preparation before the trip, hands-on activities conducted at the park, and classroom follow-up afterward. The guide states that "The packet includes three types of activities: 1) pre-visit activity 2) on-site activity 3) post-visit activity," with the on-site activities conducted at the park and the others in the classroom. The phases may be used together or separately.
+
+## Design Implications
+
+### Context
+#### Requirements
+- On-site activities require an actual park visit, including a ferry ride to Bear Island
+#### Constraints
+- Accessibility to some areas may be difficult for persons with special needs
+
+### Target Learners
+- Students in grades 6-8
+
+### Target Goals
+- Sea turtle life history and ecology
+- Resource management
+- Environmental stewardship
+
+### Claims
+
+- [The packet's authors assert that pre-, on-site, and post-visit activities build on students' newly gained knowledge when performed in series](../claims/field-trip-activity-series-builds-knowledge.md) [+W]
+- [The learning cycle is reported as an effective means for learning science concepts and processes](../claims/learning-cycle-effective-science-learning.md) [+W]
+
+## Related Patterns
+
+- [Five-unit arc building classroom skills toward a community field trip and public sharing](../designs/five-unit-field-trip-arc-riparian.md)
+
+## Examples
+
+- [Cooperative adaptation-card sorting to compare two turtle species](../strategies/cooperative-adaptation-card-sorting.md)
+- [Dichotomous key practice with sea turtle picture cards](../strategies/dichotomous-key-turtle-picture-cards.md)
+- [Predator/prey simulation game on the beach for hatchling survival](../strategies/predator-prey-hatchling-crawl-game.md)
+- [Analyzing real park nesting data to teach resource management](../strategies/real-nesting-data-analysis-activity.md)
+
+## Key Sources
+- Bland, Samuel S. (1995). Sea Turtle Trek, Hammocks Beach State Park: An Environmental Education Learning Experience Designed for Grades 6-8. https://eric.ed.gov/?id=ED401095
 -->

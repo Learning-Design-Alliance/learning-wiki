@@ -67,7 +67,7 @@ Decision-making tasks support learning because they require learners to actively
 
 ## Patterns That Use This Element
 - [Problem-Based Learning](../patterns/problem-based-learning.md) — learners must decide on diagnoses, interventions, or recommendations before comparing them to expert practice
-- [Case-Based Learning](../patterns/case-based-learning-harvard-method.md) — the Harvard method centers each session on a decision the case protagonist faced
+- [Case-Based Learning](../patterns/case-based-learning.md) — the Harvard method centers each session on a decision the case protagonist faced
 - [Debate](../patterns/debate.md) — assigned positions force evaluation of options from a constrained perspective before commitment
 
 ## Examples

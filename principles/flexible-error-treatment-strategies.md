@@ -1,6 +1,7 @@
 ---
 type: principle
 id: flexible-error-treatment-strategies
+aliases: [integrate-explicit-correction-with-meaningful-activities]
 title: Employ flexible error treatment strategies matched to objectives, competence, affect, and correction effectiveness
 description: "For a second-language learner, treating errors according to the activity's objective (accuracy or meaning), the learner's competence with the form, their affect and whether earlier corrections have taken hold is expected to improve accuracy at immediate and delayed tests better than one uniform correction policy; no claim in the wiki tests that matching, though corrective feedback as a whole has a durable effect and correction forms differ."
 canonical: true
@@ -13,12 +14,16 @@ sources:
     resource: "https://scholar.google.com/scholar?q=Error+analysis+and+the+EFL+classroom+teaching"
     title: "XIE Fang, JIANG Xue-mei. (2007). Error analysis and the EFL classroom teaching. US-China Education Review. https://scholar.google.com/scholar?q=Error+analysis+and+the+EFL+classroom+teaching"
     author: XIE Fang, JIANG Xue-mei
+  - id: ehsan-rassaei-2011
+    resource: "https://doi.org/10.5539/elt.v4n2p97"
+    title: "Ehsan Rassaei, Ahmad Moinzadeh. (2011). Investigating the Effects of Three Types of Corrective Feedback on the Acquisition of English Wh-question Forms by Iranian EFL Learners. English Language Teaching, 4(2). https://doi.org/10.5539/elt.v4n2p97"
+    author: Ehsan Rassaei, Ahmad Moinzadeh
 ---
 
 # Employ flexible error treatment strategies matched to objectives, competence, affect, and correction effectiveness
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 27 claims (8 for, 18 mixed, 1 against) · 19 studies (7 causal, 6 review, 2 quant-synthesis, 2 qualitative, 1 associational, 1 theoretical), `q1`–`q3` · 4 of 19 report an effect size · 23 claims rest on one study
+> **Evidence** · 28 claims (9 for, 18 mixed, 1 against) · 19 studies (7 causal, 6 review, 2 quant-synthesis, 2 qualitative, 1 associational, 1 theoretical), `q1`–`q3` · 4 of 19 report an effect size · 24 claims rest on one study
 
 ## Conditional relationship
 
@@ -28,7 +33,7 @@ The relationship it proposes is conditional. For a second-language learner produ
 
 What the wiki's evidence does establish is narrower. Corrective feedback on second-language errors, taken as a whole, improves development and the effect holds at delayed tests ([two meta-analyses](../claims/corrective-feedback-effect-on-l2-development-is-significant-and-durable.md) [+S]). The forms differ in ways a flexible policy could use: in classrooms prompts and explicit correction showed larger effects than recasts ([one meta-analysis and a review](../claims/recasts-supported-but-effectiveness-varies.md) [~M]); in one EFL quasi-experiment metalinguistic feedback beat recasts straight after treatment, but the difference was gone ten days later ([immediate, not delayed](../claims/metalinguistic-beats-recasts-immediate-not-delayed.md) [~M]); and the same meta-analyses report moderators (learner age, laboratory against classroom, treatment length) that the default design below uses as rows. Which errors to treat (those that block meaning first) and the risk that untreated errors become fixed come from one theoretical article and are untested proposals here.
 
-How the converted siblings sit beside this: [Immediate Feedback](immediate-feedback.md) owns **when** a correction arrives and treats timing as a local choice; this page uses that reading and adds the second-language reasons for delaying (fluency activities, a learner's face). [Error Analysis](error-analysis.md) owns **using an error as the object of study** (comparing an incorrect with a correct example); this page is about the teacher's or tool's response to a live error, and it treats the teacher's analysis of learner errors as a diagnostic step, not the treatment. [Feedback Loops](feedback-loops.md) holds the broader model of acting on a response and checking the next one. The unconverted neighbour [Integrate explicit error correction with meaningful activities](integrate-explicit-correction-with-meaningful-activities.md) states one of this page's rows (correct within meaning-focused tasks when both accuracy and fluency are goals) as a principle of its own.
+How the converted siblings sit beside this: [Immediate Feedback](immediate-feedback.md) owns **when** a correction arrives and treats timing as a local choice; this page uses that reading and adds the second-language reasons for delaying (fluency activities, a learner's face). [Error Analysis](error-analysis.md) owns **using an error as the object of study** (comparing an incorrect with a correct example); this page is about the teacher's or tool's response to a live error, and it treats the teacher's analysis of learner errors as a diagnostic step, not the treatment. [Feedback Loops](feedback-loops.md) holds the broader model of acting on a response and checking the next one. The unconverted neighbour [Integrate explicit error correction with meaningful activities](flexible-error-treatment-strategies.md) states one of this page's rows (correct within meaning-focused tasks when both accuracy and fluency are goals) as a principle of its own.
 
 ## Default design, while the relationship is untested
 
@@ -123,6 +128,7 @@ Claims bearing on the page that have not been read against the model above; each
 - [Child EFL learners receiving recasts in task-based lessons improve their production of third person singular -s from pretest to posttest, in a study with no no-recast comparison group](../claims/recasts-facilitate-child-efl-third-person-s-development.md) [+M] — used in the child row; pretest–posttest without a comparison group.
 - [All four written CF types, including metalinguistic code CF, outperformed the control group on the delayed posttest of implicit L2 knowledge.](../claims/cf-type-implicit-long-term-benefits.md) [~M] — the same experiment as the code-only rows, on a writing measure; consistent with them.
 - [Corrective feedback facilitates L2 grammatical development, with explicit feedback stronger immediately and implicit feedback better maintained over time](../claims/cf-facilitates-l2-grammar-explicit-implicit-durability.md) [~M] — a review's second-hand report of the same 33-study meta-analysis; adds nothing independent to the horizon row.
+- [CF treatment improved regular past tense performance on both GJT and EIT with large effects](../claims/cf-treatment-improves-regular-past-tense-gjt-eit.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -138,16 +144,19 @@ Accuracy on the treated form straight after correction, accuracy at a delay, acc
 
 ## Related Principles
 
-- [Integrate explicit error correction with meaningful activities when developing both accuracy and fluency](integrate-explicit-correction-with-meaningful-activities.md)
 - [Error Analysis](error-analysis.md) — learners compare an incorrect with a correct example; the error as the object of study rather than a correction.
 - [Immediate Feedback](immediate-feedback.md) — when a correction arrives; this page uses its reading that timing is a local choice.
 - [Feedback Loops](feedback-loops.md) — the broader model of acting on a response and checking the next one.
+- [Favor input processing and focus on form over focus on forms in adult L2 teaching](teacher-as-mediator-not-content-disseminator.md)
 
 ## Examples
 -
+- [Process Writing (Journals)](../strategies/process-writing-journals.md)
+- [Design explicit pragmatic instruction with practice opportunities, feedback addressing both form and meaning, and authentic input models](../strategies/explicit-pragmatic-instruction-authentic-models-strategy.md)
 
 ## Key Sources
 - XIE Fang, JIANG Xue-mei. (2007). Error analysis and the EFL classroom teaching. US-China Education Review. https://scholar.google.com/scholar?q=Error+analysis+and+the+EFL+classroom+teaching
+- Ehsan Rassaei, Ahmad Moinzadeh. (2011). Investigating the Effects of Three Types of Corrective Feedback on the Acquisition of English Wh-question Forms by Iranian EFL Learners. English Language Teaching, 4(2). https://doi.org/10.5539/elt.v4n2p97
 
 <!-- deprecated 2026-10-15: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -182,11 +191,57 @@ The article proposes that "teachers should employ different and flexible error t
 
 ## Related Principles
 
-- [Integrate explicit error correction with meaningful activities when developing both accuracy and fluency](integrate-explicit-correction-with-meaningful-activities.md)
+- [Integrate explicit error correction with meaningful activities when developing both accuracy and fluency](flexible-error-treatment-strategies.md)
 
 ## Examples
 -
 
 ## Key Sources
 - XIE Fang, JIANG Xue-mei. (2007). Error analysis and the EFL classroom teaching. US-China Education Review. https://scholar.google.com/scholar?q=Error+analysis+and+the+EFL+classroom+teaching
+-->
+
+<!-- merged 2026-10-15 from principles/integrate-explicit-correction-with-meaningful-activities ("Integrate explicit error correction with meaningful activities when developing both accuracy and fluency"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Integrate explicit error correction with meaningful activities when developing both accuracy and fluency
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 5 claims (4 for, 1 mixed) · 3 studies (2 causal, 1 quant-synthesis), `q2`–`q3` · 1 of 3 report an effect size · 4 claims rest on one study
+
+## Description
+The article concludes that L2 classrooms aiming at both accuracy and fluency should combine form-focused work, including explicit error correction, with meaning-focused activity. It states there is consensus that "form-focused activities including explicit error correction must be integrat ed with meaningful activities." In the study this took the form of corrective feedback delivered during a spot-the-difference task rather than in isolated grammar practice.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Classroom activities must retain a meaning-focused component during which feedback is delivered
+#### Constraints
+- 
+
+### Target Learners
+- university-age EFL learners in language institute classrooms
+
+### Target Learning Objectives
+- grammatical accuracy in producing English wh-question forms
+
+### Claims
+
+- [Metalinguistic Recasts Effective Immediate Wh Questions](../claims/metalinguistic-recasts-effective-immediate-wh-questions.md) [+M]
+- [Metalinguistic feedback outperforms recasts on the immediate post-test, but the two do not differ significantly on the delayed post-test](../claims/metalinguistic-beats-recasts-immediate-not-delayed.md) [+W]
+- [Metalinguistic feedback's gains on wh-question performance decline over a ten-day delay while recast gains hold, leaving the two no different](../claims/recasts-more-enduring-than-metalinguistic-feedback.md) [~W]
+- [Corrective feedback treatment and time interact significantly in shaping wh-question learning gains across the three testing periods](../claims/time-treatment-interaction-corrective-feedback.md) [+W]
+- [CF treatment improved regular past tense performance on both GJT and EIT with large effects](../claims/cf-treatment-improves-regular-past-tense-gjt-eit.md) [+W]
+
+## Related Principles
+
+- [Employ flexible error treatment strategies matched to objectives, competence, affect, and correction effectiveness](flexible-error-treatment-strategies.md)
+- [Favor input processing and focus on form over focus on forms in adult L2 teaching](teacher-as-mediator-not-content-disseminator.md)
+
+## Examples
+
+- [Process Writing (Journals)](../strategies/process-writing-journals.md)
+- [Design explicit pragmatic instruction with practice opportunities, feedback addressing both form and meaning, and authentic input models](../strategies/explicit-pragmatic-instruction-authentic-models-strategy.md)
+
+## Key Sources
+- Ehsan Rassaei, Ahmad Moinzadeh. (2011). Investigating the Effects of Three Types of Corrective Feedback on the Acquisition of English Wh-question Forms by Iranian EFL Learners. English Language Teaching, 4(2). https://doi.org/10.5539/elt.v4n2p97
 -->

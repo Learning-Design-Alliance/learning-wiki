@@ -52,7 +52,7 @@ Non-examples are intentionally chosen instances that do not meet the target conc
 - [Conceptual Questioning](conceptual-questioning.md)
 
 ## Patterns That Use This Element
-- [Guided Discovery Learning](../patterns/guided-discovery-learning.md)
+- [Guided Discovery Learning](../principles/inquiry-based-learning.md)
 - [Mastery Learning](../patterns/mastery-learning.md)
 
 ## Examples

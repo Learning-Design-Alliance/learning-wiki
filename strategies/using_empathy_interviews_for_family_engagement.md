@@ -36,7 +36,7 @@ Empathy interviews work because they position families as experts on their own e
 - Poorly framed questions ("Don't you agree that…?") elicit compliance rather than experience [~W]
 
 #### Implementation Variability
-- **Design-cycle mode:** interviews feed a redesign team (e.g., a [Collaborative Inquiry](../patterns/collaborative-inquiry.md) cycle) that prototypes responses
+- **Design-cycle mode:** interviews feed a redesign team (e.g., a [Collaborative Inquiry](../principles/inquiry-based-learning.md) cycle) that prototypes responses
 - **Relationship-first mode:** interviews are conducted purely to build relationships, with no decision attached — common at the start of a school year
 - **Student-inclusive mode:** parallel interviews with students triangulate family accounts
 - **Peer-interviewer mode:** trained family members interview their peers, increasing candor and reach

@@ -52,7 +52,7 @@ The article presents Ikeda's philosophy of value-creating education for global c
 
 ## Examples
 
-- [Nurture the ubuntu spirit in students because it aligns with global citizenship and embodies a humanistic ethos](../principles/nurture-ubuntu-spirit-students.md)
+- [Nurture the ubuntu spirit in students because it aligns with global citizenship and embodies a humanistic ethos](../principles/character-education.md)
 - [Advance value-creating-modeled curriculum projects in Africana communities to foster ubuntu, happiness, and contributive lifestyles](../strategies/value-creating-curriculum-africana-youth.md)
 
 ## Key Sources

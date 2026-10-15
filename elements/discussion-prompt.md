@@ -63,7 +63,7 @@ Discussion prompts convert passive content exposure into active knowledge constr
 - [Case Studies](case-studies.md) — rich scenarios that supply the shared context a prompt needs
 
 ## Patterns That Use This Element
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — the prompt is the primary structuring device for each session
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — the prompt is the primary structuring device for each session
 - [Community of Inquiry](../principles/community-of-inquiry.md) — prompts trigger the cognitive presence that sustains inquiry
 
 ## Examples

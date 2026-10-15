@@ -53,7 +53,7 @@ CBL works because it situates abstract concepts in the messy, contextualized con
 - Poorly facilitated discussion can entrench misconceptions if errors go unchallenged [-W]
 
 #### Implementation Variability
-- **Harvard method**: cold-call-driven whole-class case discussion typical of business and law schools — see [Case-Based Learning: Harvard Method](../patterns/case-based-learning-harvard-method.md)
+- **Harvard method**: cold-call-driven whole-class case discussion typical of business and law schools — see [Case-Based Learning: Harvard Method](../patterns/case-based-learning.md)
 - **Small-group CBL**: used extensively in medical education, often with a facilitator per group (Thistlethwaite et al., 2012)
 - **Trigger-short cases**: brief vignettes that launch discussion, blending CBL with problem-based formats
 - **Asynchronous online CBL**: cases posted with staged releases of information and structured discussion boards

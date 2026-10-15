@@ -50,7 +50,7 @@ Collaboration supports learning when it forces learners to articulate, defend, a
 ### Affordances
 - [Active Learning](../principles/active-learning.md) — collaboration enacts this principle by making every learner a producer of explanations and decisions rather than a recipient; the social setting supplies both the demand to articulate and immediate peer feedback
 - [Community of Inquiry](../principles/community-of-inquiry.md) — structured teams operationalize this principle's social presence dimension: sustained discourse among members with a shared purpose is the mechanism through which cognitive conflict and consensus-building occur
-- [Constructivism](../principles/constructivism.md) — knowledge is built through negotiation of meaning; disagreement between peers creates the [Cognitive Conflict](cognitive-conflict.md) that prompts reorganization of understanding
+- [Constructivism](../principles/cognitive-activation.md) — knowledge is built through negotiation of meaning; disagreement between peers creates the [Cognitive Conflict](cognitive-conflict.md) that prompts reorganization of understanding
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — dividing a complex task across members lets the group hold and process more than any individual could, provided the division of labor is well designed [~M]
 
 ### Claims
@@ -69,9 +69,9 @@ Collaboration supports learning when it forces learners to articulate, defend, a
 - [Collaborative Way teaming model (Fickett and Fickett)](../products/collaborative-way.md)
 
 ## Patterns That Use This Element
-- [Collaborative Inquiry](../patterns/collaborative-inquiry.md) — teams pose questions, investigate, and share findings
+- [Collaborative Inquiry](../principles/inquiry-based-learning.md) — teams pose questions, investigate, and share findings
 - [Collaborative Learning](../patterns/collaborative-learning.md) — the full pattern built around structured team tasks
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — collaborative discourse as the primary instructional vehicle
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — collaborative discourse as the primary instructional vehicle
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — the articulation and reflection phases are often enacted through peer collaboration
 
 ## Examples

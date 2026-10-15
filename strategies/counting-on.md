@@ -36,7 +36,7 @@ Counting On reduces working memory demand relative to counting all by shortening
 #### Implementation Variability
 - Count on from the larger addend ("counting on from the greater number") — more efficient, but requires learners to recognize commutativity
 - Count on the number line vs. with fingers vs. with rhythmic tapping — each shifts the representational load
-- Embedded in word problems, where learners choose the strategy themselves, as in [Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md)
+- Embedded in word problems, where learners choose the strategy themselves, as in [Cognitively Guided Instruction](../principles/responsive-teaching.md)
 
 ### Target Learners
 - Early elementary learners (typically ages 5–7) transitioning from counting all to more efficient strategies
@@ -63,7 +63,7 @@ Counting On reduces working memory demand relative to counting all by shortening
 - [Teach struggling students a counting-up strategy for calculation and missing-number word problems](counting-up-strategy-tutoring.md)
 
 ## Examples
-- **Cognitively Guided Instruction (CGI)** classrooms treat Counting On as one of several observed strategies children invent; teachers elicit and build on it rather than imposing it, following research by Carpenter and colleagues on children's mathematics ([CGI for Math](../patterns/cognitively-guided-instruction-cgi-for-math.md)).
+- **Cognitively Guided Instruction (CGI)** classrooms treat Counting On as one of several observed strategies children invent; teachers elicit and build on it rather than imposing it, following research by Carpenter and colleagues on children's mathematics ([CGI for Math](../principles/responsive-teaching.md)).
 - **Number Talks** (Parrish, 2010) — teachers record Counting On alongside other student strategies on the board, making strategy choice itself an object of discussion.
 - **First-grade addition units** in most core curricula (e.g., Investigations in Number, Data, and Space) sequence counting all → counting on → derived facts across the year.
 

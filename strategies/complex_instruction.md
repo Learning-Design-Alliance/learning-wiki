@@ -62,7 +62,7 @@ CI treats unequal participation as a status problem to be engineered away, not a
 
 - [Cooperative Learning](../patterns/cooperative-learning.md) — CI is a status-conscious refinement of cooperative learning; the group-rewards/accountability claim underpins both
 - [Collaborative Learning](../patterns/collaborative-learning.md) — the broader family CI belongs to
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — whole-class debriefs extend group reasoning
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — whole-class debriefs extend group reasoning
 - [Assign adult learners to heterogeneous cooperative learning groups mixing ability, ethnicity, gender, perspective, and language](heterogeneous-grouping-adult-cooperative-learning.md)
 
 ## Related Elements

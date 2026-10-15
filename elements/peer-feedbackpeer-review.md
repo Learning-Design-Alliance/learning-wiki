@@ -31,7 +31,7 @@ Peer feedback/peer review is the element in which learners evaluate one another'
 - Improve revision, evaluative judgment, and accountability.
 
 ### Affordances
-- [Peer Feedback/Peer Review](../principles/peer-feedback.md)
+- [Peer Feedback/Peer Review](../principles/peer-learning.md)
 - [Metacognition](../principles/self-regulated-learning.md)
 
 ### Claims

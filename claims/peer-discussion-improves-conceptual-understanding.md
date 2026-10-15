@@ -87,7 +87,7 @@ An open question is how much of the benefit comes from the discussion itself ver
 - [Collaborative learning improves outcomes.](collaborative-learning-improves-outcomes.md) — the broader group-learning finding this claim instantiates
 - [Active learning improves exam performance.](active-learning-improves-exam-performance.md) — peer discussion is one of the most widely used active-learning formats
 - [Cognitive disequilibrium motivates conceptual change.](cognitive-disequilibrium-motivates-conceptual-change.md) — the proposed mechanism linking disagreement to conceptual restructuring
-- [Discussion-based learning](../patterns/discussion-based-learning.md) — the pattern-level design that operationalizes this claim
+- [Discussion-based learning](../principles/collaborative-learning.md) — the pattern-level design that operationalizes this claim
 - [Accountable talk](../strategies/accountable_talk.md) — a discourse protocol for keeping peer talk reasoning-focused
 - [Active and collaborative approaches promote higher-order thinking and complex reasoning (review attribution)](active-collaborative-approaches-higher-order-thinking.md) — related
 - [Classroom quizzing delivered by clickers, computer software, or paper improves student performance on classroom exams in middle school and college courses](classroom-quizzing-improves-exam-performance-across-grades-and-content.md) — related

@@ -130,8 +130,8 @@ The expectation should weaken if primary studies, once recorded, show that the p
 A better judgment on the prompted task, calibrated confidence, a written counterargument, conceptual change and an unprompted habit in the setting the learner values are separate claims. The present evidence establishes none of them for this move directly, and sets no dose, no threshold and no number of sessions.
 
 ## Related Principles
-- [Purposeful Reflection](purposeful-reflection.md) — considering the opposite is a specific, high-leverage reflection prompt applied at the moment of judgment
-- [Explaining Their Thinking](self-explanation.md) — self-explanation and counter-consideration both force generative processing of one's own reasoning
+- [Purposeful Reflection](reflection.md) — considering the opposite is a specific, high-leverage reflection prompt applied at the moment of judgment
+- [Explaining Their Thinking](cognitive-activation.md) — self-explanation and counter-consideration both force generative processing of one's own reasoning
 - [Pairing Non-Examples With Examples](pairing-non-examples-with-examples.md) — non-examples externalize the "opposite" case, supporting discrimination between correct and incorrect applications
 - [Cognitive Disequilibrium](cognitive-disequilibrium.md) — deliberately engineered contradiction is the motivational engine this technique exploits
 
@@ -205,8 +205,8 @@ Because people naturally test hypotheses by seeking confirming evidence, simply 
 - [Cognitive disequilibrium motivates conceptual change.](../claims/cognitive-disequilibrium-motivates-conceptual-change.md) [+M] — encountering contradictions with one's current model drives knowledge restructuring
 
 ## Related Principles
-- [Purposeful Reflection](purposeful-reflection.md) — considering the opposite is a specific, high-leverage reflection prompt applied at the moment of judgment
-- [Explaining Their Thinking](self-explanation.md) — self-explanation and counter-consideration both force generative processing of one's own reasoning
+- [Purposeful Reflection](reflection.md) — considering the opposite is a specific, high-leverage reflection prompt applied at the moment of judgment
+- [Explaining Their Thinking](cognitive-activation.md) — self-explanation and counter-consideration both force generative processing of one's own reasoning
 - [Pairing Non-Examples With Examples](pairing-non-examples-with-examples.md) — non-examples externalize the "opposite" case, supporting discrimination between correct and incorrect applications
 - [Cognitive Disequilibrium](cognitive-disequilibrium.md) — deliberately engineered contradiction is the motivational engine this technique exploits
 

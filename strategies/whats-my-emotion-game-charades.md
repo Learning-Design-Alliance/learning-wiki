@@ -115,7 +115,7 @@ The game pairs two mechanisms known to support learning: enacting content improv
 
 ## Patterns That Use This Strategy
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — the teacher's modeled round makes expert cue-reading visible before learners perform
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — the post-guess justification and debrief structure
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — the post-guess justification and debrief structure
 - [Social Learning Theory](../theories/social-learning-theory.md) — peers acquire emotion recognition by observing demonstrations and their interpretations
 
 ## Examples

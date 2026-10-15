@@ -38,7 +38,7 @@ Effective questioning converts passive reception into generative processing: ans
 - **Instructor-generated**: Socratic sequences, hinge questions, anticipation guides before reading
 - **Learner-generated**: question generation and peer questioning, which shift learners into the questioner role and support self-regulated learning [+M]
 - **Embedded prompts**: written questions inserted into text or video that prompt [self-explanation](../elements/articulation.md) at key points
-- **Digital**: classroom response systems (e.g., [Peer Instruction](../patterns/flipped-classroom.md) with clickers) that make every learner answer simultaneously
+- **Digital**: classroom response systems (e.g., [Peer Instruction](../principles/flipped-learning.md) with clickers) that make every learner answer simultaneously
 
 ### Target Learners
 - Learners of all levels benefit from well-calibrated questioning, but the payoff is largest when questions require generative answers rather than recognition [Active learning improves exam performance relative to lecture alone.](../claims/active-learning-improves-exam-performance.md) [+S]

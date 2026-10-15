@@ -75,7 +75,7 @@ Inclusive curriculum works through relevance and belonging: when learners see th
 
 ## Patterns That Use This Strategy
 - [Case-Based Learning](../patterns/case-based-learning.md) — case selection determines whose contexts and problems are treated as canonical
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — discussion pedagogies depend on an inclusive climate where all students' contributions are legitimate
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — discussion pedagogies depend on an inclusive climate where all students' contributions are legitimate
 
 ## Examples
 - **Zinn Education Project** (https://www.zinnedproject.org) — published K-12 curriculum materials centering marginalized perspectives in history teaching, with downloadable lessons organized by theme and grade level.

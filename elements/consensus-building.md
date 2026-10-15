@@ -49,7 +49,7 @@ Consensus building supports learning because articulating and defending a positi
 
 ### Affordances
 - [Collaborative Learning](../principles/collaborative-learning.md) — consensus building is a maximally interdependent form of collaboration: the outcome is defined as a joint product, so individual success depends on genuine negotiation rather than parallel work
-- [Constructivism](../principles/constructivism.md) — learners actively reconstruct their understanding when confronted with peer perspectives that their current model cannot accommodate; the negotiation is the mechanism of conceptual change
+- [Constructivism](../principles/cognitive-activation.md) — learners actively reconstruct their understanding when confronted with peer perspectives that their current model cannot accommodate; the negotiation is the mechanism of conceptual change
 - [Cognitive Conflict](cognitive-conflict.md) — structured exposure to a peer's contradictory reasoning creates the disequilibrium that motivates re-examination of one's own position
 - [Argumentation](../elements/argumentation.md) — consensus building gives argumentation a purpose beyond winning: arguments must be good enough to be *incorporated*, which raises the standard of justification
 
@@ -64,9 +64,9 @@ Consensus building supports learning because articulating and defending a positi
 - [Case Studies](case-studies.md) — a common task vehicle: contested cases supply the multiple defensible positions consensus building requires
 
 ## Patterns That Use This Element
-- [Collaborative Inquiry](../patterns/collaborative-inquiry.md) — the consensus phase where the group converges on shared findings
+- [Collaborative Inquiry](../principles/inquiry-based-learning.md) — the consensus phase where the group converges on shared findings
 - [Debate](../patterns/debate.md) — many debate formats close with a consensus or synthesis round that converts adversarial positions into integrated conclusions
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — consensus building is the structured endpoint that distinguishes purposeful discussion from unstructured talk
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — consensus building is the structured endpoint that distinguishes purposeful discussion from unstructured talk
 
 ## Examples
 

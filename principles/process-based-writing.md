@@ -33,7 +33,7 @@ One claim tests the relationship directly, and it bounds it. A meta-analysis of 
 
 What no claim tests: how many drafts to require, the stance a teacher takes when responding (as an interested reader, without taking over the writer's purpose, with the writer negotiating the response), and process instruction for adults or in higher education (the strategy meta-analysis had no students above 10th grade; the process meta-analysis stopped at grade 12). Those recommendations, absorbed from three earlier pages on responding to student writing, are kept below as labelled proposals.
 
-How this sits beside converted pages: [Guided Practice](guided-practice.md) holds the practice phase after a model, and here it is the supported first use of a newly taught planning or revising strategy. [Immediate Feedback](immediate-feedback.md) holds feedback timing, and its rule (presence and content matter more than timing; leave a chance to use the correction) applies to draft feedback. [Self-Regulated Learning](self-regulated-learning.md) and [Goal Setting and Monitoring](goal-setting-monitoring.md) hold the general plan–monitor–adjust cycle that writing strategy instruction applies to composing. The [collaborative evaluation pattern](../patterns/collaborative-evaluation.md) holds judging work against criteria with others before revising one's own, and [structured peer review](../patterns/structured-peer-review.md) holds the peer-review routine; this page uses both for the response stage and does not repeat them. The [Writing Workshop pattern](../patterns/writing-workshop.md) is one reusable configuration of this principle.
+How this sits beside converted pages: [Guided Practice](guided-practice.md) holds the practice phase after a model, and here it is the supported first use of a newly taught planning or revising strategy. [Immediate Feedback](immediate-feedback.md) holds feedback timing, and its rule (presence and content matter more than timing; leave a chance to use the correction) applies to draft feedback. [Self-Regulated Learning](self-regulated-learning.md) and [Goal Setting and Monitoring](goal-setting-monitoring.md) hold the general plan–monitor–adjust cycle that writing strategy instruction applies to composing. The [collaborative evaluation pattern](../patterns/collaborative-evaluation.md) holds judging work against criteria with others before revising one's own, and [structured peer review](../patterns/structured-peer-review.md) holds the peer-review routine; this page uses both for the response stage and does not repeat them. The [Writing Workshop pattern](../patterns/workshop-model.md) is one reusable configuration of this principle.
 
 ## Default design
 
@@ -152,7 +152,7 @@ Better drafts with help, better final versions, better unaided writing on the ne
 
 ## Related Principles
 - [Journaling](journaling.md) — journaling can provide low-stakes writing practice and reflection that feeds larger writing tasks.
-- [Peer Feedback/Peer Review](peer-feedback.md) — revision is stronger when learners get and use feedback before final submission.
+- [Peer Feedback/Peer Review](peer-learning.md) — revision is stronger when learners get and use feedback before final submission.
 - [Guided Practice](guided-practice.md) — early writing stages often benefit from teacher modeling and coached rehearsal.
 - [Graphic Organizers](graphic-organizers.md) — organizers can support planning and structural revision.
 - [Minimize student frustration by making feedback clear, legible, focused, and transparent](minimize-student-frustration-in-feedback.md)
@@ -173,7 +173,7 @@ Better drafts with help, better final versions, better unaided writing on the ne
 - [Learner-to-Learner (Peer) Feedback](../strategies/learner-to-learner-peer-feedback.md)
 - [Build Community Through Peer Feedback](../strategies/build_community_through_peer_feedback.md)
 - [Building Community Through Peer Feedback in PBL](../strategies/building_community_through_peer_feedback_in_pbl.md)
-- [Writing Workshop](../patterns/writing-workshop.md) — a reusable configuration of this principle.
+- [Writing Workshop](../patterns/workshop-model.md) — a reusable configuration of this principle.
 - [Structured Peer Review](../patterns/structured-peer-review.md) — the peer-response routine used in the response stage.
 - [Collaborative Evaluation](../patterns/collaborative-evaluation.md) — judging example texts against criteria with others before revising one's own.
 - [Modeling Writing and Revising](../strategies/modeling-writing-and-revising.md) — thinking aloud while planning and revising.
@@ -257,7 +257,7 @@ Process-based writing helps because strong writing rarely emerges from a single 
 
 ## Related Principles
 - [Journaling](journaling.md) — journaling can provide low-stakes writing practice and reflection that feeds larger writing tasks.
-- [Peer Feedback/Peer Review](peer-feedback.md) — revision is stronger when learners get and use feedback before final submission.
+- [Peer Feedback/Peer Review](peer-learning.md) — revision is stronger when learners get and use feedback before final submission.
 - [Guided Practice](guided-practice.md) — early writing stages often benefit from teacher modeling and coached rehearsal.
 - [Graphic Organizers](graphic-organizers.md) — organizers can support planning and structural revision.
 - [Minimize student frustration by making feedback clear, legible, focused, and transparent](minimize-student-frustration-in-feedback.md)

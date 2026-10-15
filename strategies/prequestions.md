@@ -36,7 +36,7 @@ Prequestions work through two complementary mechanisms: they activate relevant p
 
 #### Implementation Variability
 - **Clicker/poll questions** at the start of a lecture, with peer discussion before instruction ([Class Discussion](../elements/class-discussion.md))
-- **Pre-lecture quizzes** in flipped designs, where prequestions prepare learners for the recorded or in-class instruction ([Flipped Classroom](../patterns/flipped-classroom.md))
+- **Pre-lecture quizzes** in flipped designs, where prequestions prepare learners for the recorded or in-class instruction ([Flipped Classroom](../principles/flipped-learning.md))
 - **Embedded prequestions** before video segments in online courses
 - **Anticipation guides** in literacy instruction: agree/disagree statements learners revisit after reading
 

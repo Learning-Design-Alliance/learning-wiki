@@ -48,7 +48,7 @@ Position development works because it forces learners to retrieve, organize, and
 
 ### Affordances
 - [Argumentation](argumentation.md) — position development is the generative application of argumentation: learners do not analyze others' arguments but produce and defend their own under challenge
-- [Constructivism](../principles/constructivism.md) — the stance is not transmitted but constructed; learners build understanding through the disequilibrium of encountering counterargument and revising
+- [Constructivism](../principles/cognitive-activation.md) — the stance is not transmitted but constructed; learners build understanding through the disequilibrium of encountering counterargument and revising
 - [Collaborative Learning](../principles/collaborative-learning.md) — paired or opposed positions create genuine communicative purpose: persuasion of a real interlocutor, not a performance for a grader
 - [Assessment for Learning](../principles/assessment-for-learning.md) — peer and instructor critique of a draft position provides actionable feedback at the point where the argument can still be revised
 
@@ -65,7 +65,7 @@ Position development works because it forces learners to retrieve, organize, and
 ## Patterns That Use This Element
 - [Debate](../patterns/debate.md) — position development under adversarial constraint and time pressure
 - [Structured Academic Controversy](structured-academic-controversy.md) — position development with mandatory perspective-switching
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — positions developed and refined across an extended seminar dialogue
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — positions developed and refined across an extended seminar dialogue
 
 ## Examples
 

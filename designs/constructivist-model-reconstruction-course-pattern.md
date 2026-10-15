@@ -46,7 +46,7 @@ The restructured Introductory Astronomy course was "lecture-free, problem-center
 
 ## Related Patterns
 
-- [Traditional Lecture / Reading / Midterm / Final Assessment](../patterns/traditional-lecture-reading-midterm-final-assessment.md)
+- [Traditional Lecture / Reading / Midterm / Final Assessment](../patterns/traditional-lecture-based-instruction.md)
 
 ## Examples
 

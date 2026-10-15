@@ -43,7 +43,7 @@ Personal inquiry treats science learning as an investigation of a topic of genui
 - (none yet linked)
 
 ## Examples
-- [Scripted Personally Meaningful Inquiry](../patterns/scripted-personally-meaningful-inquiry.md)
+- [Scripted Personally Meaningful Inquiry](../principles/inquiry-based-learning.md)
 
 ## Key Sources
 - Sharples, M., Scanlon, E., Ainsworth, S., Anastopoulou, S., Collins, T., Crook, C., Jones, A., Kerawalla, L., Littleton, K., Mulholland, P., & O'Malley, C. (2015). Personal Inquiry: Orchestrating Science Investigations Within and Beyond the Classroom. *Journal of the Learning Sciences, 24*(2), 308-341. [https://doi.org/10.1080/10508406.2014.944642](https://doi.org/10.1080/10508406.2014.944642)

@@ -46,7 +46,7 @@ The article frames VR-based instruction as an instance of Dewey's experiential l
 
 ## Examples
 
-- [Use VR tools to provide visual and experiential scaffolding that builds prior knowledge before reading](../principles/vr-visual-experiential-scaffolding-literacy.md)
+- [Use VR tools to provide visual and experiential scaffolding that builds prior knowledge before reading](../principles/simulations-immersive-virtual-environments.md)
 
 ## Key Sources
 - Pilgrim, J. M., & Pilgrim, J. (2016). The use of virtual reality tools in the reading-language arts classroom. Texas Journal of Literacy Education, 4(2). https://portal.issn.org/resource/ISSN/2374-7404

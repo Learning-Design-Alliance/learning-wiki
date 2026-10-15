@@ -47,10 +47,9 @@ Eliciting thinking converts passive reception into generative processing; verbal
 - Formative diagnosis: informing instructional next steps ([Assessment for Learning](../principles/assessment-for-learning.md))
 
 ### Affordances
-- [Constructivism](../principles/constructivism.md) — elicitation enacts this principle by making learners' existing conceptions the raw material for instruction; new knowledge is built from what students already say and believe
+- [Constructivism](../principles/cognitive-activation.md) — elicitation enacts this principle by making learners' existing conceptions the raw material for instruction; new knowledge is built from what students already say and believe
 - [Scaffolding](../principles/scaffolding.md) — a well-placed prompt is contingent support: it provides just enough structure to extend the learner's current reasoning one step further [Contingent scaffolding improves learning.](../claims/contingent-scaffolding-improves-learning.md) [+M]
 - [Metacognition](../principles/self-regulated-learning.md) — articulating reasoning makes monitoring visible; learners notice gaps in their own explanations as they produce them
-- [Cognitive Activation](../principles/cognitive-activation.md) — open reasoning prompts push learners beyond recall toward elaboration, comparison, and justification
 - [Active Learning](../principles/active-learning.md) — elicitation is a low-cost active-learning move; productive engagement (generating, explaining) predicts stronger outcomes than passive reception [~S]
 
 ### Claims
@@ -68,9 +67,9 @@ Eliciting thinking converts passive reception into generative processing; verbal
 - [Nine talk moves addressing four goals for productive discussion](nine-talk-moves-four-goals.md)
 
 ## Patterns That Use This Element
-- [Cognitively Guided Instruction (CGI) for Math](../patterns/cognitively-guided-instruction-cgi-for-math.md) — teachers elicit children's informal solution strategies and build instruction on them
+- [Cognitively Guided Instruction (CGI) for Math](../principles/responsive-teaching.md) — teachers elicit children's informal solution strategies and build instruction on them
 - [Formative Assessment](../patterns/formative-assessment.md) — elicited thinking is the evidence base for instructional adjustment
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — sustained discourse norms that make student reasoning the classroom currency
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — sustained discourse norms that make student reasoning the classroom currency
 
 ## Examples
 

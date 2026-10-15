@@ -64,7 +64,7 @@ Generation reliably improves retention of the generated material relative to rea
 - [Application](application.md) — applying knowledge to new situations is generation at the transfer level
 
 ## Patterns That Use This Element
-- [5E Learning Cycle](../patterns/5e-learning-cycle.md) — the "Engage" and "Explain" phases ask learners to predict and articulate before formal instruction
+- [5E Learning Cycle](../principles/inquiry-based-learning.md) — the "Engage" and "Explain" phases ask learners to predict and articulate before formal instruction
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — the articulation phase has learners generate their own reasoning about the task
 - [4C/ID](../patterns/4cid-four-component-instructional-design.md) — completion tasks fade from worked examples toward fully generated solutions
 

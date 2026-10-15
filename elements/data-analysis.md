@@ -49,8 +49,8 @@ Data analysis is the element in which learners inspect, interpret, organize, or 
 - [Justification](justification.md)
 
 ## Patterns That Use This Element
-- [Research-Based Learning](../patterns/research-based-learning.md)
-- [MEL Reasoning Pattern](../patterns/model-evidence-link-mel-reasoning-pattern.md)
+- [Research-Based Learning](../principles/inquiry-based-learning.md)
+- [MEL Reasoning Pattern](../principles/epistemic-cognition.md)
 
 ## Examples
 - Learners interpret a data set to evaluate an explanatory model.

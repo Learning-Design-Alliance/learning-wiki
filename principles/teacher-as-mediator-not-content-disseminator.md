@@ -1,7 +1,7 @@
 ---
 type: principle
 id: teacher-as-mediator-not-content-disseminator
-aliases: [dual-teacher-role-acquisition-and-learning, teacher-as-facilitator-constructivist-classroom, teacher-as-facilitator-for-discovery, writing-teacher-as-facilitator-not-lecturer, teacher-as-designer-guider-consultant, provide-experiences-not-direct-teaching-sla]
+aliases: [dual-teacher-role-acquisition-and-learning, teacher-as-facilitator-constructivist-classroom, teacher-as-facilitator-for-discovery, writing-teacher-as-facilitator-not-lecturer, teacher-as-designer-guider-consultant, provide-experiences-not-direct-teaching-sla, activity-centered-science-teaching, input-processing-focus-on-form-over-focus-on-forms, teacher-preparation-enhance-learning-potential]
 title: Educators should act as mediators and facilitators of learning rather than content disseminators
 description: "For learners working toward understanding they can use, a teacher who states the goal, organizes a task learners act on, questions and helps contingently while they work, and has them explain and transfer what they understood is expected to yield more engagement and usable understanding than presenting the content, provided novices still get explicit guidance; no claim in the wiki tests the teacher's role directly, only neighbouring comparisons (active learning against lecture, teacher-led against student-led inquiry)."
 canonical: true
@@ -42,12 +42,32 @@ sources:
     resource: "https://www.um.es/ijes"
     title: "Bill VanPatten. (2010). The Two Faces of SLA: Mental Representation and Skill. International Journal of English Studies, 10(1), 1-18. https://www.um.es/ijes"
     author: Bill VanPatten
+  - id: grouping-for-instruction-in-teaching-science-eric-digest-1989
+    resource: "https://eric.ed.gov"
+    title: "Grouping for Instruction in Teaching Science (ERIC Digest). (1989). ERIC Digest. https://eric.ed.gov"
+    author: Grouping for Instruction in Teaching Science (ERIC Digest)
+  - id: young-scholten-1999
+    resource: "https://eric.ed.gov/?id=ED432919"
+    title: "Young-Scholten, M. (1999). Focus on Form and Linguistic Competence: Why Krashen Is Still Right about Acquisition. Paper presented at AAAL, Stamford. https://eric.ed.gov/?id=ED432919"
+    author: Young-Scholten, M
+  - id: ebadi-2016
+    resource: "http://www.tewtjournal.org"
+    title: "Ebadi, S. (2016). Exploring DIALANG's Diagnostic Feedback in Online L2 Dynamic Assessment. Teaching English with Technology, 16(1), 41-58. https://eric.ed.gov/?id=EJ1135925"
+    author: Ebadi, S
+  - id: seng-1997
+    resource: "https://eric.ed.gov/?id=ED416957"
+    title: "Seng, Seok-Hoon. (1997). Zone of Proximal Development and the World of the Child. https://eric.ed.gov/?id=ED416957"
+    author: Seng, Seok-Hoon
+  - id: stecher-1976
+    resource: "https://eric.ed.gov/?id=ED126733"
+    title: "Stecher, Judith S. (1976). A Description of Teacher Verbal Mediation and of Children's Verbal Coding in Selected Early Childhood Classrooms. https://eric.ed.gov/?id=ED126733"
+    author: Stecher, Judith S
 ---
 
 # Educators should act as mediators and facilitators of learning rather than content disseminators
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 32 claims (19 for, 12 mixed, 1 against) · 34 studies (9 quant-synthesis, 8 theoretical, 7 review, 6 qualitative, 3 causal, 1 associational), `q1`–`q4` · 4 of 34 report an effect size · 27 claims rest on one study
+> **Evidence** · 44 claims (29 for, 13 mixed, 2 against) · 40 studies (9 quant-synthesis, 9 review, 9 theoretical, 8 qualitative, 3 causal, 2 associational), `q1`–`q4` · 4 of 40 report an effect size · 39 claims rest on one study
 
 ## Conditional relationship
 
@@ -161,6 +181,18 @@ Claims and theory pages the earlier page and its folded pages cited that are not
 - [Mle Theory Human Mediator Cognitive Modifiability](../theories/mle-theory-human-mediator-cognitive-modifiability.md)
 - [Piaget Three Types Of Knowledge](../theories/piaget-three-types-of-knowledge.md)
 - [Piaget Four Factors Stage Progression](../theories/piaget-four-factors-stage-progression.md)
+- [Material arrangement of artifacts (strips centered and ordered by length, worksheets held close) affords and stabilizes the initial pattern of activity; later decentralization enables new patterns](../claims/material-arrangement-affords-stability.md) [+M]
+- [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](../claims/comprehensible-input-insufficient-grammar-acquisition.md) [~W]
+- [Informal evidence that adults do not automatically process input to develop competence reopens the role of grammar instruction (as reported by the bibliography, citing Terrell)](../claims/input-processing-insufficient-for-adult-competence-terrell.md) [-W]
+- [Scmc Da Mediation Reveals Microgenetic Development](../claims/scmc-da-mediation-reveals-microgenetic-development.md) [+M]
+- [Learners at the same proficiency level differ in responsiveness to mediation, with Sarah needing less explicit help than Dena](../claims/learners-differ-in-mediation-responsiveness.md) [+W]
+- [Learners placed at the same CEFR level by DIALANG differ in their ZPDs, which DIALANG's non-dynamic feedback does not capture](../claims/dialang-cefr-levels-miss-zpd-differences.md) [+W]
+- [Children, unlike animals, can imitate actions beyond their independent capabilities and profit from instruction](../claims/children-imitate-beyond-independent-capability.md) [+W]
+- [In pretend play the child behaves beyond her average age and daily behaviour](../claims/pretend-play-child-head-taller.md) [+W]
+- [More children who could shift codes were found in the classroom of the highest mediating teacher](../claims/code-shifting-highest-mediating-teacher.md) [+W]
+- [Elaborated coding was associated with higher reading scores among the observed children](../claims/elaborated-coding-higher-reading-scores.md) [+W]
+- [Findings on teacher mediation patterns differ from the Gahagans' conclusion of no difference in teacher verbal mediation](../claims/findings-differ-from-gahagans-no-difference.md) [+W]
+- [Proportions of variance explained follow a curvilinear pattern across the six taxonomy levels](../claims/curvilinear-variance-pattern-across-taxonomy-levels.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -175,14 +207,16 @@ The model should weaken if comparisons of teachers using the mediating moves (qu
 Reported engagement, end-of-unit understanding, exam performance, delayed retention and use outside class are separate claims. The present evidence in this wiki sets no ratio of teacher talk to learner work and no rule for when to step in.
 
 ## Related Principles
-- [Constructivism](constructivism.md)
+- [Constructivism](cognitive-activation.md)
 - [Instructor_As_Facilitator](../strategies/instructor_as_facilitator.md)
 - [Facilitating_Learning](../strategies/facilitating_learning.md)
-- [Take students' previous knowledge and experience as the growth point of new knowledge](prior-knowledge-growth-point-new-knowledge.md)
+- [Take students' previous knowledge and experience as the growth point of new knowledge](activation.md)
 - [Active Learning](active-learning.md) — what learners do with the content; this page holds the teacher's side
 - [Direct Instruction](direct-instruction.md) — the explanation and modelling the mediator still gives novices
 - [Scaffolding and Fading](scaffolding-and-fading.md) — how help is raised, lowered and withdrawn
 - [Inquiry-Based Learning](inquiry-based-learning.md) — investigation around a question, with teacher-led guidance
+- [Flexibly Vary Grouping Arrangements in Science Based on Objectives, Learners, and Activity](flexible-grouping.md)
+- [Integrate explicit error correction with meaningful activities when developing both accuracy and fluency](flexible-error-treatment-strategies.md)
 
 ## Examples
 
@@ -193,6 +227,12 @@ Reported engagement, end-of-unit understanding, exam performance, delayed retent
 - [Use questioning and counter-suggestions (contrepreuve) to produce disequilibration and support cognitive growth](../strategies/questioning-contrepreuve-disequilibration.md)
 - [Emphasize cooperation and communication to train students' cooperative consciousness](../strategies/cooperation-communication-train-cooperative-consciousness.md)
 - [Create an interactive learning environment in real or semi-real contexts using modern teaching media](../strategies/interactive-real-semi-real-learning-environment.md)
+- [Use Flexible Discussion Groups for Science Content Analysis](../strategies/flexible-discussion-groups-in-science.md)
+- [Group Pupils During Science Experiments and Demonstrations](../strategies/grouping-for-science-experiments-and-demonstrations.md)
+- [Use Heterogeneous Groups for Projects and Homogeneous Groups for Skill Achievement](../strategies/heterogeneous-grouping-for-science-projects.md)
+- [Form Interest Groups and Strengths-Based Groups in Science](../strategies/interest-based-grouping-in-science.md)
+- [Set Up Learning Centers with More Tasks Than Any One Pupil Can Complete](../strategies/learning-centers-in-science-classrooms.md)
+- [Student Voice In Curriculum Planning](../strategies/student-voice-in-curriculum-planning.md)
 
 ## Key Sources
 - Mutlu, A. & Şahin, M. (2019). The Mediated Learning Experience (MLE) Theory in Meaningful Language Instruction. International Journal on New Trends in Education and Their Implications, 10(2). http://www.ijonte.org
@@ -203,6 +243,11 @@ Reported engagement, end-of-unit understanding, exam performance, delayed retent
 - Qiong Jia. (2010). A Brief Study on the Implication of Constructivism Teaching Theory on Classroom Teaching Reform in Basic Education. International Education Studies, 3(2). https://www.ccsenet.org/ies
 - Warr, M. & West, R. E. (2020). Bridging Academic Disciplines with Interdisciplinary Project-based Learning: Challenges and Opportunities. The Interdisciplinary Journal of Problem-based Learning. https://doi.org/10.14434/ijpbl.v14i1.28590
 - Bill VanPatten. (2010). The Two Faces of SLA: Mental Representation and Skill. International Journal of English Studies, 10(1), 1-18. https://www.um.es/ijes
+- Grouping for Instruction in Teaching Science (ERIC Digest). (1989). ERIC Digest. https://eric.ed.gov
+- Young-Scholten, M. (1999). Focus on Form and Linguistic Competence: Why Krashen Is Still Right about Acquisition. Paper presented at AAAL, Stamford. https://eric.ed.gov/?id=ED432919
+- Ebadi, S. (2016). Exploring DIALANG's Diagnostic Feedback in Online L2 Dynamic Assessment. Teaching English with Technology, 16(1), 41-58. https://eric.ed.gov/?id=EJ1135925
+- Seng, Seok-Hoon. (1997). Zone of Proximal Development and the World of the Child. https://eric.ed.gov/?id=ED416957
+- Stecher, Judith S. (1976). A Description of Teacher Verbal Mediation and of Children's Verbal Coding in Selected Early Childhood Classrooms. https://eric.ed.gov/?id=ED126733
 
 <!-- deprecated 2026-10-14: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -282,10 +327,10 @@ Drawing on MLE theory, the article recommends that teachers reconceive their rol
 - [Explicit negative evidence failed to induce grammar reorganization in French learners of English adverb placement](../claims/white-adverb-placement-negative-evidence-failed.md) [+W] — attached 2026-10-07 from Young-Scholten (1999), which proposed "Favor input processing and focus on form over focus on forms in adult L2 teaching"; tests this page's relationship.
 
 ## Related Principles
-- [Constructivism](constructivism.md)
+- [Constructivism](cognitive-activation.md)
 - [Instructor_As_Facilitator](../strategies/instructor_as_facilitator.md)
 - [Facilitating_Learning](../strategies/facilitating_learning.md)
-- [Take students' previous knowledge and experience as the growth point of new knowledge](prior-knowledge-growth-point-new-knowledge.md)
+- [Take students' previous knowledge and experience as the growth point of new knowledge](activation.md)
 
 ## Examples
 
@@ -378,7 +423,7 @@ The article states that in constructivist classrooms learners do not passively r
 
 ## Related Principles
 
-- [Constructivism](constructivism.md)
+- [Constructivism](cognitive-activation.md)
 
 ## Examples
 
@@ -500,7 +545,7 @@ Because students are the subjects of learning, the article argues the teacher's 
 
 ## Related Principles
 
-- [Take students' previous knowledge and experience as the growth point of new knowledge](prior-knowledge-growth-point-new-knowledge.md)
+- [Take students' previous knowledge and experience as the growth point of new knowledge](activation.md)
 
 ## Examples
 
@@ -596,4 +641,253 @@ The article concludes that teachers and materials cannot directly intervene in t
 
 ## Key Sources
 - Bill VanPatten. (2010). The Two Faces of SLA: Mental Representation and Skill. International Journal of English Studies, 10(1), 1-18. https://www.um.es/ijes
+-->
+
+<!-- merged 2026-10-15 from principles/activity-centered-science-teaching ("Make Science Teaching Activity-Centered, with Pupils Learning by Doing"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Make Science Teaching Activity-Centered, with Pupils Learning by Doing
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+The digest holds that activity centered teaching involves pupils learning by doing, with active involvement rather than pupils being passive recipients of knowledge. It notes there tends to be interaction among cognitive, psychomotor, and attitudinal ends, and that activities require background information gathered from diverse reference sources.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Activities require background information gathered from diverse reference sources.
+#### Constraints
+- 
+
+### Target Learners
+- K-12 science pupils
+
+### Target Learning Objectives
+- Cognitive, psychomotor, and attitudinal outcomes in science
+
+### Claims
+
+- [Material arrangement of artifacts (strips centered and ordered by length, worksheets held close) affords and stabilizes the initial pattern of activity; later decentralization enables new patterns](../claims/material-arrangement-affords-stability.md) [+M]
+
+## Related Principles
+
+- [Flexibly Vary Grouping Arrangements in Science Based on Objectives, Learners, and Activity](flexible-grouping.md)
+
+## Examples
+
+- [Use Flexible Discussion Groups for Science Content Analysis](../strategies/flexible-discussion-groups-in-science.md)
+- [Group Pupils During Science Experiments and Demonstrations](../strategies/grouping-for-science-experiments-and-demonstrations.md)
+- [Use Heterogeneous Groups for Projects and Homogeneous Groups for Skill Achievement](../strategies/heterogeneous-grouping-for-science-projects.md)
+- [Form Interest Groups and Strengths-Based Groups in Science](../strategies/interest-based-grouping-in-science.md)
+- [Set Up Learning Centers with More Tasks Than Any One Pupil Can Complete](../strategies/learning-centers-in-science-classrooms.md)
+- [Student Voice In Curriculum Planning](../strategies/student-voice-in-curriculum-planning.md)
+
+## Key Sources
+- Grouping for Instruction in Teaching Science (ERIC Digest). (1989). ERIC Digest. https://eric.ed.gov
+-->
+
+<!-- merged 2026-10-15 from principles/input-processing-focus-on-form-over-focus-on-forms ("Favor input processing and focus on form over focus on forms in adult L2 teaching"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Favor input processing and focus on form over focus on forms in adult L2 teaching
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 3 studies (3 review), `q1`–`q2` · 0 of 3 report an effect size · 5 claims rest on one study
+
+## Description
+The paper concludes that classroom work should aim to influence how learners process input so that acquisition may actually result, rather than delivering explicit grammar. It states that approaches emphasizing "input processing and focus on form, rather than focus on forms" are "on the right track", and notes that very intensive form(s)-focused instruction, such as Ioup's case study of defossilization, is also promising. The author cautions the field is "working the dark" until child L1 and L2 development is better understood.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Instruction must engage the learner's processing of input rather than deliver metalinguistic explanation alone
+#### Constraints
+- The author states we may face an intractable problem: what cannot be acquired cannot be learned either, since only linguistic mechanisms can accomplish the task
+
+### Target Learners
+- adult second language learners
+
+### Target Learning Objectives
+- fluent accuracy in a second language
+
+### Claims
+
+- [Form Focused Input Manipulation Illusory For Competence](../claims/form-focused-input-manipulation-illusory-for-competence.md) [+M]
+- [A 1999 conference paper reports, citing Ellis and LaPorte (1997), that instruction has little or no effect on the route of L2 acquisition](../claims/instruction-little-effect-on-route-of-acquisition.md) [+W]
+- [A 1999 conference paper reports, citing White (1991) and Schwartz and Gubala-Ryzak (1992), that explicit negative evidence on English adverb placement produced only superficial change in French learners](../claims/white-adverb-placement-negative-evidence-failed.md) [+W]
+- [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](../claims/comprehensible-input-insufficient-grammar-acquisition.md) [~W]
+- [Informal evidence that adults do not automatically process input to develop competence reopens the role of grammar instruction (as reported by the bibliography, citing Terrell)](../claims/input-processing-insufficient-for-adult-competence-terrell.md) [-W]
+
+## Related Principles
+
+- [Integrate explicit error correction with meaningful activities when developing both accuracy and fluency](flexible-error-treatment-strategies.md)
+
+## Examples
+-
+
+## Key Sources
+- Young-Scholten, M. (1999). Focus on Form and Linguistic Competence: Why Krashen Is Still Right about Acquisition. Paper presented at AAAL, Stamford. https://eric.ed.gov/?id=ED432919
+-->
+
+<!-- merged 2026-10-15 from patterns/scmc-da-mediation-typology ("Mediation typology of implicit-to-explicit moves in SCMC DA"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Mediation typology of implicit-to-explicit moves in SCMC DA
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 3 claims (3 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+
+## Description
+Emerging from thematic analysis of the DA sessions, the mediation typology orders mediator moves from most implicit to most explicit. The article reports it "included four general categories, namely awareness raising, problem identification, overcoming the problem and finally, focusing on the structure". Moves include the virtual collaborative frame, auto smart edit, yellow and red highlighting, sharing relevant web links (cyber-mediation), choice offering, and oral explanation of target structures. Moves are employed individualized to learners' ZPD levels and reciprocity.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Mediation moves must be selected individualized based on the learners' ZPD level for the target structures and their reciprocity to mediation
+#### Constraints
+- Developed within a two-participant SCMC DA study focused on English modals and prepositions
+
+### Target Learners
+- L2 learners working with a mediator in synchronous computer-mediated communication
+
+### Target Goals
+- Self-regulation of targeted L2 grammar structures
+
+### Claims
+
+- [Scmc Da Mediation Reveals Microgenetic Development](../claims/scmc-da-mediation-reveals-microgenetic-development.md) [+M]
+- [Learners at the same proficiency level differ in responsiveness to mediation, with Sarah needing less explicit help than Dena](../claims/learners-differ-in-mediation-responsiveness.md) [+W]
+- [Learners placed at the same CEFR level by DIALANG differ in their ZPDs, which DIALANG's non-dynamic feedback does not capture](../claims/dialang-cefr-levels-miss-zpd-differences.md) [+W]
+
+## Related Patterns
+
+- [Reciprocity inventory of learner responsiveness to mediation](../methods/learner-reciprocity-inventory.md)
+
+## Examples
+-
+
+## Key Sources
+- Ebadi, S. (2016). Exploring DIALANG's Diagnostic Feedback in Online L2 Dynamic Assessment. Teaching English with Technology, 16(1), 41-58. https://eric.ed.gov/?id=EJ1135925
+-->
+
+<!-- merged 2026-10-15 from principles/teacher-preparation-enhance-learning-potential ("Prepare teachers of young children to enhance each child's learning potential rather than just cover curriculum"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Prepare teachers of young children to enhance each child's learning potential rather than just cover curriculum
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+
+## Description
+The paper concludes that the centrality of the human mediator in children's learning implies changes in teacher preparation: teachers "should be ready to work on the enhancement of every child's learning potential and zone of proximal development, rather than on just covering information required by the curriculum". This follows from the paper's pivotal points that learning is a cultural-social process and that adequate mediated learning experience is necessary for normal cognitive development and further learning.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Teacher education programmes that reorient preparation toward working within children's ZPDs
+#### Constraints
+- The paper frames this as a recommendation arising from its analysis, which it says should not remain uncontested
+
+### Target Learners
+- young children
+
+### Target Learning Objectives
+- enhancement of every child's learning potential and zone of proximal development
+
+### Claims
+
+- [Children, unlike animals, can imitate actions beyond their independent capabilities and profit from instruction](../claims/children-imitate-beyond-independent-capability.md) [+W]
+- [In pretend play the child behaves beyond her average age and daily behaviour](../claims/pretend-play-child-head-taller.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Seng, Seok-Hoon. (1997). Zone of Proximal Development and the World of the Child. https://eric.ed.gov/?id=ED416957
+-->
+
+<!-- merged 2026-10-15 from patterns/guided-participation-five-components ("Guided participation: five components of adult-child learning activity"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Guided participation: five components of adult-child learning activity
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
+
+## Description
+Drawing on Rogoff (1990), the paper describes guided participation as "a process during which the adult and child determine and carry out the learning activity" in real world activities. It enumerates five components: selecting the activity in which guidance takes place; deciding the goals of the activity; establishing bridges between what the child knows and what the adult wants to induct the child into; ensuring that the child attains independent functioning; and communicating in a number of dimensions. The pattern characterises how adults structure joint activity so children are inducted into culture by more competent members.
+
+## Design Implications
+
+### Context
+#### Requirements
+- An adult partner who jointly determines and carries out the learning activity with the child
+#### Constraints
+- 
+
+### Target Learners
+- young children learning real world activities
+
+### Target Goals
+- induction into culture; attaining independent functioning
+
+### Claims
+- 
+
+## Related Patterns
+- 
+
+## Examples
+-
+
+## Key Sources
+- Seng, Seok-Hoon. (1997). Zone of Proximal Development and the World of the Child. https://eric.ed.gov/?id=ED416957
+-->
+
+<!-- merged 2026-10-15 from patterns/teacher-explicitness-talk-pattern ("High-mediating teachers share an 'Explicitness' talk pattern across teacher talk categories"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# High-mediating teachers share an 'Explicitness' talk pattern across teacher talk categories
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 6 claims (6 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 6 claims rest on one study
+
+## Description
+Analysis of variance over the six teacher talk categories revealed a characteristic talk pattern of high-mediating teachers, which the author names "Explicitness". It spans personal explicitness, explicitness when informing, giving rationales for commands, and appealing for conformity on personal rather than status bases. The author suggests these categories may be what Dunkin and Biddle call "trainable traits".
+
+## Design Implications
+
+### Context
+#### Requirements
+- Teachers must be observed and coded on the six RELAB teacher talk categories for the pattern to be identified
+#### Constraints
+- Identified from a small sample of three teachers in one exploratory study with moderate reliability
+
+### Target Learners
+- early childhood pupils (ages 5-7)
+
+### Target Goals
+- children's use of elaborated speech codes and code shifting
+
+### Claims
+
+- Teacher Mediation Strongest Variable Child Elaborated Coding [+M]
+- [More children who could shift codes were found in the classroom of the highest mediating teacher](../claims/code-shifting-highest-mediating-teacher.md) [+W]
+- [Elaborated coding was associated with higher reading scores among the observed children](../claims/elaborated-coding-higher-reading-scores.md) [+W]
+- [Findings on teacher mediation patterns differ from the Gahagans' conclusion of no difference in teacher verbal mediation](../claims/findings-differ-from-gahagans-no-difference.md) [+W]
+- [High teacher mediation is associated with more children talking and higher frequency of both elaborated and restricted talk](../claims/high-mediation-more-child-talk-both-codes.md) [+W]
+- [Teacher mediation interacts with SES: the SES gap in elaborated utterances appears only in the low-mediating classroom](../claims/mediation-ses-interaction-elaborated-utterances.md) [+W]
+- [Proportions of variance explained follow a curvilinear pattern across the six taxonomy levels](../claims/curvilinear-variance-pattern-across-taxonomy-levels.md) [+W]
+
+## Related Patterns
+- 
+
+## Examples
+-
+
+## Key Sources
+- Stecher, Judith S. (1976). A Description of Teacher Verbal Mediation and of Children's Verbal Coding in Selected Early Childhood Classrooms. https://eric.ed.gov/?id=ED126733
 -->

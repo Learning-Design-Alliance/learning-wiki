@@ -76,8 +76,7 @@ Inquiry can produce strong conceptual gains, but only when it is scaffolded: ung
 
 ## Patterns That Use This Strategy
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — inquiry serves as the exploration and articulation phases of scientific practice
-- [Collaborative Inquiry](../patterns/collaborative-inquiry.md) — inquiry distributed across a group with shared evidence and roles
-- [5E Learning Cycle](../patterns/5e-learning-cycle.md) — the Engage–Explore–Explain–Elaborate–Evaluate sequence operationalizes inquiry in stages
+- [Collaborative Inquiry](../principles/inquiry-based-learning.md) — inquiry distributed across a group with shared evidence and roles
 
 ## Examples
 - **[FOSS (Full Option Science System)](https://www.foss.science)** — A research-based K–8 curriculum in which structured, hands-on investigations precede formal explanation of concepts, with embedded scaffolds for data recording and science-notebook argumentation.

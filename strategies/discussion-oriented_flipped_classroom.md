@@ -15,7 +15,7 @@ generated:
 > **Evidence** · 3 claims (3 for) · 9 studies (5 quant-synthesis, 3 causal, 1 theoretical), `q2`–`q4` · 4 of 9 report an effect size
 
 ## Description
-In a discussion-oriented flipped classroom, first exposure to new content is moved out of class — typically as curated video lectures or other pre-class materials — while in-class time is restructured around facilitated discussion, debate, and collaborative analysis of that content. The variant differs from a general [Flipped Classroom](../patterns/flipped-classroom.md) in that the class-time activity is primarily dialogic rather than problem-solving: students arrive with baseline knowledge and use discussion to interrogate, apply, and extend it.
+In a discussion-oriented flipped classroom, first exposure to new content is moved out of class — typically as curated video lectures or other pre-class materials — while in-class time is restructured around facilitated discussion, debate, and collaborative analysis of that content. The variant differs from a general [Flipped Classroom](../principles/flipped-learning.md) in that the class-time activity is primarily dialogic rather than problem-solving: students arrive with baseline knowledge and use discussion to interrogate, apply, and extend it.
 
 ## Design Implications
 
@@ -74,7 +74,7 @@ Pre-class exposure frees class time for the interactive, generative processing t
 ## Examples
 - **Political science courses** assign video lectures introducing theories (e.g., via YouTube or instructor-recorded segments), then run in-class structured debates applying them to current policy cases.
 - **Jensen, Kummer & Godoy's flipped biology course** (University of Washington) replaced lecture with pre-class videos and in-class group discussion and problem-solving, improving exam performance [doi:10.1187/cbe.14-08-0129](https://doi.org/10.1187/cbe.14-08-0129).
-- **Harvard's case-method courses** function as a discussion-oriented flip: students prepare a case before class and class time is entirely discussion-driven (see [Case-Based Learning — Harvard Method](../patterns/case-based-learning-harvard-method.md)).
+- **Harvard's case-method courses** function as a discussion-oriented flip: students prepare a case before class and class time is entirely discussion-driven (see [Case-Based Learning — Harvard Method](../patterns/case-based-learning.md)).
 
 ## Key Sources
 - Jensen, J. L., Kummer, T. A., & Godoy, P. D. d. M. (2015). Improvements from a flipped classroom may simply be the fruits of active learning. *CBE—Life Sciences Education, 14*(1), ar5. [doi:10.1187/cbe.14-08-0129](https://doi.org/10.1187/cbe.14-08-0129)

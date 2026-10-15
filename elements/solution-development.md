@@ -60,7 +60,7 @@ Solution development strengthens analytical reasoning by requiring learners to i
 - Transfer: applying concepts to novel, authentic situations [Whole-task practice supports transfer better than isolated part practice.](../claims/whole-task-performance-improves-transfer.md) [+M]
 
 ### Affordances
-- [Constructivism](../principles/constructivism.md) — solution development enacts this principle by making learners generate and test their own knowledge structures rather than receive finished solutions
+- [Constructivism](../principles/cognitive-activation.md) — solution development enacts this principle by making learners generate and test their own knowledge structures rather than receive finished solutions
 - [Cognitive Apprenticeship](../principles/scaffolding-and-fading.md) — the propose–test–revise cycle mirrors the expert practice of articulation and reflection; instructors can [Coach](coaching.md) and fade support as solutions mature
 - [Active Learning](../principles/active-learning.md) — learners produce an artifact and defend it, converting passive exposure into generative work
 - [Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md) — solutions gain meaning when presented to real or realistic stakeholders who evaluate them

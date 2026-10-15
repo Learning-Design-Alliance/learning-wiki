@@ -1,6 +1,7 @@
 ---
 type: pattern
 id: traditional-lecture-based-instruction
+aliases: [traditional-lecture-reading-midterm-final-assessment]
 title: Traditional Lecture-Based Instruction
 description: "A lecture-centered course (lecture, assigned study, then discussion or assessment) is expected to serve information objectives about as well as other methods but to underperform discussion and active-learning courses for thought, attitude and skill objectives and on exams and pass rates; claims test lecture only as a comparator, and the segmented sequence here is untested."
 canonical: true
@@ -10,12 +11,17 @@ generated:
   at: 2026-10-14
 author: lecture-centered instruction tradition
 grain_size: course
+sources:
+  - id: freeman-2014
+    resource: "https://doi.org/10.1073/pnas.1319030111"
+    title: "Freeman, S., Eddy, S. L., McDonough, M., Smith, M. K., Okoroafor, N., Jordt, H., & Wenderoth, M. P. (2014). Active learning increases student performance in science, engineering, and mathematics. *Proceedings of the National Academy of Sciences, 111*(23), 8410-8415"
+    author: "Freeman, S., Eddy, S. L., McDonough, M., Smith, M. K., Okoroafor, N., Jordt, H., & Wenderoth, M. P"
 ---
 
 # Traditional Lecture-Based Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 15 claims (1 for, 9 mixed, 5 against) · 16 studies (4 review, 3 causal, 3 quant-synthesis, 3 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 4 of 16 report an effect size · 13 claims rest on one study
+> **Evidence** · 21 claims (1 for, 14 mixed, 6 against) · 30 studies (9 review, 6 causal, 6 theoretical, 4 quant-synthesis, 4 qualitative, 1 design), `q1`–`q4` · 4 of 30 report an effect size · 15 claims rest on one study
 
 ## Description and scope
 
@@ -116,6 +122,12 @@ Claims this page cited before the 2026-10-14 rewrite that are not used as core e
 - [Prospective teachers taught with CCCT outperformed a lecture-based control group on academic achievement (g = 0.839)](../claims/ccct-outperformed-lecture-achievement.md) [-W] — one quasi-experiment (31 against 36 prospective teachers in Turkey) of a cooperative-learning technique against a lecture-based control, coded `r1`. Bears on the page only as one more comparison in which lecture is the control.
 - [Instructional method does not significantly moderate Gen-AI's effect on HOT, though project-based learning shows the largest subgroup effect (ES = 0.717) and lecture-based instruction a small non-significant effect (ES = 0.396)](../claims/genai-instructional-method-moderator.md) [~W] — a moderator analysis in a meta-analysis of generative-AI interventions; it is about where AI tools were used (6 studies in lecture-based settings), not about lecture against another method. It bears on this page only slightly.
 - [Classroom observations in an affluent district found most teachers did not use deeper-learning strategies, with students passively listening to lectures](../claims/ousd-passive-lecture-unchallenged-students.md) [-W] — used in the secondary-school row above; it describes practice and tests nothing.
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S]
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~M]
+- [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [~M]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
+- [High school students report they learn best through interactive, hands-on projects, real-world applications, and discussions rather than lectures, note-taking, and worksheets](../claims/students-report-hands-on-learning-most-effective.md) [-W]
+- [Assessment design functions as a pedagogical condition shaping how students engage with GenAI during learning](../claims/assessment-design-shapes-genai-engagement.md) [~W]
 
 ## Illustrative design instance and observation record
 
@@ -127,13 +139,15 @@ Record: **objectives and the kind each is (information, thought, attitude, skill
 
 [Lectures](../elements/lectures.md), [note-taking](../elements/note-taking.md), [demonstration](../elements/demonstration.md), [class discussion](../elements/class-discussion.md), [practice](../elements/practice.md), [practice testing](../elements/practice-testing.md), [feedback](../elements/feedback.md), [summarization and synthesis](../elements/summarization-and-synthesis.md) and [assessment](../elements/assessment.md). Principles the pattern draws on: [Active Learning](../principles/active-learning.md), [Direct Instruction](../principles/direct-instruction.md), [Chunking](../principles/chunking.md), [Note-taking](../principles/note-taking.md) and [Retrieval Practice](../principles/retrieval-practice.md).
 
-This pattern is scoped to courses where a lecturer's explanation to a whole group carries the information objectives. Objectives about thinking, attitudes and skills need other configurations ([Peer Instruction](peer-instruction.md), [Team-Based Learning](team-based-learning.md), [Flipped Classroom](flipped-classroom.md), [Just-in-Time Teaching](just-in-time-teaching.md), [Direct Instruction](direct-instruction.md) for guided practice). Whether a segmented lecture with checks does better than the same lecture without them, for which learners and at what horizon, is not tested by any claim in this wiki; the segment lengths, thresholds and lecture shares above are proposals to observe.
+This pattern is scoped to courses where a lecturer's explanation to a whole group carries the information objectives. Objectives about thinking, attitudes and skills need other configurations ([Peer Instruction](peer-instruction.md), [Team-Based Learning](team-based-learning.md), [Flipped Classroom](../principles/flipped-learning.md), [Just-in-Time Teaching](../principles/responsive-teaching.md), [Direct Instruction](direct-instruction.md) for guided practice). Whether a segmented lecture with checks does better than the same lecture without them, for which learners and at what horizon, is not tested by any claim in this wiki; the segment lengths, thresholds and lecture shares above are proposals to observe.
 
 ## Related Patterns
-- [Traditional Lecture / Reading / Midterm / Final Assessment](traditional-lecture-reading-midterm-final-assessment.md)
 - [Direct Instruction](direct-instruction.md) — the explain, model, guided-practice and hand-over policy; a lecture segment is its explanation step delivered to a large group
 - [Peer Instruction](peer-instruction.md) — the vote, discuss, re-vote routine used between lecture segments when answers split
-- [Flipped Classroom](flipped-classroom.md) — moves the lecture to assigned study before class and uses class time for the rest
+- [Flipped Classroom](../principles/flipped-learning.md) — moves the lecture to assigned study before class and uses class time for the rest
+- [Gagne's 9 Events of Instruction](gagnes-9-events-of-instruction.md)
+- [Lecture-free, problem-centered, collaborative course pattern built on model construction and evaluation](../designs/constructivist-model-reconstruction-course-pattern.md)
+- [Technical mathematics course structure combining expert modeling lectures with collaborative workshop sessions](../designs/modeling-lectures-plus-collaborative-workshop-sessions.md)
 
 ## Key Sources
 - Bligh, D. A. (2000). *What's the use of lectures?* Jossey-Bass.
@@ -141,6 +155,8 @@ This pattern is scoped to courses where a lecturer's explanation to a whole grou
 - Siegel, L., Siegel, S., Capretta, P. J., Jones, R. A., & Berkowitz, H. (1963). Students' thoughts during class: A criterion for educational research. *Journal of Educational Psychology, 54*(3), 149-155. [doi:10.1037/h0049171](https://doi.org/10.1037/h0049171)
 - Arduini-Van Hoose, N. (2020). Direct instruction: Lecture. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
 - Freeman, S., Eddy, S. L., McDonough, M., Smith, M. K., Okoroafor, N., Jordt, H., & Wenderoth, M. P. (2014). Active learning increases student performance in science, engineering, and mathematics. *Proceedings of the National Academy of Sciences, 111*(23), 8410–8415. [doi:10.1073/pnas.1319030111](https://doi.org/10.1073/pnas.1319030111)
+- Freeman, S., Eddy, S. L., McDonough, M., Smith, M. K., Okoroafor, N., Jordt, H., & Wenderoth, M. P. (2014). Active learning increases student performance in science, engineering, and mathematics. *Proceedings of the National Academy of Sciences, 111*(23), 8410-8415. [https://doi.org/10.1073/pnas.1319030111](https://doi.org/10.1073/pnas.1319030111)
+- Wieman, C. (2017). *Improving how universities teach science: Lessons from the science education initiative*. Harvard University Press. [doi:10.4159/9780674978911](https://doi.org/10.4159/9780674978911)
 
 <!-- deprecated 2026-10-14: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -163,7 +179,7 @@ Lecture's effectiveness depends heavily on which of four common instructional ob
 - Provide structured content delivery at scale.
 
 ### Related Patterns
-- [Traditional Lecture / Reading / Midterm / Final Assessment](traditional-lecture-reading-midterm-final-assessment.md)
+- [Traditional Lecture / Reading / Midterm / Final Assessment](traditional-lecture-based-instruction.md)
 
 ## Claims
 
@@ -177,4 +193,110 @@ Lecture's effectiveness depends heavily on which of four common instructional ob
 - Dubin, R., & Taveggia, T. C. (1968). *The teaching-learning paradox: A comparative analysis of college teaching methods*. Center for the Advanced Study of Educational Administration, University of Oregon.
 - Siegel, L., Siegel, S., Capretta, P. J., Jones, R. A., & Berkowitz, H. (1963). Students' thoughts during class: A criterion for educational research. *Journal of Educational Psychology, 54*(3), 149-155. [doi:10.1037/h0049171](https://doi.org/10.1037/h0049171)
 - Arduini-Van Hoose, N. (2020). Direct instruction: Lecture. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
+-->
+
+<!-- merged 2026-10-15 from patterns/traditional-lecture-reading-midterm-final-assessment ("Traditional Lecture / Reading / Midterm / Final Assessment"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Traditional Lecture / Reading / Midterm / Final Assessment
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 7 claims (6 mixed, 1 against) · 15 studies (6 review, 3 causal, 3 theoretical, 2 qualitative, 1 quant-synthesis), `q1`–`q4` · 0 of 15 report an effect size · 3 claims rest on one study
+
+## Description
+This pattern describes the common lecture-dominant course model in which instructors deliver content primarily through lecture, assign readings for independent study, and evaluate learning mainly through high-stakes midterm and final assessments. It is useful in this wiki as a baseline reference pattern because many other designs are defined partly in response to its limitations.
+
+The pattern can work reasonably well for broad content coverage and for learners who are already strong at note-taking, self-study, and exam preparation. Its main weakness is that it often leaves little room for formative feedback, active processing, or revision before major graded judgments occur.
+
+## Implications
+
+### Context
+#### Requirements
+- **A stable content sequence**: The pattern assumes the course can be organized around instructor-led exposition and assigned reading.
+- **Independent study capacity**: Learners need to extract meaning from lectures and readings on their own between major assessments.
+- **Aligned summative assessments**: Midterms and finals need to reflect what lectures and readings actually emphasized.
+- **Institutional fit for large-scale delivery**: The pattern often scales well in lecture-based settings.
+#### Constraints
+- **Low interaction**: Learners may get few structured chances to test understanding before high-stakes exams.
+- **Heavy reliance on self-regulation**: Success depends strongly on note-taking, review habits, and exam preparation skills.
+- **Weak feedback loops**: Problems in understanding may remain hidden until it is too late to adjust.
+- **One-size-fits-many delivery**: The pattern often underserves learners who need more practice, discussion, or multiple representations.
+#### Grain Size
+- Course
+
+### Target Goals
+- **Content coverage**: Efficient delivery of large amounts of information.
+- **Independent study and exam preparation**: Preparing learners to manage readings, lectures, and summative assessments.
+- **Foundational exposure**: Introducing broad disciplinary content before later specialization.
+
+### Target Learners
+- **Learners comfortable with self-directed study**: Stronger fit for students who already know how to study from lecture and reading.
+- **Large-enrollment course participants**: Common where scale and efficiency shape instructional choices.
+- **Adult and professional learners in certification contexts**: Sometimes used when standardized knowledge coverage is prioritized.
+
+### Theory
+#### Supporting
+- Direct instruction traditions — clear exposition can efficiently communicate organized information.
+- Information-processing perspectives — lectures and readings can support encoding when learners actively study and review them.
+- Independent learning traditions — some learners benefit from controlling when and how they review content outside class.
+#### Contradicting / Qualifying
+- The pattern often underprovides formative assessment, immediate feedback, and active processing compared with more interactive designs.
+- Lecture can be useful, but lecture-only or lecture-dominant design is often weaker for conceptual change, transfer, and persistence.
+
+### Claims
+#### Supporting
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S]
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~M]
+#### Contradicting
+
+- [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [~M]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
+- [Active learning conditions more often include quizzes, homework, and learning/exam preparation than lecture conditions](../claims/active-learning-conditions-more-other-pedagogical-features.md) [~W]
+- [High school students report they learn best through interactive, hands-on projects, real-world applications, and discussions rather than lectures, note-taking, and worksheets](../claims/students-report-hands-on-learning-most-effective.md) [-W]
+- [Assessment design functions as a pedagogical condition shaping how students engage with GenAI during learning](../claims/assessment-design-shapes-genai-engagement.md) [~W]
+
+## Design
+
+### Sequence
+1. Deliver core content through lecture and assigned readings.
+2. Expect learners to study, review notes, and prepare independently outside class.
+3. Offer limited low-stakes checks, if any, between major exams.
+4. Evaluate learning primarily through a midterm and final assessment.
+
+### Elements Used
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Assessment](../elements/assessment.md)
+- [Optional Quizzes or Discussion Sections](../elements/optional-quizzes-or-discussion-sections.md)
+- [Feedback](../elements/feedback.md)
+
+### Affordances
+- [Formative Assessment](../principles/formative-assessment.md)
+- [Immediate Feedback](../principles/immediate-feedback.md)
+- [Guided Practice](../principles/guided-practice.md)
+- [Multiple Methods of Assessment](../principles/multiple-methods-of-assessment.md)
+
+### Personalization
+- Learners often control pace of reading and independent review outside class.
+- Optional discussion sections or quizzes can partially offset the pattern's limited interaction.
+- Instructors can strengthen the model by adding low-stakes checks and application tasks without abandoning the overall structure.
+
+## Related Patterns
+
+- [Flipped Classroom](../principles/flipped-learning.md)
+- [Gagne's 9 Events of Instruction](gagnes-9-events-of-instruction.md)
+- [Lecture-free, problem-centered, collaborative course pattern built on model construction and evaluation](../designs/constructivist-model-reconstruction-course-pattern.md)
+- [Technical mathematics course structure combining expert modeling lectures with collaborative workshop sessions](../designs/modeling-lectures-plus-collaborative-workshop-sessions.md)
+
+## Examples
+- Large introductory survey courses organized around lectures, textbook reading, and two major exams.
+- Professional certification courses built around content delivery and standardized test preparation.
+- Online lecture-heavy courses where recorded presentations and readings dominate the learning experience.
+
+## Impact
+- Efficient for scaling content delivery, but often criticized for weak engagement and limited feedback before summative judgment.
+- Useful as a comparison point when redesigning courses toward more interactive or formative models.
+
+## Key Sources
+- Bligh, D. A. (2000). *What's the use of lectures?* Jossey-Bass.
+- Freeman, S., Eddy, S. L., McDonough, M., Smith, M. K., Okoroafor, N., Jordt, H., & Wenderoth, M. P. (2014). Active learning increases student performance in science, engineering, and mathematics. *Proceedings of the National Academy of Sciences, 111*(23), 8410-8415. [https://doi.org/10.1073/pnas.1319030111](https://doi.org/10.1073/pnas.1319030111)
+- Wieman, C. (2017). *Improving how universities teach science: Lessons from the science education initiative*. Harvard University Press. [doi:10.4159/9780674978911](https://doi.org/10.4159/9780674978911)
 -->

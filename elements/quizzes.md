@@ -70,7 +70,7 @@ Quizzes are one of the most robustly supported instructional elements: testing i
 - [Formative Assessment](../patterns/formative-assessment.md) — quizzes as the recurring evidence-gathering loop
 - [Mastery Learning](../patterns/mastery-learning.md) — quizzes as criterion-referenced checkpoints gating progression
 - [Competency-Based Learning](../patterns/competency-based-learning.md) — quizzes as evidence of demonstrated competency
-- [Flipped Classroom](../patterns/flipped-classroom.md) — pre-class quizzes hold learners accountable for first-exposure material
+- [Flipped Classroom](../principles/flipped-learning.md) — pre-class quizzes hold learners accountable for first-exposure material
 
 ## Examples
 

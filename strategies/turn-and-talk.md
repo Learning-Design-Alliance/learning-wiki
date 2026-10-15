@@ -90,8 +90,8 @@ Turn-and-talk works because verbalizing forces retrieval and elaboration: learne
 - [Class Discussion](../elements/class-discussion.md) — the whole-group follow-on that amplifies pair talk
 
 ## Patterns That Use This Strategy
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — turn-and-talk as the low-stakes entry point before whole-class discussion
-- [Flipped Classroom](../patterns/flipped-classroom.md) — pairs process pre-class material during in-class time
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — turn-and-talk as the low-stakes entry point before whole-class discussion
+- [Flipped Classroom](../principles/flipped-learning.md) — pairs process pre-class material during in-class time
 - [Collaborative Learning](../patterns/collaborative-learning.md) — pair-level talk as a scaffold toward group work
 
 ## Examples

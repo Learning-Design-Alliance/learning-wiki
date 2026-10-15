@@ -35,7 +35,7 @@ Blended designs outperform either mode alone when the two components are deliber
 - Adding online materials on top of an unchanged lecture load can [overload rather than help](../claims/cognitive-overload-degrades-learning.md) [-M]
 
 #### Implementation Variability
-- **Flipped models**: content delivery fully online before class; class time for problem-solving ([Flipped Classroom](../patterns/flipped-classroom.md))
+- **Flipped models**: content delivery fully online before class; class time for problem-solving ([Flipped Classroom](../principles/flipped-learning.md))
 - **Rotation models**: learners rotate on a fixed schedule between online and in-person stations (common in K–12, e.g., station rotation)
 - **Enriched/blended campus model**: traditional course with supplementary online resources, quizzes, and discussion forums
 - **Flex models**: online delivery is primary; in-person time is on-demand coaching and support
@@ -70,7 +70,7 @@ Blended designs outperform either mode alone when the two components are deliber
 
 ## Related Strategies
 
-- [Flipped Classroom](../patterns/flipped-classroom.md) — the most researched blended variant; inverts the content/practice split
+- [Flipped Classroom](../principles/flipped-learning.md) — the most researched blended variant; inverts the content/practice split
 - [Case-Based Learning](../patterns/case-based-learning.md) — a common use of freed-up in-person time in professional education
 - [Competency-Based Learning](../patterns/competency-based-learning.md) — pairs naturally with self-paced online modules
 - [Implement EWIMS through combined in-person and online training with ongoing technical assistance liaisons](ewims-training-and-technical-assistance-strategy.md)

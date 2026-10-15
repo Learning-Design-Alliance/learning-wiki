@@ -76,7 +76,7 @@ Conferences concentrate the conditions under which feedback works best: it is di
 ## Patterns That Use This Strategy
 - [Formative Assessment](../patterns/formative-assessment.md) — the conference is the richest individual-level formative assessment event
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — the coaching phase, where the expert observes and guides individual performance
-- [Writing Workshop](../patterns/writing-workshop.md) — conferencing is a defining structural component of workshop models
+- [Writing Workshop](../patterns/workshop-model.md) — conferencing is a defining structural component of workshop models
 
 ## Examples
 - **Nancie Atwell's writing workshop** (Center for Teaching and Learning, Maine): the teacher holds brief daily conferences with individual student writers, focusing each exchange on a single revision decision. See [https://www.c-t-l.org](https://www.c-t-l.org)

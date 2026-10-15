@@ -135,9 +135,9 @@ Correct procedures, conceptual understanding, recall of a correction and comfort
 - [Student errors on underestimated fraction items reflect systematic misconception patterns rather than random error](../claims/fraction-errors-systematic-misconception-patterns.md) [+W]
 
 ## Related Principles
-- [Explaining Their Thinking](self-explanation.md) — self-explanation is the mechanism by which error analysis works.
+- [Explaining Their Thinking](cognitive-activation.md) — self-explanation is the mechanism by which error analysis works.
 - [Worked Examples](worked-examples.md) — can be modified into erroneous examples.
-- [Foster Growth Mindset](growth-mindset.md) — error analysis requires a safe environment where mistakes are valued.
+- [Foster Growth Mindset](motivation.md) — error analysis requires a safe environment where mistakes are valued.
 
 ## Examples
 

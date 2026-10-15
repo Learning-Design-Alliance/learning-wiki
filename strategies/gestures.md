@@ -58,7 +58,7 @@ Gestures exploit the same multimodal processing advantage as [Dual Coding Theory
 4. Fade explicit gesturing support as learners internalize the concept, consistent with [Scaffolding](../principles/scaffolding.md) principles.
 
 ## Related Strategies
-- [Dual coding through visuals and narration](../principles/cognitive-load-reduction.md) — gesture is the embodied counterpart of pairing words with images
+- [Dual coding through visuals and narration](../principles/cognitive-load-management.md) — gesture is the embodied counterpart of pairing words with images
 - [Think-aloud modeling](../elements/think-aloud.md) — combining verbalized reasoning with gesture makes both conceptual and spatial structure visible
 
 ## Related Elements

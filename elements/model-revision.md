@@ -76,7 +76,7 @@ Model revision supports conceptual change by forcing learners to compare their p
 - [Coaching](coaching.md) — instructor feedback that makes revision cycles diagnostic rather than cosmetic
 
 ## Patterns That Use This Element
-- [Model-Evidence Link (MEL) Reasoning Pattern](../patterns/model-evidence-link-mel-reasoning-pattern.md) — the core pattern: learners draw links between scientific models and evidence, then revise their plausibility judgments
+- [Model-Evidence Link (MEL) Reasoning Pattern](../principles/epistemic-cognition.md) — the core pattern: learners draw links between scientific models and evidence, then revise their plausibility judgments
 
 ## Examples
 - **[WISE (Web-Based Inquiry Science Environment)](https://wise.berkeley.edu)** — NSF-funded inquiry projects in which students make predictions, run simulations, and revise their explanations after evaluating evidence.

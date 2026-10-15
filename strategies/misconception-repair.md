@@ -32,7 +32,7 @@ Misconceptions are resistant to simple transmission of correct information; lear
 - Presenting correct information without first eliciting the misconception typically fails; learners reinterpret it to fit their existing model [-M]
 - Cognitive conflict alone is insufficient — learners who cannot construct an intelligible, plausible alternative revert to the original conception [-M]
 - Overly strong conflict without support can cause learners to dismiss the evidence rather than the misconception [-W]
-- Less effective when the target "misconception" is actually a fragmentary or inconsistent belief rather than a coherent framework; fragmented knowledge responds better to [Cognitive Load Reduction](../principles/cognitive-load-reduction.md) approaches than to confrontation [~M]
+- Less effective when the target "misconception" is actually a fragmentary or inconsistent belief rather than a coherent framework; fragmented knowledge responds better to [Cognitive Load Reduction](../principles/cognitive-load-management.md) approaches than to confrontation [~M]
 
 #### Implementation Variability
 - **Refutation texts**: written passages that name the misconception, refute it, and present the canonical explanation

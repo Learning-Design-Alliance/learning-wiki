@@ -74,7 +74,7 @@ The protocol converts discussion from a competition for airtime into a comprehen
 
 ## Patterns That Use This Strategy
 - [Collaborative Learning](../patterns/collaborative-learning.md) — supplies the listening norms that make group work genuinely interactive
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — establishes turn-taking and comprehension norms before open discussion
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — establishes turn-taking and comprehension norms before open discussion
 - [Community of Inquiry](../principles/community-of-inquiry.md) — supports the social presence needed for cognitive exchange
 
 ## Examples

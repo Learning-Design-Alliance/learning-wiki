@@ -64,7 +64,7 @@ AR's learning benefit comes primarily from externalizing abstract or spatially c
 ## Related Strategies
 - [Simulation-based learning](../strategies/simulation-based-learning.md) — AR is one delivery mechanism for simulation; the same design principles for guided vs. exploratory simulation apply
 - [Gamification](../strategies/gamification.md) — AR apps frequently embed game mechanics; the same caveats about extrinsic motivation apply
-- [Flipped classroom](../patterns/flipped-classroom.md) — AR exploration can serve as the in-class active segment after content exposure
+- [Flipped classroom](../principles/flipped-learning.md) — AR exploration can serve as the in-class active segment after content exposure
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — AR overlays can deliver annotated, spatially anchored demonstrations of processes

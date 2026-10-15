@@ -80,7 +80,7 @@ Simulation alone is an experience; learning comes from the structure wrapped aro
 ## Patterns That Use This Strategy
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — simulation as the exploration phase before expert modeling
 - [Anchored Instruction](../patterns/anchored-instruction.md) — simulations serve as the rich anchor context for problem solving
-- [Flipped Classroom](../patterns/flipped-classroom.md) — class time freed for simulation and debriefing
+- [Flipped Classroom](../principles/flipped-learning.md) — class time freed for simulation and debriefing
 
 ## Examples
 - **PhET Interactive Simulations** (https://phet.colorado.edu) — research-validated physics and chemistry simulations; effective use pairs them with guided-inquiry worksheets rather than free play

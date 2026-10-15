@@ -142,7 +142,6 @@ Ties formed, ties used, reduced isolation, persistence, and employment or settle
 - [Ask Experts](ask-experts.md) — expert access is often a key reason to expand networks
 - [Check-ins](check-ins.md) — regular low-stakes contact can help relationships form before higher-stakes support is needed
 - [Cultural & Life Experiences Connections](cultural-life-experiences-connections.md) — network-building should respect and build from learners’ existing communities and identities
-- [Contextualize abstract content in familiar, personal topics and teach new vocabulary primarily through visuals and body language](contextualize-abstract-content-older-learners.md)
 - [Teach older language learners at a measured pace, one new skill or concept at a time, with extra review and wait time](cognitive-load-management.md)
 - [Scaffolding and Fading](scaffolding-and-fading.md) — how a mentor's support is withdrawn as the learner takes over contact-making
 - [Social Interdependence](social-interdependence.md) — how peers' goals are linked when they work together in a stable group
@@ -235,7 +234,7 @@ Expanding social networks matters because access to opportunity is often mediate
 - [Ask Experts](ask-experts.md) — expert access is often a key reason to expand networks
 - [Check-ins](check-ins.md) — regular low-stakes contact can help relationships form before higher-stakes support is needed
 - [Cultural & Life Experiences Connections](cultural-life-experiences-connections.md) — network-building should respect and build from learners’ existing communities and identities
-- [Contextualize abstract content in familiar, personal topics and teach new vocabulary primarily through visuals and body language](contextualize-abstract-content-older-learners.md)
+- [Contextualize abstract content in familiar, personal topics and teach new vocabulary primarily through visuals and body language](cultural-life-experiences-connections.md)
 - [Teach older language learners at a measured pace, one new skill or concept at a time, with extra review and wait time](cognitive-load-management.md)
 
 ## Examples
@@ -290,7 +289,7 @@ The author argues the social and linguistic isolation older immigrants face has 
 
 ## Related Principles
 
-- [Contextualize abstract content in familiar, personal topics and teach new vocabulary primarily through visuals and body language](contextualize-abstract-content-older-learners.md)
+- [Contextualize abstract content in familiar, personal topics and teach new vocabulary primarily through visuals and body language](cultural-life-experiences-connections.md)
 - [Teach older language learners at a measured pace, one new skill or concept at a time, with extra review and wait time](cognitive-load-management.md)
 
 ## Examples

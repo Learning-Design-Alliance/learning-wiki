@@ -33,7 +33,7 @@ Derived facts leverage existing knowledge as a scaffold for new knowledge, reduc
 - Over-reliance on counting-based derivation (e.g., counting on by ones) predicts persistent low achievement and should be redirected toward decomposition [~S]
 
 #### Implementation Variability
-- **Interview-based diagnosis**: teachers ask "How did you figure that out?" to identify which facts are known and which strategies are available (the basis of [Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md))
+- **Interview-based diagnosis**: teachers ask "How did you figure that out?" to identify which facts are known and which strategies are available (the basis of [Cognitively Guided Instruction](../principles/responsive-teaching.md))
 - **Strategy modeling**: the instructor demonstrates a derivation aloud, then prompts learners to generate alternative derivations for the same fact
 - **Fact families**: presenting related facts together (6 + 7, 7 + 6, 13 − 6, 13 − 7) so each known fact supports several others
 
@@ -59,7 +59,7 @@ Derived facts leverage existing knowledge as a scaffold for new knowledge, reduc
 - [Spaced Retrieval Practice](../strategies/spaced-retrieval-practice.md) — the consolidation mechanism that converts derived facts into automatic recall
 
 ## Examples
-- **Cognitively Guided Instruction (CGI)** — teachers use children's derived-fact strategies as the basis for instruction in number and operations; see [Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md).
+- **Cognitively Guided Instruction (CGI)** — teachers use children's derived-fact strategies as the basis for instruction in number and operations; see [Cognitively Guided Instruction](../principles/responsive-teaching.md).
 - **Number Talks (Parrish, 2010)** — daily classroom routines in which students mentally compute a fact or problem and share their derivation strategies, making multiple derivation paths public.
 - **Math Recovery** — one-to-one intervention programs that assess whether a child derives or counts, and target instruction at moving them toward derived-fact strategies.
 

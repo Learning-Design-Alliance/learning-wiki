@@ -35,7 +35,7 @@ The evidence for affirmation repetition as a learning intervention is weak and c
 
 #### Implementation Variability
 - **Value affirmation** (Cohen & Sherman tradition): learners write briefly about a core value before a threatening task — the best-supported variant
-- **Process affirmations**: statements tied to effort and strategy ("My effort determines my progress") aligned with [growth mindset](../principles/growth-mindset.md) framing
+- **Process affirmations**: statements tied to effort and strategy ("My effort determines my progress") aligned with [growth mindset](../principles/motivation.md) framing
 - **Self-talk restructuring**: replacing negative self-talk with neutral, instructional self-statements, common in sport psychology
 
 ### Target Learners

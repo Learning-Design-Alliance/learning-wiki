@@ -3,7 +3,7 @@ type: revisions
 page: ../patterns/flipped-classroom.md
 ---
 
-# Revision history: [patterns/flipped-classroom](../patterns/flipped-classroom.md)
+# Revision history: [patterns/flipped-classroom](../principles/flipped-learning.md)
 
 Recorded as patterns/flipped-learning before it was renamed, re-filed or merged.
 

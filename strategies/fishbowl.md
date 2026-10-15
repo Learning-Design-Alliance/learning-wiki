@@ -85,7 +85,7 @@ The fishbowl makes discussion itself the object of study: the inner circle model
 
 ## Patterns That Use This Strategy
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — the fishbowl serves as the modeling phase for discussion skills, with outer-circle coaching as the coaching phase
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — the fishbowl is a structured variant that makes discussion quality observable
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — the fishbowl is a structured variant that makes discussion quality observable
 
 ## Examples
 - **EL Education (formerly Expeditionary Learning)** protocols — the fishbowl is a named protocol in EL Education's structure of protocols for student-led discussion, used across K-12 expeditionary curricula. [https://eleducation.org](https://eleducation.org)

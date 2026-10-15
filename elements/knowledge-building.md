@@ -46,8 +46,8 @@ Knowledge-building is the element in which learners collectively construct, refi
 - [Collaborative Discussion](collaborative-discussion.md)
 
 ## Patterns That Use This Element
-- [Collaborative Inquiry](../patterns/collaborative-inquiry.md)
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md)
+- [Collaborative Inquiry](../principles/inquiry-based-learning.md)
+- [Discussion-Based Learning](../principles/collaborative-learning.md)
 
 ## Examples
 - Learners iteratively improve a shared explanation through discussion and evidence.

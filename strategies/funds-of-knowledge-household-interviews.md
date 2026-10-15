@@ -48,7 +48,7 @@ Teachers visit students' homes as participant-observers "with the purpose of ide
 ## Related Strategies
 
 - [Home Visits](home-visits.md)
-- [Funds Of Knowledge Teacher Research Model](../patterns/funds-of-knowledge-teacher-research-model.md)
+- [Funds Of Knowledge Teacher Research Model](../principles/cultural-life-experiences-connections.md)
 - [Build mathematics instruction on children's funds of knowledge uncovered through home visits and teacher study groups](funds-of-knowledge-mathematics-instruction.md)
 
 ## Examples

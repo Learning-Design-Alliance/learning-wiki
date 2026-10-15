@@ -80,7 +80,7 @@ Problem-based learning works as a team-building mechanism because a shared, cons
 
 ## Examples
 - **Problem-based medical education** (e.g., the Maastricht and McMaster curricula): diverse tutorial groups analyze patient cases, with the tutorial process explicitly designed to build collaborative competence alongside clinical reasoning.
-- **Harvard Business School case method** ([Case-Based Learning — Harvard Method](../patterns/case-based-learning-harvard-method.md)): culturally diverse MBA sections must reach and defend positions on ambiguous management cases under cold-calling norms that enforce participation equity.
+- **Harvard Business School case method** ([Case-Based Learning — Harvard Method](../patterns/case-based-learning.md)): culturally diverse MBA sections must reach and defend positions on ambiguous management cases under cold-calling norms that enforce participation equity.
 - **Corporate global leadership programs** (e.g., GE's Crotonville action-learning teams): mixed-nationality teams solve real business problems, with team-process debriefs built into the program design.
 
 ## Key Sources

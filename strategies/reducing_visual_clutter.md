@@ -60,7 +60,7 @@ Visual clutter competes for limited attentional resources: young learners in hig
 
 ## Related Strategies
 - [Clear Structure & Presentation](../principles/clear-structure.md) — the same decluttering logic applied to the structure of content rather than the environment
-- [Cognitive Load Reduction](../principles/cognitive-load-reduction.md) — the broader family of techniques for cutting extraneous processing
+- [Cognitive Load Reduction](../principles/cognitive-load-management.md) — the broader family of techniques for cutting extraneous processing
 - [Chunking](../principles/chunking.md) — organizing remaining visual content into meaningful groups so it loads efficiently
 
 ## Examples

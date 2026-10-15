@@ -59,7 +59,7 @@ This paradigm organizes design guidance around three recurring dilemmas, each wi
 - [Three-theme characterization of innovative interdisciplinary exploratory research: new frontiers, equitable co-design, and networked communities](three-themes-exploratory-research-character.md)
 
 ## Examples
-- [Interdisciplinary Course-Based Research Experience](../patterns/interdisciplinary-course-based-research-experience.md) — a "human capital" content-dilemma response, using students' own disciplinary networks instead of pre-designed disciplinary content
+- [Interdisciplinary Course-Based Research Experience](../principles/inquiry-based-learning.md) — a "human capital" content-dilemma response, using students' own disciplinary networks instead of pre-designed disciplinary content
 - [Organization Simulation for Interdisciplinary Learning](../designs/organization-simulation-for-interdisciplinary-learning.md) — a pedagogy-dilemma response built around a shared simulated task and evolving knowledge objects
 - [Interdisciplinary Societal Dilemma Units](../designs/interdisciplinary-societal-dilemma-units.md) — a "sandwich"-sequence content-dilemma response for K-12, paired with an organization-dilemma response (moving the program out of school)
 - [Humanizing Co-Design with Educators](../processes/humanizing-co-design-with-educators.md) — an infrastructuring response that brings researchers and educators together as co-designers across institutional boundaries

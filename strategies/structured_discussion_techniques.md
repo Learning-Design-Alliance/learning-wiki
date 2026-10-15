@@ -76,7 +76,7 @@ Structured discussion converts discussion from an unguided activity into a scaff
 - [Check-In](../elements/check-in.md) — monitoring participation and understanding mid-discussion
 
 ## Patterns That Use This Strategy
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — structured discussion is the primary mechanism
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — structured discussion is the primary mechanism
 - [Cooperative Learning](../patterns/cooperative-learning.md) — role structures and positive interdependence overlap with discussion roles
 - [Debate](../patterns/debate.md) — a highly formalized structured discussion variant
 

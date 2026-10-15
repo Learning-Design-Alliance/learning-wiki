@@ -60,7 +60,7 @@ The articles disagree about how well the system works. Roshandel et al. (2018) s
 
 ## Examples
 
-- [Foster learners' enjoyment and accumulated L2 learning experience to motivate effort](../principles/foster-enjoyment-and-l2-learning-experience.md)
+- [Foster learners' enjoyment and accumulated L2 learning experience to motivate effort](../principles/motivation.md)
 - [Teachers should identify students' motivating factors and design interesting, challenging activities to build L2 self-efficacy](../strategies/teachers-identify-motivating-factors-design-challenging-activities.md)
 
 ## Key Sources

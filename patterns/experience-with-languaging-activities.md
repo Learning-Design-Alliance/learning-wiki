@@ -132,13 +132,13 @@ Record: **experience and the named content idea → each learner's account, and 
 
 [Reflection activities](../elements/reflection-activities.md), [metacognitive reflection](../elements/metacognitive-reflection.md), [individual reflection](../elements/individual-reflection.md), [journaling](../elements/journaling.md), [writing prompts](../elements/writing-prompts.md), [prompts](../elements/prompts.md), [question formulation](../elements/question-formulation.md), [structured discussion](../elements/structured-discussion.md), [class discussion](../elements/class-discussion.md) and [feedback](../elements/feedback.md). Principles it draws on: [Reflection](../principles/reflection.md), [Activation](../principles/activation.md), [Experiential Learning](../principles/experiential-learning.md), [Pre-reading Questioning](../principles/pre-reading-questioning.md), [Cultural and Life Experiences Connections](../principles/cultural-life-experiences-connections.md) and [Self-Monitoring](../principles/self-monitoring.md).
 
-This pattern is scoped to a short question routine applied to an experience or text in any subject. It does not supply the content (a learner who cannot make sense of the experience needs the content taught first), it is not a full experiential cycle with a second attempt ([Experiential Learning Cycle](experiential-learning-cycle.md)), and it is not a discussion protocol ([Discussion-Based Learning](discussion-based-learning.md)). The policy supports observation and design reasoning; whether the four-question routine improves understanding over the same experiences with a content summary or open discussion, for which learners, at what time cost and at what horizon, remains to be tested.
+This pattern is scoped to a short question routine applied to an experience or text in any subject. It does not supply the content (a learner who cannot make sense of the experience needs the content taught first), it is not a full experiential cycle with a second attempt ([Experiential Learning Cycle](experiential-learning-cycle.md)), and it is not a discussion protocol ([Discussion-Based Learning](../principles/collaborative-learning.md)). The policy supports observation and design reasoning; whether the four-question routine improves understanding over the same experiences with a content summary or open discussion, for which learners, at what time cost and at what horizon, remains to be tested.
 
 ## Related Patterns
 
 - [Ten guiding precepts for school-wide languaging-oriented reading programs](../theories/lica-guiding-precepts.md)
 - [Experiential Learning Cycle](experiential-learning-cycle.md) — a designed experience, debrief and changed attempt; this routine is the lighter question sequence that can serve as its debrief
-- [Discussion-Based Learning](discussion-based-learning.md) — the steps can be run as structured talk; more talk alone is not what helps
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — the steps can be run as structured talk; more talk alone is not what helps
 
 ## Examples
 

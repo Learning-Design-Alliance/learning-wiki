@@ -59,7 +59,7 @@ Curation reduces extraneous cognitive load: every navigation decision, broken li
 6. Schedule recurring maintenance to verify links and retire outdated materials.
 
 ## Related Strategies
-- [Flipped classroom](../patterns/flipped-classroom.md) — organized pre-class resource collections are the delivery mechanism for flipped models
+- [Flipped classroom](../principles/flipped-learning.md) — organized pre-class resource collections are the delivery mechanism for flipped models
 - [Clear structure](../principles/clear-structure.md) — the organizational principle the collection itself must embody
 - [Advance organizers](../elements/advance-organizers.md) — the framing statements that give a resource collection its navigational schema
 

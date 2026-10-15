@@ -67,7 +67,6 @@ Case-based learning improves exam performance and supports transfer by forcing l
 
 ## Patterns That Use This Element
 - [Case-Based Learning](../patterns/case-based-learning.md) — the full instructional sequence built around case analysis and debrief
-- [Case-Based Learning (Harvard Method)](../patterns/case-based-learning-harvard-method.md) — cold-calling and discussion-intensive facilitation of business school cases
 - [Problem-Based Learning](../patterns/problem-based-learning.md) — case as the trigger for self-directed problem solving
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — cases as the context for coaching and articulation
 

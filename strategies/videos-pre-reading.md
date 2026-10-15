@@ -64,7 +64,7 @@ Video pre-reading works because it activates relevant prior knowledge before lea
 ## Examples
 - Before reading an article on rainforest ecology, a short documentary segment on biodiversity and deforestation is shown; pairs discuss "What does the video suggest about why deforestation spreads?" before reading a text that develops the economic and policy dimensions the video omitted.
 - In a history unit, a 4-minute archival footage clip precedes a primary-source reading; discussion questions ask students to identify what the footage *cannot* show, motivating close reading of the source.
-- Science courses using the [5E Learning Cycle](../patterns/5e-learning-cycle.md) often place a short phenomenon video in the **Engage** phase, followed by pair discussion, before the **Explain** phase's reading.
+- Science courses using the [5E Learning Cycle](../principles/inquiry-based-learning.md) often place a short phenomenon video in the **Engage** phase, followed by pair discussion, before the **Explain** phase's reading.
 
 ## Key Sources
 - Ausubel, D. P. (1960). The use of advance organizers in the learning and retention of meaningful verbal material. *Journal of Educational Psychology, 51*(5), 267–272. [doi:10.1037/h0046669](https://doi.org/10.1037/h0046669)

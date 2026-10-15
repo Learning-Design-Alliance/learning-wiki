@@ -1,7 +1,7 @@
 ---
 type: principle
 id: character-education
-aliases: [character-education-promotes-civic-competence, indirect-moral-education-through-school-life]
+aliases: [character-education-promotes-civic-competence, indirect-moral-education-through-school-life, nurture-ubuntu-spirit-students, integrated-constructivist-value-education-transaction, moral-practice-must-be-deliberative]
 title: Character Education
 description: "For school-age and university learners, making ethical understanding, caring response and moral action part of everyday school life (shared conflict-resolution routines, class meetings, service tied to reflection, moral problems in specific situations across subjects) is expected to change behaviour and civic commitment more than a separate civic or moral course or rule recitation; WWC reviews test three branded programmes against usual practice, finding behaviour effects more often than attitude or achievement effects, but no claim tests the integrated form against a separate course."
 canonical: true
@@ -18,12 +18,24 @@ sources:
     resource: "https://www.ovpes.org/"
     title: "Xiangdong Liu. (2014). The Problem of Character Education and Kohlberg's Moral Education: Critique from Dewey's Moral Deliberation. Philosophical Studies in Education 45. https://www.ovpes.org/"
     author: Xiangdong Liu
+  - id: stewart-williams-2020
+    resource: "https://ojed.org/jise"
+    title: "Stewart Williams, J. E. (2020). Daisaku Ikeda's Philosophy of Value-Creating Global Citizenship Education and Africana Humanism: Africa as the Continent of the 21st Century. Journal of Interdisciplinary Studies in Education, 9(SI). https://ojed.org/jise"
+    author: Stewart Williams, J. E
+  - id: sankaranarayanan-paleeri-2014
+    resource: "https://www.imanagerpublications.com"
+    title: "Sankaranarayanan Paleeri. (2014). Setting Objectives of Value Education in Constructivist Approach in the Light of Revised Blooms Taxonomy (RBT). i-manager's Journal of School Educational Technology. https://www.imanagerpublications.com"
+    author: Sankaranarayanan Paleeri
+  - id: norberg-2003
+    resource: "http://www.ed.psu.edu/uceacsle/"
+    title: "Norberg, K. (2003). Constitutive Values and Daily Practice in a Swedish School. Values and Ethics in Educational Administration, 1(3). http://www.ed.psu.edu/uceacsle/"
+    author: Norberg, K
 ---
 
 # Character Education
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 22 claims (14 for, 7 mixed, 1 against) · 10 studies (4 theoretical, 3 quant-synthesis, 2 causal, 1 associational), `q1`–`q4` · 3 of 10 report an effect size · 21 claims rest on one study
+> **Evidence** · 26 claims (18 for, 7 mixed, 1 against) · 12 studies (5 theoretical, 3 quant-synthesis, 2 causal, 1 associational, 1 qualitative), `q1`–`q4` · 3 of 12 report an effect size · 25 claims rest on one study
 
 ## Conditional relationship
 
@@ -118,6 +130,10 @@ Learners, programmes and outcomes differ across these claims (US elementary scho
 
 - [Ten developmental experiences are proposed as key mechanisms whereby settings influence character development](../claims/ten-developmental-experiences-build-character.md) [+W] — a theoretical proposal (opportunities to act and reflect) that matches steps 5 and 8; no test.
 - [Dewey rejects Kohlberg's fixed stage hierarchy](../claims/dewey-rejects-fixed-moral-stages.md) [~W] — philosophical argument behind step 3's preference for real problems; bears on the Kohlberg theory link, not on a design outcome.
+- [Lecturing On Values Does Not Transact Values Effectively](../claims/lecturing-on-values-does-not-transact-values-effectively.md) [+W]
+- [Field Notes Wake Up Calls](../claims/field-notes-wake-up-calls.md) [+M]
+- [Spontaneous Reactions Draw On Internalised Values](../claims/spontaneous-reactions-draw-on-internalised-values.md) [+M]
+- [Dewey grounds morality in everyday problems, making administrative practice chiefly an ethical undertaking resolved by reflective appraisal of competing values](../claims/dewey-morality-in-everyday-problems.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -137,7 +153,6 @@ Behaviour, civic commitment, ethical reasoning, attitudes, achievement and what 
 - [Building Empathy](building-empathy.md) — structured perspective-taking
 - [Effective Classroom Management Plan](effective-classroom-management-plan.md) — the classroom-wide plan inside which conflict-resolution discipline sits
 - [Culturally Responsive Classroom Norms](culturally-responsive-classroom-norms.md) — reading a departure from a norm as a possible difference of convention
-- [Moral Practice Must Be Deliberative](moral-practice-must-be-deliberative.md) — the argument for weighing alternatives in moral practice
 - [Teach Civic Responsibility, Not Proficiency](teach-civic-responsibility-not-proficiency.md) — a civic framing of competence
 
 ## Examples
@@ -153,6 +168,10 @@ Behaviour, civic commitment, ethical reasoning, attitudes, achievement and what 
 - [Caring School Community™ program with four schoolwide components](../products/caring-school-community.md)
 - [Positive Action K-12 character education curriculum](../products/positive-action.md)
 - [Pairing an ethics curriculum with integrated community service learning](../strategies/ethics-curriculum-with-integrated-service-learning.md)
+- [Advance value-creating-modeled curriculum projects in Africana communities to foster ubuntu, happiness, and contributive lifestyles](../strategies/value-creating-curriculum-africana-youth.md)
+- [Ubuntu philosophy sessions to build tutor community and student camaraderie](../strategies/ubuntu-philosophy-tutor-pl-sessions.md)
+- [Return observational field-notes to teachers and discuss critical episodes in team meetings as dialogical data generation](../strategies/field-notes-dialogical-data-generation.md)
+- [Create dialogic spaces where students and educators negotiate GenAI dilemmas together](../strategies/dialogic-spaces-genai-negotiation.md)
 
 ## Key Sources
 - Elkind, D., & Sweet, F. (2004). How to do character education. Retrieved from http://www.goodcharacter.com/Article_4.html
@@ -163,6 +182,9 @@ Behaviour, civic commitment, ethical reasoning, attitudes, achievement and what 
 - Arduini-Van Hoose, N. (2020). Moral development. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
 - Naval, C.; Villacís, J.L.; Ibarrola-García, S. (2022). The Transversality of Civic Learning as the Basis for Development in the University. Educ. Sci. 2022, 12, 240. https://doi.org/10.3390/educsci12040240
 - Xiangdong Liu. (2014). The Problem of Character Education and Kohlberg's Moral Education: Critique from Dewey's Moral Deliberation. Philosophical Studies in Education 45. https://www.ovpes.org/
+- Stewart Williams, J. E. (2020). Daisaku Ikeda's Philosophy of Value-Creating Global Citizenship Education and Africana Humanism: Africa as the Continent of the 21st Century. Journal of Interdisciplinary Studies in Education, 9(SI). https://ojed.org/jise
+- Sankaranarayanan Paleeri. (2014). Setting Objectives of Value Education in Constructivist Approach in the Light of Revised Blooms Taxonomy (RBT). i-manager's Journal of School Educational Technology. https://www.imanagerpublications.com
+- Norberg, K. (2003). Constitutive Values and Daily Practice in a Swedish School. Values and Ethics in Educational Administration, 1(3). http://www.ed.psu.edu/uceacsle/
 
 <!-- deprecated 2026-10-14: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -324,4 +346,127 @@ Following Dewey, the article argues character education should not be confined t
 
 ## Key Sources
 - Xiangdong Liu. (2014). The Problem of Character Education and Kohlberg's Moral Education: Critique from Dewey's Moral Deliberation. Philosophical Studies in Education 45. https://www.ovpes.org/
+-->
+
+<!-- merged 2026-10-15 from principles/nurture-ubuntu-spirit-students ("Nurture the ubuntu spirit in students because it aligns with global citizenship and embodies a humanistic ethos"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Nurture the ubuntu spirit in students because it aligns with global citizenship and embodies a humanistic ethos
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
+
+## Description
+The article states that Ikeda advocates for societies to nurture in students the ubuntu spirit, which aligns with his understanding of global citizenship. African philosophies like ubuntu are said to embody a humanistic ethos enabling individuals to manifest happiness and self-fulfillment in daily lives. In the conclusions, the humanity of unity in diversity is named as ubuntu, grounding regional unity in educational practice.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Educational practice founded on respect for human life and human unity
+#### Constraints
+- 
+
+### Target Learners
+- African students
+- students in the diaspora
+
+### Target Learning Objectives
+- happiness and self-fulfillment
+- global citizenship
+- unity in diversity
+
+### Claims
+- 
+
+## Related Principles
+- 
+
+## Examples
+
+- [Advance value-creating-modeled curriculum projects in Africana communities to foster ubuntu, happiness, and contributive lifestyles](../strategies/value-creating-curriculum-africana-youth.md)
+- [Ubuntu philosophy sessions to build tutor community and student camaraderie](../strategies/ubuntu-philosophy-tutor-pl-sessions.md)
+
+## Key Sources
+- Stewart Williams, J. E. (2020). Daisaku Ikeda's Philosophy of Value-Creating Global Citizenship Education and Africana Humanism: Africa as the Continent of the 21st Century. Journal of Interdisciplinary Studies in Education, 9(SI). https://ojed.org/jise
+-->
+
+<!-- merged 2026-10-15 from principles/integrated-constructivist-value-education-transaction ("Integrate value education into regular subject teaching through a constructivist, facilitator role rather than separate lecture classes"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Integrate value education into regular subject teaching through a constructivist, facilitator role rather than separate lecture classes
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+The article argues that separate lecture-and-advice oriented value education classes are unnecessary in an integrated, process-based system. It states that "Values can be taught as a fact" (NCERT, 2005) and that "Teachers of any subject can plan transaction of values in the classroom by transacting them through the methods designed in accordance with the processes suggested in the Revised Bloom's Taxonomy." In the constructivist approach the teacher functions as facilitator while students themselves identify and work on values.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Teachers of any subject frame one or more value education objectives purposively in each lesson, embedded in regular teaching.
+#### Constraints
+- The article presents this as a recommendation grounded in the Indian policy context (NCERT, NCF 2005) rather than a tested intervention.
+
+### Target Learners
+- school students in India
+- teachers of any subject
+
+### Target Learning Objectives
+- inculcation of social and personal values through integrated, process-based teaching
+
+### Claims
+- [Lecturing On Values Does Not Transact Values Effectively](../claims/lecturing-on-values-does-not-transact-values-effectively.md) [+M]
+- [Rbt Process Dimensions Value Education Objectives](../theories/rbt-process-dimensions-value-education-objectives.md) [+M]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Sankaranarayanan Paleeri. (2014). Setting Objectives of Value Education in Constructivist Approach in the Light of Revised Blooms Taxonomy (RBT). i-manager's Journal of School Educational Technology. https://www.imanagerpublications.com
+-->
+
+<!-- merged 2026-10-15 from principles/moral-practice-must-be-deliberative ("Moral practice in schools must also be deliberative practice, with space for deliberation in teacher education and school"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Moral practice in schools must also be deliberative practice, with space for deliberation in teacher education and school
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 3 claims (3 for) · 2 studies (1 qualitative, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 3 claims rest on one study
+
+## Description
+Because individual beliefs and moment-by-moment responses may lead to actions that counteract constitutive values, the article argues moral practice must also be a deliberative practice "where alternatives are weighed and courses of action are adopted". It concludes there has to be space for deliberation within Swedish teacher education and school, since the läroplan is a political framework rather than a pedagogic or didactic prescription. Interpreting, internalising and applying democratic values is described as a never-ending process that has to be constantly reviewed.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Space for deliberation within teacher education and school, so problematic episodes can be anticipated and democratic values more easily realised
+#### Constraints
+- The läroplan is a political framework rather than a pedagogic or didactic prescription, so it does not itself prescribe how to act
+
+### Target Learners
+- Teachers and student teachers in Swedish schools
+
+### Target Learning Objectives
+- Aligning personal values and daily practice with the constitutive democratic values of the national curriculum
+
+### Claims
+
+- [Field Notes Wake Up Calls](../claims/field-notes-wake-up-calls.md) [+M]
+- [Spontaneous Reactions Draw On Internalised Values](../claims/spontaneous-reactions-draw-on-internalised-values.md) [+M]
+- [Dewey grounds morality in everyday problems, making administrative practice chiefly an ethical undertaking resolved by reflective appraisal of competing values](../claims/dewey-morality-in-everyday-problems.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Return observational field-notes to teachers and discuss critical episodes in team meetings as dialogical data generation](../strategies/field-notes-dialogical-data-generation.md)
+- [Create dialogic spaces where students and educators negotiate GenAI dilemmas together](../strategies/dialogic-spaces-genai-negotiation.md)
+
+## Key Sources
+- Norberg, K. (2003). Constitutive Values and Daily Practice in a Swedish School. Values and Ethics in Educational Administration, 1(3). http://www.ed.psu.edu/uceacsle/
 -->

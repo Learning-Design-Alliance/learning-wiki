@@ -32,7 +32,7 @@ Case studies are the element in which learners analyze a concrete scenario, inci
 
 ### Affordances
 - [Case Studies/Case-based Learning](../patterns/case-based-learning.md)
-- [Constructivist Learning](../principles/constructivism.md)
+- [Constructivist Learning](../principles/cognitive-activation.md)
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
@@ -45,7 +45,7 @@ Case studies are the element in which learners analyze a concrete scenario, inci
 - [Assigned Readings](assigned-readings.md)
 
 ## Patterns That Use This Element
-- [Case-Based Learning (Harvard Method)](../patterns/case-based-learning-harvard-method.md)
+- [Case-Based Learning (Harvard Method)](../patterns/case-based-learning.md)
 - [Problem-Based Learning](../patterns/problem-based-learning.md)
 
 ## Examples

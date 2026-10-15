@@ -1,7 +1,7 @@
 ---
 type: principle
 id: cognitive-load-management
-aliases: [design-principles-depend-on-prior-knowledge, determine-element-interactivity-before-designing-instruction, low-task-complexity-child-learners-recasts, measured-pace-one-concept-at-a-time-older-learners, reduce-extraneous-optimize-intrinsic-increase-germane]
+aliases: [design-principles-depend-on-prior-knowledge, determine-element-interactivity-before-designing-instruction, low-task-complexity-child-learners-recasts, measured-pace-one-concept-at-a-time-older-learners, reduce-extraneous-optimize-intrinsic-increase-germane, cognitive-load-reduction]
 title: Cognitive Load Management
 description: "Across a sequence, matching how presentation, task order and support distribute processing demand to a learner's current task-specific capacity is expected to improve learning, while keeping effortful processing that the intended outcome and horizon need; in the wiki, single levers and two whole load-reducing designs are tested, the withdraw-and-restore policy is not."
 canonical: true
@@ -138,8 +138,9 @@ A learning-phase efficiency gain, immediate performance, near transfer, delayed 
 
 - [Cognitive Load Theory](cognitive-load-theory.md)
 - [Use the age-friendly ESL classroom as a remedy for social isolation by building a supportive community of learners with confidence-building and peer mentoring](expanding-social-networks.md)
-- [Contextualize abstract content in familiar, personal topics and teach new vocabulary primarily through visuals and body language](contextualize-abstract-content-older-learners.md)
+- [Contextualize abstract content in familiar, personal topics and teach new vocabulary primarily through visuals and body language](cultural-life-experiences-connections.md)
 - [Pre-training Principle](pretraining.md)
+- [Scaffolding](scaffolding.md)
 
 ## Examples
 
@@ -154,6 +155,8 @@ A learning-phase efficiency gain, immediate performance, near transfer, delayed 
 - [Jointly varying intrinsic and extraneous load in a Reversi game to isolate germane load effects](../designs/reversi-training-conditions-varying-intrinsic-and-extraneous-load.md)
 - [Progressively disclose analytical depth: start beginners with streamlined visual interfaces, then introduce richer analytical tools as expertise grows](../strategies/progressive-disclosure-visual-to-analytical-support.md)
 - [Apply cognitive science design principles simultaneously and in combination when revising curriculum, with targeted rather than arbitrary development decisions](../strategies/apply-cognitive-principles-simultaneously-in-curriculum-revision.md)
+- A history text is reorganized into short sections with headings, key dates, and a timeline so learners can process causal relationships without hunting for structure.
+- A coding tutorial removes unnecessary UI options and provides starter files so novices can focus on the target concept before handling full project complexity.
 
 ## Key Sources
 - Sweller, J., van Merriënboer, J. J. G., & Paas, F. (1998). Cognitive architecture and instructional design. *Educational Psychology Review, 10*(3), 251-296. [https://doi.org/10.1023/A:1022193728205](https://doi.org/10.1023/A:1022193728205)
@@ -351,7 +354,7 @@ Because older adults tend to process information more slowly and may have declin
 ## Related Principles
 
 - [Use the age-friendly ESL classroom as a remedy for social isolation by building a supportive community of learners with confidence-building and peer mentoring](expanding-social-networks.md)
-- [Contextualize abstract content in familiar, personal topics and teach new vocabulary primarily through visuals and body language](contextualize-abstract-content-older-learners.md)
+- [Contextualize abstract content in familiar, personal topics and teach new vocabulary primarily through visuals and body language](cultural-life-experiences-connections.md)
 
 ## Examples
 
@@ -404,4 +407,46 @@ The article states that instructional material is most effective when no load ty
 
 ## Key Sources
 - Houichi, A., & Sarnou, D. (2020). Cognitive Load Theory and its Relation to Instructional Design: Perspectives of Some Algerian University Teachers of English. Arab World English Journal. https://dx.doi.org/10.24093/awej/vol11no4.8
+-->
+
+<!-- merged 2026-10-15 from principles/cognitive-load-reduction ("Cognitive Load Reduction"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Cognitive Load Reduction
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies (2 review, 1 causal), `q2`–`q3` · 0 of 3 report an effect size
+
+## Description
+Cognitive load reduction is the short-form canonical target for instructional moves that simplify presentation, reduce extraneous processing, and make initial learning more manageable.
+
+## Implications
+Cognitive load reduction is most useful at the point where presentation format, task setup, or competing demands would otherwise consume the attention learners need for understanding. The practical implication is not to make learning easy in the abstract, but to remove avoidable processing so learners can focus on the structure of the idea or task [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S]. Chunking, signaling, and simplification often help novices learn faster at first, but oversimplifying can also weaken later transfer if learners never reconnect the simplified version to authentic complexity.
+
+### Context
+#### Requirements
+- **Attention to sources of unnecessary processing**
+- **Design choices that simplify without removing the core learning**
+#### Constraints
+- **Too much simplification can weaken later transfer**
+
+### Target Learning Objectives
+- Preserve working-memory capacity for understanding and schema formation.
+
+### Theory
+#### Supporting
+- [Cognitive Load Management](cognitive-load-management.md)
+- [Cognitive Load Theory](cognitive-load-theory.md)
+
+### Claims
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S] — reducing extraneous processing helps working memory stay available for understanding and schema formation
+
+## Related Principles
+- [Scaffolding](scaffolding.md)
+
+## Examples
+- A history text is reorganized into short sections with headings, key dates, and a timeline so learners can process causal relationships without hunting for structure.
+- A coding tutorial removes unnecessary UI options and provides starter files so novices can focus on the target concept before handling full project complexity.
+
+## Key Sources
+- Sweller, J., van Merriënboer, J. J. G., & Paas, F. (1998). Cognitive architecture and instructional design. *Educational Psychology Review, 10*(3), 251-296. [https://doi.org/10.1023/A:1022193728205](https://doi.org/10.1023/A:1022193728205)
 -->

@@ -16,7 +16,7 @@ generated:
 > **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 13 studies (6 quant-synthesis, 3 causal, 3 review, 1 theoretical), `q2`–`q4` · 7 of 13 report an effect size
 
 ## Description
-Station rotation divides a class into small groups that cycle through a fixed sequence of learning stations on a predictable schedule. Typically at least one station is teacher-led small-group instruction, one is collaborative or hands-on work, and one is independent or digital practice. Unlike [Flipped Classroom](../patterns/flipped-classroom.md) or lab rotation models, learners stay in one room and the *stations* are fixed while the students move.
+Station rotation divides a class into small groups that cycle through a fixed sequence of learning stations on a predictable schedule. Typically at least one station is teacher-led small-group instruction, one is collaborative or hands-on work, and one is independent or digital practice. Unlike [Flipped Classroom](../principles/flipped-learning.md) or lab rotation models, learners stay in one room and the *stations* are fixed while the students move.
 
 ## Design Implications
 
@@ -47,7 +47,7 @@ Station rotation operationalizes [Active Learning](../principles/active-learning
 - **Whole-class rotation**: all groups rotate on a teacher-paced timer (common in K–6 literacy blocks)
 - **Flexible rotation**: learners move when they complete a station's exit criterion rather than on a clock
 - **Two-station variant**: teacher-led and independent only, for shorter periods or adult-education settings
-- **Flipped-station hybrid**: the digital station delivers new content ([Flipped Classroom](../patterns/flipped-classroom.md)), freeing the teacher station for application coaching
+- **Flipped-station hybrid**: the digital station delivers new content ([Flipped Classroom](../principles/flipped-learning.md)), freeing the teacher station for application coaching
 - **Whole-class rotation** (all students rotate together) vs. **exit-ticket tiering** (only students needing reteach rotate to the teacher station while others continue)
 - Two-, three-, or four-station configurations; two-station "dip" models reduce transition overhead
 - Anchor activities (extension tasks) absorb pacing differences at independent stations
@@ -78,7 +78,7 @@ Station rotation operationalizes [Active Learning](../principles/active-learning
 
 ## Related Strategies
 
-- [Flipped Classroom](../patterns/flipped-classroom.md) — the whole-class-to-home variant of the same logic: relocate direct instruction so class time is interactive
+- [Flipped Classroom](../principles/flipped-learning.md) — the whole-class-to-home variant of the same logic: relocate direct instruction so class time is interactive
 - [Blended Learning](../patterns/blended-learning.md) — station rotation is one of the canonical blended-learning models
 - [Small-Group Instruction](../elements/small-group-instruction.md) — the teacher-led station is small-group instruction embedded in a rotation structure
 - [Implement Math 180 as a blended rotation model with 1:1 computer use during rotation and roughly half the class on software at a time](math-180-blended-rotation-implementation.md)

@@ -61,7 +61,7 @@ Structured perspective-taking discussion supports conceptual growth because lear
 
 - [Case-based discussion](../patterns/case-based-learning.md) — cases are a natural vehicle for embedding multiple stakeholder perspectives in one artifact
 - [Debate](../patterns/debate.md) — a formalized version of perspective discussion with assigned positions and evidence rules
-- [Discussion-based learning](../patterns/discussion-based-learning.md) — the broader pattern this strategy instantiates with a multiperspectival focus
+- [Discussion-based learning](../principles/collaborative-learning.md) — the broader pattern this strategy instantiates with a multiperspectival focus
 - [Facilitate cognitive disequilibrium about ethnocentric views](facilitate-cognitive-disequilibrium.md)
 
 ## Examples

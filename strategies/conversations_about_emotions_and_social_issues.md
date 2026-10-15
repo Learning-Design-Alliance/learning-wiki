@@ -174,7 +174,7 @@ Explicit conversation works because it converts tacit social-emotional experienc
 - [Assigned Positions](../elements/assigned-positions.md) — structures perspective exchange in controversial topics
 
 ## Patterns That Use This Strategy
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — social-emotional conversations are a special case with affective rather than purely academic content
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — social-emotional conversations are a special case with affective rather than purely academic content
 - [Debate](../patterns/debate.md) — structured disagreement as a vehicle for understanding opposing experiences
 - [Community of Inquiry](../principles/community-of-inquiry.md) — social presence is a precondition for honest emotional discussion
 

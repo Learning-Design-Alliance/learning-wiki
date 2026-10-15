@@ -40,7 +40,7 @@ The curriculum is organized around the 5E instructional model (Engage, Explore, 
 - 
 
 ## Related Designs
-- [5E Learning Cycle](../patterns/5e-learning-cycle.md)
+- [5E Learning Cycle](../principles/inquiry-based-learning.md)
 
 ## Examples
 -

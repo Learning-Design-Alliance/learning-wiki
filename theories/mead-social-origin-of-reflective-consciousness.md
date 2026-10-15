@@ -50,7 +50,7 @@ The article reconstructs Mead's central claim that reflective consciousness — 
 
 ## Examples
 
-- [Create social situations in which meaning arises through the learner's own response](../principles/create-social-situations-for-meaning.md)
+- [Create social situations in which meaning arises through the learner's own response](../principles/collaborative-learning.md)
 - [Organize education around the child's response to material rather than the material provided by elders](../principles/active-learning.md)
 - [Emphasize cooperation and communication to train students' cooperative consciousness](../strategies/cooperation-communication-train-cooperative-consciousness.md)
 

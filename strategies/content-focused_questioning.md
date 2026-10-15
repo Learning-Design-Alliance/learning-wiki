@@ -60,7 +60,7 @@ Questioning is one of the most consistently supported teacher moves in reading i
 ## Related Strategies
 - Reciprocal teaching — a formalized routine in which students take turns leading content-focused questioning of a text
 - [Case-Based Learning](../patterns/case-based-learning.md) — questioning applied to extended cases rather than short texts
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — the broader pattern this strategy supports with prepared questions
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — the broader pattern this strategy supports with prepared questions
 
 ## Examples
 - A middle-school ELA teacher asks students to identify the central claim of an opinion article, then to list two pieces of evidence the author uses, before discussing whether the evidence is persuasive.

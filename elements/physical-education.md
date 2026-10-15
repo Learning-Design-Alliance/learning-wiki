@@ -67,7 +67,7 @@ Effective PE instruction sequences observation, guided practice, and application
 ## Patterns That Use This Element
 - [Direct Instruction](../patterns/direct-instruction.md) — demonstration–practice–feedback cycles for discrete skills
 - [Cooperative Learning](../patterns/cooperative-learning.md) — Sport Education's team roles and accountability structures
-- [Flipped Classroom](../patterns/flipped-classroom.md) — skill videos viewed before class free lesson time for activity and coaching
+- [Flipped Classroom](../principles/flipped-learning.md) — skill videos viewed before class free lesson time for activity and coaching
 
 ## Examples
 

@@ -1,6 +1,7 @@
 ---
 type: principle
 id: cognitive-disequilibrium
+aliases: [account-for-existing-ideas-correct-teleologic-language]
 title: Cognitive Disequilibrium
 description: "For a learner who holds a confident but inaccurate explanation, meeting evidence it cannot account for and then being helped to resolve the mismatch is expected to improve conceptual understanding more than the correct account alone, with weak evidence that the revision lasts or that conflict without support helps."
 canonical: true
@@ -13,12 +14,15 @@ sources:
     resource: "https://doi.org/10.1002/sce.3730660207"
     title: "Posner, G. J., Strike, K. A., Hewson, P. W., & Gertzog, W. A. (1982). Accommodation of a scientific conception: Toward a theory of conceptual change. *Science Education, 66*(2), 211-227"
     author: "Posner, G. J., Strike, K. A., Hewson, P. W., & Gertzog, W. A"
+  - id: bautista-2015
+    title: "Bautista, R. G. (2015). Students' affordance of teleologic explanations and anthropomorphic language in eliciting concepts in physics. Journal of Technology and Science Education, 5(1), 31-40. https://doi.org/10.3926/jotse.137"
+    author: Bautista, R. G.
 ---
 
 # Cognitive Disequilibrium
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 18 claims (6 for, 10 mixed, 2 against) · 23 studies (9 causal, 5 quant-synthesis, 4 review, 2 qualitative, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 5 of 23 report an effect size · 13 claims rest on one study
+> **Evidence** · 24 claims (11 for, 11 mixed, 2 against) · 25 studies (10 causal, 5 quant-synthesis, 4 review, 2 qualitative, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 6 of 25 report an effect size · 19 claims rest on one study
 
 ## Conditional relationship
 
@@ -104,6 +108,12 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — not settled: the text available could not confirm the entries (abstract)
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — not settled: the text available could not confirm the entries (abstract)
+- [Anthropomorphic Explanations Corrected By Pedagogical Interventions](../claims/anthropomorphic-explanations-corrected-by-pedagogical-interventions.md) [+M]
+- [Classroom pedagogical interventions significantly reduce teleologic and anthropomorphic language, with curricular exposure but not age as a significant factor](../claims/interventions-reduce-teleologic-anthropomorphic-language-curriculum-not-age.md) [+M]
+- [Students who just completed secondary education and those from the English curriculum showed the least teleologic-anthropomorphic affordance](../claims/english-curriculum-and-recent-graduates-least-teleologic-anthropomorphic.md) [+W]
+- [The interaction of interventions with age and curricular undertaking is not significant at the .05 level](../claims/intervention-age-curriculum-interaction-not-significant.md) [~W]
+- [Students' teleologic explanations and anthropomorphic languages correlate with age and are associated with curricular undertaking](../claims/teleologic-anthropomorphic-language-related-to-age-and-curriculum.md) [+W]
+- [Anthropomorphic explanations appear in older children but less frequently, with only a minority of 14-year-olds' fuse explanations anthropomorphic](../claims/anthropomorphic-explanations-lessen-with-age.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -129,6 +139,8 @@ Surprise or confusion during the lesson, a correct answer immediately after it, 
 ## Examples
 
 - [Facilitate cognitive disequilibrium about ethnocentric views](../strategies/facilitate-cognitive-disequilibrium.md)
+- [Use multimedia presentations, classroom interactions and synchronous and asynchronous online discussions alongside laboratory experiments to correct teleologic-anthropomorphic language](../strategies/multimedia-interaction-online-discussion-intervention-package.md)
+- [Build on children's anthropomorphic explanations as bridges into scientific concepts instead of correcting them](../strategies/build-on-anthropomorphic-explanations-as-bridges.md)
 
 ### Illustrative
 
@@ -141,6 +153,7 @@ Surprise or confusion during the lesson, a correct answer immediately after it, 
 ## Key Sources
 - Posner, G. J., Strike, K. A., Hewson, P. W., & Gertzog, W. A. (1982). Accommodation of a scientific conception: Toward a theory of conceptual change. *Science Education, 66*(2), 211-227. [https://doi.org/10.1002/sce.3730660207](https://doi.org/10.1002/sce.3730660207)
 - Limon, M. (2001). On the cognitive conflict as an instructional strategy for conceptual change. *Learning and Instruction, 11*(4-5), 357-380. [https://doi.org/10.1016/S0959-4752(00)00037-2](https://doi.org/10.1016/S0959-4752(00)00037-2)
+- Bautista, R. G. (2015). Students' affordance of teleologic explanations and anthropomorphic language in eliciting concepts in physics. Journal of Technology and Science Education, 5(1), 31-40.
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -173,7 +186,7 @@ Cognitive disequilibrium is most useful when learners hold a stable but inaccura
 ### Theory
 #### Supporting
 - Conceptual change traditions — conceptual revision often requires dissatisfaction with an existing explanation
-- [Constructivist Learning](constructivism.md) — learners must actively reorganize meaning after the contradiction is noticed
+- [Constructivist Learning](cognitive-activation.md) — learners must actively reorganize meaning after the contradiction is noticed
 - [Error Analysis](error-analysis.md) — examining wrong predictions or models can make revision possible
 
 #### Contradicting / Qualifying
@@ -189,3 +202,48 @@ Cognitive disequilibrium is most useful when learners hold a stable but inaccura
 - [External disequilibrium level systematically influences subsequent changes in internal disequilibrium: discrepant conditions increase mixture among low mix subjects and decrease it among high mix subjects](../claims/external-disequilibrium-shapes-internal-mixture-changes.md) [~W]
 - [One-level and two-level external disequilibrium conditions did not differ significantly, and all Modal Level advances occurred to exactly one level above the subject's mode](../claims/one-step-advance-regardless-of-discrepancy-size.md) [~W]
 - [Programs should facilitate cognitive disequilibrium so students question ethnocentric views and consider other cultural perspectives](../claims/programs-facilitate-cognitive-disequilibrium-ethnocentric-views.md) [+W]
+
+<!-- merged 2026-10-15 from principles/account-for-existing-ideas-correct-teleologic-language ("Take account of learners' existing ideas when teaching science, since teleologic and anthropomorphic languages are correctable"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Take account of learners' existing ideas when teaching science, since teleologic and anthropomorphic languages are correctable
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 6 claims (5 for, 1 mixed) · 2 studies (1 causal, 1 theoretical), `q2` · 1 of 2 report an effect size · 6 claims rest on one study
+
+## Description
+Drawing on constructivist tenets in learning science, the article argues that teaching science is more effective when account is taken of the learner's existing ideas. It encapsulates tenets including that "Learning science is an actve process of constructng personal knowledge" and "It is possible to teach science more efectvely if account is taken of the learner’s existng ideas". On this basis it concludes that teleologic and anthropomorphic languages are really correctable, and that this affordance is expected to diminish as other levels of explanation become available.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Classroom pedagogical interventions and a constructive learning environment that reshapes learning and understanding
+#### Constraints
+- The interventions accounted for 67.5% of variability (adjusted R-squared), so other factors such as cognitive and metacognitive abilities, attitude and motivation also affect teleologic and anthropomorphic reasoning
+
+### Target Learners
+- secondary and tertiary science students
+
+### Target Learning Objectives
+- developing scientific explanations in place of teleologic-anthropomorphic reasoning
+
+### Claims
+
+- [Anthropomorphic Explanations Corrected By Pedagogical Interventions](../claims/anthropomorphic-explanations-corrected-by-pedagogical-interventions.md) [+M]
+- [Classroom pedagogical interventions significantly reduce teleologic and anthropomorphic language, with curricular exposure but not age as a significant factor](../claims/interventions-reduce-teleologic-anthropomorphic-language-curriculum-not-age.md) [+M]
+- [Students who just completed secondary education and those from the English curriculum showed the least teleologic-anthropomorphic affordance](../claims/english-curriculum-and-recent-graduates-least-teleologic-anthropomorphic.md) [+W]
+- [The interaction of interventions with age and curricular undertaking is not significant at the .05 level](../claims/intervention-age-curriculum-interaction-not-significant.md) [~W]
+- [Students' teleologic explanations and anthropomorphic languages correlate with age and are associated with curricular undertaking](../claims/teleologic-anthropomorphic-language-related-to-age-and-curriculum.md) [+W]
+- [Anthropomorphic explanations appear in older children but less frequently, with only a minority of 14-year-olds' fuse explanations anthropomorphic](../claims/anthropomorphic-explanations-lessen-with-age.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Use multimedia presentations, classroom interactions and synchronous and asynchronous online discussions alongside laboratory experiments to correct teleologic-anthropomorphic language](../strategies/multimedia-interaction-online-discussion-intervention-package.md)
+- [Build on children's anthropomorphic explanations as bridges into scientific concepts instead of correcting them](../strategies/build-on-anthropomorphic-explanations-as-bridges.md)
+
+## Key Sources
+- Bautista, R. G. (2015). Students' affordance of teleologic explanations and anthropomorphic language in eliciting concepts in physics. Journal of Technology and Science Education, 5(1), 31-40.
+-->

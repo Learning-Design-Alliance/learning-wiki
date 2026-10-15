@@ -76,7 +76,7 @@ Co-design (researchers and educators collaboratively designing curriculum) is no
 - Field-note prompts should be co-constructed with participants rather than imposed, to keep the reflection genuinely responsive to their concerns
 
 ## Related Processes
-- [Interdisciplinary Course-Based Research Experience](../patterns/interdisciplinary-course-based-research-experience.md) — both use a recurring reflective/iterative cycle as the core engine of the design, though this pattern centers affect rather than a disciplinary artifact
+- [Interdisciplinary Course-Based Research Experience](../principles/inquiry-based-learning.md) — both use a recurring reflective/iterative cycle as the core engine of the design, though this pattern centers affect rather than a disciplinary artifact
 
 ## Examples
 - A Rocky Mountain–region school district partnership: 10 educators from 6 schools, 8-week shared compassion training followed by 14 co-design meetings (58 hours) producing a 4-course digital sequence on compassion and dignity for educators; educators reported 43 distinct named affective experiences (21 negative, 22 positive) across the process, and documented applying course concepts in their own teaching, parenting, and colleague relationships.

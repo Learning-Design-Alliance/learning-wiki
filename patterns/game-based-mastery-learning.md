@@ -1,6 +1,7 @@
 ---
 type: pattern
 id: game-based-mastery-learning
+aliases: [game-based-mastery-learning-eg-duolingo-pattern, game-based-mastery-learning-duolingo-pattern]
 title: Game-Based Mastery Learning
 description: "A reusable policy in which progress through short, cumulative levels depends on passing a check on the target, with attempt-feedback-retry lessons, review of earlier levels and points paid for accuracy and improvement rather than activity; expected to raise performance outside the app for itemisable, practice-heavy skills, but no claim tests the combination as a whole, only a mastery gate without a game layer, a game layer without a gate, and one app's level system on in-app measures."
 canonical: true
@@ -15,7 +16,7 @@ grain_size: lesson
 # Game-Based Mastery Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 17 claims (10 for, 6 mixed, 1 against) · 16 studies (6 causal, 5 quant-synthesis, 4 review, 1 design), `q2`–`q4` · 4 of 16 report an effect size · 15 claims rest on one study
+> **Evidence** · 22 claims (12 for, 9 mixed, 1 against) · 28 studies (8 causal, 8 review, 7 quant-synthesis, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 4 of 28 report an effect size · 16 claims rest on one study
 
 ## Description and scope
 
@@ -127,6 +128,11 @@ Claims found while converting this page that bear on it but are not part of the 
 - [Quizizz-based gamification improved word memorization over traditional methods for intermediate learners](../claims/quizizz-gamification-better-memorization.md) [+W] — one study reported second-hand in a review, no effect size; a gamified quiz platform for vocabulary, with no mastery gate.
 - [In one mixed-methods study of university students, reported in a review, gamified vocabulary learning gave better test results, motivation and satisfaction than traditional instruction](../claims/gamification-raises-motivation-satisfaction.md) [+W] — one study reported second-hand; gamified vocabulary practice, no gate described.
 - [BKT is the most efficient knowledge tracing approach overall in simulated online mastery learning, though DKT is more efficient for AS and M problems](../claims/bkt-most-efficient-online-mastery-learning.md) [~W] — simulated students; bears on how software decides a level is passed, not on the game layer.
+- [Reviewed literature identifies personalisation, adaptive support, rapid feedback, and teacher-facing automation as recurring pedagogical opportunities of AI in mathematics education](../claims/ai-math-pedagogical-opportunities-personalisation-feedback.md) [+W]
+- [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [+M]
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~M]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
+- [Worked examples can become redundant or counterproductive for advanced learners.](../claims/worked-examples-less-effective-with-expertise.md) [~M]
 
 ## Illustrative design instance and observation record
 
@@ -141,24 +147,29 @@ Record: **level, its target and criterion → placement result → lessons taken
 This pattern is scoped to cumulative skills that break into items scored on the spot. Open-ended performances, contested judgement and programme-level certification need other configurations ([competency-based learning](competency-based-learning.md), [epistemic games](epistemic-games.md)). The policy supports observation and design reasoning; whether a gamified mastery course produces better outside-app performance than the same levelled practice without the game layer, for which learners, at what cost in drop-off and at what horizon, remains to be tested.
 
 ## Related Patterns
-- [Game-Based Mastery Learning (e.g., Duolingo Pattern)](game-based-mastery-learning-eg-duolingo-pattern.md)
 - [Programmed Instruction](programmed-instruction.md) — the historic ancestor of this pattern's small-step, immediate-feedback, self-paced core
 - [Epistemic Games](epistemic-games.md) — uses game structures for situated professional judgment rather than repeatable skill drills
 - [Mastery Learning](mastery-learning.md) — owns the gate-correct-recheck loop this pattern turns into levels
-- [Game-Based Mastery Learning (Duolingo Pattern)](game-based-mastery-learning-duolingo-pattern.md) — a short fragment of this page
 - [Competency-Based Learning](competency-based-learning.md) — programme-level progression on demonstrated competence, without the game layer
+- [Cognitive Load Reduction (CLT Scaffolding Approach)](../principles/cognitive-load-theory.md)
+- [Traditional Lecture / Reading / Midterm / Final Assessment](traditional-lecture-based-instruction.md)
+- [Scaffolding via level-gated progression and hearts in Duolingo](../designs/duolingo-scaffolding-hearts-progression.md)
 
 ## Examples
 - [Scaffolding via level-gated progression and hearts in Duolingo](../designs/duolingo-scaffolding-hearts-progression.md) — a design that uses this pattern
 - Duolingo-style language progression with retries, review lessons and a level map; the [level analysis](../claims/rdd-review-exercises-causal-leveling-up.md) [+M] comes from one such app's data
 - Mastery-based digital math practice in which a skill opens only after a check on new items
+- Duolingo-style language progression with retries, streaks, and review loops.
+- Mastery-based digital math practice with adaptive item difficulty.
+- Technical skill trainers that unlock later levels only after demonstrated competence.
 
 ## Key Sources
 - Gee, J. P. (2003). *What video games have to teach us about learning and literacy*. Palgrave Macmillan. [doi:10.1145/950566.950595](https://doi.org/10.1145/950566.950595)
 - Kulik, C.-L. C., Kulik, J. A., & Bangert-Drowns, R. L. (1990). Effectiveness of mastery learning programs: A meta-analysis. *Review of Educational Research, 60*(2), 265–299. [doi:10.3102/00346543060002265](https://doi.org/10.3102/00346543060002265)
 - Sailer, M., & Homner, L. (2020). The gamification of learning: A meta-analysis. *Educational Psychology Review, 32*(1), 77–112. [doi:10.1007/s10648-019-09498-w](https://doi.org/10.1007/s10648-019-09498-w)
 - Portnoff, L., Gustafson, E., Bicknell, K., & Rollinson, J. (2021). Methods for language learning assessment at scale: Duolingo case study. *Proceedings of the 14th International Conference on Educational Data Mining (EDM21)*. https://educationaldatamining.org/edm2021/
-
+- Kapp, K. M. (2012). *The gamification of learning and instruction*. Pfeiffer.
+- Van Eck, R. (2006). Digital game-based learning: It's not just the digital natives who are restless. *EDUCAUSE Review, 41*(2), 16-30.
 
 <!-- deprecated 2026-10-15: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -191,9 +202,157 @@ Game-Based Mastery Learning is the short-form canonical target for mastery desig
 - [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](../claims/rewards-undermine-intrinsic-motivation.md) [-S]
 
 ## Related Patterns
-- [Game-Based Mastery Learning (e.g., Duolingo Pattern)](game-based-mastery-learning-eg-duolingo-pattern.md)
+- [Game-Based Mastery Learning (e.g., Duolingo Pattern)](game-based-mastery-learning.md)
 - [Programmed Instruction](programmed-instruction.md) — the historic ancestor of this pattern's small-step, immediate-feedback, self-paced core
 - [Epistemic Games](epistemic-games.md) — uses game structures for situated professional judgment rather than repeatable skill drills
+
+## Key Sources
+- Gee, J. P. (2003). *What video games have to teach us about learning and literacy*. Palgrave Macmillan. [doi:10.1145/950566.950595](https://doi.org/10.1145/950566.950595)
+-->
+
+<!-- merged 2026-10-15 from patterns/game-based-mastery-learning-eg-duolingo-pattern ("Game-Based Mastery Learning (e.g., Duolingo Pattern)"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Game-Based Mastery Learning (e.g., Duolingo Pattern)
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 5 claims (2 for, 3 mixed) · 12 studies (4 review, 3 theoretical, 2 causal, 2 quant-synthesis, 1 qualitative), `q1`–`q4` · 0 of 12 report an effect size · 1 claim rests on one study
+
+## Description
+Game-Based Mastery Learning combines mastery progression with game-like mechanics such as levels, streaks, rewards, adaptive challenge, and immediate feedback. The pattern works by requiring learners to demonstrate competence before moving forward while using feedback and progression signals to sustain engagement. Its value is not the game layer alone; it is the pairing of repeated practice, visible progress, and retry loops.
+
+This pattern can be highly effective for incremental skill development, especially when tasks can be broken into frequent attempts with fast feedback. It becomes weaker when reward mechanics overshadow learning goals or when mastery thresholds are poorly calibrated.
+
+## Implications
+
+### Context
+#### Requirements
+- **Frequent checkable tasks**: The pattern needs short cycles of attempt, feedback, and retry.
+- **Visible progression**: Learners need to see what they have mastered and what comes next.
+- **Clear mastery thresholds**: Advancement rules should reflect meaningful competence rather than arbitrary completion.
+- **Adaptive or sequenced challenge**: Difficulty should rise in response to growing skill.
+#### Constraints
+- **Motivational distortion**: Rewards can crowd out intrinsic interest if they become the main reason for participation.
+- **Mastery frustration**: Thresholds that are too strict can demotivate struggling learners.
+- **Shallow gamification**: Points and badges alone do not create strong learning.
+- **Weak fit for complex open-ended performance**: The pattern works best for modular skill progression rather than ambiguous whole-task judgment.
+#### Grain Size
+- Lesson
+- Unit
+
+### Target Goals
+- **Incremental skill mastery**: Building competence through repeated successful performance.
+- **Persistence and return**: Encouraging ongoing engagement across many short practice cycles.
+- **Retention through revisit**: Bringing earlier material back into later practice.
+
+### Target Learners
+- **Learners working on cumulative skills**: Strong fit for language, math, notation, and other practice-heavy domains.
+- **Learners benefiting from visible progress markers**: Especially useful when momentum and habit matter.
+- **Digital learning participants**: Many implementations depend on platform-based tracking and adaptation.
+
+### Theory
+#### Supporting
+
+- Mastery learning perspectives — progression should depend on competence rather than simple seat time.
+- Feedback and self-regulation perspectives — visible progress and frequent correction support monitoring and persistence.
+- Game-based motivation perspectives — challenge, progression, and reward can sustain engagement when aligned well.
+- [Reviewed literature identifies personalisation, adaptive support, rapid feedback, and teacher-facing automation as recurring pedagogical opportunities of AI in mathematics education](../claims/ai-math-pedagogical-opportunities-personalisation-feedback.md) [+W]
+
+#### Contradicting / Qualifying
+- Extrinsic mechanics should support learning goals, not replace them.
+- Some domains require richer forms of assessment than rapid mastery loops can provide.
+
+### Claims
+#### Supporting
+- [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [+M]
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~M]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
+#### Contradicting
+- [Worked examples can become redundant or counterproductive for advanced learners.](../claims/worked-examples-less-effective-with-expertise.md) [~M]
+
+## Design
+
+### Sequence
+1. Present a short challenge at an appropriate difficulty level.
+2. Give immediate feedback and allow retry or correction.
+3. Require a defined mastery threshold before progression.
+4. Reintroduce prior content through review or spaced challenge.
+5. Increase difficulty or reduce support as competence grows.
+
+### Elements Used
+- [Adaptive Difficulty](../elements/adaptive-difficulty.md)
+- [Adaptive Mastery Learning](../elements/adaptive-mastery-learning.md)
+- [Feedback](../elements/feedback.md)
+- [Practice](../elements/practice.md)
+
+### Affordances
+- [Game-Based Learning](../principles/game-based-learning.md)
+- [Immediate Feedback](../principles/immediate-feedback.md)
+- [Competency-Based Learning & Assessment](../principles/competency-based-assessment.md)
+- [Self-monitoring](../principles/self-monitoring.md)
+
+### Personalization
+- Difficulty can adapt to learner performance.
+- Different learners can move at different speeds through the same progression map.
+- Feedback and hints can be faded as mastery grows.
+
+## Related Patterns
+
+- [Cognitive Load Reduction (CLT Scaffolding Approach)](../principles/cognitive-load-theory.md)
+- [Traditional Lecture / Reading / Midterm / Final Assessment](traditional-lecture-based-instruction.md)
+- [Mastery learning cycle of formative tests, correctives, and relearning](mastery-learning.md)
+- [Scaffolding via level-gated progression and hearts in Duolingo](../designs/duolingo-scaffolding-hearts-progression.md)
+
+## Examples
+- Duolingo-style language progression with retries, streaks, and review loops.
+- Mastery-based digital math practice with adaptive item difficulty.
+- Technical skill trainers that unlock later levels only after demonstrated competence.
+
+## Impact
+- Often increases persistence and visibility of progress in modular skill domains.
+- Works best when mastery definitions are instructionally meaningful and not merely gamified gating.
+
+## Key Sources
+- Gee, J. P. (2003). *What video games have to teach us about learning and literacy*. Palgrave Macmillan. [doi:10.1145/950566.950595](https://doi.org/10.1145/950566.950595)
+- Kapp, K. M. (2012). *The gamification of learning and instruction*. Pfeiffer.
+- Van Eck, R. (2006). Digital game-based learning: It's not just the digital natives who are restless. *EDUCAUSE Review, 41*(2), 16-30.
+-->
+
+<!-- merged 2026-10-15 from patterns/game-based-mastery-learning-duolingo-pattern ("Game-Based Mastery Learning (Duolingo Pattern)"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Game-Based Mastery Learning (Duolingo Pattern)
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q4` · 1 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+This page is the short-form canonical target for Duolingo-style game-based mastery learning, where frequent practice, progression gates, feedback, and motivational signals are combined in a mastery sequence.
+
+## Implications
+
+### Context
+#### Requirements
+- **Short feedback-rich practice cycles**
+- **Visible progression and challenge calibration**
+#### Constraints
+- **Gamification signals must stay aligned with learning goals**
+#### Grain Size
+- Lesson
+- Unit
+
+### Target Goals
+- Build incremental skill mastery with persistent return to practice.
+
+### Theory
+#### Supporting
+
+- [Mastery Learning](../principles/mastery-learning.md)
+- [Game-Based Learning](../principles/game-based-learning.md)
+- [Mastery Learning Improves Outcomes](../claims/mastery-learning-improves-outcomes.md) [+M]
+
+## Related Patterns
+
+- [Game-Based Mastery Learning](game-based-mastery-learning.md)
+- [Scaffolding via level-gated progression and hearts in Duolingo](../designs/duolingo-scaffolding-hearts-progression.md)
 
 ## Key Sources
 - Gee, J. P. (2003). *What video games have to teach us about learning and literacy*. Palgrave Macmillan. [doi:10.1145/950566.950595](https://doi.org/10.1145/950566.950595)

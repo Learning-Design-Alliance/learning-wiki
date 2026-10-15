@@ -103,7 +103,7 @@ Cold calling dramatically broadens participation beyond volunteers, distributing
 - [Class Discussion Facilitation](class-discussion-facilitation.md) — cold calling as one move within broader discussion leadership
 
 ## Examples
-- **Harvard Business School's case method** — cold calling is a signature norm; every student is expected to be called on in any class, which normalizes the practice and drives preparation (see [Case-Based Learning](../patterns/case-based-learning-harvard-method.md)).
+- **Harvard Business School's case method** — cold calling is a signature norm; every student is expected to be called on in any class, which normalizes the practice and drives preparation (see [Case-Based Learning](../patterns/case-based-learning.md)).
 - **Teach Like a Champion (Lemov, 2015)** — "Cold Call" and "Call and Response" techniques with warm-call variants, widely used in K-12 charter networks such as Uncommon Schools.
 - **Large-enrollment STEM courses** — instructors combine cold call with clicker questions and peer discussion so that being called on follows peer rehearsal rather than replacing it.
 - **Harvard Business School case method** — cold calling is the default participation mechanism; students are assigned case questions in advance, so cold calling enforces preparation rather than surprise ([HBS Case Method](https://www.hbs.edu/mba/academic-experience/Pages/the-hbs-case-method.aspx)).

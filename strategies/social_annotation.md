@@ -71,7 +71,7 @@ Social annotation converts passive reading into elaborative, generative activity
 
 ## Patterns That Use This Strategy
 - [Collaborative Learning](../patterns/collaborative-learning.md) — social annotation as a structured, text-anchored collaboration format
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — annotation threads as an asynchronous, in-place discussion variant
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — annotation threads as an asynchronous, in-place discussion variant
 
 ## Examples
 - **[Hypothesis](https://web.hypothes.is)** — open-web annotation layer used widely in higher education; instructors create private course groups and seed readings with prompts.

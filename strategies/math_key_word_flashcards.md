@@ -57,7 +57,7 @@ Generating the cards is itself a form of elaborative encoding — learners must 
 5. Fade the cards as learners shift attention to problem structure — quantities, relationships, and questions asked — rather than isolated vocabulary.
 
 ## Related Strategies
-- [Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md) — the structural alternative: key words are subordinated to understanding problem situations
+- [Cognitively Guided Instruction](../principles/responsive-teaching.md) — the structural alternative: key words are subordinated to understanding problem situations
 - [Analogies](../elements/analogies.md) — mapping new key words to known situations deepens the association
 - [Spaced retrieval practice](../claims/spaced-practice-improves-retention.md) — schedule card review for durable vocabulary retention
 

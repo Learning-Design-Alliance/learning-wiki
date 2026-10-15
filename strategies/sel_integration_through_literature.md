@@ -73,7 +73,7 @@ Literature-based SEL works because narrative provides psychologically safe dista
 - [Act It Out](../elements/act-it-out.md) — embodied rehearsal of character dilemmas
 
 ## Patterns That Use This Strategy
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — literature discussion is a canonical instance
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — literature discussion is a canonical instance
 - [Case-Based Learning](../patterns/case-based-learning.md) — narrative dilemmas function as affectively rich cases
 
 ## Examples

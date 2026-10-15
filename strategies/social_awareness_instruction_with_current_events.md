@@ -62,7 +62,7 @@ Social awareness develops through guided practice, not exposure alone: structure
 ## Related Strategies
 - [Building Empathy](../principles/building-empathy.md) — the underlying principle this strategy operationalizes through real-world material
 - [Case-Based Learning](../patterns/case-based-learning.md) — the same case-analysis structure applied to academic domains
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — the discussion formats this strategy depends on
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — the discussion formats this strategy depends on
 - [Debate](../patterns/debate.md) — a more adversarial variant; useful when perspective-taking is already established
 
 ## Examples

@@ -51,7 +51,7 @@ Digital learning is the element in which instruction, resources, or interaction 
 - [Turkish K–8 e-learning platform with four module components (lessons, practices, exams, games)](turkish-k8-elearning-platform-four-components.md)
 
 ## Patterns That Use This Element
-- [Flipped Learning](../patterns/flipped-classroom.md)
+- [Flipped Learning](../principles/flipped-learning.md)
 - [Game-Based Mastery Learning](../patterns/game-based-mastery-learning.md)
 
 ## Examples

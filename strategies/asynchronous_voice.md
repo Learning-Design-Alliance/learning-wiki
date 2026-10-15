@@ -60,8 +60,8 @@ Voice-based asynchronous discussion increases social presence and teaching prese
 
 ## Related Strategies
 
-- [Flipped Classroom](../patterns/flipped-classroom.md) — voice threads can carry the pre-class discussion that primes in-person work
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — asynchronous voice is a modality variant of structured discussion
+- [Flipped Classroom](../principles/flipped-learning.md) — voice threads can carry the pre-class discussion that primes in-person work
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — asynchronous voice is a modality variant of structured discussion
 - [Check-Ins](../principles/check-ins.md) — one-to-one voice channels make lightweight ongoing check-ins feasible at a distance
 - [Deliver learning through asynchronous out-of-band channels that preserve developer flow](out-of-band-async-learning-channels-preserve-flow.md)
 

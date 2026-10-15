@@ -45,7 +45,7 @@ Role-playing is the element in which learners adopt roles and act through a scen
 
 ## Patterns That Use This Element
 - [Goal-Based Scenarios](../patterns/goal-based-scenarios.md)
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md)
+- [Discussion-Based Learning](../principles/collaborative-learning.md)
 
 ## Examples
 - Learners take stakeholder roles and negotiate a policy or case decision.

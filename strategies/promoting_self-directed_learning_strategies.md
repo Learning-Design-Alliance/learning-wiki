@@ -82,7 +82,7 @@ Self-directed learning is not discovery learning: the strategies that make indep
 
 ## Patterns That Use This Strategy
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — the articulation and exploration phases, where learners name and take ownership of strategies
-- [Flipped Classroom](../patterns/flipped-classroom.md) — creates the self-directed study time that strategy instruction must prepare students for
+- [Flipped Classroom](../principles/flipped-learning.md) — creates the self-directed study time that strategy instruction must prepare students for
 
 ## Examples
 - **"Getting unstuck" routines (elementary math):** Teachers pose problems designed to make students feel stuck, then prompt them to name what they tried. Strategy lists and language prompts are co-authored with students to support self-talk and partner communication.

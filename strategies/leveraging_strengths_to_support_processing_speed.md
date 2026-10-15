@@ -65,7 +65,7 @@ Processing speed shares substantial variance with working memory and fluid reaso
 ## Examples
 - A student strong in visual processing uses a teacher-provided graphic organizer during lectures instead of taking free-form notes, then studies from the organizer rather than re-reading dense text.
 - A student strong in auditory processing receives recorded summaries of key points and listens while following an outline, bypassing slow reading of the full text.
-- A middle-school math class uses [Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md) with manipulatives, letting a slow-processing student demonstrate reasoning through physical models rather than rapid mental computation.
+- A middle-school math class uses [Cognitively Guided Instruction](../principles/responsive-teaching.md) with manipulatives, letting a slow-processing student demonstrate reasoning through physical models rather than rapid mental computation.
 - IEP practice: a student with a processing-speed discrepancy receives extended time and reduced item volume on tests while all conceptual content and rigor are held constant.
 
 ## Key Sources

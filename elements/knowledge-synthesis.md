@@ -46,7 +46,7 @@ Synthesis tasks push learners beyond comprehension toward higher-order organizat
 - Argument construction: assembling evidence from multiple sources into a defensible position
 
 ### Affordances
-- [Constructivism](../principles/constructivism.md) — synthesis enacts this principle by requiring learners to actively build their own coherent knowledge structure rather than receive one; the integration cannot be done for them
+- [Constructivism](../principles/cognitive-activation.md) — synthesis enacts this principle by requiring learners to actively build their own coherent knowledge structure rather than receive one; the integration cannot be done for them
 - [Inquiry-Based Learning](../principles/inquiry-based-learning.md) — synthesis is the culminating move of an inquiry cycle: after gathering and analyzing evidence, learners must answer "so what do these findings mean together?"
 - [Cognitive Flexibility](../principles/cognitive-flexibility.md) — working across multiple perspectives and reorganizing knowledge for different purposes builds the flexible, multiple-representation understanding this principle targets
 - [Collaborative Learning](../principles/collaborative-learning.md) — when synthesis is distributed across group members holding different information, integration requires genuine interdependence
@@ -65,7 +65,7 @@ Synthesis tasks push learners beyond comprehension toward higher-order organizat
 - [Collective Concept Mapping](collective-concept-mapping.md)
 
 ## Patterns That Use This Element
-- [Collaborative Inquiry](../patterns/collaborative-inquiry.md) — the integration phase where group findings are merged into shared conclusions
+- [Collaborative Inquiry](../principles/inquiry-based-learning.md) — the integration phase where group findings are merged into shared conclusions
 - [Jigsaw](../patterns/fostering-communities-of-learning-fcl.md) — the expert-group → home-group structure makes synthesis structurally unavoidable: each member holds a piece no one else has
 
 ## Examples

@@ -1,6 +1,7 @@
 ---
 type: principle
 id: transfer-of-learning
+aliases: [ef-interventions-target-general-factors-for-math-transfer]
 title: Transfer of Learning
 description: "Showing the same structure in several surface forms, prompting learners to compare them and name what they share, and then having them retrieve and apply it on changed items is expected to raise near transfer to new cases once the original learning is secure; no claim tests varied against single-context instruction directly, and far transfer stayed at floor where it was measured."
 canonical: true
@@ -8,12 +9,21 @@ status: review
 generated:
   by: claude/unspecified
   at: 2026-10-05
+sources:
+  - id: nguyen-2019
+    resource: "https://doi.org/10.1016/j.cedpsych.2019.04.002"
+    title: "Nguyen, T., Duncan, R.J., & Bailey, D.H. (2019). Theoretical and methodological implications of associations between executive function and mathematics in early childhood. Contemporary Educational Psychology. https://doi.org/10.1016/j.cedpsych.2019.04.002"
+    author: "Nguyen, T., Duncan, R.J., & Bailey, D.H"
+  - id: merrill-2002
+    resource: "https://doi.org/10.1007/BF02505024"
+    title: "Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development, 50*(3), 43-59"
+    author: Merrill, M. D
 ---
 
 # Transfer of Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 20 claims (10 for, 10 mixed) · 23 studies (10 causal, 4 quant-synthesis, 4 review, 4 theoretical, 1 qualitative), `q1`–`q4` · 5 of 23 report an effect size · 16 claims rest on one study
+> **Evidence** · 24 claims (14 for, 10 mixed) · 24 studies (10 causal, 4 quant-synthesis, 4 review, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 5 of 24 report an effect size · 20 claims rest on one study
 
 ## Conditional relationship
 
@@ -108,6 +118,10 @@ Claims bearing on transfer that the wiki holds and this model does not use. None
 - [Learning in multiple contexts and generalizing across them makes knowledge both specific and general, addressing why transfer is difficult](../claims/multiple-contexts-generalization-transfer.md) [+W]: a theoretical argument in Collins (1988), with no data. Cited in the default design only as argument.
 - [Pretraining learners on a system's key parts and terms before the main lesson improved knowledge and real-world transfer in one VR experiment, and is reported second-hand to improve learning in multimedia studies](../claims/pretraining-improves-transfer.md) [+M]: one `randomized` experiment (n = 93). A video naming a tool's parts before an immersive-VR lesson led to fewer errors on a real-life transfer task than the same lesson without it. It bears on securing the original learning for novices before transfer (step 1 of the default design), not on varied contexts.
 - [Training transfer among neurosurgical specialty nurses is an adaptive reconstruction process, not linear replication of training content](../claims/training-transfer-as-adaptive-reconstruction.md) [~W]: an interview study (the same programme as above) suggesting that on-the-job transfer is local adaptation, which a test of replication would miss; not read further.
+- [Latent Ef Factor Preferred Ecls K Math](../claims/latent-ef-factor-preferred-ecls-k-math.md) [+M]
+- [Meta Analytic Replication Latent Ef Model](../claims/meta-analytic-replication-latent-ef-model.md) [+M]
+- [Math achievement correlates more strongly with EF components than EF components correlate with each other in early childhood](../claims/math-correlates-more-with-ef-than-ef-internally.md) [+W]
+- [Under the components model in ECLS-K, working memory is the most closely associated EF component with math, but only at time point 1 does it show a positive residual correlation beyond latent EF](../claims/working-memory-strongest-component-association-ecls-k.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -146,6 +160,8 @@ Recall of the taught items, near transfer, far transfer, delayed transfer and us
 - Souza, D. A. (2016). *How the brain learns* (5th ed.). Corwin Press.
 - Helfenstein, S. (2005). *Transfer: Review, reconstruction, and resolution*. University of Jyväskylä.
 - Arduini-Van Hoose, N. (2020). Teacher's perspectives on learning. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
+- Nguyen, T., Duncan, R.J., & Bailey, D.H. (2019). Theoretical and methodological implications of associations between executive function and mathematics in early childhood. Contemporary Educational Psychology. https://doi.org/10.1016/j.cedpsych.2019.04.002
+- Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development, 50*(3), 43-59. [https://doi.org/10.1007/BF02505024](https://doi.org/10.1007/BF02505024)
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -213,4 +229,80 @@ Transfer of learning improves when learners encounter underlying structure acros
 - Souza, D. A. (2016). *How the brain learns* (5th ed.). Corwin Press.
 - Helfenstein, S. (2005). *Transfer: Review, reconstruction, and resolution*. University of Jyväskylä.
 - Arduini-Van Hoose, N. (2020). Teacher's perspectives on learning. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
+-->
+
+<!-- merged 2026-10-15 from principles/ef-interventions-target-general-factors-for-math-transfer ("EF interventions aiming to transfer to mathematics should target factors general to all EF components rather than specific components"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# EF interventions aiming to transfer to mathematics should target factors general to all EF components rather than specific components
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 4 claims (4 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 4 claims rest on one study
+
+## Description
+The article argues that because a latent EF factor largely accounts for component-specific EF–math associations, interventions will transfer to math only insofar as they improve mechanisms influencing factors general to all EF components. It states that "Interventions targeting specific EF components (e.g., card-sort task performance or working memory task performance alone), and not factors common to EF, may not reliably transfer to mathematics." It further recommends that intervention evaluations model effects on EF tasks and a latent EF factor simultaneously.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Evaluations of EF-targeted interventions should model the effects of the treatment on EF tasks in addition to a latent EF factor simultaneously to determine which set of EF skills the intervention is affecting
+#### Constraints
+- The intervention literature does not provide clear answers on reliable transfer from EF to math; Jacob and Parkinson (2015) find little evidence that EF interventions alone boost math achievement
+
+### Target Learners
+- children at or near school entry (ages 3–6)
+
+### Target Learning Objectives
+- mathematics achievement
+- executive function
+
+### Claims
+
+- [Latent Ef Factor Preferred Ecls K Math](../claims/latent-ef-factor-preferred-ecls-k-math.md) [+M]
+- [Meta Analytic Replication Latent Ef Model](../claims/meta-analytic-replication-latent-ef-model.md) [+M]
+- [Math achievement correlates more strongly with EF components than EF components correlate with each other in early childhood](../claims/math-correlates-more-with-ef-than-ef-internally.md) [+W]
+- [Under the components model in ECLS-K, working memory is the most closely associated EF component with math, but only at time point 1 does it show a positive residual correlation beyond latent EF](../claims/working-memory-strongest-component-association-ecls-k.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Nguyen, T., Duncan, R.J., & Bailey, D.H. (2019). Theoretical and methodological implications of associations between executive function and mathematics in early childhood. Contemporary Educational Psychology. https://doi.org/10.1016/j.cedpsych.2019.04.002
+-->
+
+<!-- merged 2026-10-15 from patterns/merrills-first-principles-integration ("Merrill's First Principles (Integration)"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Merrill's First Principles (Integration)
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
+
+## Description
+This page is the short-form canonical target for the integration move within Merrill's First Principles: learners connect new learning to their own contexts, explain it to others, or use it in a novel setting.
+
+## Implications
+
+### Context
+#### Requirements
+- **A way for learners to extend or use what they learned beyond the immediate lesson**
+- **Prompts for reflection, application, or teaching others**
+#### Constraints
+- **Integration is often skipped when instruction ends at first successful practice**
+
+### Target Goals
+- Support transfer and durable ownership of learning.
+
+### Theory
+#### Supporting
+- [Transfer of Learning](../principles/transfer-of-learning.md)
+- [Reflection](../principles/reflection.md)
+
+## Related Patterns
+- [Merrill's First Principles](../patterns/4cid-four-component-instructional-design.md)
+
+## Key Sources
+- Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development, 50*(3), 43-59. [https://doi.org/10.1007/BF02505024](https://doi.org/10.1007/BF02505024)
 -->

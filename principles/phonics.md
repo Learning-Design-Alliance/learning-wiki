@@ -1,7 +1,7 @@
 ---
 type: principle
 id: phonics
-aliases: [explicit-instruction-phonics]
+aliases: [explicit-instruction-phonics, devote-reading-class-time-to-phonological-practice]
 title: Phonics
 description: "For a beginning reader who cannot yet turn print into sound, explicit teaching of letter–sound correspondences in a planned sequence, applied at once to reading and spelling words, is expected to produce more accurate decoding and word reading than unsystematic or no phonics; a meta-analysis tests this for kindergarten to grade 6, with smaller gains for older struggling readers and for comprehension, and a contested advantage over whole-language teaching."
 canonical: true
@@ -18,6 +18,10 @@ sources:
     resource: "https://doi.org/10.1177/0022219411426859"
     title: "Hock, M. F. (2012). Effective literacy instruction for adults with specific learning disabilities. *Journal of Learning Disabilities, 45*(1), 64-78"
     author: Hock, M. F
+  - id: khatib-2011
+    resource: "https://doi.org/10.5539/ies.v4n4p192"
+    title: "Khatib, M., & Fat'hi, J. (2011). The Effect of Automatization of the Phonological Component on the Reading Comprehension of ESP Students. International Education Studies, 4(4). https://doi.org/10.5539/ies.v4n4p192"
+    author: "Khatib, M., & Fat'hi, J"
 ---
 
 # Phonics
@@ -120,6 +124,7 @@ Learners, comparisons and outcomes differ across these (kindergarten classes, st
 ## Further evidence, not yet read against this model
 
 Claims found while converting this page that bear on it but are not part of the model above.
+- [Phonological Automatization Improves Esp Reading Comprehension](../claims/phonological-automatization-improves-esp-reading-comprehension.md) [+M]
 
 <!-- deprecated (2026-10-05, the two claims were merged): - [Phonological Awareness Training Improves Reading](../claims/phonemic-awareness-training-improves-reading.md) [+M] — carries the same single entry (Ehri et al. 2001, phonemic awareness) and the same subclaim as the phonemic-awareness claim above; a merge candidate. -->
 - [Whole language and phonics approaches each have limits, and the teacher should observe the individual pupil to balance whole-word and phonics instruction](../claims/balance-whole-language-and-phonics.md) [~W] — an opinion essay with no data; it supports nothing beyond the advice to observe each pupil.
@@ -147,7 +152,7 @@ Decoding taught words, decoding new words, spelling, fluency, comprehension and 
 ## Related Principles
 - [Chunking](chunking.md) — phonics scope-and-sequence works by introducing grapheme–phoneme correspondences in small, cumulative sets
 - [Clear Structure](clear-structure.md) — systematic phonics depends on a planned progression rather than incidental teaching
-- [Purposeful Reflection](purposeful-reflection.md) — less central here; phonics gains come primarily from practice volume rather than reflection
+- [Purposeful Reflection](reflection.md) — less central here; phonics gains come primarily from practice volume rather than reflection
 - [Direct Instruction](direct-instruction.md) — the general relationship between explicit modelling with guided practice and less guided discovery; phonics is one domain where it has been tested directly
 - [Guided Practice](guided-practice.md) — the supported-practice phase that the blending and decodable-reading part of a phonics lesson carries out
 - [Accessible Vocabulary & Syntax](accessible-vocabulary-syntax.md) — when a content task fails, a decoding limit is one explanation to rule out before simplifying wording
@@ -252,7 +257,7 @@ Phonics works because skilled reading depends on building automatic orthographic
 ## Related Principles
 - [Chunking](chunking.md) — phonics scope-and-sequence works by introducing grapheme–phoneme correspondences in small, cumulative sets
 - [Clear Structure](clear-structure.md) — systematic phonics depends on a planned progression rather than incidental teaching
-- [Purposeful Reflection](purposeful-reflection.md) — less central here; phonics gains come primarily from practice volume rather than reflection
+- [Purposeful Reflection](reflection.md) — less central here; phonics gains come primarily from practice volume rather than reflection
 
 ## Examples
 
@@ -354,4 +359,45 @@ Explicit phonics instruction is appropriate when word-level reading is the bottl
 - Hock, M. F. (2012). Effective literacy instruction for adults with specific learning disabilities. *Journal of Learning Disabilities, 45*(1), 64-78. [doi:10.1177/0022219411426859](https://doi.org/10.1177/0022219411426859)
 - McShane, S. (2006). *Applying research in reading instruction for adults: First steps for teachers*.
 - Sticht, T. (2002). *Teaching reading with adults*.
+-->
+
+<!-- merged 2026-10-15 from principles/devote-reading-class-time-to-phonological-practice ("Devote class time in L2 reading instruction to bottom-up phonological practice rather than relying solely on top-down or translation-based approaches"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Devote class time in L2 reading instruction to bottom-up phonological practice rather than relying solely on top-down or translation-based approaches
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+
+## Description
+Based on the finding that pronunciation practice outperformed traditional translation-based reading instruction, the article recommends that reading instruction include explicit work on lower-level phonological processing. As the article states, "it is suggested that some time must be devoted in reading classes to development of relatively bottom-up concerns such as practice on pronunciation." This principle challenges the common assumption that higher-level processes reduce the contribution of lower-level processes in L2 reading.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Instruction must include practice on pronunciation and basic identification skills such as translation of letters to sounds
+#### Constraints
+- The article notes that even students with developed top-down skills in their native languages may not transfer higher-level skills to a second language until a stronger bottom-up foundation is developed
+
+### Target Learners
+- ESP (English for Specific Purposes) undergraduate students
+- foreign language readers
+
+### Target Learning Objectives
+- L2 reading comprehension
+- bottom-up phonological processing
+
+### Claims
+
+- [Phonological Automatization Improves Esp Reading Comprehension](../claims/phonological-automatization-improves-esp-reading-comprehension.md) [+M]
+- [Lower-level phonological processing efficiency contributes significantly to individual differences in adult ESL reading measures](../claims/phonological-orthographic-efficiency-predicts-esl-reading.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Khatib, M., & Fat'hi, J. (2011). The Effect of Automatization of the Phonological Component on the Reading Comprehension of ESP Students. International Education Studies, 4(4). https://doi.org/10.5539/ies.v4n4p192
 -->

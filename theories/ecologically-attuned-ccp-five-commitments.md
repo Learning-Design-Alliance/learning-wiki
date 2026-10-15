@@ -51,7 +51,7 @@ The article proposes an approach to critical communication pedagogy contextualiz
 - [Cultivate ecologically just speculative futurity as requisite to political praxis](../principles/humanistic-radical-adult-education.md)
 - [Render planetary ecological crisis concrete, embodied, proximal, and implicative for students](../principles/cultural-life-experiences-connections.md)
 - [Assign speculative theory-fiction writing to build students' capacity for ecologically just futurity](../strategies/speculative-theory-fiction-assignment.md)
-- [Critique of language in CCP must include critique of humanism and humanist historicization](../principles/critique-language-includes-critique-of-humanism.md)
+- [Critique of language in CCP must include critique of humanism and humanist historicization](../principles/epistemic-cognition.md)
 - [Task students with proposing a neologism and a golden spike placement to expose the rhetoricity of historicizing the Anthropocene](../strategies/golden-spike-neologism-assignment.md)
 - [Cultivate AI literacy as relational rather than transactional work through reflective engagement with human-AI entanglement](../strategies/relational-ai-literacy-cultivation-strategy.md)
 

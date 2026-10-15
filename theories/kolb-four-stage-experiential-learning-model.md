@@ -52,7 +52,7 @@ The review describes Kolb's experiential learning model, in which "learning theo
 
 ## Examples
 
-- [Guide experiential curriculum design with Kolb-derived principles: connect to existing knowledge, honour each learner's experiential base, cycle through experience and reflection, and shift power to the learner](../principles/kolb-derived-curriculum-guidelines.md)
+- [Guide experiential curriculum design with Kolb-derived principles: connect to existing knowledge, honour each learner's experiential base, cycle through experience and reflection, and shift power to the learner](../principles/experiential-learning.md)
 
 ## Key Sources
 - Tamaoka, Katsuo. (1985). Historical Development of Learning Style Inventories from Dichotomous Cognitive Concepts of Field Dependence and Field Independence to Multi-Dimensional Assessment. https://eric.ed.gov/?id=ED339729

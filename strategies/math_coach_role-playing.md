@@ -69,7 +69,7 @@ The strategy works because it forces verbalization of the problem schema — sel
 - [Application](../elements/application.md) — the solving step that follows advice
 
 ## Patterns That Use This Strategy
-- [Cognitively Guided Instruction (CGI) for Math](../patterns/cognitively-guided-instruction-cgi-for-math.md) — shares CGI's focus on problem-type schemas and students verbalizing their solution thinking
+- [Cognitively Guided Instruction (CGI) for Math](../principles/responsive-teaching.md) — shares CGI's focus on problem-type schemas and students verbalizing their solution thinking
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — peer coaching and articulation are two of its core methods, here enacted student-to-student
 
 ## Examples

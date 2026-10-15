@@ -70,7 +70,7 @@ Writing a problem requires the learner to invert the solution process — to rea
 - [Demonstration](../elements/demonstration.md) — deconstructing an example problem gives learners the genre model they need before writing
 
 ## Patterns That Use This Strategy
-- [Cognitively Guided Instruction (CGI for Math)](../patterns/cognitively-guided-instruction-cgi-for-math.md) — problem creation aligns with CGI's emphasis on learners' own problem situations and solution strategies
+- [Cognitively Guided Instruction (CGI for Math)](../principles/responsive-teaching.md) — problem creation aligns with CGI's emphasis on learners' own problem situations and solution strategies
 - [Case-Based Learning](../patterns/case-based-learning.md) — learner-authored problems are miniature cases grounded in chosen contexts
 
 ## Examples

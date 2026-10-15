@@ -48,7 +48,7 @@ The workbook teaches a Basic Systems Model in which staff development planning p
 ## Examples
 
 - [Prioritize felt needs using matrix ranking or paired comparisons before verification](../strategies/matrix-ranking-paired-comparisons-needs.md)
-- [Conduct and evaluate a field test before implementing a staff development plan at scale](../principles/field-test-before-full-implementation.md)
+- [Conduct and evaluate a field test before implementing a staff development plan at scale](../principles/evidence-based-teaching-and-scientific-reasoning.md)
 
 ## Key Sources
 - Huenecke, Dorothy M.; Stansbury, George W. (1975). A Systems Approach to Staff Development. Georgia State Dept. of Education. https://eric.ed.gov/?id=ED123751

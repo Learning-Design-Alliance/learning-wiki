@@ -38,7 +38,7 @@ Learning cycles embody the "experience before formalization" principle: concepts
 - **5E (BSCS)** — five phases with explicit Engage and Evaluate bookends; dominant in K-12 science curricula
 - **Karplus/SCIS cycle** — exploration → concept invention → concept application; the original three-phase form
 - **Kolb cycle** — experiential framing for adult/professional learning, emphasizing reflection as a distinct phase
-- **Flipped variants** — exploration in class, formal explanation via prepared materials ([Flipped Classroom](../patterns/flipped-classroom.md))
+- **Flipped variants** — exploration in class, formal explanation via prepared materials ([Flipped Classroom](../principles/flipped-learning.md))
 
 ### Target Learners
 - Novices encountering a new conceptual domain, where first-hand experience gives the explanation meaning [Productive failure improves conceptual learning.](../claims/productive-failure-improves-conceptual-learning.md) [+M]

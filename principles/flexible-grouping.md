@@ -1,6 +1,7 @@
 ---
 type: principle
 id: flexible-grouping
+aliases: [flexible-grouping-in-science, consider-background-in-ptfc-grouping]
 title: Flexible Grouping
 description: "In a class whose learners differ on the current task, forming temporary similar-need and mixed groups for a stated purpose from recent task evidence, and re-forming them as the evidence changes, is expected to match support and challenge to need better than one whole-class format, and to keep what targeted support gains without the costs fixed attainment sorting shows on grades, pass rates and the lowest group's classroom climate; no claim here tests flexible grouping itself, and the fixed-sorting evidence (one district's algebra policy) shows test-score gains for high attainers as well as those costs."
 canonical: true
@@ -17,12 +18,20 @@ sources:
     resource: "https://doi.org/10.1177/0013124504270787"
     title: "Castle, S., Deniz, C. B., & Tortora, M. (2005). Flexible grouping and student learning in a high-needs school. *Education and Urban Society, 37*(2), 139-150"
     author: "Castle, S., Deniz, C. B., & Tortora, M"
+  - id: grouping-for-instruction-in-teaching-science-eric-digest-1989
+    resource: "https://eric.ed.gov"
+    title: "Grouping for Instruction in Teaching Science (ERIC Digest). (1989). ERIC Digest. https://eric.ed.gov"
+    author: Grouping for Instruction in Teaching Science (ERIC Digest)
+  - id: ramadoni-2022
+    resource: "https://doi.org/10.47750/pegegog.12.03.17"
+    title: "Ramadoni, Mustofa (2022). Enhancing Flipped Classroom with Peer Teaching to Promote Students' Conceptual Understanding and Self-Efficacy in Calculus Courses. Pegem Journal of Education and Instruction, Vol. 12, No. 3, 154-168. https://doi.org/10.47750/pegegog.12.03.17"
+    author: Ramadoni, Mustofa
 ---
 
 # Flexible Grouping
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 29 claims (15 for, 12 mixed, 2 against) · 36 studies (11 quant-synthesis, 10 causal, 8 review, 3 qualitative, 3 theoretical, 1 associational), `q1`–`q4` · 9 of 36 report an effect size · 18 claims rest on one study
+> **Evidence** · 33 claims (18 for, 13 mixed, 2 against) · 37 studies (11 causal, 11 quant-synthesis, 8 review, 3 qualitative, 3 theoretical, 1 associational), `q1`–`q4` · 9 of 37 report an effect size · 22 claims rest on one study
 
 ## Conditional relationship
 
@@ -152,6 +161,10 @@ Claims bearing on group work that this page did not cite before, read only for t
 
 - [Collaborative Learning Improves Outcomes](../claims/collaborative-learning-improves-outcomes.md) [+M] — two meta-analyses (early adolescents; undergraduate STEM small-group learning, d = 0.51 against no group work); bears on using mixed groups at all, not on flexible composition. Owned by [Collaborative Learning](collaborative-learning.md).
 - [Cooperative Learning Improves Achievement](../claims/cooperative-learning-improves-achievement.md) [+M] — two meta-analyses of cooperative against individualistic or competitive goal structures; bears on mixed groups' structure, not on regrouping. Owned by [Cooperative Learning](cooperative-learning.md).
+- [Majors Background Affects Outcomes](../claims/majors-background-affects-outcomes.md) [+M]
+- [Prior Achievement Affects Conceptual Understanding](../claims/prior-achievement-affects-conceptual-understanding.md) [+M]
+- [In one flipped calculus study, teaching method (peer-teaching versus conventional flipped classroom) and prior achievement level interact on self-efficacy](../claims/method-achievement-interaction-self-efficacy.md) [+W]
+- [Prior achievement level did not significantly affect self-efficacy overall in either flipped classroom method](../claims/prior-achievement-null-self-efficacy.md) [~W]
 
 ## Objective and learner-valued goal
 
@@ -174,7 +187,7 @@ Achievement on the grouped task, delayed retention, participation, belonging and
 - [Collaborative Learning](collaborative-learning.md) — owns when joint work of any structure changes what each member can do
 - [Social Interdependence](social-interdependence.md) — owns how a group's task, roles and reward make members depend on one another
 - [Adaptive Learning](adaptive-learning.md) — owns choosing each learner's next task from their responses; flexible grouping is its group-level, teacher-run form
-- [Flexibly Vary Grouping Arrangements in Science Based on Objectives, Learners, and Activity](flexible-grouping-in-science.md) — a science-specific statement of the same principle, from an ERIC digest
+- [Make Science Teaching Activity-Centered, with Pupils Learning by Doing](teacher-as-mediator-not-content-disseminator.md)
 
 ## Examples
 
@@ -185,12 +198,18 @@ Achievement on the grouped task, delayed retention, participation, belonging and
 - Rotating roles can keep group membership fluid while making contribution expectations explicit
 - [Use Heterogeneous Groups for Projects and Homogeneous Groups for Skill Achievement](../strategies/heterogeneous-grouping-for-science-projects.md)
 - [Form Interest Groups and Strengths-Based Groups in Science](../strategies/interest-based-grouping-in-science.md)
+- [Use Flexible Discussion Groups for Science Content Analysis](../strategies/flexible-discussion-groups-in-science.md)
+- [Group Pupils During Science Experiments and Demonstrations](../strategies/grouping-for-science-experiments-and-demonstrations.md)
+- [Set Up Learning Centers with More Tasks Than Any One Pupil Can Complete](../strategies/learning-centers-in-science-classrooms.md)
+- [Cooperative Learning](../strategies/cooperative-learning.md)
 
 ## Key Sources
 - Burris, C. C., Heubert, J. P., & Levin, H. M. (2006). Accelerating mathematics achievement using heterogeneous grouping. *American Educational Research Journal, 43*(1), 137-154. [doi:10.3102/00028312043001105](https://doi.org/10.3102/00028312043001105)
 - Castle, S., Deniz, C. B., & Tortora, M. (2005). Flexible grouping and student learning in a high-needs school. *Education and Urban Society, 37*(2), 139-150. [doi:10.1177/0013124504270787](https://doi.org/10.1177/0013124504270787)
 - Bedford, L., Wiebe, M., & Tschida, M. (2008). Flexible grouping in the higher education learning environment. *Transformative Dialogues, 1*(3). [doi:10.59236/td2008vol1iss3639](https://doi.org/10.59236/td2008vol1iss3639)
 - Colón, G., Zgliczynski, T., & Maheady, L. (2022). Using flexible grouping. In *High leverage practices for inclusive classrooms*. [doi:10.4324/9781003148609-23](https://doi.org/10.4324/9781003148609-23)
+- Grouping for Instruction in Teaching Science (ERIC Digest). (1989). ERIC Digest. https://eric.ed.gov
+- Ramadoni, Mustofa (2022). Enhancing Flipped Classroom with Peer Teaching to Promote Students' Conceptual Understanding and Self-Efficacy in Calculus Courses. Pegem Journal of Education and Instruction, Vol. 12, No. 3, 154-168. https://doi.org/10.47750/pegegog.12.03.17
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 ## Description
@@ -265,4 +284,90 @@ Flexible grouping is most useful when learner need changes across tasks and over
 - Castle, S., Deniz, C. B., & Tortora, M. (2005). Flexible grouping and student learning in a high-needs school. *Education and Urban Society, 37*(2), 139-150. [doi:10.1177/0013124504270787](https://doi.org/10.1177/0013124504270787)
 - Bedford, L., Wiebe, M., & Tschida, M. (2008). Flexible grouping in the higher education learning environment. *Transformative Dialogues, 1*(3).
 - Colón, G., Zgliczynski, T., & Maheady, L. (2022). Using flexible grouping. In *High leverage practices for inclusive classrooms*.
+-->
+
+<!-- merged 2026-10-15 from principles/flexible-grouping-in-science ("Flexibly Vary Grouping Arrangements in Science Based on Objectives, Learners, and Activity"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Flexibly Vary Grouping Arrangements in Science Based on Objectives, Learners, and Activity
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
+
+## Description
+The digest argues that teaching is far too complex for any one grouping type to be universally correct in science. Teachers should match grouping format to the learning purpose, drawing on experiments, audiovisual viewing, committees, discussion groups, interest groups, cross-grade groups, and learning centers. The digest states that 'teaching is far too complex' for one grouping type to fit every situation.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Grouping decisions must be matched to the objectives, the learners, and the activity at hand.
+#### Constraints
+- 
+
+### Target Learners
+- K-12 science pupils
+
+### Target Learning Objectives
+- Science knowledge, skills, and attitudes
+
+### Claims
+- 
+
+## Related Principles
+
+- [Make Science Teaching Activity-Centered, with Pupils Learning by Doing](teacher-as-mediator-not-content-disseminator.md)
+
+## Examples
+
+- [Use Flexible Discussion Groups for Science Content Analysis](../strategies/flexible-discussion-groups-in-science.md)
+- [Group Pupils During Science Experiments and Demonstrations](../strategies/grouping-for-science-experiments-and-demonstrations.md)
+- [Use Heterogeneous Groups for Projects and Homogeneous Groups for Skill Achievement](../strategies/heterogeneous-grouping-for-science-projects.md)
+- [Form Interest Groups and Strengths-Based Groups in Science](../strategies/interest-based-grouping-in-science.md)
+- [Set Up Learning Centers with More Tasks Than Any One Pupil Can Complete](../strategies/learning-centers-in-science-classrooms.md)
+
+## Key Sources
+- Grouping for Instruction in Teaching Science (ERIC Digest). (1989). ERIC Digest. https://eric.ed.gov
+-->
+
+<!-- merged 2026-10-15 from principles/consider-background-in-ptfc-grouping ("When implementing peer-teaching flipped classrooms, form groups and assign roles with attention to students' majors' background and prior achievement level"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# When implementing peer-teaching flipped classrooms, form groups and assign roles with attention to students' majors' background and prior achievement level
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 4 claims (3 for, 1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+
+## Description
+The article recommends that group division in a peer-teaching flipped classroom account for learner background variables. After finding that majors' background and prior achievement level shaped outcomes, the authors state that "the group division must consider the students majors' background besides we must also consider the prior achievement level", and suggest also considering majors' background in the division of in-class roles. This makes grouping an explicit design decision rather than a random assignment.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Group division and role assignment in the peer-teaching flipped classroom must be planned around majors' background and prior achievement level rather than assigned without regard to background.
+#### Constraints
+- The recommendation arises from a two-class freshman calculus study in West Sumatra, Indonesia; the authors note the PTFC advantage on conceptual understanding was not significant in the majors'-background ANCOVA analysis.
+
+### Target Learners
+- University freshmen in calculus courses, from natural science, social science and vocational senior high school backgrounds
+
+### Target Learning Objectives
+- Conceptual understanding of calculus
+- Self-efficacy for learning calculus
+
+### Claims
+
+- [Majors Background Affects Outcomes](../claims/majors-background-affects-outcomes.md) [+M]
+- [Prior Achievement Affects Conceptual Understanding](../claims/prior-achievement-affects-conceptual-understanding.md) [+M]
+- [In one flipped calculus study, teaching method (peer-teaching versus conventional flipped classroom) and prior achievement level interact on self-efficacy](../claims/method-achievement-interaction-self-efficacy.md) [+W]
+- [Prior achievement level did not significantly affect self-efficacy overall in either flipped classroom method](../claims/prior-achievement-null-self-efficacy.md) [~W]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Cooperative Learning](../strategies/cooperative-learning.md)
+
+## Key Sources
+- Ramadoni, Mustofa (2022). Enhancing Flipped Classroom with Peer Teaching to Promote Students' Conceptual Understanding and Self-Efficacy in Calculus Courses. Pegem Journal of Education and Instruction, Vol. 12, No. 3, 154-168. https://doi.org/10.47750/pegegog.12.03.17
 -->

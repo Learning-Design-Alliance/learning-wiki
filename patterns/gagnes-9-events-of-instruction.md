@@ -111,11 +111,11 @@ Record: **target and permitted aids → starting attempt and reasoning → which
 
 [Attention](../elements/attention.md), [learning objectives](../elements/learning-objectives.md), [prior knowledge activation](../elements/prior-knowledge-activation.md) and [activation](../elements/activation.md), [demonstration](../elements/demonstration.md), [guided practice](../elements/guided-practice.md), [practice](../elements/practice.md), [provide feedback](../elements/provide-feedback.md), [assessment](../elements/assessment.md) and [transfer tasks](../elements/transfer-tasks.md). Principles the policy draws on: [Direct Instruction](../principles/direct-instruction.md), [Activation](../principles/activation.md), [Retrieval Practice](../principles/retrieval-practice.md) and [Formative Assessment](../principles/formative-assessment.md).
 
-This pattern is scoped to a bounded lesson on a structured target. Open inquiry, design work, and complex skills that have to be practised as whole tasks need other configurations (see [Merrill's First Principles of Instruction](merrills-first-principles-of-instruction.md) for a task-centred alternative). The policy supports observation and design reasoning; the effect of the full sequence, of event order, and of any single event other than practice remains to be tested with learners.
+This pattern is scoped to a bounded lesson on a structured target. Open inquiry, design work, and complex skills that have to be practised as whole tasks need other configurations (see [Merrill's First Principles of Instruction](4cid-four-component-instructional-design.md) for a task-centred alternative). The policy supports observation and design reasoning; the effect of the full sequence, of event order, and of any single event other than practice remains to be tested with learners.
 
 ## Related Patterns
 - [Develop Understanding](develop-understanding.md)
-- [Merrill's First Principles of Instruction](merrills-first-principles-of-instruction.md)
+- [Merrill's First Principles of Instruction](4cid-four-component-instructional-design.md)
 
 ## Examples
 - A short online lesson that activates prior knowledge, teaches a new concept, and checks application with feedback.

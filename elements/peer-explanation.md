@@ -61,7 +61,7 @@ Peer explanation converts passive comprehension into generative processing: expl
 ### Affordances
 - [Collaborative Learning](../principles/collaborative-learning.md) — peer explanation is the minimal unit of collaboration: two learners, one explaining, one probing; it structures interaction so both parties have generative roles rather than dividing labor
 - [Active Learning](../principles/active-learning.md) — explanation is a generative activity that requires constructing output rather than receiving input, replacing listening time with meaning-making time
-- [Constructivism](../principles/constructivism.md) — verbalizing forces learners to rebuild knowledge in their own words, revealing and resolving inconsistencies between their mental model and the target concept
+- [Constructivism](../principles/cognitive-activation.md) — verbalizing forces learners to rebuild knowledge in their own words, revealing and resolving inconsistencies between their mental model and the target concept
 - [Metacognition](../principles/self-regulated-learning.md) — the anticipation of explaining to a peer prompts self-monitoring during initial study, not just afterward
 
 ### Claims
@@ -76,7 +76,7 @@ Peer explanation converts passive comprehension into generative processing: expl
 - [Collaboration](collaboration.md) — the larger pattern within which structured explanation pairs operate
 
 ## Patterns That Use This Element
-- [Cognitively Guided Instruction (CGI for Math)](../patterns/cognitively-guided-instruction-cgi-for-math.md) — students explain their solution strategies to peers and teacher, making diverse methods visible
+- [Cognitively Guided Instruction (CGI for Math)](../principles/responsive-teaching.md) — students explain their solution strategies to peers and teacher, making diverse methods visible
 - [POGIL (Process Oriented Guided Inquiry Learning)](https://pogil.org) — team roles include a "spokesperson" who reports and explains the group's reasoning, institutionalizing peer explanation
 
 ## Examples

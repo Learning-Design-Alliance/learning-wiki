@@ -64,7 +64,7 @@ Pre-reading quizzes exploit the pretesting effect: attempting to retrieve an ans
 ## Examples
 - **Intro psychology course**: instructor posts a 5-question ungraded Canvas quiz on memory concepts before students read the textbook chapter; the same concepts appear on the unit exam with higher accuracy than un-pretested concepts.
 - **Kornell et al. (2009)**: students took pretests before reading expository texts; tested facts were learned better than non-tested facts, even though students answered most pretest questions wrong.
-- **Flipped classroom pre-watching quizzes**: short pre-video questions in a [Flipped Classroom](../patterns/flipped-classroom.md) prepare students to extract key ideas from the instructional video.
+- **Flipped classroom pre-watching quizzes**: short pre-video questions in a [Flipped Classroom](../principles/flipped-learning.md) prepare students to extract key ideas from the instructional video.
 
 ## Key Sources
 - Kornell, N., Hays, M. J., & Bjork, R. A. (2009). Unsuccessful retrieval attempts enhance subsequent learning. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 35*(4), 989–998. [doi:10.1037/a0015729](https://doi.org/10.1037/a0015729)

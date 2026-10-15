@@ -122,7 +122,7 @@ Racial identity work functions as a form of [Scaffolding](../principles/scaffold
 
 ## Patterns That Use This Strategy
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — educators modeling their own reflective practice makes the "work" of examining identity visible to learners
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — structured dialogue is the primary vehicle for identity work
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — structured dialogue is the primary vehicle for identity work
 
 ## Examples
 - **[Learning for Justice](https://www.learningforjustice.org)** (formerly Teaching Tolerance) — publishes identity-focused professional development frameworks, including the *Critical Practices for Anti-bias Education* guide, which places "Identity" and "Diversity" as the first domains of educator self-work.

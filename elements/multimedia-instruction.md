@@ -57,7 +57,7 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 
 ## Patterns That Use This Element
 - [Multimedia Learning](../patterns/multimedia-learning.md)
-- [Flipped Learning](../patterns/flipped-classroom.md)
+- [Flipped Learning](../principles/flipped-learning.md)
 
 ## Examples
 - An explained diagram or narrated animation paired with guided questions.

@@ -76,7 +76,7 @@ Trust is not a soft prerequisite; it changes what learners are willing to do cog
 
 ## Patterns That Use This Strategy
 - [Fostering Communities of Learning](../patterns/fostering-communities-of-learning-fcl.md) — community building as the foundation for collaborative knowledge construction
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — trust as the precondition for productive discourse
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — trust as the precondition for productive discourse
 - [Community of Inquiry](../principles/community-of-inquiry.md) — social presence as one of three essential presences for deep learning
 
 ## Examples

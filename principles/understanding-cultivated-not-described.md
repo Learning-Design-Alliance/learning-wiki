@@ -1,7 +1,7 @@
 ---
 type: principle
 id: understanding-cultivated-not-described
-aliases: [instructor-indirect-narration-studio]
+aliases: [instructor-indirect-narration-studio, impersonal-critique-provides-emotional-space]
 title: Understanding must be cultivated through exploration, not described or told
 description: "For a learner who can make attempts at a new concept or principle, exploration guided by clues, questions on the learner's own ideas and critique of everyone's work, with the principle then named from that work, is expected to deepen understanding more than being told first or exploring unguided, though no claim tests indirect against direct guidance."
 canonical: true
@@ -18,12 +18,16 @@ sources:
     resource: "https://doi.org/10.19128/turje.1495965"
     title: "Sözen, G., & Özen-Yavuz, A. (2024). Proposing a course schedule for architectural basic design studio guided by Bloom's Revised Taxonomy. Turkish Journal of Education, 13(4), 379-409. https://doi.org/10.19128/turje.1495965"
     author: "Sözen, G., & Özen-Yavuz, A"
+  - id: johnson-1995
+    resource: "https://eric.ed.gov/?id=ED384062"
+    title: "Johnson, David Kenneth. (1995). CRITO: Informal Logic, Critical Thinking, and the Argumentative Essay. https://eric.ed.gov/?id=ED384062"
+    author: Johnson, David Kenneth
 ---
 
 # Understanding must be cultivated through exploration, not described or told
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 16 claims (9 for, 5 mixed, 2 against) · 21 studies (6 causal, 4 quant-synthesis, 4 review, 3 design, 2 qualitative, 2 theoretical), `q1`–`q4` · 5 of 21 report an effect size · 11 claims rest on one study
+> **Evidence** · 18 claims (11 for, 5 mixed, 2 against) · 22 studies (6 causal, 4 quant-synthesis, 4 review, 3 design, 3 theoretical, 2 qualitative), `q1`–`q4` · 5 of 22 report an effect size · 13 claims rest on one study
 
 ## Conditional relationship
 
@@ -43,7 +47,7 @@ The earlier page's guidance (an architecture basic-design studio running six hou
 2. **Give real time to make attempts.** About two to two and a half hours of the six-hour session for making, with at least two versions of the composition. Exploration with guidance is supported in general ([Enhanced discovery learning produces greater learning than other forms of instruction](../claims/enhanced-discovery-beats-other-instruction.md) [+M]); the minutes are an untested proposal.
 3. **Guide by questions on the learner's own idea, not by explanation.** Circulate during making; wait until a learner has a position, then ask one specific question that sharpens something the learner has already half-said ("what is holding the left side down?"), and confirm the right term when a learner reaches for it, without adding the explanation. Do not interrupt a group's reasoning to state the principle. Basis: in recorded small-group episodes a teacher's guiding question let students' own partial idea become the shared concept, while a teacher who interjected disciplinary content was resisted and the talk stopped being dialogic ([Subtle teacher guidance, not imposition, enables interdisciplinary integration in small-group deliberation](../claims/subtle-teacher-guidance-not-imposition-enables-interdisciplinary-integration.md) [+W]); in one tutoring study, prompting without explaining taught as well as explaining ([Human tutoring has a medium effect over no tutoring, and in one small study students learned as well when tutors only prompted them as when tutors also explained and gave feedback](../claims/tutoring-effectiveness-comes-from-scaffolding-and-feedback.md) [+M]). Avoid closing remarks ("fine", "OK, next") that end a learner's line of thought before it is finished ([A 1970 teacher self-analysis programme asserts, without data, that teacher responses including verbal rewards can close off pupil thinking](../claims/teacher-responses-can-close-off-pupil-thinking.md) [+W]).
 4. **Critique every work, strengths and weaknesses together.** Pin up all compositions; for each, the class says what works and what does not, against the week's principle, without sorting works into good and bad and without a single "right" answer. Treat a weak composition as data about the principle. About 90 minutes for a studio of 20 to 25. Untested as a studio routine, from the earlier page; comparing correct with incorrect examples is supported for concepts in mathematics ([Erroneous examples improve conceptual understanding by forcing comparison with correct models.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M], carried here from decimal magnitude with children to design critique with adults). See [Error Analysis](error-analysis.md).
-5. **Each learner explains their own work aloud.** Two or three minutes each during the critique: what the clue was, what they did with it, and why. Untested; from the earlier page; the observation in step 1 is the only record ([+W] above). See [Self-Explanation](self-explanation.md).
+5. **Each learner explains their own work aloud.** Two or three minutes each during the critique: what the clue was, what they did with it, and why. Untested; from the earlier page; the observation in step 1 is the only record ([+W] above). See [Self-Explanation](cognitive-activation.md).
 6. **Then name the principle, from their work.** In the last 20 to 30 minutes, state the principle explicitly and its usual name, pointing to the pinned-up works that show it and to those that break it. This replaces the earlier page's "avoid direct narration": in the evidence recorded here, problem solving before instruction helps conceptual learning when instruction follows and builds on the learners' solutions ([Productive Failure Improves Conceptual Learning](../claims/productive-failure-improves-conceptual-learning.md) [~S]; [PS-I fosters learning only if specific design features (contrasting cases or building instruction on student solutions) are implemented](../claims/ps-i-fosters-learning-only-with-contrasting-cases-or-student-solutions.md) [~M]), and exploration with no guidance learns less than explicit instruction ([Explicit instruction produces greater learning than unassisted discovery learning under most conditions](../claims/minimal-guidance-less-effective-for-novices.md) [-M]).
 7. **Check on a new case, without the clue.** End the week, or open the next, with a short task the clue does not cover: a new composition to judge or adjust, explained in a sentence or a sketch. Untested proposal; it shows whether the principle transfers beyond the clue that carried it.
 8. **Hand over the questioning across the term.** Weeks 1 to 4: a strong clue close to the principle, the teacher asks most questions, and names the principle at the end of every session. Weeks 5 to 9: looser clues; learners lead the critique with a short question card ("what holds this together? what breaks it?") and the teacher adds one question per work. Weeks 10 to 14: learners choose or bring their own clues, critique one another's work, and name the principle themselves; the teacher corrects only what is wrong. A learner moves to the looser stage when they can name and use the week's principle on a new case unaided in two consecutive weeks. The arc and its threshold are untested proposals; that guidance matters less as prior knowledge grows is a review's statement ([The advantage of guidance begins to recede only when learners have sufficiently high prior knowledge to provide internal guidance](../claims/guidance-advantage-recedes-with-high-prior-knowledge.md) [~M]).
@@ -73,7 +77,7 @@ The three facts that most change the decision:
 | Single session only, or a fixed short time (for example 50 minutes) | 5 minutes clue and problem; 15 minutes making; 15 minutes critique of four or five works; 10 minutes naming the principle from those works; 5 minutes on one new case. Do not claim lasting understanding | Untested proposal |
 | Some learners remote, others in the room; or learners on phones only | Learners photograph or upload each version to one shared board; critique on the shared screen with remote learners speaking first; questions in the chat when voice is not possible | Untested proposal |
 | `online-self-paced`, no teacher present | Build the questions into the task as prompts after each attempt; then show contrasting example works (one that shows the principle, one that breaks it) and a short explanation that refers back to the learner's attempt | Untested here; carried from mathematics: [Erroneous examples improve conceptual understanding by forcing comparison with correct models.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M]; [PS-I fosters learning only if specific design features (contrasting cases or building instruction on student solutions) are implemented](../claims/ps-i-fosters-learning-only-with-contrasting-cases-or-student-solutions.md) [~M] |
-| Learners have low confidence, low literacy, or find public critique hard | Critique the work, not the maker; let works be shown without names; allow a learner to explain by pointing and sketching; open each critique with what works | Untested proposal; see [impersonal critique](impersonal-critique-provides-emotional-space.md) |
+| Learners have low confidence, low literacy, or find public critique hard | Critique the work, not the maker; let works be shown without names; allow a learner to explain by pointing and sketching; open each critique with what works | Untested proposal; see [impersonal critique](understanding-cultivated-not-described.md) |
 | The material is private or personal (own experiences, own life as the problem) | The learner decides what is shown to the group and what stays with them; critique only what is shared | Untested proposal |
 | The brief names its own critique routine, rubric or criteria (a jury format, a programme rubric, its own categories) | Keep the routine and its categories as given; change only the teacher's move during making (a question instead of an explanation) and add the closing naming of the principle | Untested proposal |
 | The brief wants a whole project kept whole (a full design, a performance) | Do not split it into exercises; put the clue inside the project brief and run question-led check-ins at its stages | Untested proposal |
@@ -123,6 +127,8 @@ Learners, domains and outcomes differ across these claims (children learning a s
 - [Positioning personal experience as an epistemic resource supports expansion from inward to outward critical orientations](../claims/positioning-personal-experience-as-epistemic-resource-supports-critical-orientation-expansion.md) [+W]: one design-based study, two 12th-grade English classes (69 students), no comparison condition. It bears on the page only as a way of starting exploration from learners' own experience (used in the adult row above), not on clue-led guidance.
 - [Invention Tasks Prepare Future Learning](../claims/invention-tasks-prepare-future-learning.md) [+M]: ninth graders who invented a statistics procedure before a worked example transferred better than tell-and-practice students only when a learning resource was present at test. Bears on exploring before being told; a narrower member of the productive-failure question.
 - [Age moderates discovery-learning effects: adolescents suffer most from unassisted discovery, adults benefit most from enhanced discovery](../claims/age-moderates-discovery-effects.md) [~M]: a moderator analysis of the discovery meta-analysis; used in the age rows above.
+- [Critical Temper Weakest On Basic Prejudices](../claims/critical-temper-weakest-on-basic-prejudices.md) [+W]
+- [Objections Stage Most Difficult Crito](../claims/objections-stage-most-difficult-crito.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -143,18 +149,20 @@ Understanding shown in an oral explanation of one's own work, judgement of a new
 - [Inquiry-Based Learning](inquiry-based-learning.md): guided against unguided inquiry.
 - [Direct Instruction](direct-instruction.md): the default where learners need a procedure or are young.
 - [Error Analysis](error-analysis.md): comparing incorrect with correct work, used in the critique step.
-- [Self-Explanation](self-explanation.md): learners explaining their own work.
+- [Self-Explanation](cognitive-activation.md): learners explaining their own work.
 - [Peer Discussion](peer-discussion.md): discussion after an individual commitment.
 
 ## Examples
 -
 - [Use discipline-specific clues as design problems to foster analyze and evaluate steps](../strategies/discipline-clues-as-design-problems.md)
-- [Guided Discovery Learning](../patterns/guided-discovery-learning.md): a pattern in which prompts and questions lead learners' investigation toward a concept.
+- [Guided Discovery Learning](inquiry-based-learning.md): a pattern in which prompts and questions lead learners' investigation toward a concept.
 - [Develop Understanding](../patterns/develop-understanding.md): a pattern that elicits learners' ideas, explains, and compares cases.
+- [Pair students to alternate presenting work and critically commenting on a partner's work to support each CRITO stage](../strategies/paired-alternating-presentation-and-critique.md)
 
 ## Key Sources
 - Land, Susan M.; Hannafin, Michael J. (1996). Student-Centered Learning Environments: Foundations, Assumptions, and Implications. https://eric.ed.gov/?id=ED397810
 - Sözen, G., & Özen-Yavuz, A. (2024). Proposing a course schedule for architectural basic design studio guided by Bloom's Revised Taxonomy. Turkish Journal of Education, 13(4), 379-409. https://doi.org/10.19128/turje.1495965
+- Johnson, David Kenneth. (1995). CRITO: Informal Logic, Critical Thinking, and the Argumentative Essay. https://eric.ed.gov/?id=ED384062
 
 <!-- deprecated 2026-10-15: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -239,4 +247,44 @@ In the BRT-guided studio, the instructor's role shifts from lecturing to guiding
 
 ## Key Sources
 - Sözen, G., & Özen-Yavuz, A. (2024). Proposing a course schedule for architectural basic design studio guided by Bloom's Revised Taxonomy. Turkish Journal of Education, 13(4), 379-409. https://doi.org/10.19128/turje.1495965
+-->
+
+<!-- merged 2026-10-15 from principles/impersonal-critique-provides-emotional-space ("Use an impersonal, procedure-driven critique format so challenges to students' basic assumptions come from the method, not the instructor"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Use an impersonal, procedure-driven critique format so challenges to students' basic assumptions come from the method, not the instructor
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+
+## Description
+The paper recommends CRITO as an affective strategy: because its demands appear impersonal and objective, challenges to students' considered judgments issue from the students themselves as they apply general rules of good reasoning, rather than from the instructor. The author argues this "may help to provide the emotional space in which students can accept and learn from nontrivial challenges to their most basic assumptions."
+
+## Design Implications
+
+### Context
+#### Requirements
+- Students must learn to apply general rules of good reasoning to their own beliefs and arguments
+#### Constraints
+- The paper hedges this as a possibility ('may help'), not a demonstrated effect
+
+### Target Learners
+- undergraduate students
+
+### Target Learning Objectives
+- accepting challenges to one's basic assumptions
+- critical attitude development
+
+### Claims
+- [Critical Temper Weakest On Basic Prejudices](../claims/critical-temper-weakest-on-basic-prejudices.md) [+M]
+- [Objections Stage Most Difficult Crito](../claims/objections-stage-most-difficult-crito.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Pair students to alternate presenting work and critically commenting on a partner's work to support each CRITO stage](../strategies/paired-alternating-presentation-and-critique.md)
+
+## Key Sources
+- Johnson, David Kenneth. (1995). CRITO: Informal Logic, Critical Thinking, and the Argumentative Essay. https://eric.ed.gov/?id=ED384062
 -->

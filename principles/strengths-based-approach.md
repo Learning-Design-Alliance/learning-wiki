@@ -1,7 +1,7 @@
 ---
 type: principle
 id: strengths-based-approach
-aliases: [find-strengths-and-entry-points-per-teacher, remedial-instruction-build-on-strengths-integrate-sources]
+aliases: [find-strengths-and-entry-points-per-teacher, remedial-instruction-build-on-strengths-integrate-sources, person-first-strength-based-labels-counseling]
 title: Strengths-based Approach
 description: "For a learner described mainly by gaps, collecting evidence of what they can already do, naming it as specific performances and building tasks, roles and support from it, with barriers still addressed, is expected to raise teacher expectations, make competence visible and support self-efficacy and persistence; no claim here compares it with deficit-organized instruction, and praise of the person or brief belief exercises limit it."
 canonical: true
@@ -34,12 +34,16 @@ sources:
     resource: "https://eric.ed.gov/?id=ED315726"
     title: "Walker, B. J. (1989). The Interactive Model of Reading: Deciding How Disability Occurs. https://eric.ed.gov/?id=ED315726"
     author: Walker, B. J
+  - id: litam-2019
+    resource: "https://doi.org/10.15241/sdal.9.4.396"
+    title: "Litam, S. D. A. (2019). She's Just a Prostitute: The Effects of Labels on Counselor Attitudes, Empathy, and Rape Myth Acceptance. The Professional Counselor, 9(4), 396-415. https://doi.org/10.15241/sdal.9.4.396"
+    author: Litam, S. D. A
 ---
 
 # Strengths-based Approach
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 17 claims (11 for, 5 mixed, 1 against) · 22 studies (10 review, 4 causal, 3 theoretical, 2 design, 1 quant-synthesis, 1 associational, 1 qualitative), `q1`–`q4` · 2 of 22 report an effect size · 11 claims rest on one study
+> **Evidence** · 20 claims (13 for, 6 mixed, 1 against) · 23 studies (10 review, 5 causal, 3 theoretical, 2 design, 1 quant-synthesis, 1 associational, 1 qualitative), `q1`–`q4` · 2 of 23 report an effect size · 14 claims rest on one study
 
 ## Conditional relationship
 
@@ -49,7 +53,7 @@ The relationship is conditional on four things. **The strength must be a specifi
 
 **No claim in the wiki compares a strengths-based approach with the same instruction organized around deficits.** The recorded evidence is associational (teacher expectation bias predicting later performance; self-efficacy predicting persistence), qualitative or design-based (teachers' changed expectations after household research; tasks built from family practices letting young children show competence), and second-hand (a review's report of experiments on proximal goals and attributional feedback). Two bodies of randomized evidence, on praise and on brief belief-changing interventions, limit it rather than support it. The default design below is the earlier page's guidance made concrete; each step is labeled with its evidence status.
 
-How the converted neighbours sit beside this page. [Cultural & Life Experiences Connections](cultural-life-experiences-connections.md) holds the relationship of using a learner's own cultural, family and work experience as the material of tasks and assessments; when a strength is a body of experience, use its model for building tasks from it (and its family-interview method), and use this page for how the strength is named, recorded and built on. [Autonomy](autonomy.md) holds choice within structure; offering several ways into a task is one of its moves and is not repeated here. [Community-Based Learning](community-based-learning.md) holds giving work a real role in a community. [Self-Regulated Learning](self-regulated-learning.md) holds the learner's own monitoring against a criterion, which this page uses when learners start naming their own effective strategies. The unconverted neighbours [Foster Growth Mindset](growth-mindset.md) and [Wise Feedback Across Difference](wise-feedback-across-difference.md) cover the learner's beliefs about ability and critical feedback that conveys high standards with assurance; both touch the feedback step below.
+How the converted neighbours sit beside this page. [Cultural & Life Experiences Connections](cultural-life-experiences-connections.md) holds the relationship of using a learner's own cultural, family and work experience as the material of tasks and assessments; when a strength is a body of experience, use its model for building tasks from it (and its family-interview method), and use this page for how the strength is named, recorded and built on. [Autonomy](autonomy.md) holds choice within structure; offering several ways into a task is one of its moves and is not repeated here. [Community-Based Learning](community-based-learning.md) holds giving work a real role in a community. [Self-Regulated Learning](self-regulated-learning.md) holds the learner's own monitoring against a criterion, which this page uses when learners start naming their own effective strategies. The unconverted neighbours [Foster Growth Mindset](motivation.md) and [Wise Feedback Across Difference](wise-feedback-across-difference.md) cover the learner's beliefs about ability and critical feedback that conveys high standards with assurance; both touch the feedback step below.
 
 ## Default design, while the relationship is untested
 
@@ -136,6 +140,9 @@ Claims in the wiki that bear on the page's premise, not used in the model above.
 - [A 1993 case-study paper on culturally aware teachers asserts, without data of its own, that instruction incorporating students' life experiences, language and skills improves academic performance](../claims/incorporating-home-culture-improves-academic-performance.md) [+W] — an assertion resting on cited literature (`q1`); it bears more on [Cultural & Life Experiences Connections](cultural-life-experiences-connections.md) than on this page.
 - [Poor Readers Overrely Single Information Source](../claims/poor-readers-overrely-single-information-source.md) [+M]
 - [Reading Failure Fixed Ability Attribution](../claims/reading-failure-fixed-ability-attribution.md) [+M]
+- [Trafficking Labels Shift Counselor Attitudes Toward Victimization](../claims/trafficking-labels-shift-counselor-attitudes-toward-victimization.md) [+M]
+- [Attitudes Demographics Predict Counselor Rape Myth Acceptance](../claims/attitudes-demographics-predict-counselor-rape-myth-acceptance.md) [+M]
+- [Attitudes and demographics predicted empathy in the prostitute-label group but not the trafficking-label group](../claims/label-condition-moderates-empathy-predictors.md) [~W]
 
 ## Objective and learner-valued goal
 
@@ -156,10 +163,10 @@ Teacher expectations, recognized competence in a familiar form, self-efficacy, p
 ## Related Principles
 
 - [Learner Choice](autonomy.md) — strengths-based design often creates multiple legitimate pathways into a task.
-- [Foster Growth Mindset](growth-mindset.md) — asset framing helps learners interpret challenge as workable rather than identity-defining.
+- [Foster Growth Mindset](motivation.md) — asset framing helps learners interpret challenge as workable rather than identity-defining.
 - [Developing Your Cultural Awareness](developing-your-cultural-awareness.md) — instructors need cultural awareness to recognize strengths accurately.
 - [Authentic Audiences & Purposes](authentic-audiences-purposes.md) — learners' strengths are easier to see when work resembles meaningful practice.
-- [Take students' previous knowledge and experience as the growth point of new knowledge](prior-knowledge-growth-point-new-knowledge.md)
+- [Take students' previous knowledge and experience as the growth point of new knowledge](activation.md)
 - [Cultural & Life Experiences Connections](cultural-life-experiences-connections.md) — owns using learners' own experience as the material of tasks; this page owns naming and building on demonstrated capability.
 - [Wise Feedback Across Difference](wise-feedback-across-difference.md) — critical feedback that conveys high standards and assurance the learner can meet them.
 - [Engage teachers in literacy events learner-to-learner to build trusting coaching relationships](communities-of-practice.md)
@@ -177,6 +184,8 @@ Teacher expectations, recognized competence in a familiar form, self-efficacy, p
 - [Leverage what students do well and enjoy to address their learning challenges](../strategies/leverage-strengths-to-mitigate-challenges.md)
 - [Strength-based guidance: recognizing and nurturing learners' inherent strengths rather than emphasizing deficits](../strategies/strength-based-career-guidance.md)
 - [Professional development in asset-based pedagogies and adult SEL to build culturally affirming environments](../strategies/pd-asset-based-pedagogies-adult-sel-sead.md)
+- [Incorporate discussions of human sex trafficking into required counselor education trauma curriculum and provide targeted training](../strategies/sex-trafficking-training-in-counselor-education.md)
+- [Pair person-first language with an explicit explanation of its rationale rather than expecting language change alone to shift attitudes](../strategies/pair-language-change-with-rationale-explanation.md)
 
 ## Key Sources
 - Garwood, J. D., & Ampuja, A. A. (2019). Inclusion of students with learning, emotional, and behavioral disabilities through strength-based approaches. *Intervention in School and Clinic, 55*(1), 46-51. [https://doi.org/10.1177/1053451218767918](https://doi.org/10.1177/1053451218767918)
@@ -185,6 +194,7 @@ Teacher expectations, recognized competence in a familiar form, self-efficacy, p
 - Uink, B., Bennett, R., & van den Berg, C. (2021). Factors that enable Australian Aboriginal women's persistence at university: A strengths-based approach. *Higher Education Research & Development, 40*(1), 178-193. [https://doi.org/10.1080/07294360.2020.1852185](https://doi.org/10.1080/07294360.2020.1852185)
 - Dozier, C. L. (2008). Literacy coaching: Engaging and learning with teachers. The Language and Literacy Spectrum, 18. https://eric.ed.gov/?id=EJ1059644
 - Walker, B. J. (1989). The Interactive Model of Reading: Deciding How Disability Occurs. https://eric.ed.gov/?id=ED315726
+- Litam, S. D. A. (2019). She's Just a Prostitute: The Effects of Labels on Counselor Attitudes, Empathy, and Rape Myth Acceptance. The Professional Counselor, 9(4), 396-415. https://doi.org/10.15241/sdal.9.4.396
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -237,10 +247,10 @@ A strengths-based approach improves learning when instructors make existing capa
 ## Related Principles
 
 - [Learner Choice](autonomy.md) — strengths-based design often creates multiple legitimate pathways into a task.
-- [Foster Growth Mindset](growth-mindset.md) — asset framing helps learners interpret challenge as workable rather than identity-defining.
+- [Foster Growth Mindset](motivation.md) — asset framing helps learners interpret challenge as workable rather than identity-defining.
 - [Developing Your Cultural Awareness](developing-your-cultural-awareness.md) — instructors need cultural awareness to recognize strengths accurately.
 - [Authentic Audiences & Purposes](authentic-audiences-purposes.md) — learners' strengths are easier to see when work resembles meaningful practice.
-- [Take students' previous knowledge and experience as the growth point of new knowledge](prior-knowledge-growth-point-new-knowledge.md)
+- [Take students' previous knowledge and experience as the growth point of new knowledge](activation.md)
 
 ## Examples
 
@@ -338,4 +348,48 @@ The paper recommends that remedial programs focus on strengths and consciously s
 
 ## Key Sources
 - Walker, B. J. (1989). The Interactive Model of Reading: Deciding How Disability Occurs. https://eric.ed.gov/?id=ED315726
+-->
+
+<!-- merged 2026-10-15 from principles/person-first-strength-based-labels-counseling ("Use person-first, strength-based labels such as 'sex trafficking survivor' rather than 'prostitute' when conceptualizing and counseling clients"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Use person-first, strength-based labels such as 'sex trafficking survivor' rather than 'prostitute' when conceptualizing and counseling clients
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
+
+## Description
+The principle holds that the language counselors use to describe clients shapes their own attitudes, empathy, and rape myth acceptance, consistent with linguistic relativity. The article reports that "Using a more strength-based term, such as sex trafficking survivor, may be more appropriate" and that avoiding stigmatizing labels such as 'ugly' matters in the counseling setting. It grounds this in the finding that label exposure produced significantly different attitude scores across randomly assigned groups.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Counselors and supervisors must recognize that language matters in client conceptualization and the therapeutic setting
+#### Constraints
+- The ATTS instrument's reliability and validity were unknown at the time of the study, as this was its first use
+
+### Target Learners
+- licensed professional counselors
+- counselors-in-training
+- counseling supervisors
+
+### Target Learning Objectives
+- adopting non-stigmatizing, person-first language when working with sex trafficking survivors
+
+### Claims
+
+- [Trafficking Labels Shift Counselor Attitudes Toward Victimization](../claims/trafficking-labels-shift-counselor-attitudes-toward-victimization.md) [+M]
+- [Attitudes Demographics Predict Counselor Rape Myth Acceptance](../claims/attitudes-demographics-predict-counselor-rape-myth-acceptance.md) [+M]
+- [Attitudes and demographics predicted empathy in the prostitute-label group but not the trafficking-label group](../claims/label-condition-moderates-empathy-predictors.md) [~W]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Incorporate discussions of human sex trafficking into required counselor education trauma curriculum and provide targeted training](../strategies/sex-trafficking-training-in-counselor-education.md)
+- [Pair person-first language with an explicit explanation of its rationale rather than expecting language change alone to shift attitudes](../strategies/pair-language-change-with-rationale-explanation.md)
+
+## Key Sources
+- Litam, S. D. A. (2019). She's Just a Prostitute: The Effects of Labels on Counselor Attitudes, Empathy, and Rape Myth Acceptance. The Professional Counselor, 9(4), 396-415. https://doi.org/10.15241/sdal.9.4.396
 -->

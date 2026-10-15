@@ -72,7 +72,7 @@ Student-led conferences operationalize [Assessment for Learning](../principles/a
 - [Application](../elements/application.md) — the follow-through task that makes the goal actionable
 
 ## Patterns That Use This Strategy
-- [Cognitively Guided Instruction (CGI) for Math](../patterns/cognitively-guided-instruction-cgi-for-math.md) — shares the premise that instruction should be responsive to individual student thinking, elicited rather than assumed
+- [Cognitively Guided Instruction (CGI) for Math](../principles/responsive-teaching.md) — shares the premise that instruction should be responsive to individual student thinking, elicited rather than assumed
 - [Competency-Based Learning](../patterns/competency-based-learning.md) — conferences are the natural progress-review mechanism when students advance on demonstrated mastery
 
 ## Examples

@@ -50,8 +50,8 @@ DL2F is a progressive pedagogical approach for language education that positions
 - [DepEd-aligned assessment and evaluation tools measuring linguistic accuracy, cultural awareness, communication, and collaboration](../elements/dl2f-deped-aligned-assessment-tools.md)
 - [Adapt DL2F to local context by aligning with the national curriculum, using authentic local materials, multilingual approaches, and pragmatic low-bandwidth technology integration](../strategies/dl2f-philippine-contextual-adaptation-strategy.md)
 - [Task-based learning units integrated into the curriculum structure with collaborative real-world communication activities](../designs/dl2f-task-based-unit-pattern.md)
-- [Build continuous improvement into language instruction through regular feedback, self-assessment, and revision opportunities](../principles/dl2f-continuous-improvement-principle.md)
-- [Sustain framework implementation through ongoing teacher professional development and collaborative educator practices](../principles/dl2f-teacher-development-sustainability-principle.md)
+- [Build continuous improvement into language instruction through regular feedback, self-assessment, and revision opportunities](../principles/feedback-loops.md)
+- [Sustain framework implementation through ongoing teacher professional development and collaborative educator practices](../principles/ongoing-study-teams-peer-coaching-in-service.md)
 - [Learner-Centric Approach](../strategies/learner-centric_approach.md)
 
 ## Key Sources

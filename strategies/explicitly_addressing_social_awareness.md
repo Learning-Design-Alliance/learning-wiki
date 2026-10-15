@@ -87,7 +87,7 @@ Social awareness develops through the same mechanisms as other complex skills: o
 
 ## Patterns That Use This Strategy
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — the modeling and coaching phases apply directly to social as well as cognitive skills
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — discussion formats depend on and cultivate social awareness
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — discussion formats depend on and cultivate social awareness
 - [Collaborative Learning](../patterns/collaborative-learning.md) — group work both requires and develops perspective-taking
 
 ## Examples

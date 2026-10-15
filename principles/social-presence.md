@@ -161,11 +161,11 @@ Perceived presence, participation, satisfaction, persistence and individual lear
 - **Introductions with media profiles** — a standard first-week activity in online courses (e.g., Canvas or Moodle introduction forums) where learners post a short video or annotated photo; establishes identity cues that text alone omits.
 - **Instructor video announcements** — weekly personalized video or audio messages in LMS-based courses; a widely recommended practice in online teaching handbooks for making the instructor feel present rather than textual.
 - **Peer response protocols in discussion forums** — requiring named, substantive replies to classmates (e.g., Piazza or Perusall threads) converts broadcast posting into dialogue, the interaction pattern most associated with cohesion.
-- **[Flipped Classroom](../patterns/flipped-classroom.md)** — reclaiming synchronous time for interaction and discussion increases the interpersonal cues available compared with lecture-transmission formats.
+- **[Flipped Classroom](flipped-learning.md)** — reclaiming synchronous time for interaction and discussion increases the interpersonal cues available compared with lecture-transmission formats.
 
 ### Patterns and strategies that apply it
 - [Online Course Design (Community of Inquiry)](../patterns/online-course-design.md) — places presence-building early in a whole online course sequence.
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — depends on learners being willing to speak and disagree.
+- [Discussion-Based Learning](collaborative-learning.md) — depends on learners being willing to speak and disagree.
 - [Welcome Messages](../strategies/welcome-messages.md), [Introducing Yourself via Video](../strategies/introducing_yourself_via_video.md), [Icebreakers and Introductions](../strategies/icebreakers-and-introductions.md), [Discussion Norms](../strategies/class-discussion-norms.md), [Facilitating Discourse (Online)](../strategies/facilitating-discourse-online.md), [Increase Synchronous Teacher Presence](../strategies/increase_synchronous_teacher_presence.md) and [Design features supporting learner presence](../strategies/design-features-supporting-learner-presence.md) — recipes for the default design's steps.
 
 ## Key Sources
@@ -241,7 +241,7 @@ Social presence is one of three presences in the [Community of Inquiry](communit
 - **Introductions with media profiles** — a standard first-week activity in online courses (e.g., Canvas or Moodle introduction forums) where learners post a short video or annotated photo; establishes identity cues that text alone omits.
 - **Instructor video announcements** — weekly personalized video or audio messages in LMS-based courses; a widely recommended practice in online teaching handbooks for making the instructor feel present rather than textual.
 - **Peer response protocols in discussion forums** — requiring named, substantive replies to classmates (e.g., Piazza or Perusall threads) converts broadcast posting into dialogue, the interaction pattern most associated with cohesion.
-- **[Flipped Classroom](../patterns/flipped-classroom.md)** — reclaiming synchronous time for interaction and discussion increases the interpersonal cues available compared with lecture-transmission formats.
+- **[Flipped Classroom](flipped-learning.md)** — reclaiming synchronous time for interaction and discussion increases the interpersonal cues available compared with lecture-transmission formats.
 
 ## Key Sources
 - Short, J., Williams, E., & Christie, B. (1976). *The social psychology of telecommunications*. Wiley.

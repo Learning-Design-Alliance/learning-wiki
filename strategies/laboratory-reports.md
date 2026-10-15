@@ -64,7 +64,7 @@ Writing a lab report requires learners to transform raw experience into organize
 - [Peer Review](../elements/peer-review.md) — a natural complement that adds an authentic audience and evaluation practice
 
 ## Examples
-- **[5E Learning Cycle](../patterns/5e-learning-cycle.md)** — the lab report serves the "Explain" and "Evaluate" phases, where learners formalize what the "Explore" phase surfaced
+- **[5E Learning Cycle](../principles/inquiry-based-learning.md)** — the lab report serves the "Explain" and "Evaluate" phases, where learners formalize what the "Explore" phase surfaced
 - **[Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md)** — instructor annotation of a model report makes expert scientific writing visible before students draft their own
 - **[Constructive Alignment](../patterns/constructive-alignment.md)** — report rubrics aligned to stated learning outcomes ensure the writing task assesses the intended reasoning, not formatting compliance
 - **CUREs (Course-Based Undergraduate Research Experiences)**, e.g., the [Tiny Earth](https://tinyearth.wisc.edu) network — students write reports on genuine original research, raising authenticity and ownership

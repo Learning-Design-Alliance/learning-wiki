@@ -43,7 +43,7 @@ The digest enumerates four teacher strategies for encouraging older language lea
 
 ## Related Principles
 
-- [Make adult language materials relevant, immediately useful, and grounded in real-life experiences](relevant-immediately-useful-adult-materials.md)
+- [Make adult language materials relevant, immediately useful, and grounded in real-life experiences](cultural-life-experiences-connections.md)
 
 ## Examples
 

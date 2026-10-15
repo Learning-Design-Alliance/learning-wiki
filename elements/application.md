@@ -48,7 +48,7 @@ Application is where learning consolidates: retrieval and use of knowledge in co
 
 ### Affordances
 - [Active Learning](../principles/active-learning.md) — application is the paradigmatic active-learning element: learners generate performance rather than receive it, producing the retrieval and generation effects that passive study lacks
-- [Constructivism](../principles/constructivism.md) — by acting on knowledge in meaningful contexts, learners test and revise their mental models against task outcomes rather than inheriting finished understanding
+- [Constructivism](../principles/cognitive-activation.md) — by acting on knowledge in meaningful contexts, learners test and revise their mental models against task outcomes rather than inheriting finished understanding
 - [Scaffolding](../principles/scaffolding.md) — application tasks are the vehicle on which scaffolding operates; support is calibrated to task difficulty and faded as performance improves
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — well-designed application sequences (worked example → completion → independent problem) manage intrinsic load while preserving the generative effort that builds schemas
 - [Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md) — application tasks gain motivational force and transfer value when they serve a real purpose for a real audience

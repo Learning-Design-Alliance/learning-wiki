@@ -67,7 +67,7 @@ Case-based learning improves exam performance and higher-order reasoning compare
 - [Debate](../patterns/debate.md) — structured argumentation over competing case resolutions
 
 ## Examples
-- **Harvard Business School case method** — MBA students analyze ~500 cases over two years in 80-minute discussion sections; the instructor cold-calls to require public commitment to a position before peer discussion. See [Case-Based Learning (Harvard Method)](../patterns/case-based-learning-harvard-method.md).
+- **Harvard Business School case method** — MBA students analyze ~500 cases over two years in 80-minute discussion sections; the instructor cold-calls to require public commitment to a position before peer discussion. See [Case-Based Learning (Harvard Method)](../patterns/case-based-learning.md).
 - **National Center for Case Study Teaching in Science** (University at Buffalo) — peer-reviewed science cases such as "The Case of the Druid Dracula," used in undergraduate biology with clicker-based voting on case decisions. https://www.nsta.org/case-studies (collection hosted at http://sciencecases.lib.buffalo.edu)
 - **Harvard Business Publishing Education** — distributes decision-forcing cases (e.g., "Lincoln Electric Co.") with teaching notes and structured board plans for instructors. https://hbsp.harvard.edu
 

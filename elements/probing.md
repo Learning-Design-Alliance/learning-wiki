@@ -65,7 +65,7 @@ Probing converts a surface-level answer into an act of retrieval and elaboration
 - [Assessment](assessment.md) — probing shares its diagnostic function but is conversational and immediate rather than formal
 
 ## Patterns That Use This Element
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — probing is the facilitator's primary move for deepening discussion beyond opinion exchange
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — probing is the facilitator's primary move for deepening discussion beyond opinion exchange
 - [Case-Based Learning](../patterns/case-based-learning.md) — probes push learners to justify diagnostic decisions and consider alternatives
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — the "articulation and reflection" phases depend on probed questioning of learner reasoning
 

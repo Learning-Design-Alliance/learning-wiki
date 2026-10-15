@@ -45,7 +45,7 @@ Routines convert recurring management decisions into automatic behaviors, freein
 
 #### Implementation Variability
 - Co-constructed routines: students help define norms, increasing ownership
-- Visual/posted routine cues (checklists, icons) reduce reliance on verbal prompting, supporting [Cognitive Load Reduction](../principles/cognitive-load-reduction.md)
+- Visual/posted routine cues (checklists, icons) reduce reliance on verbal prompting, supporting [Cognitive Load Reduction](../principles/cognitive-load-management.md)
 - Digital environments: predictable module structure, consistent weekly rhythms, and standard activity types serve the same function in online courses
 - **Positive framing**: teach routines as "what to do" rather than "what not to do," which speeds acquisition and reduces resistance [+W]
 - **Student co-design**: involving students in setting some procedures increases buy-in and ownership, at some cost to uniformity [~W]

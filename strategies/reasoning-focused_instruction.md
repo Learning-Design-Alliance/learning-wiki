@@ -66,8 +66,8 @@ Reasoning-focused instruction treats student explanations as the primary site of
 - [Teach students to intentionally choose from alternative algebraic strategies when solving problems, after they have procedural fluency](intentional-alternative-strategy-choice-sequenced-after-fluency.md)
 
 ## Examples
-- **[Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md)** — teachers elicit and build instruction around students' own solution strategies rather than demonstrating a single procedure.
-- **[Classroom discussion orchestration](../patterns/discussion-based-learning.md)** — Stein, Engle, and colleagues' five practices for sequencing and connecting student solutions during whole-class discussion.
+- **[Cognitively Guided Instruction](../principles/responsive-teaching.md)** — teachers elicit and build instruction around students' own solution strategies rather than demonstrating a single procedure.
+- **[Classroom discussion orchestration](../principles/collaborative-learning.md)** — Stein, Engle, and colleagues' five practices for sequencing and connecting student solutions during whole-class discussion.
 - **Youcubed (Stanford)** — tasks and teaching materials explicitly designed around multiple solution paths, visual mathematics, and norms that value reasoning over speed ([youcubed.org](https://www.youcubed.org)).
 - Presenting a worked example with an error on the board and having students find the mistake; asking students to explain their thought process before revealing the answer.
 

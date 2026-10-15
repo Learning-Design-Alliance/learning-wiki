@@ -1,7 +1,7 @@
 ---
 type: principle
 id: self-regulated-learning
-aliases: [metacognition, self-regulation, scale-srl-support-with-web-based-training-and-peer-feedback-groups, integrate-self-regulation-with-scientific-reasoning-instruction]
+aliases: [metacognition, self-regulation, scale-srl-support-with-web-based-training-and-peer-feedback-groups, integrate-self-regulation-with-scientific-reasoning-instruction, metacognition-prompts-in-inquiry-introduction, let-learners-request-feedback-after-performing]
 title: Self-Regulated Learning
 description: "When learners are explicitly taught and prompted to plan, monitor against stated criteria and act on what they notice, their regulation activity and task performance may improve, qualified by monitoring accuracy, prior knowledge, whether support is used, and which outcome is measured."
 canonical: true
@@ -22,12 +22,20 @@ sources:
     resource: "https://doi.org/10.3389/fpsyg.2022.813381"
     title: "Bellhäuser, H., Liborius, P., & Schmitz, B. (2022). Fostering Self-Regulated Learning in Online Environments: Positive Effects of a Web-Based Training With Peer Feedback on Learning Behavior. Frontiers in Psychology, 13, 813381. https://doi.org/10.3389/fpsyg.2022.813381"
     author: "Bellhäuser, H., Liborius, P., & Schmitz, B"
+  - id: rafelski-2010
+    resource: "https://arxiv.org/abs/1009.5404"
+    title: "Rafelski, M., Foley, M., Graves, G. J., Kretke, K. A., Mills, E., Nassir, M., & Patel, S. (2010). Teaching Astronomy with an Inquiry Activity on Stellar Populations. ASP Conference Series. https://arxiv.org/abs/1009.5404"
+    author: "Rafelski, M., Foley, M., Graves, G. J., Kretke, K. A., Mills, E., Nassir, M., & Patel, S"
+  - id: carter-2014
+    resource: "https://doi.org/10.3389/fpsyg.2014.01325"
+    title: "Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M. (2014). Self-controlled feedback is effective if it is based on the learner’s performance: a replication and extension of Chiviacowsky and Wulf (2005). Frontiers in Psychology, 5, 1325. https://doi.org/10.3389/fpsyg.2014.01325"
+    author: "Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M"
 ---
 
 # Self-Regulated Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 46 claims (22 for, 22 mixed, 2 against) · 42 studies (13 causal, 7 quant-synthesis, 7 review, 6 associational, 6 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 13 of 42 report an effect size · 36 claims rest on one study
+> **Evidence** · 56 claims (28 for, 25 mixed, 3 against) · 46 studies (15 causal, 8 quant-synthesis, 8 review, 6 associational, 6 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 15 of 46 report an effect size · 45 claims rest on one study
 
 ## Conditional relationship
 
@@ -98,6 +106,16 @@ Each question below links a general claim that gathers the studies behind it int
 Claims read against the model above that do not bear on its relationship, steps or situation rows closely enough to be worked in.
 
 - [In association-rule mining of survey data from 530 college students in online courses, goal setting, environment structuring and time management were the strategies most often associated with lower digital distraction](../claims/srl-strategies-associated-lower-digital-distraction.md) [+W] — read 2026-10-15: an association-rule analysis of a one-time survey of 530 students' self-reported strategies; it does not test teaching or prompting regulation, so it bears on the model only as a correlate. Attached 2026-10-10 from Shi et al. (2025).
+- [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [+M]
+- [Self Controlled Kr Decided After Trial Improves Motor Retention](../claims/self-controlled-kr-decided-after-trial-improves-motor-retention.md) [+M]
+- [Self Controlled Kr Decided After Trial Improves Motor Transfer](../claims/self-controlled-kr-decided-after-trial-improves-motor-transfer.md) [+M]
+- [Self Controlled Kr Decided Before Trial Shows No Benefit Over Yoked](../claims/self-controlled-kr-decided-before-trial-shows-no-benefit-over-yoked.md) [-M]
+- [Self Controlled Kr Decided After Trial Improves Error Estimation Accuracy](../claims/self-controlled-kr-decided-after-trial-improves-error-estimation-accuracy.md) [+M]
+- [On a motor transfer test, self-controlled knowledge-of-results groups estimated their outcomes more accurately than yoked groups, and among self-controlled groups Self-After and Self-Both were more accurate than Self-Before.](../claims/self-controlled-kr-groups-estimate-transfer-outcomes-more-accurately-than-yoked.md) [+W]
+- [During motor practice with knowledge of results, all groups reduced absolute error across blocks, and groups whose KR decision fell after the trial were more accurate during practice than groups whose decision fell before it, independent of choice.](../claims/motor-practice-accuracy-improves-across-blocks-and-favors-after-decision-groups.md) [+W]
+- [Learners allowed to make a knowledge-of-results decision before a trial and revise it after (Self-Both) mostly kept their original choice but sometimes changed it after seeing their own performance.](../claims/learners-given-two-kr-decisions-mostly-keep-their-first-choice.md) [~W]
+- [When restricted to three knowledge-of-results requests per 10-trial block, all three self-controlled groups requested KR mostly on early trials of a block, a massed schedule.](../claims/self-controlled-learners-request-kr-early-in-practice-blocks.md) [~W]
+- [Allowing learners to request knowledge of results before a trial and then revise the choice after it (Self-Both) did not produce learning beyond deciding only after the trial (Self-After), which the authors take as no support for an additive motivational-plus-informational effect.](../claims/self-both-kr-decision-shows-no-additive-motivational-informational-benefit.md) [~M]
 
 ## Objective and learner-valued goal
 
@@ -134,9 +152,13 @@ Gains in strategy knowledge, self-reported regulation, self-efficacy, study time
 ## Related Principles
 - [Goal Setting & Monitoring](goal-setting-monitoring.md)
 - [Formative Assessment](formative-assessment.md)
-- [Purposeful Reflection](purposeful-reflection.md)
-- [Peer Feedbackpeer Review](peer-feedback.md)
+- [Purposeful Reflection](reflection.md)
+- [Peer Feedbackpeer Review](peer-learning.md)
 - (none yet linked)
+- [Help students understand disciplines as modes of inquiry rather than static bodies of information](epistemic-cognition.md)
+- [Use backward design: define process, attitudinal, and content goals before designing the inquiry activity](backward-design-goals-first-inquiry.md)
+- [Learner Choice](autonomy.md)
+- [Feedback](../elements/feedback.md)
 
 ## Examples
 
@@ -150,6 +172,8 @@ Gains in strategy knowledge, self-reported regulation, self-efficacy, study time
 - [Train learners in sycophancy-specific critical prompting strategies that remove personal assumptions, request critical evaluation, and ask for supporting evidence](../strategies/sycophancy-specific-critical-prompting-strategies.md)
 - [Use metacognitive activities and process evidence to help students monitor the purpose of their AI use](../strategies/metacognitive-ai-use-monitoring-strategies.md)
 - A think-aloud, screen-recorded computer-based population-genetics inquiry task in which students with high argumentation quality showed denser, more correct co-occurrence of monitoring and evidence generation/evaluation than students with low argumentation quality.
+- [Stellar Populations inquiry activity in which students construct their own Hertzsprung-Russell diagram from stellar images and spectra](../elements/stellar-populations-inquiry-activity.md)
+- [Use a burning-fuel analogy thinking tool to bridge data trends to stellar lifetimes and mass-to-energy conversion](../strategies/burning-fuel-thinking-tool-stellar-lifetimes.md)
 
 ## Key Sources
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64-70. [https://doi.org/10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)
@@ -157,6 +181,8 @@ Gains in strategy knowledge, self-reported regulation, self-efficacy, study time
 - Dunlosky, J., & Metcalfe, J. (2008). *Metacognition*. Sage.
 - Bellhäuser, H., Liborius, P., & Schmitz, B. (2022). Fostering Self-Regulated Learning in Online Environments: Positive Effects of a Web-Based Training With Peer Feedback on Learning Behavior. Frontiers in Psychology, 13, 813381. https://doi.org/10.3389/fpsyg.2022.813381
 - Omarchevska, Y., Lachner, A., Richter, J., & Scheiter, K. (2022). It takes two to tango: How scientific reasoning and self-regulation processes impact argumentation quality. *Journal of the Learning Sciences, 31*(2), 237-277. [https://doi.org/10.1080/10508406.2021.1966633](https://doi.org/10.1080/10508406.2021.1966633)
+- Rafelski, M., Foley, M., Graves, G. J., Kretke, K. A., Mills, E., Nassir, M., & Patel, S. (2010). Teaching Astronomy with an Inquiry Activity on Stellar Populations. ASP Conference Series. https://arxiv.org/abs/1009.5404
+- Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M. (2014). Self-controlled feedback is effective if it is based on the learner’s performance: a replication and extension of Chiviacowsky and Wulf (2005). Frontiers in Psychology, 5, 1325. https://doi.org/10.3389/fpsyg.2014.01325
 
 <!-- deprecated 2026-10-01: superseded by the conditional model above. The original body follows verbatim.
 
@@ -228,7 +254,7 @@ Metacognition improves learning when learners can compare their current understa
 ## Related Principles
 - [Goal Setting & Monitoring](goal-setting-monitoring.md)
 - [Formative Assessment](formative-assessment.md)
-- [Purposeful Reflection](purposeful-reflection.md)
+- [Purposeful Reflection](reflection.md)
 
 ## Examples
 - Learners predict performance before a quiz and compare the result afterward.
@@ -316,7 +342,7 @@ The authors recommend web-based SRL training where many students need support: "
 
 ## Related Principles
 - [Self Regulated Learning](self-regulated-learning.md)
-- [Peer Feedbackpeer Review](peer-feedback.md)
+- [Peer Feedbackpeer Review](peer-learning.md)
 
 ## Examples
 -
@@ -366,4 +392,99 @@ Process data from computer-based scientific inquiry shows that students rarely s
 
 ## Key Sources
 - Omarchevska, Y., Lachner, A., Richter, J., & Scheiter, K. (2022). It takes two to tango: How scientific reasoning and self-regulation processes impact argumentation quality. *Journal of the Learning Sciences, 31*(2), 237-277. [https://doi.org/10.1080/10508406.2021.1966633](https://doi.org/10.1080/10508406.2021.1966633)
+-->
+
+<!-- merged 2026-10-15 from principles/metacognition-prompts-in-inquiry-introduction ("Make students' problem-solving and metacognition explicit during inquiry introductions to improve performance and retention"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Make students' problem-solving and metacognition explicit during inquiry introductions to improve performance and retention
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies (1 causal, 1 quant-synthesis, 1 review), `q2`–`q4` · 1 of 3 report an effect size
+
+## Description
+During the inquiry introduction, facilitators should make students conscious of their use of critical-thinking skills and of prior knowledge they will reuse. The article states: "This metacognition of their learning and use of problem solving will not only help them perform better at the task, but it will also help retention of those skills." The introduction is also the place to explain that astronomy relies on spectra and images rather than laboratory experiments, and to suggest organizing data with graphs and tables.
+
+## Design Implications
+
+### Context
+#### Requirements
+- An introduction phase in which facilitators discuss these topics before investigation begins
+#### Constraints
+- The recommendation rests on cited prior work (Bransford et al. 1986; Flavell 1979; Gourgey 1998; Lin & Lehman 1999; Lin 2001) rather than data collected in this article
+
+### Target Learners
+- advanced high-school students
+- college students
+
+### Target Learning Objectives
+- problem-solving skills
+- metacognition
+- retention of skills
+
+### Claims
+
+- [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [+M]
+
+## Related Principles
+
+- [Help students understand disciplines as modes of inquiry rather than static bodies of information](epistemic-cognition.md)
+- [Use backward design: define process, attitudinal, and content goals before designing the inquiry activity](backward-design-goals-first-inquiry.md)
+
+## Examples
+
+- [Stellar Populations inquiry activity in which students construct their own Hertzsprung-Russell diagram from stellar images and spectra](../elements/stellar-populations-inquiry-activity.md)
+- [Use a burning-fuel analogy thinking tool to bridge data trends to stellar lifetimes and mass-to-energy conversion](../strategies/burning-fuel-thinking-tool-stellar-lifetimes.md)
+
+## Key Sources
+- Rafelski, M., Foley, M., Graves, G. J., Kretke, K. A., Mills, E., Nassir, M., & Patel, S. (2010). Teaching Astronomy with an Inquiry Activity on Stellar Populations. ASP Conference Series. https://arxiv.org/abs/1009.5404
+-->
+
+<!-- merged 2026-10-15 from principles/let-learners-request-feedback-after-performing ("Let learners decide on feedback after performing, not before"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Let learners decide on feedback after performing, not before
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 9 claims (5 for, 3 mixed, 1 against) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 9 claims rest on one study
+
+## Description
+When learners control their knowledge-of-results (KR) schedule, the article finds the benefit depends on when they decide: "the critical factor for increased learning appears to be the opportunity to decide after motor execution whether they want KR." The authors suggest a post-trial decision lets the learner request KR when comparing perceived and actual error would maximize its informational value.
+
+## Design Implications
+
+### Context
+#### Requirements
+- The self-controlled groups were limited to requesting KR on three of 10 trials per block, and told to request KR only when necessary because they would eventually perform without it.
+- The KR decision is offered after the movement (Self-After), or offered before and revisable after (Self-Both), which performed alike.
+#### Constraints
+- Control over the KR decision only before the trial did not produce a learning benefit compared with a yoked group.
+- Tested with one laboratory slider-positioning task and eight learners per group; a minor limitation noted is small timing variation in KR-delay intervals between groups.
+
+### Target Learners
+- Adult novices learning a motor skill with augmented feedback
+
+### Target Learning Objectives
+- Retention and transfer of a motor skill
+- Error detection and correction
+
+### Claims
+
+- [Self Controlled Kr Decided After Trial Improves Motor Retention](../claims/self-controlled-kr-decided-after-trial-improves-motor-retention.md) [+M]
+- [Self Controlled Kr Decided After Trial Improves Motor Transfer](../claims/self-controlled-kr-decided-after-trial-improves-motor-transfer.md) [+M]
+- [Self Controlled Kr Decided Before Trial Shows No Benefit Over Yoked](../claims/self-controlled-kr-decided-before-trial-shows-no-benefit-over-yoked.md) [-M]
+- [Self Controlled Kr Decided After Trial Improves Error Estimation Accuracy](../claims/self-controlled-kr-decided-after-trial-improves-error-estimation-accuracy.md) [+M]
+- [On a motor transfer test, self-controlled knowledge-of-results groups estimated their outcomes more accurately than yoked groups, and among self-controlled groups Self-After and Self-Both were more accurate than Self-Before.](../claims/self-controlled-kr-groups-estimate-transfer-outcomes-more-accurately-than-yoked.md) [+W]
+- [During motor practice with knowledge of results, all groups reduced absolute error across blocks, and groups whose KR decision fell after the trial were more accurate during practice than groups whose decision fell before it, independent of choice.](../claims/motor-practice-accuracy-improves-across-blocks-and-favors-after-decision-groups.md) [+W]
+- [Learners allowed to make a knowledge-of-results decision before a trial and revise it after (Self-Both) mostly kept their original choice but sometimes changed it after seeing their own performance.](../claims/learners-given-two-kr-decisions-mostly-keep-their-first-choice.md) [~W]
+- [When restricted to three knowledge-of-results requests per 10-trial block, all three self-controlled groups requested KR mostly on early trials of a block, a massed schedule.](../claims/self-controlled-learners-request-kr-early-in-practice-blocks.md) [~W]
+- [Allowing learners to request knowledge of results before a trial and then revise the choice after it (Self-Both) did not produce learning beyond deciding only after the trial (Self-After), which the authors take as no support for an additive motivational-plus-informational effect.](../claims/self-both-kr-decision-shows-no-additive-motivational-informational-benefit.md) [~M]
+
+## Related Principles
+- [Learner Choice](autonomy.md)
+- [Feedback](../elements/feedback.md)
+
+## Examples
+-
+
+## Key Sources
+- Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M. (2014). Self-controlled feedback is effective if it is based on the learner’s performance: a replication and extension of Chiviacowsky and Wulf (2005). Frontiers in Psychology, 5, 1325. https://doi.org/10.3389/fpsyg.2014.01325
 -->

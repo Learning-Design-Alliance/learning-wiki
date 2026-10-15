@@ -48,7 +48,7 @@ Digest 4 examines nine types of positive interdependence and how teachers can in
 
 ## Related Patterns
 
-- [Nine key elements structuring a cooperative lesson](../patterns/nine-key-elements-cooperative-lesson.md)
+- [Nine key elements structuring a cooperative lesson](../patterns/cooperative-learning.md)
 
 ## Examples
 -

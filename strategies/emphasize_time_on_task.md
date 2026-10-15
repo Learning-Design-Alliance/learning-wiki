@@ -37,7 +37,7 @@ Time on task is a core variable in classic models of school learning — Carroll
 #### Implementation Variability
 - **Tutoring contexts:** divide sessions into timed segments (warm-up, focused work, consolidation) and set explicit preparation expectations
 - **Course design:** estimate and publish expected hours per credit/assignment; use pacing schedules or milestone deadlines
-- **Self-paced/online:** embed progress indicators and recommended weekly time budgets; [Flipped Classroom](../patterns/flipped-classroom.md) structures reallocate contact time to active work
+- **Self-paced/online:** embed progress indicators and recommended weekly time budgets; [Flipped Classroom](../principles/flipped-learning.md) structures reallocate contact time to active work
 - **Remediation:** refer to time-management coaching rather than attempting to teach study skills within content sessions
 
 ### Target Learners
