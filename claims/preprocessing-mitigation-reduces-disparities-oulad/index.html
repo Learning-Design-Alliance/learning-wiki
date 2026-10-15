@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Preprocessing bias mitigation (DIR, RW, SUP) reduces subgroup disparities in TPR while maintaining acceptable balanced accuracy - Learning Design Wiki</title>
+<title>Preprocessing bias mitigation (DIR, RW, SUP) reduced subgroup disparities in TPR on OULAD, with effectiveness varying by demographic attribute - Learning Design Wiki</title>
 <link rel="icon" href="../../branding/lazuli-favicon.svg">
 <link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
 <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
@@ -24,11 +24,13 @@
 <form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
 </header>
 <main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
-<h1 id="preprocessing-bias-mitigation-dir-rw-sup-reduces-subgroup-disparities-in-tpr-while-maintaining-acceptable-balanced-accuracy">Preprocessing bias mitigation (DIR, RW, SUP) reduces subgroup disparities in TPR while maintaining acceptable balanced accuracy<a class="headerlink" href="#preprocessing-bias-mitigation-dir-rw-sup-reduces-subgroup-disparities-in-tpr-while-maintaining-acceptable-balanced-accuracy" title="Permanent link">&para;</a></h1>
+<h1 id="preprocessing-bias-mitigation-dir-rw-sup-reduced-subgroup-disparities-in-tpr-on-oulad-with-effectiveness-varying-by-demographic-attribute">Preprocessing bias mitigation (DIR, RW, SUP) reduced subgroup disparities in TPR on OULAD, with effectiveness varying by demographic attribute<a class="headerlink" href="#preprocessing-bias-mitigation-dir-rw-sup-reduced-subgroup-disparities-in-tpr-on-oulad-with-effectiveness-varying-by-demographic-attribute" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Claim</strong> · <a href="../">All claims</a>
 <strong>Evidence</strong> · 1 study · causal <code>r2</code> · <code>q2</code></p>
 </blockquote>
+<!-- title before 2026-10-15: Preprocessing bias mitigation (DIR, RW, SUP) reduces subgroup disparities in TPR while maintaining acceptable balanced accuracy -->
+
 <h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
 <details class="info">
 <summary>Reading the evidence codes</summary>
@@ -36,12 +38,12 @@
 the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
 <p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
 </details>
-<p><code>q2 i?</code> Applying DIR, RW, and SUP decreased EOD values across demographic subgroups without significantly compromising balanced accuracy. <a href="#raymond-a-opoku-2025">→ Raymond A. Opoku 2025</a></p>
+<p><code>q2 i?</code> Applying DIR, RW, and SUP reduced disparities in true positive rates (lower EOD), but effectiveness varied by attribute: DIR succeeded for gender, age and disability, SUP was particularly effective for IMD, and DIR and RW kept balanced accuracy relatively high; no statistical test of the accuracy change is reported. <a href="#raymond-a-opoku-2025">→ Raymond A. Opoku 2025</a></p>
 <h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
 <h3 id="raymond-a-opoku-2025">Raymond A. Opoku 2025<a class="headerlink" href="#raymond-a-opoku-2025" title="Permanent link">&para;</a></h3>
 <p>Raymond A. Opoku, Bo Pei and Wanli Xing. (2025). Unveiling Accuracy-Fairness Trade-Offs: Investigating Machine Learning Models in Student Performance Prediction. Journal of Learning Analytics 12(2). https://doi.org/10.18608/jla.2025.8543</p>
 <p><code>q2 · i?</code> · <code>causal · r2</code></p>
-<p>Comparative analysis of bias mitigation techniques applied to LR models on OULAD, comparing fairness metrics (EOD) and balanced accuracy before and after mitigation (Figures 6-7). The article reports "decreased EOD values" with accuracy around 0.78 for gender. No effect size is printed.</p>
+<p>Comparative analysis of bias mitigation techniques applied to LR models on OULAD, comparing fairness metrics (EOD) and balanced accuracy before and after mitigation (Figures 6-7). The article reports "decreased EOD values", with effectiveness varying by attribute: "DIR showed considerable success in mitigating biases related to gender, age, and disability, SUP was particularly effective in addressing socioeconomic disparities captured by the IMD." Balanced accuracy hovered around 0.78 for gender; for age and disability it varied widely across techniques, and DIR and RW maintained "relatively high balanced accuracy". Accuracy comparisons are read from figures, with no statistical test. No effect size is printed.</p>
 <blockquote>
 <p>"The application of methods such as DIR, RW, and SUP effectively reduced disparities in TPRs across demographic subgroups, as evidenced by the decreased EOD values. The effectiveness of these techniques varied across key demographic attributes, highlighting the need for context-specific approaches to algorithmic fairness."</p>
 </blockquote>
@@ -76,11 +78,11 @@ the rigour judged within that kind: <a href="../evidence-codes/">what each code 
 </tr>
 <tr>
 <td><code>title</code></td>
-<td><code>Preprocessing bias mitigation (DIR, RW, SUP) reduces subgroup disparities in TPR while maintaining acceptable balanced accuracy</code></td>
+<td><code>Preprocessing bias mitigation (DIR, RW, SUP) reduced subgroup disparities in TPR on OULAD, with effectiveness varying by demographic attribute</code></td>
 </tr>
 <tr>
 <td><code>description</code></td>
-<td><code>Preprocessing bias mitigation (DIR, RW, SUP) reduces subgroup disparities in TPR while maintaining acceptable balanced accuracy</code></td>
+<td><code>Preprocessing bias mitigation (DIR, RW, SUP) reduced subgroup disparities in TPR on OULAD, with effectiveness varying by demographic attribute</code></td>
 </tr>
 <tr>
 <td><code>status</code></td>
