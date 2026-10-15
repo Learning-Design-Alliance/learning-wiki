@@ -1,6 +1,6 @@
 ---
 type: claim
-title: PALS shows potentially positive effects on reading comprehension for adolescent learners, with a WWC-calculated effect size of 0.48 that is not statistically significant when adjusted for clustering
+title: The WWC Adolescent Literacy review rates PALS as having potentially positive effects on reading comprehension from one trial of students averaging 9.8 years old, with an effect size of 0.48 that is not statistically significant when adjusted for clustering
 description: PALS shows potentially positive effects on reading comprehension for adolescent learners, with a WWC-calculated effect size of 0.48 that is not statistically significant when adjusted for clustering
 id: pals-potentially-positive-comprehension-effect-adolescent
 status: draft
@@ -35,10 +35,11 @@ sources:
     rigour: 2
 ---
 
-# PALS shows potentially positive effects on reading comprehension for adolescent learners, with a WWC-calculated effect size of 0.48 that is not statistically significant when adjusted for clustering
+# The WWC Adolescent Literacy review rates PALS as having potentially positive effects on reading comprehension from one trial of students averaging 9.8 years old, with an effect size of 0.48 that is not statistically significant when adjusted for clustering
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r2` · `q3` · `i2` medium
+<!-- title before 2026-10-15: PALS shows potentially positive effects on reading comprehension for adolescent learners, with a WWC-calculated effect size of 0.48 that is not statistically significant when adjusted for clustering -->
 
 ## Subclaims
 `q3 i2` In the Fuchs et al. (1997) RCT, the PALS group outscored the regular-instruction comparison group on the CRAB Questions Correct measure (mean difference 0.84, effect size 0.48, improvement index +19), but the effect was not statistically significant when adjusted for clustering (p = 0.12). [→ Peer-Assisted Learning Strategies 2012](#peer-assisted-learning-strategies-2012)

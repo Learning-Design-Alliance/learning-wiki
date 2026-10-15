@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Glossing yields medium-to-large positive effects on L2 vocabulary learning, with multiple-mode glosses outperforming single-mode
+title: Earlier meta-analyses, as reported second-hand, find that glosses improve L2 vocabulary learning and that text-and-picture glosses outperform single-mode glosses
 description: Glossing yields medium-to-large positive effects on L2 vocabulary learning, with multiple-mode glosses outperforming single-mode
 id: glossing-medium-large-effects-l2-vocabulary
 status: draft
@@ -27,10 +27,11 @@ sources:
     rigour: 2
 ---
 
-# Glossing yields medium-to-large positive effects on L2 vocabulary learning, with multiple-mode glosses outperforming single-mode
+# Earlier meta-analyses, as reported second-hand, find that glosses improve L2 vocabulary learning and that text-and-picture glosses outperform single-mode glosses
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q2`
+<!-- title before 2026-10-15: Glossing yields medium-to-large positive effects on L2 vocabulary learning, with multiple-mode glosses outperforming single-mode -->
 
 ## Subclaims
 `q2 i?` Meta-analyses report positive gloss effects on L2 vocabulary learning with medium to large effect sizes. [→ A. Pradheepa 2025](#a-pradheepa-2025)

@@ -1,6 +1,6 @@
 ---
 type: claim
-title: PALS shows potentially positive effects on reading fluency for students with learning disabilities (average effect size 0.36, not statistically significant)
+title: PALS shows potentially positive effects on reading fluency for students with learning disabilities, with a substantively important but not statistically significant WWC-calculated effect size of 0.41 in Saenz et al. (2005)
 description: PALS shows potentially positive effects on reading fluency for students with learning disabilities (average effect size 0.36, not statistically significant)
 id: pals-potentially-positive-reading-fluency-ld
 status: draft
@@ -19,13 +19,14 @@ sources:
     rigour: 1
 ---
 
-# PALS shows potentially positive effects on reading fluency for students with learning disabilities (average effect size 0.36, not statistically significant)
+# PALS shows potentially positive effects on reading fluency for students with learning disabilities, with a substantively important but not statistically significant WWC-calculated effect size of 0.41 in Saenz et al. (2005)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q3` · `i1` small
+<!-- title before 2026-10-15: PALS shows potentially positive effects on reading fluency for students with learning disabilities (average effect size 0.36, not statistically significant) -->
 
 ## Subclaims
-`q3 i1` WWC calculations found no statistically significant effects on reading fluency in either qualifying study, but the WWC-calculated average effect size of 0.36 (improvement index +14) was substantively important, yielding a potentially positive effects rating. [→ What Works Clearinghouse 2012](#what-works-clearinghouse-2012)
+`q3 i1` WWC calculations found no statistically significant effects on reading fluency in either qualifying study, but the WWC-calculated average effect size across the two fluency measures in Saenz et al. (2005) was 0.41, large enough to be substantively important, yielding a potentially positive effects rating; the entry also reports a domain average across both studies of 0.36 (improvement index +14), a figure not in the quoted passage. [→ What Works Clearinghouse 2012](#what-works-clearinghouse-2012)
 
 ## Evidence
 

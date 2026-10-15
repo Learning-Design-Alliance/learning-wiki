@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Experts report that critical media literacy remains insufficiently integrated into curricula and that technology integration is often superficial due to lack of teacher training
+title: Experts report that critical media literacy remains insufficiently integrated into curricula and that technology integration is often superficial, limited to devices and software without a critical approach
 description: Experts report that critical media literacy remains insufficiently integrated into curricula and that technology integration is often superficial due to lack of teacher training
 id: experts-superficial-technology-integration
 status: draft
@@ -17,10 +17,11 @@ sources:
     rigour: 2
 ---
 
-# Experts report that critical media literacy remains insufficiently integrated into curricula and that technology integration is often superficial due to lack of teacher training
+# Experts report that critical media literacy remains insufficiently integrated into curricula and that technology integration is often superficial, limited to devices and software without a critical approach
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
+<!-- title before 2026-10-15: Experts report that critical media literacy remains insufficiently integrated into curricula and that technology integration is often superficial due to lack of teacher training -->
 
 ## Subclaims
 `q1 i?` Most interviewed experts state that critical media literacy is often overlooked or treated superficially in curricula, and that absence of a strong scientific and technological culture leads to superficial, device-focused technology integration. [→ Albardía MS 2025](#albardia-ms-2025)

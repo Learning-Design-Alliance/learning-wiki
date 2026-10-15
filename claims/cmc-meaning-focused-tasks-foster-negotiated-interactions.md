@@ -45,7 +45,7 @@ Analysis of interactions from 12 groups of four French NNS biology students comp
 ## Related Claims
 - [Closed meaning-focused tasks foster more negotiation of meaning and negative feedback than open tasks in CMC](closed-tasks-foster-more-negotiation-than-open-tasks.md) — a narrower finding that bears on this claim
 - [Videoconferencing was conducive to more negotiation of meaning than text chat and discussion board, measured as proportion of negotiated turns](videoconferencing-more-negotiated-turns-than-chat-and-board.md) — related
-- [Discussion board interactions generated no negative feedback at all, suggesting synchrony is required to foster corrective feedback](discussion-board-no-negative-feedback-synchrony-required.md) — reports the opposite
+- [Discussion board interactions generated no negative feedback at all, suggesting synchrony is required to foster corrective feedback](discussion-board-no-negative-feedback-synchrony-required.md) — related, from the same study: discussion boards produced negotiation but no negative feedback
 - [Content-related problems trigger most negotiation routines, and syntactic triggers are absent from text chat where turns are short](content-triggers-dominate-syntactic-triggers-absent-text-chat.md) — related
 - [Non-native speaker dyads provided with subtitled videos before tasks produce a significantly higher percentage of negotiated turns in online TBLL than dyads without videos](subtitled-videos-increase-negotiation-of-meaning-online-tbll.md) — related
 - [Unprompted self-correction dominates negative feedback in NNS-NNS CMC interaction, interpreted as a face-saving preference](self-correction-dominates-negative-feedback-face-saving.md) — related

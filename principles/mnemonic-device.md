@@ -10,7 +10,7 @@ generated:
   at: 2026-10-15
 sources:
   - id: carney-2003
-    resource: "https://doi.org/10.1002/acp.882"
+    resource: "https://doi.org/10.1002/acp.889"
     title: "Carney, R. N., & Levin, J. R. (2003). Promoting higher-order learning benefits by building lower-order mnemonic connections. *Applied Cognitive Psychology, 17*(5), 563-575"
     author: "Carney, R. N., & Levin, J. R"
   - id: herrmann-1987

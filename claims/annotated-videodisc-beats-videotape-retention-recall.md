@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
-`q2 i?` In three comparison studies at the McKay Institute, the video-disc group outperformed the video-tape group in ability to retain information and recall facts, with statistical significance exceeding the 0.01 level of confidence, and performed almost two full standard deviations above the video-tape group. [→ Gale 1985](#gale-1985)
+`q2 i?` In one comparison at the McKay Institute, the video-disc group outperformed the video-tape group in ability to retain information and recall facts, with statistical significance exceeding the 0.01 level of confidence; the report's description of this as "almost two full standard deviations" does not agree with its own parenthetical figure (S.D. difference .192), so the size of the gap is unclear. [→ Gale 1985](#gale-1985)
 
 ## Evidence
 
