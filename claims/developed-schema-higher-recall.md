@@ -41,8 +41,9 @@ The essay cites Brewer and Nakamura (1984) for this basic finding, noting that "
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Prior Knowledge Determines New Learning](prior-knowledge-determines-new-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Pretend play enactment of stories facilitates narrative recall and expression over shorter time periods but not later unprompted recall](pretend-play-enactment-narrative-recall-short-term.md) — related
 - [Advance organizers produce a small average learning benefit, larger for high-ability than for low-ability learners](advance-organizers-improve-learning.md) — related
 - [Recall from bar graphs is more accurate when the recall format matches the studied graph format, a small effect that the content's thematic emphasis can override](mismatched-graphic-organizers-increase-extraneous-load.md) — related

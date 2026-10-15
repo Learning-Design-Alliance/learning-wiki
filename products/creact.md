@@ -27,7 +27,7 @@ CREACT is a five-step discussion-based teaching framework for creative thinking,
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [CREACT improves 5th-grade students' creative thinking performance in drawing arts with a large pretest-posttest effect](../claims/creact-improves-creative-thinking-drawing-arts.md) [+M]
+- [Twenty-three 5th graders' creativity scores rise after nine CREACT drawing-arts lessons in a one-group pretest-posttest study without a control group (effect size .71)](../claims/creact-improves-creative-thinking-drawing-arts.md) [+M]
 
 ## Related Products and Programmes
 -

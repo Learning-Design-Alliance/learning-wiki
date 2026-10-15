@@ -5,6 +5,25 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-10-15 — conversion wave 9, with study tables
+
+- **15 principles and patterns converted** (the next 15 from `upgrade_worklist.py --step convert`): game-based mastery
+  learning, humanistic adult education, creative thinking, harmonising opposites, elaborative reasoning, visual reading
+  aids, mindfulness, feedback frustration, positive comments on writing, self-affirmation, early language, systemic
+  understanding, understanding cultivated, user-centred design, the workshop model. Two claims test their page's
+  relationship (self-affirmation, mixed; elaborative interrogation, for facts and prose); the rest keep labelled
+  default designs.
+- **Study tables with each wave** (maintainer, 2026-10-15: "do 1 and 2 together"). Each agent wrote a synthesis spec
+  where three or more claims bear on one question: 13 specs in `eval/synthesis/`. Three findings resting on one study
+  and two whose hub did not fit the question were dropped. Shared hubs take the union of every spec's members.
+- **Brief test:** new pages won 82 of 120 blind pairs (sparse 46–14, complete 36–24), the best wave so far. Lost a
+  complete brief 1–3: game-based mastery learning, elaborative reasoning, understanding cultivated.
+- **Claim cleanup:** 6 merges, 8 retitles, i codes recoded where no effect size is printed (the Woloshyn 1992 figures
+  are Tukey HSD statistics), citations checked on Crossref or ERIC (Baird 2014 on the mindfulness page resolved to an
+  octopus paper; Ellis 2012 carried an unrelated URL on eight pages). PDF glyph codes (`/H11005` and kin) repaired on
+  30 pages.
+- **Next:** wave 10 (45 left on the convert step), then specs for the converted pages that have none.
+
 ## 2026-10-14 (night) — nine principle pages the multimedia claims lacked
 
 - **New canonical principles**, conditional format, each with a situation table and a synthesis spec

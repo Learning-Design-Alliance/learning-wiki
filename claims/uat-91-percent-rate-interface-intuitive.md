@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
-`q2 i?` In the same 68-participant user acceptance test, 91% (62/68) rated the platform easy to use, with the usability item scoring at least 4. [→ Zaki Kurdya 2026](#zaki-kurdya-2026)
+`q2 i?` In the same 68-participant user acceptance test, 91% (62/68) rated the user interface as intuitive, with the usability item scoring at least 4. [→ Zaki Kurdya 2026](#zaki-kurdya-2026)
 
 ## Evidence
 

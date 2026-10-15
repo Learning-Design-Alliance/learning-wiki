@@ -41,8 +41,9 @@ Randomized controlled trial by Lonigan et al. (1999) with 66 children in the Dia
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Dialogic Reading Improves Language Outcomes](dialogic-reading-improves-language-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Dialogic Reading combined with Sound Foundations shows potentially positive effects on print knowledge and early reading/writing but not oral language](dialogic-reading-sound-foundations-combined-outcomes.md) — related
 - [Dialogic Reading has positive effects on preschool children's oral language, per WWC synthesis of five studies](dialogic-reading-positive-oral-language-effects.md) — related
 - [Literacy Express has positive effects on phonological processing for preschool children, with significant effects in two of three studies](literacy-express-positive-phonological-processing.md) — related

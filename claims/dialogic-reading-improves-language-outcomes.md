@@ -6,6 +6,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 id: dialogic-reading-improves-language-outcomes
+aliases: [dialogic-reading-improves-expressive-language]
 evidence_strength:
 sources:
   - id: mol-et-al-2008
@@ -22,7 +23,7 @@ sources:
     title: "Mol, S. E., Bus, A. G., & de Jong, M. T. (2009). Interactive book reading in early education: A tool to stimulate print knowledge as well as oral language. *Review of Educational Research, 79*(2), 979–1007. [doi:10.3102/0034654309332561](https://doi.org/10.3102/0034654309332561)"
     author: "Mol, S. E., Bus, A. G., & de Jong, M. T."
     q: 3
-    i: 2
+    i: "?"
     n: 31 studies (2,049 children)
     kind: quant-synthesis
     rigour: "?"
@@ -39,7 +40,7 @@ Dialogic reading — an adult reading interactively with a child using prompts, 
 
 `q3 i2` Compared with typical shared reading, dialogic parent–child reading produces a moderate gain in expressive vocabulary (d=0.59), but the effect shrinks substantially for 4- to 5-year-olds and for children at risk for language and literacy impairments. [→ Mol et al. 2008](#mol-et-al-2008)
 
-`q3 i2` Across 31 (quasi-)experiments in which educators were trained in interactive book reading, the effect on oral language is moderate, and effects obtained by experimenters did not replicate when children's own teachers delivered the reading in natural classrooms. [→ Mol et al. 2009](#mol-et-al-2009)
+`q3 i?` Across 31 (quasi-)experiments in which educators were trained in interactive book reading, the effect on oral language is moderate, and effects obtained by experimenters did not replicate when children's own teachers delivered the reading in natural classrooms. [→ Mol et al. 2009](#mol-et-al-2009)
 
 ## Evidence
 
@@ -55,19 +56,40 @@ A meta-analysis of 16 studies that compared a dialogic reading group against a r
 
 Mol, S. E., Bus, A. G., & de Jong, M. T. (2009). Interactive book reading in early education: A tool to stimulate print knowledge as well as oral language. *Review of Educational Research, 79*(2), 979–1007. [doi:10.3102/0034654309332561](https://doi.org/10.3102/0034654309332561)
 
-`q3 · meta-analysis of experiments and quasi-experiments` · `i2 · moderate effect on oral language (abstract gives no d)` · `n=31 studies (2,049 children)` · `quant-synthesis · r?`
+`q3 · meta-analysis of experiments and quasi-experiments` · `i? · moderate effect on oral language (abstract gives no d)` · `n=31 studies (2,049 children)` · `quant-synthesis · r?`
 
 A meta-analysis of 31 experiments and quasi-experiments (2,049 children) in which educators were trained to get children actively involved before, during and after shared book reading in early-education settings. The abstract reports a moderate effect on oral language skills, and attributes 7% of the variance in kindergartners' alphabetic knowledge to the intervention. Effects found when experimenters did the reading did not replicate in natural classrooms with the children's own teachers, which bears on the page's point that implementation fidelity matters. The abstract does not split oral language into expressive and receptive measures.
+
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does interactive, dialogic shared reading raise young children's oral language more than ordinary shared reading or no extra reading?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **4 distinct studies** (3 quant-synthesis, 1 causal), `q2`–`q3`, 2 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Mol et al. 2008](https://doi.org/10.1080/10409280701838603) | q3 · quant-synthesis · r? | i2 · medium effect, d=0.59 (95% CI 0.44–0.75) on expressive vocabulary | this claim |
+| [Mol et al. 2009](https://doi.org/10.3102/0034654309332561) | q3 · quant-synthesis · r? | i? | this claim |
+| WWC Intervention Report: Dialogic Reading 2007 | q2 / q3 · quant-synthesis · r2 | i? | [Dialogic Reading has positive effects on preschool children's oral language, per WWC synth](dialogic-reading-positive-oral-language-effects.md) (supports); [Level of implementation moderates Dialogic Reading's effects on children's oral language](implementation-level-moderates-dialogic-reading-effects.md) (qualifies); [Dialogic Reading shows no discernible effects on phonological processing](dialogic-reading-no-phonological-processing-effects.md) (qualifies) |
+| Dialogic Reading 2010 | q3 · causal · r2 | i2; i? | [Dialogic reading favored significant gains on lexical diversity during play and total utte](dale-1996-significant-lexical-diversity-play-total-utterances-book-reading.md) (supports); [Dialogic reading has potentially positive effects on communication and language competenci](dialogic-reading-potentially-positive-communication-language-disabilities.md) (supports); [Parent-implemented dialogic reading showed no statistically significant differences from a](crain-thoreson-dale-1999-parent-led-null-effects.md) (counts against) |
+<!-- synthesis:end -->
 
 ## Discussion
 
 **Mechanism.** Dialogic reading converts a passive read-aloud into an active, scaffolded conversation. The adult's wh- and completion prompts elicit child utterances, which the adult then expands and recasts; this feedback loop is thought to drive vocabulary growth and expressive language gains beyond what listening alone provides. The technique is closely related to scaffolding within a [cognitive apprenticeship](../theories/cognitive-apprenticeship.md) frame: the adult models language slightly above the child's current level and gradually shifts responsibility to the child. In this sense it is an activation-plus-feedback routine — see [Activation improves learning.](activation-improves-learning.md)
 
-**Scope and moderators.** Effects are expected to be strongest for expressive (production) measures rather than receptive ones, and for younger children and children with smaller starting vocabularies, since the intervention targets the child's own utterances. Dosage matters: benefits are typically tied to repeated sessions over weeks, not single readings. Implementation fidelity — adults actually prompting and expanding rather than simply reading — is a common failure mode in scaled deployments.
+**Scope and moderators.** Effects are expected to be strongest for expressive (production) measures rather than receptive ones, since the intervention targets the child's own utterances. Mol et al. (2008) found the effect larger for younger children than for 4- to 5-year-olds, but substantially smaller, not larger, for children at risk for language and literacy impairments, so a small starting vocabulary does not on this evidence predict a bigger gain. Dosage matters: benefits are typically tied to repeated sessions over weeks, not single readings. Implementation fidelity — adults actually prompting and expanding rather than simply reading — is a common failure mode in scaled deployments.
 
 **Boundary conditions.** The approach presumes a one-to-one or small-group adult–child setting; whole-class read-alouds dilute the turn-taking that defines the technique. It also presupposes an adult trained in the prompting sequence; untrained readers tend to revert to straight reading. Non-interactive formats such as [audiobooks](../elements/audiobooks.md) provide exposure to rich language but lack the elicited-production and expansion cycle that distinguishes dialogic reading.
 
 **Open questions.** The meta-analyses recorded above find a moderate effect on expressive vocabulary (d = 0.59) that shrinks for 4- to 5-year-olds and for children at risk for language impairments, and effects obtained by experimenters that did not replicate when children's own teachers delivered the reading. The "larger gains" in this page's title hold for younger, typically developing children, not across the board. The durability of gains (whether vocabulary growth persists after the intervention ends) and transfer to later reading comprehension remain open questions, as does the relative contribution of prompting versus expansion/recasting within the routine.
+
+*Merged from “Dialogic Reading Improves Expressive Language” (dialogic-reading-improves-expressive-language):* **Mechanism.** The proposed mechanism is that dialogic techniques (wh- prompts, expansions, recasts, and completion prompts) convert the child from listener into speaker, multiplying expressive language production opportunities during the same book-reading session. Typical shared reading, by contrast, places most of the verbal load on the adult. In this sense the adult's prompts function as elicited [activation](activation-improves-learning.md) of the child's own production rather than passive exposure.
+
+**Moderators and boundary conditions.** Effects are generally expected to be largest for younger children and for children with initially lower expressive vocabulary, because the prompts target skills the child is still developing. The evidence below supports the first half and not the second: Mol et al. (2008) found the effect substantially smaller for 4- to 5-year-olds than for younger children, but also substantially smaller for children at risk for language and literacy impairments, not larger. Implementation fidelity matters: the approach depends on the adult actually eliciting and responding to child talk, not merely reading with extra questions bolted on. Training adults in the specific prompting techniques appears to be a precondition for the intervention, and effects may fade if the interactive style is not sustained over time. Outcomes measured with expressive (production) measures are the primary target; receptive vocabulary gains are typically smaller or less consistent, so designers should not overgeneralize the claim to all language measures.
+
+**Prompt design as scaffold.** The prompting hierarchy (completion → recall → open-ended → wh- → distancing) works because each prompt type keeps the child's language production within a manageable demand — the same principle that makes [chunking reduce working memory load](chunking-reduces-working-memory-load.md) effective for older learners. Prompts pitched too far above the child's current level produce silence rather than talk.
+
+**Open questions.** Dosage (sessions per week, duration), optimal age range, and durability of gains after intervention ends all need to be grounded in the specific studies before strength ratings can be assigned. The meta-analyses recorded above do not settle these.
 
 ## Related Claims
 
@@ -77,14 +99,17 @@ A meta-analysis of 31 experiments and quasi-experiments (2,049 children) in whic
 - [Audiobooks.](../elements/audiobooks.md) — a related but non-interactive read-aloud format lacking the dialogic feedback loop
 - [In teacher-led big-book reading, children exercise cognitive autonomy by making their own connections between spoken and written words within the activity's boundaries](big-book-reading-cognitive-autonomy.md) — related
 - [Conversational turn-taking predicts language development better than raw word count or socioeconomic status.](conversational-turns-predict-language-development.md) — related
-- [Dialogic Reading Improves Expressive Language](dialogic-reading-improves-expressive-language.md) — possibly the same claim (merge candidate)
 - [Joint Book Reading Predicts Literacy Success](joint-book-reading-predicts-literacy-success.md) — related
 - [Parent Involvement Improves Early Reading](parent-involvement-improves-early-reading.md) — related
 - [Parent Coaching Outperforms Information Only](parent-coaching-outperforms-information-only.md) — related
 - [Classroom interactional structures such as questions, recasts, and feedback influence students' processing of targeted content](interactional-structures-shape-content-processing.md) — related
 - [A disadvantaged-child program with heavy oral language emphasis led all compared programs in cognitive gains](oral-language-emphasis-program-led-cognitive-gains.md) — related
 - [Level of implementation moderates Dialogic Reading's effects on children's oral language](implementation-level-moderates-dialogic-reading-effects.md) — related
-- [Parent-implemented dialogic reading showed no statistically significant differences from a no-treatment comparison on any language measure (Crain-Thoreson & Dale, 1999)](crain-thoreson-dale-1999-parent-led-null-effects.md) — reports the opposite
+- [Parent-implemented dialogic reading showed no statistically significant differences from a group story-time comparison on any language measure (Crain-Thoreson & Dale, 1999)](crain-thoreson-dale-1999-parent-led-null-effects.md) — reports the opposite
 - [Dialogic reading favored significant gains on lexical diversity during play and total utterances during book reading, but not on four other measures (Dale et al., 1996)](dale-1996-significant-lexical-diversity-play-total-utterances-book-reading.md) — a narrower finding that bears on this claim
 - [Language and print knowledge instructional features produced statistically comparable performance within their domains, leaving unclear which features are most effective](instructional-features-comparable-within-domains.md) — related
 - [Reading development proceeds from oral language through decoding and fluency to comprehension, but as an interwoven lattice rather than a simple linear process](reading-development-interwoven-lattice-not-linear.md) — related
+- [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — like dialogic reading, structured interaction that increases learner talk is the active ingredient.
+- [Chunking Reduces Working Memory Load](chunking-reduces-working-memory-load.md) — relevant to why well-scaffolded prompts keep young children's language production within manageable demands.
+- [Embedding literacy materials in play settings increases children's literacy engagement and environmental print reading](literacy-embedded-play-increases-literacy-engagement.md) — related
+- [Parent Implemented Intervention Improves Outcomes](parent-implemented-intervention-improves-outcomes.md) — related

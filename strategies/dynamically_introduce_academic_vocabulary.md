@@ -12,7 +12,7 @@ generated:
 # Dynamically Introduce Academic Vocabulary
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 11 studies (5 quant-synthesis, 3 causal, 3 review), `q2`–`q4` · 4 of 11 report an effect size
+> **Evidence** · 4 claims (3 for, 1 mixed) · 11 studies (5 quant-synthesis, 3 causal, 3 review), `q2`–`q4` · 3 of 11 report an effect size
 
 ## Description
 Rather than presenting academic vocabulary as static lists to memorize, this strategy introduces target words through dynamic, contextualized encounters: a memorable story, a vivid example, or a humorous personal anecdote at first exposure, followed by repeated meetings with the word across varied authentic contexts — discussion, reading, writing, and application tasks. Each encounter adds nuance to the learner's understanding, so the definition is internalized as a usable tool rather than recited as a string.
@@ -42,7 +42,7 @@ Vocabulary knowledge is incremental and context-dependent; words are acquired th
 - **Digital reinforcement**: spaced-repetition tools (e.g., [Quizlet](https://quizlet.com), [Anki](https://apps.ankiweb.net)) schedule re-encounters between class sessions
 
 ### Target Learners
-- English learners and students with limited academic language exposure, who benefit most from rich contextualized instruction [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [+M]
+- English learners and students with limited academic language exposure, who benefit most from rich contextualized instruction [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-language-outcomes.md) [+M]
 - Adolescent learners moving into disciplinary coursework, where Tier 2 words unlock comprehension across subjects
 - All levels benefit, but highly proficient readers acquire many words incidentally from wide reading, reducing the marginal value of direct story-based introduction [~W]
 

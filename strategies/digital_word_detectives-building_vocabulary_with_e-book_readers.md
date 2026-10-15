@@ -12,7 +12,7 @@ generated:
 # Digital Word Detectives — Building Vocabulary With E-Book Readers
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 18 studies (8 causal, 5 review, 4 quant-synthesis, 1 theoretical), `q1`–`q4` · 4 of 18 report an effect size
+> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 18 studies (8 causal, 5 review, 4 quant-synthesis, 1 theoretical), `q1`–`q4` · 3 of 18 report an effect size
 
 ## Description
 Digital Word Detectives positions learners as investigators of unfamiliar vocabulary while reading in an e-book reader (e.g., Kindle, Apple Books, Epic!, Unite for Literacy). Learners flag unknown words, use the reader's built-in dictionary, text-to-speech, and highlighting tools to look up meanings, and record findings in a personal "word detective notebook" (digital or paper). The strategy converts incidental word encounters into deliberate vocabulary learning by pairing wide reading with explicit word-investigation routines.
@@ -38,7 +38,7 @@ Vocabulary is acquired primarily through repeated encounters with words in meani
 - **Individual detective journals** — each learner logs and tracks personal word discoveries; suits independent reading time
 - **Paired or small-group detection** — partners compare flagged words and negotiate meanings before checking the dictionary; adds [Collaborative Learning](../principles/collaborative-learning.md) benefits
 - **Teacher-modeled detection** — the teacher projects the e-book and thinks aloud while investigating a word (predict from context → check dictionary → connect to known words), then fades responsibility [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M]
-- **Multimedia-supported variants** — enhanced e-books with pronunciation audio and definitional animation are especially valuable for English learners [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [+M]
+- **Multimedia-supported variants** — enhanced e-books with pronunciation audio and definitional animation are especially valuable for English learners [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-language-outcomes.md) [+M]
 
 ### Target Learners
 - Elementary and middle-grade readers who have decoding skills but limited vocabulary breadth

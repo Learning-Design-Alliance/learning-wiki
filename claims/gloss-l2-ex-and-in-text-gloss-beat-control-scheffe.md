@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: cheng-2009
-    resource: "http://nflrc.hawaii.edu/rfl"
-    title: "Cheng, Y.-H., & Good, R. L. (2009). L1 glosses: Effects on EFL learners’ reading comprehension and vocabulary retention. Reading in a Foreign Language, 21(2), 119–142. http://nflrc.hawaii.edu/rfl"
+    resource: "https://doi.org/10.64152/10125/66828"
+    title: "Cheng, Y.-H., & Good, R. L. (2009). L1 glosses: Effects on EFL learners’ reading comprehension and vocabulary retention. Reading in a Foreign Language, 21(2), 119–142. [doi:10.64152/10125/66828](https://doi.org/10.64152/10125/66828)"
     author: "Cheng, Y.-H., & Good, R. L."
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Cheng 2009
 
-Cheng, Y.-H., & Good, R. L. (2009). L1 glosses: Effects on EFL learners’ reading comprehension and vocabulary retention. Reading in a Foreign Language, 21(2), 119–142. http://nflrc.hawaii.edu/rfl
+Cheng, Y.-H., & Good, R. L. (2009). L1 glosses: Effects on EFL learners’ reading comprehension and vocabulary retention. Reading in a Foreign Language, 21(2), 119–142. [doi:10.64152/10125/66828](https://doi.org/10.64152/10125/66828)
 
 `q3 · i?` · `causal · r2`
 
@@ -41,8 +41,9 @@ Scheffé post-hoc multiple comparisons on the three delayed-design vocabulary te
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Glossing yields medium-to-large positive effects on L2 vocabulary learning, with multiple-mode glosses outperforming single-mode](glossing-medium-large-effects-l2-vocabulary.md) — the general claim this finding bears on, with the studies behind it
 - [All three L1 gloss conditions significantly improve immediate vocabulary recall over a no-gloss control in EFL reading](l1-glosses-improve-immediate-vocabulary-recall.md) — reports the opposite
 - [L1 glosses do not significantly improve EFL reading comprehension compared with no glosses](l1-glosses-no-reading-comprehension-gain.md) — related
 - [Proficiency moderates gloss effects: vocabulary benefits appear at Levels 2 and 3 but not Levels 1 and 4](proficiency-moderates-gloss-vocabulary-effects.md) — related

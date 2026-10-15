@@ -35,9 +35,9 @@ Ariel, R., & Karpicke, J. D. (2018). Improving Self-Regulated Learning With a Re
 
 `q3 · i2` · `causal · r2`
 
-Randomized experiment with 60 undergraduates assigned to retrieval practice instructions or control, learning 20 Lithuanian–English translations with self-regulated practice before a delayed final test. The instructed group recalled more (M = .87 vs .64), "t(58) /H110053.36, p /H11021 .001, d /H110050.88".
+Randomized experiment with 60 undergraduates assigned to retrieval practice instructions or control, learning 20 Lithuanian–English translations with self-regulated practice before a delayed final test. The instructed group recalled more (M = .87 vs .64), "t(58) = 3.36, p < .001, d = 0.88".
 
-> "The retrieval practice instructions group recalled more translations (M /H11005.87, SE /H11005.03) than did the control group (M /H11005.64, SE /H11005.06) on the delayed criterial test, t(58) /H110053.36, p /H11021 .001, d /H110050.88"
+> "The retrieval practice instructions group recalled more translations (M = .87, SE = .03) than did the control group (M = .64, SE = .06) on the delayed criterial test, t(58) = 3.36, p < .001, d = 0.88"
 
 ## Discussion
 

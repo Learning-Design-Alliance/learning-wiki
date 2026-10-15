@@ -37,7 +37,7 @@ Alfieri, L., Brooks, P. J., Aldrich, N. J., & Tenenbaum, H. R. (2011). Does Disc
 
 Dependent-measure moderator analysis in the enhanced-discovery meta-analysis, Q(4) = 64.60, p < .001. Post-test (d = 0.28), acquisition (d = 0.54), and self-rating (d = 1.25) measures favored enhanced discovery, whereas reaction-time measures (d = -0.72) favored comparison conditions, as the quote shows.
 
-> "the mean effect size derived from reaction time measures was significantly different (i.e., significantly opposite in effect size direction) from both the mean effect size derived from acquisition scores, Q(1) /H1100510.19, p /H11005.001, and the mean effect size derived from post-tests, Q(1) /H1100531.61, p /H11021.001."
+> "the mean effect size derived from reaction time measures was significantly different (i.e., significantly opposite in effect size direction) from both the mean effect size derived from acquisition scores, Q(1) = 10.19, p = .001, and the mean effect size derived from post-tests, Q(1) = 31.61, p < .001."
 
 ## Discussion
 

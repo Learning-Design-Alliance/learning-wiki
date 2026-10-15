@@ -41,8 +41,9 @@ The chapter's overview asserts, drawing on research from Chicago, that instructi
 
 ## Discussion
 
-
 ## Related Claims
+
+- [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — the general claim this finding bears on, with the studies behind it
 - [Family voices contributed to differentiating strong and weak organizational conditions across all essentials, not only Involved Families](family-voices-inform-all-essentials.md) — related
 - [SSWs perceive meso-level community and school contexts, including 287g programs and ICE activity, as shaping immigrant families' fear and access](ssws-perceive-meso-community-school-contexts.md) — related
 - [School characteristics were associated with participation: district-run schools, higher proportions of eligible students, and strong family engagement](school-characteristics-chicago-connected-participation.md) — related

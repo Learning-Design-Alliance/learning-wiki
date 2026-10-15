@@ -12,7 +12,7 @@ generated:
 # Self-Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 109 claims (74 for, 26 mixed, 9 against) · 81 studies (21 associational, 18 review, 17 causal, 10 quant-synthesis, 7 theoretical, 5 qualitative, 3 design), `q1`–`q4` · 18 of 81 report an effect size · 101 claims rest on one study
+> **Evidence** · 108 claims (73 for, 26 mixed, 9 against) · 81 studies (21 associational, 18 review, 17 causal, 10 quant-synthesis, 7 theoretical, 5 qualitative, 3 design), `q1`–`q4` · 18 of 81 report an effect size · 100 claims rest on one study
 
 ## Description
 Whether a learner can plan, monitor and adjust without the structure being supplied for them. It decides whether a multi-week deliverable survives without scaffolding and pacing support. The finding that matters most for design is that self-monitoring is unreliable by default: learners judge fluency rather than learning, and confident misjudgement is the normal case rather than the exception [-M]. So the design job is supplying the external signal, not exhorting reflection.
@@ -83,7 +83,6 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [With peer feedback groups added to web-based SRL training (Group TDP), students showed statistically significant gains in self-motivation, volition and reflection, beyond the planning and metacognition gains also seen in Group TD; goal-setting and elaboration gains stayed non-significant](../claims/peer-feedback-groups-add-self-motivation-volition-reflection-gains-to-web-based-srl-training.md) [~W] — instruction changes it
 - [Mindfulness and stress management skills may produce positive effects on educator sleep, self-regulation, self-compassion, and job satisfaction](../claims/mindfulness-positive-effects-educator-wellbeing.md) [+M] — instruction changes it
 - [Mindfulness practices are linked to positive school climate outcomes including compassion, well-being, and self-regulation](../claims/mindfulness-positive-school-climate-outcomes.md) [+W] — instruction changes it
-- [Teacher mindfulness and stress-management training is linked to gains in educator well-being and self-regulation skills](../claims/mindfulness-training-teacher-wellbeing-gains.md) [+W] — instruction changes it
 - [The paper reports that metacognition—students thinking about how they understand their own learning—supports more efficient and effective learning and improved outcomes](../claims/metacognition-efficiency-effectiveness-outcomes-claim.md) [+M] — learners who differ on it differ in outcomes
 - [Youth most positively reported Project With's impact on goal setting, with 81 percent saying it made them more likely to make plans to reach their goals](../claims/project-with-perceived-impact-goal-setting.md) [+M] — instruction changes it
 - [Youth reported positive perceived impacts on healthy relationships (77 percent) and on self-regulation and decision-making (62–66 percent)](../claims/project-with-perceived-impact-relationships-self-regulation.md) [+M] — instruction changes it

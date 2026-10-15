@@ -44,7 +44,7 @@ In the longitudinal Chicago survey analysis, measures of general school experien
 
 ## Related Claims
 - [Positive relationships with professors, community partners, and peer mentors are associated with increased intention to be civically engaged](positive-relationships-increase-civic-engagement-intention.md) — related
-- [Experiencing civic community at home, in the neighborhood, and at school fosters students' commitment to civic participation](experiencing-civic-community-fosters-commitment.md) — related
+- [Students who witnessed concern for community and current events at home, in the neighborhood or at school were more likely to be committed to civic participation](experiencing-civic-community-fosters-commitment.md) — related
 - [Professor-student relationship quality correlates with multiple civic engagement outcomes in both directions](professor-relationship-quality-civic-engagement-bidirectional.md) — related
 - [Student demographics were not significantly related to civic commitment among Chicago public high school students](demographics-not-destiny-civic-commitment.md) — related
 - [Extracurricular activities provide only modest support for civic commitment, and sports participation is unrelated to it](extracurriculars-modest-sports-unrelated-civic-commitment.md) — related

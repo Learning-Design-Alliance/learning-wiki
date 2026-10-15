@@ -37,7 +37,7 @@ Waasdorp TE, Bradshaw CP, Leaf PJ. (2012). The Impact of Schoolwide Positive Beh
 
 Same group randomized trial; three-level HLM of teacher TOCA-C rejection ratings (3 items, α=.84) for 12,344 students showed SWPBIS students "experienced lower levels of rejection" over time than comparison peers (γ = −0.03, t = −2.32, P < .05).
 
-> "experienced lower levels of rejection ( /H9253=−0.03, t= −2.32, P/H11021.05, SE=0.016) over time vs children in the comparison schools"
+> "experienced lower levels of rejection ( /H9253=−0.03, t= −2.32, P < .05, SE=0.016) over time vs children in the comparison schools"
 
 ## Discussion
 

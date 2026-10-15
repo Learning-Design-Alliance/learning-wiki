@@ -73,6 +73,14 @@
         [
           "rubrics-improve-student-work",
           "+"
+        ],
+        [
+          "strategy-instruction-improves-writing-quality",
+          "~"
+        ],
+        [
+          "peer-response-groups-writing-idea-units",
+          "~"
         ]
       ]
     }

@@ -12,14 +12,14 @@ generated:
 # Retelling
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies (2 quant-synthesis), `q3` · 2 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 2 studies (2 quant-synthesis), `q3` · 1 of 2 report an effect size
 
 ## Description
 Retelling asks learners to reconstruct a narrative or informational text in their own words after reading or hearing it — identifying characters, setting, problem, and resolution, or main ideas and supporting details, in a coherent sequence. It can be oral, written, or dramatized, and is typically scored against the text's story grammar or idea structure to reveal what was comprehended, sequenced, and omitted.
 
 ## Design Implications
 
-Retelling is a generative task: reconstructing a text from memory requires the learner to reorganize and restate content, which produces stronger comprehension and recall than rereading or answering recognition questions [Retelling improves comprehension and recall relative to reading alone.](../claims/dialogic-reading-improves-expressive-language.md) [+M]. Because the retell must be produced, it also functions as a formative assessment — omissions, inversions, and intrusions diagnose specific comprehension breakdowns rather than a single score. Retelling quality depends on an internalized text structure; explicit teaching of story grammar or informational text structure before retelling substantially improves retell completeness [+M].
+Retelling is a generative task: reconstructing a text from memory requires the learner to reorganize and restate content, which produces stronger comprehension and recall than rereading or answering recognition questions [Retelling improves comprehension and recall relative to reading alone.](../claims/dialogic-reading-improves-language-outcomes.md) [+M]. Because the retell must be produced, it also functions as a formative assessment — omissions, inversions, and intrusions diagnose specific comprehension breakdowns rather than a single score. Retelling quality depends on an internalized text structure; explicit teaching of story grammar or informational text structure before retelling substantially improves retell completeness [+M].
 
 ### Context
 #### Requirements

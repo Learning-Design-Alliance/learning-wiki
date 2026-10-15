@@ -41,6 +41,7 @@ Attitudes measured on a seven-point scale in the same three-group experiment; al
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Elaborative Encoding Improves Retention](generative-processing-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [GPA, pretest score, and self-generated elaboration jointly predict intellectual skills but not procedural knowledge or attitudes](gpa-pretest-elaboration-interaction-intellectual-skills.md) — related

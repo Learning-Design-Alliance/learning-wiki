@@ -1,0 +1,108 @@
+{
+  "principle": "principles/elaborative-reasoning",
+  "note": "Wave 9 (2026-10-15). Groupings and directions by an agent from the claims' titles and evidence entries, each claim read in full. The misbelief-items claim and the self-explanation claim are left out because other specs already list them (activation, active-learning, annotating). Elaborative-encoding and generative-processing rest on the same meta-analysis (Bisra 2018), so only the first is used.",
+  "findings": [
+    {
+      "hub": "elaborative-interrogation-improves-learning",
+      "question": "Does answering 'why is this true?' about each statement improve memory and understanding of it over reading it, and when does it not?",
+      "members": [
+        [
+          "elaborative-interrogation-improves-science-fact-learning",
+          "+"
+        ],
+        [
+          "durable-elaborative-interrogation-gains-six-months",
+          "+"
+        ],
+        [
+          "elaborative-interrogation-biology-course-context",
+          "+"
+        ],
+        [
+          "elaborative-interrogation-reduces-confidence-in-errors",
+          "+"
+        ],
+        [
+          "elaborative-interrogation-prior-knowledge-moderator",
+          "~"
+        ],
+        [
+          "response-quality-little-effect-on-elaborative-interrogation-retention",
+          "~"
+        ],
+        [
+          "elaborative-interrogation-answer-quality-poor-correlates-with-posttest",
+          "~"
+        ],
+        [
+          "elaborative-interrogation-increases-difficulty-and-time-on-lesson",
+          "~"
+        ],
+        [
+          "elaborative-interrogation-lower-posttest-than-read-twice-posterior-probability",
+          "-"
+        ]
+      ]
+    },
+    {
+      "hub": "generative-processing-improves-learning",
+      "question": "Does having learners generate their own elaborations improve learning, compared with no elaboration or with elaborations supplied to them?",
+      "members": [
+        [
+          "self-generated-elaboration-improves-procedural-knowledge-accounting",
+          "+"
+        ],
+        [
+          "self-generated-elaboration-improves-intellectual-skills",
+          "+"
+        ],
+        [
+          "elaboration-strategy-affects-posttest-performance",
+          "+"
+        ],
+        [
+          "elaboration-strategy-no-attitude-effect",
+          "~"
+        ],
+        [
+          "gpa-pretest-elaboration-interaction-intellectual-skills",
+          "~"
+        ],
+        [
+          "elaborative-processing-enhances-retrieval",
+          "+"
+        ],
+        [
+          "adding-explanation-prompts-to-free-recall-retrieval-has-mixed-effects",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "prior-knowledge-determines-new-learning",
+      "question": "Does knowing more beforehand mean learning more from the instruction?",
+      "members": [
+        [
+          "pretest-predicts-posttest-not-learning-gain",
+          "+"
+        ],
+        [
+          "pretest-scores-predict-posttest-scores",
+          "~"
+        ],
+        [
+          "passage-familiarity-correlates-with-recall",
+          "+"
+        ],
+        [
+          "developed-schema-higher-recall",
+          "+"
+        ],
+        [
+          "cohesion-no-effect-delayed-recall",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

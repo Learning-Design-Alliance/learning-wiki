@@ -12,7 +12,7 @@ generated:
 # Contextual Vocabulary Introduction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies (3 quant-synthesis, 2 causal), `q3` · 3 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies (3 quant-synthesis, 2 causal), `q3` · 2 of 5 report an effect size
 
 ## Description
 Contextual Vocabulary Introduction presents new words embedded in the stories, passages, or texts learners are actually reading, rather than as isolated word lists. Learners encounter the word in use, infer and discuss its meaning from surrounding text, and analyze the author's word choice and its effect on meaning. The strategy treats vocabulary as inseparable from comprehension: words are learned as they function in discourse.
@@ -43,7 +43,7 @@ Contextual introduction leverages the fact that word meanings are learned increm
 ### Target Learners
 - Upper elementary through high school readers building academic and literary vocabulary
 - Struggling readers need the most support here, but paradoxically gain least from context alone — they require more explicit definitional support alongside context [Incidental word learning from reading context is real but modest per encounter.](https://doi.org/10.1037/0022-0663.91.1.95) [~M]
-- English learners, for whom contextualized encounters supply the situational grounding that translation lists lack [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [+M]
+- English learners, for whom contextualized encounters supply the situational grounding that translation lists lack [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-language-outcomes.md) [+M]
 
 ### Target Learning Goals
 - Vocabulary acquisition with depth: connotation, register, and usage, not just denotation

@@ -152,7 +152,7 @@ Open questions include the durability of achievement effects after programs end,
 - [Co-regulation strategies were reported to create a safe, positive classroom climate and to help youth manage emotions](co-regulation-supports-climate-and-youth-emotion-regulation.md) — a narrower finding that bears on this claim
 - [Cooperative Learning Improves Achievement](cooperative-learning-improves-achievement.md) — related
 - [Disruptive student behavior is associated with less academic engaged time and lower achievement](disruptive-behavior-lowers-engagement-and-achievement.md) — related
-- [Mindfulness programs show substantial benefits across cognitive and emotional regulation as well as stress and mental health in adolescents and young adults](mindfulness-programs-benefit-adolescent-regulation.md) — related
+- [A practice brief reviewing self-regulation interventions reports substantial benefits of mindfulness programs for cognitive and emotional regulation, stress and mental health in adolescents and young adults](mindfulness-programs-benefit-adolescent-regulation.md) — related
 - [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) — related
 - [SEL programs improve social emotional skills](sel-programs-improve-social-emotional-skills.md) — related
 - [The affective component is suggested to contribute at least as much to language learning as cognitive skills](affective-component-contributes-as-much-as-cognitive.md) — related

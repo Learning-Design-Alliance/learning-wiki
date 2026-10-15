@@ -39,6 +39,18 @@ Narrative review statement in the brief's universal supports section. It notes t
 
 > "The evidence base for MBIs with children and youths is not developed enough to provide definitive recommendations about specific practices within mindfulness approaches and programs."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Do school and youth mindfulness programmes improve students' regulation, wellbeing and academic outcomes?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **3 distinct studies** (2 review, 1 design), `q1`–`q2`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Browning 2020 | q1 / q2 · review · r2 | i? | this claim; [Mindfulness practices are linked to positive school climate outcomes including compassion,](mindfulness-positive-school-climate-outcomes.md) (supports); [Mindfulness practices are linked to academic improvements including reduced test anxiety, ](mindfulness-academic-improvement-links.md) (supports); [Students who learned mindfulness-based conflict resolution strategies used them outside sc](mindfulness-conflict-resolution-transfer-out-of-school.md) (supports) |
+| Murray 2017 | q2 · review · r2 | i? | [A practice brief reviewing self-regulation interventions reports substantial benefits of m](mindfulness-programs-benefit-adolescent-regulation.md) (supports) |
+| Tingey 2023 | q2 · design · r2 | i? | [Co-regulation strategies were reported to create a safe, positive classroom climate and to](co-regulation-supports-climate-and-youth-emotion-regulation.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

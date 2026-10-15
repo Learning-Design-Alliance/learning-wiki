@@ -43,5 +43,5 @@ Randomized controlled trial with 33 mother-child dyads of children ages three to
 
 
 ## Related Claims
-- [Parent-implemented dialogic reading showed no statistically significant differences from a no-treatment comparison on any language measure (Crain-Thoreson & Dale, 1999)](crain-thoreson-dale-1999-parent-led-null-effects.md) — related
+- [Parent-implemented dialogic reading showed no statistically significant differences from a group story-time comparison on any language measure (Crain-Thoreson & Dale, 1999)](crain-thoreson-dale-1999-parent-led-null-effects.md) — related
 - [Dialogic Reading Improves Language Outcomes](dialogic-reading-improves-language-outcomes.md) — a broader claim this one bears on

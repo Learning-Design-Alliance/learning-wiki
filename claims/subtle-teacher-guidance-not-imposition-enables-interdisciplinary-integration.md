@@ -54,7 +54,7 @@ The mechanism is illustrated through two carefully transcribed, representative e
 - [Professional dialog maintains and reproduces the logic of each knowledge context over time](professional-dialog-reproduces-knowledge-context-logic.md) — related
 - [Epistemic games reveal unacknowledged disciplinary differences in interdisciplinary teams](epistemic-games-reveal-unacknowledged-disciplinary-differences-in-teams.md) — related
 - [Explicitly unfolding higher-order contributions into lower-order concept elements produces deeper conceptual learning opportunities than jumping directly to procedure](unfolding-knowledge-elements-produces-deeper-conceptual-learning-opportunities.md) — related
-- [Teacher responses, including verbal rewards, can close off pupil thinking rather than sustain it](teacher-responses-can-close-off-pupil-thinking.md) — related
+- [A 1970 teacher self-analysis programme asserts, without data, that teacher responses including verbal rewards can close off pupil thinking](teacher-responses-can-close-off-pupil-thinking.md) — related
 - [Teachers actively synthesize professional-development practices with their own context rather than transferring them intact](teachers-synthesize-pd-practices-with-context-not-just-transfer-them.md) — related
 - [The better the five foundations are integrated, the greater the probability of success in the designed setting](foundation-integration-predicts-environment-success.md) — related
 - A teacher can only describe what the teacher and pupils do when teaching occurs; what happens between them remains unknown — related

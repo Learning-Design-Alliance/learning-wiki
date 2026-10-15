@@ -12,14 +12,14 @@ generated:
 # Emotion Vocabulary Building
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies (3 causal, 3 quant-synthesis, 2 review), `q2`–`q3` · 2 of 8 report an effect size
+> **Evidence** · 3 claims (3 for) · 8 studies (3 causal, 3 quant-synthesis, 2 review), `q2`–`q3` · 1 of 8 report an effect size
 
 ## Description
 Emotion vocabulary building is the deliberate instruction of emotion words — moving learners from broad categories ("good," "bad," "mad") toward granular distinctions (frustrated, disappointed, anxious, resentful). It is carried out through direct teaching of labels, discussion of when each applies, and repeated opportunities to label one's own and others' states in context. Affect labeling itself appears to regulate emotional experience: naming a feeling reduces amygdala reactivity and increases prefrontal engagement [Lieberman et al. (2007)](https://doi.org/10.1111/j.1467-9280.2007.01916.x) [+M].
 
 ## Design Implications
 
-A richer emotion lexicon improves both emotional competence and broader language competence, and the two develop in tandem [Beck et al. (2012)](https://doi.org/10.1037/a0026320) [+M]. Precision matters: learners who can distinguish closely related states can select better regulation strategies, because "anxious" and "disappointed" call for different responses. Vocabulary is best taught in context — during real events or [Check-In](../elements/check-in.md) routines — rather than as decontextualized word lists, consistent with evidence that rich, interactive language input drives vocabulary growth [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [+S].
+A richer emotion lexicon improves both emotional competence and broader language competence, and the two develop in tandem [Beck et al. (2012)](https://doi.org/10.1037/a0026320) [+M]. Precision matters: learners who can distinguish closely related states can select better regulation strategies, because "anxious" and "disappointed" call for different responses. Vocabulary is best taught in context — during real events or [Check-In](../elements/check-in.md) routines — rather than as decontextualized word lists, consistent with evidence that rich, interactive language input drives vocabulary growth [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-language-outcomes.md) [+S].
 
 ### Context
 #### Requirements
@@ -67,7 +67,7 @@ A richer emotion lexicon improves both emotional competence and broader language
 ## Examples
 - **[RULER](https://www.rulerapproach.org)** (Yale Center for Emotional Intelligence) — the Feeling Words Curriculum teaches 100+ emotion words across K-12 academic lessons; schools using RULER showed gains in emotional intelligence and academic performance [Brackett et al. (2012)](https://doi.org/10.1016/j.lindif.2011.10.002) [+S]
 - **Mood Meter check-ins** — learners place themselves on a color-coded valence–arousal grid and attach a specific word to their position, expanding vocabulary quadrant by quadrant
-- **Dialogic read-alouds** — teachers pause to ask "How does she feel *here*? How do you know?" during picture books, eliciting and refining emotion labels [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [+S]
+- **Dialogic read-alouds** — teachers pause to ask "How does she feel *here*? How do you know?" during picture books, eliciting and refining emotion labels [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-language-outcomes.md) [+S]
 
 ## Key Sources
 - Brackett, M. A., Rivers, S. E., Reyes, M. R., & Salovey, P. (2012). Enhancing academic performance and social and emotional competence with the RULER feeling words curriculum. *Learning and Individual Differences, 22*(2), 218–224. [doi:10.1016/j.lindif.2010.10.002](https://doi.org/10.1016/j.lindif.2010.10.002)

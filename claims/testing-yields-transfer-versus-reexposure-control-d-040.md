@@ -37,7 +37,7 @@ Steven C. Pan and Timothy C. Rickard. (2018). Transfer of Test-Enhanced Learning
 
 Meta-analysis of 192 transfer effect sizes from 122 experiments in 67 published and unpublished articles (N = 10,382), each measuring transfer against a nontesting reexposure control. The random-effects model found "testing can yield transferrable learning" with d = 0.40, 95% CI [0.31, 0.50].
 
-> "A random-effects model revealed that testing can yield transferrable learning as measured relative to a nontesting reexposure control condition (d /H110050.40, 95% CI [0.31, 0.50])."
+> "A random-effects model revealed that testing can yield transferrable learning as measured relative to a nontesting reexposure control condition (d = 0.40, 95% CI [0.31, 0.50])."
 
 ## Discussion
 

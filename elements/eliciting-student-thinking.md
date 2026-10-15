@@ -56,7 +56,7 @@ Eliciting thinking converts passive reception into generative processing; verbal
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Intervention families used the talk moves asks-a-question and checks-for-understanding more frequently than comparison families, especially after viewing](../claims/app-promotes-question-and-check-talk-moves.md) [+W]
-- [Teacher responses, including verbal rewards, can close off pupil thinking rather than sustain it](../claims/teacher-responses-can-close-off-pupil-thinking.md) [-W]
+- [A 1970 teacher self-analysis programme asserts, without data, that teacher responses including verbal rewards can close off pupil thinking](../claims/teacher-responses-can-close-off-pupil-thinking.md) [-W]
 
 ## Related Elements
 

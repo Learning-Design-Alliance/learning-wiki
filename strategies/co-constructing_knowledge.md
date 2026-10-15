@@ -12,14 +12,14 @@ generated:
 # Co-constructing Knowledge
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 6 studies (4 quant-synthesis, 1 qualitative, 1 theoretical), `q2`–`q4` · 4 of 6 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 6 studies (4 quant-synthesis, 1 qualitative, 1 theoretical), `q2`–`q4` · 3 of 6 report an effect size · 1 claim rests on one study
 
 ## Description
 Co-constructing knowledge positions learners as active partners who build understanding alongside the teacher through dialogue, shared inquiry, and collaborative meaning-making, rather than receiving fully formed content. The teacher's role shifts from authority-as-transmitter to facilitator who elicits, challenges, and connects student ideas. The approach draws on Vygotsky's account of learning as a social process in which understanding emerges through interaction within the zone of proximal development.
 
 ## Design Implications
 
-Co-construction leverages the social nature of cognition: articulating ideas to peers, negotiating disagreements, and building on others' contributions forces learners to externalize and refine their thinking [Dialogic-reading improves expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [+M]. Its effectiveness depends on structured talk norms and genuine openness to student input — nominally "collaborative" activities where the teacher's expected answer drives the discussion produce little benefit [Active learning improves exam performance.](../claims/active-learning-improves-exam-performance.md) [+S].
+Co-construction leverages the social nature of cognition: articulating ideas to peers, negotiating disagreements, and building on others' contributions forces learners to externalize and refine their thinking [Dialogic-reading improves expressive language.](../claims/dialogic-reading-improves-language-outcomes.md) [+M]. Its effectiveness depends on structured talk norms and genuine openness to student input — nominally "collaborative" activities where the teacher's expected answer drives the discussion produce little benefit [Active learning improves exam performance.](../claims/active-learning-improves-exam-performance.md) [+S].
 
 ### Context
 #### Requirements

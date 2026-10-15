@@ -60,8 +60,9 @@ Discussion section example: Highline teachers who reviewed and recommended Ratio
 
 ## Discussion
 
-
 ## Related Claims
+
+- [The guide argues that overfocusing on intervention selection alone risks a 'magic bullet' view because average positive outcomes do not guarantee local success](magic-bullet-risk-selection-without-needs-assessment.md) — the general claim this finding bears on, with the studies behind it
 - [In the Onslow Mathspace pilot, student benchmark scores decreased over the pilot period, a change that was not statistically significant](onslow-mathspace-scores-decreased-not-significant.md) — related
 - [Parental factors including emotional unreadiness, feeling overwhelmed, and unrealistic expectations can contribute to AAC device abandonment](parent-factors-aac-abandonment.md) — related
 - [Most students felt the piloted math tools let them work at their own pace, and observation data suggested enrichment-seeking students were more engaged than struggling learners](student-pace-and-engagement-varies-by-skill-level.md) — related

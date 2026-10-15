@@ -37,7 +37,7 @@ Yang, C., Luo, L., Vadillo, M. A., Yu, R., & Shanks, D. R. (2020). Testing (Quiz
 
 Meta-analytic moderator analysis of control-condition strategy across classroom studies; the review reports testing is "a more powerful method to enhance classroom learning" against each named control, with printed effect sizes g = 0.610, g = 0.465, g = 0.330, and g = 0.095.
 
-> "By comparison with no/filler activity ( g /H110050.610), testing with fewer questions ( g /H110050.465), restudying ( g /H110050.330), and other elaborative strategies ( g /H110050.095), testing is overall a more powerful method to enhance classroom learning."
+> "By comparison with no/filler activity ( g = 0.610), testing with fewer questions ( g = 0.465), restudying ( g = 0.330), and other elaborative strategies ( g = 0.095), testing is overall a more powerful method to enhance classroom learning."
 
 ## Discussion
 

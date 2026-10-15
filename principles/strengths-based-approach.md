@@ -39,7 +39,7 @@ sources:
 # Strengths-based Approach
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 17 claims (11 for, 5 mixed, 1 against) · 20 studies (9 review, 4 causal, 2 design, 2 theoretical, 1 quant-synthesis, 1 associational, 1 qualitative), `q1`–`q4` · 2 of 20 report an effect size · 12 claims rest on one study
+> **Evidence** · 17 claims (11 for, 5 mixed, 1 against) · 21 studies (10 review, 4 causal, 2 design, 2 theoretical, 1 quant-synthesis, 1 associational, 1 qualitative), `q1`–`q4` · 2 of 21 report an effect size · 12 claims rest on one study
 
 ## Conditional relationship
 

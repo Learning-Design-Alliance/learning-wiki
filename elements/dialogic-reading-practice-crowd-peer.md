@@ -40,7 +40,7 @@ Dialogic reading is "an interactive shared picture-book reading practice designe
 
 ## Claims
 
-- [Parent-implemented dialogic reading showed no statistically significant differences from a no-treatment comparison on any language measure (Crain-Thoreson & Dale, 1999)](../claims/crain-thoreson-dale-1999-parent-led-null-effects.md) [-W]
+- [Parent-implemented dialogic reading showed no statistically significant differences from a group story-time comparison on any language measure (Crain-Thoreson & Dale, 1999)](../claims/crain-thoreson-dale-1999-parent-led-null-effects.md) [-W]
 - [Dialogic reading favored significant gains on lexical diversity during play and total utterances during book reading, but not on four other measures (Dale et al., 1996)](../claims/dale-1996-significant-lexical-diversity-play-total-utterances-book-reading.md) [+W]
 - [Dialogic reading has potentially positive effects on communication and language competencies for children with disabilities](../claims/dialogic-reading-potentially-positive-communication-language-disabilities.md) [+W]
 - [The evidence base for dialogic reading with children with disabilities is small, with no qualifying studies in six other outcome domains](../claims/dialogic-reading-small-evidence-base-disabilities.md) [~W]

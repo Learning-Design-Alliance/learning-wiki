@@ -41,8 +41,9 @@ Thematic analysis of student post-surveys (n=79) and focus groups (n=18) in a qu
 
 ## Discussion
 
-
 ## Related Claims
+
+- [AI multimodal feedback is rated higher than educator feedback on specificity, clarity, simplicity, motivation, satisfaction, and lower mental effort, with comparable correctness, trust, and acceptance](ai-feedback-higher-perceived-quality-value.md) — the general claim this finding bears on, with the studies behind it
 - [Students reported recognizing writing improvements after revising in response to AI feedback, with observed rubric-score gains on resubmission](students-recognize-writing-improvement-ai-feedback.md) — related
 - [Teachers reported that rubric-aligned AI feedback saved time on repetitive comments, enabling focus on higher-order instruction](teachers-report-time-savings-higher-order-instruction.md) — related
 - [Interactive dialogue with the AI tool, available only in some sites, promoted deeper engagement and student agency during revision](interactive-genai-dialogue-promotes-engagement.md) — related

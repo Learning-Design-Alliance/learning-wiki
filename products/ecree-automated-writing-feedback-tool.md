@@ -29,7 +29,7 @@ Ecree is an automated writing-feedback software tool used by teachers and studen
 ### Claims
 - [Teachers and students found Ecree easy to use and helpful for improving writing](../claims/ecree-easy-to-use-and-helpful-per-teachers-and-students.md) [+W]
 - [Ecree likely improved the quality of students' writing, especially for students with less advanced writing skills at the start of the school year](../claims/ecree-improved-writing-quality-especially-less-advanced-writers.md) [+W]
-- [Some students may be overwhelmed by Ecree's feedback about their writing](../claims/some-students-overwhelmed-by-ecree-feedback.md) [-W]
+- [Some students may be overwhelmed by Ecree's feedback about their writing](../claims/teachers-found-ecree-useful-but-some-students-overwhelmed.md) [-W]
 - [Teachers found Ecree and MI Write useful for their writing instruction and for helping students improve their writing](../claims/teachers-found-ecree-mi-write-useful-writing-instruction.md) [+W]
 - [Teachers used Ecree less than intended, and some reported they did not have enough time to learn it and integrate it with instruction](../claims/teachers-used-ecree-less-than-intended-lacking-time.md) [-W]
 - [Some students struggled to use Ecree's and MI Write's automated feedback](../claims/some-students-struggled-automated-feedback-use.md) [-W]
@@ -70,7 +70,7 @@ Ecree is "an automated feedback tool that supports student writing in the classr
 
 - [Teachers and students found Ecree easy to use and helpful for improving writing](../claims/ecree-easy-to-use-and-helpful-per-teachers-and-students.md) [+W]
 - [Ecree likely improved the quality of students' writing, especially for students with less advanced writing skills at the start of the school year](../claims/ecree-improved-writing-quality-especially-less-advanced-writers.md) [+W]
-- [Some students may be overwhelmed by Ecree's feedback about their writing](../claims/some-students-overwhelmed-by-ecree-feedback.md) [-W]
+- [Some students may be overwhelmed by Ecree's feedback about their writing](../claims/teachers-found-ecree-useful-but-some-students-overwhelmed.md) [-W]
 - [Teachers found Ecree and MI Write useful for their writing instruction and for helping students improve their writing](../claims/teachers-found-ecree-mi-write-useful-writing-instruction.md) [+W]
 - [Teachers used Ecree less than intended, and some reported they did not have enough time to learn it and integrate it with instruction](../claims/teachers-used-ecree-less-than-intended-lacking-time.md) [-W]
 - [Some students struggled to use Ecree's and MI Write's automated feedback](../claims/some-students-struggled-automated-feedback-use.md) [-W]

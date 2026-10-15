@@ -12,7 +12,7 @@ generated:
 # Reader's Theater
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 6 studies (3 quant-synthesis, 1 causal, 1 review, 1 theoretical), `q1`–`q3` · 3 of 6 report an effect size
+> **Evidence** · 3 claims (3 for) · 6 studies (3 quant-synthesis, 1 causal, 1 review, 1 theoretical), `q1`–`q3` · 2 of 6 report an effect size
 
 ## Description
 Reader's Theater is a strategy that combines reading practice and performing by having learners read scripts created from books or stories aloud. Students perform by reading from their scripts — without costumes, props, sets, or memorization — so that the interpretive work of reading (phrasing, expression, emphasis) carries the performance. Because the same script is rehearsed repeatedly across practice sessions, the strategy functions as a purposeful form of repeated reading aimed at building fluency, confidence, and comprehension.
@@ -43,7 +43,7 @@ Reader's Theater converts repeated oral reading — one of the best-supported fl
 - Developing readers in grades 2–6 who have decoding in place but read word-by-word without expression [Repetitive oral reading practice improves fluency outcomes.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
 - Reluctant readers, who benefit from the purpose and social energy of performance rather than isolated drill
 - Struggling readers and students with reading difficulties, when scripts are adapted to their levels and participation is structured for safety
-- English learners, for whom expressive oral reading builds prosody and listening comprehension [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [+M]
+- English learners, for whom expressive oral reading builds prosody and listening comprehension [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-language-outcomes.md) [+M]
 
 ### Target Learning Goals
 - Reading fluency: automaticity, accuracy, and prosodic phrasing

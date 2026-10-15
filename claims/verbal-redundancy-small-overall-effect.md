@@ -37,7 +37,7 @@ Adesope, O. O., & Nesbit, J. C. (2012). Verbal Redundancy in Multimedia Learning
 
 Meta-analysis of 57 independent effect sizes from 33 reports (N = 3,452) comparing spoken–written with spoken-only or written-only presentations. The "small but statistically detectable effect" of learning with spoken–written presentations had a weighted mean Hedges's g = 0.15 (95% CI [0.08, 0.22]), with I2 = .82 between-studies heterogeneity.
 
-> "Overall, Table 2 shows a small but statistically detectable effect of learning with spoken–written presentations. The overall sample was heterogeneous, Q(56) /H11005304.93, p /H11021.001, I2 /H11005.82."
+> "Overall, Table 2 shows a small but statistically detectable effect of learning with spoken–written presentations. The overall sample was heterogeneous, Q(56) = 304.93, p < .001, I2 = .82."
 
 ## Discussion
 

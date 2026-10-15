@@ -41,8 +41,9 @@ Null results from Model 1 of the multilevel SEM of the two-wave GSA survey. The 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [One adult educator's first-person reflection reports that facilitated class discussions left her feeling empowered as an individual contributor](facilitated-self-directed-learning-empowers-adults.md) — the general claim this finding bears on, with the studies behind it
 - [Collective GSA-level immigration discussion frequency is not associated with group-level gains in any empowerment or critical consciousness outcome](gsa-collective-discussion-null-group-level.md) — related
 - [Youth lost to attrition had discussed immigration more frequently and reported lower hope and peer validation at baseline](gsa-study-attrition-differences.md) — related
 - [More frequent immigration discussion predicts increased hope for immigrant-origin GSA members but not non-immigrant-origin members](immigration-discussion-hope-immigrant-origin-only.md) — related

@@ -30,7 +30,7 @@ sources:
 # Family Engagement
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 against) · 9 studies (4 quant-synthesis, 3 causal, 2 review), `q1`–`q3` · 4 of 9 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (4 for, 1 against) · 9 studies (4 quant-synthesis, 3 causal, 2 review), `q1`–`q3` · 3 of 9 report an effect size · 1 claim rests on one study
 
 ## Description
 Family engagement is a sustained, collaborative practice in which families and school personnel partner to support children's learning and development. It spans behaviors at school (parent–teacher communication, shared expectations, participation in decision-making) and at home (supervision, high expectations, conversations about learning). Effective engagement is planned and reciprocal — schools actively build communication channels and model expectations rather than waiting for families to initiate contact.
@@ -61,7 +61,7 @@ Family engagement functions as an out-of-school support system that amplifies in
 - Poorly designed engagement can burden families with unequal time and resources, widening gaps between families with flexible schedules and those working multiple jobs [-M]
 
 #### Implementation Variability
-- **Home-based involvement** — conversations about school, high expectations, structured reading time; strongest evidence base [Dialogic reading at home improves children's expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [+S]
+- **Home-based involvement** — conversations about school, high expectations, structured reading time; strongest evidence base [Dialogic reading at home improves children's expressive language.](../claims/dialogic-reading-improves-language-outcomes.md) [+S]
 - **School-based involvement** — attending conferences, volunteering, family literacy nights; builds relationships but weaker direct academic effects
 - **Home–school communication** — regular two-way contact via apps (ClassDojo, TalkingPoints), conferences, home visits
 - **Governance involvement** — families participating in school decision-making bodies; slow-moving but builds institutional trust
@@ -90,7 +90,7 @@ Family engagement functions as an out-of-school support system that amplifies in
 ### Instructions
 1. **Build relational trust first.** Establish two-way communication before making academic asks; use [Check-ins](../elements/check-in.md) and [Active Listening](../strategies/active-listening.md) to learn families' goals, strengths, and constraints.
 2. **Communicate learning, not just logistics.** Share what students are learning and how families can support it — model high expectations and specific home practices (e.g., reading routines) rather than generic "be involved" messages.
-3. **Coach home-based support.** Provide [Coaching](../elements/coaching.md) and modeling for home practices such as dialogic reading [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [+S], while avoiding direct homework takeover [Parental homework help can backfire.](../claims/joint-book-reading-predicts-literacy-success.md) [-M].
+3. **Coach home-based support.** Provide [Coaching](../elements/coaching.md) and modeling for home practices such as dialogic reading [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-language-outcomes.md) [+S], while avoiding direct homework takeover [Parental homework help can backfire.](../claims/joint-book-reading-predicts-literacy-success.md) [-M].
 4. **Close the loop with feedback.** Use structured [Feedback](../elements/feedback.md) so families see the effect of their support, and adjust practices based on family input.
 5. **Fade school direction over time.** As families build confidence, shift from school-led scripting to family-led support, consistent with [Fading Support Promotes Transfer of Responsibility](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
 
@@ -165,7 +165,7 @@ Family engagement functions as an out-of-school support layer that extends instr
 ### Target Learners
 - Students from early childhood through secondary school, with the strongest documented effects in elementary grades [~M]
 - Students from historically underserved communities benefit when engagement is culturally responsive and builds on family funds of knowledge rather than deficit framing [+M]
-- Young children developing language benefit specifically from structured home literacy interactions [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [+S]
+- Young children developing language benefit specifically from structured home literacy interactions [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-language-outcomes.md) [+S]
 - Students at risk of disengagement benefit when engagement reinforces belonging; family-school partnership supports the same belonging mechanisms as classroom interventions [Belonging interventions improve outcomes.](../claims/belonging-interventions-improve-outcomes.md) [+M]
 
 ### Target Learning Goals

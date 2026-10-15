@@ -12,14 +12,14 @@ generated:
 # Read Alouds With Accountable Talk
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies (4 quant-synthesis, 1 theoretical), `q2`–`q4` · 4 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies (4 quant-synthesis, 1 theoretical), `q2`–`q4` · 3 of 5 report an effect size
 
 ## Description
 Read Alouds With Accountable Talk combines teacher-led oral reading of a rich text with structured discussion norms ("accountable talk") that require students to ground their contributions in the text, in reasoning, or in prior turns from classmates. The teacher reads, then stops at planned junctures to pose questions and press students to elaborate, cite evidence, and respond to peers — turning a passive listening event into a dialogic comprehension activity.
 
 ## Design Implications
 
-The strategy works because oral comprehension outpaces reading comprehension in novice readers, letting students engage with texts above their decoding level while discussion forces active construction of meaning rather than passive listening [Dialogic reading improves expressive language outcomes.](../claims/dialogic-reading-improves-expressive-language.md) [+M]. The "accountable" component is what distinguishes it from a conventional read aloud: talk must be accountable to the text (evidence), to reasoning (logic), and to the learning community (building on peers' ideas) [Classroom discourse quality affects reading comprehension.](../claims/active-learning-improves-exam-performance.md) [+M].
+The strategy works because oral comprehension outpaces reading comprehension in novice readers, letting students engage with texts above their decoding level while discussion forces active construction of meaning rather than passive listening [Dialogic reading improves expressive language outcomes.](../claims/dialogic-reading-improves-language-outcomes.md) [+M]. The "accountable" component is what distinguishes it from a conventional read aloud: talk must be accountable to the text (evidence), to reasoning (logic), and to the learning community (building on peers' ideas) [Classroom discourse quality affects reading comprehension.](../claims/active-learning-improves-exam-performance.md) [+M].
 
 ### Context
 #### Requirements
@@ -41,9 +41,9 @@ The strategy works because oral comprehension outpaces reading comprehension in 
 - **Written accountability**: students jot or annotate before talking, adding [annotating](../principles/annotating.md) as a rehearsal for oral contributions
 
 ### Target Learners
-- Emergent and developing readers who can comprehend orally above their independent reading level [Dialogic reading improves expressive language outcomes.](../claims/dialogic-reading-improves-expressive-language.md) [+M]
+- Emergent and developing readers who can comprehend orally above their independent reading level [Dialogic reading improves expressive language outcomes.](../claims/dialogic-reading-improves-language-outcomes.md) [+M]
 - English learners, who benefit from hearing fluent prosodic reading and from structured oral rehearsal with [accessible vocabulary and syntax](../principles/accessible-vocabulary-syntax.md) [+M]
-- Students from language-rich and language-limited backgrounds alike, but gains are largest where classroom talk is otherwise rare [Dialogic reading improves expressive language outcomes.](../claims/dialogic-reading-improves-expressive-language.md) [+M]
+- Students from language-rich and language-limited backgrounds alike, but gains are largest where classroom talk is otherwise rare [Dialogic reading improves expressive language outcomes.](../claims/dialogic-reading-improves-language-outcomes.md) [+M]
 
 ### Target Learning Goals
 - Comprehension of complex narrative and informational texts (inference, theme, argument)

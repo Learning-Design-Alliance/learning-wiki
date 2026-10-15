@@ -46,7 +46,7 @@ Yang, C., Luo, L., Vadillo, M. A., Yu, R., & Shanks, D. R. (2020). Testing (Quiz
 
 Meta-analytic moderator analysis of quiz administration timepoint; the review reports both timepoints enhance learning but "postclass quizzes are more effective", with printed effect sizes g = 0.186 preclass and g = 0.536 postclass.
 
-> "Both pre- ( g /H110050.186) and postclass ( g /H110050.536) quizzes significantly enhance learning, but postclass quizzes are more effective."
+> "Both pre- ( g = 0.186) and postclass ( g = 0.536) quizzes significantly enhance learning, but postclass quizzes are more effective."
 
 ### Yang 2020 (2)
 
@@ -56,7 +56,7 @@ Yang, C., Luo, L., Vadillo, M. A., Yu, R., & Shanks, D. R. (2020). Testing (Quiz
 
 Meta-analytic moderator analysis of treatment duration; the review reports benefits "systematically increase" across duration bands with printed effect sizes g = 0.385, g = 0.521, g = 0.547, and g = 0.624, and a significantly positive relationship with the total number of class meetings.
 
-> "Testing benefits systematically increase from single class treatment ( g /H110050.385), treatment lasting less than a semester ( g /H110050.521), treatment lasting a whole semester ( g /H110050.547), to that lasting longer than a semester ( g /H110050.624)."
+> "Testing benefits systematically increase from single class treatment ( g = 0.385), treatment lasting less than a semester ( g = 0.521), treatment lasting a whole semester ( g = 0.547), to that lasting longer than a semester ( g = 0.624)."
 
 ## Discussion
 

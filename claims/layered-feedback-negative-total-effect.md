@@ -45,5 +45,5 @@ Bootstrap mediation model (N=199); the total indirect effect was not significant
 ## Related Claims
 - [A negative behavioral path through frequent resubmissions counteracted the affective benefit of layered feedback](negative-behavioral-path-submissions-mediation.md) — related
 - [Non-layered AI feedback produced significantly higher post-test performance than layered AI feedback after controlling for pre-test](non-layered-ai-feedback-beats-layered-post-test.md) — related
-- [Perceived encouragement mediated a positive indirect effect of layered feedback on learning performance](positive-affective-path-encouragement-mediation.md) — related
+- [Perceived independence did not mediate a significant indirect effect of layered AI feedback on learning performance](positive-affective-path-encouragement-mediation.md) — related
 - [Layered AI feedback led to significantly more tasks requiring three or more submissions, while total submissions, learning time and edit distance did not differ](layered-feedback-more-tasks-three-plus-submissions.md) — related

@@ -37,7 +37,7 @@ Alfieri, L., Brooks, P. J., Aldrich, N. J., & Tenenbaum, H. R. (2011). Does Disc
 
 Moderator analysis at the comparison level in the unassisted-discovery meta-analysis. Domain moderated effects, Q(5) = 91.75, p < .001; the verbal/social skills deficit reached d = -0.95, significantly exceeding math, computer skills, and science domains after post hoc adjustment (alpha .003).
 
-> "Post hoc comparisons indicated that the mean effect size favoring explicit conditions within the verbal/social skills domain was significantly greater than within the domains of math, Q(1) /H1100550.03, p /H11021.001; computer skills, Q(1) /H1100558.17, p /H11021.001; science, Q(1) /H1100522.65,"
+> "Post hoc comparisons indicated that the mean effect size favoring explicit conditions within the verbal/social skills domain was significantly greater than within the domains of math, Q(1) = 50.03, p < .001; computer skills, Q(1) = 58.17, p < .001; science, Q(1) = 22.65,"
 
 ## Discussion
 

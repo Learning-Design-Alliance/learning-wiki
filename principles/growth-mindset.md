@@ -26,7 +26,7 @@ sources:
 # Growth Mindset
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 13 claims (6 for, 4 mixed, 3 against) · 15 studies (5 review, 4 causal, 2 theoretical, 1 quant-synthesis, 1 associational, 1 qualitative, 1 design), `q2`–`q4` · 1 of 15 report an effect size · 9 claims rest on one study
+> **Evidence** · 13 claims (6 for, 4 mixed, 3 against) · 16 studies (6 review, 4 causal, 2 theoretical, 1 quant-synthesis, 1 associational, 1 qualitative, 1 design), `q2`–`q4` · 1 of 16 report an effect size · 9 claims rest on one study
 
 ## Description
 Growth mindset is the belief that intellectual and performance abilities are malleable and can be developed through effort, effective strategies, and help-seeking. As a design principle, it recommends (a) explicitly teaching learners about the malleability of ability and how the brain changes with learning, and (b) aligning feedback, task design, and grading practices so that effort, strategy use, and progress — not innate talent — are what get noticed and rewarded.

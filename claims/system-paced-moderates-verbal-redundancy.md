@@ -37,7 +37,7 @@ Adesope, O. O., & Nesbit, J. C. (2012). Verbal Redundancy in Multimedia Learning
 
 Moderator analysis of presentational features: system-paced studies (k = 24) showed Hedges's g = 0.34 favoring spoken–written presentation while learner-paced studies (k = 10) showed g = 0.12, not statistically detectable. Authors offer the recovery-of-misperceived-information explanation.
 
-> "System-paced studies with spoken–written presentations were associated with a statistically detectable effect size ( g /H110050.34). The learner-paced studies were not ( g /H110050.12). One plausible explanation for this result is that learners in system-paced conditions who misperceive information from one source may not have time to reread or relisten to the missed information."
+> "System-paced studies with spoken–written presentations were associated with a statistically detectable effect size ( g = 0.34). The learner-paced studies were not ( g = 0.12). One plausible explanation for this result is that learners in system-paced conditions who misperceive information from one source may not have time to reread or relisten to the missed information."
 
 ## Discussion
 

@@ -1,0 +1,70 @@
+{
+  "principle": "principles/fostering-creative-thinking",
+  "note": "Wave 9 (2026-10-15). Groupings and directions by an agent from the claims' titles and evidence entries. The rewards hub is shared with principles/autonomy (its question kept verbatim); the members added here are one 1970 experiment on reward per idea in children (three claims, one study) and one argument about grading in maker education. The AI finding rests on one randomized study (Wong & Qiu 2026) reported three ways, plus reviews and surveys. The CREACT finding is one source (Akar 2013) with no control group. Review before applying.",
+  "findings": [
+    {
+      "hub": "rewards-undermine-intrinsic-motivation",
+      "question": "Do rewards and praise undermine voluntary engagement?",
+      "members": [
+        [
+          "feedback-praise-reduces-learning",
+          "~"
+        ],
+        [
+          "praise-positive-criticism-negative-learning",
+          "+"
+        ],
+        [
+          "annevelink-personalised-instruction-path-test",
+          "+"
+        ],
+        [
+          "teacher-responses-can-close-off-pupil-thinking",
+          "~"
+        ],
+        [
+          "concrete-reward-increases-mean-ideational-fluency",
+          "~"
+        ],
+        [
+          "reward-effects-hold-across-individual-tasks",
+          "~"
+        ],
+        [
+          "good-idea-reward-no-incentive-effect",
+          "~"
+        ],
+        [
+          "grading-harms-maker-education-outcomes",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "chatgpt-free-use-originality-gains-vanish-unassisted",
+      "question": "Does using generative AI while producing creative work leave learners more original when they later work without it?",
+      "members": [
+        [
+          "regulated-ai-outperforms-independent-originality",
+          "~"
+        ],
+        [
+          "awe-overreliance-lowers-critical-thinking-creativity",
+          "+"
+        ],
+        [
+          "llm-access-homogenises-creative-output",
+          "~"
+        ],
+        [
+          "genai-possible-benefits-children-creative-thinking",
+          "~"
+        ],
+        [
+          "prototype-generation-linked-ownership-loss",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

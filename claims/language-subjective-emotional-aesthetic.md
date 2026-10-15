@@ -37,14 +37,10 @@ Jenkins, William A. (1962). Time That Is Intolerant. Elementary English. https:/
 
 Theoretical argument in the 'Language Is More Than a Science' section: the author proposes teachers "continue to employ the lessons which we have learned from science" but "now turn to the method of intuition, feeling, imagination," arguing imagination also creates knowledge.
 
-> "Language must also be subjective, emotional, inspirational and esthetic,to mention just four qualities."
+> "Language must also be subjective, emotional, inspirational and esthetic, to mention just four qualities."
 
 ## Discussion
 
 
 ## Related Claims
-- [Lacquer-painting imagery characteristics are positively associated with aesthetic responses: sensible scene with emotional resonance, imaginable atmosphere with cognitive evaluation, and virtual-real imagination with behavioral intention](imagery-characteristics-associated-with-aesthetic-responses.md) — related
-- [Technology acceptance conditions the virtual-real-imagination–behavioral-intention association, which is stronger at higher reported technology acceptance](technology-acceptance-moderates-vr-imagination-behavioral-intention.md) — related
-- [Perceived immersive, interactive, and distributed affordances are each positively associated with a distinct lacquer-painting imagery characteristic in cross-sectional survey data](perceived-digital-affordances-associated-with-lacquer-imagery-characteristics.md) — related
-- [Sensible scene shows a statistically distinguishable serial indirect association with behavioral intention through emotional resonance and cognitive evaluation in a constrained bootstrap model](serial-indirect-association-sensible-scene-to-behavioral-intention.md) — related
 - [Critical science education requires explicit attention to philosophy of science and rival theories](critical-science-education-philosophy-of-science.md) — related

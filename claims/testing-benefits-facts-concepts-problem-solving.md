@@ -37,7 +37,7 @@ Yang, C., Luo, L., Vadillo, M. A., Yu, R., & Shanks, D. R. (2020). Testing (Quiz
 
 Meta-analytic analysis coding exam content into fact learning, concept learning, and problem-solving categories; the review reports printed effect sizes g = 0.524, g = 0.644, and g = 0.453 for the three levels, addressing the criticism that retrieval practice only enhances "inert knowledge".
 
-> "Testing is not only beneficial for learning facts ( g /H110050.524), but also promotes conceptual learning (g /H110050.644) and facilitates knowledge application in the service of problem solving ( g /H110050.453)."
+> "Testing is not only beneficial for learning facts ( g = 0.524), but also promotes conceptual learning (g = 0.644) and facilitates knowledge application in the service of problem solving ( g = 0.453)."
 
 ## Discussion
 

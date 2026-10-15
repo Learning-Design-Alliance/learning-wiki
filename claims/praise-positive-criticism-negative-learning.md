@@ -37,10 +37,10 @@ Knight, James A. (1985). Building a Positive School Climate. Paper presented at 
 
 The paper cites Rosenshine and Furst's research on teacher performance criteria, reporting that praise and positive reinforcement correlate positively with learning and criticism negatively. No correlation coefficients are printed.
 
-> "Research done by Rosenshine andFurst found that positive reinforcement and appropriate praisewere positively correlatedto learning.They also found that criticismwas negatively cor-related to learning."
+> "Research done by Rosenshine and Furst found that positive reinforcement and appropriate praise were positively correlated to learning. They also found that criticism was negatively correlated to learning."
 
 ## Discussion
 
-
 ## Related Claims
--
+
+- [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — the general claim this finding bears on, with the studies behind it

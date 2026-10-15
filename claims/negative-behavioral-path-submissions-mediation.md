@@ -65,5 +65,5 @@ Same mediation model; mental effort did not significantly predict post-test (B =
 - [Layered AI feedback was perceived as more encouraging and independence-supporting but imposed higher mental effort](layered-ai-feedback-perceptions-mental-effort.md) — related
 - [Layered AI feedback led to significantly more tasks requiring three or more submissions, while total submissions, learning time and edit distance did not differ](layered-feedback-more-tasks-three-plus-submissions.md) — a broader claim this one bears on
 - [The total effect of layered feedback on learning outcomes was significantly negative, with an unmediated negative direct effect](layered-feedback-negative-total-effect.md) — related
-- [Perceived encouragement mediated a positive indirect effect of layered feedback on learning performance](positive-affective-path-encouragement-mediation.md) — related
+- [Perceived independence did not mediate a significant indirect effect of layered AI feedback on learning performance](positive-affective-path-encouragement-mediation.md) — related
 - [Perceived risk negatively predicts use behavior and operates as a stage-sensitive deterrent, activated at submission and evaluation rather than initial exploration](perceived-risk-stage-sensitive-deterrent.md) — related

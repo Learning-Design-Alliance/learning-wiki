@@ -62,7 +62,7 @@ The review's stated caution about language-based interaction: it may improve cla
 
 
 ## Related Claims
-- [Elaborative Encoding Improves Retention](elaborative-encoding-improves-retention.md) — related
+- [Elaborative Encoding Improves Retention](generative-processing-improves-learning.md) — related
 - [Qualitatively, AI-peer integrated feedback was associated with a broader repertoire of revision operations and more agentive cognitive strategies than peer feedback alone](ai-peer-feedback-agentive-revision-strategies.md) — related
 - [The AI's nonjudgmental conversational tone and adaptive prompting fostered risk-taking and productive struggle in a psychologically safe environment](nonjudgmental-ai-tone-risk-taking.md) — related
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related

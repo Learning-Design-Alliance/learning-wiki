@@ -41,9 +41,10 @@ The brief reports three attributed academic outcomes: reduced test anxiety, incr
 
 ## Discussion
 
-
 ## Learner Variables
 - [Affect Regulation](../learner-variables/affect-regulation.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [The evidence base for school mindfulness interventions is promising but too variable for definitive practice recommendations](mbi-evidence-base-variability-limitation.md) — the general claim this finding bears on, with the studies behind it
 - [Mindfulness practices are linked to positive school climate outcomes including compassion, well-being, and self-regulation](mindfulness-positive-school-climate-outcomes.md) — related

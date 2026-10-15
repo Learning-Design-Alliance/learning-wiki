@@ -12,14 +12,14 @@ generated:
 # Outdoor Book Walk
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies (3 quant-synthesis, 1 review), `q3` · 3 of 4 report an effect size
+> **Evidence** · 2 claims (2 for) · 4 studies (3 quant-synthesis, 1 review), `q3` · 2 of 4 report an effect size
 
 ## Description
 An Outdoor Book Walk turns a public park path or walkable street into a sequential reading experience by laminating and posting the pages of a picture book at intervals along the route. Families walk the path together, reading page by page, combining shared book reading with physical activity and community visibility of literacy. Book selection should reflect students' identities and, where possible, include texts in students' home languages.
 
 ## Design Implications
 
-Shared parent–child book reading is one of the most consistently supported home literacy activities, with meta-analytic evidence linking it to gains in language growth, emergent literacy, and reading achievement [Parent–child book reading improves language and literacy outcomes.](../claims/dialogic-reading-improves-expressive-language.md) [+S]. The outdoor format adds two mechanisms: it reframes reading as a social, embodied event rather than a seated task, and it makes books publicly visible in the community, signaling that literacy belongs outside school walls. Physical activity during learning contexts is associated with improved attention and on-task behavior in children [Classroom physical activity improves attention.](../claims/classroom-physical-activity-improves-attention.md) [+M], and walking together creates natural conversational pauses between pages that invite the dialogic questioning known to amplify read-aloud benefits [Parent–child book reading improves language and literacy outcomes.](../claims/dialogic-reading-improves-expressive-language.md) [+M].
+Shared parent–child book reading is one of the most consistently supported home literacy activities, with meta-analytic evidence linking it to gains in language growth, emergent literacy, and reading achievement [Parent–child book reading improves language and literacy outcomes.](../claims/dialogic-reading-improves-language-outcomes.md) [+S]. The outdoor format adds two mechanisms: it reframes reading as a social, embodied event rather than a seated task, and it makes books publicly visible in the community, signaling that literacy belongs outside school walls. Physical activity during learning contexts is associated with improved attention and on-task behavior in children [Classroom physical activity improves attention.](../claims/classroom-physical-activity-improves-attention.md) [+M], and walking together creates natural conversational pauses between pages that invite the dialogic questioning known to amplify read-aloud benefits [Parent–child book reading improves language and literacy outcomes.](../claims/dialogic-reading-improves-language-outcomes.md) [+M].
 
 ### Context
 #### Requirements
@@ -42,7 +42,7 @@ Shared parent–child book reading is one of the most consistently supported hom
 - Indoor variant: hallway or cafeteria "book walk" during conferences or family nights when weather fails
 
 ### Target Learners
-- Early childhood and elementary students still in the shared-reading phase, for whom parent–child reading has the largest measured effects [Parent–child book reading improves language and literacy outcomes.](../claims/dialogic-reading-improves-expressive-language.md) [+S]
+- Early childhood and elementary students still in the shared-reading phase, for whom parent–child reading has the largest measured effects [Parent–child book reading improves language and literacy outcomes.](../claims/dialogic-reading-improves-language-outcomes.md) [+S]
 - Families for whom the activity lowers barriers: no cost, no registration, no school building required
 - Multilingual families, when home-language texts are included — this positions caregivers as competent co-readers rather than helpers
 - Less suited to independent adolescent readers, who gain little from picture-book formats unless the walk is reframed around community-authored writing

@@ -37,7 +37,7 @@ Rohrer, D., Dedrick, R. F., & Stershic, S. (2015). Interleaved practice improves
 
 Classroom experiment with 126 seventh-graders practicing the same graph and slope problems for 3 months, arranged interleaved or blocked (counterbalanced within subject). The two-way ANOVA showed interleaving superior, with printed partial eta squared η² = .165 (large by the .14 threshold).
 
-> "A two-way analysis of variance (with practice schedule as a within-subject variable and test delay as a between-subjects variable) showed that interleaved practice was superior to blocked practice, F(1, 124) /H1100524.43, p /H11021.001, /H9257p2 /H11005 .165"
+> "A two-way analysis of variance (with practice schedule as a within-subject variable and test delay as a between-subjects variable) showed that interleaved practice was superior to blocked practice, F(1, 124) = 24.43, p < .001, /H9257p2 = .165"
 
 ## Discussion
 

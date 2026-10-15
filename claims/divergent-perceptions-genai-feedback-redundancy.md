@@ -41,8 +41,9 @@ Thematic analysis of student perceptions, triangulated with usage trace data, fr
 
 ## Discussion
 
-
 ## Related Claims
+
+- [AI multimodal feedback is rated higher than educator feedback on specificity, clarity, simplicity, motivation, satisfaction, and lower mental effort, with comparable correctness, trust, and acceptance](ai-feedback-higher-perceived-quality-value.md) — the general claim this finding bears on, with the studies behind it
 - [Students initially perceived GenAI explanation features and dashboard visualizations positively in introductory lab sessions](positive-initial-perceptions-genai-feedback-functionalities.md) — related
 - [K-12 students across five schools valued CyberScholar's detailed, specific, rubric-aligned feedback as helpful for identifying areas to revise](students-value-detailed-rubric-aligned-genai-feedback.md) — related
 - [Students showed only modest engagement with GenAI functionalities during in-semester use of the feedback tool](modest-in-semester-engagement-genai-feedback-tool.md) — related

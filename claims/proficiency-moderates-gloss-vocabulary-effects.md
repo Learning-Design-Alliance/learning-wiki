@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: cheng-2009
-    resource: "http://nflrc.hawaii.edu/rfl"
-    title: "Cheng, Y.-H., & Good, R. L. (2009). L1 glosses: Effects on EFL learners’ reading comprehension and vocabulary retention. Reading in a Foreign Language, 21(2), 119–142. http://nflrc.hawaii.edu/rfl"
+    resource: "https://doi.org/10.64152/10125/66828"
+    title: "Cheng, Y.-H., & Good, R. L. (2009). L1 glosses: Effects on EFL learners’ reading comprehension and vocabulary retention. Reading in a Foreign Language, 21(2), 119–142. [doi:10.64152/10125/66828](https://doi.org/10.64152/10125/66828)"
     author: "Cheng, Y.-H., & Good, R. L."
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Cheng 2009
 
-Cheng, Y.-H., & Good, R. L. (2009). L1 glosses: Effects on EFL learners’ reading comprehension and vocabulary retention. Reading in a Foreign Language, 21(2), 119–142. http://nflrc.hawaii.edu/rfl
+Cheng, Y.-H., & Good, R. L. (2009). L1 glosses: Effects on EFL learners’ reading comprehension and vocabulary retention. Reading in a Foreign Language, 21(2), 119–142. [doi:10.64152/10125/66828](https://doi.org/10.64152/10125/66828)
 
 `q3 · i?` · `causal · r2`
 

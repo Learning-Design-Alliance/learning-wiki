@@ -12,7 +12,7 @@ generated:
 # Emotion-Focused Pretend Play
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies (3 quant-synthesis, 2 causal), `q3` · 2 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies (3 quant-synthesis, 2 causal), `q3` · 1 of 5 report an effect size
 
 ## Description
 The teacher or caregiver enters children's pretend play in the dramatic play area and, as a co-player, starts conversations about how the imaginary characters feel — "Why is your baby crying? What will make her happy?" Children are helped to give their characters emotions, act those emotions out, and respond to the emotions of others' characters. The adult's role is that of a [coaching](../elements/coaching.md) co-player who scaffolds emotion vocabulary and perspective-taking within the play itself, rather than directing it.
@@ -42,7 +42,7 @@ Pretend play provides a psychologically safe, low-stakes context in which childr
 
 ### Target Learners
 - Preschool and early elementary children (roughly ages 3–8), when symbolic play and emotion understanding are developing rapidly [+M]
-- Children with limited emotion vocabulary or delayed theory-of-mind skills, including many children with language delays [Dialogic, responsive adult talk improves children's expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [+M]
+- Children with limited emotion vocabulary or delayed theory-of-mind skills, including many children with language delays [Dialogic, responsive adult talk improves children's expressive language.](../claims/dialogic-reading-improves-language-outcomes.md) [+M]
 - Children who struggle to identify or discuss their own emotions in direct conversation — the fictional frame lowers the personal stakes
 
 ### Target Learning Goals

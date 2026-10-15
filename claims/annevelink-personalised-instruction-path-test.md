@@ -41,11 +41,12 @@ Test of Anderson's knowledge-of-students path on Grade 1 students in 46 Dutch sc
 
 ## Discussion
 
-
 ## Learner Variables
 - [Time and Continuity](../learner-variables/time-and-continuity.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — the general claim this finding bears on, with the studies behind it
 - [Feedback Most Effective At Task And Process Levels](feedback-most-effective-at-task-and-process-levels.md) — related
 - [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](feedback-praise-reduces-learning.md) — related
 - [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — related

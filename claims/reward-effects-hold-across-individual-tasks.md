@@ -41,8 +41,9 @@ Per-task analyses of covariance replicate the combined-task pattern: nonsignific
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — the general claim this finding bears on, with the studies behind it
 - [Baseline performance differed by later treatment group for two tasks, with the delayed-reward group giving fewer baseline responses, while no sex or order effects emerged](baseline-group-effect-no-sex-order-effects.md) — related
 - [Concrete reward increases children's mean ideational fluency on creativity tasks relative to control conditions](concrete-reward-increases-mean-ideational-fluency.md) — a broader claim this one bears on
 - [Reward does not reduce the relation between baseline and rewarded creativity performance, supporting a capacity rather than motivational interpretation of individual differences](reward-leaves-creativity-individual-differences-unchanged.md) — related

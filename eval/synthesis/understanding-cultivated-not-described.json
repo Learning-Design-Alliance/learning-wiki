@@ -1,0 +1,70 @@
+{
+  "principle": "principles/understanding-cultivated-not-described",
+  "note": "Wave 9 (2026-10-15). Groupings and directions by an agent from the claims' titles and evidence entries, read in full. The first two hubs already carry tables from other specs; members here join them. The third hub is a tutoring claim used as the most general claim on prompting versus explaining; its members are qualitative or descriptive.",
+  "findings": [
+    {
+      "hub": "guided-discovery-outperforms-pure-discovery",
+      "question": "Should learners explore a new idea with guidance, rather than be told it or left to find it alone?",
+      "members": [
+        [
+          "explicit-instruction-beats-unassisted-discovery",
+          "+"
+        ],
+        [
+          "enhanced-discovery-beats-other-instruction",
+          "+"
+        ],
+        [
+          "age-moderates-discovery-effects",
+          "~"
+        ],
+        [
+          "guidance-advantage-recedes-with-high-prior-knowledge",
+          "~"
+        ],
+        [
+          "minimal-guidance-inquiry-inferior-explicit-instruction",
+          "+"
+        ],
+        [
+          "worked-examples-largest-advantage-over-unassisted-discovery",
+          "+"
+        ],
+        [
+          "guided-discovery-outperformed-both-extremes",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "productive-failure-improves-conceptual-learning",
+      "question": "Should learners attempt a problem before the idea is taught, and what must the teaching afterwards do?",
+      "members": [
+        [
+          "invention-tasks-prepare-future-learning",
+          "+"
+        ],
+        [
+          "ps-i-fosters-learning-only-with-contrasting-cases-or-student-solutions",
+          "~"
+        ],
+        [
+          "domain-general-skills-favor-ips",
+          "~"
+        ],
+        [
+          "problem-solving-before-instruction-boosts-conceptual-transfer",
+          "+"
+        ],
+        [
+          "productive-failure-problem-solving-before-instruction-effect",
+          "+"
+        ],
+        [
+          "initial-guidance-does-not-improve-learning-from-instruction",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

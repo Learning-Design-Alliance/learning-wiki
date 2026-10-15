@@ -12,7 +12,7 @@ generated:
 # Classroom Library Curation
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 14 studies (7 causal, 5 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 5 of 14 report an effect size
+> **Evidence** · 4 claims (3 for, 1 mixed) · 14 studies (7 causal, 5 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 4 of 14 report an effect size
 
 ## Description
 Classroom library curation is the intentional design of a classroom's book collection: selecting titles that reflect students' identities, interests, and cultures; organizing them for easy browsing and access; and refreshing the collection as readers grow. It treats the library itself as an instructional design decision rather than an inherited room feature.
@@ -43,7 +43,7 @@ Access to appealing, self-selected books is one of the strongest correlates of r
 
 ### Target Learners
 - Reluctant and developing readers, who are most sensitive to whether appealing, accessible books are visibly available [+M]
-- Multilingual learners, who benefit from bilingual and high-interest graphic titles that build comprehension while decoding develops [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [+M]
+- Multilingual learners, who benefit from bilingual and high-interest graphic titles that build comprehension while decoding develops [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-language-outcomes.md) [+M]
 - Students whose identities are underrepresented in standard curriculum, for whom a mirror-rich collection supports engagement and belonging [+W]
 
 ### Target Learning Goals

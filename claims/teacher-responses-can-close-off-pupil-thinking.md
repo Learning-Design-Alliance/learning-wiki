@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Teacher responses, including verbal rewards, can close off pupil thinking rather than sustain it
-description: Teacher responses, including verbal rewards, can close off pupil thinking rather than sustain it
+title: A 1970 teacher self-analysis programme asserts, without data, that teacher responses including verbal rewards can close off pupil thinking
+description: "A 1970 teacher self-analysis programme asserts, without data, that teacher responses including verbal rewards can close off pupil thinking"
 id: teacher-responses-can-close-off-pupil-thinking
 status: draft
 generated:
@@ -19,10 +19,12 @@ sources:
     rigour: 1
 ---
 
-# Teacher responses, including verbal rewards, can close off pupil thinking rather than sustain it
+# A 1970 teacher self-analysis programme asserts, without data, that teacher responses including verbal rewards can close off pupil thinking
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+
+<!-- title before 2026-10-15: Teacher responses, including verbal rewards, can close off pupil thinking rather than sustain it -->
 
 ## Subclaims
 `q1 i?` Teacher responses that signal closure (e.g., 'OK', moving to another pupil, or even verbal rewards such as 'fine') can end pupil talk and make pupil thinking dependent on the teacher, whereas responses encouraging sustained contribution foster independent thinking. [→ Guided Self-Analyses Early Childhood Education Program: Teaching Young Children. Overview 1970](#guided-self-analyses-early-childhood-education-program-teaching-young-children-overview-1970)

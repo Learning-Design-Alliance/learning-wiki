@@ -13,7 +13,7 @@ generated:
 # Teaching Social Awareness Through Current Events and Fictional Characters
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 5 studies (3 quant-synthesis, 2 causal), `q3` · 3 of 5 report an effect size
+> **Evidence** · 2 claims (1 for, 1 mixed) · 5 studies (3 quant-synthesis, 2 causal), `q3` · 2 of 5 report an effect size
 
 ## Description
 This strategy uses two kinds of narrative material — real events in the news and the inner lives of fictional characters — as anchors for teaching social awareness: the ability to take others' perspectives, recognize emotions, and understand how circumstances shape behavior. The instructor models empathetic reasoning aloud ("Why might this person have acted this way? What are they feeling?"), then structures discussion or role-play in which learners practice generating and comparing multiple perspectives.
@@ -58,7 +58,7 @@ Narrative provides low-stakes psychological distance: learners can analyze a fic
 - Adolescents, who are developmentally primed for perspective-taking and identity work [+W]
 - Learners with strong narrative engagement; reluctant readers benefit from visual or current-events variants
 - Less effective as a one-off activity for learners with limited emotion vocabulary — needs recurrence across the year
-- K–12 learners, with picture books and read-alouds effective from early elementary [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [+S]
+- K–12 learners, with picture books and read-alouds effective from early elementary [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-language-outcomes.md) [+S]
 - Learners who resist direct social-skills instruction but engage through story and character
 - Mixed-perspective groups, where differing interpretations of the same event or character become the discussion material
 
@@ -135,7 +135,7 @@ Narrative material is effective for social-emotional learning because characters
 - **Media analysis:** have learners critique how news coverage portrays different groups, adding a media-literacy dimension
 
 ### Target Learners
-- K–12 learners, with picture books and read-alouds effective from early elementary [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [+S]
+- K–12 learners, with picture books and read-alouds effective from early elementary [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-language-outcomes.md) [+S]
 - Learners who resist direct social-skills instruction but engage through story and character
 - Mixed-perspective groups, where differing interpretations of the same event or character become the discussion material
 

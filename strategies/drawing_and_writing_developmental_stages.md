@@ -13,7 +13,7 @@ generated:
 # Drawing and Writing Developmental Stages
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (6 for) · 17 studies (8 quant-synthesis, 4 causal, 4 review, 1 qualitative), `q2`–`q4` · 7 of 17 report an effect size
+> **Evidence** · 6 claims (6 for) · 17 studies (8 quant-synthesis, 4 causal, 4 review, 1 qualitative), `q2`–`q4` · 6 of 17 report an effect size
 
 ## Description
 Young children's drawing and early writing progress through recognizable stages — random scribbling (≈15 months–2.5 years), controlled scribbling, lines and patterns, pictures of objects and people (pre-schematic and schematic), and letter/word practice — that reflect parallel growth in fine-motor control, symbolic understanding, and print awareness. Knowing these stages lets educators match materials, expectations, and feedback to what a child can actually do, treating drawing and emergent writing as interconnected rather than separate skills [Dyson's research shows children's drawing and writing develop as one integrated meaning-making system.](../claims/dual-coding-improves-learning.md) [+M].
@@ -51,7 +51,7 @@ Stage-matched activities prevent the twin failure modes of tasks that are too de
 ### Target Learners
 - Toddlers and preschoolers (roughly 15 months to 5 years), the period spanning scribbling through early letter formation
 - Children with fine-motor delays benefit most from stage-matched tools (chunky crayons, vertical surfaces) rather than age-matched expectations [~M]
-- Dual language learners, for whom drawing provides a low-language-risk channel for expression and narrative [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [+M]
+- Dual language learners, for whom drawing provides a low-language-risk channel for expression and narrative [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-language-outcomes.md) [+M]
 - Toddlers and preschool children, roughly 15 months to 5 years old
 - Children transitioning into emergent literacy who are beginning to distinguish drawing from writing
 - Children with fine motor delays, who benefit most from low-pressure, high-frequency mark-making opportunities rather than formal handwriting instruction [~M]

@@ -41,8 +41,9 @@ Level 2 estimates from Model 1 of the multilevel SEM across 38 GSAs, testing col
 
 ## Discussion
 
-
 ## Related Claims
+
+- [One adult educator's first-person reflection reports that facilitated class discussions left her feeling empowered as an individual contributor](facilitated-self-directed-learning-empowers-adults.md) — the general claim this finding bears on, with the studies behind it
 - [Immigration discussion frequency shows no significant association with critical reflection or sociopolitical efficacy](immigration-discussion-null-critical-consciousness.md) — related
 - [Youth lost to attrition had discussed immigration more frequently and reported lower hope and peer validation at baseline](gsa-study-attrition-differences.md) — related
 - [Discussing immigration more frequently than fellow GSA members predicts increased perceived peer validation by year's end](immigration-discussion-in-gsas-predicts-peer-validation.md) — related

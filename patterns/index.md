@@ -57,7 +57,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 #### G {: #letter-g }
 
 * [Gagné's 9 Events of Instruction](gagnes-9-events-of-instruction.md) - A reusable lesson policy that moves a learner from an observed starting response through presentation, guided and independent performance with feedback, to a check at a stated horizon, keeping or dropping each event according to what the learner's responses show rather than running all nine by rote.
-* [Game-Based Mastery Learning](game-based-mastery-learning.md) - Game-Based Mastery Learning is the short-form canonical target for mastery designs that combine progression gates, repeated practice, feedback, and game-like incentives or progression signals.
+* [Game-Based Mastery Learning](game-based-mastery-learning.md) - A reusable policy in which progress through short, cumulative levels depends on passing a check on the target, with attempt-feedback-retry lessons, review of earlier levels and points paid for accuracy and improvement rather than activity; expected to raise performance outside the app for itemisable, practice-heavy skills, but no claim tests the combination as a whole, only a mastery gate without a game layer, a game layer without a gate, and one app's level system on in-app measures.
 * [Game-Based Mastery Learning (Duolingo Pattern)](game-based-mastery-learning-duolingo-pattern.md) - This page is the short-form canonical target for Duolingo-style game-based mastery learning, where frequent practice, progression gates, feedback, and motivational signals are combined in a mastery sequence.
 * [Game-Based Mastery Learning (e.g., Duolingo Pattern)](game-based-mastery-learning-eg-duolingo-pattern.md) - Game-Based Mastery Learning combines mastery progression with game-like mechanics such as levels, streaks, rewards, adaptive challenge, and immediate feedback.
 * [Goal-Based Scenarios](goal-based-scenarios.md) - Goal-Based Scenarios organize learning around a mission or role-based objective pursued inside a realistic scenario.
@@ -119,7 +119,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 #### W {: #letter-w }
 
 * [Worked Examples](worked-examples.md) - A reusable example-first policy for a structured task, qualified by task-specific knowledge, representation and intended outcome.
-* [Workshop Model](workshop-model.md) - The workshop model structures lessons as a short focused mini-lesson followed by an extended block of independent student work with conferring and small-group support, closing with shared reflection.
+* [Workshop Model](workshop-model.md) - A reusable lesson and unit structure (a short mini-lesson teaching one strategy, a protected block of learners' own work while the teacher confers, then a share) expected to build skill in a practice when the mini-lesson teaches strategies explicitly and support is matched and faded; no claim in this wiki tests the workshop model as a whole, and the nearest, on process writing, found a modest gain that did not reach struggling writers.
 * [Writing Workshop](writing-workshop.md) - Writing Workshop structures writing instruction as a sustained writing time in which students draft, receive feedback, revise, and publish within a predictable mini-lesson → writing → sharing routine.
 
 #### 0-9 & Other {: #letter-num }

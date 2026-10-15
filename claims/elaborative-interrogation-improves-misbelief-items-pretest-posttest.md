@@ -14,7 +14,7 @@ sources:
     title: "Woloshyn, Vera E.; Paivio, Allan; Pressley, Mike. (1992). Using Elaborative Interrogation To Help Students Overcome Their Inaccurate Science Beliefs. https://eric.ed.gov/?id=ED356949"
     author: Woloshyn, Vera E.; Paivio, Allan; Pressley, Mike
     q: 3
-    i: 2
+    i: "?"
     kind: causal
     rigour: 2
 ---
@@ -22,7 +22,7 @@ sources:
 # Elaborative interrogation produced greater pretest-to-posttest gains on items about common misbeliefs than reading control in Experiment 2
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Students who answered misbelief items incorrectly at pretest but correctly at posttest improved more under elaborative interrogation. [→ Woloshyn 1992](#woloshyn-1992)
@@ -33,9 +33,9 @@ sources:
 
 Woloshyn, Vera E.; Paivio, Allan; Pressley, Mike. (1992). Using Elaborative Interrogation To Help Students Overcome Their Inaccurate Science Beliefs. https://eric.ed.gov/?id=ED356949
 
-`q3 · i2` · `causal · r2`
+`q3 · i?` · `causal · r2`
 
-Experiment 2 pretest-posttest analysis: 132 students completed a 90-item pretest questionnaire; the analysis counted items answered incorrectly at pretest but correctly at posttest for facts addressing common misbeliefs, and "Elaborative-interrogation subjects made greater pretest-to-posttest gains than did reading-control subjects."
+Experiment 2 pretest-posttest analysis: 132 students completed a 90-item pretest questionnaire; the analysis counted items answered incorrectly at pretest but correctly at posttest for facts addressing common misbeliefs, and "Elaborative-interrogation subjects made greater pretest-to-posttest gains than did reading-control subjects." The values printed as "g", "a" or "smaller a" in the quotes are Tukey HSD post hoc statistics (the source names Tukey's HSD as its post hoc method; the scan garbles the letter and the p values), not effect sizes, and no effect size is printed.
 
 > "Elaborative-interrogation subjects made greater pretest-to-posttest gains than did reading-control subjects [F(1,78) > 8.16,a> 4.04, 2:<.01]."
 

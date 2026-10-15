@@ -46,7 +46,7 @@ Ariel, R., & Karpicke, J. D. (2018). Improving Self-Regulated Learning With a Re
 
 Experiment 2 (71 enrolled, 64 completing both sessions) compared instructed and control groups on new Swahili–English materials one week later with no reminders. The instructed group recalled each translation successfully more times, t(62) = 3.79, p < .001, d = 0.95 in the transfer session.
 
-> "the retrieval practice instructions group recalled items on average 3 times immediately after the intervention (initial session) and also one week later (transfer session), whereas the control group recalled items significantly less than 3 times in both the initial session, t(32) /H110052.93 p /H11021.01, d /H110050.51, and the transfer session, t(32) /H110057.18, p /H11021.001, d /H110051.25"
+> "the retrieval practice instructions group recalled items on average 3 times immediately after the intervention (initial session) and also one week later (transfer session), whereas the control group recalled items significantly less than 3 times in both the initial session, t(32) = 2.93 p < .01, d = 0.51, and the transfer session, t(32) = 7.18, p < .001, d = 1.25"
 
 ### Ariel 2018 (2)
 
@@ -56,7 +56,7 @@ Ariel, R., & Karpicke, J. D. (2018). Improving Self-Regulated Learning With a Re
 
 Experiment 2 final recall in both sessions favored the instructed group, showing the initial intervention had a lasting effect on how students learned a new list under neutral instructions one week later.
 
-> "the retrieval practice instructions group recalled a higher proportion of items than the control group during both the initial session—retrieval practice instructions: M /H11005.89, SE /H11005.02; control: M /H11005.75, SE /H11005.05), t(62) /H110052.34, p /H11021.05, d /H110050.59 [0.08, 1.08]—and the transfer session—retrieval practice instructions: M /H11005.88, SE /H11005.04; control: M /H11005.73, SE /H11005.06), t(62) /H110052.23, p /H11021 .05, d /H110050.56 [0.06, 1.06]"
+> "the retrieval practice instructions group recalled a higher proportion of items than the control group during both the initial session—retrieval practice instructions: M = .89, SE = .02; control: M = .75, SE = .05), t(62) = 2.34, p < .05, d = 0.59 [0.08, 1.08]—and the transfer session—retrieval practice instructions: M = .88, SE = .04; control: M = .73, SE = .06), t(62) = 2.23, p < .05, d = 0.56 [0.06, 1.06]"
 
 ## Discussion
 

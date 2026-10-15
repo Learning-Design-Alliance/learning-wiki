@@ -14,7 +14,7 @@ sources:
     title: "Rosenbach, S. B., Sherwood, S. H., Poteat, V. P., Yoshikawa, H., & Calzo, J. P. (2022). Benefits for Immigrant-Origin and Non-Immigrant-Origin Youth of Discussing Immigration in Gender and Sexuality Alliances. Psychology in the Schools. https://doi.org/10.1002/pits.22513"
     author: "Rosenbach, S. B., Sherwood, S. H., Poteat, V. P., Yoshikawa, H., & Calzo, J. P."
     q: 3
-    i: 1
+    i: "?"
     kind: associational
     rigour: 2
 ---
@@ -22,7 +22,7 @@ sources:
 # More frequent immigration discussion predicts increased hope for immigrant-origin GSA members but not non-immigrant-origin members
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · associational `r2` · `q3` · `i1` small
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Immigrant-origin youth, but not non-immigrant-origin youth, reported increased hope at the school year's end when discussing immigration more frequently, per a significant discussion × immigrant-origin interaction. [→ Rosenbach 2022](#rosenbach-2022)
@@ -33,7 +33,7 @@ sources:
 
 Rosenbach, S. B., Sherwood, S. H., Poteat, V. P., Yoshikawa, H., & Calzo, J. P. (2022). Benefits for Immigrant-Origin and Non-Immigrant-Origin Youth of Discussing Immigration in Gender and Sexuality Alliances. Psychology in the Schools. https://doi.org/10.1002/pits.22513
 
-`q3 · i1` · `associational · r2`
+`q3 · i?` · `associational · r2`
 
 Model 2 interaction test in the multilevel SEM of the two-wave GSA survey (580 youth, 38 GSAs), adjusting for baseline hope and covariates. The article prints the interaction contrast "b = 0.354, p = 0.039 for immigrant-origin youth vs. b = 0.029, p = 0.760 for non-immigrant-origin youth"; no standardized effect size is printed.
 
@@ -41,8 +41,9 @@ Model 2 interaction test in the multilevel SEM of the two-wave GSA survey (580 y
 
 ## Discussion
 
-
 ## Related Claims
+
+- [One adult educator's first-person reflection reports that facilitated class discussions left her feeling empowered as an individual contributor](facilitated-self-directed-learning-empowers-adults.md) — the general claim this finding bears on, with the studies behind it
 - [Collective GSA-level immigration discussion frequency is not associated with group-level gains in any empowerment or critical consciousness outcome](gsa-collective-discussion-null-group-level.md) — related
 - [Youth lost to attrition had discussed immigration more frequently and reported lower hope and peer validation at baseline](gsa-study-attrition-differences.md) — related
 - [Discussing immigration more frequently than fellow GSA members predicts increased perceived peer validation by year's end](immigration-discussion-in-gsas-predicts-peer-validation.md) — related

@@ -13,7 +13,7 @@ generated:
 # Supporting Students with Intellectual Disabilities
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 14 claims (11 for, 3 mixed) · 21 studies (10 quant-synthesis, 5 causal, 4 review, 1 associational, 1 theoretical), `q1`–`q4` · 7 of 21 report an effect size · 7 claims rest on one study
+> **Evidence** · 14 claims (11 for, 3 mixed) · 22 studies (10 quant-synthesis, 5 causal, 5 review, 1 associational, 1 theoretical), `q1`–`q4` · 7 of 22 report an effect size · 7 claims rest on one study
 
 ## Conditional relationship
 

@@ -45,4 +45,3 @@ Key finding from the brief's study of Ecree in grade 8–11 ELA classrooms: "Stu
 ## Related Claims
 - [Some students struggled to use Ecree's and MI Write's automated feedback](some-students-struggled-automated-feedback-use.md) — related
 - [More than half of surveyed teachers agreed Ecree was useful for improving students' writing, but some students may be overwhelmed by the feedback](teachers-found-ecree-useful-but-some-students-overwhelmed.md) — related
-- [Some students may be overwhelmed by Ecree's feedback about their writing](some-students-overwhelmed-by-ecree-feedback.md) — possibly the same claim (merge candidate)

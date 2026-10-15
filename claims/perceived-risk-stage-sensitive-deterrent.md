@@ -59,4 +59,4 @@ Thematic analysis of the 20 follow-up interviews distinguished evaluation-orient
 
 ## Related Claims
 - [A negative behavioral path through frequent resubmissions counteracted the affective benefit of layered feedback](negative-behavioral-path-submissions-mediation.md) — related
-- [Perceived encouragement mediated a positive indirect effect of layered feedback on learning performance](positive-affective-path-encouragement-mediation.md) — related
+- [Perceived independence did not mediate a significant indirect effect of layered AI feedback on learning performance](positive-affective-path-encouragement-mediation.md) — related

@@ -109,6 +109,18 @@
         [
           "pretest-scores-predict-posttest-scores",
           "~"
+        ],
+        [
+          "passage-familiarity-correlates-with-recall",
+          "+"
+        ],
+        [
+          "developed-schema-higher-recall",
+          "+"
+        ],
+        [
+          "cohesion-no-effect-delayed-recall",
+          "~"
         ]
       ]
     }

@@ -39,8 +39,9 @@ Study 2 turn-level analysis testing whether praise was automatic, as the prompt'
 
 ## Discussion
 
-
 ## Related Claims
+
+- [LLM feedback for students marked by race, language, disability, gender, or motivation shows positive feedback bias and feedback withholding bias — more praise and less substantive critique than for unmarked counterparts](marked-students-praise-withholding-bias.md) — the general claim this finding bears on, with the studies behind it
 - [An explicit prompt instruction to challenge gently changed nothing: the agent challenged in about 1% of turns under both prompts](challenge-instruction-changed-nothing.md) — related
 - [Decisions participants volunteered were worded just as firmly as decisions the agent demanded, and revisions of earlier positions were rare](demanded-versus-spontaneous-decisions-no-firmness-difference.md) — related
 - [A deployed reflection agent followed its prompt's countable rules but broke its dispositional rules about manner](agent-followed-countable-not-dispositional-rules.md) — related

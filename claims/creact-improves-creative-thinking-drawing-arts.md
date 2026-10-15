@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "CREACT improves 5th-grade students' creative thinking performance in drawing arts with a large pretest-posttest effect"
-description: "CREACT improves 5th-grade students' creative thinking performance in drawing arts with a large pretest-posttest effect"
+title: "Twenty-three 5th graders' creativity scores rise after nine CREACT drawing-arts lessons in a one-group pretest-posttest study without a control group (effect size .71)"
+description: "Twenty-three 5th graders' creativity scores rise after nine CREACT drawing-arts lessons in a one-group pretest-posttest study without a control group (effect size .71)"
 id: creact-improves-creative-thinking-drawing-arts
 status: draft
 generated:
@@ -19,10 +19,12 @@ sources:
     rigour: 1
 ---
 
-# CREACT improves 5th-grade students' creative thinking performance in drawing arts with a large pretest-posttest effect
+# Twenty-three 5th graders' creativity scores rise after nine CREACT drawing-arts lessons in a one-group pretest-posttest study without a control group (effect size .71)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i2` medium
+
+<!-- title before 2026-10-15: CREACT improves 5th-grade students' creative thinking performance in drawing arts with a large pretest-posttest effect -->
 
 ## Subclaims
 `q2 i2` In a one group pretest-posttest study, students' total creativity scores rose significantly after nine CREACT lessons, with an effect size of .71 reported as a large effect. [→ Akar 2013](#akar-2013)

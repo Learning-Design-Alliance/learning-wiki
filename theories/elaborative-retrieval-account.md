@@ -49,7 +49,7 @@ Proposed by Carpenter (2009), this account holds that "semantic elaboration occu
 - [Whether initial retrieval practice enhances semantic organization in final free recall is unclear, with results that may depend on how retrieval practice is implemented](../claims/effects-of-retrieval-practice-on-semantic-organization-are-unclear.md) [~W]
 
 ## Related Theories
-- [Elaborative Encoding Improves Retention](../claims/elaborative-encoding-improves-retention.md)
+- [Elaborative Encoding Improves Retention](../claims/generative-processing-improves-learning.md)
 
 ## Examples
 -

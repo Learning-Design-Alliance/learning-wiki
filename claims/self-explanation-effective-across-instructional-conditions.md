@@ -44,7 +44,6 @@ The meta-analysis authors' summary conclusion from analyzing the 69 effect sizes
 
 ## Related Claims
 - The meta-analysis coded and analyzed 20 moderator variables of the self-explanation effect — related
-- [Elaborative Encoding Improves Retention](elaborative-encoding-improves-retention.md) — possibly the same claim (merge candidate)
+- [Elaborative Encoding Improves Retention](generative-processing-improves-learning.md) — possibly the same claim (merge candidate)
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](self-explanation-improves-conceptual-understanding.md) — related
-- [Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here](generative-processing-improves-learning.md) — possibly the same claim (merge candidate)
 - [Elaborative Interrogation Improves Learning](elaborative-interrogation-improves-learning.md) — related

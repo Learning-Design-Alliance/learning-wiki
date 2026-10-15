@@ -19,7 +19,7 @@ sources:
 # Supporting Gifted and Talented Students
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (8 for, 17 mixed) · 20 studies (8 review, 4 causal, 4 quant-synthesis, 3 theoretical, 1 associational), `q1`–`q4` · 3 of 20 report an effect size · 21 claims rest on one study
+> **Evidence** · 25 claims (8 for, 17 mixed) · 21 studies (9 review, 4 causal, 4 quant-synthesis, 3 theoretical, 1 associational), `q1`–`q4` · 3 of 21 report an effect size · 21 claims rest on one study
 
 ## Conditional relationship
 

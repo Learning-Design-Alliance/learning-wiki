@@ -19,7 +19,7 @@ A word map is a visual organizer that promotes vocabulary development. Most word
 
 ## Design Implications
 
-Word maps work because they force elaborative processing: learners must connect a new term to prior knowledge, generate related words, and represent it in multiple formats [Elaborative encoding improves retention.](../claims/elaborative-encoding-improves-retention.md) [+S]. Combining verbal definition with a drawn image engages dual coding pathways, giving learners two retrieval routes to the word [Dual coding of verbal and visual information improves recall.](../claims/dual-coding-improves-learning.md) [+M]. The map's structure also functions as a chunking device, organizing a word's semantic neighborhood into a single retrievable unit [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
+Word maps work because they force elaborative processing: learners must connect a new term to prior knowledge, generate related words, and represent it in multiple formats [Elaborative encoding improves retention.](../claims/generative-processing-improves-learning.md) [+S]. Combining verbal definition with a drawn image engages dual coding pathways, giving learners two retrieval routes to the word [Dual coding of verbal and visual information improves recall.](../claims/dual-coding-improves-learning.md) [+M]. The map's structure also functions as a chunking device, organizing a word's semantic neighborhood into a single retrievable unit [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
 
 ### Context
 #### Requirements
@@ -29,7 +29,7 @@ Word maps work because they force elaborative processing: learners must connect 
 - Access to prior knowledge and reference sources (glossaries, peers, read-aloud context)
 
 #### Constraints
-- Requires instructional time to teach the routine; maps completed mechanically (copying dictionary definitions) produce little benefit [Shallow copy-based engagement with vocabulary tasks yields weak gains.](../claims/elaborative-encoding-improves-retention.md) [-M]
+- Requires instructional time to teach the routine; maps completed mechanically (copying dictionary definitions) produce little benefit [Shallow copy-based engagement with vocabulary tasks yields weak gains.](../claims/generative-processing-improves-learning.md) [-M]
 - Less effective for words whose meanings are highly context-dependent or technical, where a single map oversimplifies
 - Overloading students with too many mapped words per session dilutes the elaboration for each word
 

@@ -27,8 +27,8 @@ sources:
     title: "Higgs, J. M., Kaimana, M., & Isero, M. (2026). Leveraging Onto-Epistemic Heterogeneity for \"Outward\" Exploration: Cultivating Critical AI Awareness in the ELA Classroom. Journal of the Learning Sciences"
     author: "Higgs, J. M., Kaimana, M., & Isero, M"
   - id: ellis-2012
-    resource: "http://www.historylearningsite.co.uk/Mexico_1968.htm"
-    title: "Ellis, M. L. (2012). Using the Pragmatic Progressive Philosophy in Adult Education. http://www.historylearningsite.co.uk/Mexico_1968.htm"
+    resource: "https://eric.ed.gov/?id=ED536865"
+    title: "Ellis, M. L. (2012). Using the Pragmatic Progressive Philosophy in Adult Education. https://eric.ed.gov/?id=ED536865"
     author: Ellis, M. L
   - id: rife-2025
     resource: "https://doi.org/10.31446/JCP.2025.1.07"
@@ -194,7 +194,7 @@ The present evidence establishes no dose, no sequence, no effect on achievement 
 - National Academies of Sciences, Engineering, and Medicine. (2018). *How people learn II: Learners, contexts, and cultures*. National Academies Press. [https://doi.org/10.17226/24783](https://doi.org/10.17226/24783)
 - Papen, U., & Tusting, K. (2019). Using ethnography and 'real literacies' to develop a curriculum for English literacy teaching for young deaf adults in India. *Compare: A Journal of Comparative and International Education, 51*(2), 173-191. [https://doi.org/10.1080/03057925.2019.1585756](https://doi.org/10.1080/03057925.2019.1585756)
 - Higgs, J. M., Kaimana, M., & Isero, M. (2026). Leveraging Onto-Epistemic Heterogeneity for "Outward" Exploration: Cultivating Critical AI Awareness in the ELA Classroom. *Journal of the Learning Sciences*. [https://doi.org/10.1080/10508406.2026.2686084](https://doi.org/10.1080/10508406.2026.2686084)
-- Ellis, M. L. (2012). Using the Pragmatic Progressive Philosophy in Adult Education. http://www.historylearningsite.co.uk/Mexico_1968.htm
+- Ellis, M. L. (2012). Using the Pragmatic Progressive Philosophy in Adult Education. https://eric.ed.gov/?id=ED536865
 - Rife, T. S. (2025). Critical Communication Pedagogy at the End of the World. Journal of Communication Pedagogy. https://doi.org/10.31446/JCP.2025.1.07
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
@@ -312,7 +312,7 @@ The article recommends that adult education curriculum be flexible and reflect t
 -
 
 ## Key Sources
-- Ellis, M. L. (2012). Using the Pragmatic Progressive Philosophy in Adult Education. http://www.historylearningsite.co.uk/Mexico_1968.htm
+- Ellis, M. L. (2012). Using the Pragmatic Progressive Philosophy in Adult Education. https://eric.ed.gov/?id=ED536865
 -->
 
 <!-- merged 2026-10-14 from principles/render-ecological-crisis-concrete-embodied-proximal ("Render planetary ecological crisis concrete, embodied, proximal, and implicative for students"), folded in as a narrower page that rested on two studies or fewer after an evidence search (upgrade_worklist.py, 2026-10-14): its body as it stood. Its bullets this page lacked were added above.

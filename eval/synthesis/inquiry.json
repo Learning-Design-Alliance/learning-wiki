@@ -79,6 +79,14 @@
           "+"
         ],
         [
+          "age-moderates-discovery-effects",
+          "~"
+        ],
+        [
+          "guidance-advantage-recedes-with-high-prior-knowledge",
+          "~"
+        ],
+        [
           "minimal-guidance-inquiry-inferior-explicit-instruction",
           "+"
         ],

@@ -13,7 +13,7 @@ generated:
 # Choral Reading
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies (2 quant-synthesis, 1 review, 1 theoretical), `q1`–`q3` · 2 of 4 report an effect size
+> **Evidence** · 2 claims (2 for) · 4 studies (2 quant-synthesis, 1 review, 1 theoretical), `q1`–`q3` · 1 of 4 report an effect size
 
 ## Description
 Choral reading is a group oral reading strategy in which learners read a text aloud together — in unison, in parts, or in echo of a leader — while a teacher or proficient reader provides a fluent model. It is typically carried out with short, rhythmically or structurally engaging texts (poems, songs, refrains, predictable passages) and repeated over several sessions until reading becomes smooth and expressive.
@@ -67,7 +67,7 @@ Choral reading works by pairing a strong oral model with low-stakes group practi
 - Expressive interpretation: using punctuation, phrasing, and emphasis to convey meaning
 - Vocabulary and syntax exposure through repeated meaningful contact with text
 - Reading fluency: accuracy, rate, and prosodic expression
-- Oral language development: vocabulary in context and expressive language patterns, echoing the mechanisms of dialogic reading [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [+M]
+- Oral language development: vocabulary in context and expressive language patterns, echoing the mechanisms of dialogic reading [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-language-outcomes.md) [+M]
 
 ### Instructions
 1. Choose a short, high-interest text with rhythm, dialogue, or refrain, and preview its challenging vocabulary with the group.
@@ -146,7 +146,7 @@ Choral reading operationalizes repeated, supported oral reading, which builds au
 ### Target Learning Goals
 - Reading fluency: accuracy, rate, and prosodic expression
 - Automatic word recognition as a precondition for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
-- Oral language development: vocabulary in context and expressive language patterns, echoing the mechanisms of dialogic reading [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [+M]
+- Oral language development: vocabulary in context and expressive language patterns, echoing the mechanisms of dialogic reading [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-language-outcomes.md) [+M]
 
 ### Instructions
 1. Select a short text (8–20 lines) with rhythm, repetition, or predictable structure, at learners' instructional level.

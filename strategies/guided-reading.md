@@ -12,7 +12,7 @@ generated:
 # Guided Reading
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (5 for, 1 against) · 17 studies (6 causal, 5 quant-synthesis, 4 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 4 of 17 report an effect size
+> **Evidence** · 6 claims (5 for, 1 against) · 17 studies (6 causal, 5 quant-synthesis, 4 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 3 of 17 report an effect size
 
 ## Description
 Guided reading is a small-group instructional format in which learners read a text at their instructional level — challenging but manageable with support — while the teacher observes, prompts, and coaches. The teacher introduces the text, supports word-solving and comprehension during reading, and leads a brief discussion or teaching point afterward. The goal is to make the reader increasingly independent by gradually transferring strategic control from teacher to learner.
@@ -65,7 +65,7 @@ Guided reading operationalizes [Scaffolding](../principles/scaffolding.md) in th
 
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — a peer-led guided reading variant that fades teacher support into student-led strategy roles
 - [Think-Aloud](../elements/think-aloud.md) — the teacher's modeling move during the book introduction and discussion
-- [Dialogic Reading](../elements/dialogic-reading.md) — the small-group, prompt-and-respond interaction pattern applied to read-alouds with younger learners [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [+S]
+- [Dialogic Reading](../elements/dialogic-reading.md) — the small-group, prompt-and-respond interaction pattern applied to read-alouds with younger learners [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-language-outcomes.md) [+S]
 - [Introduce take-home decodable packs through teacher-led small-group instruction before sending them home](small-group-then-home-decodable-practice.md)
 
 ## Examples

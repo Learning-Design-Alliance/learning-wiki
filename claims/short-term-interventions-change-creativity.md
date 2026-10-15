@@ -43,5 +43,5 @@ Authors' interpretation in the discussion section, contrasting their three-week 
 
 
 ## Related Claims
-- [CREACT improves 5th-grade students' creative thinking performance in drawing arts with a large pretest-posttest effect](creact-improves-creative-thinking-drawing-arts.md) — a narrower finding that bears on this claim
+- [Twenty-three 5th graders' creativity scores rise after nine CREACT drawing-arts lessons in a one-group pretest-posttest study without a control group (effect size .71)](creact-improves-creative-thinking-drawing-arts.md) — a narrower finding that bears on this claim
 - [Prior research found CREACT significantly improved creative performance on poem and story tasks but had a low effect on a paradox task](creact-previous-language-arts-evidence.md) — a narrower finding that bears on this claim

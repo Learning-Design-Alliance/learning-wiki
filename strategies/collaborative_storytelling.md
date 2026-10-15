@@ -12,7 +12,7 @@ generated:
 # Collaborative Storytelling
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 12 studies (6 quant-synthesis, 4 causal, 2 review), `q2`–`q4` · 7 of 12 report an effect size
+> **Evidence** · 5 claims (5 for) · 12 studies (6 quant-synthesis, 4 causal, 2 review), `q2`–`q4` · 6 of 12 report an effect size
 
 ## Description
 Learners work in pairs to create a story by responding to a series of guiding questions. For each question, individuals first think silently about their response, then share answers with their partner and negotiate which one to write down. After working through the questions, pairs write a simple version of their story with illustrations, practice telling it, and present it to another small group.
@@ -46,7 +46,7 @@ The strategy combines two well-supported mechanisms: individual think time befor
 
 ### Target Learning Goals
 - Narrative writing skills: story structure, sequencing, incorporating story elements
-- Oral language development and expressive fluency through rehearsal and retelling [Dialogic reading and structured talk improve expressive language outcomes.](../claims/dialogic-reading-improves-expressive-language.md) [+M]
+- Oral language development and expressive fluency through rehearsal and retelling [Dialogic reading and structured talk improve expressive language outcomes.](../claims/dialogic-reading-improves-language-outcomes.md) [+M]
 - Collaboration and negotiation: justifying choices, reaching consensus, dividing labor
 - Creativity and imagination within a structured frame
 

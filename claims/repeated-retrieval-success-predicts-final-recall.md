@@ -46,7 +46,7 @@ Ariel, R., & Karpicke, J. D. (2018). Improving Self-Regulated Learning With a Re
 
 Multilevel fixed effects logistic regression of Experiment 1 item-level final recall on number of successful retrieval attempts, with random subject and group intercepts; fixed effect β = 0.72, Wald Z = 6.99, p < .001.
 
-> "Table 4 shows that the probability of correctly remembering a translation on the final test increased by .67 with each successful retrieval attempt (/H9252/H11005.72)"
+> "Table 4 shows that the probability of correctly remembering a translation on the final test increased by .67 with each successful retrieval attempt (/H9252 = .72)"
 
 ### Ariel 2018 (2)
 
@@ -56,7 +56,7 @@ Ariel, R., & Karpicke, J. D. (2018). Improving Self-Regulated Learning With a Re
 
 Separate multilevel logistic regression models for each Experiment 2 session; the number-of-recalls fixed effect was significant in both (initial session Z = 3.55, p < .001; transfer session Z = 2.28, p < .05).
 
-> "the probability of recalling translations on the final test increased by .59 (/H9252/H11005.37) during the initial session and by .54 (/H9252/H11005.18) during the transfer session for each successful recall attempt during the learning phase"
+> "the probability of recalling translations on the final test increased by .59 (/H9252 = .37) during the initial session and by .54 (/H9252 = .18) during the transfer session for each successful recall attempt during the learning phase"
 
 ## Discussion
 

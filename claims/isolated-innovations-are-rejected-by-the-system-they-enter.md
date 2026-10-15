@@ -10,15 +10,6 @@ generated:
   at: 2026-09-24
 evidence_strength: weak
 sources:
-  - id: ellsworth-2018
-    resource: "https://edtechbooks.org/lidtfoundations/survey_of_educational_change_models"
-    title: "Ellsworth, J. B. (2018). A survey of educational change models. In *Foundations of Learning and Instructional Design Technology* (1st ed., pp. 339–345). EdTech Books. [https://edtechbooks.org/lidtfoundations/survey_of_educational_change_models](https://edtechbooks.org/lidtfoundations/survey_of_educational_change_models)"
-    author: Ellsworth, J. B.
-    q: 2
-    i: "?"
-    n: N/A
-    kind: review
-    rigour: 1
   - id: ellsworth-2000
     resource: "https://eric.ed.gov/?id=ED444597"
     title: "Ellsworth, James B. (2000). A Survey of Educational Change Models. ERIC Digest. https://eric.ed.gov/?id=ED444597"
@@ -32,25 +23,15 @@ sources:
 # An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 review `r1`–`r2` · `q2` · n=N/A
+> **Evidence** · 1 study · review `r2` · `q2`
 
 "Innovation" here covers new technologies, teaching approaches and designs being introduced into a school, programme or organisation. The claim is about adoption and persistence, not about whether the innovation works where it is used.
 
 ## Subclaims
 
-`q2 i?` A single innovation, such as a new technology or teaching philosophy, that is foreign to the rest of the system may be rejected, like an incompatible organ transplant; success depends on a coordinated bundle of innovations, generally affecting several groups of stakeholders, that results in a coherent system after implementation. [→ Ellsworth 2018](#ellsworth-2018)
-
 `q2 i?` A single innovation that is foreign to the rest of the system may be rejected, and success depends on a coordinated bundle of innovations affecting several stakeholder groups that results in a coherent system after implementation. [→ Ellsworth 2000](#ellsworth-2000)
 
 ## Evidence
-
-### Ellsworth 2018
-
-Ellsworth, J. B. (2018). A survey of educational change models. In *Foundations of Learning and Instructional Design Technology* (1st ed., pp. 339–345). EdTech Books. [https://edtechbooks.org/lidtfoundations/survey_of_educational_change_models](https://edtechbooks.org/lidtfoundations/survey_of_educational_change_models)
-
-`q2 · narrative review of educational change models` · `i? · no effect size` · `n=N/A` · `review · r1`
-
-A public-domain ERIC digest from 2000, drawn from Ellsworth's book *Surviving Change: A Survey of Educational Change Models*. It organises seven classic models of change (Fullan and Stiegelbauer; Reigeluth and Garfinkle; Havelock and Zlotolow; Hall and Hord; Zaltman and Duncan; Rogers; Ely) into one communication framework. It says the field's frameworks are "solidly grounded in empirical studies and practical applications", but the digest summarises them rather than presenting that evidence. The claim is the digest's own concluding synthesis, in its section on succeeding systemically.
 
 ### Ellsworth 2000
 
@@ -61,6 +42,34 @@ Ellsworth, James B. (2000). A Survey of Educational Change Models. ERIC Digest. 
 In its Succeeding Systemically section, the digest asserts, drawing on the classical change models, that "a single innovation (like a new technology or teaching philosophy) that is foreign to the rest of the system may be rejected" and that success depends on a coordinated bundle. This is the author's synthesis, not a tested result.
 
 > "Yet a single innovation (like a new technology or teaching philosophy) that is foreign to the rest of the system may be rejected, like an incompatible organ transplant is rejected by a living system. Success depends on a coordinated "bundle" of innovations-generally affecting several groups of stakeholders-that results in a coherent system after implementation."
+
+<!-- merged duplicate entry 2026-10-15: the same digest reprinted as a book chapter; its entry and subclaim were:
+`q2 i?` A single innovation, such as a new technology or teaching philosophy, that is foreign to the rest of the system may be rejected, like an incompatible organ transplant; success depends on a coordinated bundle of innovations, generally affecting several groups of stakeholders, that results in a coherent system after implementation. [→ Ellsworth 2018](#ellsworth-2018)
+
+### Ellsworth 2018
+
+Ellsworth, J. B. (2018). A survey of educational change models. In *Foundations of Learning and Instructional Design Technology* (1st ed., pp. 339–345). EdTech Books. [https://edtechbooks.org/lidtfoundations/survey_of_educational_change_models](https://edtechbooks.org/lidtfoundations/survey_of_educational_change_models)
+
+`q2 · narrative review of educational change models` · `i? · no effect size` · `n=N/A` · `review · r1`
+
+A public-domain ERIC digest from 2000, drawn from Ellsworth's book *Surviving Change: A Survey of Educational Change Models*. It organises seven classic models of change (Fullan and Stiegelbauer; Reigeluth and Garfinkle; Havelock and Zlotolow; Hall and Hord; Zaltman and Duncan; Rogers; Ely) into one communication framework. It says the field's frameworks are "solidly grounded in empirical studies and practical applications", but the digest summarises them rather than presenting that evidence. The claim is the digest's own concluding synthesis, in its section on succeeding systemically.
+-->
+
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does an innovation's adoption and effect depend on the rest of the system it enters, beyond the innovation itself?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **7 distinct studies** (4 review, 3 theoretical), `q1`–`q2`, 0 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Ellsworth 2000 | q2 · review · r2 | i? | this claim |
+| Gilbert 1999 | q2 · theoretical · r3 | i? | [A tool's effectiveness results from the whole configuration of events, activities, and con](tool-effectiveness-depends-on-context-configuration.md) (supports) |
+| Trout 2021 | q1 · theoretical · r2 | i? | [Technical restorative practices implementation falls short when the adaptive components of](adaptive-shift-precedes-technical-restorative-success.md) (supports); [Relational elements — trust, voice and agency, and equity — are preconditions for restorat](relational-elements-precede-technical-restorative-results.md) (supports) |
+| Roschelle 2021 | q1 · review · r3 | i? | [Inquiry environments are hard to scale because they are ambitious learning activity system](inquiry-environments-ambitious-systems-hard-to-scale.md) (supports) |
+| [Stoll 2006](https://doi.org/10.1007/s10833-006-0001-8) | q2 · review · r? | i? | [Educational reform's progress depends on teachers' individual and collective capacity and ](reform-progress-depends-on-teacher-and-school-capacity.md) (supports) |
+| How the Organization of Schools and Local Communities Shape Educational Improvement 2017 | q1 · review · r? | i? | [Teachers' ability to deliver strong instruction depends substantially on the school contex](instruction-delivery-depends-on-school-context.md) (supports) |
+| [Katia Tödt 2026](https://doi.org/10.1007/978-3-032-26816-7_1) | q1 · theoretical · r2 | i? | [Digital education innovations are an interplay of technological, pedagogical, organisation](digital-education-innovation-four-dimension-interplay.md) (supports) |
+<!-- synthesis:end -->
 
 ## Discussion
 

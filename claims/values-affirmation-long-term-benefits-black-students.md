@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Values affirmation interventions reduced stereotype threat effects, with academic benefits for Black students lasting 7–9 years
-description: Values affirmation interventions reduced stereotype threat effects, with academic benefits for Black students lasting 7–9 years
+title: A policy report's narrative review states that values affirmation reduced stereotype-threat effects among middle-school students, with higher academic performance for Black students up to 7–9 years later
+description: "A policy report's narrative review states that values affirmation reduced stereotype-threat effects among middle-school students, with higher academic performance for Black students up to 7–9 years later"
 id: values-affirmation-long-term-benefits-black-students
 status: draft
 generated:
@@ -19,10 +19,12 @@ sources:
     rigour: 1
 ---
 
-# Values affirmation interventions reduced stereotype threat effects, with academic benefits for Black students lasting 7–9 years
+# A policy report's narrative review states that values affirmation reduced stereotype-threat effects among middle-school students, with higher academic performance for Black students up to 7–9 years later
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+
+<!-- title before 2026-10-15: Values affirmation interventions reduced stereotype threat effects, with academic benefits for Black students lasting 7–9 years -->
 
 ## Subclaims
 `q2 i?` Multiple studies found values affirmation strategies reduced the effect of stereotype threat among middle school students, with higher academic performance for Black students lasting 7–9 years after the interventions. [→ Hernández 2022](#hernandez-2022)
@@ -41,6 +43,7 @@ The report's narrative synthesis of values affirmation research, citing Cohen et
 
 ## Discussion
 
+The only entry here is a policy report's narrative summary of Cohen et al. (2009) and Goyer et al. (2017); it prints no effect size and does not mention null replications. A large same-district replication of the values-affirmation exercise, Hanselman et al. (2017), found no effect on grades; see [A brief values-affirmation writing exercise raised African American seventh-graders' grades in two small field experiments, but a large same-district replication found no effect](self-affirmation-improves-outcomes.md).
 
 ## Related Claims
 - [A brief values-affirmation writing exercise raised African American seventh-graders' grades in two small field experiments, but a large same-district replication found no effect](self-affirmation-improves-outcomes.md) — related

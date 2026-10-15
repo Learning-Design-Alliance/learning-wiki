@@ -32,6 +32,8 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
+In Rief et al. (2026), seventh graders practised algebra in the "Math with Matt" tutoring system. The Mindful version added an LLM-based mindful chat, in which the pedagogical agent Matt gave context-sensitive emotional support, and mindful (not only evaluative) feedback and hint messages; the Cognitive version gave cognitive support only.
+
 ## Subclaims
 `q3 i?` No statistically significant group, time, or interaction effects emerged for anticipatory state-MA. [→ Rief 2026](#rief-2026)
 `q3 i?` No group or interaction effect emerged for executive state-MA despite the time effect. [→ Rief 2026 (2)](#rief-2026-2)

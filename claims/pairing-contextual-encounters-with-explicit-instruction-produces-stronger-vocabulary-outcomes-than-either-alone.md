@@ -40,6 +40,17 @@ Stahl, S. A., & Fairbanks, M. M. (1986). The Effects of Vocabulary Instruction: 
 
 This meta-analysis synthesized studies on the effects of vocabulary instruction on word-meaning learning and text comprehension. It found a mean effect size of .97 for comprehension of passages containing the taught words and .30 for global comprehension measures, both reliably different from zero. Comparing instructional approaches, the authors concluded that the most effective methods combined definitional and contextual information rather than relying on either alone, involved learners in deeper processing of word meanings, and provided more than one or two exposures to the words being taught This supports the claim, but as the authors' conclusion from comparing methods; the abstract reports no effect size for combined against single methods.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does combining explicit instruction with contextual or incidental learning outperform either alone?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **2 distinct studies** (1 quant-synthesis, 1 review), `q2`–`q3`, 0 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Stahl Fairbanks 1986](https://doi.org/10.3102/00346543056001072) | q3 · quant-synthesis · r? | i? | this claim |
+| [Zou 2019](https://doi.org/10.5539/elt.v12n12p39) | q2 · review · r2 | i? | [Combining intentional and incidental vocabulary learning produces greater gains and better](combined-intentional-incidental-greater-gains.md) (supports); [Intentional vocabulary learning yields higher, faster gains and better retention than inci](intentional-beats-incidental-vocabulary-gains.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Why the combination should work.** Incidental contextual encounters supply rich semantic associations, collocational information, and repeated spaced exposures, but they are slow and unreliable for establishing precise word meanings. Explicit instruction (definitions, examples, morphology, [elaboration](../elements/elaboration.md)) is efficient and precise but can leave learners with brittle, decontextualized knowledge. Pairing them lets each compensate for the other's weaknesses — a mechanism consistent with [dual coding theory](../theories/dual-coding-theory.md) and with [cognitive load theory](../theories/cognitive-load-theory.md) guidance on managing the intrinsic load of unfamiliar word forms.

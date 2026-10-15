@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: cheng-2009
-    resource: "http://nflrc.hawaii.edu/rfl"
-    title: "Cheng, Y.-H., & Good, R. L. (2009). L1 glosses: Effects on EFL learners’ reading comprehension and vocabulary retention. Reading in a Foreign Language, 21(2), 119–142. http://nflrc.hawaii.edu/rfl"
+    resource: "https://doi.org/10.64152/10125/66828"
+    title: "Cheng, Y.-H., & Good, R. L. (2009). L1 glosses: Effects on EFL learners’ reading comprehension and vocabulary retention. Reading in a Foreign Language, 21(2), 119–142. [doi:10.64152/10125/66828](https://doi.org/10.64152/10125/66828)"
     author: "Cheng, Y.-H., & Good, R. L."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Cheng 2009
 
-Cheng, Y.-H., & Good, R. L. (2009). L1 glosses: Effects on EFL learners’ reading comprehension and vocabulary retention. Reading in a Foreign Language, 21(2), 119–142. http://nflrc.hawaii.edu/rfl
+Cheng, Y.-H., & Good, R. L. (2009). L1 glosses: Effects on EFL learners’ reading comprehension and vocabulary retention. Reading in a Foreign Language, 21(2), 119–142. [doi:10.64152/10125/66828](https://doi.org/10.64152/10125/66828)
 
 `q2 · i?` · `causal · r2`
 
@@ -41,8 +41,9 @@ Descriptive questionnaire (24 items, in Chinese) administered to all subjects af
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Glossing yields medium-to-large positive effects on L2 vocabulary learning, with multiple-mode glosses outperforming single-mode](glossing-medium-large-effects-l2-vocabulary.md) — the general claim this finding bears on, with the studies behind it
 - [Students and teachers respond favorably to embedded aids: approximately 90% of students reported no difficulty understanding or using the aids, and over 75% wanted similar aids throughout the book.](embedded-aids-are-acceptable-to-students-and-teachers.md) — related
 - [L1 glosses do not significantly improve EFL reading comprehension compared with no glosses](l1-glosses-no-reading-comprehension-gain.md) — related
 - [Multimedia glosses improve EFL students' immediate vocabulary acquisition relative to reading the same texts without glosses](multimedia-glosses-improve-efl-vocabulary-acquisition.md) — related

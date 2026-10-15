@@ -45,7 +45,6 @@ Secondhand finding: the document reports, citing Di Lorenzo's 1969 study of pre-
 ## Related Claims
 - [Joint Book Reading Predicts Literacy Success](joint-book-reading-predicts-literacy-success.md) — related
 - [Dialogic Reading Improves Language Outcomes](dialogic-reading-improves-language-outcomes.md) — related
-- [Dialogic Reading Improves Expressive Language](dialogic-reading-improves-expressive-language.md) — related
 - [Active learning narrows achievement gaps for disadvantaged and underrepresented students](active-learning-narrows-achievement-gaps.md) — related
 - [Common language teaching methods such as oral drills, memorization, and fast-paced competitive activities disadvantage older learners](rote-drills-disadvantage-older-learners.md) — related
 - [Vocabulary-focused programs are probably insufficient to accelerate vocabulary development and close the vocabulary gap](vocabulary-programs-insufficient-to-close-vocabulary-gap.md) — reports the opposite

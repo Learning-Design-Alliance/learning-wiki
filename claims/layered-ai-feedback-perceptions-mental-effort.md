@@ -62,7 +62,7 @@ Paired t-tests within the layered group (N=100) comparing perceptions of first-l
 
 
 ## Related Claims
-- [Perceived encouragement mediated a positive indirect effect of layered feedback on learning performance](positive-affective-path-encouragement-mediation.md) — related
+- [Perceived independence did not mediate a significant indirect effect of layered AI feedback on learning performance](positive-affective-path-encouragement-mediation.md) — related
 - [A negative behavioral path through frequent resubmissions counteracted the affective benefit of layered feedback](negative-behavioral-path-submissions-mediation.md) — related
 - [Non-layered AI feedback produced significantly higher post-test performance than layered AI feedback after controlling for pre-test](non-layered-ai-feedback-beats-layered-post-test.md) — related
 - [AI assistance reduces subjective mental effort across all tasks even when it does not reduce completion time, dissociating time and effort](ai-effort-reduction-time-effort-dissociation.md) — reports the opposite

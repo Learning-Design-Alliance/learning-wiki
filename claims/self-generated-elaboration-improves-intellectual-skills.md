@@ -41,8 +41,9 @@ Univariate tests among the three elaboration groups on case-analysis intellectua
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Elaborative Encoding Improves Retention](generative-processing-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Self-generated elaboration improves procedural knowledge more than instructor-assisted elaboration in introductory accounting](self-generated-elaboration-improves-procedural-knowledge-accounting.md) — related
 - [Cognitive elaboration strategy significantly affects overall posttest performance, with self-generated elaboration highest](elaboration-strategy-affects-posttest-performance.md) — related
 - [GPA, pretest score, and self-generated elaboration jointly predict intellectual skills but not procedural knowledge or attitudes](gpa-pretest-elaboration-interaction-intellectual-skills.md) — related

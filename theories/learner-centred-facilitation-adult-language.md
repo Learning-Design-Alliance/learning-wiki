@@ -40,7 +40,7 @@ The guide adopts Carl Rogers' view that "we cannot teach a person anything direc
 
 - [Language Class Dropout Anxiety](../claims/language-class-dropout-anxiety.md) [+M]
 - [Affective Component Contributes As Much As Cognitive](../claims/affective-component-contributes-as-much-as-cognitive.md) [+M]
-- [Facilitated self-directed learning and peer discussion empower adult learners](../claims/facilitated-self-directed-learning-empowers-adults.md) [+W]
+- [One adult educator's first-person reflection reports that facilitated class discussions left her feeling empowered as an individual contributor](../claims/facilitated-self-directed-learning-empowers-adults.md) [+W]
 
 ## Related Theories
 

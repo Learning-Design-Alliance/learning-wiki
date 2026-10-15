@@ -3,6 +3,7 @@ type: claim
 title: "More than half of surveyed teachers agreed Ecree was useful for improving students' writing, but some students may be overwhelmed by the feedback"
 description: "More than half of surveyed teachers agreed Ecree was useful for improving students' writing, but some students may be overwhelmed by the feedback"
 id: teachers-found-ecree-useful-but-some-students-overwhelmed
+aliases: [some-students-overwhelmed-by-ecree-feedback]
 status: draft
 generated:
   by: "process:wiki-ingest"
@@ -25,7 +26,10 @@ sources:
 > **Evidence** · 1 study · associational `r?` · `q2`
 
 ## Subclaims
+
 `q2 i?` In teacher surveys, more than half of teachers agreed Ecree was useful to help students improve their writing, while some students may be overwhelmed by the feedback. [→ Tareena Musaddiq 2023](#tareena-musaddiq-2023)
+
+`q2 i?` Some students may be overwhelmed by the feedback Ecree provides about their writing. [→ Tareena Musaddiq 2023](#tareena-musaddiq-2023)
 
 ## Evidence
 
@@ -39,16 +43,29 @@ Survey of teachers who used Ecree in grade 8-11 ELA classrooms during the 2021-2
 
 > "More than half of surveyed teachers agreed Ecree was useful to help students improve their writing, but some students may be overwhelmed by the feedback."
 
+<!-- merged 2026-10-15 from some-students-overwhelmed-by-ecree-feedback: that page's entry for this study, which differed from the one above, kept verbatim.
+### Tareena Musaddiq 2023
+
+Tareena Musaddiq, Adam Dunn. (2023). Using an Automated Writing Feedback Tool: Insights on Ecree for Students and Families. Mathematica. https://www.mathematica.org/publications/using-an-automated-writing-feedback-tool-insights-on-ecree-for-students-and-families
+
+`q2 · i?` · `causal · r?`
+
+A key finding of the brief, stated with the hedge may: "Some students may be overwhelmed by Ecree's feedback about their writing." This is a caution raised alongside the positive usability findings; no magnitude or proportion is printed.
+
+> "Some students may be overwhelmed by Ecree's feedback about their writing."
+-->
+
 ## Discussion
 
 
+
 ## Related Claims
+
 - [About half of surveyed students agreed Ecree was easy to use and helped improve their writing](about-half-of-students-found-ecree-easy-and-helpful.md) — related
 - [Teachers and students found Ecree easy to use and helpful for improving writing](ecree-easy-to-use-and-helpful-per-teachers-and-students.md) — a broader claim this one bears on
 - [Ecree likely improved the quality of students' writing, especially for students with less advanced writing skills at the start of the school year](ecree-improved-writing-quality-especially-less-advanced-writers.md) — related
 - [Some students struggled to use Ecree's and MI Write's automated feedback](some-students-struggled-automated-feedback-use.md) — related
 - [Teachers found Ecree and MI Write useful for their writing instruction and for helping students improve their writing](teachers-found-ecree-mi-write-useful-writing-instruction.md) — possibly the same claim (merge candidate)
-- [Some students may be overwhelmed by Ecree's feedback about their writing](some-students-overwhelmed-by-ecree-feedback.md) — possibly the same claim (merge candidate)
 - [MI Write's automated feedback is most useful to students when it supplements, not replaces, teacher feedback](automated-feedback-supplements-not-replaces-teacher-feedback.md) — related
 - [The Ecree study examined teachers' and students' use of the tool and its impact on student and teacher outcomes during the 2021-2022 school year](ecree-study-examined-use-and-impacts-2021-2022.md) — a broader claim this one bears on
 - [A 2021–2022 study examined teachers' and students' use of MI Write and its impact on student and teacher outcomes](mi-write-study-examined-use-and-impact.md) — related
