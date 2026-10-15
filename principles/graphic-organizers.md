@@ -115,6 +115,11 @@ These rows are proposals, untested with learners as diagnostics. A probe is itse
 
 Learners, materials and outcomes differ across these claims (primary readers with stories, college readers with textbook passages, undergraduates with science texts, meta-analyses spanning Grade 4 to postsecondary), so do not rank them by effect size. Most outcomes are immediate or one-week tests on researcher-designed instruments. None tests partly completed organizers, writing-planning organizers, or fading an organizer across a unit.
 
+## The evidence by question
+
+- *Does studying a provided organizer improve comprehension and retention over the text alone, and for whom?* [Graphic Organizers Support Novice Comprehension](../claims/graphic-organizers-support-novice-comprehension.md) [+S]
+- *Should learners build the visual themselves, and does building it beat studying a provided one or recalling from memory?* [Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice](../claims/concept-mapping-improves-learning.md) [+S]
+
 ## Further evidence, not yet read against this model
 
 Claims on neighbouring questions, found while rewriting this page. Each is cited in the default design or the situation table above for one step only; none has been read against the whole model.

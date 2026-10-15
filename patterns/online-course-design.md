@@ -15,7 +15,7 @@ grain_size: course
 # Online Course Design (Community of Inquiry)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 32 claims (16 for, 15 mixed, 1 against) · 22 studies (6 associational, 5 quant-synthesis, 3 causal, 3 qualitative, 3 design, 1 review, 1 theoretical), `q1`–`q4` · 6 of 22 report an effect size · 30 claims rest on one study
+> **Evidence** · 33 claims (16 for, 16 mixed, 1 against) · 23 studies (6 associational, 5 quant-synthesis, 4 causal, 3 qualitative, 3 design, 1 review, 1 theoretical), `q1`–`q4` · 5 of 23 report an effect size · 31 claims rest on one study
 
 ## Description and scope
 
@@ -114,6 +114,12 @@ Of these sixteen rows, nine rest on a claim, each carried beyond the population 
 - **The presences.** In two small online graduate programmes, students [rated all three presences above 4.0 of 5](../claims/mba-students-experience-courses-as-coi.md) [+W], rated [organisation highest and facilitation and resolution lowest](../claims/coi-presence-uneven-profile-mba.md) [+W], and [social presence was the presence most associated with self-reported metacognition](../claims/social-presence-strongest-metacognition-association-cbi.md) [~M]. These are survey descriptions and correlations; none relates a presence to achievement.
 
 Do not promise a gain from "using the CoI framework" or "designing for three interactions": no claim here measures one. A precise abstention names the missing comparison (two versions of the same online course differing in one feature, such as a week-1 contact task or a small-group discussion product, compared on end-of-term performance and completion) and the local record that would stand in for it.
+
+## The evidence by question
+
+- *Do learners do as well, and stay as long, in a fully online course as in the same course face to face?* [Grades are lower both for courses taken online and in future courses](../claims/online-course-lower-grades-current-and-future.md) [~M]
+- *Does building self-regulation support (planning, if-then plans, self-checks) into an online course improve learning and completion?* [Self-regulated learning interventions have a moderate effect (0.65) on learning outcomes in online and blended environments](../claims/srl-interventions-moderate-effect-online-blended.md) [+M]
+- *Does structuring online group discussion (roles, group rewards, a student-led group task) raise achievement, or only participation and attitudes?* [Structuring positive interdependence (role, reward, or both) did not affect posttest achievement for undergraduate business majors in asynchronous online small group work](../claims/interdependence-type-no-achievement-effect-asynchronous.md) [-M]
 
 ## Further evidence, not yet read against this model
 <!-- Claims this page cited before the 2026-10-05 rewrite, and neighbouring claims found while converting it, which are not used as core evidence above. Each marker keeps its old direction, capped by the claim's recorded evidence. -->

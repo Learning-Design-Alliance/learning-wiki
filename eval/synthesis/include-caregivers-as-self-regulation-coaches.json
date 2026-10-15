@@ -1,0 +1,42 @@
+{
+  "principle": "principles/include-caregivers-as-self-regulation-coaches",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "parent-implemented-intervention-improves-outcomes",
+      "question": "Does training the adults around a young person to deliver or support the practice improve the young person's outcomes?",
+      "members": [
+        [
+          "brief-intervention-empathic-discipline-cuts-suspensions",
+          "+"
+        ],
+        [
+          "sel-programs-improve-behavior-and-achievement",
+          "~"
+        ],
+        [
+          "self-regulated-learning-improves-achievement",
+          "~"
+        ],
+        [
+          "parent-involvement-improves-achievement",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "parent-coaching-outperforms-information-only",
+      "question": "Should the adults be coached through rehearsal and feedback, or is information enough?",
+      "members": [
+        [
+          "supervisory-coaching-mixed-teacher-student-outcomes",
+          "~"
+        ],
+        [
+          "srae-co-regulation-training-increases-self-regulation-knowledge",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

@@ -41,8 +41,9 @@ The abstract reports that after notification "test performance improved, and tes
 
 ## Discussion
 
-
 ## Related Claims
+
+- [One measurement article argues that low test-taking motivation biases an individual student's achievement test score downward](test-taking-motivation-negative-score-bias.md) — the general claim this finding bears on, with the studies behind it
 - [After a proctor notification triggered by rapid-guessing detection, test-taking engagement tended to increase](proctor-notification-increases-engagement.md) — related
 - [Rapid-guessing behavior on computer-based tests signals disengaged test taking that threatens score validity](rapid-guessing-signals-disengaged-test-taking.md) — related
 - [The test platform detects rapid guessing in real time and attempts to re-engage disengaged students to protect score validity](map-growth-real-time-engagement-detection-re-engagement.md) — related

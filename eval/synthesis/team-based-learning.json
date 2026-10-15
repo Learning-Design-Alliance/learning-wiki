@@ -73,24 +73,24 @@
       "question": "How should team work be graded so every member is accountable?",
       "members": [
         [
-          "tbl-survey-above-neutral",
-          "~"
-        ],
-        [
-          "group-membership-alone-does-not-produce-cooperation",
-          "+"
-        ],
-        [
-          "accountability-effects-depend-on-type-context-task",
-          "~"
-        ],
-        [
           "interdependence-type-no-achievement-effect-asynchronous",
           "~"
         ],
         [
           "interdependence-type-shifts-interaction-nature",
           "~"
+        ],
+        [
+          "accountability-effects-depend-on-type-context-task",
+          "~"
+        ],
+        [
+          "tbl-survey-above-neutral",
+          "~"
+        ],
+        [
+          "group-membership-alone-does-not-produce-cooperation",
+          "+"
         ],
         [
           "reward-interdependence-benefit-attitudes",
@@ -102,6 +102,14 @@
         ],
         [
           "interaction-quantity-correlates-posttest-online-groups",
+          "~"
+        ],
+        [
+          "classroom-research-supports-motivational-perspective",
+          "+"
+        ],
+        [
+          "secondary-cooperative-learning-newmann-thompson",
           "~"
         ]
       ]

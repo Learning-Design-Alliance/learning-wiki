@@ -12,7 +12,7 @@ generated:
 # Math Key Word Flashcards
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 10 studies (4 quant-synthesis, 3 causal, 2 review, 1 associational), `q2`–`q4` · 2 of 10 report an effect size
+> **Evidence** · 3 claims (3 for) · 12 studies (5 quant-synthesis, 4 causal, 2 review, 1 associational), `q2`–`q4` · 3 of 12 report an effect size
 
 ## Description
 Learners create flashcards for each of the four mathematical operations. On one side, they write the operation and symbol (+, −, ×, ÷); on the other, they list key words associated with that operation (e.g., "sum," "altogether" → addition; "how many more" → subtraction). Students use the flashcards as visual aids during word-problem practice and math coaching, adding new key words as they encounter them.
@@ -35,7 +35,7 @@ Generating the cards is itself a form of elaborative encoding — learners must 
 
 #### Implementation Variability
 - Learner-generated vs. teacher-provided cards (generation is preferable for encoding)
-- Physical cards vs. digital decks (e.g., Quizlet) with spaced review [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Physical cards vs. digital decks (e.g., Quizlet) with spaced review [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 - Cards extended to include non-examples — key words that are *not* reliable cues — to build discrimination
 - Cards used as a sorting activity (sort word problems by operation) rather than a lookup aid
 
@@ -59,7 +59,7 @@ Generating the cards is itself a form of elaborative encoding — learners must 
 ## Related Strategies
 - [Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md) — the structural alternative: key words are subordinated to understanding problem situations
 - [Analogies](../elements/analogies.md) — mapping new key words to known situations deepens the association
-- [Spaced retrieval practice](../claims/spaced-repetition-improves-retention.md) — schedule card review for durable vocabulary retention
+- [Spaced retrieval practice](../claims/spaced-practice-improves-retention.md) — schedule card review for durable vocabulary retention
 
 ## Examples
 - A grade 4 class creates addition/subtraction cards, then sorts a deck of one-step word problems into operation piles, discussing the "how many more" cases where the cue is ambiguous.

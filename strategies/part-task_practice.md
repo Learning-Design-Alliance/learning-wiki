@@ -12,7 +12,7 @@ generated:
 # Part-Task Practice
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies (3 causal, 3 quant-synthesis, 2 review), `q2`–`q4` · 2 of 8 report an effect size
+> **Evidence** · 3 claims (3 for) · 10 studies (4 causal, 4 quant-synthesis, 2 review), `q2`–`q4` · 3 of 10 report an effect size
 
 ## Description
 Part-task practice isolates one or more constituent subskills of a complex task — a surgical knot, a musical passage, a database query — and provides repetitive, often distributed practice on that component before learners attempt the integrated whole. It is typically paired with whole-task instruction, with the part-task practice serving as supplementary repetition for components that must become automatic.
@@ -26,7 +26,7 @@ Part-task practice reduces working-memory load during early skill acquisition by
 - A task analysis identifying which components are separable and which are inherently integrated
 - Repetitive, feedback-rich practice on the isolated component ([Coaching](../elements/coaching.md) or immediate corrective feedback)
 - Whole-task sessions in which the practiced component is re-embedded in context ([Application](../elements/application.md))
-- Sufficient spacing of component practice for consolidation [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Sufficient spacing of component practice for consolidation [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 
 #### Constraints
 - Practicing components in isolation can produce skills that fail to integrate; learners may execute each part correctly but not coordinate them under realistic conditions [-S]
@@ -54,7 +54,7 @@ Part-task practice reduces working-memory load during early skill acquisition by
 1. Analyze the complex task to identify recurring subskills that will eventually need to be automatic.
 2. Design whole learning tasks first, following [Cognitive Load Management](../principles/cognitive-load-management.md) principles; part-task practice supplements, not replaces, them.
 3. Isolate the target subskill and provide repetitive practice with immediate feedback and [Coaching](../elements/coaching.md).
-4. Space practice sessions over time rather than massing them [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+4. Space practice sessions over time rather than massing them [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 5. Re-embed the component in whole-task performance and fade isolated practice as fluency develops, monitoring for the [expertise-reversal effect](../theories/expertise-reversal-effect.md).
 
 ## Related Strategies

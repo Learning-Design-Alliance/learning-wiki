@@ -12,20 +12,20 @@ generated:
 # Acronyms and Acrostics
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 6 studies (2 causal, 2 quant-synthesis, 2 review), `q2`–`q4` · 1 of 6 report an effect size
+> **Evidence** · 2 claims (1 for, 1 mixed) · 8 studies (3 causal, 3 quant-synthesis, 2 review), `q2`–`q4` · 2 of 8 report an effect size
 
 ## Description
 Acronyms and acrostics are verbal mnemonic devices that restructure arbitrary lists into a single retrievable unit. An acronym compresses the first letters of items into a pronounceable word (e.g., HOMES for the Great Lakes); an acrostic embeds them in a sentence whose first letters map to the target items (e.g., "Every Good Boy Does Fine" for the musical notes E-G-B-D-F). Both work by converting an unordered set into a single, well-practiced retrieval cue that is unpacked at recall.
 
 ## Design Implications
 
-These devices reduce the working-memory and retrieval burden of arbitrary ordered information by chunking many items into one cue [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S]. They are most effective when the mnemonic is vivid, meaningful, and practiced until retrieval is automatic; they support recall of *what* the items are, not *why* they matter, so they should be paired with instruction that builds conceptual understanding [Mnemonic instruction improves recall of factual content.](../claims/spaced-repetition-improves-retention.md) [~M].
+These devices reduce the working-memory and retrieval burden of arbitrary ordered information by chunking many items into one cue [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S]. They are most effective when the mnemonic is vivid, meaningful, and practiced until retrieval is automatic; they support recall of *what* the items are, not *why* they matter, so they should be paired with instruction that builds conceptual understanding [Mnemonic instruction improves recall of factual content.](../claims/spaced-practice-improves-retention.md) [~M].
 
 ### Context
 #### Requirements
 - A fixed, enumerable set of items (steps, categories, names, rules) — the device degrades with fuzzy or changing lists
 - A mnemonic that is itself easy to remember: pronounceable, vivid, or humorous; learners often benefit from generating their own
-- Practice retrieving from the cue, ideally distributed over time [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Practice retrieving from the cue, ideally distributed over time [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 
 #### Constraints
 - Supports rote recall only; learners who can recite the acronym may still lack conceptual understanding [-M] — the device can create an illusion of mastery
@@ -54,7 +54,7 @@ These devices reduce the working-memory and retrieval burden of arbitrary ordere
 2. Decide whether order matters; if so, use an acrostic rather than an unordered acronym.
 3. Draft or co-construct the device, favoring vivid, pronounceable forms; consider having learners generate their own.
 4. Model unpacking the cue: retrieve the acronym, then expand each letter to its item ([Clear Structure](../principles/clear-structure.md)).
-5. Schedule retrieval practice with the device, spaced over days and weeks [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+5. Schedule retrieval practice with the device, spaced over days and weeks [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 6. Follow with tasks that require applying the items, not just reciting them, so the mnemonic supports rather than substitutes for understanding.
 
 ## Related Strategies

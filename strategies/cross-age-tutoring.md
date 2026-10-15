@@ -20,7 +20,7 @@ Cross age tutoring pairs an older student with a younger one so the older studen
 
 ## Design Implications
 
-Cross age tutoring is one of the few arrangements that reliably benefits *both* participants: tutees gain from individualized, low-threat instruction, while tutors consolidate their own knowledge through the act of teaching [Tutoring produces consistent gains for both tutors and tutees.](../claims/tutoring-benefits-tutors-and-tutees.md) [+S]. Effects are strongest when tutors are trained in specific instructional routines rather than simply assigned to "help" [Structured peer-assisted learning interventions outperform unstructured ones.](../claims/structured-peer-tutoring-outperforms-unstructured.md) [+S]. Because the tutor is only modestly more expert, sessions must be tightly scoped — the tutor should not be responsible for novel explanation, but for guided practice, questioning, and feedback [Feedback is most effective at the task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
+Cross age tutoring is one of the few arrangements that reliably benefits *both* participants: tutees gain from individualized, low-threat instruction, while tutors consolidate their own knowledge through the act of teaching [Tutoring produces consistent gains for both tutors and tutees.](../claims/peer-tutoring-improves-achievement.md) [+S]. Effects are strongest when tutors are trained in specific instructional routines rather than simply assigned to "help" [Structured peer-assisted learning interventions outperform unstructured ones.](../claims/structured-peer-tutoring-outperforms-unstructured.md) [+S]. Because the tutor is only modestly more expert, sessions must be tightly scoped — the tutor should not be responsible for novel explanation, but for guided practice, questioning, and feedback [Feedback is most effective at the task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
 
 ### Context
 #### Requirements
@@ -53,7 +53,7 @@ Cross age tutoring is one of the few arrangements that reliably benefits *both* 
 
 ### Target Learners
 - Tutees: younger or struggling learners who benefit from one-to-one attention and a low-anxiety setting distinct from whole-class performance [Belonging interventions improve outcomes.](../claims/belonging-interventions-improve-outcomes.md) [+M]
-- Tutors: students who need to consolidate and automatize foundational skills; re-explaining basics strengthens their own retention [Tutoring produces consistent gains for both tutors and tutees.](../claims/tutoring-benefits-tutors-and-tutees.md) [+S]
+- Tutors: students who need to consolidate and automatize foundational skills; re-explaining basics strengthens their own retention [Tutoring produces consistent gains for both tutors and tutees.](../claims/peer-tutoring-improves-achievement.md) [+S]
 - Less suitable for tutees needing expert diagnosis of deep misconceptions, which near-peer tutors typically cannot detect [~M]
 - Tutees: younger or struggling learners who benefit from one-to-one attention, immediate error correction, and a low-anxiety partner [+M]
 - Tutors: older students with partial mastery — especially those with weak conceptual organization of prior learning, who gain most from the demand to explain [~M]

@@ -90,6 +90,8 @@ The one meta-analysis recorded above (Carbonneau et al., 2013) supports a small-
 
 ## Related Claims
 
+- [Reviewed studies report experiential learning benefits for engagement, skills, confidence and outcomes in human services education](experiential-learning-engagement-skills-ethical-reasoning.md) — the general claim this finding bears on, with the studies behind it
+
 - [Block play predicts math achievement](block-play-predicts-math-achievement.md) — spatial construction play as a correlate of later mathematics skill, closely tied to the manipulatives rationale.
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — the memory mechanism manipulatives are meant to support by externalizing structure.
 - [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md) — the boundary condition: poorly designed manipulatives can add rather than remove load.

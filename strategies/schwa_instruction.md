@@ -12,14 +12,14 @@ generated:
 # Schwa Instruction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies (3 quant-synthesis, 2 review, 1 causal, 1 theoretical), `q1`–`q4` · 3 of 7 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 10 studies (4 quant-synthesis, 3 causal, 2 review, 1 theoretical), `q1`–`q4` · 4 of 10 report an effect size
 
 ## Description
 Schwa instruction teaches learners that any vowel letter (a, e, i, o, u) can represent the reduced, unaccented sound /ə/ — often described to children as a "lazy vowel" that has had its "stuffing taken out." Because English stress patterns drive vowel reduction, schwa explains many apparent spelling irregularities in multisyllabic words (e.g., *prob-lem*, *a-dept*, *com-mit*, *car-rot*). Instruction typically combines explicit explanation, word sorting, and having students say a word naturally, then mark the syllable containing the schwa.
 
 ## Design Implications
 
-Schwa instruction is a form of structured literacy teaching that connects phonology to orthography: it converts what looks like an arbitrary spelling exception into a predictable consequence of stress [Explicit and systematic phonics instruction improves word reading.](../claims/systematic-phonics-improves-word-reading.md) [+S]. It works best when embedded in a systematic sequence after learners can read and spell single-syllable words with common vowel patterns, since schwa only makes sense once students expect vowels to "say their sounds" [Explicit and systematic phonics instruction improves word reading.](../claims/systematic-phonics-improves-word-reading.md) [+M]. Instruction should pair perception (hearing the reduced vowel) with production (spelling and marking it), because orthographic mapping — linking phonemes to letter patterns — is what builds automatic word recognition [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S].
+Schwa instruction is a form of structured literacy teaching that connects phonology to orthography: it converts what looks like an arbitrary spelling exception into a predictable consequence of stress [Explicit and systematic phonics instruction improves word reading.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]. It works best when embedded in a systematic sequence after learners can read and spell single-syllable words with common vowel patterns, since schwa only makes sense once students expect vowels to "say their sounds" [Explicit and systematic phonics instruction improves word reading.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+M]. Instruction should pair perception (hearing the reduced vowel) with production (spelling and marking it), because orthographic mapping — linking phonemes to letter patterns — is what builds automatic word recognition [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S].
 
 ### Context
 #### Requirements
@@ -29,8 +29,8 @@ Schwa instruction is a form of structured literacy teaching that connects phonol
 - Immediate corrective feedback on identification and spelling ([Provide Feedback](../elements/provide-feedback.md))
 
 #### Constraints
-- Taught too early, before students have stable single-syllable vowel knowledge, schwa adds confusion rather than resolving it [Explicit and systematic phonics instruction improves word reading.](../claims/systematic-phonics-improves-word-reading.md) [-M]
-- Isolated word-list drills without connected reading and writing application produce weak transfer to authentic spelling [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [~M]
+- Taught too early, before students have stable single-syllable vowel knowledge, schwa adds confusion rather than resolving it [Explicit and systematic phonics instruction improves word reading.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [-M]
+- Isolated word-list drills without connected reading and writing application produce weak transfer to authentic spelling [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [~M]
 - Overreliance on the "lazy vowel" metaphor without linking it to actual stress patterns can lead students to mark stressed vowels as schwa
 
 #### Implementation Variability
@@ -40,7 +40,7 @@ Schwa instruction is a form of structured literacy teaching that connects phonol
 
 ### Target Learners
 - Students in roughly Grade 3 and up who are transitioning to multisyllabic word reading and spelling
-- Struggling spellers who spell phonetically but miss unstressed vowels (e.g., writing *problum* for *problem*) [Explicit and systematic phonics instruction improves word reading.](../claims/systematic-phonics-improves-word-reading.md) [+M]
+- Struggling spellers who spell phonetically but miss unstressed vowels (e.g., writing *problum* for *problem*) [Explicit and systematic phonics instruction improves word reading.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+M]
 - English learners, who benefit from explicit attention to English stress-timing and vowel reduction, which their first language may not share
 
 ### Target Learning Goals
@@ -54,7 +54,7 @@ Schwa instruction is a form of structured literacy teaching that connects phonol
 3. Introduce the schwa symbol /ə/ and the "lazy vowel" explanation: unaccented vowels get their sound "emptied."
 4. Have students say the word, locate the unaccented syllable, and mark the schwa ([Practice](../elements/practice.md)).
 5. Dictate words for spelling; students apply the schwa rule when choosing the vowel letter ([Provide Feedback](../elements/provide-feedback.md)).
-6. Sort new words into schwa and non-schwa columns and revisit previously sorted words across days ([Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]).
+6. Sort new words into schwa and non-schwa columns and revisit previously sorted words across days ([Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S]).
 
 ## Related Strategies
 - [Syllable Division Instruction](../strategies/syllable-division-instruction.md) — schwa only makes sense once students can identify syllables and locate the accent

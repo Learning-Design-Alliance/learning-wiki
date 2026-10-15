@@ -82,6 +82,12 @@ Ask for three facts when the brief omits them: **the setting** (taught classroom
 | The unit is long and prompts would run throughout | In step 5, remove one prompt type at a time and reobserve; repeated prompts may become routine rather than build a habit | [Repeated reflective prompts may habituate](../claims/reflective-scaffolding-habituation-deskilling.md) [~W]; untested proposal for the order of removal |
 | A single session, not a unit | Keep steps 1 and 3 only (a plan, a prediction, feedback on the gap); skip fading, which needs repeated observation | untested proposal |
 
+## The evidence by question
+
+- *Does teaching and prompting self-regulation improve achievement over ordinary instruction?* [Self-regulated learning improves achievement](../claims/self-regulated-learning-improves-achievement.md) [+M]
+- *Do planning, monitoring and evaluation prompts help, and which ones?* [Metacognitive prompts improve learning](../claims/metacognitive-prompts-improve-learning.md) [+M]
+- *Can learners' own monitoring be trusted, and can it be trained?* [Self Assessment Accuracy Is Low Without Training](../claims/self-assessment-accuracy-is-low-without-training.md) [~M]
+
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-10-01 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
 Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.

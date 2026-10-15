@@ -106,10 +106,15 @@ These rows are proposals, untested with learners or adults. A probe (asking a yo
 
 - [Supervisory teacher coaching shows mixed effects](../claims/supervisory-coaching-mixed-teacher-student-outcomes.md) [~M]: of 16 quasi-experimental and single-subject studies of teacher coaching, six reported improved teacher results and four improved student behaviour, and only six met all quality indicators. Coaching the adults does not reliably reach the young people.
 - [Self-regulated learning improves achievement](../claims/self-regulated-learning-improves-achievement.md) [~M]: training effects were larger when researchers rather than regular teachers delivered SRL training. Handing delivery to the everyday adults can shrink effects unless they are trained and supported.
-- [Parent Involvement Improves Achievement](../claims/parent-involvement-improves-achievement.md) [~M]: among middle-school students, help with homework was negatively associated with achievement while academic socialisation had the strongest association (correlational). Adult involvement is not uniformly helpful; its form matters.
+- [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](../claims/parent-involvement-improves-achievement.md) [~M]: among middle-school students, help with homework was negatively associated with achievement while academic socialisation had the strongest association (correlational). Adult involvement is not uniformly helpful; its form matters.
 - [Implementation of co-regulation strategies was shaped by classroom context, facilitator experience and mindset](../claims/co-regulation-implementation-factors-context-experience-strategy-ease.md) [~W]: the adults' context and capacity limit what is delivered.
 
 Populations, comparisons and outcomes differ across these claims (parents of preschoolers, children with autism, middle-school teachers, K–12 programmes, facilitators' reports), so do not rank them by effect label, and do not read any as a forecast for 14–25-year-olds.
+
+## The evidence by question
+
+- *Does training the adults around a young person to deliver or support the practice improve the young person's outcomes?* [Parent Implemented Intervention Improves Outcomes](../claims/parent-implemented-intervention-improves-outcomes.md) [+M]
+- *Should the adults be coached through rehearsal and feedback, or is information enough?* [Parent Coaching Outperforms Information Only](../claims/parent-coaching-outperforms-information-only.md) [+M]
 
 ## Further evidence, not yet read against this model
 

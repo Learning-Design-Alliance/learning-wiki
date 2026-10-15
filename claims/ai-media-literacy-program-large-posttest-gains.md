@@ -41,8 +41,9 @@ Between-group post-test comparison (Table 5) of the quasi-experimental pre-test�
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Civic Online Reasoning Instruction Improves Evaluation](civic-online-reasoning-instruction-improves-evaluation.md) — the general claim this finding bears on, with the studies behind it
 - [Control-group students receiving conventional instruction showed significant gains only in media reading and total literacy, not in media writing](control-group-gains-limited-reading-total.md) — related
 - [Within the experimental group, AI-supported instruction produced statistically significant pre-to-post gains on media reading, media writing, and total media literacy](experimental-group-within-group-gains-all-subscales.md) — related
 - [Structured AI-supported writing instruction produced a large posttest writing proficiency advantage over traditional instruction in Saudi EFL undergraduates](structured-ai-workflow-writing-gains-efl.md) — related

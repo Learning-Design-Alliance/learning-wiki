@@ -65,6 +65,6 @@ The synthesis reports that reframing failure as information about what students 
 - [Deep thinking and making connections help students build strong memories and learn more deeply](deep-thinking-connections-build-memories.md) — related
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related
 - [Human tutoring has a medium effect over no tutoring, and in one small study students learned as well when tutors only prompted them as when tutors also explained and gave feedback](tutoring-effectiveness-comes-from-scaffolding-and-feedback.md) — related
-- [Desirable Difficulties Enhance Learning](desirable-difficulties-enhance-learning.md) — related
+- [Retrieval practice and spaced retrieval improve achievement and retention by medium amounts, while interleaving helps category learning only for some materials and blocking beats it for words](desirable-difficulties-enhance-learning.md) — related
 - [Accumulated deliberate practice is associated with performance, explaining a domain-dependent share of its variance: about a quarter in games, 4% in education and under 1% in professions](deliberate-practice-improves-performance.md) — related
 - [Learning pitched at the edge of students' current abilities — the ZPD — is more effective than learning that is too easy or too frustrating](zpd-edge-learning-english-learners.md) — possibly the same claim (merge candidate)

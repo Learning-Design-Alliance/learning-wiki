@@ -1,0 +1,52 @@
+{
+  "principle": "principles/self-directed-learning",
+  "note": "Wave 10 (2026-10-15). One finding: what learners choose when strategy is left to them. The hub already carries a table from the retrieval-practice spec; the members below are added to it. Directions by an agent from the claims' titles and evidence entries.",
+  "findings": [
+    {
+      "hub": "learners-underuse-effective-learning-strategies",
+      "question": "When learners choose their own study strategies, do they choose the ones that work?",
+      "members": [
+        [
+          "learners-misjudge-effective-learning-strategies",
+          "+"
+        ],
+        [
+          "instructions-increase-self-testing-cumulative-learning",
+          "~"
+        ],
+        [
+          "instructions-promote-three-recall-criterion",
+          "~"
+        ],
+        [
+          "retrieval-instructions-improve-final-recall-exp1",
+          "~"
+        ],
+        [
+          "spontaneous-strategy-transfer-one-week-delay",
+          "~"
+        ],
+        [
+          "mixed-effects-across-experiments-criterion-failures",
+          "~"
+        ],
+        [
+          "students-report-classroom-retrieval-practice-helps-learning-and-reduces-exam-nervousness",
+          "~"
+        ],
+        [
+          "nmsa-survey-preference-practice-testing",
+          "~"
+        ],
+        [
+          "learners-misjudge-spacing-benefits",
+          "+"
+        ],
+        [
+          "underuse-stems-from-false-beliefs-and-counterintuition",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

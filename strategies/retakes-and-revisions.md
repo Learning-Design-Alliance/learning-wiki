@@ -12,14 +12,14 @@ generated:
 # Retakes And Revisions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 6 studies (4 quant-synthesis, 1 causal, 1 review), `q2`–`q4` · 3 of 6 report an effect size
+> **Evidence** · 2 claims (2 for) · 8 studies (5 quant-synthesis, 2 causal, 1 review), `q2`–`q4` · 4 of 8 report an effect size
 
 ## Description
 Retakes and revisions give learners a structured second attempt at demonstrating competence: after an assessment or submitted work, learners receive feedback, engage in targeted remediation, and then retake the assessment or revise the product. The revised result typically replaces the original grade (or the higher of the two), so the final score reflects eventual mastery rather than first-attempt performance.
 
 ## Design Implications
 
-Retakes and revisions operationalize [Assessment for Learning](../principles/assessment-for-learning.md): the assessment cycle produces information that drives further learning rather than terminating it [Formative assessment practices improve achievement.](../claims/assessment-for-learning-improves-achievement.md) [+S]. The strategy only works when the gap between attempts is filled with meaningful remediation — feedback alone, without a required corrective activity, produces little improvement. Because the retake itself is a second testing event, it also adds a [retrieval practice](../principles/active-learning.md) opportunity, which strengthens retention of the reassessed material [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+M] when attempts are spaced rather than immediate.
+Retakes and revisions operationalize [Assessment for Learning](../principles/assessment-for-learning.md): the assessment cycle produces information that drives further learning rather than terminating it [Formative assessment practices improve achievement.](../claims/assessment-for-learning-improves-achievement.md) [+S]. The strategy only works when the gap between attempts is filled with meaningful remediation — feedback alone, without a required corrective activity, produces little improvement. Because the retake itself is a second testing event, it also adds a [retrieval practice](../principles/active-learning.md) opportunity, which strengthens retention of the reassessed material [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+M] when attempts are spaced rather than immediate.
 
 ### Context
 #### Requirements
@@ -54,7 +54,7 @@ Retakes and revisions operationalize [Assessment for Learning](../principles/ass
 1. Administer the initial assessment or collect the draft under normal conditions.
 2. Return specific, criterion-referenced feedback identifying the gap between performance and the target ([Assessment](../elements/assessment.md)).
 3. Require a remediation activity — error analysis, targeted [Practice](../elements/practice.md), or re-study of [Procedural Information](../elements/procedural-information.md) — before a second attempt is granted.
-4. Schedule the retake or revision deadline with spacing from the first attempt to strengthen retention [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+M].
+4. Schedule the retake or revision deadline with spacing from the first attempt to strengthen retention [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+M].
 5. Replace or improve the original score per the published policy; cap attempts (typically two) to preserve first-attempt effort.
 
 ## Related Strategies

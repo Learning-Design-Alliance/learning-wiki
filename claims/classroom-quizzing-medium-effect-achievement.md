@@ -44,7 +44,7 @@ Meta-analysis of 222 independent classroom studies integrating 48,478 students' 
 ## Related Claims
 
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — the general claim this finding bears on, with the studies behind it
-- [Desirable Difficulties Enhance Learning](desirable-difficulties-enhance-learning.md) — possibly the same claim (merge candidate)
+- [Retrieval practice and spaced retrieval improve achievement and retention by medium amounts, while interleaving helps category learning only for some materials and blocking beats it for words](desirable-difficulties-enhance-learning.md) — possibly the same claim (merge candidate)
 - [Feedback Enhances Retrieval Practice](feedback-enhances-retrieval-practice.md) — related
 - [The classroom testing effect transfers to mismatched test formats, but consistent quiz–exam formats yield a significantly larger effect (g = 0.531 vs. g = 0.399).](format-consistency-moderates-classroom-testing-effect.md) — related
 - [Quizzing outperforms no/filler activity, fewer-question testing, restudying, and other elaborative strategies, with the advantage shrinking as the control condition's reexposure increases.](quizzing-beats-restudying-and-elaborative-controls.md) — related

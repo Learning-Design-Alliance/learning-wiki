@@ -12,14 +12,14 @@ generated:
 # Intensive Instruction/Active Engagement
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 12 studies (6 quant-synthesis, 3 causal, 2 review, 1 theoretical), `q2`–`q4` · 5 of 12 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (5 for) · 14 studies (7 quant-synthesis, 4 causal, 2 review, 1 theoretical), `q2`–`q4` · 6 of 14 report an effect size · 1 claim rests on one study
 
 ## Description
 Intensive instruction pairs substantial allocated learning time with a high rate of active learner responses — answering, generating, practicing, discussing — rather than listening or watching. The underlying claim is that learning is a function of both engaged time and the quality of engagement: students learn more when they apply focused, sustained effort to the content itself, in frequent sessions, with feedback [Active learning improves exam performance relative to lecture.](../claims/active-learning-improves-exam-performance.md) [+S].
 
 ## Design Implications
 
-Time on task only pays off when it is *active* and *focused*: passive seat time produces weak gains, while structured activities that require every learner to respond produce measurable improvements [Active learning improves exam performance relative to lecture.](../claims/active-learning-improves-exam-performance.md) [+S]. Intensive instruction therefore means designing for response rate — many short, effortful engagements distributed across sessions — rather than long blocks of exposure. Distributing those sessions over time further improves retention [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+Time on task only pays off when it is *active* and *focused*: passive seat time produces weak gains, while structured activities that require every learner to respond produce measurable improvements [Active learning improves exam performance relative to lecture.](../claims/active-learning-improves-exam-performance.md) [+S]. Intensive instruction therefore means designing for response rate — many short, effortful engagements distributed across sessions — rather than long blocks of exposure. Distributing those sessions over time further improves retention [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ### Context
 #### Requirements
@@ -40,12 +40,12 @@ Time on task only pays off when it is *active* and *focused*: passive seat time 
 - Intensity can be raised by shortening feedback loops rather than lengthening sessions
 
 ### Target Learners
-- Struggling learners and learners with disabilities, who benefit from high response rates, frequent feedback, and distributed practice [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Struggling learners and learners with disabilities, who benefit from high response rates, frequent feedback, and distributed practice [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 - Adult basic-skills learners, where limited instructional hours make engaged time the binding constraint
 - All learners in large enrollments, where active formats outperform lecture on exam performance [Active learning improves exam performance relative to lecture.](../claims/active-learning-improves-exam-performance.md) [+S]
 
 ### Target Learning Goals
-- Fluency building: automatizing skills through high-volume, distributed practice [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Fluency building: automatizing skills through high-volume, distributed practice [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 - Retention and application of core content [Active learning improves exam performance relative to lecture.](../claims/active-learning-improves-exam-performance.md) [+S]
 - Skill generalization through varied, repeated application tasks
 
@@ -55,7 +55,7 @@ Time on task only pays off when it is *active* and *focused*: passive seat time 
 3. Have learners [Act](../elements/act.md) on the content immediately — solve, write, say, or build — rather than only listening
 4. Circulate and [Coach](../elements/coaching.md), delivering immediate corrective feedback at the task and process level [Feedback is most effective at the task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]
 5. [Assess performance](../elements/assess-performance.md) frequently and redistribute time toward skills with low success rates
-6. Schedule repeated, spaced encounters with the same content across sessions [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+6. Schedule repeated, spaced encounters with the same content across sessions [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 
 ## Related Strategies
 - [Direct Instruction](../patterns/direct-instruction.md) — the scripted high-response-rate teaching model this strategy most often accompanies

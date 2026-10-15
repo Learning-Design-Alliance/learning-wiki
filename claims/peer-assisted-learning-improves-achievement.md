@@ -44,7 +44,7 @@ A meta-analytic review of group-comparison-design studies evaluating peer-assist
 
 **What the recorded evidence shows.** The meta-analysis recorded above, read as an abstract, reports positive effects on achievement and larger ones for younger, urban, low-income and minority students. Interventions with interdependent group rewards, self-referenced (ipsative) evaluation and more student autonomy showed larger effects. The abstract gives no pooled effect size.
 
-**How it relates to neighbouring claims.** Tutoring programmes in general are covered by [peer tutoring improves achievement](peer-tutoring-improves-achievement.md), the value of structure by [structured peer tutoring outperforms unstructured](structured-peer-tutoring-outperforms-unstructured.md), and gains for the tutor by [tutoring benefits tutors and tutees](tutoring-benefits-tutors-and-tutees.md).
+**How it relates to neighbouring claims.** Tutoring programmes in general are covered by [peer tutoring improves achievement](peer-tutoring-improves-achievement.md), the value of structure by [structured peer tutoring outperforms unstructured](structured-peer-tutoring-outperforms-unstructured.md), and gains for the tutor by [tutoring benefits tutors and tutees](peer-tutoring-improves-achievement.md).
 
 **Open questions.** Whether the effects hold beyond elementary grades, how durable they are, and how much depends on the reward and evaluation structure rather than on peer interaction itself.
 
@@ -71,7 +71,6 @@ Earlier Related Claims:
 
 - [Peer tutoring improves achievement.](peer-tutoring-improves-achievement.md) — tutoring programmes across ages and subjects
 - [Structured peer tutoring outperforms unstructured.](structured-peer-tutoring-outperforms-unstructured.md) — the role of structure, which the recorded moderators also point to
-- [Tutoring benefits tutors and tutees.](tutoring-benefits-tutors-and-tutees.md) — gains on both sides of the interaction
 - [Cooperative learning improves achievement.](cooperative-learning-improves-achievement.md) — interdependent group work, a close relative of PAL
 - [Learning By Teaching Improves Tutor Learning](learning-by-teaching-improves-tutor-learning.md) — related
 - [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](cooperative-learning-group-rewards-and-individual-accountability.md) — related

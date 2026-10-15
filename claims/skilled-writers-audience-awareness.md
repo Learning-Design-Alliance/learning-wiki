@@ -41,8 +41,9 @@ Interview analysis of the nine skilled EFL writers on audience awareness. Subjec
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Authentic Audiences Improve Student Work](authentic-audiences-improve-student-work.md) — the general claim this finding bears on, with the studies behind it
 - [Successful writing requires that the writer first become a sufficiently skillful reader to estimate the effect of the text on a prospective audience](skilled-reader-estimate-audience-effect.md) — a broader claim this one bears on
 - [Skilled EFL writers are aware that coherence and continuity are required elements of text and deliberately fulfill coherence requirements when composing and revising.](skilled-writers-coherence-continuity-awareness.md) — related
 - [Skilled EFL writers are aware of their own writing strengths and weaknesses and exploit strengths while compensating for weaknesses such as limited vocabulary.](skilled-writers-self-awareness-strength-weakness.md) — related

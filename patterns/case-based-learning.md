@@ -79,6 +79,11 @@ Ask for four facts when the brief omits them: **is the domain well structured or
 | Learners lack the concept the cases presuppose | Teach the concept or give a worked example before the cases, then compare | untested proposal; no claim here tests case-based learning by prior knowledge |
 | Many learners discuss one case in a large group | Add an individual comparison task on a changed case before the group discussion ends | untested proposal |
 
+## The evidence by question
+
+- *Does comparing analogous cases improve transfer more than studying cases one at a time?* [Analogical Reasoning Improves Transfer](../claims/analogical-reasoning-improves-transfer.md) [+M]
+- *Does teaching through realistic cases, by itself, raise learning?* [Case-based learning improves exam performance](../claims/case-based-learning-improves-exam-performance.md) [~M]
+
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-02 (maintainer's decision): claims this page cited before the 2026-10-02 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
 Claims this page cited before it was rewritten as a conditional model. Both claims it cited before the 2026-10-02 rewrite are now read in the model above, so none remains here.

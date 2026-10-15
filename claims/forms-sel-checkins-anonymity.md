@@ -60,8 +60,9 @@ Interview evidence from a third-grade teacher who used a Form asking students to
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) — a broader claim this one bears on
 - [SEL programs improve social emotional skills](sel-programs-improve-social-emotional-skills.md) — a broader claim this one bears on
 - [The change in tools caused the most disruption in e-teachers' activity system, replacing body language and visual cues with text and voice mediation](tool-change-most-disruption-online-teaching.md) — related

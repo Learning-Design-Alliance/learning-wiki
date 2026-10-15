@@ -45,6 +45,8 @@ Quasi-experimental pre-post study of 21 Thai business undergraduates who played 
 The design is a single group of 21 students tested before and after, with no comparison group, so the gain (d = 1.80, computed on pre- and post-test scores) cannot be separated from test practice, ordinary course learning or other exposure over the four weeks; a pre–post d is also not comparable with a between-group effect size.
 
 ## Related Claims
+
+- [Gamification has small positive effects on cognitive, motivational and behavioral learning outcomes](gamification-has-small-positive-effects-on-learning-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Vocabulary performance shifted from B1–B2 CEFR levels at pre-test to B2–C1 at post-test after four weeks of Mangomon play](cefr-band-shift-business-vocabulary-mangomon.md) — related
 - [IMI motivation ratings after four weeks of Mangomon play were moderate (all sub-scale means below 4.00), highest for effort/importance and lowest for perceived choice](moderate-motivation-imi-mangomon.md) — related
 - [Interest/enjoyment and perceived choice were the weakest motivation dimensions, suggesting Mangomon's RPG mechanics did not yet fully serve learner autonomy](rpg-mechanics-not-yet-serve-autonomy.md) — related

@@ -39,11 +39,12 @@ The WWC's review of supplemental findings reports that the strongest study's pos
 
 ## Discussion
 
-
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Teaching students in a language they understand benefits both language learning and broader learning](cl-teaching-in-language-students-understand-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Dual language programs improved English literacy achievement, with a potentially positive effects rating based on one study](dual-language-programs-improve-literacy-achievement.md) — related
 - [Dual language programs showed uncertain effects on science achievement](dual-language-programs-uncertain-science-effects.md) — related
 - [Dual language programs showed uncertain effects on mathematics achievement across two studies](dual-language-programs-uncertain-math-effects.md) — related

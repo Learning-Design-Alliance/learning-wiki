@@ -12,21 +12,21 @@ generated:
 # Individual Deliberate Practice
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 6 studies (2 causal, 2 quant-synthesis, 2 review), `q2`–`q4` · 1 of 6 report an effect size
+> **Evidence** · 2 claims (2 for) · 8 studies (3 causal, 3 quant-synthesis, 2 review), `q2`–`q4` · 2 of 8 report an effect size
 
 ## Description
 Deliberate practice is a structured approach to skill development that focuses on intentional, effortful, and consistent work at the edge of current ability. It involves breaking skills into manageable sub-skills, setting specific improvement goals, practicing with full concentration, and receiving timely, descriptive feedback. Sustained repetition builds automaticity, which reduces mental load and frees cognitive resources for more complex tasks [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
 
 ## Design Implications
 
-Deliberate practice differs from mere repetition: it targets identified weaknesses, operates just beyond the learner's comfort zone, and depends on immediate informational feedback [Practice alone does not produce expertise without goal-directed, feedback-rich effort.](../claims/spaced-repetition-improves-retention.md) [+M]. Effective design therefore centers on diagnosis (what specifically needs work), focused rehearsal of that component, and rapid feedback loops.
+Deliberate practice differs from mere repetition: it targets identified weaknesses, operates just beyond the learner's comfort zone, and depends on immediate informational feedback [Practice alone does not produce expertise without goal-directed, feedback-rich effort.](../claims/spaced-practice-improves-retention.md) [+M]. Effective design therefore centers on diagnosis (what specifically needs work), focused rehearsal of that component, and rapid feedback loops.
 
 ### Context
 #### Requirements
 - A well-defined target skill that can be decomposed into sub-skills ([Part-Task Practice](../elements/part-task-practice.md))
 - Specific, measurable goals for each practice session
 - Timely, descriptive feedback ([Provide Feedback](../elements/provide-feedback.md)), ideally from an expert or informed system ([Coaching](../elements/coaching.md))
-- Short, high-intensity practice bouts at regular intervals rather than marathon sessions [Spaced practice improves long-term retention relative to massed practice.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Short, high-intensity practice bouts at regular intervals rather than marathon sessions [Spaced practice improves long-term retention relative to massed practice.](../claims/spaced-practice-improves-retention.md) [+S]
 - Opportunities for full-skill integration once components are automatized ([Practice](../elements/practice.md))
 
 #### Constraints
@@ -50,7 +50,7 @@ Deliberate practice differs from mere repetition: it targets identified weakness
 ### Target Learning Goals
 - Procedural fluency and automaticity, freeing working memory for higher-order demands [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]
 - Refinement of specific performance weaknesses toward expert standards
-- Long-term retention of skills through distributed, repeated retrieval [Spaced practice improves long-term retention relative to massed practice.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Long-term retention of skills through distributed, repeated retrieval [Spaced practice improves long-term retention relative to massed practice.](../claims/spaced-practice-improves-retention.md) [+S]
 
 ### Instructions
 1. Diagnose the learner's current performance against an expert standard and identify the weakest sub-skill ([Assessment](../elements/assessment.md))

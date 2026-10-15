@@ -47,4 +47,4 @@ Narrative review synthesis. The review discusses "key research findings on two s
 - [Spacing enhances learning across various domains and across the lifespan, with emphasis on applied educational settings](spacing-enhances-learning-across-domains-lifespan.md) — related
 - [Retrieval practice strengthens memory and produces stronger, more enduring learning](retrieval-practice-strengthens-memory.md) — related
 - [Spaced retrieval practice produces better final retention than massed retrieval even though spacing lowers initial retrieval success, and more absolute spacing enhances long-term retention](spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall.md) — a narrower finding that bears on this claim
-- [Desirable Difficulties Enhance Learning](desirable-difficulties-enhance-learning.md) — a narrower finding that bears on this claim
+- [Retrieval practice and spaced retrieval improve achievement and retention by medium amounts, while interleaving helps category learning only for some materials and blocking beats it for words](desirable-difficulties-enhance-learning.md) — a narrower finding that bears on this claim

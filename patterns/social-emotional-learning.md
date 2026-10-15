@@ -15,7 +15,7 @@ grain_size: program, course, unit
 # Social Emotional Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 25 claims (16 for, 9 mixed) · 37 studies (12 causal, 11 quant-synthesis, 10 review, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 13 of 37 report an effect size · 15 claims rest on one study
+> **Evidence** · 24 claims (15 for, 9 mixed) · 37 studies (12 causal, 11 quant-synthesis, 10 review, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 13 of 37 report an effect size · 13 claims rest on one study
 
 ## Description and scope
 
@@ -99,6 +99,11 @@ Eleven of the fifteen rows rest on a claim, each carried beyond the population o
 
 Do not rank SEL against academic instruction from these claims: none compares the two for time spent, and the achievement effects are small and contested. Do not read rising self-report, or a calm SEL lesson, as the skill attained. A precise abstention names the missing comparison (this sequence, or one step of it, against the same programme without it, on an observed skill measure a term later) and the local observation that would stand in for it.
 
+## The evidence by question
+
+- *Do sustained, structured programmes produce social-emotional gains, and do they last?* [SEL programs improve social emotional skills](../claims/sel-programs-improve-social-emotional-skills.md) [+S]
+- *Do SEL programmes also improve conduct, distress and academic achievement, and by how much?* [Universal school-based SEL programs improve students' behaviour, with a small and, in recent randomised trials, negligible effect on academic achievement](../claims/sel-programs-improve-behavior-and-achievement.md) [~S]
+
 ## Further evidence, not yet read against this model
 
 Claims this page cited before the 2026-10-05 rewrite, or that bear on it, which are not core evidence above. Each marker is capped by the claim's recorded evidence.
@@ -133,9 +138,8 @@ This pattern is scoped to sustained, explicit teaching and reinforcement of name
 - [Schoolwide SEL programs are associated with long-term achievement gains, with multiple meta-analyses estimating an 11-percentile-point gain on average for participating students](../claims/schoolwide-sel-meta-analytic-11-percentile-achievement-gain.md) [+W]
 - [Students who learned mindfulness-based conflict resolution strategies used them outside school with siblings and friends](../claims/mindfulness-conflict-resolution-transfer-out-of-school.md) [+W]
 - [SEL programs reduce disruptive behavior problems and emotional distress and foster prosocial behavior](../claims/sel-programs-reduce-behavior-problems-distress.md) [+W]
-- [SEL programs are associated with an 11 percentile-point improvement in academic performance](../claims/sel-programs-11-percentile-academic-gain.md) [+W]
+- [SEL programs are associated with an 11 percentile-point improvement in academic performance](../claims/sel-programs-improve-academic-performance.md) [+W]
 - [SEL programs cannot produce meaningful long-term growth in authoritarian, punitive, or exclusionary environments; restorative practices are needed](../claims/sel-requires-educative-inclusive-environments.md) [~W]
-- [SEL programs improve students' engagement and academic performance, with an 11-percentage-point achievement gain in the Durlak meta-analysis](../claims/sel-programs-improve-academic-performance.md) [+W]
 
 ## Related Patterns
 - [Cooperative Learning](cooperative-learning.md) — depends on the relationship skills SEL develops; the two patterns are mutually reinforcing when group work carries individual accountability

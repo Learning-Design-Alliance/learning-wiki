@@ -47,5 +47,5 @@ Preregistered subcomponent analysis in the randomized experiment's results secti
 - [AI assistance closes about three-quarters of the baseline education-based task-performance gap, though a 0.139 SD gap remains among treated participants](ai-closes-three-quarters-of-education-task-gap.md) — related
 - [AI assistance reduces task completion time in both education groups, the only outcome without an equalizing pattern](ai-reduces-completion-time-no-equalizing-pattern.md) — related
 - [AI assistance raises the probability of correctly identifying the task's root cause for both education groups, with near-equalization among treated participants](ai-raises-root-cause-detection-near-equalization.md) — related
-- [How genAI is used, not who uses it, predicts whether independent performance declines or improves](genai-usage-mode-predicts-independent-performance.md) — related
+- [How genAI is used, not who uses it, predicts whether independent performance declines or improves](persistence-costs-concentrated-among-direct-solution-users.md) — related
 - [The bespoke GenAI workflow operated as a modest equalising mechanism, with students reporting inclusive participation regardless of prior AI or drawing experience](gen-aitecture-modest-equalising-mechanism.md) — related

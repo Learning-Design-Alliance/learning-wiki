@@ -46,4 +46,4 @@ Theoretical argument in the paper's introduction, paraphrasing Siegel: the dispo
 - [Prospective teachers' critical thinking dispositions are positively and moderately correlated with their preference for contemporary educational philosophy](critical-thinking-dispositions-correlate-contemporary-educational-philosophy.md) — related
 - [Prospective teachers' critical thinking dispositions show no significant relationship with traditional educational philosophy preference](critical-thinking-dispositions-not-related-traditional-philosophy.md) — related
 - [Critical thinking disposition subscales jointly explain about 14% of contemporary educational philosophy preference, with innovation the only significant predictor](ctds-subscales-predict-contemporary-philosophy-innovation.md) — related
-- [Considering The Opposite Reduces Bias](considering-the-opposite-reduces-bias.md) — related
+- [A systematic review of bias-mitigation training names considering the opposite as a previously validated way to reduce judgment biases, without testing it itself](considering-the-opposite-reduces-bias.md) — related

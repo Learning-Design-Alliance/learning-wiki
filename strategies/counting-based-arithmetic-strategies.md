@@ -12,7 +12,7 @@ generated:
 # Counting Based Arithmetic Strategies
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 10 studies (4 quant-synthesis, 3 causal, 2 review, 1 associational), `q2`–`q4` · 2 of 10 report an effect size
+> **Evidence** · 3 claims (3 for) · 12 studies (5 quant-synthesis, 4 causal, 2 review, 1 associational), `q2`–`q4` · 3 of 12 report an effect size
 
 ## Description
 Counting based strategies are procedural methods for solving arithmetic problems by constructing quantities through counting rather than retrieving memorized facts. The developmental sequence runs from *counting all* (enumerating both addends, e.g., 3 + 5 → "1, 2, 3… 4, 5, 6, 7, 8"), to *counting on* (starting from the larger addend and counting the other: "8… 9, 10, 11, 12, 13"), to *counting up/down* for subtraction and flexible decomposition. These strategies are the dominant solution methods in early elementary arithmetic and are studied extensively through strategy-choice models such as Siegler's overlapping-waves theory [Siegler, R. S. (1987). The perils of averaging data over strategies. *Journal of Experimental Psychology: General, 116*(3), 250–264](https://doi.org/10.1037/0096-3445.116.3.250) [+S].
@@ -56,7 +56,7 @@ Counting strategies are developmentally valuable but computationally expensive: 
 3. Pose problems with large second addends so counting all is visibly slow; prompt learners to find a faster way ([Practice](../elements/practice.md)).
 4. Model and have learners rehearse counting on from the larger addend, using a number line to mark the start point.
 5. Ask learners to compare strategies aloud and justify which is faster and why ([Self-Explanation](../elements/self-explanation.md)).
-6. Introduce decomposition (make-a-ten) as problems exceed counting range, and build retrieval through spaced practice [spaced-repetition-improves-retention](../claims/spaced-repetition-improves-retention.md) [+S].
+6. Introduce decomposition (make-a-ten) as problems exceed counting range, and build retrieval through spaced practice [spaced-repetition-improves-retention](../claims/spaced-practice-improves-retention.md) [+S].
 
 ## Related Strategies
 

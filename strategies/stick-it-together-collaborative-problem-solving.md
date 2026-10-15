@@ -12,7 +12,7 @@ generated:
 # Stick-It Together (Collaborative Problem-Solving)
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 14 studies (6 quant-synthesis, 4 causal, 1 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 4 of 14 report an effect size
+> **Evidence** · 4 claims (3 for, 1 mixed) · 16 studies (6 quant-synthesis, 4 causal, 3 theoretical, 1 review, 1 associational, 1 qualitative), `q2`–`q4` · 5 of 16 report an effect size
 
 ## Description
 Stick-It Together is a cooperative problem-solving routine in which each student first works a problem individually on a sticky note, then the small group combines their ideas onto one shared page to produce the best possible collective answer. Students must defend their own reasoning, evaluate peers' approaches, and negotiate a single response, making individual thinking visible before and during collaboration. Group solutions are then shared publicly, with the teacher facilitating comparison of strategies across groups.

@@ -89,6 +89,10 @@ Ask for three facts when the brief omits them: **what the learners can do on the
 | The target is a complex skill with a transfer goal | Replace a single linear pass through the events with whole tasks of increasing complexity (see 4C/ID) | [Whole-task practice improves transfer (design argument)](../claims/whole-task-performance-improves-transfer.md) [~W] |
 | `online-self-paced`, with learners directing their own work | State the objective briefly in performance terms and let learners check their own attempt against it | untested proposal |
 
+## The evidence by question
+
+- *How long should full explanation and guidance continue as learners gain expertise?* [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](../claims/expertise-reversal-effect.md) [~S]
+
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-02 (maintainer's decision): claims this page cited before the 2026-10-02 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
 Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.

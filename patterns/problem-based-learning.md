@@ -25,7 +25,7 @@ grain_size: unit
 # Problem-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 23 claims (5 for, 16 mixed, 2 against) · 22 studies (8 causal, 4 quant-synthesis, 4 review, 4 theoretical, 2 qualitative), `q1`–`q4` · 3 of 22 report an effect size · 18 claims rest on one study
+> **Evidence** · 22 claims (4 for, 16 mixed, 2 against) · 23 studies (8 causal, 5 theoretical, 4 quant-synthesis, 4 review, 2 qualitative), `q1`–`q4` · 4 of 23 report an effect size · 17 claims rest on one study
 
 ## Description and scope
 
@@ -91,6 +91,12 @@ Ask for four facts when the brief omits them: **can learners generate partial so
 | Group products will be the main evidence of learning | Add the individual reobservation at step 5 and record who contributed what; a group product does not show what each member can do | untested proposal |
 | The brief adds AI tools to the problem phase and expects higher scores | Treat the AI support as part of the configuration to be evaluated; the one comparison recorded set AI-supported PBL against lecture, so it cannot separate the AI from the PBL | [AI-supported PBL scored higher than lecture in robotics programming](../claims/ai-pbl-higher-posttest-academic-achievement.md) [~W] |
 
+## The evidence by question
+
+- *Does PBL as a curriculum format raise achievement over conventional instruction, and how reliably?* [The overall effect of PBL in the tutor-background meta-analysis is modest (g = 0.27) with large, statistically significant heterogeneity](../claims/pbl-overall-effect-modest-large-heterogeneity.md) [~M]
+- *Should learners attempt a problem before the idea is taught, and what must the teaching afterwards do?* [Productive Failure Improves Conceptual Learning](../claims/productive-failure-improves-conceptual-learning.md) [~S]
+- *For which outcomes: basic knowledge, application and transfer, or professional skills?* [Problem-based learning shows null or negative effects on basic knowledge acquisition but positive effects on conceptual understanding and transfer relative to direct instruction](../claims/pbl-null-basic-knowledge-positive-transfer.md) [~M]
+
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-10-01 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
 Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.
@@ -99,7 +105,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — not settled: the text available could not confirm the entries (abstract)
 - [Spontaneous responsiveness to real-world events in PBL can deepen student-directed inquiry beyond what designed curriculum achieves](../claims/spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry.md) [+W] — a single case study found that a teacher's in-the-moment departure from the written PBL sequence, to respond to an unplanned real-world event tied to the driving question, produced deeper student-initiated inquiry than the pre-designed ("contrived") authentic scenario; not yet checked against its sources
 - [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [~M] — not yet checked against its sources
-- [Solving novel problems before instruction improves conceptual understanding and transfer but not procedural knowledge](../claims/problem-solving-before-instruction-boosts-conceptual-transfer.md) [+W] — attached 2026-10-13 from Manu Kapur (2016), which proposed "Four design features for realizing the benefits of productive failure"; tests this page's relationship.
+- [Solving novel problems before instruction improves conceptual understanding and transfer but not procedural knowledge](../claims/productive-failure-improves-conceptual-learning.md) [+W] — attached 2026-10-13 from Manu Kapur (2016), which proposed "Four design features for realizing the benefits of productive failure"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

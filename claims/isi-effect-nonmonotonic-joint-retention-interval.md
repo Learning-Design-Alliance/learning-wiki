@@ -45,6 +45,6 @@ Accuracy difference lag analysis (Table 3): at 1-day retention interval, longer 
 ## Related Claims
 - [Expanding interstudy intervals led to better recall than fixed intervals, but conclusions are tentative](expanding-isis-better-than-fixed-tentative.md) — related
 - [The optimal interstudy interval increases as the retention interval increases](optimal-isi-increases-with-retention-interval.md) — possibly the same claim (merge candidate)
-- [Spaced presentations produce markedly better final recall than massed presentations across retention intervals](spaced-repetition-improves-retention.md) — related
+- [Spaced presentations produce markedly better final recall than massed presentations across retention intervals](spaced-practice-improves-retention.md) — related
 - [Relearning-to-criterion designs confound distribution of practice with amount of second-session practice](relearning-confound-distributed-practice-designs.md) — related
 - [The testing effect is largest at a retention interval of 1–6 days (g = 0.82) and robust across all intervals](retention-interval-one-to-six-days-largest.md) — related

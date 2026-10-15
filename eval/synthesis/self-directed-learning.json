@@ -1,0 +1,122 @@
+{
+  "principle": "patterns/self-directed-learning",
+  "note": "Wave 10 (2026-10-15): groupings by the converting agent, rebuilt from its report after a file-name collision.",
+  "findings": [
+    {
+      "hub": "learner-paced-beats-system-paced-complex-material",
+      "question": "Does handing learners control over pace, path or tasks improve learning, and when?",
+      "members": [
+        [
+          "segmenting-effects-confirmed-system-paced",
+          "~"
+        ],
+        [
+          "design-principle-effects-moderated-by-pacing-and-complexity",
+          "~"
+        ],
+        [
+          "flow-control-unused-no-learning-correlation",
+          "~"
+        ],
+        [
+          "animations-pacify-learners-navigation-imbalance",
+          "~"
+        ],
+        [
+          "students-pause-video-to-view-segment-menu",
+          "~"
+        ],
+        [
+          "forced-pacing-eliminates-aiding-transfer",
+          "~"
+        ],
+        [
+          "self-controlled-kr-decided-after-trial-improves-motor-retention",
+          "~"
+        ],
+        [
+          "self-controlled-kr-decided-after-trial-improves-motor-transfer",
+          "~"
+        ],
+        [
+          "self-controlled-kr-decided-before-trial-shows-no-benefit-over-yoked",
+          "~"
+        ],
+        [
+          "self-controlled-kr-decided-after-trial-improves-error-estimation-accuracy",
+          "~"
+        ],
+        [
+          "self-paced-mastery-programs-reduce-college-course-completion",
+          "-"
+        ],
+        [
+          "learner-characteristics-moderate-hypermedia-effectiveness",
+          "~"
+        ],
+        [
+          "hint-budget-mismanaged-two-patterns",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "self-regulated-learning-improves-achievement",
+      "question": "Can the skills of directing one's own learning (goals, plans, monitoring, self-evaluation) be taught, and does teaching them raise outcomes?",
+      "members": [
+        [
+          "metacognitive-strategies-improve-learning",
+          "+"
+        ],
+        [
+          "srl-strategies-large-effect-academic-achievement",
+          "+"
+        ],
+        [
+          "srl-interventions-moderate-effect-online-blended",
+          "+"
+        ],
+        [
+          "self-monitoring-comprehension-improves-learning",
+          "+"
+        ],
+        [
+          "self-monitoring-improves-self-regulation",
+          "+"
+        ],
+        [
+          "short-srl-strategy-training-enhances-math-performance",
+          "+"
+        ],
+        [
+          "srsd-potentially-positive-writing-achievement-sld",
+          "+"
+        ],
+        [
+          "srsd-evidence-base-group-design-null",
+          "~"
+        ],
+        [
+          "srl-effect-sizes-heterogeneous-random-effects",
+          "~"
+        ],
+        [
+          "srl-meta-analysis-publication-bias-absent",
+          "+"
+        ],
+        [
+          "srl-meta-analysis-no-publication-bias",
+          "+"
+        ],
+        [
+          "implementation-intentions-improve-goal-attainment",
+          "+"
+        ],
+        [
+          "self-determination-instruction-improves-outcomes",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

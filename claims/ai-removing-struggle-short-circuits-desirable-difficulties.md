@@ -43,7 +43,7 @@ Theoretical argument in a comment article, citing research on desirable difficul
 
 
 ## Related Claims
-- [Desirable Difficulties Enhance Learning](desirable-difficulties-enhance-learning.md) — a broader claim this one bears on
+- [Retrieval practice and spaced retrieval improve achievement and retention by medium amounts, while interleaving helps category learning only for some materials and blocking beats it for words](desirable-difficulties-enhance-learning.md) — a broader claim this one bears on
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — a broader claim this one bears on
 - [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — a broader claim this one bears on
 - [Desirable difficulty: harder-to-learn conditions yield enhanced long-term retention](desirable-difficulty-enhances-long-term-retention.md) — a broader claim this one bears on

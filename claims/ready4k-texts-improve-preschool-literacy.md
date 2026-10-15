@@ -49,5 +49,5 @@ Randomized controlled trial with the San Francisco Unified School District durin
 - [Parent Involvement Improves Early Reading](parent-involvement-improves-early-reading.md) — a broader claim this one bears on
 - [Joint Book Reading Predicts Literacy Success](joint-book-reading-predicts-literacy-success.md) — related
 - [Parent Coaching Outperforms Information Only](parent-coaching-outperforms-information-only.md) — related
-- [Parent Involvement Improves Achievement](parent-involvement-improves-achievement.md) — related
+- [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](parent-involvement-improves-achievement.md) — related
 - [An online individualized instruction program was highly effective in improving literacy skills in preschool through third grade](individualized-instruction-reading-effective-p3.md) — related

@@ -46,14 +46,20 @@ This meta-analysis synthesized 24 quantitative studies of higher-education stude
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does a responding audience of peers improve later drafts?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **4 distinct studies** (3 quant-synthesis, 1 causal), `q3`–`q4`, 3 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does a responding audience of peers improve later drafts?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **10 distinct studies** (4 quant-synthesis, 3 associational, 3 causal), `q2`–`q4`, 4 of 10 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Huisman et al. 2019](https://doi.org/10.1080/02602938.2018.1545896) | q4 · quant-synthesis · r? | i3 · large effect vs. no-feedback control, g=0.91 | this claim |
+| [Li et al. 2020](https://doi.org/10.1080/02602938.2019.1620679) | q4 · quant-synthesis · r? | i1 · small effect, d=0.291 | [The quality of feedback students give peers predicts gains in their own work, but no recor](peer-assessment-benefits-assessor.md) (qualifies) |
+| [Li et al. 2010](https://doi.org/10.1111/j.1467-8535.2009.00968.x) | q2 · associational · r2 | i? | [The quality of feedback students give peers predicts gains in their own work, but no recor](peer-assessment-benefits-assessor.md) (qualifies) |
 | What Works Clearinghouse 2007 | q3 · quant-synthesis · r1 | i2; i? | [Peer response groups increase the number of idea units in English learners' writing but sh](peer-response-groups-writing-idea-units.md) (qualifies) |
 | [Graham and Perin 2007](https://doi.org/10.1037/0022-0663.99.3.445) | q3 · quant-synthesis · r? | i2 · medium effect, weighted mean ES = 0.75 (95% CI 0.54–0.97) | [Collaborative Writing Improves Text Quality](collaborative-writing-improves-text-quality.md) (supports) |
 | [Yarrow and Topping 2001](https://doi.org/10.1348/000709901158514) | q3 · causal · r2 | i? | [Collaborative Writing Improves Text Quality](collaborative-writing-improves-text-quality.md) (supports) |
+| [Wu & Schunn 2023](https://doi.org/10.1037/edu0000768) | q2 · associational · r? | i? | [In two secondary-school writing studies, peer reviewers' own performance predicted how hel](peer-feedback-accuracy-depends-on-expertise.md) (qualifies) |
+| [Schunn et al. 2016](https://doi.org/10.1002/jaal.525) | q2 · associational · r2 | i? | [In two secondary-school writing studies, peer reviewers' own performance predicted how hel](peer-feedback-accuracy-depends-on-expertise.md) (qualifies) |
+| [Li et al. 2022](https://doi.org/10.1145/3543321.3543344) | q2 · causal · r1 | i? | [Rubrics changed what online peer reviewers commented on and improved their rating of compl](rubrics-improve-peer-feedback-quality.md) (qualifies) |
+| [Ashton And Davies 2015](https://doi.org/10.1080/01587919.2015.1081733) | q2 · causal · r? | i? | [Rubrics changed what online peer reviewers commented on and improved their rating of compl](rubrics-improve-peer-feedback-quality.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -77,6 +83,8 @@ This meta-analysis synthesized 24 quantitative studies of higher-education stude
 **Open questions.** Most studies measure immediate revision quality rather than long-term writing development, and the relative contribution of giving versus receiving feedback remains under-quantified. The page now records one meta-analysis of structured peer feedback in higher education (Huisman et al. 2019), which supports the claim for writing quality but does not separate giving from receiving feedback. <!-- deprecated 2026-10-05 (stale): Evidence entries for this claim still need to be added; until then, treat the claim as provisionally supported by the formative-assessment literature rather than by a specific peer-feedback trial. -->
 
 ## Related Claims
+
+- [Process Writing Improves Writing Quality](process-writing-improves-writing-quality.md) — the general claim this finding bears on, with the studies behind it
 
 - [Assessment for Learning improves achievement](assessment-for-learning-improves-achievement.md) — peer feedback is a core formative-assessment practice
 - [Collaborative learning improves outcomes](collaborative-learning-improves-outcomes.md) — peer review is a structured form of peer collaboration

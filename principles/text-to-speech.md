@@ -30,7 +30,7 @@ sources:
 # Text-to-Speech
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 12 claims (2 for, 10 mixed) · 20 studies (8 review, 5 quant-synthesis, 4 causal, 3 theoretical), `q1`–`q4` · 6 of 20 report an effect size · 6 claims rest on one study
+> **Evidence** · 13 claims (2 for, 11 mixed) · 22 studies (8 review, 6 quant-synthesis, 5 causal, 3 theoretical), `q1`–`q4` · 6 of 22 report an effect size · 6 claims rest on one study
 
 ## Conditional relationship
 
@@ -124,6 +124,11 @@ No claim in the wiki compares text-to-speech with print alone, varies the voice 
 - [Sticht's Law holds that reading skill cannot exceed listening skill](../claims/sticht-law-reading-cannot-exceed-listening.md) [~W]: an argument reported second-hand in a conference paper, coded `q1`. It is the basis for checking listening comprehension before relying on speech (step 2), and nothing stronger.
 
 Learners, materials and outcomes differ across these claims (college students with animations, second-language learners' vocabulary, second graders' fluency, preschoolers' eye movements), so do not rank them by effect label. None used a text-to-speech tool on an assigned reading, and none measured delayed retention or use outside the session.
+
+## The evidence by question
+
+- *Without a competing picture, do the same words spoken and written help or hurt, and for whom?* [On-screen text that duplicates the narration of a diagram can hurt learning, but spoken–written redundancy is not harmful on average and helps over spoken-only presentation in some conditions](../claims/redundancy-hurts-learning.md) [~S]
+- *Does a learner who listens to a text, or reads while listening, lose anything against reading it?* [Reading and listening yield similar proportions of incidental vocabulary learning, with reading ahead only on some immediate posttests](../claims/reading-versus-listening-incidental-vocabulary-gains.md) [~S]
 
 ## Further evidence, not yet read against this model
 

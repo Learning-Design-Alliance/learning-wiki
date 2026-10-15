@@ -78,13 +78,15 @@ The evidence recorded above comes from single-case designs with students with or
 
 ## Related Claims
 
+- [Metacognitive strategy instruction, which includes comprehension monitoring, improves academic performance by a medium amount, and in one non-randomised study comprehension-monitoring training raised low achievers' reading scores](self-monitoring-comprehension-improves-learning.md) — the general claim this finding bears on, with the studies behind it
+
 - [Self-regulated learning](../theories/self-regulated-learning.md) — self-monitoring is one component of the broader self-regulation cycle of planning, monitoring, and evaluating.
 - [Check-ins](../elements/check-in.md) — structured check-ins externalize the monitoring step that self-monitoring trains learners to perform internally.
 - [Behaviorism](../theories/behaviorism.md) — self-monitoring interventions derive from behavioral self-control techniques in which recording and feedback function as contingent consequences.
 - [Achievable micro-goals](../strategies/achievable_micro-goals.md) — monitoring on-task behavior pairs naturally with setting short, concrete work goals.
 - [Disruptive student behavior is associated with less academic engaged time and lower achievement](disruptive-behavior-lowers-engagement-and-achievement.md) — related
 - [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](classroom-physical-activity-improves-attention.md) — related
-- [Self-determination instruction improves outcomes](self-determination-instruction-improves-outcomes.md) — related
+- [Self-determination skills instruction for students with disabilities increases self-determination on some measures but not others](self-determination-instruction-improves-outcomes.md) — related
 - [Student self-graphing of CBM scores is reported as motivating during secondary prevention](self-graphing-cbm-progress-motivating.md) — related
 - [Single-case effects of self-management interventions are moderated by student race and special education status, with more pronounced effects for African American students and students receiving special education services](sm-effects-moderated-race-special-education.md) — related
 - [School-based self-management interventions significantly and positively impact classroom behaviors of school-age students with challenging behaviors (single-case design synthesis)](sm-interventions-improve-classroom-behaviors-scd-meta.md) — a broader claim this one bears on

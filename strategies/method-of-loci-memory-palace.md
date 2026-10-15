@@ -12,7 +12,7 @@ generated:
 # Method of Loci (Memory Palace)
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 6 studies (2 causal, 2 quant-synthesis, 2 review), `q2`–`q4` · 1 of 6 report an effect size
+> **Evidence** · 2 claims (2 for) · 8 studies (3 causal, 3 quant-synthesis, 2 review), `q2`–`q4` · 2 of 8 report an effect size
 
 ## Description
 The method of loci is a mnemonic strategy in which learners mentally place vivid images of to-be-remembered items at sequential locations along a familiar route or within a familiar building. Recall proceeds by mentally "walking" the route and retrieving the items from their locations. The technique exploits the fact that human spatial memory is exceptionally durable, and that vivid, unusual, interactive imagery strengthens the binding between cue and content.
@@ -25,7 +25,7 @@ The method of loci converts an unordered list into a spatially organized, retrie
 #### Requirements
 - A highly familiar location set (home, campus route) that can be traversed in a fixed order
 - Explicit training in forming vivid, interactive, exaggerated images — not just "thinking about" items at locations
-- Practice retrieving by mental walking, ideally distributed over time [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Practice retrieving by mental walking, ideally distributed over time [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 
 #### Constraints
 - High setup cost: building a palace and encoding associations takes time that is only repaid when the material must be retained verbatim and in order [-M]

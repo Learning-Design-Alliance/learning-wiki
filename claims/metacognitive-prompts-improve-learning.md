@@ -100,7 +100,7 @@ A systematic review of 35 studies of approaches to support self-regulated learni
 - [Self-regulated learning](../theories/self-regulated-learning.md) — the theoretical framework in which metacognitive prompting sits
 - [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — related
 - [Scaffolding improves learning](scaffolding-improves-learning.md) — related
-- [Self Monitoring Comprehension Improves Learning](self-monitoring-comprehension-improves-learning.md) — related
+- [Metacognitive strategy instruction, which includes comprehension monitoring, improves academic performance by a medium amount, and in one non-randomised study comprehension-monitoring training raised low achievers' reading scores](self-monitoring-comprehension-improves-learning.md) — related
 - [Students showed deficiencies in maintaining and monitoring their reading plan within the three-element view of metacognition](students-deficient-monitoring-maintaining-plan.md) — related
 - [Metacognitive activity alone does not equate to effective regulation; unaccompanied metacognitive processes may be counterproductive](metacognitive-alone-not-effective-regulation.md) — related
 - [The paper reports that metacognition—students thinking about how they understand their own learning—supports more efficient and effective learning and improved outcomes](metacognition-efficiency-effectiveness-outcomes-claim.md) — a broader claim this one bears on

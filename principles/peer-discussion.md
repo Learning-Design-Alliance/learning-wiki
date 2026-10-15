@@ -22,7 +22,7 @@ sources:
 # Peer Discussion
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 18 claims (7 for, 11 mixed) · 29 studies (8 causal, 8 quant-synthesis, 8 review, 3 associational, 2 theoretical), `q2`–`q4` · 8 of 29 report an effect size · 9 claims rest on one study
+> **Evidence** · 18 claims (7 for, 11 mixed) · 29 studies (8 causal, 8 quant-synthesis, 8 review, 3 associational, 2 theoretical), `q2`–`q4` · 7 of 29 report an effect size · 9 claims rest on one study
 
 ## Conditional relationship
 

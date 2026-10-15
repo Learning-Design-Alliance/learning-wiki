@@ -62,5 +62,7 @@ An independent replication with three conditions (unguided problem solving, guid
 
 ## Related Claims
 
+- [PF design fidelity predicts larger PS-I effects, with four fidelity criteria showing significant subgroup differences](pf-fidelity-predicts-psi-effect-size.md) — the general claim this finding bears on, with the studies behind it
+
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Providing both a simple and a complex example facilitates transfer better than a single example or an example plus procedures](multiple-examples-per-problem-type.md) — related

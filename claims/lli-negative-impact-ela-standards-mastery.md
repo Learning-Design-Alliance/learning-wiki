@@ -65,4 +65,3 @@ Key finding from the randomized controlled trial of LLI in Oakland secondary sch
 - [In an RCT in Oakland secondary schools, LLI had no impact on students' reading comprehension](lli-no-impact-adolescent-reading-comprehension.md) — related
 - [Most Oakland secondary students receiving LLI fell short of the recommended minimum number of sessions](lli-students-fell-short-recommended-sessions.md) — related
 - [Secondary schools faced implementation challenges producing variation in LLI duration, intensity, and fidelity](lli-secondary-implementation-challenges-variation.md) — related
-- [Students pulled out of other classes to receive LLI were particularly negatively affected](lli-pull-out-students-particularly-negatively-affected.md) — related

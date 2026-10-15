@@ -12,7 +12,7 @@ generated:
 # Sentence Expansion
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 9 studies (5 causal, 4 quant-synthesis), `q2`–`q4` · 4 of 9 report an effect size
+> **Evidence** · 4 claims (3 for, 1 mixed) · 11 studies (6 causal, 5 quant-synthesis), `q2`–`q4` · 5 of 11 report an effect size
 
 ## Description
 Sentence expansion gives learners a short, often kernel sentence (e.g., "The boy ran.") and asks them to elaborate it by answering question prompts — who, what, when, where, why, how — or by embedding appositives, subordinating conjunctions, and adverbial phrases. It is carried out as a brief, frequent activity, often at the start of a lesson, and is a core activity in [The Writing Revolution](https://www.thewritingrevolution.org) method (Hochman & Wexler, 2017). Because the content is supplied, learners can devote full attention to syntax rather than invention.
@@ -25,7 +25,7 @@ Sentence expansion isolates sentence-level syntax as the unit of practice, reduc
 #### Requirements
 - A base sentence drawn from the current lesson's content, not from decontextualized grammar exercises
 - Explicit teaching of the target structures (subordinators, appositives, question words) before learners are asked to use them
-- Brief, frequent practice cycles rather than long isolated sessions; sentence-level work compounds over time like other forms of [distributed practice](../claims/spaced-repetition-improves-retention.md) [+S]
+- Brief, frequent practice cycles rather than long isolated sessions; sentence-level work compounds over time like other forms of [distributed practice](../claims/spaced-practice-improves-retention.md) [+S]
 - Feedback that names the structural move made ("You added a *because* clause — that shows cause")
 
 #### Constraints

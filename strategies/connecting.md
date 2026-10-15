@@ -12,7 +12,7 @@ generated:
 # Connecting
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 7 studies (4 quant-synthesis, 2 causal, 1 associational), `q2`–`q4` · 2 of 7 report an effect size
+> **Evidence** · 2 claims (2 for) · 9 studies (5 quant-synthesis, 3 causal, 1 associational), `q2`–`q4` · 3 of 9 report an effect size
 
 ## Description
 Connecting involves relating a current problem or text to prior knowledge and experiences. It asks learners if the current problem reminds them of any other problem they have solved and how they solved it — for example, "Does this remind you of another math problem? What did you do then?" The strategy operationalizes schema theory: new information is comprehensible and memorable only when it can be assimilated into existing knowledge structures [Ausubel's advance-organizer research shows meaningful verbal learning depends on anchoring new material to relevant prior concepts.](https://doi.org/10.1037/h0046669) [+S].
@@ -46,7 +46,7 @@ Connecting activates prior knowledge before or during new learning, which improv
 ### Target Learning Goals
 - Comprehension: interpreting new material in terms of existing schemas
 - Transfer: recognizing when a familiar strategy applies to a new problem
-- Retention: relational encoding produces more durable memory than rote encoding [Spaced and meaningful retrieval strengthens retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Retention: relational encoding produces more durable memory than rote encoding [Spaced and meaningful retrieval strengthens retention.](../claims/spaced-practice-improves-retention.md) [+S]
 
 ### Instructions
 1. Before new material, surface relevant prior knowledge with a targeted prompt or [Advance Organizers](../elements/advance-organizers.md) ("Remember the sharing problems we solved last week?")

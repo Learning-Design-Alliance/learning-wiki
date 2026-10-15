@@ -12,7 +12,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 107 claims (64 for, 18 mixed, 25 against) · 89 studies (26 causal, 18 quant-synthesis, 17 review, 13 associational, 8 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 25 of 89 report an effect size · 100 claims rest on one study
+> **Evidence** · 107 claims (64 for, 18 mixed, 25 against) · 90 studies (27 causal, 18 quant-synthesis, 17 review, 13 associational, 8 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 25 of 90 report an effect size · 100 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -34,7 +34,7 @@ What a learner can read without effort, and whether the language of instruction 
 
 ## Claims
 - [Automatic word recognition frees resources for comprehension](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S] — the mechanism linking decoding to everything downstream
-- [Systematic phonics improves word reading](../claims/systematic-phonics-improves-word-reading.md) [+S] — the best-evidenced instructional response for decoding
+- [Systematic phonics improves word reading](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S] — the best-evidenced instructional response for decoding
 - [Vocabulary instruction improves comprehension](../claims/vocabulary-instruction-improves-comprehension.md) [+M] — the second lever, acting on meaning rather than decoding
 - [Morphological instruction improves literacy](../claims/morphological-instruction-improves-literacy.md) [+M] — teaches word structure so unfamiliar words are partly decodable
 - [Reciprocal teaching improves reading comprehension](../claims/reciprocal-teaching-improves-reading-comprehension.md) [+M] — a strategy-level rather than a code-level intervention

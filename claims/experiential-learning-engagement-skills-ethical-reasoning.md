@@ -58,6 +58,21 @@ Narrative review attribution: the article reports, citing Gates and Dauenhauer (
 
 > "A study by Gates and Dauenhauer (2016) reported that a comparative study between face-to-face and blended learning suggested no comparable difference in the learning outcomes for students"
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does learning from an experience the learner acts in (a simulation, a hands-on task, a practical activity) improve outcomes over being told the same content?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **6 distinct studies** (3 causal, 2 quant-synthesis, 1 design), `q2`–`q4`, 2 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Patil 2020 | q2 · design · r1 | i? | this claim |
+| Pau Benazet i Montobbio 2026 | q3 · causal · r2 | i2; i1; i? | [Experiential instruction produces larger immediate pre-post gains than instructional lectu](experiential-beats-instructional-immediate-aie-mkc.md) (supports); [The experiential group showed a delayed, continued within-group increase in regulation of ](experiential-delayed-mrc-increase.md) (supports); [Immediate experiential advantages in knowledge of cognition and engagement converged with ](five-week-convergence-aie-mkc.md) (qualifies) |
+| [McGaghie et al. 2011](https://doi.org/10.1097/acm.0b013e318217e119) | q3 · quant-synthesis · r? | i2 · medium effect, d=0.71 | [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) (supports) |
+| [Carbonneau et al. 2013](https://doi.org/10.1037/a0031084) | q4 · quant-synthesis · r2 | i? | [Manipulatives Improve Math Learning](manipulatives-improve-math-learning.md) (supports) |
+| [Kontra et al. 2015](https://doi.org/10.1177/0956797615569355) | q3 · causal · r? | i? | [Physical Experience Enhances Science Learning](physical-experience-enhances-science-learning.md) (qualifies) |
+| [Zacharia & Olympiou 2011](https://doi.org/10.1016/j.learninstruc.2010.03.001) | q2 · causal · r? | i? | [Physical Experience Enhances Science Learning](physical-experience-enhances-science-learning.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

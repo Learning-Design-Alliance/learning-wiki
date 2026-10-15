@@ -76,9 +76,9 @@ Null result from the same PLS analysis (n=1,265): the pre-literacy subscale show
 
 ## Discussion
 
-
-
 ## Related Claims
+
+- [Children who attend pre-kindergarten are more ready for kindergarten at the end of their pre-k year than children who do not attend](prek-attendance-kindergarten-readiness.md) — the general claim this finding bears on, with the studies behind it
 
 - [Chronically absent pre-kindergarten students (absent 10 percent or more of enrolled days) display lower academic and behavioral kindergarten readiness](chronic-prek-absence-lower-kindergarten-readiness.md) — possibly the same claim (merge candidate)
 - [Good attendance is more strongly related to academic gains for students who enter preschool with lower incoming skills than for those entering with higher skills](attendance-benefits-strongest-low-incoming-skills.md) — related

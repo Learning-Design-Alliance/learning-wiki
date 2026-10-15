@@ -44,7 +44,7 @@ FCI administered as pre-test at the start of CLASP A and post-test at the end of
 
 ## Related Claims
 - [Hake's survey found interactive-engagement courses achieved average normalized gains about two standard deviations greater than traditional courses, with overall gain–pretest correlation of +0.02](hake-ie-gains-two-sd-greater.md) — a broader claim this one bears on
-- [Research-verified active-engagement pedagogy yields significant content gains (g ≈ 0.38–0.42) but essentially zero gains on the LCTSR (g = 0.06) without explicit reasoning instruction](reformed-pedagogy-content-gains-but-no-reasoning-gains.md) — related
+- [In physics-based courses for non-science majors taught with active-engagement pedagogy, normalized gains were 0.38–0.42 on content tests but 0.06 on a scientific-reasoning test](reformed-pedagogy-content-gains-but-no-reasoning-gains.md) — related
 - [Bioscience students who took the CLASP series had statistically significantly higher upper-division GPAs than students who took the traditional Physics 5 series](clasp-higher-udgpa-than-physics5.md) — related
 - [Students in a technology-enhanced modeling physics class learned significantly more than students in an otherwise identical no-technology class](real-time-data-collection-increases-modeling-physics-learning.md) — related
 - [Actively engaging learning environments show higher learning gains than one-way lecture environments, according to a National Academies consensus study cited in one article](active-learning-improves-exam-performance.md) — a broader claim this one bears on

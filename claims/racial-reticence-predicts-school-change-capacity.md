@@ -42,7 +42,8 @@ Theoretical argument in a speech by an experienced school researcher, offered wi
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Payne argues that color-blind ideology in schools precludes discussion of how outcomes and privilege are distributed by race](colorblindness-blocks-distribution-discussion.md) — the general claim this finding bears on, with the studies behind it
 - [Race is influential but not determinative in school change: it slows and complicates reform without dictating outcomes](race-influential-not-determinative.md) — related
 - [Social trust predicts which urban schools improve, and trust is built by reducing staff vulnerability](social-trust-vulnerability-school-change.md) — related

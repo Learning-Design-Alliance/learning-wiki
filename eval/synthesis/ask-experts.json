@@ -1,0 +1,34 @@
+{
+  "principle": "principles/ask-experts",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "tutoring-effectiveness-comes-from-scaffolding-and-feedback",
+      "question": "What should support during practice do: explain and give feedback, prompt the learner to construct the step, or respond contingently to each attempt?",
+      "members": [
+        [
+          "contingent-scaffolding-improves-learning",
+          "+"
+        ],
+        [
+          "llm-feedback-fewer-attempts",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "tutor-background-meta-regression-not-predictive",
+      "question": "Does the helper's domain expertise, by itself, predict how much the learner gains or how good the help is?",
+      "members": [
+        [
+          "peer-feedback-accuracy-depends-on-expertise",
+          "~"
+        ],
+        [
+          "cps-mentor-teachers-more-qualified-qualifications-unrelated-to-outcomes",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

@@ -42,7 +42,7 @@ Retrieval practice strengthens long-term retention, and providing feedback after
 
 `q3 i?` In a laboratory word-pair study, giving the correct answer after an incorrect retrieval greatly increased retention one week later. Feedback after correct responses made little difference, even when learners had low confidence in them. [→ Pashler et al. 2005](#pashler-et-al-2005)
 
-`q4 i2` Corrective feedback following class quizzes produces significantly larger testing benefits than no feedback. [→ Yang 2020](#yang-et-al-2021)
+`q4 i2` Corrective feedback following class quizzes produces significantly larger testing benefits than no feedback. [→ Yang et al. 2021](#yang-et-al-2021)
 
 ## Evidence
 
@@ -77,7 +77,7 @@ Pashler, H., Cepeda, N. J., Wixted, J. T., & Rohrer, D. (2005). When does feedba
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does feedback after retrieval add to the benefit?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **6 distinct studies** (2 quant-synthesis, 2 causal, 2 review), `q2`–`q4`, 1 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does feedback after retrieval add to the benefit?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **8 distinct studies** (3 quant-synthesis, 3 causal, 2 review), `q2`–`q4`, 1 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -87,6 +87,8 @@ Pashler, H., Cepeda, N. J., Wixted, J. T., & Rohrer, D. (2005). When does feedba
 | [Karpicke 2017](https://doi.org/10.1016/b978-0-12-809324-5.21055-9) | q2 · review · r3 | i? | [Initial short-answer tests outperform initial multiple-choice tests mainly when feedback f](feedback-determines-whether-short-answer-retrieval-outperforms-multiple-choice.md) (supports); [Taking initial multiple-choice tests without feedback can lead students to later produce t](multiple-choice-lures-can-be-learned-as-false-knowledge.md) (supports) |
 | [Metcalfe 2017](https://doi.org/10.1146/annurev-psych-010416-044022) | q2 · review · r? | i? | [High-confidence errors lead to better retention after correction than low-confidence error](high-confidence-errors-improve-retention.md) (supports) |
 | [Fazio & Marsh 2009](https://doi.org/10.3758/pbr.16.1.88) | q3 · causal · r? | i? | [High-confidence errors lead to better retention after correction than low-confidence error](high-confidence-errors-improve-retention.md) (supports) |
+| [Kluger 1996](https://doi.org/10.1037/0033-2909.119.2.254) | q2 · quant-synthesis · r2 | i? | [Outcome feedback (mere knowledge of results) impedes learning of complex tasks in the mult](outcome-feedback-impedes-complex-task-learning-mcpl.md) (qualifies) |
+| Weiss 1980 | q2 · causal · r? | i? | [Immediate knowledge of results during computerized achievement testing produces essentiall](knowledge-of-results-no-effect-achievement-test-dimensionality.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -107,7 +109,7 @@ Pashler, H., Cepeda, N. J., Wixted, J. T., & Rohrer, D. (2005). When does feedba
 - [Feedback improves learning outcomes.](feedback-improves-learning.md) — the general feedback effect this claim situates within retrieval contexts
 - [Pretesting enhances learning from subsequent instruction.](pretesting-enhances-learning.md) — related "errorful generation then correction" mechanism
 - [Spacing improves retention.](spaced-practice-improves-retention.md) — often combined with retrieval and feedback in durable learning designs
-- [Desirable Difficulties Enhance Learning](desirable-difficulties-enhance-learning.md) — related
+- [Retrieval practice and spaced retrieval improve achievement and retention by medium amounts, while interleaving helps category learning only for some materials and blocking beats it for words](desirable-difficulties-enhance-learning.md) — related
 - [High-confidence errors lead to better retention after correction than low-confidence errors.](high-confidence-errors-improve-retention.md) — related
 - [Overt correction of errors speeds young children's learning compared with knowledge of correctness alone](overt-error-correction-speeds-young-children-learning.md) — related
 - [Guiding analytics for learners can improve mathematics achievement, retention, learning strategies, and reduce math anxiety](guiding-analytics-improves-achievement-and-strategies.md) — related

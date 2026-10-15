@@ -41,8 +41,9 @@ In the Hawaii randomized controlled trial (2,660 grade 5 students in 20 schools)
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Positive Action has positive effects on elementary school students' behavior, with a WWC domain average effect size of 0.51 and an improvement index of +19 percentile points](positive-action-positive-effects-behavior.md) — the general claim this finding bears on, with the studies behind it
 - [In the Hawaii randomized trial, Positive Action reduced serious violence among boys but not among girls](positive-action-violence-reduced-boys-not-girls.md) — related
 - [In the Hawaii randomized trial, Positive Action significantly reduced grade retention, with an effect size of 1.09 and an improvement index of +36](positive-action-reduces-grade-retention.md) — related
 - [Positive Action has positive effects on elementary school students' academic achievement, with a WWC domain average effect size of 0.37 and an improvement index of +14 percentile points](positive-action-positive-effects-academic-achievement.md) — reports the opposite

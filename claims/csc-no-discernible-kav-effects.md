@@ -41,8 +41,9 @@ WWC synthesis across the two CDP studies for the knowledge, attitudes, and value
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Positive Action has positive effects on elementary school students' behavior, with a WWC domain average effect size of 0.51 and an improvement index of +19 percentile points](positive-action-positive-effects-behavior.md) — the general claim this finding bears on, with the studies behind it
 - [CSC/CDP shows no discernible effects on academic achievement](csc-no-discernible-academic-effects.md) — related
 - [The Child Development Project/CSC shows potentially positive effects on student behavior, with an average improvement index of +8 percentile points](csc-potentially-positive-behavior-effects.md) — related
 - [Improvement indices favor Lessons in Character across all three outcome domains, largest for academic achievement](lessons-in-character-improvement-index-all-domains.md) — related

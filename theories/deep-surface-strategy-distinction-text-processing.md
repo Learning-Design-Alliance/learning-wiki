@@ -16,7 +16,7 @@ sources:
 # Deep versus surface learning strategies as determinants of scientific text understanding
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 3 studies (1 causal, 1 quant-synthesis, 1 review), `q2`–`q3` · 2 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 3 studies (1 causal, 1 quant-synthesis, 1 review), `q2`–`q3` · 2 of 3 report an effect size · 2 claims rest on one study
 
 ## Description
 The article organises cognitive learning strategies by the depth of processing they induce. Deep strategies such as "elaboration and organisation" build and integrate information, ensuring coherence and structure and facilitating deeper understanding, and are associated with high-quality outcomes. Surface strategies such as "Repetition and rote learning" focus attention on surface aspects of material rather than meaning. The article also distinguishes the quantity versus quality of strategy application, arguing quality of application relative to purpose is more important for learning outcomes.
@@ -39,7 +39,6 @@ The article organises cognitive learning strategies by the depth of processing t
 
 - [Cognitive prompts activating deep learning strategies produce a marginally significant immediate exam advantage over prompts activating shallow strategies in a real psychology course](../claims/deep-prompts-marginal-immediate-exam-advantage.md) [+W]
 - [The immediate advantage of deep-processing prompts does not persist at a 5-month follow-up, with a Bayesian test confirming the null](../claims/deep-prompt-advantage-fades-at-follow-up.md) [~W]
-- [Prompting strategies for activating deep learning alone are insufficient for preserving a long-term learning advantage](../claims/deep-prompting-insufficient-long-term-retention.md) [~W]
 - [Question prompts improve learning](../claims/question-prompts-improve-learning.md) [+M]
 
 ## Related Theories

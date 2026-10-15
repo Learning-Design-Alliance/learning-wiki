@@ -59,6 +59,29 @@ Ratliff-Black, M., & Therrien, W. (2021). Parent-Mediated Interventions for Scho
 
 This review examined 18 studies of parent-mediated interventions (PMIs) for school-age children with autism spectrum disorder, covering 170 child participants, an age range the authors note had not previously been reviewed (prior syntheses covered only young children). Group-design studies showed an overall effect size of 0.79 (95% CI [0.50, 1.09]) and single-case-design studies showed a larger overall effect of 1.84 (95% CI [1.08, 2.60]) across the child outcome domains studied. The authors describe effects as "moderately positive" and call for more research on which parent-training components drive effectiveness and for routine measurement of parent treatment fidelity.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does training the adults around a young person to deliver or support the practice improve the young person's outcomes?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **14 distinct studies** (10 quant-synthesis, 2 causal, 2 review), `q3`–`q4`, 8 of 14 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Nevill et al. 2018](https://doi.org/10.1177/1362361316677838) | q3 · quant-synthesis · r2 | i1 · small effect, weighted Hedges' g averaging 0.23 across domains (range 0.18–0.27) | this claim |
+| [Ratliff-Black & Therrien 2021](https://doi.org/10.1177/1088357620956904) | q3 · quant-synthesis · r2 | i2 · medium-to-large effect, ES=0.79 (group design) | this claim |
+| [Okonofua et al. 2016](https://doi.org/10.1073/pnas.1523698113) | q3 · causal · r? | i? | [Brief Intervention Empathic Discipline Cuts Suspensions](brief-intervention-empathic-discipline-cuts-suspensions.md) (supports) |
+| [Okonofua et al. 2022](https://doi.org/10.1126/sciadv.abj0691) | q4 · causal · r3 | i? | [Brief Intervention Empathic Discipline Cuts Suspensions](brief-intervention-empathic-discipline-cuts-suspensions.md) (supports) |
+| [Hernández 2022](https://doi.org/10.54300/165.102) | q3 · review · r2 | i? | [Brief Intervention Empathic Discipline Cuts Suspensions](brief-intervention-empathic-discipline-cuts-suspensions.md) (supports) |
+| [Durlak et al. 2011](https://doi.org/10.1111/j.1467-8624.2010.01564.x) | q4 · quant-synthesis · r? | i1 · small effect, ES=0.27 academic performance, ES=0.22 conduct problems | [Universal school-based SEL programs improve students' behaviour, with a small and, in rece](sel-programs-improve-behavior-and-achievement.md) (qualifies) |
+| [Cipriano et al. 2023](https://doi.org/10.1111/cdev.13968) | q4 · quant-synthesis · r? | i? | [Universal school-based SEL programs improve students' behaviour, with a small and, in rece](sel-programs-improve-behavior-and-achievement.md) (qualifies) |
+| [Zhao and Sang 2025](https://doi.org/10.3390/bs15111527) | q3 · quant-synthesis · r? | i0 · negligible effect, g=0.08 | [Universal school-based SEL programs improve students' behaviour, with a small and, in rece](sel-programs-improve-behavior-and-achievement.md) (qualifies) |
+| [Dignath & Büttner 2008](https://doi.org/10.1007/s11409-008-9029-x) | q4 · quant-synthesis · r? | i2 · medium-to-large effect, average ES = 0.69 | [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) (qualifies) |
+| [Dent & Koenka 2016](https://doi.org/10.1007/s10648-015-9320-8) | q3 · quant-synthesis · r? | i1 · small correlation, r = 0.20 (metacognitive processes), r = 0.11 (cognitive strategies) | [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) (qualifies) |
+| [Wong et al. 2019](https://doi.org/10.1080/10447318.2018.1543084) | q3 · review · r3 | i? | [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) (qualifies) |
+| [Hill & Tyson 2009](https://doi.org/10.1037/a0015362) | q3 · quant-synthesis · r? | i1 · small effect, r=.18 | [Parent involvement is associated with higher academic achievement in meta-analyses of most](parent-involvement-improves-achievement.md) (qualifies) |
+| [Castro et al. 2015](https://doi.org/10.1016/j.edurev.2015.01.002) | q3 · quant-synthesis · r? | i? | [Parent involvement is associated with higher academic achievement in meta-analyses of most](parent-involvement-improves-achievement.md) (qualifies) |
+| [Jeynes 2005](https://doi.org/10.1177/0042085905274540) | q3 · quant-synthesis · r? | i2 · medium effect, ~0.7–0.75 SD | [Parent involvement is associated with higher academic achievement in meta-analyses of most](parent-involvement-improves-achievement.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **What the recorded evidence covers.** Both meta-analyses above concern parent-mediated interventions for children with autism spectrum disorder, read as abstracts. Effects for young children were small (average g = 0.23) and larger for school-age children (g = 0.79 in group designs). Other populations are not covered here.
@@ -79,7 +102,7 @@ Open questions for future enrichment: whether parent-delivered and professional-
 - [Parent Coaching Outperforms Information Only](parent-coaching-outperforms-information-only.md) — related
 - [Evaluations of parent education initiatives using experiential methods found positive results for parents](parent-education-experiential-evaluations-positive.md) — related
 - [Parent Involvement Improves Early Reading](parent-involvement-improves-early-reading.md) — related
-- [Parent Involvement Improves Achievement](parent-involvement-improves-achievement.md) — related
+- [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](parent-involvement-improves-achievement.md) — related
 - [Dialogic Reading Improves Expressive Language](dialogic-reading-improves-language-outcomes.md) — related
 - [Parent-implemented dialogic reading showed no statistically significant differences from a group story-time comparison on any language measure (Crain-Thoreson & Dale, 1999)](crain-thoreson-dale-1999-parent-led-null-effects.md) — a narrower finding that bears on this claim
 - Calculating average effect sizes in meta-analyses involves methodological issues that warrant dedicated examination in research on children and families. — a broader claim this one bears on

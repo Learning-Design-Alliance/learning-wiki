@@ -44,7 +44,7 @@ Blosser, P. E. (1993). Using Cooperative Learning in Science Education. ERIC Cle
 
 `q3 · i?` · `review · r3`
 
-Newmann and Thompson reviewed 27 reports of high-quality secondary research involving STAD, TGT, Jigsaw, Learning Together, and Group Investigation against conventional frontal-teaching groups. The quoted sentence carries the significance count and the printed effect-size range.
+Newmann and Thompson reviewed 27 reports of high-quality secondary research involving STAD, TGT, Jigsaw, Learning Together, and Group Investigation against conventional frontal-teaching groups. The quoted sentence carries the significance count and the printed effect-size range. The range spans 28 comparisons across several methods and is reported second-hand from Newmann and Thompson, so no single effect size is coded here (`i?`).
 
 > "Cooperative learning was favored at the .05 level of significance for 25 comparisons (68%). Twenty-eight comparisons were used to compute effect sizes that ranged from .87 to 5.15."
 

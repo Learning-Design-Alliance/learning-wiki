@@ -13,7 +13,7 @@ generated:
 # Social Presence
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 30 claims (18 for, 11 mixed, 1 against) · 25 studies (5 qualitative, 5 design, 4 causal, 4 review, 3 associational, 2 quant-synthesis, 2 theoretical), `q1`–`q3` · 3 of 25 report an effect size · 27 claims rest on one study
+> **Evidence** · 31 claims (19 for, 11 mixed, 1 against) · 25 studies (5 qualitative, 5 design, 4 causal, 4 review, 3 associational, 2 quant-synthesis, 2 theoretical), `q1`–`q3` · 2 of 25 report an effect size · 28 claims rest on one study
 
 ## Conditional relationship
 
@@ -103,6 +103,11 @@ No claim in the wiki tests social-presence design: none assigns learners to cour
 - [Discussion board interactions generated no negative feedback at all, suggesting synchrony is required to foster corrective feedback](../claims/discussion-board-no-negative-feedback-synchrony-required.md) [-W]: in one study of second-language learners' negotiated interaction, the board produced no explicit correction, recasts or self-correction, against 61 occurrences in text chat and 58 in videoconferencing. It limits asynchronous forums as the only channel where correction matters.
 
 Learners, settings and outcomes differ across these claims (graduate and MBA students' ratings, school pupils' relationships, college entrants' persistence, video viewers' judgements), so do not rank them. Taken together: social presence is perceived, goes with self-reported regulation and satisfaction, and probably needs deliberate design online; whether designing for it raises learning is not shown, and making presence felt can change ratings without changing performance.
+
+## The evidence by question
+
+- *In an online community of inquiry, which presences go with learners' regulation and learning?* [Social presence shows the strongest association with metacognition in an online case-based course, while teaching presence shows no significant relationship](../claims/social-presence-strongest-metacognition-association-cbi.md) [~M]
+- *Does community in an online course have to be designed for, and which moves are reported to build it?* [Online learning communities do not simply emerge; they must be designed for and scaffolded through teaching and assessment activities](../claims/online-communities-must-be-designed-and-scaffolded.md) [+W]
 
 ## Further evidence, not yet read against this model
 

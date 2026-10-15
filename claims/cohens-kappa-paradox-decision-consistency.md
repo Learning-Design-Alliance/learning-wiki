@@ -41,8 +41,9 @@ Illustrative hypothetical example of 100 examinees with 95% observed agreement a
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Criterion-referenced tests require empirically-based construct validation studies](criterion-referenced-tests-need-construct-validation.md) — the general claim this finding bears on, with the studies behind it
 - [A support vector machine classifier outperformed decision tree and random forest models in predicting cognitive engagement levels of online discussion posts](svm-outperforms-dt-rf-cognitive-engagement-prediction.md) — related
 - [The LoU Interview shows high interrater reliability, and the rating procedure was streamlined over two years without loss of agreement](lou-interview-interrater-reliability-high.md) — related
 - [DC estimates tend to be lowest when the cut score is set at the peak of the score distribution, where inconsistent decisions are most likely](dc-lowest-at-score-distribution-peak.md) — related

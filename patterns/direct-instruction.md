@@ -15,7 +15,7 @@ grain_size: lesson
 # Direct Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 24 claims (13 for, 11 mixed) · 26 studies (12 quant-synthesis, 5 causal, 5 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 7 of 26 report an effect size · 17 claims rest on one study
+> **Evidence** · 24 claims (13 for, 11 mixed) · 28 studies (12 quant-synthesis, 5 causal, 5 review, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 8 of 28 report an effect size · 17 claims rest on one study
 
 ## Description and scope
 
@@ -77,6 +77,12 @@ Ask for four facts when the brief omits them: **the learners' unaided attempt at
 | The outcome is checked at the end of term, not the end of the lesson | Schedule later practice and a delayed check with new items; do not judge the lesson on the immediate check | [Instruction effect peaks then diminishes](../claims/instruction-positive-effect-peaks-then-diminishes.md) [~M] |
 | Many teachers will deliver the lesson from a script | Expect the responsive parts (prompting, adjusting support) to be delivered less faithfully than the scripted parts; train and observe those parts | [Lower adherence to scaffolding than to scripted components](../claims/scaffolding-lower-adherence-than-scripted-components.md) [~M] |
 | A school is adopting a scripted Direct Instruction programme | Budget for training and coaching; gains appeared only where the programme was fully supported | [Direct Instruction gains depend on implementation support](../claims/direct-instruction-gains-depend-on-implementation-support.md) [~M] |
+
+## The evidence by question
+
+- *Does explaining and modelling a new method beat leaving learners to discover it with little support?* [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [+S]
+- *Teach the method first, or let learners attempt problems before instruction?* [Productive Failure Improves Conceptual Learning](../claims/productive-failure-improves-conceptual-learning.md) [~S]
+- *How long should full explanation and guidance continue as learners gain expertise?* [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](../claims/expertise-reversal-effect.md) [~S]
 
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-10-01 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->

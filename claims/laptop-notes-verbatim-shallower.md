@@ -69,7 +69,7 @@ A direct replication of Mueller and Oppenheimer (2014) that added an eWriter gro
 |---|---|---|---|
 | [Mueller Oppenheimer 2014](https://doi.org/10.1177/0956797614524581) | q3 · causal · r? | i? | this claim |
 | [Morehead Dunlosky Rawson 2019](https://doi.org/10.1007/s10648-019-09468-2) | q3 · causal · r? | i? | this claim |
-| [Craig Wright 2026](https://doi.org/10.1007/s40979-026-00234-w) | q2 · theoretical · r3 | i1 | [Handwritten note-taking yields higher achievement than typing, grounding a learning-outcom](handwritten-notes-higher-achievement-than-typing.md) (supports) |
+| [Craig Wright 2026](https://doi.org/10.1007/s40979-026-00234-w) | q2 · theoretical · r3 | i1 | [Taking and reviewing handwritten notes yields slightly higher achievement than typing note](handwritten-notes-higher-achievement-than-typing.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -88,4 +88,4 @@ A direct replication of Mueller and Oppenheimer (2014) that added an eWriter gro
 - [Active learning improves exam performance](../claims/active-learning-improves-exam-performance.md) — generative note-taking is one form of active engagement during lecture
 - [Guided Notes Improve Note Accuracy](guided-notes-improve-note-accuracy.md) — related
 - [Redundancy Effect Impairs Learning](redundancy-principle.md) — related
-- [Handwritten note-taking yields higher achievement than typing, grounding a learning-outcome boundary where transcription tools bypass the assessed skill](handwritten-notes-higher-achievement-than-typing.md) — related
+- [Taking and reviewing handwritten notes yields slightly higher achievement than typing notes among college students, by one meta-analysis reported second-hand](handwritten-notes-higher-achievement-than-typing.md) — related

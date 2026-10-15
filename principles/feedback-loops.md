@@ -27,7 +27,7 @@ sources:
 # Feedback Loops
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 27 claims (16 for, 9 mixed, 2 against) · 41 studies (11 causal, 9 quant-synthesis, 9 review, 4 qualitative, 4 design, 2 associational, 2 theoretical), `q1`–`q4` · 9 of 41 report an effect size · 18 claims rest on one study
+> **Evidence** · 27 claims (16 for, 9 mixed, 2 against) · 41 studies (11 causal, 9 quant-synthesis, 9 review, 4 qualitative, 4 design, 2 associational, 2 theoretical), `q1`–`q4` · 7 of 41 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 
@@ -115,11 +115,16 @@ No claim in the wiki compares feedback followed by a required next attempt with 
 
 Learners, tasks, settings and outcomes differ across these claims, so do not rank them by effect size. None measures `delayed-retention` of a closed loop against an open one.
 
+## The evidence by question
+
+- *What should the feedback after a check say, and who or what should give it?* [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance](../claims/feedback-improves-learning.md) [+S]
+- *Does adjusting instruction to each response help, and what do teachers do with the evidence?* [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M]
+- *Does making progress depend on reaching a unit criterion, with correction and a recheck, raise examination performance over conventional pacing?* [Mastery Learning Improves Outcomes](../claims/mastery-learning-improves-outcomes.md) [+M]
+
 ## Further evidence, not yet read against this model
 
 Claims this page did not cite before, found while converting it, which bear on parts of the loop but have not been read in full against the model above, or which bear on it only at a distance.
 
-- [Feedback improves learning, with a medium average effect that varies widely by feedback type](../claims/feedback-improves-learning.md) [+M]: rests on the same Wisniewski et al. (2020) synthesis as [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance](../claims/feedback-improves-learning.md) [+S]; its own entry says the synthesis counts feedback delivered, not feedback used, so it does not test the use step despite its slug.
 - [Trained teachers allocated about 20 percent of class time to the feedback-corrective/enrichment loop](../claims/training-increases-feedback-corrective-loop-time.md) [+M]: a time-allocation observation of 40 secondary mathematics teachers; used above only as a planning figure.
 - [Probing feedback with required revise-and-resubmit](../claims/probing-feedback-revise-resubmit-evidence.md) [+W]: one case study of teacher candidates; progress was partial and non-linear.
 - [Rubrics changed what online peer reviewers commented on](../claims/rubrics-improve-peer-feedback-quality.md) [~M]: two quasi-experiments on peer feedback quality, not on learning from it.

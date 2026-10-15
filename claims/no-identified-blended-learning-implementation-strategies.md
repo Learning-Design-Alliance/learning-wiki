@@ -41,8 +41,9 @@ The review's stated key finding on implementation: the reviewed research base do
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Blended Learning Improves Outcomes](blended-learning-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Implementation analysis identified student engagement as a challenge for technology-driven tutoring programs](saga-implementation-engagement-challenges.md) — related
 - [Saga blended tutoring improved student math grades across districts and tutoring models](saga-tutoring-improves-math-grades.md) — related
 - [Saga blended tutoring had a small negative impact on school attendance](saga-tutoring-small-negative-attendance-impact.md) — related

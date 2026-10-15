@@ -39,6 +39,19 @@ Higgs, J. M., Kaimana, M., & Isero, M. (2026). Leveraging Onto-Epistemic Heterog
 
 A teacher-researcher team designed a three-month English 12 unit (about 50 sessions) at a U.S. charter high school to build "critical AI awareness" — students' capacity to analyze how AI, social hierarchies, and their own ways of being co-shape one another. The design was grounded in [onto-epistemic heterogeneity](../theories/onto-epistemic-heterogeneity.md), operationalized as three paired stances: reading as exploration (diverse texts on algorithmic bias/manipulation), talking as exploration (discussion drawing on students' own experience with AI-driven social media), and writing as exploration (reflective and analytic writing). Analyzing student essays, discussions, digital journals, and pre/post surveys, the authors found students developed "nested" orientations: personal (inward) concerns about their own social-media use increasingly anchored broader (outward) critiques of algorithmic bias, corporate incentives, and racialized harm, and students began envisioning collective (rather than only individual) responses.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does treating learners' own experience as evidence move them from personal concerns to systemic analysis, and what does that depend on?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **4 distinct studies** (2 design, 2 qualitative), `q1`–`q2`, 0 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Higgs, Kaimana & Isero 2026](https://doi.org/10.1080/10508406.2026.2686084) | q2 · design · r2 | i? | this claim |
+| [Sedawi & Calabrese Barton 2024](https://doi.org/10.1080/10508406.2024.2381205) | q2 · qualitative · r2 | i? | [Agentic engagement with lively data supports epistemically just crisis sensemaking](lively-data-and-agentic-positions-support-epistemically-just-crisis-sensemaking.md) (supports) |
+| [Kahn & Hall 2026](https://doi.org/10.1080/10508406.2026.2624531) | q2 · design · r2 | i? | [Personal connection to data supports critical data-literacy stance-taking](personal-connection-to-data-supports-critical-data-literacy-stance-taking.md) (qualifies) |
+| [Engeström & Käyhkö 2021](https://doi.org/10.1080/10508406.2021.1908296) | q1 · qualitative · r2 | i? | [Community projects need conceptual framing to avoid narrowing the learning object](community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 This is a single-site design-based study (evidence tier q2) without a comparison condition, so it cannot isolate which specific design element (the OEH framing generally, the reading/talking/writing structure, or the specific texts chosen) drove the reported shift, and the "expansion" finding rests mainly on qualitative discourse analysis and self-report survey data rather than a validated outcome measure. The teacher-researchers were also the unit's designers, which the authors themselves flag as an analytic risk they partially mitigated (inductive coding, a non-designer analyst, cross-checking interpretations). The finding should be read as evidence that this design is *plausible* for building critical, systemic understanding of a technology often presented as neutral, not as a validated general effect.
 

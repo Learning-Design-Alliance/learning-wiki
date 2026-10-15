@@ -13,14 +13,14 @@ generated:
 # Handwriting Instruction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 10 studies (4 quant-synthesis, 3 causal, 2 review, 1 theoretical), `q1`–`q4` · 4 of 10 report an effect size
+> **Evidence** · 4 claims (3 for, 1 mixed) · 12 studies (5 quant-synthesis, 4 causal, 2 review, 1 theoretical), `q1`–`q4` · 5 of 12 report an effect size
 
 ## Description
 Handwriting instruction is the explicit, systematic teaching of letter formation, legibility, and writing fluency. It typically progresses from letter formation (stroke direction, starting points) to fluency building (writing letters and words quickly and legibly without conscious attention), so that transcription becomes automatic and working memory is freed for composing [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. Instruction combines teacher modeling of strokes, guided practice with immediate feedback, and brief distributed fluency sessions.
 
 ## Design Implications
 
-Handwriting is a transcription skill: when letter production is effortful, working memory resources are diverted from planning and generating ideas, degrading the quality of written composition [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [+M]. Berninger's research program shows that explicit handwriting instruction improves both handwriting quality and the length and quality of children's compositions, with effects strongest when instruction is brief, frequent, and embedded in writing activities rather than taught as isolated drill. Fluency gains follow the same principles as other skill automatization: short, distributed practice with feedback outperforms massed sessions [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+Handwriting is a transcription skill: when letter production is effortful, working memory resources are diverted from planning and generating ideas, degrading the quality of written composition [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [+M]. Berninger's research program shows that explicit handwriting instruction improves both handwriting quality and the length and quality of children's compositions, with effects strongest when instruction is brief, frequent, and embedded in writing activities rather than taught as isolated drill. Fluency gains follow the same principles as other skill automatization: short, distributed practice with feedback outperforms massed sessions [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ### Context
 #### Requirements
@@ -34,12 +34,12 @@ Handwriting is a transcription skill: when letter production is effortful, worki
 - Teacher modeling with verbal stroke narration, so learners hear the sequence while seeing it
 
 #### Constraints
-- Effectiveness drops when practice is massed into long, infrequent handwriting blocks rather than distributed short sessions [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [-M]
+- Effectiveness drops when practice is massed into long, infrequent handwriting blocks rather than distributed short sessions [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [-M]
 - Copying or tracing alone, without explicit stroke instruction and feedback, produces weak gains — learners may rehearse inefficient motor patterns
 - Over-emphasis on neatness during composing can increase cognitive load and reduce writing output; fluency goals should be separated from composition goals [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [-M]
 - Benefits diminish once transcription is automatic; continued formal handwriting instruction for fluent writers shows little added value [~M]
 - Instruction does not remediate underlying fine-motor weakness, visual-motor integration deficits, or developmental coordination disorder; these require occupational therapy referral [-M]
-- Gains fade without distributed reinforcement; massed practice blocks produce short-lived improvements [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [~M]
+- Gains fade without distributed reinforcement; massed practice blocks produce short-lived improvements [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [~M]
 - Overly long drill sessions displace authentic writing opportunities and can reduce motivation to write [-W]
 - Whole-word copying without letter-level decomposition produces weaker generalization to untaught words [Phonics instruction outperforms whole-word for generalization.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [~M] — the same part-whole logic applies to letter formation
 
@@ -69,7 +69,7 @@ Handwriting is a transcription skill: when letter production is effortful, worki
 ### Instructions
 1. **Model formation explicitly.** Demonstrate stroke sequence with verbal mediation ("start at the top, pull down, then slide over") using [Think-Aloud](../elements/think-aloud.md) narration.
 2. **Guide immediate practice.** Learners form a small set of letters (2–3, grouped by similar strokes) with immediate corrective feedback, applying [Cognitive Load Management](../principles/cognitive-load-management.md) by limiting the set size.
-3. **Build fluency in short distributed sessions.** Timed writing of known letters/words for 5–10 minutes across days rather than one long session [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+3. **Build fluency in short distributed sessions.** Timed writing of known letters/words for 5–10 minutes across days rather than one long session [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 4. **Fade supports and integrate with composing.** Move from guided paper to unlined writing, and embed handwriting goals within authentic [practice](../elements/practice.md) writing tasks so transcription serves composition.
 
 ## Related Strategies
@@ -117,7 +117,7 @@ Handwriting is a transcription skill: until letter production is automatic, it c
 
 #### Constraints
 - Instruction does not remediate underlying fine-motor weakness, visual-motor integration deficits, or developmental coordination disorder; these require occupational therapy referral [-M]
-- Gains fade without distributed reinforcement; massed practice blocks produce short-lived improvements [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [~M]
+- Gains fade without distributed reinforcement; massed practice blocks produce short-lived improvements [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [~M]
 - Overly long drill sessions displace authentic writing opportunities and can reduce motivation to write [-W]
 - Whole-word copying without letter-level decomposition produces weaker generalization to untaught words [Phonics instruction outperforms whole-word for generalization.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [~M] — the same part-whole logic applies to letter formation
 
@@ -141,12 +141,12 @@ Handwriting is a transcription skill: until letter production is automatic, it c
 2. **Guide multisensory rehearsal.** Learners trace in air, on tactile surfaces, then on paper with starting-point cues, moving from large motor to fine motor control.
 3. **Practice in letter groups.** Group letters by shared strokes to reduce the number of distinct motor patterns to learn [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
 4. **Provide immediate corrective feedback.** Feedback on formation (starting point, direction, proportion) at the process level outperforms feedback on neatness alone [Feedback most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+M].
-5. **Fade support and distribute practice.** Move from tracing to copying to dictation to independent writing, with short sessions distributed across days [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+M].
+5. **Fade support and distribute practice.** Move from tracing to copying to dictation to independent writing, with short sessions distributed across days [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+M].
 6. **Assess fluency, not just legibility.** Timed alphabet-writing tasks reveal whether formation has become automatic or still requires attention.
 
 ## Related Strategies
 - [Phonics instruction](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) — letter-formation instruction pairs naturally with letter-sound instruction in early literacy
-- [Spaced practice](../claims/spaced-repetition-improves-retention.md) — distributed short sessions sustain formation gains
+- [Spaced practice](../claims/spaced-practice-improves-retention.md) — distributed short sessions sustain formation gains
 
 ## Examples
 - **[Handwriting Without Tears](https://www.lwtears.com)** — Developmentally sequenced program using multisensory materials (Wood Pieces, slate chalkboard), grouped letter instruction, and short lessons; widely used in K–2 classrooms.

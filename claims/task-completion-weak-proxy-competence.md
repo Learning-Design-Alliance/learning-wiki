@@ -66,7 +66,7 @@ The review attributes to Qiao et al.'s systematic review of 31 code-comprehensio
 - [Some GenAI tools can inhibit productive struggle by reducing cognitive effort (metacognitive laziness)](genai-metacognitive-laziness.md) — related
 - [genAI-supported work can improve while the constructive processing underlying durable expertise erodes (the performance–metacognition dilemma)](performance-metacognition-dilemma-genai.md) — a broader claim this one bears on
 - [Some AI tools can inhibit productive struggle by reducing cognitive effort when they automate processes students would otherwise reason through](ai-automation-reduces-productive-struggle.md) — related
-- [Learners Misjudge Retrieval Benefit](learners-misjudge-retrieval-benefit.md) — related
+- [Learners Misjudge Retrieval Benefit](learners-misjudge-effective-learning-strategies.md) — related
 - [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md) — related
 - [Review-attributed evidence: user confidence in model answers exceeds model internal confidence, and explanation design narrows the gap](calibration-gap-configuration-dependent.md) — related
 - [Students attributed initial passive reliance on GenAI to prompting paralysis and an authority bias compounded by low academic self-efficacy](prompting-paralysis-and-authority-bias.md) — related

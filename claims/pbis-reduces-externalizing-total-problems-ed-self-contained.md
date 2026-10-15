@@ -71,9 +71,9 @@ Chi-square comparisons of students meeting the TRF t-score-at-or-above-63 criter
 
 ## Discussion
 
-
-
 ## Related Claims
+
+- [SWPBIS produced a small reduction in teacher-rated aggressive and disruptive behavior among elementary school children over 4 years (ES = 0.12)](swpbis-reduces-disruptive-behavior.md) — the general claim this finding bears on, with the studies behind it
 
 - [In one study of students with emotional disturbance, the authors interpret their results as showing that teachers implementing PBIS with low fidelity tended not to see student behavior improvements as large as those of high-fidelity colleagues](tkss-fidelity-ancova-interaction-problem-behavior.md) — related
 - [Early Risers shows no discernible effects on emotional/internal behavior for children at risk of emotional disturbance classification](early-risers-no-effect-internal-behavior.md) — related

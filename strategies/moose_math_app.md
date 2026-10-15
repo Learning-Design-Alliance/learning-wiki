@@ -12,7 +12,7 @@ generated:
 # Moose Math App
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 12 studies (7 causal, 3 quant-synthesis, 2 review), `q2`–`q4` · 2 of 12 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 14 studies (8 causal, 4 quant-synthesis, 2 review), `q2`–`q4` · 3 of 14 report an effect size
 
 ## Description
 Moose Math (Duck Duck Moose, now part of Khan Academy) is a game-based mathematics app for early elementary learners. Children complete mini-games — a juice shop, a pet store, a city-building activity — in which solving counting, addition, subtraction, geometry, and sorting problems earns rewards and unlocks new content. The Dust Funnies characters provide instructions and encouragement, and progress maps track advancement through problem sets aligned to Common Core standards for kindergarten and grade 1.
@@ -44,7 +44,7 @@ The app exemplifies game-based practice: short problem sequences with immediate 
 - Less suitable for older students or learners needing instruction in mathematical strategies rather than practice of already-taught skills
 
 ### Target Learning Goals
-- Procedural fluency: automatic recall of basic addition and subtraction facts through repeated practice [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Procedural fluency: automatic recall of basic addition and subtraction facts through repeated practice [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 - Early number sense: counting sequences, quantity comparison, and sorting/classification
 - Geometry vocabulary: identifying and naming two- and three-dimensional shapes
 
@@ -53,7 +53,7 @@ The app exemplifies game-based practice: short problem sequences with immediate 
 2. Have the learner complete one Moose Math activity (e.g., Moose Juice addition) in a short session, with the app providing immediate feedback on each answer ([Practice](../elements/practice.md)).
 3. Observe or review the progress map to assess which skills are secure and which need reteaching ([Assess Performance](../elements/assess-performance.md)).
 4. Follow screen time with an offline task on the same skill — drawing the problem, writing the equation, or solving with counters — to connect game performance to symbolic mathematics.
-5. Revisit skills across days rather than in one long session to gain spacing benefits [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+5. Revisit skills across days rather than in one long session to gain spacing benefits [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ## Related Strategies
 - [Khan Academy](https://www.khanacademy.org) — Moose Math's parent platform; extends the same mastery-based progression to older learners

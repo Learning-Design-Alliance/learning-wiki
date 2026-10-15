@@ -113,6 +113,12 @@ No claim in the wiki tests whether decisions from standardized scores become fai
 
 The claims differ in learners, instruments and settings (1980s SAT figures, gifted identification, a state science assessment, a physics test, seventh-graders' grades, anxiety studies), so do not rank them by effect label. The testimony claims carry figures that are almost forty years old and second-hand. None measures whether a selection decision became more accurate for any group.
 
+## The evidence by question
+
+- *Does a standardized score predict later performance equally well for each group of learners it is used to select?* [SAT scores underpredict the academic performance of high school girls, who average lower scores than boys despite higher grades](../claims/sat-underpredicts-girls-performance.md) [+W]
+- *How far does a statistical item-bias (DIF) flag identify a biased item, rather than the method, sample or form that produced it?* [The ICC and LDF methods identify substantially different sets of items as exhibiting DIF on a state science performance assessment](../claims/icc-and-ldf-methods-identify-different-dif-items.md) [~M]
+- *Do identification and award decisions made from test scores under-select some groups of learners, and is the test the cause?* [A narrative review, citing Ford (2003), attributes the underrepresentation of culturally and linguistically diverse students in gifted education to identification measures biased toward another cultural background](../claims/culturally-diverse-underrepresentation-biased-measures.md) [+W]
+
 ## Further evidence, not yet read against this model
 
 Claims found while rewriting, used in the default design or the situation table for what they are, or neighbouring the page. None tests the relationship.

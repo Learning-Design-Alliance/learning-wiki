@@ -79,11 +79,12 @@ The review reports Petersen, Divitini, and Chabert's (2009) evaluation of a mobi
 
 ## Discussion
 
-
 ## Learner Variables
 - [Belonging](../learner-variables/belonging.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Online learning communities do not simply emerge; they must be designed for and scaffolded through teaching and assessment activities](online-communities-must-be-designed-and-scaffolded.md) — the general claim this finding bears on, with the studies behind it
 - [Augmented reality and QR-code mobile systems enable context-aware language learning in designated physical zones](ar-qr-codes-context-aware-language-learning.md) — related
 - [Students respond positively to e-mail exchanges, guest speaker interviews, and video projects aimed at cross-cultural awareness](positive-student-response-cross-cultural-activities.md) — related
 - [Students perceive that interacting with others in experiential learning fosters empathy and a sense of community by enhancing perspective-taking (beauty)](students-interaction-empathy-perspective-taking.md) — related

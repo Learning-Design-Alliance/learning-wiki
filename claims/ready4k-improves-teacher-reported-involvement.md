@@ -44,7 +44,7 @@ Teacher-reported outcome from the preschool RCT: "teachers reported improved par
 
 ## Related Claims
 - [Parent-delivered READY4K! text messages improve preschool children's early literacy performance](ready4k-texts-improve-preschool-literacy.md) — related
-- [Parent Involvement Improves Achievement](parent-involvement-improves-achievement.md) — related
+- [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](parent-involvement-improves-achievement.md) — related
 - [In kindergarten, READY4K! messages raise literacy scores, with the largest gains in the personalized messaging arm](ready4k-kindergarten-personalized-messaging-gains.md) — related
 - [READY4K! literacy gains are largest for children in the lower half of the baseline skill distribution](ready4k-largest-gains-lower-baseline-half.md) — related
 - [Parent involvement increased for three consecutive years under family-centered engagement approaches](parent-involvement-increased-three-years.md) — related

@@ -12,7 +12,7 @@ generated:
 # Training Handouts
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies (3 causal, 2 quant-synthesis, 2 review), `q2`–`q4` · 1 of 7 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 9 studies (4 causal, 3 quant-synthesis, 2 review), `q2`–`q4` · 2 of 9 report an effect size · 1 claim rests on one study
 
 ## Description
 Training handouts are supplementary materials distributed during training sessions to structure attention, support note-taking, and provide a durable reference after the session ends. Effective handouts do not duplicate slides verbatim; they are designed as participation tools — outlines with gaps to complete, worksheets, feedback forms, and action plans — that require learners to actively process content during the session.
@@ -26,7 +26,7 @@ Handouts work when they function as an external memory aid plus an engagement de
 - Alignment with session learning objectives; each handout section should map to a goal or activity
 - Deliberate gaps: fill-in sections, response prompts, or checklists that require learner generation ([Annotating](../principles/annotating.md))
 - Guidance on *when* to use the handout during the session, not just distribution at the start ([Provide guidance](../elements/provide-guidance.md))
-- A post-session role — action plans and reference summaries — so the handout supports later retrieval ([Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S])
+- A post-session role — action plans and reference summaries — so the handout supports later retrieval ([Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S])
 
 #### Constraints
 - Handouts that reproduce the full presentation reduce attention to the presenter and encourage passive reading [-M]

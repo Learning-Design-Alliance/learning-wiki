@@ -45,6 +45,26 @@
         [
           "group-cycle-interactions-formative-outcomes",
           "~"
+        ],
+        [
+          "tefa-formative-information-changed-lessons",
+          "+"
+        ],
+        [
+          "forms-realtime-formative-assessment-uses",
+          "+"
+        ],
+        [
+          "curricular-knowledge-enables-responsive-instructional-moves",
+          "~"
+        ],
+        [
+          "teacher-customizations-storyline-curriculum",
+          "~"
+        ],
+        [
+          "stem-more-amenable-difficulty-scaling",
+          "~"
         ]
       ]
     },
@@ -78,6 +98,18 @@
         ],
         [
           "high-level-feedback-remains-human-responsibility",
+          "~"
+        ],
+        [
+          "feedback-after-multiple-choice-tests-halves-lure-intrusions",
+          "+"
+        ],
+        [
+          "feedback-praise-reduces-learning",
+          "~"
+        ],
+        [
+          "feedback-quality-predicts-revision-only-in-teacher-condition",
           "~"
         ]
       ]
@@ -113,6 +145,14 @@
         [
           "self-monitoring-improves-self-regulation",
           "+"
+        ],
+        [
+          "peer-self-assessment-improve-performance-equally",
+          "+"
+        ],
+        [
+          "aa-students-passive-users-of-rubrics",
+          "~"
         ]
       ]
     },
@@ -127,6 +167,22 @@
         [
           "peer-self-assessment-improve-performance-equally",
           "+"
+        ],
+        [
+          "rubrics-improve-peer-feedback-quality",
+          "~"
+        ],
+        [
+          "peer-feedback-accuracy-depends-on-expertise",
+          "~"
+        ],
+        [
+          "peer-assessment-benefits-assessor",
+          "+"
+        ],
+        [
+          "peer-feedback-improves-writing",
+          "+"
         ]
       ]
     },
@@ -134,6 +190,26 @@
       "hub": "contingent-scaffolding-improves-learning",
       "question": "Does adjusting instruction to each response help, and what do teachers do with the evidence?",
       "members": [
+        [
+          "contingent-tutor-metacognitive-demand-matches-withholding-tutor",
+          "+"
+        ],
+        [
+          "contingent-scaffolding-surrenders-full-answer-least",
+          "+"
+        ],
+        [
+          "perceived-load-unchanged-under-contingent-tutor",
+          "~"
+        ],
+        [
+          "student-uptake-of-support-predicts-small-group-answer-accuracy",
+          "~"
+        ],
+        [
+          "adaptive-fading-beats-fixed-and-linear-scaffolding",
+          "~"
+        ],
         [
           "tefa-formative-information-changed-lessons",
           "+"
@@ -151,28 +227,8 @@
           "~"
         ],
         [
-          "contingent-tutor-metacognitive-demand-matches-withholding-tutor",
-          "+"
-        ],
-        [
-          "contingent-scaffolding-surrenders-full-answer-least",
-          "+"
-        ],
-        [
-          "perceived-load-unchanged-under-contingent-tutor",
-          "~"
-        ],
-        [
-          "adaptive-fading-beats-fixed-and-linear-scaffolding",
-          "~"
-        ],
-        [
           "blanket-scaffolding-in-serious-games-contradicts-scaffolding-notion",
           "+"
-        ],
-        [
-          "student-uptake-of-support-predicts-small-group-answer-accuracy",
-          "~"
         ],
         [
           "scaffolding-autonomy-dynamics-form-self-reinforcing-attractor-states",
@@ -201,6 +257,22 @@
         [
           "ai-tutor-pace-adaptation-strengthened-engagement",
           "+"
+        ],
+        [
+          "forms-sel-checkins-anonymity",
+          "~"
+        ],
+        [
+          "student-self-assessments-valuable-development-information",
+          "~"
+        ],
+        [
+          "adaptive-learning-improves-outcomes",
+          "+"
+        ],
+        [
+          "expertise-reversal-effect",
+          "~"
         ]
       ]
     },

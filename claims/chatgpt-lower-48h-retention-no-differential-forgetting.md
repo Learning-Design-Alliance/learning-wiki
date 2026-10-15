@@ -41,7 +41,8 @@ Delayed cued-recall quiz administered 48 hours after the session to all particip
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Immediate task success does not establish learning that persists without AI support](immediate-performance-not-evidence-of-independent-learning.md) — the general claim this finding bears on, with the studies behind it
 - [ChatGPT-assisted students scored substantially higher on the coding assessment than No AI students (89% vs 69%)](chatgpt-assisted-higher-coding-performance.md) — related
 - [Review reports a randomized trial in which unrestricted ChatGPT study produced lower delayed retention than traditional methods](chatgpt-unrestricted-lower-delayed-retention-rct.md) — related

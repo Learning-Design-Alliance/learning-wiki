@@ -41,8 +41,9 @@ Quasi-experimental study of 5th graders in six Massachusetts school districts du
 
 ## Discussion
 
-
 ## Related Claims
+
+- [A narrative review of intelligent tutoring systems asserts, citing one source, that students in personalized learning environments outperform peers in standardized settings](personalized-learning-outperforms-standardized-settings.md) — the general claim this finding bears on, with the studies behind it
 - [Significant positive effects were also found on ELA MCAS scores in the Massachusetts quasi-experiment](iready-ela-mcas-significant.md) — possibly the same claim (merge candidate)
 - [i-Ready Personalized Instruction users show significantly higher Mathematics MCAS scores (ES = +0.23) in a quasi-experimental study](iready-math-mcas-es-023-moderate.md) — related
 - [i-Ready Personalized Instruction use was also associated with significantly higher Mathematics MCAS scores](iready-personalized-instruction-math-mcas-significant.md) — related

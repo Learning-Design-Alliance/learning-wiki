@@ -1,0 +1,80 @@
+{
+  "principle": "patterns/fostering-communities-of-learning-fcl",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read. No claim tests the pattern as a whole; each finding is one component. The accountability and reciprocal-teaching hubs reuse their questions verbatim from eval/synthesis/cooperative-learning.json and cognitive-apprenticeship.json.",
+  "findings": [
+    {
+      "hub": "learning-by-teaching-improves-tutor-learning",
+      "question": "Does preparing to teach a part, and then teaching it, improve the teaching learner's own understanding?",
+      "members": [
+        [
+          "chatgpt-teachable-agent-knowledge-gains",
+          "+"
+        ],
+        [
+          "learning-by-teaching-llm-improves-assignments-projects",
+          "~"
+        ],
+        [
+          "kbr-predicts-tutor-posttest-conceptual-procedural",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "cooperative-learning-group-rewards-and-individual-accountability",
+      "question": "Which structure matters: group rewards tied to each member's learning, assigned roles, or interdependence of any kind?",
+      "members": [
+        [
+          "interdependence-type-no-achievement-effect-asynchronous",
+          "~"
+        ],
+        [
+          "interdependence-type-shifts-interaction-nature",
+          "~"
+        ],
+        [
+          "accountability-effects-depend-on-type-context-task",
+          "~"
+        ],
+        [
+          "tbl-survey-above-neutral",
+          "~"
+        ],
+        [
+          "group-membership-alone-does-not-produce-cooperation",
+          "+"
+        ],
+        [
+          "reward-interdependence-benefit-attitudes",
+          "~"
+        ],
+        [
+          "structured-interdependence-contribution-obligation-attitude",
+          "~"
+        ],
+        [
+          "interaction-quantity-correlates-posttest-online-groups",
+          "~"
+        ],
+        [
+          "classroom-research-supports-motivational-perspective",
+          "+"
+        ],
+        [
+          "secondary-cooperative-learning-newmann-thompson",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "reciprocal-teaching-improves-reading-comprehension",
+      "question": "Does modelling strategies and handing the lead to learners improve reading comprehension, and on which measures?",
+      "members": [
+        [
+          "reciprocal-teaching-raises-reading-comprehension-poor-readers",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

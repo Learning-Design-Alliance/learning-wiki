@@ -15,7 +15,7 @@ grain_size: course
 # Traditional Lecture-Based Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 15 claims (1 for, 9 mixed, 5 against) · 16 studies (4 review, 3 causal, 3 quant-synthesis, 3 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 5 of 16 report an effect size · 13 claims rest on one study
+> **Evidence** · 15 claims (1 for, 9 mixed, 5 against) · 16 studies (4 review, 3 causal, 3 quant-synthesis, 3 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 4 of 16 report an effect size · 13 claims rest on one study
 
 ## Description and scope
 
@@ -102,6 +102,11 @@ Thirteen of the 22 rows rest on a claim, and most carry it beyond the learners o
 - **What "lecture versus active learning" compares.** [Most active-learning college science conditions contain a substantial lecture component](../claims/active-learning-courses-retain-lecture-component.md) [~M]: in a review of 57 comparison studies, 79.5% of 88 active-learning conditions included lecture and 72.4% gave at least 20% of class time to it. [Active-learning conditions more often include quizzes, homework and exam preparation](../claims/active-learning-conditions-more-other-pedagogical-features.md) [~M]: quizzes in 36.4% of active conditions against 5.8% of lecture conditions, homework 59.8% against 25.0%. So the comparison is usually lecture-only against lecture-plus-activity-plus-other-features, which is why this page keeps lecture segments and treats the share of activity as the design variable; it also means the active-learning advantage cannot be credited to class activity alone.
 
 Do not rank lecture against named alternatives from these claims by their effect labels: the comparators, learners and outcomes differ, and none tests a segmented lecture against an unsegmented one. A precise abstention names the missing comparison (for example, a lecture with a check question every 10–15 minutes against the same lecture without, on the same course exam) and the local observation that would stand in for it (check-question accuracy and weekly quiz scores by section).
+
+## The evidence by question
+
+- *Does replacing part of lecture with active learning raise exam scores and pass rates?* [Active Learning Improves Exam Performance](../claims/active-learning-improves-exam-performance.md) [-S]
+- *Does class time spent with learners talking, explaining and discussing, rather than listening, change what they think about and understand, and does more talk alone do it?* [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](../claims/discussion-promotes-more-active-thought-than-lecture.md) [~M]
 
 ## Further evidence, not yet read against this model
 

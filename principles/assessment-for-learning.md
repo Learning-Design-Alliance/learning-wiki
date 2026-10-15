@@ -31,7 +31,7 @@ sources:
 # Assessment for Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 26 claims (13 for, 11 mixed, 2 against) · 33 studies (12 causal, 7 quant-synthesis, 5 review, 4 theoretical, 2 associational, 2 qualitative, 1 design), `q1`–`q4` · 9 of 33 report an effect size · 18 claims rest on one study
+> **Evidence** · 26 claims (13 for, 11 mixed, 2 against) · 32 studies (11 causal, 7 quant-synthesis, 5 review, 4 theoretical, 2 associational, 2 qualitative, 1 design), `q1`–`q4` · 9 of 32 report an effect size · 19 claims rest on one study
 
 ## Conditional relationship
 
@@ -78,6 +78,12 @@ A single contrast can shift confidence between explanations; it does not identif
 - [Dental students in a revised low-stress TBL format scored higher on the individual summative assessment (iSAT) than medical students in the original high-stakes format, in a non-randomised comparison of two cohorts](../claims/low-stress-tbl-higher-isat-scores.md) [~W]: the only claim found that contrasts stakes directly compares 119 dental students in a revised low-stress format with 161 medical students in the original, reporting a 5.2% higher iSAT (p < .05) and no effect size. Cohort, programme and format differ together (`controlled-nonrandom`), so it cannot separate stakes from population. Not yet checked against its sources.
 
 **No claim in the wiki tests the stakes and goal-structure part of this model as stated**: that grading pressure or competitive classroom norms make learners hide uncertainty or inflate self-assessments, or that a teacher's beliefs about ability change how assessment evidence is used. The previous body argued this from Dweck, Harlen and Patrick et al., which are listed under Key Sources but have no claim pages here. Treat that branch as a hypothesis.
+
+## The evidence by question
+
+- *Does using assessment evidence during instruction raise achievement compared with the usual teaching?* [Assessment for learning improves achievement](../claims/assessment-for-learning-improves-achievement.md) [+M]
+- *Should learners assess their own work, and can their self-ratings be trusted?* [Self Assessment Improves Self Regulated Learning](../claims/self-assessment-improves-self-regulated-learning.md) [+M]
+- *What stops formative assessment working in practice: stakes, grading, time and class size?* [Effective implementation of formative assessment is hindered by its complexity, summative-assessment pressure, and teachers' negative early experiences](../claims/formative-assessment-implementation-barriers.md) [~W]
 
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-10-02 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->

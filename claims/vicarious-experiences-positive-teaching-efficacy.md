@@ -39,6 +39,18 @@ The review reports Wolf et al. (2010) found observing a first year teacher, anot
 
 > "the most powerful of these experiences, observing a first year agriculture teacher, was found to explain 11% of the variance in general teacher efficacy."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Do observing others teach, and being observed, go with teachers' efficacy and change in practice?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **3 distinct studies** (1 review, 1 qualitative, 1 design), `q1`–`q2`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [McKim 2016](https://doi.org/10.5032/jae.2016.01073) | q2 · review · r2 | i? | this claim; [The effect of social persuasion on student teacher efficacy depends on its form: verbal fe](social-persuasion-form-moderates-efficacy-effect.md) (qualifies) |
+| White 2015 | q2 · qualitative · r2 | i? | [Video-based self-observation of teaching was among the most powerful parts of the coaching](video-self-observation-powerful-coaching-component.md) (qualifies) |
+| Guided Self-Analyses Early Childhood Education Program: Teaching Young Children. Overview 1970 | q1 · design · r1 | i? | [Knowledge gained by self-analysis is more likely to produce constructive change in teachin](self-analysis-knowledge-drives-teacher-change.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

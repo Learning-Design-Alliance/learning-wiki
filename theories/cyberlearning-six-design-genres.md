@@ -16,7 +16,7 @@ sources:
 # Six emerging design genres organize cyberlearning design research
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report organizes cyberlearning design research into six general designs, which project leaders call genres: Community Mapping, Expressive Construction, Digital Performance Spaces, Virtual Peers and Coaches, Remote Scientific Labs, and Collaborative Learning with Touch Interfaces. It explains that "Project leaders aspire to create general designs (sometimes called genres) that go beyond what is possible in today's products and illuminate visions of how learning can be enhanced with technology in the future." Each genre pairs a computer science innovation with a learning science innovation, and a general design is one that could open opportunities for many specific learning resources and products.

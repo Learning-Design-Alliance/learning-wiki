@@ -27,3 +27,18 @@ Evidence copied from the verified entry on its near-duplicate sibling page
 
 ### 2026-09-25 · ingest · claude/unspecified
 Evidence copied from a verified near-duplicate (gap-fill)
+
+## Earlier history as claims/explicit-instruction-beats-unassisted-discovery
+
+### 2026-10-13 · ingest · process:wiki-ingest
+Ingested from syn-alfieri-2011-does-discovery-based-instruction-enhance-learning (Does discovery-based instruction enhance learning?) via eval_harness.py + ingest_extractions.py
+
+## Earlier history as claims/guided-discovery-outperforms-pure-discovery
+
+### 2026-09-25 · ingest · claude/unspecified
+Evidence copied from a verified near-duplicate (gap-fill)
+
+## Earlier history as claims/guided-inquiry-outperforms-pure-discovery
+
+### 2026-09-25 · ingest · claude/unspecified
+Evidence copied from a verified near-duplicate (gap-fill)

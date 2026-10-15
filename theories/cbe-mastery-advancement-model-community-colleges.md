@@ -16,7 +16,7 @@ sources:
 # Competency-based education as a mastery-advancement model addressing flexibility and workforce-skill demands
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 3 studies (2 associational, 1 causal), `q2` · 0 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 3 studies (2 associational, 1 causal), `q2` · 0 of 3 report an effect size
 
 ## Description
 The report describes competency-based education (CBE) as an instructional model in which "students to move through material independently, advancing when they demonstrate content mastery." It situates CBE as a response to "student demand for flexible, career-relevant programs and to employer demand for skilled workers," and evaluates its application in online community college IT programs funded through a TAACCCT grant. The report contributes evidence on CBE outcomes to the public conversation around CBE in community college contexts.
@@ -41,9 +41,8 @@ The report describes competency-based education (CBE) as an instructional model 
 
 ### Claims
 
-- [Taaccct Cbe 35 Percent Program Completion](../claims/taaccct-cbe-35-percent-program-completion.md) [+M]
+- [Taaccct Cbe 35 Percent Program Completion](../claims/cbe-participants-completion-employment-wages.md) [+M]
 - [Taaccct Cbe Gatekeeper Credential Comparisons](../claims/cbe-gatekeeper-completion-lower-than-comparison.md) [~M]
-- [Participants' employment rates started and remained high, and wages for employed participants grew faster than the national average after enrollment](../claims/taaccct-cbe-employment-wages-growth.md) [+W]
 - [Participants completed programs quickly, averaging less than two terms to a first certification course and about four terms to certificates and degrees](../claims/cbe-fast-completion-two-terms-certification-four-terms-credentials.md) [+W]
 
 ## Related Theories

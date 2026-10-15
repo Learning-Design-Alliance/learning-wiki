@@ -110,7 +110,7 @@ Section 6 of this conceptual paper reports the expertise reversal effect as attr
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Do the cues still help learners who already know the material, or do they add load?* This table gathers the studies behind this claim and the 17 narrower claims that bear on it: **14 distinct studies** (5 review, 5 causal, 2 theoretical, 2 quant-synthesis), `q1`–`q3`, 1 of 14 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Do the cues still help learners who already know the material, or do they add load?* This table gathers the studies behind this claim and the 18 narrower claims that bear on it: **16 distinct studies** (5 review, 5 causal, 4 quant-synthesis, 2 theoretical), `q1`–`q4`, 2 of 16 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -128,6 +128,8 @@ Section 6 of this conceptual paper reports the expertise reversal effect as attr
 | [Ye 2026](https://doi.org/10.1186/s41239-026-00606-9) | q2 · causal · r? | i? | [Adaptive fading with periodic reinforcement yields higher independence than fixed-high or ](adaptive-fading-beats-fixed-and-linear-scaffolding.md) (supports) |
 | [van Gog et al. 2011](https://doi.org/10.1016/j.cedpsych.2010.10.004) | q3 · causal · r? | i? | [Example-problem sequences reduce cognitive load and improve learning outcomes.](example-problem-sequences-reduce-cognitive-load.md) (supports) |
 | [Noetel 2022](https://doi.org/10.3102/00346543211052329) | q3 · quant-synthesis · r3 | i2; i? | [Design principle effects are larger in system-paced and in complex media, and learner prio](design-principle-effects-moderated-by-pacing-and-complexity.md) (counts against) |
+| [Rey et al. 2019](https://doi.org/10.1007/s10648-018-9456-4) | q4 · quant-synthesis · r? | i? | [Cognitive Load Management](cognitive-load-management.md) (counts against) |
+| [Barbieri et al. 2023](https://doi.org/10.1007/s10648-023-09745-1) | q4 · quant-synthesis · r? | i2 · medium effect, g=0.48 | [Cognitive Load Management](cognitive-load-management.md) (counts against) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -158,6 +160,8 @@ Open questions include how finely expertise must be measured (domain-specific vs
 - [Prior Knowledge](../learner-variables/prior-knowledge.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](chunking-reduces-working-memory-load.md)
 - [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-less-effective-with-expertise.md)

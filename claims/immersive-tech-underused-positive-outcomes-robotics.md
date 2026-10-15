@@ -60,8 +60,9 @@ Narrative synthesis of immersive-technology studies in Results §4.2.6, includin
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Increased perceptual fidelity fails to reliably improve serious game learning outcomes (the fidelity fallacy)](fidelity-fallacy-serious-games.md) — the general claim this finding bears on, with the studies behind it
 - [GBL and gamified approaches show comparable rates of quantifiable learning gains and affective outcomes in robotics education](comparable-outcomes-gbl-versus-gamified-robotics.md) — related
 - [Gamified robotics studies skew toward higher programming/software development skill tiers than GBL studies](gamified-studies-higher-programming-skill-tiers.md) — related
 - [Conventional training received significantly higher ratings for perceived realism and immersion than VR-based training (r=0.774)](conventional-training-higher-realism-immersion.md) — reports the opposite

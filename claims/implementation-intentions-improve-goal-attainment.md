@@ -66,6 +66,17 @@ Two randomized experiments in online courses assigned learners to a mental contr
 
 > "Learners in individualist cultures were 32% (first experiment) and 15% (second experiment) more likely to complete the course following the MCII intervention than a control activity. In contrast, learners in collectivist cultures were unaffected by MCII."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does an if-then plan for the expected obstacle add to the goal alone?* This table gathers the studies behind this claim and the 0 narrower claims that bear on it: **2 distinct studies** (1 quant-synthesis, 1 causal), `q3`, 1 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Gollwitzer & Sheeran 2006](<https://doi.org/10.1016/s0065-2601(06)38002-1>) | q3 · quant-synthesis · r? | i2 · medium-to-large effect, d = .65, 95% CI .60 to .70 | this claim |
+| [Kizilcec & Cohen 2017](https://doi.org/10.1073/pnas.1611898114) | q3 · causal · r? | i? | this claim |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **The field evidence qualifies the pooled effect.** The meta-analysis pools mostly laboratory tasks
@@ -84,6 +95,8 @@ goal helps compared with setting none. For that, see [Goal setting improves
 performance](goal-setting-improves-performance.md).
 
 ## Related Claims
+
+- [Self-regulated learning interventions have a moderate effect (0.65) on learning outcomes in online and blended environments](srl-interventions-moderate-effect-online-blended.md) — the general claim this finding bears on, with the studies behind it
 
 - [Goal setting improves performance](goal-setting-improves-performance.md) — related: goal setting is the step an implementation intention is added to
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related: if-then planning is a forethought-phase strategy

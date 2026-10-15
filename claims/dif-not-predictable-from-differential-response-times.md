@@ -41,8 +41,9 @@ Mantel-Haenszel DIF procedure (items with p<0.05 flagged) applied to the boys-ve
 
 ## Discussion
 
-
 ## Related Claims
+
+- [The ICC and LDF methods identify substantially different sets of items as exhibiting DIF on a state science performance assessment](icc-and-ldf-methods-identify-different-dif-items.md) — the general claim this finding bears on, with the studies behind it
 - [Boys responded faster than girls on the test, but the response-time difference did not affect achievement](boys-faster-than-girls-no-achievement-difference.md) — related
 - [Mean response likelihood does not differ significantly between boys and girls, but its variance is 1.46 times greater for girls](likelihood-variance-greater-for-girls.md) — related
 - [Boys and girls do not differ in the type of mental models of the day and night cycle they hold](no-gender-difference-day-night-mental-models.md) — related

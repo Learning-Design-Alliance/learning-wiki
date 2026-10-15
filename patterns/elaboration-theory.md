@@ -97,6 +97,12 @@ Six of the claims below come from **one report** (Eylon & Reif, 1979, three expe
 
 Do not combine these into a predicted effect for the pattern. They differ in learners (college and high-school physics students, novices on complex tasks, mixed groups in old meta-analyses), comparator and outcome, and none measured a course built as an elaboration sequence against one built another way.
 
+## The evidence by question
+
+Each question below links a general claim that gathers the studies behind it into one table, one row per distinct study, with each study's design and effect as recorded and no averaged verdict.
+
+- *Do organizers given before or alongside the material help, and for whom?* [Advance organizers produce a small average learning benefit, larger for high-ability than for low-ability learners](../claims/advance-organizers-improve-learning.md) [~M]
+
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-02 (maintainer's decision): claims this page cited before the 2026-10-02 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
 Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.

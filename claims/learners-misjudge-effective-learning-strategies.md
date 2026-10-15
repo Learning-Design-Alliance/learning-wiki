@@ -6,7 +6,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 id: learners-misjudge-effective-learning-strategies
-aliases: [learners-misjudge-effective-study-strategies]
+aliases: [learners-misjudge-effective-study-strategies, learners-misjudge-retrieval-benefit]
 evidence_strength:
 sources:
   - id: karpicke-butler-roediger-2009
@@ -42,6 +42,12 @@ Learners systematically overestimate the effectiveness of low-effort, fluency-ba
 
 `q2 i?` A narrative review of the metacognition-and-studying literature concludes that most students believe rereading is a more effective learning strategy than self-testing, even though the reverse is true — a belief the review treats as a key driver of ineffective strategy choice. [→ Bjork Dunlosky Kornell 2013](#bjork-dunlosky-kornell-2013)
 
+`q2 i?` Surveyed on how they study, 177 students named rereading their most-used strategy; only a small minority reported self-testing, and those who did mostly described it as a way to check whether studying had worked rather than as a way to study. [→ Karpicke et al. 2009](#karpicke-butler-roediger-2009)
+
+`q2 i?` Learners misread fluency as learning: material that feels easy to process during study is judged better learned, which systematically favours massed rereading over spaced retrieval. [→ Bjork et al. 2013](#bjork-dunlosky-kornell-2013)
+
+`q2 i?` The misjudgement survives instruction and experience, so a system that merely *offers* retrieval alongside restudy should expect restudy to be chosen. [→ Bjork et al. 2013](#bjork-dunlosky-kornell-2013)
+
 ## Evidence
 
 ### Karpicke Butler Roediger 2009
@@ -52,6 +58,16 @@ Karpicke, J. D., Butler, A. C., & Roediger, H. L. (2009). Metacognitive strategi
 
 177 Washington University undergraduates were surveyed about their real-world study habits. On an open-ended free-report question, 83.6% listed rereading notes or a textbook as a strategy they use and 54.8% ranked it their #1 strategy, while only 10.7% (19 of 177) reported practising retrieval (self-testing) at all, and just 1.1% ranked it #1. On a forced-choice question asking whether they would reread, self-test, or do something else after reading a textbook chapter once, 57% chose to restudy and only 18% chose to self-test; of those who did choose self-testing, most explained they did it to check what they had learned rather than because testing itself produces better learning. The authors conclude students "lack metacognitive awareness of the testing effect."
 
+<!-- merged 2026-10-15 from learners-misjudge-retrieval-benefit: that page's entry for this study, which differed from the one above, kept verbatim.
+### Karpicke et al. 2009
+
+Karpicke, J. D., Butler, A. C., & Roediger, H. L. (2009). Metacognitive strategies in student learning: Do students practise retrieval when they study on their own? *Memory, 17*(4), 471–479. [doi:10.1080/09658210802647009](https://doi.org/10.1080/09658210802647009)
+
+`q2` · `i? · the abstract prints no effect size; the full text may` · `n=177` · `associational · r1`
+
+A survey of 177 undergraduates on their own study strategies, plus a forced-choice task asking what they would do with more study time. Rereading dominated both. The design limitation is self-report, which the forced-choice task only partly offsets.
+-->
+
 ### Bjork Dunlosky Kornell 2013
 
 Bjork, R. A., Dunlosky, J., & Kornell, N. (2013). Self-regulated learning: Beliefs, techniques, and illusions. *Annual Review of Psychology, 64*(1), 417–444. [doi:10.1146/annurev-psych-113011-143823](https://doi.org/10.1146/annurev-psych-113011-143823)
@@ -59,6 +75,16 @@ Bjork, R. A., Dunlosky, J., & Kornell, N. (2013). Self-regulated learning: Belie
 `q2 · narrative review of survey and laboratory studies` · `i? · no single effect size reported (synthesizes multiple studies' correlational and survey findings)` · `n=large (aggregated across the reviewed surveys and experiments, e.g. Kornell & Bjork 2007's 472 students and Karpicke et al. 2009's 177 students)` · `review · r?`
 
 This Annual Review of Psychology article synthesizes survey and experimental work on what students believe about how to study and how those beliefs relate to actual learning. It reports that when Kornell & Bjork (2007) asked 472 UCLA students why they used self-testing, only 18% said it was because they learn more from testing than rereading, versus about 70% who said they use it to check what they already know. The review states directly that "most students believe that rereading is a more effective strategy than is self-testing (McCabe 2011)," and frames this fluency-driven misjudgment, together with the dissociation between subjective ease and later retention, as a central reason self-regulated study choices go wrong.
+
+<!-- merged 2026-10-15 from learners-misjudge-retrieval-benefit: that page's entry for this study, which differed from the one above, kept verbatim.
+### Bjork et al. 2013
+
+Bjork, R. A., Dunlosky, J., & Kornell, N. (2013). Self-regulated learning: Beliefs, techniques, and illusions. *Annual Review of Psychology, 64*, 417–444. [doi:10.1146/annurev-psych-113011-143823](https://doi.org/10.1146/annurev-psych-113011-143823)
+
+`q2` · `i? · the abstract prints no effect size; the full text may` · `review · r?`
+
+A review of self-regulated learning covering the metacognitive illusions that govern study choices: the fluency heuristic, the stability bias, and learners' persistent preference for conditions that raise current performance over conditions that raise later retention. Its design implication is direct — where the effective strategy is also the effortful one, the system has to schedule it rather than offer it.
+-->
 
 ## Discussion
 
@@ -80,7 +106,17 @@ A key boundary condition is that the misjudgment is strongest for judgments made
 
 **Open questions.** The relative weight of strategy knowledge versus monitoring failure is unresolved, as is the durability of calibration training: learners can be taught that effortful strategies work, but whether they maintain use of those strategies once instruction ends is not well established. Evidence entries supporting this claim still need to be added.
 
+*Merged from “Learners Misjudge Retrieval Benefit” (learners-misjudge-retrieval-benefit):* **The metacognitive mismatch.** Learners tend to judge learning from the fluency of the current moment: rereading a passage feels smooth and productive, while attempting retrieval feels effortful and error-prone. Because perceived fluency is a poor proxy for durable learning, learners frequently select restudying over testing even when testing would produce substantially better delayed retention [-M]. This is a core instance of the broader illusion-of-knowing problem described under [Fluency is a poor cue for actual learning.](fluent-illusions-mislead-self-assessment.md) and connects to [Learners' judgments of learning are often inaccurate.](fluent-illusions-mislead-self-assessment.md).
+
+**Consequences for study behavior.** When learners misjudge retrieval benefit, they allocate study time inefficiently — dropping self-testing early, massing restudy instead of spacing, and terminating study prematurely once material feels familiar [-M]. This undermines strategies that depend on learner-managed practice, such as [retrieval practice improves long-term retention.](retrieval-practice-improves-retention.md) and [spaced practice outperforms massed practice.](spaced-practice-improves-retention.md). The misjudgment also inverts the usual assumption behind learner-controlled environments: giving students more choice over study strategy can actively hurt retention when their strategy preferences are miscalibrated [-M].
+
+**Moderators and open questions.** The misjudgment appears strongest before learners experience a successful delayed test; after receiving feedback on test performance, some learners update their beliefs toward testing [~W]. Whether brief experience with retrieval plus feedback is sufficient to durably correct beliefs, and whether the misjudgment generalizes across domains and learner ages, remain open questions pending evidence. The misjudgment is also likely strongest for novices, who lack the schema knowledge to distinguish transient fluency from durable learning — consistent with the broader pattern that strategy benefits and metacognitive accuracy both shift with expertise.
+
+**Design implication.** Because learners cannot be relied on to choose retrieval voluntarily, designers should schedule retrieval and spacing into the learning environment rather than leaving the choice to metacognitive judgment [+M] — see [cognitive-load-theory](../theories/cognitive-load-theory.md) and [self-regulated-learning](../theories/self-regulated-learning.md) for the tension between learner control and scaffolded scheduling. Where learner control is pedagogically required, pairing retrieval with immediate feedback and explicit explanation of the testing effect can partially correct the misjudgment [~W]. Low-stakes quizzing built into course structure (rather than offered as optional practice) sidesteps the misjudgment entirely while preserving retrieval's benefits.
+
 ## Related Claims
+
+- [Learners underuse effective learning strategies such as spacing and retrieval practice](learners-underuse-effective-learning-strategies.md) — the general claim this finding bears on, with the studies behind it
 
 - [Retrieval practice improves long-term retention.](retrieval-practice-improves-retention.md) — the generative strategy learners most often underestimate
 - [Spaced practice improves retention.](spaced-practice-improves-retention.md) — spacing feels harder than massing, so learners avoid it
@@ -94,7 +130,6 @@ A key boundary condition is that the misjudgment is strongest for judgments made
 - [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md) — the flip side of the fluency trap: strategies that feel easy may not be the ones that manage load well.
 - [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md) — related
 - [Instructions increased self-testing and cumulative learning but not study choices or feedback seeking in Experiment 1](instructions-increase-self-testing-cumulative-learning.md) — related
-- [Learners Misjudge Retrieval Benefit](learners-misjudge-retrieval-benefit.md) — possibly the same claim (merge candidate)
 - [Learners Misjudge Spacing Benefits](learners-misjudge-spacing-benefits.md) — related
 - [Rereading is less effective than retrieval practice](rereading-less-effective-than-retrieval-practice.md) — related
 - [Retrieval practice enhances retention relative to repeated study, with an overall effect of g = 0.50 across 159 studies in Rowland's (2014) meta-analysis](retrieval-practice-outperforms-repeated-study-rowland-meta-analysis.md) — related
@@ -107,3 +142,7 @@ A key boundary condition is that the misjudgment is strongest for judgments made
 - [Students rarely open transfer-practice cards immediately after solving; they want such problems organized into delayed, spaced wrong-book review instead](transfer-practice-timing-mismatch-delayed-review.md) — related
 - [Adult learners expect AI to enhance autonomy through choices, flexible learning spaces, metacognitive awareness, and structured self-assessment](ai-enhances-adult-learner-autonomy.md) — related
 - [The interleaving literature is dominated by laboratory studies of university undergraduates, with no included study using high-school participants](interleaving-literature-lab-undergraduate-dominance.md) — related
+- [Predicting, using contextual analysis, and rereading were the most frequently used metacognitive behaviors; deciding when to stop, independent reading time, and testing were least frequent](predicting-contextual-analysis-rereading-most-frequent.md) — related
+- [A middle school math teacher replaced rereading with three retrieval-practice strategies after learning that rereading is not effective for long-term retention](retrieval-practice-implementation-case-newell.md) — related
+- [genAI-supported work can improve while the constructive processing underlying durable expertise erodes (the performance–metacognition dilemma)](performance-metacognition-dilemma-genai.md) — related
+- [Task completion with GenAI is a weak proxy for durable competence, with struggling learners at risk of an illusion of competence](task-completion-weak-proxy-competence.md) — related

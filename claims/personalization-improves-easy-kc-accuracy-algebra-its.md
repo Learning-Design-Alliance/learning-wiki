@@ -42,7 +42,8 @@ Same randomized experiment and hierarchical logistic regression model. Personali
 
 ## Discussion
 
-
 ## Related Claims
+
+- [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](personalized-problem-contexts-boost-engagement-grades-4-8.md) — the general claim this finding bears on, with the studies behind it
 - [Personalization to student interests improved accuracy on hard knowledge components involving algebraic expression-writing within the tutoring unit](personalization-improves-hard-kc-accuracy-algebra-its.md) — related
 - [In a small subgroup of struggling students (n = 25), interest personalization greatly improved expression-writing accuracy within the tutoring unit](personalization-struggling-students-moderation.md) — related

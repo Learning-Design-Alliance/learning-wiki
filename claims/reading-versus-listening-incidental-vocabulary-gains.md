@@ -61,6 +61,18 @@ This meta-analysis (open-access full text read) pooled 24 studies of second-lang
 
 > "Mean proportions of target words learned ranged from 9–18% on immediate posttests, and 6–17% on delayed posttests."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does a learner who listens to a text, or reads while listening, lose anything against reading it?* This table gathers the studies behind this claim and the 1 narrower claims that bear on it: **3 distinct studies** (2 review, 1 quant-synthesis), `q2`–`q3`, 1 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Restrepo Ramos 2015](https://doi.org/10.15446/profile.v17n1.43957) | q3 · review · r2 | i? | this claim |
+| [Webb et al. 2023](https://doi.org/10.1017/s0261444822000507) | q3 · quant-synthesis · r3 | i3 · large effect, g = 1.14 on first posttests | this claim |
+| Salarvand 2022 | q2 · review · r1 | i? | [Repeated listening improves oral reading fluency in second-grade students, with Listening ](repeated-listening-improves-oral-reading-fluency.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **The meta-analytic picture is narrower than one study's.** Webb et al. (2023) support reading's advantage over listening as an effect size on immediate posttests, but not as a clear advantage in words learned or retained: proportions were similar across the two modes, and mode did not moderate follow-up effects. The study this claim was first drawn from, Vidal (2011), was excluded from that meta-analysis as an outlier. The page's earlier title, "greater gains and retention", therefore overstated what the pooled evidence shows for retention, and the title now follows the meta-analysis; Vidal's single study, reported through Restrepo Ramos (2015), is the dissenting entry.
@@ -69,7 +81,7 @@ This meta-analysis (open-access full text read) pooled 24 studies of second-lang
 - [Incidental vocabulary gains show retention problems, with losses over time moderated by feedback timing and topic interest](incidental-vocabulary-retention-problems.md) — related
 - [Higher L2 reading proficiency, motivation, and involvement load are associated with larger incidental vocabulary gains](proficiency-motivation-involvement-gains.md) — related
 - [Intentional vocabulary learning yields higher, faster gains and better retention than incidental learning through reading](intentional-beats-incidental-vocabulary-gains.md) — related
-- [Incidental Vocabulary Exposure Limited](incidental-vocabulary-exposure-limited.md) — related
+- [Incidental vocabulary exposure produces reliable learning, but learners pick up only a small share of the unknown words they meet](incidental-vocabulary-exposure-limited.md) — related
 - [L2 proficiency positively predicts L2 incidental vocabulary acquisition through reading](l2-proficiency-predicts-incidental-vocabulary-acquisition.md) — related
 - [ESL students using a spaced L2 vocabulary acquisition strategy with monthly incidental listening outperformed comparison students on the End-of-Experiment test](svas-spaced-listening-outperforms-comparison-end-of-experiment.md) — related
 - [Incidental vocabulary acquisition through comprehensible input is more powerful than intentional vocabulary learning](incidental-vocabulary-acquisition-more-powerful-than-intentional.md) — related

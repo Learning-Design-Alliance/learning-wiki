@@ -41,6 +41,20 @@ The paper's conclusion asserts, citing Delpit and Cazden & Mehan, that "incorpor
 
 > "Developing instructional programs that incorporate the life experiences, language, and skills that students bring with them into the classroom improves students' academic performance"
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does connecting problems and instruction to learners' own lives raise achievement compared with the same content without that connection?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **5 distinct studies** (2 causal, 1 qualitative, 1 review, 1 theoretical), `q1`–`q3`, 0 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Hulsebosch 1993 | q1 · qualitative · r1 | i? | this claim |
+| Jahneille Cunningham 2024 | q1 · review · r1 | i? | [Research suggests that using culturally responsive and sustaining education practices in m](crse-math-enhances-learning-and-success.md) (supports) |
+| Preparing Problems for Classroom Instruction 2012 | q1 · theoretical · r1 | i? | [An IES practice-guide presentation recommends personalized problem contexts, asserting wit](personalized-problem-contexts-boost-engagement-grades-4-8.md) (supports) |
+| [Walkington 2013](https://doi.org/10.1037/a0031882) | q3 · causal · r2 | i? | [Personalization to student interests improved accuracy on hard knowledge components involv](personalization-improves-hard-kc-accuracy-algebra-its.md) (supports) |
+| [Murphy 2026](https://doi.org/10.51388/20.500.12265/306) | q2 · causal · r2 | i? | [Localizing word-problem character names improved MATHia performance only for specific subg](localized-names-personalization-subgroup-performance.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 The only source recorded here states this effect as a conclusion and supports it by citation (Delpit; Cazden & Mehan), not with data of its own, so it is coded `q1` and the page records an argument, not a finding. Studies that measure academic performance under instruction drawing on students' home language and experience, with a comparison group, are what is missing; the works it cites would be the place to start.

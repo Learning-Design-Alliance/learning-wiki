@@ -39,7 +39,7 @@ Ehri, L. C., Nunes, S. R., Willows, D. M., Schuster, B. V., Yaghoub‐Zadeh, Z.,
 
 `q4 · meta-analysis (National Reading Panel)` · `i2 · medium effect, d=0.53` · `n=52 studies, 96 treatment-control comparisons` · `quant-synthesis · r2`
 
-This National Reading Panel meta-analysis pooled 52 peer-reviewed studies (96 treatment-vs-control comparisons) of phonemic awareness (PA) training with children from preschool through first grade, including normally developing, at-risk and disabled readers across SES levels. PA training produced a large effect on PA itself (d=0.86) and a moderate, statistically significant effect on reading (d=0.53), with word reading and reading comprehension both benefiting; a similar moderate effect appeared for spelling (d=0.59), except that spelling did not improve for disabled readers. Effect sizes on reading were larger when training incorporated [letters](../elements/automaticity.md) alongside phoneme manipulation than when it stayed oral-only, when one or two PA skills were taught rather than several, when children were trained in small groups rather than individually or as a whole class, and when instruction lasted 5–18 hours rather than longer; classroom teachers were as effective as researchers at delivering it.
+This National Reading Panel meta-analysis pooled 52 peer-reviewed studies (96 treatment-vs-control comparisons) of phonemic awareness (PA) training with children from preschool through first grade, including normally developing, at-risk and disabled readers across SES levels. PA training produced a large effect on PA itself (d=0.86) and a moderate, statistically significant effect on reading (d=0.53), with word reading and reading comprehension both benefiting; a similar moderate effect appeared for spelling (d=0.59), except that spelling did not improve for disabled readers. Effect sizes on reading were larger when training incorporated letters alongside phoneme manipulation than when it stayed oral-only, when one or two PA skills were taught rather than several, when children were trained in small groups rather than individually or as a whole class, and when instruction lasted 5–18 hours rather than longer; classroom teachers were as effective as researchers at delivering it.
 
 <!-- merged 2026-10-05: a second write-up of this study, kept verbatim. It came from phonological-awareness-training-improves-reading; its figures are identical to the entry above, and it differs only in its rigour code (r?).
 ### Ehri et al. 2001
@@ -50,6 +50,21 @@ Ehri, L. C., Nunes, S. R., Willows, D. M., Schuster, B. V., Yaghoub‐Zadeh, Z.,
 
 This National Reading Panel meta-analysis pooled 52 peer-reviewed studies (96 treatment-vs-control comparisons) of phonemic awareness (PA) training with children from preschool through first grade, including normally developing, at-risk and disabled readers across SES levels. PA training produced a large effect on PA itself (d=0.86) and a moderate, statistically significant effect on reading (d=0.53), with word reading and reading comprehension both benefiting; a similar moderate effect appeared for spelling (d=0.59), except that spelling did not improve for disabled readers. Effect sizes on reading were larger when training incorporated [letters](../elements/automaticity.md) alongside phoneme manipulation than when it stayed oral-only, when one or two PA skills were taught rather than several, when children were trained in small groups rather than individually or as a whole class, and when instruction lasted 5–18 hours rather than longer; classroom teachers were as effective as researchers at delivering it.
 -->
+
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does training learners to hear and work with the sounds in spoken words, with letters in view, help them learn to read?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **6 distinct studies** (3 quant-synthesis, 3 associational), `q2`–`q4`, 2 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Ehri et al. 2001](https://doi.org/10.1598/rrq.36.3.2) | q4 · quant-synthesis · r2 | i2 · medium effect, d=0.53 | this claim |
+| Sarah Herrera 2021 | q3 · quant-synthesis · r2 | i1; i2 | [Teaching phonological awareness and print knowledge improved decoding performance even wit](pa-pk-improve-decoding-without-decoding-instruction.md) (supports) |
+| What Works Clearinghouse 2006 | q2 / q3 · quant-synthesis · r? | i? | [Phonological Awareness Training has positive effects on phonological processing in prescho](phonological-awareness-training-positive-effects-phonological-processing.md) (supports); [Training effects were larger on outcome measures aligned with the trained skill (blending,](alignment-trained-skill-larger-effects-phonological-awareness.md) (qualifies) |
+| [Nation & Hulme 1997](https://doi.org/10.1598/rrq.32.2.2) | q2 · associational · r? | i? | [Phoneme awareness is a stronger predictor of reading development than rhyme awareness](phoneme-awareness-stronger-predictor-than-rhyme.md) (supports) |
+| [Hulme et al. 2002](https://doi.org/10.1006/jecp.2002.2670) | q2 · associational · r? | i? | [Phoneme awareness is a stronger predictor of reading development than rhyme awareness](phoneme-awareness-stronger-predictor-than-rhyme.md) (supports) |
+| [Muter et al. 2004](https://doi.org/10.1037/0012-1649.40.5.665) | q2 · associational · r? | i? | [Phoneme awareness is a stronger predictor of reading development than rhyme awareness](phoneme-awareness-stronger-predictor-than-rhyme.md) (supports) |
+<!-- synthesis:end -->
 
 ## Discussion
 
@@ -85,8 +100,7 @@ This National Reading Panel meta-analysis pooled 52 peer-reviewed studies (96 tr
 - [Increased cognitive flexibility may strengthen the effectiveness of phonemic awareness, reading, and spelling instruction for kindergarten and first-grade students with low cognitive flexibility](cf-training-may-strengthen-early-literacy-instruction.md) — a narrower finding that bears on this claim
 - [Phoneme awareness is a stronger predictor of reading development than rhyme awareness](phoneme-awareness-stronger-predictor-than-rhyme.md) — related
 - [Phonics instruction has a small but statistically confirmed effect for children with reading disabilities, while Orton-Gillingham structured-literacy programs show positive but non-significant effects](structured-literacy-interventions-help-struggling-readers.md) — related
-- [Systematic Phonics Improves Word Reading](systematic-phonics-improves-word-reading.md) — related
-- [Systematic phonics outperforms unsystematic or no-phonics instruction on children's reading overall, but its advantage over whole-word teaching on novel words is untested in children and contested](phonics-instruction-outperforms-whole-word-for-generalization.md) — related
+- [Systematic Phonics Improves Word Reading](phonics-instruction-outperforms-whole-word-for-generalization.md) — related
 - [Reverse transfer from literacy to oral skills is unsupported by research](reverse-transfer-literacy-to-oral-unsupported.md) — related
 - [Rhyming poetry instruction improves first-grade students' reading fluency scores, linked to phonemic awareness](rhyming-poetry-improves-reading-fluency.md) — a narrower finding that bears on this claim
 - [Spector argues that beginning reading instruction should be designed to facilitate the acquisition of phonemic awareness](spector-phonemic-awareness-reading-instruction.md) — a narrower finding that bears on this claim

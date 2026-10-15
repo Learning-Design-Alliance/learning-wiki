@@ -2,97 +2,371 @@
   "principle": "principles/retrieval-practice",
   "note": "Pilot (2026-10-13). Groupings and directions by an agent from the claims' titles and evidence entries; each hub's table is built from its members' evidence entries, verbatim codes. Review before extending to other principles.",
   "findings": [
-    {"hub": "retrieval-practice-improves-retention", "question": "Does retrieving material (quizzes, practice tests, recall) improve later retention more than restudying it?",
-     "members": [
-       ["practice-testing-overall-meta-analytic-benefit", "+"],
-       ["retrieval-practice-outperforms-repeated-study-rowland", "+"],
-       ["quizzing-beats-restudying-and-elaborative-controls", "+"],
-       ["classroom-quizzing-medium-effect-achievement", "+"],
-       ["classroom-quizzing-improves-exam-performance-across-grades", "+"],
-       ["testing-effect-robust-versus-restudy-control", "+"],
-       ["rereading-less-effective-than-retrieval-practice", "+"],
-       ["terracotta-retrieval-practice-outperforms-restudy", "+"],
-       ["ten-learning-techniques-ranked-distributed-practice", "+"],
-       ["practice-testing-distributed-practice-high-utility", "+"],
-       ["retrieval-practice-enhances-learning-applied-settings", "+"],
-       ["closed-book-versions-of-quizzes-and-concept-maps", "+"],
-       ["retrieval-practice-produces-more-learning-than-concept-mapping", "+"],
-       ["retrieval-practice-strengthens-memory", "+"]]},
-    {"hub": "retention-interval-moderates-testing-effect", "question": "How does the benefit depend on the delay before the final test?",
-     "members": [
-       ["retention-interval-one-to-six-days-largest", "~"],
-       ["retrieval-practice-effects-larger-at-retention-intervals-over-one-day", "~"],
-       ["retrieval-practice-effects-occur-at-short-delays", "~"],
-       ["retrieval-practice-benefits-persist-six-to-nine-months", "+"],
-       ["repeated-retrieval-alters-the-rate-of-forgetting", "+"],
-       ["spaced-retrieval-multiyear-vocabulary-retention", "+"],
-       ["retrieval-practice-reading-comprehension-no-significant-retention", "~"],
-       ["retrieval-format-by-retention-interval-interaction-not-significant", "~"]]},
-    {"hub": "retrieval-practice-improves-transfer", "question": "Does the benefit carry to new questions, inferences and applications, or only to the items practised?",
-     "members": [
-       ["practice-tests-aid-retention-and-transfer", "+"],
-       ["testing-yields-transfer-versus-reexposure-control-d-040", "+"],
-       ["transfer-greatest-test-formats-application-inference", "+"],
-       ["transfer-weakest-rearranged-untested-materials-worked-examples", "~"],
-       ["retrieval-practice-improves-final-inference-and-transfer-questions", "+"],
-       ["retrieval-induced-facilitation-of-nontested-text-material", "~"],
-       ["mediator-cued-final-test-effects-of-retrieval-practice-may-be-small", "~"],
-       ["retrieval-practice-lower-order-questions-outscore-higher-order", "~"],
-       ["retrieval-format-by-levels-of-thinking-interaction-not-significant", "~"],
-       ["learning-techniques-smaller-effects-on-deep-learning-and-far-transfer", "~"]]},
-    {"hub": "feedback-enhances-retrieval-practice", "question": "Does feedback after retrieval add to the benefit?",
-     "members": [
-       ["feedback-no-significant-moderation", "~"],
-       ["feedback-determines-whether-short-answer-retrieval-outperforms", "+"],
-       ["multiple-choice-lures-can-be-learned-as-false-knowledge", "+"],
-       ["high-confidence-errors-improve-retention", "+"]]},
-    {"hub": "short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed", "question": "Which practice format: short answer, multiple choice, or matching the final test?",
-     "members": [
-       ["practice-test-format-moderates-effect", "~"],
-       ["production-vs-recognition-retrieval-practice-no-significant-difference", "~"],
-       ["multiple-choice-higher-practice-performance-than-short-answer", "~"],
-       ["successful-difficult-retrieval-greater-future-success", "~"],
-       ["effect-of-more-multiple-choice-alternatives-depends", "~"],
-       ["format-consistency-moderates-classroom-testing-effect", "~"],
-       ["tap-identical-formats-stronger-effect", "~"],
-       ["retrieval-practice-benefits-do-not-require-matching", "~"],
-       ["retrieval-format-levels-of-thinking-retention-interval-three-way", "~"]]},
-    {"hub": "retrieval-failure-reduces-benefit", "question": "How much should retrieval succeed during practice, and how much support should it get?",
-     "members": [
-       ["retrieval-practice-effects-more-robust-when-initial-retrieval-success", "+"],
-       ["less-initial-retrieval-support-produces-better-retention", "~"],
-       ["retrieval-effort-support-testing-effect", "~"],
-       ["moderators-congruency-elaborated-retrieval-initial-test-performance", "+"],
-       ["repeated-retrieval-success-predicts-final-recall", "+"],
-       ["recollecting-the-prior-study-episode-during-retrieval", "~"]]},
-    {"hub": "spaced-retrieval-improves-retention", "question": "How many practice tests, and how should they be scheduled?",
-     "members": [
-       ["spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial", "+"],
-       ["spaced-beats-massed-and-control-financial-knowledge", "+"],
-       ["spaced-retrieval-practice-improves-financial-knowledge-retention", "+"],
-       ["expanding-versus-uniform-retrieval-no-difference", "~"],
-       ["expanding-retrieval-schedules-are-not-superior", "~"],
-       ["single-practice-test-larger-effect", "~"],
-       ["test-repetitions-positive-relationship-classroom", "+"],
-       ["postclass-quizzes-and-longer-duration-larger-gains", "~"],
-       ["adaptive-retrieval-posttest-retention-advantage", "+"]]},
-    {"hub": "testing-effect-generalizes-education-levels", "question": "For whom, and with what materials, does it work?",
-     "members": [
-       ["setting-and-education-level-moderators", "+"],
-       ["retrieval-practice-benefits-generalize-to-children", "+"],
-       ["retrieval-practice-benefits-extend-to-nonverbal", "+"],
-       ["relation-between-working-memory-and-retrieval-practice-benefit", "~"],
-       ["higher-anxiety-is-associated-with-smaller-testing-effects", "~"],
-       ["whether-element-interactivity-limits-retrieval-practice-effects", "~"]]},
-    {"hub": "learners-underuse-effective-learning-strategies", "question": "Will learners choose to retrieve on their own, and can they be taught to?",
-     "members": [
-       ["learners-misjudge-retrieval-benefit", "+"],
-       ["instructions-increase-self-testing-cumulative-learning", "~"],
-       ["instructions-promote-three-recall-criterion", "~"],
-       ["retrieval-instructions-improve-final-recall-exp1", "~"],
-       ["spontaneous-strategy-transfer-one-week-delay", "~"],
-       ["mixed-effects-across-experiments-criterion-failures", "~"],
-       ["students-report-classroom-retrieval-practice-helps", "~"],
-       ["nmsa-survey-preference-practice-testing", "~"]]}
+    {
+      "hub": "retrieval-practice-improves-retention",
+      "question": "Does retrieving material (quizzes, practice tests, recall) improve later retention more than restudying it?",
+      "members": [
+        [
+          "practice-testing-overall-meta-analytic-benefit",
+          "+"
+        ],
+        [
+          "retrieval-practice-outperforms-repeated-study-rowland",
+          "+"
+        ],
+        [
+          "quizzing-beats-restudying-and-elaborative-controls",
+          "+"
+        ],
+        [
+          "classroom-quizzing-medium-effect-achievement",
+          "+"
+        ],
+        [
+          "classroom-quizzing-improves-exam-performance-across-grades",
+          "+"
+        ],
+        [
+          "testing-effect-robust-versus-restudy-control",
+          "+"
+        ],
+        [
+          "rereading-less-effective-than-retrieval-practice",
+          "+"
+        ],
+        [
+          "terracotta-retrieval-practice-outperforms-restudy",
+          "+"
+        ],
+        [
+          "ten-learning-techniques-ranked-distributed-practice",
+          "+"
+        ],
+        [
+          "practice-testing-distributed-practice-high-utility",
+          "+"
+        ],
+        [
+          "retrieval-practice-enhances-learning-applied-settings",
+          "+"
+        ],
+        [
+          "closed-book-versions-of-quizzes-and-concept-maps",
+          "+"
+        ],
+        [
+          "retrieval-practice-produces-more-learning-than-concept-mapping",
+          "+"
+        ],
+        [
+          "retrieval-practice-strengthens-memory",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "retention-interval-moderates-testing-effect",
+      "question": "How does the benefit depend on the delay before the final test?",
+      "members": [
+        [
+          "retention-interval-one-to-six-days-largest",
+          "~"
+        ],
+        [
+          "retrieval-practice-effects-larger-at-retention-intervals-over-one-day",
+          "~"
+        ],
+        [
+          "retrieval-practice-effects-occur-at-short-delays",
+          "~"
+        ],
+        [
+          "retrieval-practice-benefits-persist-six-to-nine-months",
+          "+"
+        ],
+        [
+          "repeated-retrieval-alters-the-rate-of-forgetting",
+          "+"
+        ],
+        [
+          "spaced-retrieval-multiyear-vocabulary-retention",
+          "+"
+        ],
+        [
+          "retrieval-practice-reading-comprehension-no-significant-retention",
+          "~"
+        ],
+        [
+          "retrieval-format-by-retention-interval-interaction-not-significant",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "retrieval-practice-improves-transfer",
+      "question": "Does the benefit carry to new questions, inferences and applications, or only to the items practised?",
+      "members": [
+        [
+          "practice-tests-aid-retention-and-transfer",
+          "+"
+        ],
+        [
+          "testing-yields-transfer-versus-reexposure-control-d-040",
+          "+"
+        ],
+        [
+          "transfer-greatest-test-formats-application-inference",
+          "+"
+        ],
+        [
+          "transfer-weakest-rearranged-untested-materials-worked-examples",
+          "~"
+        ],
+        [
+          "retrieval-practice-improves-final-inference-and-transfer-questions",
+          "+"
+        ],
+        [
+          "retrieval-induced-facilitation-of-nontested-text-material",
+          "~"
+        ],
+        [
+          "mediator-cued-final-test-effects-of-retrieval-practice-may-be-small",
+          "~"
+        ],
+        [
+          "retrieval-practice-lower-order-questions-outscore-higher-order",
+          "~"
+        ],
+        [
+          "retrieval-format-by-levels-of-thinking-interaction-not-significant",
+          "~"
+        ],
+        [
+          "learning-techniques-smaller-effects-on-deep-learning-and-far-transfer",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "feedback-enhances-retrieval-practice",
+      "question": "Does feedback after retrieval add to the benefit?",
+      "members": [
+        [
+          "feedback-no-significant-moderation",
+          "~"
+        ],
+        [
+          "feedback-determines-whether-short-answer-retrieval-outperforms-multiple-choice",
+          "+"
+        ],
+        [
+          "multiple-choice-lures-can-be-learned-as-false-knowledge",
+          "+"
+        ],
+        [
+          "high-confidence-errors-improve-retention",
+          "+"
+        ],
+        [
+          "outcome-feedback-impedes-complex-task-learning-mcpl",
+          "~"
+        ],
+        [
+          "knowledge-of-results-no-effect-achievement-test-dimensionality",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed",
+      "question": "Which practice format: short answer, multiple choice, or matching the final test?",
+      "members": [
+        [
+          "practice-test-format-moderates-effect",
+          "~"
+        ],
+        [
+          "production-vs-recognition-retrieval-practice-no-significant-difference",
+          "~"
+        ],
+        [
+          "multiple-choice-higher-practice-performance-than-short-answer",
+          "~"
+        ],
+        [
+          "successful-difficult-retrieval-greater-future-success",
+          "~"
+        ],
+        [
+          "effect-of-more-multiple-choice-alternatives-depends",
+          "~"
+        ],
+        [
+          "format-consistency-moderates-classroom-testing-effect",
+          "~"
+        ],
+        [
+          "tap-identical-formats-stronger-effect",
+          "~"
+        ],
+        [
+          "retrieval-practice-benefits-do-not-require-matching",
+          "~"
+        ],
+        [
+          "retrieval-format-levels-of-thinking-retention-interval-three-way",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "retrieval-failure-reduces-benefit",
+      "question": "How much should retrieval succeed during practice, and how much support should it get?",
+      "members": [
+        [
+          "retrieval-practice-effects-more-robust-when-initial-retrieval-success",
+          "+"
+        ],
+        [
+          "less-initial-retrieval-support-produces-better-retention",
+          "~"
+        ],
+        [
+          "retrieval-effort-support-testing-effect",
+          "~"
+        ],
+        [
+          "moderators-congruency-elaborated-retrieval-initial-test-performance",
+          "+"
+        ],
+        [
+          "repeated-retrieval-success-predicts-final-recall",
+          "+"
+        ],
+        [
+          "recollecting-the-prior-study-episode-during-retrieval",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "spaced-retrieval-improves-retention",
+      "question": "How many practice tests, and how should they be scheduled?",
+      "members": [
+        [
+          "spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial",
+          "+"
+        ],
+        [
+          "spaced-beats-massed-and-control-financial-knowledge",
+          "+"
+        ],
+        [
+          "spaced-retrieval-practice-improves-financial-knowledge-retention",
+          "+"
+        ],
+        [
+          "expanding-versus-uniform-retrieval-no-difference",
+          "~"
+        ],
+        [
+          "expanding-retrieval-schedules-are-not-superior",
+          "~"
+        ],
+        [
+          "single-practice-test-larger-effect",
+          "~"
+        ],
+        [
+          "test-repetitions-positive-relationship-classroom",
+          "+"
+        ],
+        [
+          "postclass-quizzes-and-longer-duration-larger-gains",
+          "~"
+        ],
+        [
+          "adaptive-retrieval-posttest-retention-advantage",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "testing-effect-generalizes-education-levels",
+      "question": "For whom, and with what materials, does it work?",
+      "members": [
+        [
+          "setting-and-education-level-moderators",
+          "+"
+        ],
+        [
+          "retrieval-practice-benefits-generalize-to-children",
+          "+"
+        ],
+        [
+          "retrieval-practice-benefits-extend-to-nonverbal",
+          "+"
+        ],
+        [
+          "relation-between-working-memory-and-retrieval-practice-benefit",
+          "~"
+        ],
+        [
+          "higher-anxiety-is-associated-with-smaller-testing-effects",
+          "~"
+        ],
+        [
+          "whether-element-interactivity-limits-retrieval-practice-effects",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "learners-underuse-effective-learning-strategies",
+      "question": "Will learners choose to retrieve on their own, and can they be taught to?",
+      "members": [
+        [
+          "learners-misjudge-effective-learning-strategies",
+          "+"
+        ],
+        [
+          "instructions-increase-self-testing-cumulative-learning",
+          "~"
+        ],
+        [
+          "instructions-promote-three-recall-criterion",
+          "~"
+        ],
+        [
+          "retrieval-instructions-improve-final-recall-exp1",
+          "~"
+        ],
+        [
+          "spontaneous-strategy-transfer-one-week-delay",
+          "~"
+        ],
+        [
+          "mixed-effects-across-experiments-criterion-failures",
+          "~"
+        ],
+        [
+          "students-report-classroom-retrieval-practice-helps-learning-and-reduces-exam-nervousness",
+          "~"
+        ],
+        [
+          "nmsa-survey-preference-practice-testing",
+          "~"
+        ],
+        [
+          "learners-misjudge-spacing-benefits",
+          "+"
+        ],
+        [
+          "underuse-stems-from-false-beliefs-and-counterintuition",
+          "+"
+        ]
+      ]
+    }
   ]
 }

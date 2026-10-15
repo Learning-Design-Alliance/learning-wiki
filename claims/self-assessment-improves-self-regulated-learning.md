@@ -44,7 +44,7 @@ Four random-effects meta-analyses (Hedges & Olkin method) pooled 19 experimental
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Should learners assess their own work, and can their self-ratings be trusted?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **13 distinct studies** (7 causal, 3 quant-synthesis, 1 associational, 1 review, 1 theoretical), `q2`–`q4`, 3 of 13 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Should learners assess their own work, and can their self-ratings be trusted?* This table gathers the studies behind this claim and the 9 narrower claims that bear on it: **15 distinct studies** (7 causal, 3 quant-synthesis, 3 review, 1 associational, 1 theoretical), `q2`–`q4`, 3 of 15 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -61,6 +61,8 @@ Four random-effects meta-analyses (Hedges & Olkin method) pooled 19 experimental
 | Mohammad Amanlou 2026 | q2 · causal · r2 | i? | [Guided-LLM students showed the strongest self-assessment calibration, with the highest wel](guided-llm-self-assessment-calibration-alignment.md) (qualifies) |
 | [Zimmerman 2002](https://doi.org/10.1207/s15430421tip4102_2) | q3 · review · r? | i? | [Self-monitoring improves self-regulation and supports better learning decisions.](self-monitoring-improves-self-regulation.md) (supports) |
 | [Butler & Winne 1995](https://doi.org/10.3102/00346543065003245) | q3 · theoretical · r? | i? | [Self-monitoring improves self-regulation and supports better learning decisions.](self-monitoring-improves-self-regulation.md) (supports) |
+| [Fusco 2025](https://doi.org/10.51388/20.500.12265/252) | q3 · review · r1 | i? | [Peer and self-assessment both show significant effects on academic performance with no sig](peer-self-assessment-improve-performance-equally.md) (supports) |
+| [Ying Zhan 2025](https://doi.org/10.1007/s10734-025-01588-9) | q2 · review · r2 | i? | [Students are typically passive users of assessment rubrics in authentic assessment designs](aa-students-passive-users-of-rubrics.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

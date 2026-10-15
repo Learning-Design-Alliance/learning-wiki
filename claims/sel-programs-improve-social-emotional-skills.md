@@ -62,7 +62,7 @@ A systematic review of experimental and quasi-experimental studies of universal 
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Do sustained, structured programmes produce social-emotional gains, and do they last?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **8 distinct studies** (3 quant-synthesis, 3 review, 2 causal), `q2`–`q4`, 5 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Do sustained, structured programmes produce social-emotional gains, and do they last?* This table gathers the studies behind this claim and the 10 narrower claims that bear on it: **12 distinct studies** (5 quant-synthesis, 5 review, 2 causal), `q2`–`q4`, 6 of 12 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -70,7 +70,11 @@ A systematic review of experimental and quasi-experimental studies of universal 
 | [Blewitt et al. 2018](https://doi.org/10.1001/jamanetworkopen.2018.5727) | q4 · quant-synthesis · r? | i2 · social competence d=0.30, emotional competence d=0.54 | this claim |
 | [Taylor et al. 2017](https://doi.org/10.1111/cdev.12864) | q4 · quant-synthesis · r? | i? | [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) (supports) |
 | [Bierman et al. 2026](https://doi.org/10.1037/amp0001765) | q3 · causal · r2 | i1 · small-to-moderate effect, d=.21 to .33 | [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) (supports) |
-| [Greenberg 2023](https://doi.org/10.54300/928.269) | q3 · review · r2 | i1 | [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) (supports) |
+| [Greenberg 2023](https://doi.org/10.54300/928.269) | q2 / q3 · review · r2 | i1; i2; i? | [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) (supports); [School-based SEL programs promote the development of social and emotional competencies acr](sel-programs-promote-social-emotional-competencies.md) (supports); [Program and delivery characteristics moderate SEL effects: implementation quality, duratio](sel-effects-moderators-implementation-delivery.md) (qualifies) |
+| [dePaoli 2023](https://doi.org/10.54300/701.445) | q3 / q4 · review · r? | i? | [Social and emotional learning programs promote competencies, reduce behavior problems, and](sel-programs-improve-behavior-engagement-achievement.md) (supports) |
+| Burchinal 2022 | q4 · quant-synthesis · r2 | i? | [The recommendation to provide intentional, engaging social-emotional instruction carries s](strong-evidence-social-emotional-instruction-preschool.md) (supports) |
+| Social Skills Training 2013 | q3 · quant-synthesis · r1 | i2 | [Social skills training has positive effects on social-emotional development and behavior f](social-skills-training-positive-social-emotional-effects-preschool-disabilities.md) (supports) |
+| Cardichon 2019 | q3 · review · r1 | i? | [A 2017 meta-analysis found SEL program participation associated with a 6% increase in high](sel-meta-analysis-graduation-increases.md) (supports) |
 | Fronius 2019 | q2 · review · r3 | i? | [A two-year quasi-experimental study in Hong Kong found full-implementation restorative who](rwsa-hong-kong-less-bullying-empathy-gains.md) (supports) |
 | Building Decision Skills 2006 | q2 · causal · r? | i3 | [Building Decision Skills plus service learning significantly improved twelfth-graders' eth](bds-improves-ethical-perspective.md) (supports) |
 | Bergen 2002 | q2 · review · r2 | i? | [High-quality pretend play is an important facilitator of perspective taking and later abst](pretend-play-facilitates-perspective-taking-abstract-thought.md) (supports) |
@@ -109,8 +113,7 @@ A systematic review of experimental and quasi-experimental studies of universal 
 - [Compared with non-participants, nearly 24% more students who participated in schoolwide SEL programs exhibited increased pro-social behaviors and reported decreased distress](schoolwide-sel-prosocial-distress-24-percent.md) — related
 - [Program and delivery characteristics moderate SEL effects: implementation quality, duration, skill practice, and delivery agent](sel-effects-moderators-implementation-delivery.md) — related
 - [A 2017 meta-analysis found SEL program participation associated with a 6% increase in high school and an 11% increase in college graduation rates](sel-meta-analysis-graduation-increases.md) — related
-- [SEL programs are associated with an 11 percentile-point improvement in academic performance](sel-programs-11-percentile-academic-gain.md) — related
-- [SEL programs improve students' engagement and academic performance, with an 11-percentage-point achievement gain in the Durlak meta-analysis](sel-programs-improve-academic-performance.md) — related
+- [SEL programs are associated with an 11 percentile-point improvement in academic performance](sel-programs-improve-academic-performance.md) — related
 - [Social and emotional learning programs promote competencies, reduce behavior problems, and improve engagement and achievement, with sustained longer-term benefits](sel-programs-improve-behavior-engagement-achievement.md) — a broader claim this one bears on
 - [School-based SEL programs promote the development of social and emotional competencies across grade levels](sel-programs-promote-social-emotional-competencies.md) — possibly the same claim (merge candidate)
 - [SEL programs reduce disruptive behavior problems and emotional distress and foster prosocial behavior](sel-programs-reduce-behavior-problems-distress.md) — related

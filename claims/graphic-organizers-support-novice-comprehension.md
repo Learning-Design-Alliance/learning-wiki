@@ -61,6 +61,21 @@ Schroeder, N. L., Nesbit, J. C., Anguiano, C. J., & Adesope, O. O. (2018). Study
 
 A random-effects meta-analysis of 142 independent effect sizes on learning with concept and knowledge maps. The overall effect was moderate and statistically significant (g = 0.58). Creating concept maps (g = 0.72) produced a larger benefit relative to comparison conditions than studying them (g = 0.43). Maps outperformed other instructional comparison conditions in both STEM and non-STEM domains. Read from the abstract only, so it gives no information on prior-knowledge moderators.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does studying a provided organizer improve comprehension and retention over the text alone, and for whom?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **6 distinct studies** (4 causal, 2 quant-synthesis), `q1`–`q4`, 3 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Nesbit & Adesope 2006](https://doi.org/10.3102/00346543076003413) | q4 · quant-synthesis · r2 | i2 · medium effect, g=0.60 overall (0.37 for studying maps) | this claim |
+| [Schroeder et al. 2018](https://doi.org/10.1007/s10648-017-9403-9) | q4 · quant-synthesis · r? | i2 · medium effect, g=0.58 | this claim |
+| [Idol 1987](https://doi.org/10.1177/002221948702000401) | q2 · causal · r2 | i? | [Story Mapping Improves Comprehension](story-mapping-improves-comprehension.md) (supports) |
+| [Boulineau et al. 2004](https://doi.org/10.2307/1593645) | q1 · causal · r1 | i? | [Story Mapping Improves Comprehension](story-mapping-improves-comprehension.md) (supports) |
+| [Schnotz & Baadte 2015](https://doi.org/10.3758/s13421-014-0490-2) | q3 · causal · r? | i2 · medium effect on schema-interference contrasts, d=0.51–0.54; smaller format-match interaction, η²=.03–.04 | [Recall from bar graphs is more accurate when the recall format matches the studied graph f](mismatched-graphic-organizers-increase-extraneous-load.md) (qualifies) |
+| Eylon 1979 | q2 · causal · r2 | i? | [A hierarchical organization facilitates tasks only when matched to the task domain: organi](organization-task-match-determines-benefit.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 The mechanism most often proposed is a reduction in extraneous and intrinsic load: novices lack the prior knowledge to infer how ideas relate, so an external visual structure supplies that scaffolding — consistent with [cognitive load theory](../theories/cognitive-load-theory.md) and with the function of [advance organizers](../elements/advance-organizers.md). Graphic organizers also exploit dual-channel processing, pairing verbal and visual codes as described in [dual coding theory](../theories/dual-coding-theory.md).

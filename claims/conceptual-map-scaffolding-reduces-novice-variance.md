@@ -64,7 +64,6 @@ OLS regression comparing scaffolded novices to baseline LLM novices with a treat
 ## Related Claims
 - [Scaffolding improves learning](scaffolding-improves-learning.md) — a broader claim this one bears on
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — a broader claim this one bears on
-- [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](guided-discovery-outperforms-pure-discovery.md) — a broader claim this one bears on
 - [AI Interaction Competence, not GPA or prior knowledge, is the decisive moderator of LLM-assisted learning gains](aic-moderates-llm-learning-gains.md) — reports the opposite
 - [Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice](concept-mapping-improves-learning.md) — related
 - [Extending mandated daily study time from three to four hours produces no significant performance gains for novices](extra-time-on-task-no-gain-novices.md) — related

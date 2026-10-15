@@ -47,7 +47,7 @@ The fetched sources do not agree on what "experience" should count. Usage-based 
 - [Translation accuracy rises with proficiency but varies substantially across individual constructions](../claims/translation-accuracy-varies-by-construction.md) [+M]
 - [Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts](../claims/vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts.md) [+M]
 - [Words higher in contextual diversity and semantic richness are processed more accurately and efficiently in lexical tasks](../claims/cd-semantic-richness-improves-lexical-processing.md) [~M]
-- [Explicit CL-based instruction teaching prepositions' core senses plus diagrams significantly improved advanced learners' understanding of when to use to, for and at](../claims/cl-core-sense-preposition-instruction-improves-use.md) [~M]
+- [Advanced L2 learners taught the core senses of to, for and at with diagrams show pre- to post-test gains in knowing when to use them, in one uncontrolled study reported second-hand](../claims/cl-core-sense-preposition-instruction-improves-use.md) [~M]
 
 ## Related Theories
 

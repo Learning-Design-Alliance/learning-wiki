@@ -77,6 +77,22 @@ Ebert, K. (2005). *Parent involvement and student achievement in bilingual famil
 
 This account describes how preserving two shared languages between parent and child keeps parents better able to stay informed about and engaged with their child's schooling — including practical help like assisting with homework — compared to a family where the child has largely lost the ability to communicate complex school-related matters in the parents' stronger language.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does maintaining and developing a learner's heritage language cost their acquisition of the school language, or support it?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **7 distinct studies** (3 theoretical, 2 causal, 2 review), `q1`–`q2`, 0 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Hansen, Umeda, and McKinney 2002 | q2 · causal · r? | i? | this claim |
+| [Kohnert et al. 2005](<https://doi.org/10.1044/0161-1461(2005/025)>) | q2 · causal · r? | i? | this claim |
+| Ebert 2005 | q1 · theoretical · r? | i? | this claim |
+| [Cummins 1979](https://doi.org/10.3102/00346543049002222) | q2 · theoretical · r3 | i? | [Promoting minority children's L1 raises L1 achievement at no cost to L2 achievement](l1-maintenance-supports-l2-without-cost.md) (supports); [Preservation of the mother tongue predicts second-language achievement among migrant child](mother-tongue-preservation-predicts-l2-achievement.md) (supports); [Semilingualism — less than native-like skill in both languages — is associated with detrim](semilingualism-associated-with-negative-cognitive-effects.md) (qualifies) |
+| Rolla 2024 | q2 · review · r2 | i? | [Spanish use at home does not limit English learning: young Spanish–English bilinguals with](spanish-home-use-does-not-limit-english-learning.md) (supports) |
+| Cummins 1999 | q2 · theoretical · r2 | i? | [L1 and L2 CALP are interdependent: strong promotion of L1 literacy in the early grades ent](l1-l2-calp-interdependence-no-adverse-consequences.md) (supports) |
+| Rivera 1984 | q2 · review · r2 | i? | [L1 and L2 academic proficiencies are developmentally interdependent, so instruction in eit](l1-l2-academic-interdependence-transfer.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 The underlying mechanism these three findings share is that a heritage language, once lost, cannot be "cashed in" for the second-language advantages it would otherwise provide — vocabulary transfer, more effective bilingual intervention for students who need it, and sustained parent-child communication about school all depend on the first language still being intact, not merely on the student's growing English proficiency. This reframes heritage-language loss from an incidental, mostly-invisible side effect of English acquisition into a genuine cost with practical, measurable consequences for the very English-language outcomes it might seem to make room for. Additive or parallel-track bilingual education approaches — which develop both languages together rather than substituting one for the other — are consistent with this evidence and have generally been favored in program evaluations over subtractive, English-only ("sink or swim") approaches (Beykont, 2002).

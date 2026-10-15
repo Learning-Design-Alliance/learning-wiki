@@ -45,7 +45,7 @@ The article's analysis of individual class outcomes for TC visitors. It attribut
 ## Related Claims
 - [Freshmen who visited the tutoring center more than 10 times per quarter had statistically higher persistence rates than students who did not visit](high-use-tutoring-center-visits-higher-persistence.md) — related
 - [High-use tutoring center visitors had significantly higher cumulative GPA than non-visitors, with the main difference between >10-visit and no-visit groups](tutoring-center-visits-higher-cumulative-gpa.md) — related
-- [Minority students visited the tutoring center more often than Caucasian students, yet tutored minority and first-generation students had lower average GPAs](minority-students-more-tutoring-visits-lower-gpas.md) — related
+- [In one university's records, minority students visit a drop-in tutoring center more often than Caucasian students, while first-generation and other students do not differ in visits](minority-students-more-tutoring-visits-lower-gpas.md) — related
 - [Tutoring center visits showed a delayed significant correlation with cumulative GPA in subsequent quarters](delayed-correlation-visits-cumulative-gpa.md) — related
 - [Only the 200740F high-use group showed a significantly higher rate of good academic standing compared to non-visitors](tutoring-good-standing-significant-only-one-cohort.md) — related
 - [The GPA advantage of high-use tutoring visitors held across math SAT score, high school GPA, ethnicity, and first-generation status](tutoring-gpa-advantage-no-interaction-background.md) — related

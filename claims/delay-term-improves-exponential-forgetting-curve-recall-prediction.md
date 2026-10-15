@@ -43,7 +43,7 @@ Observational study of Mnemosyne flashcard log data, comparing memory models by 
 
 
 ## Related Claims
-- [Spaced Repetition Improves Retention](spaced-repetition-improves-retention.md)
+- [Spaced Repetition Improves Retention](spaced-practice-improves-retention.md)
 - [In Mnemosyne log data, exponential forgetting curve models that include a delay term perform comparably to 1PL-IRT, the best-performing benchmark model.](exponential-forgetting-models-with-delay-perform-comparably-to-1pl-irt.md) — related
 - [In Mnemosyne log data, setting memory strength equal to an item's Leitner deck position predicts recall better than number of past reviews, which beats constant strength.](leitner-deck-position-predicts-recall-better-than-review-count.md) — related
 - [In Mnemosyne log data, item-specific difficulty parameters outperform a global difficulty for lower and higher Leitner decks, while global difficulty performs better for intermediate decks.](item-specific-difficulty-helps-only-at-low-and-high-leitner-decks.md) — related

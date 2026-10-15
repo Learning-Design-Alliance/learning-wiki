@@ -12,7 +12,7 @@ generated:
 # Spacing Activities in Handwriting
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 10 studies (4 quant-synthesis, 3 review, 2 causal, 1 theoretical), `q1`–`q4` · 3 of 10 report an effect size
+> **Evidence** · 4 claims (4 for) · 12 studies (5 quant-synthesis, 3 causal, 3 review, 1 theoretical), `q1`–`q4` · 4 of 12 report an effect size
 
 ## Description
 Spacing activities target the spatial organization of handwriting — consistent gaps between letters within words and clear word boundaries — which is one of the strongest determinists of legibility. They are carried out through explicit instruction on spacing rules, physical "spacing tools" (craft sticks, clothespins, finger spacing), visual cues and puzzles, and structured practice with feedback on written products.
@@ -25,7 +25,7 @@ Spacing is a perceptual-motor subskill that must be automatized before it can su
 #### Requirements
 - Spacing tools (craft sticks, clothespins, "spaceman" figures), visual cues, spacing puzzles, and structured practice sessions; implementable in classrooms or at home
 - [Direct instruction](../elements/direct-instruction.md) on the spacing rule before tool use — learners must know what "one finger width" looks like, not just be handed a stick
-- Frequent short [practice](../elements/practice.md) sessions with a model to compare against, since spacing is a motor habit consolidated over many repetitions [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Frequent short [practice](../elements/practice.md) sessions with a model to compare against, since spacing is a motor habit consolidated over many repetitions [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 - Feedback directed at the written product and the process (e.g., "your word gaps shrink when you rush") rather than a global legibility judgment [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]
 
 #### Constraints

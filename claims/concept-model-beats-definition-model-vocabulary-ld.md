@@ -41,7 +41,8 @@ Multiple-baseline-across-participants study of six seventh-grade students with L
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Vocabulary Instruction Improves Comprehension](vocabulary-instruction-improves-comprehension.md) — the general claim this finding bears on, with the studies behind it
 - [Students with learning disabilities reported high satisfaction with learning vocabulary through concept diagrams](high-student-satisfaction-concept-diagrams.md) — related
 - [After concept-model instruction, students' posttest vocabulary scores ranged from 57.78% to 82.22% correct, compared with pretest scores of 0% to 8.89%](posttest-gains-pretest-to-posttest-concept-model.md) — related

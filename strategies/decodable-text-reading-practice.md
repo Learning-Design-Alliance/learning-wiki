@@ -13,14 +13,14 @@ generated:
 # Decodable Text Reading Practice
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies (3 review, 2 theoretical, 1 causal, 1 quant-synthesis), `q1`–`q4` · 2 of 7 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 8 studies (3 review, 2 causal, 2 theoretical, 1 quant-synthesis), `q1`–`q4` · 2 of 8 report an effect size
 
 ## Description
 Decodable texts are passages in which the majority of words are restricted to grapheme–phoneme correspondences that have been explicitly taught, plus a small controlled set of irregular high-frequency words. Learners read these texts aloud after receiving phonics instruction, so that every word encountered is one they can sound out rather than guess from pictures, context, or memorization. The practice consolidates letter–sound knowledge into fluent word recognition through repeated successful application.
 
 ## Design Implications
 
-Decodable practice closes the loop between phonics instruction and actual reading: systematic phonics improves word reading, but the gains depend on learners applying new correspondences in connected text [Systematic phonics instruction improves word reading and comprehension.](../claims/systematic-phonics-improves-word-reading.md) [+S]. Because each word is decodable, learners build [Automaticity](../elements/automaticity.md) in word recognition, which frees working-memory resources for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Text difficulty must track the instructional sequence — a text is only "decodable" relative to what a particular learner has been taught.
+Decodable practice closes the loop between phonics instruction and actual reading: systematic phonics improves word reading, but the gains depend on learners applying new correspondences in connected text [Systematic phonics instruction improves word reading and comprehension.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]. Because each word is decodable, learners build [Automaticity](../elements/automaticity.md) in word recognition, which frees working-memory resources for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Text difficulty must track the instructional sequence — a text is only "decodable" relative to what a particular learner has been taught.
 
 ### Context
 #### Requirements

@@ -28,7 +28,7 @@ Effort analysis is a method for conducting "effort-related individual score vali
 
 ### Claims
 - [Current measurement models underlying achievement testing assume students respond effortfully to test items](../claims/measurement-models-assume-effortful-responding.md) [+M]
-- [Test-taking motivation tends to induce a person-specific, systematic negative bias on achievement test scores](../claims/test-taking-motivation-negative-score-bias.md) [+M]
+- [One measurement article argues that low test-taking motivation biases an individual student's achievement test score downward](../claims/test-taking-motivation-negative-score-bias.md) [+M]
 - [Test-taking engagement plays an essential role in the pursuit of valid scores](../claims/test-taking-engagement-essential-for-valid-scores.md) [+W]
 - [Rapid-guessing behavior on computer-based tests signals disengaged test taking that threatens score validity](../claims/rapid-guessing-signals-disengaged-test-taking.md) [+W]
 

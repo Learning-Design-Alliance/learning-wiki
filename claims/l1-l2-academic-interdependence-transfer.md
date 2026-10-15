@@ -41,6 +41,7 @@ Review of findings reported initially by Skutnabb-Kangas & Toukomaa (1976) and r
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Preserving a bilingual student's heritage language supports rather than hinders English acquisition](heritage-language-preservation-supports-english-acquisition.md) — the general claim this finding bears on, with the studies behind it
 - [L1 and L2 CALP are interdependent: strong promotion of L1 literacy in the early grades entails no adverse consequences for English](l1-l2-calp-interdependence-no-adverse-consequences.md) — related

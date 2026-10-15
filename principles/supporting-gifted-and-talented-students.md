@@ -108,6 +108,10 @@ No claim in the wiki compares acceleration, enrichment or compacting with grade-
 
 Learners, settings, outcomes and comparisons differ across these claims (trainees in a lab, tutoring-system users, fifth graders, students in 1970s algebra classes, digests reporting other studies), so do not rank them by effect label. None measures progress or boredom for gifted students under acceleration or enrichment.
 
+## The evidence by question
+
+- *Does selecting students for gifted provision by test score or teacher referral miss students from some groups?* [Culturally and linguistically diverse students are underrepresented in gifted identification nationwide](../claims/gifted-underrepresentation-diverse-students.md) [~W]
+
 ## Further evidence, not yet read against this model
 
 The earlier page cited no claim pages. These claims bear on single rows or on the earlier page's description, and have not been read against the whole model.

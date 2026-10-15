@@ -1,0 +1,24 @@
+{
+  "principle": "principles/discussing-race",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read. Payne 2005 lies behind the hub and the first member (one study); Stokamer 2013 and Koch & Peters Hinton 2025 are separate sources. No claim compares facilitated discussion of race with avoidance, so this table holds arguments and associations, not tests.",
+  "findings": [
+    {
+      "hub": "colorblindness-blocks-distribution-discussion",
+      "question": "Does naming race explicitly, rather than treating a subject or a school as race-neutral, open discussion and analysis of how race shapes outcomes?",
+      "members": [
+        [
+          "racial-reticence-predicts-school-change-capacity",
+          "+"
+        ],
+        [
+          "discussion-common-race-political-topics-underused",
+          "+"
+        ],
+        [
+          "students-perceive-statistics-as-neutral-subject",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

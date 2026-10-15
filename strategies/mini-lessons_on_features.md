@@ -12,7 +12,7 @@ generated:
 # Mini-Lessons on Features
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 13 studies (5 causal, 5 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 3 of 13 report an effect size
+> **Evidence** · 4 claims (4 for) · 15 studies (6 causal, 6 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 4 of 15 report an effect size
 
 ## Description
 A mini-lesson on features is a brief (5–15 minute), tightly focused instructional episode targeting a single, nameable craft feature of writing — e.g., how a strong title works, how sentence variety controls rhythm, how evidence is introduced and cited. Each lesson typically follows a consistent arc: name the feature, show it in a mentor text or [Demonstration](../elements/demonstration.md), then have students try it immediately in their own drafts. Mini-lessons are sequenced across a unit so that features accumulate into a repertoire rather than arriving as a one-time lecture.
@@ -32,7 +32,7 @@ Mini-lessons work because they isolate one skill at a time, keeping working-memo
 - Fragmenting writing into isolated features can crowd out attention to ideas and meaning; students may produce technically polished but hollow prose if features are taught as ornaments rather than as serving purpose [~M]
 - Whole-class mini-lessons mismatch learners who have already mastered the feature or lack the prerequisite skill; the [expertise-reversal effect](../theories/expertise-reversal-effect.md) means redundant instruction for proficient writers wastes time or even interferes [~M]
 - Time-consuming to prepare well: each lesson needs a genuine mentor example, not a contrived one
-- If mini-lessons are not revisited, one-shot exposure to a feature rarely sticks; features need spaced re-teaching and conferring follow-up [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+M]
+- If mini-lessons are not revisited, one-shot exposure to a feature rarely sticks; features need spaced re-teaching and conferring follow-up [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+M]
 
 #### Implementation Variability
 - **Whole-class launch:** teacher delivers the mini-lesson to all students before writing time (classic workshop model)
@@ -56,7 +56,7 @@ Mini-lessons work because they isolate one skill at a time, keeping working-memo
 2. **Show it working:** display the feature in one or two mentor texts, annotating what the writer did and why ([Demonstration](../elements/demonstration.md)); contrasting a strong and weak version sharpens discrimination.
 3. **Debrief the why:** ask students to explain the effect of the feature on the reader, prompting [Self-Explanation](../elements/self-explanation.md) [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M].
 4. **Try it now:** students apply the feature to their own draft for 3–5 minutes ([Practice](../elements/practice.md)), while the teacher confers with individuals.
-5. **Share and revisit:** one or two students read their attempt aloud; the feature reappears in revision checklists and future conferences so instruction is spaced, not one-shot [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+M].
+5. **Share and revisit:** one or two students read their attempt aloud; the feature reappears in revision checklists and future conferences so instruction is spaced, not one-shot [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+M].
 
 ## Related Strategies
 - [Mentor Texts](mentor-texts.md) — the source material mini-lessons draw from; a mini-lesson is often the analysis of a mentor text made explicit

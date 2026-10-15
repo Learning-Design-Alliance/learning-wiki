@@ -39,9 +39,24 @@ MFRM analysis (FACETS) of the crossed-design rating data; Table 2 reports a rate
 
 > "According to Table 2, the chi-square value for the rater facet is significant and the reliability coefficient and the separation ratio are high. This result indicates that the raters differ ed in severity/leniency."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Do markers scoring the same responses agree, and do written criteria bring their judgements closer?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **4 distinct studies** (2 causal, 1 associational, 1 design), `q2`–`q3`, 0 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Ilhan 2018](https://doi.org/10.14689/ejer.2018.75.6) | q3 · associational · r2 | i? | this claim |
+| Morzinski 2010 | q2 · design · r2 | i? | [In one community-college lab class, six scorers rating six teams with an engineering rubri](engineering-rubric-low-scoring-reliability.md) (supports) |
+| [Li et al. 2022](https://doi.org/10.1145/3543321.3543344) | q2 · causal · r1 | i? | [Rubrics changed what online peer reviewers commented on and improved their rating of compl](rubrics-improve-peer-feedback-quality.md) (qualifies) |
+| [Ashton And Davies 2015](https://doi.org/10.1080/01587919.2015.1081733) | q2 · causal · r? | i? | [Rubrics changed what online peer reviewers commented on and improved their rating of compl](rubrics-improve-peer-feedback-quality.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 ## Related Claims
+
+- [Performance assessments can be reliably scored when designed appropriately and used with other measures](performance-assessments-reliably-scoreable.md) — the general claim this finding bears on, with the studies behind it
 
 - [Criterion-referenced tests require empirically-based construct validation studies](criterion-referenced-tests-need-construct-validation.md) — the general claim this finding bears on, with the studies behind it
 - [CTT and MFRM yield similar item difficulty results for open-ended questions regardless of crossed or nested design](ctt-mfrm-agreement-robust-to-design.md) — related

@@ -27,7 +27,7 @@ sources:
 # Competency-Based Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 32 claims (13 for, 18 mixed, 1 against) · 30 studies (7 causal, 6 design, 6 theoretical, 4 review, 4 associational, 2 qualitative, 1 quant-synthesis), `q1`–`q4` · 3 of 30 report an effect size · 29 claims rest on one study
+> **Evidence** · 32 claims (13 for, 18 mixed, 1 against) · 30 studies (7 causal, 6 design, 6 theoretical, 4 review, 4 associational, 2 qualitative, 1 quant-synthesis), `q1`–`q4` · 2 of 30 report an effect size · 29 claims rest on one study
 
 ## Conditional relationship
 
@@ -92,6 +92,11 @@ No claim in the wiki tests this relationship as stated: none compares decisions 
 Keep the population, setting, comparator, instrument and horizon with each finding. Do not combine these into one strength: two are about learners' work, one about programme outcomes, and three about the judgement itself.
 
 How far each may be carried: the rubric studies are self-assessment with one rubric on one task, so they do not show that assessor-scored competency rubrics help learning; the mastery synthesis is about unit gates in courses, not certification of workplace competence; the two reliability claims are single instruments and do not estimate agreement for any other rubric; the cut-score report is one population and one panel procedure.
+
+## The evidence by question
+
+- *Does a pass on the check mean what the criterion says: are the items, cut scores and raters dependable?* [Criterion-referenced tests require empirically-based construct validation studies](../claims/criterion-referenced-tests-need-construct-validation.md) [~W]
+- *Does giving learners the criteria, and having them apply them to their own or peers' work, improve the work?* [Self-assessing against a rubric improved the quality of student work in two non-randomised studies, one of which also found more stress and performance-avoidance](../claims/rubrics-improve-student-work.md) [~M]
 
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-02: claims this page cited before the 2026-10-02 rewrite. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->

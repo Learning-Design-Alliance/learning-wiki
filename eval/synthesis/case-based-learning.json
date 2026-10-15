@@ -1,0 +1,38 @@
+{
+  "principle": "patterns/case-based-learning",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "analogical-reasoning-improves-transfer",
+      "question": "Does comparing analogous cases improve transfer more than studying cases one at a time?",
+      "members": [
+        [
+          "comparing-contrasting-cases-improves-learning",
+          "~"
+        ],
+        [
+          "cognitive-flexibility-theory-multiple-cases",
+          "~"
+        ],
+        [
+          "method-approach-effect-sizes-vary-analogy-largest",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "case-based-learning-improves-exam-performance",
+      "question": "Does teaching through realistic cases, by itself, raise learning?",
+      "members": [
+        [
+          "genai-cbl-faculty-guided-conditional-benefits",
+          "~"
+        ],
+        [
+          "ai-ambulatory-case-simulations-diagnostic-reasoning",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

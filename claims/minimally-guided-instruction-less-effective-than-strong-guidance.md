@@ -45,7 +45,6 @@ The article's abstract synthesizes a half-century of empirical studies, stating 
 ## Related Claims
 - [Unguided or minimally guided instructional approaches are popular and intuitively appealing but ignore human cognitive architecture and the empirical evidence](minimally-guided-approaches-ignore-cognitive-architecture.md) — possibly the same claim (merge candidate)
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — possibly the same claim (merge candidate)
-- [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](guided-discovery-outperforms-pure-discovery.md) — possibly the same claim (merge candidate)
 - [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — related
 - [Without explicit guidance and scaffolding, unguided GenAI use may disproportionately benefit already advantaged students and widen performance gaps](unguided-genai-benefits-advantaged-students.md) — related
 - [Teacher Guided Inquiry Outperforms Student Led](teacher-guided-inquiry-outperforms-student-led.md) — related

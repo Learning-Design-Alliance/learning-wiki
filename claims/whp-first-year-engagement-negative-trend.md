@@ -46,5 +46,5 @@ Student pre- and post-surveys (approximately 293 students with fall-spring overl
 - [World History Project adoption increases learning opportunities for historical thinking in summative activities relative to business-as-usual curricula](whp-more-summative-historical-thinking-opportunities.md) — related
 - [Teachers find World History Project overwhelming in their initial adoption year and make substantial modifications across three main categories](whp-first-year-overwhelm-and-modifications.md) — related
 - [Students learning from World History Project demonstrate more understanding of continuity and change over time in history than comparison students](whp-students-continuity-change-outcomes.md) — related
-- [World History Project students show comparable competency to comparison students in the other five historical thinking skills](whp-comparable-other-five-skills.md) — related
+- [An evaluation of the World History Project detected no statistically significant difference from comparison students in the other five historical thinking skills](whp-comparable-other-five-skills.md) — related
 - [World History Project assignments scored higher on most learning opportunity rubric dimensions than other assignments](whp-assignments-scored-higher-opportunity-rubrics.md) — related

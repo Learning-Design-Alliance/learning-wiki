@@ -49,4 +49,4 @@ Scatterplot analysis (Figure 3) of the relationship between RTE and the RIT diff
 - [Filtered students had much lower effort-moderated achievement, suggesting motivation filtering may bias mean estimates](filtering-removes-low-achievers-bias-risk.md) — related
 - [Rapid-guessing behavior on an adaptive achievement test is inconsistent with most proposed models of unmotivated test taking except the effort-moderated model](rapid-guessing-inconsistent-with-unmotivated-models-except-effort-moderated.md) — related
 - [RTE provides an assessment of test-taking effort down to the level of individual item responses](rte-assesses-effort-at-item-response-level.md) — related
-- [Test-taking motivation tends to induce a person-specific, systematic negative bias on achievement test scores](test-taking-motivation-negative-score-bias.md) — related
+- [One measurement article argues that low test-taking motivation biases an individual student's achievement test score downward](test-taking-motivation-negative-score-bias.md) — related

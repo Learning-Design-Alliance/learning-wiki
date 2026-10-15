@@ -1,0 +1,80 @@
+{
+  "principle": "patterns/online-course-design",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "online-course-lower-grades-current-and-future",
+      "question": "Do learners do as well, and stay as long, in a fully online course as in the same course face to face?",
+      "members": [
+        [
+          "online-credit-recovery-lower-credit-and-posttest",
+          "+"
+        ],
+        [
+          "credit-recovery-no-second-year-differences",
+          "~"
+        ],
+        [
+          "online-continuing-education-persistence-lower-than-onground",
+          "+"
+        ],
+        [
+          "orientation-week-attrition-double-online",
+          "~"
+        ],
+        [
+          "no-drop-rate-difference-after-instruction-starts",
+          "~"
+        ],
+        [
+          "blended-learning-improves-outcomes",
+          "~"
+        ],
+        [
+          "tipping-point-hypothesis-insufficient-online-dropout",
+          "~"
+        ],
+        [
+          "withdrawal-reasons-similar-across-modalities",
+          "~"
+        ],
+        [
+          "dissatisfaction-not-primary-drop-reason",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "srl-interventions-moderate-effect-online-blended",
+      "question": "Does building self-regulation support (planning, if-then plans, self-checks) into an online course improve learning and completion?",
+      "members": [
+        [
+          "implementation-intentions-improve-goal-attainment",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "interdependence-type-no-achievement-effect-asynchronous",
+      "question": "Does structuring online group discussion (roles, group rewards, a student-led group task) raise achievement, or only participation and attitudes?",
+      "members": [
+        [
+          "reward-interdependence-benefit-attitudes",
+          "~"
+        ],
+        [
+          "interaction-quantity-correlates-posttest-online-groups",
+          "~"
+        ],
+        [
+          "student-led-discussion-task-sustains-online-participation",
+          "~"
+        ],
+        [
+          "web-conferences-support-online-community",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

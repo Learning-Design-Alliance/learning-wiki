@@ -19,7 +19,7 @@ sources:
 # Community-Based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 15 claims (7 for, 8 mixed) · 17 studies (4 causal, 3 review, 3 associational, 3 qualitative, 2 theoretical, 1 quant-synthesis, 1 design), `q1`–`q4` · 3 of 17 report an effect size · 13 claims rest on one study
+> **Evidence** · 15 claims (7 for, 8 mixed) · 17 studies (4 causal, 3 review, 3 associational, 3 qualitative, 2 theoretical, 1 quant-synthesis, 1 design), `q1`–`q4` · 2 of 17 report an effect size · 13 claims rest on one study
 
 ## Conditional relationship
 

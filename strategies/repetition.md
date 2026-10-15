@@ -12,7 +12,7 @@ generated:
 # Repetition
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 9 studies (4 quant-synthesis, 3 causal, 2 review), `q2`–`q4` · 4 of 9 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 11 studies (5 quant-synthesis, 4 causal, 2 review), `q2`–`q4` · 5 of 11 report an effect size
 
 ## Description
 Repetition is the deliberate re-presentation of key points multiple times within and across a lesson, using simple, plain language that minimizes language-processing demands. Repeating key points gives every student additional opportunities to grasp concepts, while simplified wording removes barriers for learners who process auditory information slowly. It is carried out through verbal emphasis, restatement in varied phrasing, and having learners themselves restate or re-explain the key idea.
@@ -29,7 +29,7 @@ Repetition works because each exposure strengthens the memory trace and gives wo
 - Varied phrasing or modality on repetition (restate, visualize, have students repeat) so the second exposure adds encoding rather than mere re-hearing
 
 #### Constraints
-- Verbatim, massed repetition produces boredom and diminishing returns; spaced repetitions spread over time are far more effective than immediate repeats [Spaced repetition improves retention relative to massed repetition.](../claims/spaced-repetition-improves-retention.md) [~S]
+- Verbatim, massed repetition produces boredom and diminishing returns; spaced repetitions spread over time are far more effective than immediate repeats [Spaced repetition improves retention relative to massed repetition.](../claims/spaced-practice-improves-retention.md) [~S]
 - Repeating the same wording does not repair a comprehension failure — if the learner didn't understand the phrasing the first time, identical repetition adds little [-M]
 - Students must be self-aware enough to notice they aren't processing information and request repetition; without this metacognitive check, gaps persist silently
 - Over-repetition of low-priority detail dilutes attention to the key points and consumes instructional time [-W]

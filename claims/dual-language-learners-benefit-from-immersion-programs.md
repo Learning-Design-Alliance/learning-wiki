@@ -48,5 +48,5 @@ The report asserts, citing research without detail, that "Dual language learners
 ## Related Claims
 - [High-quality early care is associated with school readiness, math and language gains, and reduced grade repetition and special education placement](high-quality-early-care-school-readiness-benefits.md) — related
 - [Dual language programs are associated with higher achievement and with EB/non-EB achievement gap closure by seventh grade](dual-language-programs-gap-closure-longitudinal.md) — a narrower finding that bears on this claim
-- [Inclusive preschool special education benefits students with and without disabilities and reduces later special education identification](inclusive-preschool-benefits-reduced-identification.md) — related
+- [A state funding report's research review, citing earlier studies, states that inclusive preschool special education benefits students with and without disabilities and that effective early education reduces later special education identification](inclusive-preschool-benefits-reduced-identification.md) — related
 - [Early childhood education attendance is associated with higher high school completion, college attendance, and employment](ece-higher-completion-college-employment.md) — related

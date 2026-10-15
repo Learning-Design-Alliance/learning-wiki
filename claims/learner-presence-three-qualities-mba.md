@@ -41,8 +41,9 @@ Thematic analysis of seven stimulated recall interviews with six MBA students wh
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Social presence shows the strongest association with metacognition in an online case-based course, while teaching presence shows no significant relationship](social-presence-strongest-metacognition-association-cbi.md) — the general claim this finding bears on, with the studies behind it
 - [A program-wide standard online course template heightens teaching presence and supports learner intentions in accelerated online courses](course-template-supports-learner-presence.md) — related
 - [Peer monitoring among MBA learners goes beyond CoI social presence by involving professionally relevant evaluation of peers' contributions](peer-monitoring-exceeds-social-presence.md) — a narrower finding that bears on this claim
 - [Students in an accelerated online MBA program experience their courses as a community of inquiry, with all three CoI presences rated above 4.0 on a 5-point scale](mba-students-experience-courses-as-coi.md) — related

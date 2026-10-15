@@ -13,7 +13,7 @@ generated:
 # Challenge Based Learning (CBL)
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (5 for, 1 mixed, 1 against) · 15 studies (7 review, 3 causal, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 2 of 15 report an effect size · 1 claim rests on one study
+> **Evidence** · 7 claims (5 for, 1 mixed, 1 against) · 17 studies (7 review, 5 theoretical, 3 causal, 2 quant-synthesis), `q1`–`q4` · 3 of 17 report an effect size · 1 claim rests on one study
 
 ## Description
 Challenge Based Learning (CBL) is a collaborative, inquiry-driven framework in which learners identify a real-world challenge, investigate it through guided research, and act by developing and implementing evidence-based solutions. The framework moves through three interrelated phases — **Engage** (moving from a big idea to a concrete, learner-owned challenge), **Investigate** (guided and student-directed inquiry), and **Act** (designing, implementing, and evaluating solutions) — with documentation and reflection throughout. CBL was developed and piloted by Apple with educators and is documented in the *Challenge Based Learning White Paper* (Nichols & Cator, 2009; Apple Inc., 2011).

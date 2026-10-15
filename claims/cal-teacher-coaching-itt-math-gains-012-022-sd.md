@@ -41,6 +41,9 @@ Two field experiments evaluating the KWiK program in elementary and middle schoo
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Teacher coaching raises student achievement on standardized tests by a pooled 0.18 SD across 31 causal studies](coaching-pooled-achievement-effect-0-18-sd.md) — the general claim this finding bears on, with the studies behind it
+
+- [Teacher coaching programs improve teachers' instructional practice by a pooled 0.49 SD across 43 causal studies](coaching-pooled-instruction-effect-0-49-sd.md) — the general claim this finding bears on, with the studies behind it
 - [Math gains from the CAL program occur in classrooms with at least an average of 35 minutes of practice per week](cal-gains-require-35-minutes-weekly-practice.md) — a narrower finding that bears on this claim

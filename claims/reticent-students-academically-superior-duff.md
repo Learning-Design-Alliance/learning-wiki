@@ -41,6 +41,7 @@ Narrative review attributing this to Duff's (2002) ethnography of non-local stud
 
 ## Discussion
 
-
 ## Related Claims
+
+- [American Indian and Alaska Native students often do not willingly participate in the question-answer activity that constitutes most classroom discussions, because direct questioning in front of peers contradicts community norms](ai-an-students-question-answer-participation.md) — the general claim this finding bears on, with the studies behind it
 - [Sociocultural SLA literature portrays learners who resist mainstream social interaction negatively, as 'nonparticipating' or having 'negative attitude'](sociocultural-sla-demonizes-socially-resistant-learners.md) — related

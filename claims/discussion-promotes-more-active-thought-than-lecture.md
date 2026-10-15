@@ -21,7 +21,7 @@ sources:
     title: "Siegel, L., Siegel, S., Capretta, P. J., Jones, R. A., & Berkowitz, H. (1963). Students' thoughts during class: A criterion for educational research. *Journal of Educational Psychology, 54*(3), 149-155. [https://psycnet.apa.org/journals/edu](https://psycnet.apa.org/journals/edu). [doi:10.1037/h0049171](https://doi.org/10.1037/h0049171)"
     author: "Siegel, L., Siegel, S., Capretta, P. J., Jones, R. A., & Berkowitz, H."
     q: 3
-    i: 2
+    i: "?"
     n: moderate (college classroom samples)
     kind: causal
     rigour: "?"
@@ -38,7 +38,7 @@ sources:
 # Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · 2 review `r?`, 1 causal `r?` · `q2`–`q3` · `i2` medium
+> **Evidence** · 3 studies · 2 review `r?`, 1 causal `r?` · `q2`–`q3`
 
 Lecture is not a uniformly inferior instructional method — reviews find it performs about as well as most alternatives for the specific goal of transmitting information. But for the distinct goal of promoting active thought (problem-solving, synthesis, application), lecture measurably underperforms discussion, plausibly because a lecture's passive listener role leaves little cognitive room for anything beyond selecting information and note-taking.
 
@@ -46,7 +46,7 @@ Lecture is not a uniformly inferior instructional method — reviews find it per
 
 `q2 i?` Across more than ninety comparison studies, lecture was about as effective as other methods for helping learners acquire information, though programmed learning (small self-paced steps with early feedback and mastery-gated progression) showed some promise of being more effective specifically for this goal. [→ Dubin and Taveggia 1968](#dubin-and-taveggia-1968)
 
-`q3 i2` Discussion students spent 8.3% of observed class time on active problem-solving/synthesis versus 1% for lecture students, while lecture students spent far more time in passive thought (36.8% vs. 20.3%) and irrelevant thought (31% vs. 14.5%). [→ Siegel et al 1963](#siegel-et-al-1963)
+`q3 i?` Discussion students spent 8.3% of observed class time on active problem-solving/synthesis versus 1% for lecture students, while lecture students spent far more time in passive thought (36.8% vs. 20.3%) and irrelevant thought (31% vs. 14.5%). [→ Siegel et al 1963](#siegel-et-al-1963)
 
 `q2 i?` Synthesizing this and related literature, lecture is not effective for promoting thought, changing attitudes, or teaching behavioral skills, even though it can be an effective way to transmit information — no single method emerged as superior across all four common instructional objectives (acquiring information, promoting thought, changing attitudes, teaching behavioral skills). [→ Bligh 2000](#bligh-2000)
 
@@ -64,7 +64,7 @@ Reviewing over ninety studies comparing college teaching methods, this analysis 
 
 Siegel, L., Siegel, S., Capretta, P. J., Jones, R. A., & Berkowitz, H. (1963). Students' thoughts during class: A criterion for educational research. *Journal of Educational Psychology, 54*(3), 149-155. [https://psycnet.apa.org/journals/edu](https://psycnet.apa.org/journals/edu). [doi:10.1037/h0049171](https://doi.org/10.1037/h0049171)
 
-`q3 · peer-reviewed classroom observation study · i2 · large, statistically significant difference in active vs. passive thought time between conditions · n=moderate (college classroom samples)` · `causal · r?`
+`q3 · peer-reviewed classroom observation study · i? · no effect size printed; the entry reports only percentages of class time in each kind of thought · n=moderate (college classroom samples)` · `causal · r?`
 
 Directly observing and coding what students reported thinking about during class, this study found discussion-format students spent 8.3% of their time on active problem-solving and synthesis versus only 1% for lecture-format students — and correspondingly, lecture students spent much more time in passive thought (36.8% vs. 20.3%) and off-task, irrelevant thought (31% vs. 14.5%) than discussion students did.
 
@@ -79,16 +79,22 @@ Bligh's widely-cited synthesis organizes findings around four instructional obje
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Which outcomes move: information recall, concept understanding, general reasoning, or learners' sense of having learned?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **6 distinct studies** (2 review, 1 causal, 1 quant-synthesis, 1 associational, 1 theoretical), `q2`–`q4`, 2 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does class time spent with learners talking, explaining and discussing, rather than listening, change what they think about and understand, and does more talk alone do it?* This table gathers the studies behind this claim and the 9 narrower claims that bear on it: **12 distinct studies** (4 causal, 3 review, 2 quant-synthesis, 2 theoretical, 1 associational), `q1`–`q4`, 2 of 12 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | Dubin and Taveggia 1968 | q2 · review · r? | i? | this claim |
-| [Siegel et al 1963](https://doi.org/10.1037/h0049171) | q3 · causal · r? | i2 · large, statistically significant difference in active vs. passive thought time between conditions | this claim |
+| [Siegel et al 1963](https://doi.org/10.1037/h0049171) | q3 · causal · r? | i? | this claim |
 | Bligh 2000 | q2 · review · r? | i? | this claim |
+| [Murphy et al. 2009](https://doi.org/10.1037/a0015576) | q4 · quant-synthesis · r? | i? | [Some classroom discussion approaches improve text comprehension, but gains are not uniform](structured-discussion-methods-improve-comprehension.md) (qualifies) |
+| [Murphy et al. 2018](https://doi.org/10.3102/0002831218771303) | q2 · causal · r1 | i3 · large effect on basic comprehension, d=1.25; small-to-medium on high-level comprehension, d=0.35 | [Some classroom discussion approaches improve text comprehension, but gains are not uniform](structured-discussion-methods-improve-comprehension.md) (qualifies) |
+| [reasoning-tests-1](https://doi.org/10.51388/20.500.12265/250) | q1 · review · r? | i? | [Productive discourse practices correlate with improved performance on standardized tests o](discourse-practices-correlate-reasoning-tests.md) (supports) |
+| Angxuan Chen 2024 | q2 · causal · r1 | i3 | [Students who teach a ChatGPT teachable agent in natural language achieve greater knowledge](chatgpt-teachable-agent-knowledge-gains.md) (supports) |
 | [Freeman S 2014](https://doi.org/10.1073/pnas.1319030111) | q4 · quant-synthesis · r3 | i? | [Active learning gains are larger on concept inventories than on instructor-written course ](active-learning-gains-larger-concept-inventories.md) (qualifies) |
-| Moore 2011 | q2 · associational · r1 | i2 | [Research-verified active-engagement pedagogy yields significant content gains (g ≈ 0.38–0.](reformed-pedagogy-content-gains-but-no-reasoning-gains.md) (qualifies) |
+| Moore 2011 | q2 · associational · r1 | i? | [In physics-based courses for non-science majors taught with active-engagement pedagogy, no](reformed-pedagogy-content-gains-but-no-reasoning-gains.md) (qualifies) |
 | Favero 2025 | q2 · theoretical · r2 | i? | [Students in active learning environments learned more but felt they learned less, mistakin](active-learning-felt-learning-paradox.md) (qualifies) |
+| [Khan Abdus Salam 2025](https://doi.org/10.7759/cureus.94133) | q2 · causal · r2 | i? | [Lecture-based and 4C/ID-based training produced comparable knowledge retention among emerg](no-knowledge-difference-lecture-vs-4cid-consent-training.md) (qualifies); [The 4C/ID group scored higher on consent-taking OSCEs than the lecture group, but the diff](osce-advantage-4cid-not-significant.md) (qualifies) |
+| Sankaranarayanan Paleeri 2014 | q1 · theoretical · r2 | i? | [Research on value education in India reports that lecturing on values does not transact va](lecturing-on-values-does-not-transact-values-effectively.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -100,7 +106,7 @@ The core interpretive point is that "is lecture effective?" is the wrong questio
 - [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Active learning narrows achievement gaps for disadvantaged and underrepresented students](active-learning-narrows-achievement-gaps.md) — a related, more recent body of evidence on when moving away from pure lecture format matters most
 - [Active and collaborative approaches promote higher-order thinking and complex reasoning (review attribution)](active-collaborative-approaches-higher-order-thinking.md) — related
-- [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](guided-discovery-outperforms-pure-discovery.md) — related
+- [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](minimal-guidance-less-effective-for-novices.md) — related
 - [Case-based learning improves exam performance](case-based-learning-improves-exam-performance.md) — related
 - [E-teachers reported shifting from lecture-based, teacher-as-source teaching toward a facilitator role in the online classroom](e-teachers-widen-object-toward-independent-learning.md) — related
 - [Critical thinking gains were significant for creative critical thought but not for logic and reasoning](ideation-discussion-creative-thought-gains-not-logic.md) — related

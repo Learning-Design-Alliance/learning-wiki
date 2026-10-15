@@ -7,3 +7,8 @@ page: ../claims/field-trips-small-positive-science-score-effects.md
 
 ### 2026-10-08 · ingest · process:wiki-ingest
 Ingested from hub-2002 (A Day at the Museum: The Impact of Field Trips on Middle School Science Achievement) via eval_harness.py + ingest_extractions.py
+
+## Earlier history as claims/field-trips-positive-science-proficiency
+
+### 2026-10-08 · ingest · process:wiki-ingest
+Ingested from hub-2002 (A Day at the Museum: The Impact of Field Trips on Middle School Science Achievement) via eval_harness.py + ingest_extractions.py

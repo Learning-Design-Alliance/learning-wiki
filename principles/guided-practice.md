@@ -26,7 +26,7 @@ sources:
 # Guided Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 14 claims (6 for, 8 mixed) · 24 studies (8 causal, 7 theoretical, 4 review, 2 quant-synthesis, 2 qualitative, 1 associational), `q1`–`q4` · 1 of 24 report an effect size · 9 claims rest on one study
+> **Evidence** · 14 claims (6 for, 8 mixed) · 19 studies (8 causal, 4 review, 2 quant-synthesis, 2 qualitative, 2 theoretical, 1 associational), `q1`–`q4` · 1 of 19 report an effect size · 10 claims rest on one study
 
 ## Conditional relationship
 
@@ -102,6 +102,11 @@ No claim in the wiki compares guided practice with independent practice followin
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](../claims/expertise-reversal-effect.md) [~M]: a review of cognitive-load studies: guidance that helps novices can be redundant for learners who already hold the schema, and can depress their performance. It is the reason to shorten or end guided practice for learners who succeed unaided; it does not say when an individual crosses over. Not settled: the abstract could not confirm the entry.
 
 Learners, tasks, settings and outcomes differ across these claims (undergraduates on a computer lesson, children with a tutor, college students on recall tests), so do not rank them by effect label. None measures delayed retention of a guided-practice gain against independent practice.
+
+## The evidence by question
+
+- *After a model, does practice with support and feedback produce better unaided performance than no practice or unguided practice?* [In one experiment with 256 undergraduates, computer-based lesson versions that included practice produced significantly higher posttest scores than versions without practice](../claims/practice-presence-raises-cbi-posttest-achievement.md) [+M]
+- *What should support during practice do: explain and give feedback, prompt the learner to construct the step, or respond contingently to each attempt?* [Human tutoring has a medium effect over no tutoring, and in one small study students learned as well when tutors only prompted them as when tutors also explained and gave feedback](../claims/tutoring-effectiveness-comes-from-scaffolding-and-feedback.md) [~M]
 
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-02: claims this page cited before the 2026-10-02 rewrite. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->

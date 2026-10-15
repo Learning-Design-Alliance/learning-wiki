@@ -18,28 +18,18 @@ sources:
     n: 2426 (58 independent comparisons)
     kind: quant-synthesis
     rigour: "?"
-  - id: ceballos-nutta-2022
-    resource: "https://eric.ed.gov/?id=EJ1380081"
-    title: "Ceballos, M., & Nutta, J. W. (2022). Emergent bilinguals and multimedia instructional design: Applying the science of learning principles to dual language instruction. *Education Leadership Review, 23*(1). [ERIC EJ1380081](https://eric.ed.gov/?id=EJ1380081)"
-    author: "Ceballos, M., & Nutta, J. W."
-    q: 2
-    i: "?"
-    kind: theoretical
-    rigour: 2
 ---
 
 # Split Attention Effect Degrades Learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 quant-synthesis `r?`, 1 theoretical `r2` · `q2`–`q4` · `i2` medium · n=2426 (58 independent comparisons)
+> **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i2` medium · n=2426 (58 independent comparisons)
 
 When learners must mentally integrate information that is physically or temporally separated — such as a diagram and its explanatory text presented apart — working memory resources are consumed by search-and-match processes, degrading learning relative to integrated presentations.
 
 ## Subclaims
 
 `q4 i2` A meta-analysis of 58 independent comparisons (n=2426) found that spatially integrating mutually referring text and diagrams produced a medium-to-large learning benefit over spatially separated presentation, g=0.63. [→ Schroeder Cenkci 2018](#schroeder-cenkci-2018)
-
-`q2 i?` Schroeder and Cenkci's meta-analysis of 36 studies, as reported by the article, found that spatial contiguity (placing printed words next to pictures or graphics) increased learning outcomes. [→ Marjorie Ceballos 2022](#ceballos-nutta-2022)
 
 ## Evidence
 
@@ -51,6 +41,9 @@ Schroeder, N. L., & Cenkci, A. T. (2018). Spatial contiguity and spatial split-a
 
 A random-effects meta-analysis pooled 58 independent comparisons (total n=2426) drawn from the multimedia-learning literature contrasting spatially integrated designs (text and diagrams placed together) against spatially separated designs requiring learners to search back and forth between sources. Integrated designs produced an overall effect size of g=0.63 (p<0.001), a medium-to-large advantage consistent with the split-attention/spatial-contiguity account: physically co-locating mutually referring information removes the search-and-match burden that separated presentation imposes on working memory. The authors also examined numerous intervention- and context-related moderators and found the benefit held broadly across them, though (per the abstract) more remained to be understood about exactly which conditions maximize the effect.
 
+<!-- merged duplicate entry 2026-10-15: a second-hand report of Schroeder & Cenkci (2018), the meta-analysis above, kept verbatim with its subclaim.
+`q2 i?` Schroeder and Cenkci's meta-analysis of 36 studies, as reported by the article, found that spatial contiguity (placing printed words next to pictures or graphics) increased learning outcomes. [→ Marjorie Ceballos 2022](#ceballos-nutta-2022)
+
 ### Ceballos & Nutta 2022
 
 Ceballos, M., & Nutta, J. W. (2022). Emergent bilinguals and multimedia instructional design: Applying the science of learning principles to dual language instruction. *Education Leadership Review, 23*(1). [ERIC EJ1380081](https://eric.ed.gov/?id=EJ1380081)
@@ -60,19 +53,20 @@ Ceballos, M., & Nutta, J. W. (2022). Emergent bilinguals and multimedia instruct
 The article reports, citing Schroeder and Cenkci (2018), a meta-analysis of 36 studies finding spatial contiguity increased learning outcomes; it also cites individual mathematics and science lesson studies and a Japanese-language perception study. No pooled effect size is printed. This is a second-hand report of the same meta-analysis recorded above, which itself reports 58 independent comparisons; the article's "36 studies" is not reconciled with that count here.
 
 > "Schroeder and Cenkci’s (2018) meta-analysis of 36 studies found that instructional designs with spatial contiguity increased learning outcomes."
+-->
 
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Should words sit next to, and arrive with, the picture they describe?* This table gathers the studies behind this claim and the 9 narrower claims that bear on it: **6 distinct studies** (3 quant-synthesis, 2 review, 1 theoretical), `q2`–`q4`, 4 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Should words sit next to, and arrive with, the picture they describe?* This table gathers the studies behind this claim and the 9 narrower claims that bear on it: **6 distinct studies** (3 quant-synthesis, 3 review), `q2`–`q4`, 4 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Schroeder Cenkci 2018](https://doi.org/10.1007/s10648-018-9435-9) | q4 · quant-synthesis · r? | i2 · medium-to-large effect, g=0.63 | this claim |
-| Ceballos & Nutta 2022 | q2 · theoretical · r2 | i? | this claim; [A narrative review cites one study in which simultaneous notes, worked example and explana](temporal-contiguity-lower-cognitive-load.md) (supports) |
 | [Noetel 2022](https://doi.org/10.3102/00346543211052329) | q3 · quant-synthesis · r3 | i2 | [Presenting related material contiguously in space and time yields large learning benefits](contiguity-spatial-temporal-large-learning-benefits.md) (supports) |
 | [Ginns 2006](https://doi.org/10.1016/j.learninstruc.2006.10.001) | q2 / q3 · quant-synthesis · r2 | i3; i2; i? | [Integrating spatially or temporally separated but related elements of instructional inform](integration-of-related-elements-large-mean-effect.md) (supports); [The learning benefit of increasing integration is substantially larger for high element in](element-interactivity-moderates-contiguity-effect.md) (qualifies); [Contiguity effects show no statistically reliable difference between static and dynamic pr](static-dynamic-presentation-no-moderation.md) (qualifies); [Spatial and temporal contiguity effects do not differ significantly in mean magnitude](spatial-temporal-contiguity-equivalent-magnitudes.md) (qualifies); [Contiguity effects are larger under one-on-one testing (d = .89) than under group testing ](testing-format-moderates-contiguity-effect.md) (qualifies); [The review reports that the split-attention benefit for novices reverses into a redundancy](expertise-reversal-split-attention-redundancy-review.md) (qualifies) |
 | [Richard E. Mayer 2008](https://doi.org/10.1037/0003-066x.63.8.760) | q3 · review · r2 | i3 | [Contiguity principles: near placement and simultaneous presentation of corresponding words](contiguity-principles-mayer-2008.md) (supports) |
+| Ceballos & Nutta 2022 | q2 · review · r2 | i? | [A narrative review cites one study in which simultaneous notes, worked example and explana](temporal-contiguity-lower-cognitive-load.md) (supports) |
 | [Kalyuga 2003](https://doi.org/10.1207/s15326985ep3801_4) | q2 · review · r2 | i? | [The review reports that the split-attention benefit for novices reverses into a redundancy](expertise-reversal-split-attention-redundancy-review.md) (qualifies) |
 <!-- synthesis:end -->
 
@@ -90,7 +84,7 @@ The article reports, citing Schroeder and Cenkci (2018), a meta-analysis of 36 s
 
 **Constraints.** The split-attention remedy fails or backfires under identifiable conditions. When the two sources are *not* mutually referring — each is intelligible alone — physically integrating them creates redundancy rather than removing search costs, and separated presentation is preferable [-M]. For learners with high prior expertise, integrated formats can impose additional load rather than reduce it, per the [expertise reversal effect](../theories/expertise-reversal-effect.md) [~M]. Integration also has limits as a universal fix: embedding text into a complex graphic can itself crowd and fragment the visual display [-W], and when material must be held across a temporal gap, integration is impossible — only [chunking](chunking-reduces-working-memory-load.md) or modality substitution mitigates the cost, and modality substitution carries its own boundary conditions (e.g., it fails when narration is long, technical, or must be re-inspected) [~M].
 
-**Open questions.** The page records one meta-analysis of integrated versus separated formats (Schroeder & Cenkci 2018) and one article that re-reports it (Ceballos & Nutta 2022); no primary comparison is recorded as an entry here. Key moderators to test in future entries include learner expertise, whether sources are mutually referring, and modality (audio narration can sometimes substitute for spatial integration by offloading visual channels).
+**Open questions.** The page records one meta-analysis of integrated versus separated formats (Schroeder & Cenkci 2018) and one article that re-reports it (Ceballos & Nutta 2022, kept as a comment under that entry rather than counted as a second study); no primary comparison is recorded as an entry here. Key moderators to test in future entries include learner expertise, whether sources are mutually referring, and modality (audio narration can sometimes substitute for spatial integration by offloading visual channels).
 
 *Merged from “Contiguity Principle Improves Learning” (contiguity-principle-improves-learning):* **What the recorded evidence covers.** The meta-analysis above tests spatial contiguity only (integrated against separated text and graphics). Temporal contiguity, narration presented at the same time as the animation it describes, is not tested by anything recorded here.
 
@@ -115,7 +109,7 @@ Boundary conditions follow from the same mechanism. Integration benefits are lar
 
 **Distinguish from temporal contiguity.** Spatial integration should be distinguished from temporal contiguity (presenting words and images simultaneously rather than successively); the two principles are related but empirically separable, and this page covers only the spatial case.
 
-**Evidence status.** The page records one spatial-contiguity meta-analysis (Schroeder & Cenkci 2018, g = 0.63 over 58 comparisons) and a second-hand report of it (Ceballos & Nutta 2022); specific primary experiments are not yet recorded as entries.
+**Evidence status.** The page records one spatial-contiguity meta-analysis (Schroeder & Cenkci 2018, g = 0.63 over 58 comparisons) and a second-hand report of it (Ceballos & Nutta 2022, kept as a comment under that entry); specific primary experiments are not yet recorded as entries.
 
 *Merged from “Split attention between mutually referring sources of information impairs learning” (split-attention-effect-impairs-learning):* **Mechanism.** Split attention is a core prediction of [Cognitive Load Theory](../theories/cognitive-load-theory.md): when related sources of information are separated in space or time, learners must hold one source in working memory while searching for the other, imposing extraneous load that does not contribute to schema construction [~M]. Physically integrating the sources — placing text labels directly on a diagram, or narrating over the relevant part of an animation — removes the search-and-match process, and is one of the primary levers in [cognitive load reduction](../principles/cognitive-load-reduction.md) [+M].
 

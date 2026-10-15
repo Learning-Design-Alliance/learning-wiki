@@ -12,14 +12,14 @@ generated:
 # Summative Assessment to Measure Learning Over Time
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies (4 quant-synthesis, 1 causal), `q3`–`q4` · 3 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 7 studies (5 quant-synthesis, 2 causal), `q3`–`q4` · 4 of 7 report an effect size
 
 ## Description
 Summative assessment evaluates learner achievement against a set of standards at the conclusion of an instructional period, while interim assessments administered between summative points show individual progress toward those same standards. Together they produce a longitudinal record of learning: interims diagnose trajectory, summatives certify attainment, and the comparison between them measures growth and instructional efficacy.
 
 ## Design Implications
 
-Assessment itself is a learning event: retrieving knowledge on an assessment strengthens retention more than restudying [Testing produces durable retention gains over restudying.](../claims/spaced-repetition-improves-retention.md) [+S], so well-designed summative and interim assessments contribute to learning rather than merely measuring it. Their measurement function depends on alignment — items must map explicitly to the standards being claimed, and results are only actionable when they feed back into instruction at the task and process level [Feedback is most effective when directed at the task and process rather than the person.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
+Assessment itself is a learning event: retrieving knowledge on an assessment strengthens retention more than restudying [Testing produces durable retention gains over restudying.](../claims/spaced-practice-improves-retention.md) [+S], so well-designed summative and interim assessments contribute to learning rather than merely measuring it. Their measurement function depends on alignment — items must map explicitly to the standards being claimed, and results are only actionable when they feed back into instruction at the task and process level [Feedback is most effective when directed at the task and process rather than the person.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
 
 ### Context
 #### Requirements
@@ -37,7 +37,7 @@ Assessment itself is a learning event: retrieving knowledge on an assessment str
 #### Implementation Variability
 - **Interim benchmarks** (e.g., quarterly district assessments) track individual progress toward standards between summative windows
 - **Performance-based summatives** (portfolios, capstone projects, exhibitions) assess integrated skill in authentic contexts
-- **Cumulative review formats** — distributing earlier material across later assessments exploits retrieval practice and spacing effects [Spaced retrieval improves long-term retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- **Cumulative review formats** — distributing earlier material across later assessments exploits retrieval practice and spacing effects [Spaced retrieval improves long-term retention.](../claims/spaced-practice-improves-retention.md) [+S]
 - **Competency-based models** replace time-bound summatives with mastery demonstrations on demand
 
 ### Target Learners

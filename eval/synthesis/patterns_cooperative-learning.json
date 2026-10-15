@@ -1,0 +1,124 @@
+{
+  "principle": "patterns/cooperative-learning",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "cooperative-learning-improves-achievement",
+      "question": "Does structured cooperative group work raise achievement more than individualistic, competitive or traditional whole-class instruction?",
+      "members": [
+        [
+          "cooperative-learning-moderate-overall-effect-second-order",
+          "+"
+        ],
+        [
+          "cooperative-learning-achievement-synthesis-slavin",
+          "+"
+        ],
+        [
+          "secondary-cooperative-learning-newmann-thompson",
+          "+"
+        ],
+        [
+          "cooperative-learning-higher-achievement-than-competitive-individualistic",
+          "+"
+        ],
+        [
+          "cooperation-versus-individualistic-effort-outcomes",
+          "+"
+        ],
+        [
+          "lazarowitz-cooperative-biology-achievement",
+          "+"
+        ],
+        [
+          "cooperative-learning-language-class-outcomes",
+          "+"
+        ],
+        [
+          "circ-potentially-positive-comprehension-adolescent-learners",
+          "+"
+        ],
+        [
+          "peer-small-group-outperform-other-methods",
+          "+"
+        ],
+        [
+          "cooperative-learning-science-studies-mixed",
+          "~"
+        ],
+        [
+          "circ-cooperative-component-benefit-unconfirmed",
+          "~"
+        ],
+        [
+          "small-group-learning-improves-stem-achievement",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "cooperative-learning-group-rewards-and-individual-accountability",
+      "question": "Which structure matters: group rewards tied to each member's learning, assigned roles, or interdependence of any kind?",
+      "members": [
+        [
+          "interdependence-type-no-achievement-effect-asynchronous",
+          "~"
+        ],
+        [
+          "interdependence-type-shifts-interaction-nature",
+          "~"
+        ],
+        [
+          "accountability-effects-depend-on-type-context-task",
+          "~"
+        ],
+        [
+          "tbl-survey-above-neutral",
+          "~"
+        ],
+        [
+          "group-membership-alone-does-not-produce-cooperation",
+          "+"
+        ],
+        [
+          "reward-interdependence-benefit-attitudes",
+          "~"
+        ],
+        [
+          "structured-interdependence-contribution-obligation-attitude",
+          "~"
+        ],
+        [
+          "interaction-quantity-correlates-posttest-online-groups",
+          "~"
+        ],
+        [
+          "classroom-research-supports-motivational-perspective",
+          "+"
+        ],
+        [
+          "secondary-cooperative-learning-newmann-thompson",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "peer-tutoring-improves-achievement",
+      "question": "Does structured peer tutoring, a paired form of cooperative work, raise achievement, and does its structure matter?",
+      "members": [
+        [
+          "structured-peer-tutoring-outperforms-unstructured",
+          "+"
+        ],
+        [
+          "peer-tutoring-response-groups-positive-eld-effects",
+          "+"
+        ],
+        [
+          "cross-level-peer-tutoring-null-oral-proficiency",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

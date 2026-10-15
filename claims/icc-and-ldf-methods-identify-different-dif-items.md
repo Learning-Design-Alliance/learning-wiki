@@ -39,6 +39,20 @@ Applied comparison on a state-level performance-based assessment with approximat
 
 > "Items 3, 4 and 5 are identified by both techniques as having substantial DIF. However, items 12, 29, 13, and 24 show DIF using the LDF technique but not the ICC technique. Items 18, 23, 25 and 26 show DIF using the ICC technique but not the LDF technique."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*How far does a statistical item-bias (DIF) flag identify a biased item, rather than the method, sample or form that produced it?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **5 distinct studies** (3 associational, 2 causal), `q1`–`q2`, 0 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Holweger 1998 | q1 / q2 · associational · r2 | i? | this claim; [The assessment violates IRT assumptions of unidimensionality and local independence, which](irt-assumption-violations-cause-dif-method-discrepancy.md) (qualifies) |
+| Srdjan Verbić & Boris Tomić 2008 | q2 · associational · r1 | i? | [DIF was found for four items but could not be anticipated from differential response times](dif-not-predictable-from-differential-response-times.md) (qualifies) |
+| [Soysal 2021](https://doi.org/10.21449/ijate.779963) | q2 · associational · r2 | i? | [Item purification made both DIF methods more sensitive, flagging more items](item-purification-increases-dif-detection-sensitivity.md) (supports); [Some items positioned close together across booklets were also flagged as DIF, possibly du](close-positioned-items-also-flagged-dif-possible-type-i-error.md) (supports) |
+| Flowers 1996 | q2 · causal · r2 | i? | [The chi-square significance test for NC-DIF is overly sensitive at large sample sizes, req](nc-dif-chi-square-overly-sensitive-large-samples.md) (supports) |
+| Flowers 1997 | q2 · causal · r2 | i? | [Type I error rates of all three polytomous DIF indices increase as the number of DIF items](dif-type-i-error-increases-with-dif-items-and-magnitude.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

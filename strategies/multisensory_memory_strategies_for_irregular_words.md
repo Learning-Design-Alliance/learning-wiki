@@ -12,14 +12,14 @@ generated:
 # Multisensory Memory Strategies for Irregular Words
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 against) · 9 studies (3 causal, 3 quant-synthesis, 2 review, 1 theoretical), `q1`–`q4` · 3 of 9 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (3 for, 1 against) · 11 studies (4 causal, 4 quant-synthesis, 2 review, 1 theoretical), `q1`–`q4` · 4 of 11 report an effect size · 1 claim rests on one study
 
 ## Description
 Multisensory memory strategies for irregular words involve using multiple senses (visual, auditory, kinesthetic, and tactile) to enhance memory and retention of irregularly spelled words. Typical techniques include grouping words with memorable similarities, calling attention to the "odd" parts of words, repeated practice through copying and saying letters while writing, discussing the irregularities explicitly, and using mnemonics. The approach exists because irregular words do not follow typical phoneme–grapheme correspondences and therefore cannot be fully decoded with standard phonics rules; they must be secured in memory as whole-unit orthographic representations [Ehri's orthographic mapping account.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S].
 
 ## Design Implications
 
-Multisensory encoding supports retention by giving learners redundant retrieval routes and by directing attention to the specific letters that violate expected grapheme–phoneme mappings [Media combinations affect recall and retention.](../claims/media-combinations-affect-recall-and-retention.md) [+M]. The critical mechanism, however, is not the sensory channel itself but the formation of complete letter–sound connections through attention and repeated, spaced practice [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]; tracing letters in sand without attending to letter identities adds activity, not learning.
+Multisensory encoding supports retention by giving learners redundant retrieval routes and by directing attention to the specific letters that violate expected grapheme–phoneme mappings [Media combinations affect recall and retention.](../claims/media-combinations-affect-recall-and-retention.md) [+M]. The critical mechanism, however, is not the sensory channel itself but the formation of complete letter–sound connections through attention and repeated, spaced practice [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]; tracing letters in sand without attending to letter identities adds activity, not learning.
 
 ### Context
 #### Requirements
@@ -57,7 +57,7 @@ Multisensory encoding supports retention by giving learners redundant retrieval 
 3. Have the student trace or write the word while naming each letter aloud, engaging visual, auditory, and kinesthetic channels simultaneously.
 4. Highlight or mark the irregular grapheme so attention lands on the non-decodable part.
 5. Erase or cover the word and have the student write it from memory, then compare against the model and self-correct.
-6. Distribute review of the word across days and cumulatively mix it with previously learned words [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+6. Distribute review of the word across days and cumulatively mix it with previously learned words [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 7. Follow word-level work with connected-text reading containing the target words ([Practice](../elements/practice.md) in context).
 
 ## Related Strategies

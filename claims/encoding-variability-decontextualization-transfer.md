@@ -39,10 +39,24 @@ The review reports, citing DiVesta and Peverly (1984), an experiment manipulatin
 
 > "[Practice] on examples from a variety ofcontexts (encoding variability) will result in decontextualizationdue to the availability of multiple retrieval paths"
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does learning across varied contexts or varied tasks of a type, rather than repeating one, produce transfer to new cases?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **4 distinct studies** (2 review, 2 theoretical), `q1`–`q2`, 0 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Shavelson 1986 | q2 · review · r2 | i? | this claim |
+| M. David Merrill 2007 | q1 · theoretical · r2 | i? | [Learning varied tasks of the same type enables transfer to unencountered tasks of that typ](task-variety-enables-transfer-same-task-type.md) (supports) |
+| Collins 1988 | q1 · theoretical · r2 | i? | [Learning in multiple contexts and generalizing across them makes knowledge both specific a](multiple-contexts-generalization-transfer.md) (supports) |
+| Yingli Wang 2008 | q2 · review · r2 | i? | [Task rehearsal improves fluency and complexity on the repeated task but does not transfer ](task-repetition-fluency-complexity-same-task-only.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
-
 ## Related Claims
+
+- [Presenting multiple cases from different perspectives supports transfer in ill-structured domains](cognitive-flexibility-theory-multiple-cases.md) — the general claim this finding bears on, with the studies behind it
 - [Analogical Reasoning Improves Transfer](analogical-reasoning-improves-transfer.md) — related
 - [Comparing cases side by side improves learning and transfer by a moderate average amount, though in one algebra study it raised procedural knowledge and flexibility but not conceptual knowledge](comparing-contrasting-cases-improves-learning.md) — related
 - [Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts](vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts.md) — related

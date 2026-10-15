@@ -7,3 +7,8 @@ page: ../claims/deep-prompt-advantage-fades-at-follow-up.md
 
 ### 2026-10-02 · ingest · process:wiki-ingest
 Ingested from eric-ej1411246 (Enhancing Self-Regulated Learning: Immediate and Follow-Up Effects of Cognitive Prompts) via eval_harness.py + ingest_extractions.py
+
+## Earlier history as claims/deep-prompting-insufficient-long-term-retention
+
+### 2026-10-02 · ingest · process:wiki-ingest
+Ingested from eric-ej1411246 (Enhancing Self-Regulated Learning: Immediate and Follow-Up Effects of Cognitive Prompts) via eval_harness.py + ingest_extractions.py

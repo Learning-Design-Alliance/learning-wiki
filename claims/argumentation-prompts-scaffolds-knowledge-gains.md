@@ -39,6 +39,7 @@ The primer reports, citing Firetto et al. (2019) and Noroozi et al. (2013), that
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Argumentation Improves Reasoning](argumentation-improves-reasoning.md) — the general claim this finding bears on, with the studies behind it
 -

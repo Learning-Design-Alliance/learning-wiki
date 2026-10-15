@@ -1,0 +1,32 @@
+{
+  "principle": "principles/debriefing",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "analytics-feedback-reflection-strengthen-learning-gains",
+      "question": "Does a feedback and reflection step after a simulation or shared exercise add to what learners gain from the experience itself?",
+      "members": [
+        [
+          "simulation-based-education-with-deliberate-practice-improves-clinical-outcomes",
+          "+"
+        ],
+        [
+          "simulation-based-education-improves-outcomes",
+          "~"
+        ],
+        [
+          "reflective-practice-evidence-mixed-in-professional-education",
+          "~"
+        ],
+        [
+          "reflection-debriefing-time-underscheduled",
+          "+"
+        ],
+        [
+          "feedback-timing-post-session-debrief-preference",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

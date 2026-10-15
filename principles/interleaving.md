@@ -31,7 +31,7 @@ sources:
 # Interleaving
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 15 claims (7 for, 8 mixed) · 11 studies (5 causal, 2 quant-synthesis, 2 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 3 of 11 report an effect size · 12 claims rest on one study
+> **Evidence** · 14 claims (7 for, 7 mixed) · 11 studies (5 causal, 2 quant-synthesis, 2 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 3 of 11 report an effect size · 11 claims rest on one study
 
 ## Conditional relationship
 
@@ -96,7 +96,7 @@ These rows are proposals, untested with learners as diagnostics. A check is itse
 ## Evidence and qualifications
 
 - [Interleaving improves discrimination](../claims/interleaving-improves-discrimination.md) [+S]: three studies. Kornell & Bjork (2008) found learners classified *new* paintings better after interleaved study of artists, while most believed blocking had helped them more; Rohrer & Taylor (2007) found shuffled mathematics practice gave far better delayed performance despite worse practice; Brunmair & Richter (2019) found the overall benefit depends on category similarity.
-- [Interleaved practice produces a moderate overall benefit for inductive category learning](../claims/moderate-overall-interleaving-effect.md) [+M]: g = 0.42 across 238 effect sizes in 158 samples (Brunmair & Richter 2019). The same finding is recorded on [Interleaving category examples improves inductive category learning](../claims/interleaving-improves-inductive-learning.md) [~M]; the two claim pages are candidates for a claim merge.
+- [Interleaved practice produces a moderate overall benefit for inductive category learning](../claims/interleaving-improves-inductive-learning.md) [+M]: g = 0.42 across 238 effect sizes in 158 samples (Brunmair & Richter 2019). The same finding is recorded on [Interleaving category examples improves inductive category learning](../claims/interleaving-improves-inductive-learning.md) [~M]; the two claim pages are candidates for a claim merge.
 - [Between-category similarity raises and within-category similarity lowers the interleaving effect](../claims/similarity-and-complexity-moderate-interleaving.md) [~M]: the condition this page is built on.
 - [Interleaving benefits are small for mathematical tasks and absent or reversed for expository texts and words](../claims/interleaving-limited-for-math-texts-and-words.md) [~M]: g = 0.34 for mathematical tasks, no significant effect for expository texts, g = −0.39 for words. The limiting claim: interleaving is not a general improvement to any practice.
 - [Interleaving shows positive effects for all visual stimulus types](../claims/interleaving-strongest-for-paintings-visual-materials.md) [+M]: g = 0.67 for paintings, 0.35 for naturalistic photographs.
@@ -107,6 +107,11 @@ These rows are proposals, untested with learners as diagnostics. A check is itse
 Not yet read against this page: Rohrer, Dedrick & Stershic (2015), a classroom experiment in mathematics, was fetched in batch 70 but its extraction did not pass validation, so it has no claim yet.
 
 Taken together: mixing kinds in practice reliably helps learners tell confusable kinds apart, most for visual categories and less for mathematics; it does nothing or harm for texts and word lists. No claim in the wiki tests a dose (how much mixing, after how many blocked items), and no claim separates interleaving from the spacing it usually brings with it.
+
+## The evidence by question
+
+- *Should examples or problems of confusable categories be met in blocks or interleaved, and for which materials?* [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](../claims/interleaving-improves-inductive-learning.md) [~M]
+- *How alike must the categories be for mixing to help, and when does blocking do better?* [Interleaving effects are stronger when material is more similar between categories, less similar within categories, and more complex](../claims/similarity-and-complexity-moderate-interleaving.md) [~M]
 
 ## Further evidence, not yet read against this model
 

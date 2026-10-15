@@ -71,6 +71,10 @@ Undergraduates studying heat and temperature were assigned to physical manipulat
 
 ## Related Claims
 
+- [Immersive technologies such as virtual reality should reinforce, not substitute, the original educational action](vr-reinforcement-not-substitute.md) — the general claim this finding bears on, with the studies behind it
+
+- [Reviewed studies report experiential learning benefits for engagement, skills, confidence and outcomes in human services education](experiential-learning-engagement-skills-ethical-reasoning.md) — the general claim this finding bears on, with the studies behind it
+
 - [Block play predicts math achievement](../claims/block-play-predicts-math-achievement.md) — physical manipulation of structured materials supports spatial and quantitative development.
 - [Classroom physical activity improves attention](../claims/classroom-physical-activity-improves-attention.md) — bodily engagement can boost attention, a precondition for learning, though not conceptual change itself.
 - [Active learning improves exam performance](../claims/active-learning-improves-exam-performance.md) — physical experience is most effective as one structured form of active learning.

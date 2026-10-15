@@ -59,6 +59,22 @@ Rau, M. A. (2017). Conditions for the Effectiveness of Multiple Visual Represent
 
 This review addresses the "representation dilemma": students often must learn unfamiliar content from visual representations they do not yet know how to read, so more representations are not automatically better. It compares "text plus a single type of visual representation" against "text plus multiple types of visual representations," derives seven hypotheses about when the multiple-representation condition outperforms the single-representation one, and reviews empirical evidence for each — concluding that benefit depends on students' representational competencies (their skill at connecting different representation types to the underlying content) rather than being a simple function of representation count.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does adding a second representation of the same idea help, and when?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **7 distinct studies** (3 causal, 2 review, 1 associational, 1 qualitative), `q2`–`q3`, 2 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Hahn and Klein 2025](https://doi.org/10.3389/fpsyg.2025.1544764) | q2 · causal · r1 | i2 · medium effect, d=0.40 | this claim |
+| [Rau 2017](https://doi.org/10.1007/s10648-016-9365-3) | q2 · review · r? | i? | this claim |
+| [Lin 2016](https://doi.org/10.5539/elt.v9n10p1) | q3 · causal · r2 | i2 | [Video with concurrent narration and on-screen text yields higher immediate macrostructure ](video-narration-text-improves-immediate-macs-comprehension.md) (supports) |
+| Steinbach 2022 | q2 · review · r2 | i? | [Combining voiced auditory descriptions with tactile graphics increased braille readers' li](auditory-descriptions-plus-tactile-graphics-improve-bvi-assessment.md) (supports) |
+| Rakib 2025 | q2 · causal · r1 | i? | [Participants valued multimodal experiences combining visualization with hands-on interacti](multimodal-valued-complex-visualizations-hinder.md) (qualifies) |
+| Douglas H. Clements 2013 | q2 · associational · r? | i? | [Using more representations of mathematical ideas is associated with increased student math](more-representations-mathematical-ideas-higher-achievement.md) (supports) |
+| Higgin 2025 | q2 · qualitative · r2 | i? | [Multiple representations and explanations of math concepts aid student understanding, but ](multiple-representations-aid-understanding-faculty-time.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Mechanisms.** Multiple representations are typically justified through two complementary mechanisms: dual coding, in which verbal and visual channels are processed separately and can reinforce one another (see [Dual coding theory](../theories/dual-coding-theory.md)) [+M], and cognitive flexibility, in which multiple representations help learners build flexible, restructurable knowledge rather than a single brittle mental model (see [Cognitive flexibility theory](../theories/cognitive-flexibility-theory.md) and [Multiple cases support cognitive flexibility](cognitive-flexibility-theory-multiple-cases.md)) [+W]. A third mechanism is complementary information: different representations make different aspects of a concept visible (e.g., a graph shows trends, an equation shows exact relations), so no single format carries the full idea.

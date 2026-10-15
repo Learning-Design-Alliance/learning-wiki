@@ -43,5 +43,7 @@ Correlational analysis within the same experiment relating observed interaction 
 
 ## Related Claims
 
+- [Social presence shows the strongest association with metacognition in an online case-based course, while teaching presence shows no significant relationship](social-presence-strongest-metacognition-association-cbi.md) — the general claim this finding bears on, with the studies behind it
+
 - [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](cooperative-learning-group-rewards-and-individual-accountability.md) — the general claim this finding bears on, with the studies behind it
 - [Structuring positive interdependence (role, reward, or both) did not affect posttest achievement for undergraduate business majors in asynchronous online small group work](interdependence-type-no-achievement-effect-asynchronous.md) — related

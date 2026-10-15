@@ -12,14 +12,14 @@ generated:
 # Visual Mnemonics
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 3 studies (2 quant-synthesis, 1 causal), `q3`–`q4` · 1 of 3 report an effect size
+> **Evidence** · 1 claim (1 for) · 5 studies (3 quant-synthesis, 2 causal), `q3`–`q4` · 2 of 5 report an effect size
 
 ## Description
 Visual mnemonics involve creating visual images to cue a strategy or represent a concept. Learners associate abstract or arbitrary content with concrete, vivid imagery — a picture, symbol, or imagined scene — so that the image serves as a retrieval cue at recall time. The technique exploits the picture-superiority effect and dual coding: information encoded both verbally and visually leaves two memory traces instead of one [Concrete visual and verbal codes combine to improve recall.](../theories/dual-coding-theory.md) [+S].
 
 ## Design Implications
 
-Visual mnemonics work best when the image is *interactive* — when it links the cue to the target content rather than merely illustrating it. The keyword method, in which a familiar word that sounds like the target is depicted interacting with its meaning, reliably improves vocabulary and fact recall for novices [Keyword mnemonics improve paired-associate recall for novices.](../claims/spaced-repetition-improves-retention.md) [+M]. Images should be bizarre or distinctive enough to stand out from surrounding material, but the critical feature is the explicit connection to the content, not creativity for its own sake.
+Visual mnemonics work best when the image is *interactive* — when it links the cue to the target content rather than merely illustrating it. The keyword method, in which a familiar word that sounds like the target is depicted interacting with its meaning, reliably improves vocabulary and fact recall for novices [Keyword mnemonics improve paired-associate recall for novices.](../claims/spaced-practice-improves-retention.md) [+M]. Images should be bizarre or distinctive enough to stand out from surrounding material, but the critical feature is the explicit connection to the content, not creativity for its own sake.
 
 ### Context
 #### Requirements
@@ -31,7 +31,7 @@ Visual mnemonics work best when the image is *interactive* — when it links the
 #### Constraints
 - Gains are strongest for recall of arbitrary associations; visual mnemonics add little to conceptual understanding and can consume working memory that would be better spent on schema building for complex material [~M]
 - Effectiveness fades as material becomes meaningful — when content already has rich prior-knowledge connections, extra imagery is redundant [~M]
-- Long-term retention is weaker than immediate recall unless mnemonics are revisited on a schedule [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Long-term retention is weaker than immediate recall unless mnemonics are revisited on a schedule [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 - Supplied images that learners do not process actively often fail; the encoding work happens during generation
 - Less accessible for learners with visual impairments; verbal analogues (rhymes, [acronyms and acrostics](acronyms_and_acrostics.md)) serve the same function
 
@@ -57,7 +57,7 @@ Visual mnemonics work best when the image is *interactive* — when it links the
 3. Construct an image in which the cue and the target content *interact* — one thing doing something to the other, not two things side by side
 4. Have learners generate or at least actively elaborate the image themselves rather than passively viewing it
 5. Practice retrieval from the image, then fade it: recall the content first, image second, and eventually without the image ([Practice](../elements/practice.md))
-6. Schedule review so the association survives beyond the immediate session [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+6. Schedule review so the association survives beyond the immediate session [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 
 ## Related Strategies
 - [Acronyms and Acrostics](acronyms_and_acrostics.md) — the verbal counterpart; often combined with imagery for lists

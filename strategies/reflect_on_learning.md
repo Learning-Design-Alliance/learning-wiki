@@ -13,14 +13,14 @@ generated:
 # Reflect on Learning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 16 studies (10 quant-synthesis, 3 causal, 2 review, 1 associational), `q2`–`q4` · 7 of 16 report an effect size
+> **Evidence** · 6 claims (5 for, 1 mixed) · 18 studies (11 quant-synthesis, 4 causal, 2 review, 1 associational), `q2`–`q4` · 8 of 18 report an effect size
 
 ## Description
 Reflection asks learners to deliberately revisit what they learned, how they learned it, and what remains unclear — through journaling, structured discussion, or self-assessment prompts. It converts experience into articulated knowledge: learners must retrieve, organize, and evaluate recent learning rather than simply moving on. When done collaboratively, learners also encounter peers' reasoning, exposing gaps and alternative strategies.
 
 ## Design Implications
 
-Reflection works because it forces retrieval and elaboration — both robust consolidation mechanisms — and because articulating one's understanding surfaces misconceptions that would otherwise stay hidden [Retrieval practice strengthens long-term retention more than restudying.](../claims/spaced-repetition-improves-retention.md) [+S]. Unstructured "think about your learning" prompts produce shallow responses; effective reflection is scaffolded with specific prompts tied to lesson goals and success criteria [Assessment for learning improves achievement by making criteria and progress visible to learners.](../claims/assessment-for-learning-improves-achievement.md) [+S]. Reflection is most powerful when it feeds forward — informing what the learner or teacher does next — rather than serving as a closing ritual.
+Reflection works because it forces retrieval and elaboration — both robust consolidation mechanisms — and because articulating one's understanding surfaces misconceptions that would otherwise stay hidden [Retrieval practice strengthens long-term retention more than restudying.](../claims/spaced-practice-improves-retention.md) [+S]. Unstructured "think about your learning" prompts produce shallow responses; effective reflection is scaffolded with specific prompts tied to lesson goals and success criteria [Assessment for learning improves achievement by making criteria and progress visible to learners.](../claims/assessment-for-learning-improves-achievement.md) [+S]. Reflection is most powerful when it feeds forward — informing what the learner or teacher does next — rather than serving as a closing ritual.
 
 ### Context
 #### Requirements
@@ -63,7 +63,7 @@ Reflection works because it forces retrieval and elaboration — both robust con
 - High-achievers who overestimate their understanding benefit from confidence-calibration prompts [High-confidence errors are especially persistent, making confidence-checking reflection valuable.](../claims/high-confidence-errors-improve-retention.md) [+M]
 
 ### Target Learning Goals
-- Consolidation of content into long-term memory through retrieval and elaboration [Retrieval practice strengthens long-term retention more than restudying.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Consolidation of content into long-term memory through retrieval and elaboration [Retrieval practice strengthens long-term retention more than restudying.](../claims/spaced-practice-improves-retention.md) [+S]
 - Metacognition: awareness of what one knows, what strategies work, and where gaps remain
 - Transfer: articulating underlying principles makes them available for use in new contexts
 - Self-assessment accuracy against explicit criteria [Assessment for learning improves achievement by making criteria and progress visible to learners.](../claims/assessment-for-learning-improves-achievement.md) [+S]

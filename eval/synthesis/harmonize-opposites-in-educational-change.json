@@ -35,6 +35,14 @@
     [
      "intentional-beats-incidental-vocabulary-gains",
      "~"
+    ],
+    [
+     "incidental-vocabulary-exposure-limited",
+     "+"
+    ],
+    [
+     "incidental-vocabulary-acquisition-more-powerful-than-intentional",
+     "-"
     ]
    ]
   }

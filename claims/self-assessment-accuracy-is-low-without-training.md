@@ -62,20 +62,22 @@ A meta-analysis of 51 quantitative studies comparing students' self-assessed mar
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Can learners' own monitoring be trusted, and can it be trained?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **10 distinct studies** (5 causal, 3 quant-synthesis, 1 associational, 1 review), `q2`–`q4`, 3 of 10 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Can learners' own monitoring be trusted, and can it be trained?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **12 distinct studies** (7 causal, 3 quant-synthesis, 1 associational, 1 review), `q2`–`q4`, 3 of 12 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Kostons et al. 2012](https://doi.org/10.1016/j.learninstruc.2011.08.004) | q3 · causal · r? | i2 · medium effect, ηp²=.10 | this claim |
 | [Falchikov & Boud 1989](https://doi.org/10.2307/1170205) | q4 · quant-synthesis · r? | i? | this claim |
-| [Zell & Krizan 2014](https://doi.org/10.1177/1745691613518075) | q4 · quant-synthesis · r? | i2 · medium, mean r=.29 (SD=.11), individual meta-analytic effects .09–.63 | [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) (supports) |
-| [Hacker et al. 2000](https://doi.org/10.1037/0022-0663.92.1.160) | q2 · associational · r? | i? | [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) (supports) |
 | [Carpenter et al. 2013](https://doi.org/10.3758/s13423-013-0442-z) | q3 · causal · r? | i? | [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md) (supports) |
 | [Rhodes & Castel 2008](https://doi.org/10.1037/a0013684) | q3 · causal · r? | i? | [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md) (supports) |
+| [Zell & Krizan 2014](https://doi.org/10.1177/1745691613518075) | q4 · quant-synthesis · r? | i2 · medium, mean r=.29 (SD=.11), individual meta-analytic effects .09–.63 | [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) (supports) |
+| [Hacker et al. 2000](https://doi.org/10.1037/0022-0663.92.1.160) | q2 · associational · r? | i? | [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) (supports) |
+| [Panadero et al. 2017](https://doi.org/10.1016/j.edurev.2017.08.004) | q4 · quant-synthesis · r? | i1 · small effect on Learning SRL, d=0.23; medium/non-significant on the other two SRL measures; large on self-efficacy, d=0.73 | [Self Assessment Improves Self Regulated Learning](self-assessment-improves-self-regulated-learning.md) (qualifies) |
 | [Dai 2026](https://doi.org/10.3389/fpsyg.2026.1829268) | q3 · causal · r2 | i? | [APCA improved self-assessment accuracy and reduced overconfidence, and the combined interv](apca-improves-self-assessment-accuracy-overconfidence.md) (supports) |
 | Fernandes 2026 | q3 · causal · r2 | i? | [No trace format supported calibrated self-evaluation: perceived-achieved correlations were](no-trace-format-supported-calibrated-self-evaluation.md) (supports) |
-| [Panadero et al. 2017](https://doi.org/10.1016/j.edurev.2017.08.004) | q4 · quant-synthesis · r? | i1 · small effect on Learning SRL, d=0.23; medium/non-significant on the other two SRL measures; large on self-efficacy, d=0.73 | [Self Assessment Improves Self Regulated Learning](self-assessment-improves-self-regulated-learning.md) (qualifies) |
 | [Fusco 2025](https://doi.org/10.51388/20.500.12265/252) | q3 · review · r1 | i? | [Peer and self-assessment both show significant effects on academic performance with no sig](peer-self-assessment-improve-performance-equally.md) (qualifies) |
+| [Andrade et al. 2010](https://doi.org/10.1080/09695941003696172) | q2 · causal · r? | i? | [Self-assessing against a rubric improved the quality of student work in two non-randomised](rubrics-improve-student-work.md) (supports) |
+| [Panadero & Romero 2014](https://doi.org/10.1080/0969594x.2013.877872) | q2 · causal · r? | i? | [Self-assessing against a rubric improved the quality of student work in two non-randomised](rubrics-improve-student-work.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -93,6 +95,8 @@ A meta-analysis of 51 quantitative studies comparing students' self-assessed mar
 **Open questions.** Two studies are recorded: one randomized experiment in which secondary students trained with modeling examples self-assessed more accurately than untrained students (Kostons et al. 2012, n = 80), and one meta-analysis of 51 higher-education studies, read at abstract level, which found student–teacher agreement inconsistent and closer in advanced courses and better-designed studies but reports no pooled accuracy estimate there (Falchikov & Boud 1989). Still missing: a pooled estimate of how low untrained accuracy is, and replications of the training effect beyond one experiment. <!-- deprecated (2026-10-05, stale: entries had been added): The evidence base for this claim still needs to be populated with primary studies — particularly meta-analytic estimates of self-assessment accuracy and intervention studies comparing trained versus untrained self-assessment. Until then, the claim should be treated as a well-established qualitative pattern rather than a quantified effect. -->
 
 ## Related Claims
+
+- [In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems](peer-feedback-accuracy-depends-on-expertise.md) — the general claim this finding bears on, with the studies behind it
 
 - [Self Assessment Improves Self Regulated Learning](self-assessment-improves-self-regulated-learning.md) — the general claim this finding bears on, with the studies behind it
 

@@ -91,6 +91,10 @@ No claim in the wiki tests classroom debate itself, so most rows carry evidence 
 | Class time is short and the curriculum is full | Plan the preparation and debrief time up front, or run a shorter round on a topic already in the syllabus; time and curriculum fit are the commonest reported barriers | [Argumentation implementation challenges](../claims/argumentation-implementation-challenges.md) [~W] |
 | The topic is personally charged for some learners | Switch to a synthesis format, or reframe the question so it does not ask anyone to argue against their own group | untested proposal |
 
+## The evidence by question
+
+- *Does structured argument with peers improve learners' individual argument and content learning?* [Argumentation Improves Reasoning](../claims/argumentation-improves-reasoning.md) [~M]
+
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-02: claims this page cited before the 2026-10-02 rewrite. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
 Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.

@@ -1,0 +1,94 @@
+{
+  "principle": "principles/competency-based-assessment",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "criterion-referenced-tests-need-construct-validation",
+      "question": "Does a pass on the check mean what the criterion says: are the items, cut scores and raters dependable?",
+      "members": [
+        [
+          "statistical-item-selection-conflicts-criterion-referenced-definition",
+          "+"
+        ],
+        [
+          "dc-lowest-at-score-distribution-peak",
+          "+"
+        ],
+        [
+          "grade-cutoffs-arbitrary-adjacent-scores",
+          "+"
+        ],
+        [
+          "body-of-work-agreement-rates-71-97",
+          "+"
+        ],
+        [
+          "mean-classification-cut-score-method-robust",
+          "~"
+        ],
+        [
+          "cohens-kappa-paradox-decision-consistency",
+          "~"
+        ],
+        [
+          "dc-methods-similar-normal-distributions",
+          "~"
+        ],
+        [
+          "criterion-referenced-tests-measure-mastery-not-relative-standing",
+          "~"
+        ],
+        [
+          "raters-differed-severity-mfrm",
+          "+"
+        ],
+        [
+          "engineering-rubric-low-scoring-reliability",
+          "+"
+        ],
+        [
+          "explicit-rubric-conditions-reduce-ai-disagreement",
+          "~"
+        ],
+        [
+          "adaptive-mastery-testing-reduces-length-preserves-decisions",
+          "~"
+        ],
+        [
+          "cmi-ela-test-precision-declines-above-40th-percentile",
+          "+"
+        ],
+        [
+          "low-inter-rater-agreement-qm-criteria",
+          "+"
+        ],
+        [
+          "vcp-rubric-lacked-calibration-and-clarity",
+          "+"
+        ],
+        [
+          "principal-rater-severity-variation",
+          "~"
+        ],
+        [
+          "rasch-infit-rater-selection-increases-reliability",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "rubrics-improve-student-work",
+      "question": "Does giving learners the criteria, and having them apply them to their own or peers' work, improve the work?",
+      "members": [
+        [
+          "rubrics-improve-peer-feedback-quality",
+          "~"
+        ],
+        [
+          "peer-assessment-structured-criteria-improve-learning",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

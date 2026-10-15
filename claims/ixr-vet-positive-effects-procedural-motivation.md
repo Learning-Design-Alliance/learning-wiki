@@ -41,8 +41,9 @@ The review's synthesis of the 26 included VET studies reports that "Intelligent 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [AI chatbots in VET show promising effects on self-regulation and task performance](ai-chatbots-vet-self-regulation-task-performance.md) — related
 - [Intelligent Tutoring Systems in VET foster declarative and procedural knowledge](its-vet-foster-declarative-procedural-knowledge.md) — related
 - The empirical evidence base on AI in VET is methodologically constrained, with only five randomized experimental studies among 26 included studies — a broader claim this one bears on

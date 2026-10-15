@@ -6,7 +6,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 id: interleaving-improves-inductive-learning
-aliases: [interleaved-practice-improves-retention, interleaving-improves-learning, interleaving-improves-transfer]
+aliases: [interleaved-practice-improves-retention, interleaving-improves-learning, interleaving-improves-transfer, moderate-overall-interleaving-effect]
 evidence_strength:
 sources:
   - id: brunmair-richter-2019
@@ -32,6 +32,8 @@ Interleaving — mixing different problem or category types within a practice se
 
 `q4 i2` A multilevel meta-analysis of 59 studies (238 effect sizes) finds a moderate overall benefit of interleaved over blocked inductive-learning presentation (Hedges' g = 0.42), but the effect is strongly moderated by material type — strongest for visual/perceptual category learning (paintings, photographs), smaller for mathematical tasks, and reversed (favoring blocking) for word-based category learning. [→ Brunmair & Richter 2019](#brunmair-richter-2019)
 
+`q4 i2` Across 238 effect sizes nested in 158 samples, interleaved presentation of exemplars yielded a moderate positive effect on subsequent category discrimination or classification performance (g = 0.42). [→ Brunmair 2019](#brunmair-richter-2019)
+
 ## Evidence
 
 ### Brunmair & Richter 2019
@@ -41,6 +43,33 @@ Brunmair, M., & Richter, T. (2019). Similarity matters: A meta-analysis of inter
 `q4 · multilevel meta-analysis` · `i2 · medium effect, Hedges' g=0.42, 95% CI [0.34, 0.50]` · `n=59 studies (238 effect sizes, 158 samples)` · `quant-synthesis · r?`
 
 A multilevel meta-analysis of 59 studies comparing interleaved to blocked presentation of category exemplars (paintings, photographs, mathematical procedures, expository texts, words) on a subsequent classification/discrimination test. Interleaving produced a moderate overall benefit (g = 0.42), robust to a sensitivity analysis using only independent effects (g = 0.43). The benefit was not uniform: it was largest for paintings (g = 0.67) and naturalistic photographs (g = 0.35), smaller for mathematical tasks (g = 0.34), nonsignificant for expository texts, and *reversed* for word-based categories (g = −0.39, favoring blocking). A meta-regression found stronger interleaving effects when between-category similarity was higher and within-category similarity was lower — consistent with the attentional-bias/discriminative-contrast account that interleaving works by forcing discrimination between confusable categories.
+
+<!-- merged 2026-10-15 from moderate-overall-interleaving-effect: that page's entry for this study, which differed from the one above, kept verbatim.
+### Brunmair 2019
+
+Brunmair, M., & Richter, T. (2019). Similarity matters: A meta-analysis of interleaved learning and its moderators. Psychological Bulletin. https://doi.org/10.1037/bul0000209
+
+`q4 · i2` · `quant-synthesis · r2`
+
+Multilevel random-effects meta-analysis of 59 studies (238 effect sizes, 158 samples, N = 8466) comparing interleaved vs. blocked inductive learning. The printed estimate was "g = 0.42" with a significant test; a sensitivity model with only independent effects gave g = 0.43.
+
+> "We found a moderate overall positive effect of interleaving (k = 238; g = 0.42; p < .001, 95% CI [0.34, 0.50])."
+-->
+
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Should examples or problems of confusable categories be met in blocks or interleaved, and for which materials?* This table gathers the studies behind this claim and the 11 narrower claims that bear on it: **6 distinct studies** (3 causal, 2 quant-synthesis, 1 review), `q2`–`q4`, 3 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Brunmair & Richter 2019](https://doi.org/10.1037/bul0000209) | q4 · quant-synthesis · r? | i2 · medium effect, Hedges' g=0.42, 95% CI [0.34, 0.50]; i?; i2; i1 | this claim; [Interleaving Improves Discrimination](interleaving-improves-discrimination.md) (supports); [The interleaving effect generalizes to visual materials, with the largest effects for pain](interleaving-strongest-for-paintings-visual-materials.md) (supports); [Interleaving benefits are small for mathematical tasks and absent or reversed for exposito](interleaving-limited-for-math-texts-and-words.md) (qualifies); [Several candidate moderators show no reliable effects: retention interval, test type, pres](interleaving-null-moderators-retention-test-presentation.md) (qualifies); [Interleaving effects are larger in pure university student samples than in nonstudent samp](interleaving-larger-in-university-student-samples.md) (qualifies) |
+| [Kornell & Bjork 2008](https://doi.org/10.1111/j.1467-9280.2008.02127.x) | q3 · causal · r? | i? | [Interleaving Improves Discrimination](interleaving-improves-discrimination.md) (supports) |
+| [Rohrer & Taylor 2007](https://doi.org/10.1007/s11251-007-9015-8) | q3 · causal · r? | i? | [Interleaving Improves Discrimination](interleaving-improves-discrimination.md) (supports) |
+| [Jonathan Firth 2021](https://doi.org/10.1002/rev3.3266) | q2 / q3 · quant-synthesis · r? | i2; i? | [Interleaving benefits transfer to novel items from a learned category, with effect sizes o](interleaving-transfer-benefit-meta-analysis.md) (supports); [Interleaving is most useful when differences between items are subtle; blocking can be pre](interleaving-similarity-boundary-condition.md) (qualifies); [Interleaving is especially useful for inductive, subtle pattern learning without a clear v](interleaving-rule-based-learning-boundary.md) (qualifies) |
+| [Rohrer 2015](https://doi.org/10.1037/edu0000001) | q3 · causal · r2 | i?; i2 | [Interleaved practice produces higher mathematics test scores than blocked practice in a cl](interleaved-practice-higher-math-test-scores.md) (supports); [The test benefit of interleaved practice does not diminish over time and perhaps grows lar](interleaving-benefit-persists-thirty-days.md) (supports) |
+| Roschelle 2020 | q2 · review · r? | i? | [Spaced and interleaved homework practice improves learning and retention](spaced-interleaved-homework-practice.md) (supports) |
+<!-- synthesis:end -->
 
 ## Discussion
 
@@ -99,9 +128,8 @@ A multilevel meta-analysis of 59 studies comparing interleaved to blocked presen
 - [Cognitive load theory](../theories/cognitive-load-theory.md) — the theoretical frame for why interleaving is harder during practice but better for retention
 - [Cognitive load management](../principles/cognitive-load-management.md) — practical levers for keeping mixed practice within learners' capacity
 - [Analogical reasoning improves transfer.](analogical-reasoning-improves-transfer.md) — comparing across mixed items supports the discrimination that interleaving demands
-- [Desirable Difficulties Enhance Learning](desirable-difficulties-enhance-learning.md) — related
-- [Spaced Repetition Improves Retention](spaced-repetition-improves-retention.md) — related
-- [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — related
+- [Retrieval practice and spaced retrieval improve achievement and retention by medium amounts, while interleaving helps category learning only for some materials and blocking beats it for words](desirable-difficulties-enhance-learning.md) — related
+- [Spaced Repetition Improves Retention](spaced-practice-improves-retention.md) — related
 - [Faster rate of learning may be negatively related to long-term retention (efficiency-effectiveness trade-off)](learning-rate-retention-tradeoff.md) — related
 - [Sequencing worked examples with practice problems improves learning for novices](worked-example-problem-sequences.md) — related
 - [Task rehearsal improves fluency and complexity on the repeated task but does not transfer to a new task of the same type](task-repetition-fluency-complexity-same-task-only.md) — related
@@ -118,7 +146,6 @@ A multilevel meta-analysis of 59 studies comparing interleaved to blocked presen
 - [Interleaving benefits are small for mathematical tasks and absent or reversed for expository texts and words](interleaving-limited-for-math-texts-and-words.md) — related
 - [Several candidate moderators show no reliable effects: retention interval, test type, presentation mode, and publication status](interleaving-null-moderators-retention-test-presentation.md) — a narrower finding that bears on this claim
 - [The interleaving effect generalizes to visual materials, with the largest effects for paintings](interleaving-strongest-for-paintings-visual-materials.md) — a narrower finding that bears on this claim
-- [Interleaved practice produces a moderate overall benefit for inductive category learning compared with blocked practice](moderate-overall-interleaving-effect.md) — possibly the same claim (merge candidate)
 - [Interleaved practice produces higher mathematics test scores than blocked practice in a classroom experiment](interleaved-practice-higher-math-test-scores.md) — a narrower finding that bears on this claim
 - [Alternating example-practice pairs produce faster and more accurate near-transfer solutions than blocked presentation of examples followed by practice](alternating-example-problem-pairs.md) — a narrower finding that bears on this claim
 - [The interleaving benefit is not caused by spacing, and the benefit extends to delayed tests](interleaving-not-spacing-persists-over-delay.md) — a narrower finding that bears on this claim
@@ -126,3 +153,4 @@ A multilevel meta-analysis of 59 studies comparing interleaved to blocked presen
 - [Interleaving benefits transfer to novel items from a learned category, with effect sizes of up to 0.66](interleaving-transfer-benefit-meta-analysis.md) — a narrower finding that bears on this claim
 - [Structure-emphasizing example sets, using varied cover stories across problem types, lead students to categorize problems by structure rather than surface features](structure-emphasizing-cover-stories-categorization.md) — related
 - [Evidence on working memory capacity as a moderator of the interleaving effect is mixed, but WM does not appear to be a major barrier to classroom use](working-memory-mixed-moderator-interleaving.md) — related
+- [Learners Misjudge Spacing Benefits](learners-misjudge-spacing-benefits.md) — related

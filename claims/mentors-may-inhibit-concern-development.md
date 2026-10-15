@@ -41,8 +41,9 @@ Discussion-section comparison across the study's four volunteer groups, contrast
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Teachers' concerns follow a developmental trend from lower to higher stages during curriculum implementation](stages-of-concern-developmental-trend.md) — the general claim this finding bears on, with the studies behind it
 - [Discipline concerns declined for all four teacher groups over the school year](discipline-concern-declines-all-groups.md) — related
 - [Mentors' roles and practices differ by program context: local guides versus educational companions](mentor-context-shapes-local-guide-or-educational-companion.md) — related
 - [First-year teachers with mentors declined in self and task concerns and increased impact concerns over the school year](mentored-first-year-teachers-follow-fuller-progression.md) — related

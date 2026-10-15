@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 19 claims (13 for, 6 mixed) · 33 studies (14 causal, 10 review, 7 quant-synthesis, 1 design, 1 theoretical), `q1`–`q4` · 8 of 33 report an effect size · 11 claims rest on one study
+> **Evidence** · 19 claims (13 for, 6 mixed) · 33 studies (14 causal, 10 review, 7 quant-synthesis, 1 design, 1 theoretical), `q1`–`q4` · 7 of 33 report an effect size · 11 claims rest on one study
 
 ## Conditional relationship
 
@@ -102,6 +102,10 @@ These rows are proposals, untested as diagnostics. Removing or changing a mechan
 - [Interest/enjoyment and perceived choice were the weakest motivation dimensions, suggesting Mangomon's RPG mechanics did not yet fully serve learner autonomy](../claims/rpg-mechanics-not-yet-serve-autonomy.md) [~W]: the authors' interpretation of questionnaire means (M = 3.52 for both) from 21 Thai undergraduates; an interpretation, not a tested result.
 
 Learners, tasks, settings and outcomes differ across these claims (gamified courses pooled across settings, laboratory puzzles, school cooperative learning, reading texts), so do not rank them by effect label. None follows a gamified course after the layer is removed.
+
+## The evidence by question
+
+- *Does adding a game layer to instruction raise outcomes, and which outcomes?* [Gamification has small positive effects on cognitive, motivational and behavioral learning outcomes](../claims/gamification-has-small-positive-effects-on-learning-outcomes.md) [+M]
 
 ## Further evidence, not yet read against this model
 <!-- Claims this page cited before the 2026-10-05 rewrite, plus three claims found while converting it (marked Added 2026-10-05). Markers capped by each claim's recorded evidence (strength_cap). -->

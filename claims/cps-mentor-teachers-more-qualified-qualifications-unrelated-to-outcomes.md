@@ -79,8 +79,9 @@ The one exception concerned classroom environment: student teachers were "signif
 
 ## Discussion
 
-
 ## Related Claims
+
+- [In a re-analysis of PBL tutor-background data, neither a meta-regression nor subgroup comparisons found that tutor expertise predicts student learning](tutor-background-meta-regression-not-predictive.md) — the general claim this finding bears on, with the studies behind it
 - [Student teachers who perceived their mentors modeled effective instruction and provided coaching, feedback, and job assistance felt better prepared, and domain-specific coaching was related to higher first-year REACH ratings](cps-mentor-coaching-and-modeling-associated-with-preparedness-and-effectiveness.md) — related
 - [Mentor teachers' own evaluation ratings were positively related to their student teachers' first-year effectiveness as teachers-of-record](cps-mentor-evaluation-ratings-related-to-student-teachers-first-year-effectiveness.md) — related
 - [Student teachers' self-assessed preparedness did not predict first-year effectiveness (r = 0.03), while mentor teachers' ratings of student teachers did (r = 0.24)](cps-early-indicators-mentor-ratings-predict-first-year-effectiveness.md) — related

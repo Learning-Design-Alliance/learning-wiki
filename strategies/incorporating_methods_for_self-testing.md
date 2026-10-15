@@ -13,14 +13,14 @@ generated:
 # Incorporating Methods for Self-Testing
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (3 for, 2 mixed) · 13 studies (6 quant-synthesis, 3 causal, 2 review, 1 associational, 1 theoretical), `q2`–`q4` · 4 of 13 report an effect size
+> **Evidence** · 5 claims (3 for, 2 mixed) · 15 studies (7 quant-synthesis, 4 causal, 2 review, 1 associational, 1 theoretical), `q2`–`q4` · 5 of 15 report an effect size
 
 ## Description
 Self-testing reframes assessment from a grading event into a learning activity: students actively retrieve information — via flashcards, practice questions, or free recall — instead of rereading notes. In culturally responsive and low-stakes classrooms, frequent non-graded checks let students monitor progress without the anxiety attached to high-stakes testing. The strategy has two components: the instructor builds frequent retrieval opportunities into instruction, and students are explicitly taught self-testing techniques they can apply independently.
 
 ## Design Implications
 
-Retrieval practice produces substantially more durable learning than restudying, yet students rarely choose it spontaneously because it feels harder and less productive than rereading [Testing enhances long-term retention more than restudying.](../claims/spaced-repetition-improves-retention.md) [+S]. Because self-testing also functions as self-assessment, it builds accurate metacognitive monitoring — students discover which topics they only *recognize* versus can actually *reproduce* [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+M]. Feedback on self-tests should target the task and process, not just correctness [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
+Retrieval practice produces substantially more durable learning than restudying, yet students rarely choose it spontaneously because it feels harder and less productive than rereading [Testing enhances long-term retention more than restudying.](../claims/spaced-practice-improves-retention.md) [+S]. Because self-testing also functions as self-assessment, it builds accurate metacognitive monitoring — students discover which topics they only *recognize* versus can actually *reproduce* [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+M]. Feedback on self-tests should target the task and process, not just correctness [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
 
 ### Context
 #### Requirements
@@ -54,13 +54,13 @@ Retrieval practice produces substantially more durable learning than restudying,
 - **Pretesting:** asking questions *before* instruction; even failed retrieval attempts prime subsequent learning [~M]
 
 ### Target Learners
-- All learners benefit from retrieval practice, but it is especially valuable for students who rely on rereading and highlighting as their default study method [Testing enhances long-term retention more than restudying.](../claims/spaced-repetition-improves-retention.md) [+S]
+- All learners benefit from retrieval practice, but it is especially valuable for students who rely on rereading and highlighting as their default study method [Testing enhances long-term retention more than restudying.](../claims/spaced-practice-improves-retention.md) [+S]
 - Students developing self-regulated learning habits, who need structured opportunities to practice monitoring their own understanding [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+M]
 - Anxious test-takers, for whom frequent ungraded checks reduce the stakes of assessment [~W]
 - Anxious learners, because frequent no-stakes exposure to test formats reduces test-specific arousal
 
 ### Target Learning Goals
-- Long-term retention of factual and conceptual knowledge [Testing enhances long-term retention more than restudying.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Long-term retention of factual and conceptual knowledge [Testing enhances long-term retention more than restudying.](../claims/spaced-practice-improves-retention.md) [+S]
 - Metacognitive accuracy: knowing what you know and what needs restudy
 - Self-regulated learning: planning, monitoring, and adjusting one's own study behavior
 - Metacognitive calibration: accurate judgments of what is and is not yet known
@@ -69,7 +69,7 @@ Retrieval practice produces substantially more durable learning than restudying,
 1. Teach the rationale: show students evidence that testing is a learning event, not just a measurement event, and contrast it with the illusion of mastery from rereading.
 2. Model a self-testing technique with a [Think-Aloud](../elements/think-aloud.md) — demonstrate generating questions from a text, attempting free recall, then checking and repairing gaps.
 3. Build frequent low-stakes retrieval into class sessions using [Quizzes](../elements/quizzes.md) or [Practice](../elements/practice.md) — short, ungraded, with immediate feedback ([Provide Feedback](../elements/provide-feedback.md)).
-4. Schedule repeated retrieval over time rather than massing it in one session [Testing enhances long-term retention more than restudying.](../claims/spaced-repetition-improves-retention.md) [+S].
+4. Schedule repeated retrieval over time rather than massing it in one session [Testing enhances long-term retention more than restudying.](../claims/spaced-practice-improves-retention.md) [+S].
 5. Have students track their own results and plan restudy accordingly, connecting self-testing to [Self-Regulated Learning](../theories/self-regulated-learning.md) cycles.
 6. Fade instructor-provided questions over time, shifting question generation to students ([Fading](../elements/fading.md)).
 
@@ -113,7 +113,7 @@ Self-testing reframes testing as a learning event rather than a measurement even
 
 ## Design Implications
 
-Retrieval practice produces durable, transferable memory traces that rereading and highlighting do not [Testing effect improves long-term retention relative to restudying.](../claims/spaced-repetition-improves-retention.md) [+S]. The diagnostic function matters as much as the mnemonic one: self-testing calibrates learners' judgments of knowing, countering the fluency illusions created by rereading [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+M]. Errors made during low-stakes testing are not harmful — when followed by feedback and when learners are confident-but-wrong, correcting them produces especially strong retention [High-confidence errors improve retention after correction.](../claims/high-confidence-errors-improve-retention.md) [+M]. Feedback should follow quickly and address the task and process, not just supply the correct answer [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
+Retrieval practice produces durable, transferable memory traces that rereading and highlighting do not [Testing effect improves long-term retention relative to restudying.](../claims/spaced-practice-improves-retention.md) [+S]. The diagnostic function matters as much as the mnemonic one: self-testing calibrates learners' judgments of knowing, countering the fluency illusions created by rereading [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+M]. Errors made during low-stakes testing are not harmful — when followed by feedback and when learners are confident-but-wrong, correcting them produces especially strong retention [High-confidence errors improve retention after correction.](../claims/high-confidence-errors-improve-retention.md) [+M]. Feedback should follow quickly and address the task and process, not just supply the correct answer [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
 
 ### Context
 #### Requirements
@@ -135,7 +135,7 @@ Retrieval practice produces durable, transferable memory traces that rereading a
 - **Pretesting:** asking questions *before* instruction; even failed retrieval attempts prime subsequent learning [~M]
 
 ### Target Learners
-- All learners benefit, but gains are largest for those who would otherwise study by rereading [Testing effect improves long-term retention relative to restudying.](../claims/spaced-repetition-improves-retention.md) [+S]
+- All learners benefit, but gains are largest for those who would otherwise study by rereading [Testing effect improves long-term retention relative to restudying.](../claims/spaced-practice-improves-retention.md) [+S]
 - Anxious learners, because frequent no-stakes exposure to test formats reduces test-specific arousal
 - Learners with poor calibration, who overestimate their mastery after fluent rereading [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+M]
 
@@ -149,7 +149,7 @@ Retrieval practice produces durable, transferable memory traces that rereading a
 2. Schedule short retrieval events early and often — start of class, end of segment, weekly — rather than one pre-exam review ([Practice](../elements/practice.md)).
 3. Require an actual retrieval attempt (write, say, or select) before any material is consulted; guessing counts.
 4. Provide immediate feedback focused on why an answer is right, not just what it is ([Assess Performance](../elements/assess-performance.md)).
-5. Revisit missed items after a delay — spacing the retest multiplies the retention benefit [Testing effect improves long-term retention relative to restudying.](../claims/spaced-repetition-improves-retention.md) [+S].
+5. Revisit missed items after a delay — spacing the retest multiplies the retention benefit [Testing effect improves long-term retention relative to restudying.](../claims/spaced-practice-improves-retention.md) [+S].
 6. Teach learners to read their own results: what to restudy, what to stop studying — making the diagnostic explicit.
 
 ## Related Strategies

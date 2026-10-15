@@ -12,20 +12,20 @@ generated:
 # RIP Toolbox (Repetition, Imagery, Patterns)
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 9 studies (4 quant-synthesis, 3 causal, 2 review), `q2`–`q4` · 3 of 9 report an effect size
+> **Evidence** · 3 claims (3 for) · 11 studies (5 quant-synthesis, 4 causal, 2 review), `q2`–`q4` · 4 of 11 report an effect size
 
 ## Description
 The RIP Toolbox is a memory-enhancing strategy that utilizes three key elements: Repetition, Imagery, and Patterns. It helps learners organize and rehearse information in a memorable format, supporting transfer from short-term to long-term memory. Pediatrician Dr. Mel Levine suggests that before a test, learners submit a *memory plan* detailing how they will apply the toolbox — making the strategy itself an object of metacognitive planning rather than a technique imposed by the teacher.
 
 ## Design Implications
 
-The toolbox packages three well-evidenced encoding mechanisms — distributed rehearsal, dual coding, and structural organization — into a single learner-facing frame [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]. Its distinctive contribution is the memory plan: learners select and justify strategies for a specific task, which builds strategy awareness and self-regulation, not just recall [~M].
+The toolbox packages three well-evidenced encoding mechanisms — distributed rehearsal, dual coding, and structural organization — into a single learner-facing frame [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S]. Its distinctive contribution is the memory plan: learners select and justify strategies for a specific task, which builds strategy awareness and self-regulation, not just recall [~M].
 
 ### Context
 #### Requirements
 - Understanding of the core concepts to be remembered (strategies amplify meaningful encoding; they cannot substitute for it)
 - Materials for creating images and patterns (paper, markers, graphic organizer templates)
-- Dedicated time for spaced rehearsal across days, not a single pre-test cram session [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Dedicated time for spaced rehearsal across days, not a single pre-test cram session [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 - Teacher modeling of each element before learners select strategies independently
 
 #### Constraints
@@ -44,7 +44,7 @@ The toolbox packages three well-evidenced encoding mechanisms — distributed re
 ### Target Learners
 - Upper elementary through secondary students, especially those who need structured approaches to memorization
 - Learners with weak spontaneous strategy use — explicit strategy instruction benefits them most [~M]
-- Students preparing for cumulative assessments where retention over weeks matters [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Students preparing for cumulative assessments where retention over weeks matters [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 - Less necessary for learners who already spontaneously use elaborative strategies; for them the toolbox may add overhead without gain [~W]
 
 ### Target Learning Goals
@@ -57,7 +57,7 @@ The toolbox packages three well-evidenced encoding mechanisms — distributed re
 2. **Teach the three elements with models.** Demonstrate one example per element (a flashcard routine, a drawn image, a graphic organizer) before asking learners to generate their own.
 3. **Have learners draft a memory plan.** For each item or topic, learners choose which of Repetition, Imagery, or Patterns they will use and why — the selection rationale is where metacognitive learning happens.
 4. **Build the artifacts.** Learners create their images and patterns (drawings, mnemonics, organizers), keeping each chunk small enough to hold in mind [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S]
-5. **Schedule repetition as retrieval.** Rehearse by recalling from memory (self-quizzing, reciting, redrawn organizers) at spaced intervals rather than rereading [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+5. **Schedule repetition as retrieval.** Rehearse by recalling from memory (self-quizzing, reciting, redrawn organizers) at spaced intervals rather than rereading [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 6. **Review the plan after assessment.** Learners evaluate which strategies worked and revise the plan for the next test, closing the self-regulation loop.
 
 ## Related Strategies

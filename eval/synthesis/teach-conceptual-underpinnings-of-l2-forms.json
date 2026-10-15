@@ -1,0 +1,48 @@
+{
+  "principle": "principles/teach-conceptual-underpinnings-of-l2-forms",
+  "note": "Drafted 2026-10-15 by an agent (wave 10) from the claims' titles and evidence entries. Reuses explicit-l2-grammar-instruction-superior-to-implicit as hub (already a hub in direct-instruction.json); explicit-teaching-complex-rules-only-advantage is already a member there and is repeated so it stays in the table. Directions are relative to the hub. Review before applying.",
+  "findings": [
+    {
+      "hub": "explicit-l2-grammar-instruction-superior-to-implicit",
+      "question": "In second-language grammar, does explicit instruction about a form help more than leaving it to implicit exposure?",
+      "members": [
+        [
+          "explicit-teaching-complex-rules-only-advantage",
+          "+"
+        ],
+        [
+          "explicit-teaching-effective-but-not-durable",
+          "~"
+        ],
+        [
+          "drill-and-grammar-focus-ineffective-for-l2-acquisition",
+          "-"
+        ],
+        [
+          "mental-representation-not-directly-instructable",
+          "-"
+        ],
+        [
+          "rule-oriented-explicit-outperforms-implicit",
+          "+"
+        ],
+        [
+          "explicit-rules-learned-faster-in-communicative-tasks",
+          "~"
+        ],
+        [
+          "pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone",
+          "~"
+        ],
+        [
+          "explicit-strategy-instruction-short-stories-improve-efl-reading-comprehension",
+          "+"
+        ],
+        [
+          "efl-students-positive-views-explicit-strategy-instruction",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

@@ -39,6 +39,17 @@ Meta-analytic moderator analysis of quiz–exam format consistency; the review r
 
 > "The classroom testing effect is significantly greater than 0 when test formats are mismatched between quizzes and exams, indicating transfer of the effect to different test formats (i.e., applying knowledge tested in one format to answer questions presented in a different format). Nevertheless, consistent test formats ( g = 0.531) are associated with a significantly larger effect size than inconsistent formats ( g = 0.399)."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Should practice before the assessment match the assessed task's format and level?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **2 distinct studies** (1 quant-synthesis, 1 causal), `q3`–`q4`, 2 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Yang 2020](https://doi.org/10.1037/bul0000309) | q4 · quant-synthesis · r? | i2 | this claim |
+| [Deborah K. Anderson 2023](https://doi.org/10.1128/jmbe.00151-22) | q3 · causal · r2 | i2 | [HOCS clicker questions during learning improve performance on LOCS exam questions more tha](hocs-clickers-improve-locs-exam-performance.md) (qualifies); [Semester 2 students outperformed semester 1 students on HOCS exam questions regardless of ](semester-cohort-difference-hocs-exams.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

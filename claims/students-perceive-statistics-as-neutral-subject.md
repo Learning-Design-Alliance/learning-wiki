@@ -40,8 +40,9 @@ Across interviews on belonging and inclusivity, a common theme of uncertainty em
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Payne argues that color-blind ideology in schools precludes discussion of how outcomes and privilege are distributed by race](colorblindness-blocks-distribution-discussion.md) — the general claim this finding bears on, with the studies behind it
 - [Digital Promise and Achieving the Dream interviewed undergraduate statistics students about their Lumen One courseware experience](interviews-undergrad-stats-lumen-one-perceptions.md) — related
 - [Real-world and racially diverse examples in courseware content helped students retain, comprehend, and relate to statistics](real-world-examples-aid-comprehension-and-relevance.md) — reports the opposite
 - [In Layers, Context-Centered-mindset participants drew on students' communities and home lives while Context-Neutral-mindset participants adapted content without students' out-of-school experiences](layers-topics-track-context-centered-mindsets.md) — related

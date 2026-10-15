@@ -7,7 +7,11 @@
       "question": "Does spreading study or practice over sessions improve later retention more than massing the same amount of it?",
       "members": [
         [
-          "spaced-repetition-improves-retention",
+          "spaced-retrieval-outperforms-restudy",
+          "+"
+        ],
+        [
+          "spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall",
           "+"
         ],
         [
@@ -20,10 +24,6 @@
         ],
         [
           "spacing-interleaving-improve-retention",
-          "+"
-        ],
-        [
-          "spaced-retrieval-outperforms-restudy",
           "+"
         ],
         [
@@ -53,12 +53,12 @@
           "~"
         ],
         [
-          "eight-day-review-improves-five-week-science-test-versus-one-day-review",
-          "+"
-        ],
-        [
           "distributed-practice-limits-l2",
           "~"
+        ],
+        [
+          "eight-day-review-improves-five-week-science-test-versus-one-day-review",
+          "+"
         ],
         [
           "spaced-practice-benefit-reflects-transfer-not-item-memorization",
@@ -75,11 +75,15 @@
       "question": "Should the gaps expand, stay equal, or contract?",
       "members": [
         [
-          "expanding-isis-better-than-fixed-tentative",
-          "~"
+          "expanding-versus-uniform-retrieval-no-difference",
+          "+"
         ],
         [
           "exposures-moderate-expanding-schedule-benefit",
+          "~"
+        ],
+        [
+          "expanding-isis-better-than-fixed-tentative",
           "~"
         ],
         [

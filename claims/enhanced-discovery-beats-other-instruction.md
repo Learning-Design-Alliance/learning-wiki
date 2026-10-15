@@ -43,9 +43,7 @@ Random effects meta-analysis of 360 comparisons from 56 studies comparing enhanc
 
 
 ## Related Claims
-- [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](guided-discovery-outperforms-pure-discovery.md) — possibly the same claim (merge candidate)
-- [Explicit instruction produces greater learning than unassisted discovery learning under most conditions](explicit-instruction-beats-unassisted-discovery.md) — related
-- [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — related
+- [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](minimal-guidance-less-effective-for-novices.md) — possibly the same claim (merge candidate)
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
 - [Teacher Guided Inquiry Outperforms Student Led](teacher-guided-inquiry-outperforms-student-led.md) — related
 - [The advantage of explicit instruction over unassisted discovery is largest in the verbal/social skills domain](domain-moderates-unassisted-discovery-deficit.md) — related

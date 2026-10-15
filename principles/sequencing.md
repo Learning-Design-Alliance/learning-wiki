@@ -43,7 +43,7 @@ sources:
 # Sequencing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 37 claims (27 for, 10 mixed) · 29 studies (10 causal, 8 theoretical, 7 review, 2 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 3 of 29 report an effect size · 33 claims rest on one study
+> **Evidence** · 37 claims (27 for, 10 mixed) · 31 studies (10 causal, 10 theoretical, 7 review, 2 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 3 of 31 report an effect size · 33 claims rest on one study
 
 ## Conditional relationship
 
@@ -144,6 +144,12 @@ No claim tests the general rule that ordering by dependency and readiness beats 
 
 Taken together: order effects are real in several particular contrasts, they depend on expertise, age, material and outcome, and two of them (example first, problem first) favour opposite orders for different goals. None establishes that a whole unit or course ordered by dependency beats another order, and none measures retention of an order effect over weeks.
 
+## The evidence by question
+
+- *Should learners attempt a problem before the idea is taught, and what must the teaching afterwards do?* [Productive Failure Improves Conceptual Learning](../claims/productive-failure-improves-conceptual-learning.md) [~S]
+- *Should examples or problems of confusable categories be met in blocks or interleaved, and for which materials?* [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](../claims/interleaving-improves-inductive-learning.md) [~M]
+- *Should component knowledge come before the whole task?* [Pretraining learners on a system's key parts and terms before the main lesson improved knowledge and real-world transfer in one VR experiment, and is reported second-hand to improve learning in multimedia studies](../claims/pretraining-improves-transfer.md) [+M]
+
 ## Further evidence, not yet read against this model
 
 Claims this page cited before it was rewritten, and claims found while rewriting it that bear on order but have not been weighed in the model above.
@@ -153,7 +159,7 @@ Claims this page cited before it was rewritten, and claims found while rewriting
 - [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~W] — a design argument (van Merriënboer, Kester & Paas 2006) that pairs whole-task practice with lowering intrinsic load early for novices; no study behind it.
 - [Skill develops through engaging in the target activity itself, not through mechanistic drill of isolated components](../claims/skill-develops-through-engagement-not-drill.md) [~W] — an argument from second-language acquisition (q1); cautions against long part-task drill detached from the target activity.
 - [A conference paper reports that, in McNeil and Fyfe (2012), undergraduates taught with concreteness fading outperformed those taught in generic or concrete conditions](../claims/fading-condition-outperformed-generic-and-concrete.md) [+W] — concrete-to-abstract order ("concreteness fading"), reported second-hand from one experiment on abelian group properties; see [concrete–representational–abstract sequencing](../strategies/concrete-representational-abstract-cra.md).
-- [Rule-example expository sequences appeared highly efficient for introducing a new rule in early programmed-instruction work](../claims/rule-example-sequence-efficient-rule-introduction.md) [+W] — rule, then example, then incomplete example; reported second-hand from 1960s programmed instruction, no data.
+- [A 1966 conceptual paper reports, citing earlier programmed-instruction work, that a rule-example-incomplete-example sequence appeared efficient for introducing a new rule](../claims/rule-example-sequence-efficient-rule-introduction.md) [+W] — rule, then example, then incomplete example; reported second-hand from 1960s programmed instruction, no data.
 - [PATHS topical sequencing follows a general-to-detailed continuum, the Simplifying Conditions Method, and synonymous and antonymous relationships](../claims/paths-topical-sequencing-four-guidelines.md) [+W], [PATHS macro-level sequencing combines spiral and topical sequencing patterns](../claims/paths-macro-sequencing-spiral-topical-combination.md) [+W], [PATHS spiral sequencing treats basic emotions as prerequisites for complex emotions across four levels of complexity](../claims/paths-basic-to-complex-hierarchical-spiral-sequencing.md) [+W] and [Within-lesson sequencing in the PATHS Feelings and Relationships Unit proceeds from cognitive to behavioral to affective and from external to internal](../claims/paths-within-lesson-cognitive-to-affective-sequencing.md) [+W] — a document analysis of how one emotional-literacy curriculum orders its lessons; they describe an order, they do not test it.
 - [Delaying oral production and emphasizing aural comprehension in initial EFL instruction produces better results than intensive oral practice](../claims/listening-first-outperforms-intensive-oral-practice.md) [+W]
 - [Procedural Strong Conceptual Limited Integral](../claims/procedural-strong-conceptual-limited-integral.md) [+M]

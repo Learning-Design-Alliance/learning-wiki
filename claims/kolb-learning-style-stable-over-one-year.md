@@ -14,7 +14,7 @@ sources:
     title: "Tamaoka, Katsuo. (1985). Historical Development of Learning Style Inventories from Dichotomous Cognitive Concepts of Field Dependence and Field Independence to Multi-Dimensional Assessment. https://eric.ed.gov/?id=ED339729"
     author: Tamaoka, Katsuo
     q: 2
-    i: 0
+    i: "?"
     kind: review
     rigour: 2
 ---
@@ -22,7 +22,7 @@ sources:
 # Learning styles measured by Kolb's inventory showed no significant change over one year of varied instruction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · review `r2` · `q2` · `i0` negligible
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Occupational therapy students tested before and after four quarters of varied learning formats exhibited no significant change in learning style. [→ Tamaoka 1985](#tamaoka-1985)
@@ -33,7 +33,7 @@ sources:
 
 Tamaoka, Katsuo. (1985). Historical Development of Learning Style Inventories from Dichotomous Cognitive Concepts of Field Dependence and Field Independence to Multi-Dimensional Assessment. https://eric.ed.gov/?id=ED339729
 
-`q2 · i0` · `review · r2`
+`q2 · i?` · `review · r2`
 
 The review reports Cahill and Madigan's pretest–posttest study in an occupational therapy class, with a pretest in the first week and a posttest after four quarters, finding "no significant change" on Kolb's inventory and the Rezler-French inventory despite varied instructional formats.
 

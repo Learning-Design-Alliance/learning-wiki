@@ -13,7 +13,7 @@ generated:
 # Brain Breaks
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (1 for, 2 unmarked) · 8 studies (3 review, 2 causal, 2 quant-synthesis, 1 theoretical), `q2`–`q4` · 1 of 8 report an effect size
+> **Evidence** · 3 claims (1 for, 2 unmarked) · 10 studies (3 causal, 3 quant-synthesis, 3 review, 1 theoretical), `q2`–`q4` · 2 of 10 report an effect size
 
 ## Description
 Brain breaks are brief (typically 1–10 minute) planned interruptions to sustained instructional activity, usually involving physical movement, social interaction, or a change in task modality. They are carried out by pausing the primary learning task and engaging learners in a short, low-stakes activity — stretching, a movement game, a quick social prompt — before returning to the original task with renewed attention.
@@ -78,7 +78,7 @@ Sustained attention degrades over continuous instructional periods, and physical
 
 - [Active Recess](../strategies/active-recess.md) — a longer, unstructured physical activity period serving the same attention-restoration function at the schedule level
 - [Check-ins](../principles/check-ins.md) — social-emotional pauses that can double as brain breaks
-- [Spaced practice scheduling](../claims/spaced-repetition-improves-retention.md) — breaks between study episodes also support spacing effects on retention [+S]
+- [Spaced practice scheduling](../claims/spaced-practice-improves-retention.md) — breaks between study episodes also support spacing effects on retention [+S]
 - [Active learning](../principles/active-learning.md) — a more substantive way to interrupt passive instruction; brain breaks are a lighter-weight option
 - [Include opportunities for mini-breaks during lessons, such as drawing, music, games, stretching, or going outside](mini-breaks-during-lessons.md)
 
@@ -123,7 +123,7 @@ Brain breaks function primarily as an [attention](../elements/activation.md) and
 
 #### Constraints
 - Poorly managed transitions can cost more time than the break saves; learners may find it difficult to re-enter learning [-M]
-- Breaks do not "process" memorized content — spaced review, not a break, is what improves retention of factual material [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [-S]; substituting brain breaks for spaced retrieval is a common misuse
+- Breaks do not "process" memorized content — spaced review, not a break, is what improves retention of factual material [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [-S]; substituting brain breaks for spaced retrieval is a common misuse
 - High-energy breaks can elevate arousal past the optimal level for quiet, focused tasks [~W]
 - Frequent or unpredictable breaks can fragment lessons and disrupt [clear structure](../principles/clear-structure.md) [-W]
 
@@ -148,10 +148,10 @@ Brain breaks function primarily as an [attention](../elements/activation.md) and
 2. **Choose an activity that contrasts with the lesson** — physical movement after seated work; divergent thinking after convergent work. Avoid activities that compete for the same working-memory resources as the lesson [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [~M].
 3. **Keep it short and bounded** — 1–5 minutes with a visible timer and a consistent end signal.
 4. **Re-enter with a bridge** — a one-sentence recap or a quick question that reconnects to the lesson, easing the transition back.
-5. **Do not substitute breaks for spaced review** — schedule actual retrieval practice separately [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+5. **Do not substitute breaks for spaced review** — schedule actual retrieval practice separately [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ## Related Strategies
-- [Spaced repetition](../claims/spaced-repetition-improves-retention.md) — the evidence-based alternative when the goal is retention rather than refreshment
+- [Spaced repetition](../claims/spaced-practice-improves-retention.md) — the evidence-based alternative when the goal is retention rather than refreshment
 - [Active learning](../principles/active-learning.md) — a more substantive way to interrupt passive instruction; brain breaks are a lighter-weight option
 - [Check-ins](../principles/check-ins.md) — brief social-emotional pauses that serve a similar re-regulation function
 

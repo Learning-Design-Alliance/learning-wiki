@@ -47,9 +47,9 @@ Meta-analytic lag analyses binning accuracy differences and absolute accuracy by
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Cepeda 2006](https://doi.org/10.1037/0033-2909.132.3.354) | q1 / q2 · quant-synthesis · r2 | i? | this claim; [ISI effects on recall are nonmonotonic and depend jointly on retention interval](isi-effect-nonmonotonic-joint-retention-interval.md) (qualifies); [Relearning-to-criterion designs confound distribution of practice with amount of second-se](relearning-confound-distributed-practice-designs.md) (qualifies) |
-| [Kapler et al. 2015](https://doi.org/10.1016/j.learninstruc.2014.11.001) | q3 · causal · r? | i? | [Eight-day review improved a five-week science test versus one-day review in a simulated un](eight-day-review-improves-five-week-science-test-versus-one-day-review.md) (supports) |
 | Robert DeKeyser 2010 | q2 · review · r2 | i? | [Distributed practice benefits L2 learning, and one review argues that spreading it over ye](distributed-practice-limits-l2.md) (qualifies) |
 | [Kim and Webb 2022](https://doi.org/10.1111/lang.12479) | q3 · quant-synthesis · r? | i? | [Distributed practice benefits L2 learning, and one review argues that spreading it over ye](distributed-practice-limits-l2.md) (qualifies) |
+| [Kapler et al. 2015](https://doi.org/10.1016/j.learninstruc.2014.11.001) | q3 · causal · r? | i? | [Eight-day review improved a five-week science test versus one-day review in a simulated un](eight-day-review-improves-five-week-science-test-versus-one-day-review.md) (supports) |
 | [Kang 2023](https://doi.org/10.1891/jfcp-2021-0032) | q3 · causal · r2 | i? | [The spaced-practice knowledge benefit reflects deeper learning or transfer rather than mem](spaced-practice-benefit-reflects-transfer-not-item-memorization.md) (supports) |
 <!-- synthesis:end -->
 
@@ -59,5 +59,5 @@ Meta-analytic lag analyses binning accuracy differences and absolute accuracy by
 ## Related Claims
 - [Expanding interstudy intervals led to better recall than fixed intervals, but conclusions are tentative](expanding-isis-better-than-fixed-tentative.md) — related
 - [ISI effects on recall are nonmonotonic and depend jointly on retention interval](isi-effect-nonmonotonic-joint-retention-interval.md) — possibly the same claim (merge candidate)
-- [Spaced Repetition Improves Retention](spaced-repetition-improves-retention.md) — related
+- [Spaced Repetition Improves Retention](spaced-practice-improves-retention.md) — related
 - [Relearning-to-criterion designs confound distribution of practice with amount of second-session practice](relearning-confound-distributed-practice-designs.md) — related

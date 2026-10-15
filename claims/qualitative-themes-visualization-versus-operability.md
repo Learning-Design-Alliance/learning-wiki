@@ -41,8 +41,9 @@ KJ-method qualitative descriptive analysis of open-ended responses from all 20 p
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Immersive technologies such as virtual reality should reinforce, not substitute, the original educational action](vr-reinforcement-not-substitute.md) — the general claim this finding bears on, with the studies behind it
 - [No significant differences between VR-based and conventional training in operational understanding, technical skills, or system usability](no-difference-operational-skills-usability.md) — related
 - [VR-based training received significantly higher ratings for medical safety awareness and radiation protection than conventional training (r=0.856)](vr-training-higher-safety-awareness-ratings.md) — related
 - [VR-based training with radiation field visualization received significantly higher ratings for radiation understanding and visualization than conventional training (r=0.878)](vr-radiation-visualization-higher-understanding-ratings.md) — related

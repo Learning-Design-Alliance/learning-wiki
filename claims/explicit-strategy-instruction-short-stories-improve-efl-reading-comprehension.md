@@ -46,6 +46,8 @@ Quasi-experimental post-test control group study with 25 experimental and 25 con
 
 ## Related Claims
 
+- [Reading Strategy Instruction Improves Comprehension](reading-strategy-instruction-improves-comprehension.md) — the general claim this finding bears on, with the studies behind it
+
 - [Explicit L2 grammar instruction leads to larger learning effects than implicit instruction, as reported in the reviewed synthesis literature](explicit-l2-grammar-instruction-superior-to-implicit.md) — the general claim this finding bears on, with the studies behind it
 - [Sixth-grade students taught with Direct Instruction showed no statistically significant difference in ITBS reading scores compared with students taught in the regular classroom](direct-instruction-no-significant-reading-difference-sixth-grade.md) — related
 - [All experimental group EFL students expressed positive perspectives on explicit instruction of reading comprehension strategies](efl-students-positive-views-explicit-strategy-instruction.md) — related

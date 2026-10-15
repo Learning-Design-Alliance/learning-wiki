@@ -43,7 +43,7 @@ Observational analysis of scaffolding levels across seven programming assignment
 
 ## Related Claims
 
-- [How genAI is used, not who uses it, predicts whether independent performance declines or improves](genai-usage-mode-predicts-independent-performance.md) — the general claim this finding bears on, with the studies behind it
+- [How genAI is used, not who uses it, predicts whether independent performance declines or improves](persistence-costs-concentrated-among-direct-solution-users.md) — the general claim this finding bears on, with the studies behind it
 - [LLM scaffolding level is associated with the student's next dialogue act, and the association persists within broad request categories](scaffolding-associated-with-next-student-move.md) — related
 - [Within a single LLM session, students' help-seeking shifts toward answer- and verification-seeking while explicit self-regulation modestly increases](within-session-hs-shifts-toward-closure-srl-increases.md) — related
 - [LLM assistance value in VR instruction varies with instructional intent type](llm-assistance-value-varies-with-intent-type.md) — related

@@ -17,7 +17,7 @@ sources:
 # TAACCCT consortium implementing flexibly paced CBE programs in information technology
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (3 for, 2 mixed) · 4 studies (3 associational, 1 design), `q2` · 0 of 4 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 4 studies (3 associational, 1 design), `q2` · 0 of 4 report an effect size · 2 claims rest on one study
 
 ## Description
 Under a Round 2 TAACCCT grant, "Sinclair Community College is leading a consortium with Austin Community College and Broward College to implement flexibly paced, competency-based education (CBE) programs in information technology." The consortium is the setting from which the brief's highlighted practices were drawn, with Mathematica serving as external evaluator of the grant.
@@ -40,8 +40,7 @@ Under a Round 2 TAACCCT grant, "Sinclair Community College is leading a consorti
 
 - [A consortium led by Sinclair Community College implemented competency-based information technology programs in three community colleges, documented at or near baseline](../claims/sinclair-consortium-competency-based-it-programs-baseline.md) [+M]
 - [A three-college consortium successfully implemented online competency-based programs as planned, meeting most implementation milestones and outcome targets](../claims/cbe-consortium-implemented-programs-as-planned.md) [+M]
-- [About 35 percent of consortium participants completed a grant-funded program of study, including certifications, certificates, and degrees](../claims/taaccct-cbe-35-percent-program-completion.md) [~M]
-- [Consortium-wide, 35 percent of participants completed a grant-funded program of study, with high employment rates and wage growth above the national average](../claims/cbe-participants-completion-employment-wages.md) [~M]
+- [About 35 percent of consortium participants completed a grant-funded program of study, including certifications, certificates, and degrees](../claims/cbe-participants-completion-employment-wages.md) [~M]
 - [CBE participants completed programs quickly, averaging less than two terms to a first industry certification course and about four terms to certificates and degrees](../claims/cbe-fast-completion-two-terms-certification-four-terms-credentials.md) [+M]
 
 ## Related Elements

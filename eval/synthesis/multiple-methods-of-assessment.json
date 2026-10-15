@@ -1,0 +1,96 @@
+{
+  "principle": "principles/multiple-methods-of-assessment",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "proposition-4-distinct-evidence-demands",
+      "question": "Does evidence from methods that make different demands show what a learner can do better than a single method?",
+      "members": [
+        [
+          "multimethod-approach-richer-portrayal-child-performance",
+          "+"
+        ],
+        [
+          "standardized-tests-problematic-young-children-outcomes",
+          "+"
+        ],
+        [
+          "assessment-twins-triangulate-evidence-mitigate-threats",
+          "+"
+        ],
+        [
+          "verbal-achievement-tests-may-underestimate-via-symbolic-mismatch",
+          "+"
+        ],
+        [
+          "different-media-yield-different-knowledge-encoding",
+          "+"
+        ],
+        [
+          "students-perform-better-oral-than-written",
+          "+"
+        ],
+        [
+          "static-assessment-misses-emerging-functions",
+          "+"
+        ],
+        [
+          "funds-of-knowledge-tasks-reveal-computational-thinking",
+          "+"
+        ],
+        [
+          "free-play-reveals-behavioral-math-knowledge",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "self-assessment-accuracy-is-low-without-training",
+      "question": "Can learners' own monitoring be trusted, and can it be trained?",
+      "members": [
+        [
+          "fluent-illusions-mislead-self-assessment",
+          "+"
+        ],
+        [
+          "prior-knowledge-needed-for-accurate-self-assessment",
+          "+"
+        ],
+        [
+          "self-assessment-improves-self-regulated-learning",
+          "~"
+        ],
+        [
+          "apca-improves-self-assessment-accuracy-overconfidence",
+          "+"
+        ],
+        [
+          "no-trace-format-supported-calibrated-self-evaluation",
+          "+"
+        ],
+        [
+          "peer-self-assessment-improve-performance-equally",
+          "~"
+        ],
+        [
+          "rubrics-improve-student-work",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "performance-assessments-reliably-scoreable",
+      "question": "Can methods scored by judgement be scored reliably, or do they add rater variation?",
+      "members": [
+        [
+          "raters-differed-severity-mfrm",
+          "~"
+        ],
+        [
+          "engineering-rubric-low-scoring-reliability",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

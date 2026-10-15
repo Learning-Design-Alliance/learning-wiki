@@ -41,6 +41,18 @@ The article's conceptual discussion of criterion-referenced measurement explains
 
 > "In criterion referenced measurement the scale is usually anchored at the extremes--one at the top indicating complete or perfect mastery of some defined abilities; one at the bottom indicating absence of some skills."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*What does a score read against a defined standard tell a teacher that a rank against other learners does not?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **3 distinct studies** (3 theoretical), `q1`–`q2`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Pikulski 1973 | q2 · theoretical · r? | i? | this claim; [Criterion-referenced test items should represent skills essential to learning to read and ](criterion-referenced-items-should-represent-essential-skills-in-a-teaching-hierarchy.md) (supports) |
+| Gentile 1971 | q1 · theoretical · r2 | i? | [Rank-ordering students is irrelevant to teaching because teaching is not claimed to have o](rank-ordering-irrelevant-to-teaching.md) (supports); [Competitive (norm-referenced) grading pits students against one another and discourages co](competitive-grading-pits-students-against-each-other.md) (supports); [Abandoning assessment entirely is not an acceptable alternative to competitive grading, pe](nonassessment-unacceptable-alternative.md) (qualifies) |
+| Hunt 1973 | q1 · theoretical · r2 | i? | [Norm-referenced mental-age and IQ metrics distract investigators from the structural and h](norm-referenced-metrics-hide-structural-development.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

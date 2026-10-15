@@ -46,6 +46,6 @@ The brief asserts, citing four studies (Al Otaiba et al., 2014; Hurwitz et al., 
 - [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
-- [Self-determination instruction improves outcomes](self-determination-instruction-improves-outcomes.md) — related
+- [Self-determination skills instruction for students with disabilities increases self-determination on some measures but not others](self-determination-instruction-improves-outcomes.md) — related
 - [Self Monitoring Improves On Task Behavior](self-monitoring-improves-on-task-behavior.md) — related
-- [Inclusive preschool special education benefits students with and without disabilities and reduces later special education identification](inclusive-preschool-benefits-reduced-identification.md) — related
+- [A state funding report's research review, citing earlier studies, states that inclusive preschool special education benefits students with and without disabilities and that effective early education reduces later special education identification](inclusive-preschool-benefits-reduced-identification.md) — related

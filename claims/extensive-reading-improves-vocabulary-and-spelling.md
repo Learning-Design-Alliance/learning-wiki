@@ -63,8 +63,8 @@ The review attributes a spelling benefit to cited studies: frequent exposure to 
 
 ## Related Claims
 - [Extensive reading improves reading comprehension and reading fluency](extensive-reading-improves-comprehension-and-fluency.md) — related
-- [L2 learners develop much of their vocabulary incidentally through exposure to words in informative contexts, primarily via extensive reading for meaning](incidental-vocabulary-learning-through-reading-for-meaning.md) — possibly the same claim (merge candidate)
-- [Incidental Vocabulary Exposure Limited](incidental-vocabulary-exposure-limited.md) — a narrower finding that bears on this claim
+- [L2 learners pick up vocabulary incidentally from meaning-focused input, with reading the most-studied mode and listening yielding similar proportions of words learned](incidental-vocabulary-learning-through-reading-for-meaning.md) — possibly the same claim (merge candidate)
+- [Incidental vocabulary exposure produces reliable learning, but learners pick up only a small share of the unknown words they meet](incidental-vocabulary-exposure-limited.md) — a narrower finding that bears on this claim
 - [Pairing Contextual Encounters With Explicit Instruction Produces Stronger Vocabulary Outcomes Than Either Alone](pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone.md) — related
 - [Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts](vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts.md) — possibly the same claim (merge candidate)
 - [The more often learners meet a word while reading, the more likely they are to learn it incidentally, with a moderate correlation across studies](exposure-frequency-predicts-incidental-gains.md) — a narrower finding that bears on this claim

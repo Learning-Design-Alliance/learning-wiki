@@ -44,9 +44,9 @@ The review argues that intentional instruction and incidental exposure should co
 - [Combining intentional and incidental vocabulary learning produces greater gains and better retention than either mode alone](../claims/combined-intentional-incidental-greater-gains.md) [+M]
 - [Pairing Contextual Encounters With Explicit Instruction Produces Stronger Vocabulary Outcomes Than Either Alone](../claims/pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone.md) [+M]
 - [Intentional vocabulary learning yields higher, faster gains and better retention than incidental learning through reading](../claims/intentional-beats-incidental-vocabulary-gains.md) [+M]
-- [Incidental Vocabulary Exposure Limited](../claims/incidental-vocabulary-exposure-limited.md) [+M]
+- [Incidental vocabulary exposure produces reliable learning, but learners pick up only a small share of the unknown words they meet](../claims/incidental-vocabulary-exposure-limited.md) [+M]
 - [Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts](../claims/vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts.md) [+M]
-- [L2 learners develop much of their vocabulary incidentally through exposure to words in informative contexts, primarily via extensive reading for meaning](../claims/incidental-vocabulary-learning-through-reading-for-meaning.md) [~M]
+- [L2 learners pick up vocabulary incidentally from meaning-focused input, with reading the most-studied mode and listening yielding similar proportions of words learned](../claims/incidental-vocabulary-learning-through-reading-for-meaning.md) [~M]
 
 ## Related Principles
 - 

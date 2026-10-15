@@ -41,8 +41,9 @@ In the cohort 1 randomized experiment, treatment teachers reported significantly
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](classroom-physical-activity-improves-attention.md) — the general claim this finding bears on, with the studies behind it
 - [Teachers in Playworks schools reported less bullying and exclusionary behavior during recess than control-school teachers](playworks-reduced-teacher-reported-recess-bullying.md) — a narrower finding that bears on this claim
 - [Playworks made transitions from recess to classroom learning less difficult, per teacher reports](playworks-easier-recess-to-classroom-transitions.md) — a narrower finding that bears on this claim
 - [Girls in Playworks schools had significantly higher accelerometer intensity counts and spent more time in vigorous physical activity than girls in control schools](playworks-girls-higher-activity-counts-vigorous.md) — related

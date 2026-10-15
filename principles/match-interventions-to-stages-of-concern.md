@@ -122,6 +122,10 @@ What limits the model:
 
 Learners, innovations and decades differ across these claims (elementary science in the 1970s, new and returning teachers in the 1980s, classroom technology in the 1990s), all are teachers, and none reports an effect size for a concerns outcome. Do not rank them.
 
+## The evidence by question
+
+- *Do adopters' concerns move in the expected order, from self through task to impact concerns, over a period of use?* [Teachers' concerns follow a developmental trend from lower to higher stages during curriculum implementation](../claims/stages-of-concern-developmental-trend.md) [+M]
+
 ## Further evidence, not yet read against this model
 
 Claims this page cited before it was rewritten, and others on the same studies. None tests matching; each label says how far it bears on this page.

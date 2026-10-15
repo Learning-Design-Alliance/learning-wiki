@@ -41,7 +41,8 @@ Authors' conclusion from the meta-analysis of 43 studies, in which vocabulary in
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Vocabulary Instruction Improves Comprehension](vocabulary-instruction-improves-comprehension.md) — the general claim this finding bears on, with the studies behind it
 - [A disadvantaged-child program with heavy oral language emphasis led all compared programs in cognitive gains](oral-language-emphasis-program-led-cognitive-gains.md) — reports the opposite
 - [A sizable repertoire of formulaic sequences benefits second-language learners, but learners are slow to close the gap with native speakers in formulaic language](formulaic-sequences-benefit-l2-learners-but-are-slow-to-acquire.md) — related

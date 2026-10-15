@@ -12,7 +12,7 @@ generated:
 # Fact Checking
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 12 studies (5 causal, 4 quant-synthesis, 3 review), `q2`–`q4` · 3 of 12 report an effect size
+> **Evidence** · 4 claims (4 for) · 14 studies (6 causal, 5 quant-synthesis, 3 review), `q2`–`q4` · 4 of 14 report an effect size
 
 ## Description
 Fact checking is a strategy in which learners actively verify the accuracy of claims rather than accepting them at face value. It is carried out through concrete moves: leaving the original source to read what independent outlets say about it (lateral reading), investigating who is behind a claim, tracing quotes and images to their origins, and corroborating assertions across multiple sources. Unlike passive source-evaluation heuristics (checking for professional design or an "About" page), professional fact checkers evaluate by opening new tabs and seeing what the rest of the web says [Wineburg & McGrew, 2019].
@@ -43,7 +43,7 @@ Fact checking instruction improves learners' ability to evaluate online informat
 ### Target Learners
 - Secondary and postsecondary students, who show large deficits on realistic evaluation tasks — most students fail to distinguish sponsored content from news [Explicit civic online reasoning instruction improves students' evaluation of online sources.](../claims/civic-online-reasoning-instruction-improves-evaluation.md) [+M]
 - Professional-track learners (journalists, librarians, health professionals) who must evaluate sources under time pressure
-- Less effective as a one-off intervention; gains require distributed practice across the curriculum [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Less effective as a one-off intervention; gains require distributed practice across the curriculum [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 
 ### Target Learning Goals
 - Information literacy: evaluating the credibility and reliability of sources

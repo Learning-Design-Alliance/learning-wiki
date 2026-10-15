@@ -1,0 +1,58 @@
+{
+  "principle": "patterns/programmed-instruction",
+  "note": "Wave 10 (2026-10-15). Groupings and directions by an agent from the claims' pages, read in full. No claim tests programmed instruction itself; both hubs already carry tables from eval/synthesis/mastery-learning.json and eval/synthesis/retrieval-practice.json, and most members here are already on them (repeated so this page's question is recorded); the new member is outcome-feedback-impedes-complex-task-learning-mcpl.",
+  "findings": [
+    {
+      "hub": "mastery-learning-effects-vary-with-standard-pacing-and-test-type",
+      "question": "Self-paced or group-paced progression through small units, at what criterion, measured how?",
+      "members": [
+        [
+          "self-paced-mastery-programs-reduce-college-course-completion",
+          "+"
+        ],
+        [
+          "learner-paced-beats-system-paced-complex-material",
+          "~"
+        ],
+        [
+          "mastery-improves-engagement-attrition",
+          "+"
+        ],
+        [
+          "adaptive-learning-improves-outcomes",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "feedback-enhances-retrieval-practice",
+      "question": "Does confirming or correcting each response add to learning from making the response?",
+      "members": [
+        [
+          "feedback-no-significant-moderation",
+          "~"
+        ],
+        [
+          "feedback-determines-whether-short-answer-retrieval-outperforms-multiple-choice",
+          "+"
+        ],
+        [
+          "multiple-choice-lures-can-be-learned-as-false-knowledge",
+          "+"
+        ],
+        [
+          "high-confidence-errors-improve-retention",
+          "+"
+        ],
+        [
+          "outcome-feedback-impedes-complex-task-learning-mcpl",
+          "~"
+        ],
+        [
+          "knowledge-of-results-no-effect-achievement-test-dimensionality",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

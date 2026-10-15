@@ -41,6 +41,7 @@ An uncontrolled trial reported anecdotally in the article's closing section: "St
 
 ## Discussion
 
-
 ## Related Claims
+
+- [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](whole-task-performance-improves-transfer.md) — the general claim this finding bears on, with the studies behind it
 - [Community projects need conceptual framing to avoid narrowing the learning object](community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object.md) — related

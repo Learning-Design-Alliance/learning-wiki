@@ -12,14 +12,14 @@ generated:
 # Math Games
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 unmarked) · 11 studies (6 quant-synthesis, 2 causal, 2 review, 1 associational), `q2`–`q4` · 4 of 11 report an effect size
+> **Evidence** · 4 claims (3 for, 1 unmarked) · 13 studies (7 quant-synthesis, 3 causal, 2 review, 1 associational), `q2`–`q4` · 5 of 13 report an effect size
 
 ## Description
 Math games are structured activities designed to stimulate enthusiasm for math learning by providing opportunities to explore fundamental number concepts, engage in strategic mathematical thinking, and deepen understanding of numbers. Games encourage exploration of number combinations, place value, patterns, and computational strategies, deepening mathematical understanding and reasoning. They also create authentic opportunities for teachers to observe or assess students and to work with individuals or small groups while the rest of the class plays independently.
 
 ## Design Implications
 
-Well-designed math games embed [practice](../elements/practice.md) in a goal structure that motivates repeated engagement, and repetition is the mechanism through which fluency develops [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]. The strongest evidence comes from linear number board games: preschoolers from low-income backgrounds who played a linear number board game for four short sessions showed durable gains in numerical magnitude comparison, number line estimation, and counting relative to controls [Ramani & Siegler, 2008] [+S]. Games work best when the mathematical decision-making, not luck or recall speed, determines the outcome, and when play is followed by discussion that makes strategies explicit [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M].
+Well-designed math games embed [practice](../elements/practice.md) in a goal structure that motivates repeated engagement, and repetition is the mechanism through which fluency develops [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]. The strongest evidence comes from linear number board games: preschoolers from low-income backgrounds who played a linear number board game for four short sessions showed durable gains in numerical magnitude comparison, number line estimation, and counting relative to controls [Ramani & Siegler, 2008] [+S]. Games work best when the mathematical decision-making, not luck or recall speed, determines the outcome, and when play is followed by discussion that makes strategies explicit [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M].
 
 ### Context
 #### Requirements

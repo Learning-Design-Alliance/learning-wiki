@@ -59,6 +59,18 @@ Survey correlations from the DLP: voluntary participation with a printed "corr w
 
 > "The most important conditions seem to be that teacher participation is voluntary (corr with improvement in classroom challenges = .36, p < .001) and that teachers receive support from a coach in a non-evaluative manner (corr  with improvement in classroom challenges  = 0.3, p  < .001 )."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does participation that is voluntary and kept apart from evaluation go with more change in practice?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **3 distinct studies** (2 qualitative, 1 associational), `q1`–`q2`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Mahsa Bakhshaei 2020 | q2 · associational · r1 | i? | this claim |
+| Hardy 2021 | q2 · qualitative · r? | i? | [When district administration encourages a culture of coaching, teachers feel more comforta](coaching-culture-increases-teacher-participation.md) (supports) |
+| Susan E. Sporte 2013 | q1 · qualitative · r2 | i? | [Administrators' dual role as evaluator and coach can undermine the observation process's p](dual-evaluator-coach-role-undermines-learning.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

@@ -39,7 +39,7 @@ Inquiry-based learning is the element in which learners investigate questions, e
 - [Inquiry Based Teaching Improves Science Achievement](../claims/inquiry-based-teaching-improves-science-achievement.md) [+M]
 - [Teacher Guided Inquiry Outperforms Student Led](../claims/teacher-guided-inquiry-outperforms-student-led.md) [+M]
 - [Mentored inquiry with staged mechanistic sensemaking supports the transition from intuitive to formal equation reasoning](../claims/mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning.md) [+W]
-- [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](../claims/guided-discovery-outperforms-pure-discovery.md) [+M]
+- [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](../claims/minimal-guidance-less-effective-for-novices.md) [+M]
 - [Scripted personally meaningful inquiry is associated with gains in inquiry-decision accuracy, with mixed evidence on attitude and behavior change](../claims/scripted-personal-inquiry-associated-with-inquiry-knowledge-gains.md) [+W]
 - [Hands-on, inquiry-based science and math instruction with higher-order thinking was associated with higher English reading achievement on the Stanford Achievement Test in the AMSTI evaluation](../claims/amsti-inquiry-science-higher-reading-achievement.md) [+W]
 

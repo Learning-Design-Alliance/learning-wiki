@@ -39,9 +39,23 @@ Meta-regression within the three-level meta-analytic model on 166 comparisons, u
 
 > "The overall PF fidelity score (computed as a percentage) was a significant predictor of the effect size (β = 0.0065, p < .001, 95% CI [0.0044, 0.0087])."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Which features of the attempt and of the instruction after it, and how much time, go with a larger advantage for attempting first?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **4 distinct studies** (1 quant-synthesis, 1 review, 1 theoretical, 1 causal), `q3`–`q4`, 1 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Tanmay Sinha and Manu Kapur 2021](https://doi.org/10.3102/00346543211019105) | q4 · quant-synthesis · r3 | i? | this claim; [In one meta-regression, the PS-I fidelity benefit tended to shrink for interventions spann](psi-fidelity-time-span-interaction.md) (qualifies) |
+| [Loibl 2017](https://doi.org/10.1007/s10648-016-9379-x) | q3 · review · r? | i? | [PS-I fosters learning only if specific design features (contrasting cases or building inst](ps-i-fosters-learning-only-with-contrasting-cases-or-student-solutions.md) (supports) |
+| [Manu Kapur 2016](https://doi.org/10.1080/00461520.2016.1155457) | q3 · theoretical · r3 | i? | [Guidance during initial problem solving does not translate into better learning from subse](initial-guidance-does-not-improve-learning-from-instruction.md) (qualifies) |
+| [Sinha 2022](https://doi.org/10.1080/10508406.2021.1964506) | q3 · causal · r? | i1 | [Emotion dynamics during problem-solving predict learning outcomes in a manner that depends](emotion-dynamics-during-problem-solving-predict-learning-outcomes-context-dependently.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
-
 ## Related Claims
+
+- [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — the general claim this finding bears on, with the studies behind it
 - [For domain-general skills, effect sizes favor I-PS over PS-I](domain-general-skills-favor-ips.md) — related
-- [The fidelity benefit of PS-I reverses for very short interventions: fidelity gains shrink when everything is crammed into a few hours](psi-fidelity-time-span-interaction.md) — related
+- [In one meta-regression, the PS-I fidelity benefit tended to shrink for interventions spanning only a few hours, a marginal interaction (p = .055)](psi-fidelity-time-span-interaction.md) — related

@@ -108,6 +108,12 @@ These rows are proposals, untested with learners as diagnostics. A pre-question 
 
 Learners, settings, materials and outcomes differ across these claims (laboratory undergraduates, MOOC adults, primary pupils, intervention programmes), so do not rank them by effect size.
 
+## The evidence by question
+
+- *Does attempting questions on material before studying it improve later memory of the questioned content, and under what conditions on the answer and the material?* [Pretesting enhances learning](../claims/pretesting-enhances-learning.md) [+M]
+- *Does the gain reach content the pre-questions did not ask about?* [Question prompts improve learning](../claims/question-prompts-improve-learning.md) [~M]
+- *What does failing first cost the learner: persistence, belief in the method, the effect of confusion?* [Pre-tests reduced adult learners' persistence in a MOOC, though they improved post-test scores among those who completed it](../claims/pretesting-can-harm-motivation.md) [-M]
+
 ## Further evidence, not yet read against this model
 
 Claims this page cited before it was rewritten as a conditional model, and claims found near it. None has been re-read against the model above as core evidence; each says what it is and how far it bears.

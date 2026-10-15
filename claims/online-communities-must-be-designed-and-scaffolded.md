@@ -39,6 +39,20 @@ Authors' interpretive conclusion (type e) from the case study, in the Emerging U
 
 > "In developing fully-online units, it is important to note that such learning communities do not simply emerge; rather, they must be designed for and scaffolded, through teaching and assessment activities (Krause, 2005), such as those explored in this unit."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does community in an online course have to be designed for, and which moves are reported to build it?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **5 distinct studies** (2 design, 2 qualitative, 1 review), `q1`–`q2`, 0 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Pittaway 2014 | q1 / q2 · design · r2 | i? | this claim; [Fortnightly web conferences with open-ended discussion supported students' academic and so](web-conferences-support-online-community.md) (supports) |
+| Murphy 2009 | q2 · qualitative · r2 | i? | [Creating community and interacting with students online required deliberate, planned effor](online-community-requires-conscious-effort.md) (supports) |
+| [Darder 2015](https://doi.org/10.7821/naer.2015.4.110) | q2 · design · r2 | i? | [The student-tutor relationship alone is judged insufficient: peer mixing and virtual commu](virtual-communities-counter-supervision-isolation.md) (supports) |
+| Technology and Family Literacy Case Study: SPICE 2012 | q1 · qualitative · r1 | i? | [SPICE learners report that the virtual Center reduced their rural isolation and made learn](spice-learners-report-reduced-isolation.md) (supports) |
+| [Jaeseok Yang 2013](https://doi.org/10.5539/elt.v6n7p19) | q2 · review · r2 | i? | [Microblogging and mobile blogging promote target-language interaction, cultural understand](microblogging-promotes-interaction-community-language-learners.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 ## Related Claims

@@ -12,7 +12,7 @@ generated:
 # Note Taking
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies (5 quant-synthesis, 3 causal), `q3`–`q4` · 4 of 8 report an effect size
+> **Evidence** · 3 claims (3 for) · 10 studies (6 quant-synthesis, 4 causal), `q3`–`q4` · 5 of 10 report an effect size
 
 ## Description
 Note taking is the practice of recording key ideas during a lecture, reading, or multimedia presentation, typically involving selection of important information, paraphrasing, and organization into a personal structure. It serves two functions: encoding (processing material deeply at the moment of learning) and storage (creating an external record for later review). Variants include linear notes, structured outlines, [Cornell notes](https://en.wikipedia.org/wiki/Cornell_Notes), concept maps, and sketchnoting.
@@ -47,7 +47,7 @@ Note taking improves learning primarily when it requires generative processing �
 
 ### Target Learning Goals
 - Factual and conceptual knowledge retention from lectures and texts
-- Study skills and self-regulation: notes are the raw material for later [distributed practice](../claims/spaced-repetition-improves-retention.md) [+S]
+- Study skills and self-regulation: notes are the raw material for later [distributed practice](../claims/spaced-practice-improves-retention.md) [+S]
 - Discipline-specific literacy: learning what experts in a field consider worth recording
 
 ### Instructions
@@ -55,7 +55,7 @@ Note taking improves learning primarily when it requires generative processing �
 2. Present material in segments with pauses for recording and paraphrasing
 3. Require generative formats — paraphrase, questions in the margin, or [Annotating](../principles/annotating.md) — rather than transcription
 4. Follow with a consolidation activity: summarize the notes, or convert them into questions for later self-testing
-5. Build review of notes into later sessions using spaced retrieval rather than rereading [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+5. Build review of notes into later sessions using spaced retrieval rather than rereading [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 
 ## Related Strategies
 

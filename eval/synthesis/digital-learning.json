@@ -1,0 +1,82 @@
+{
+  "principle": "principles/digital-learning",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "media-comparison-studies-produce-uninterpretable-results",
+      "question": "Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?",
+      "members": [
+        [
+          "cbi-advantage-shrinks-same-teacher-comparisons",
+          "+"
+        ],
+        [
+          "practice-presence-raises-cbi-posttest-achievement",
+          "+"
+        ],
+        [
+          "computer-based-no-better-than-individual-paper",
+          "+"
+        ],
+        [
+          "computer-based-tutorial-implementation-lowest-posttest",
+          "~"
+        ],
+        [
+          "tool-effectiveness-depends-on-context-configuration",
+          "+"
+        ],
+        [
+          "lab-technology-gains-depend-on-active-engagement-pedagogy",
+          "+"
+        ],
+        [
+          "sms-vocabulary-learning-beats-paper-materials",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "online-course-lower-grades-current-and-future",
+      "question": "Do learners do as well, and stay as long, in a fully online course as in the same course face to face?",
+      "members": [
+        [
+          "online-credit-recovery-lower-credit-and-posttest",
+          "+"
+        ],
+        [
+          "credit-recovery-no-second-year-differences",
+          "~"
+        ],
+        [
+          "online-continuing-education-persistence-lower-than-onground",
+          "+"
+        ],
+        [
+          "orientation-week-attrition-double-online",
+          "~"
+        ],
+        [
+          "no-drop-rate-difference-after-instruction-starts",
+          "~"
+        ],
+        [
+          "blended-learning-improves-outcomes",
+          "~"
+        ],
+        [
+          "tipping-point-hypothesis-insufficient-online-dropout",
+          "~"
+        ],
+        [
+          "withdrawal-reasons-similar-across-modalities",
+          "~"
+        ],
+        [
+          "dissatisfaction-not-primary-drop-reason",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

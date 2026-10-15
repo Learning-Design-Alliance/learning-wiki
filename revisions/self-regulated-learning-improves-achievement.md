@@ -37,3 +37,8 @@ Evidence copied from the verified entry on its near-duplicate sibling page
 
 ### 2026-09-25 · ingest · claude/unspecified
 Evidence copied from a verified near-duplicate (gap-fill)
+
+## Earlier history as claims/self-regulation-strategy-instruction-improves-achievement
+
+### 2026-09-25 · ingest · claude/unspecified
+Evidence copied from a verified near-duplicate (gap-fill)

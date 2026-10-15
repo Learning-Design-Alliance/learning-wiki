@@ -12,14 +12,14 @@ generated:
 # Regular Text Referencing
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 6 studies (3 causal, 3 quant-synthesis), `q3`–`q4` · 2 of 6 report an effect size
+> **Evidence** · 2 claims (2 for) · 8 studies (4 causal, 4 quant-synthesis), `q3`–`q4` · 3 of 8 report an effect size
 
 ## Description
 Regular text referencing means deliberately and repeatedly returning to previously studied mentor texts — published works, exemplar student writing, or shared class texts — during conferences, mini-lessons, and discussions. Each return visit names the technique being studied, shows it in context, and prompts students to connect it to their own writing. The strategy converts a one-time exposure into spaced, elaborated review, and explicitly signals to students that the technique is reusable in future work.
 
 ## Design Implications
 
-Repeated, spaced encounters with the same exemplar combat the forgetting curve far better than a single lesson [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S], and retrieval-oriented referencing ("find the technique in the text yourself") strengthens memory more than re-exposure alone [+S]. Referencing also supports schema building: seeing one technique across multiple texts and contexts helps learners abstract the underlying move rather than memorizing a surface example [~M]. The teacher's role is to make each reference purposeful — tied to a named technique and to students' current writing goals — rather than a ritual re-reading.
+Repeated, spaced encounters with the same exemplar combat the forgetting curve far better than a single lesson [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S], and retrieval-oriented referencing ("find the technique in the text yourself") strengthens memory more than re-exposure alone [+S]. Referencing also supports schema building: seeing one technique across multiple texts and contexts helps learners abstract the underlying move rather than memorizing a surface example [~M]. The teacher's role is to make each reference purposeful — tied to a named technique and to students' current writing goals — rather than a ritual re-reading.
 
 ### Context
 #### Requirements
@@ -45,7 +45,7 @@ Repeated, spaced encounters with the same exemplar combat the forgetting curve f
 - Advanced students benefit less from teacher-led re-exposure; they should instead lead the referencing themselves or compare across texts [~W]
 
 ### Target Learning Goals
-- Retention of previously taught writing techniques [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Retention of previously taught writing techniques [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 - Transfer: applying techniques from mentor texts to new, self-generated writing contexts [+W]
 - Close reading and [annotating](../principles/annotating.md) skills: locating and naming craft moves in authentic texts
 - Metacognition: students articulate what they have borrowed and why

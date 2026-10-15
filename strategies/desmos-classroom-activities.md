@@ -12,7 +12,7 @@ generated:
 # Desmos Classroom Activities
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (6 for, 1 mixed) · 21 studies (9 quant-synthesis, 6 causal, 3 review, 2 theoretical, 1 associational), `q1`–`q4` · 7 of 21 report an effect size
+> **Evidence** · 7 claims (6 for, 1 mixed) · 23 studies (10 quant-synthesis, 7 causal, 3 review, 2 theoretical, 1 associational), `q1`–`q4` · 8 of 23 report an effect size
 
 ## Description
 Desmos Classroom Activities ([teacher.desmos.com](https://teacher.desmos.com)) are browser-based mathematics lessons built from interactive screens — graphing tasks, card sorts, marbleslides, and response prompts — that students work through while the teacher orchestrates pacing and monitors anonymized student work on a dashboard. The teacher can pause the class, showcase individual student responses, and sequence discussion around the work students actually produce, making the activity a vehicle for [formative assessment](../patterns/formative-assessment.md) rather than self-paced drill.
@@ -36,7 +36,7 @@ The strategy's core mechanism is making student thinking collectively visible: b
 
 #### Implementation Variability
 - **Full lesson replacement**: a complete Desmos activity (e.g., "Polygraph: Parabolas") as the core of a class period, with teacher-paced discussion between screens
-- **Warm-up or exit ticket**: a 2–3 screen activity used to surface prior conceptions or check retention [spaced-repetition-improves-retention](../claims/spaced-repetition-improves-retention.md) [+S]
+- **Warm-up or exit ticket**: a 2–3 screen activity used to surface prior conceptions or check retention [spaced-repetition-improves-retention](../claims/spaced-practice-improves-retention.md) [+S]
 - **Card sorts for discrimination**: students sort examples and non-examples, then the teacher displays mismatch patterns to drive discussion [multiple-contrasting-cases-support-abstraction](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - **Asynchronous/flipped use**: screens assigned before class to gather data that shapes the in-person lesson, as in a [flipped classroom](../patterns/flipped-classroom.md)
 

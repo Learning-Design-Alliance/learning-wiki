@@ -76,7 +76,7 @@ A meta-analysis of feedback interventions on task performance in laboratory and 
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*What should the feedback after a check say, and who or what should give it?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **7 distinct studies** (2 quant-synthesis, 2 associational, 2 causal, 1 theoretical), `q1`–`q4`, 3 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*What should the feedback after a check say, and who or what should give it?* This table gathers the studies behind this claim and the 10 narrower claims that bear on it: **12 distinct studies** (4 causal, 3 review, 2 quant-synthesis, 2 associational, 1 theoretical), `q1`–`q4`, 3 of 12 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -87,6 +87,11 @@ A meta-analysis of feedback interventions on task performance in laboratory and 
 | [Ates 2026](https://doi.org/10.1186/s41239-026-00614-9) | q4 · causal · r3 | i1 | [Direct GenAI-supported feedback improves immediate argument-quality gain over peer feedbac](genai-feedback-design-argument-quality-gain.md) (qualifies); [Reflective and hybrid feedback outperform direct GenAI feedback on delayed AI-free transfe](agentic-designs-delayed-ai-free-transfer.md) (qualifies) |
 | Hasnain Heickal and Andrew Lan 2026 | q3 · associational · r2 | i? | [Immediate post-feedback improvement is near zero on average and does not differ significan](baseline-post-feedback-gains-near-zero-no-condition-differences.md) (qualifies) |
 | [Venetsanos 2026](https://doi.org/10.3390/aieduc2030026) | q1 · theoretical · r2 | i? | [High-level feedback on reasoning and synthesis should remain a human responsibility for th](high-level-feedback-remains-human-responsibility.md) (qualifies) |
+| [Karpicke 2017](https://doi.org/10.1016/b978-0-12-809324-5.21055-9) | q2 · review · r3 | i? | [Providing feedback after initial multiple-choice tests cut lure intrusions on final short-](feedback-after-multiple-choice-tests-halves-lure-intrusions.md) (supports) |
+| [Mueller & Dweck 1998](https://doi.org/10.1037/0022-3514.75.1.33) | q3 · causal · r? | i? | [Praise for intelligence, rather than for effort, after success undermines children's motiv](feedback-praise-reduces-learning.md) (qualifies) |
+| [Henderlong & Lepper 2002](https://doi.org/10.1037/0033-2909.128.5.774) | q3 · review · r? | i? | [Praise for intelligence, rather than for effort, after success undermines children's motiv](feedback-praise-reduces-learning.md) (qualifies) |
+| Halpern 2007 | q3 · review · r2 | i? | [Praise for intelligence, rather than for effort, after success undermines children's motiv](feedback-praise-reduces-learning.md) (qualifies) |
+| [Farrokhnia 2026](https://doi.org/10.1186/s41239-026-00579-9) | q3 · causal · r2 | i? | [Feedback quality predicts revision outcomes in the teacher condition but not in the GenAI ](feedback-quality-predicts-revision-only-in-teacher-condition.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

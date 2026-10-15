@@ -41,8 +41,9 @@ Stage 2 comparison notes from the single-participant case study; for the rainbow
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](self-explanation-improves-conceptual-understanding.md) — the general claim this finding bears on, with the studies behind it
 - [Lexical LREs dominate grammar-related LREs in young learners' L2 writing noticing](lexical-lres-dominate-grammar-lres-l2-writing.md) — related
 - [While producing L2 paragraphs, an EFL learner's self-noticed problems were overwhelmingly lexical (about 79%) rather than grammatical (about 21%)](output-noticing-predominantly-lexical.md) — related
 - [Rewriting after noticing gaps and comparing to models produced modified output that solved more lexical gaps than grammatical problems](rewriting-solves-more-lexical-gaps.md) — related

@@ -64,5 +64,5 @@ The report describes the Maryland adequacy study's new metric — "progress towa
 ## Related Claims
 - [Additional special education costs vary substantially by primary disability category](disability-category-cost-variation.md) — a narrower finding that bears on this claim
 - [Students with disabilities cost 50.5 percent more to educate to comparable academic growth than peers without disabilities](special-education-supplemental-cost-50-percent.md) — related
-- [Self-determination instruction improves outcomes](self-determination-instruction-improves-outcomes.md) — related
+- [Self-determination skills instruction for students with disabilities increases self-determination on some measures but not others](self-determination-instruction-improves-outcomes.md) — related
 - [Self Directed IEP Increases Student Participation](self-directed-iep-increases-student-participation.md) — related

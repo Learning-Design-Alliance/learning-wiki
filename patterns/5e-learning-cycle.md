@@ -15,7 +15,7 @@ grain_size: unit, lesson
 # 5E Learning Cycle
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 11 claims (8 for, 2 mixed, 1 against) · 24 studies (10 quant-synthesis, 7 causal, 4 review, 2 theoretical, 1 associational), `q2`–`q4` · 10 of 24 report an effect size · 1 claim rests on one study
+> **Evidence** · 10 claims (7 for, 2 mixed, 1 against) · 24 studies (10 quant-synthesis, 7 causal, 4 review, 2 theoretical, 1 associational), `q2`–`q4` · 10 of 24 report an effect size · 1 claim rests on one study
 
 ## Description
 The 5E Learning Cycle is an instructional sequence for science (and other inquiry-oriented) teaching built on the earlier Karplus learning cycle. Learners first **Engage** with a phenomenon that surfaces prior ideas and creates curiosity, then **Explore** it through hands-on or data-based investigation, then receive formal **Explain** instruction that connects their experience to canonical concepts, then **Elaborate** by applying concepts to new situations, and finally **Evaluate** their own and others' understanding. Its core design move is delaying direct explanation until after concrete experience, so that new concepts answer questions learners have already begun to ask.
@@ -63,7 +63,7 @@ Unit or multi-day lesson sequence — one full 5E arc typically spans one to two
 - [Cognitive Load Theory](../theories/cognitive-load-theory.md) (Sweller) — concrete experience before formal explanation provides a schema anchor, but insufficient guidance during Explore can overload novices
 - [Self-Regulated Learning](../theories/self-regulated-learning.md) (Zimmerman) — the Evaluate phase positions learners as assessors of their own understanding
 - [Sociocultural Theory](../theories/sociocultural-theory.md) — the Explain stage's introduction of formal terminology by the teacher-as-expert, after the student already has an experiential referent, mirrors scaffolded vocabulary acquisition within a zone of proximal development
-- [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](../claims/guided-discovery-outperforms-pure-discovery.md) [+M]
+- [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](../claims/minimal-guidance-less-effective-for-novices.md) [+M] — (also cited [~M]: unguided Explore phases underperform; the model works only with strong guidance)
 - [Teachers' reported weekly use of the 5E instructional model for lesson planning rose from 13 percent to 42 percent over the Initiative](../claims/ngss-early-implementers-5e-use-increased.md) [+W]
 
 #### Contradicting / Qualifying
@@ -77,7 +77,6 @@ Unit or multi-day lesson sequence — one full 5E arc typically spans one to two
 - [Active learning improves exam performance.](../claims/active-learning-improves-exam-performance.md) [+S] — the Explore and Elaborate phases enact active learning
 
 #### Contradicting
-- [Minimal guidance during exploration is less effective for novices than explicit instruction.](../claims/minimal-guidance-less-effective-for-novices.md) [~M] — unguided Explore phases underperform; the model works only with strong guidance
 
 ## Design
 
@@ -170,7 +169,7 @@ lesson
 
 - [Constructivism](../theories/constructivism.md) — the model operationalizes both psychological constructivism (individual discovery during Explore) and social constructivism (peer/teacher dialogue during Explain and Elaborate)
 - [Sociocultural Theory](../theories/sociocultural-theory.md) — the Explain stage's introduction of formal terminology by the teacher-as-expert, after the student already has an experiential referent, mirrors scaffolded vocabulary acquisition within a zone of proximal development
-- [Guided Inquiry Outperforms Pure Discovery](../claims/guided-discovery-outperforms-pure-discovery.md) [+M]
+- [Guided Inquiry Outperforms Pure Discovery](../claims/minimal-guidance-less-effective-for-novices.md) [+M]
 
 ### Claims
 #### Supporting

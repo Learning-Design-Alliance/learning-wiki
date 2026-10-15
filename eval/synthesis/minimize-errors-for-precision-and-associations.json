@@ -1,0 +1,24 @@
+{
+  "principle": "principles/minimize-errors-for-precision-and-associations",
+  "note": "Wave 11 (2026-10-15). Grouping and directions by an agent from the claims' titles and evidence entries. One finding: the error-correction step of the associations half of the page. The precision (shaping) half has no claims in the wiki, and the errorless-versus-errorful question rests on one source (Glaser 1966), so neither has a finding.",
+  "findings": [
+    {
+      "hub": "feedback-enhances-retrieval-practice",
+      "question": "For associations and recall items, does an error help or hurt once the correct answer follows it, and must it be corrected at once?",
+      "members": [
+        [
+          "overt-error-correction-speeds-young-children-learning",
+          "+"
+        ],
+        [
+          "multiple-choice-lures-can-be-learned-as-false-knowledge",
+          "+"
+        ],
+        [
+          "high-confidence-errors-improve-retention",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

@@ -59,6 +59,19 @@ Okkinga, M., van Steensel, R., van Gelderen, A. J. S., van Schooten, E., Sleeger
 
 Meta-analysis of 52 studies (125 effect sizes) testing reading-strategy interventions delivered in *whole classrooms* by regular teachers, rather than in the small researcher-led tutoring groups most prior comprehension-strategy research used. On standardized reading-comprehension tests the pooled effect was very small (Cohen's d = .186); on researcher-developed comprehension tests it was small (d = .431); on measures of strategic ability it was medium (d = .786). Effects were larger when the researcher rather than the classroom teacher delivered the training and when the intervention included explicit goal-setting — evidence that ecological validity (real teachers, real classrooms) substantially shrinks the effect relative to controlled studies.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does explicitly teaching reading strategies (modelled, practised and named) improve comprehension beyond reading practice alone, and how far does that hold in ordinary classrooms?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **4 distinct studies** (2 quant-synthesis, 1 causal, 1 qualitative), `q1`–`q4`, 2 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Ueno et al. 2025](https://doi.org/10.64152/10125/67505) | q4 · quant-synthesis · r? | i2 · medium effect, g=0.72 | this claim |
+| [Okkinga et al. 2018](https://doi.org/10.1007/s10648-018-9445-7) | q3 · quant-synthesis · r? | i0 · negligible effect on standardized tests, d=.186 | this claim |
+| Üstündağ-Algın 2025 | q1 / q2 · causal · r1 | i? | [Explicit instruction of four reading comprehension strategies with short stories yields hi](explicit-strategy-instruction-short-stories-improve-efl-reading-comprehension.md) (supports); [Teacher modeling with worked examples helped EFL students internalize reading comprehensio](teacher-modeling-internalizes-reading-strategies.md) (supports) |
+| [Yurttaş-Kumlu 2023](https://doi.org/10.33200/ijcer.1082537) | q2 · qualitative · r2 | i? | [Preservice science teachers exposed to explicit reading strategy instruction showed the hi](explicit-instruction-highest-cognitive-strategy-use.md) (supports); [Metacognitive strategies and products of metacognitive processes were more diverse and fre](strategy-instruction-increases-metacognitive-strategy-use.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Mechanism.** Strategy instruction is typically explained through self-regulated learning: skilled readers actively plan, monitor, and repair their understanding, while struggling readers often lack these procedures rather than the underlying language skill. Teaching strategies makes these otherwise invisible processes explicit and practicable, connecting to [Self-regulated learning](../theories/self-regulated-learning.md) [+M].
@@ -82,7 +95,7 @@ Meta-analysis of 52 studies (125 effect sizes) testing reading-strategy interven
 - [Cognitive load reduction improves learning](cognitive-load-reduction-improves-learning.md) — strategy instruction works by managing the processing demands of comprehension.
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — highly skilled readers may need less scaffolding than strategy instruction provides.
 - [Whether strategy instruction works better in authentic content-area tasks is untested, and the one meta-analytic comparison recorded found larger gains in strategic ability in language-arts than in content-area classes](learning-strategy-instruction-contextualized-more-effective.md) — related
-- [Self Monitoring Comprehension Improves Learning](self-monitoring-comprehension-improves-learning.md) — a broader claim this one bears on
+- [Metacognitive strategy instruction, which includes comprehension monitoring, improves academic performance by a medium amount, and in one non-randomised study comprehension-monitoring training raised low achievers' reading scores](self-monitoring-comprehension-improves-learning.md) — a broader claim this one bears on
 - [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — related
 - [Scaffolded Close Reading Improves Comprehension For Struggling Readers](scaffolded-close-reading-improves-comprehension-for-struggling-readers.md) — related
 - [Self-questioning improves comprehension](self-questioning-improves-comprehension.md) — a narrower finding that bears on this claim

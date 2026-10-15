@@ -41,8 +41,9 @@ Analysis of 1,509 rubric-scored student work samples from 25 teachers in the 202
 
 ## Discussion
 
-
 ## Related Claims
-- [World History Project students show comparable competency to comparison students in the other five historical thinking skills](whp-comparable-other-five-skills.md) — related
+
+- [Disciplinary Literacy Instruction Improves Comprehension](disciplinary-literacy-instruction-improves-comprehension.md) — the general claim this finding bears on, with the studies behind it
+- [An evaluation of the World History Project detected no statistically significant difference from comparison students in the other five historical thinking skills](whp-comparable-other-five-skills.md) — related
 - [World History Project does not engage students more than business-as-usual curricula on first implementation, with somewhat negative perception trends](whp-first-year-engagement-negative-trend.md) — related
 - [World History Project adoption increases learning opportunities for historical thinking in summative activities relative to business-as-usual curricula](whp-more-summative-historical-thinking-opportunities.md) — related

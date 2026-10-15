@@ -64,4 +64,4 @@ The review attributes fluency gains to cited work by Grabe (2009) and Taguchi et
 ## Related Claims
 - [Extensive reading yields affective benefits: positive attitudes, motivation, confidence, and reduced anxiety, with difficult texts raising anxiety](extensive-reading-affective-benefits-anxiety-moderator.md) — related
 - [Extensive reading improves vocabulary acquisition and spelling through repeated meaningful exposure](extensive-reading-improves-vocabulary-and-spelling.md) — related
-- [L2 learners develop much of their vocabulary incidentally through exposure to words in informative contexts, primarily via extensive reading for meaning](incidental-vocabulary-learning-through-reading-for-meaning.md) — related
+- [L2 learners pick up vocabulary incidentally from meaning-focused input, with reading the most-studied mode and listening yielding similar proportions of words learned](incidental-vocabulary-learning-through-reading-for-meaning.md) — related

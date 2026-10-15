@@ -41,7 +41,8 @@ Experiment 1 null result: t-tests on the composite scores for all local tasks, w
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Advance organizers produce a small average learning benefit, larger for high-ability than for low-ability learners](advance-organizers-improve-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Ability moderates the hierarchical-organization advantage: low-ability subjects showed no significant benefit, while medium-ability subjects did](ability-moderates-hierarchical-organization-benefit.md) — related
 - [A hierarchical internal knowledge organization facilitates performance on complex recall and problem-solving tasks more than a single-level organization of the same knowledge](hierarchical-organization-improves-complex-task-performance.md) — related

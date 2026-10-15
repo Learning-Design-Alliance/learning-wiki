@@ -12,7 +12,7 @@ generated:
 # Alternative Math Assessments
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies (4 quant-synthesis, 2 review, 1 causal), `q2`–`q4` · 3 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 9 studies (5 quant-synthesis, 2 causal, 2 review), `q2`–`q4` · 4 of 9 report an effect size
 
 ## Description
 Alternative math assessments are formats for measuring number-fact fluency and mathematical understanding that do not rely on speeded, high-stakes recall tests. They include interview-based assessment, games, number talks, portfolio tasks, and untimed or low-stakes fluency checks. The goal is to measure what learners actually know — not how their knowledge holds up under time pressure and anxiety.
@@ -36,7 +36,7 @@ Timed tests impose pressure that consumes working memory resources needed for re
 
 #### Implementation Variability
 - **Interviews** ("How did you solve 8 + 7?") reveal strategy maturity and are the gold standard for diagnosing fluency quality
-- **Games** (e.g., "How Close to 100," math card games) embed retrieval in purposeful contexts with repeated, spaced exposure [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- **Games** (e.g., "How Close to 100," math card games) embed retrieval in purposeful contexts with repeated, spaced exposure [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 - **Number talks** make strategies public and let teachers assess the whole class's flexibility at once
 - **Untimed fluency inventories** preserve the individual-recall format while removing the speed stressor
 - **Portfolios and work samples** document growth over time rather than single-moment performance
@@ -57,7 +57,7 @@ Timed tests impose pressure that consumes working memory resources needed for re
 2. Replace the weekly timed test with a rotating cycle: individual interviews, strategy-focused [Number Talks](number-talks.md), and fluency games.
 3. During interviews, ask learners to explain their strategy before confirming the answer, using [Assess Performance](../elements/assess-performance.md) routines to record strategy level.
 4. Give feedback on strategy choice and efficiency, not just correctness [Feedback is most effective when directed at the task and process rather than the person.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
-5. Use results to plan targeted [Practice](../elements/practice.md) with spaced retrieval, rather than repeating whole-class timed drills [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+5. Use results to plan targeted [Practice](../elements/practice.md) with spaced retrieval, rather than repeating whole-class timed drills [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ## Related Strategies
 - [Number Talks](number-talks.md) — a discussion routine that doubles as whole-class fluency assessment

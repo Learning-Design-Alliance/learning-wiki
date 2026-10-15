@@ -14,7 +14,7 @@ sources:
     title: "Bangert-Drowns, R. L., Hurley, M. M., & Wilkinson, B. (2004). The effects of school-based writing-to-learn interventions on academic achievement: A meta-analysis. *Review of Educational Research, 74*(1), 29–58. [doi:10.3102/00346543074001029](https://doi.org/10.3102/00346543074001029)"
     author: "Bangert-Drowns, R. L., Hurley, M. M., & Wilkinson, B."
     q: 4
-    i: 1
+    i: "?"
     n: 48 studies
     kind: quant-synthesis
     rigour: "?"
@@ -32,13 +32,13 @@ sources:
 # Writing To Learn Improves Understanding
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 causal `r1`, 1 quant-synthesis `r?` · `q2`–`q4` · `i1`–`i2`
+> **Evidence** · 2 studies · 1 causal `r1`, 1 quant-synthesis `r?` · `q2`–`q4` · `i2` medium
 
 Writing about to-be-learned material — rather than only reading or listening — deepens understanding by forcing learners to organize, elaborate, and articulate ideas in their own words. The claim concerns *understanding* (conceptual knowledge, transfer), not rote recall, and applies to writing as a learning activity during instruction — not to writing instruction aimed at improving composition skill, which is a distinct outcome.
 
 ## Subclaims
 
-`q4 i1` Across 48 school-based writing-to-learn programs, writing interventions produced a small positive effect on conventional measures of academic achievement (random-effects d = 0.22, as read from the full text in another write-up of the study; the abstract says only "small, positive"). <!-- deprecated (2026-10-05): "`q4 i?` ... produced a small, statistically significant positive effect on conventional measures of academic achievement, though the meta-analysis's own summary text reports the direction and magnitude qualitatively rather than as a single point estimate." --> [→ Bangert-Drowns Hurley Wilkinson 2004](#bangert-drowns-hurley-wilkinson-2004)
+`q4 i?` Across 48 school-based writing-to-learn programs, writing interventions produced a small positive effect on conventional measures of academic achievement (the abstract says only "small, positive"; another write-up of the study reports random-effects d = 0.22, not confirmed against the article). <!-- deprecated (2026-10-05): "`q4 i?` ... produced a small, statistically significant positive effect on conventional measures of academic achievement, though the meta-analysis's own summary text reports the direction and magnitude qualitatively rather than as a single point estimate." --> [→ Bangert-Drowns Hurley Wilkinson 2004](#bangert-drowns-hurley-wilkinson-2004)
 
 `q2 i2` In a quasi-experimental classroom trial, eighth-graders taught an 8th-grade social studies unit (Turkish Republic, History of Revolution and Atatürk's Principles) with writing-to-learn activities scored higher on a post-test academic achievement test than a control group taught conventionally, a medium-sized effect. [→ Kayaalp et al. 2022](#kayaalp-et-al-2022)
 
@@ -48,9 +48,9 @@ Writing about to-be-learned material — rather than only reading or listening �
 
 Bangert-Drowns, R. L., Hurley, M. M., & Wilkinson, B. (2004). The effects of school-based writing-to-learn interventions on academic achievement: A meta-analysis. *Review of Educational Research, 74*(1), 29–58. [doi:10.3102/00346543074001029](https://doi.org/10.3102/00346543074001029)
 
-`q4 · meta-analysis of 48 studies` · `i1 · small effect, random-effects d = 0.22, 95% CI [0.13, 0.31] (from the full-text write-up of this study; the abstract prints no number) (was i?)` · `n=48 studies` · `quant-synthesis · r?`
+`q4 · meta-analysis of 48 studies` · `i? · the abstract prints no effect size; d = 0.22, 95% CI [0.13, 0.31] comes from another claim's write-up of this study and has not been confirmed against the closed-access article (was i1, recoded 2026-10-15)` · `n=48 studies` · `quant-synthesis · r?`
 
-This meta-analysis pooled 48 school-based writing-to-learn intervention studies spanning elementary school through college, each comparing a group receiving writing-emphasizing instruction against a control group given conventional instruction. It concludes that writing produces "a small, positive impact on conventional measures of academic achievement," and further finds that effects were enhanced by metacognitive prompts and longer treatment duration, but reduced when implemented in grades 6–8 or when writing assignments themselves were longer. Only the article's abstract was accessible to this reviewer; the full text (which reports a per-study and pooled quantitative effect size) could not be read, so no numeric effect size was asserted here at first. Another write-up of the same study, read from the full text, on [reflective practice when structured](reflective-practice-improves-outcomes-when-structured.md), reports the pooled random-effects estimate as d = 0.22 (95% CI [0.13, 0.31]) and the metacognitive-prompt moderator as a meta-regression coefficient b = 0.48; those figures are consistent with the abstract's "small, positive impact" and are the basis of the `i1` code, but were not re-checked against the closed-access article on 2026-10-05.
+This meta-analysis pooled 48 school-based writing-to-learn intervention studies spanning elementary school through college, each comparing a group receiving writing-emphasizing instruction against a control group given conventional instruction. It concludes that writing produces "a small, positive impact on conventional measures of academic achievement," and further finds that effects were enhanced by metacognitive prompts and longer treatment duration, but reduced when implemented in grades 6–8 or when writing assignments themselves were longer. Only the article's abstract was accessible to this reviewer; the full text (which reports a per-study and pooled quantitative effect size) could not be read, so no numeric effect size was asserted here at first. Another write-up of the same study, read from the full text, on [reflective practice when structured](reflective-practice-improves-outcomes-when-structured.md), reports the pooled random-effects estimate as d = 0.22 (95% CI [0.13, 0.31]) and the metacognitive-prompt moderator as a meta-regression coefficient b = 0.48; those figures are consistent with the abstract's "small, positive impact" but were not re-checked against the closed-access article on 2026-10-05 (no open-access copy on OpenAlex, 2026-10-15), so this entry codes `i?` until the article's own figure is read.
 
 ### Kayaalp et al. 2022
 
@@ -59,6 +59,19 @@ Kayaalp, F., Meral, E., & Başcı Namlı, Z. (2022). An analysis of the effect o
 `q2 · quasi-experimental, pre-test/post-test control group` · `i2 · medium effect, d=0.61` · `n=64 (31 experimental, 33 control)` · `causal · r1`
 
 64 eighth-grade students in two intact classrooms at a Turkish secondary school were assigned (by classroom) to an experimental group taught a social-studies unit ("Turkish Republic, History of Revolution and Atatürk's Principles") using writing-to-learn activities, or a control group taught the same unit with the standard curriculum. Groups did not differ on a pre-test of academic achievement (t(62) = −0.47, p = .639). On the post-test, the experimental group (M = 82.26, SD = 13.89) scored significantly higher than the control group (M = 71.82, SD = 19.59), t(62) = 2.444, p = .017, d = 0.61 (the authors' own reported "medium level effect"). This is a subject-matter (social-studies/history) content-learning outcome, not a mathematics-specific one.
+
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does writing about content during instruction improve learning of that content, compared with instruction without the writing?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **4 distinct studies** (2 quant-synthesis, 1 causal, 1 review), `q1`–`q4`, 3 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Bangert-Drowns Hurley Wilkinson 2004](https://doi.org/10.3102/00346543074001029) | q4 · quant-synthesis · r? | i1 | this claim |
+| [Kayaalp et al. 2022](https://doi.org/10.17275/per.22.18.9.1) | q2 · causal · r1 | i2 · medium effect, d=0.61 | this claim |
+| [Graham et al. 2020](https://doi.org/10.3102/0034654320914744) | q3 · quant-synthesis · r? | i1 · small effect, effect size = 0.30 | [Writing-to-learn activities improve content learning in Grades 1–12, with effects in mathe](writing-improves-mathematical-understanding.md) (supports) |
+| Diaz 1988 | q1 · review · r1 | i? | [Writing is presented as uniquely corresponding to the features of successful learning](writing-uniquely-corresponds-features-successful-learning.md) (supports) |
+<!-- synthesis:end -->
 
 ## Discussion
 
@@ -80,6 +93,8 @@ Open questions the recorded evidence does not settle: how large the effect is re
 
 ## Related Claims
 
+- [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](reflective-practice-evidence-mixed-in-professional-education.md) — the general claim this finding bears on, with the studies behind it
+
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](self-explanation-improves-conceptual-understanding.md) — self-explanation shares the generative mechanism; writing is a persistent, written form of explaining.
 - [Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here](../claims/annotating-improves-learning.md) — a lighter-weight written generative activity on the same continuum.
 - [Testing effect improves retention](retrieval-practice-improves-retention.md) — retrieval practice is an alternative generative activity; comparison clarifies whether writing adds unique value.
@@ -90,9 +105,9 @@ Open questions the recorded evidence does not settle: how large the effect is re
 - [Active learning improves exam performance](active-learning-improves-exam-performance.md) — writing-to-learn is one active-learning modality; this claim situates it in the broader evidence base.
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — relevant to why writing mechanics can crowd out content reasoning for novice writers.
 - [Cognitive load management](cognitive-load-management.md) — managing transcription and composition demands is a precondition for writing to support content learning.
-- [Expressive Writing Improves Exam Performance](expressive-writing-improves-exam-performance.md) — related
+- [Brief expressive writing before an exam can raise test-anxious students' scores, but across the wider literature its effect on test performance is negligible](expressive-writing-improves-exam-performance.md) — related
 - [Mastery Learning Improves Outcomes](mastery-learning-improves-outcomes.md) — related
 - [Process Writing Improves Writing Quality](process-writing-improves-writing-quality.md) — related
 - [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — related
-- [Self Monitoring Comprehension Improves Learning](self-monitoring-comprehension-improves-learning.md) — related
+- [Metacognitive strategy instruction, which includes comprehension monitoring, improves academic performance by a medium amount, and in one non-randomised study comprehension-monitoring training raised low achievers' reading scores](self-monitoring-comprehension-improves-learning.md) — related
 - [Extensive reading improves grammatical knowledge and writing style](extensive-reading-improves-grammar-and-writing-style.md) — related

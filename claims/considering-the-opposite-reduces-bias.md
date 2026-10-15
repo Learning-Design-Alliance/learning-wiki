@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Considering The Opposite Reduces Bias
+title: "A systematic review of bias-mitigation training names considering the opposite as a previously validated way to reduce judgment biases, without testing it itself"
 status: draft
 generated:
   by: claude/unspecified
@@ -19,10 +19,12 @@ sources:
     rigour: 2
 ---
 
-# Considering The Opposite Reduces Bias
+# A systematic review of bias-mitigation training names considering the opposite as a previously validated way to reduce judgment biases, without testing it itself
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3` · n=12 studies (17 experiments) reviewed overall
+
+<!-- title before 2026-10-15: Considering The Opposite Reduces Bias -->
 
 Deliberately reasoning about hypotheses and evidence that contradict one's initial belief reduces confirmation bias in judgment and evaluation. The strategy operates at the moment of judgment: learners are prompted to ask how the evidence might support the rival view rather than whether it supports their own.
 

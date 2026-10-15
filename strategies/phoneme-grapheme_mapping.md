@@ -12,7 +12,7 @@ generated:
 # Phoneme-Grapheme Mapping
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 11 studies (4 review, 3 causal, 3 quant-synthesis, 1 theoretical), `q1`–`q4` · 3 of 11 report an effect size
+> **Evidence** · 4 claims (4 for) · 13 studies (4 causal, 4 quant-synthesis, 4 review, 1 theoretical), `q1`–`q4` · 4 of 13 report an effect size
 
 ## Description
 Phoneme-grapheme mapping is a strategy used to match the letters or letter combinations (graphemes) in a word to the speech sounds (phonemes) they represent. Learners use a grid in which each box represents one phoneme, segment the word into its constituent sounds, and write the corresponding grapheme in each box. The technique makes the sound-to-print structure of words visible, building the orthographic mapping that underpins accurate spelling and automatic word recognition [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. It is particularly useful for learners who missed foundational instruction in earlier grades or struggle with explicit sound-to-print connections.
@@ -26,7 +26,7 @@ Phoneme-grapheme mapping operationalizes systematic phonics at the word level: b
 - A phoneme-grapheme grid (one box per sound, not per letter) and a sequenced list of words matched to taught correspondences
 - [Explicit Instruction](../principles/direct-instruction.md) from a teacher or tutor who models segmentation and grapheme selection before learners map independently
 - Immediate corrective [Feedback](../elements/feedback.md) on both segmentation (did the learner count the right number of sounds?) and grapheme choice (did they select a legal spelling for that sound?)
-- Distributed review of previously mapped words so mappings consolidate into sight vocabulary [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Distributed review of previously mapped words so mappings consolidate into sight vocabulary [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 
 #### Constraints
 - Requires intact phonological awareness; learners who cannot segment words into phonemes will fail at the task regardless of grid design, and need phonemic awareness work first [Phonemic awareness instruction is most effective when delivered with letters rather than orally alone.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [~S]
@@ -55,7 +55,7 @@ Phoneme-grapheme mapping operationalizes systematic phonics at the word level: b
 2. Model the procedure with one word: say the word, segment it aloud, and write one grapheme per box, narrating choices ("the /ay/ sound here is spelled *a-i*") [Explicit Instruction](../principles/direct-instruction.md).
 3. Have learners map words independently, segmenting aloud before writing.
 4. Provide immediate corrective feedback, distinguishing sound-count errors from grapheme-choice errors [Feedback](../elements/feedback.md).
-5. Revisit mapped words across subsequent sessions and in connected reading and writing [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+5. Revisit mapped words across subsequent sessions and in connected reading and writing [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ## Related Strategies
 - [Word Sorting](word-sort.md) — complementary word-study activity that contrasts grapheme patterns across word sets

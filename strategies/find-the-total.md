@@ -13,7 +13,7 @@ generated:
 # Find the Total
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 9 studies (4 causal, 3 quant-synthesis, 2 review), `q2`–`q4` · 2 of 9 report an effect size
+> **Evidence** · 3 claims (3 for) · 11 studies (5 causal, 4 quant-synthesis, 2 review), `q2`–`q4` · 3 of 11 report an effect size
 
 ## Description
 Find the Total is an early-numeracy activity in which learners are shown two dot cards and asked to determine the total number of dots. In a number-talk format, learners then explain *how* they found the total, making addition strategies (counting all, counting on, known doubles, making ten) publicly visible and comparable. The activity pairs a concrete visual representation with verbal explanation, building fluency, mental math, and part-whole understanding simultaneously.
@@ -41,7 +41,7 @@ The strategy exploits the concreteness of dot arrangements to offload counting o
 - Random or unstructured dot arrangements force one-by-one counting and undermine subitizing and strategy use [-M]
 - If the teacher demonstrates a single "correct" strategy first, learners converge on it and the strategy-comparison benefit is lost [-M]
 - Dot ranges far above learners' subitizing capacity (typically 3–5 items for young children) overload perception and reduce the activity to rote counting [~M]
-- Effectiveness depends on sustained, distributed use; a single session produces little durable fluency [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Effectiveness depends on sustained, distributed use; a single session produces little durable fluency [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 
 #### Implementation Variability
 - Adjust number range (totals within 5, 10, or 20) to match learner level
@@ -128,7 +128,7 @@ Dot arrangements that support perceptual grouping reduce working-memory demand d
 - Random or unstructured dot arrangements force one-by-one counting and undermine subitizing and strategy use [-M]
 - If the teacher demonstrates a single "correct" strategy first, learners converge on it and the strategy-comparison benefit is lost [-M]
 - Dot ranges far above learners' subitizing capacity (typically 3–5 items for young children) overload perception and reduce the activity to rote counting [~M]
-- Effectiveness depends on sustained, distributed use; a single session produces little durable fluency [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Effectiveness depends on sustained, distributed use; a single session produces little durable fluency [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 
 #### Implementation Variability
 - **Ten-frame totals:** cards within ten-frames to surface "make ten" strategies

@@ -35,14 +35,15 @@ Deborah K. Anderson, Michelle Schoenleber, and Stuart Korshavn. (2023). Higher-O
 
 `q3 · i?` · `causal · r2`
 
-Main effect from the 2 (clicker type) × 2 (exam question type) × 2 (semester) mixed ANOVA on exam performance; the article reports "performance on LOCS exam questions was overall signi ﬁcantly better than performance on HOCS exam questions" with a large effect size (Table 2 prints partial η² = 0.90).
+Main effect from the 2 (clicker type) × 2 (exam question type) × 2 (semester) mixed ANOVA on exam performance; the article reports "performance on LOCS exam questions was overall significantly better than performance on HOCS exam questions" with a large effect size (Table 2 prints partial η² = 0.90). Coded `i?` because a partial η² from a mixed ANOVA is not a d-family effect size and is not converted here.
 
-> "performance on LOCS exam questions was overall signi ﬁcantly better than performance on HOCS exam questions, as indicated by a large effect size"
+> "performance on LOCS exam questions was overall significantly better than performance on HOCS exam questions, as indicated by a large effect size"
 
 ## Discussion
 
-
 ## Related Claims
+
+- [University examination questions concentrate at the lower cognitive levels of Bloom's Taxonomy, dominated by comprehension and knowledge](exam-questions-concentrate-lower-bloom-levels.md) — the general claim this finding bears on, with the studies behind it
 - [Semester 2 students outperformed semester 1 students on HOCS exam questions regardless of clicker question type](semester-cohort-difference-hocs-exams.md) — related
 - [HOCS clicker questions during learning improve performance on LOCS exam questions more than LOCS clicker questions do](hocs-clickers-improve-locs-exam-performance.md) — related
 - [Students perceive LOCS and HOCS clicker questions as equally helpful, despite exam performance differences](students-perceive-clicker-levels-equally-helpful.md) — related

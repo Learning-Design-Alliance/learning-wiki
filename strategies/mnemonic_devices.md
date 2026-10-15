@@ -12,14 +12,14 @@ generated:
 # Mnemonic Devices
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 6 studies (2 causal, 2 quant-synthesis, 2 review), `q2`–`q4` · 1 of 6 report an effect size
+> **Evidence** · 2 claims (2 for) · 8 studies (3 causal, 3 quant-synthesis, 2 review), `q2`–`q4` · 2 of 8 report an effect size
 
 ## Description
 Mnemonic devices are memory aids that encode hard-to-remember material into more memorable forms — acronyms, acrostics, rhymes, keyword imagery, method-of-loci routes, or peg systems. They work by imposing organization and meaningful association on arbitrary content, converting it into cues that are easier to retrieve. Mnemonics serve as retrieval triggers, not as vehicles for teaching new content: learners must understand the material before a mnemonic can support its recall.
 
 ## Design Implications
 
-Mnemonic techniques reliably improve immediate and delayed recall of arbitrary associations, lists, and vocabulary, with keyword and imagery-based methods showing some of the largest effects in the memory literature [Atkinson & Raugh, 1975](https://doi.org/10.1037/0278-7393.1.2.126) [+S]. Their effectiveness depends on the learner actually generating or elaborating the association — a mnemonic handed over without engagement functions like any other passive exposure [Dunlosky et al., 2013](https://doi.org/10.1177/1529100612453266) [~M]. Mnemonics pair naturally with [Chunking](../principles/chunking.md), since most techniques work by recoding many items into one retrievable unit [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S], and with [Spaced Repetition](../strategies/spaced_repetition.md), which converts a strong initial encoding into durable retention [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+Mnemonic techniques reliably improve immediate and delayed recall of arbitrary associations, lists, and vocabulary, with keyword and imagery-based methods showing some of the largest effects in the memory literature [Atkinson & Raugh, 1975](https://doi.org/10.1037/0278-7393.1.2.126) [+S]. Their effectiveness depends on the learner actually generating or elaborating the association — a mnemonic handed over without engagement functions like any other passive exposure [Dunlosky et al., 2013](https://doi.org/10.1177/1529100612453266) [~M]. Mnemonics pair naturally with [Chunking](../principles/chunking.md), since most techniques work by recoding many items into one retrievable unit [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S], and with [Spaced Repetition](../strategies/spaced_repetition.md), which converts a strong initial encoding into durable retention [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ### Context
 #### Requirements

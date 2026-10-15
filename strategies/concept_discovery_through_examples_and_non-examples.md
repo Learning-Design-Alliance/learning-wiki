@@ -12,14 +12,14 @@ generated:
 # Concept Discovery Through Examples and Non-examples
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 13 studies (6 causal, 4 quant-synthesis, 2 review, 1 theoretical), `q1`–`q4` · 3 of 13 report an effect size
+> **Evidence** · 5 claims (4 for, 1 mixed) · 13 studies (6 causal, 4 quant-synthesis, 2 review, 1 theoretical), `q1`–`q4` · 3 of 13 report an effect size
 
 ## Description
 Learners are presented with a carefully sequenced set of examples and non-examples of a target concept and asked to identify shared characteristics, classify new instances, and articulate the concept's defining attributes. The instructor or system supports exploration with questions and context-sensitive feedback that corrects misconceptions as they emerge. The strategy treats concept acquisition as pattern discrimination built from varied instances rather than transmission of a definition.
 
 ## Design Implications
 
-Concept learning depends on exposure to varied, well-chosen instances: comparing multiple cases helps learners abstract the deep structure that defines a concept rather than surface features of any single instance [Multiple varied cases support flexible transfer of concepts.](../claims/cognitive-flexibility-theory-multiple-cases.md) [+M]. Non-examples are as important as examples — they establish the boundaries of the concept and prevent overgeneralization [Erroneous examples build conceptual knowledge by making boundaries explicit.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M]. However, unguided discovery is unreliable: learners left to explore without prompts, sequencing, or feedback frequently fail to induce the intended concept, and guided forms of discovery consistently outperform pure discovery [Guided discovery outperforms pure discovery across outcome measures.](../claims/guided-discovery-outperforms-pure-discovery.md) [+S].
+Concept learning depends on exposure to varied, well-chosen instances: comparing multiple cases helps learners abstract the deep structure that defines a concept rather than surface features of any single instance [Multiple varied cases support flexible transfer of concepts.](../claims/cognitive-flexibility-theory-multiple-cases.md) [+M]. Non-examples are as important as examples — they establish the boundaries of the concept and prevent overgeneralization [Erroneous examples build conceptual knowledge by making boundaries explicit.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M]. However, unguided discovery is unreliable: learners left to explore without prompts, sequencing, or feedback frequently fail to induce the intended concept, and guided forms of discovery consistently outperform pure discovery [Guided discovery outperforms pure discovery across outcome measures.](../claims/minimal-guidance-less-effective-for-novices.md) [+S].
 
 ### Context
 #### Requirements

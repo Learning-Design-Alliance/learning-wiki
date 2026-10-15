@@ -1,0 +1,32 @@
+{
+  "principle": "principles/instructor-accessibility",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read. No claim tests instructor accessibility itself; the one finding gathers the associational evidence on optional one-to-one help routes. The queue-scheduling claims rest on one simulation and the tutoring claims belong to neighbouring pages, so neither is a finding here.",
+  "findings": [
+    {
+      "hub": "drop-in-tutorials-improve-p1y-marks",
+      "question": "Do learners who use optional one-to-one help do better, and do the learners who need help use it?",
+      "members": [
+        [
+          "high-use-tutoring-center-visits-higher-persistence",
+          "+"
+        ],
+        [
+          "tutoring-center-visits-higher-cumulative-gpa",
+          "+"
+        ],
+        [
+          "delayed-correlation-visits-cumulative-gpa",
+          "+"
+        ],
+        [
+          "minority-students-more-tutoring-visits-lower-gpas",
+          "~"
+        ],
+        [
+          "students-avoid-help-seeking-despite-need",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

@@ -12,14 +12,14 @@ generated:
 # Finger Speed-Differences
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies (2 causal, 2 quant-synthesis), `q3`–`q4` · 1 of 4 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 6 studies (3 causal, 3 quant-synthesis), `q3`–`q4` · 2 of 6 report an effect size · 1 claim rests on one study
 
 ## Description
 Finger Speed-Differences is a competitive partner game for building subtraction fluency. Two students face each other and simultaneously put out a chosen number of fingers; the first to say the difference between the two numbers aloud wins the round. It is the subtraction counterpart to speed-sums, where the sum is called instead.
 
 ## Design Implications
 
-The game converts subtraction-fact practice into rapid, repeated retrieval attempts with immediate feedback — the winner's answer confirms the loser's, so both students get corrective information within seconds. Retrieval practice of this kind strengthens fact recall far better than passive review, and short, spaced game sessions support durable retention [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]. Because the fingers are physically visible, the game also sits at the concrete end of the concrete-representational-abstract progression: learners who have not yet automatized facts can count or derive the difference from the visible quantities, while faster players are already retrieving [Part-task practice reduces load for novices.](../claims/part-task-practice-reduces-load-for-novices.md) [+M].
+The game converts subtraction-fact practice into rapid, repeated retrieval attempts with immediate feedback — the winner's answer confirms the loser's, so both students get corrective information within seconds. Retrieval practice of this kind strengthens fact recall far better than passive review, and short, spaced game sessions support durable retention [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]. Because the fingers are physically visible, the game also sits at the concrete end of the concrete-representational-abstract progression: learners who have not yet automatized facts can count or derive the difference from the visible quantities, while faster players are already retrieving [Part-task practice reduces load for novices.](../claims/part-task-practice-reduces-load-for-novices.md) [+M].
 
 ### Context
 #### Requirements

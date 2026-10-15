@@ -1,0 +1,47 @@
+{
+  "principle": "principles/culturally-responsive-classroom-norms",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read. No claim tests widening classroom norms for learners whose norms differ; the findings are wait time, public questioning as a norm some learners do not share, and teachers' response to conduct.",
+  "findings": [
+    {
+      "hub": "increasing-wait-time-improves-response-quality",
+      "question": "Does a longer pause after a question, before anyone answers, improve the responses that follow?",
+      "members": [
+        [
+          "questioning-strategies-improve-learning",
+          "+"
+        ],
+        [
+          "wait-time-invited-disinvited-students",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "ai-an-students-question-answer-participation",
+      "question": "Do some learners hold back from public question-and-answer because their community's norms differ, and what do teachers use instead?",
+      "members": [
+        [
+          "collaborative-response-formats-ai-an-classrooms",
+          "+"
+        ],
+        [
+          "us-classes-expected-more-talk-than-japanese",
+          "~"
+        ],
+        [
+          "reticent-students-academically-superior-duff",
+          "+"
+        ],
+        [
+          "sociocultural-sla-demonizes-socially-resistant-learners",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "brief-intervention-empathic-discipline-cuts-suspensions",
+      "question": "When the learners are adults who act on others (teachers), does an empathy exercise change their conduct?",
+      "members": []
+    }
+  ]
+}

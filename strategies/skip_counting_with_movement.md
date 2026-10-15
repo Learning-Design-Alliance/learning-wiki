@@ -12,7 +12,7 @@ generated:
 # Skip Counting with Movement
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies (3 causal, 2 quant-synthesis, 2 review), `q2`–`q4` · 1 of 7 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 9 studies (4 causal, 3 quant-synthesis, 2 review), `q2`–`q4` · 2 of 9 report an effect size · 1 claim rests on one study
 
 ## Description
 Make up a movement that comes in 2, 3, or more parts. Whisper the first parts, and call out the final move loudly. Example: Windmills. Whisper "1" and touch your right hand to your left foot. Whisper "2" and touch your left hand to your right foot. Call out "3" and do a jumping jack! Continue counting like this up to 30, calling out the multiples of 3 and whispering the numbers in between.
@@ -28,7 +28,7 @@ Movement-based counting exploits two supports for memory: rhythmic grouping, whi
 - Open space where students can move freely
 - A movement with a clear number of parts (2, 3, 5) that maps onto the target multiple
 - A [Demonstration](../elements/demonstration.md) of the full movement-count cycle before students join in
-- Repeated sessions over days or weeks, since the goal is automaticity of the count sequence [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Repeated sessions over days or weeks, since the goal is automaticity of the count sequence [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 
 #### Constraints
 - May not be suitable for students with physical limitations; offer seated or hand-only variants rather than excluding students

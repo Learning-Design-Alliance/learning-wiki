@@ -41,8 +41,9 @@ A footnote observation by the WWC across the O'Connor et al. and Slocum et al. s
 
 ## Discussion
 
-
 ## Related Claims
+
+- [ITS evaluation results depend strongly on test type: effects are large on locally developed tests (ES = 0.73) and small on standardized tests (ES = 0.13)](test-type-moderates-its-effects.md) — the general claim this finding bears on, with the studies behind it
 - [Segmentation is the only alphabetics outcome the WWC confirmed statistically significant across multiple studies](segmentation-only-consistently-confirmed-outcome.md) — a narrower finding that bears on this claim
 - [Spatial Training Improves Math Performance](spatial-training-improves-math-performance.md) — a broader claim this one bears on
 - [Phonemic Awareness Training Improves Reading](phonemic-awareness-training-improves-reading.md) — related

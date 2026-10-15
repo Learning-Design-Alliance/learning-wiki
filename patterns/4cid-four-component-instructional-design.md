@@ -85,6 +85,11 @@ Ask for four facts when the brief omits them: **the simplest whole task a learne
 | Learners are learning to program or troubleshoot | Sequence task classes from completing to fixing to building; diagnostic reasoning appeared as tasks moved on | [Scaffolded task progression shifts novices toward diagnosis](../claims/scaffolded-task-progression-diagnostic-shift.md) [+W] |
 | One routine is slow or error-prone inside otherwise sound whole-task work | Add short part-task practice or a job aid for that routine only | untested proposal |
 
+## The evidence by question
+
+- *Does organising training around whole tasks (4C/ID) produce better learning and transfer than lectures or part- and topic-centred instruction?* [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+W]
+- *Should support be withdrawn, and in what order?* [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M]
+
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-10-01 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
 Every claim this page cited before the rewrite has been read against the model and appears above, so none is listed here.

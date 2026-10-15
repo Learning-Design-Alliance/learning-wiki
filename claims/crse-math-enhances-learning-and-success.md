@@ -41,8 +41,9 @@ The brief attributes this to a research synthesis by Abdulrahim & Orosco (2020),
 
 ## Discussion
 
-
 ## Related Claims
+
+- [A 1993 case-study paper on culturally aware teachers asserts, without data of its own, that instruction incorporating students' life experiences, language and skills improves academic performance](incorporating-home-culture-improves-academic-performance.md) — the general claim this finding bears on, with the studies behind it
 - [Analyzing practical-measure data across student groups helps teachers tailor CRSE instruction](practical-measure-data-tailors-crse-instruction.md) — related
 - [Overreliance on dominant outcomes constrains learning and mathematical identity of students of color](dominant-outcomes-overreliance-constrains-students-of-color.md) — related
 - [Educational psychology has long neglected marginalized learners and remains complicit in imposing normative standards and social stratification](ed-psych-neglect-marginalized-learners-normative-standards.md) — related

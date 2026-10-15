@@ -62,6 +62,8 @@ Independent samples t-test on retention-test SKS scores administered after four 
 
 ## Related Claims
 
+- [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](reflective-practice-evidence-mixed-in-professional-education.md) — the general claim this finding bears on, with the studies behind it
+
 - [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [Both instructional conditions produced statistically significant pre-test to post-test gains in NOS and SK views, with larger effect sizes in the experimental group](both-conditions-significant-prepost-gains-larger-experimental-effect-sizes.md) — related
 - [Formative assessment embedded with explicit-reflective instruction yields higher post-test NOS and SK scores than explicit-reflective instruction alone among pre-school prospective teachers](formative-assessment-embedded-explicit-reflective-higher-posttest-nos-sks.md) — related

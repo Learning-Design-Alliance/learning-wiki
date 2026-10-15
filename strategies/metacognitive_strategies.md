@@ -12,7 +12,7 @@ generated:
 # Metacognitive Strategies
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 16 studies (6 quant-synthesis, 4 causal, 3 review, 2 theoretical, 1 associational), `q1`–`q4` · 4 of 16 report an effect size
+> **Evidence** · 6 claims (5 for, 1 mixed) · 18 studies (7 quant-synthesis, 5 causal, 3 review, 2 theoretical, 1 associational), `q1`–`q4` · 5 of 18 report an effect size
 
 ## Description
 Metacognitive strategies teach students to think about their thinking: to plan an approach before a task, monitor comprehension and progress during it, and evaluate outcomes and strategy effectiveness afterward. They range from embedded prompts and checklists to explicit instruction in self-regulation routines, and they extend to managing motivation and effort, not just cognition.
@@ -49,7 +49,7 @@ Metacognitive instruction reliably improves academic performance when it is inte
 - Self-regulated learning: planning, monitoring, and evaluating one's own study and problem solving
 - Strategy selection: matching approaches to task demands and revising failing approaches
 - Transfer: learners who can articulate *when and why* a strategy works are more likely to apply it in new contexts [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]
-- Long-term retention through self-testing and spaced review decisions [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Long-term retention through self-testing and spaced review decisions [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 
 ### Instructions
 1. Model the full cycle with a [Think-Aloud](../elements/think-aloud.md): set a goal, choose a strategy, monitor comprehension aloud, notice and repair a breakdown.

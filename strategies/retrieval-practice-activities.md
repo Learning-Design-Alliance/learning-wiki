@@ -20,7 +20,7 @@ Retrieval practice activities require learners to pull information out of memory
 
 ## Design Implications
 
-Retrieval practice produces substantially larger and more durable learning gains than restudying, with effects that grow over retention intervals [Testing produces stronger long-term retention than restudying.](../claims/retrieval-practice-improves-retention.md) [+S]. Its benefits extend beyond memorization: retrieval can also strengthen inference and application when questions target those processes [Retrieval practice can improve transfer as well as factual recall.](../claims/retrieval-practice-improves-transfer.md) [+M]. Because learners systematically misjudge fluency — re-reading feels productive while retrieval feels effortful — activities should be framed so learners do not abandon them [Learners often fail to predict the benefit of retrieval practice.](../claims/learners-misjudge-retrieval-benefit.md) [+M].
+Retrieval practice produces substantially larger and more durable learning gains than restudying, with effects that grow over retention intervals [Testing produces stronger long-term retention than restudying.](../claims/retrieval-practice-improves-retention.md) [+S]. Its benefits extend beyond memorization: retrieval can also strengthen inference and application when questions target those processes [Retrieval practice can improve transfer as well as factual recall.](../claims/retrieval-practice-improves-transfer.md) [+M]. Because learners systematically misjudge fluency — re-reading feels productive while retrieval feels effortful — activities should be framed so learners do not abandon them [Learners often fail to predict the benefit of retrieval practice.](../claims/learners-misjudge-effective-learning-strategies.md) [+M].
 
 ### Context
 #### Requirements
@@ -79,7 +79,7 @@ Retrieval practice produces substantially larger and more durable learning gains
 
 ### Target Learners
 - Learners at nearly all levels benefit, though effects are often larger for those with weaker prior knowledge [~M]
-- Learners prone to illusions of competence from fluent re-reading — most learners [Learners often fail to predict the benefit of retrieval practice.](../claims/learners-misjudge-retrieval-benefit.md) [+M]
+- Learners prone to illusions of competence from fluent re-reading — most learners [Learners often fail to predict the benefit of retrieval practice.](../claims/learners-misjudge-effective-learning-strategies.md) [+M]
 - Younger learners may need more scaffolding of the retrieval process itself (prompts, partial cues) [~W]
 - All levels — K–12, higher education, and adult learners — across subjects [Retrieval practice benefits learners across ages and subject domains.](https://doi.org/10.1037/a0037505) [+S]
 - Learners with weak metacognitive monitoring, who benefit from the gap-revealing function of retrieval

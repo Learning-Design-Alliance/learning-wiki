@@ -1,0 +1,16 @@
+{
+  "principle": "principles/positive-self-talk",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "self-talk-improves-learning-and-performance",
+      "question": "Does teaching learners short self-talk cues improve their performance on a task, and does it carry from motor tasks to academic work?",
+      "members": [
+        [
+          "strategy-instruction-improves-writing-quality",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

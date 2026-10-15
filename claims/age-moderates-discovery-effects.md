@@ -53,7 +53,6 @@ Age moderator analysis in the unassisted-discovery meta-analysis, Q(2) = 12.29, 
 
 ## Related Claims
 
-- [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](guided-discovery-outperforms-pure-discovery.md) — the general claim this finding bears on, with the studies behind it
+- [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](minimal-guidance-less-effective-for-novices.md) — the general claim this finding bears on, with the studies behind it
 
-- [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — the general claim this finding bears on, with the studies behind it
 - [Dependent measure moderates discovery effects: acquisition scores amplify the explicit-instruction advantage, and reaction-time measures reverse the enhanced-discovery advantage](dependent-measure-moderates-discovery-effects.md) — related

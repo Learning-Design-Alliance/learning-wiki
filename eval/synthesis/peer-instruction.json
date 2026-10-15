@@ -1,0 +1,56 @@
+{
+  "principle": "patterns/peer-instruction",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "peer-discussion-improves-conceptual-understanding",
+      "question": "Does discussing a committed answer with peers improve a later individual answer on a new question?",
+      "members": [
+        [
+          "correct-correct-clicker-pattern-higher-exam-performance",
+          "~"
+        ],
+        [
+          "clicker-participation-and-homework-completion-predict-exam-performance",
+          "~"
+        ],
+        [
+          "learning-attributed-to-process-not-technology",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "classroom-quizzing-improves-exam-performance-across-grades-and-content",
+      "question": "How much comes from answering the question at all, before any discussion?",
+      "members": [
+        [
+          "any-clicker-pattern-beats-absence-except-lowest-quartile",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "hocs-clickers-improve-locs-exam-performance",
+      "question": "Which questions to discuss: recall-level or higher-order?",
+      "members": [
+        [
+          "locs-exam-questions-outperform-hocs",
+          "~"
+        ],
+        [
+          "semester-cohort-difference-hocs-exams",
+          "~"
+        ],
+        [
+          "students-perceive-clicker-levels-equally-helpful",
+          "~"
+        ],
+        [
+          "reformed-pedagogy-content-gains-but-no-reasoning-gains",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

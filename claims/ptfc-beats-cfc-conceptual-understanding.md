@@ -39,6 +39,18 @@ Nonequivalent-groups pretest-posttest experiment with two intact freshman calcul
 
 > "Based on the result of the ANCOVA test, it is concluded that there is a significant effect of method on posttest after controlling for pretest, F (1,67) = 6.51, p=.013<.05."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does what is done in the live session change what a flipped course achieves?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **3 distinct studies** (2 causal, 1 review), `q2`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Ramadoni 2022](https://doi.org/10.47750/pegegog.12.03.17) | q2 · causal · r2 | i? | this claim; [Peer-teaching flipped classroom students show higher calculus self-efficacy than conventio](ptfc-beats-cfc-self-efficacy.md) (supports); [Prior achievement level affects calculus conceptual understanding, and PTFC outperforms CF](prior-achievement-affects-conceptual-understanding.md) (supports) |
+| [Liu YJ 2026](https://doi.org/10.1186/s12909-026-09608-7) | q2 · causal · r1 | i? | [The AI-enhanced flipped classroom improves comprehensive assessment and pre-class preparat](ai-flipped-boundary-deep-mastery.md) (qualifies); [The AI-enhanced flipped classroom yields significantly higher in-class response rates than](ai-flipped-classroom-higher-response-rate.md) (supports) |
+| [Long DY 2026](https://doi.org/10.3389/feduc.2025.1648661) | q2 · review · r2 | i? | [In one reviewed study, flipped classrooms using AI tools raised cognitive and emotional en](ai-flipped-classroom-behavioral-engagement-null.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

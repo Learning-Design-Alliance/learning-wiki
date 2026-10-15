@@ -41,11 +41,12 @@ The poster's IMPACT section reports "Statistically significant learning gains" f
 
 ## Discussion
 
-
 ## Learner Variables
 - [Prior Knowledge](../learner-variables/prior-knowledge.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Blended Learning Improves Outcomes](blended-learning-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [In 75% of observed lesson segments in the Haiti pilot, all pupils were engaged](haiti-blended-pilot-75-percent-segments-all-engaged.md) — related
 - [Haitian teachers reported that pilot trainings improved their teaching, classroom management, and use of technology](haiti-teacher-training-self-reported-improvements.md) — related
 - [Math confidence increased slightly among students completing both baseline and end-of-year surveys, but the difference was not statistically significant](breakthrough-tutoring-confidence-gain-not-significant.md) — related

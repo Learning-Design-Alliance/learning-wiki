@@ -42,6 +42,6 @@ Qualitative thematic analysis of learner feedback in the participatory design st
 ## Related Claims
 
 - [A clear variable coordinate lesson produced higher achievement than an unclear lesson with the same concept structure on all five measures](clear-variable-coordinate-beats-unclear.md) — the general claim this finding bears on, with the studies behind it
-- [Self Monitoring Comprehension Improves Learning](self-monitoring-comprehension-improves-learning.md) — a broader claim this one bears on
+- [Metacognitive strategy instruction, which includes comprehension monitoring, improves academic performance by a medium amount, and in one non-randomised study comprehension-monitoring training raised low achievers' reading scores](self-monitoring-comprehension-improves-learning.md) — a broader claim this one bears on
 - [LLM participant agents clarify stage goals, keep discussions on topic, and prompt deeper ethical reflection](llm-participants-stage-goal-clarification.md) — related
 - [Advance organizers aided learning in a 1980 meta-analysis, but activating prior topic knowledge did not improve primary pupils' text comprehension in one experiment](activation-improves-learning.md) — related

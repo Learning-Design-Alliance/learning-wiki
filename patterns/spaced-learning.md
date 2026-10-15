@@ -14,7 +14,7 @@ grain_size: course
 # Spaced Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 21 claims (11 for, 9 mixed, 1 unmarked) · 18 studies (7 causal, 5 quant-synthesis, 3 review, 2 design, 1 theoretical), `q1`–`q4` · 5 of 18 report an effect size · 16 claims rest on one study
+> **Evidence** · 20 claims (10 for, 9 mixed, 1 unmarked) · 18 studies (7 causal, 5 quant-synthesis, 3 review, 2 design, 1 theoretical), `q1`–`q4` · 5 of 18 report an effect size · 16 claims rest on one study
 
 ## Description
 
@@ -69,15 +69,21 @@ Ask for three facts when the brief omits them: **when the learners will need the
 | Second-language vocabulary in a course of a semester or longer | Space vocabulary reviews across the term; do not stretch the gaps across years | [Distributed practice benefits L2 learning, with limits on very long spreads](../claims/distributed-practice-limits-l2.md) [~W] |
 | The schedule is judged by practice accuracy | Report a delayed test as well; spaced reviews lower practice accuracy while raising delayed recall | [Spaced retrieval wins at the final test despite lower initial recall](../claims/spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall.md) [+M] |
 
+## The evidence by question
+
+- *Does spreading study or practice over sessions improve later retention more than massing the same amount of it?* [Spaced Practice Improves Retention](../claims/spaced-practice-improves-retention.md) [+S]
+- *How long should the gap between sessions be, given when the knowledge is needed?* [The optimal interstudy interval increases as the retention interval increases](../claims/optimal-isi-increases-with-retention-interval.md) [+M]
+- *Should the gaps expand, stay equal, or contract?* [Total retrieval spacing improved one-week vocabulary recall while relative schedules were not distinguished](../claims/total-retrieval-spacing-beats-massed-but-relative-schedule-not-distinguished.md) [~M]
+
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-09-30 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
 Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.
 
-- [Spaced Repetition Improves Retention](../claims/spaced-repetition-improves-retention.md) [+S] — not settled: the abstract available could not confirm the entries; partly checked: 1 of 2 entries pass; the rest could not be settled from the text available
+- [Spaced Repetition Improves Retention](../claims/spaced-practice-improves-retention.md) [+S] — not settled: the abstract available could not confirm the entries; partly checked: 1 of 2 entries pass; the rest could not be settled from the text available
 - [Spaced retrieval practice produces better final retention than massed retrieval practice (g = 0.74)](../claims/spaced-retrieval-improves-retention.md) [+M] — attached 2026-10-13 from Latimier et al. (2021), which proposed "Space out retrieval practice episodes on the same content, but do not assume intervals must progressively expand"; tests this page's relationship. Not yet checked against its sources.
 - [Learners Misjudge Spacing Benefits](../claims/learners-misjudge-spacing-benefits.md) [+M] — checked by the judge: all 2 entries pass (abstract)
 - [Spaced Practice Improves Retention](../claims/spaced-practice-improves-retention.md) [+S] — partly checked: 2 of 5 entries pass; the rest could not be settled from the text available
-- [Spaced Retrieval Outperforms Restudy](../claims/spaced-retrieval-outperforms-restudy.md) [+M] — not yet checked against its sources
+- [Spacing out retrieval practice produces better long-term retention than massing it](../claims/spaced-retrieval-outperforms-restudy.md) [+M] — not yet checked against its sources
 - [Spaced retrieval practice produces better final retention than massed retrieval even though spacing lowers initial retrieval success, and more absolute spacing enhances long-term retention](../claims/spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall.md) [+W] — checked by the judge: all 3 entries pass (full text)
 - [Under the Leitner Queue Network model, raising the rate of new-item introduction beyond a threshold causes a phase transition in learning rate, which a Mechanical Turk vocabulary experiment reproduced.](../claims/leitner-queue-network-phase-transition-in-learning-rate.md) [+W] — attached 2026-10-07 from Reddy et al. (2016), which proposed "Maximize Learning Rate When Calibrating Leitner Review Schedules"; tests this page's relationship.
 - [Under the mean-recall approximation, the optimal Leitner Queue Network review schedule spends more time on lower decks than on higher decks.](../claims/optimal-leitner-schedule-reviews-lower-decks-more-often.md) [+W] — attached 2026-10-07 from Reddy et al. (2016), which proposed "Maximize Learning Rate When Calibrating Leitner Review Schedules".
@@ -98,7 +104,7 @@ The examples are local design instances, not additional observations from those 
 ## Claims
 
 - [Expanding interstudy intervals led to better recall than fixed intervals, but conclusions are tentative](../claims/expanding-isis-better-than-fixed-tentative.md) [~W]
-- [Spaced presentations produce markedly better final recall than massed presentations across retention intervals](../claims/spaced-repetition-improves-retention.md) [+W]
+- [Spaced presentations produce markedly better final recall than massed presentations across retention intervals](../claims/spaced-practice-improves-retention.md) [+W]
 - [Relearning-to-criterion designs confound distribution of practice with amount of second-session practice](../claims/relearning-confound-distributed-practice-designs.md) [~W]
 - [The effect of retention interval on reading comprehension after retrieval practice does not differ significantly between lower-order and higher-order thinking questions](../claims/retention-interval-by-levels-of-thinking-interaction-not-significant.md) [~W]
 - [Spacing content over time and interweaving different content strengthens learning and retention](../claims/spacing-interleaving-improve-retention.md) [+W]

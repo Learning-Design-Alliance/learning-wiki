@@ -41,8 +41,9 @@ Descriptive analysis of the four vocabulary tests (Table 5, Figure 1) for the co
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Immediate task success does not establish learning that persists without AI support](immediate-performance-not-evidence-of-independent-learning.md) — the general claim this finding bears on, with the studies behind it
 - [L1 glosses do not significantly improve EFL reading comprehension compared with no glosses](l1-glosses-no-reading-comprehension-gain.md) — related
 - [Multimedia glosses improve EFL students' vocabulary retention two weeks after treatment relative to no glosses](multimedia-glosses-improve-efl-vocabulary-retention.md) — related
 - [Proficiency moderates gloss effects: vocabulary benefits appear at Levels 2 and 3 but not Levels 1 and 4](proficiency-moderates-gloss-vocabulary-effects.md) — related

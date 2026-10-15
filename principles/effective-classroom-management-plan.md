@@ -14,7 +14,7 @@ generated:
 # Effective Classroom Management Plan Criteria
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (17 for, 7 mixed, 1 against) · 30 studies (11 quant-synthesis, 8 review, 6 causal, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 8 of 30 report an effect size · 19 claims rest on one study
+> **Evidence** · 25 claims (17 for, 7 mixed, 1 against) · 30 studies (11 quant-synthesis, 8 review, 6 causal, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 5 of 30 report an effect size · 19 claims rest on one study
 
 ## Conditional relationship
 
@@ -108,6 +108,12 @@ No claim compares the six-part plan with another plan or with improvisation, or 
 - [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](../claims/rewards-undermine-intrinsic-motivation.md) [-M]: two competing meta-analyses of mostly laboratory experiments (128 and 96 studies) disagree on the size of the undermining effect, but agree that verbal praise does not undermine intrinsic motivation; one found tangible rewards more detrimental for children. It qualifies the use of tangible rewards in a management plan and is the reason the plan writes down when any reward system fades. Classroom studies are not recorded.
 
 Learners, settings and outcomes differ across these claims (whole K–12 classrooms, middle-school doorways, suspension records, students with disabilities in single-case designs, laboratory free-choice tasks), so do not rank them by effect label. None measures whether a gain in classroom behavior lasts after the plan's supports are withdrawn, or whether it raises achievement.
+
+## The evidence by question
+
+- *Does a planned, whole-class management approach reduce disruptive behavior and raise engaged time compared with usual practice?* [Teachers' universal classroom management practices significantly reduce problem classroom behavior (mean classroom ES = 0.80, ICC=.05)](../claims/universal-classroom-management-reduces-problem-behavior.md) [+M]
+- *Does a warm, personal contact with the teacher go with, or raise, students' engagement?* [Positive teacher–student relationships are associated with greater student engagement and, more weakly, with achievement](../claims/teacher-student-relationships-improve-engagement.md) [~M]
+- *Do SEL programmes also improve conduct, distress and academic achievement, and by how much?* [Universal school-based SEL programs improve students' behaviour, with a small and, in recent randomised trials, negligible effect on academic achievement](../claims/sel-programs-improve-behavior-and-achievement.md) [+M]
 
 ## Further evidence, not yet read against this model
 

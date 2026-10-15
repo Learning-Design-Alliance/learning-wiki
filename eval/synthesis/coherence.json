@@ -91,6 +91,10 @@
         [
           "revisions-no-effect-time-with-lesson",
           "~"
+        ],
+        [
+          "cognitive-load-management",
+          "-"
         ]
       ]
     },

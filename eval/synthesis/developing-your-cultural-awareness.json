@@ -1,0 +1,33 @@
+{
+  "principle": "principles/developing-your-cultural-awareness",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "brief-intervention-empathic-discipline-cuts-suspensions",
+      "question": "When the learners are adults who act on others (teachers), does an empathy exercise change their conduct?",
+      "members": []
+    },
+    {
+      "hub": "funds-of-knowledge-research-raises-teacher-expectations",
+      "question": "Does learning about learners' homes change how educators read their students, and does it reach the students?",
+      "members": [
+        [
+          "home-visits-shift-teacher-views-of-culture-to-dynamic-process",
+          "+"
+        ],
+        [
+          "teacher-researcher-difficulties-eased-by-reflective-labs",
+          "~"
+        ],
+        [
+          "pthv-home-visit-reduces-disciplinary-incidents",
+          "+"
+        ],
+        [
+          "pthv-home-visits-improve-attendance-slightly",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

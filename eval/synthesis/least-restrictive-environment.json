@@ -1,0 +1,40 @@
+{
+  "principle": "principles/least-restrictive-environment",
+  "note": "Wave 10 (2026-10-15). One finding: inclusive versus segregated placement. Directions are relative to the hub (no average difference). Distinct studies: Dalgaard et al. 2022 (all Dalgaard-sourced members) and Doutre et al. 2021 (inclusive preschool). The pull-out LLI claims are left out: both report one Oakland trial, and they bear on scheduling, not placement.",
+  "findings": [
+    {
+      "hub": "inclusion-general-no-increase-or-decrease-learning-psychosocial",
+      "question": "Does placing children with special educational needs in inclusive rather than segregated settings change their learning and psychosocial adjustment?",
+      "members": [
+        [
+          "inclusion-math-outcomes-smd-005-nonsignificant",
+          "+"
+        ],
+        [
+          "inclusion-language-literacy-smd-004-nonsignificant",
+          "+"
+        ],
+        [
+          "inclusion-psychosocial-adjustment-smd-020-nonsignificant",
+          "~"
+        ],
+        [
+          "prior-inclusion-reviews-equivocal-wang-baker-033",
+          "~"
+        ],
+        [
+          "inclusion-effects-heterogeneous-moderator-analyses-inconclusive",
+          "~"
+        ],
+        [
+          "inclusion-evidence-low-quality-serious-risk-of-bias",
+          "~"
+        ],
+        [
+          "inclusive-preschool-benefits-reduced-identification",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

@@ -40,11 +40,12 @@ Lexical comparison of learning-disability-prompted versus baseline feedback for 
 
 ## Discussion
 
-
 ## Learner Variables
 - [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Teacher expectation bias predicted Dutch secondary students' performance up to five years later, after controls for prior achievement, IQ and motivation, in one large correlational cohort study](teacher-expectation-effects-on-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [Downward Bloom control is benchmark-dependent: repository-level tasks are easier to simplify than algorithmic puzzles](downward-shift-benchmark-dependence.md) — related
 - [Simplifying journal articles and providing glossaries of unfamiliar terms preceded the second-cycle improvement in proposal writing](simplification-and-glossary-supported-second-cycle-gains.md) — related
 - [AI's key contribution in STEM education is intelligent scaffolding that lowers the threshold for understanding knowledge, driving a shift from knowledge transmission to capability development](ai-intelligent-scaffolding-lowers-knowledge-threshold.md) — related

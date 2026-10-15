@@ -41,8 +41,9 @@ The review reports preliminary results from Ferrell et al. (2017) on auditory im
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Multiple representations improve learning](multiple-representations-improve-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Auditory math access works best when the technology is familiar: Math Speak aided expression identification, and BVI students performed similarly to or slightly better than traditional methods with familiar apps](auditory-access-familiar-technology-bvi-math.md) — related
 - [A multisensory tablet with tonal and vibration feedback produced no significant difference in graphics-comprehension accuracy compared with tactile graphics](multisensory-tablet-no-difference-tactile-graphics.md) — related
 - [BVI students face material and instructional barriers: late STEM materials, error-laden tactile worksheets, and variable teacher graphic descriptions](bvi-material-instructional-barriers.md) — related

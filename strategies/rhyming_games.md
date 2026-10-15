@@ -12,7 +12,7 @@ generated:
 # Rhyming Games
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 9 studies (3 causal, 3 quant-synthesis, 3 review), `q2`–`q4` · 3 of 9 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 11 studies (4 causal, 4 quant-synthesis, 3 review), `q2`–`q4` · 4 of 11 report an effect size
 
 ## Description
 Rhyming games involve activities that focus on identifying and creating rhyming words to enhance phonological awareness — the ability to detect and manipulate the sound structure of spoken language. Typical formats include rhyming matching games, "odd one out" rhyme detection, rhyming bingo, word family charts, and oral call-and-response rhyme generation. Because rhyme is one of the most salient units of sound for young children, these games serve as an accessible entry point into broader phonemic awareness before formal [phonics](../principles/phonics.md) instruction.
@@ -56,7 +56,7 @@ Rhyming games work because they direct attention to the rime unit (vowel + final
 2. Run a recognition game (rhyme matching, odd-one-out) with picture support, giving immediate corrective [feedback](../elements/feedback.md)
 3. Move to production: learners generate rhymes, first real words, then nonsense words to test generalization beyond memorized pairs
 4. Bridge to print with word family charts and letter tiles, connecting the rime sound to its spelling ([Practice](../elements/practice.md))
-5. Revisit rhymes in short spaced sessions across weeks rather than one intensive block [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+5. Revisit rhymes in short spaced sessions across weeks rather than one intensive block [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 
 ## Related Strategies
 

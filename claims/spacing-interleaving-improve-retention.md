@@ -46,6 +46,6 @@ A narrative synthesis of learning sciences research states that spaced content i
 - [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — possibly the same claim (merge candidate)
 - [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](interleaving-improves-inductive-learning.md) — possibly the same claim (merge candidate)
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — related
-- [Spaced Retrieval Outperforms Restudy](spaced-retrieval-outperforms-restudy.md) — related
+- [Spacing out retrieval practice produces better long-term retention than massing it](spaced-retrieval-outperforms-restudy.md) — related
 - [Learners Misjudge Spacing Benefits](learners-misjudge-spacing-benefits.md) — related
 - [Interleaving benefits are small for mathematical tasks and absent or reversed for expository texts and words](interleaving-limited-for-math-texts-and-words.md) — a narrower finding that bears on this claim

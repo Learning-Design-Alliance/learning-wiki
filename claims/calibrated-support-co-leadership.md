@@ -60,8 +60,9 @@ Contrast finding from the same reflection analysis: when staff assumed too much 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [After the Inclusive Innovation pilots, district-community teams sustained solutions through multi-level buy-in, implementation iteration, embedding in existing systems, and demonstrating benefits](inclusive-innovation-sustainability-factors.md) — the general claim this finding bears on, with the studies behind it
 - [The modern principal's job has expanded from administrative oversight to instructional leadership and staff collaboration](principal-role-expanded-beyond-administrative-oversight.md) — related
 - [Four implementation themes emerged from UK process evaluations: intervention format, policy consistency, staff buy-in, and perceived effectiveness](four-implementation-themes-exclusion-interventions.md) — related
 - [Interviewees identified leadership prioritization, staff buy-in, and investments in staffing, training, partnerships, and funding as facilitators of trauma-engaged implementation](leadership-buy-in-investments-facilitate-trauma-engaged-implementation.md) — related

@@ -1,0 +1,62 @@
+{
+  "principle": "patterns/structured-peer-review",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read. No claim tests the full cycle; the findings are peer feedback on later drafts (with the reviewer's own gain) and peer assessment with or without a rubric or script.",
+  "findings": [
+    {
+      "hub": "peer-feedback-improves-writing",
+      "question": "Does a responding audience of peers improve later drafts?",
+      "members": [
+        [
+          "peer-assessment-benefits-assessor",
+          "~"
+        ],
+        [
+          "peer-response-groups-writing-idea-units",
+          "~"
+        ],
+        [
+          "collaborative-writing-improves-text-quality",
+          "+"
+        ],
+        [
+          "peer-feedback-accuracy-depends-on-expertise",
+          "~"
+        ],
+        [
+          "rubrics-improve-peer-feedback-quality",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "peer-assessment-improves-performance",
+      "question": "Should learners assess each other's work, and does it need a rubric or script?",
+      "members": [
+        [
+          "peer-assessment-structured-criteria-improve-learning",
+          "~"
+        ],
+        [
+          "peer-self-assessment-improve-performance-equally",
+          "+"
+        ],
+        [
+          "rubrics-improve-peer-feedback-quality",
+          "~"
+        ],
+        [
+          "peer-feedback-accuracy-depends-on-expertise",
+          "~"
+        ],
+        [
+          "peer-assessment-benefits-assessor",
+          "+"
+        ],
+        [
+          "peer-feedback-improves-writing",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

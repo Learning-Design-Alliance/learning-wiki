@@ -17,8 +17,8 @@ sources:
     rigour: 1
   - id: rittle-johnson-2017
     resource: "https://doi.org/10.1007/s11858-017-0834-z"
-    title: "Rittle-Johnson, B. (2017). Promoting self-explanation to improve mathematics learning: A meta-analysis and instructional design principles. *ZDM Mathematics Education, 49*(4), 599–611. [https://doi.org/10.1007/s11858-017-0834-z](https://doi.org/10.1007/s11858-017-0834-z)"
-    author: Rittle-Johnson, B.
+    title: "Rittle-Johnson, B., Loehr, A. M., & Durkin, K. (2017). Promoting self-explanation to improve mathematics learning: A meta-analysis and instructional design principles. *ZDM Mathematics Education, 49*(4), 599–611. [https://doi.org/10.1007/s11858-017-0834-z](https://doi.org/10.1007/s11858-017-0834-z)"
+    author: "Rittle-Johnson, B., Loehr, A. M., & Durkin, K."
     q: 3
     i: "?"
     n: N/A
@@ -80,7 +80,7 @@ The seminal study identifying the "self-explanation effect." High-achieving stud
 
 ### Rittle-Johnson 2017
 
-Rittle-Johnson, B. (2017). Promoting self-explanation to improve mathematics learning: A meta-analysis and instructional design principles. *ZDM Mathematics Education, 49*(4), 599–611. [https://doi.org/10.1007/s11858-017-0834-z](https://doi.org/10.1007/s11858-017-0834-z)
+Rittle-Johnson, B., Loehr, A. M., & Durkin, K. (2017). Promoting self-explanation to improve mathematics learning: A meta-analysis and instructional design principles. *ZDM Mathematics Education, 49*(4), 599–611. [https://doi.org/10.1007/s11858-017-0834-z](https://doi.org/10.1007/s11858-017-0834-z)
 
 `q3 · meta-analysis` · `i? · no source text available to check; the entry prints no effect size` · `n=N/A` · `quant-synthesis · r?`
 
@@ -111,6 +111,24 @@ Chi, M. T. H., De Leeuw, N., Chiu, M.-H., & Lavancher, C. (1994). Eliciting Self
 `q2 · small controlled experiment, two groups` · `i? · no effect size in the abstract` · `n=24 students` · `causal · r1`
 
 Fourteen eighth-grade students were asked, with no extensive training, to self-explain after reading each line of an expository passage on the human circulatory system; ten control students read the same text twice without prompts. All were tested before and after. The prompted group gained more from pretest to posttest, and within it the students who generated many self-explanations learned with greater understanding than those who generated few. All high explainers reached the correct mental model of the circulatory system, while many unprompted students and low explainers did not.
+
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does prompting learners to explain what they study or solve improve their understanding, and on which outcomes?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **9 distinct studies** (3 causal, 2 associational, 2 quant-synthesis, 1 theoretical, 1 qualitative), `q2`–`q4`, 1 of 9 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Chi et al. 1989](https://doi.org/10.1207/s15516709cog1302_1) | q2 · associational · r1 | i? | this claim |
+| [Rittle-Johnson 2017](https://doi.org/10.1007/s11858-017-0834-z) | q3 · quant-synthesis · r? | i? | this claim; [Erroneous examples improve conceptual understanding by forcing comparison with correct mod](erroneous-examples-build-conceptual-knowledge.md) (supports) |
+| [Bisra et al. 2018](https://doi.org/10.1007/s10648-018-9434-x) | q4 · quant-synthesis · r? | i2 · medium effect, g=.55; i? | this claim; [Self-explanation prompting is potentially effective across a range of instructional condit](self-explanation-effective-across-instructional-conditions.md) (supports) |
+| [Chi et al. 1994](https://doi.org/10.1207/s15516709cog1803_3) | q2 · causal · r1 | i? | this claim |
+| [Dunlosky 2013](https://doi.org/10.1177/1529100612453266) | q2 · causal · r? | i? | [Self-explanation improves abstract transfer of logical rules relative to no self-explanati](self-explanation-improves-abstract-transfer.md) (supports); [Self-explanation effects hold on far-transfer but not near-transfer questions in a geometr](self-explanation-far-transfer-geometry-classroom.md) (qualifies); [Self-explanation substantially increases time on task, raising questions about its efficie](self-explanation-time-on-task-cost.md) (qualifies) |
+| [Durkin & Rittle-Johnson 2012](https://doi.org/10.1016/j.learninstruc.2011.11.001) | q3 · causal · r? | i? | [Erroneous examples improve conceptual understanding by forcing comparison with correct mod](erroneous-examples-build-conceptual-knowledge.md) (supports) |
+| [Chi and Wylie 2014](https://doi.org/10.1080/00461520.2014.965823) | q2 · theoretical · r3 | i? | [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) (qualifies) |
+| [Wekerle et al. 2024](https://doi.org/10.1038/s41598-024-66069-y) | q2 · associational · r2 | i? | [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) (qualifies) |
+| [Sumayyah Qaed Alsulami 2016](https://doi.org/10.5539/elt.v9n2p136) | q2 · qualitative · r2 | i? | [Comparing original texts to model paragraphs prompted noticing that was again focused on l](model-comparison-noticing-lexical.md) (qualifies) |
+<!-- synthesis:end -->
 
 ## Discussion
 
@@ -173,7 +191,7 @@ The effectiveness of self-explanation can be limited by a learner's prior knowle
 - [Strategy Instruction Improves Learning](strategy-instruction-improves-learning.md) — related
 - [Students with more controlled interaction patterns in iSTART-2 generated higher-quality self-explanations than students with more random patterns](controlled-interaction-patterns-higher-self-explanation-quality.md) — a narrower finding that bears on this claim
 - [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](worked-examples-with-practice-improve-transfer.md) — prompts can be faded alongside example–problem transitions
-- [Worked examples improve mathematics performance, especially for novices.](worked-examples-improve-math-performance.md) — the population where self-explanation prompts are most often studied
+- [Studying worked examples improves novices' algebra performance on problems with the same structure as the examples](worked-examples-improve-math-performance.md) — the population where self-explanation prompts are most often studied
 - [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) — well-chunked examples keep self-explanation demands within capacity
 - [Cognitive load management](../claims/cognitive-load-management.md) — prompts add generative load, so total load must stay within capacity
 - [Teaching reflective questioning or using graphical representations improves procedural and conceptual knowledge across diverse populations](reflective-questioning-graphical-representations-improve-algebra-outcomes.md) — related

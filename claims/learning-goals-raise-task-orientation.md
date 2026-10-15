@@ -41,8 +41,9 @@ Goal orientations section reporting two studies (Schunk, in press) in which chil
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Process goals lead to better skill acquisition for novices than outcome goals.](process-goals-outperform-outcome-goals-for-novices.md) — the general claim this finding bears on, with the studies behind it
 - [Proximal goals and ability attributional feedback for early learning raise self-efficacy more than distant goals and effort feedback, by a review's report of earlier studies](proximal-goals-feedback-peer-models-build-learning-efficacy.md) — related
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related
 - [Students in a project-based software development course are predominantly mastery-oriented, with mastery and combined mastery/ego-social the dominant profiles](mastery-dominant-orientation-project-based-software-course.md) — related

@@ -11,6 +11,14 @@
           "+"
         ],
         [
+          "skilled-writers-audience-awareness",
+          "+"
+        ],
+        [
+          "audience-prior-knowledge-determines-information-density",
+          "~"
+        ],
+        [
           "community-presentation-created-accountability-pressure",
           "+"
         ],
@@ -57,12 +65,24 @@
       "question": "Does a responding audience of peers improve later drafts?",
       "members": [
         [
+          "peer-assessment-benefits-assessor",
+          "~"
+        ],
+        [
           "peer-response-groups-writing-idea-units",
           "~"
         ],
         [
           "collaborative-writing-improves-text-quality",
           "+"
+        ],
+        [
+          "peer-feedback-accuracy-depends-on-expertise",
+          "~"
+        ],
+        [
+          "rubrics-improve-peer-feedback-quality",
+          "~"
         ]
       ]
     },
@@ -71,15 +91,39 @@
       "question": "Do time for revision and explicit criteria condition the gain?",
       "members": [
         [
+          "strategy-instruction-improves-writing-quality",
+          "+"
+        ],
+        [
+          "peer-feedback-improves-writing",
+          "+"
+        ],
+        [
+          "collaborative-writing-improves-text-quality",
+          "+"
+        ],
+        [
+          "peer-response-groups-writing-idea-units",
+          "~"
+        ],
+        [
           "rubrics-improve-student-work",
           "+"
         ],
         [
-          "strategy-instruction-improves-writing-quality",
+          "process-goals-outperform-outcome-goals-for-novices",
           "~"
         ],
         [
-          "peer-response-groups-writing-idea-units",
+          "essay-quality-improves-from-initial-to-revised",
+          "+"
+        ],
+        [
+          "noticing-errors-decreases-errors-preserves-quality",
+          "+"
+        ],
+        [
+          "spontaneous-sentence-production-in-synthetic-planning-increases-understanding",
           "~"
         ]
       ]

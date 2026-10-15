@@ -48,6 +48,5 @@ Conceptual argument in the section on human learning processes as the mediating 
 - [Self-monitoring improves self-regulation and supports better learning decisions.](self-monitoring-improves-self-regulation.md) — related
 - [Self Assessment Improves Self Regulated Learning](self-assessment-improves-self-regulated-learning.md) — related
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related
-- [Self-regulation strategy instruction improves achievement](self-regulation-strategy-instruction-improves-achievement.md) — related
 - [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](autonomy-supports-intrinsic-motivation.md) — related
 - [Motivation, affect, and learner beliefs shape whether AI evidence is accepted, resisted, or used in singing training](motivation-affect-beliefs-shape-ai-feedback-use.md) — related

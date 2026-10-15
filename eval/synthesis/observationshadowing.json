@@ -1,0 +1,58 @@
+{
+  "principle": "principles/observationshadowing",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "av-outperforms-vs-total-observation-score",
+      "question": "Does structured observation of authentic practice build novices' ability to describe and analyse what they see, and what limits what a novice sees?",
+      "members": [
+        [
+          "av-advantage-analysis-support-dimensions",
+          "+"
+        ],
+        [
+          "analysis-leap-plateau-trajectory",
+          "+"
+        ],
+        [
+          "support-growth-observation-stable-longitudinal",
+          "+"
+        ],
+        [
+          "vs-av-no-difference-observation-dimension",
+          "~"
+        ],
+        [
+          "vs-higher-purposefulness-reflection",
+          "~"
+        ],
+        [
+          "av-higher-acuity-detail-sensitivity",
+          "~"
+        ],
+        [
+          "expert-teachers-interpret-classroom-phenomena-better",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "vicarious-experiences-positive-teaching-efficacy",
+      "question": "Do observing others teach, and being observed, go with teachers' efficacy and change in practice?",
+      "members": [
+        [
+          "social-persuasion-form-moderates-efficacy-effect",
+          "~"
+        ],
+        [
+          "video-self-observation-powerful-coaching-component",
+          "~"
+        ],
+        [
+          "self-analysis-knowledge-drives-teacher-change",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

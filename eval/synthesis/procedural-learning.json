@@ -1,0 +1,88 @@
+{
+  "principle": "principles/procedural-learning",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "pretraining-improves-transfer",
+      "question": "Should component knowledge come before the whole task?",
+      "members": [
+        [
+          "part-task-practice-reduces-load-for-novices",
+          "+"
+        ],
+        [
+          "pretraining-principle-mayer-2008",
+          "+"
+        ],
+        [
+          "expertise-reversal-isolated-elements-and-imagination-review",
+          "~"
+        ],
+        [
+          "whole-task-performance-improves-transfer",
+          "~"
+        ],
+        [
+          "skill-develops-through-engagement-not-drill",
+          "-"
+        ]
+      ]
+    },
+    {
+      "hub": "practice-presence-raises-cbi-posttest-achievement",
+      "question": "After a model, does practice with support and feedback produce better unaided performance than no practice or unguided practice?",
+      "members": [
+        [
+          "worked-examples-reduce-novice-search",
+          "+"
+        ],
+        [
+          "contingent-scaffolding-improves-learning",
+          "+"
+        ],
+        [
+          "tibetcpr-rhythm-stabilisation-exceeds-unguided-practice",
+          "+"
+        ],
+        [
+          "tibetcpr-depth-accuracy-gains-exceed-control",
+          "+"
+        ],
+        [
+          "multiple-choice-lures-can-be-learned-as-false-knowledge",
+          "+"
+        ],
+        [
+          "gpt-tutor-improves-practice-more-than-gpt-base",
+          "~"
+        ],
+        [
+          "gpt4-access-harms-learning-after-withdrawal",
+          "~"
+        ],
+        [
+          "unrestricted-gpt4-practice-gains-exam-decline-guardrail-mitigates",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "strategy-instruction-needs-conditional-knowledge",
+      "question": "Does teaching when and why to use a procedure, not only its steps, improve flexible use and understanding?",
+      "members": [
+        [
+          "comparing-contrasting-cases-improves-learning",
+          "~"
+        ],
+        [
+          "procedural-strong-conceptual-limited-integral",
+          "+"
+        ],
+        [
+          "alternative-strategies-most-effective-for-procedural-flexibility",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

@@ -23,7 +23,7 @@ sources:
 # Digital Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 51 claims (25 for, 24 mixed, 2 against) · 65 studies (14 causal, 14 review, 13 theoretical, 11 quant-synthesis, 6 associational, 5 qualitative, 2 design), `q1`–`q4` · 12 of 65 report an effect size · 42 claims rest on one study
+> **Evidence** · 52 claims (25 for, 24 mixed, 3 against) · 61 studies (15 causal, 14 review, 11 quant-synthesis, 8 theoretical, 6 associational, 5 qualitative, 2 design), `q1`–`q4` · 10 of 61 report an effect size · 44 claims rest on one study
 
 ## Conditional relationship
 
@@ -116,6 +116,11 @@ No claim compares a digital and a non-digital version of the same method, time a
 - **Limiting:** [Laptop note-takers transcribed more verbatim and did worse on conceptual questions than longhand note-takers in one set of experiments, but a direct replication found no consistent difference in test performance](../claims/laptop-notes-verbatim-shallower.md) [~M]. Three experiments with college students found laptop note-takers transcribing more and doing worse on conceptual questions. A direct replication found no consistent difference. A device can invite a less useful behaviour, but the effect is fragile, and the remedy the claim page suggests is a note-taking method, not a device ban.
 
 The learners, outcomes and dates differ widely: college students in the 1970s, physics undergraduates, continuing-education enrolments, tutoring-system studies across levels. So do not rank these by effect size. None measures `delayed-retention` of a digital-versus-non-digital difference.
+
+## The evidence by question
+
+- *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]
+- *Do learners do as well, and stay as long, in a fully online course as in the same course face to face?* [Grades are lower both for courses taken online and in future courses](../claims/online-course-lower-grades-current-and-future.md) [-M]
 
 ## Further evidence, not yet read against this model
 

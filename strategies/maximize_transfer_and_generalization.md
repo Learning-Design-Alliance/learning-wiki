@@ -13,7 +13,7 @@ generated:
 # Maximize Transfer and Generalization
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (7 for) · 17 studies (7 causal, 7 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 5 of 17 report an effect size · 1 claim rests on one study
+> **Evidence** · 7 claims (7 for) · 19 studies (8 causal, 8 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 6 of 19 report an effect size · 1 claim rests on one study
 
 ## Description
 Transfer is the application of knowledge or skills learned in one context to a new context; generalization is the abstraction of a principle from specific instances so it applies across cases. This strategy designs for both: instruction presents concepts in multiple varied contexts, requires application to novel problems, and prompts learners to abstract the underlying principles that connect cases. Near transfer (to similar problems) is far easier to achieve than far transfer (to dissimilar domains), and instruction must be deliberately engineered for the latter — it rarely emerges from single-context practice alone.
@@ -27,7 +27,7 @@ Transfer depends on learners encoding knowledge in a form that is decontextualiz
 - At least two varied examples or contexts per principle, so learners can separate deep structure from surface features ([Comparing Cases](../elements/comparing-cases.md), [Analogies](../elements/analogies.md))
 - Novel application tasks that differ in surface features from the instructional examples ([Application](../elements/application.md), [Practice](../elements/practice.md))
 - Prompts that require learners to articulate the general principle and where else it applies ([Integration](../elements/integration.md))
-- Spaced re-engagement with the principle in new contexts over time [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Spaced re-engagement with the principle in new contexts over time [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 - At least two or more examples or cases sharing the same deep structure but differing in surface features, presented for comparison
 - Explicit identification of the generalizable principle, or prompts that lead learners to articulate it themselves ([Self-Explanation](../elements/self-explanation.md), [Analogies](../elements/analogies.md))
 - Practice opportunities in varied, increasingly dissimilar contexts ([Practice](../elements/practice.md), [Case Studies](../elements/case-studies.md))
@@ -75,7 +75,7 @@ Transfer depends on learners encoding knowledge in a form that is decontextualiz
 3. Have learners state the general principle in their own words and generate one additional context where it applies ([Integration](../elements/integration.md), [Self-Explanation](../elements/self-explanation.md)) [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]
 4. Assign a novel application task that differs in surface features but shares deep structure ([Application](../elements/application.md))
 5. Provide feedback focused on process and principle use, not just answers [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]
-6. Revisit the principle across the term in progressively more distant contexts, spaced over time [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+6. Revisit the principle across the term in progressively more distant contexts, spaced over time [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 
 ## Related Strategies
 

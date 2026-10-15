@@ -65,7 +65,6 @@ The article reports, citing the Shen and Tamkin (2026) preprint (a randomized co
 - [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md) — related
 - [Learners Misjudge Spacing Benefits](learners-misjudge-spacing-benefits.md) — a broader claim this one bears on
 - [Learners misjudge which learning strategies are effective](learners-misjudge-effective-learning-strategies.md) — a broader claim this one bears on
-- [Learners Misjudge Retrieval Benefit](learners-misjudge-retrieval-benefit.md) — related
 - [Rereading is less effective than retrieval practice](rereading-less-effective-than-retrieval-practice.md) — related
 - [A carefully engineered AI tutor produced more than twice the learning of a strong active-learning class, in less time (Kestin et al., 2025, as reported)](engineered-ai-tutor-doubled-learning-vs-active-learning.md) — related
 - [Students in active learning environments learned more but felt they learned less, mistaking mental effort for failure](active-learning-felt-learning-paradox.md) — possibly the same claim (merge candidate)

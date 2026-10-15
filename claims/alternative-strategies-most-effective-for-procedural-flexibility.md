@@ -42,8 +42,9 @@ The guide's own synthesis of the studies supporting Recommendation 3, stated in 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Strategy Instruction Needs Conditional Knowledge](strategy-instruction-needs-conditional-knowledge.md) — the general claim this finding bears on, with the studies behind it
 - [Comparing cases side by side improves learning and transfer by a moderate average amount, though in one algebra study it raised procedural knowledge and flexibility but not conceptual knowledge](comparing-contrasting-cases-improves-learning.md) — related
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
 - [Studying solved problems improves algebra achievement compared to solving practice problems alone, though the evidence base is rated minimal and one study found negative effects](solved-problems-improve-algebra-achievement.md) — related

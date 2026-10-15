@@ -1,0 +1,84 @@
+{
+  "principle": "principles/motivation",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "rewards-undermine-intrinsic-motivation",
+      "question": "Do rewards and praise undermine voluntary engagement?",
+      "members": [
+        [
+          "gamification-has-small-positive-effects-on-learning-outcomes",
+          "~"
+        ],
+        [
+          "gamification-engagement-mixed-evidence",
+          "~"
+        ],
+        [
+          "feedback-praise-reduces-learning",
+          "~"
+        ],
+        [
+          "praise-positive-criticism-negative-learning",
+          "+"
+        ],
+        [
+          "annevelink-personalised-instruction-path-test",
+          "+"
+        ],
+        [
+          "teacher-responses-can-close-off-pupil-thinking",
+          "~"
+        ],
+        [
+          "concrete-reward-increases-mean-ideational-fluency",
+          "~"
+        ],
+        [
+          "reward-effects-hold-across-individual-tasks",
+          "~"
+        ],
+        [
+          "good-idea-reward-no-incentive-effect",
+          "~"
+        ],
+        [
+          "grading-harms-maker-education-outcomes",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "self-efficacy-predicts-academic-persistence",
+      "question": "Does a learner's belief that they can succeed at a task predict whether they start and persist, and which goals and feedback raise it?",
+      "members": [
+        [
+          "process-goals-outperform-outcome-goals-for-novices",
+          "+"
+        ],
+        [
+          "proximal-goals-feedback-peer-models-build-learning-efficacy",
+          "+"
+        ],
+        [
+          "self-efficacy-accuracy-lower-in-learning-settings",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "task-value-increases-motivation-and-engagement",
+      "question": "Does seeing a task as interesting, important or useful raise the effort learners invest in it?",
+      "members": [
+        [
+          "effort-requires-task-value-and-expectation-of-success-arcs-rationale",
+          "+"
+        ],
+        [
+          "sdt-path-strengths-effort",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

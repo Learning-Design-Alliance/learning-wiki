@@ -62,12 +62,17 @@ A systematic review of 36 vocabulary interventions with comprehension outcomes, 
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does teaching the essential terms improve comprehension, and of which texts?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **5 distinct studies** (1 quant-synthesis, 1 review, 1 causal, 1 theoretical, 1 design), `q1`–`q4`, 2 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does teaching the essential terms improve comprehension, and of which texts?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **10 distinct studies** (4 quant-synthesis, 2 review, 2 causal, 1 theoretical, 1 design), `q1`–`q4`, 3 of 10 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Elleman et al. 2009](https://doi.org/10.1080/19345740802539200) | q4 · quant-synthesis · r? | i2 · medium effect on custom measures, d=0.50 (d=0.10 on standardized measures) | this claim |
 | [Wright and Cervetti 2017](https://doi.org/10.1002/rrq.163) | q3 · review · r3 | i? | this claim |
+| Baker 2014 | q2 · review · r2 | i? | [Intensive academic vocabulary instruction across several days is supported by strong evide](academic-vocabulary-intensive-instruction-strong-evidence.md) (supports) |
+| Fore III 2007 | q2 · causal · r2 | i? | [The concept model of vocabulary instruction produced larger gains in content-area vocabula](concept-model-beats-definition-model-vocabulary-ld.md) (supports) |
+| [Goodwin Ahn 2013](https://doi.org/10.1080/10888438.2012.689791) | q3 · quant-synthesis · r? | i1 · small effect, d = 0.34 | [Morphological Instruction Improves Vocabulary](morphological-instruction-improves-vocabulary.md) (qualifies) |
+| [Bowers Kirby Deacon 2010](https://doi.org/10.3102/0034654309359353) | q3 · quant-synthesis · r? | i? | [Morphological Instruction Improves Vocabulary](morphological-instruction-improves-vocabulary.md) (qualifies) |
+| [Rogde K 2019](https://doi.org/10.1002/cl2.1059) | q3 · quant-synthesis · r2 | i? | [Vocabulary-focused programs are probably insufficient to accelerate vocabulary development](vocabulary-programs-insufficient-to-close-vocabulary-gap.md) (qualifies) |
 | Manzo 1977 | q2 · causal · r2 | i2 | [Textual material treated with embedded aids produced 10-15% higher reading comprehension s](embedded-aids-improve-reading-comprehension.md) (supports) |
 | Preparing Problems for Classroom Instruction 2012 | q1 · theoretical · r1 | i? | [Unfamiliar problem contexts and vocabulary distract students from the mathematics and reas](unfamiliar-contexts-distract-from-mathematics.md) (supports) |
 | Dyer 1992 | q1 · design · r1 | i? | [The package claims minimal technical English limits workplace training through comprehensi](minimal-technical-english-limits-training.md) (supports) |
@@ -94,6 +99,6 @@ A systematic review of 36 vocabulary interventions with comprehension outcomes, 
 - [Cognitive load theory](../theories/cognitive-load-theory.md) — theoretical account of why unknown words impair comprehension
 - [Accessible vocabulary and syntax](../principles/accessible-vocabulary-syntax.md) — text-level design principle that pairs with vocabulary instruction
 - [Cognitive load management](../principles/cognitive-load-management.md) — instructional-time trade-offs against reading load sit under this broader principle
-- [Incidental Vocabulary Exposure Limited](incidental-vocabulary-exposure-limited.md) — related
+- [Incidental vocabulary exposure produces reliable learning, but learners pick up only a small share of the unknown words they meet](incidental-vocabulary-exposure-limited.md) — related
 - [Pairing Contextual Encounters With Explicit Instruction Produces Stronger Vocabulary Outcomes Than Either Alone](pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone.md) — related
 - Prior meta-analyses combining taught-vocabulary (proximal) with generalized outcomes report much larger vocabulary effects than generalized-only syntheses — related

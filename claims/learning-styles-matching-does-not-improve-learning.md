@@ -83,7 +83,7 @@ The review attributes this to Stahl (1999), a reading researcher, and notes Will
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*What should the adaptation be based on: responses, or learner styles and preferences?* This table gathers the studies behind this claim and the 1 narrower claims that bear on it: **4 distinct studies** (2 review, 2 causal), `q2`–`q3`, 0 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*What should the adaptation be based on: responses, or learner styles and preferences?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **7 distinct studies** (5 causal, 2 review), `q2`–`q3`, 2 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -91,11 +91,14 @@ The review attributes this to Stahl (1999), a reading researcher, and notes Will
 | [Rogowsky et al. 2020](https://doi.org/10.3389/fpsyg.2020.00164) | q3 · causal · r2 | i? | this claim |
 | Peariso 2008 | q2 · review · r1 | i? | this claim |
 | Alty 2002 | q3 · causal · r? | i? | [Intuitive learners tend to outperform sensing learners in media-based presentations](intuitive-learners-outperform-sensing-learners.md) (qualifies) |
+| Chwen Jen Chen 2005 | q3 · causal · r2 | i?; i3; i2 | [No significant interaction between learning mode and learning style on gain scores, while ](no-mode-by-style-interaction-vr-gains.md) (supports); [In the VR (guided exploration) mode, assimilator and accommodator learners did not differ ](guided-vr-no-learning-style-difference.md) (supports); [Assimilator learners gained significantly more in the VR (guided exploration) mode than in](assimilators-gain-most-vr-guided-exploration.md) (supports); [Accommodator learners gained significantly more in the VR (guided exploration) mode than i](accommodators-gain-most-vr-guided-exploration.md) (supports) |
+| [Lee 2017](https://doi.org/10.15858/engtea.72.2.201706.29) | q3 · causal · r2 | i0 | [Learning style (visual-verbal) shows no significant correlation with the effectiveness of ](learning-style-no-correlation-pictorial-elucidation-effect.md) (supports) |
+| [Sibley 2026](https://doi.org/10.1016/j.caeo.2026.100420) | q3 · causal · r3 | i? | [Latent learner profiles did not moderate the effectiveness of the adaptive ITS](learner-profiles-no-moderation-adaptive-its.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion
 
-**The meshing hypothesis.** The claim at issue is the "meshing hypothesis": that presenting visual learners with visual formats and verbal learners with verbal formats improves outcomes. Studies that have directly tested meshing — assigning learners to matched versus mismatched formats based on a style inventory — consistently fail to find the predicted interaction, and several find the opposite pattern (e.g., self-identified verbalizers sometimes learn *better* from visual presentations). No published study using a sound experimental design has supported meshing.
+**The meshing hypothesis.** The claim at issue is the "meshing hypothesis": that presenting visual learners with visual formats and verbal learners with verbal formats improves outcomes. Studies that have directly tested meshing — assigning learners to matched versus mismatched formats based on a style inventory — consistently fail to find the predicted interaction, and several find the opposite pattern (e.g., self-identified verbalizers sometimes learn *better* from visual presentations). No published study using a sound experimental design has supported meshing (unsourced on this page; the nearest entry, Pashler et al. 2008, found one study that potentially qualified and judged its evidence weak).
 
 **Why the myth persists.** Roughly 90% of educators and a majority of the public endorse learning styles (unsourced on this page), likely because the underlying intuition — that people have preferences and differ from one another — is true, and because the theory offers an appealing explanation for why some learners struggle. Preferences are real; the claim that matching instruction to them improves learning is not.
 

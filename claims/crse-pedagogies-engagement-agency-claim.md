@@ -39,6 +39,20 @@ In its CRSE section, the paper attributes this finding to prior research, citing
 
 > "research suggests that when teachers use culturally responsive pedagogies, students are more engaged and have more agency in their learn- ing and take more responsibility for seeking infor- mation (Glynn et al., 2010)."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does building tasks and formative checks from learners' own cultural and community practices raise their engagement and let them show competence?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **5 distinct studies** (2 qualitative, 1 theoretical, 1 review, 1 design), `q2`, 0 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Browning 2022 | q2 · theoretical · r2 | i? | this claim |
+| Nelson-Barber 2015 | q2 · review · r2 | i? | [When AI/AN communities design their own place-, culture-, and language-based education pro](culture-based-programs-flourish-engagement.md) (supports) |
+| [Champion, Solomon & Lammey 2025](https://doi.org/10.1080/10508406.2025.2569583) | q2 · qualitative · r2 | i? | [Multimodal, culturally grounded formative assessment supports engagement and agency](multimodal-culturally-grounded-assessment-supports-engagement-and-agency.md) (supports) |
+| [Solomon et al. 2022](https://doi.org/10.1080/10508406.2021.2023543) | q2 · qualitative · r2 | i? | [Embodied dance improvisation supports physics engagement and sense-making](embodied-dance-improvisation-supports-physics-engagement-and-sensemaking.md) (supports) |
+| [Randall et al. 2025](https://doi.org/10.1080/10508406.2025.2574311) | q2 · design · r2 | i? | [Assessment tasks built on family-identified funds of knowledge elicited computational thin](funds-of-knowledge-tasks-reveal-computational-thinking.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

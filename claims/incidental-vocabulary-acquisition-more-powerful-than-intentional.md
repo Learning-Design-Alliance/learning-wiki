@@ -41,10 +41,11 @@ Narrative review of incidental vocabulary acquisition research (Krashen 2004; Le
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Pairing Contextual Encounters With Explicit Instruction Produces Stronger Vocabulary Outcomes Than Either Alone](pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone.md) — the general claim this finding bears on, with the studies behind it
 - [Listening to vocabulary lessons while physically active improves End-of-Unit exam performance over traditional intentional learning alone](lwpa-outperforms-traditional-vocabulary-learning.md) — related
-- [Incidental Vocabulary Exposure Limited](incidental-vocabulary-exposure-limited.md) — a broader claim this one bears on
+- [Incidental vocabulary exposure produces reliable learning, but learners pick up only a small share of the unknown words they meet](incidental-vocabulary-exposure-limited.md) — a broader claim this one bears on
 - [ESL students using a spaced L2 vocabulary acquisition strategy with monthly incidental listening outperformed comparison students on the End-of-Experiment test](svas-spaced-listening-outperforms-comparison-end-of-experiment.md) — related
 - [Incidentally acquired vocabulary is retained over time while intentionally learned (focus-on-form) words are rapidly forgotten](incidental-vocabulary-retained-intentional-forgotten.md) — a narrower finding that bears on this claim
 - [Combining intentional and incidental vocabulary learning produces greater gains and better retention than either mode alone](combined-intentional-incidental-greater-gains.md) — reports the opposite

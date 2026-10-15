@@ -60,7 +60,8 @@ Comparison-treatment moderator analysis (Table 1). Small-group human instruction
 
 ## Discussion
 
-
 ## Related Claims
+
+- [A narrative review of intelligent tutoring systems asserts, citing one source, that students in personalized learning environments outperform peers in standardized settings](personalized-learning-outperforms-standardized-settings.md) — the general claim this finding bears on, with the studies behind it
 - [Adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) — possibly the same claim (merge candidate)
 - [Learning with intelligent tutoring systems yields a moderate, statistically significant overall advantage in achievement over non-ITS modes of instruction](its-meta-analysis-overall-effect-0-41.md) — a broader claim this one bears on

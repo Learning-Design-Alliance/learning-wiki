@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "The fidelity benefit of PS-I reverses for very short interventions: fidelity gains shrink when everything is crammed into a few hours"
-description: "The fidelity benefit of PS-I reverses for very short interventions: fidelity gains shrink when everything is crammed into a few hours"
+title: "In one meta-regression, the PS-I fidelity benefit tended to shrink for interventions spanning only a few hours, a marginal interaction (p = .055)"
+description: "In one meta-regression, the PS-I fidelity benefit tended to shrink for interventions spanning only a few hours, a marginal interaction (p = .055)"
 id: psi-fidelity-time-span-interaction
 status: draft
 generated:
@@ -19,10 +19,12 @@ sources:
     rigour: 2
 ---
 
-# The fidelity benefit of PS-I reverses for very short interventions: fidelity gains shrink when everything is crammed into a few hours
+# In one meta-regression, the PS-I fidelity benefit tended to shrink for interventions spanning only a few hours, a marginal interaction (p = .055)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q4`
+
+<!-- title before 2026-10-15: The fidelity benefit of PS-I reverses for very short interventions: fidelity gains shrink when everything is crammed into a few hours -->
 
 ## Subclaims
 `q4 i?` Although effect size increased with overall PF fidelity overall, it decreased for interventions spanning only a few hours, suggesting cramming many design features into short interventions is not optimal. [→ Tanmay Sinha and Manu Kapur 2021](#tanmay-sinha-and-manu-kapur-2021)
@@ -41,8 +43,9 @@ Meta-regression within the meta-analysis modeling the interaction of interventio
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — the general claim this finding bears on, with the studies behind it
 - [PF design fidelity predicts larger PS-I effects, with four fidelity criteria showing significant subgroup differences](pf-fidelity-predicts-psi-effect-size.md) — related
 - [Expertise reversal: cognitive load effects for novices decrease, disappear, and can reverse as expertise increases](expertise-reversal-effect-compound.md) — related
 - [Segmentation Benefits Shrink With Expertise](segmentation-benefits-shrink-with-expertise.md) — related

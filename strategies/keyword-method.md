@@ -12,7 +12,7 @@ generated:
 # Keyword Method
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies (4 quant-synthesis, 2 causal, 1 review), `q2`–`q4` · 3 of 7 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 9 studies (5 quant-synthesis, 3 causal, 1 review), `q2`–`q4` · 4 of 9 report an effect size · 1 claim rests on one study
 
 ## Description
 The keyword method is a mnemonic strategy for vocabulary learning, developed by Atkinson and Raugh (1975). In the first stage, learners identify a *keyword* — a familiar word that sounds similar to (or shares part of) the target word. In the second stage, they construct a mental image in which the keyword and the target word's meaning interact. For example, to learn Spanish *pato* (duck), an English speaker might use the keyword "pot" and picture a duck sitting in a pot. The strategy is typically taught explicitly, with the instructor modeling keyword selection and image construction before learners generate their own.
@@ -56,7 +56,7 @@ The keyword method works by converting abstract, arbitrary sound–meaning mappi
 2. Model keyword selection: identify a familiar word that sounds like part of the target word, thinking aloud through the choice ([Think-Aloud](../elements/think-aloud.md)).
 3. Model interactive image construction: describe an image in which the keyword and the meaning interact vividly, with the meaning-carrying item clearly dominant ([Analogies](../elements/analogies.md)).
 4. Have learners generate their own keywords and images for new words, with feedback on keyword quality ([Practice](../elements/practice.md)).
-5. Schedule retrieval practice testing word–meaning links from both directions, spaced over time ([Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]).
+5. Schedule retrieval practice testing word–meaning links from both directions, spaced over time ([Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S]).
 
 ## Related Strategies
 - [Acronyms and Acrostics](acronyms_and_acrostics.md) — verbal mnemonics serving the same arbitrary-association goal through letter-based rather than image-based encoding

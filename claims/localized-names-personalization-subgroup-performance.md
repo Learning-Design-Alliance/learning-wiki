@@ -9,8 +9,8 @@ generated:
   at: 2026-10-09
 evidence_strength: moderate
 sources:
-  - id: xprize-1
-    title: xprize-1
+  - id: murphy-2026
+    title: Murphy 2026
     q: 2
     i: "?"
     kind: causal
@@ -23,13 +23,13 @@ sources:
 > **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
-`q2 i?` In schools with majority Black or American Indian/Alaska Native subgroups, students in both Personalization and Notification conditions showed improved MATHia performance compared with Control. [→ xprize-1](#xprize-1)
-`q2 i?` In majority Hispanic/Latino schools, performance improved only in the Notification condition, compared to both Control and Personalization. [→ xprize-1](#xprize-1)
-`q2 i?` The intervention showed no improvement in sense of belonging. [→ xprize-1](#xprize-1)
+`q2 i?` In schools with majority Black or American Indian/Alaska Native subgroups, students in both Personalization and Notification conditions showed improved MATHia performance compared with Control. [→ Murphy 2026](#murphy-2026)
+`q2 i?` In majority Hispanic/Latino schools, performance improved only in the Notification condition, compared to both Control and Personalization. [→ Murphy 2026](#murphy-2026)
+`q2 i?` The intervention showed no improvement in sense of belonging. [→ Murphy 2026](#murphy-2026)
 
 ## Evidence
 
-### xprize-1
+### Murphy 2026
 
 Murphy, A. (2026, July). Classroom-Based experimentation in a digital learning platform. Digital Promise. https://doi.org/10.51388/20.500.12265/306
 
@@ -41,7 +41,10 @@ Randomized field experiment within the XPRIZE Digital Learning Challenge, conduc
 
 ## Discussion
 
-
 ## Related Claims
+
+- [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](personalized-problem-contexts-boost-engagement-grades-4-8.md) — the general claim this finding bears on, with the studies behind it
+
+- [A 1993 case-study paper on culturally aware teachers asserts, without data of its own, that instruction incorporating students' life experiences, language and skills improves academic performance](incorporating-home-culture-improves-academic-performance.md) — the general claim this finding bears on, with the studies behind it
 - [A general chemistry utility-value and growth mindset intervention showed statistically significant positive outcomes overall but statistically nonsignificant outcomes for underrepresented students](usf-chemistry-mindset-utility-value-mixed-subgroup-effects.md) — related
 - [Universal higher education approaches have not sufficiently improved outcomes for Black, Latino, and Indigenous students and students from low-income backgrounds because they are not targeted to specific populations](universal-approaches-insufficient-equity-targeting.md) — related

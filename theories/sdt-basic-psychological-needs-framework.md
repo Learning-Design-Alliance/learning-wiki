@@ -44,7 +44,7 @@ Self-determination theory is described in the article as "a comprehensive theory
 - [IE and SDT share common roots in humanistic psychology's rejection of behaviorism](../claims/ie-sdt-common-humanistic-roots.md) [+W]
 - [Both SDT and IE hold that people's actions are based on their perceptions of their contexts](../claims/perception-determines-behavior-ie-sdt.md) [+W]
 - [Positive teacher-student relationships fulfill relatedness needs and support internalization of learning](../claims/relatedness-care-support-internalization.md) [+W]
-- [Self-determination instruction improves outcomes](../claims/self-determination-instruction-improves-outcomes.md) [+M]
+- [Self-determination skills instruction for students with disabilities increases self-determination on some measures but not others](../claims/self-determination-instruction-improves-outcomes.md) [+M]
 
 ## Related Theories
 

@@ -61,6 +61,19 @@ Rhodes, M. G., & Castel, A. D. (2008). Memory predictions are influenced by perc
 
 Participants studied words printed in different font sizes for a free-recall test and made a judgment of learning (JOL) for each word. Larger fonts received higher JOLs, but font size had little relationship to recall. The bias was weaker when more valid cues, such as associative strength, were available. It persisted across several study-test sessions, with a forgetting scale, and after participants were explicitly warned that font size has little effect on memory. Making large-font words harder to read eliminated the effect, which the authors attribute to encoding fluency. The materials were word lists in the laboratory, not classroom content.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Is a learner's sense of having learned something a safe guide to whether it will last?* This table gathers the studies behind this claim and the 1 narrower claims that bear on it: **4 distinct studies** (4 causal), `q3`, 0 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Carpenter et al. 2013](https://doi.org/10.3758/s13423-013-0442-z) | q3 · causal · r? | i? | this claim |
+| [Rhodes & Castel 2008](https://doi.org/10.1037/a0013684) | q3 · causal · r? | i? | this claim |
+| [Kornell & Bjork 2008](https://doi.org/10.1111/j.1467-9280.2008.02127.x) | q3 · causal · r? | i? | [Learners Misjudge Spacing Benefits](learners-misjudge-spacing-benefits.md) (supports) |
+| [Kornell 2009](https://doi.org/10.1002/acp.1537) | q3 · causal · r? | i? | [Learners Misjudge Spacing Benefits](learners-misjudge-spacing-benefits.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Mechanism.** Fluency — the ease with which material is processed — is a valid cue for judgment in many everyday contexts, so learners reasonably (but wrongly) treat "this feels easy to read" as "I know this." Rereading, massed practice, and well-formatted text all increase fluency without increasing retention, which is why they produce confident but poorly calibrated judgments. This is closely tied to the broader problem that [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md) and that perceived ease and actual learning can dissociate.
@@ -133,9 +146,8 @@ Participants studied words printed in different font sizes for a free-recall tes
 - [Cognitive load reduction improves learning](../claims/cognitive-load-reduction-improves-learning.md) — a boundary condition where reduced load genuinely helps novices
 - [Self-regulated learning.](../theories/self-regulated-learning.md) — accurate self-monitoring is a prerequisite for effective study-strategy regulation
 - [Cognitive load management.](../principles/cognitive-load-management.md) — load reduction during study raises the need for retrieval-based verification of learning
-- [Considering The Opposite Reduces Bias](considering-the-opposite-reduces-bias.md) — related
+- [A systematic review of bias-mitigation training names considering the opposite as a previously validated way to reduce judgment biases, without testing it itself](considering-the-opposite-reduces-bias.md) — related
 - [Learners misjudge which learning strategies are effective](learners-misjudge-effective-learning-strategies.md) — related
-- [Learners Misjudge Retrieval Benefit](learners-misjudge-retrieval-benefit.md) — related
 - [Learners Misjudge Spacing Benefits](learners-misjudge-spacing-benefits.md) — related
 - [Only a minority of self-reported CLT-familiar teachers could identify the three types of cognitive load](minority-identify-three-load-types.md) — a narrower finding that bears on this claim
 - [Perceived discrepancy between actual teaching performance and goals motivates teachers to change their teaching](performance-goal-discrepancy-motivates-teacher-change.md) — related

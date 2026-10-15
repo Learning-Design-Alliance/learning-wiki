@@ -6,7 +6,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 id: productive-failure-improves-conceptual-learning
-aliases: [productive-failure-improves-learning]
+aliases: [productive-failure-improves-learning, productive-failure-problem-solving-before-instruction-effect, problem-solving-before-instruction-boosts-conceptual-transfer]
 evidence_strength: unrated
 sources:
   - id: sinha-kapur-2021
@@ -27,12 +27,28 @@ sources:
     n: 2 studies (participant count not established from the abstract)
     kind: causal
     rigour: "?"
+  - id: mario-brcic-2026
+    resource: "https://arxiv.org/abs/2606.26181"
+    title: "Mario Brcic, Stjepan Frljic. (2026). The Effortless Trap: Productive Struggle, AI, and the Illusion of Learning. Preprint. https://arxiv.org/abs/2606.26181"
+    author: Mario Brcic, Stjepan Frljic
+    q: 2
+    i: 1
+    kind: theoretical
+    rigour: 2
+  - id: manu-kapur-2016
+    resource: "https://doi.org/10.1080/00461520.2016.1155457"
+    title: "Manu Kapur (2016). Examining Productive Failure, Productive Success, Unproductive Failure, and Unproductive Success in Learning. Educational Psychologist, 51(2), 289-299. https://doi.org/10.1080/00461520.2016.1155457"
+    author: Manu Kapur
+    q: 3
+    i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Productive Failure Improves Conceptual Learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 causal `r?`, 1 quant-synthesis `r?` · `q3`–`q4` · `i1` small
+> **Evidence** · 4 studies · 2 theoretical `r2`–`r3`, 1 causal `r?`, 1 quant-synthesis `r?` · `q2`–`q4` · `i1` small
 
 When learners attempt to solve novel problems *before* receiving canonical instruction, they often perform worse on those attempts but learn more from the subsequent instruction than learners who receive instruction first.
 
@@ -43,6 +59,10 @@ The claim is scoped to *conceptual* outcomes (understanding of underlying princi
 `q4 i1` Across 53 studies and 166 comparisons, problem solving followed by instruction beat instruction followed by problem solving on conceptual knowledge and transfer (g = 0.36), with no difference on procedural knowledge (g = −0.03). The advantage was larger when designs followed productive-failure principles, and it reversed for second to fifth graders and for domain-general skills. [→ Sinha & Kapur 2021](#sinha-kapur-2021)
 
 `q3 i?` In two randomized studies of a new math concept, both sequences produced high procedural knowledge, but students who solved problems before instruction showed greater conceptual understanding and transfer. The number of solutions students generated predicted what they learned. [→ Kapur 2014](#kapur-2014)
+
+`q2 i1` Problem-solving before instruction (productive failure) yields a measured learning benefit of about d = 0.36, rising to about 0.58 at high design fidelity, as the article reports citing Kapur (2008) and Sinha and Kapur (2021). [→ Mario Brcic 2026](#mario-brcic-2026)
+
+`q3 i?` In a randomized-controlled experiment with ninth-graders learning standard deviation, students who generated solutions before instruction performed significantly better on conceptual understanding and transfer than those instructed first, with no difference on procedural knowledge. [→ Manu Kapur 2016](#manu-kapur-2016)
 
 ## Evidence
 
@@ -62,19 +82,41 @@ Kapur, M. (2014). Productive failure in learning math. *Cognitive Science, 38*(5
 
 Two randomized controlled studies compared teaching a new math concept first with having students solve problems first, even if they failed, and then teaching it. Both orders produced high procedural knowledge. The problem-solving-first students showed significantly greater conceptual understanding and transfer to novel problems. In the second study, students who studied their peers' failed attempts before instruction beat the instruction-first group, but not the students who had solved the problems themselves. How many solutions students generated predicted their learning outcomes. Only the abstract was read, so this entry gives no effect sizes or sample sizes.
 
+### Mario Brcic 2026
+
+Mario Brcic, Stjepan Frljic. (2026). The Effortless Trap: Productive Struggle, AI, and the Illusion of Learning. Preprint. https://arxiv.org/abs/2606.26181
+
+`q2 · i1` · `theoretical · r2`
+
+The article reports, citing Kapur (2008) and the Sinha and Kapur (2021) review, that productive failure shows a measured benefit of "d≈0.36 rising to about 0.58 at high design fidelity". The effect sizes are second-hand attributions in this synthesis, so support is weak.
+
+> "This is productive failure, problem-solving before instruction, with measured benefit (d≈0.36 rising to about 0.58 at high design fidelity) (Kapur, 2008; Sinha and Kapur, 2021)."
+
+### Manu Kapur 2016
+
+Manu Kapur (2016). Examining Productive Failure, Productive Success, Unproductive Failure, and Unproductive Success in Learning. Educational Psychologist, 51(2), 289-299. https://doi.org/10.1080/00461520.2016.1155457
+
+`q3 · i?` · `theoretical · r3`
+
+The article reports a randomized-controlled experiment comparing problem solving before versus after instruction on standard deviation. It found "no difference on procedural knowledge" but significantly better conceptual understanding and transfer for the problem-solving-first group; no effect size is printed.
+
+> "in a randomized-controlled experiment with ninth-graders learning the concept of standard deviation, Kapur (2014) had students individually generate solutions to a novel problem before or after receiving instruction. He too found no difference on procedural knowledge, but students who engaged in problem solving prior to instruction demonstrated signiﬁcantly better performance on conceptual understanding and transfer"
+
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Should learners attempt a problem before the idea is taught, and what must the teaching afterwards do?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **6 distinct studies** (2 causal, 2 theoretical, 1 quant-synthesis, 1 review), `q2`–`q4`, 2 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Should learners attempt a problem before the idea is taught, and what must the teaching afterwards do?* This table gathers the studies behind this claim and the 11 narrower claims that bear on it: **8 distinct studies** (4 causal, 2 theoretical, 1 quant-synthesis, 1 review), `q2`–`q4`, 2 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| [Sinha & Kapur 2021](https://doi.org/10.3102/00346543211019105) | q4 · quant-synthesis · r? | i1 · small effect, g=0.36; i? | this claim; [For domain-general skills, effect sizes favor I-PS over PS-I](domain-general-skills-favor-ips.md) (qualifies) |
+| [Sinha & Kapur 2021](https://doi.org/10.3102/00346543211019105) | q4 · quant-synthesis · r? | i1 · small effect, g=0.36; i0; i3; i? | this claim; [For domain-general skills, effect sizes favor I-PS over PS-I](domain-general-skills-favor-ips.md) (qualifies); [After accounting for publication bias, the estimated true effect favoring PS-I is strong (](publication-bias-corrected-psi-effect-strong.md) (supports); [PS-I shows no pooled benefit for procedural knowledge (g = −0.03, nonsignificant)](psi-procedural-knowledge-null-pooled-effect.md) (qualifies); [PS-I effects vary by grade level: negative for 2nd–5th graders and increasing with age](psi-effect-increases-with-grade-level.md) (qualifies); [PF design fidelity predicts larger PS-I effects, with four fidelity criteria showing signi](pf-fidelity-predicts-psi-effect-size.md) (qualifies); [In one meta-regression, the PS-I fidelity benefit tended to shrink for interventions spann](psi-fidelity-time-span-interaction.md) (qualifies) |
 | [Kapur 2014](https://doi.org/10.1111/cogs.12107) | q3 · causal · r? | i? | this claim |
+| Mario Brcic 2026 | q2 · theoretical · r2 | i1 | this claim |
+| [Manu Kapur 2016](https://doi.org/10.1080/00461520.2016.1155457) | q3 · theoretical · r3 | i? | this claim; [Guidance during initial problem solving does not translate into better learning from subse](initial-guidance-does-not-improve-learning-from-instruction.md) (supports) |
 | [Schwartz & Martin 2004](https://doi.org/10.1207/s1532690xci2202_1) | q3 · causal · r2 | i? | [Invention Tasks Prepare Future Learning](invention-tasks-prepare-future-learning.md) (supports) |
 | [Loibl 2017](https://doi.org/10.1007/s10648-016-9379-x) | q3 · review · r? | i? | [PS-I fosters learning only if specific design features (contrasting cases or building inst](ps-i-fosters-learning-only-with-contrasting-cases-or-student-solutions.md) (qualifies) |
-| [Manu Kapur 2016](https://doi.org/10.1080/00461520.2016.1155457) | q3 · theoretical · r3 | i? | [Solving novel problems before instruction improves conceptual understanding and transfer b](problem-solving-before-instruction-boosts-conceptual-transfer.md) (supports); [Guidance during initial problem solving does not translate into better learning from subse](initial-guidance-does-not-improve-learning-from-instruction.md) (supports) |
-| Mario Brcic 2026 | q2 · theoretical · r2 | i1 | [Productive failure, problem-solving before instruction, shows a measured benefit of about ](productive-failure-problem-solving-before-instruction-effect.md) (supports) |
+| [van Gog et al. 2011](https://doi.org/10.1016/j.cedpsych.2010.10.004) | q3 · causal · r? | i? | [Example-problem sequences reduce cognitive load and improve learning outcomes.](example-problem-sequences-reduce-cognitive-load.md) (qualifies) |
+| [van Gog 2011](https://doi.org/10.1016/j.compedu.2011.03.019) | q3 · causal · r? | i? | [Identical example–problem pairs showed an early order advantage but no detected final-test](identical-example-problem-order-advantage-not-detected-at-final-test.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -109,16 +151,15 @@ Two randomized controlled studies compared teaching a new math concept first wit
 - [Erroneous examples improve conceptual understanding by forcing comparison with correct models.](erroneous-examples-build-conceptual-knowledge.md) — related
 - [Invention Tasks Prepare Future Learning](invention-tasks-prepare-future-learning.md) — a narrower finding that bears on this claim
 - [Presenting multiple cases from different perspectives supports transfer in ill-structured domains](cognitive-flexibility-theory-multiple-cases.md) — related
-- [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](guided-discovery-outperforms-pure-discovery.md) — related
-- [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — related
+- [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](minimal-guidance-less-effective-for-novices.md) — related
 - [Learner-constructed graphic organizers are not shown to outperform provided ones: the one direct test, with college readers, favoured provided organizers on transfer](learner-constructed-graphic-organizers-outperform-provided.md) — related
 - [Rapid prototyping methods can amplify novice designers' tendency to commit to a solution too early.](rapid-prototyping-can-amplify-novice-designers-premature-commitment-to-solutions.md) — related
 - [Sequencing worked examples with practice problems improves learning for novices](worked-example-problem-sequences.md) — related
 - [Groups of high-performing students often fail problem-solving tasks when they do not collaborate, showing why collaborative skills need assessment and feedback](high-performing-groups-fail-without-collaboration.md) — related
 - [Alternative-strategy practices are most effective for improving procedural flexibility, with weaker evidence for conceptual and procedural knowledge](alternative-strategies-most-effective-for-procedural-flexibility.md) — related
 - [Teaching reflective questioning or using graphical representations improves procedural and conceptual knowledge across diverse populations](reflective-questioning-graphical-representations-improve-algebra-outcomes.md) — related
-- [Productive failure, problem-solving before instruction, shows a measured benefit of about d = 0.36 rising to about 0.58 at high design fidelity (as reported)](productive-failure-problem-solving-before-instruction-effect.md) — possibly the same claim (merge candidate)
 - [A persistent theory-practice gap: students may develop conceptual AI understanding but lack opportunities to apply it in authentic contexts](ail-theory-practice-gap-he-programs.md) — related
 - [Enhanced discovery learning produces greater learning than other forms of instruction](enhanced-discovery-beats-other-instruction.md) — related
 - [For domain-general skills, effect sizes favor I-PS over PS-I](domain-general-skills-favor-ips.md) — a narrower finding that bears on this claim
 - [PS-I fosters learning only if specific design features (contrasting cases or building instruction on student solutions) are implemented](ps-i-fosters-learning-only-with-contrasting-cases-or-student-solutions.md) — related
+- [Meeting four or more implementation fidelity criteria is associated with course grades about 0.24 points higher than expected, a 0.58 grade-point swing versus meeting only two criteria.](implementation-fidelity-grade-residuals.md) — related

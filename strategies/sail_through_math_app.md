@@ -12,14 +12,14 @@ generated:
 # Sail through Math App
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies (4 quant-synthesis, 2 causal, 2 review), `q2`–`q4` · 3 of 8 report an effect size
+> **Evidence** · 3 claims (3 for) · 10 studies (5 quant-synthesis, 3 causal, 2 review), `q2`–`q4` · 4 of 10 report an effect size
 
 ## Description
 Sail through Math is an iOS app from McGraw-Hill Education that develops arithmetic fluency — addition, subtraction, multiplication, and division, including equations and two-step problems — through a pirate-themed narrative. Learners progress through three difficulty levels, solving math facts and equations embedded in story contexts (firing cannonballs, earning treasure), with the game providing immediate correctness feedback and level progression as performance improves.
 
 ## Design Implications
 
-The app exemplifies game-framed [Practice](../elements/practice.md) for math facts: fluency with basic combinations frees working memory for higher-order reasoning, and retrieval practice with feedback is the most reliable route to that automaticity [Spaced, repeated retrieval practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]. Immediate feedback on each answer supports error correction at the task level [Feedback is most effective at the task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]. The three-level structure functions as coarse [Adaptive Difficulty](../elements/adaptive-difficulty.md), keeping problems within a manageable band of challenge [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
+The app exemplifies game-framed [Practice](../elements/practice.md) for math facts: fluency with basic combinations frees working memory for higher-order reasoning, and retrieval practice with feedback is the most reliable route to that automaticity [Spaced, repeated retrieval practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S]. Immediate feedback on each answer supports error correction at the task level [Feedback is most effective at the task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]. The three-level structure functions as coarse [Adaptive Difficulty](../elements/adaptive-difficulty.md), keeping problems within a manageable band of challenge [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
 
 ### Context
 #### Requirements
@@ -50,7 +50,7 @@ The app exemplifies game-framed [Practice](../elements/practice.md) for math fac
 
 ### Instructions
 1. Set the learner at the appropriate level (addition/subtraction for early grades; multiplication/division later) and model one session so learners understand the story framing and feedback signals.
-2. Schedule short, regular practice sessions — distributed practice outperforms massed sessions for fact retention [Spaced, repeated retrieval practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+2. Schedule short, regular practice sessions — distributed practice outperforms massed sessions for fact retention [Spaced, repeated retrieval practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 3. Have learners [Practice](../elements/practice.md) within the app while the system delivers immediate correctness [Provide Feedback](../elements/provide-feedback.md) on each response.
 4. Review level-completion data with the learner to [Assess Performance](../elements/assess-performance.md) and adjust level placement or provide targeted offline support for persistent error patterns.
 5. Connect app practice to classroom instruction — discuss strategies (doubles, make-ten) so retrieval is anchored in understanding.

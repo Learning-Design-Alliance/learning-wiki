@@ -1,0 +1,28 @@
+{
+  "principle": "principles/expanding-social-networks",
+  "note": "Wave 10 (2026-10-15). Groupings and directions by an agent from the claims' titles and evidence entries. Every member is a participant report or judgement without a comparison group; the hub itself cites a Department of Labor synthesis second-hand.",
+  "findings": [
+    {
+      "hub": "cohort-support-improves-adult-persistence",
+      "question": "Do peers in the same situation and mentors around adult learners help them develop skills, persist and get through transitions?",
+      "members": [
+        [
+          "people-connections-top-transition-support",
+          "+"
+        ],
+        [
+          "top-wanted-transition-supports",
+          "+"
+        ],
+        [
+          "tech-program-accomplishments-gains",
+          "+"
+        ],
+        [
+          "virtual-communities-counter-supervision-isolation",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

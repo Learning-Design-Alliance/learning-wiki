@@ -71,7 +71,7 @@ This meta-analysis pooled 159 effect sizes from 61 published and unpublished stu
 - [Activation improves learning.](activation-improves-learning.md) — activating relevant prior knowledge raises the odds that a retrieval attempt succeeds
 - [Adaptive learning improves outcomes.](adaptive-learning-improves-outcomes.md) — adjusting difficulty to the learner helps keep retrieval attempts in the productive, challenging-but-achievable zone
 - [Cognitive load management.](../principles/cognitive-load-management.md) — the theoretical framework for calibrating task difficulty to learner capacity
-- [Desirable Difficulties Enhance Learning](desirable-difficulties-enhance-learning.md) — related
+- [Retrieval practice and spaced retrieval improve achievement and retention by medium amounts, while interleaving helps category learning only for some materials and blocking beats it for words](desirable-difficulties-enhance-learning.md) — related
 - [Pre-tests reduced adult learners' persistence in a MOOC, though they improved post-test scores among those who completed it](pretesting-can-harm-motivation.md) — related
 - [Pretesting enhances learning](pretesting-enhances-learning.md) — related
 - [Repeated successful retrieval during learning predicted final recall in both experiments](repeated-retrieval-success-predicts-final-recall.md) — related

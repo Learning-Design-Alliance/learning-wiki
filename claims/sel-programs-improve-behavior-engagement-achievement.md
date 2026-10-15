@@ -63,7 +63,7 @@ The review reports this meta-analysis of longer-term SEL effects as evidence of 
 
 ## Related Claims
 - [SEL program effects are sustained over long-term follow-up periods](sel-benefits-persist-follow-up.md) — possibly the same claim (merge candidate)
-- [SEL programs improve students' engagement and academic performance, with an 11-percentage-point achievement gain in the Durlak meta-analysis](sel-programs-improve-academic-performance.md) — a narrower finding that bears on this claim
+- [SEL programs improve students' engagement and academic performance, with an 11-percentile-point achievement gain in the Durlak meta-analysis](sel-programs-improve-academic-performance.md) — a narrower finding that bears on this claim
 - [Universal school-based SEL programs improve students' behaviour, with a small and, in recent randomised trials, negligible effect on academic achievement](sel-programs-improve-behavior-and-achievement.md) — a narrower finding that bears on this claim
 - [School-based SEL programs promote the development of social and emotional competencies across grade levels](sel-programs-promote-social-emotional-competencies.md) — a narrower finding that bears on this claim
 - [SEL programs improve social emotional skills](sel-programs-improve-social-emotional-skills.md) — a narrower finding that bears on this claim

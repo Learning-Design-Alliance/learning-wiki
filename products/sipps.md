@@ -18,7 +18,7 @@ sources:
 # SIPPS
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 3 studies (1 causal, 1 quant-synthesis, 1 review), `q2`–`q4` · 3 of 3 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 4 studies (2 causal, 1 quant-synthesis, 1 review), `q2`–`q4` · 3 of 4 report an effect size · 1 claim rests on one study
 
 ## Description
 SIPPS (Systematic Instruction in Phonological Awareness, Phonics, and Sight Words) is a structured-literacy curriculum developed and distributed by Collaborative Classroom for foundational reading instruction and intervention in grades K–12.
@@ -31,7 +31,7 @@ SIPPS (Systematic Instruction in Phonological Awareness, Phonics, and Sight Word
 
 ### Claims
 - [SIPPS as a Tier 2 intervention significantly improves first- and second-graders' reading skills on DIBELS (effect size +0.25)](../claims/sipps-tier2-dibels-effect-025.md) [+W]
-- [Systematic Phonics Improves Word Reading](../claims/systematic-phonics-improves-word-reading.md) [+M]
+- [Systematic Phonics Improves Word Reading](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+M]
 
 ## Related Products and Programmes
 
@@ -108,7 +108,7 @@ SIPPS is built on "the premise that beginning literacy is best taught through tw
 ### Claims
 
 - [SIPPS as a Tier 2 intervention significantly improves first- and second-graders' reading skills on DIBELS (effect size +0.25)](../claims/sipps-tier2-dibels-effect-025.md) [+W]
-- [Systematic Phonics Improves Word Reading](../claims/systematic-phonics-improves-word-reading.md) [+M]
+- [Systematic Phonics Improves Word Reading](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+M]
 
 ## Related Theories
 

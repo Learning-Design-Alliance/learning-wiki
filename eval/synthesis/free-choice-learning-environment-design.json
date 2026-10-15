@@ -1,0 +1,94 @@
+{
+  "principle": "principles/free-choice-learning-environment-design",
+  "note": "Wave 10 (2026-10-15). Groupings and directions by an agent from the claims' titles and evidence entries. Both hubs are reused from eval/synthesis/autonomy.json with the same questions; members here are added to theirs.",
+  "findings": [
+    {
+      "hub": "rewards-undermine-intrinsic-motivation",
+      "question": "Do rewards and praise undermine voluntary engagement?",
+      "members": [
+        [
+          "gamification-has-small-positive-effects-on-learning-outcomes",
+          "~"
+        ],
+        [
+          "gamification-engagement-mixed-evidence",
+          "~"
+        ],
+        [
+          "feedback-praise-reduces-learning",
+          "~"
+        ],
+        [
+          "praise-positive-criticism-negative-learning",
+          "+"
+        ],
+        [
+          "annevelink-personalised-instruction-path-test",
+          "+"
+        ],
+        [
+          "teacher-responses-can-close-off-pupil-thinking",
+          "~"
+        ],
+        [
+          "concrete-reward-increases-mean-ideational-fluency",
+          "~"
+        ],
+        [
+          "reward-effects-hold-across-individual-tasks",
+          "~"
+        ],
+        [
+          "good-idea-reward-no-incentive-effect",
+          "~"
+        ],
+        [
+          "grading-harms-maker-education-outcomes",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "connectivist-courses-student-agency-problems",
+      "question": "How much choice, for whom: what happens when self-direction is wide open?",
+      "members": [
+        [
+          "ai-mediated-feedback-in-hands-on-exhibits-improves-learning-and-engagement",
+          "+"
+        ],
+        [
+          "moderate-agency-better-learning-outcomes",
+          "+"
+        ],
+        [
+          "minimal-persistence-everyday-problem-solving-youth",
+          "+"
+        ],
+        [
+          "youth-skip-assess-phase-free-choice-heuristics",
+          "+"
+        ],
+        [
+          "choice-rich-infrastructure-supports-productive-deviation-and-learning",
+          "~"
+        ],
+        [
+          "claim-shared-control-roles-and-content",
+          "+"
+        ],
+        [
+          "claim-collab-starts-when-students-ready",
+          "+"
+        ],
+        [
+          "choice-autonomy-rarely-tested-in-retention-programs",
+          "~"
+        ],
+        [
+          "autonomy-at-one-level-may-inhibit-another",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

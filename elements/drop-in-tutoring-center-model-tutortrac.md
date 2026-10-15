@@ -46,7 +46,7 @@ The Tutoring Center at Western Washington University uses a model in which "stud
 - [Tutoring center visits usually showed no significant difference in individual course performance, and sometimes tutored students performed worse](../claims/tutoring-visits-no-course-grade-advantage.md) [-W]
 - [Only the 200740F high-use group showed a significantly higher rate of good academic standing compared to non-visitors](../claims/tutoring-good-standing-significant-only-one-cohort.md) [+W]
 - [High-use tutoring center visitors had significantly higher cumulative GPA than non-visitors, with the main difference between >10-visit and no-visit groups](../claims/tutoring-center-visits-higher-cumulative-gpa.md) [+W]
-- [Minority students visited the tutoring center more often than Caucasian students, yet tutored minority and first-generation students had lower average GPAs](../claims/minority-students-more-tutoring-visits-lower-gpas.md) [~W]
+- [In one university's records, minority students visit a drop-in tutoring center more often than Caucasian students, while first-generation and other students do not differ in visits](../claims/minority-students-more-tutoring-visits-lower-gpas.md) [~W]
 
 ## Related Elements
 - 

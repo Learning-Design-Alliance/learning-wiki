@@ -26,7 +26,7 @@ sources:
 # Debriefing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 18 claims (12 for, 5 mixed, 1 against) · 33 studies (11 causal, 11 quant-synthesis, 4 review, 2 associational, 2 qualitative, 2 theoretical, 1 design), `q1`–`q4` · 9 of 33 report an effect size · 7 claims rest on one study
+> **Evidence** · 19 claims (13 for, 5 mixed, 1 against) · 34 studies (11 causal, 11 quant-synthesis, 5 review, 2 associational, 2 qualitative, 2 theoretical, 1 design), `q1`–`q4` · 8 of 34 report an effect size · 8 claims rest on one study
 
 ## Conditional relationship
 
@@ -120,6 +120,10 @@ What limits and qualifies the model:
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](../claims/expertise-reversal-effect.md) [~M]: a review of cognitive-load studies and experiments with electrical trainees. It is the reason to hand the debrief to learners as they gain expertise; no study tests it in debriefs, and it gives no crossover point.
 
 Learners, tasks, settings and outcomes differ across these claims (children with a tutor, engineering undergraduates, health-professions trainees, laboratory recall), so do not rank them by effect size. None measures delayed retention or workplace performance after a debrief.
+
+## The evidence by question
+
+- *Does a feedback and reflection step after a simulation or shared exercise add to what learners gain from the experience itself?* [The review reports that embedded analytics, timely feedback, and structured reflection strengthen conceptual consolidation and learning gains](../claims/analytics-feedback-reflection-strengthen-learning-gains.md) [+M]
 
 ## Further evidence, not yet read against this model
 

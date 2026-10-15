@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Desirable Difficulties Enhance Learning
+title: Retrieval practice and spaced retrieval improve achievement and retention by medium amounts, while interleaving helps category learning only for some materials and blocking beats it for words
 id: desirable-difficulties-enhance-learning
 aliases: [desirable-difficulties-improve-retention]
 status: draft
@@ -38,10 +38,11 @@ sources:
     rigour: "?"
 ---
 
-# Desirable Difficulties Enhance Learning
+# Retrieval practice and spaced retrieval improve achievement and retention by medium amounts, while interleaving helps category learning only for some materials and blocking beats it for words
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 3 quant-synthesis `r?` · `q4` · `i2` medium
+<!-- title before 2026-10-15: Desirable Difficulties Enhance Learning -->
 
 Introducing certain effortful conditions during learning — such as retrieval practice, spacing, and interleaving — can slow visible performance during instruction while improving long-term retention and transfer. The claim is about *desirable* difficulties specifically: conditions that are effortful but surmountable, not obstacles that exceed the learner's capacity.
 
@@ -78,6 +79,20 @@ Brunmair, M., & Richter, T. (2019). Similarity matters: A meta-analysis of inter
 `q4 · multilevel meta-analysis` · `i2 · medium effect, g=0.42` · `n=59 studies (158 samples, 238 effect sizes)` · `quant-synthesis · r?`
 
 A multilevel meta-analysis comparing interleaved with blocked presentation of items for inductive (category) learning, across 59 studies. Interleaving helped by a moderate amount overall, most for paintings and other visual materials (g = 0.67) and less for mathematical tasks (g = 0.34). It **qualifies** the claim: for word materials blocking beat interleaving (g = -0.39), and effects for expository texts and tastes were not significant. Interleaving helped more when categories were similar to each other and items within a category were less similar, so the difficulty is desirable only for some materials.
+
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*When the outcome is retention at a delay, should effortful practice be reintroduced once the material is understood, and for which material?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **5 distinct studies** (3 quant-synthesis, 1 theoretical, 1 review), `q2`–`q4`, 3 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Yang et al. 2021](https://doi.org/10.1037/bul0000309) | q4 · quant-synthesis · r? | i2 · medium effect, g=0.499 | this claim |
+| [Latimier et al. 2020](https://doi.org/10.1007/s10648-020-09572-8) | q4 · quant-synthesis · r? | i2 · medium-to-large effect, g=0.74 | this claim |
+| [Brunmair & Richter 2019](https://doi.org/10.1037/bul0000209) | q4 · quant-synthesis · r? | i2 · medium effect, g=0.42; i1 | this claim; [Interleaving benefits are small for mathematical tasks and absent or reversed for exposito](interleaving-limited-for-math-texts-and-words.md) (qualifies) |
+| [Joshua Wedlock & Christopher Binnie 2025](https://doi.org/10.55593/ej.29115a5) | q2 · theoretical · r2 | i? | [Desirable difficulty: harder-to-learn conditions yield enhanced long-term retention](desirable-difficulty-enhances-long-term-retention.md) (supports) |
+| [Williams 2017](https://doi.org/10.14786/flr.v5i3.267) | q2 · review · r2 | i? | [Faster rate of learning may be negatively related to long-term retention (efficiency-effec](learning-rate-retention-tradeoff.md) (supports) |
+<!-- synthesis:end -->
 
 ## Discussion
 
@@ -118,7 +133,7 @@ A multilevel meta-analysis comparing interleaved with blocked presentation of it
 - [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](interleaving-improves-inductive-learning.md) — related
 - [Faster rate of learning may be negatively related to long-term retention (efficiency-effectiveness trade-off)](learning-rate-retention-tradeoff.md) — related
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — related
-- [Spaced Retrieval Outperforms Restudy](spaced-retrieval-outperforms-restudy.md) — related
+- [Spacing out retrieval practice produces better long-term retention than massing it](spaced-retrieval-outperforms-restudy.md) — related
 - [Desirable difficulty: harder-to-learn conditions yield enhanced long-term retention](desirable-difficulty-enhances-long-term-retention.md) — related
 - [Spaced retrieval practice outperformed both massed retrieval practice and no-practice control on delayed financial knowledge, while massed and control did not differ](spaced-beats-massed-and-control-financial-knowledge.md) — related
 - [Productive difficulty at the edge of mastery, with high expectations, fosters deeper learning](productive-difficulty-edge-of-mastery.md) — related

@@ -60,8 +60,9 @@ Figure 7 comparison across the 4 interventions teaching all three domains versus
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Phonemic Awareness Training Improves Reading](phonemic-awareness-training-improves-reading.md) — the general claim this finding bears on, with the studies behind it
 - [Language and early writing interventions showed larger effects on researcher-developed than standardized outcome measures, while phonological awareness, print knowledge, and decoding effects were comparable across measure types](researcher-developed-measures-larger-language-effects.md) — related
 - [Instruction in language, phonological awareness, and decoding improved performance in the taught domain, while interventions teaching print knowledge or early writing exclusively did not](taught-domain-instruction-improves-taught-domain.md) — related
 - [Teaching phonological awareness and print knowledge improved early writing performance with or without early writing instruction](pa-pk-improve-early-writing.md) — related

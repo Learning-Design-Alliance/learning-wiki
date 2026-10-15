@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Expressive Writing Improves Exam Performance
+title: "Brief expressive writing before an exam can raise test-anxious students' scores, but across the wider literature its effect on test performance is negligible"
 status: draft
 generated:
   by: claude/unspecified
@@ -28,10 +28,12 @@ sources:
     rigour: 3
 ---
 
-# Expressive Writing Improves Exam Performance
+# Brief expressive writing before an exam can raise test-anxious students' scores, but across the wider literature its effect on test performance is negligible
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r2`, 1 quant-synthesis `r3` · `q3`–`q4` · `i0`–`i2`
+
+<!-- title before 2026-10-15: Expressive Writing Improves Exam Performance -->
 
 Brief expressive writing about exam-related worries, completed shortly before a high-stakes test, can offload anxious thoughts and free working-memory resources for the exam task itself. The claim concerns *performance* under pressure — helping students show what they already know — not the acquisition of new knowledge.
 
@@ -70,6 +72,8 @@ A meta-analysis of the single-session expressive-writing literature (the paradig
 **Open questions.** The recorded evidence is mixed: the original classroom experiments found a medium effect for highly test-anxious students, and a later meta-analysis of 21 studies found a negligible effect on test performance. Open issues include dosage (how long a writing session must be), durability across repeated exams, and whether effects hold in low-stakes or online assessment contexts. Replication across age groups and subject domains is also needed before the claim can be generalized beyond the populations in which it was first tested.
 
 ## Related Claims
+
+- [Test anxiety is negatively related to exam performance, and proctoring does not moderate this relation](test-anxiety-negative-exam-performance.md) — the general claim this finding bears on, with the studies behind it
 
 - [Cognitive overload degrades learning.](cognitive-overload-degrades-learning.md) — the working-memory mechanism the writing intervention targets
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — another route to freeing capacity under load

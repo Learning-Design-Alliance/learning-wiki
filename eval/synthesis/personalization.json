@@ -1,0 +1,108 @@
+{
+  "principle": "principles/personalization",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "personalized-problem-contexts-boost-engagement-grades-4-8",
+      "question": "Does setting problems in contexts drawn from learners' interests raise engagement and performance?",
+      "members": [
+        [
+          "personalization-improves-hard-kc-accuracy-algebra-its",
+          "+"
+        ],
+        [
+          "personalization-improves-easy-kc-accuracy-algebra-its",
+          "+"
+        ],
+        [
+          "personalization-reduces-gaming-behavior",
+          "+"
+        ],
+        [
+          "personalization-reduces-solution-time-efficiency",
+          "+"
+        ],
+        [
+          "personalization-struggling-students-moderation",
+          "~"
+        ],
+        [
+          "personalized-analogies-more-engaging-memorable",
+          "+"
+        ],
+        [
+          "localized-names-personalization-subgroup-performance",
+          "~"
+        ],
+        [
+          "students-report-topic-mismatch-interests",
+          "~"
+        ],
+        [
+          "ai-relevance-intervention-no-interest-effect",
+          "-"
+        ]
+      ]
+    },
+    {
+      "hub": "personalized-learning-outperforms-standardized-settings",
+      "question": "Do learners in personalized learning settings achieve more than peers taught the same content uniformly?",
+      "members": [
+        [
+          "personalized-learning-effects-vary-with-fidelity",
+          "~"
+        ],
+        [
+          "iready-personalized-instruction-ela-mcas-quasi-experiment",
+          "+"
+        ],
+        [
+          "iready-personalized-instruction-math-mcas-significant",
+          "+"
+        ],
+        [
+          "ai-personalization-benefits-performance-motivation",
+          "+"
+        ],
+        [
+          "its-beats-large-group-cbi-textbooks-not-human-tutoring",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "learning-styles-matching-does-not-improve-learning",
+      "question": "What should the adaptation be based on: responses, or learner styles and preferences?",
+      "members": [
+        [
+          "intuitive-learners-outperform-sensing-learners",
+          "~"
+        ],
+        [
+          "no-mode-by-style-interaction-vr-gains",
+          "+"
+        ],
+        [
+          "guided-vr-no-learning-style-difference",
+          "+"
+        ],
+        [
+          "assimilators-gain-most-vr-guided-exploration",
+          "+"
+        ],
+        [
+          "accommodators-gain-most-vr-guided-exploration",
+          "+"
+        ],
+        [
+          "learning-style-no-correlation-pictorial-elucidation-effect",
+          "+"
+        ],
+        [
+          "learner-profiles-no-moderation-adaptive-its",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

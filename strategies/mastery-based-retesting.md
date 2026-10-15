@@ -12,7 +12,7 @@ generated:
 # Mastery Based Retesting
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 6 studies (4 quant-synthesis, 1 causal, 1 review), `q2`–`q4` · 3 of 6 report an effect size
+> **Evidence** · 2 claims (1 for, 1 mixed) · 8 studies (5 quant-synthesis, 2 causal, 1 review), `q2`–`q4` · 4 of 8 report an effect size
 
 ## Description
 Mastery based retesting structures assessment so that a test is not a terminal verdict but a checkpoint: learners who fall short of a defined standard receive targeted reteaching, then retest on the unmastered material. The recorded score reflects eventual mastery rather than the first attempt, and retests are typically capped, staggered, and paired with a required remediation activity so that retaking is earned through further learning, not repetition alone.
@@ -32,7 +32,7 @@ The strategy operationalizes Bloom's "learning for mastery" model: with adequate
 #### Constraints
 - Retesting without substantive remediation produces score inflation, not learning — learners retest on short-term memory of corrected answers [Formative assessment improves achievement when feedback drives instructional adjustment.](../claims/assessment-for-learning-improves-achievement.md) [-M]
 - Time costs are real: mastery pacing slows the whole class when implemented uniformly, and the benefit shrinks in lockstep curricula where later units depend on everyone moving together [Mastery learning effects diminish when instructional time is held fixed for all learners.](../claims/assessment-for-learning-improves-achievement.md) [~M]
-- Unlimited low-stakes retests can erode the desirable difficulty of first attempts; learners may under-prepare knowing a retry is available [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [~W]
+- Unlimited low-stakes retests can erode the desirable difficulty of first attempts; learners may under-prepare knowing a retry is available [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [~W]
 - Poorly specified standards make "mastery" arbitrary, inviting grade negotiation rather than learning
 
 #### Implementation Variability
@@ -57,7 +57,7 @@ The strategy operationalizes Bloom's "learning for mastery" model: with adequate
 3. Return objective-level feedback identifying what was missed and why.
 4. Require remediation tied to missed objectives — targeted [Practice](../elements/application.md), reteaching, or peer explanation — before a retest is unlocked.
 5. Administer a parallel-form retest on missed objectives only; replace the earlier score.
-6. Cap retests (typically one or two per unit) and set a window, so preparation effort stays distributed across the term [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+6. Cap retests (typically one or two per unit) and set a window, so preparation effort stays distributed across the term [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ## Related Strategies
 

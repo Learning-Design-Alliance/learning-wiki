@@ -60,8 +60,9 @@ Planned gain contrasts on the seven SRL questionnaire subscales. "Group TD showe
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](reflective-practice-evidence-mixed-in-professional-education.md) — the general claim this finding bears on, with the studies behind it
 - [Self Regulated Learning Strategy Instruction Improves Achievement](self-regulated-learning-improves-achievement.md)
 - [A daily learning diary alone (Group D) did not produce statistically significant pre-post gains on any measured outcome in an online mathematics preparation course](learning-diary-alone-no-significant-srl-gains-online-math-prep-course.md) — related
 - [Adding small peer feedback groups to web-based SRL training and a diary (Group TDP) produced statistically significant gains in SRL knowledge, the SRL overall score, self-efficacy and the mathematics focus score, the last of which Group TD did not show](peer-feedback-groups-added-to-web-based-srl-training-raise-srl-self-efficacy-and-math-focus-score.md) — related

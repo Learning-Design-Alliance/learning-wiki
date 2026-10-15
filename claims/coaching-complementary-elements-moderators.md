@@ -58,8 +58,22 @@ Same exploratory meta-analytic regression of design features on pooled effect si
 
 > "pairing coaching with instructional resources and materials (e.g., curriculum) also is associated with greater gains (0.21 SD larger), while providing teachers with a video library is associated with more limited benefits (-0.27 SD smaller)."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Which features of a coaching programme go with larger effects: what it is paired with, its dose, its scale, its target or its mode?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **4 distinct studies** (2 review, 1 quant-synthesis, 1 qualitative), `q2`, 0 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Kraft 2018](https://doi.org/10.3102/0034654318759268) | q2 · quant-synthesis · r2 | i? | this claim; [Coaching dosage shows precisely estimated null effects: more coaching hours are not associ](coaching-dosage-null-effect.md) (qualifies); [Coaching program effects shrink substantially at scale: effectiveness trials of larger pro](coaching-scale-up-diminishing-effects.md) (qualifies) |
+| Carmouche 2018 | q2 · review · r3 | i? | [Research quality and outcome durability were highest when coaching targeted fidelity of sp](coaching-academic-task-fidelity-higher-quality.md) (qualifies) |
+| [Schachner 2024](https://doi.org/10.54300/984.909) | q2 · qualitative · r2 | i? | [Coaching can be effective in all delivery modes: face-to-face, distance, and a combination](coaching-effective-all-delivery-modes.md) (qualifies) |
+| Tina Ehsanipour & Florencia Gomez Zaccarelli 2017 | q2 · review · r3 | i? | [Professional development needs roughly 50 hours in a specific area, and long-term content-](fifty-hours-content-specific-pd.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
-
 ## Related Claims
+
+- [Teacher coaching programs improve teachers' instructional practice by a pooled 0.49 SD across 43 causal studies](coaching-pooled-instruction-effect-0-49-sd.md) — the general claim this finding bears on, with the studies behind it
 -

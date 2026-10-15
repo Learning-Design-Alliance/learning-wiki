@@ -12,14 +12,14 @@ generated:
 # High Frequency Word Lists
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 against) · 10 studies (3 causal, 3 quant-synthesis, 3 review, 1 theoretical), `q1`–`q4` · 2 of 10 report an effect size
+> **Evidence** · 4 claims (3 for, 1 against) · 12 studies (4 causal, 4 quant-synthesis, 3 review, 1 theoretical), `q1`–`q4` · 3 of 12 report an effect size
 
 ## Description
 High-frequency word lists (e.g., the Dolch list of 220 service words and the Fry list of the 1,000 most common English words) are collections of the words that account for the majority of running text — the first 100 Fry words alone cover roughly half of all written material. They are taught so learners can recognize these words instantly by sight, freeing attentional resources for decoding unfamiliar words and comprehending text. Many high-frequency words are phonetically irregular (e.g., *said*, *was*, *of*), so instruction combines orthographic mapping with repeated exposure rather than pure rote memorization.
 
 ## Design Implications
 
-Automatic recognition of high-frequency words reduces the working-memory burden of reading, allowing comprehension processes to operate on meaning rather than word identification [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Words become sight words fastest when learners attend to letter–sound correspondences and spelling patterns, even for irregular words — mapping letters to sounds is more effective than visual memorization of word shapes [Ehri's phases of word reading](https://doi.org/10.1207/s1532799xssr0902_5) [+S]. Practice should be brief, frequent, and spaced rather than massed [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+Automatic recognition of high-frequency words reduces the working-memory burden of reading, allowing comprehension processes to operate on meaning rather than word identification [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Words become sight words fastest when learners attend to letter–sound correspondences and spelling patterns, even for irregular words — mapping letters to sounds is more effective than visual memorization of word shapes [Ehri's phases of word reading](https://doi.org/10.1207/s1532799xssr0902_5) [+S]. Practice should be brief, frequent, and spaced rather than massed [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ### Context
 #### Requirements

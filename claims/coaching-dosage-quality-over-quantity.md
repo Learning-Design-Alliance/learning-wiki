@@ -60,8 +60,9 @@ The review reports that for "more comprehensive coaching," a common theme is gre
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Coaching dosage shows precisely estimated null effects: more coaching hours are not associated with larger program effects](coaching-dosage-null-effect.md) — the general claim this finding bears on, with the studies behind it
 - [Supervisory teacher coaching shows mixed effects, with six of sixteen reviewed studies reporting improved teacher results and four reporting improved student behaviors](supervisory-coaching-mixed-teacher-student-outcomes.md) — related
 - [Too few studies exist to draw robust conclusions on moderating factors (age, gender, screen size, dosage, SAMR-based activities) or on whether benefits persist beyond the post-test](mobile-device-moderators-insufficient-evidence.md) — related
 - [In five scaled early learning coaching systems, coach-to-site ratios averaged about 1 coach per 22 sites, dosage varied widely, and participants perceived benefits in educator satisfaction, practice, and program quality](scaled-coaching-systems-case-study-findings.md) — related

@@ -73,6 +73,12 @@ Ask for three facts when the brief omits them: **what a learner does on a first 
 | The practice set uses widely varied problems | Pair varied problems with worked examples rather than with conventional problem solving | [High variability aids learning from examples but harms learning from problems](../claims/variability-effect-format-interaction.md) [~W] |
 | An AI tutor or retrieval system is meant to supply worked examples | Check that examples are actually delivered; one system included them in about 42% of responses despite a large problem bank | [Worked examples appeared in only about 42% of responses](../claims/algorag-worked-example-retrieval-42-percent.md) [-W] |
 
+## The evidence by question
+
+- *Do novices learn more from studying worked examples than from solving the same problems unaided?* [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+M]
+- *For whom: how does the benefit change with prior knowledge?* [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M]
+- *How should learners move from studying examples to solving problems alone?* [Successively fading out worked solution steps is effective for facilitating the transition from learning from worked examples to problem solving, compared to example-problem pairs](../claims/fading-worked-steps-facilitates-example-to-problem-transition.md) [+M]
+
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-09-30 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
 Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.

@@ -41,7 +41,8 @@ Regression discontinuity estimates from a piecewise multilevel growth model appl
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Redshirted students' early-grade academic advantage over on-time peers fades as students move through school](redshirting-academic-advantage-short-lived.md) — the general claim this finding bears on, with the studies behind it
 - [Being a year older at kindergarten entry leads to higher initial achievement](older-entry-higher-initial-achievement.md) — related
 - [Prior evidence on school entry age lacked causal estimates of growth through early grades](prior-entry-age-evidence-gap.md) — related

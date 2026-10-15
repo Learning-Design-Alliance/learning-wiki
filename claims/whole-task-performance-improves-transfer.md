@@ -44,6 +44,20 @@ van Merriënboer, J. J. G., Kester, L., & Paas, F. (2006). Teaching complex rath
 
 This article presents a training-design approach rather than a new study. Drawing on prior research, it argues that the load-reducing methods that work for practising complex tasks to high retention (low variability, complete guidance and feedback) are the ones that hinder transfer. Its proposal is to pair learning tasks with methods that induce germane load, such as high variability and limited guidance, and, for novices, to lower intrinsic load early in training by reducing the element interactivity of the tasks.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does organising training around whole tasks (4C/ID) produce better learning and transfer than lectures or part- and topic-centred instruction?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **5 distinct studies** (3 theoretical, 2 causal), `q1`–`q3`, 0 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [van Merriënboer et al. 2006](https://doi.org/10.1002/acp.1250) | q2 · theoretical · r? | i? | this claim |
+| [Khan Abdus Salam 2025](https://doi.org/10.7759/cureus.94133) | q2 · causal · r1 | i? | [The 4C/ID group scored higher on consent-taking OSCEs than the lecture group, but the diff](osce-advantage-4cid-not-significant.md) (qualifies); [Lecture-based and 4C/ID-based training produced comparable knowledge retention among emerg](no-knowledge-difference-lecture-vs-4cid-consent-training.md) (qualifies) |
+| M. David Merrill 2007 | q1 · theoretical · r3 | i? | [In one trial, task-centered Entrepreneur course students analyzed a new business as well a](entrepreneur-course-trial-matches-business-majors.md) (supports) |
+| [Pollock et al. 2002](<https://doi.org/10.1016/s0959-4752(01)00016-0>) | q3 · causal · r? | i? | [Part-task practice reduces cognitive load for absolute novices during initial skill acquis](part-task-practice-reduces-load-for-novices.md) (qualifies) |
+| Bill VanPatten 2010 | q1 · theoretical · r3 | i? | [Skill develops through engaging in the target activity itself, not through mechanistic dri](skill-develops-through-engagement-not-drill.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 <!-- deprecated (2026-10-05, overstated its evidence): The effect is strongest when tasks are sequenced from simple-to-complex and include appropriate [scaffolding](../elements/scaffolding.md). -->
 The source proposes lowering intrinsic load early in training for novices, for example by reducing the element interactivity of the tasks; whether that makes whole-task practice work better is not tested by any study recorded here. An experiment comparing whole-task with part-task practice on a transfer measure is what this page still lacks.

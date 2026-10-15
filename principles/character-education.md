@@ -109,6 +109,11 @@ No claim in the wiki tests the integrated, schoolwide form against a separate co
 
 Learners, programmes and outcomes differ across these claims (US elementary schools, twelfth graders, Chicago high schools, universities), so do not rank them by effect label. All programme evidence is from WWC reviews of one or two studies each, against usual practice.
 
+## The evidence by question
+
+- *Do schoolwide character-education programmes change students' behaviour, and do they also move knowledge, attitudes, values and achievement?* [Positive Action has positive effects on elementary school students' behavior, with a WWC domain average effect size of 0.51 and an improvement index of +19 percentile points](../claims/positive-action-positive-effects-behavior.md) [+M]
+- *Does community-based or service learning change civic commitment, attitudes and self-reported growth?* [Service-learning within integrated projects is associated with improvements in students' self-efﬁcacy, self-esteem, social responsibility, and community participation](../claims/service-learning-improves-civic-and-personal-outcomes.md) [+W]
+
 ## Further evidence, not yet read against this model
 
 - [Ten developmental experiences are proposed as key mechanisms whereby settings influence character development](../claims/ten-developmental-experiences-build-character.md) [+W] — a theoretical proposal (opportunities to act and reflect) that matches steps 5 and 8; no test.

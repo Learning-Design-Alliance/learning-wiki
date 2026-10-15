@@ -13,7 +13,7 @@ generated:
 # Self Monitoring Strategies
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (3 for, 2 mixed, 1 against) · 16 studies (8 quant-synthesis, 5 causal, 2 review, 1 theoretical), `q1`–`q4` · 8 of 16 report an effect size
+> **Evidence** · 6 claims (3 for, 2 mixed, 1 against) · 18 studies (9 quant-synthesis, 6 causal, 2 review, 1 theoretical), `q1`–`q4` · 9 of 18 report an effect size
 
 ## Description
 Self monitoring strategies prompt learners to observe and evaluate their own comprehension, performance, or progress against explicit criteria while learning. Typical forms include comprehension checks ("Can I explain this in my own words?"), progress tracking against a rubric or checklist, error logging, and periodic self-questioning during reading or problem solving. Monitoring is the engine of [Self-Regulated Learning](../theories/self-regulated-learning.md): without accurate self-assessment, learners cannot adapt their study strategies or know when to seek help.
@@ -81,7 +81,7 @@ Self monitoring improves learning primarily when it is *accurate* and *criterion
 - Strategy regulation: knowing when to persist, switch approaches, or seek help
 - Long-term retention, via better-timed restudy and [Distributed Practice](distributed-practice.md) decisions
 - Metacognitive skill: accurate self-assessment and study regulation as a transferable capability
-- Retention and exam performance, via better allocation of restudy effort [Practice testing strengthens retention more than rereading.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Retention and exam performance, via better allocation of restudy effort [Practice testing strengthens retention more than rereading.](../claims/spaced-practice-improves-retention.md) [+S]
 - Self-regulated learning dispositions: independence, persistence, ownership of progress
 
 ### Instructions
@@ -240,7 +240,7 @@ Self monitoring only improves learning when the monitoring is *accurate* and whe
 
 ### Target Learning Goals
 - Metacognitive skill: accurate self-assessment and study regulation as a transferable capability
-- Retention and exam performance, via better allocation of restudy effort [Practice testing strengthens retention more than rereading.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Retention and exam performance, via better allocation of restudy effort [Practice testing strengthens retention more than rereading.](../claims/spaced-practice-improves-retention.md) [+S]
 - Self-regulated learning dispositions: independence, persistence, ownership of progress
 
 ### Instructions

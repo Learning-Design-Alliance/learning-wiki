@@ -60,15 +60,16 @@ Same factorial experiment, follow-up within the higher-prior-knowledge group: th
 
 ## Discussion
 
-
 ## Learner Variables
 - [Prior Knowledge](../learner-variables/prior-knowledge.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Fading support promotes the transfer of responsibility from instructor to learner.](fading-support-promotes-transfer-of-responsibility.md) — the general claim this finding bears on, with the studies behind it
 - [Worked Examples Expertise Reversal](worked-examples-less-effective-with-expertise.md)
 - [Expertise Reversal Effect](expertise-reversal-effect.md)
 - [High- and low-prior-knowledge learners differ significantly on an algebra posttest and on intrinsic and germane cognitive load, but not on extraneous load](high-and-low-prior-knowledge-learners-differ-in-posttest-intrinsic-and-germane-load.md) — related
 - [Prior knowledge, worked-example type (full vs completion) and task difficulty show a significant three-way interaction on an algebra posttest, but not on self-reported cognitive load](prior-knowledge-worked-example-task-difficulty-three-way-interaction-on-algebra-posttest.md) — related
-- [Worked examples improve mathematics performance, especially for novices.](worked-examples-improve-math-performance.md) — related
+- [Studying worked examples improves novices' algebra performance on problems with the same structure as the examples](worked-examples-improve-math-performance.md) — related
 - [Higher extraneous cognitive load predicted lower post-test scores after controlling for prior knowledge](extraneous-load-predicts-lower-post-test.md) — related
 - [The effectiveness of instructional techniques and procedures interacts with levels of learner prior knowledge, a pattern known as the expertise reversal effect](expertise-reversal-prior-knowledge-interaction.md) — a broader claim this one bears on

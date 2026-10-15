@@ -12,14 +12,14 @@ generated:
 # Interactive Note Taking
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (5 for, 1 mixed, 1 against) · 23 studies (10 causal, 9 quant-synthesis, 3 review, 1 theoretical), `q2`–`q4` · 8 of 23 report an effect size
+> **Evidence** · 7 claims (5 for, 1 mixed, 1 against) · 25 studies (11 causal, 10 quant-synthesis, 3 review, 1 theoretical), `q2`–`q4` · 9 of 25 report an effect size
 
 ## Description
 Interactive note taking asks learners to do generative work on incoming content while recording it — summarizing, paraphrasing, questioning, diagramming, or connecting to prior knowledge — instead of copying it verbatim. The instructor structures this activity through prompts, templates, pauses for elaboration, or guided formats such as two-column notes. The core mechanism is that the note-taking act itself becomes a learning event, not just a storage event.
 
 ## Design Implications
 
-Note taking supports learning only when it induces generative processing; verbatim transcription produces the illusion of engagement with little encoding [~M]. Structured interactive formats — summarizing in one's own words, drawing concept diagrams, generating questions — consistently outperform verbatim capture because they force learners to select, organize, and integrate information [Chi & Wylie's ICAP framework predicts deeper learning from constructive over passive engagement.](../claims/active-learning-improves-exam-performance.md) [+S]. Interactive notes also function as retrieval cues for later study, so their value compounds when learners revisit and elaborate them across sessions [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+Note taking supports learning only when it induces generative processing; verbatim transcription produces the illusion of engagement with little encoding [~M]. Structured interactive formats — summarizing in one's own words, drawing concept diagrams, generating questions — consistently outperform verbatim capture because they force learners to select, organize, and integrate information [Chi & Wylie's ICAP framework predicts deeper learning from constructive over passive engagement.](../claims/active-learning-improves-exam-performance.md) [+S]. Interactive notes also function as retrieval cues for later study, so their value compounds when learners revisit and elaborate them across sessions [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ### Context
 #### Requirements
@@ -49,7 +49,7 @@ Note taking supports learning only when it induces generative processing; verbat
 ### Target Learning Goals
 - Conceptual understanding: paraphrasing and diagramming force integration rather than surface capture
 - Knowledge organization: notes as a personal concept map of the domain [Concept mapping improves learning.](../claims/concept-mapping-improves-learning.md) [+M]
-- Study-skill and self-regulation development: notes become artifacts for later retrieval practice [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Study-skill and self-regulation development: notes become artifacts for later retrieval practice [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 
 ### Instructions
 1. Provide a purpose and structure before presenting: a skeleton, organizer, or prompt set ([Advance Organizers](../elements/advance-organizers.md)).

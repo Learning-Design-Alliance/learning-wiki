@@ -47,5 +47,5 @@ The paper reports evaluations of parent education initiatives within ECD program
 - [The paper argues experiential training of early childhood workers is likely to produce reflective, creative caregivers and children who learn better](experiential-training-ecd-workers-better-child-outcomes.md) — related
 - [Parent Coaching Outperforms Information Only](parent-coaching-outperforms-information-only.md) — related
 - [Parent Implemented Intervention Improves Outcomes](parent-implemented-intervention-improves-outcomes.md) — related
-- [Parent Involvement Improves Achievement](parent-involvement-improves-achievement.md) — related
+- [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](parent-involvement-improves-achievement.md) — related
 - [FEIP was associated with improvements in professionals' knowledge and skills related to family engagement practice](feip-professional-knowledge-skills-improvements.md) — related

@@ -3,7 +3,7 @@ type: claim
 title: Consortium-wide, 35 percent of participants completed a grant-funded program of study, with high employment rates and wage growth above the national average
 description: Consortium-wide, 35 percent of participants completed a grant-funded program of study, with high employment rates and wage growth above the national average
 id: cbe-participants-completion-employment-wages
-aliases: [cbe-consortium-35-percent-completion-high-employment-wage-growth]
+aliases: [cbe-consortium-35-percent-completion-high-employment-wage-growth, taaccct-cbe-35-percent-program-completion, taaccct-cbe-employment-wages-growth]
 status: draft
 generated:
   by: "process:wiki-ingest"
@@ -42,6 +42,10 @@ sources:
 
 `q2 i?` Employment rates started and remained high, and wages for employed participants increased after program enrollment at a higher rate than the national average. [→ Ann Person 2016](#ann-person-2016)
 
+`q2 i?` Consortium-wide, 35 percent of participants completed a grant-funded program of study, including IT industry certification preparatory courses, college certificates, and associate's degrees. [→ Person 2016](#person-2016)
+
+`q2 i?` Participants' employment rates started and remained high, and wages for employed participants increased after program enrollment at a higher rate than the national average. [→ Person 2016](#person-2016)
+
 ## Evidence
 
 ### Person 2016
@@ -53,6 +57,30 @@ Person, A. E., Thomas, J., & Goble, L. (2016). Implementation and Outcomes of Co
 Evaluation of participant outcomes across the three-college consortium reports that "35 percent of participants completed a grant-funded program of study" and that wages for employed participants grew faster than the national average. No effect size is printed.
 
 > "Consortium-wide, 35 percent of participants completed a grant-funded program of study; their employment rates started and remained high, and wages for employed participants increased after program enrollment at a higher rate than the national average."
+
+<!-- merged 2026-10-15 from taaccct-cbe-35-percent-program-completion: that page's entry for this study, which differed from the one above, kept verbatim.
+### Person 2016
+
+Person, A. E., Thomas, J., Bruch, J., Johann, A., & Maestas, N. (2016). Outcomes of Competency-Based Education in Community Colleges: Summative Findings from the Evaluation of a TAACCCT Grant. Oakland, CA: Mathematica Policy Research. https://www.mathematica.org/publications/outcomes-of-competencybased-education-in-community-colleges-summative-findings-from-the-evaluation
+
+`q2 · i?` · `associational · r?`
+
+Summative evaluation of a TAACCCT grant consortium of three community colleges offering online competency-based IT programs. The report's key findings state that "35 percent of participants completed a grant-funded program of study." No effect size is printed.
+
+> "Consortium-wide, 35 percent of participants completed a grant-funded program of study, including IT industry certification preparatory courses, college certificates, and associate's degrees."
+-->
+
+<!-- merged 2026-10-15 from taaccct-cbe-employment-wages-growth: that page's entry for this study, which differed from the one above, kept verbatim.
+### Person 2016
+
+Person, A. E., Thomas, J., Bruch, J., Johann, A., & Maestas, N. (2016). Outcomes of Competency-Based Education in Community Colleges: Summative Findings from the Evaluation of a TAACCCT Grant. Oakland, CA: Mathematica Policy Research. https://www.mathematica.org/publications/outcomes-of-competencybased-education-in-community-colleges-summative-findings-from-the-evaluation
+
+`q2 · i?` · `associational · r?`
+
+Descriptive employment and earnings analysis reported in the evaluation's key findings. The report states wages "increased after program enrollment at a higher rate than the national average." No effect size or wage statistic is printed in the supplied text.
+
+> "Participants' employment rates started and remained high, and wages for employed participants increased after program enrollment at a higher rate than the national average."
+-->
 
 ### Ann Person 2016
 
@@ -71,9 +99,9 @@ Key findings of an evaluation of a community college CBE consortium under the Ha
 ## Related Claims
 
 - [A three-college consortium successfully implemented online competency-based programs as planned, meeting most implementation milestones and outcome targets](cbe-consortium-implemented-programs-as-planned.md) — a broader claim this one bears on
-- [Differences in credential completion rates between CBE participants and nonparticipants varied by college, possibly reflecting unobservable group differences](cbe-credential-completion-varied-by-college-unobservable-differences.md) — related
-- [About 35 percent of consortium participants completed a grant-funded program of study, including certifications, certificates, and degrees](taaccct-cbe-35-percent-program-completion.md) — possibly the same claim (merge candidate)
-- [Participants' employment rates started and remained high, and wages for employed participants grew faster than the national average after enrollment](taaccct-cbe-employment-wages-growth.md) — related
+- [Differences in credential completion rates between CBE participants and nonparticipants varied by college, possibly reflecting unobservable group differences](cbe-gatekeeper-completion-lower-than-comparison.md) — related
 - [More than four-fifths of 2015 LINCS certification track course completers in five consortium colleges were employed within three quarters after the course, with average quarterly earnings of nearly $7,400](lincs-completers-employment-earnings-2015.md) — related
 - [A consortium led by Sinclair Community College implemented competency-based information technology programs in three community colleges, documented at or near baseline](sinclair-consortium-competency-based-it-programs-baseline.md) — related
-- [Gatekeeper course completion rates were slightly lower for CBE participants than for comparison students, and credential completion differences varied by college](cbe-gatekeeper-completion-lower-than-comparison.md) — related
+- [CBE participants completed programs quickly, averaging less than two terms to a first industry certification course and about four terms to certificates and degrees](cbe-fast-completion-two-terms-certification-four-terms-credentials.md) — related
+- [The study examines student participation mix, program issues, and certification and other outcomes](it-certification-participants-issues-outcomes.md) — a broader claim this one bears on
+- [Career coaching participants showed increased employment rates and earnings after participating in coaching activities](coaching-associated-employment-earnings-gains.md) — related

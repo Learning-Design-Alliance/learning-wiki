@@ -41,7 +41,8 @@ Narrative synthesis of British cognitive-oriented empirical history education re
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Disciplinary Literacy Instruction Improves Comprehension](disciplinary-literacy-instruction-improves-comprehension.md) — the general claim this finding bears on, with the studies behind it
 - [Empirical progression research is uneven across historical thinking dimensions: most research covers causal reasoning and sourcing, while contextualization and comparison remain thin](uneven-progression-research-across-dimensions.md) — related
 - [Dimensions of historical thinking are conceptually decoupled: sophistication in one second-order concept does not imply sophistication in another](historical-thinking-dimensions-conceptually-decoupled.md) — related

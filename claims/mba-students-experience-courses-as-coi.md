@@ -41,8 +41,9 @@ Descriptive analysis of the validated 34-item CoI Survey completed by 21 MBA stu
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Social presence shows the strongest association with metacognition in an online case-based course, while teaching presence shows no significant relationship](social-presence-strongest-metacognition-association-cbi.md) — the general claim this finding bears on, with the studies behind it
 - [In an online case-based course, students perceive cognitive presence as highest and least variable, and teaching presence as the most variable, among the CoI presences and metacognition dimensions](cognitive-presence-highest-least-variable-online-cbi.md) — related
 - [CoI survey ratings reveal uneven presence profiles: course organization and exploration rated highest while facilitation behaviors and resolution-phase items rated below 4.0](coi-presence-uneven-profile-mba.md) — related
 - [A program-wide standard online course template heightens teaching presence and supports learner intentions in accelerated online courses](course-template-supports-learner-presence.md) — related

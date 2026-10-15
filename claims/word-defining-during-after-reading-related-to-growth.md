@@ -45,4 +45,4 @@ The report's Key Findings section lists this practice among those most consisten
 ## Related Claims
 - [Focusing students' attention on the meaning of a text before reading, such as introducing the topic and encouraging predictions, is among the practices most consistently related to student growth](pre-reading-meaning-focus-related-to-growth.md) — related
 - [Helping students make connections between prior knowledge and the texts they read is among the practices most consistently related to student growth](prior-knowledge-text-connections-related-to-growth.md) — related
-- [Incidental Vocabulary Exposure Limited](incidental-vocabulary-exposure-limited.md) — related
+- [Incidental vocabulary exposure produces reliable learning, but learners pick up only a small share of the unknown words they meet](incidental-vocabulary-exposure-limited.md) — related

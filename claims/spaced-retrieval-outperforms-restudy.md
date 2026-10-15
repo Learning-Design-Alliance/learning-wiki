@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Spaced Retrieval Outperforms Restudy
+title: Spacing out retrieval practice produces better long-term retention than massing it
 status: draft
 generated:
   by: claude/unspecified
@@ -19,10 +19,12 @@ sources:
     rigour: "?"
 ---
 
-# Spaced Retrieval Outperforms Restudy
+# Spacing out retrieval practice produces better long-term retention than massing it
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i2` medium · n=39 effect sizes (subset 1)
+
+<!-- title before 2026-10-15: Spaced Retrieval Outperforms Restudy -->
 
 Retrieving information from memory at spaced intervals produces stronger, longer-lasting retention than re-reading or restudying the same material. The claim concerns the *interaction* of spacing and retrieval — not either effect alone.
 
@@ -44,7 +46,7 @@ Meta-analysis of 29 studies on spaced retrieval practice, split into two subsets
 
 **Why the combination matters.** Spacing and retrieval are each powerful individually, but the claim here concerns their interaction: retrieval attempts spaced over time force effortful reconstruction of memory at successive points, which is theorized to strengthen retrieval routes more than passive restudy at either spaced or massed intervals. The mechanism is usually framed in terms of [information processing theory](../theories/information-processing-theory.md) — successful retrieval modifies the memory trace in ways restudy does not — and relates to working-memory constraints described in [chunking reduces working memory load](chunking-reduces-working-memory-load.md).
 
-**Boundary conditions to expect.** The literature on this claim generally indicates the advantage depends on successful or near-successful retrieval: if learners cannot retrieve anything, a retrieval attempt may add little or even entrench errors [-M], and very long spacing intervals can make retrieval so difficult that it fails [-M]. Feedback after retrieval attempts is typically treated as a moderator — see [feedback improves learning](../claims/feedback-improves-learning.md) for the general case. These conditions should be documented here once evidence entries are added.
+**Boundary conditions to expect.** The literature on this claim generally indicates the advantage depends on successful or near-successful retrieval: if learners cannot retrieve anything, a retrieval attempt may add little or even entrench errors [-M], and very long spacing intervals can make retrieval so difficult that it fails [-M]. Feedback after retrieval attempts is typically treated as a moderator — see [feedback improves learning](../claims/feedback-improves-learning.md) for the general case. The one entry on this page does not test these conditions.
 
 **Open questions.** Optimal spacing intervals relative to the retention interval, durability of the effect beyond laboratory materials, and how the effect interacts with learner expertise all remain to be specified with cited evidence on this page. The expertise question parallels the [expertise reversal effect](../theories/expertise-reversal-effect.md): retrieval demands that benefit novices may impose unnecessary load on advanced learners [~M], and the [cognitive overload degrades learning](cognitive-overload-degrades-learning.md) page describes the general failure mode when task difficulty exceeds available capacity.
 
@@ -58,6 +60,6 @@ Meta-analysis of 29 studies on spaced retrieval practice, split into two subsets
 - [Feedback improves learning](../claims/feedback-improves-learning.md) — feedback after retrieval attempts is a key moderator of whether errors are corrected or entrenched
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — retrieval demands that help novices may become counterproductive for advanced learners
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — related
-- [Desirable Difficulties Enhance Learning](desirable-difficulties-enhance-learning.md) — related
+- [Retrieval practice and spaced retrieval improve achievement and retention by medium amounts, while interleaving helps category learning only for some materials and blocking beats it for words](desirable-difficulties-enhance-learning.md) — related
 - [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — related
 - [Spacing content over time and interweaving different content strengthens learning and retention](spacing-interleaving-improve-retention.md) — related

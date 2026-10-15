@@ -1,0 +1,104 @@
+{
+  "principle": "patterns/concept-attainment",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read. No claim tests concept attainment itself; the findings are the neighbouring tests the page carries over.",
+  "findings": [
+    {
+      "hub": "analogical-reasoning-improves-transfer",
+      "question": "Does comparing analogous cases improve transfer more than studying cases one at a time?",
+      "members": [
+        [
+          "comparing-contrasting-cases-improves-learning",
+          "~"
+        ],
+        [
+          "cognitive-flexibility-theory-multiple-cases",
+          "~"
+        ],
+        [
+          "method-approach-effect-sizes-vary-analogy-largest",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "interleaving-improves-inductive-learning",
+      "question": "Should labelled examples of confusable categories be mixed or presented one category at a time, and for which material?",
+      "members": [
+        [
+          "interleaving-improves-discrimination",
+          "+"
+        ],
+        [
+          "interleaving-transfer-benefit-meta-analysis",
+          "+"
+        ],
+        [
+          "interleaving-strongest-for-paintings-visual-materials",
+          "+"
+        ],
+        [
+          "interleaving-limited-for-math-texts-and-words",
+          "~"
+        ],
+        [
+          "interleaving-similarity-boundary-condition",
+          "~"
+        ],
+        [
+          "interleaving-rule-based-learning-boundary",
+          "~"
+        ],
+        [
+          "interleaved-practice-higher-math-test-scores",
+          "+"
+        ],
+        [
+          "interleaving-benefit-persists-thirty-days",
+          "+"
+        ],
+        [
+          "spaced-interleaved-homework-practice",
+          "+"
+        ],
+        [
+          "interleaving-null-moderators-retention-test-presentation",
+          "~"
+        ],
+        [
+          "interleaving-larger-in-university-student-samples",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "minimal-guidance-less-effective-for-novices",
+      "question": "Should novices be left to discover the target content without support?",
+      "members": [
+        [
+          "enhanced-discovery-beats-other-instruction",
+          "+"
+        ],
+        [
+          "age-moderates-discovery-effects",
+          "~"
+        ],
+        [
+          "guidance-advantage-recedes-with-high-prior-knowledge",
+          "~"
+        ],
+        [
+          "minimal-guidance-inquiry-inferior-explicit-instruction",
+          "+"
+        ],
+        [
+          "worked-examples-largest-advantage-over-unassisted-discovery",
+          "+"
+        ],
+        [
+          "guided-discovery-outperformed-both-extremes",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

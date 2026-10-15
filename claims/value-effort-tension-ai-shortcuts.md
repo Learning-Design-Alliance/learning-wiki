@@ -64,6 +64,6 @@ The same section reports the split in how students acted on their values: seven 
 - [Students who used AI reported feeling less accomplished, with heavier reliance associated with greater loss of satisfaction](ai-use-reduces-accomplishment-intrinsic-value.md) — related
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
 - [Conflicting student and teacher rules for GenAI produce adaptive counter-norms and student calls for teachers to refine assignments rather than impose unenforceable restrictions](genai-rule-conflicts-counter-norms-assessment.md) — related
-- [How genAI is used, not who uses it, predicts whether independent performance declines or improves](genai-usage-mode-predicts-independent-performance.md) — related
+- [How genAI is used, not who uses it, predicts whether independent performance declines or improves](persistence-costs-concentrated-among-direct-solution-users.md) — related
 - [Students report that GenAI creates an uneven playing field in assessment, favoring students who use it over those who work independently](genai-uneven-playing-field-assessment-fairness.md) — related
 - [Students' generative AI use may function either as a scaffold supporting thinking or as a shortcut bypassing essential cognitive processes](ai-scaffold-or-shortcut-pathways.md) — related

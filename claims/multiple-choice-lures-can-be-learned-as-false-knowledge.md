@@ -62,6 +62,8 @@ The chapter reports Marsh et al. (2009), with college students answering SAT II 
 
 ## Related Claims
 
+- [In one experiment with 256 undergraduates, computer-based lesson versions that included practice produced significantly higher posttest scores than versions without practice](practice-presence-raises-cbi-posttest-achievement.md) — the general claim this finding bears on, with the studies behind it
+
 - [Feedback Enhances Retrieval Practice](feedback-enhances-retrieval-practice.md) — the general claim this finding bears on, with the studies behind it
 - [Providing feedback after initial multiple-choice tests cut lure intrusions on final short-answer tests roughly in half, with immediate and delayed feedback equally effective](feedback-after-multiple-choice-tests-halves-lure-intrusions.md) — related
 - [Initial short-answer tests outperform initial multiple-choice tests mainly when feedback follows them; without feedback, the higher initial success of multiple-choice tests can favor multiple-choice](feedback-determines-whether-short-answer-retrieval-outperforms-multiple-choice.md) — related

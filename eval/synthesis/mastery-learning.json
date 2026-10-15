@@ -20,7 +20,7 @@
         ],
         [
           "mastery-learning-higher-earned-credit-rates",
-          "+"
+          "~"
         ],
         [
           "personalized-learning-effects-vary-with-fidelity",
@@ -29,6 +29,10 @@
         [
           "cbe-gatekeeper-completion-lower-than-comparison",
           "-"
+        ],
+        [
+          "training-increases-feedback-corrective-loop-time",
+          "~"
         ]
       ]
     },
@@ -69,12 +73,12 @@
           "+"
         ],
         [
-          "mastery-improves-engagement-attrition",
-          "+"
-        ],
-        [
           "learner-paced-beats-system-paced-complex-material",
           "~"
+        ],
+        [
+          "mastery-improves-engagement-attrition",
+          "+"
         ],
         [
           "adaptive-learning-improves-outcomes",
@@ -105,10 +109,6 @@
           "~"
         ],
         [
-          "adaptive-mastery-versus-coverage-tension-null-result",
-          "-"
-        ],
-        [
           "pacing-calendars-standardized-assessments-impediments",
           "~"
         ],
@@ -119,6 +119,10 @@
         [
           "socratic-more-attempts-many-never-reach-mastery",
           "~"
+        ],
+        [
+          "adaptive-mastery-versus-coverage-tension-null-result",
+          "-"
         ]
       ]
     },
@@ -127,12 +131,36 @@
       "question": "Does a pass on the check mean what the criterion says: are the items, cut scores and raters dependable?",
       "members": [
         [
-          "criterion-referenced-tests-measure-mastery-not-relative-standing",
+          "statistical-item-selection-conflicts-criterion-referenced-definition",
+          "+"
+        ],
+        [
+          "dc-lowest-at-score-distribution-peak",
+          "+"
+        ],
+        [
+          "grade-cutoffs-arbitrary-adjacent-scores",
+          "+"
+        ],
+        [
+          "body-of-work-agreement-rates-71-97",
+          "+"
+        ],
+        [
+          "mean-classification-cut-score-method-robust",
           "~"
         ],
         [
-          "statistical-item-selection-conflicts-criterion-referenced-definition",
-          "+"
+          "cohens-kappa-paradox-decision-consistency",
+          "~"
+        ],
+        [
+          "dc-methods-similar-normal-distributions",
+          "~"
+        ],
+        [
+          "criterion-referenced-tests-measure-mastery-not-relative-standing",
+          "~"
         ],
         [
           "raters-differed-severity-mfrm",
@@ -147,16 +175,28 @@
           "~"
         ],
         [
-          "mean-classification-cut-score-method-robust",
-          "~"
-        ],
-        [
           "adaptive-mastery-testing-reduces-length-preserves-decisions",
           "~"
         ],
         [
           "cmi-ela-test-precision-declines-above-40th-percentile",
           "+"
+        ],
+        [
+          "low-inter-rater-agreement-qm-criteria",
+          "+"
+        ],
+        [
+          "vcp-rubric-lacked-calibration-and-clarity",
+          "+"
+        ],
+        [
+          "principal-rater-severity-variation",
+          "~"
+        ],
+        [
+          "rasch-infit-rater-selection-increases-reliability",
+          "~"
         ]
       ]
     }

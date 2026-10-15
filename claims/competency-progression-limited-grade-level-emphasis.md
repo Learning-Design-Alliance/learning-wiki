@@ -41,6 +41,7 @@ Implementation analysis across the 32 NGLC schools drawing on administrator inte
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Gatekeeper course completion rates were slightly lower for CBE participants than for comparison students, and credential completion differences varied by college](cbe-gatekeeper-completion-lower-than-comparison.md) — the general claim this finding bears on, with the studies behind it
 -

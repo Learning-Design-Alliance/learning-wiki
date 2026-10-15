@@ -119,6 +119,12 @@ No claim tests engagement as a design principle, and none shows that raising eng
 
 Learners, settings and outcomes differ across these claims (middle-school classrooms, students with disabilities, college laboratories, university courses), and most report no standardised effect size, so do not rank them. None measures whether engagement raised by these conditions lasts beyond a few weeks, and none tests the second link directly.
 
+## The evidence by question
+
+- *Does a warm, personal contact with the teacher go with, or raise, students' engagement?* [Positive teacher–student relationships are associated with greater student engagement and, more weakly, with achievement](../claims/teacher-student-relationships-improve-engagement.md) [+M]
+- *Do rewards and praise undermine voluntary engagement?* [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](../claims/rewards-undermine-intrinsic-motivation.md) [~S]
+- *Does making material more interesting with details that do not carry the target cost learning?* [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [-M]
+
 ## Further evidence, not yet read against this model
 <!-- Added 2026-10-05: duplicates of core claims and a neighbour found while writing this page. Markers are capped by each claim's recorded evidence (strength_cap). None has been re-read for the conditional model above. -->
 Claims that bear on the relationship but are not part of the model above.

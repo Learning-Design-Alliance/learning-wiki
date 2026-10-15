@@ -40,7 +40,7 @@ Locke, E. A., & Latham, G. P. (2002). Building a practically useful theory of go
 
 `q2 · narrative review: theoretical synthesis` · `i? · no source text available to check; the entry prints no effect size` · `n=N/A` · `review · r?`
 
-A definitive summary of 35 years of research on goal-setting theory. The authors provide overwhelming evidence that specific, difficult goals consistently outperform vague or easy goals by directing attention, mobilizing effort, and increasing persistence.
+A narrative summary of 35 years of research on goal-setting theory. The authors argue that specific, difficult goals consistently outperform vague or easy goals by directing attention, mobilizing effort, and increasing persistence. <!-- 2026-10-15: earlier wording, "A definitive summary ... The authors provide overwhelming evidence that", was this entry's own characterisation, not a reading of the source (no source text was available to check). -->
 
 ## Discussion
 Goal setting is most effective when accompanied by feedback, as feedback allows learners to monitor their progress and adjust their strategies.

@@ -29,7 +29,7 @@ grain_size: lesson
 # Formative Assessment
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 28 claims (13 for, 14 mixed, 1 unmarked) · 40 studies (12 quant-synthesis, 11 causal, 6 review, 5 qualitative, 3 theoretical, 2 associational, 1 design), `q1`–`q4` · 16 of 40 report an effect size · 15 claims rest on one study
+> **Evidence** · 28 claims (13 for, 14 mixed, 1 unmarked) · 39 studies (12 quant-synthesis, 10 causal, 6 review, 5 qualitative, 3 theoretical, 2 associational, 1 design), `q1`–`q4` · 15 of 39 report an effect size · 17 claims rest on one study
 
 ## Description
 
@@ -84,6 +84,12 @@ Ask for four facts when the brief omits them: **the length of the cycle (minutes
 | One-to-one tutoring | Make each next hint depend on the last response, and let the tutor see the learner's work as it happens | [Contingent scaffolding improves learning](../claims/contingent-scaffolding-improves-learning.md) [+M]; [Teachers changed lessons in response to formative information](../claims/tefa-formative-information-changed-lessons.md) [~W] |
 | Teachers lack time to give feedback (many students, three-dimensional tasks) | Choose fewer, aligned checks that each feed a planned decision, and share the reading with peers or software | [OpenSciEd formative practice limited by grading and time](../claims/openscied-formative-assessment-feasibility-challenges.md) [~W]; [Faculty time limits targeted formative feedback](../claims/formative-feedback-constraints-gateway-math.md) [~W] |
 | The check is meant to happen several times within one lesson | Decide the in-lesson frequency locally and record what changed after each check | untested proposal |
+
+## The evidence by question
+
+- *Does using assessment evidence during instruction raise achievement compared with the usual teaching?* [Assessment for learning improves achievement](../claims/assessment-for-learning-improves-achievement.md) [+M]
+- *What should the feedback after a check say, and who or what should give it?* [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance](../claims/feedback-improves-learning.md) [+M]
+- *Should learners assess their own work, and can their self-ratings be trusted?* [Self Assessment Improves Self Regulated Learning](../claims/self-assessment-improves-self-regulated-learning.md) [+M]
 
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-09-30 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->

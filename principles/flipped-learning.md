@@ -19,7 +19,7 @@ sources:
 # Flipped Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 23 claims (11 for, 11 mixed, 1 against) · 26 studies (8 causal, 7 review, 6 quant-synthesis, 2 associational, 2 theoretical, 1 qualitative), `q1`–`q4` · 8 of 26 report an effect size · 18 claims rest on one study
+> **Evidence** · 24 claims (12 for, 11 mixed, 1 against) · 27 studies (8 causal, 7 quant-synthesis, 7 review, 2 associational, 2 theoretical, 1 qualitative), `q1`–`q4` · 9 of 27 report an effect size · 19 claims rest on one study
 
 ## Conditional relationship
 
@@ -109,6 +109,11 @@ No claim in the wiki compares a flipped course with the same course unflipped. T
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]: carried to preparation. Two theoretical syntheses describe self-monitoring against a goal as a central process in self-regulated learning; no study of preparation for flipped classes is recorded.
 
 Learners, settings and outcomes differ across these claims (undergraduate STEM courses, one calculus class pair, laboratory passages, children with a tutor), so do not rank them by effect label. None measures delayed retention after a flipped course.
+
+## The evidence by question
+
+- *Does a flipped course raise academic performance over the same course taught by lecture?* [Flipped classroom learning improves academic performance of undergraduate health professional students compared with traditional class learning (SMD = 0.57), at low certainty of evidence](../claims/flipped-classroom-improves-academic-performance-hpe.md) [+M]
+- *Does what is done in the live session change what a flipped course achieves?* [Peer-teaching flipped classroom students show higher calculus conceptual understanding than conventional flipped classroom students after controlling for pretest](../claims/ptfc-beats-cfc-conceptual-understanding.md) [+M]
 
 ## Further evidence, not yet read against this model
 

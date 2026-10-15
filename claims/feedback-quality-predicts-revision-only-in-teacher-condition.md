@@ -14,7 +14,7 @@ sources:
     title: "Farrokhnia, M., Latifi, S., Papadopoulos, P. M., Hogenkamp, L., Gijlers, H., Khosravi, H., & Noroozi, O. (2026). Generative AI offers more, but students revise less: comparing the effects of teacher and AI feedback on student essay revisions. International Journal of Educational Technology in Higher Education. https://doi.org/10.1186/s41239-026-00579-9"
     author: "Farrokhnia, M., Latifi, S., Papadopoulos, P. M., Hogenkamp, L., Gijlers, H., Khosravi, H., & Noroozi, O."
     q: 3
-    i: 3
+    i: "?"
     kind: causal
     rigour: 2
   - id: farrokhnia-2026-2
@@ -38,10 +38,10 @@ sources:
 # Feedback quality predicts revision outcomes in the teacher condition but not in the GenAI conditions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · causal `r2` · `q3` · `i3` large
+> **Evidence** · 1 study (3 entries) · causal `r2` · `q3`
 
 ## Subclaims
-`q3 i3` In the teacher condition, feedback quality significantly predicted revised draft quality (β = .53). [→ Farrokhnia 2026](#farrokhnia-2026)
+`q3 i?` In the teacher condition, feedback quality significantly predicted revised draft quality (β = .53). [→ Farrokhnia 2026](#farrokhnia-2026)
 `q3 i?` In the Zero-shot condition, feedback quality did not significantly predict revised draft quality. [→ Farrokhnia 2026 (2)](#farrokhnia-2026-2)
 `q3 i?` In the CoT condition, feedback quality showed a small non-significant negative coefficient for revised draft quality. [→ Farrokhnia 2026 (3)](#farrokhnia-2026-3)
 
@@ -51,7 +51,7 @@ sources:
 
 Farrokhnia, M., Latifi, S., Papadopoulos, P. M., Hogenkamp, L., Gijlers, H., Khosravi, H., & Noroozi, O. (2026). Generative AI offers more, but students revise less: comparing the effects of teacher and AI feedback on student essay revisions. International Journal of Educational Technology in Higher Education. https://doi.org/10.1186/s41239-026-00579-9
 
-`q3 · i3` · `causal · r2`
+`q3 · i? · printed figures are a regression coefficient (B = 0.57, β = .53) and model R², not a d-family effect size` · `causal · r2`
 
 Multiple regression in the teacher condition (model F(2, 21) = 9.53, p = .001, R2 = .47) found feedback quality significantly predicted revised draft quality, with "revised draft quality increased by 0.57 points" per feedback-quality point (β = .53).
 
@@ -79,8 +79,9 @@ Multiple regression in the CoT condition (model F(2, 19) = 8.80, p = .002, R2 = 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance](feedback-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Students' argumentative essay quality improves substantially from initial to revised drafts regardless of feedback source](essay-quality-improves-from-initial-to-revised.md) — related
 - [GenAI feedback quality correlates with initial essay quality while teacher feedback quality does not](genai-feedback-quality-tracks-initial-essay-quality.md) — related
 - [Feedback source does not significantly affect revised essay quality once initial draft quality is controlled](feedback-source-no-effect-on-revision-outcomes.md) — related

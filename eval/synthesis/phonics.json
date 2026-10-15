@@ -1,0 +1,38 @@
+{
+  "principle": "principles/phonics",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "phonics-instruction-outperforms-whole-word-for-generalization",
+      "question": "Does systematic phonics teaching improve reading more than unsystematic, no or other phonics-light teaching, and for which readers?",
+      "members": [
+        [
+          "structured-literacy-interventions-help-struggling-readers",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "phonemic-awareness-training-improves-reading",
+      "question": "Does training learners to hear and work with the sounds in spoken words, with letters in view, help them learn to read?",
+      "members": [
+        [
+          "pa-pk-improve-decoding-without-decoding-instruction",
+          "+"
+        ],
+        [
+          "phonological-awareness-training-positive-effects-phonological-processing",
+          "+"
+        ],
+        [
+          "alignment-trained-skill-larger-effects-phonological-awareness",
+          "~"
+        ],
+        [
+          "phoneme-awareness-stronger-predictor-than-rhyme",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

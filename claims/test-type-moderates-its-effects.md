@@ -77,6 +77,20 @@ The review attributes this within-study pattern to Koedinger et al. (1997), who 
 
 > "The researchers found large effects on the locally developed tests (mean ES = 0.99) and smaller effects on the standardized ones (mean ES = 0.36)."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does the kind of outcome measure (a researcher-made or aligned test against a standardized one) change the size of the effect a study reports?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **5 distinct studies** (3 quant-synthesis, 2 review), `q2`–`q4`, 1 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Kulik 2016](https://doi.org/10.3102/0034654315581420) | q2 / q4 · quant-synthesis · r3 | i? | this claim |
+| Sarah Herrera 2021 | q3 · quant-synthesis · r2 | i2; i?; i1 | [Language and early writing interventions showed larger effects on researcher-developed tha](researcher-developed-measures-larger-language-effects.md) (qualifies) |
+| [Dawit T. Tiruneh 2014](https://doi.org/10.5539/hes.v4n1p1) | q2 · review · r3 | i? | [The type of CT measure employed (standardized vs. non-standardized; item format) influence](ct-measure-type-influences-effectiveness-evaluation.md) (supports) |
+| What Works Clearinghouse 2006 | q2 · review · r? | i? | [Training effects were larger on outcome measures aligned with the trained skill (blending,](alignment-trained-skill-larger-effects-phonological-awareness.md) (supports) |
+| [Victoria F. Sisk 2018](https://doi.org/10.1177/0956797617739704) | q3 · quant-synthesis · r3 | i? | [Type of achievement measure moderates the correlation only when laboratory measures are ex](achievement-measure-moderator-lab-exclusion.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

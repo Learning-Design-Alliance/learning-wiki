@@ -46,7 +46,7 @@ The paper reports, citing Liu et al.'s randomized experiments, that brief AI-ass
 - [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
 
 ## Related Claims
-- [How genAI is used, not who uses it, predicts whether independent performance declines or improves](genai-usage-mode-predicts-independent-performance.md) — possibly the same claim (merge candidate)
+- [How genAI is used, not who uses it, predicts whether independent performance declines or improves](persistence-costs-concentrated-among-direct-solution-users.md) — possibly the same claim (merge candidate)
 - [AI tools can enhance short-term task performance while undermining durable learning (the learning-performance paradox)](learning-performance-paradox-ai.md) — a broader claim this one bears on
 - [Pre-tests reduced adult learners' persistence in a MOOC, though they improved post-test scores among those who completed it](pretesting-can-harm-motivation.md) — related
 - [Unguarded answer-giving AI harmed unaided exam performance while a guarded version of the same model erased the harm (Bastani et al., 2025, as reported)](gpt4-access-harms-learning-after-withdrawal.md) — related
@@ -56,6 +56,5 @@ The paper reports, citing Liu et al.'s randomized experiments, that brief AI-ass
 - [AI assistance impairs unassisted performance and persistence in reading comprehension, replicating the fraction-task effects in a second domain](ai-assistance-impairs-reading-comprehension-exp3.md) — related
 - [In a randomized experiment on fraction problems, participants who used an AI assistant solved fewer unassisted test problems and skipped more than control participants](ai-assistance-impairs-unassisted-fraction-performance-exp1.md) — a narrower finding that bears on this claim
 - [The majority of AI-assisted participants self-report using the AI primarily to get answers directly, a pattern validated against chatlogs](majority-use-ai-for-direct-answers.md) — related
-- [Persistence and performance costs concentrate among participants who used the AI to obtain direct solutions, while hint-users resemble controls](persistence-costs-concentrated-among-direct-solution-users.md) — possibly the same claim (merge candidate)
 - [Among GPT-assisted students, proactive and critical engagement patterns are associated with higher exam scores while limited engagement shows little benefit relative to control](proactive-critical-ai-engagement-higher-exam-scores.md) — related
 - [The article reports observational patterns that AI assistance can improve short-term performance while reducing cognitive engagement and independent capability](ai-assistance-performance-without-internalization.md) — a broader claim this one bears on

@@ -41,6 +41,7 @@ Classroom study by R. M. F. Wong et al. (2002) reported in the monograph's educa
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Learning techniques have much smaller effects on deep learning and far transfer than on surface learning and near transfer](learning-techniques-smaller-effects-on-deep-learning-and-far-transfer.md) — the general claim this finding bears on, with the studies behind it
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](self-explanation-improves-conceptual-understanding.md) — a broader claim this one bears on

@@ -1,0 +1,86 @@
+{
+  "principle": "patterns/traditional-lecture-based-instruction",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "active-learning-improves-exam-performance",
+      "question": "Does replacing part of lecture with active learning raise exam scores and pass rates?",
+      "members": [
+        [
+          "lecturing-increases-stem-failure-rates",
+          "+"
+        ],
+        [
+          "ccct-outperformed-lecture-achievement",
+          "+"
+        ],
+        [
+          "active-learning-courses-retain-lecture-component",
+          "~"
+        ],
+        [
+          "active-learning-conditions-more-other-pedagogical-features",
+          "~"
+        ],
+        [
+          "active-learning-effect-robust-bias-and-rigor",
+          "+"
+        ],
+        [
+          "active-learning-benefits-hold-across-stem-disciplines",
+          "+"
+        ],
+        [
+          "interactive-instruction-positive-achievement-gains-chicago",
+          "+"
+        ],
+        [
+          "ai-tutor-beats-active-learning-post-test",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "discussion-promotes-more-active-thought-than-lecture",
+      "question": "Does class time spent with learners talking, explaining and discussing, rather than listening, change what they think about and understand, and does more talk alone do it?",
+      "members": [
+        [
+          "structured-discussion-methods-improve-comprehension",
+          "~"
+        ],
+        [
+          "discourse-practices-correlate-reasoning-tests",
+          "+"
+        ],
+        [
+          "chatgpt-teachable-agent-knowledge-gains",
+          "+"
+        ],
+        [
+          "active-learning-gains-larger-concept-inventories",
+          "~"
+        ],
+        [
+          "reformed-pedagogy-content-gains-but-no-reasoning-gains",
+          "~"
+        ],
+        [
+          "active-learning-felt-learning-paradox",
+          "~"
+        ],
+        [
+          "no-knowledge-difference-lecture-vs-4cid-consent-training",
+          "~"
+        ],
+        [
+          "osce-advantage-4cid-not-significant",
+          "~"
+        ],
+        [
+          "lecturing-on-values-does-not-transact-values-effectively",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

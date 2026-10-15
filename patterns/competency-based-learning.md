@@ -20,7 +20,7 @@ sources:
 # Competency-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 15 claims (3 for, 9 mixed, 3 against) · 20 studies (7 causal, 4 theoretical, 3 quant-synthesis, 2 review, 2 qualitative, 1 associational, 1 design), `q1`–`q4` · 5 of 20 report an effect size · 12 claims rest on one study
+> **Evidence** · 16 claims (3 for, 10 mixed, 3 against) · 21 studies (7 causal, 4 theoretical, 3 quant-synthesis, 2 review, 2 associational, 2 qualitative, 1 design), `q1`–`q4` · 4 of 21 report an effect size · 12 claims rest on one study
 
 ## Description and scope
 
@@ -87,6 +87,12 @@ Ask for four facts when the brief omits them: **how far learners' pace may vary 
 | Support between attempts is given by a tutor | Make the support depend on the learner's last response rather than a fixed sequence of hints | [Contingent scaffolding improves learning](../claims/contingent-scaffolding-improves-learning.md) [~M] |
 | The goal is a `complex-skill` built from several competencies | Add an integrated whole task and recheck it; a set of single-competency passes is not evidence of integrated performance | [Whole-task practice improves transfer, an untested argument](../claims/whole-task-performance-improves-transfer.md) [~W] |
 | Group-paced class moving through competencies together | Keep the group pace with individual correction; attrition was lower in group-based mastery classes | [Mastery improves engagement and lowers attrition](../claims/mastery-improves-engagement-attrition.md) [+W] |
+
+## The evidence by question
+
+- *Does a competency-based programme, taken as a whole, raise completion and achievement over a time-based one?* [Gatekeeper course completion rates were slightly lower for CBE participants than for comparison students, and credential completion differences varied by college](../claims/cbe-gatekeeper-completion-lower-than-comparison.md) [-W]
+- *Which variant: how high a criterion, group-paced or self-paced, and measured how?* [Mastery learning effects are larger with a higher mastery standard, group-based pacing, local tests, and less feedback for the comparison group](../claims/mastery-learning-effects-vary-with-standard-pacing-and-test-type.md) [~M]
+- *Does a pass on the check mean what the criterion says: are the items, cut scores and raters dependable?* [Criterion-referenced tests require empirically-based construct validation studies](../claims/criterion-referenced-tests-need-construct-validation.md) [~W]
 
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-02: claims this page cited before the 2026-10-02 rewrite and did not use in the model above. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->

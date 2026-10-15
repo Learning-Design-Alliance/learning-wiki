@@ -57,13 +57,15 @@ Multilevel meta-analysis of 223 studies published 1992–2018, modeling 747 corr
 
 ## Related Claims
 
+- [Test anxiety is negatively related to exam performance, and proctoring does not moderate this relation](test-anxiety-negative-exam-performance.md) — the general claim this finding bears on, with the studies behind it
+
 - [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md) — anxiety imposes extraneous load that competes with the same working memory resources
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — reducing intrinsic load can buffer against anxiety-induced impairment
 - [Cognitive load management](cognitive-load-management.md) — practical strategies for the load reduction that buffers anxiety effects
 - [Cognitive load theory](../theories/cognitive-load-theory.md) — the theoretical framework underlying the working-memory account of math anxiety
 - [Belonging interventions improve outcomes](belonging-interventions-improve-outcomes.md) — social-belonging and appraisal-reduction interventions address the evaluative concerns that drive anxiety
 - [Test-enhanced learning](retrieval-practice-improves-retention.md) — testing benefits must be weighed against the evaluative pressure that can trigger anxiety-based impairment
-- [Expressive Writing Improves Exam Performance](expressive-writing-improves-exam-performance.md) — related
+- [Brief expressive writing before an exam can raise test-anxious students' scores, but across the wider literature its effect on test performance is negligible](expressive-writing-improves-exam-performance.md) — related
 - [Synthesis and Evaluation subtests measure general mental ability rather than knowledge for lower grades or unfamiliar content](synthesis-evaluation-measure-general-ability-lower-grades.md) — related
 - [Drop-out from adult language classes is slightly higher than from other courses, with anxiety and feelings of inadequacy a contributing reason](language-class-dropout-anxiety.md) — related
 - [Writing anxiety can constrain or paralyze adult writers, with recognizable signs](writing-anxiety-paralyzes-adult-writers.md) — related

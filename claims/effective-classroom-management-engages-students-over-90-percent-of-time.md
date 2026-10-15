@@ -14,7 +14,7 @@ sources:
     title: "Walker, K. (2000). Classroom Management for New Teachers. Education Partnerships, Inc. http://www.educationpartnerships.org/"
     author: Walker, K.
     q: 2
-    i: 2
+    i: "?"
     kind: review
     rigour: 1
 ---
@@ -22,7 +22,7 @@ sources:
 # Teachers who effectively implement classroom management can engage students in learning activities for more than 90 percent of allocated time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · review `r1` · `q2` · `i2` medium
+> **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Effective implementation of classroom management strategies and discipline enables student engagement in learning activities for more than 90 percent of allocated time. [→ Walker 2000](#walker-2000)
@@ -33,7 +33,7 @@ sources:
 
 Walker, K. (2000). Classroom Management for New Teachers. Education Partnerships, Inc. http://www.educationpartnerships.org/
 
-`q2 · i2` · `review · r1`
+`q2 · i?` · `review · r1`
 
 The brief reports, citing Cangelosi (1990, pp. 13-20), that teachers who learn to implement management strategies effectively "can engage students in learning activities for more than 90 percent of allocated time". No study design or effect size is printed.
 
@@ -41,8 +41,9 @@ The brief reports, citing Cangelosi (1990, pp. 13-20), that teachers who learn t
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Teachers' universal classroom management practices significantly reduce problem classroom behavior (mean classroom ES = 0.80, ICC=.05)](universal-classroom-management-reduces-problem-behavior.md) — the general claim this finding bears on, with the studies behind it
 - [Positive Greetings At The Door Improve Engagement](positive-greetings-at-the-door-improve-engagement.md) — related
 - [Mentee participation in a school-wide positive behaviour support program (Program Achieve) enabled confident implementation of learned strategies in other lessons](program-achieve-participation-builds-mentee-behaviour-management-confidence.md) — related
 - [Classroom management demands reduce Chicago students' daily instruction to roughly 240 minutes despite a 300-minute allocation](management-reduces-daily-instruction-240-minutes.md) — reports the opposite

@@ -1,0 +1,148 @@
+{
+  "principle": "patterns/collaborative-learning",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read. Hubs and questions reused verbatim from eval/synthesis/collaborative-learning.json (the principle's spec); the members are the claims this pattern's model cites, all already members there.",
+  "findings": [
+    {
+      "hub": "collaborative-learning-improves-outcomes",
+      "question": "Does working jointly on a task raise achievement over working alone or instruction without group work?",
+      "members": [
+        [
+          "collaborative-writing-improves-text-quality",
+          "+"
+        ],
+        [
+          "er-peer-interaction-greater-achievement-gains",
+          "+"
+        ],
+        [
+          "cooperative-learning-group-rewards-and-individual-accountability",
+          "~"
+        ],
+        [
+          "discussion-promotes-more-active-thought-than-lecture",
+          "~"
+        ],
+        [
+          "pairs-better-than-triads-in-stellar-inquiry",
+          "~"
+        ],
+        [
+          "increasing-wait-time-improves-response-quality",
+          "~"
+        ],
+        [
+          "small-group-learning-improves-stem-achievement",
+          "+"
+        ],
+        [
+          "meta-analytic-moderate-large-effects-collaborative-learning",
+          "+"
+        ],
+        [
+          "interactive-beats-constructive-concept-mapping",
+          "+"
+        ],
+        [
+          "collaborative-group-work-beats-competitive-classrooms-k12",
+          "+"
+        ],
+        [
+          "active-collaborative-approaches-higher-order-thinking",
+          "+"
+        ],
+        [
+          "collaborative-argumentation-benefits-summary",
+          "+"
+        ],
+        [
+          "students-report-peer-collaboration-supports-learning",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "personal-construction-required-stable-conceptual-change",
+      "question": "Does what the group achieves together show what each member has learned?",
+      "members": [
+        [
+          "high-equality-mutuality-not-sufficient-conceptual-change",
+          "+"
+        ],
+        [
+          "homogeneous-problem-perceptions-predict-regulation-success",
+          "+"
+        ],
+        [
+          "offloading-mediation-lower-independent-hot",
+          "+"
+        ],
+        [
+          "cscl-simulation-conceptual-change-cognitive-engagement",
+          "~"
+        ],
+        [
+          "awareness-of-heterogeneity-does-not-predict-regulation-success",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "collaborative-situations-often-fail-productive",
+      "question": "What makes joint work fail: the task, group size and composition, or how members take part?",
+      "members": [
+        [
+          "high-performing-groups-fail-without-collaboration",
+          "+"
+        ],
+        [
+          "cooperative-conceptual-change-chemistry-misconceptions",
+          "~"
+        ],
+        [
+          "large-group-size-limited-participation-confidence",
+          "+"
+        ],
+        [
+          "nd-prefer-teams-of-3-to-5-nt-prefer-pairs",
+          "~"
+        ],
+        [
+          "collective-working-memory-effect-task-complexity",
+          "~"
+        ],
+        [
+          "well-defined-tasks-and-accessible-materials-support-shared-creative-influence",
+          "~"
+        ],
+        [
+          "role-design-enhances-collaborative-knowledge-construction-quality",
+          "~"
+        ],
+        [
+          "mixed-dyads-negotiate-more-than-matched",
+          "~"
+        ],
+        [
+          "stereotype-threat-undermines-collaborative-contribution",
+          "+"
+        ],
+        [
+          "belonging-prerequisite-for-collaborative-learning",
+          "~"
+        ],
+        [
+          "cooperative-learning-versus-individual-endeavors",
+          "+"
+        ],
+        [
+          "mixed-homogeneous-heterogeneous-grouping",
+          "~"
+        ],
+        [
+          "collaboration-interest-belonging-worse-online",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

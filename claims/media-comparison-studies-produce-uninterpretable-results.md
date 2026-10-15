@@ -21,7 +21,7 @@ sources:
     title: "Levie, W. H., & Dickie, K. (1973). The analysis and application of media. In R. Travers (Ed.), *The Second Handbook of Research on Teaching* (pp. 858–882). Rand McNally."
     author: "Levie, W. H., & Dickie, K."
     q: 2
-    i: 0
+    i: "?"
     n: n/a
     kind: theoretical
     rigour: "?"
@@ -39,7 +39,7 @@ sources:
 # Media comparison studies produce uninterpretable "no significant difference" findings.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · 2 theoretical `r?`, 1 review `r?` · `q2`–`q3` · `i0` negligible
+> **Evidence** · 3 studies · 2 theoretical `r?`, 1 review `r?` · `q2`–`q3`
 
 A "media comparison study" treats an entire delivery medium (e.g., distance vs. face-to-face instruction) as the independent variable and student achievement as the dependent variable. This design confounds learner characteristics, specific media attributes, instructional strategy, and underlying learning theory into a single undifferentiated "treatment," which makes the near-universal "no significant difference" result these studies produce uninterpretable rather than reassuring.
 
@@ -47,7 +47,7 @@ A "media comparison study" treats an entire delivery medium (e.g., distance vs. 
 
 `q3 i?` Media comparison studies are fundamentally confounded because they fail to isolate specific media attributes (type of information representation, sensory modality, level of realism, feedback timing) as separate variables, instead treating the whole delivery medium as one functional unit. [→ Clark 1983](#clark-1983)
 
-`q2 i0` Media attributes — not whole media categories — are the level at which a taxonomy of instructionally relevant properties can be meaningfully defined and tested. [→ Levie and Dickie 1973](#levie-and-dickie-1973)
+`q2 i?` Media attributes — not whole media categories — are the level at which a taxonomy of instructionally relevant properties can be meaningfully defined and tested. [→ Levie and Dickie 1973](#levie-and-dickie-1973)
 
 `q2 i?` A "no significant difference" result is an inconclusive null finding, not evidence of equivalence — much as a "not guilty" verdict does not mean "innocent" — yet researchers and administrators have repeatedly misinterpreted decades of such findings (collected in Russell's widely cited "No Significant Difference" compilation) as proof that delivery medium does not matter for learning. [→ Lockee, Moore, and Burton 2001](#lockee-moore-and-burton-2001)
 
@@ -65,7 +65,7 @@ Clark's widely-cited synthesis argues that media do not directly cause learning 
 
 Levie, W. H., & Dickie, K. (1973). The analysis and application of media. In R. Travers (Ed.), *The Second Handbook of Research on Teaching* (pp. 858–882). Rand McNally.
 
-`q2 · foundational taxonomic/theoretical chapter` · `i0 · not an effect-size claim` · `n=n/a` · `theoretical · r?`
+`q2 · foundational taxonomic/theoretical chapter` · `i? · not an effect-size claim; no effect size printed` · `n=n/a` · `theoretical · r?`
 
 Levie and Dickie define media attributes as "the properties of stimulus materials which are manifest in the physical parameters of media," and provide a taxonomy including type of information representation (text, image, sound), sensory modality addressed, level of realism (abstract to concrete), and capacity for feedback (overt, covert, immediate, delayed). They argue comparison studies should target these specific attributes rather than whole media categories, and concluded as early as 1973 that most learning content can be conveyed through a variety of different media — making whole-medium comparison studies "fruitless."
 
@@ -76,6 +76,24 @@ Lockee, B. B., Moore, M., & Burton, J. (2001). Old concerns with new distance ed
 `q2 · peer-reviewed methodological critique applying Clark (1983) and Levie & Dickie (1973) to distance-education research` · `i? · no source text available to check; the entry prints no effect size` · `n=n/a` · `theoretical · r?`
 
 The authors apply Clark's and Levie & Dickie's critiques directly to early-2000s distance-education comparison research, arguing that the same confounds (learner characteristics, media attributes, instructional strategy, absence of any tested learning theory) that discredited earlier media-comparison studies were being repeated under a new name. They highlight the specific fallacy of treating "no significant difference" as proof of equivalence, and recommend that researchers either isolate specific media attributes/strategies as variables, or — when no generalizable theoretical question is actually at stake — conduct local program evaluation rather than claim generalizable research findings.
+
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **9 distinct studies** (4 theoretical, 3 causal, 2 review), `q2`–`q3`, 1 of 9 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Clark 1983](https://doi.org/10.3102/00346543053004445) | q3 · review · r? | i? | this claim |
+| Levie and Dickie 1973 | q2 · theoretical · r? | i? | this claim |
+| Lockee, Moore, and Burton 2001 | q2 · theoretical · r? | i? | this claim |
+| Salomon 1983 | q2 · theoretical · r3 | i0 | [The measured advantage of computer-based instruction over conventional teaching shrinks wh](cbi-advantage-shrinks-same-teacher-comparisons.md) (supports) |
+| Martin 2003 | q3 · causal · r2 | i? | [In one experiment with 256 undergraduates, computer-based lesson versions that included pr](practice-presence-raises-cbi-posttest-achievement.md) (supports) |
+| Slezak 2011 | q2 · causal · r2 | i? | [The computer-based implementation showed no significant difference from individual paper-b](computer-based-no-better-than-individual-paper.md) (supports); [A computer-based implementation of the tutorial yields the lowest post-test scores, statis](computer-based-tutorial-implementation-lowest-posttest.md) (qualifies) |
+| Gilbert 1999 | q2 · theoretical · r3 | i? | [A tool's effectiveness results from the whole configuration of events, activities, and con](tool-effectiveness-depends-on-context-configuration.md) (supports) |
+| Brewe 2007 | q2 · causal · r1 | i? | [Technology-supported learning gains depend on the technology being used within student-cen](lab-technology-gains-depend-on-active-engagement-pedagogy.md) (supports) |
+| [Jaeseok Yang 2013](https://doi.org/10.5539/elt.v6n7p19) | q2 · review · r2 | i? | [In one 30-student study of high-school English learners (Lu 2008, reported in a review), v](sms-vocabulary-learning-beats-paper-materials.md) (qualifies) |
+<!-- synthesis:end -->
 
 ## Discussion
 

@@ -110,6 +110,11 @@ Learners, tasks and outcomes differ across these claims (algebra novices, circui
 - [Vicarious experiences are positively related to agriculture teachers' general teaching efficacy, with observing a first year teacher explaining 11% of variance](../claims/vicarious-experiences-positive-teaching-efficacy.md) [+W]: correlations, reported in a review, between student teachers' observing other teachers and their teaching efficacy; associational, so it does not show that observing caused the efficacy.
 - [Proximal goals and ability attributional feedback for early learning raise self-efficacy more than distant goals and effort feedback, by a review's report of earlier studies](../claims/proximal-goals-feedback-peer-models-build-learning-efficacy.md) [~W]: a review chapter whose two entries report proximal goals and ability feedback; **neither entry reports the peer-versus-teacher model finding the title states**, so it gives no recorded support for choosing peer models.
 
+## The evidence by question
+
+- *Should modelling come before the learner's first attempts?* [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+M]
+- *Does prompting learners to explain what they study or solve improve their understanding, and on which outcomes?* [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
+
 ## Further evidence, not yet read against this model
 
 Claims that mention modelling but bear on this page little or not at all:

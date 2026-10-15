@@ -44,4 +44,4 @@ The abstract describes the study's core methodological move: two researchers ser
 
 ## Related Claims
 - [Presenting multiple cases from different perspectives supports transfer in ill-structured domains](cognitive-flexibility-theory-multiple-cases.md) — related
-- [Considering The Opposite Reduces Bias](considering-the-opposite-reduces-bias.md) — related
+- [A systematic review of bias-mitigation training names considering the opposite as a previously validated way to reduce judgment biases, without testing it itself](considering-the-opposite-reduces-bias.md) — related

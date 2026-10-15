@@ -18,7 +18,7 @@ sources:
 # Experience with Languaging Activities (ELAs) guided by a sequence of experience-based questions
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 12 claims (7 for, 5 mixed) · 20 studies (8 causal, 6 quant-synthesis, 5 review, 1 design), `q1`–`q4` · 8 of 20 report an effect size · 4 claims rest on one study
+> **Evidence** · 12 claims (7 for, 5 mixed) · 20 studies (8 causal, 6 quant-synthesis, 5 review, 1 design), `q1`–`q4` · 7 of 20 report an effect size · 4 claims rest on one study
 
 ## Description and scope
 
@@ -107,6 +107,11 @@ Seven rows rest on a claim (novice learners, grades 6–8, a conceptual course g
 - **Questions alone may not be enough.** [Training seventh graders to elaborate produced better long-term recall than questions stimulating elaboration](../claims/trained-elaboration-beats-question-stimulated-elaboration.md) [~M]: in one 1981 study, seventh graders trained to elaborate recalled more after one and three days than a group given questions that stimulated elaboration. It is one study with no effect size, but it qualifies a routine that relies on questions: model the answers and teach the moves (sessions 1–2 above), rather than only posing the questions.
 
 Do not claim the four-question routine improves learning over reading or discussion of the same content: no claim compares them, and none measures the time it costs. Do not read a fluent personal response as understanding of the content. A precise abstention names the missing comparison (the routine against the same experiences followed by a content summary, or by unstructured discussion, on understanding of the named idea at a stated horizon) and the local observation that would stand in for it: the share of step 4 answers that reach the named idea, session by session.
+
+## The evidence by question
+
+- *Do task-specific reflection prompts produce better learning or reflection than an open invitation to write?* [Reflective Practice Improves Outcomes When Structured](../claims/reflective-practice-improves-outcomes-when-structured.md) [+S]
+- *Does writing about content during instruction improve learning of that content, compared with instruction without the writing?* [Writing To Learn Improves Understanding](../claims/writing-to-learn-improves-understanding.md) [+S]
 
 ## Further evidence, not yet read against this model
 

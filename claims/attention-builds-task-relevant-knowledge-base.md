@@ -47,4 +47,4 @@ The review quotes Logan (1997) on obligatory encoding: attention to objects and 
 
 ## Related Claims
 - [Mobile-application TE-DCTs capture nonverbal attention-getters in the large majority of both L1 and L2 responses across all scenarios](te-dct-mobile-captures-nonverbal-attention-getters.md) — related
-- [Incidental Vocabulary Exposure Limited](incidental-vocabulary-exposure-limited.md) — related
+- [Incidental vocabulary exposure produces reliable learning, but learners pick up only a small share of the unknown words they meet](incidental-vocabulary-exposure-limited.md) — related

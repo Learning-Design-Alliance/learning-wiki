@@ -41,7 +41,8 @@ Separate random effects meta-analysis of math learning outcomes from non-randomi
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Inclusion in general is very unlikely to increase or decrease learning and psychosocial adjustment of children with special needs](inclusion-general-no-increase-or-decrease-learning-psychosocial.md) — the general claim this finding bears on, with the studies behind it
 - [Inclusion shows a negligible, non-significant pooled difference for language and literacy learning outcomes](inclusion-language-literacy-smd-004-nonsignificant.md) — related
 - [Inclusion shows a small, non-significant pooled advantage over segregated placement for overall psychosocial adjustment of children with SEN](inclusion-psychosocial-adjustment-smd-020-nonsignificant.md) — related

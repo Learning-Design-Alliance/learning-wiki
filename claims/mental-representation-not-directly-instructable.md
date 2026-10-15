@@ -41,8 +41,9 @@ Theoretical argument in section I.3: the author reasons that UG and parsers/proc
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Explicit L2 grammar instruction leads to larger learning effects than implicit instruction, as reported in the reviewed synthesis literature](explicit-l2-grammar-instruction-superior-to-implicit.md) — the general claim this finding bears on, with the studies behind it
 - [Structured input alone, without explicit information, is sufficient to cause changes in learner knowledge](structured-input-alone-sufficient-for-acquisition.md) — related
 - [A 1982 bilingual-education teacher-training packet asserts, citing Krashen, that repetitive drill and grammar-focused instruction are ineffective for second language acquisition](drill-and-grammar-focus-ineffective-for-l2-acquisition.md) — a broader claim this one bears on
 - [Comprehensible input in natural language contexts is presented as essential to second language acquisition](comprehensible-input-essential-l2-acquisition.md) — related

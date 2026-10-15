@@ -41,8 +41,9 @@ The review reports this result, citing Serhan (2015), who investigated students'
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Strategy Instruction Needs Conditional Knowledge](strategy-instruction-needs-conditional-knowledge.md) — the general claim this finding bears on, with the studies behind it
 
 - [Understanding Stewart's formal definition of the definite integral demands mobilizing a system of prior knowledge across a network of semiotic functions](stewart-definition-prior-knowledge-demands.md) — related
 - [Onto-semiotic analysis of Starbird's intuitive integral presentation identifies five epistemic configurations of practices, objects and processes](starbird-intuitive-integral-five-configurations.md) — related

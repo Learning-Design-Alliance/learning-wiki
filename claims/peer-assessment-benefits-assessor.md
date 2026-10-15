@@ -74,6 +74,8 @@ The claim also sits within the wider evidence base on [collaborative learning im
 
 ## Related Claims
 
+- [Peer Feedback Improves Writing](peer-feedback-improves-writing.md) — the general claim this finding bears on, with the studies behind it
+
 - [Assessment for learning improves achievement.](../claims/assessment-for-learning-improves-achievement.md) — the evaluative act itself, not just its outcomes, drives learning
 - [One-session checklist (CRAAP) instruction in source evaluation did no better than the alternative methods it was compared with in two quasi-experiments](../claims/checklist-evaluation-ineffective-online.md) — related: checklists for evaluating web sources, not peer review <!-- deprecated (2026-10-05, misapplied): a caution on one common structuring device for peer review -->
 - [Collaborative learning improves outcomes.](../claims/collaborative-learning-improves-outcomes.md) — the broader peer-interaction context in which peer assessment occurs
@@ -82,9 +84,8 @@ The claim also sits within the wider evidence base on [collaborative learning im
 - [Group-level scaffolding training increases teacher process support and student participation](group-level-scaffolding-training-increases-teacher-process-support-and-student-participation.md) — related
 - [Online peer assessment shifts instructional assessment from teacher-controlled to a combination of teacher assessment and student peer assessment](online-peer-assessment-shifts-assessment-control-to-students.md) — related
 - [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](peer-assessment-improves-performance.md) — related
-- [Tutoring benefits both tutors and tutees](tutoring-benefits-tutors-and-tutees.md) — related
+- [Tutoring benefits both tutors and tutees](peer-tutoring-improves-achievement.md) — related
 - [In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems](peer-feedback-accuracy-depends-on-expertise.md) — related
-- [Peer Tutoring Improves Achievement](peer-tutoring-improves-achievement.md) — related
 - [Learning By Teaching Improves Tutor Learning](learning-by-teaching-improves-tutor-learning.md) — related
 - [Rubrics changed what online peer reviewers commented on and improved their rating of complex criteria in two quasi-experiments, though one found less reflective feedback](rubrics-improve-peer-feedback-quality.md) — related
 - [Review reports that collaborative feedback tasks promoted noticing and peer dialogs enhanced meta-cognitive processing in a university ESL writing class (Riddiford)](cfts-promoted-noticing-peer-dialogs-metacognition.md) — related

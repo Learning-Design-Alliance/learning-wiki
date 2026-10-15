@@ -12,7 +12,7 @@ generated:
 # Text + Structured Activity
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 unmarked) · 14 studies (6 quant-synthesis, 4 causal, 2 review, 1 associational, 1 theoretical), `q2`–`q4` · 4 of 14 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (4 for, 1 unmarked) · 16 studies (7 quant-synthesis, 5 causal, 2 review, 1 associational, 1 theoretical), `q2`–`q4` · 5 of 16 report an effect size · 1 claim rests on one study
 
 ## Description
 Students engage with text resources (physical or digital) accompanied by a structured activity designed to ensure active learning and engagement with the material. The text conveys information; the structured activity forces processing of that information — answering questions, applying concepts, annotating, or self-explaining — so that reading does not remain passive. This combination provides instruction in pre-class, in-class, or asynchronous settings, and serves as a low-bandwidth alternative to video-based delivery.
@@ -50,7 +50,7 @@ Structured activities convert reading from passive reception into generative pro
 - Conceptual understanding of declarative content (definitions, explanations, frameworks)
 - Application: transferring concepts from the text to new problems or cases
 - Preparation for higher-effort in-class work (flipped pre-class phase)
-- Retention of factual and procedural information over time, especially when activities are [spaced](../claims/spaced-repetition-improves-retention.md) [+S]
+- Retention of factual and procedural information over time, especially when activities are [spaced](../claims/spaced-practice-improves-retention.md) [+S]
 
 ### Instructions
 1. Select or write the text, chunked into coherent sections with clear headings ([Clear Structure & Presentation](../principles/clear-structure.md))

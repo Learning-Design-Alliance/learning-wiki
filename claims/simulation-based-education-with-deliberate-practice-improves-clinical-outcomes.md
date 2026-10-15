@@ -40,6 +40,18 @@ McGaghie, W. C., Issenberg, S. B., Cohen, E. R., Barsuk, J. H., & Wayne, D. B. (
 
 Systematic review and meta-analysis of 3,742 identified articles, of which 14 met inclusion criteria comparing traditional clinical medical education against simulation-based medical education (SBME) that incorporated deliberate practice (DP) — repeated, goal-directed rehearsal with mastery standards and immediate feedback. Across the 14 studies (mostly randomized trials and pre/post comparisons of procedural and psychomotor clinical skills such as ACLS, laparoscopic and central-line procedures), the pooled effect size favoring SBME with DP was d = 0.71 (95% CI 0.65–0.76, P < .001). The authors describe the result as consistent and "without exception" across the included studies, supporting skill-acquisition outcomes; they note the number of studies is still small and call for further research to extend the finding to broader clinical and patient-level outcomes.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does training built around deliberate practice (mastery standards, feedback on each attempt, repetition) beat ordinary training?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **3 distinct studies** (2 quant-synthesis, 1 causal), `q2`–`q4`, 2 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [McGaghie et al. 2011](https://doi.org/10.1097/acm.0b013e318217e119) | q3 · quant-synthesis · r? | i2 · medium effect, d=0.71 | this claim |
+| [Cook et al. 2011](https://doi.org/10.1001/jama.2011.1234) | q4 · quant-synthesis · r3 | i3 · large effect, pooled effect sizes ~1.09–1.20 for knowledge/skills/behaviors | [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) (qualifies) |
+| Do 2024 | q2 · causal · r1 | i? | [Deliberate practice interventions produce higher real estate licensing exam pass rates tha](deliberate-practice-raises-licensing-pass-rate.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Mechanism.** The claim rests on the deliberate practice framework: skills improve when learners perform at the edge of their ability, receive immediate diagnostic feedback, and repeat tasks until mastery criteria are met. Simulation provides a safe environment for this cycle, allowing errors without patient harm — a structural advantage over learning purely in vivo. This aligns with [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md), in which coached practice and articulation of expert reasoning are central, and with [practice](../elements/practice.md) as the active element rather than exposure or observation.
@@ -53,6 +65,10 @@ Systematic review and meta-analysis of 3,742 identified articles, of which 14 me
 **Open questions.** The dose–response relationship between amount of deliberate practice and magnitude of clinical outcome improvement is not well characterized, and most evidence comes from procedural and psychomotor skills; transfer to complex team-based or decision-making competencies is less firmly established. Cost and faculty time for high-quality feedback loops remain practical barriers to scaling mastery-based simulation.
 
 ## Related Claims
+
+- [Reviewed studies report experiential learning benefits for engagement, skills, confidence and outcomes in human services education](experiential-learning-engagement-skills-ethical-reasoning.md) — the general claim this finding bears on, with the studies behind it
+
+- [The review reports that embedded analytics, timely feedback, and structured reflection strengthen conceptual consolidation and learning gains](analytics-feedback-reflection-strengthen-learning-gains.md) — the general claim this finding bears on, with the studies behind it
 
 - [Feedback improves learning](feedback-improves-learning.md) — immediate diagnostic feedback is the active ingredient linking simulation to skill gains.
 - [Spaced practice improves retention](spaced-practice-improves-retention.md) — booster sessions counter skill decay after simulation training.

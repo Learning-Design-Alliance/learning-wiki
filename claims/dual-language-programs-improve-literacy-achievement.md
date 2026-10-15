@@ -39,8 +39,9 @@ The WWC's synthesis of the Steele et al. (2017) randomized controlled trial with
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Teaching students in a language they understand benefits both language learning and broader learning](cl-teaching-in-language-students-understand-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Literacy benefits of dual language programs did not extend to the English learner subsample in the strongest study](dual-language-literacy-null-for-english-learners.md) — related
 - [The Pathway to Academic Success Project has potentially positive effects on literacy achievement for English learners in grades 6-12](pathway-project-potentially-positive-literacy-achievement.md) — related
 - [BCIRC has potentially positive effects on reading achievement for Spanish-speaking English language learners (effect size 0.61, not statistically significant after clustering correction)](bcirc-potentially-positive-reading-achievement.md) — related

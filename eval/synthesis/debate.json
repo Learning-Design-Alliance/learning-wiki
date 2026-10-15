@@ -1,0 +1,24 @@
+{
+  "principle": "patterns/debate",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "argumentation-improves-reasoning",
+      "question": "Does structured argument with peers improve learners' individual argument and content learning?",
+      "members": [
+        [
+          "argumentation-prompts-scaffolds-knowledge-gains",
+          "+"
+        ],
+        [
+          "collaborative-argumentation-benefits-summary",
+          "+"
+        ],
+        [
+          "structured-discussion-methods-improve-comprehension",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

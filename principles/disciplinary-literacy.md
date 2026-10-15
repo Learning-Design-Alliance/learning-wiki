@@ -114,6 +114,10 @@ These rows are proposals, untested with learners as diagnostics. A probe is itse
 
 Learners, disciplines and outcomes differ across these claims (ninth-grade biology, eleventh-grade history, world-history work samples, web evaluation), so do not rank them by effect label. None measures a gain beyond a school year, and none compares disciplinary with generic strategy instruction.
 
+## The evidence by question
+
+- *Does teaching a discipline's own reading and reasoning practices on its own texts improve comprehension and disciplinary thinking over usual instruction?* [Disciplinary Literacy Instruction Improves Comprehension](../claims/disciplinary-literacy-instruction-improves-comprehension.md) [+M]
+
 ## Further evidence, not yet read against this model
 
 Claims the earlier page cited that bear only partly on the model:

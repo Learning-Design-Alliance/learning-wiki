@@ -61,6 +61,19 @@ Wigfield, A., & Cambria, J. (2010). Students' achievement values, goal orientati
 
 Wigfield and Cambria synthesize research on achievement values, goal orientations, and interest, showing how these constructs develop across school years and relate to outcomes. They review experimental interventions — particularly brief utility-value writing tasks (where students write about how course material connects to their lives) — that reliably improve engagement and achievement, especially for students from groups underrepresented in a domain. The cost dimension (what a learner gives up to engage) is underutilized in design: reducing perceived cost (time pressure, social risk of participation) can be as effective as increasing perceived value.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does seeing a task as interesting, important or useful raise the effort learners invest in it?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **4 distinct studies** (3 review, 1 associational), `q1`–`q3`, 0 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Eccles Wigfield 2002](https://doi.org/10.1146/annurev.psych.53.100901.135153) | q2 · review · r? | i? | this claim |
+| [Wigfield Cambria 2010](https://doi.org/10.1016/j.dr.2009.12.001) | q3 · review · r? | i? | this claim |
+| Small 1997 | q1 · review · r2 | i? | [Instruction should present the learning task as engaging and meaningful and promote positi](effort-requires-task-value-and-expectation-of-success-arcs-rationale.md) (supports) |
+| [Takahashi 2020](https://doi.org/10.14746/ssllt.2020.10.4.2) | q2 · associational · r2 | i? | [Within SDT, intrinsic motivation predicts intended effort most strongly, followed by ident](sdt-path-strengths-effort.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 The cost dimension of task value is often overlooked in instructional design. A task learners perceive as valuable can still be avoided if the cost is too high — social exposure, time burden, risk of public failure. Reducing cost through low-stakes practice, anonymous initial submissions, or smaller task granularity can unlock engagement without requiring changes to the task's content or framing.

@@ -12,7 +12,7 @@ generated:
 # Call-and-Response
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 6 studies (2 causal, 2 quant-synthesis, 2 review), `q2`–`q4` · 1 of 6 report an effect size
+> **Evidence** · 2 claims (2 for) · 8 studies (3 causal, 3 quant-synthesis, 2 review), `q2`–`q4` · 2 of 8 report an effect size
 
 ## Description
 Call-and-response involves the instructor initiating a phrase or word, and the students responding with a pre-determined phrase or word. The exchange serves as an attention signal: it interrupts ongoing noise, prompts a physical and verbal shift toward the teacher, and marks a transition between activities. Because the response is choral and scripted, it requires no individual student to decide whether to comply — the routine itself carries the demand.
@@ -46,7 +46,7 @@ Call-and-response works as a conditioned attention cue: repeated pairing of the 
 ### Target Learning Goals
 - Classroom management: rapid attention gain and smooth transitions between activities
 - Behavioral routine-building: establishing predictable, low-effort procedural norms
-- Incidental reinforcement: content-embedded variants support recall of key facts through choral repetition [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Incidental reinforcement: content-embedded variants support recall of key facts through choral repetition [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 
 ### Instructions
 1. Choose a short, distinctive call and a response that requires students to stop, look, and be silent.

@@ -12,14 +12,14 @@ generated:
 # Free Math Worksheets
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 8 studies (4 causal, 4 quant-synthesis), `q3`–`q4` · 2 of 8 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 10 studies (5 causal, 5 quant-synthesis), `q3`–`q4` · 3 of 10 report an effect size · 1 claim rests on one study
 
 ## Description
 Free math worksheets are openly available sets of practice problems organized by topic and difficulty, spanning basic arithmetic through advanced topics. They are used for homework, in-class practice, or supplemental independent work, giving learners repeated opportunities to apply procedures and consolidate skills. Their instructional value depends less on the worksheet itself than on how it is sequenced, paired with feedback, and integrated with instruction.
 
 ## Design Implications
 
-Worksheets enact [Practice](../elements/practice.md) at scale, and their effectiveness follows the same evidence base as practice generally: retrieval and application strengthen retention [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S], and problem sequences that begin with worked examples reduce the load on novice learners [Example-problem sequences reduce cognitive load.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M]. Design decisions that matter most are spacing and mixing problem types rather than blocking them, and ensuring learners get feedback rather than completing large volumes of uncorrected work.
+Worksheets enact [Practice](../elements/practice.md) at scale, and their effectiveness follows the same evidence base as practice generally: retrieval and application strengthen retention [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S], and problem sequences that begin with worked examples reduce the load on novice learners [Example-problem sequences reduce cognitive load.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M]. Design decisions that matter most are spacing and mixing problem types rather than blocking them, and ensuring learners get feedback rather than completing large volumes of uncorrected work.
 
 ### Context
 #### Requirements
@@ -29,34 +29,34 @@ Worksheets enact [Practice](../elements/practice.md) at scale, and their effecti
 
 #### Constraints
 - Used in isolation, worksheets build procedural fluency but not conceptual understanding; rote computation without reasoning support yields shallow schemas [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [-M]
-- Massed, blocked practice on a single problem type produces strong short-term performance but poor retention and transfer compared with spaced, mixed sets [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [-S] — the "blocked worksheet" format common on free sites is precisely the weak configuration
+- Massed, blocked practice on a single problem type produces strong short-term performance but poor retention and transfer compared with spaced, mixed sets [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [-S] — the "blocked worksheet" format common on free sites is precisely the weak configuration
 - Overlong sets exceed working memory and attention limits and produce disengagement; error-laden independent practice without correction reinforces wrong procedures [Erroneous examples build conceptual knowledge.](../claims/erroneous-examples-build-conceptual-knowledge.md) [~M] — uncorrected learner errors are the failure mode, deliberately designed erroneous examples the benefit
 - Repetitive drill can undermine motivation, particularly for learners who already experience math anxiety
 
 #### Implementation Variability
-- **Spaced sets**: distribute a few problems across days rather than 30 in one sitting [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
-- **Interleaved sets**: mix problem types on one page so learners must choose a strategy, not just execute one [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+M]
+- **Spaced sets**: distribute a few problems across days rather than 30 in one sitting [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
+- **Interleaved sets**: mix problem types on one page so learners must choose a strategy, not just execute one [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+M]
 - **Example–problem pairs**: alternate a worked example with an isomorphic problem for novices [Example-problem sequences reduce cognitive load.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M]
 - **Error analysis worksheets**: present solved problems containing mistakes for learners to find and fix [Erroneous examples build conceptual knowledge.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+W]
 - **Generative variants**: blank templates (number bonds, fraction bars) learners complete themselves rather than pre-filled drill
 
 ### Target Learners
-- Novices building automaticity with basic facts and standard procedures, where retrieval practice pays off most [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Novices building automaticity with basic facts and standard procedures, where retrieval practice pays off most [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 - Learners needing low-stakes, self-paced practice outside class time
 - Less effective for advanced learners, for whom routine drill is redundant and open problems or [Case Studies](../elements/case-studies.md) are better suited
 
 ### Target Learning Goals
 - Procedural fluency and automaticity of math facts and algorithms
-- Retention and maintenance of previously taught skills [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Retention and maintenance of previously taught skills [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 - Formative diagnosis of gaps (which problem types a learner misses)
 
 ### Instructions
 1. Diagnose the target skill and select or generate a worksheet matched to current ability, not grade level.
 2. For novices, place one or two [Worked Examples](../elements/worked-examples.md) at the top of the set [Example-problem sequences reduce cognitive load.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M].
-3. Keep sets short (8–12 problems) and mix problem types once initial accuracy is established [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+M].
+3. Keep sets short (8–12 problems) and mix problem types once initial accuracy is established [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+M].
 4. Have learners complete the set, then [Assess Performance](../elements/assess-performance.md) against the answer key.
 5. [Provide Feedback](../elements/provide-feedback.md) promptly — review errors together and re-teach before assigning more practice.
-6. Re-distribute the same skill in short sets over subsequent days and weeks [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+6. Re-distribute the same skill in short sets over subsequent days and weeks [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ## Related Strategies
 - [Spaced Practice](../principles/spaced-learning.md) — the scheduling principle that determines whether worksheet practice sticks

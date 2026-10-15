@@ -41,8 +41,9 @@ Randomized experiment with 145 ninth-grade Algebra I students in Cognitive Tutor
 
 ## Discussion
 
-
 ## Related Claims
+
+- [A 1993 case-study paper on culturally aware teachers asserts, without data of its own, that instruction incorporating students' life experiences, language and skills improves academic performance](incorporating-home-culture-improves-academic-performance.md) — the general claim this finding bears on, with the studies behind it
 - [Personalizing algebra story problems to student interests improved accuracy on easy knowledge components within the tutoring unit](personalization-improves-easy-kc-accuracy-algebra-its.md) — related
 - [Personalization reduced time spent on hard expression-writing steps, and students who had received it were still faster at writing expressions in a later non-personalized unit](personalization-reduces-solution-time-efficiency.md) — related
 - [In a small subgroup of struggling students (n = 25), interest personalization greatly improved expression-writing accuracy within the tutoring unit](personalization-struggling-students-moderation.md) — a narrower finding that bears on this claim

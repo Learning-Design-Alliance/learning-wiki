@@ -41,11 +41,12 @@ Observational study (Sabers, Cushing, & Berliner, 1988) in which expert, novice,
 
 ## Discussion
 
-
 ## Learner Variables
 - [Prior Knowledge](../learner-variables/prior-knowledge.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [In the initial skill acquisition phase, authentic video yielded higher overall observation assignment scores than virtual simulation](av-outperforms-vs-total-observation-score.md) — the general claim this finding bears on, with the studies behind it
 - [Experts discern instructional significance in classroom scenes while novices and postulants treat all visual stimuli as equally important](experts-discern-importance-of-classroom-events.md) — related
 - [Experts attend selectively to atypical events, merging typical student information into a group picture, while novices and postulants study all student details](experts-attend-to-atypical-events.md) — related
 - [Experts predict classroom phenomena and student errors far more than novices, who rarely anticipate misalgorithms](experts-predict-student-errors-and-classroom-events.md) — related

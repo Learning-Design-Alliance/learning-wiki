@@ -12,7 +12,7 @@
         ],
         [
           "clicker-participation-and-homework-completion-predict-exam-performance",
-          "+"
+          "~"
         ],
         [
           "learning-attributed-to-process-not-technology",
@@ -93,6 +93,14 @@
       "question": "Does small-group work beat working alone, and how should groups be set up?",
       "members": [
         [
+          "collaborative-writing-improves-text-quality",
+          "+"
+        ],
+        [
+          "er-peer-interaction-greater-achievement-gains",
+          "+"
+        ],
+        [
           "cooperative-learning-group-rewards-and-individual-accountability",
           "~"
         ],
@@ -117,15 +125,7 @@
           "+"
         ],
         [
-          "collaborative-writing-improves-text-quality",
-          "+"
-        ],
-        [
           "interactive-beats-constructive-concept-mapping",
-          "+"
-        ],
-        [
-          "er-peer-interaction-greater-achievement-gains",
           "+"
         ],
         [

@@ -30,7 +30,7 @@ sources:
 # Project-Based Learning (PBL)
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 8 claims (5 for, 2 mixed, 1 against) · 19 studies (9 quant-synthesis, 4 causal, 4 review, 2 theoretical), `q1`–`q4` · 10 of 19 report an effect size · 1 claim rests on one study
+> **Evidence** · 8 claims (5 for, 2 mixed, 1 against) · 21 studies (9 quant-synthesis, 4 causal, 4 review, 4 theoretical), `q1`–`q4` · 11 of 21 report an effect size · 1 claim rests on one study
 
 ## Description
 Project-Based Learning organizes instruction around a sustained inquiry into an authentic, driving question, culminating in a public product or artifact. Learners acquire content knowledge *through* the project work rather than before it, with the teacher acting as designer and facilitator rather than primary transmitter. Well-designed PBL follows a project arc: entry event and driving question, sustained investigation, iterative creation and critique, and a public presentation of the final product.

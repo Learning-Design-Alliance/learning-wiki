@@ -1,0 +1,96 @@
+{
+  "principle": "principles/rhetorical-skill-development",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read. No claim tests teaching rhetorical moves as audience-bound choices against fixed forms; the findings are the tested parts the page names (argument practice, writing for a real reader, writing strategy and feedback instruction).",
+  "findings": [
+    {
+      "hub": "argumentation-improves-reasoning",
+      "question": "Does structured argument with peers improve learners' individual argument and content learning?",
+      "members": [
+        [
+          "argumentation-prompts-scaffolds-knowledge-gains",
+          "+"
+        ],
+        [
+          "collaborative-argumentation-benefits-summary",
+          "+"
+        ],
+        [
+          "structured-discussion-methods-improve-comprehension",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "authentic-audiences-improve-student-work",
+      "question": "Does writing or presenting for a real reader beyond the teacher-as-grader improve the product?",
+      "members": [
+        [
+          "public-capstone-epportfolio-showcase-audience-effect",
+          "+"
+        ],
+        [
+          "skilled-writers-audience-awareness",
+          "+"
+        ],
+        [
+          "audience-prior-knowledge-determines-information-density",
+          "~"
+        ],
+        [
+          "community-presentation-created-accountability-pressure",
+          "+"
+        ],
+        [
+          "public-vs-private-reflection-mixed",
+          "~"
+        ],
+        [
+          "personal-connection-to-data-supports-critical-data-literacy-stance-taking",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "process-writing-improves-writing-quality",
+      "question": "Does teaching writing as a staged process with feedback on drafts raise writing quality, and what has to be inside it for the gain to appear?",
+      "members": [
+        [
+          "strategy-instruction-improves-writing-quality",
+          "+"
+        ],
+        [
+          "peer-feedback-improves-writing",
+          "+"
+        ],
+        [
+          "collaborative-writing-improves-text-quality",
+          "+"
+        ],
+        [
+          "peer-response-groups-writing-idea-units",
+          "~"
+        ],
+        [
+          "rubrics-improve-student-work",
+          "+"
+        ],
+        [
+          "process-goals-outperform-outcome-goals-for-novices",
+          "~"
+        ],
+        [
+          "essay-quality-improves-from-initial-to-revised",
+          "+"
+        ],
+        [
+          "noticing-errors-decreases-errors-preserves-quality",
+          "+"
+        ],
+        [
+          "spontaneous-sentence-production-in-synthetic-planning-increases-understanding",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

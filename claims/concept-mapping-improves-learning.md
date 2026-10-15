@@ -80,6 +80,23 @@ Karpicke, J. D., & Blunt, J. R. (2011). Retrieval practice produces more learnin
 
 In Experiment 1, 80 undergraduates studied a science text in one of four ways: study once, repeated study, study then build a concept map while viewing the text, or study then practice free recall. Learning time was exactly matched between the mapping and retrieval conditions. One week later, every condition beat study-once, but retrieval practice beat concept mapping (M = 0.67 vs 0.45, d = 1.50), and mapping was not significantly better than extra rereading. Experiment 2 (120 students, within-subject) replicated the retrieval advantage on a short-answer test (d = 1.07) and even on a final test that asked students to build a concept map (d = 1.01); 101 of 120 students did better after retrieval practice. The study supports mapping over a single reading, but not over an equally long generative alternative.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does having learners build an organization of the content as a concept map help, and against what comparison?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **8 distinct studies** (3 quant-synthesis, 2 causal, 1 review, 1 design, 1 theoretical), `q1`–`q4`, 4 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Schroeder et al. 2018](https://doi.org/10.1007/s10648-017-9403-9) | q4 · quant-synthesis · r? | i2 · medium effect, g=0.58; i2 · medium effect for constructing, g=0.72; studying g=0.43 | this claim; [Learner-constructed graphic organizers are not shown to outperform provided ones: the one ](learner-constructed-graphic-organizers-outperform-provided.md) (qualifies) |
+| [Nesbit & Adesope 2006](https://doi.org/10.3102/00346543076003413) | q4 · quant-synthesis · r? | i? | this claim |
+| [Karpicke & Blunt 2011](https://doi.org/10.1126/science.1199327) | q3 · causal · r2 | i3 · large effect favoring retrieval practice over concept mapping, d=1.50 | this claim |
+| [Zhang et al. 2021](https://doi.org/10.1109/eitt53287.2021.00025) | q3 · quant-synthesis · r? | i1 · small effect vs. not drawing, g=0.362 | [Drawing improves STEM learning by a small-to-moderate amount over not drawing and over oth](drawing-improves-learning.md) (supports) |
+| [Stull & Mayer 2007](https://doi.org/10.1037/0022-0663.99.4.808) | q3 · causal · r? | i2 · transfer favoured provided organizers, d=0.24 (ns), 0.43, 0.84 | [Learner-constructed graphic organizers are not shown to outperform provided ones: the one ](learner-constructed-graphic-organizers-outperform-provided.md) (qualifies) |
+| [Karpicke 2017](https://doi.org/10.1016/b978-0-12-809324-5.21055-9) | q2 · review · r3 | i? | [The same quizzing or concept-mapping activity produces more learning when done without vie](closed-book-versions-of-quizzes-and-concept-maps-outperform-open-book-versions.md) (qualifies); [A review chapter (Karpicke 2017) reports, second-hand, experiments in which retrieval prac](retrieval-practice-produces-more-learning-than-concept-mapping-and-imagery-elaboration.md) (counts against) |
+| [Chi 2018](https://doi.org/10.1111/cogs.12626) | q2 · design · r2 | i? | [An ICAP theory article reports, second-hand and without describing the design, a study in ](interactive-beats-constructive-concept-mapping.md) (qualifies) |
+| Jonassen 1984 | q1 · theoretical · r? | i? | [Placing heavier cognitive demands on learners can be counterproductive in mapping tasks](heavy-cognitive-demands-of-mapping-can-be-counterproductive.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Mechanism.** Concept mapping is typically explained through [cognitive load theory](../theories/cognitive-load-theory.md) and [dual coding](../theories/dual-coding-theory.md): building a map forces learners to identify relationships explicitly, integrate new material with prior knowledge, and represent it both spatially and verbally. The generative, constructive nature of map-building is what distinguishes it from passively reading a supplied map — see [Constructive learning activities produce better learning than active or passive ones.](constructive-learning-beats-active-passive.md).

@@ -77,6 +77,18 @@ Citing Gonzalez and Amanti (1992) and Moll et al. (1992), the digest reports tha
 
 > "Additionally, teachers who have visited working-class minority households while engaging in collaborative ethnographic reflection have found that pivotal and transformative shifts take place in teachers and in relations between households and schools and between parents and teachers"
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does learning about learners' homes change how educators read their students, and does it reach the students?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **3 distinct studies** (2 causal, 1 qualitative), `q1`–`q2`, 1 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Funds of Knowledge: Learning from Language Minority Households. ERIC Digest 1994 | q1 · qualitative · r2 | i? | this claim; [Home visits in funds of knowledge research led teachers to see culture as a dynamic proces](home-visits-shift-teacher-views-of-culture-to-dynamic-process.md) (supports); [Teacher-researchers in funds of knowledge work face difficulties, including helpless pessi](teacher-researcher-difficulties-eased-by-reflective-labs.md) (qualifies) |
+| Academic Performance — Parent Teacher Home Visits 2021 | q2 · causal · r2 | i0 | [A home visit before the school year reduced the likelihood of a disciplinary incident (eff](pthv-home-visit-reduces-disciplinary-incidents.md) (supports); [Teacher home visits slightly improved student attendance in the following school year (ES ](pthv-home-visits-improve-attendance-slightly.md) (qualifies) |
+| Allison McKie 2021 | q2 · causal · r? | i? | [A home visit before the school year reduced the likelihood of a disciplinary incident (eff](pthv-home-visit-reduces-disciplinary-incidents.md) (supports); [Teacher home visits slightly improved student attendance in the following school year (ES ](pthv-home-visits-improve-attendance-slightly.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

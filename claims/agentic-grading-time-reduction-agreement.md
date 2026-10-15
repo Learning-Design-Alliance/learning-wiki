@@ -44,5 +44,5 @@ The review's synthesis of the automated assessment literature (12 studies) repor
 
 ## Related Claims
 - [ChatGPT in thinking mode shows the strongest agreement with human examiners on essay-style exam grading (weighted kappa 0.718)](chatgpt-thinking-mode-strongest-human-grading-agreement.md) — related
-- [NLP-based automated grading in a MOOC platform reduced grading time by 70% and increased learner satisfaction by 15%](mooc-nlp-grading-70-percent-time-reduction.md) — related
+- [A technical review reports a 70% cut in grading time and a 15% rise in learner satisfaction from NLP-based automated grading on one MOOC platform, with no comparison design described](mooc-nlp-grading-70-percent-time-reduction.md) — related
 - [Hint-based prompts raise ChatGPT scoring agreement with human experts to 98–100%, while no-hint prompts are unstable (Q2 precision 0.42)](hint-prompts-raise-llm-scoring-agreement.md) — related

@@ -12,14 +12,14 @@ generated:
 # Number Relationships and Reasoning Strategies
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 mixed) · 6 studies (2 causal, 2 quant-synthesis, 2 review), `q2`–`q4` · 1 of 6 report an effect size
+> **Evidence** · 2 claims (2 mixed) · 8 studies (3 causal, 3 quant-synthesis, 2 review), `q2`–`q4` · 2 of 8 report an effect size
 
 ## Description
 Basic facts should be taught using number relationships and reasoning strategies, not rote memorization. Learners derive unknown facts from known ones using structured strategies — Making 10 (7 + 5 → 7 + 3 + 2 → 10 + 2), near doubles, compensation, and benchmark numbers — so that fluency emerges from understanding rather than preceding it. Because these strategies rest on number relationships and benchmarks, they support emerging conceptual understanding and flexibility, and they generalize: Making 10 with whole numbers becomes Make-a-Whole with fractions and decimals, and compensation strategies extend to multidimensional and mental computation.
 
 ## Design Implications
 
-Strategy-based fact instruction produces better retention and transfer than drill-only approaches because each fact is connected to a web of relationships rather than stored as an isolated verbal association [Baroody et al. argue retrieval practice alone produces fragile, quickly forgotten fact knowledge.](../claims/spaced-repetition-improves-retention.md) [~M]. The approach treats fluency as the *outcome* of reasoning about relationships, not the prerequisite for it, which reverses the traditional memorize-then-apply sequence. Strategy instruction must be paired with substantial practice in applying and choosing among strategies, or learners may know the strategy names without being able to execute them fluently.
+Strategy-based fact instruction produces better retention and transfer than drill-only approaches because each fact is connected to a web of relationships rather than stored as an isolated verbal association [Baroody et al. argue retrieval practice alone produces fragile, quickly forgotten fact knowledge.](../claims/spaced-practice-improves-retention.md) [~M]. The approach treats fluency as the *outcome* of reasoning about relationships, not the prerequisite for it, which reverses the traditional memorize-then-apply sequence. Strategy instruction must be paired with substantial practice in applying and choosing among strategies, or learners may know the strategy names without being able to execute them fluently.
 
 ### Context
 #### Requirements
@@ -57,7 +57,7 @@ Strategy-based fact instruction produces better retention and transfer than dril
 3. Introduce one strategy through a context or manipulative, making the relationship visible (e.g., 8 + 6 on a ten-frame shows 2 moving from the 6 to the 8).
 4. Have learners apply the strategy to a string of related problems, articulating each step ([Articulation](../elements/articulation.md)).
 5. Compare strategies on the same problem and discuss which is most efficient and why ([Class Discussion](../elements/class-discussion.md)).
-6. Follow with brief, distributed practice that requires strategy selection, not just retrieval [Spreading practice over time improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+6. Follow with brief, distributed practice that requires strategy selection, not just retrieval [Spreading practice over time improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 7. Extend the relationship to new domains — Make-a-Whole for 0.7 + 0.4, compensation for 3.98 + 2.17 — to build transfer.
 
 ## Related Strategies

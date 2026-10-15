@@ -1,0 +1,40 @@
+{
+  "principle": "principles/flexible-error-treatment-strategies",
+  "note": "Wave 11 (2026-10-15). Hub already carries a table from eval/synthesis/feedback-timing.json (immediate-feedback), whose members are the four Rassaei 2011 claims and cf-facilitates-l2-grammar-explicit-implicit-durability; they are deliberately not repeated here. Members added are claims on which form of correction works, read in full; directions by an agent, review before applying.",
+  "findings": [
+    {
+      "hub": "corrective-feedback-effect-on-l2-development-is-significant-and-durable",
+      "question": "Does corrective feedback on second-language errors improve accuracy, and which form of correction (recast, prompt, metalinguistic clue, explicit correction with or without a rule) works for which target and learner?",
+      "members": [
+        [
+          "recasts-supported-but-effectiveness-varies",
+          "~"
+        ],
+        [
+          "cf-type-explicit-short-term-differences",
+          "~"
+        ],
+        [
+          "cf-type-explicit-long-term-benefits",
+          "+"
+        ],
+        [
+          "prompts-beat-explicit-feedback-refusal-awareness",
+          "~"
+        ],
+        [
+          "recasts-facilitate-child-efl-third-person-s-development",
+          "+"
+        ],
+        [
+          "cf-treatment-improves-irregular-past-tense-gjt-eit",
+          "+"
+        ],
+        [
+          "explicit-teaching-effective-but-not-durable",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

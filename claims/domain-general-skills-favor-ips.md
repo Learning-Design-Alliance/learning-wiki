@@ -14,7 +14,7 @@ sources:
     title: "Tanmay Sinha and Manu Kapur. (2021). When Problem Solving Followed by Instruction Works: Evidence for Productive Failure. Review of Educational Research. https://doi.org/10.3102/00346543211019105"
     author: Tanmay Sinha and Manu Kapur
     q: 4
-    i: "?"
+    i: 0
     kind: quant-synthesis
     rigour: 3
 ---
@@ -22,10 +22,10 @@ sources:
 # For domain-general skills, effect sizes favor I-PS over PS-I
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · quant-synthesis `r3` · `q4`
+> **Evidence** · 1 study · quant-synthesis `r3` · `q4` · `i0` negligible
 
 ## Subclaims
-`q4 i?` Unlike domain-specific subjects, learning of domain-general skills showed a low effect size in favor of the instruction-first sequence, a significant subgroup difference. [→ Tanmay Sinha and Manu Kapur 2021](#tanmay-sinha-and-manu-kapur-2021)
+`q4 i0` Unlike domain-specific subjects, learning of domain-general skills showed a low effect size in favor of the instruction-first sequence, a significant subgroup difference. [→ Tanmay Sinha and Manu Kapur 2021](#tanmay-sinha-and-manu-kapur-2021)
 
 ## Evidence
 
@@ -33,7 +33,7 @@ sources:
 
 Tanmay Sinha and Manu Kapur. (2021). When Problem Solving Followed by Instruction Works: Evidence for Productive Failure. Review of Educational Research. https://doi.org/10.3102/00346543211019105
 
-`q4 · i?` · `quant-synthesis · r3`
+`q4 · i0` · `quant-synthesis · r3`
 
 Subgroup analysis of the meta-analysis by targeted learning concept. While moderate effects favored PS-I for domain-specific subjects, "For learning domain-general skills, however, the effect size was low, and in favor of I-PS"; Table 5 prints g = −0.17 [−1.11, −0.02] for domain-general skills, marked significant (*).
 

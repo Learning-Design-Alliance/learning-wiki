@@ -12,7 +12,7 @@ generated:
 # Phonics-Based Spelling Instruction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies (2 quant-synthesis, 1 causal, 1 review, 1 theoretical), `q1`–`q4` · 1 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 7 studies (3 quant-synthesis, 2 causal, 1 review, 1 theoretical), `q1`–`q4` · 2 of 7 report an effect size
 
 ## Description
 Phonics-based spelling instruction teaches learners to spell by segmenting words into phonemes (individual sound units) and mapping each phoneme to its corresponding letter or letter combination. Rather than memorizing whole-word spellings, learners generate spellings from their knowledge of grapheme–phoneme correspondences, making principled "educated guesses" about unfamiliar words. This reciprocal use of phonics for both reading and writing strengthens the orthographic knowledge that underlies both skills.
@@ -57,7 +57,7 @@ Spelling instruction grounded in phoneme segmentation produces more durable word
 3. Guide learners through several words with [Guidance](../elements/provide-guidance.md), using sound boxes or finger-spelling to scaffold one-phoneme-per-slot mapping.
 4. Move learners to independent [Practice](../elements/practice.md) via dictation of taught-pattern words and short sentences.
 5. Provide immediate [Feedback](../elements/provide-feedback.md), treating phonetically plausible errors as diagnostic information about which correspondences need reteaching.
-6. Distribute review of previously taught patterns across subsequent sessions [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+6. Distribute review of previously taught patterns across subsequent sessions [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ## Related Strategies
 - [Dictation and Encoding Practice](dictation-and-encoding-practice.md) — the most common delivery routine for phonics-based spelling

@@ -1,0 +1,74 @@
+{
+  "principle": "principles/process-based-writing",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "process-writing-improves-writing-quality",
+      "question": "Does teaching writing as a staged process with feedback on drafts raise writing quality, and what has to be inside it for the gain to appear?",
+      "members": [
+        [
+          "strategy-instruction-improves-writing-quality",
+          "+"
+        ],
+        [
+          "peer-feedback-improves-writing",
+          "+"
+        ],
+        [
+          "collaborative-writing-improves-text-quality",
+          "+"
+        ],
+        [
+          "peer-response-groups-writing-idea-units",
+          "~"
+        ],
+        [
+          "rubrics-improve-student-work",
+          "+"
+        ],
+        [
+          "process-goals-outperform-outcome-goals-for-novices",
+          "~"
+        ],
+        [
+          "essay-quality-improves-from-initial-to-revised",
+          "+"
+        ],
+        [
+          "noticing-errors-decreases-errors-preserves-quality",
+          "+"
+        ],
+        [
+          "spontaneous-sentence-production-in-synthetic-planning-increases-understanding",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "peer-feedback-improves-writing",
+      "question": "Does a responding audience of peers improve later drafts?",
+      "members": [
+        [
+          "peer-assessment-benefits-assessor",
+          "~"
+        ],
+        [
+          "peer-response-groups-writing-idea-units",
+          "~"
+        ],
+        [
+          "collaborative-writing-improves-text-quality",
+          "+"
+        ],
+        [
+          "peer-feedback-accuracy-depends-on-expertise",
+          "~"
+        ],
+        [
+          "rubrics-improve-peer-feedback-quality",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

@@ -41,8 +41,9 @@ The authors' expert interpretation from consulting across many districts, not a 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [After the Inclusive Innovation pilots, district-community teams sustained solutions through multi-level buy-in, implementation iteration, embedding in existing systems, and demonstrating benefits](inclusive-innovation-sustainability-factors.md) — the general claim this finding bears on, with the studies behind it
 - [In one participatory budgeting case, Latino immigrant participation lapsed under outreach with interpretation and was sustained only after the activity structure was redesigned](resolving-participation-double-bind-requires-redesigned-activity-structures.md) — related
 - [Female principals empowered others through shared ownership, committee involvement, and staff development](female-principals-empower-others-shared-ownership.md) — related
 - [Female principals maintained autonomy and connectedness despite hierarchical bureaucratic structures, and reported no isolation](principals-maintain-connectedness-despite-bureaucracy.md) — related

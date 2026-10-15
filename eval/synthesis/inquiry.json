@@ -67,13 +67,9 @@
       ]
     },
     {
-      "hub": "guided-discovery-outperforms-pure-discovery",
+      "hub": "minimal-guidance-less-effective-for-novices",
       "question": "Should novices be left to discover the target content without support?",
       "members": [
-        [
-          "explicit-instruction-beats-unassisted-discovery",
-          "+"
-        ],
         [
           "enhanced-discovery-beats-other-instruction",
           "+"

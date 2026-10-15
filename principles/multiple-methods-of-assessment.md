@@ -126,6 +126,12 @@ No claim in the wiki compares judgements made from several methods with judgemen
 
 Learners, settings and outcomes differ across these claims (school and university peer assessment, pre-university self-assessment, children in play, reviews of testing), and only four print an effect size, each on a different outcome, so they cannot be ranked against each other.
 
+## The evidence by question
+
+- *Does evidence from methods that make different demands show what a learner can do better than a single method?* [Proposition 4: evidence gathered through distinct demands supports capability claims better than multiple records of the same performance](../claims/proposition-4-distinct-evidence-demands.md) [+W]
+- *Can learners' own monitoring be trusted, and can it be trained?* [Self Assessment Accuracy Is Low Without Training](../claims/self-assessment-accuracy-is-low-without-training.md) [~M]
+- *Can methods scored by judgement be scored reliably, or do they add rater variation?* [Performance assessments can be reliably scored when designed appropriately and used with other measures](../claims/performance-assessments-reliably-scoreable.md) [~W]
+
 ## Further evidence, not yet read against this model
 <!-- Kept 2026-10-05: claims this page cited before the rewrite. Each keeps its old direction, capped by the claim's recorded evidence. None is part of the model above. -->
 Claims this page cited before it was rewritten as a conditional model. None tests multiple methods of assessment.

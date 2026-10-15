@@ -19,7 +19,7 @@ sources:
 # Direct Instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 26 claims (13 for, 13 mixed) · 31 studies (11 quant-synthesis, 9 causal, 5 review, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 6 of 31 report an effect size · 18 claims rest on one study
+> **Evidence** · 25 claims (12 for, 13 mixed) · 32 studies (11 quant-synthesis, 9 causal, 5 review, 5 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 7 of 32 report an effect size · 17 claims rest on one study
 
 ## Conditional relationship
 
@@ -31,7 +31,7 @@ Ask for four facts when the brief omits them: **can the learners begin a represe
 
 | If the brief says… | Then change… | Basis |
 |---|---|---|
-| Learners are new to the target and cannot start a representative item | Explain and model the method, then guide practice with checks and feedback; do not leave them to find the method unaided | [Minimal guidance is less effective for novices](../claims/minimal-guidance-less-effective-for-novices.md) [+S]; [Explicit instruction beats unassisted discovery](../claims/explicit-instruction-beats-unassisted-discovery.md) [+M] |
+| Learners are new to the target and cannot start a representative item | Explain and model the method, then guide practice with checks and feedback; do not leave them to find the method unaided | [Minimal guidance is less effective for novices](../claims/minimal-guidance-less-effective-for-novices.md) [+S]; [Explicit instruction beats unassisted discovery](../claims/minimal-guidance-less-effective-for-novices.md) [+M] |
 | The brief asks for inquiry or discovery learning | Keep it, but guide it: feedback, worked examples, prompts and teacher-led steps inside the inquiry. The evidence favours guided discovery as much as explicit teaching, and favours neither over the other | [Teacher-guided inquiry outperforms student-led](../claims/teacher-guided-inquiry-outperforms-student-led.md) [+S]; [Enhanced discovery beats other instruction](../claims/enhanced-discovery-beats-other-instruction.md) [~M] |
 | The goal is conceptual understanding or transfer, and the learners are secondary-school age or older | Consider a short, designed problem attempt before the explanation, then teach the canonical method | [Productive failure improves conceptual learning](../claims/productive-failure-improves-conceptual-learning.md) [~S] |
 | The goal is a procedure, or the learners are in the early primary grades | Teach first; a problem-first phase showed no gain for procedures and reversed for second to fifth graders | [Productive failure improves conceptual learning](../claims/productive-failure-improves-conceptual-learning.md) [+S] |

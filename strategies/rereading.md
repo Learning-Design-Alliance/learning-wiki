@@ -12,14 +12,14 @@ generated:
 # Rereading
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies (2 quant-synthesis, 1 causal, 1 review, 1 theoretical), `q1`–`q4` · 1 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 7 studies (3 quant-synthesis, 2 causal, 1 review, 1 theoretical), `q1`–`q4` · 2 of 7 report an effect size
 
 ## Description
 Rereading asks learners to revisit text they have already read — a sentence, a paragraph, or an entire passage — to improve word recognition accuracy, fluency, and comprehension. It is carried out through repeated readings of short text chunks, teacher modeling during read-alouds, and paired or independent practice. Successive passes free attention from decoding, allowing the reader to consolidate meaning and build automaticity.
 
 ## Design Implications
 
-Rereading works because repetition drives words toward automatic recognition, which frees working-memory resources for comprehension rather than decoding [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. It is most effective when each pass has a purpose — reading for accuracy first, then for expression, then for meaning — rather than as undirected repetition. Rereading also functions as a spacing mechanism: revisiting a text after intervening activity strengthens retention more than a single massed reading [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+Rereading works because repetition drives words toward automatic recognition, which frees working-memory resources for comprehension rather than decoding [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. It is most effective when each pass has a purpose — reading for accuracy first, then for expression, then for meaning — rather than as undirected repetition. Rereading also functions as a spacing mechanism: revisiting a text after intervening activity strengthens retention more than a single massed reading [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ### Context
 #### Requirements
@@ -50,14 +50,14 @@ Rereading works because repetition drives words toward automatic recognition, wh
 - Fluency: accuracy, rate, and prosody
 - Vocabulary acquisition through repeated contextual exposure
 - Comprehension of complex or layered texts where a single pass is insufficient
-- Retention of text content when rereading is spaced [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Retention of text content when rereading is spaced [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 
 ### Instructions
 1. Select a short, level-appropriate text and set a purpose for the first reading (e.g., decode accurately).
 2. Model a fluent, expressive reading of the passage aloud, verbalizing fix-up moves ([Think-Aloud](../elements/think-aloud.md)).
 3. Have learners reread the passage — echo, choral, paired, or independent — with feedback on accuracy and expression ([Practice](../elements/practice.md)).
 4. Assign a new purpose for each subsequent pass (prosody, vocabulary, answering a comprehension question), possibly with [Annotating](../principles/annotating.md) on later passes.
-5. Return to the text after a day or more for a spaced rereading, and connect it to a new text recycling the same vocabulary or theme [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+M].
+5. Return to the text after a day or more for a spaced rereading, and connect it to a new text recycling the same vocabulary or theme [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+M].
 
 ## Related Strategies
 

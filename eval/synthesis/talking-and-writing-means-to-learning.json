@@ -1,0 +1,62 @@
+{
+  "principle": "principles/talking-and-writing-means-to-learning",
+  "note": "Wave 10 (2026-10-15). Groupings and directions by an agent from claim pages read in full. The anxiety/atmosphere question has no general hub claim (only single-study learner reports and a survey), so it has no finding.",
+  "findings": [
+    {
+      "hub": "discussion-promotes-more-active-thought-than-lecture",
+      "question": "Does class time spent with learners talking, explaining and discussing, rather than listening, change what they think about and understand, and does more talk alone do it?",
+      "members": [
+        [
+          "structured-discussion-methods-improve-comprehension",
+          "~"
+        ],
+        [
+          "discourse-practices-correlate-reasoning-tests",
+          "+"
+        ],
+        [
+          "chatgpt-teachable-agent-knowledge-gains",
+          "+"
+        ],
+        [
+          "active-learning-gains-larger-concept-inventories",
+          "~"
+        ],
+        [
+          "reformed-pedagogy-content-gains-but-no-reasoning-gains",
+          "~"
+        ],
+        [
+          "active-learning-felt-learning-paradox",
+          "~"
+        ],
+        [
+          "no-knowledge-difference-lecture-vs-4cid-consent-training",
+          "~"
+        ],
+        [
+          "osce-advantage-4cid-not-significant",
+          "~"
+        ],
+        [
+          "lecturing-on-values-does-not-transact-values-effectively",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "writing-to-learn-improves-understanding",
+      "question": "Does writing about content during instruction improve learning of that content, compared with instruction without the writing?",
+      "members": [
+        [
+          "writing-improves-mathematical-understanding",
+          "+"
+        ],
+        [
+          "writing-uniquely-corresponds-features-successful-learning",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

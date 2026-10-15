@@ -41,12 +41,12 @@ Confirmatory test of H1 comparing the AI-only condition (M = 0.62, SD = 0.34) wi
 
 ## Discussion
 
-
 ## Related Claims
+
+- [How genAI is used, not who uses it, predicts whether independent performance declines or improves](persistence-costs-concentrated-among-direct-solution-users.md) — the general claim this finding bears on, with the studies behind it
 - [Greater answer offloading during learning is associated with lower subsequent unaided performance (exploratory)](answer-offloading-associated-lower-unaided-performance-exploratory.md) — related
 - [Metacognitive feedback on learners' own LLM use reduces answer offloading and improves subsequent unaided test performance](metacognitive-feedback-reduces-llm-answer-offloading-improves-unaided-performance.md) — related
 - [An effort-based reward did not significantly reduce answer offloading or improve unaided performance](effort-based-reward-no-effect-offloading-or-unaided-performance.md) — related
 - [Unguarded answer-giving AI harmed unaided exam performance while a guarded version of the same model erased the harm (Bastani et al., 2025, as reported)](gpt4-access-harms-learning-after-withdrawal.md) — reports the opposite
-- [Persistence and performance costs concentrate among participants who used the AI to obtain direct solutions, while hint-users resemble controls](persistence-costs-concentrated-among-direct-solution-users.md) — related
 - [GenAI use weakens effort adjustment to incentives on subsequent unaided reasoning](genai-weakens-effort-adjustment-to-incentives.md) — related
 - [Prior genAI use shows some evidence of poorer subsequent unaided reasoning, confined to the no-incentive condition](prior-genai-use-poorer-unaided-reasoning.md) — related

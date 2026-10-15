@@ -12,14 +12,14 @@ generated:
 # Dolch Word List - Word Search Puzzles
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 against) · 8 studies (3 quant-synthesis, 2 causal, 2 review, 1 theoretical), `q1`–`q4` · 3 of 8 report an effect size
+> **Evidence** · 3 claims (2 for, 1 against) · 10 studies (4 quant-synthesis, 3 causal, 2 review, 1 theoretical), `q1`–`q4` · 4 of 10 report an effect size
 
 ## Description
 This strategy uses word search puzzles whose target words are drawn from the Dolch Word List — the 220 high-frequency service words compiled by Edward W. Dolch (1936) that account for a large share of running text in early reading materials. Learners scan letter grids to locate sight words, providing repeated visual exposure intended to build automatic word recognition. The puzzles function as low-stakes, self-checkable practice rather than primary instruction.
 
 ## Design Implications
 
-The rationale is that automatic recognition of high-frequency words frees working memory and attention for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Word searches supply repeated visual exposure, but exposure alone is weak for building orthographic representations; recognition is strengthened when visual scanning is paired with reading, writing, and spelling the same words [~M]. Because the Dolch list is fixed and finite, puzzles can be sequenced by frequency and revisited over time, which aligns with spaced practice [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+The rationale is that automatic recognition of high-frequency words frees working memory and attention for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Word searches supply repeated visual exposure, but exposure alone is weak for building orthographic representations; recognition is strengthened when visual scanning is paired with reading, writing, and spelling the same words [~M]. Because the Dolch list is fixed and finite, puzzles can be sequenced by frequency and revisited over time, which aligns with spaced practice [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ### Context
 #### Requirements
@@ -55,7 +55,7 @@ The rationale is that automatic recognition of high-frequency words frees workin
 2. Have learners read each target word aloud before searching ([Activation](../elements/activation.md)).
 3. Learners locate the words in the grid ([Practice](../elements/practice.md)).
 4. Learners write each found word from memory, then read it in a short sentence ([Application](../elements/application.md)).
-5. Reintroduce the same words in new puzzles across days rather than in one session ([Spaced Repetition](../claims/spaced-repetition-improves-retention.md)).
+5. Reintroduce the same words in new puzzles across days rather than in one session ([Spaced Repetition](../claims/spaced-practice-improves-retention.md)).
 
 ## Related Strategies
 - [Flashcard Drill](flashcard-drill.md) — a more direct retrieval-based route to the same automaticity goal

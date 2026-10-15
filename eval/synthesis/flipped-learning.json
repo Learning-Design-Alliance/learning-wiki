@@ -1,0 +1,58 @@
+{
+  "principle": "principles/flipped-learning",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "flipped-classroom-improves-academic-performance-hpe",
+      "question": "Does a flipped course raise academic performance over the same course taught by lecture?",
+      "members": [
+        [
+          "flipped-classroom-performance-sensitivity-imputed-data",
+          "+"
+        ],
+        [
+          "flipped-classroom-evidence-base-rct-shortage-high-bias",
+          "~"
+        ],
+        [
+          "flipped-models-higher-question-accuracy",
+          "+"
+        ],
+        [
+          "blended-learning-improves-outcomes",
+          "~"
+        ],
+        [
+          "time-on-task-unequal-in-active-learning-comparisons",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "ptfc-beats-cfc-conceptual-understanding",
+      "question": "Does what is done in the live session change what a flipped course achieves?",
+      "members": [
+        [
+          "ptfc-beats-cfc-self-efficacy",
+          "+"
+        ],
+        [
+          "prior-achievement-affects-conceptual-understanding",
+          "+"
+        ],
+        [
+          "ai-flipped-boundary-deep-mastery",
+          "~"
+        ],
+        [
+          "ai-flipped-classroom-higher-response-rate",
+          "+"
+        ],
+        [
+          "ai-flipped-classroom-behavioral-engagement-null",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

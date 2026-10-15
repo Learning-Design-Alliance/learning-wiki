@@ -90,7 +90,7 @@ This page combines two earlier pages on the same claim, `worked-examples-example
 - [Sequencing worked examples with practice problems improves learning for novices](worked-example-problem-sequences.md) — a narrower finding that bears on this claim
 - [CLT-aligned e-learning modules improved cognitive load profiles and OSCE performance in simulation-based medical training (review-attributed to Gutierrez et al., 2023)](clt-aligned-e-learning-modules-improve-osce-performance.md) — related
 - [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-less-effective-with-expertise.md) — expertise reversal effect
-- [Worked examples improve mathematics performance, especially for novices.](worked-examples-improve-math-performance.md) — worked examples improve math performance (meta-analysis)
+- [Studying worked examples improves novices' algebra performance on problems with the same structure as the examples](worked-examples-improve-math-performance.md) — worked examples improve math performance (meta-analysis)
 - [Cognitive load reduction improves learning](cognitive-load-reduction-improves-learning.md) — the general mechanism this claim instantiates.
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — a complementary load-reduction technique.
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — the underlying theory explaining when example-based sequencing loses its benefit.

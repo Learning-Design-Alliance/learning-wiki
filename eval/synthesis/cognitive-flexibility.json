@@ -1,0 +1,50 @@
+{
+  "principle": "principles/cognitive-flexibility",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "cognitive-flexibility-theory-multiple-cases",
+      "question": "Does revisiting concepts across varied, compared cases improve transfer to a new case?",
+      "members": [
+        [
+          "comparing-contrasting-cases-improves-learning",
+          "~"
+        ],
+        [
+          "encoding-variability-decontextualization-transfer",
+          "+"
+        ],
+        [
+          "cft-hypertext-design-higher-achievement-scores",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "multiple-representations-improve-learning",
+      "question": "Does adding a second representation of the same idea help, and when?",
+      "members": [
+        [
+          "video-narration-text-improves-immediate-macs-comprehension",
+          "+"
+        ],
+        [
+          "auditory-descriptions-plus-tactile-graphics-improve-bvi-assessment",
+          "+"
+        ],
+        [
+          "multimodal-valued-complex-visualizations-hinder",
+          "~"
+        ],
+        [
+          "more-representations-mathematical-ideas-higher-achievement",
+          "+"
+        ],
+        [
+          "multiple-representations-aid-understanding-faculty-time",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

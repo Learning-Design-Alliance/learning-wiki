@@ -131,7 +131,7 @@ Responding directly to Cameron and Pierce's (1994) conclusion that the undermini
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does praise help or harm learners' motivation and later performance, and which kind of praise?* This table gathers the studies behind this claim and the 8 narrower claims that bear on it: **13 distinct studies** (4 review, 3 causal, 2 quant-synthesis, 2 theoretical, 1 associational, 1 design), `q1`–`q4`, 1 of 13 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does praise help or harm learners' motivation and later performance, and which kind of praise?* This table gathers the studies behind this claim and the 10 narrower claims that bear on it: **15 distinct studies** (5 review, 3 quant-synthesis, 3 causal, 2 theoretical, 1 associational, 1 design), `q1`–`q4`, 2 of 15 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -140,6 +140,8 @@ Responding directly to Cameron and Pierce's (1994) conclusion that the undermini
 | [Deci 1971](https://doi.org/10.1037/h0030644) | q3 · causal · r? | i? | this claim |
 | [Eisenberger and Cameron 1996](https://doi.org/10.1037/0003-066x.51.11.1153) | q3 · review · r? | i? | this claim |
 | [Deci Koestner and Ryan 2001](https://doi.org/10.3102/00346543071001001) | q3 · review · r2 | i? | this claim |
+| [Sailer & Homner 2020](https://doi.org/10.1007/s10648-019-09498-w) | q3 · quant-synthesis · r3 | i1 · small effects, g = .25 (behavioral) to g = .49 (cognitive) | [Gamification has small positive effects on cognitive, motivational and behavioral learning](gamification-has-small-positive-effects-on-learning-outcomes.md) (qualifies) |
+| [Patricia D. Simon 2026](https://doi.org/10.1016/j.caeo.2026.100360) | q2 · review · r3 | i? | [Evidence on gamification's effect on engagement in adaptive learning platforms is mixed, w](gamification-engagement-mixed-evidence.md) (qualifies) |
 | [Mueller & Dweck 1998](https://doi.org/10.1037/0022-3514.75.1.33) | q3 · causal · r? | i? | [Praise for intelligence, rather than for effort, after success undermines children's motiv](feedback-praise-reduces-learning.md) (qualifies) |
 | [Henderlong & Lepper 2002](https://doi.org/10.1037/0033-2909.128.5.774) | q3 · review · r? | i? | [Praise for intelligence, rather than for effort, after success undermines children's motiv](feedback-praise-reduces-learning.md) (qualifies) |
 | Halpern 2007 | q3 · review · r2 | i? | [Praise for intelligence, rather than for effort, after success undermines children's motiv](feedback-praise-reduces-learning.md) (qualifies) |

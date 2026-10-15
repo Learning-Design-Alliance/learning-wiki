@@ -13,6 +13,18 @@
         [
           "pretraining-principle-mayer-2008",
           "+"
+        ],
+        [
+          "expertise-reversal-isolated-elements-and-imagination-review",
+          "~"
+        ],
+        [
+          "whole-task-performance-improves-transfer",
+          "~"
+        ],
+        [
+          "skill-develops-through-engagement-not-drill",
+          "-"
         ]
       ]
     },
@@ -87,6 +99,10 @@
         [
           "revisions-no-effect-time-with-lesson",
           "~"
+        ],
+        [
+          "cognitive-load-management",
+          "-"
         ]
       ]
     },
@@ -138,6 +154,26 @@
         ],
         [
           "prior-knowledge-activation-little-effect-on-retention",
+          "~"
+        ],
+        [
+          "hierarchical-organization-improves-complex-task-performance",
+          "+"
+        ],
+        [
+          "no-organization-effect-on-local-tasks",
+          "~"
+        ],
+        [
+          "ability-moderates-hierarchical-organization-benefit",
+          "~"
+        ],
+        [
+          "higher-hierarchy-levels-recalled-better",
+          "~"
+        ],
+        [
+          "strong-acquisition-tasks-improve-internalization",
           "~"
         ]
       ]

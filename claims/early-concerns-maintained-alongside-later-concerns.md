@@ -41,8 +41,9 @@ Discussion of the case study's interview and SoCQ findings: teachers developed C
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Teachers' concerns follow a developmental trend from lower to higher stages during curriculum implementation](stages-of-concern-developmental-trend.md) — the general claim this finding bears on, with the studies behind it
 - [Teachers' voluntary individual adoption activities fall into two categories — investigating new computer resources and experimenting with altered teaching methods and classroom arrangements — associated with informational through consequence stages of concern](voluntary-investigation-and-experimentation-adoption-activities.md) — related
 - [Collegial interaction among adopting teachers increased over time, spanning informational, personal, management, consequence, and collaboration concerns](increasing-collegial-interaction-across-concern-stages.md) — related
 - [Not all educators develop impact concerns even when colleagues do; concern change cannot be forced by an outside agent](not-all-educators-develop-impact-concerns.md) — related

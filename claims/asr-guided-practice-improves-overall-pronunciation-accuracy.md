@@ -83,6 +83,8 @@ A meta-analysis of 15 studies (2008–2021, 38 effect sizes) comparing ESL/EFL l
 Ngo et al. (2024) support the general claim that ASR practice improves pronunciation more than a non-ASR condition. Their duration moderator qualifies it: the three studies lasting one to four weeks pooled to a negligible effect, and the Dillon & Wells (2023) programme reported here lasted four weeks, so its gain is larger than the synthesis would predict for a programme that short.
 
 ## Related Claims
+
+- [CAPT software shows promising results for segmental pronunciation, while prosodic features and fluency still require further research and development](capt-strong-segmentals-weak-prosody.md) — the general claim this finding bears on, with the studies behind it
 - [Guided ASR practice did not produce statistically significant improvement in any specific pronunciation error type, with some errors unimproved or regressed](asr-specific-error-types-no-significant-gains.md) — related
 - [ASR transcription serves as a diagnostic tool identifying individual learners' pronunciation errors, with function words most commonly mispronounced](asr-diagnostic-identification-pronunciation-errors.md) — related
 - [Amount of ASR practice (days per week, session length) showed no observable difference in pronunciation improvement](no-dose-response-asr-practice-time.md) — related

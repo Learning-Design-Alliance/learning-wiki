@@ -46,7 +46,6 @@ Meta-analytic comparison of expanding versus fixed ISI schedules, 22 accuracy co
 - [Total retrieval spacing improved one-week vocabulary recall while relative schedules were not distinguished](total-retrieval-spacing-beats-massed-but-relative-schedule-not-distinguished.md) — the general claim this finding bears on, with the studies behind it
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — related
 - [The optimal interstudy interval increases as the retention interval increases](optimal-isi-increases-with-retention-interval.md) — related
-- [Spaced presentations produce markedly better final recall than massed presentations across retention intervals](spaced-repetition-improves-retention.md) — related
+- [Spaced presentations produce markedly better final recall than massed presentations across retention intervals](spaced-practice-improves-retention.md) — related
 - [ISI effects on recall are nonmonotonic and depend jointly on retention interval](isi-effect-nonmonotonic-joint-retention-interval.md) — related
-- [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — related
 - [Students' academic outcomes tentatively benefit from teacher-focused classroom management programs](teacher-focused-programs-academic-outcomes-tentative.md) — related

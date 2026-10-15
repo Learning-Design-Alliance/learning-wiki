@@ -71,6 +71,8 @@ Open questions: how much prior knowledge is "enough" for calibration in a given 
 
 ## Related Claims
 
+- [In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems](peer-feedback-accuracy-depends-on-expertise.md) — the general claim this finding bears on, with the studies behind it
+
 - [Activation improves learning](activation-improves-learning.md) — activating prior knowledge is the entry point for building the schemas self-assessment depends on
 - [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — external feedback scaffolds the calibration that self-assessment alone cannot provide
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — organized knowledge structures free capacity for metacognitive monitoring
@@ -79,7 +81,7 @@ Open questions: how much prior knowledge is "enough" for calibration in a given 
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — the competence-dependent meaning of self-assessment cues explains why calibration fails for novices
 - [Only a minority of self-reported CLT-familiar teachers could identify the three types of cognitive load](minority-identify-three-load-types.md) — a narrower finding that bears on this claim
 - [Self Assessment Accuracy Is Low Without Training](self-assessment-accuracy-is-low-without-training.md) — related
-- [Self Monitoring Comprehension Improves Learning](self-monitoring-comprehension-improves-learning.md) — related
+- [Metacognitive strategy instruction, which includes comprehension monitoring, improves academic performance by a medium amount, and in one non-randomised study comprehension-monitoring training raised low achievers' reading scores](self-monitoring-comprehension-improves-learning.md) — related
 - [Self-efficacy judgments correspond less well to behavior in learning settings than in performance settings](self-efficacy-accuracy-lower-in-learning-settings.md) — related
 - [Self-monitoring improves self-regulation and supports better learning decisions.](self-monitoring-improves-self-regulation.md) — related
 - [Synthesis and Evaluation subtests measure general mental ability rather than knowledge for lower grades or unfamiliar content](synthesis-evaluation-measure-general-ability-lower-grades.md) — related

@@ -44,4 +44,3 @@ Quasi-experiment in a mandatory psychology course: 125 students studied a prompt
 
 ## Related Claims
 - [The immediate advantage of deep-processing prompts does not persist at a 5-month follow-up, with a Bayesian test confirming the null](deep-prompt-advantage-fades-at-follow-up.md) — related
-- [Prompting strategies for activating deep learning alone are insufficient for preserving a long-term learning advantage](deep-prompting-insufficient-long-term-retention.md) — a broader claim this one bears on

@@ -41,10 +41,13 @@ Qualitative finding from the experimental group questionnaire in the Findings se
 
 ## Discussion
 
-
 ## Learner Variables
 - [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Reading Strategy Instruction Improves Comprehension](reading-strategy-instruction-improves-comprehension.md) — the general claim this finding bears on, with the studies behind it
+
+- [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](worked-examples-with-practice-improve-transfer.md) — the general claim this finding bears on, with the studies behind it
 - [All experimental group EFL students expressed positive perspectives on explicit instruction of reading comprehension strategies](efl-students-positive-views-explicit-strategy-instruction.md) — related
 - Experimental and control groups showed no significant pre-test difference in reading comprehension before treatment — related

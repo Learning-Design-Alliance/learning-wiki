@@ -1,0 +1,78 @@
+{
+  "principle": "patterns/epistemic-games",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read. First hub and question reused verbatim from eval/synthesis/simulations-immersive-virtual-environments.json; no claim in the wiki tests an epistemic game itself, so that finding is the parent evidence on practising work in simulation. The second finding rests on two papers sharing an author (Rupp 2010; Sweet & Rupp 2012), the latter with simulated, not real, learners.",
+  "findings": [
+    {
+      "hub": "simulation-based-education-improves-outcomes",
+      "question": "Does practising in a simulation improve knowledge and skill more than no simulation or conventional training, and for which skills and horizons?",
+      "members": [
+        [
+          "simulation-based-education-with-deliberate-practice-improves-clinical-outcomes",
+          "+"
+        ],
+        [
+          "simulation-games-higher-skill-based-knowledge",
+          "+"
+        ],
+        [
+          "ixr-vet-positive-effects-procedural-motivation",
+          "+"
+        ],
+        [
+          "ai-simulation-short-term-gains-nursing",
+          "~"
+        ],
+        [
+          "genai-virtual-patient-short-term-gains-mixed",
+          "~"
+        ],
+        [
+          "simulation-advantage-immediate-not-sustained",
+          "~"
+        ],
+        [
+          "simulation-near-transfer-robust-far-transfer-weak",
+          "~"
+        ],
+        [
+          "ai-simulation-inferior-bse-skills",
+          "-"
+        ],
+        [
+          "contextualized-teaching-facilitates-transfer",
+          "+"
+        ],
+        [
+          "organization-simulation-knowledge-practices-support-interdisciplinary-learning",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "reliability-challenges-epistemic-games",
+      "question": "Can what a learner has learned in an epistemic game be measured reliably from the record of play?",
+      "members": [
+        [
+          "latent-variable-models-limit-grain-size",
+          "+"
+        ],
+        [
+          "segmentation-boundaries-differentially-affect-statistics",
+          "~"
+        ],
+        [
+          "longer-games-sharpen-wd-learner-differentiation",
+          "~"
+        ],
+        [
+          "wd-detects-simulated-learner-trajectory-differences",
+          "~"
+        ],
+        [
+          "easy-highly-specific-tasks-shrink-wd-range",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

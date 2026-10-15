@@ -41,8 +41,9 @@ The document's qualitative report from pilot testing states that "digital tools 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Immersive technologies such as virtual reality should reinforce, not substitute, the original educational action](vr-reinforcement-not-substitute.md) — the general claim this finding bears on, with the studies behind it
 - [Changes in the constraints of activity (attention, object location, interaction patterns) provide opportunities for new locally stable patterns of thinking to take hold](changing-activity-constraints-enable-new-coherences.md) — related
 - [When all of a teacher's students had access to Equatio, teachers leveraged it in more robust workflows such as assessments, digital submissions, and timely feedback](universal-student-access-enables-robust-equatio-use.md) — related
 - [Children in classrooms implementing the Early Science with Nico and Nor program made significantly more improvement in science learning than peers in comparison classrooms.](nico-nor-greater-science-learning-gains-than-comparison.md) — related

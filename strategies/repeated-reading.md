@@ -179,7 +179,7 @@ Repeated reading exploits the fact that word recognition is the bottleneck for c
 2. Have the learner read the passage aloud once; record words correct per minute and note errors.
 3. Give immediate corrective feedback on misread words; have the learner practice the missed words in isolation ([Chunking](../principles/chunking.md) difficult words or phrases).
 4. Have the learner reread the full passage aloud two to three more times, charting rate and accuracy after each read so progress is visible.
-5. Stop when the fluency criterion is met (typically 3–4 readings); move to a new passage the next session, spacing practice across days rather than massing it [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+5. Stop when the fluency criterion is met (typically 3–4 readings); move to a new passage the next session, spacing practice across days rather than massing it [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ## Related Strategies
 

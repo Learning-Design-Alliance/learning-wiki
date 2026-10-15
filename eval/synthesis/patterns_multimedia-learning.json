@@ -1,0 +1,144 @@
+{
+  "principle": "patterns/multimedia-learning",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read. Hubs and questions reused verbatim from eval/synthesis/multimedia-learning.json (principles/multimedia-learning); the three configuration choices this pattern's step 3 makes (placement, channel, duplicated text). Several members rest on one synthesis (Ginns 2006, Ginns 2005, Adesope & Nesbit 2012), counted once.",
+  "findings": [
+    {
+      "hub": "split-attention-effect-degrades-learning",
+      "question": "Should words sit next to, and arrive with, the picture they describe?",
+      "members": [
+        [
+          "contiguity-spatial-temporal-large-learning-benefits",
+          "+"
+        ],
+        [
+          "integration-of-related-elements-large-mean-effect",
+          "+"
+        ],
+        [
+          "contiguity-principles-mayer-2008",
+          "+"
+        ],
+        [
+          "temporal-contiguity-lower-cognitive-load",
+          "+"
+        ],
+        [
+          "element-interactivity-moderates-contiguity-effect",
+          "~"
+        ],
+        [
+          "static-dynamic-presentation-no-moderation",
+          "~"
+        ],
+        [
+          "spatial-temporal-contiguity-equivalent-magnitudes",
+          "~"
+        ],
+        [
+          "testing-format-moderates-contiguity-effect",
+          "~"
+        ],
+        [
+          "expertise-reversal-split-attention-redundancy-review",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "modality-effect-narration-over-text",
+      "question": "Should the words be spoken or printed?",
+      "members": [
+        [
+          "modality-principle-mayer-2008",
+          "+"
+        ],
+        [
+          "modality-effect-within-subjects-d073",
+          "+"
+        ],
+        [
+          "modality-effect-holds-middle-school-electricity",
+          "+"
+        ],
+        [
+          "voice-media-outperform-picture-text-overall",
+          "+"
+        ],
+        [
+          "modality-effect-moderated-by-pacing",
+          "~"
+        ],
+        [
+          "modality-effect-field-of-study-moderator",
+          "~"
+        ],
+        [
+          "modality-effect-stronger-in-virtual-reality",
+          "~"
+        ],
+        [
+          "spoken-versus-signaled-written-null",
+          "~"
+        ],
+        [
+          "design-principles-improve-cognitive-load-management",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "redundancy-hurts-learning",
+      "question": "Does presenting the same words twice (spoken and written) hurt or help, and for whom?",
+      "members": [
+        [
+          "verbal-redundancy-small-overall-effect",
+          "-"
+        ],
+        [
+          "spoken-written-beats-spoken-only-not-written-only",
+          "~"
+        ],
+        [
+          "reader-fluency-prior-knowledge-moderate-redundancy",
+          "~"
+        ],
+        [
+          "system-paced-moderates-verbal-redundancy",
+          "~"
+        ],
+        [
+          "segmentation-moderates-verbal-redundancy",
+          "~"
+        ],
+        [
+          "outcome-constructs-test-formats-moderate-redundancy",
+          "~"
+        ],
+        [
+          "captioning-second-language-videos-large-benefits",
+          "~"
+        ],
+        [
+          "redundancy-principle",
+          "+"
+        ],
+        [
+          "images-animation-eliminate-redundancy-benefit",
+          "~"
+        ],
+        [
+          "redundancy-effect-not-significant-middle-school",
+          "~"
+        ],
+        [
+          "redundant-text-no-effect-posterior-probability-lesson",
+          "~"
+        ],
+        [
+          "redundancy-principle-mayer-2008",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

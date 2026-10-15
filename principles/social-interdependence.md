@@ -98,12 +98,16 @@ Learners, settings and outcomes differ (school maths, early adolescents' general
 
 **A discrepancy to note.** Several claim pages from Brewer & Klein (2003) describe its participants as adult learners ([reward interdependence and benefit attitudes](../claims/reward-interdependence-benefit-attitudes.md) [+M], [high affiliation motive](../claims/high-affiliation-motive-favorable-group-attitudes.md) [~M]); the evidence entries describe 280 undergraduate business majors and do not say they were adult or reentry students. This page follows the entries.
 
+## The evidence by question
+
+- *Which structure matters: group rewards tied to each member's learning, assigned roles, or interdependence of any kind?* [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](../claims/cooperative-learning-group-rewards-and-individual-accountability.md) [+M]
+
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-05: claims this page cited before the 2026-10-05 rewrite, and neighbouring claims found while rewriting it. Each marker keeps its old direction where it had one, capped by the claim's recorded evidence (strength_cap). -->
 Claims this page cited before it was rewritten, and neighbours found while rewriting it. None is part of the model above.
 
 - [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [+S] — cited by the earlier page as an analogy (support should change with learner capability). It is about worked examples in individual study, not interdependence, and does not bear on this page's relationship directly. Its entries are read from abstracts.
-- [Worked examples improve mathematics performance, especially for novices.](../claims/worked-examples-improve-math-performance.md) [~S] — cited by the earlier page as an analogy for structured guidance. It is about studying worked algebra examples individually and does not bear on interdependence. Its entries are read from abstracts or have no source text here.
+- [Studying worked examples improves novices' algebra performance on problems with the same structure as the examples](../claims/worked-examples-improve-math-performance.md) [~S] — cited by the earlier page as an analogy for structured guidance. It is about studying worked algebra examples individually and does not bear on interdependence. Its entries are read from abstracts or have no source text here.
 - [Science-classroom studies of cooperative learning show mixed results](../claims/cooperative-learning-science-studies-mixed.md) [~W] — second-hand digest of three science studies with null or negative comparisons; it says the expectation can fail in a given implementation, not why.
 - [Cooperative learning has drawbacks including slow learners depending on fast achievers](../claims/cooperative-learning-versus-individual-endeavors.md) [~W] — an opinion essay (q1, no data); the dependence it names is the freeloading failure mode.
 - [Heterogeneously grouped teams show more benefits than homogeneously formed teams](../claims/heterogeneous-teams-more-benefits-than-homogeneous.md) [~W] — a chapter's one-line citation of other research (q1); no study details.

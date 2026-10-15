@@ -62,8 +62,9 @@ The same design matrix 1 distributional analysis shows "the widest range of WD v
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Defining and quantifying reliability and measurement error is particularly challenging in epistemic games for three principal reasons](reliability-challenges-epistemic-games.md) — the general claim this finding bears on, with the studies behind it
 - [In simulated epistemic games, the weighted density statistic distinguishes simulated learner types with distinct mastery trajectories, with the expert trajectory showing the largest WD values](wd-detects-simulated-learner-trajectory-differences.md) — related
 - [The WD statistic is more useful for differentiating between simulated learner types when games are played longer](longer-games-sharpen-wd-learner-differentiation.md) — related
 - [In pairwise WD analyses, learner trajectory similarity dominates variation in percentage-overlap values (57.90% of variation) while remaining design factors are essentially zero](trajectory-similarity-dominates-wd-pair-overlap.md) — related

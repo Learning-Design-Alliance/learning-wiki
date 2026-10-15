@@ -97,6 +97,11 @@ No claim in the wiki tests cognitive activation as stated: none compares lessons
 
 Taken together: two kinds of activating task (explaining, comparing) have synthesis support on mostly immediate outcomes; the line between activating and merely active tasks rests on a framework whose middle steps have not held everywhere; activation without prior guidance does not help novices; and teachers find activating tasks hard to design. Learners, tasks and outcomes differ across these claims, so do not rank them by effect label. Retain the comparator, the instrument and its alignment, and the horizon when transporting them; a pooled average does not forecast one learner's response.
 
+## The evidence by question
+
+- *Which kind of activity: manipulating material, generating beyond it, or building on a partner's ideas?* [Constructive learning beats active and passive learning](../claims/constructive-learning-beats-active-passive.md) [~M]
+- *What makes it fail: too little guidance for novices, or tasks that are hard to design well?* [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [~S]
+
 ## Further evidence, not yet read against this model
 <!-- Kept 2026-10-02: claims this page cited before the 2026-10-02 rewrite. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
 Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.

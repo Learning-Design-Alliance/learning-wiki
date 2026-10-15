@@ -12,14 +12,14 @@ generated:
 # Irregular Anglo-Saxon Word Instruction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 11 studies (4 review, 3 causal, 3 quant-synthesis, 1 theoretical), `q1`–`q4` · 3 of 11 report an effect size
+> **Evidence** · 4 claims (4 for) · 13 studies (4 causal, 4 quant-synthesis, 4 review, 1 theoretical), `q1`–`q4` · 4 of 13 report an effect size
 
 ## Description
 Irregular Anglo-Saxon words (e.g., *said*, *was*, *one*, *two*, *who*, *come*) contain letter–sound correspondences that do not follow the regular patterns taught in systematic phonics, so they cannot be fully decoded or spelled by rule. Effective instruction teaches these words by (a) grouping words with memorable similarities, (b) explicitly marking the "odd part" that must be learned by heart while mapping the regular parts to sounds, (c) using multisensory practice routines (tracing, writing, saying), (d) mnemonics, and (e) close visual attention tasks such as visualizing the letter sequence and recalling it backwards as well as forwards. The goal is secure orthographic representations — instant recognition in reading and accurate recall in spelling.
 
 ## Design Implications
 
-Irregular-word instruction works best when it leverages, rather than bypasses, alphabetic knowledge: most letters in an "irregular" word map regularly onto sounds, and only the truly irregular part needs rote attention [~S]. This approach — sometimes called "spotlighting" the tricky part — produces stronger word learning than whole-word memorization, which treats the word as an arbitrary visual unit [Phonics instruction outperforms whole-word methods for generalization.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]. Repeated, spaced encounters with the word build the orthographic memory that supports automatic recognition [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S], and automatic word recognition in turn frees working memory for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S].
+Irregular-word instruction works best when it leverages, rather than bypasses, alphabetic knowledge: most letters in an "irregular" word map regularly onto sounds, and only the truly irregular part needs rote attention [~S]. This approach — sometimes called "spotlighting" the tricky part — produces stronger word learning than whole-word memorization, which treats the word as an arbitrary visual unit [Phonics instruction outperforms whole-word methods for generalization.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]. Repeated, spaced encounters with the word build the orthographic memory that supports automatic recognition [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S], and automatic word recognition in turn frees working memory for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S].
 
 ### Context
 #### Requirements
@@ -57,7 +57,7 @@ Irregular-word instruction works best when it leverages, rather than bypasses, a
 4. Attach a mnemonic or meaning hook to the odd part.
 5. Run a multisensory encoding cycle: say it, tap the sounds, build it with tiles, write it while naming letters, then write it from memory and check.
 6. Have students visualize the word, recall it backwards and forwards, and self-test ([Practice](../elements/practice.md)).
-7. Provide immediate corrective feedback on attempts ([Assess Performance](../elements/assess-performance.md)), then distribute review across days and weeks [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+7. Provide immediate corrective feedback on attempts ([Assess Performance](../elements/assess-performance.md)), then distribute review across days and weeks [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ## Related Strategies
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — connecting new irregular words to known regular patterns strengthens mapping

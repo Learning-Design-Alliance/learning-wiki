@@ -46,14 +46,14 @@ The authors regressed study effect sizes on program and design features. Group-b
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Which variant: how high a criterion, group-paced or self-paced, and measured how?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **6 distinct studies** (5 quant-synthesis, 1 causal), `q2`–`q4`, 4 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Self-paced or group-paced progression through small units, at what criterion, measured how?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **6 distinct studies** (5 quant-synthesis, 1 causal), `q2`–`q4`, 4 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Kulik et al. 1990](https://doi.org/10.3102/00346543060002265) | q4 · quant-synthesis · r? | i? | this claim; [Self-paced mastery programs (PSI) reduce college course completion, though not by enough t](self-paced-mastery-programs-reduce-college-course-completion.md) (supports) |
-| Guskey 1985 | q2 / q3 · quant-synthesis · r2 | i2; i3 · average effect size .85 | [In one synthesis of group-based mastery learning, five observational studies found more ti](mastery-improves-engagement-attrition.md) (supports) |
 | [Hasler et al. 2007](https://doi.org/10.1002/acp.1345) | q3 · causal · r? | i? | [Letting learners pace instruction helped on complex material in one experiment, while lear](learner-paced-beats-system-paced-complex-material.md) (qualifies) |
 | [Karich et al. 2014](https://doi.org/10.3102/0034654314526064) | q3 · quant-synthesis · r? | i0 · negligible overall effect, g=0.05 | [Letting learners pace instruction helped on complex material in one experiment, while lear](learner-paced-beats-system-paced-complex-material.md) (qualifies) |
+| Guskey 1985 | q2 / q3 · quant-synthesis · r2 | i2; i3 · average effect size .85 | [In one synthesis of group-based mastery learning, five observational studies found more ti](mastery-improves-engagement-attrition.md) (supports) |
 | [Ma et al. 2014](https://doi.org/10.1037/a0037123) | q4 · quant-synthesis · r2 | i2 · medium effect, g=0.42 vs teacher-led large-group instruction | [Adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) (qualifies) |
 | [Kulik & Fletcher 2016](https://doi.org/10.3102/0034654315581420) | q4 · quant-synthesis · r? | i2 · medium effect, median 0.66 SD | [Adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) (qualifies) |
 <!-- synthesis:end -->

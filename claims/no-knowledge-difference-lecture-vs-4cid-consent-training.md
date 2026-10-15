@@ -41,8 +41,11 @@ A study of 21 emergency care professionals, which its authors call quasi-experim
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — the general claim this finding bears on, with the studies behind it
+
+- [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](whole-task-performance-improves-transfer.md) — the general claim this finding bears on, with the studies behind it
 - [Plotting experience against OSCE results showed no effect of years of emergency department experience on consent-taking skill scores](ed-experience-no-effect-osce-consent.md) — related
 - [The 4C/ID group scored higher on consent-taking OSCEs than the lecture group, but the difference was not statistically significant](osce-advantage-4cid-not-significant.md) — related
 - [Focus group participants described role-play as transformative for conceptual clarity and confidence in consent-taking](role-play-transformative-consent-clarity-confidence.md) — related

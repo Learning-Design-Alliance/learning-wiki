@@ -31,7 +31,7 @@ sources:
 # Explicit Instruction: Math Strategies
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 17 claims (13 for, 4 mixed) · 22 studies (11 causal, 5 review, 4 quant-synthesis, 1 associational, 1 theoretical), `q2`–`q4` · 3 of 22 report an effect size · 11 claims rest on one study
+> **Evidence** · 18 claims (14 for, 4 mixed) · 26 studies (12 causal, 5 review, 4 quant-synthesis, 4 theoretical, 1 associational), `q1`–`q4` · 4 of 26 report an effect size · 11 claims rest on one study
 
 ## Conditional relationship
 
@@ -123,6 +123,11 @@ No claim in the wiki compares explicit strategy instruction with practice that l
 **The limiting claim.** [Three weeks of explicit language-focused strategy instruction produced no significant word-problem gain in this study](../claims/explicit-strategy-instruction-no-significant-gain.md) [~M]: in one classroom, three weeks of daily 20-minute explicit strategy instruction raised the word-problem mean from 47.08 to 55.42, not a significant gain (t = −1.26), with no comparison group. It is weak evidence (one class, coded `r1`), and a non-significant gain does not show no effect, but it is the only claim in the wiki that runs explicit word-problem strategy instruction and measures the result, and it did not find a reliable gain. Do not promise that a short strategy unit will move word-problem scores.
 
 Learners, tasks and outcomes differ across these claims (seventh-grade algebra, ninth-grade word problems in 1972, fourth graders, circuit troubleshooting, writing revision), so do not rank them by effect label. None measures delayed transfer of a taught strategy against no strategy teaching.
+
+## The evidence by question
+
+- *Does teaching when and why to use a procedure, not only its steps, improve flexible use and understanding?* [Strategy Instruction Needs Conditional Knowledge](../claims/strategy-instruction-needs-conditional-knowledge.md) [+M]
+- *Does explicitly teaching a strategy or plan for word problems improve how learners set up and solve them?* [Three weeks of explicit language-focused strategy instruction produced no significant word-problem gain in this study](../claims/explicit-strategy-instruction-no-significant-gain.md) [~M]
 
 ## Further evidence, not yet read against this model
 

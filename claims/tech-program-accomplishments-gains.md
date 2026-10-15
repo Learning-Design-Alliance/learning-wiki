@@ -41,8 +41,9 @@ Thematic analysis across seven accomplishment themes: career transition and expe
 
 ## Discussion
 
-
 ## Related Claims
+
+- [An adult-education market report, citing a 2014 Department of Labor synthesis, states that cohort membership contributes to adult learners' skill development and persistence](cohort-support-improves-adult-persistence.md) — the general claim this finding bears on, with the studies behind it
 - [Individuals involved in technology exposure and exploration programs are more likely to pursue or enroll in technology-related education and training](exposure-programs-increase-tech-pursuit.md) — related
 - [Cost, inflexible formats, and misalignment with goals or industry demand are reported barriers to educational and training opportunities](tech-training-cost-inflexibility-misalignment-barriers.md) — related
 - [People and connections were the most-used learning transition supports among HSE participant-advisors](people-connections-top-transition-support.md) — related

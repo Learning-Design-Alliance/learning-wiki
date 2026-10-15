@@ -44,6 +44,6 @@ A narrative review's central critical question. The review "investigates how cur
 
 ## Related Claims
 - [Educational rhetoric on the home/school relation and parent involvement spans a century](century-rhetoric-home-school-relation.md) — possibly the same claim (merge candidate)
-- [Parent Involvement Improves Achievement](parent-involvement-improves-achievement.md) — related
+- [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](parent-involvement-improves-achievement.md) — related
 - [Parent Involvement Improves Early Reading](parent-involvement-improves-early-reading.md) — related
 - [Mission statements across the U15, Russell Group, and Ivy League exhibit Booth's rhetorical corruptions, with polished rhetoric of excellence obscuring concrete commitments](mission-statement-rhetorical-corruptions.md) — related

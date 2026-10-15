@@ -41,7 +41,8 @@ Interviews with 7 school board members and 8 district administrators in TSD and 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [In one participatory budgeting case, Latino immigrant participation lapsed under outreach with interpretation and was sustained only after the activity structure was redesigned](resolving-participation-double-bind-requires-redesigned-activity-structures.md) — the general claim this finding bears on, with the studies behind it
 - [District officials and CBO leaders believed WSS implementation success should be assessed along multiple dimensions including engagement, student outcomes, district resources, and experiences](wss-multidimensional-success-measures.md) — related
 - [Common physical and exclusionary safety measures can cause harm to the very students schools are trying to protect](safety-measures-cause-harm-black-brown-youth.md) — related

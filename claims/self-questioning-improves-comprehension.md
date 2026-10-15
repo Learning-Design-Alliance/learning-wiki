@@ -96,7 +96,7 @@ This review examined 35 experimental research studies that taught self-questioni
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — segmenting text into question-sized units supports the strategy.
 - [Reciprocal Teaching Improves Reading Comprehension](reciprocal-teaching-improves-reading-comprehension.md) — related
 - [Scaffolded Close Reading Improves Comprehension For Struggling Readers](scaffolded-close-reading-improves-comprehension-for-struggling-readers.md) — related
-- [Self Monitoring Comprehension Improves Learning](self-monitoring-comprehension-improves-learning.md) — a broader claim this one bears on
+- [Metacognitive strategy instruction, which includes comprehension monitoring, improves academic performance by a medium amount, and in one non-randomised study comprehension-monitoring training raised low achievers' reading scores](self-monitoring-comprehension-improves-learning.md) — a broader claim this one bears on
 - [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) — related
 - [Reading Strategy Instruction Improves Comprehension](reading-strategy-instruction-improves-comprehension.md) — a broader claim this one bears on
 - [Students typically receive little or no instruction in how to analyze, answer, and write answers to questions](little-instruction-in-answering-questions.md) — related

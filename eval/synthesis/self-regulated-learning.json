@@ -7,10 +7,6 @@
       "question": "Does teaching and prompting self-regulation improve achievement over ordinary instruction?",
       "members": [
         [
-          "self-regulation-strategy-instruction-improves-achievement",
-          "+"
-        ],
-        [
           "metacognitive-strategies-improve-learning",
           "+"
         ],
@@ -52,6 +48,14 @@
         ],
         [
           "srl-meta-analysis-no-publication-bias",
+          "+"
+        ],
+        [
+          "implementation-intentions-improve-goal-attainment",
+          "+"
+        ],
+        [
+          "self-determination-instruction-improves-outcomes",
           "+"
         ]
       ]
@@ -121,12 +125,16 @@
       "question": "Can learners' own monitoring be trusted, and can it be trained?",
       "members": [
         [
+          "fluent-illusions-mislead-self-assessment",
+          "+"
+        ],
+        [
           "prior-knowledge-needed-for-accurate-self-assessment",
           "+"
         ],
         [
-          "fluent-illusions-mislead-self-assessment",
-          "+"
+          "self-assessment-improves-self-regulated-learning",
+          "~"
         ],
         [
           "apca-improves-self-assessment-accuracy-overconfidence",
@@ -137,12 +145,12 @@
           "+"
         ],
         [
-          "self-assessment-improves-self-regulated-learning",
+          "peer-self-assessment-improve-performance-equally",
           "~"
         ],
         [
-          "peer-self-assessment-improve-performance-equally",
-          "~"
+          "rubrics-improve-student-work",
+          "+"
         ]
       ]
     },

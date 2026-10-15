@@ -13,14 +13,14 @@ generated:
 # Pre-Seminar Preparation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 10 studies (4 quant-synthesis, 3 causal, 2 review, 1 associational), `q2`–`q4` · 2 of 10 report an effect size
+> **Evidence** · 3 claims (3 for) · 12 studies (5 quant-synthesis, 4 causal, 2 review, 1 associational), `q2`–`q4` · 3 of 12 report an effect size
 
 ## Description
 Pre-seminar preparation asks learners to engage with source material — readings, videos, or problem sets — before a discussion-based session, so that class time is spent applying, questioning, and debating rather than receiving first exposure. It functions as the first-exposure phase of a flipped or seminar design, shifting transmission of foundational knowledge outside the group setting.
 
 ## Design Implications
 
-Preparation before discussion raises the quality of seminar talk because learners arrive with shared foundational knowledge, freeing group time for higher-order interaction [Flipped instruction improves exam performance over traditional lecture.](../patterns/flipped-classroom.md) [+M]. Preparation tasks that require active processing — answering guiding questions, annotating, self-quizzing — produce substantially better retention than passive review [Practice testing and distributed review outperform rereading.](../claims/spaced-repetition-improves-retention.md) [+S]. Structuring preparation as generative work (summarizing, questioning, mapping) also positions learners to contribute rather than merely attend, consistent with the engagement hierarchy in which constructive and interactive modes outperform passive ones [Active and constructive engagement modes support deeper learning than passive modes.](../principles/active-learning.md) [+S].
+Preparation before discussion raises the quality of seminar talk because learners arrive with shared foundational knowledge, freeing group time for higher-order interaction [Flipped instruction improves exam performance over traditional lecture.](../patterns/flipped-classroom.md) [+M]. Preparation tasks that require active processing — answering guiding questions, annotating, self-quizzing — produce substantially better retention than passive review [Practice testing and distributed review outperform rereading.](../claims/spaced-practice-improves-retention.md) [+S]. Structuring preparation as generative work (summarizing, questioning, mapping) also positions learners to contribute rather than merely attend, consistent with the engagement hierarchy in which constructive and interactive modes outperform passive ones [Active and constructive engagement modes support deeper learning than passive modes.](../principles/active-learning.md) [+S].
 
 ### Context
 #### Requirements

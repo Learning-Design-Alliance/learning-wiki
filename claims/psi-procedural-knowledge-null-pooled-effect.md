@@ -41,6 +41,7 @@ Subgroup of the same three-level meta-analysis restricted to the 51 of 166 compa
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — the general claim this finding bears on, with the studies behind it
 - [For domain-general skills, effect sizes favor I-PS over PS-I](domain-general-skills-favor-ips.md) — related

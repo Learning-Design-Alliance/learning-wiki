@@ -114,6 +114,11 @@ These rows are proposals, untested with learners as diagnostics. A probe (a conf
 
 Learners, genres and measures differ across these claims (school writers on researcher-rated essays, university students, online courses), so do not rank them by effect size. None tests the reader-response stance, the rule against appropriation, or a number of drafts, and none measures writing ability after a delay.
 
+## The evidence by question
+
+- *Does teaching writing as a staged process with feedback on drafts raise writing quality, and what has to be inside it for the gain to appear?* [Process Writing Improves Writing Quality](../claims/process-writing-improves-writing-quality.md) [+M]
+- *Does a responding audience of peers improve later drafts?* [Peer Feedback Improves Writing](../claims/peer-feedback-improves-writing.md) [+M]
+
 ## Further evidence, not yet read against this model
 
 Claims this page cited before it was rewritten, and claims found for it that bear on it more distantly. Each says what it is and how far it bears on process-based writing.
@@ -122,7 +127,6 @@ Claims this page cited before it was rewritten, and claims found for it that bea
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — meta-analyses of self-explanation while studying or solving problems, mostly mathematics and science; carried to explaining revision choices, which it did not test.
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — one-to-one tutoring studies (long division, circulatory system) and a dynamic-assessment meta-analysis in which explicit strategy training beat scaffolding; bears on conferences, and agrees with this page's preference for explicit strategy teaching; classroom-scale effect not shown.
 - [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](../claims/peer-assessment-improves-performance.md) [+M] — a meta-analysis of 54 control-group studies across subjects (essays, tests, practical skills), g = 0.31 against no assessment; bears on the peer round, not on writing alone.
-- [Self-regulated learning strategy instruction improves writing outcomes](../claims/strategy-instruction-improves-writing-quality.md) [+M] — the same Graham and Perin (2007) entry as the strategy-instruction claim; a duplicate.
 - [Review reports that asking students to notice particular errors decreased errors in a subsequent draft without reducing overall writing quality (Chandler)](../claims/noticing-errors-decreases-errors-preserves-quality.md) [+W] — a second-hand report in a review of EFL college writing; bears on the editing step.
 - [Language proficiency, beliefs, feedback literacy and learning objectives moderate students' engagement with and uptake of WCF](../claims/student-factors-moderate-wcf-engagement.md) [~W] — a bibliometric review reporting other studies; bears on second-language writers.
 - [Students report teacher feedback on writing is insufficient, and they value scores over feedback](../claims/insufficient-writing-feedback-scores-over-feedback.md) [~W] — interviews at one Chinese university; describes a constraint, tests nothing.

@@ -12,14 +12,14 @@ generated:
 # Independent Practice
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (1 for, 1 mixed, 1 against) · 10 studies (4 causal, 4 quant-synthesis, 1 review, 1 qualitative), `q2`–`q4` · 2 of 10 report an effect size
+> **Evidence** · 3 claims (1 for, 1 mixed, 1 against) · 12 studies (5 causal, 5 quant-synthesis, 1 review, 1 qualitative), `q2`–`q4` · 3 of 12 report an effect size
 
 ## Description
 Independent practice is when learners practice skills and concepts on their own, after guided practice. It is crucial for moving knowledge into long-term memory and developing fluency with foundational skills and concepts. Interweaving reviews of older content and providing feedback can support retention of accurate material.
 
 ## Design Implications
 
-Independent practice consolidates what guided instruction established, but its effectiveness depends on *how* it is structured: spaced and retrieval-based practice produces far stronger retention than massed re-reading or re-exposure [Distributed (spaced) practice improves long-term retention across ages, materials, and retention intervals.](../claims/spaced-repetition-improves-retention.md) [+S]. Practice tasks must sit within learners' current capability — too much unassisted difficulty overloads working memory and produces error-laden practice [Cognitive overload degrades learning outcomes.](../claims/cognitive-overload-degrades-learning.md) [~M]. Because learners practice without an instructor present, the materials themselves must carry the guidance load: clear worked models, hints, and feedback mechanisms substitute for the teacher's presence.
+Independent practice consolidates what guided instruction established, but its effectiveness depends on *how* it is structured: spaced and retrieval-based practice produces far stronger retention than massed re-reading or re-exposure [Distributed (spaced) practice improves long-term retention across ages, materials, and retention intervals.](../claims/spaced-practice-improves-retention.md) [+S]. Practice tasks must sit within learners' current capability — too much unassisted difficulty overloads working memory and produces error-laden practice [Cognitive overload degrades learning outcomes.](../claims/cognitive-overload-degrades-learning.md) [~M]. Because learners practice without an instructor present, the materials themselves must carry the guidance load: clear worked models, hints, and feedback mechanisms substitute for the teacher's presence.
 
 ### Context
 #### Requirements
@@ -30,31 +30,31 @@ Independent practice consolidates what guided instruction established, but its e
 
 #### Constraints
 - Ineffective if learners lack foundational understanding: unguided practice on material not yet understood produces errors and frustration [Contingent scaffolding improves learning; removing support before competence leads to failure.](../claims/contingent-scaffolding-improves-learning.md) [-M]
-- Massed, single-session practice yields rapid forgetting compared with spaced schedules [Distributed (spaced) practice improves long-term retention across ages, materials, and retention intervals.](../claims/spaced-repetition-improves-retention.md) [-S]
+- Massed, single-session practice yields rapid forgetting compared with spaced schedules [Distributed (spaced) practice improves long-term retention across ages, materials, and retention intervals.](../claims/spaced-practice-improves-retention.md) [-S]
 - Without feedback, learners may consolidate misconceptions through repeated incorrect performance
 - Low-stakes, low-accountability practice is often skipped or rushed by learners lacking motivation or self-regulation skills
 
 #### Implementation Variability
-- **Spaced practice**: distribute sessions across days or weeks; the optimal gap grows with the desired retention interval [Distributed (spaced) practice improves long-term retention across ages, materials, and retention intervals.](../claims/spaced-repetition-improves-retention.md) [+S]
-- **Interleaved practice**: mix problem types within a session rather than blocking them; harder in the moment but better for discrimination and transfer [Distributed (spaced) practice improves long-term retention across ages, materials, and retention intervals.](../claims/spaced-repetition-improves-retention.md) [+M]
+- **Spaced practice**: distribute sessions across days or weeks; the optimal gap grows with the desired retention interval [Distributed (spaced) practice improves long-term retention across ages, materials, and retention intervals.](../claims/spaced-practice-improves-retention.md) [+S]
+- **Interleaved practice**: mix problem types within a session rather than blocking them; harder in the moment but better for discrimination and transfer [Distributed (spaced) practice improves long-term retention across ages, materials, and retention intervals.](../claims/spaced-practice-improves-retention.md) [+M]
 - **Adaptive platforms**: systems like [Reflex](https://www.explorelearning.com/reflex/) or [Khan Academy](https://www.khanacademy.org) adjust item difficulty and scheduling automatically based on learner performance
 - **Homework vs. in-class**: independent practice can occur as homework, in-class seatwork, or station work; in-class formats allow faster error correction
 
 ### Target Learners
-- Learners who have already achieved initial accuracy under guidance and now need fluency [Distributed (spaced) practice improves long-term retention across ages, materials, and retention intervals.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Learners who have already achieved initial accuracy under guidance and now need fluency [Distributed (spaced) practice improves long-term retention across ages, materials, and retention intervals.](../claims/spaced-practice-improves-retention.md) [+S]
 - All levels — K–12, higher education, and adult learning — particularly for foundational skills requiring automaticity
 - Less suitable for novices encountering material for the first time, who need [Fading](../elements/fading.md) from guided support rather than immediate independence
 
 ### Target Learning Goals
 - Fluency and automaticity: making foundational skills fast and effortless
-- Long-term retention: moving knowledge into durable memory [Distributed (spaced) practice improves long-term retention across ages, materials, and retention intervals.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Long-term retention: moving knowledge into durable memory [Distributed (spaced) practice improves long-term retention across ages, materials, and retention intervals.](../claims/spaced-practice-improves-retention.md) [+S]
 - Discrimination and transfer: knowing *which* procedure to apply when problem types are mixed
 
 ### Instructions
 1. Verify during guided [Practice](../elements/practice.md) that learners can perform the skill accurately with support before releasing them to work alone.
 2. Assign a short set of independent tasks at an appropriate difficulty level, beginning with items similar to guided examples and progressing to variation.
 3. Build in a feedback loop — self-checking items, automated hints, or rapid instructor review — so errors are corrected before they are rehearsed.
-4. Schedule review: reassign core items in spaced sessions over subsequent days and weeks [Distributed (spaced) practice improves long-term retention across ages, materials, and retention intervals.](../claims/spaced-repetition-improves-retention.md) [+S].
+4. Schedule review: reassign core items in spaced sessions over subsequent days and weeks [Distributed (spaced) practice improves long-term retention across ages, materials, and retention intervals.](../claims/spaced-practice-improves-retention.md) [+S].
 5. Monitor performance data and re-insert guided instruction where accuracy drops below criterion.
 
 ## Related Strategies

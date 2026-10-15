@@ -41,8 +41,9 @@ The guide's summary of the two of six studies that taught reflective questioning
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](reflective-practice-evidence-mixed-in-professional-education.md) — the general claim this finding bears on, with the studies behind it
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
 - [Comparing cases side by side improves learning and transfer by a moderate average amount, though in one algebra study it raised procedural knowledge and flexibility but not conceptual knowledge](comparing-contrasting-cases-improves-learning.md) — related
 - [Strategy Instruction Improves Learning](strategy-instruction-improves-learning.md) — a broader claim this one bears on

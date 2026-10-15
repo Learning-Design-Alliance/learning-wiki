@@ -14,7 +14,7 @@ sources:
     title: "Frolli, A., Cerciello, F., Esposito, C., Russo, M., & Bisogni, F. (2023). Learning Italian as a second language in a sample of Ukrainian children: A game-based learning approach. *Pediatric Reports, 15*(3), 502–511. [doi:10.3390/pediatric15030046](https://doi.org/10.3390/pediatric15030046)"
     author: "Frolli, A., Cerciello, F., Esposito, C., Russo, M., & Bisogni, F."
     q: 2
-    i: 3
+    i: "?"
     n: 48
     kind: causal
     rigour: 1
@@ -23,7 +23,7 @@ sources:
 # Game-based vocabulary practice produced larger gains than traditional instruction for newly arrived migrant children.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r1` · `q2` · `i3` large · n=48
+> **Evidence** · 1 study · causal `r1` · `q2` · n=48
 
 Rated weak deliberately: the result is clean and the population is unusual on every axis. The
 paper's note on articles is an implementation detail, not a finding: no article outcome was measured.
@@ -31,7 +31,7 @@ paper's note on articles is an implementation detail, not a finding: no article 
 
 ## Subclaims
 
-`q2 i3` Over four weeks, a game-based group went from 40.29 to 171.91 Italian words against 40.54 to 139.29 for a traditionally taught control, F(1,46) = 219.215, p < .05. [→ Frolli et al. 2023](#frolli-et-al-2023)
+`q2 i?` Over four weeks, a game-based group went from 40.29 to 171.91 Italian words against 40.54 to 139.29 for a traditionally taught control, F(1,46) = 219.215, p < .05. [→ Frolli et al. 2023](#frolli-et-al-2023)
 
 `q2 i?` The authors report Italian articles as an instructional accommodation, the one topic that needed occasional explanation in Russian because articles are absent from Russian and Ukrainian grammar; no outcome was measured for articles, so this is an implementation note, not a finding. [→ Frolli et al. 2023](#frolli-et-al-2023)
 <!-- deprecated (2026-09-30; the paper measured no article outcome, see observations/frolli-2023.yaml): `q2 i?` Italian articles were disproportionately hard for this group, which the authors attribute to articles being absent from Russian and Ukrainian grammar — a category the first language does not contain rather than a rule the learner has not yet met. [→ Frolli et al. 2023](#frolli-et-al-2023) -->
@@ -42,7 +42,7 @@ paper's note on articles is an implementation detail, not a finding: no article 
 
 Frolli, A., Cerciello, F., Esposito, C., Russo, M., & Bisogni, F. (2023). Learning Italian as a second language in a sample of Ukrainian children: A game-based learning approach. *Pediatric Reports, 15*(3), 502–511. [doi:10.3390/pediatric15030046](https://doi.org/10.3390/pediatric15030046)
 
-`q2 · two-group controlled classroom comparison over four weeks` · `i3 · 171.91 vs 139.29 words, F(1,46) = 219.215` · `n=48` · `causal · r1`
+`q2 · two-group controlled classroom comparison over four weeks` · `i? · raw means and F only (171.91 vs 139.29 words, F(1,46) = 219.215); no standardized effect size printed` · `n=48` · `causal · r1`
 
 48 Ukrainian children aged 6–7 (mean 6.5), about one month resident in Italy, were taught basic Italian vocabulary for four weeks in two conditions: game-based (Kahoot! and outdoor games) or traditional instruction. Both groups started near 40 words. The authors attribute the difference to motivation and attention, noting that incentive systems fuelled the students' motivation to win. They separately note that articles were the one topic taught partly in Russian, since neither Russian nor Ukrainian has them; no article-specific outcome was measured.
 
@@ -80,9 +80,13 @@ either alone](pairing-contextual-encounters-with-explicit-instruction-produces-s
 
 ## Related Claims
 
+- [Gamification has small positive effects on cognitive, motivational and behavioral learning outcomes](gamification-has-small-positive-effects-on-learning-outcomes.md) — the general claim this finding bears on, with the studies behind it
+
+- [The review reports that students learning with serious games often perform better on content knowledge assessments than those in traditional settings](serious-games-better-content-knowledge-than-traditional.md) — the general claim this finding bears on, with the studies behind it
+
 - [A learner's first language predicts L2 phoneme perception more strongly than their proficiency level does](l1-predicts-l2-phoneme-perception-more-than-proficiency.md) — the same first-language-gap effect, measured
 - [Pairing contextual encounters with explicit instruction produces stronger vocabulary outcomes than either alone](pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone.md) — the stronger general claim about vocabulary instruction
-- [Incidental Vocabulary Exposure Limited](incidental-vocabulary-exposure-limited.md) — the limit on exposure alone, which an immersion context makes easy to overestimate
+- [Incidental vocabulary exposure produces reliable learning, but learners pick up only a small share of the unknown words they meet](incidental-vocabulary-exposure-limited.md) — the limit on exposure alone, which an immersion context makes easy to overestimate
 - [Gains from an intensive period of second-language study persist for weeks without rehearsal.](l2-fluency-gains-persist-weeks-without-practice.md) — related
 - [Number Board Games Improve Numerical Knowledge](number-board-games-improve-numerical-knowledge.md) — related
 - [Adults may have superior language learning capabilities in vocabulary and language structure](adults-superior-vocabulary-structure-learning.md) — related

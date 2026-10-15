@@ -12,7 +12,7 @@ generated:
 # Teaching Academic Vocabulary in PBL
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 6 studies (3 causal, 3 quant-synthesis), `q3`–`q4` · 2 of 6 report an effect size
+> **Evidence** · 2 claims (2 for) · 8 studies (4 causal, 4 quant-synthesis), `q3`–`q4` · 3 of 8 report an effect size
 
 ## Description
 In project-based learning (PBL), teaching academic vocabulary means identifying the specialized and high-utility academic words students will need to read, discuss, and produce during a project, then planning deliberate instruction for those words rather than leaving acquisition to incidental exposure. Instruction typically combines explicit teaching of word meanings and morphology, multiple encounters across contexts, and structured opportunities to use the words in authentic project tasks. This is especially consequential for English Language Learners (ELLs), who must build academic language while simultaneously learning content.
@@ -25,7 +25,7 @@ Vocabulary knowledge is one of the strongest predictors of academic reading comp
 #### Requirements
 - Front-loaded vocabulary selection: distinguish *tier two* high-utility academic words (analyze, justify, criterion) from *tier three* domain-specific terms, prioritizing words with the widest payoff (Beck, McKeown, & Kucan, 2013)
 - Explicit introduction of word meanings with student-friendly definitions, [Analogies](../elements/analogies.md), and examples in the project context
-- Multiple, spaced encounters with each word across reading, discussion, and writing tasks [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Multiple, spaced encounters with each word across reading, discussion, and writing tasks [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 - Structured opportunities for students to *use* the words productively — in [Class Discussion](../elements/class-discussion.md), project artifacts, and presentations — with [Coaching](../elements/coaching.md) and corrective feedback
 - Word walls, glossaries, or [Annotating](../principles/annotating.md) routines that keep target vocabulary visible throughout the project
 
@@ -55,7 +55,7 @@ Vocabulary knowledge is one of the strongest predictors of academic reading comp
 ### Instructions
 1. **Select** — during project planning, identify 8–15 high-utility words from project texts, rubrics, and final-product expectations; prioritize tier two words and essential tier three terms
 2. **Introduce explicitly** — use [Direct Instruction](../elements/direct-instruction.md) with student-friendly definitions, [Analogies](../elements/analogies.md), and examples drawn from the project context
-3. **Distribute encounters** — embed target words in project readings, discussion prompts, and task directions so students meet each word repeatedly across days [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+3. **Distribute encounters** — embed target words in project readings, discussion prompts, and task directions so students meet each word repeatedly across days [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 4. **Require productive use** — build discussion protocols, drafts, and presentation requirements that obligate use of target vocabulary, with [Coaching](../elements/coaching.md) and [Provide Feedback](../elements/provide-feedback.md) on accurate usage
 5. **Assess formatively** — quick checks (rating familiarity, using the word in a sentence) to decide which words need re-teaching before high-stakes project milestones
 

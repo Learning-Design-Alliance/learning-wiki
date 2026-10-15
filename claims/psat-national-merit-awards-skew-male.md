@@ -41,8 +41,9 @@ Rosser's testimony on the National Merit Scholarship Corporation, which awards o
 
 ## Discussion
 
-
 ## Related Claims
+
+- [A narrative review, citing Ford (2003), attributes the underrepresentation of culturally and linguistically diverse students in gifted education to identification measures biased toward another cultural background](culturally-diverse-underrepresentation-biased-measures.md) — the general claim this finding bears on, with the studies behind it
 - [Congressional hearing testimony reports, citing a 1979 ETS study second-hand, that females tend to do better on test items with female or neutral figures than on items with male figures](male-oriented-item-content-biases-test-scores.md) — related
 - [Testimony at a 1987 congressional hearing reported 1985 SAT averages in which Black women scored 43 points below Black men and 264 points below white men, which the witness called a double penalty for minority females](minority-females-doubly-penalized-on-tests.md) — related
 - [SAT scores underpredict the academic performance of high school girls, who average lower scores than boys despite higher grades](sat-underpredicts-girls-performance.md) — related

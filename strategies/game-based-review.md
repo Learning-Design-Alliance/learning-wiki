@@ -12,14 +12,14 @@ generated:
 # Game Based Review
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 14 studies (8 quant-synthesis, 2 causal, 2 review, 2 theoretical), `q1`–`q4` · 7 of 14 report an effect size
+> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 16 studies (9 quant-synthesis, 3 causal, 2 review, 2 theoretical), `q1`–`q4` · 8 of 16 report an effect size
 
 ## Description
 Game based review re-packages previously taught content into competitive or cooperative game formats — quiz games, board races, digital platforms, escape-room puzzles — so that learners repeatedly retrieve and apply material in a low-stakes, motivating context. The game structure supplies rules, feedback, and pacing; the content supplies the retrieval demands. It is a review strategy, not a first-teaching strategy: the learning target must already have been introduced.
 
 ## Design Implications
 
-Game based review works primarily because it forces repeated retrieval of prior learning, and retrieval practice is among the most robust findings in learning science [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]. The game layer adds engagement and immediate feedback, but it must not displace the retrieval itself — games where most players watch one person answer, or where luck dominates content knowledge, produce activity without learning [Active learning improves exam performance.](../claims/active-learning-improves-exam-performance.md) [+S].
+Game based review works primarily because it forces repeated retrieval of prior learning, and retrieval practice is among the most robust findings in learning science [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S]. The game layer adds engagement and immediate feedback, but it must not displace the retrieval itself — games where most players watch one person answer, or where luck dominates content knowledge, produce activity without learning [Active learning improves exam performance.](../claims/active-learning-improves-exam-performance.md) [+S].
 
 ### Context
 #### Requirements
@@ -38,7 +38,7 @@ Game based review works primarily because it forces repeated retrieval of prior 
 - **Digital platforms** (Kahoot!, Quizizz, Blooket, Gimkit): simultaneous anonymous response lowers social risk; self-paced variants (Quizizz) remove the speed penalty
 - **Cooperative formats** (team-based trivia, escape rooms, [Jigsaw](../strategies/jigsaw.md)-style review): shift motivation from individual competition to group accountability
 - **Low-tech formats** (board races, trashketball, bingo, flashcard tournaments): cheaper and easier to align tightly with specific content
-- **Spaced review games**: short games revisiting content from prior weeks rather than only the current lesson, exploiting spacing [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- **Spaced review games**: short games revisiting content from prior weeks rather than only the current lesson, exploiting spacing [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 
 ### Target Learners
 - K–12 learners across subjects, especially where cumulative knowledge (vocabulary, math facts, science terms) needs automating

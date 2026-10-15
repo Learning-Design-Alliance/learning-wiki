@@ -41,8 +41,9 @@ The study analyzed data from the computer-based version of the PISA-Based Test f
 
 ## Discussion
 
-
 ## Related Claims
+
+- [One measurement article argues that low test-taking motivation biases an individual student's achievement test score downward](test-taking-motivation-negative-score-bias.md) — the general claim this finding bears on, with the studies behind it
 - [Previous research found a meaningful correlation between countries' mean engagement and mean performance on large-scale international assessments, motivating validity questions about aggregated scores](engagement-performance-correlation-countries.md) — related
 - [Test-taking disengagement distorts both individual and aggregated test scores](disengagement-distorts-individual-and-aggregated-scores.md) — a broader claim this one bears on
 - [Two decades of research have produced advances in both the measurement of test-taking disengagement and understanding of its distortive impact on individual and aggregated scores](disengagement-research-advances-measurement-and-impact.md) — a broader claim this one bears on

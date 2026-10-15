@@ -14,7 +14,7 @@ sources:
     title: "Brundidge, G. (2025). TEAM student: A comprehensive model for family-friendly, student-centered middle schooling. National Youth Advocacy and Resilience Journal, 8(1), 15-22. https://doi.org/10.20429/nyarj.2025.080103"
     author: Brundidge, G.
     q: 2
-    i: 2
+    i: "?"
     kind: design
     rigour: 2
 ---
@@ -22,7 +22,7 @@ sources:
 # Out-of-school suspensions decreased 41% at a middle school implementing PBIS under the TEAM Student framework
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · design `r2` · `q2` · `i2` medium
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Out-of-school suspensions at Lee Roy Myers Middle School decreased 41%, from 976 to 580, which the school attributes to its PBIS program. [→ Brundidge 2025](#brundidge-2025)
@@ -33,7 +33,7 @@ sources:
 
 Brundidge, G. (2025). TEAM student: A comprehensive model for family-friendly, student-centered middle schooling. National Youth Advocacy and Resilience Journal, 8(1), 15-22. https://doi.org/10.20429/nyarj.2025.080103
 
-`q2 · i2` · `design · r2`
+`q2 · i? · no effect size: a before-after count at one school with no comparison` · `design · r2`
 
 Single-school report from the Results section of a written workshop report; the author attributes the drop in out-of-school suspensions "from 976 to 580" to the school's PBIS program. No comparison school or statistical test is reported.
 
@@ -41,8 +41,9 @@ Single-school report from the Results section of a written workshop report; the 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [SWPBIS reduces the odds of receiving an office discipline referral](swpbis-reduces-office-discipline-referrals.md) — the general claim this finding bears on, with the studies behind it
 - [Parent involvement increased for three consecutive years under family-centered engagement approaches](parent-involvement-increased-three-years.md) — related
 - [Student mastery increased modestly from 17.5% to 19.2% during TEAM Student implementation](student-mastery-increase-team-student.md) — related
 - [Brief Intervention Empathic Discipline Cuts Suspensions](brief-intervention-empathic-discipline-cuts-suspensions.md) — related

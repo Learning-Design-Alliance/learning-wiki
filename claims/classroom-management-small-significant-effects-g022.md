@@ -41,8 +41,9 @@ The meta-analysis pooled 54 random and nonrandom controlled intervention studies
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Teachers' universal classroom management practices significantly reduce problem classroom behavior (mean classroom ES = 0.80, ICC=.05)](universal-classroom-management-reduces-problem-behavior.md) — the general claim this finding bears on, with the studies behind it
 - [Programs focusing on students' social-emotional development contribute most to classroom management intervention effectiveness, especially on social-emotional outcomes](social-emotional-focus-largest-contribution.md) — related
 - [First Step to Success shows potentially positive but not statistically significant effects on emotional/internal behavior (effect size 0.26)](first-step-success-internal-behavior-substantive-nonsig.md) — related
 - [First Step to Success shows potentially positive effects on social outcomes (average improvement index +23)](first-step-success-positive-social-outcomes.md) — related

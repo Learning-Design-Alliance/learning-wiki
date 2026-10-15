@@ -27,7 +27,7 @@ sources:
 # Self-Regulated Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 47 claims (25 for, 20 mixed, 2 against) · 42 studies (13 causal, 7 quant-synthesis, 7 review, 6 associational, 6 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 14 of 42 report an effect size · 36 claims rest on one study
+> **Evidence** · 46 claims (24 for, 20 mixed, 2 against) · 42 studies (13 causal, 7 quant-synthesis, 7 review, 6 associational, 6 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 14 of 42 report an effect size · 36 claims rest on one study
 
 ## Conditional relationship
 
@@ -39,7 +39,7 @@ Ask for three facts when the brief omits them: **which outcome counts** (subject
 
 | If the brief says… | Then change… | Basis |
 |---|---|---|
-| School learners, and the goal is subject achievement | Teach planning, monitoring and evaluation inside the subject lessons, with a worked model on the task; measure subject achievement separately from strategy use and motivation, and expect less than the pooled figures when regular teachers deliver it | [Self-regulated learning improves achievement](../claims/self-regulated-learning-improves-achievement.md) [+M]; [Self-regulation strategy instruction improves achievement](../claims/self-regulation-strategy-instruction-improves-achievement.md) [+M] |
+| School learners, and the goal is subject achievement | Teach planning, monitoring and evaluation inside the subject lessons, with a worked model on the task; measure subject achievement separately from strategy use and motivation, and expect less than the pooled figures when regular teachers deliver it | [Self-regulated learning improves achievement](../claims/self-regulated-learning-improves-achievement.md) [+M]; [Self-regulation strategy instruction improves achievement](../claims/self-regulated-learning-improves-achievement.md) [+M] |
 | Learning happens in a computer-based or `online-self-paced` environment | Put short, task-specific planning, monitoring and evaluation prompts at natural pauses, paired with feedback on the task | [Metacognitive prompts improve learning](../claims/metacognitive-prompts-improve-learning.md) [+M]; [SRL interventions have a moderate effect online and blended](../claims/srl-interventions-moderate-effect-online-blended.md) [+M] |
 | The plan is to give learners a learning diary and leave it there | Add brief training in the regulation steps alongside the diary; a diary alone showed no detected gain on any measured outcome | [A diary alone gave no significant gains](../claims/learning-diary-alone-no-significant-srl-gains-online-math-prep-course.md) [~M]; [Training plus a diary raised SRL knowledge and self-efficacy, not mathematics](../claims/web-based-srl-training-with-diary-raises-srl-knowledge-and-self-efficacy-not-math.md) [~M] |
 | Learners study as a cohort and can meet in small groups | Add small peer-feedback groups to the training and diary | [Peer feedback groups added to SRL training raised self-efficacy and the focus score](../claims/peer-feedback-groups-added-to-web-based-srl-training-raise-srl-self-efficacy-and-math-focus-score.md) [+M] |

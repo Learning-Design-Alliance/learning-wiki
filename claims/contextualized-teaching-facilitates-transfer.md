@@ -39,6 +39,18 @@ Facilitator subtheme from interviews; participants reported that case-based teac
 
 > "The closer the training content was to authentic neurosurgical nursing scenarios, the smoother its translation after trainees returned to work."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does making the assessed task closer to real practice help learners carry the capability into that practice?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **3 distinct studies** (2 qualitative, 1 review), `q1`–`q2`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Liang 2026](https://doi.org/10.3389/fneur.2026.1915268) | q2 · qualitative · r3 | i? | this claim |
+| [Elliott 2021](https://doi.org/10.30707/tlcsd5.1.1624982519.538001) | q1 · qualitative · r3 | i? | [In a qualitative pilot with 10 speech-language pathology graduate students, most felt the ](simucase-lacks-behavioral-authenticity.md) (qualifies) |
+| [Faramarz Samifanni 2020](https://doi.org/10.5539/elt.v13n3p100) | q1 · review · r2 | i? | [Meaningful L2 learning is achieved through a conducive environment and authentic tasks and](authentic-tasks-meaningful-l2-learning.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

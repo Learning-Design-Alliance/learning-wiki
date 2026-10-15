@@ -63,8 +63,7 @@ Logistic mixed-effects ITS model of opportunity likelihood, with substantial het
 
 ## Related Claims
 - [Reformed elementary schools made significant test-score improvements versus matched comparison schools, with gains growing gradually over four years](chicago-turnaround-elementary-test-score-gains-gradual.md) — related
-- [Tutoring benefits both tutors and tutees](tutoring-benefits-tutors-and-tutees.md) — related
-- [Peer Tutoring Improves Achievement](peer-tutoring-improves-achievement.md) — related
+- [Tutoring benefits both tutors and tutees](peer-tutoring-improves-achievement.md) — related
 - [Repeated opportunities to apply tutor moves did not by themselves improve execution: opportunity count, lesson completion, and their interaction showed no significant effects on successful execution](opportunity-count-no-effect-execution.md) — related
 - [After training, tutors were significantly more likely to encounter pedagogical opportunities (61.1% to 68.9%) and showed higher execution quality within those opportunities (65.5% to 68.1%)](post-training-opportunity-and-execution-gains.md) — related
 - [Tutor training performance predicts real-life tutoring transcript scores, with a one SD increase in lesson performance associated with a 0.25 SD increase in transcript scores](training-performance-predicts-transcript-scores-025sd.md) — related

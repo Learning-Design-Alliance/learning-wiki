@@ -41,8 +41,9 @@ The review's stated key finding on blended learning impacts, summarizing the rev
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Blended Learning Improves Outcomes](blended-learning-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Quantitative methods exist for assessing how impacts of educational interventions on instructional practices and student learning differ across students, educators, and schools](methods-assess-impact-variation-across-students-educators-schools.md) — a broader claim this one bears on
 - [Personalized Learning Effects Vary With Fidelity](personalized-learning-effects-vary-with-fidelity.md) — related
 - [Alphabetics improvement-index findings for Waterford Early Reading Program™ were inconsistent across outcomes, ranging from –26 to +37 percentile points](werp-alphabetics-effects-vary-by-outcome.md) — related

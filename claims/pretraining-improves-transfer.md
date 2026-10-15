@@ -70,7 +70,7 @@ Second-hand attribution: the article reports that Gegner et al. (2009) found pre
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does a primer on the key parts and terms before a complex lesson improve learning and transfer?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **4 distinct studies** (2 causal, 2 review), `q2`–`q3`, 1 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Should component knowledge come before the whole task?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **7 distinct studies** (3 review, 2 causal, 2 theoretical), `q1`–`q3`, 1 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -78,6 +78,9 @@ Second-hand attribution: the article reports that Gegner et al. (2009) found pre
 | Ceballos & Nutta 2022 | q2 · review · r1 | i? | this claim |
 | [Pollock et al. 2002](<https://doi.org/10.1016/s0959-4752(01)00016-0>) | q3 · causal · r? | i? | [Part-task practice reduces cognitive load for absolute novices during initial skill acquis](part-task-practice-reduces-load-for-novices.md) (supports) |
 | [Richard E. Mayer 2008](https://doi.org/10.1037/0003-066x.63.8.760) | q3 · review · r2 | i3 · large effect, median d = 0.85 | [Pretraining principle: pre-lessons on names, locations, and characteristics of key compone](pretraining-principle-mayer-2008.md) (supports) |
+| [Kalyuga 2003](https://doi.org/10.1207/s15326985ep3801_4) | q2 · review · r2 | i? | [The review reports that the isolated-elements mixed instructional method benefits novices ](expertise-reversal-isolated-elements-and-imagination-review.md) (qualifies) |
+| [van Merriënboer et al. 2006](https://doi.org/10.1002/acp.1250) | q2 · theoretical · r? | i? | [A training-design argument, not tested by any study recorded here, holds that practising w](whole-task-performance-improves-transfer.md) (qualifies) |
+| Bill VanPatten 2010 | q1 · theoretical · r3 | i? | [Skill develops through engaging in the target activity itself, not through mechanistic dri](skill-develops-through-engagement-not-drill.md) (counts against) |
 <!-- synthesis:end -->
 
 ## Discussion

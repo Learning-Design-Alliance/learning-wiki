@@ -41,8 +41,9 @@ Descriptive between-group comparisons from the randomized experiment, classifyin
 
 ## Discussion
 
-
 ## Related Claims
+
+- [How genAI is used, not who uses it, predicts whether independent performance declines or improves](persistence-costs-concentrated-among-direct-solution-users.md) — the general claim this finding bears on, with the studies behind it
 - [AI access raises unaided essay quality in both sessions, while AI-generated text detectable in Session One essays disappears by Session Two](genai-raises-unaided-essay-quality.md) — related
 - [One week later, the AI-access group's lead on unaided assessments shrinks to 3.9 pp (0.21 SD), short of statistical significance (p = 0.068)](genai-learning-gain-persists-one-week.md) — related
 - [Review-attributed evidence: ChatGPT use improved short-term essay scores but triggered metacognitive laziness with no significant knowledge-transfer gains](chatgpt-metacognitive-laziness-fan-2025.md) — related

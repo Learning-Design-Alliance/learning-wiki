@@ -41,8 +41,11 @@ Analytical argument from measurement theory in this essay: even a perfectly reli
 
 ## Discussion
 
-
 ## Related Claims
+
+- [DC estimates tend to be lowest when the cut score is set at the peak of the score distribution, where inconsistent decisions are most likely](dc-lowest-at-score-distribution-peak.md) — the general claim this finding bears on, with the studies behind it
+
+- [Criterion-referenced tests require empirically-based construct validation studies](criterion-referenced-tests-need-construct-validation.md) — the general claim this finding bears on, with the studies behind it
 - [The chi-square significance test for NC-DIF is overly sensitive at large sample sizes, requiring an empirical cutoff value](nc-dif-chi-square-overly-sensitive-large-samples.md) — related
 - [Abandoning assessment entirely is not an acceptable alternative to competitive grading, per the author's argument](nonassessment-unacceptable-alternative.md) — related
 - [A study qualifies as an RD design only if assignment uses an ordinal forcing variable with at least four unique values on each side of the cutoff and no confounding factor](rd-qualification-criteria-forcing-variable.md) — related

@@ -44,5 +44,5 @@ Review claim citing Cooper et al. (2012) on individualized versus non-individual
 
 ## Related Claims
 - [Completing the follow-up homework assignment modestly boosted exam question performance](follow-up-homework-modestly-boosts-exam-performance.md) — related
-- [Parent Involvement Improves Achievement](parent-involvement-improves-achievement.md) — related
+- [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](parent-involvement-improves-achievement.md) — related
 - [Effects on secondary behavioural outcomes (conduct problems, delinquency, substance use) are negligible or non-significant](secondary-behavioural-outcomes-negligible-nonsignificant.md) — related

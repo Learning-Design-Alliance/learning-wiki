@@ -12,7 +12,7 @@ generated:
 # Improvisation in Mathematics
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 11 studies (4 quant-synthesis, 3 causal, 3 review, 1 associational), `q2`–`q4` · 2 of 11 report an effect size
+> **Evidence** · 4 claims (4 for) · 13 studies (5 quant-synthesis, 4 causal, 3 review, 1 associational), `q2`–`q4` · 3 of 13 report an effect size
 
 ## Description
 Improvisation in Mathematics adapts theater-improv exercises — yes-and games, physical tableaux, role-play, and spontaneous scenario-building — to mathematical content. Students act out problems, embody concepts (e.g., forming a human number line or geometric transformation), and respond to unscripted mathematical prompts in real time. The strategy treats mathematical thinking as a performative, social activity in which errors are accepted and built upon rather than erased.
@@ -49,7 +49,7 @@ Improv activities function as a form of embodied, socially mediated learning: en
 - Conceptual understanding: building flexible, connected mental models of relationships (functions, transformations, proportionality)
 - Mathematical communication: articulating reasoning spontaneously under mild time pressure
 - Productive disposition: risk-taking, tolerance of error, and collaborative norms
-- Not well suited to procedural fluency or automaticity goals, which require spaced practice [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Not well suited to procedural fluency or automaticity goals, which require spaced practice [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 
 ### Instructions
 1. **Warm up with a low-stakes improv game** unrelated to content to establish the "yes-and" norm and psychological safety.

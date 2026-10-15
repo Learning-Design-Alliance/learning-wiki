@@ -41,8 +41,9 @@ Conclusion of the qualitative case study, drawing on lesson observations, interv
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](worked-examples-with-practice-improve-transfer.md) — the general claim this finding bears on, with the studies behind it
 - [Most attributes and practices of the five-factor mentoring model (30 of 34) provided input into a first-practicum mentee's classroom management, with no overt evidence on aims, curriculum, timetabling or assessment](five-factor-mentoring-30-of-34-practices-classroom-management.md) — a broader claim this one bears on
 - [Mentors' roles and practices differ by program context: local guides versus educational companions](mentor-context-shapes-local-guide-or-educational-companion.md) — related
 - [Mentee participation in a school-wide positive behaviour support program (Program Achieve) enabled confident implementation of learned strategies in other lessons](program-achieve-participation-builds-mentee-behaviour-management-confidence.md) — related

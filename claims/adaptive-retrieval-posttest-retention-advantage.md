@@ -49,7 +49,7 @@ Univariate ANCOVA on the seven-week posttest (parallel 14-item multiple-choice f
 - [Spaced retrieval practice outperformed both massed retrieval practice and no-practice control on delayed financial knowledge, while massed and control did not differ](spaced-beats-massed-and-control-financial-knowledge.md) — related
 - [Spaced retrieval practice after a financial education workshop improves knowledge retention about 5 months later relative to other practice conditions](spaced-retrieval-practice-improves-financial-knowledge-retention.md) — related
 - [Generative AI-assisted feedback is associated with a statistically significant pretest–posttest improvement in violin students' intonation performance over a four-week period](genai-feedback-improves-violin-intonation-posttest.md) — related
-- [How genAI is used, not who uses it, predicts whether independent performance declines or improves](genai-usage-mode-predicts-independent-performance.md) — related
+- [How genAI is used, not who uses it, predicts whether independent performance declines or improves](persistence-costs-concentrated-among-direct-solution-users.md) — related
 - [Open AI collaboration yielded the highest supported writing quality, while bounded AI support yielded the highest independent no-AI Week 8 performance](genai-supported-performance-independent-divergence.md) — related
 - [Non-layered AI feedback produced significantly higher post-test performance than layered AI feedback after controlling for pre-test](non-layered-ai-feedback-beats-layered-post-test.md) — related
 - [Adaptive fading with periodic reinforcement yields higher independence than fixed-high or linear-decay scaffolding in simulation](adaptive-fading-beats-fixed-and-linear-scaffolding.md) — related

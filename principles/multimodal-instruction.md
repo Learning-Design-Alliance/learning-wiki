@@ -104,6 +104,14 @@ These rows are proposals and have not been tested with learners as diagnostic br
 
 Retain learners, assignment, materials, pacing, comparator, instrument and horizon when transporting these observations. Do not rank them by effect label: a pooled g, a field-study d and an r from a three-group ANOVA answer different questions. No claim here tests gesture, demonstration, sign or translanguaging as modes. The earlier page's sources on those (Holmström & Schönström 2018; Givens et al. 2020) and its one multimodal-versus-unimodal experiment (Gellevij et al. 2002) have no claim page, so nothing is said here about what they found.
 
+## The evidence by question
+
+Each question below links a general claim that gathers the studies behind it into one table, one row per distinct study, with each study's design and effect as recorded and no averaged verdict.
+
+- *Does adding a second representation of the same idea help, and when?* [Multiple representations improve learning](../claims/multiple-representations-improve-learning.md) [+M]
+- *Should the words be spoken or printed?* [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](../claims/modality-effect-narration-over-text.md) [~M]
+- *What should the adaptation be based on: responses, or learner styles and preferences?* [Learning Styles Matching Does Not Improve Learning](../claims/learning-styles-matching-does-not-improve-learning.md) [-M]
+
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-02: claims this page cited before the 2026-10-02 rewrite. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
 Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.

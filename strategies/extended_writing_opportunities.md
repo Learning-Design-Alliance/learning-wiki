@@ -12,14 +12,14 @@ generated:
 # Extended Writing Opportunities
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 against) · 10 studies (6 quant-synthesis, 3 causal, 1 review), `q2`–`q4` · 5 of 10 report an effect size
+> **Evidence** · 4 claims (3 for, 1 against) · 12 studies (7 quant-synthesis, 4 causal, 1 review), `q2`–`q4` · 6 of 12 report an effect size
 
 ## Description
 Extended writing opportunities give learners frequent, sustained practice composing text rather than limiting writing to occasional high-stakes assignments. Implementations range from daily skill-focused exercises (e.g., sentence-combining or fluency drills) to extended process writing with revision cycles, to digital chat and discussion features that let learners write for authentic audiences in real time or asynchronously. The strategy treats writing as both a skill to be developed through practice and a tool for learning content.
 
 ## Design Implications
 
-Frequent writing practice builds fluency by automating transcription and sentence-construction processes, freeing working memory for planning and ideas [~S]. Meta-analytic evidence shows that structured writing instruction — including strategy instruction, summarization, and collaborative writing — produces measurable gains in writing quality [A meta-analysis of writing instruction for adolescent students.](https://doi.org/10.1037/0022-0663.99.3.445) [+S], with similar effects documented in elementary grades [A meta-analysis of writing instruction for students in the elementary grades.](https://doi.org/10.1037/a0029185) [+S]. Writing about content also supports learning of that content, though effects depend on prompts that require reasoning rather than transcription [Writing-to-learn meta-analysis.](https://doi.org/10.3102/00346543074001029) [~M]. Practice must be distributed and sustained; a single extended assignment does not produce the same fluency gains [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+Frequent writing practice builds fluency by automating transcription and sentence-construction processes, freeing working memory for planning and ideas [~S]. Meta-analytic evidence shows that structured writing instruction — including strategy instruction, summarization, and collaborative writing — produces measurable gains in writing quality [A meta-analysis of writing instruction for adolescent students.](https://doi.org/10.1037/0022-0663.99.3.445) [+S], with similar effects documented in elementary grades [A meta-analysis of writing instruction for students in the elementary grades.](https://doi.org/10.1037/a0029185) [+S]. Writing about content also supports learning of that content, though effects depend on prompts that require reasoning rather than transcription [Writing-to-learn meta-analysis.](https://doi.org/10.3102/00346543074001029) [~M]. Practice must be distributed and sustained; a single extended assignment does not produce the same fluency gains [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ### Context
 #### Requirements

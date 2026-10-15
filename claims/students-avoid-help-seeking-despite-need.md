@@ -35,14 +35,15 @@ Andy Gray, Jake Hobbs. (2026). Reducing Barriers to Academic Support: Evaluating
 
 `q2 · i?` · `associational · r1`
 
-Pre-experiment questionnaire administered to the fifteen main-study participants before interacting with Beacon, establishing baseline help-seeking behaviours and confidence. The article reports "Themajorityofstudents (62.5%)indicatedtheysometimesavoidedaskingforhelp" and 75% reporting anxiety when not understanding a topic; these are descriptive percentages with no effect size printed.
+Pre-experiment questionnaire administered to the fifteen main-study participants before interacting with Beacon, establishing baseline help-seeking behaviours and confidence. The article reports "The majority of students (62.5%) indicated they sometimes avoided asking for help" and 75% reporting anxiety when not understanding a topic; these are descriptive percentages with no effect size printed. The article says all fifteen participants completed the pre-experiment questionnaire, yet neither percentage is a whole number of fifteen (62.5% of 15 is 9.4; 75% is 11.25), so the figures are given as printed and their denominator is unresolved.
 
-> "Themajorityofstudents (62.5%)indicatedtheysometimesavoidedaskingforhelpevenwhen theyneededit,whileagreaterproportionreportedanxietywhenthey didnotunderstandatopic(75%)."
+> "The majority of students (62.5%) indicated they sometimes avoided asking for help even when they needed it, while a greater proportion reported anxiety when they did not understand a topic (75%)."
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Drop-in one-to-one tutorial attendees improved P1X-to-P1Y marks while the class average declined](drop-in-tutorials-improve-p1y-marks.md) — the general claim this finding bears on, with the studies behind it
 - [Most students (87.6%) prefer attempting to solve problems independently before seeking support, managing uncertainty privately before engaging formal support](students-prefer-independent-problem-solving-first.md) — related
 - [A warning message about potential AI mistakes increases seventh-graders' hint requests in a math intelligent tutoring system](ai-fallibility-warning-increases-help-seeking.md) — related
 - [Not requesting any hints in at least one problem is related to greater wheel-spinning, consistent with help avoidance](hint-avoidance-related-greater-wheel-spinning.md) — related

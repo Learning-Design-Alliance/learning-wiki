@@ -3,7 +3,7 @@ type: claim
 title: Gatekeeper course completion rates were slightly lower for CBE participants than for comparison students, and credential completion differences varied by college
 description: Gatekeeper course completion rates were slightly lower for CBE participants than for comparison students, and credential completion differences varied by college
 id: cbe-gatekeeper-completion-lower-than-comparison
-aliases: [taaccct-cbe-gatekeeper-credential-comparisons]
+aliases: [taaccct-cbe-gatekeeper-credential-comparisons, cbe-credential-completion-varied-by-college-unobservable-differences]
 status: draft
 generated:
   by: "process:wiki-ingest"
@@ -26,17 +26,27 @@ sources:
     i: "?"
     kind: causal
     rigour: 1
+  - id: ann-person-2016
+    resource: "https://www.mathematica.org/publications/competency-based-education-in-focus"
+    title: "Ann Person. (2016). Competency-Based Education in College Settings. Mathematica Policy Research. https://www.mathematica.org/publications/competency-based-education-in-focus"
+    author: Ann Person
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # Gatekeeper course completion rates were slightly lower for CBE participants than for comparison students, and credential completion differences varied by college
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
+> **Evidence** · 2 studies (3 entries) · 1 causal `r1`, 1 associational `r?` · `q2`
 
 ## Subclaims
 
 `q2 i?` Gatekeeper course completion rates were slightly lower for participants than for comparison students. [→ Person 2016](#person-2016)
 `q2 i?` Differences in participants' and nonparticipants' credential completion rates varied by college and may reflect unobservable differences between the groups. [→ Person 2016 (2)](#person-2016-2)
+
+`q2 i?` Differences in participants' and nonparticipants' credential completion rates varied by college and may reflect unobservable differences between the groups. [→ Ann Person 2016](#ann-person-2016)
 
 ## Evidence
 
@@ -84,13 +94,35 @@ The same comparison analysis reports that credential completion differences "var
 > "differences in participants' and nonparticipants' credential completion rates varied by college and may reflect unobservable differences between the groups"
 -->
 
+### Ann Person 2016
+
+Ann Person. (2016). Competency-Based Education in College Settings. Mathematica Policy Research. https://www.mathematica.org/publications/competency-based-education-in-focus
+
+`q2 · i?` · `associational · r?`
+
+Key finding comparing credential completion between CBE participants and nonparticipants across colleges in the consortium evaluation. The brief cautions the differences "may reflect unobservable differences between the groups"; no effect size or per-college statistic is printed.
+
+> "Differences in participants’ and nonparticipants’ credential completion rates varied by college and may reflect unobservable differences between the groups."
+
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does a competency-based programme, taken as a whole, raise completion and achievement over a time-based one?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **3 distinct studies** (3 causal), `q2`, 1 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Person 2016 | q2 · causal · r1 | i? | this claim; [Consortium-wide, 35 percent of participants completed a grant-funded program of study, wit](cbe-participants-completion-employment-wages.md) (qualifies); [CBE participants completed programs quickly, averaging less than two terms to a first indu](cbe-fast-completion-two-terms-certification-four-terms-credentials.md) (qualifies) |
+| [Pane et al. 2017](https://doi.org/10.7249/rr2042) | q2 · causal · r2 | i0 · negligible-to-small, overall effect size 0.09 SD (math, sig.) / 0.07 SD (reading, n.s.) | [Personalized Learning Effects Vary With Fidelity](personalized-learning-effects-vary-with-fidelity.md) (qualifies) |
+| John F. Pane 2015 | q2 · causal · r2 | i? | [Implementation of competency-based progression was limited by a perceived need to emphasiz](competency-progression-limited-grade-level-emphasis.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
+
+
 
 ## Related Claims
 
 - [Mastery Learning Improves Outcomes](mastery-learning-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 
-- [Differences in credential completion rates between CBE participants and nonparticipants varied by college, possibly reflecting unobservable group differences](cbe-credential-completion-varied-by-college-unobservable-differences.md) — related
 - [CBE participants completed programs quickly, averaging less than two terms to a first industry certification course and about four terms to certificates and degrees](cbe-fast-completion-two-terms-certification-four-terms-credentials.md) — related
 - [Consortium-wide, 35% of CBE participants completed their program, with high employment rates and above-average wage growth after enrollment](cbe-participants-completion-employment-wages.md) — related
-- [About 35 percent of consortium participants completed a grant-funded program of study, including certifications, certificates, and degrees](taaccct-cbe-35-percent-program-completion.md) — related

@@ -68,7 +68,7 @@ Using the same isomorphic-question-pair clicker technique, this study compared t
 |---|---|---|---|
 | [Smith et al. 2009](https://doi.org/10.1126/science.1165919) | q2 · causal · r? | i? | this claim |
 | [Smith et al. 2011](https://doi.org/10.1187/cbe.10-08-0101) | q2 · causal · r? | i? | this claim |
-| [Dana L. Kirkwood-Watts 2022](https://doi.org/10.1128/jmbe.00038-22) | q3 · associational · r2 | i? | [Students answering both clicker votes correctly score significantly higher on isomorphic e](correct-correct-clicker-pattern-higher-exam-performance.md) (qualifies); [Clicker participation and homework completion each significantly predict performance on is](clicker-participation-and-homework-completion-predict-exam-performance.md) (supports) |
+| [Dana L. Kirkwood-Watts 2022](https://doi.org/10.1128/jmbe.00038-22) | q3 · associational · r2 | i? | [Students answering both clicker votes correctly score significantly higher on isomorphic e](correct-correct-clicker-pattern-higher-exam-performance.md) (qualifies); [Clicker participation and homework completion each significantly predict performance on is](clicker-participation-and-homework-completion-predict-exam-performance.md) (qualifies) |
 | Miller 2013 | q2 · design · r2 | i? | [Students attributed improved understanding to the discussion process of the implementation](learning-attributed-to-process-not-technology.md) (supports) |
 <!-- synthesis:end -->
 

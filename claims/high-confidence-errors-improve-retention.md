@@ -59,6 +59,17 @@ Fazio, L. K., & Marsh, E. J. (2009). Surprising feedback improves later memory. 
 
 Experiments in this study confirmed that feedback is more effectively processed and remembered when it contradicts a high-confidence prediction, supporting the mechanism of surprise-driven attention in error correction.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Which errors to correct first: are errors made with high confidence corrected more durably than low-confidence ones?* This table gathers the studies behind this claim and the 0 narrower claims that bear on it: **2 distinct studies** (1 review, 1 causal), `q2`–`q3`, 0 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Metcalfe 2017](https://doi.org/10.1146/annurev-psych-010416-044022) | q2 · review · r? | i? | this claim |
+| [Fazio & Marsh 2009](https://doi.org/10.3758/pbr.16.1.88) | q3 · causal · r? | i? | this claim |
+<!-- synthesis:end -->
+
 ## Discussion
 The effect is dependent on receiving immediate, non-punitive, and clear corrective feedback; without feedback, errors can be reinforced as misconceptions.
 

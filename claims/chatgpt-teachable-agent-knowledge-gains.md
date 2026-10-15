@@ -35,14 +35,17 @@ Angxuan Chen, Yuang Wei, Huixiao Le, Yan Zhang. (2024). Learning-by-Teaching wit
 
 `q2 · i3` · `causal · r1`
 
-ANCOVA with pre-test scores as covariate compared students who taught a gpt-4 teachable agent with students who learned from online videos; the experimental group "had a higher adjusted average score than CG (11.86 > 10.53)", with F = 35.54 and η2 = 0.74.
+ANCOVA with pre-test scores as covariate compared students who taught a gpt-4 teachable agent with students who learned from online videos; the experimental group "had a higher adjusted average score than CG (11.86 > 10.53)", with F = 35.54 and η2 = 0.74. Checked against the arXiv full text on 2026-10-15: Table 2 prints η2 = 0.74 for this two-group contrast (EG n = 20, CG n = 21), but it does not square with the paper's own figures. F = 35.54 on 1 and 38 degrees of freedom implies a partial η2 of about 0.48, and the unadjusted means and SDs (11.90, SD 2.09, against 10.76, SD 1.02) imply a d of about 0.7. So the effect is probably large or medium-to-large, but the printed 0.74 overstates it.
 
 > "The ANCOV A results showed that the three groups were significantly different in knowledge test scores (F = 35.54, p < 0.05, η2 = 0.74) (as shown in Table 2) that EG had a higher adjusted average score than CG (11.86 > 10.53)."
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Learning By Teaching Improves Tutor Learning](learning-by-teaching-improves-tutor-learning.md) — the general claim this finding bears on, with the studies behind it
+
+- [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — the general claim this finding bears on, with the studies behind it
 - [Teaching a ChatGPT agent yields significantly higher code clearness and readability scores than learning from online videos, but not higher code correctness](chatgpt-teachable-agent-code-clearness-readability.md) — related
 - [Students teaching the ChatGPT agent passed the online judge with fewer code submission attempts than control students](chatgpt-teachable-agent-fewer-submission-attempts.md) — related
 - [Teaching a ChatGPT agent does not significantly improve code correctness compared with writing code independently from videos](chatgpt-teachable-agent-no-correctness-gain.md) — related

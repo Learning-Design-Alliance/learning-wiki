@@ -1,0 +1,72 @@
+{
+  "principle": "principles/responsive-teaching",
+  "note": "Wave 10 (2026-10-15). Groupings and directions by an agent from the claims' titles and evidence entries. One finding: the hub tests classroom formative assessment, the general practice of eliciting evidence during instruction and adapting teaching to it; the members are narrower claims about teachers changing lessons in response to learners' thinking. None of the members measures student learning.",
+  "findings": [
+    {
+      "hub": "assessment-for-learning-improves-achievement",
+      "question": "Does adjusting instruction to evidence of learners' thinking gathered during teaching raise achievement over teaching the plan unchanged?",
+      "members": [
+        [
+          "formative-assessment-produces-substantial-learning-gains-cited",
+          "+"
+        ],
+        [
+          "teacher-feedback-moves-learning-forward",
+          "+"
+        ],
+        [
+          "hattie-high-effect-size-instructional-factors",
+          "+"
+        ],
+        [
+          "retention-and-downtracking-undermine-achievement",
+          "+"
+        ],
+        [
+          "formative-assessment-embedded-explicit-reflective-higher-posttest-nos-sks",
+          "+"
+        ],
+        [
+          "formative-assessment-embedded-explicit-reflective-higher-retention-nos-sks",
+          "+"
+        ],
+        [
+          "formative-assessment-la-positive-effects",
+          "+"
+        ],
+        [
+          "diagnostic-review-larger-writing-gains",
+          "+"
+        ],
+        [
+          "diagnostic-review-higher-process-indicators",
+          "+"
+        ],
+        [
+          "group-cycle-interactions-formative-outcomes",
+          "~"
+        ],
+        [
+          "tefa-formative-information-changed-lessons",
+          "+"
+        ],
+        [
+          "forms-realtime-formative-assessment-uses",
+          "+"
+        ],
+        [
+          "curricular-knowledge-enables-responsive-instructional-moves",
+          "~"
+        ],
+        [
+          "teacher-customizations-storyline-curriculum",
+          "~"
+        ],
+        [
+          "stem-more-amenable-difficulty-scaling",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

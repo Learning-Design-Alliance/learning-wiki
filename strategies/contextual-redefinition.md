@@ -12,7 +12,7 @@ generated:
 # Contextual Redefinition
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 5 studies (2 causal, 2 quant-synthesis, 1 review), `q2`–`q4` · 1 of 5 report an effect size
+> **Evidence** · 2 claims (1 for, 1 mixed) · 7 studies (3 causal, 3 quant-synthesis, 1 review), `q2`–`q4` · 2 of 7 report an effect size
 
 ## Description
 Contextual redefinition is a vocabulary strategy in which learners first meet a target word embedded in a sentence or passage whose surrounding language constrains the word's meaning. Learners generate a tentative definition from the context, after which the teacher or material confirms, refines, or corrects it with an explicit definition. The sequence — encounter, hypothesize, verify — converts passive word exposure into an active inference-and-feedback cycle.
@@ -26,7 +26,7 @@ The strategy leverages inference from context while protecting against the well-
 - Sentences rich enough to genuinely constrain the word's meaning — not neutral frames where any meaning fits
 - A deliberate hypothesis phase: learners commit to a tentative definition *before* hearing the correct one
 - Immediate, explicit confirmation with a clear definition, example, or [Non-Examples](../elements/non-examples.md)
-- Multiple encounters with the word across varied contexts to support retention [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Multiple encounters with the word across varied contexts to support retention [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 
 #### Constraints
 - Natural text contexts are frequently unreliable cues; readers often infer wrong or overly narrow meanings from context alone [~M] — the verification step is not optional
@@ -56,7 +56,7 @@ The strategy leverages inference from context while protecting against the well-
 3. Present the sentence and ask learners to propose a tentative meaning — require a commitment, not a shrug ([Activation](../elements/activation.md)).
 4. Confirm or correct each hypothesis with an explicit, learner-friendly definition and a second example ([Assessment](../elements/assessment.md) as quick formative check).
 5. Contrast the correct meaning with a near-miss to sharpen boundaries ([Non-Examples](../elements/non-examples.md)).
-6. Re-encounter the words in the target text and schedule brief spaced reviews over subsequent sessions [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+6. Re-encounter the words in the target text and schedule brief spaced reviews over subsequent sessions [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ## Related Strategies
 - [Frayer Model](frayer-model.md) — extends a confirmed definition into a four-quadrant concept analysis

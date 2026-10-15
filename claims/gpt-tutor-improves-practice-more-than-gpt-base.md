@@ -41,8 +41,9 @@ Same intention-to-treat regression; the GPT Tutor coefficient was 0.361 (P < 0.0
 
 ## Discussion
 
-
 ## Related Claims
+
+- [In one experiment with 256 undergraduates, computer-based lesson versions that included practice produced significantly higher posttest scores than versions without practice](practice-presence-raises-cbi-posttest-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [Access to a standard GPT-4 chat tutor during practice substantially improves practice performance in high school mathematics](gpt-base-improves-assisted-practice-performance.md) — related
 - [Review reports a field experiment in which GPT access improved supported practice but was followed by poorer unaided test performance, mitigated by a guarded tutor](gpt4-access-harms-learning-after-withdrawal.md) — related
 - [Unrestricted GPT-4 access improved practice performance but harmed later exam performance, and a guardrailed hint-based version mitigated the harm, as reported by the whitepaper citing Bastani et al.](unrestricted-gpt4-practice-gains-exam-decline-guardrail-mitigates.md) — related

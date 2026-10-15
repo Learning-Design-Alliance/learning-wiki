@@ -1,0 +1,68 @@
+{
+  "principle": "principles/pre-reading-questioning",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "pretesting-enhances-learning",
+      "question": "Does attempting questions on material before studying it improve later memory of the questioned content, and under what conditions on the answer and the material?",
+      "members": [
+        [
+          "pretesting-enhances-memory-tested-video",
+          "+"
+        ],
+        [
+          "classroom-pretesting-exam-gains",
+          "+"
+        ],
+        [
+          "pretesting-effect-grows-with-retention-interval",
+          "+"
+        ],
+        [
+          "pretesting-untested-materials-inconsistent",
+          "~"
+        ],
+        [
+          "semantic-association-moderates-pretesting",
+          "~"
+        ],
+        [
+          "feedback-timing-moderates-pretesting",
+          "~"
+        ],
+        [
+          "metacognitive-illusion-pretesting-underrated",
+          "~"
+        ],
+        [
+          "pretesting-can-harm-motivation",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "question-prompts-improve-learning",
+      "question": "Does the gain reach content the pre-questions did not ask about?",
+      "members": [
+        [
+          "pretesting-untested-materials-inconsistent",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "pretesting-can-harm-motivation",
+      "question": "What does failing first cost the learner: persistence, belief in the method, the effect of confusion?",
+      "members": [
+        [
+          "metacognitive-illusion-pretesting-underrated",
+          "~"
+        ],
+        [
+          "confusion-amplifies-negative-effect-of-incorrect-trials",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

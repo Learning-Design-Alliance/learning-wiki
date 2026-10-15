@@ -20,7 +20,7 @@ sources:
 # Multimedia Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 36 claims (22 for, 14 mixed) · 31 studies (15 causal, 8 quant-synthesis, 5 review, 2 theoretical, 1 qualitative), `q1`–`q4` · 11 of 31 report an effect size · 28 claims rest on one study
+> **Evidence** · 36 claims (22 for, 14 mixed) · 31 studies (15 causal, 8 quant-synthesis, 5 review, 2 theoretical, 1 qualitative), `q1`–`q4` · 11 of 31 report an effect size · 29 claims rest on one study
 
 ## Description and scope
 
@@ -82,6 +82,12 @@ Ask for four facts when the brief omits them: **who controls the pace** (system-
 | A long continuous presentation, and learners are new to the content | Break it into meaningful segments with a pause or "next" between them; allow for more study time | [Segmenting improves retention and transfer](../claims/segmenting-improves-multimedia-learning.md) [+M]; [Segmentation increases learning time](../claims/segmenting-increases-learning-time.md) [~M] |
 | The plan relies on learners using pause and replay controls | Build the pauses into the presentation rather than counting on learners to use the controls | [Learner flow control over animations was rarely used](../claims/flow-control-unused-no-learning-correlation.md) [~W] |
 | The outcome is transfer, not recall | Expect smaller gains from adding written text to narration, and judge the configuration on a transfer item in step 5 | [Spoken–written advantages are larger for retention than transfer](../claims/outcome-constructs-test-formats-moderate-redundancy.md) [~M] |
+
+## The evidence by question
+
+- *Should words sit next to, and arrive with, the picture they describe?* [Split Attention Effect Degrades Learning](../claims/split-attention-effect-degrades-learning.md) [+M]
+- *Should the words be spoken or printed?* [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](../claims/modality-effect-narration-over-text.md) [+M]
+- *Does presenting the same words twice (spoken and written) hurt or help, and for whom?* [On-screen text that duplicates the narration of a diagram can hurt learning, but spoken–written redundancy is not harmful on average and helps over spoken-only presentation in some conditions](../claims/redundancy-hurts-learning.md) [~S]
 
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-10-01 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->

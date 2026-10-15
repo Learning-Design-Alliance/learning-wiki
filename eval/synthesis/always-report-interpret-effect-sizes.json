@@ -1,0 +1,46 @@
+{
+  "principle": "principles/always-report-interpret-effect-sizes",
+  "note": "Wave 11 (2026-10-15). Groupings and directions by an agent from the claims' titles and evidence entries, each claim page read in full. Review before extending.",
+  "findings": [
+    {
+      "hub": "test-type-moderates-its-effects",
+      "question": "Does the kind of outcome measure (a researcher-made or aligned test against a standardized one) change the size of the effect a study reports?",
+      "members": [
+        [
+          "researcher-developed-measures-larger-language-effects",
+          "~"
+        ],
+        [
+          "ct-measure-type-influences-effectiveness-evaluation",
+          "+"
+        ],
+        [
+          "alignment-trained-skill-larger-effects-phonological-awareness",
+          "+"
+        ],
+        [
+          "achievement-measure-moderator-lab-exclusion",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "large-type-m-errors-significance-filter-education",
+      "question": "Does a significance verdict alone give a reliable reading of an intervention's effect in education studies?",
+      "members": [
+        [
+          "cwpt-ctbs-effect-significance-discrepancy",
+          "+"
+        ],
+        [
+          "wwc-corrections-eliminate-author-reported-significance",
+          "+"
+        ],
+        [
+          "publication-bias-reduces-intercept-no-transfer-without-moderators",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

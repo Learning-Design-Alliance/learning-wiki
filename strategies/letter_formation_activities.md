@@ -12,19 +12,19 @@ generated:
 # Letter Formation Activities
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies (3 review, 2 causal, 2 quant-synthesis, 1 theoretical), `q1`–`q4` · 1 of 8 report an effect size
+> **Evidence** · 3 claims (3 for) · 10 studies (3 causal, 3 quant-synthesis, 3 review, 1 theoretical), `q1`–`q4` · 2 of 10 report an effect size
 
 ## Description
 Letter formation activities teach learners how to produce legible letterforms through explicit modeling of stroke sequence, directionality, and starting points, followed by structured practice. The goal is to build a stable motor plan for each letter so that production becomes automatic, freeing working memory for composing and spelling.
 
 ## Design Implications
 
-Handwriting is a complex perceptual-motor skill; explicit modeling plus distributed practice is more effective than incidental exposure [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]. Because each letter's motor plan must be retrieved automatically during composition, formation instruction reduces the working-memory burden of writing [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M] — fluent letter production is a prerequisite for higher-quality written composition. Handwriting experience itself supports letter recognition and early reading, particularly when letters are produced rather than only traced or typed [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M].
+Handwriting is a complex perceptual-motor skill; explicit modeling plus distributed practice is more effective than incidental exposure [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S]. Because each letter's motor plan must be retrieved automatically during composition, formation instruction reduces the working-memory burden of writing [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M] — fluent letter production is a prerequisite for higher-quality written composition. Handwriting experience itself supports letter recognition and early reading, particularly when letters are produced rather than only traced or typed [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M].
 
 ### Context
 #### Requirements
 - A consistent, explicitly taught stroke sequence for each letter (e.g., always top-to-bottom, counterclockwise for "a")
-- Short, frequent practice sessions rather than long massed sessions [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Short, frequent practice sessions rather than long massed sessions [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 - Immediate corrective feedback on reversals, starting points, and stroke order
 - Multisensory materials (sand trays, textured letters, air writing) for early or struggling learners
 

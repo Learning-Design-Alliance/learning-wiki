@@ -45,6 +45,8 @@ The review reports Lu's (2008) experimental study in which 30 high school studen
 The one entry is a review's two-sentence report of a single 30-student, two-group study (Lu 2008); no effect size, test or assignment method is given, and the primary study has not been read here. It compares whole media (mobile phone against print), so any difference may come from what the messages contained, how often and when they arrived, or novelty, not from the medium itself, and the review's wording does not say the messages were SMS. Read it as one small reported result, not a general advantage of SMS over paper; a related claim records an SMS study with Iranian EFL learners.
 
 ## Related Claims
+
+- [Media comparison studies produce uninterpretable "no significant difference" findings.](media-comparison-studies-produce-uninterpretable-results.md) — the general claim this finding bears on, with the studies behind it
 - [SMS use improved both vocabulary retention and reading comprehension among Iranian EFL learners relative to a control group](sms-vocabulary-retention-reading-comprehension-efl.md) — related
 - [Learners showed positive attitudes toward receiving SMS vocabulary messages, and instant messaging raised intercultural awareness](sms-positive-attitudes-intercultural-awareness.md) — related
 - [Tutor-based practice produced greater learning gains than paper-based practice on matched problem sets](tutor-practice-greater-learning-gains-than-paper.md) — related

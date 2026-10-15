@@ -39,8 +39,9 @@ The primer's What Does the Research Say section reports, citing Tao & Chen (2024
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — the general claim this finding bears on, with the studies behind it
 - [Shifting away from traditional IRE recitation toward student participation in discussion improves student learning](ire-shift-toward-discussion-improves-learning.md) — a broader claim this one bears on
 - [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — related
 - [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — related

@@ -83,7 +83,6 @@ Two meta-analyses of elementary and secondary school students related achievemen
 - [Cognitive load theory](../theories/cognitive-load-theory.md) — explains why novices need external scaffolding before self-regulation is effective
 - [Self-monitoring improves self-regulation and supports better learning decisions.](self-monitoring-improves-self-regulation.md) — a narrower finding that bears on this claim
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — possibly the same claim (merge candidate)
-- [Self-regulation strategy instruction improves achievement](self-regulation-strategy-instruction-improves-achievement.md) — possibly the same claim (merge candidate)
 - [Strategy Instruction Improves Learning](strategy-instruction-improves-learning.md) — possibly the same claim (merge candidate)
 - [Logged time investment on an online mathematics preparation platform differed significantly across SRL intervention groups, rising from control through diary and training + diary to training + diary + peer feedback groups](srl-interventions-increase-logged-time-investment-online-math-prep-course.md) — a narrower finding that bears on this claim
 - [Self-regulated learning is domain specific, with greater cognitive strategy use in social studies and English than in mathematics](srl-is-domain-specific-strategy-use-varies-by-subject.md) — related

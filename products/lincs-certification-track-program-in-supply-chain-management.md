@@ -18,7 +18,7 @@ sources:
 # LINCS certification track program in supply chain management
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 4 studies (3 associational, 1 causal), `q2` · 0 of 4 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 3 studies (2 associational, 1 causal), `q2` · 0 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 A TAACCCT-funded supply-chain management certification initiative developed by a Broward College-led nine-college consortium with industry and university partners for early-career professionals.
@@ -33,7 +33,6 @@ A TAACCCT-funded supply-chain management certification initiative developed by a
 - [The outcomes study used a comparative design contrasting 2015 Broward LINCS completers with 2014 SCM students who did not participate in LINCS, and could not assess longer-term outcomes because of time limitations](../claims/lincs-outcomes-study-design-limits.md) [~W]
 - [LINCS surpassed its targets for program completion, exceeding its proposal goal of preparing students for supply chain management positions](../claims/lincs-surpassed-completion-targets.md) [+W]
 - [Consortium-wide, 35 percent of participants completed a grant-funded program of study, with high employment rates and wage growth above the national average](../claims/cbe-participants-completion-employment-wages.md) [+W]
-- [About 35 percent of consortium participants completed a grant-funded program of study, including certifications, certificates, and degrees](../claims/taaccct-cbe-35-percent-program-completion.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -74,7 +73,7 @@ The LINCS program was a TAACCCT-funded initiative in which a nine-college consor
 - [The outcomes study used a comparative design contrasting 2015 Broward LINCS completers with 2014 SCM students who did not participate in LINCS, and could not assess longer-term outcomes because of time limitations](../claims/lincs-outcomes-study-design-limits.md) [~W]
 - [LINCS surpassed its targets for program completion, exceeding its proposal goal of preparing students for supply chain management positions](../claims/lincs-surpassed-completion-targets.md) [+W]
 - [Consortium-wide, 35 percent of participants completed a grant-funded program of study, with high employment rates and wage growth above the national average](../claims/cbe-participants-completion-employment-wages.md) [+W]
-- [About 35 percent of consortium participants completed a grant-funded program of study, including certifications, certificates, and degrees](../claims/taaccct-cbe-35-percent-program-completion.md) [+W]
+- [About 35 percent of consortium participants completed a grant-funded program of study, including certifications, certificates, and degrees](../claims/cbe-participants-completion-employment-wages.md) [+W]
 
 ## Related Elements
 - 

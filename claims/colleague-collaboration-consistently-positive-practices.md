@@ -41,8 +41,9 @@ Survey-based analysis of Chicago Public Schools teachers' reports of supports an
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Teacher coaching programs improve teachers' instructional practice by a pooled 0.49 SD across 43 causal studies](coaching-pooled-instruction-effect-0-49-sd.md) — the general claim this finding bears on, with the studies behind it
 - [Positive relationships between colleague collaboration and instructional practices hold equally for teachers who perceive many barriers to standards implementation](collaboration-benefits-teachers-perceiving-barriers.md) — a narrower finding that bears on this claim
 - [Professional learning opportunities are strongly related to teachers' use of standards-aligned instructional practices in math and science](professional-learning-strongly-related-standards-aligned-practices.md) — related
 - [In Chicago middle grades, schools with more extensive CCSS-M professional learning showed significantly greater post-implementation improvements in instructional practices, math grades, pass rates, and test scores](ccssm-professional-learning-greater-improvements-chicago-middle-grades.md) — related

@@ -1,0 +1,124 @@
+{
+  "principle": "patterns/competency-based-learning",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read. The second and third hubs and questions are reused verbatim from eval/synthesis/mastery-learning.json.",
+  "findings": [
+    {
+      "hub": "cbe-gatekeeper-completion-lower-than-comparison",
+      "question": "Does a competency-based programme, taken as a whole, raise completion and achievement over a time-based one?",
+      "members": [
+        [
+          "cbe-participants-completion-employment-wages",
+          "~"
+        ],
+        [
+          "cbe-fast-completion-two-terms-certification-four-terms-credentials",
+          "~"
+        ],
+        [
+          "personalized-learning-effects-vary-with-fidelity",
+          "~"
+        ],
+        [
+          "competency-progression-limited-grade-level-emphasis",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "mastery-learning-effects-vary-with-standard-pacing-and-test-type",
+      "question": "Which variant: how high a criterion, group-paced or self-paced, and measured how?",
+      "members": [
+        [
+          "self-paced-mastery-programs-reduce-college-course-completion",
+          "+"
+        ],
+        [
+          "learner-paced-beats-system-paced-complex-material",
+          "~"
+        ],
+        [
+          "mastery-improves-engagement-attrition",
+          "+"
+        ],
+        [
+          "adaptive-learning-improves-outcomes",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "criterion-referenced-tests-need-construct-validation",
+      "question": "Does a pass on the check mean what the criterion says: are the items, cut scores and raters dependable?",
+      "members": [
+        [
+          "statistical-item-selection-conflicts-criterion-referenced-definition",
+          "+"
+        ],
+        [
+          "dc-lowest-at-score-distribution-peak",
+          "+"
+        ],
+        [
+          "grade-cutoffs-arbitrary-adjacent-scores",
+          "+"
+        ],
+        [
+          "body-of-work-agreement-rates-71-97",
+          "+"
+        ],
+        [
+          "mean-classification-cut-score-method-robust",
+          "~"
+        ],
+        [
+          "cohens-kappa-paradox-decision-consistency",
+          "~"
+        ],
+        [
+          "dc-methods-similar-normal-distributions",
+          "~"
+        ],
+        [
+          "criterion-referenced-tests-measure-mastery-not-relative-standing",
+          "~"
+        ],
+        [
+          "raters-differed-severity-mfrm",
+          "+"
+        ],
+        [
+          "engineering-rubric-low-scoring-reliability",
+          "+"
+        ],
+        [
+          "explicit-rubric-conditions-reduce-ai-disagreement",
+          "~"
+        ],
+        [
+          "adaptive-mastery-testing-reduces-length-preserves-decisions",
+          "~"
+        ],
+        [
+          "cmi-ela-test-precision-declines-above-40th-percentile",
+          "+"
+        ],
+        [
+          "low-inter-rater-agreement-qm-criteria",
+          "+"
+        ],
+        [
+          "vcp-rubric-lacked-calibration-and-clarity",
+          "+"
+        ],
+        [
+          "principal-rater-severity-variation",
+          "~"
+        ],
+        [
+          "rasch-infit-rater-selection-increases-reliability",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

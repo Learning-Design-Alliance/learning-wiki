@@ -45,5 +45,5 @@ The same experimental study reported that "TIPS students also reported significa
 ## Related Claims
 - [TIPS participation raises family-reported involvement in mathematics homework (ES = +0.49)](tips-family-reported-involvement-math.md) — related
 - [TIPS participation of any duration raises student-reported family involvement in mathematics homework (ES = +0.82)](tips-student-reported-family-involvement-math.md) — related
-- [Parent Involvement Improves Achievement](parent-involvement-improves-achievement.md) — a broader claim this one bears on
+- [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](parent-involvement-improves-achievement.md) — a broader claim this one bears on
 - [End-of-fourth-grade mathematics achievement significantly favors TIPS students over non-participants](tips-math-achievement-favored.md) — related

@@ -44,8 +44,8 @@ Review reports Sánchez and Schmitt (2010): 20 Spanish EFL students read the aut
 
 ## Related Claims
 - [Adult ESL students who read a short story could use incidentally acquired words in sentences, while students who learned word meanings in isolation could not](incidental-reading-enables-productive-word-use.md) — related
-- [Incidental Vocabulary Exposure Limited](incidental-vocabulary-exposure-limited.md) — a broader claim this one bears on
+- [Incidental vocabulary exposure produces reliable learning, but learners pick up only a small share of the unknown words they meet](incidental-vocabulary-exposure-limited.md) — a broader claim this one bears on
 - [Participants incidentally acquired an average of 3.19 of 20 target words after reading two passages](incidental-acquisition-rate-3-of-20-words.md) — related
 - [Reading proficiency level moderates incidental vocabulary gains: higher-proficiency readers gained more, consistent with i+1](proficiency-level-moderates-incidental-vocabulary-gains.md) — related
 - [Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts](vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts.md) — a broader claim this one bears on
-- [L2 learners develop much of their vocabulary incidentally through exposure to words in informative contexts, primarily via extensive reading for meaning](incidental-vocabulary-learning-through-reading-for-meaning.md) — a broader claim this one bears on
+- [L2 learners pick up vocabulary incidentally from meaning-focused input, with reading the most-studied mode and listening yielding similar proportions of words learned](incidental-vocabulary-learning-through-reading-for-meaning.md) — a broader claim this one bears on

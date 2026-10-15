@@ -1,0 +1,78 @@
+{
+  "principle": "patterns/positive-behavioral-interventions-and-supports",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "swpbis-reduces-office-discipline-referrals",
+      "question": "Does school-wide PBIS reduce office discipline referrals and exclusions compared with schools not running it?",
+      "members": [
+        [
+          "swpbis-reduced-odr-percentage",
+          "+"
+        ],
+        [
+          "swpbis-reduces-odr-at-risk-high-risk",
+          "~"
+        ],
+        [
+          "swpbis-no-effect-suspensions",
+          "-"
+        ],
+        [
+          "swpbis-reduced-suspensions-not-comparisons",
+          "~"
+        ],
+        [
+          "pbis-three-tiers-fidelity-fewer-oss-pandemic",
+          "+"
+        ],
+        [
+          "pbis-tier1-fidelity-no-effect-pandemic-disciplinary-exclusions",
+          "~"
+        ],
+        [
+          "mtss-coaching-lower-likelihood-behavior-incident",
+          "+"
+        ],
+        [
+          "pbis-suspensions-decreased-41-percent",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "swpbis-reduces-disruptive-behavior",
+      "question": "Does PBIS reduce students' problem behaviour and raise prosocial behaviour, as teachers rate it?",
+      "members": [
+        [
+          "swpbis-improves-prosocial-behavior",
+          "+"
+        ],
+        [
+          "swpbis-improves-emotion-regulation",
+          "+"
+        ],
+        [
+          "swpbis-reduces-concentration-problems",
+          "+"
+        ],
+        [
+          "swpbis-reduces-growth-teacher-reported-bullying",
+          "+"
+        ],
+        [
+          "swpbis-reduces-growth-peer-rejection",
+          "+"
+        ],
+        [
+          "pbis-reduces-externalizing-total-problems-ed-self-contained",
+          "+"
+        ],
+        [
+          "tkss-fidelity-ancova-interaction-problem-behavior",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

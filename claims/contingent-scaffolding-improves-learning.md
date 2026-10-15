@@ -119,7 +119,7 @@ The study that introduced the scaffolding metaphor. Researchers observed 3-, 4-,
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Must support be contingent on the learner's last response, rather than fixed?* This table gathers the studies behind this claim and the 17 narrower claims that bear on it: **20 distinct studies** (5 causal, 5 qualitative, 3 quant-synthesis, 3 associational, 2 review, 1 theoretical, 1 design), `q1`–`q4`, 3 of 20 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Must support be contingent on the learner's last response, rather than fixed?* This table gathers the studies behind this claim and the 21 narrower claims that bear on it: **25 distinct studies** (6 causal, 5 quant-synthesis, 5 qualitative, 4 associational, 3 review, 1 theoretical, 1 design), `q1`–`q4`, 5 of 25 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -128,14 +128,14 @@ The study that introduced the scaffolding metaphor. Researchers observed 3-, 4-,
 | [Swanson and Lussier 2001](https://doi.org/10.3102/00346543071002321) | q4 · quant-synthesis · r? | i? | this claim |
 | [van de Pol et al. 2010](https://doi.org/10.1007/s10648-010-9127-6) | q3 · review · r2 | i? | this claim |
 | [Wood et al. 1976](https://doi.org/10.1111/j.1469-7610.1976.tb00381.x) | q3 · qualitative · r? | i? | this claim |
+| Hou 2026 | q3 · causal · r2 | i? | [A contingent AI tutor places metacognitive demand equal to a question-only tutor and highe](contingent-tutor-metacognitive-demand-matches-withholding-tutor.md) (supports); [A contingent tutor surrendered the full answer in one session in sixteen, against one in s](contingent-scaffolding-surrenders-full-answer-least.md) (supports); [Perceived task load and germane load did not differ between the contingent tutor and eithe](perceived-load-unchanged-under-contingent-tutor.md) (qualifies) |
+| [van de Pol et al. 2019](https://doi.org/10.1080/10508406.2018.1522258) | q3 · associational · r1 | i? | [Students' application of teacher support predicts accurate answers in small-group work](student-uptake-of-support-predicts-small-group-answer-accuracy.md) (qualifies) |
+| [Ye 2026](https://doi.org/10.1186/s41239-026-00606-9) | q2 · causal · r? | i? | [Adaptive fading with periodic reinforcement yields higher independence than fixed-high or ](adaptive-fading-beats-fixed-and-linear-scaffolding.md) (qualifies) |
 | Ian D. Beatty 2008 | q2 · qualitative · r2 | i? | [Teachers reported that CRS-and-TEFA use gave them more information about student thinking ](tefa-formative-information-changed-lessons.md) (supports) |
-| Digital Promise 2018 | q2 · qualitative · r2 | i? | [Teachers use Microsoft Forms for real-time formative assessment to make in-the-moment inst](forms-realtime-formative-assessment-uses.md) (qualifies) |
+| Digital Promise 2018 | q2 · qualitative · r2 | i? | [Teachers use Microsoft Forms for real-time formative assessment to make in-the-moment inst](forms-realtime-formative-assessment-uses.md) (qualifies); [Teachers used Forms to support social-emotional learning through daily well-being check-in](forms-sel-checkins-anonymity.md) (qualifies) |
 | Freeman 2014 | q1 · theoretical · r1 | i? | [Immediate, informative test results enable teachers to differentiate instruction to indivi](immediate-adaptive-test-results-enable-differentiation.md) (supports) |
 | Equity-focused Schools Carry All Students to High Levels 2014 | q2 · qualitative · r1 | i? | [An equity and personalization focus led teachers to apply elements of formative assessment](equity-focus-drives-formative-assessment.md) (qualifies) |
-| Hou 2026 | q3 · causal · r2 | i? | [A contingent AI tutor places metacognitive demand equal to a question-only tutor and highe](contingent-tutor-metacognitive-demand-matches-withholding-tutor.md) (supports); [A contingent tutor surrendered the full answer in one session in sixteen, against one in s](contingent-scaffolding-surrenders-full-answer-least.md) (supports); [Perceived task load and germane load did not differ between the contingent tutor and eithe](perceived-load-unchanged-under-contingent-tutor.md) (qualifies) |
-| [Ye 2026](https://doi.org/10.1186/s41239-026-00606-9) | q2 · causal · r? | i? | [Adaptive fading with periodic reinforcement yields higher independence than fixed-high or ](adaptive-fading-beats-fixed-and-linear-scaffolding.md) (qualifies) |
-| Obikwelu 2013 | q2 · review · r1 | i? | [Current serious games give all learners the same unregulated scaffolding, which the author](blanket-scaffolding-in-serious-games-contradicts-scaffolding-notion.md) (supports) |
-| [van de Pol et al. 2019](https://doi.org/10.1080/10508406.2018.1522258) | q3 · associational · r1 | i? | [Students' application of teacher support predicts accurate answers in small-group work](student-uptake-of-support-predicts-small-group-answer-accuracy.md) (qualifies) |
+| Obikwelu 2013 | q1 / q2 · review · r1 | i? | [Current serious games give all learners the same unregulated scaffolding, which the author](blanket-scaffolding-in-serious-games-contradicts-scaffolding-notion.md) (supports); [Instructional guidance that helps novices can become redundant or counterproductive as exp](expertise-reversal-effect.md) (qualifies) |
 | [Kupers et al. 2017](https://doi.org/10.1080/10508406.2016.1259624) | q2-q3 · associational · r1 | i1 | [Teacher-student scaffolding and autonomy support co-evolve into self-reinforcing attractor](scaffolding-autonomy-dynamics-form-self-reinforcing-attractor-states.md) (qualifies) |
 | Suleiman 2026 | q2 · design · r3 | i? | [Scaffolding must be balanced: too little led to confusion and overload, while too much red](scaffolding-balance-confusion-versus-critical-thinking.md) (qualifies) |
 | Ahtisham 2026 | q3 · associational · r2 | i? | [The association between tutor questioning and impasse recovery decays as impasses persist,](questioning-benefit-decays-with-impasse-depth.md) (supports); [After a failed scripted question, repeating it is followed by lower recovery than switchin](repeating-scripted-question-lowers-recovery.md) (supports) |
@@ -143,6 +143,11 @@ The study that introduced the scaffolding metaphor. Researchers observed 3-, 4-,
 | [Wisniewski et al. 2020](https://doi.org/10.3389/fpsyg.2019.03087) | q4 · quant-synthesis · r? | i3 · very large effect for high-information feedback, d=0.99 | [Feedback Most Effective At Task And Process Levels](feedback-most-effective-at-task-and-process-levels.md) (supports) |
 | [Kluger & DeNisi 1996](https://doi.org/10.1037/0033-2909.119.2.254) | q4 · quant-synthesis · r? | i2 · medium average effect, d=.41 | [Feedback Most Effective At Task And Process Levels](feedback-most-effective-at-task-and-process-levels.md) (supports) |
 | engagement-1 | q2 · qualitative · r? | i? | [Learner engagement was strengthened when the AI tutor adapted to learners' pace and prior ](ai-tutor-pace-adaptation-strengthened-engagement.md) (supports) |
+| Can Student Surveys About Social-Emotional Development and School Climate Reveal Which High Schools Best Support Social-Emotional Development? 2019 | q2 · associational · r? | i? | [Students' self-assessments of social well-being and work habits provide valuable informati](student-self-assessments-valuable-development-information.md) (qualifies) |
+| [Ma et al. 2014](https://doi.org/10.1037/a0037123) | q4 · quant-synthesis · r2 | i2 · medium effect, g=0.42 vs teacher-led large-group instruction | [Adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) (supports) |
+| [Kulik & Fletcher 2016](https://doi.org/10.3102/0034654315581420) | q4 · quant-synthesis · r? | i2 · medium effect, median 0.66 SD | [Adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) (supports) |
+| [Kalyuga et al. 2003](https://doi.org/10.1207/s15326985ep3801_4) | q2 · review · r2 | i? | [Instructional guidance that helps novices can become redundant or counterproductive as exp](expertise-reversal-effect.md) (qualifies) |
+| [Kalyuga et al. 1998](https://doi.org/10.1518/001872098779480587) | q3 · causal · r? | i? | [Instructional guidance that helps novices can become redundant or counterproductive as exp](expertise-reversal-effect.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -154,6 +159,8 @@ A second qualification is the Swanson and Lussier finding: explicit strategy tra
 Finally, van de Pol et al. treat contingency as definitionally necessary for scaffolding — support that is not contingent is not scaffolding, it is instruction. This means some evidence cited for "scaffolding effectiveness" may conflate genuinely contingent support with structured-but-fixed instructional sequences.
 
 ## Related Claims
+
+- [In one experiment with 256 undergraduates, computer-based lesson versions that included practice produced significantly higher posttest scores than versions without practice](practice-presence-raises-cbi-posttest-achievement.md) — the general claim this finding bears on, with the studies behind it
 
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — the general claim this finding bears on, with the studies behind it
 - [Fading support promotes the transfer of responsibility from instructor to learner.](fading-support-promotes-transfer-of-responsibility.md)

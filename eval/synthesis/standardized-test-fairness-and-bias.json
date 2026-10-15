@@ -1,0 +1,88 @@
+{
+  "principle": "principles/standardized-test-fairness-and-bias",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read. Several members rest on the same 1987 congressional testimony and count once.",
+  "findings": [
+    {
+      "hub": "sat-underpredicts-girls-performance",
+      "question": "Does a standardized score predict later performance equally well for each group of learners it is used to select?",
+      "members": [
+        [
+          "mit-lower-sat-math-scores-equal-performance",
+          "+"
+        ],
+        [
+          "timed-test-gender-gap-underpredicts-college-performance",
+          "+"
+        ],
+        [
+          "act-score-gaps-by-race-at-same-gpa",
+          "+"
+        ],
+        [
+          "high-school-effects-same-gpa-act-graduation-rates",
+          "~"
+        ],
+        [
+          "gpa-test-scores-best-college-degree-prediction-el",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "icc-and-ldf-methods-identify-different-dif-items",
+      "question": "How far does a statistical item-bias (DIF) flag identify a biased item, rather than the method, sample or form that produced it?",
+      "members": [
+        [
+          "irt-assumption-violations-cause-dif-method-discrepancy",
+          "~"
+        ],
+        [
+          "dif-not-predictable-from-differential-response-times",
+          "~"
+        ],
+        [
+          "item-purification-increases-dif-detection-sensitivity",
+          "+"
+        ],
+        [
+          "close-positioned-items-also-flagged-dif-possible-type-i-error",
+          "+"
+        ],
+        [
+          "nc-dif-chi-square-overly-sensitive-large-samples",
+          "+"
+        ],
+        [
+          "dif-type-i-error-increases-with-dif-items-and-magnitude",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "culturally-diverse-underrepresentation-biased-measures",
+      "question": "Do identification and award decisions made from test scores under-select some groups of learners, and is the test the cause?",
+      "members": [
+        [
+          "gifted-underrepresentation-diverse-students",
+          "+"
+        ],
+        [
+          "traditional-identification-tests-fail-learning-potential",
+          "+"
+        ],
+        [
+          "test-scores-gate-gifted-program-entry",
+          "+"
+        ],
+        [
+          "psat-national-merit-awards-skew-male",
+          "+"
+        ],
+        [
+          "teacher-underreferral-diverse-gifted",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

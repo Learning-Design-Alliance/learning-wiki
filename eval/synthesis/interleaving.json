@@ -1,0 +1,70 @@
+{
+  "principle": "principles/interleaving",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "interleaving-improves-inductive-learning",
+      "question": "Should examples or problems of confusable categories be met in blocks or interleaved, and for which materials?",
+      "members": [
+        [
+          "interleaving-improves-discrimination",
+          "+"
+        ],
+        [
+          "interleaving-transfer-benefit-meta-analysis",
+          "+"
+        ],
+        [
+          "interleaving-strongest-for-paintings-visual-materials",
+          "+"
+        ],
+        [
+          "interleaving-limited-for-math-texts-and-words",
+          "~"
+        ],
+        [
+          "interleaving-similarity-boundary-condition",
+          "~"
+        ],
+        [
+          "interleaving-rule-based-learning-boundary",
+          "~"
+        ],
+        [
+          "interleaved-practice-higher-math-test-scores",
+          "+"
+        ],
+        [
+          "interleaving-benefit-persists-thirty-days",
+          "+"
+        ],
+        [
+          "spaced-interleaved-homework-practice",
+          "+"
+        ],
+        [
+          "interleaving-null-moderators-retention-test-presentation",
+          "~"
+        ],
+        [
+          "interleaving-larger-in-university-student-samples",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "similarity-and-complexity-moderate-interleaving",
+      "question": "How alike must the categories be for mixing to help, and when does blocking do better?",
+      "members": [
+        [
+          "interleaving-similarity-boundary-condition",
+          "+"
+        ],
+        [
+          "interleaving-rule-based-learning-boundary",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

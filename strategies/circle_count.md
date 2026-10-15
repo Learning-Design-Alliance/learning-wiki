@@ -12,14 +12,14 @@ generated:
 # Circle Count
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 10 studies (4 quant-synthesis, 3 causal, 2 review, 1 associational), `q2`–`q4` · 2 of 10 report an effect size
+> **Evidence** · 3 claims (3 for) · 12 studies (5 quant-synthesis, 4 causal, 2 review, 1 associational), `q2`–`q4` · 3 of 12 report an effect size
 
 ## Description
 Circle Count is a brief, routine whole-class activity in which students stand or sit in a circle and count aloud in turn — by ones, by skip-counting patterns (2s, 5s, 10s), forward or backward, or from non-standard starting points. The teacher varies the pattern mid-count ("switch to counting back by 10s from 93"), requiring each student to maintain the count and apply the rule on their turn. Sessions typically last 3–7 minutes and function as a daily warm-up rather than a full lesson.
 
 ## Design Implications
 
-Circle Count distributes brief, high-frequency retrieval opportunities across every student, building fluency with the counting sequence and its underlying structure through spaced, low-stakes practice [Spaced repetition improves retention relative to massed practice.](../claims/spaced-repetition-improves-retention.md) [+S]. Because each student must produce the next number publicly, the routine generates continuous formative evidence of individual fluency while keeping the cognitive demand modest — the group context supplies immediate correction from peers and teacher when a student errs. Mid-count rule switches force students to hold a pattern in mind and apply it under time pressure, exercising the kind of flexible retrieval that supports later arithmetic [Chunking reduces working memory load during numerical processing.](../claims/chunking-reduces-working-memory-load.md) [+M].
+Circle Count distributes brief, high-frequency retrieval opportunities across every student, building fluency with the counting sequence and its underlying structure through spaced, low-stakes practice [Spaced repetition improves retention relative to massed practice.](../claims/spaced-practice-improves-retention.md) [+S]. Because each student must produce the next number publicly, the routine generates continuous formative evidence of individual fluency while keeping the cognitive demand modest — the group context supplies immediate correction from peers and teacher when a student errs. Mid-count rule switches force students to hold a pattern in mind and apply it under time pressure, exercising the kind of flexible retrieval that supports later arithmetic [Chunking reduces working memory load during numerical processing.](../claims/chunking-reduces-working-memory-load.md) [+M].
 
 ### Context
 #### Requirements
@@ -43,7 +43,7 @@ Circle Count distributes brief, high-frequency retrieval opportunities across ev
 
 ### Target Learners
 - Early elementary students (K–3) consolidating the number word sequence and skip-counting patterns
-- Students needing fluency maintenance; brief daily retrieval is well suited to spaced practice [Spaced repetition improves retention relative to massed practice.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Students needing fluency maintenance; brief daily retrieval is well suited to spaced practice [Spaced repetition improves retention relative to massed practice.](../claims/spaced-practice-improves-retention.md) [+S]
 - Less suitable as-is for students who have already automated the sequence — variations with fractions, decimals, or starting offsets extend its range, but the core routine offers little to them [~M]
 
 ### Target Learning Goals

@@ -107,7 +107,7 @@ There is also a cultural dimension: in high-power-distance educational contexts,
 - [Self-monitoring improves self-regulation and supports better learning decisions.](self-monitoring-improves-self-regulation.md) — self-monitoring is a key mechanism through which autonomous learners regulate their own progress
 - [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — related
 - [Pre-tests reduced adult learners' persistence in a MOOC, though they improved post-test scores among those who completed it](pretesting-can-harm-motivation.md) — related
-- [Self-determination instruction improves outcomes](self-determination-instruction-improves-outcomes.md) — related
+- [Self-determination skills instruction for students with disabilities increases self-determination on some measures but not others](self-determination-instruction-improves-outcomes.md) — related
 - [Learner-centered teacher–student relationships are associated with better student outcomes](teacher-student-relationships-improve-engagement.md) — related
 - [Not all students in connectivist courses could autonomously direct their own learning, and some felt disconnected and demotivated](connectivist-courses-student-agency-problems.md) — related
 - [Instruction should present the learning task as engaging and meaningful and promote positive expectations of success, because effort requires that learners value the task and believe they can succeed](effort-requires-task-value-and-expectation-of-success-arcs-rationale.md) — related

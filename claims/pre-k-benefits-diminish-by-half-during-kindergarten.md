@@ -41,8 +41,9 @@ In the county-wide study of 2,581 low-income children, the abstract reports that
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Children who attend pre-kindergarten are more ready for kindergarten at the end of their pre-k year than children who do not attend](prek-attendance-kindergarten-readiness.md) — the general claim this finding bears on, with the studies behind it
 - [Kindergarten convergence is not attributable to pre-K children's kindergarten classroom experiences but is attributable to preexisting individual differences](convergence-attributable-to-preexisting-differences-not-kindergarten-classrooms.md) — related
 - [Convergence between pre-K graduates and nonattenders is largest for more constrained skills such as letter-word identification](convergence-largest-for-more-constrained-skills.md) — related
 - [Convergence is attributed to nonattenders making greater gains in kindergarten than pre-K graduates](nonattenders-greater-kindergarten-gains-drive-convergence.md) — related

@@ -80,7 +80,7 @@ either. Any design that rests on this claim is resting on a mechanism, and shoul
 - [Activation improves learning.](activation-improves-learning.md) — background knowledge activation complements freed capacity for meaning-building
 - [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-less-effective-with-expertise.md) — parallel expertise reversal: fluency scaffolds stop paying off once decoding is automatic
 - [Phonemic Awareness Training Improves Reading](phonemic-awareness-training-improves-reading.md) — related
-- [Systematic Phonics Improves Word Reading](systematic-phonics-improves-word-reading.md) — related
+- [Systematic Phonics Improves Word Reading](phonics-instruction-outperforms-whole-word-for-generalization.md) — related
 - [Phonics instruction has a small but statistically confirmed effect for children with reading disabilities, while Orton-Gillingham structured-literacy programs show positive but non-significant effects](structured-literacy-interventions-help-struggling-readers.md) — related
 - [Morphological Instruction Improves Literacy](morphological-instruction-improves-literacy.md) — related
 - [Cognitive Load Management](cognitive-load-management.md) — related

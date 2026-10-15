@@ -47,7 +47,6 @@ The abstract states this boundary condition on the guidance advantage: it "begin
 
 ## Related Claims
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — related
-- [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](guided-discovery-outperforms-pure-discovery.md) — related
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md) — possibly the same claim (merge candidate)
 - [Teacher Guided Inquiry Outperforms Student Led](teacher-guided-inquiry-outperforms-student-led.md) — related
 - [Recent developments in instructional research and instructional design models support guidance during instruction](recent-design-models-support-guidance-during-instruction.md) — a broader claim this one bears on

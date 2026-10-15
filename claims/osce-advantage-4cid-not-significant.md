@@ -41,8 +41,11 @@ In the same quasi-experiment, blinded trained raters scored blueprint-aligned OS
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — the general claim this finding bears on, with the studies behind it
+
+- [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](whole-task-performance-improves-transfer.md) — the general claim this finding bears on, with the studies behind it
 - [Plotting experience against OSCE results showed no effect of years of emergency department experience on consent-taking skill scores](ed-experience-no-effect-osce-consent.md) — related
 - [Lecture-based and 4C/ID-based training produced comparable knowledge retention among emergency care professionals](no-knowledge-difference-lecture-vs-4cid-consent-training.md) — related
 - [Heritage learners scored only slightly higher than non-heritage learners on listening tasks, with no statistically significant group difference](hll-nhll-listening-scores-not-significant.md) — related

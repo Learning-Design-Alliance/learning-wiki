@@ -41,7 +41,10 @@ The review reports this quasi-experimental study (initial enrollment 187; three 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Immersive technologies such as virtual reality should reinforce, not substitute, the original educational action](vr-reinforcement-not-substitute.md) — the general claim this finding bears on, with the studies behind it
+
+- [Immediate task success does not establish learning that persists without AI support](immediate-performance-not-evidence-of-independent-learning.md) — the general claim this finding bears on, with the studies behind it
 - [No significant difference between virtual simulation and authentic video on the basic observation dimension of assignments](vs-av-no-difference-observation-dimension.md) — related
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on

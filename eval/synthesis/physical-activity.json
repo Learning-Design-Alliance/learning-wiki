@@ -1,0 +1,24 @@
+{
+  "principle": "principles/physical-activity",
+  "note": "Wave 10 (2026-10-15). Grouping and directions by an agent from the claims' titles and evidence entries. The hub's two reviews (Watson 2017, Daly-Smith 2018) and the members' one randomized programme evaluation (Bleeker 2012, Playworks) give three distinct studies; the members are teacher and student reports about organised recess, not classroom breaks.",
+  "findings": [
+    {
+      "hub": "classroom-physical-activity-improves-attention",
+      "question": "Does physical activity during the school day (movement breaks, active lessons, organised active recess) improve children's on-task behavior and readiness for class?",
+      "members": [
+        [
+          "playworks-better-recess-behavior-and-class-readiness",
+          "+"
+        ],
+        [
+          "playworks-easier-recess-to-classroom-transitions",
+          "+"
+        ],
+        [
+          "playworks-students-reported-better-behavior-attention-after-play",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

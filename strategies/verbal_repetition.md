@@ -12,21 +12,21 @@ generated:
 # Verbal Repetition
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 10 studies (4 quant-synthesis, 3 causal, 2 review, 1 associational), `q2`–`q4` · 2 of 10 report an effect size
+> **Evidence** · 3 claims (3 for) · 12 studies (5 quant-synthesis, 4 causal, 2 review, 1 associational), `q2`–`q4` · 3 of 12 report an effect size
 
 ## Description
 Verbal repetition is a strategy in which learners repeat, restate, or rehearse information aloud — repeating a definition, explaining a procedure to a partner, or restating a peer's idea in their own words. It functions as both a rehearsal mechanism for memory and a check for understanding, since the verbalization exposes the learner's current mental model to the instructor and to the learner.
 
 ## Design Implications
 
-Verbal repetition supports retention primarily through rehearsal and retrieval-like effort, but its deeper value comes from generative restatement: putting content into one's own words forces elaborative processing beyond verbatim maintenance [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Simple rote repetition maintains information in working memory but does little for long-term retention unless paired with spaced re-engagement [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]. Designers should therefore treat verbal repetition as a bridge to [Practice](../elements/practice.md) and spaced review rather than a standalone retention mechanism.
+Verbal repetition supports retention primarily through rehearsal and retrieval-like effort, but its deeper value comes from generative restatement: putting content into one's own words forces elaborative processing beyond verbatim maintenance [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Simple rote repetition maintains information in working memory but does little for long-term retention unless paired with spaced re-engagement [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]. Designers should therefore treat verbal repetition as a bridge to [Practice](../elements/practice.md) and spaced review rather than a standalone retention mechanism.
 
 ### Context
 #### Requirements
 - Structured prompts or questions that specify *what* to verbalize, not just "discuss"
 - Low-stakes formats (pairs, small groups, choral response) that reduce performance anxiety
 - Instructor listening time to diagnose misconceptions revealed by the verbalizations
-- Re-encounters with the content on later occasions, since a single verbalization does not produce durable memory [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Re-encounters with the content on later occasions, since a single verbalization does not produce durable memory [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 
 #### Constraints
 - Verbatim repetition without elaboration produces only short-term maintenance; maintenance rehearsal is markedly inferior to elaborative rehearsal for durable learning [-S]
@@ -55,11 +55,11 @@ Verbal repetition supports retention primarily through rehearsal and retrieval-l
 2. Give learners brief think time, then have them restate or explain aloud to a partner in their own words.
 3. Circulate and listen; select one or two verbalizations to revoice publicly, correcting language or misconceptions.
 4. Follow the verbalization with independent [Practice](../elements/practice.md) so the restated understanding is applied, not just spoken.
-5. Schedule re-explanation of the same content in later sessions to convert repetition into spaced retrieval [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+5. Schedule re-explanation of the same content in later sessions to convert repetition into spaced retrieval [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ## Related Strategies
 - [Self-explanation](../claims/self-explanation-improves-conceptual-understanding.md) — the generative restatement that gives verbal repetition its durable benefit
-- [Spaced repetition](../claims/spaced-repetition-improves-retention.md) — the scheduling principle that turns one-time verbalization into long-term retention
+- [Spaced repetition](../claims/spaced-practice-improves-retention.md) — the scheduling principle that turns one-time verbalization into long-term retention
 
 ## Related Elements
 - [Practice](../elements/practice.md) — verbal rehearsal should feed into applied practice, not substitute for it

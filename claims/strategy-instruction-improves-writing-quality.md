@@ -79,6 +79,8 @@ Open questions for future evidence entries include the durability of effects aft
 
 ## Related Claims
 
+- [Self Talk Improves Learning And Performance](self-talk-improves-learning-and-performance.md) — the general claim this finding bears on, with the studies behind it
+
 - [Self-regulated learning improves academic outcomes.](self-regulated-learning-improves-achievement.md) — strategy instruction is a core SRL intervention applied to writing
 - [Scaffolding improves learning outcomes.](scaffolding-improves-learning.md) — strategy instruction works through modeled, faded support
 - [Feedback improves learning.](feedback-improves-learning.md) — revision strategies interact with feedback quality

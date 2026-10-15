@@ -12,14 +12,14 @@ generated:
 # Direct Instruction Spelling
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 13 studies (5 quant-synthesis, 4 review, 3 causal, 1 theoretical), `q1`–`q4` · 5 of 13 report an effect size
+> **Evidence** · 5 claims (5 for) · 15 studies (6 quant-synthesis, 4 causal, 4 review, 1 theoretical), `q1`–`q4` · 6 of 15 report an effect size
 
 ## Description
 Direct instruction spelling teaches spelling through explicitly sequenced, teacher-led lessons: the instructor models a spelling pattern or strategy, guides choral or written practice, and immediately corrects errors. Lessons follow a fixed routine — review of previously taught words, introduction of a new pattern with [demonstration](../patterns/direct-instruction.md), guided practice, and a short test or dictation — so that attention goes to the pattern rather than to figuring out the task. The approach contrasts with incidental "catch it as you read" spelling, which leaves generalization to chance.
 
 ## Design Implications
 
-Explicit, systematic phonics-based spelling instruction produces stronger generalization to untaught words than whole-word memorization, because learners acquire the underlying orthographic pattern rather than isolated word images [Phonics instruction outperforms whole-word approaches for generalization.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]. Instruction should group words by pattern rather than presenting arbitrary lists, since [chunking](../theories/cognitive-load-theory.md) words around a shared structure reduces the working-memory load of each item [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Because spelling knowledge is retention-dependent, distributed review of previously taught words outperforms massed practice on the current list [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+Explicit, systematic phonics-based spelling instruction produces stronger generalization to untaught words than whole-word memorization, because learners acquire the underlying orthographic pattern rather than isolated word images [Phonics instruction outperforms whole-word approaches for generalization.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]. Instruction should group words by pattern rather than presenting arbitrary lists, since [chunking](../theories/cognitive-load-theory.md) words around a shared structure reduces the working-memory load of each item [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Because spelling knowledge is retention-dependent, distributed review of previously taught words outperforms massed practice on the current list [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ### Context
 #### Requirements
@@ -50,7 +50,7 @@ Explicit, systematic phonics-based spelling instruction produces stronger genera
 - Self-monitoring: checking and correcting one's own spelling during writing
 
 ### Instructions
-1. **Review (2–3 min):** Quick oral or written dictation of 3–5 previously taught words, spaced from earlier lessons [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+1. **Review (2–3 min):** Quick oral or written dictation of 3–5 previously taught words, spaced from earlier lessons [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 2. **Introduce the pattern:** State the rule explicitly and model spelling 2–3 example words aloud, segmenting sounds and articulating choices ("I hear /k/ at the end, so I try *ck* after a short vowel")
 3. **Guided practice:** Learners spell new words following the same pattern with immediate teacher feedback and correction at the word and strategy level [Feedback is most effective at the task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+M]
 4. **Extend to untaught words:** Dictate 1–2 words learners have never seen that follow the pattern, to check generalization rather than list memorization

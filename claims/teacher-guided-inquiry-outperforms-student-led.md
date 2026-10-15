@@ -62,15 +62,16 @@ This synthesis analyzed 138 studies conducted between 1984 and 2002 addressing t
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*If inquiry or discovery is chosen, how much should the teacher or system guide it?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **5 distinct studies** (4 quant-synthesis, 1 theoretical), `q2`–`q4`, 3 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*If inquiry or discovery is chosen, how much should the teacher or system guide it?* This table gathers the studies behind this claim and the 8 narrower claims that bear on it: **6 distinct studies** (4 quant-synthesis, 1 theoretical, 1 review), `q2`–`q4`, 3 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Furtak et al. 2012](https://doi.org/10.3102/0034654312457206) | q4 · quant-synthesis · r? | i2 · the .40 is a difference between study groups: studies with teacher-led activities had mean effect sizes about .40 larger than studies with student-led conditions (abstract); the overall inquiry effect was .50 | this claim |
 | [Minner et al. 2010](https://doi.org/10.1002/tea.20347) | q3 · quant-synthesis · r? | i? | this claim |
 | [Alfieri 2011](https://doi.org/10.1037/a0021017) | q4 · quant-synthesis · r2 | i1 | [Enhanced discovery learning produces greater learning than other forms of instruction](enhanced-discovery-beats-other-instruction.md) (supports) |
-| [Lazonder 2016](https://doi.org/10.3102/0034654315627366) | q2 / q4 · quant-synthesis · r3 | i2; i? | [Guidance during inquiry learning improves post-inquiry learning outcomes (d = 0.50)](guidance-improves-inquiry-learning-outcomes.md) (supports); [Guidance during inquiry learning produces a medium-to-large improvement in learners' use o](guidance-improves-inquiry-learning-activities.md) (supports); [Guidance during inquiry learning improves performance success during the inquiry (d = 0.71](guidance-improves-inquiry-performance-success.md) (supports); [Supplementing simulation-based inquiry with learner guidance modestly improves learning ou](simulation-guidance-moderate-effect-dangelo.md) (supports) |
+| [Lazonder 2016](https://doi.org/10.3102/0034654315627366) | q2 / q4 · quant-synthesis · r3 | i2; i?; i1; i0 | [Guidance during inquiry learning improves post-inquiry learning outcomes (d = 0.50)](guidance-improves-inquiry-learning-outcomes.md) (supports); [Guidance during inquiry learning produces a medium-to-large improvement in learners' use o](guidance-improves-inquiry-learning-activities.md) (supports); [Guidance during inquiry learning improves performance success during the inquiry (d = 0.71](guidance-improves-inquiry-performance-success.md) (supports); [Supplementing simulation-based inquiry with learner guidance modestly improves learning ou](simulation-guidance-moderate-effect-dangelo.md) (supports); [More teacher guidance within inquiry is associated with larger advantages over traditional](teacher-guided-inquiry-larger-effects.md) (supports) |
 | [Manu Kapur 2016](https://doi.org/10.1080/00461520.2016.1155457) | q2 · theoretical · r3 | i? | [Guided discovery outperformed both unguided discovery and direct instruction in classic st](guided-discovery-outperformed-both-extremes.md) (qualifies) |
+| [Hansol Lee 2026](https://doi.org/10.1186/s40561-026-00461-1) | q2 · review · r3 | i? | [Teacher support in AI-based instruction is effective only when balanced with students' aut](teacher-support-benefits-conditional-on-autonomy-balance.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -97,9 +98,8 @@ This synthesis analyzed 138 studies conducted between 1984 and 2002 addressing t
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — guidance benefits shrink and can reverse as learner expertise grows.
 - [5E learning cycle](../patterns/5e-learning-cycle.md) — a structured inquiry pattern that operationalizes teacher-guided inquiry.
 - [Direct instruction](../patterns/direct-instruction.md) — the strongly guided contrast case in guided-vs-discovery comparisons.
-- [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](guided-discovery-outperforms-pure-discovery.md) — related
+- [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](minimal-guidance-less-effective-for-novices.md) — related
 - [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — possibly the same claim (merge candidate)
-- [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — related
 - [PAIR-C scaffolding shows mixed evidence for deep understanding and reduced misconceptions in emergent-phenomena instruction](pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction.md) — a narrower finding that bears on this claim
 - [Some students found the guided-inquiry worksheet activities insufficiently thought-provoking and the data exchange troublesome](students-criticize-inquiry-worksheets-low-thinking.md) — related
 - [Review reports a controlled comparison favoring teacher-led instruction over student-centered instruction for grammar learning](teacher-led-outperformed-student-centered-grammar.md) — related

@@ -41,8 +41,9 @@ Semi-structured interviews in the formative study's cross-school migration theme
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [A formative study with six teachers and two experts identified five core challenges in lesson plan adaptation, including lack of systematic student profile data and fragmented refinement workflows](five-challenges-lesson-plan-adaptation.md) — related
 - [Kolb's inventory successfully differentiated group learning styles by students' subject majors](kolb-inventory-group-styles-by-subject-major.md) — related
 - [Pre-service teachers struggle with instructional design and lesson planning despite existing standards and coursework](pre-service-teachers-struggle-lesson-design.md) — related

@@ -151,7 +151,7 @@ Word study aligns with research showing that instruction connecting spelling to 
 1. **Assess and group.** Administer a spelling inventory; place students in developmental groups and select a feature for each group.
 2. **Introduce the pattern.** Model a sort with a few exemplar words, thinking aloud about the feature ([Provide guidance](../elements/provide-guidance.md)); contrast exemplars with oddballs so the rule boundary is visible.
 3. **Sort and discuss.** Students sort the full word set individually or in pairs, then explain their categories ([Peer Discussion](../elements/peer-discussion.md)); the teacher circulates and prompts justification ([Provide feedback](../elements/provide-feedback.md)).
-4. **Extend across the week.** Rotate activities — speed sorts, blind sorts, word hunts in connected text, and notebook entries — distributing practice across days ([Practice](../elements/practice.md)); spaced revisiting of earlier features supports retention [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+4. **Extend across the week.** Rotate activities — speed sorts, blind sorts, word hunts in connected text, and notebook entries — distributing practice across days ([Practice](../elements/practice.md)); spaced revisiting of earlier features supports retention [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 5. **Reflect and assess.** Students write generalizations in their own words ([Individual Reflection](../elements/individual-reflection.md)); assess with a new-word sort and a writing sample to check transfer, not memorized-list recall.
 
 ## Related Strategies

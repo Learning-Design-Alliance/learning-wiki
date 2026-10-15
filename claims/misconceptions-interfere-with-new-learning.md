@@ -65,14 +65,15 @@ Reviews roughly twenty years of research (since the mid-1980s) on refutation tex
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does naming and refuting the misconception help?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **4 distinct studies** (2 review, 1 quant-synthesis, 1 causal), `q2`–`q4`, 0 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does instruction that names and confronts a science misconception change learners' conceptions more than standard exposition?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **5 distinct studies** (2 quant-synthesis, 1 review, 1 causal, 1 qualitative), `q2`–`q4`, 1 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| [Guzzetti et al. 1993](https://doi.org/10.2307/747886) | q4 · quant-synthesis · r? | i? | this claim |
+| [Guzzetti et al. 1993](https://doi.org/10.2307/747886) | q3 / q4 · quant-synthesis · r? | i? | this claim; [Conflict-based instruction improves science conceptual learning, though staged contradicti](cognitive-disequilibrium-motivates-conceptual-change.md) (supports) |
 | [Tippett 2010](https://doi.org/10.1007/s10763-010-9203-x) | q3 · review · r? | i? | this claim |
-| Woloshyn 1992 | q3 · causal · r2 | i? | [In one experiment, refutational text (misbelief stated first, then fact) enhanced free rec](refutational-text-order-enhances-retention.md) (supports); [Elaborative interrogation produced greater pretest-to-posttest gains on items about common](elaborative-interrogation-improves-misbelief-items-pretest-posttest.md) (qualifies) |
-| Blosser 1993 | q2 / q3 · review · r3 | i? | [Conceptual change strategies in cooperative groups reduced misconceptions in community col](cooperative-conceptual-change-chemistry-misconceptions.md) (supports) |
+| [Pacaci et al. 2024](https://doi.org/10.1002/tea.21887) | q4 · quant-synthesis · r? | i3 · large effect, g=1.10 (adjusted g=0.93) | [Conflict-based instruction improves science conceptual learning, though staged contradicti](cognitive-disequilibrium-motivates-conceptual-change.md) (supports) |
+| [Lehman et al. 2013](https://doi.org/10.3233/jai-130025) | q3 · causal · r1 | i? | [Conflict-based instruction improves science conceptual learning, though staged contradicti](cognitive-disequilibrium-motivates-conceptual-change.md) (supports) |
+| Tao 1997 | q2 · qualitative · r2 | i? | [Computer-supported collaborative learning with simulation programs fostered conceptual cha](cscl-simulation-conceptual-change-cognitive-engagement.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

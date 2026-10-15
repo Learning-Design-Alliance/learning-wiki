@@ -64,6 +64,8 @@ A meta-analysis of 15 studies (2008–2021, 38 effect sizes) comparing ESL/EFL l
 Ngo et al. (2024) qualify this claim. The claim concerns practice frequency and session length within one four-week programme; the synthesis compares programmes of different total length across studies and finds that one to four weeks produced a negligible pooled effect while longer programmes produced medium to large ones. So the absence of a dose-response within a short programme is consistent with the pooled evidence, but it should not be read as evidence that the amount of ASR practice does not matter.
 
 ## Related Claims
+
+- [CAPT software shows promising results for segmental pronunciation, while prosodic features and fluency still require further research and development](capt-strong-segmentals-weak-prosody.md) — the general claim this finding bears on, with the studies behind it
 - [ASR transcription serves as a diagnostic tool identifying individual learners' pronunciation errors, with function words most commonly mispronounced](asr-diagnostic-identification-pronunciation-errors.md) — related
 - [Guided ASR practice improves overall pronunciation accuracy of Korean EFL learners more than ordinary classroom pronunciation practice alone](asr-guided-practice-improves-overall-pronunciation-accuracy.md) — related
 - [Guided ASR practice did not produce statistically significant improvement in any specific pronunciation error type, with some errors unimproved or regressed](asr-specific-error-types-no-significant-gains.md) — related

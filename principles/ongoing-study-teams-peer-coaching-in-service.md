@@ -23,7 +23,7 @@ sources:
 # Teacher professional development should include ongoing activities like study teams and peer coaching rather than only occasional large-group sessions
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 31 claims (19 for, 12 mixed) · 19 studies (5 review, 5 associational, 3 qualitative, 3 design, 1 causal, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 2 of 19 report an effect size · 31 claims rest on one study
+> **Evidence** · 31 claims (19 for, 12 mixed) · 19 studies (5 review, 5 associational, 3 qualitative, 3 design, 1 causal, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 2 of 19 report an effect size · 30 claims rest on one study
 
 ## Conditional relationship
 
@@ -112,6 +112,12 @@ These rows are proposals, untested as diagnostics. Record each probe, because as
 - [Coaching is more effective when framed as a partnership, with voluntary non-evaluative participation](../claims/coaching-partnership-voluntary-non-evaluative.md) [+M] and [a district coaching culture eases participation](../claims/coaching-culture-increases-teacher-participation.md) [+W]: correlations from one technology-coaching program's survey and the same authors' qualitative report. The title's "more effective" rests on correlations with self-reported improvement.
 
 Learners, settings and outcomes differ across these claims (pre-kindergarten to high school teachers, technology coaching, early literacy, charter schools), so do not rank them. None measures observed practice a year after support ends.
+
+## The evidence by question
+
+- *Does adding ongoing coaching or colleague collaboration to in-service professional development change teachers' classroom practice and their students' achievement?* [Teacher coaching programs improve teachers' instructional practice by a pooled 0.49 SD across 43 causal studies](../claims/coaching-pooled-instruction-effect-0-49-sd.md) [+M]
+- *Does more coaching time, or more frequent contact, go with larger effects?* [Coaching dosage shows precisely estimated null effects: more coaching hours are not associated with larger program effects](../claims/coaching-dosage-null-effect.md) [~M]
+- *Does participation that is voluntary and kept apart from evaluation go with more change in practice?* [Teachers who report coaching as a voluntary, non-evaluative partnership report more improvement in classroom challenges and higher technology-use confidence](../claims/coaching-partnership-voluntary-non-evaluative.md) [+M]
 
 ## Further evidence, not yet read against this model
 

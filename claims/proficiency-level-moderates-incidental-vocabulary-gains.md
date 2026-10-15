@@ -45,5 +45,5 @@ Review reports Tekmen and Daloglu (2006): intermediate, upper-intermediate and a
 ## Related Claims
 - [Higher L2 reading proficiency, motivation, and involvement load are associated with larger incidental vocabulary gains](proficiency-motivation-involvement-gains.md) — possibly the same claim (merge candidate)
 - [Proficiency moderates gloss effects: vocabulary benefits appear at Levels 2 and 3 but not Levels 1 and 4](proficiency-moderates-gloss-vocabulary-effects.md) — related
-- [Incidental Vocabulary Exposure Limited](incidental-vocabulary-exposure-limited.md) — a broader claim this one bears on
+- [Incidental vocabulary exposure produces reliable learning, but learners pick up only a small share of the unknown words they meet](incidental-vocabulary-exposure-limited.md) — a broader claim this one bears on
 - [Reading a single authentic novel yields incidental vocabulary gains, with more gains for words occurring more than five times](single-novel-reading-incidental-vocabulary-gains.md) — related

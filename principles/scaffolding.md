@@ -27,7 +27,7 @@ sources:
 # Scaffolding
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 29 claims (10 for, 16 mixed, 3 against) · 25 studies (12 causal, 3 quant-synthesis, 3 review, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 6 of 25 report an effect size · 23 claims rest on one study
+> **Evidence** · 29 claims (10 for, 16 mixed, 3 against) · 24 studies (11 causal, 3 quant-synthesis, 3 review, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 6 of 24 report an effect size · 23 claims rest on one study
 
 ## Conditional relationship
 
@@ -84,7 +84,7 @@ Each question below links a general claim that gathers the studies behind it int
 - Does support during an attempt improve later learning compared with attempting unsupported, and for which learners, contexts and outcomes? [Scaffolding improves learning](../claims/scaffolding-improves-learning.md) [+S]: 7 distinct studies.
 - Must support be contingent on the learner's last response, rather than fixed? [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+S]: 20 distinct studies.
 - Should support be withdrawn, and in what order? [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+S]: 7 distinct studies.
-- When the support can do the task for the learner (AI assistants), does it cost independent performance? [How genAI is used, not who uses it, predicts whether independent performance declines or improves](../claims/genai-usage-mode-predicts-independent-performance.md) [~M]: 9 distinct studies.
+- When the support can do the task for the learner (AI assistants), does it cost independent performance? [How genAI is used, not who uses it, predicts whether independent performance declines or improves](../claims/persistence-costs-concentrated-among-direct-solution-users.md) [~M]: 9 distinct studies.
 - In what form, and under whose control, should prompts be given? [Textual instructional prompts yield significantly higher near-transfer posttest performance than pictorial prompts for novice circuit-analysis learners](../claims/textual-prompts-better-near-transfer-than-pictorial.md) [+M]: 1 distinct studies.
 
 ## Further evidence, not yet read against this model
@@ -119,7 +119,7 @@ Assisted performance, unassisted immediate performance, delayed retention, trans
 
 - [AI scaffolding differs from human scaffolding in availability, feedback timing, and dynamic adjustment, making its developmental impact conditional](../claims/ai-scaffolding-developmental-impact-conditional.md) [~W]
 - [Computer-based scaffolding shows a consistently positive effect on cognitive outcomes in STEM education](../claims/computer-based-scaffolding-positive-cognitive-outcomes-stem.md) [+W]
-- [How genAI is used, not who uses it, predicts whether independent performance declines or improves](../claims/genai-usage-mode-predicts-independent-performance.md) [~W]
+- [How genAI is used, not who uses it, predicts whether independent performance declines or improves](../claims/persistence-costs-concentrated-among-direct-solution-users.md) [~W]
 - [Scaffolding's influence was greater when measured at the principles assessment level than at the concept level](../claims/principles-level-assessment-highest-scaffolding-effect.md) [+W]
 - [High-school students given GPT-4 access solved more problems in the moment but performed worse than controls once the tool was removed (review attribution)](../claims/gpt4-access-worse-after-removal-math.md) [~W]
 - [Scaffolding's effect was greatest among adult learners, though based on a single outcome](../claims/scaffolding-effect-greatest-adult-learners.md) [+W]

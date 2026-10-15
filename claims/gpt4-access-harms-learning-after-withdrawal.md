@@ -18,64 +18,26 @@ sources:
     i: "?"
     kind: theoretical
     rigour: 3
-  - id: aras-bozkurt-2026
-    resource: "https://doi.org/10.55982/openpraxis.18.1.1145"
-    title: "Aras Bozkurt, Helen Crompton, & Caroline Fell Kurban. (2026). The Devil is in the Det[ai]ls: AI Agents, Ghost Students, and the Crisis of Verified Presence in an Agentic AI World. Open Praxis, 18(1), 1–12. https://doi.org/10.55982/openpraxis.18.1.1145"
-    author: "Aras Bozkurt, Helen Crompton, & Caroline Fell Kurban"
-    q: 2
-    i: "?"
-    kind: theoretical
-    rigour: 2
-  - id: h-chad-lane-2026
-    resource: "https://doi.org/10.1007/978-3-032-29791-4_38"
-    title: "H. Chad Lane. (2026). AIED's Unfinished Mission: Centering Agency and Motivation in the Age of Effortless Bypass. AIED 2026, CCIS 3032, pp. 502–516. https://doi.org/10.1007/978-3-032-29791-4_38"
-    author: H. Chad Lane
-    q: 2
-    i: "?"
-    kind: theoretical
-    rigour: 3
-  - id: mario-brcic-2026
-    resource: "https://arxiv.org/abs/2606.26181"
-    title: "Mario Brcic, Stjepan Frljic. (2026). The Effortless Trap: Productive Struggle, AI, and the Illusion of Learning. Preprint. https://arxiv.org/abs/2606.26181"
-    author: Mario Brcic, Stjepan Frljic
-    q: 2
-    i: "?"
-    kind: theoretical
-    rigour: 3
-  - id: lin-j-and-al-hada-nm-2026
-    title: Lin J and Al-Hada NM 2026
-    q: 2
-    i: "?"
-    kind: theoretical
-    rigour: 3
-  - id: marcus-kubsch-2026
-    resource: "https://arxiv.org/abs/2606.16822"
-    title: "Marcus Kubsch. (2026). AI as a Partner in Learning about, Doing, and Engaging with Science: Vigilance as the Key to Productive Augmentation. https://arxiv.org/abs/2606.16822"
-    author: Marcus Kubsch
-    q: 2
-    i: "?"
-    kind: theoretical
-    rigour: 3
 ---
 
 # Unrestricted GPT-4 access in high-school mathematics raised assisted practice performance but left students worse off after withdrawal
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 6 studies · 6 theoretical `r2`–`r3` · `q2`
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 
 `q2 i?` In a randomised controlled trial with nearly a thousand high-school mathematics students, GPT-4 access raised assisted practice performance by 48 per cent, yet after access was withdrawn the same students performed 17 per cent worse than controls. [→ Mutlu Cukurova 2026](#mutlu-cukurova-2026)
 
-`q2 i?` In a field experiment with nearly a thousand high school students, students with access to GPT-4 performed 48% better on practice problems but 17% worse on exams than students who never had access once the tool was removed. [→ Aras Bozkurt 2026](#aras-bozkurt-2026)
+<!-- subclaim of merged duplicate entry 2026-10-15: `q2 i?` In a field experiment with nearly a thousand high school students, students with access to GPT-4 performed 48% better on practice problems but 17% worse on exams than students who never had access once the tool was removed. [→ Aras Bozkurt 2026](#aras-bozkurt-2026) -->
 
-`q2 i?` A recent study found unrestricted ChatGPT access produced substantially better practice performance but significantly worse exam scores. [→ H. Chad Lane 2026](#h-chad-lane-2026)
+<!-- subclaim of merged duplicate entry 2026-10-15: `q2 i?` A recent study found unrestricted ChatGPT access produced substantially better practice performance but significantly worse exam scores. [→ H. Chad Lane 2026](#h-chad-lane-2026) -->
 
-`q2 i?` In a randomized trial of high-school mathematics students reported by Bastani et al. (2025), the unguarded-AI group scored about 17% worse than the no-access control group on the unaided exam, and the guarded-AI group using the same underlying model essentially erased the harm. [→ Mario Brcic 2026](#mario-brcic-2026)
+<!-- subclaim of merged duplicate entry 2026-10-15: `q2 i?` In a randomized trial of high-school mathematics students reported by Bastani et al. (2025), the unguarded-AI group scored about 17% worse than the no-access control group on the unaided exam, and the guarded-AI group using the same underlying model essentially erased the harm. [→ Mario Brcic 2026](#mario-brcic-2026) -->
 
-`q2 i?` The review reports, citing Bastani et al. (2025), that access to a general-purpose GPT interface improved performance during supported practice among nearly 1,000 high-school mathematics students but was followed by poorer unaided test performance after access was removed, with a guarded tutor mitigating that loss. [→ Lin J and Al-Hada NM 2026](#lin-j-and-al-hada-nm-2026)
+<!-- subclaim of merged duplicate entry 2026-10-15: `q2 i?` The review reports, citing Bastani et al. (2025), that access to a general-purpose GPT interface improved performance during supported practice among nearly 1,000 high-school mathematics students but was followed by poorer unaided test performance after access was removed, with a guarded tutor mitigating that loss. [→ Lin J and Al-Hada NM 2026](#lin-j-and-al-hada-nm-2026) -->
 
-`q2 i?` Students given a tutor that withheld answers learned, while those given a model that handed answers over scored lower on an unassisted exam, supporting the processing-depth claim. [→ Marcus Kubsch 2026](#marcus-kubsch-2026)
+<!-- subclaim of merged duplicate entry 2026-10-15: `q2 i?` Students given a tutor that withheld answers learned, while those given a model that handed answers over scored lower on an unassisted exam, supporting the processing-depth claim. [→ Marcus Kubsch 2026](#marcus-kubsch-2026) -->
 
 ## Evidence
 
@@ -89,6 +51,7 @@ The chapter reports, citing Bastani et al., a randomised controlled trial with n
 
 > "unrestricted access to a GPT-4 interface raised assisted practice performance by 48 per cent; yet when access was subsequently withdrawn, the same students performed 17 per cent worse than controls who had never used the tool"
 
+<!-- merged duplicate entry 2026-10-15:
 ### Aras Bozkurt 2026
 
 Aras Bozkurt, Helen Crompton, & Caroline Fell Kurban. (2026). The Devil is in the Det[ai]ls: AI Agents, Ghost Students, and the Crisis of Verified Presence in an Agentic AI World. Open Praxis, 18(1), 1–12. https://doi.org/10.55982/openpraxis.18.1.1145
@@ -98,7 +61,9 @@ Aras Bozkurt, Helen Crompton, & Caroline Fell Kurban. (2026). The Devil is in th
 The editorial reports, citing Bastani et al. (2025), a field experiment with nearly a thousand high school students in which GPT-4 access produced a 48% practice-problem advantage but 17% worse exam performance after removal. No effect size is printed.
 
 > "A field experiment with nearly a thousand high school students found the same pattern in educational outcomes. Students with access to GPT-4 performed 48% better on practice problems, but when the tool was removed, they performed 17% worse on exams than students who never had access"
+-->
 
+<!-- merged duplicate entry 2026-10-15:
 ### H. Chad Lane 2026
 
 H. Chad Lane. (2026). AIED's Unfinished Mission: Centering Agency and Motivation in the Age of Effortless Bypass. AIED 2026, CCIS 3032, pp. 502–516. https://doi.org/10.1007/978-3-032-29791-4_38
@@ -108,7 +73,9 @@ H. Chad Lane. (2026). AIED's Unfinished Mission: Centering Agency and Motivation
 The paper reports, citing Bastani et al., that in a study of high school mathematics, unrestricted ChatGPT access showed "substantially better practice performance but signiﬁcantly worse exam scores". No effect sizes are printed in this paper's account.
 
 > "A recen t study found that unrestricted ChatGPT access showed substantially better practice performance but signiﬁcantly worse exam scores [3]."
+-->
 
+<!-- merged duplicate entry 2026-10-15:
 ### Mario Brcic 2026
 
 Mario Brcic, Stjepan Frljic. (2026). The Effortless Trap: Productive Struggle, AI, and the Illusion of Learning. Preprint. https://arxiv.org/abs/2606.26181
@@ -118,7 +85,9 @@ Mario Brcic, Stjepan Frljic. (2026). The Effortless Trap: Productive Struggle, A
 The article reports, citing Bastani et al. (2025), a randomized trial of nearly a thousand high-school mathematics students in which tool design, not tool presence, decided the outcome. The unguarded group scored "about 17% worse than the no-access control group" on the unaided exam; the guarded arm, rebuilt to withhold answers and offer teacher-designed hints, essentially erased the harm. No effect size is printed for this finding in the article.
 
 > "Students in the unguarded-AI group, where the tool behaved like an ordinary chatbot, performed better while they had it during practice but then scored about 17% worse than the no-access control group on the exam they sat alone."
+-->
 
+<!-- merged duplicate entry 2026-10-15:
 ### Lin J and Al-Hada NM 2026
 
 Lin J and Al-Hada NM (2026) The critical-thinking paradox in generative AI-integrated learning: distinguishing efficiency from cognitive depth—a differentiated framework and testable propositions. Front. Psychol. 17:1906070. https://doi.org/10.3389/fpsyg.2026.1906070
@@ -128,7 +97,9 @@ Lin J and Al-Hada NM (2026) The critical-thinking paradox in generative AI-integ
 Narrative review attribution: the article reports a peer-reviewed field experiment by Bastani et al. (2025) with nearly 1,000 high-school students in mathematics, in which "a guarded tutor designed to preserve learning mitigated that loss". No effect size is printed in the quoted passage.
 
 > "access to a general-purpose GPT interface improved performance during supported practice but was followed by poorer unaided test performance after access was removed; a guarded tutor designed to preserve learning mitigated that loss"
+-->
 
+<!-- merged duplicate entry 2026-10-15:
 ### Marcus Kubsch 2026
 
 Marcus Kubsch. (2026). AI as a Partner in Learning about, Doing, and Engaging with Science: Vigilance as the Key to Productive Augmentation. https://arxiv.org/abs/2606.16822
@@ -138,10 +109,11 @@ Marcus Kubsch. (2026). AI as a Partner in Learning about, Doing, and Engaging wi
 The paper reports, citing Bastani et al. (2024), an experiment where only the prompt changed at a fixed model: answer-withholding tutors produced learning while answer-handing tutors produced practice success but lower unassisted exam scores. The review's account is second-hand; no effect size is printed.
 
 > "Changing only the prompt at a fixed model, students given a tutor that withheld answers learned, while those given a model that handed answers over did well during practice and then scored lower on an unassisted exam (Bastani et al., 2024); the model was the same in both arms, so what moved the outcome was whether the student did the processing or let the machine do it."
+-->
 
 ## Discussion
 
-
+Every entry this page had was a second-hand report of one trial (Bastani et al., 2025, high-school mathematics, nearly 1,000 students), so they are kept as one entry; the other five reports are in comments under it. The trial itself has no entry here yet.
 
 ## Related Claims
 
@@ -199,12 +171,10 @@ The paper reports, citing Bastani et al. (2024), an experiment where only the pr
 - [Easy access to AI-generated answers may reduce learners' motivation to engage deeply with material](ai-over-reliance-reduces-deep-engagement.md) — a broader claim this one bears on
 - [Meta-reviews reach contradictory conclusions on whether AI reliance harms or helps critical thinking, with substantial design limitations limiting generalizability](contradictory-meta-reviews-ai-critical-thinking.md) — related
 - [Agentivism generates six empirically testable propositions linking delegation structure, verification, reconstruction, and reduced-support transfer to learning outcomes](agentivism-six-testable-propositions.md) — a broader claim this one bears on
-- [How genAI is used, not who uses it, predicts whether independent performance declines or improves](genai-usage-mode-predicts-independent-performance.md) — the general claim this finding bears on, with the studies behind it
 - [Calibrated epistemic vigilance, given adequate prior knowledge, is the binding constraint on productive augmentation with AI](calibrated-vigilance-binding-constraint-augmentation.md) — related
 - [Productive cognitive offloading to AI can shift into cognitive surrender, abdicating learner intellectual agency](cognitive-offloading-shifts-to-cognitive-surrender.md) — a broader claim this one bears on
 - [Scaffolding improves learning](scaffolding-improves-learning.md) — a broader claim this one bears on
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — a broader claim this one bears on
-- [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](guided-discovery-outperforms-pure-discovery.md) — a broader claim this one bears on
 - [In one experiment with 256 undergraduates, computer-based lesson versions that included practice produced significantly higher posttest scores than versions without practice](practice-presence-raises-cbi-posttest-achievement.md) — related
 - [Review reports a developmental shift in cognitive offloading: children under-use external aids while adolescents over-rely on them](developmental-shift-cognitive-offloading.md) — related
 - [Practicing with AI improved unassisted writing skill more than practicing with Google Search for cover letter examples and tips](ai-practice-beat-editor-feedback-and-google-search.md) — related

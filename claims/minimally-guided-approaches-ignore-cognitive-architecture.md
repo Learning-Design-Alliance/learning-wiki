@@ -44,7 +44,6 @@ This is the article's theoretical argument, made in the abstract: minimally guid
 
 ## Related Claims
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — a narrower finding that bears on this claim
-- [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](guided-discovery-outperforms-pure-discovery.md) — a narrower finding that bears on this claim
 - [Minimally guided instruction is less effective and less efficient than instruction that places a strong emphasis on guidance of the student learning process](minimally-guided-instruction-less-effective-than-strong-guidance.md) — possibly the same claim (merge candidate)
 - [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — related
 - [Play Based Learning Improves Outcomes](play-based-learning-improves-outcomes.md) — related

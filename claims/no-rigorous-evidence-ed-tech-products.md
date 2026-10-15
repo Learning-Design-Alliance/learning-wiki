@@ -40,6 +40,20 @@ Survey and interview findings from district participants. The report states ther
 
 > "There are no readily accessible sources of "rigorous" evidence on the effectiveness of the vast majority of ed-tech products. As a result, school districts largely depend on recommendations from peers and from their own teachers and principals who have familiarity with the products."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*When a school or district chooses an ed-tech product, is there rigorous evidence to choose by, and do purchasers use it?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **5 distinct studies** (4 associational, 1 theoretical), `q2`, 0 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Morrison 2014 | q2 · associational · r1 | i? | this claim |
+| Improving Ed-Tech Purchasing: Identifying the key obstacles and potential solutions for the discovery and acquisition of K-12 personalized learning tools 2015 | q2 · associational · r1 | i? | [Districts rely more on peer recommendations and pilots than on rigorous evidence when choo](districts-rely-peer-recommendations-pilots-over-rigorous-evidence.md) (supports) |
+| Digital Promise 2015 | q2 · associational · r? | i? | [Most surveyed ed tech developers report their products are informed by research, but purch](developers-report-research-informed-products.md) (supports) |
+| Research and the Promise of Personalized Learning 2015 | q2 · theoretical · r2 | i? | [More than 70 percent of the 180 most popular literacy applications referenced no research ](literacy-apps-lack-research-reference.md) (supports) |
+| Simone 2017 | q2 · associational · r1 | i? | [More than 70 percent of the 180 most popular literacy applications referenced no research ](literacy-apps-lack-research-reference.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

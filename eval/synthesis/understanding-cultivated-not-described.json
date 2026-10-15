@@ -3,13 +3,9 @@
   "note": "Wave 9 (2026-10-15). Groupings and directions by an agent from the claims' titles and evidence entries, read in full. The first two hubs already carry tables from other specs; members here join them. The third hub is a tutoring claim used as the most general claim on prompting versus explaining; its members are qualitative or descriptive.",
   "findings": [
     {
-      "hub": "guided-discovery-outperforms-pure-discovery",
+      "hub": "minimal-guidance-less-effective-for-novices",
       "question": "Should learners explore a new idea with guidance, rather than be told it or left to find it alone?",
       "members": [
-        [
-          "explicit-instruction-beats-unassisted-discovery",
-          "+"
-        ],
         [
           "enhanced-discovery-beats-other-instruction",
           "+"
@@ -53,16 +49,36 @@
           "~"
         ],
         [
-          "problem-solving-before-instruction-boosts-conceptual-transfer",
-          "+"
-        ],
-        [
-          "productive-failure-problem-solving-before-instruction-effect",
-          "+"
-        ],
-        [
           "initial-guidance-does-not-improve-learning-from-instruction",
           "+"
+        ],
+        [
+          "publication-bias-corrected-psi-effect-strong",
+          "+"
+        ],
+        [
+          "psi-procedural-knowledge-null-pooled-effect",
+          "~"
+        ],
+        [
+          "psi-effect-increases-with-grade-level",
+          "~"
+        ],
+        [
+          "pf-fidelity-predicts-psi-effect-size",
+          "~"
+        ],
+        [
+          "psi-fidelity-time-span-interaction",
+          "~"
+        ],
+        [
+          "example-problem-sequences-reduce-cognitive-load",
+          "~"
+        ],
+        [
+          "identical-example-problem-order-advantage-not-detected-at-final-test",
+          "~"
         ]
       ]
     }

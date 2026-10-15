@@ -41,6 +41,7 @@ Subgroup analysis of the meta-analysis by learner grade level (2nd–5th graders
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — the general claim this finding bears on, with the studies behind it
 - [The proposed cognitive mechanisms explain both positive and negative effects of PS-I](mechanisms-explain-positive-and-negative-ps-i-effects.md) — a broader claim this one bears on

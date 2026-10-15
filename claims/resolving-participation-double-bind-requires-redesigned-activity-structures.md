@@ -44,6 +44,19 @@ Meléndez, J. W. (2021). Latino immigrants in civil society: Addressing the doub
 
 Meléndez conducted an embedded, interventionist ethnography of Chicago's Ward 49 participatory budgeting process (PB49) across two iterations, applying [Cultural-Historical Activity Theory](../theories/cultural-historical-activity-theory.md)'s expansive-learning framework and coding meeting transcripts for stabilizing/destabilizing discourse and claims-making language. The first iteration's naive-inclusion design (outreach + sequential interpretation into an English-run committee) failed to sustain Latino participation; a subsequent formative intervention — a redesign of the activity's structures (see [Shared power and co-creation of educational systems](../patterns/shared-power-co-creation-of-educational-systems.md)), instantiated as a Spanish-Language Committee — sustained participation and produced observable collective-level (claims-making) and system-level (adoption elsewhere) learning.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does giving an excluded group a body with decision standing and a process redesigned around it sustain its participation and change what is decided, where outreach and gathering its views do not?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **4 distinct studies** (4 qualitative), `q1`–`q2`, 0 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Meléndez 2021](https://doi.org/10.1080/10508406.2020.1807349) | q2 · qualitative · r2 | i? | this claim |
+| Duchesneau 2023 | q2 · qualitative · r3 | i? | [District leaders filtered student and community voices through their own perspectives, so ](leaders-filter-community-voices-security-retained.md) (supports) |
+| Ojetunde 2024 | q1 · qualitative · r2 | i? | [Youth advisors report students are inadequately involved in school decision-making and wan](youth-advisors-report-inadequate-involvement-in-decisions.md) (supports) |
+| [Babineau 2025](https://doi.org/10.51388/20.500.12265/254) | q2 · qualitative · r2 | i? | [Committee members hold that driving systems-level change requires actively and directly en](active-community-engagement-over-passive-feedback.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 As a single embedded case with the researcher acting as co-designer of the intervention, positionality is a real limitation the author himself acknowledges; there is no comparison ward or control condition, so alternative explanations (e.g., general momentum from continued outreach, unrelated changes in ward leadership) cannot be fully ruled out. The dramatic before/after attendance shift (7→0→sustained) and the qualitative claims-making evidence are nonetheless a clear, well-documented pattern, and the system-level adoption by other wards — while not systematically measured — is a meaningful signal that the redesign was not merely locally effective. This is the empirical basis for [Cultural-Historical Activity Theory](../theories/cultural-historical-activity-theory.md)'s collective-vs-system-level distinction in expansive learning.
 

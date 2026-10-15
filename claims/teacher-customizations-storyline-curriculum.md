@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Teachers make frequent small customizations to OpenSciEd materials, mainly for practical needs, student ideas, and equity goals
-description: Teachers make frequent small customizations to OpenSciEd materials, mainly for practical needs, student ideas, and equity goals
+title: "Most surveyed teachers make small customizations to OpenSciEd materials often or daily, commonly to shorten lessons, increase engagement, support prior knowledge and increase relevance"
+description: "Most surveyed teachers make small customizations to OpenSciEd materials often or daily, commonly to shorten lessons, increase engagement, support prior knowledge and increase relevance"
 id: teacher-customizations-storyline-curriculum
 status: draft
 generated:
@@ -19,10 +19,12 @@ sources:
     rigour: 2
 ---
 
-# Teachers make frequent small customizations to OpenSciEd materials, mainly for practical needs, student ideas, and equity goals
+# Most surveyed teachers make small customizations to OpenSciEd materials often or daily, commonly to shorten lessons, increase engagement, support prior knowledge and increase relevance
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+
+<!-- title before 2026-10-15: Teachers make frequent small customizations to OpenSciEd materials, mainly for practical needs, student ideas, and equity goals -->
 
 ## Subclaims
 `q2 i?` Most teachers reported making small changes often or daily, with larger customizations occurring less frequently. [→ McElhaney 2024](#mcelhaney-2024)
@@ -42,7 +44,8 @@ The review reports, citing McNeill, Fine, et al. (2023), an online survey with f
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [OpenSciEd practitioners' highest-priority needs group into six areas: student engagement, classroom culture, assessment, materials adaptation, planning/reflection time, and teacher capacity.](openscied-six-high-priority-need-areas.md) — related
 - [Working-group synthesis identified four crosscutting research themes for OpenSciEd](four-themes-openscied-research-agenda.md) — related

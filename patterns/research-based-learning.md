@@ -19,7 +19,7 @@ grain_size: unit
 # Research-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 6 claims (3 for, 3 mixed) · 8 studies (2 quant-synthesis, 2 review, 2 qualitative, 1 causal, 1 design), `q1`–`q4` · 2 of 8 report an effect size · 3 claims rest on one study
+> **Evidence** · 5 claims (3 for, 2 mixed) · 8 studies (2 quant-synthesis, 2 review, 2 qualitative, 1 causal, 1 design), `q1`–`q4` · 2 of 8 report an effect size · 3 claims rest on one study
 
 ## Description
 Research-Based Learning is a pattern in which learners investigate questions, gather and evaluate evidence, and build explanations or products from that inquiry. It is useful when learning goals include information literacy, inquiry, and evidence-based reasoning.
@@ -65,9 +65,8 @@ Research-Based Learning is a pattern in which learners investigate questions, ga
 - [Explicit Instruction in Internet Search](../principles/explicit-instruction-internet-search.md)
 
 ## Claims
-- [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](../claims/guided-discovery-outperforms-pure-discovery.md) [~M]
+- [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](../claims/minimal-guidance-less-effective-for-novices.md) [~M]
 - [Scripted personally meaningful inquiry is associated with gains in inquiry-decision accuracy, with mixed evidence on attitude and behavior change](../claims/scripted-personal-inquiry-associated-with-inquiry-knowledge-gains.md) [~W]
-- [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [~M]
 
 ## Examples
 - Students research a local issue and build a recommendation supported by sources.

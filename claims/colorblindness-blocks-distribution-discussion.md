@@ -40,6 +40,18 @@ Theoretical/interpretive argument drawing on the author's observations of Chicag
 
 > "Color blindness precludes a discussion of the distribution of the goodies, the distribution of privilege by race."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does naming race explicitly, rather than treating a subject or a school as race-neutral, open discussion and analysis of how race shapes outcomes?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **3 distinct studies** (1 theoretical, 1 associational, 1 qualitative), `q1`–`q2`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Payne 2005 | q1 · theoretical · r2 | i? | this claim; [Payne suspects that a school's inability to talk openly about race predicts its capacity f](racial-reticence-predicts-school-change-capacity.md) (supports) |
+| Stokamer 2013 | q2 · associational · r2 | i? | [Class discussion is widely used among students attaining knowledge outcomes, while race an](discussion-common-race-political-topics-underused.md) (supports) |
+| Koch 2025 | q2 · qualitative · r2 | i? | [BIPOC students perceived statistics as a neutral subject and did not discern explicit raci](students-perceive-statistics-as-neutral-subject.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

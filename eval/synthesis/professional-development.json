@@ -1,0 +1,112 @@
+{
+  "principle": "patterns/professional-development",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "coaching-pooled-instruction-effect-0-49-sd",
+      "question": "Does coaching teachers on their classroom practice change their observed instruction?",
+      "members": [
+        [
+          "coaching-increases-teacher-praise",
+          "+"
+        ],
+        [
+          "group-level-scaffolding-training-increases-teacher-process-support-and-student-participation",
+          "+"
+        ],
+        [
+          "supervisory-coaching-mixed-teacher-student-outcomes",
+          "~"
+        ],
+        [
+          "coaching-pooled-achievement-effect-0-18-sd",
+          "+"
+        ],
+        [
+          "pd-coaching-expert-support-gains",
+          "+"
+        ],
+        [
+          "cal-teacher-coaching-itt-math-gains-012-022-sd",
+          "+"
+        ],
+        [
+          "colleague-collaboration-consistently-positive-practices",
+          "+"
+        ],
+        [
+          "coaching-meta-analysis-positive-effects-instruction-achievement",
+          "+"
+        ],
+        [
+          "coaching-complementary-elements-moderators",
+          "~"
+        ],
+        [
+          "instruction-achievement-weak-link-coaching",
+          "~"
+        ],
+        [
+          "coaching-scale-up-diminishing-effects",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "coaching-pooled-achievement-effect-0-18-sd",
+      "question": "Does coaching or sustained professional development raise the achievement of the teachers' students?",
+      "members": [
+        [
+          "coaching-meta-analysis-positive-effects-instruction-achievement",
+          "+"
+        ],
+        [
+          "cal-teacher-coaching-itt-math-gains-012-022-sd",
+          "+"
+        ],
+        [
+          "pd-coaching-expert-support-gains",
+          "+"
+        ],
+        [
+          "experimental-staff-development-raises-student-achievement",
+          "+"
+        ],
+        [
+          "pd-49-hours-21-percentile-points",
+          "+"
+        ],
+        [
+          "instruction-achievement-weak-link-coaching",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "coaching-complementary-elements-moderators",
+      "question": "Which features of a coaching programme go with larger effects: what it is paired with, its dose, its scale, its target or its mode?",
+      "members": [
+        [
+          "coaching-dosage-null-effect",
+          "~"
+        ],
+        [
+          "coaching-scale-up-diminishing-effects",
+          "~"
+        ],
+        [
+          "coaching-academic-task-fidelity-higher-quality",
+          "~"
+        ],
+        [
+          "coaching-effective-all-delivery-modes",
+          "~"
+        ],
+        [
+          "fifty-hours-content-specific-pd",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

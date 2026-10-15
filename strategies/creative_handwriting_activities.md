@@ -12,7 +12,7 @@ generated:
 # Creative Handwriting Activities
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies (3 review, 2 quant-synthesis, 1 causal, 1 theoretical), `q1`–`q4` · 1 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 9 studies (3 quant-synthesis, 3 review, 2 causal, 1 theoretical), `q1`–`q4` · 2 of 9 report an effect size
 
 ## Description
 Creative handwriting activities replace repetitive copywork with varied, playful, and often multi-sensory tasks — writing in sand or shaving cream, forming letters with clay or body movements, tracing rainbow letters, composing real messages to real audiences, or using novel tools (chalk, paintbrushes, tablets with styluses). The goal is to build legible, automatic letter formation while sustaining motivation, rather than treating handwriting as isolated mechanical drill.
@@ -23,7 +23,7 @@ Handwriting fluency matters because letter production that is not automatic cons
 
 ### Context
 #### Requirements
-- Brief, regular practice episodes (10–15 minutes) rather than long infrequent sessions [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Brief, regular practice episodes (10–15 minutes) rather than long infrequent sessions [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 - Accurate letter models available during formation ([Modeling](modeling.md) of stroke sequence, not just the finished letter)
 - Immediate corrective [Feedback](../elements/feedback.md) on formation, orientation, and sizing
 - Activities that still require actual letter production — sensory play without a writing goal does not build fluency
@@ -58,7 +58,7 @@ Handwriting fluency matters because letter production that is not automatic cons
 3. Introduce a creative variation that still requires production — sand tray, rainbow tracing, or a stylus app — with the same stroke sequence ([Practice](../elements/practice.md)).
 4. Give immediate, specific feedback on formation and correct errors in the moment ([Feedback](../elements/feedback.md)).
 5. Embed the letters in an authentic purpose — a labeled drawing, a note home, a class book ([Application](../elements/application.md)) — so handwriting serves communication rather than existing as an end in itself.
-6. Keep sessions short and distribute them across the week rather than massing practice [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+6. Keep sessions short and distribute them across the week rather than massing practice [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ## Related Strategies
 - [Multi-sensory approaches](multi-sensory-learning.md) — the broader family of activities that pair visual, auditory, and kinesthetic channels

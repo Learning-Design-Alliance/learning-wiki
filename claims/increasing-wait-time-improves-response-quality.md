@@ -60,6 +60,20 @@ Rowe, M. B. (1986). Wait Time: Slowing Down May Be A Way of Speeding Up! *Journa
 
 Rowe's review distinguishes wait time 1 (the pause after asking a question) and wait time 2 (the pause after a student stops speaking) — the same two pauses this claim page describes — and reviews training procedures used to lengthen them. The publisher's own abstract (retrieved via Crossref) states that when teachers wait "just a few seconds more" before responding, "there are pronounced improvements in the quality of the response and in students' and teachers' attitudes and expectations" (from ERIC's independent abstract of the same article, EJ333700). No open-access full text was found (Unpaywall: no OA location); read at abstract level only, so no numeric effect size can be extracted.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does a longer pause after a question, before anyone answers, improve the responses that follow?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **5 distinct studies** (2 review, 2 quant-synthesis, 1 theoretical), `q2`–`q3`, 1 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Tobin 1987](https://doi.org/10.3102/00346543057001069) | q3 · review · r? | i? | this claim; [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) (supports) |
+| [Rowe 1986](https://doi.org/10.1177/002248718603700110) | q2 · review · r? | i? | this claim |
+| [Redfield & Rousseau 1981](https://doi.org/10.3102/00346543051002237) | q3 · quant-synthesis · r? | i? | [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) (supports) |
+| [Rosenshine et al 1996](https://doi.org/10.3102/00346543066002181) | q3 · quant-synthesis · r? | i1 · small–medium effect, median d=0.36 (standardized tests) | [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) (supports) |
+| Knight 1985 | q2 · theoretical · r2 | i? | [Teachers give disinvited students less wait time than invited students when they cannot an](wait-time-invited-disinvited-students.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Mechanism.** Wait time is thought to work by giving learners time to retrieve, assemble, and rehearse an answer before speaking. Typical classroom questioning leaves under one second of silence after a question, which favors rapid recall over reasoning; extending the pause to roughly three or more seconds shifts responses toward longer utterances, more student-to-student exchanges, and more speculative or hedged reasoning. The same logic applies to the pause after a student starts answering — tolerating silence mid-answer lets the learner continue thinking rather than being rescued by the teacher. This connects to the broader principle that [activation](../principles/activation.md) of prior knowledge requires time, not just a prompt, and to [chunking](../principles/chunking.md) in the sense that assembling a spoken answer requires working-memory operations that take real time.

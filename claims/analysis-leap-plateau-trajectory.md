@@ -41,8 +41,9 @@ Longitudinal paired comparisons of 8 groups' analysis scores across AV Workshops
 
 ## Discussion
 
-
 ## Related Claims
+
+- [In the initial skill acquisition phase, authentic video yielded higher overall observation assignment scores than virtual simulation](av-outperforms-vs-total-observation-score.md) — the general claim this finding bears on, with the studies behind it
 - [Supportive competence grew continuously through Workshop 4 while basic observation ability remained stable across sequential AV workshops](support-growth-observation-stable-longitudinal.md) — related
 - [Authentic video outperformed virtual simulation on the higher-order analysis and support dimensions of observation assignments](av-advantage-analysis-support-dimensions.md) — related
 - [Virtual simulation stimulated higher self-reported purposefulness (active reflection) than authentic video](vs-higher-purposefulness-reflection.md) — related

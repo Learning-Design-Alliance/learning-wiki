@@ -60,8 +60,11 @@ Powell and colleagues (2010) coaching model for early childhood educators: biwee
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Teacher coaching raises student achievement on standardized tests by a pooled 0.18 SD across 31 causal studies](coaching-pooled-achievement-effect-0-18-sd.md) — the general claim this finding bears on, with the studies behind it
+
+- [Teacher coaching programs improve teachers' instructional practice by a pooled 0.49 SD across 43 causal studies](coaching-pooled-instruction-effect-0-49-sd.md) — the general claim this finding bears on, with the studies behind it
 - [Collaboration appeared in 32 of 35 reviewed studies, and collaborative PD models showed student achievement gains](pd-collaboration-prevalence-and-gains.md) — related
 - [Parent Coaching Outperforms Information Only](parent-coaching-outperforms-information-only.md) — related
 - [All 35 reviewed studies used models or modeling, and curriculum without PD support yielded worse outcomes than older curriculum with none](pd-models-and-curriculum-support.md) — related

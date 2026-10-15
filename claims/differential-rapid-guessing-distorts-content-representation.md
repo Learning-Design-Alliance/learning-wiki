@@ -41,8 +41,9 @@ The article's first study, reported in a peer-reviewed journal article, examined
 
 ## Discussion
 
-
 ## Related Claims
+
+- [One measurement article argues that low test-taking motivation biases an individual student's achievement test score downward](test-taking-motivation-negative-score-bias.md) — the general claim this finding bears on, with the studies behind it
 - [Rapid-guessing behavior can distort test scores and adversely affect measurement](rapid-guessing-distorts-test-scores-and-measurement.md) — related
 - [Disengaged test-taking responses can distort the content representation of test items](disengaged-responses-distort-item-content-representation.md) — a broader claim this one bears on
 - [Two decades of research have produced advances in both the measurement of test-taking disengagement and understanding of its distortive impact on individual and aggregated scores](disengagement-research-advances-measurement-and-impact.md) — related

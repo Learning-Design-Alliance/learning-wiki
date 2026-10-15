@@ -12,7 +12,7 @@ generated:
 # Guided Discovery with Word Sorting
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 16 studies (5 quant-synthesis, 4 causal, 4 review, 2 theoretical, 1 qualitative), `q1`–`q4` · 3 of 16 report an effect size
+> **Evidence** · 5 claims (5 for) · 18 studies (6 quant-synthesis, 5 causal, 4 review, 2 theoretical, 1 qualitative), `q1`–`q4` · 4 of 18 report an effect size
 
 ## Description
 Students sort word cards by spelling pattern under teacher questioning that directs attention to critical features, inducing the rule themselves rather than receiving it stated upfront. For example, sorting *page, cage, badge, edge, bridge* reveals the –ge/–dge convention: /j/ after a short vowel is spelled –dge, after a long vowel or consonant –ge. The teacher's questions ("What do you notice about the letter before the g?") scaffold the discovery without giving the answer away.
@@ -56,7 +56,7 @@ Discovery of orthographic patterns through structured comparison is more effecti
 3. Have students sort the remaining words, asking guiding questions ("Say the word. Where do you hear /j/? What letter comes just before it?") rather than confirming or correcting directly.
 4. Ask students to state the generalization in their own words; refine it as a class.
 5. Follow with [Practice](../elements/practice.md) on new, untaught words to test transfer, and provide corrective [feedback](../elements/feedback.md) on misapplied patterns.
-6. Revisit the sort across days (open sorts, speed sorts, word hunts) for spaced review [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+6. Revisit the sort across days (open sorts, speed sorts, word hunts) for spaced review [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 
 ## Related Strategies
 - [Word Study](word-study.md) — the broader developmental-spelling program within which sorting is the core activity

@@ -41,7 +41,8 @@ Theoretical argument in the paper's opening: substitutive averaging into mental 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Criterion-referenced tests indicate whether a particular skill or objective has been achieved rather than comparing performance to other test takers](criterion-referenced-tests-measure-mastery-not-relative-standing.md) — the general claim this finding bears on, with the studies behind it
 - [Statistical item selection that maximizes norm-referenced discrimination undermines criterion-referenced test definitions](statistical-item-selection-conflicts-criterion-referenced-definition.md) — related
 - [Traditional gifted identification tests cannot fully determine learning potential and omit classroom-learning components](traditional-identification-tests-fail-learning-potential.md) — related

@@ -26,7 +26,7 @@ sources:
 # Instructor Accessibility
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 23 claims (9 for, 14 mixed) · 26 studies (5 causal, 5 qualitative, 4 quant-synthesis, 4 review, 4 design, 3 associational, 1 theoretical), `q1`–`q4` · 4 of 26 report an effect size · 18 claims rest on one study
+> **Evidence** · 23 claims (9 for, 14 mixed) · 26 studies (5 causal, 5 qualitative, 4 quant-synthesis, 4 review, 4 design, 3 associational, 1 theoretical), `q1`–`q4` · 3 of 26 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 
@@ -108,6 +108,10 @@ No claim in the wiki compares more and less accessible instructors, or tests a r
 
 Learners, settings and outcomes differ across these (children in tutoring, a simulated computing queue, physics undergraduates, school-age correlational samples, college entrants), so do not rank them. None measures learning as a function of how reachable the instructor is.
 
+## The evidence by question
+
+- *Do learners who use optional one-to-one help do better, and do the learners who need help use it?* [Drop-in one-to-one tutorial attendees improved P1X-to-P1Y marks while the class average declined](../claims/drop-in-tutorials-improve-p1y-marks.md) [~W]
+
 ## Further evidence, not yet read against this model
 <!-- Added 2026-10-05: claims bearing on the route to the instructor that the model above uses only in the situation table, or not at all. Markers are capped by each claim's recorded evidence (strength_cap). -->
 Claims that bear on instructor accessibility but are not part of the model above, or appear only in a row of the situation table. Each says what it is and how far it bears on this page.
@@ -115,7 +119,7 @@ Claims that bear on instructor accessibility but are not part of the model above
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~W] — cited by the earlier page as the reason accessible instructors help learners notice confusion early; a review and a theoretical synthesis, no comparison and no effect size, so it is a mechanism hypothesis here (marker lowered from the earlier `[~M]`, as on [Check-ins](check-ins.md)).
 - [Learner-centered teacher–student relationships are associated with better student outcomes](../claims/teacher-student-relationships-improve-engagement.md) [~M] — the same two meta-analyses as the engagement claim above; correlational, bears on the relational side only.
 - [Freshmen who visited the tutoring center more than 10 times per quarter had statistically higher persistence rates than students who did not visit](../claims/high-use-tutoring-center-visits-higher-persistence.md) [~W] and [Tutoring center visits showed a delayed significant correlation with cumulative GPA in subsequent quarters](../claims/delayed-correlation-visits-cumulative-gpa.md) [~W] — one college's drop-in tutoring centre, associational, one of two cohorts; use of a help route goes with persistence and later GPA, direction not established.
-- [Minority students visited the tutoring center more often than Caucasian students, yet tutored minority and first-generation students had lower average GPAs](../claims/minority-students-more-tutoring-visits-lower-gpas.md) [~W] — same study; a caution against reading use of help as its effect.
+- [In one university's records, minority students visit a drop-in tutoring center more often than Caucasian students, while first-generation and other students do not differ in visits](../claims/minority-students-more-tutoring-visits-lower-gpas.md) [~W] — same study; a caution against reading use of help as its effect.
 - [Social presence shows the strongest association with metacognition in an online case-based course, while teaching presence shows no significant relationship](../claims/social-presence-strongest-metacognition-association-cbi.md) [~W] — survey of 47 graduate students; teaching presence (which includes instructor responsiveness) was not related to self-reported metacognition.
 - [The authors argue formative feedback is critical for making student behaviour 'seen' in asynchronous online learning where the teacher is not physically present](../claims/feedback-makes-behaviour-seen-asynchronous.md) [+W] — an argument from one course audit; supports asking learners to bring an attempt, so the instructor can see what they did.
 - [Students report peer support and distraction as effective coping, rarely self-regulation or professional help-seeking](../claims/students-prefer-peer-support-diversion-over-professional-help.md) [~W] — a survey of vocational school students about emotional distress, not course help; bears only loosely, as a reminder that learners turn to peers first.

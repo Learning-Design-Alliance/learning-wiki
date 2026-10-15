@@ -52,4 +52,4 @@ This narrative review attributes the expertise reversal effect to Kalyuga et al.
 - [Cognitive Load Management](cognitive-load-management.md) — related
 - [Worked-example guidance becomes less effective as learner expertise increases.](worked-examples-less-effective-with-expertise.md) — a narrower finding that bears on this claim
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — related
-- [The fidelity benefit of PS-I reverses for very short interventions: fidelity gains shrink when everything is crammed into a few hours](psi-fidelity-time-span-interaction.md) — related
+- [In one meta-regression, the PS-I fidelity benefit tended to shrink for interventions spanning only a few hours, a marginal interaction (p = .055)](psi-fidelity-time-span-interaction.md) — related

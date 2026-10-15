@@ -60,6 +60,20 @@ Pajares, F. (1996). Self-efficacy beliefs in academic settings. *Review of Educa
 
 Pajares reviews the empirical literature on academic self-efficacy, documenting its strong predictive relationship with academic performance across mathematics, writing, and other subjects. He distinguishes self-efficacy (task-specific, future-oriented judgment of capability) from related constructs like self-concept (global, past-oriented evaluation of competence) and argues the former is a more precise and more powerful predictor. Key design implication: interventions that build self-efficacy — especially through graduated success experiences — have more durable effects on academic persistence than motivational exhortation alone.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does a learner's belief that they can succeed at a task predict whether they start and persist, and which goals and feedback raise it?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **5 distinct studies** (3 review, 1 causal, 1 theoretical), `q2`–`q3`, 0 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Bandura 1997 | q2 · review · r? | i? | this claim |
+| [Pajares 1996](https://doi.org/10.3102/00346543066004543) | q2 · review · r? | i? | this claim |
+| [Zimmerman & Kitsantas 1999](https://doi.org/10.1037/0022-0663.91.2.241) | q3 · causal · r? | i? | [Process goals lead to better skill acquisition for novices than outcome goals.](process-goals-outperform-outcome-goals-for-novices.md) (supports) |
+| [Zimmerman 2000](https://doi.org/10.1016/b978-012109890-2/50031-7) | q3 · theoretical · r? | i? | [Process goals lead to better skill acquisition for novices than outcome goals.](process-goals-outperform-outcome-goals-for-novices.md) (supports) |
+| Schunk 1996 | q2 · review · r2 | i? | [Proximal goals and ability attributional feedback for early learning raise self-efficacy m](proximal-goals-feedback-peer-models-build-learning-efficacy.md) (supports); [Self-efficacy judgments correspond less well to behavior in learning settings than in perf](self-efficacy-accuracy-lower-in-learning-settings.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 Self-efficacy is learnable: it is not fixed ability. The four sources Bandura identifies have direct instructional implications. Mastery experiences (structuring early tasks so learners experience genuine success) are the most powerful source — this argues for graduated challenge curves, not front-loading difficulty. Vicarious modeling (watching similar others succeed) is particularly relevant for underrepresented groups who may doubt they belong in a domain. Social persuasion (feedback that attributes success to effort and strategy rather than innate talent) supports growth-oriented efficacy rather than fixed self-concept.

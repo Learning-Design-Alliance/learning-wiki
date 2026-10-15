@@ -41,8 +41,9 @@ Theoretical literature analysis: the author's survey of sociocultural SLA studie
 
 ## Discussion
 
-
 ## Related Claims
+
+- [American Indian and Alaska Native students often do not willingly participate in the question-answer activity that constitutes most classroom discussions, because direct questioning in front of peers contradicts community norms](ai-an-students-question-answer-participation.md) — the general claim this finding bears on, with the studies behind it
 - [Within the CoP model, learners who do not progress toward the centre through nonparticipation are relegated to the fringes with invalidated identities](cop-nonparticipation-invalidates-learner-identities.md) — related
 - [The Good Language Learner metanarrative persists in sociocultural accounts by equating success with access to community conversations](gll-metanarrative-persists-sociocultural-theory.md) — related
 - [Review reports that reticent non-local students who resisted local classroom norms were academically superior on other performance kinds (Duff, 2002)](reticent-students-academically-superior-duff.md) — related

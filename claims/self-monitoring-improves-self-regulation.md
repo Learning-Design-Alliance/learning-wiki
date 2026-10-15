@@ -66,6 +66,8 @@ Self-monitoring is not mere self-report. It is strongest when learners have expl
 
 ## Related Claims
 
+- [Metacognitive strategy instruction, which includes comprehension monitoring, improves academic performance by a medium amount, and in one non-randomised study comprehension-monitoring training raised low achievers' reading scores](self-monitoring-comprehension-improves-learning.md) — the general claim this finding bears on, with the studies behind it
+
 - [Self Assessment Improves Self Regulated Learning](self-assessment-improves-self-regulated-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](specific-difficult-goals-lead-to-higher-performance.md)
 - [Process goals lead to better skill acquisition for novices than outcome goals.](process-goals-outperform-outcome-goals-for-novices.md)

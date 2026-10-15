@@ -1,0 +1,50 @@
+{
+  "principle": "patterns/learning-by-producing-pattern",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read. No claim tests media production itself; the first finding is the page's limiting relationship (building a representation against studying one), the second its audience step.",
+  "findings": [
+    {
+      "hub": "learner-constructed-graphic-organizers-outperform-provided",
+      "question": "Does building a representation of the content teach more than studying one that is provided?",
+      "members": [
+        [
+          "concept-mapping-improves-learning",
+          "~"
+        ],
+        [
+          "drawing-improves-learning",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "authentic-audiences-improve-student-work",
+      "question": "Does writing or presenting for a real reader beyond the teacher-as-grader improve the product?",
+      "members": [
+        [
+          "public-capstone-epportfolio-showcase-audience-effect",
+          "+"
+        ],
+        [
+          "skilled-writers-audience-awareness",
+          "+"
+        ],
+        [
+          "audience-prior-knowledge-determines-information-density",
+          "~"
+        ],
+        [
+          "community-presentation-created-accountability-pressure",
+          "+"
+        ],
+        [
+          "public-vs-private-reflection-mixed",
+          "~"
+        ],
+        [
+          "personal-connection-to-data-supports-critical-data-literacy-stance-taking",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

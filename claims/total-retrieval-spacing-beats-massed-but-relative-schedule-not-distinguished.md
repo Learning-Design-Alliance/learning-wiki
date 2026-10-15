@@ -48,17 +48,17 @@ Learners studied and retrieved pairs to one correct recall, then items were assi
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Should the gaps expand, stay equal, or contract?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **4 distinct studies** (2 causal, 2 quant-synthesis), `q2`–`q4`, 0 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Should the gaps expand, stay equal, or contract?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **4 distinct studies** (2 causal, 2 quant-synthesis), `q2`–`q4`, 1 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Karpicke & Bauernschmidt 2011](https://doi.org/10.1037/a0023436) | q3 · causal · r? | i? | this claim |
+| [Latimier 2021](https://doi.org/10.1007/s10648-020-09572-8) | q4 · quant-synthesis · r2 | i0; i? | [Expanding and uniform spacing schedules of retrieval practice do not differ significantly ](expanding-versus-uniform-retrieval-no-difference.md) (supports); [Number of retrieval exposures moderates the expanding-versus-uniform schedule benefit: mor](exposures-moderate-expanding-schedule-benefit.md) (qualifies) |
 | [Cepeda 2006](https://doi.org/10.1037/0033-2909.132.3.354) | q2 · quant-synthesis · r2 | i? | [Expanding interstudy intervals led to better recall than fixed intervals, but conclusions ](expanding-isis-better-than-fixed-tentative.md) (qualifies) |
-| [Latimier 2021](https://doi.org/10.1007/s10648-020-09572-8) | q4 · quant-synthesis · r2 | i? | [Number of retrieval exposures moderates the expanding-versus-uniform schedule benefit: mor](exposures-moderate-expanding-schedule-benefit.md) (qualifies) |
 | John Duplice 2022 | q2 · causal · r2 | i? | [Uniform two-week spacing between distillations yielded the greatest benefit among the test](two-week-uniform-spacing-greatest-benefit.md) (qualifies); [Only the Standard two-week-interval treatment showed a statistically significant improveme](standard-two-week-spacing-significant-over-baseline.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Related Claims
 
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md)
-- [Distributed Practice Improves Retention](spaced-repetition-improves-retention.md)
+- [Distributed Practice Improves Retention](spaced-practice-improves-retention.md)

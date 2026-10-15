@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Minority students visited the tutoring center more often than Caucasian students, yet tutored minority and first-generation students had lower average GPAs
-description: Minority students visited the tutoring center more often than Caucasian students, yet tutored minority and first-generation students had lower average GPAs
+title: "In one university's records, minority students visit a drop-in tutoring center more often than Caucasian students, while first-generation and other students do not differ in visits"
+description: "In one university's records, minority students visit a drop-in tutoring center more often than Caucasian students, while first-generation and other students do not differ in visits"
 id: minority-students-more-tutoring-visits-lower-gpas
 status: draft
 generated:
@@ -19,10 +19,12 @@ sources:
     rigour: 2
 ---
 
-# Minority students visited the tutoring center more often than Caucasian students, yet tutored minority and first-generation students had lower average GPAs
+# In one university's records, minority students visit a drop-in tutoring center more often than Caucasian students, while first-generation and other students do not differ in visits
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+
+<!-- title before 2026-10-15: Minority students visited the tutoring center more often than Caucasian students, yet tutored minority and first-generation students had lower average GPAs -->
 
 ## Subclaims
 `q2 i?` Minority students visited the TC more often than Caucasian students (F=9.472, p=.002); there was no significant difference in visits between first-generation and non-first-generation students. [→ Cooper 2010](#cooper-2010)
@@ -41,11 +43,12 @@ Observational comparison of visit frequency by ethnicity and first-generation st
 
 ## Discussion
 
-
 ## Learner Variables
 - [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Drop-in one-to-one tutorial attendees improved P1X-to-P1Y marks while the class average declined](drop-in-tutorials-improve-p1y-marks.md) — the general claim this finding bears on, with the studies behind it
 - [High-use tutoring center visitors had significantly higher cumulative GPA than non-visitors, with the main difference between >10-visit and no-visit groups](tutoring-center-visits-higher-cumulative-gpa.md) — related
 - [The GPA advantage of high-use tutoring visitors held across math SAT score, high school GPA, ethnicity, and first-generation status](tutoring-gpa-advantage-no-interaction-background.md) — reports the opposite
 - [Tutoring center visits usually showed no significant difference in individual course performance, and sometimes tutored students performed worse](tutoring-visits-no-course-grade-advantage.md) — related

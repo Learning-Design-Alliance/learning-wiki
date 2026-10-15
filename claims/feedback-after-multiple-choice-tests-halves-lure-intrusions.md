@@ -41,8 +41,9 @@ The chapter reports studies where students restudied correct answers after multi
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance](feedback-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Feedback Enhances Retrieval Practice](feedback-enhances-retrieval-practice.md)
 - [Taking initial multiple-choice tests without feedback can lead students to later produce the incorrect lure answers they selected, even when an overall retrieval practice benefit occurs](multiple-choice-lures-can-be-learned-as-false-knowledge.md) — related
 - [Evidence on whether initial short-answer questions produce more learning than initial multiple-choice questions is mixed, with recent studies finding little or no difference](short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed.md) — related

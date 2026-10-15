@@ -35,7 +35,7 @@ sources:
 # Scaffolding and Fading
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 26 claims (14 for, 11 mixed, 1 against) · 32 studies (12 causal, 9 theoretical, 4 review, 2 quant-synthesis, 2 associational, 2 qualitative, 1 design), `q1`–`q4` · 3 of 32 report an effect size · 19 claims rest on one study
+> **Evidence** · 26 claims (14 for, 11 mixed, 1 against) · 26 studies (11 causal, 4 review, 4 theoretical, 2 quant-synthesis, 2 associational, 2 qualitative, 1 design), `q1`–`q4` · 3 of 26 report an effect size · 20 claims rest on one study
 
 ## Conditional relationship
 
@@ -83,6 +83,12 @@ These rows are proposals for interpreting a response; none has been tested with 
 
 Before transporting these observations, record learners, setting (one-to-one, small group, computer-based), the support actually given and how it ended, the comparator, outcome alignment and horizon. Most contingent-support evidence comes from one-to-one tutoring on well-structured tasks, and these studies do not rank one another; their comparisons differ.
 
+## The evidence by question
+
+- *Must support be contingent on the learner's last response, rather than fixed?* [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M]
+- *Should support be withdrawn, and in what order?* [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M]
+- *When the support can do the task for the learner (AI assistants), does it cost independent performance?* [How genAI is used, not who uses it, predicts whether independent performance declines or improves](../claims/persistence-costs-concentrated-among-direct-solution-users.md) [~W]
+
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-10-01 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
 Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.
@@ -118,7 +124,7 @@ Assisted performance, unassisted immediate performance, delayed retention, trans
 - [Offloading work to AI costs learning: students given answers did well in practice but scored lower on an unassisted exam](../claims/gpt4-access-harms-learning-after-withdrawal.md) [~W]
 - [The position of faded worked solution steps did not influence learning outcomes in Experiment 1](../claims/faded-step-position-no-learning-outcome-effect.md) [~W]
 - [Scaffolding must be balanced: too little led to confusion and overload, while too much reduced opportunities for critical thinking](../claims/scaffolding-balance-confusion-versus-critical-thinking.md) [~W]
-- [How genAI is used, not who uses it, predicts whether independent performance declines or improves](../claims/genai-usage-mode-predicts-independent-performance.md) [~W]
+- [How genAI is used, not who uses it, predicts whether independent performance declines or improves](../claims/persistence-costs-concentrated-among-direct-solution-users.md) [~W]
 - [Middle school teachers envisioned AI chatbots as adaptive instructional scaffolds providing differentiated support responsive to students' varying needs](../claims/teachers-envision-chatbots-adaptive-scaffolds-differentiated-support.md) [+W]
 
 ## Related Principles

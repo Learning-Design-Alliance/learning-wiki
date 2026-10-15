@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "NLP-based automated grading in a MOOC platform reduced grading time by 70% and increased learner satisfaction by 15%"
-description: "NLP-based automated grading in a MOOC platform reduced grading time by 70% and increased learner satisfaction by 15%"
+title: A technical review reports a 70% cut in grading time and a 15% rise in learner satisfaction from NLP-based automated grading on one MOOC platform, with no comparison design described
+description: "A technical review reports a 70% cut in grading time and a 15% rise in learner satisfaction from NLP-based automated grading on one MOOC platform, with no comparison design described"
 id: mooc-nlp-grading-70-percent-time-reduction
 status: draft
 generated:
@@ -19,10 +19,11 @@ sources:
     rigour: 2
 ---
 
-# NLP-based automated grading in a MOOC platform reduced grading time by 70% and increased learner satisfaction by 15%
+# A technical review reports a 70% cut in grading time and a 15% rise in learner satisfaction from NLP-based automated grading on one MOOC platform, with no comparison design described
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+<!-- title before 2026-10-15: NLP-based automated grading in a MOOC platform reduced grading time by 70% and increased learner satisfaction by 15% -->
 
 ## Subclaims
 `q2 i?` A MOOC platform's NLP automated grading system achieved a 70% reduction in grading time and a 15% increase in learner satisfaction, with grading accuracy comparable to human evaluators. [→ Mahamad 2025](#mahamad-2025)

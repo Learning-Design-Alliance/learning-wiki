@@ -60,8 +60,9 @@ Same quasi-experimental cohort comparison, exam measure. The article reports the
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Learning By Teaching Improves Tutor Learning](learning-by-teaching-improves-tutor-learning.md) — the general claim this finding bears on, with the studies behind it
 - [A scaffolded AI Study Coach produced no assignment-performance or concept-inventory advantage over unrestricted AI use in a master's programming course pilot](scaffolded-coach-no-assignment-performance-advantage.md) — related
 - [Students who used LLMs on assignments scored significantly lower than non-users on the first midterm (large effect size), but this gap narrowed and was non-significant on the later midterms](llm-users-lower-midterm1-score-gap-narrowed.md) — related
 - [Prompt-literacy guidance produced higher transcript-coded rule-following compliance than unrestricted LLM access, driven by process-over-answer and stepwise-hint behaviors](guided-llm-training-raises-rule-following-compliance.md) — related

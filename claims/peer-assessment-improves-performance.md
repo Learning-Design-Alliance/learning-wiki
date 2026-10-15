@@ -45,12 +45,19 @@ A meta-analysis of 54 control-group studies (141 effect sizes) spanning primary,
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Should learners assess each other's work, and does it need a rubric or script?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **2 distinct studies** (1 quant-synthesis, 1 review), `q3`–`q4`, 1 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Should learners assess each other's work, and does it need a rubric or script?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **9 distinct studies** (3 quant-synthesis, 3 associational, 2 causal, 1 review), `q2`–`q4`, 3 of 9 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Double et al. 2020](https://doi.org/10.1007/s10648-019-09510-3) | q4 · quant-synthesis · r? | i1 · small-to-medium effect, g=0.31; i0 · moderator effect below d=0.2, non-significant | this claim; [Structured criteria in peer assessment are not shown to improve its effect on academic per](peer-assessment-structured-criteria-improve-learning.md) (qualifies) |
 | [Fusco 2025](https://doi.org/10.51388/20.500.12265/252) | q3 · review · r1 | i? | [Peer and self-assessment both show significant effects on academic performance with no sig](peer-self-assessment-improve-performance-equally.md) (supports) |
+| [Li et al. 2022](https://doi.org/10.1145/3543321.3543344) | q2 · causal · r1 | i? | [Rubrics changed what online peer reviewers commented on and improved their rating of compl](rubrics-improve-peer-feedback-quality.md) (qualifies) |
+| [Ashton And Davies 2015](https://doi.org/10.1080/01587919.2015.1081733) | q2 · causal · r? | i? | [Rubrics changed what online peer reviewers commented on and improved their rating of compl](rubrics-improve-peer-feedback-quality.md) (qualifies) |
+| [Wu & Schunn 2023](https://doi.org/10.1037/edu0000768) | q2 · associational · r? | i? | [In two secondary-school writing studies, peer reviewers' own performance predicted how hel](peer-feedback-accuracy-depends-on-expertise.md) (qualifies) |
+| [Schunn et al. 2016](https://doi.org/10.1002/jaal.525) | q2 · associational · r2 | i? | [In two secondary-school writing studies, peer reviewers' own performance predicted how hel](peer-feedback-accuracy-depends-on-expertise.md) (qualifies) |
+| [Li et al. 2020](https://doi.org/10.1080/02602938.2019.1620679) | q4 · quant-synthesis · r? | i1 · small effect, d=0.291 | [The quality of feedback students give peers predicts gains in their own work, but no recor](peer-assessment-benefits-assessor.md) (supports) |
+| [Li et al. 2010](https://doi.org/10.1111/j.1467-8535.2009.00968.x) | q2 · associational · r2 | i? | [The quality of feedback students give peers predicts gains in their own work, but no recor](peer-assessment-benefits-assessor.md) (supports) |
+| [Huisman et al. 2019](https://doi.org/10.1080/02602938.2018.1545896) | q4 · quant-synthesis · r? | i3 · large effect vs. no-feedback control, g=0.91 | [Peer Feedback Improves Writing](peer-feedback-improves-writing.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion

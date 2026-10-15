@@ -15,7 +15,7 @@ grain_size: program, school
 # Positive Behavioral Interventions And Supports
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 19 claims (15 for, 3 mixed, 1 against) · 26 studies (10 causal, 6 quant-synthesis, 6 review, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 7 of 26 report an effect size · 14 claims rest on one study
+> **Evidence** · 21 claims (17 for, 3 mixed, 1 against) · 27 studies (11 causal, 6 quant-synthesis, 6 review, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 7 of 27 report an effect size · 16 claims rest on one study
 
 ## Description and scope
 
@@ -102,6 +102,11 @@ Nine of the sixteen rows cite a claim: six rest on one (younger and older studen
 - **School-based exclusion programmes in general.** [School-based interventions reduced exclusion by a small amount](../claims/school-based-interventions-small-significant-reduction-exclusion.md) [+M] (67 evaluations, SMD 0.104), and [severe sanctions were less responsive than milder ones](../claims/exclusion-type-moderates-intervention-effect.md) [~M]. These pool many programme types; they set expectations for size, not for PBIS.
 
 Do not read a fall in suspensions in one school after adoption as an effect of PBIS: the [41% drop at one middle school](../claims/pbis-suspensions-decreased-41-percent.md) [+W] has no comparison. Do not read a null result as equivalence, and do not judge a tier that was not running with fidelity. A precise abstention names the missing comparison (the universal tier alone against usual practice, randomized, over two or more years, on referrals and suspensions) and the local observation that would stand in for it: the school's own disaggregated data before and after, read beside its fidelity scores.
+
+## The evidence by question
+
+- *Does school-wide PBIS reduce office discipline referrals and exclusions compared with schools not running it?* [SWPBIS reduces the odds of receiving an office discipline referral](../claims/swpbis-reduces-office-discipline-referrals.md) [+M]
+- *Does PBIS reduce students' problem behaviour and raise prosocial behaviour, as teachers rate it?* [SWPBIS produced a small reduction in teacher-rated aggressive and disruptive behavior among elementary school children over 4 years (ES = 0.12)](../claims/swpbis-reduces-disruptive-behavior.md) [+M]
 
 ## Further evidence, not yet read against this model
 

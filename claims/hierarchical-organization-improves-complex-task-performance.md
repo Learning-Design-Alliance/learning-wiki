@@ -39,10 +39,24 @@ Experiment 1: 36 paid volunteers from an introductory college physics course, bl
 
 > "Consistently, subjects in the II-treatment performedbetter than subjects in the S2-treatment, who performed better than (or equivalently to) subjects in the S1-treatment."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does giving learners the content as an organised whole, general ideas above details, improve performance over the same details without that organisation, and on which tasks and for whom?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **4 distinct studies** (2 quant-synthesis, 1 causal, 1 review), `q2`–`q3`, 1 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Eylon 1979 | q2 / q3 · causal · r2 | i? | this claim; [A hierarchical organization facilitates tasks only when matched to the task domain: organi](organization-task-match-determines-benefit.md) (qualifies); [Strong acquisition tasks explicating the organization produce better internalization than ](strong-acquisition-tasks-improve-internalization.md) (supports); [Information at higher levels of an acquired hierarchical organization is recalled better t](higher-hierarchy-levels-recalled-better.md) (qualifies); [Hierarchical versus single-level organization does not significantly affect performance on](no-organization-effect-on-local-tasks.md) (qualifies); [Ability moderates the hierarchical-organization advantage: low-ability subjects showed no ](ability-moderates-hierarchical-organization-benefit.md) (qualifies) |
+| [Luiten et al. 1980](https://doi.org/10.3102/00028312017002211) | q3 · quant-synthesis · r? | i1 · small effect, mean ES=0.21 on learning | [Advance organizers produce a small average learning benefit, larger for high-ability than ](advance-organizers-improve-learning.md) (qualifies) |
+| [Stone 1983](https://doi.org/10.1080/00220973.1983.11011862) | q3 · quant-synthesis · r? | i? | [Advance organizers produce a small average learning benefit, larger for high-ability than ](advance-organizers-improve-learning.md) (qualifies) |
+| [Mayer 1979](https://doi.org/10.3102/00346543049002371) | q2 · review · r? | i? | [Advance organizers produce a small average learning benefit, larger for high-ability than ](advance-organizers-improve-learning.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
-
 ## Related Claims
+
+- [Advance organizers produce a small average learning benefit, larger for high-ability than for low-ability learners](advance-organizers-improve-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Ability moderates the hierarchical-organization advantage: low-ability subjects showed no significant benefit, while medium-ability subjects did](ability-moderates-hierarchical-organization-benefit.md) — related
 - [Information at higher levels of an acquired hierarchical organization is recalled better than information at lower levels](higher-hierarchy-levels-recalled-better.md) — a narrower finding that bears on this claim
 - [Hierarchical versus single-level organization does not significantly affect performance on local tasks relying only on individual detailed steps](no-organization-effect-on-local-tasks.md) — related

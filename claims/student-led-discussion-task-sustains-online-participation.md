@@ -41,7 +41,8 @@ Observational analysis of SNAPP visualisations of discussion-board interactions 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Structuring positive interdependence (role, reward, or both) did not affect posttest achievement for undergraduate business majors in asynchronous online small group work](interdependence-type-no-achievement-effect-asynchronous.md) — the general claim this finding bears on, with the studies behind it
 - [Creating community and interacting with students online required deliberate, planned effort unlike spontaneous face-to-face co-presence](online-community-requires-conscious-effort.md) — related
 - [Argumentation quality is associated with denser co-occurrence of scientific reasoning and self-regulation processes](argumentation-quality-associated-with-reasoning-self-regulation-co-occurrence.md) — related

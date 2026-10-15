@@ -1,0 +1,34 @@
+{
+  "principle": "principles/deliberate-practice",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "simulation-based-education-with-deliberate-practice-improves-clinical-outcomes",
+      "question": "Does training built around deliberate practice (mastery standards, feedback on each attempt, repetition) beat ordinary training?",
+      "members": [
+        [
+          "simulation-based-education-improves-outcomes",
+          "~"
+        ],
+        [
+          "deliberate-practice-raises-licensing-pass-rate",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "deliberate-practice-improves-performance",
+      "question": "How much of performance does accumulated deliberate practice account for, and in which domains?",
+      "members": [
+        [
+          "deliberate-practice-hours-differentiate-musicians",
+          "+"
+        ],
+        [
+          "deliberate-practice-correlational-limits",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

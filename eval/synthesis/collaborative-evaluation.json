@@ -1,0 +1,68 @@
+{
+  "principle": "patterns/collaborative-evaluation",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read. First hub and question reused verbatim from eval/synthesis/formative-assessment.json.",
+  "findings": [
+    {
+      "hub": "peer-assessment-improves-performance",
+      "question": "Should learners assess each other's work, and does it need a rubric or script?",
+      "members": [
+        [
+          "peer-assessment-structured-criteria-improve-learning",
+          "~"
+        ],
+        [
+          "peer-self-assessment-improve-performance-equally",
+          "+"
+        ],
+        [
+          "rubrics-improve-peer-feedback-quality",
+          "~"
+        ],
+        [
+          "peer-feedback-accuracy-depends-on-expertise",
+          "~"
+        ],
+        [
+          "peer-assessment-benefits-assessor",
+          "+"
+        ],
+        [
+          "peer-feedback-improves-writing",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "peer-feedback-accuracy-depends-on-expertise",
+      "question": "How accurately do learners judge work, and what does the accuracy of their judgments depend on?",
+      "members": [
+        [
+          "self-assessment-accuracy-is-low-without-training",
+          "~"
+        ],
+        [
+          "prior-knowledge-needed-for-accurate-self-assessment",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "civic-online-reasoning-instruction-improves-evaluation",
+      "question": "When the objects are online sources, which criteria should learners be taught to judge them by?",
+      "members": [
+        [
+          "checklist-evaluation-ineffective-online",
+          "~"
+        ],
+        [
+          "ai-media-literacy-program-large-posttest-gains",
+          "+"
+        ],
+        [
+          "collaborative-evidence-critique-shifts-students-toward-procedural-objectivity",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

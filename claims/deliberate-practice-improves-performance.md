@@ -64,6 +64,19 @@ The article reports that the meta-analysis by Macnamara et al. (2014), echoed by
 
 > "Macnamara et al. (2014) and Hambrick et al. (2020) concluded that education-related DP accounted for a 4-5% performance variation, however, it is reasonable to assume that a more precise definition of DP would likely yield a higher percentage"
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*How much of performance does accumulated deliberate practice account for, and in which domains?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **4 distinct studies** (2 review, 1 quant-synthesis, 1 theoretical), `q2`–`q3`, 0 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Macnamara et al. 2014](https://doi.org/10.1177/0956797614535810) | q3 · quant-synthesis · r? | i? | this claim |
+| [Joshua Wedlock & Christopher Binnie 2025](https://doi.org/10.55593/ej.29115a5) | q2 · theoretical · r3 | i? | this claim |
+| Ericsson 2005 | q2 · review · r2 | i? | [Amount of accumulated deliberate practice distinguishes more from less accomplished musici](deliberate-practice-hours-differentiate-musicians.md) (supports) |
+| [Williams 2017](https://doi.org/10.14786/flr.v5i3.267) | q2 · review · r2 | i? | [Deliberate practice research is largely correlational with large unexplained variability i](deliberate-practice-correlational-limits.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 *Evidence markers that stood beside statements with no claim link in this Discussion were removed on 2026-10-05: nothing on this page backed them. Statements below without a link are the construct's standard account or design reasoning, not findings recorded here; the domain figures are Macnamara et al. (2014)'s.*

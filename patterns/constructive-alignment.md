@@ -28,7 +28,7 @@ grain_size: course, program
 # Constructive Alignment
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 18 claims (10 for, 7 mixed, 1 against) · 19 studies (5 quant-synthesis, 4 causal, 4 theoretical, 3 associational, 2 review, 1 qualitative), `q1`–`q4` · 8 of 19 report an effect size · 15 claims rest on one study
+> **Evidence** · 19 claims (11 for, 7 mixed, 1 against) · 20 studies (6 quant-synthesis, 4 causal, 4 theoretical, 3 associational, 2 review, 1 qualitative), `q1`–`q4` · 9 of 20 report an effect size · 16 claims rest on one study
 
 ## Description and scope
 
@@ -106,6 +106,12 @@ Six rows rest at least partly on a claim (novice, children, recall goal, self-pa
 - [Instructional design models are rarely tested against outcomes; their credibility comes from practitioners finding them useful](../claims/instructional-design-models-are-validated-by-adoption-not-testing.md) [~W]: an expert account in a textbook chapter, from a survey of 34 design models, that models are rarely evaluated against predetermined criteria and gain credibility from adoption. It applies to this pattern: its standing in higher education is not evidence that it raises learning, and the evidence for it lives in the claims above, about its parts.
 
 Do not combine these into one strength or rank them: two are single lessons or courses, two are syntheses of different populations, one is a nonsignificant difference and one is an argument. None measured learners' approach to study (surface or deep), which is the mechanism the earlier page put at the centre of the pattern; that link is a hypothesis here.
+
+## The evidence by question
+
+Each question below links a general claim that gathers the studies behind it into one table, one row per distinct study, with each study's design and effect as recorded and no averaged verdict.
+
+- *Should practice before the assessment match the assessed task's format and level?* [The classroom testing effect transfers to mismatched test formats, but consistent quiz–exam formats yield a significantly larger effect (g = 0.531 vs. g = 0.399).](../claims/format-consistency-moderates-classroom-testing-effect.md) [+M]
 
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-02: claims this page cited before the 2026-10-02 rewrite. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->

@@ -41,8 +41,9 @@ Textual analysis of voluntary written withdrawal requests coded by student servi
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Grades are lower both for courses taken online and in future courses](online-course-lower-grades-current-and-future.md) — the general claim this finding bears on, with the studies behind it
 - [Expressed dissatisfaction with online technology, instruction, or content is not the primary reason for dropping](dissatisfaction-not-primary-drop-reason.md) — related
 - [After instruction has begun, drop rates are essentially the same in online and onground continuing education classes](no-drop-rate-difference-after-instruction-starts.md) — related
 - [Online continuing education courses show lower persistence than comparable onground courses (79% vs 84%) over eight quarters](online-continuing-education-persistence-lower-than-onground.md) — related

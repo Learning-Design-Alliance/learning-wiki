@@ -41,8 +41,9 @@ ANOVA on the problem solution criterion (same 48-student design) found the strat
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Three weeks of explicit language-focused strategy instruction produced no significant word-problem gain in this study](explicit-strategy-instruction-no-significant-gain.md) — the general claim this finding bears on, with the studies behind it
 - [Dahmus Method students translated phrases successfully but failed to combine them into a single solution equation](dahmus-students-translate-but-no-single-equation.md) — related
 - [Polya Method students outscore Dahmus Method students on the equation criterion for verbal problems](polya-method-beats-dahmus-on-equation-criterion.md) — related
 - [Algebra ability level differences appear on both criteria with no treatment-by-ability interaction](ability-level-differences-verbal-problem-solving.md) — related

@@ -43,6 +43,8 @@ The author's position paper argues against all-day heterogeneous grouping, conte
 
 ## Related Claims
 
+- [Attainment (ability) grouping is generally reported to impact negatively on student learning outcomes](streaming-impacts-negatively-on-learning-outcomes.md) — the general claim this finding bears on, with the studies behind it
+
 - [Collaborative situations often fail to be productive in practice, so orchestrating collaboration is not simple](collaborative-situations-often-fail-productive.md) — the general claim this finding bears on, with the studies behind it
 - [Cooperative learning has drawbacks including slow learners depending on fast achievers, so teachers should stress both cooperative and individual work](cooperative-learning-versus-individual-endeavors.md) — related
 - [Homogeneous problem perceptions predict better regulation outcomes in collaborative groups](homogeneous-problem-perceptions-predict-regulation-success.md) — related

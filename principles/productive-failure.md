@@ -31,7 +31,7 @@ sources:
 # Productive Failure
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 16 claims (6 for, 6 mixed, 3 against, 1 unmarked) · 13 studies (6 causal, 4 review, 2 quant-synthesis, 1 theoretical), `q2`–`q4` · 4 of 13 report an effect size · 12 claims rest on one study
+> **Evidence** · 14 claims (5 for, 5 mixed, 3 against, 1 unmarked) · 14 studies (6 causal, 4 review, 2 quant-synthesis, 2 theoretical), `q2`–`q4` · 5 of 14 report an effect size · 11 claims rest on one study
 
 ## Conditional relationship
 
@@ -99,18 +99,23 @@ These rows are proposals, untested with learners as diagnostics.
 - [The fidelity benefit of PS-I reverses for very short interventions](../claims/psi-fidelity-time-span-interaction.md) [~M].
 - [PS-I effects are negative for 2nd–5th graders and increase with age](../claims/psi-effect-increases-with-grade-level.md) [-M].
 - [For domain-general skills, effect sizes favor I-PS over PS-I](../claims/domain-general-skills-favor-ips.md) [-M].
-- [Solving novel problems before instruction improves conceptual understanding and transfer but not procedural knowledge](../claims/problem-solving-before-instruction-boosts-conceptual-transfer.md) [+M]: Kapur's (2016) review of the classroom experiments with ninth-graders learning standard deviation.
+- [Solving novel problems before instruction improves conceptual understanding and transfer but not procedural knowledge](../claims/productive-failure-improves-conceptual-learning.md) [+M]: Kapur's (2016) review of the classroom experiments with ninth-graders learning standard deviation.
 - [Guidance during initial problem solving does not improve learning from subsequent instruction](../claims/initial-guidance-does-not-improve-learning-from-instruction.md) [~M]: Kapur (2011) and Loibl & Rummel (2013), as reviewed by Kapur (2016).
 - [Invention tasks prepare future learning](../claims/invention-tasks-prepare-future-learning.md) [+M]: Schwartz & Martin (2004); ninth-graders who invented a procedure before a worked example transferred better, but only when a learning resource was available at test.
 - [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [-M]: the boundary with discovery learning that ends without instruction.
 
 Taken together: for conceptual understanding and transfer in learners past the early primary years, attempting first and being taught second, with the teaching built on the attempts, beats teaching first by about a third of a standard deviation; for procedures, for young children and for domain-general skills it does not. No claim in the wiki tests a dose (how long the attempt, how many problems) or the design in a self-paced online course.
 
+## The evidence by question
+
+- *Should learners attempt a problem before the idea is taught, and what must the teaching afterwards do?* [Productive Failure Improves Conceptual Learning](../claims/productive-failure-improves-conceptual-learning.md) [+M]
+- *Which features of the attempt and of the instruction after it, and how much time, go with a larger advantage for attempting first?* [PF design fidelity predicts larger PS-I effects, with four fidelity criteria showing significant subgroup differences](../claims/pf-fidelity-predicts-psi-effect-size.md) [+M]
+
 ## Further evidence, not yet read against this model
 
 - [Pretesting enhances learning](../claims/pretesting-enhances-learning.md) [+M]: an attempt before study, without the generation of methods; a cousin of this design.
 - [Pre-tests reduced adult learners' persistence in a MOOC](../claims/pretesting-can-harm-motivation.md) [~W]: a cost of failing first in a self-paced setting, on a different design.
-- [Guided discovery outperforms pure discovery](../claims/guided-discovery-outperforms-pure-discovery.md) [~M]: the wider debate this page sits in.
+- [Guided discovery outperforms pure discovery](../claims/minimal-guidance-less-effective-for-novices.md) [~M]: the wider debate this page sits in.
 - [Expertise reversal](../claims/expertise-reversal-effect-compound.md) [~M]: why the balance between generating and being told shifts with prior knowledge.
 - [PS-I fosters learning only if specific design features (contrasting cases or building instruction on student solutions) are implemented](../claims/ps-i-fosters-learning-only-with-contrasting-cases-or-student-solutions.md) [+W] — attached 2026-10-14 from Loibl et al. (2017), which proposed "PS-I lesson structure: an initial problem-solving phase followed by an instruction phase"; tests this page's relationship.
 

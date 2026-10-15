@@ -1,0 +1,100 @@
+{
+  "principle": "patterns/spaced-learning",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "spaced-practice-improves-retention",
+      "question": "Does spreading study or practice over sessions improve later retention more than massing the same amount of it?",
+      "members": [
+        [
+          "spaced-retrieval-outperforms-restudy",
+          "+"
+        ],
+        [
+          "spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall",
+          "+"
+        ],
+        [
+          "spacing-benefit-short-retention-no-peterson-paradox",
+          "+"
+        ],
+        [
+          "spacing-enhances-learning-across-domains-lifespan",
+          "+"
+        ],
+        [
+          "spacing-interleaving-improve-retention",
+          "+"
+        ],
+        [
+          "structured-cai-spacing-improves-recall-and-retention",
+          "+"
+        ],
+        [
+          "spaced-repetition-supplement-triples-vocabulary-retention",
+          "+"
+        ],
+        [
+          "svas-spaced-listening-outperforms-comparison-end-of-experiment",
+          "+"
+        ],
+        [
+          "spaced-interleaved-homework-practice",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "optimal-isi-increases-with-retention-interval",
+      "question": "How long should the gap between sessions be, given when the knowledge is needed?",
+      "members": [
+        [
+          "isi-effect-nonmonotonic-joint-retention-interval",
+          "~"
+        ],
+        [
+          "distributed-practice-limits-l2",
+          "~"
+        ],
+        [
+          "eight-day-review-improves-five-week-science-test-versus-one-day-review",
+          "+"
+        ],
+        [
+          "spaced-practice-benefit-reflects-transfer-not-item-memorization",
+          "+"
+        ],
+        [
+          "relearning-confound-distributed-practice-designs",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "total-retrieval-spacing-beats-massed-but-relative-schedule-not-distinguished",
+      "question": "Should the gaps expand, stay equal, or contract?",
+      "members": [
+        [
+          "expanding-versus-uniform-retrieval-no-difference",
+          "+"
+        ],
+        [
+          "exposures-moderate-expanding-schedule-benefit",
+          "~"
+        ],
+        [
+          "expanding-isis-better-than-fixed-tentative",
+          "~"
+        ],
+        [
+          "two-week-uniform-spacing-greatest-benefit",
+          "~"
+        ],
+        [
+          "standard-two-week-spacing-significant-over-baseline",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

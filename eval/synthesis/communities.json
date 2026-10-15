@@ -165,6 +165,34 @@
         [
           "discussion-board-no-negative-feedback-synchrony-required",
           "~"
+        ],
+        [
+          "motivation-social-presence-boost-engagement-agentic-ai",
+          "+"
+        ],
+        [
+          "mba-students-experience-courses-as-coi",
+          "~"
+        ],
+        [
+          "human-embodiment-video-presence-effects",
+          "~"
+        ],
+        [
+          "self-co-regulation-highly-correlated-online-cbi",
+          "~"
+        ],
+        [
+          "learner-presence-three-qualities-mba",
+          "~"
+        ],
+        [
+          "course-template-supports-learner-presence",
+          "~"
+        ],
+        [
+          "interaction-quantity-correlates-posttest-online-groups",
+          "~"
         ]
       ]
     }

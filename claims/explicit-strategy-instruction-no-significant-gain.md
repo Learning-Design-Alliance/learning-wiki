@@ -39,6 +39,18 @@ A single-classroom pre-test/post-test comparison of 10-item word problem tests f
 
 > "Applying statistical tests to determine the difference,a t of -1.26 was computed, indicating that no significant gain was made between the twotests."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does explicitly teaching a strategy or plan for word problems improve how learners set up and solve them?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **3 distinct studies** (3 causal), `q1`–`q2`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Stein 1998 | q2 · causal · r1 | i? | this claim |
+| Bassler 1972 | q1 / q2 · causal · r2 | i? | [Polya Method students outscore Dahmus Method students on the equation criterion for verbal](polya-method-beats-dahmus-on-equation-criterion.md) (qualifies); [Polya and Dahmus methods do not differ on the problem solution criterion](no-treatment-difference-problem-solution-criterion.md) (qualifies); [Dahmus Method students translated phrases successfully but failed to combine them into a s](dahmus-students-translate-but-no-single-equation.md) (qualifies) |
+| Zambo 1994 | q2 · causal · r1 | i? | [Sixth graders scored significantly higher on posttests that included the seven-step proble](formatted-problem-solving-plan-posttest-advantage.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

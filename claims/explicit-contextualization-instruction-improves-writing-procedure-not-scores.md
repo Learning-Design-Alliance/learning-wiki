@@ -29,13 +29,13 @@ In a quasi-experiment with 140 university L2 history students, explicit instruct
 ## Subclaims
 `q3 i2` Both the experimental and control groups improved significantly on total historical-writing rubric score from pretest to posttest (Mdn 5→13 and Mdn 4→12 respectively, T=1, p<.05, r=-.61 for both), indicating the shared CLIL course content drove most of the general improvement. [→ Sendur et al. 2021](#sendur-et-al-2021)
 
-`~M i0` The historical contextualization rubric score did not differ significantly between the experimental group (Mdn=3.00) and control group (Mdn=3.00) on the posttest (U=2146.50, z=-1.11, ns, r=.09) — the targeted instruction did not move the outcome it targeted. [→ Sendur et al. 2021](#sendur-et-al-2021)
+`q3 i0` The historical contextualization rubric score did not differ significantly between the experimental group (Mdn=3.00) and control group (Mdn=3.00) on the posttest (U=2146.50, z=-1.11, ns, r=.09) — the targeted instruction did not move the outcome it targeted. [→ Sendur et al. 2021](#sendur-et-al-2021)
 
 `q3 i2` The experimental group scored significantly higher than control on claim quality (Mdn 3.00 vs. 2.00, U=1704.50, z=-3.08, p<.01, r=.26); 75% of the experimental group formulated an arguable claim versus 44% of control — an unexpected, unplanned transfer effect. [→ Sendur et al. 2021](#sendur-et-al-2021)
 
-`q3 i2` Both groups scored similarly on a closed-book historical-knowledge test (Mdn 11.00 vs. 11.75, U=2167.50, z=-.75, ns), ruling out unequal background knowledge as the explanation for any contextualization differences. [→ Sendur et al. 2021](#sendur-et-al-2021)
+`q3 i?` Both groups scored similarly on a closed-book historical-knowledge test (Mdn 11.00 vs. 11.75, U=2167.50, z=-.75, ns), ruling out unequal background knowledge as the explanation for any contextualization differences. [→ Sendur et al. 2021](#sendur-et-al-2021)
 
-`q3 i2` Among instances of contextualization present in posttest essays, 61% in the experimental group included an explicit connection or conclusion linking background to evidence, versus 43% in control (descriptive frequencies, not hypothesis-tested); offset (unintegrated) placement of contextualization was rarer in the experimental group (2% vs. 10%). [→ Sendur et al. 2021](#sendur-et-al-2021)
+`q3 i?` Among instances of contextualization present in posttest essays, 61% in the experimental group included an explicit connection or conclusion linking background to evidence, versus 43% in control (descriptive frequencies, not hypothesis-tested); offset (unintegrated) placement of contextualization was rarer in the experimental group (2% vs. 10%). [→ Sendur et al. 2021](#sendur-et-al-2021)
 
 ## Evidence
 
@@ -51,6 +51,8 @@ Sendur, K. A., van Drie, J., & van Boxtel, C. (2021). Historical contextualizati
 This is a genuine, informative null result on the paper's primary target and should not be overstated into a general endorsement of the instructional pattern. The unexpected claim-writing transfer effect and the descriptive placement/connection patterns are plausible but weaker-tier evidence (q1-q2, no inferential statistics for the qualitative codes) that the intervention changed *how* students write even when the primary rubric score didn't move — a genuine dissociation between procedural/discourse-level change and holistic rubric scoring that is itself worth documenting, but which the study cannot explain mechanistically. Findings are specific to L2 learners at B2 English proficiency; generalization to L1 history students is untested.
 
 ## Related Claims
+
+- [Disciplinary Literacy Instruction Improves Comprehension](disciplinary-literacy-instruction-improves-comprehension.md) — the general claim this finding bears on, with the studies behind it
 - (none yet linked)
 - [Both procedural and descriptive writing scores improved significantly after GBSRI](gbsri-improves-procedural-and-descriptive-genres.md) — related
 - [Interdisciplinary humanities units improve students' interdisciplinary competences](interdisciplinary-humanities-units-improve-interdisciplinary-competences.md) — related

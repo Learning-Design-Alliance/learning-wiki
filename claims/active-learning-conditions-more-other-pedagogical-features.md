@@ -41,8 +41,9 @@ Comparative feature coding across the 88 active learning and 52 lecture conditio
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — the general claim this finding bears on, with the studies behind it
 - [Time-on-task is frequently unequal across compared conditions, with active learning conditions typically requiring more home time](time-on-task-unequal-in-active-learning-comparisons.md) — related
 - Post-2014 comparison studies still most commonly contrast one active learning condition with one lecture condition — related
 - [Most active learning college science conditions contain a substantial lecture component despite the active-learning-versus-lecture dichotomy](active-learning-courses-retain-lecture-component.md) — related

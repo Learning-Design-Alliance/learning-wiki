@@ -1,0 +1,59 @@
+{
+  "principle": "principles/memory-consolidation",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "immediate-performance-not-evidence-of-independent-learning",
+      "question": "Does an advantage measured at the end of instruction still hold on a delayed, unaided test?",
+      "members": [
+        [
+          "metalinguistic-beats-recasts-immediate-not-delayed",
+          "+"
+        ],
+        [
+          "deep-prompt-advantage-fades-at-follow-up",
+          "+"
+        ],
+        [
+          "simulation-advantage-immediate-not-sustained",
+          "+"
+        ],
+        [
+          "genai-learning-gain-persists-one-week",
+          "~"
+        ],
+        [
+          "ai-practice-improved-writing-skill-persisted-one-day",
+          "~"
+        ],
+        [
+          "chatgpt-lower-48h-retention-no-differential-forgetting",
+          "~"
+        ],
+        [
+          "l2-fluency-gains-persist-weeks-without-practice",
+          "~"
+        ],
+        [
+          "vocabulary-forgetting-pattern-decline-then-rise",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "acute-exercise-timing-memory",
+      "question": "Does what happens in the hours after learning, such as a bout of exercise, change how much is remembered later?",
+      "members": []
+    },
+    {
+      "hub": "fluent-illusions-mislead-self-assessment",
+      "question": "Is a learner's sense of having learned something a safe guide to whether it will last?",
+      "members": [
+        [
+          "learners-misjudge-spacing-benefits",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

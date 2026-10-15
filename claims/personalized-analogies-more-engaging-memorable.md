@@ -50,8 +50,9 @@ RQ3 interview findings from ten CS2-completing participants. The article reports
 
 ## Discussion
 
-
 ## Related Claims
+
+- [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](personalized-problem-contexts-boost-engagement-grades-4-8.md) — the general claim this finding bears on, with the studies behind it
 - [Trust in personalized analogies moved in no single direction, while critical scrutiny tracked domain expertise more consistently than personal interest](trust-mixed-scrutiny-tracks-expertise.md) — related
 - [Undergraduate computing students evaluate GenAI analogies by structural correspondence between source and target domain, flagging specific mapping breakdowns rather than judging holistically](students-audit-genai-analogy-structural-correspondence.md) — related
 - [Students evaluate GenAI explanations for assumed background and audience, reading unfamiliar cultural references and excessive scaffolding as signals about who the explanation was written for](assumed-background-audience-signals.md) — related

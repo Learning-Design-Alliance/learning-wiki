@@ -22,7 +22,7 @@ sources:
 # Hints
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (2 for, 5 mixed) · 6 studies (3 causal, 2 design, 1 associational), `q2`–`q3` · 1 of 6 report an effect size · 7 claims rest on one study
+> **Evidence** · 7 claims (2 for, 5 mixed) · 7 studies (3 causal, 2 design, 1 associational, 1 theoretical), `q2`–`q3` · 1 of 7 report an effect size · 6 claims rest on one study
 
 ## Description
 Hints are partial prompts or cues that help learners continue a task without fully giving away the answer. They are useful when the design goal is to preserve productive struggle while reducing the chance of stuckness, confusion, or abandonment.

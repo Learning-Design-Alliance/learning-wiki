@@ -13,7 +13,7 @@ generated:
 # Literacy Centers
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (6 for, 1 mixed) · 18 studies (9 quant-synthesis, 4 review, 4 theoretical, 1 causal), `q1`–`q4` · 8 of 18 report an effect size
+> **Evidence** · 7 claims (6 for, 1 mixed) · 20 studies (10 quant-synthesis, 4 review, 4 theoretical, 2 causal), `q1`–`q4` · 9 of 20 report an effect size
 
 ## Description
 Literacy centers are designated areas in the classroom where students work independently or collaboratively on meaningful literacy tasks — such as word work, listening, writing, or independent reading — to practice and extend skills taught during core instruction. The structure frees the teacher to deliver uninterrupted small-group reading instruction, enabling greater scaffolding and strategic coaching for the group at the table. Centers typically rotate on a schedule, with students moving between stations individually or in small groups.
@@ -59,7 +59,7 @@ Literacy centers operationalize differentiated instruction: the teacher works wi
 - Adaptable to older grades for station-based review and collaborative analysis
 - Least effective for students needing intensive adult support at every task; these students should be scheduled into the teacher-led group first
 - Elementary students building foundational literacy skills; adaptable to secondary settings for intervention or independent reading
-- Developing readers who benefit from repeated, distributed practice of skills like word recognition [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Developing readers who benefit from repeated, distributed practice of skills like word recognition [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 
 ### Target Learning Goals
 - Fluency and automaticity: repeated, distributed practice of decoding and word-recognition skills
@@ -141,7 +141,7 @@ Literacy centers are fundamentally a classroom-management solution for enabling 
 
 ### Target Learners
 - Elementary students building foundational literacy skills; adaptable to secondary settings for intervention or independent reading
-- Developing readers who benefit from repeated, distributed practice of skills like word recognition [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Developing readers who benefit from repeated, distributed practice of skills like word recognition [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 - Students who benefit from choice and relevance in reading tasks [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+M]
 
 ### Target Learning Goals

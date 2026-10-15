@@ -12,7 +12,7 @@ generated:
 # Math Games and Movement Breaks
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 6 studies (4 quant-synthesis, 1 causal, 1 theoretical), `q2`–`q4` · 3 of 6 report an effect size
+> **Evidence** · 2 claims (2 for) · 8 studies (5 quant-synthesis, 2 causal, 1 theoretical), `q2`–`q4` · 4 of 8 report an effect size
 
 ## Description
 Short physical math games and movement breaks are inserted into lessons when learners become restless or attention wanes. They serve two functions at once: restoring attention through brief physical activity, and giving learners a second, embodied encounter with the math concept being taught. Games range from teacher-led whole-class activities (stand up/sit down, finger speed-sums, group formation games) to student-pair games, and require no special materials.
@@ -44,7 +44,7 @@ Brief bouts of physical activity during academic time are associated with improv
 ### Target Learners
 - K–4 students, whose attention spans and developmental need for movement make seated instruction for long blocks counterproductive [Hillman et al. found acute exercise improves executive attention in children.](https://doi.org/10.1073/pnas.0812640106) [+M]
 - Restless or low-attention learners, for whom the break is a regulation tool as much as a learning activity
-- Learners building fluency with basic facts, who benefit from repeated low-stakes retrieval [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Learners building fluency with basic facts, who benefit from repeated low-stakes retrieval [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 - Less suited to older learners working on complex multi-step problems, where the interruption costs more than the refresh gains [~W]
 
 ### Target Learning Goals

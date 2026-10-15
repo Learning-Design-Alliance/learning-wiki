@@ -41,8 +41,9 @@ Primary outcome domains B and E in the within-participants comparison of 20 stud
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Immersive technologies such as virtual reality should reinforce, not substitute, the original educational action](vr-reinforcement-not-substitute.md) — the general claim this finding bears on, with the studies behind it
 - [Conventional training received significantly higher ratings for perceived realism and immersion than VR-based training (r=0.774)](conventional-training-higher-realism-immersion.md) — related
 - [Qualitative analysis found radiation became perceptible in VR for all participants, while all reported operability differences favoring conventional training](qualitative-themes-visualization-versus-operability.md) — related
 - [VR-based training with radiation field visualization received significantly higher ratings for radiation understanding and visualization than conventional training (r=0.878)](vr-radiation-visualization-higher-understanding-ratings.md) — related

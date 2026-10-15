@@ -47,6 +47,6 @@ Interaction analyses comparing mean cumulative GPA across visit categories withi
 
 ## Related Claims
 - [Tutoring center visits showed a delayed significant correlation with cumulative GPA in subsequent quarters](delayed-correlation-visits-cumulative-gpa.md) — related
-- [Minority students visited the tutoring center more often than Caucasian students, yet tutored minority and first-generation students had lower average GPAs](minority-students-more-tutoring-visits-lower-gpas.md) — reports the opposite
+- [In one university's records, minority students visit a drop-in tutoring center more often than Caucasian students, while first-generation and other students do not differ in visits](minority-students-more-tutoring-visits-lower-gpas.md) — reports the opposite
 - [High-use tutoring center visitors had significantly higher cumulative GPA than non-visitors, with the main difference between >10-visit and no-visit groups](tutoring-center-visits-higher-cumulative-gpa.md) — related
 - [Tutoring center visits usually showed no significant difference in individual course performance, and sometimes tutored students performed worse](tutoring-visits-no-course-grade-advantage.md) — related

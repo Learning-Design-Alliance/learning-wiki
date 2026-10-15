@@ -45,6 +45,8 @@ Fourteen undergraduate Learning Assistants (LAs) supporting an introductory phys
 This is a single-institution, single-curriculum case study without a control group; the authors are explicit that they aim to demonstrate *possibility*, not to establish how common or reliable this kind of knowledge development is across contexts. The claim is about teacher knowledge and instructional moves, not about downstream student learning outcomes — the study includes no measure of whether students taught by LAs with more developed curricular knowledge learned more. The six-moves framework is grounded in the specific design structure of one curriculum (elicit-confront-resolve sequences, "genesis" vs. "tool" exercises) and may not transfer directly to curricula organized differently.
 
 ## Related Claims
+
+- [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — the general claim this finding bears on, with the studies behind it
 - (none yet linked)
 - [Course-based emphasis on reframing and stakeholder inquiry shifts pre-service teachers toward informed-designer stances](course-emphasis-on-reframing-shifts-teachers-toward-designerly-stances.md) — related
 - [PD support type and salience depends on a teacher team's current phase in the adaptive learning cycle](pd-support-salience-depends-on-adaptive-cycle-phase.md) — related

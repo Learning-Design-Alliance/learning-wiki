@@ -42,6 +42,9 @@ The paper reports on Kraft, Blazar and Hogan's meta-analysis of causal effects o
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Teacher coaching raises student achievement on standardized tests by a pooled 0.18 SD across 31 causal studies](coaching-pooled-achievement-effect-0-18-sd.md) — the general claim this finding bears on, with the studies behind it
+
+- [Teacher coaching programs improve teachers' instructional practice by a pooled 0.49 SD across 43 causal studies](coaching-pooled-instruction-effect-0-49-sd.md) — the general claim this finding bears on, with the studies behind it
 - [DLP participants reported more frequent meaningful coaching activities than other coaching programs, but fewer opportunities to observe other teachers](dlp-versus-other-coaching-programs-comparison.md) — related

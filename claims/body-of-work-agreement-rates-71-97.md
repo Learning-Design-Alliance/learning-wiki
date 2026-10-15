@@ -41,8 +41,9 @@ Single-state standard setting study with five or six raters per panel and fiftee
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Criterion-referenced tests require empirically-based construct validation studies](criterion-referenced-tests-need-construct-validation.md) — the general claim this finding bears on, with the studies behind it
 - [Performance classifications varied considerably across grades in both literacy and mathematics for the alternate portfolio assessment](alternate-portfolio-classification-varies-across-grades.md) — related
 - [Presenting ordered portfolios led panelists to shift toward a bookmarking-like mental process, contaminating independent classification](ordered-portfolio-presentation-contamination.md) — related
 - [A mean-classification cut-score method outperformed a contrasting-groups-style mean method because it was more robust to outliers](mean-classification-cut-score-method-robust.md) — related

@@ -43,6 +43,20 @@ The authors coded each outcome for depth (surface, content-specific, against dee
 
 > "The effects were higher for Surface (d = 0.60, SE = 0.021, N = 1,473) than for Deep processing (d = 0.26, SE = 0.064, N = 109)."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does instruction that raises near transfer also raise far transfer to a different domain or form?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **5 distinct studies** (3 causal, 1 quant-synthesis, 1 review), `q2`–`q3`, 1 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Donoghue & Hattie 2021](https://doi.org/10.3389/feduc.2021.581216) | q3 · quant-synthesis · r? | i1 · small effect on deep outcomes, d = 0.26 (0.60 surface); far transfer d = 0.39 | this claim |
+| Reisslein 2004 | q2 · causal · r2 | i? | [In one 51-learner experiment on help formats in computer-based electrical engineering inst](far-transfer-floor-effect-and-equal-time.md) (supports) |
+| Miwa et al. 2017 | q2 · causal · r1 | i? | [Test-score increases occurred only for identical and near-transfer problems; no increases ](germane-load-gains-limited-to-identical-and-near-transfer-problems.md) (supports) |
+| Kelly McNeil 2026 | q2 · review · r2 | i? | [The review reports that simulation games support near transfer of knowledge but evidence f](simulation-near-transfer-robust-far-transfer-weak.md) (supports) |
+| [Dunlosky 2013](https://doi.org/10.1177/1529100612453266) | q2 · causal · r? | i? | [Self-explanation effects hold on far-transfer but not near-transfer questions in a geometr](self-explanation-far-transfer-geometry-classroom.md) (counts against) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 A course aiming at understanding or transfer cannot take the headline effects of these techniques at face value. Only 109 of 1,619 effects measured deep outcomes, so the evidence for deep learning is thin rather than negative.

@@ -41,8 +41,9 @@ Within-participants quasi-experimental comparison of 20 radiological technology 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Immersive technologies such as virtual reality should reinforce, not substitute, the original educational action](vr-reinforcement-not-substitute.md) — the general claim this finding bears on, with the studies behind it
 - [Conventional training received significantly higher ratings for perceived realism and immersion than VR-based training (r=0.774)](conventional-training-higher-realism-immersion.md) — related
 - [Qualitative analysis found radiation became perceptible in VR for all participants, while all reported operability differences favoring conventional training](qualitative-themes-visualization-versus-operability.md) — related
 - [VR-based training received significantly higher ratings for medical safety awareness and radiation protection than conventional training (r=0.856)](vr-training-higher-safety-awareness-ratings.md) — related

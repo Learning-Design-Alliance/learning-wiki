@@ -26,7 +26,7 @@ sources:
 # Error Analysis
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 14 claims (10 for, 4 mixed) · 20 studies (7 causal, 4 quant-synthesis, 3 associational, 3 theoretical, 2 review, 1 qualitative), `q1`–`q4` · 3 of 20 report an effect size · 8 claims rest on one study
+> **Evidence** · 14 claims (10 for, 4 mixed) · 21 studies (7 causal, 5 theoretical, 4 quant-synthesis, 2 review, 2 associational, 1 qualitative), `q1`–`q4` · 4 of 21 report an effect size · 9 claims rest on one study
 
 ## Conditional relationship
 
@@ -102,6 +102,11 @@ No claim in the wiki tests the page's original general statement, that treating 
 - [Higher self-reported confusion predicts a much larger negative effect on future performance when learners answer more questions incorrectly](../claims/confusion-amplifies-negative-effect-of-incorrect-trials.md) [~W]: an exploratory model of retrieval-practice data in which confusion was more detrimental when practice was mostly unsuccessful (interaction estimate −0.18). It limits the relationship: many errors with confusion are not productive. One study, which its authors call exploratory; not yet checked.
 
 Taken together: correcting errors has the best evidence, for recall items; prioritising confident errors and comparing incorrect with correct examples each rest on one or two studies without effect sizes on the claim pages; and generating errors before instruction helps conceptual outcomes on average but not for young children. Do not rank these by effect label: learners, tasks and outcomes differ, and none measures conceptual understanding at a delay after erroneous-example study.
+
+## The evidence by question
+
+- *Does comparing an incorrect solution with a correct one, and explaining the error, improve understanding more than studying correct examples alone?* [Erroneous examples improve conceptual understanding by forcing comparison with correct models.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M]
+- *Which errors to correct first: are errors made with high confidence corrected more durably than low-confidence ones?* [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [+M]
 
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-02: claims this page cited before the 2026-10-02 rewrite. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->

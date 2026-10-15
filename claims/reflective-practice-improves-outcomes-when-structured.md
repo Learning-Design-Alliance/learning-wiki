@@ -13,7 +13,7 @@ sources:
     title: "Bangert-Drowns, R. L., Hurley, M. M., & Wilkinson, B. (2004). The effects of school-based writing-to-learn interventions on academic achievement: A meta-analysis. *Review of Educational Research, 74*(1), 29–58. [doi:10.3102/00346543074001029](https://doi.org/10.3102/00346543074001029)"
     author: "Bangert-Drowns, R. L., Hurley, M. M., & Wilkinson, B."
     q: 4
-    i: 1
+    i: "?"
     n: 48 studies
     kind: quant-synthesis
     rigour: "?"
@@ -31,13 +31,13 @@ sources:
 # Reflective Practice Improves Outcomes When Structured
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 causal `r?`, 1 quant-synthesis `r?` · `q2`–`q4` · `i1` small
+> **Evidence** · 2 studies · 1 causal `r?`, 1 quant-synthesis `r?` · `q2`–`q4`
 
 Reflection improves learning and performance when it is prompted by structure — specific questions, frameworks, or prompts — rather than left as an unguided invitation to "think about your learning."
 
 ## Subclaims
 
-`q4 i1` A meta-analysis of 48 school-based writing-to-learn interventions found metacognitive-reflection prompts were the single strongest predictor of enhanced effects on academic achievement, controlling for other writing content types. [→ Bangert-Drowns et al. 2004](#bangert-drowns-et-al-2004)
+`q4 i?` A meta-analysis of 48 school-based writing-to-learn interventions found metacognitive-reflection prompts were the single strongest predictor of enhanced effects on academic achievement, controlling for other writing content types. [→ Bangert-Drowns et al. 2004](#bangert-drowns-et-al-2004)
 
 `q2 i?` In a quasi-experimental classroom study, engineering students given specific (structured) reflection prompts scored significantly higher on exams, project work and problem sets than students given generic (unstructured) prompts, despite both groups submitting the same number of reflections. [→ Menekse et al. 2022](#menekse-et-al-2022)
 
@@ -47,7 +47,7 @@ Reflection improves learning and performance when it is prompted by structure �
 
 Bangert-Drowns, R. L., Hurley, M. M., & Wilkinson, B. (2004). The effects of school-based writing-to-learn interventions on academic achievement: A meta-analysis. *Review of Educational Research, 74*(1), 29–58. [doi:10.3102/00346543074001029](https://doi.org/10.3102/00346543074001029)
 
-`q4 · well-powered meta-analysis (48 studies)` · `i1 · small effect, random-effects d = 0.22 overall; b = 0.48 for metacognitive-reflection prompts is a meta-regression coefficient (the difference in effect between assignments with and without such prompts), not an effect size, and is not binned (was i2)` · `n=48 studies` · `quant-synthesis · r?`
+`q4 · well-powered meta-analysis (48 studies)` · `i? · no effect size for the metacognitive-prompt finding: b = 0.48 is a meta-regression coefficient (the difference in effect between assignments with and without such prompts), not an effect size; the overall writing effect, d = 0.22, is not this claim's finding and is not printed in the abstract (was i1, earlier i2)` · `n=48 studies` · `quant-synthesis · r?`
 
 This meta-analysis pooled 48 school-based writing-to-learn intervention studies (experimental vs. control academic-achievement outcomes) and found writing overall produced only a small average gain (random-effects d = 0.22, 95% CI [0.13, 0.31]). Moderator analysis of writing content types (informational, personal, imaginative, metacognitive) found that assignments containing prompts for metacognitive reflection were associated with a substantially larger effect than assignments without them (b = 0.48, p = .004) — the only content-type moderator that reached significance — alongside longer treatment length. Writing tasks with no reflective/metacognitive component performed near the small overall average; those requiring students to reflect on their own thinking process did substantially better, directly supporting the claim that unguided writing/reflection is weaker than reflection structured around metacognitive prompts. The abstract prints neither d = 0.22 nor b = 0.48 (it says writing "can have a small, positive impact" and that metacognitive prompts "predicted enhanced effects"); both figures are this entry's reading of the full text, which is closed access and was not re-checked on 2026-10-05. The same study is recorded, from its abstract, on [writing to learn](writing-to-learn-improves-understanding.md).
 
@@ -58,6 +58,18 @@ Menekse, M., Anwar, S., & Akdemir, Z. G. (2022). How do different reflection pro
 `q2 · quasi-experimental classroom study` · `i? · no effect size reported, described only as "significantly better"` · `n=208` · `causal · r?`
 
 Using a quasi-experimental design across two sections of a required first-year engineering course (N = 208), students were assigned to receive either generic or specific (i.e., more structured, content-targeted) reflection prompts and submitted 52 reflections apiece over a semester. Students in the specific-prompts condition performed significantly better than the generic-prompts condition on exams, total project score, and two of the problem sets, even though the sheer quantity of reflection was held constant between groups. This isolates prompt structure/specificity, rather than amount of reflection, as the active ingredient — directly supporting the claim's conditional framing (structure matters, not just the presence of reflection).
+
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Do specific, guided prompts produce better reflection and learning than generic or free reflection?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **3 distinct studies** (2 causal, 1 quant-synthesis), `q2`–`q4`, 1 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Bangert-Drowns et al. 2004](https://doi.org/10.3102/00346543074001029) | q4 · quant-synthesis · r? | i1 | this claim |
+| [Menekse et al. 2022](https://doi.org/10.1080/00220973.2020.1786346) | q2 · causal · r? | i? | this claim |
+| [Sturgill 2014](https://doi.org/10.20343/teachlearninqu.2.1.81) | q2 · causal · r1 | i? | [Guided written reflection yields more analytic and integrative paragraphs than free reflec](guided-reflection-yields-more-higher-order-paragraphs-than-free.md) (supports); [Guided reflection assignments produce roughly twice as much written reflection as free ass](guided-reflection-produces-longer-reflections.md) (qualifies); [Public versus private reflection shows mixed effects: private journals are more analytic/i](public-vs-private-reflection-mixed.md) (qualifies) |
+<!-- synthesis:end -->
 
 ## Discussion
 
@@ -85,9 +97,8 @@ Using a quasi-experimental design across two sections of a required first-year e
 - [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) — related
 - [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](reflective-practice-evidence-mixed-in-professional-education.md) — related
 - [Writing To Learn Improves Understanding](writing-to-learn-improves-understanding.md) — related
-- [Self Monitoring Comprehension Improves Learning](self-monitoring-comprehension-improves-learning.md) — related
+- [Metacognitive strategy instruction, which includes comprehension monitoring, improves academic performance by a medium amount, and in one non-randomised study comprehension-monitoring training raised low achievers' reading scores](self-monitoring-comprehension-improves-learning.md) — related
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related
-- [Self-regulation strategy instruction improves achievement](self-regulation-strategy-instruction-improves-achievement.md) — related
 - [Team-based discovery learning improved EFL students' research proposal writing across two action-research cycles, with cycle-two average score 85.8 above the success criterion](team-based-discovery-learning-improves-research-proposal-writing.md) — related
 - [The paper reports that metacognition—students thinking about how they understand their own learning—supports more efficient and effective learning and improved outcomes](metacognition-efficiency-effectiveness-outcomes-claim.md) — a broader claim this one bears on
 - [Students who formulated their own rules for when to use AI performed better on assignments in both conditions](self-set-ai-rules-better-assignments.md) — a narrower finding that bears on this claim

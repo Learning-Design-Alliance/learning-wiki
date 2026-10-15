@@ -59,10 +59,26 @@ Zimmerman, B. J. (2000). Attaining self-regulation: A social cognitive perspecti
 
 Zimmerman provides a robust theoretical framework for self-regulated learning (SRL), synthesizing multiple studies (including his work on dart-throwing) that demonstrate the superiority of process goals during early skill acquisition.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*For a learner new to the task, should the goal name the process or the result, and how near should it be?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **3 distinct studies** (1 causal, 1 theoretical, 1 review), `q2`–`q3`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Zimmerman & Kitsantas 1999](https://doi.org/10.1037/0022-0663.91.2.241) | q3 · causal · r? | i? | this claim |
+| [Zimmerman 2000](https://doi.org/10.1016/b978-012109890-2/50031-7) | q3 · theoretical · r? | i? | this claim |
+| Schunk 1996 | q2 / q3 · review · r2 | i? | [Proximal goals and ability attributional feedback for early learning raise self-efficacy m](proximal-goals-feedback-peer-models-build-learning-efficacy.md) (supports); [Learning goals and self-evaluation raise task orientation and lower ego orientation, and s](learning-goals-raise-task-orientation.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 This suggests that instructional design for novices should prioritize "how-to" goals before transitioning to achievement-oriented targets.
 
 ## Related Claims
+
+- [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — the general claim this finding bears on, with the studies behind it
+
+- [Process Writing Improves Writing Quality](process-writing-improves-writing-quality.md) — the general claim this finding bears on, with the studies behind it
 
 - [In a randomized trial of SRL interventions in an online mathematics preparation course, group and time interacted significantly on SRL knowledge, self-efficacy and the SRL overall score, with Group TDP (training + diary + peer feedback) showing the most prominent gains](srl-web-training-peer-feedback-group-by-time-interaction-online-math-prep.md) — the general claim this finding bears on, with the studies behind it
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](specific-difficult-goals-lead-to-higher-performance.md)

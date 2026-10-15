@@ -114,6 +114,11 @@ No claim tests room arrangement, the procedures-versus-rules distinction, task-d
 
 Settings, outcomes and learners differ across these (K–12 behaviour, English primary progress, an Australian secondary school, US high-school interviews, one-to-one tutoring), so do not rank them by effect label.
 
+## The evidence by question
+
+- *Does a planned, whole-class management approach reduce disruptive behavior and raise engaged time compared with usual practice?* [Teachers' universal classroom management practices significantly reduce problem classroom behavior (mean classroom ES = 0.80, ICC=.05)](../claims/universal-classroom-management-reduces-problem-behavior.md) [+M]
+- *Does the physical design of a classroom (light, air, temperature, layout, displays) change how much learners progress?* [Classroom Design Affects Learning Progress](../claims/classroom-design-affects-learning-progress.md) [+M]
+
 ## Further evidence, not yet read against this model
 
 Claims this page cited before it was rewritten, and one found while rewriting, that are not part of the model above.

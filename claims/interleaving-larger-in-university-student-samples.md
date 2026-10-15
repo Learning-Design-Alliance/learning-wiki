@@ -46,4 +46,3 @@ Meta-regression moderator test (Model 3, Table 3) on k = 238 effect sizes; the s
 - [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](interleaving-improves-inductive-learning.md) — related
 - [Interleaving effects are stronger when material is more similar between categories, less similar within categories, and more complex](similarity-and-complexity-moderate-interleaving.md) — related
 - [The interleaving effect generalizes to visual materials, with the largest effects for paintings](interleaving-strongest-for-paintings-visual-materials.md) — related
-- [Interleaved practice produces a moderate overall benefit for inductive category learning compared with blocked practice](moderate-overall-interleaving-effect.md) — a broader claim this one bears on

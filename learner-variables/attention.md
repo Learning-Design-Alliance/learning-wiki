@@ -12,7 +12,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 43 claims (35 for, 5 mixed, 3 against) · 47 studies (15 causal, 8 quant-synthesis, 8 review, 6 design, 4 qualitative, 3 associational, 3 theoretical), `q1`–`q4` · 10 of 47 report an effect size · 38 claims rest on one study
+> **Evidence** · 43 claims (35 for, 5 mixed, 3 against) · 46 studies (15 causal, 8 quant-synthesis, 8 review, 6 design, 4 qualitative, 3 associational, 2 theoretical), `q1`–`q4` · 10 of 46 report an effect size · 39 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].

@@ -47,4 +47,3 @@ Implementation findings from the trial's implementation study of LLI in Oakland 
 - [LLI had no impact on secondary students' reading comprehension in the Oakland RCT](lli-no-impact-adolescent-reading-comprehension.md) — related
 - [Most Oakland secondary students receiving LLI fell short of the recommended minimum number of sessions](lli-students-fell-short-recommended-sessions.md) — a narrower finding that bears on this claim
 - [Secondary students who received more LLI or were pulled out of other classes were particularly negatively affected, possibly from missing grade-level content](lli-more-dosage-pullout-negatively-affected.md) — related
-- [Students pulled out of other classes to receive LLI were particularly negatively affected](lli-pull-out-students-particularly-negatively-affected.md) — related

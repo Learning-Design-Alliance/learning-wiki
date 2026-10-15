@@ -7,6 +7,14 @@
       "question": "Does working jointly on a task raise achievement over working alone or instruction without group work?",
       "members": [
         [
+          "collaborative-writing-improves-text-quality",
+          "+"
+        ],
+        [
+          "er-peer-interaction-greater-achievement-gains",
+          "+"
+        ],
+        [
           "cooperative-learning-group-rewards-and-individual-accountability",
           "~"
         ],
@@ -31,15 +39,7 @@
           "+"
         ],
         [
-          "collaborative-writing-improves-text-quality",
-          "+"
-        ],
-        [
           "interactive-beats-constructive-concept-mapping",
-          "+"
-        ],
-        [
-          "er-peer-interaction-greater-achievement-gains",
           "+"
         ],
         [
@@ -69,20 +69,20 @@
           "+"
         ],
         [
-          "cscl-simulation-conceptual-change-cognitive-engagement",
-          "~"
-        ],
-        [
           "homogeneous-problem-perceptions-predict-regulation-success",
           "+"
         ],
         [
-          "awareness-of-heterogeneity-does-not-predict-regulation-success",
+          "offloading-mediation-lower-independent-hot",
+          "+"
+        ],
+        [
+          "cscl-simulation-conceptual-change-cognitive-engagement",
           "~"
         ],
         [
-          "offloading-mediation-lower-independent-hot",
-          "+"
+          "awareness-of-heterogeneity-does-not-predict-regulation-success",
+          "~"
         ]
       ]
     },
@@ -103,6 +103,10 @@
           "+"
         ],
         [
+          "nd-prefer-teams-of-3-to-5-nt-prefer-pairs",
+          "~"
+        ],
+        [
           "collective-working-memory-effect-task-complexity",
           "~"
         ],
@@ -116,10 +120,6 @@
         ],
         [
           "mixed-dyads-negotiate-more-than-matched",
-          "~"
-        ],
-        [
-          "nd-prefer-teams-of-3-to-5-nt-prefer-pairs",
           "~"
         ],
         [

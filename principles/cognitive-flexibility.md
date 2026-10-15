@@ -99,6 +99,11 @@ Taken together: revisiting concepts through varied, compared cases has `randomiz
 
 How far each may be carried: the criss-crossing experiment supports steps 3 and 7 of the default design for undergraduates in one ill-structured topic. The comparison evidence supports step 4 for provided cases. The part-task study supports step 2's "simplify first" for novices, not when to add variety. The hypertext study supports nothing on its own.
 
+## The evidence by question
+
+- *Does revisiting concepts across varied, compared cases improve transfer to a new case?* [Presenting multiple cases from different perspectives supports transfer in ill-structured domains](../claims/cognitive-flexibility-theory-multiple-cases.md) [+M]
+- *Does adding a second representation of the same idea help, and when?* [Multiple representations improve learning](../claims/multiple-representations-improve-learning.md) [~M]
+
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-02: claims this page cited before the 2026-10-02 rewrite. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
 Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.

@@ -25,7 +25,7 @@ sources:
 # Cooperative Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 22 claims (12 for, 10 mixed) · 23 studies (12 quant-synthesis, 3 review, 3 design, 2 causal, 2 theoretical, 1 associational), `q1`–`q4` · 10 of 23 report an effect size · 15 claims rest on one study
+> **Evidence** · 23 claims (13 for, 10 mixed) · 24 studies (13 quant-synthesis, 3 review, 3 design, 2 causal, 2 theoretical, 1 associational), `q1`–`q4` · 11 of 24 report an effect size · 15 claims rest on one study
 
 ## Description and scope
 
@@ -86,6 +86,12 @@ Ask for three facts when the brief omits them: **the learners' age and experienc
 | Learners include neurodivergent students | Ask each learner's preferred group size; neurodivergent students in one survey were most comfortable in teams of three to five | [Neurodivergent and neurotypical students prefer different team sizes](../claims/nd-prefer-teams-of-3-to-5-nt-prefer-pairs.md) [~W] |
 | Instructors are new to cooperative structures | Plan staff development with immersion sessions, peer observation and shared scripts before launch | [A threefold staff development plan supported implementation](../claims/threefold-cooperative-learning-staff-development-plan.md) [+W] |
 | One short session with no later unit | Use a short structure (individual answer, pair discussion, individual re-answer) and skip the group reward | untested proposal |
+
+## The evidence by question
+
+- *Does structured cooperative group work raise achievement more than individualistic, competitive or traditional whole-class instruction?* [Cooperative Learning Improves Achievement](../claims/cooperative-learning-improves-achievement.md) [+S]
+- *Which structure matters: group rewards tied to each member's learning, assigned roles, or interdependence of any kind?* [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](../claims/cooperative-learning-group-rewards-and-individual-accountability.md) [+M]
+- *Does structured peer tutoring, a paired form of cooperative work, raise achievement, and does its structure matter?* [Peer Tutoring Improves Achievement](../claims/peer-tutoring-improves-achievement.md) [+S]
 
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-10-01 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->

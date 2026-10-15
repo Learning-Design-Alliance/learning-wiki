@@ -1,0 +1,68 @@
+{
+  "principle": "principles/cultural-life-experiences-connections",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "crse-pedagogies-engagement-agency-claim",
+      "question": "Does building tasks and formative checks from learners' own cultural and community practices raise their engagement and let them show competence?",
+      "members": [
+        [
+          "culture-based-programs-flourish-engagement",
+          "+"
+        ],
+        [
+          "multimodal-culturally-grounded-assessment-supports-engagement-and-agency",
+          "+"
+        ],
+        [
+          "embodied-dance-improvisation-supports-physics-engagement-and-sensemaking",
+          "+"
+        ],
+        [
+          "funds-of-knowledge-tasks-reveal-computational-thinking",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "incorporating-home-culture-improves-academic-performance",
+      "question": "Does connecting problems and instruction to learners' own lives raise achievement compared with the same content without that connection?",
+      "members": [
+        [
+          "crse-math-enhances-learning-and-success",
+          "+"
+        ],
+        [
+          "personalized-problem-contexts-boost-engagement-grades-4-8",
+          "+"
+        ],
+        [
+          "personalization-improves-hard-kc-accuracy-algebra-its",
+          "+"
+        ],
+        [
+          "localized-names-personalization-subgroup-performance",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "positioning-personal-experience-as-epistemic-resource-supports-critical-orientation-expansion",
+      "question": "Does treating learners' own experience as evidence move them from personal concerns to systemic analysis, and what does that depend on?",
+      "members": [
+        [
+          "lively-data-and-agentic-positions-support-epistemically-just-crisis-sensemaking",
+          "+"
+        ],
+        [
+          "personal-connection-to-data-supports-critical-data-literacy-stance-taking",
+          "~"
+        ],
+        [
+          "community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

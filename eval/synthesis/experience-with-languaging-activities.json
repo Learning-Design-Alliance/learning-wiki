@@ -1,0 +1,38 @@
+{
+  "principle": "patterns/experience-with-languaging-activities",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "reflective-practice-improves-outcomes-when-structured",
+      "question": "Do task-specific reflection prompts produce better learning or reflection than an open invitation to write?",
+      "members": [
+        [
+          "guided-reflection-yields-more-higher-order-paragraphs-than-free",
+          "+"
+        ],
+        [
+          "guided-reflection-produces-longer-reflections",
+          "~"
+        ],
+        [
+          "public-vs-private-reflection-mixed",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "writing-to-learn-improves-understanding",
+      "question": "Does writing about content during instruction improve learning of that content, compared with instruction without the writing?",
+      "members": [
+        [
+          "writing-improves-mathematical-understanding",
+          "+"
+        ],
+        [
+          "writing-uniquely-corresponds-features-successful-learning",
+          "+"
+        ]
+      ]
+    }
+  ]
+}
