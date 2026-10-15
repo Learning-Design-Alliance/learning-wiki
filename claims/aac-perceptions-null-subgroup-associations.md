@@ -78,3 +78,4 @@ Spearman correlation analysis of continuous factors in the survey. Training dura
 - [Too few studies exist to draw robust conclusions on moderating factors (age, gender, screen size, dosage, SAMR-based activities) or on whether benefits persist beyond the post-test](mobile-device-moderators-insufficient-evidence.md) — related
 - [Platform treatment effects did not vary across demographic subgroups, suggesting equal benefit regardless of racial background](mastery-platform-effects-uniform-across-demographics.md) — related
 - [Children's self-efficacy for planning did not significantly moderate plan quality improvements after feedback](self-efficacy-does-not-moderate-feedback-gains.md) — related
+- [Individual differences and program characteristics impact receptivity and effectiveness of school-based mindfulness training](individual-differences-program-characteristics-shape-mindfulness-effectiveness.md) — related

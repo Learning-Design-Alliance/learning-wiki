@@ -330,3 +330,4 @@ Nakata, T. (2015). Effects of expanding and equal spacing on second language voc
 - [Retrieval practice strengthens memory and produces stronger, more enduring learning](retrieval-practice-strengthens-memory.md) — related
 - [ISI effects on recall are nonmonotonic and depend jointly on retention interval](isi-effect-nonmonotonic-joint-retention-interval.md) — related
 - [Total retrieval spacing improved one-week vocabulary recall while relative schedules were not distinguished](total-retrieval-spacing-beats-massed-but-relative-schedule-not-distinguished.md) — related
+- [When exemplars are already interleaved, larger temporal spacing between same-category exemplars yields better inductive learning than smaller spacing](larger-spacing-better-interleaved-induction.md) — a narrower finding that bears on this claim

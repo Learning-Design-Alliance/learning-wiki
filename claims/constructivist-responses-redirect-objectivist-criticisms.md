@@ -47,3 +47,5 @@ Theoretical argument in the paper's abstract and introduction. The authors state
 - [In the constitutive knowledge/regulative community context, critique targets interpretive appropriateness rather than execution](interpretive-appropriateness-context-critique.md) — related
 - [In the fully regulative context, critique proceeds by methodological correctness or paradigmatic positioning](regulative-context-critique-methodological-or-paradigmatic.md) — related
 - [Comments and replies are rare in the research and scholarly literature](comments-replies-rare-in-scholarly-literature.md) — related
+- [Cognitive constructivism has strong empirical support and suggests new directions for science education, and must be distinguished from metaphysical constructivism](grandy-cognitive-vs-metaphysical-constructivism.md) — related
+- [Slezak argues the Edinburgh strong programme's core claims are flawed, while Suchting defends Bloor's social constructivist account against those criticisms](slezak-suchting-strong-programme-debate.md) — related

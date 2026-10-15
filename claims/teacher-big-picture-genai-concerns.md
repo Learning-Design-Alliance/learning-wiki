@@ -90,3 +90,4 @@ Discussion-section synthesis of interview themes beyond Tables 1-2; teachers wor
 - [Educator open-ended responses yield four themes: ChatGPT dominance, need for methodological guidance, ethical concerns, and infrastructure barriers](educator-ai-barriers-four-themes.md) — related
 - [Easy access to AI-generated answers may reduce learners' motivation to engage deeply with material](ai-over-reliance-reduces-deep-engagement.md) — related
 - [Control-group students framed sustainability as an external obligation and held techno-optimistic views of AI centered on efficiency with little ethical reflection](control-external-obligation-techno-optimism.md) — related
+- [Open issues for dynamic assessment include cost-effectiveness, training, reliability and validity, and generalization](da-open-issues-cost-training-reliability-validity.md) — related

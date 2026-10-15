@@ -126,3 +126,4 @@ Sixty-eight 11th-grade students took eight lessons on strategies for evaluating 
 - [Authentic audiences improve student work.](../claims/authentic-audiences-improve-student-work.md) — authentic evaluation tasks on the live web increase engagement and quality.
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — strategy instruction may yield diminishing returns for already-skilled evaluators.
 - [Conversational synthesis can hide source plurality behind one voice, weakening verification relative to search](opaque-synthesis-hides-plurality.md) — related
+- [After the modules, students engaged in lateral reading far more often, rising from 3 of 87 students at pretest to 67 of 87 at posttest](lateral-reading-increased-post-intervention.md) — a narrower finding that bears on this claim

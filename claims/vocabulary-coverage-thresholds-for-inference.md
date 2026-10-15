@@ -48,3 +48,4 @@ The review reports, citing Huckin and Coady (1999), that learners must recognize
 ## Related Claims
 - [Incidental vocabulary exposure produces reliable learning, but learners pick up only a small share of the unknown words they meet](incidental-vocabulary-exposure-limited.md) — related
 - [Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts](vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts.md) — related
+- [A critical mass of roughly 10,000-12,000 words is needed for fluent reading, from which ESL strategies can begin](vocabulary-critical-mass-10000-12000-words.md) — related

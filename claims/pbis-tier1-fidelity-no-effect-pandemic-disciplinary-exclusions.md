@@ -65,3 +65,4 @@ Treatment-effect GLMMs with a four-condition indicator (PSM comparison, Tier 1 o
 - [Schools implementing all three PBIS tiers with fidelity had significantly fewer students with OSS, fewer days missed from OSS, and fewer OSS incidents than matched non-PBIS schools during 2020–21](pbis-three-tiers-fidelity-fewer-oss-pandemic.md) — related
 - [School-based interventions produce a small but statistically significant reduction in school exclusion](school-based-interventions-small-significant-reduction-exclusion.md) — related
 - [The Kauffman School produced substantial positive impacts on achievement growth in mathematics, English language arts, and science each year through 2021-22, except during the 2020-21 pandemic year](kauffman-school-achievement-growth-impacts-math-ela-science.md) — related
+- [Schools implementing MTSS with higher fidelity show less absenteeism](mtss-fidelity-lower-absenteeism.md) — related

@@ -70,6 +70,7 @@ Requiring an independent answer before discussion converts passive listening int
 **[iClicker](https://www.iclicker.com)** / **[Plickers](https://www.plickers.com)** — Classroom response systems that collect individual answers simultaneously; Plickers uses paper cards scanned by a phone camera for low-tech settings.
 
 **Think-Pair-Share** — The "think" phase is an individual response in written or silent form; skipping it in favor of immediate pairing sharply reduces the quality of pair discussion.
+- [Peer Instruction structured questioning sequence: individual answers, convince-your-neighbors discussion, revote, and instructor feedback](../strategies/peer-instruction-questioning-sequence.md)
 
 ## Key Sources
 - Mazur, E. (1997). *Peer instruction: A user's manual*. Prentice Hall.

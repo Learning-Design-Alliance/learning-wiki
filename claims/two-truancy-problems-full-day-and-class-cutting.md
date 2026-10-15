@@ -50,3 +50,4 @@ Transcript-based analysis of second-semester ninth grade attendance distinguishi
 - [Students with weak eighth grade basic skills have the poorest attendance, but cutting is widespread even among top achievers (42 percent on or above grade level were moderate to extreme truants)](weak-skills-predict-truancy-but-cutting-widespread.md) — related
 - [Average daily attendance and truancy metrics mask chronic absence, which reveals individual students missing 10% of school for any reason](chronic-absence-hidden-by-average-daily-attendance.md) — related
 - [Punitive responses to absence do not improve attendance and can worsen it](punitive-responses-ineffective-attendance.md) — related
+- [The school refusal-truancy dichotomy shows extensive overlap and heterogeneity](school-refusal-truancy-dichotomy-overlap.md) — a broader claim this one bears on

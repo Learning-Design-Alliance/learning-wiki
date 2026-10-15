@@ -44,3 +44,4 @@ Qualitative coding of the same 122 students' written PBL reflections. The result
 
 ## Related Claims
 - [Teacher education students in PBL identified valuing others' perspectives, interdependence, and learning about self as attitudes necessary for collaborative learning](pbl-attitudes-valuing-interdependence-self.md) — related
+- [Research on PBL covers flexible knowledge, problem-solving, and SDL skills but little on collaboration and motivation](pbl-evidence-uneven-across-goals.md) — related

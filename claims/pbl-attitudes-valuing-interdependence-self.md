@@ -57,3 +57,4 @@ Qualitative analysis of written reflections (journals, two assignments) from 122
 - [Students characterised the skills needed for collaborative group work as interpersonal (social), problem solving, and group skills](pbl-skills-interpersonal-problem-solving-group.md) — related
 - [Students described knowledge gained through PBL group work in terms of generation, application, and dissemination of knowledge, plus pedagogical knowledge for future teaching](pbl-knowledge-generation-application-dissemination.md) — related
 - [No significant relationship between attitudes toward group work and achievement goal orientation profiles, but attitudes correlate with perceived discussion and active listening behaviors](attitudes-group-work-not-goal-orientation-but-collaboration-perception.md) — related
+- [Research on PBL covers flexible knowledge, problem-solving, and SDL skills but little on collaboration and motivation](pbl-evidence-uneven-across-goals.md) — related

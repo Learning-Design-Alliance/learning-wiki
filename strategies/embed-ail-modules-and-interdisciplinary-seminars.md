@@ -50,6 +50,7 @@ The article recommends that universities adopt adaptive curricula integrating AI
 - [Embed critical AI literacy into curricula and institutional practices in higher education](embed-critical-ai-literacy-curricula-institutional-practices.md)
 - [Integrate AI literacy education as an integral component of first-year curriculum development rather than an add-on](ai-literacy-integral-first-year-curriculum.md)
 - [Breadcrumb strategy: embed small AI-native skill exercises, nudges, and prompts across multiple courses throughout the four-year curriculum](breadcrumb-strategy-ai-native-skills.md)
+- [Embed subject-specific web credibility modules into existing courses rather than creating standalone courses](embed-subject-specific-credibility-modules.md)
 
 ## Examples
 -

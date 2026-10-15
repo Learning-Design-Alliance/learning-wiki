@@ -48,3 +48,4 @@ Univariate mixed-effects meta-regression across 16 productivity effect sizes com
 - [GenAI coding assistance produces a statistically significant moderate positive effect on developer productivity (g = 0.33), with substantial heterogeneity across settings.](genai-coding-assistance-moderate-positive-productivity-effect.md) — related
 - [Instructional model shows a significant subgroup difference (traditional classroom g = 1.19 vs. AI teaching g = 0.69) that does not remain robust in multivariate meta-regression](instructional-model-subgroup-nonrobust.md) — related
 - [Baseline capability moderates AI productivity benefits non-monotonically across AI's capability frontier](baseline-capability-nonmonotonic-ai-benefit.md) — related
+- [Study design moderates the technology effect: between-subject studies yield a significantly higher average effect than within-subject studies](design-moderates-technology-story-effect.md) — related

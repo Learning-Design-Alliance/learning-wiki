@@ -97,3 +97,5 @@ A meta-analysis of controlled experiments testing reflective interventions inten
 - [Using a flexible functional form, the estimated benefit of improving a competency depends on a student's existing strengths and weaknesses in other competencies](competency-benefits-depend-on-other-competencies.md) — related
 - [Only the interactive antagonistic agent, not stepwise guidance, significantly shifted novice designers' design thinking relative to self-reflection](agent-enacted-conflict-shifts-design-thinking.md) — a narrower finding that bears on this claim
 - [The framework's broader relevance rests on a shared learning structure of embodied skill, expert feedback, and self-monitoring, not direct equivalence across domains](shared-learning-structure-performance-domains.md) — related
+- [More effective programs targeted teachers, trainees, and individuals with an autonomy causality orientation](recipient-moderators-teachers-trainees-autonomy-orientation.md) — related
+- [Reflective capacity is regarded by many as an essential characteristic of professional competence in the health professions](reflective-capacity-essential-professional-competence.md) — related

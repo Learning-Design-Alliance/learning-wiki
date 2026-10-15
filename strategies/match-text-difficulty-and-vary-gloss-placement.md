@@ -45,4 +45,4 @@ The article's findings support two implementable practices for EFL reading instr
 -
 
 ## Key Sources
-- Cheng, Y.-H., & Good, R. L. (2009). L1 glosses: Effects on EFL learners’ reading comprehension and vocabulary retention. Reading in a Foreign Language, 21(2), 119–142. http://nflrc.hawaii.edu/rfl
+- Cheng, Y.-H., & Good, R. L. (2009). L1 glosses: Effects on EFL learners’ reading comprehension and vocabulary retention. Reading in a Foreign Language, 21(2), 119–142. http://nflrc.hawaii.edu/rfl. [doi:10.64152/10125/66828](https://doi.org/10.64152/10125/66828)

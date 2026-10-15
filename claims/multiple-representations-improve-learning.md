@@ -106,3 +106,5 @@ This review addresses the "representation dilemma": students often must learn un
 - [Multiple representations and explanations of math concepts aid student understanding, but faculty lack time to source or develop them](multiple-representations-aid-understanding-faculty-time.md) — a broader claim this one bears on
 - [The same learner context supplied to an AI tutor produces qualitatively different, persona-aligned explanations of the same problem](learner-context-personalizes-ai-tutor-explanations.md) — related
 - [LLM accuracy varies across mathematically equivalent problem representations even under deterministic decoding, in both interaction conditions](llm-representational-sensitivity-equivalent-math-forms.md) — related
+- [Substantial existing research addresses the effectiveness of many types and formats of peer tutoring in colleges and universities](peer-tutoring-effectiveness-research-base.md) — related
+- [Productive failure students demonstrated greater representation flexibility in working with graphical representations than students in the other two conditions](pf-greater-representation-flexibility-graphical.md) — related

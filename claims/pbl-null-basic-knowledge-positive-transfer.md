@@ -55,4 +55,4 @@ The article synthesizes meta-analytic comparisons of PBL with traditional direct
 
 
 ## Related Claims
--
+- [PBL is superior to conventional instruction for long-term retention, according to a meta-synthesis of meta-analyses](pbl-superior-long-term-retention.md) — related

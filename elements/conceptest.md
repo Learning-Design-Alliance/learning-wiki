@@ -73,6 +73,7 @@ ConcepTests convert lecture time into [active learning](../principles/active-lea
 **[Peer Instruction for Computer Science](https://www.peerinstruction4cs.org)** — Daniel Zingaro and Cynthia Taylor's collection of ConcepTests for CS1/CS2, demonstrating the format transfers beyond physics.
 
 **[Project Galileo / ConcepTest collections](https://galileo.seas.harvard.edu)** — Harvard's curated question banks across physics, chemistry, and biology, with documented misconception-based distractors.
+- [Peer Instruction structured questioning sequence: individual answers, convince-your-neighbors discussion, revote, and instructor feedback](../strategies/peer-instruction-questioning-sequence.md)
 
 ## Key Sources
 - Mazur, E. (1997). *Peer instruction: A user's manual.* Prentice Hall.

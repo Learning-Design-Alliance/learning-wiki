@@ -48,3 +48,4 @@ Survey-based models of instructional climate for below-norm students. "almost a 
 - [The double-dose policy led schools to track algebra classes by entering math skills, making classrooms more homogeneous in ability](double-dose-induced-algebra-tracking.md) — related
 - [Chicago's double-dose algebra policy raised algebra test scores for both low-skill and high-skill students](double-dose-algebra-raised-test-scores-both-skill-groups.md) — related
 - [Extended learning time interventions, including week-long acceleration academies with highly effective teachers and some double-dose math structures, show strong evidence of effectiveness](extended-learning-time-academies-double-dose-math-effective.md) — related
+- [Between- or within-class homogeneous ability grouping has a small negative effect on low-ability primary students but no effect on other students](homogeneous-ability-grouping-negative-low-ability.md) — related

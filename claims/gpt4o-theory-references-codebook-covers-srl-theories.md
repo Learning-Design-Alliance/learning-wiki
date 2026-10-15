@@ -48,3 +48,4 @@ Human evaluation of Step 1 (Theory-only) codebooks generated three times by GPT-
 - [Fully inductive LLM codebook development risks importing unexamined sensitizing concepts, such as folk theories and scientific misconceptions, from the model's training data](llm-inductive-coding-sensitizing-concept-risk.md) — related
 - [Human review remains essential after GPT-based codebook generation, producing a final refined SRL codebook of eleven constructs](human-refinement-essential-gpt-codebooks.md) — related
 - Over one-third of AI-SRL studies specify no SRL theory; Zimmerman's model is the most frequently applied — related
+- [Empirical studies support Zimmerman's cyclical and multi-level SRL models, including a linear trend favoring training more SRL phases](zimmerman-cyclical-model-empirical-support.md) — related

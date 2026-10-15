@@ -33,7 +33,7 @@ grain_size: unit
 # 4C/ID (Four-Component Instructional Design)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 15 claims (10 for, 5 mixed) · 18 studies (8 causal, 4 theoretical, 3 review, 1 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 1 of 18 report an effect size · 12 claims rest on one study
+> **Evidence** · 16 claims (11 for, 5 mixed) · 19 studies (8 causal, 5 theoretical, 3 review, 1 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 1 of 19 report an effect size · 13 claims rest on one study
 
 ## Description and scope
 
@@ -108,6 +108,7 @@ Every claim this page cited before the rewrite has been read against the model a
 - [Learning is effective when it builds on children's existing knowledge in real-world contexts, and early fraction foundations matter because many older children struggle with rational numbers](../claims/early-fraction-foundations-given-rational-number-difficulty.md) [+W]
 - [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-example-problem-sequences.md) [+M]
 - [Theory-based agents significantly outperform non-theory agents on Problem-centered design (d = 0.28) and Activation (d = 0.29), but non-theory agents score higher on Demonstration (d = -0.23)](../claims/theory-agents-problem-centered-activation-advantage.md) [~W]
+- [Four interrelated components are essential in blueprints for complex learning](../claims/four-components-essential-complex-learning-blueprints.md) [+W] — attached 2026-10-15 from van Merriënboer et al. (2002), which proposed "Training blueprint structure for complex learning with associated instructional methods".
 
 ## Illustrative design instance and observation record
 

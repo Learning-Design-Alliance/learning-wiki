@@ -52,3 +52,4 @@ The article reports (Section V.B) Coletta et al. (2005)'s four interactive-engag
 - [Students in a technology-enhanced modeling physics class learned significantly more than students in an otherwise identical no-technology class](real-time-data-collection-increases-modeling-physics-learning.md) — related
 - [Pre-test scores strongly predict post-test scores but not normalized learning gains](pretest-predicts-posttest-not-learning-gain.md) — related
 - [Average homework H-scores correlate negatively with proctored exam performance, with the correlation strengthening from Spring 2024 to Spring 2026](h-score-negative-exam-correlation-strengthening.md) — related
+- [Switching introductory physics lectures from traditional instruction to Peer Instruction dramatically increased average FCI posttest scores and normalized gain at Harvard](fci-gain-increased-peer-instruction-harvard.md) — related

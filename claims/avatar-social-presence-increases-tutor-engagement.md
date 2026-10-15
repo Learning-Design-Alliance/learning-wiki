@@ -69,3 +69,4 @@ The paper cites Basori et al. (2011) for the claim that realistic avatars commun
 - [Interactivity, information sharing, and collaborative environment are each positively associated with perceived social presence in agentic AI-supported online learning](affordances-positive-social-presence-agentic-ai.md) — related
 - [Learning motivation and perceived social presence are both positively associated with learner engagement in agentic AI-supported online learning](motivation-social-presence-boost-engagement-agentic-ai.md) — related
 - [A 2025 systematic review reports that AI tools raising social presence and emotional engagement may improve AI-supported collaborative learning outcomes](emotional-engagement-social-presence-ai-collaborative-learning.md) — related
+- [Student engagement in online courses is associated with satisfaction, motivation, reduced isolation, and improved performance](engagement-benefits-satisfaction-motivation-isolation-performance.md) — related

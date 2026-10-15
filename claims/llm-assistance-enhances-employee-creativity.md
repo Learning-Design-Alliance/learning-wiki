@@ -49,3 +49,4 @@ The brief cites early research, without reporting study designs or effect sizes,
 - [LLM access boosts individual story creativity while significantly homogenising output across writers (review attribution)](llm-access-homogenises-creative-output.md) — related
 - [AI assistance raises individual creative self-assessments but reduces collective diversity of novel content (reviewed finding)](ai-creativity-individual-gain-collective-diversity-loss.md) — related
 - [LLMs act as catalysts for collaboration by aiding idea generation, organization and peer feedback, and by democratizing access to knowledge in large-class settings](llms-catalyze-collaboration-idea-generation-peer-feedback.md) — related
+- [Writers themselves perceive no creativity benefit from GenAI access even though evaluators do](writers-self-assessments-show-no-genai-benefit.md) — reports the opposite

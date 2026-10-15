@@ -59,8 +59,10 @@ The tiered structure disciplines feedback to one focus per layer, protecting wor
 5. **Close with the student** — ask the student to say what they heard and what they will do next; record the focus in the log. This is [Coaching](../elements/coaching.md) toward independent revision.
 
 ## Related Strategies
+
 - [5-minute_writing_conferences](5-minute_writing_conferences.md) — the time-boxing discipline that makes the three-tier structure sustainable across a whole class
 - Writing workshop conferencing generally — this protocol is a specific structure within that tradition
+- [Use a reading-as-the-reader activity in which writers re-read text from the reader's perspective before revising](reading-as-the-reader-activity.md)
 
 ## Examples
 - A middle-school teacher responds personally to a student's skiing narrative, suggests as a community member that a confusing fall sequence be slowed down, then teaches a strategy for sequencing action verbs — and the student states her revision plan before returning to her seat.

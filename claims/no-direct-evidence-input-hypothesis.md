@@ -50,3 +50,4 @@ The review reports, quoting Long (1983), that the input hypothesis has not been 
 - [Syntactic rather than semantic processing of input is essential for correcting incomprehensible output](syntactic-processing-corrects-incomprehensible-output.md) — related
 - [Dialogue journals inherently meet conditions deemed necessary for second language acquisition](dialogue-journals-meet-sla-conditions.md) — reports the opposite
 - [A 1999 conference paper reports, citing Ellis and LaPorte (1997), that instruction has little or no effect on the route of L2 acquisition](instruction-little-effect-on-route-of-acquisition.md) — related
+- [Language processing is intimately tuned to input frequency across phonology, phonotactics, reading, spelling, lexis, morphosyntax, formulaic language, comprehension, grammaticality, sentence production, and syntax](frequency-tuning-across-language-processing-domains.md) — related

@@ -51,3 +51,4 @@ Simple slope analysis of the latent interaction BI × LGA (b = −0.137, 95%CI [
 - [University students' use of GenAI for learning task completion is negatively associated with GenAI-assisted learning procrastination](genai-use-negatively-associated-genai-learning-procrastination.md) — related
 - [The structural model explains 71.6% of variance in GenAI-assisted learning procrastination and 58.5% in behavioral intention](model-variance-explained-galp-bi.md) — related
 - [GenAI use is positively associated with attitude, subjective norm, perceived behavioral control, and behavioral intention toward GenAI-assisted learning](genai-use-positively-associated-tpb-constructs.md) — related
+- [Scovel argued anxiety is not a simple, unitary construct quantifiable into high or low amounts](scovel-anxiety-not-unitary-construct.md) — related

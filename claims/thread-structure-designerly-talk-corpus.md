@@ -45,3 +45,4 @@ Quantitative comparison of the full corpus (n=15,273 comments) against a 15+ com
 ## Related Claims
 - [Four types of designerly talk manifest in student-managed social network spaces: tool selection, professional identity, skill-sharing coordination, and ethical design discussion](four-types-designerly-talk-sns.md) — related
 - [Social network site participation enables design learning that breaks the confines of space and time, including pre-enrollment learning and asynchronous ethical discussion](sns-learning-unbounded-space-time.md) — related
+- [Facebook is used in myriad ways as an educational instrument for learning and teaching in higher education](facebook-myriad-educational-uses-higher-education.md) — related

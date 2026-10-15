@@ -46,3 +46,4 @@ Narrative review of Carpenter and Toftness (2017), where six practice questions 
 - [Learners fail to recognize the benefits of pre-instruction testing, ranking it as least effective despite benefiting from it](metacognitive-illusion-pretesting-underrated.md) — related
 - [Pre-instruction testing enhances memory for directly tested text content relative to non-testing controls, at both immediate and one-week delayed posttests](pretesting-enhances-learning.md) — related
 - [A review reports that pretesting helps paired-associate learning only when correct-answer feedback is immediate, but helps trivia-fact learning even when feedback is delayed up to 24 hours](feedback-timing-moderates-pretesting.md) — related
+- [Questions interpolated between video lecture segments improve subsequent test performance and reduce mind wandering](interpolated-questions-improve-video-learning.md) — related

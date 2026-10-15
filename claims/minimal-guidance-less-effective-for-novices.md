@@ -308,3 +308,4 @@ This claim does not imply that pure discovery is useless or that direct telling 
 - [Teachers reported redesigning instruction toward learner question formulation, comparison, and inquiry when using AI](designing-for-learner-agency-dimension.md) — related
 - [Without explicit scaffolding, the two lower-agency paths (Passive Review and Direct Question) accounted for 64% of student-AI interactions in the primary sample](paths-1-2-default-64-percent.md) — a narrower finding that bears on this claim
 - [The advantage of explicit instruction over unassisted discovery is largest in the verbal/social skills domain](domain-moderates-unassisted-discovery-deficit.md) — a narrower finding that bears on this claim
+- [Formal theory offers advantages over common sense for guiding implementation, but empirical evidence of effectiveness is lacking](formal-theory-advantages-over-common-sense.md) — related

@@ -69,3 +69,4 @@ Same interview study: participants with strong expectations for how work is done
 - [Neurodivergent computing students feel most comfortable with student-formed teams, then instructor-assigned teams, and lastly randomly-assigned teams](nd-comfort-order-team-formation-collaborative-learning.md) — related
 - [When coping methods fail, neurodivergent students report avoiding socialization and courses requiring public presentations](nd-coping-failure-avoidance-public-presentations.md) — related
 - [50% of neurodivergent students report some discomfort with semester-long teams compared to 22% of neurotypical students](nd-semester-long-team-discomfort.md) — related
+- [Interviewed students described active classrooms as disjointed and frustrating and preferred the fluent passive lecture](interviews-active-classrooms-disjointed-frustrating.md) — related

@@ -48,3 +48,4 @@ Students recruited from one Precalculus course at a US university (a convenience
 - [The survey reports, citing Mongkhonvanit et al., that DKT achieved better performance when binarized MOOC video-engagement covariates were incorporated.](engagement-covariates-improve-deep-knowledge-tracing.md) — related
 - [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](learner-paced-beats-system-paced-complex-material.md) — related
 - [Low-performing students tended to procrastinate more on graded problem-solving exercises and on video watching with formative MCQs](low-performers-procrastinated-exercises-and-videos.md) — related
+- [Guiding questions and student control over video movement improve learning outcomes and satisfaction](guiding-questions-and-video-control-improve-learning.md) — reports the opposite

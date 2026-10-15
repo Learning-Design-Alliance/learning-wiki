@@ -145,3 +145,4 @@ A key boundary condition is that the misjudgment is strongest for judgments made
 - [A middle school math teacher replaced rereading with three retrieval-practice strategies after learning that rereading is not effective for long-term retention](retrieval-practice-implementation-case-newell.md) — related
 - [genAI-supported work can improve while the constructive processing underlying durable expertise erodes (the performance–metacognition dilemma)](performance-metacognition-dilemma-genai.md) — related
 - [Task completion with GenAI is a weak proxy for durable competence, with struggling learners at risk of an illusion of competence](task-completion-weak-proxy-competence.md) — related
+- [An early-semester presentation on fluency and feeling of learning improved students' attitudes toward active learning](early-fluency-intervention-improved-attitudes.md) — a narrower finding that bears on this claim

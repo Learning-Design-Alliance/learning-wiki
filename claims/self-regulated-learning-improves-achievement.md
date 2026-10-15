@@ -264,3 +264,5 @@ Open questions that evidence entries should address include: which strategy fami
 - [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) — a strategy learners can be taught to deploy on their own
 - [Goal setting improves performance](../claims/goal-setting-improves-performance.md) — goal-setting is the planning phase of self-regulation
 - [Student self-graphing of CBM scores is reported as motivating during secondary prevention](self-graphing-cbm-progress-motivating.md) — related
+- [Holding a strong goal intention alone does not guarantee goal achievement](goal-intention-alone-insufficient-for-achievement.md) — related
+- [Empirical studies support Zimmerman's cyclical and multi-level SRL models, including a linear trend favoring training more SRL phases](zimmerman-cyclical-model-empirical-support.md) — a narrower finding that bears on this claim

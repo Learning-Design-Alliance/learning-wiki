@@ -190,3 +190,8 @@ Open questions include how the effect interacts with learner control over pacing
 - [Within-subjects designs also show a moderate-to-large modality effect (d = 0.73)](modality-effect-within-subjects-d073.md) — related
 - [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md) — related
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — related
+- [The animation advantage is larger when animation is coupled with auditory commentary](animation-advantage-larger-auditory-commentary.md) — related
+- [The animation advantage is largest when instruction includes no accompanying text](animation-advantage-largest-without-accompanying-text.md) — related
+- [Animation produces a small overall learning advantage over static graphics in multimedia instruction](animation-small-overall-advantage-over-static-graphics.md) — related
+- [Matching modality by conveying complementary information through auditory and visual channels increases retention, transfer, and engagement](modality-matching-complementary-channels-video.md) — related
+- [Working memory includes partially independent subcomponents for auditory/verbal and visual/2- or 3-dimensional information](working-memory-partially-independent-modality-subcomponents.md) — related

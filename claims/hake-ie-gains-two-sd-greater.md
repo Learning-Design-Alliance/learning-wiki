@@ -57,3 +57,4 @@ The article reports (Introduction) Hake's large multi-course survey as backgroun
 - [Pretest-posttest correlation coefficients for state assessment data vary by student achievement level (low-performing, average-performing, proficient).](pretest-posttest-correlations-vary-by-achievement-level.md) — related
 - [Pre-test scores strongly predict post-test scores but not normalized learning gains](pretest-predicts-posttest-not-learning-gain.md) — related
 - [All training policies narrowed the prior-knowledge achievement gap from pretest to posttest, with BKT achieving the largest reduction (77.1%)](bkt-largest-achievement-gap-reduction.md) — related
+- [Switching introductory physics lectures from traditional instruction to Peer Instruction dramatically increased average FCI posttest scores and normalized gain at Harvard](fci-gain-increased-peer-instruction-harvard.md) — a narrower finding that bears on this claim

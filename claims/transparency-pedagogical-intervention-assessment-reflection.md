@@ -51,3 +51,4 @@ Authors' interpretation (type e) from Discussion section 5.3 of the qualitative 
 - [Educators' interpretations of students' AI use evolved from perceived AI stigma toward emphasizing AI usage transparency and explicit AI guidance](ai-stigma-to-explicit-ai-guidance-evolution.md) — related
 - [Teachers perceive their role shifting from knowledge transmitters to facilitators, co-investigators, and ethical supervisors of AI use](teacher-role-shift-facilitator-ethical-supervisor.md) — related
 - [ChatGPT feedback required doctoral students to validate the procedural accuracy of algorithm-generated outputs, with judgement shaped by prompt quality](chatgpt-feedback-requires-output-validation.md) — related
+- [Students' reliance on surface-level evaluation strategies declined after the modules, including trust in dot-org domains, links, appearance, and About pages](surface-strategies-declined-after-modules.md) — related

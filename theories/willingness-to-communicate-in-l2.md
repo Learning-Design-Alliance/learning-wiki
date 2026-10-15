@@ -12,7 +12,7 @@ generated:
 # Willingness to Communicate in a Second Language
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 9 claims (8 for, 1 mixed) · 7 studies (5 associational, 1 review, 1 qualitative), `q1`–`q3` · 3 of 7 report an effect size · 7 claims rest on one study
+> **Evidence** · 10 claims (9 for, 1 mixed) · 8 studies (5 associational, 2 qualitative, 1 review), `q1`–`q3` · 3 of 8 report an effect size · 8 claims rest on one study
 <!-- Hub page (2026-09-30). The Description is compiled from the fetched articles that discuss this
 theory: eric-ej1080097, eric-ej1080228, eric-ej1208383 (eric-ed537603 and eric-ej1288838 were also read; neither discusses the model, and eric-ej1288838 only cites a WTC study in its references). The primary works in Key Sources were verified against Crossref but not read. -->
 
@@ -48,6 +48,7 @@ The articles call the model heuristic. They report that different studies find d
 - [Studies directly measuring WTC consistently report positive effects of AI on EFL learners' WTC across tool types, contexts, and age groups](../claims/ai-directly-enhances-efl-wtc.md) [+W] — attached 2026-10-12 from Zhang S et al. (2026), which proposed "Integrated multi-pathway framework of AI's impacts on EFL learners' WTC, extending MacIntyre et al.'s pyramid model".
 - [GenAI feedback perceptions, pronunciation self-efficacy, and WTC are all positively intercorrelated, and learners report positive feedback perceptions and moderate self-efficacy and WTC](../claims/genai-epse-wtc-positive-correlations-descriptives.md) [+M]
 - [English pronunciation self-efficacy partially mediates the association between GenAI-based pronunciation feedback perceptions and willingness to communicate, with the indirect effect accounting for 69.9% of the total effect](../claims/epse-partially-mediate-genai-feedback-wtc.md) [+M]
+- [Gameplay increased participants' willingness to communicate in English](../claims/gameplay-increased-willingness-to-communicate.md) [+W] — attached 2026-10-15 from Hayo Reinders et al. (2015), which proposed "Willingness to communicate (WTC) as a framework for studying affect in digital game-based language learning".
 
 ## Related Theories
 

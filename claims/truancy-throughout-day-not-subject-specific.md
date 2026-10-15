@@ -69,3 +69,4 @@ Same period-by-period and subject-by-subject analysis of class absences. The bri
 - [Schools with strong social-emotional value-added help ninth-grade students stay on track and miss school less often](strong-sel-value-added-schools-on-track-absenteeism.md) — related
 - [Average daily attendance and truancy metrics mask chronic absence, which reveals individual students missing 10% of school for any reason](chronic-absence-hidden-by-average-daily-attendance.md) — related
 - [Punitive responses to absence do not improve attendance and can worsen it](punitive-responses-ineffective-attendance.md) — related
+- [The school refusal-truancy dichotomy shows extensive overlap and heterogeneity](school-refusal-truancy-dichotomy-overlap.md) — a broader claim this one bears on

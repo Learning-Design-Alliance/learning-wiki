@@ -47,3 +47,4 @@ Reliability analysis (Fig. 2, Table 1) on the SciEntsBank Test_UD split. Verbali
 - [Latent (token-probability) confidence is the weakest single-source confidence signal for LLM-based ASAG, with the lowest AUROC and worst calibration](latent-confidence-weakest-asag.md) — related
 - [Novice clinical learners show pervasive metacognitive calibration deficits, with overestimated performance and confidence exceeding accuracy](novice-metacognitive-calibration-deficits.md) — related
 - [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) — related
+- [Feedback improves confidence calibration, and prior lure exposure inflates confidence in intrusions](feedback-improves-confidence-calibration.md) — related

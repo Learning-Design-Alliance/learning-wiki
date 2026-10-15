@@ -47,3 +47,4 @@ The review reports Pica's (1989) follow-up comparing interactionally generated i
 - [The quality rather than the quantity of interactional modifications predicts comprehensible input](interaction-quality-over-quantity.md) — related
 - [Interactionally modified input aids comprehension but shows no advantage for retention among beginner learners](interactionally-modified-input-aids-comprehension-not-retention.md) — related
 - [In college groups, negotiation of meaning made no difference to comprehensible input obtained in the match task](college-no-comprehensible-input-difference.md) — related
+- [Negotiated interaction yields higher moment-to-moment comprehension of L2 input than either noninteraction condition, which do not differ from each other](negotiated-interaction-highest-momentary-comprehension.md) — related

@@ -60,3 +60,5 @@ A textbook chapter by a co-author of the *Survey of Instructional Design Models*
 - [Human expert review is the most credible but slowest and most resource-intensive evaluation method](human-expert-review-most-credible-slowest.md) — related
 - [Existing reflection models lack strategies to manage challenges introduced by GenAI](existing-reflection-models-lack-genai-strategies.md) — related
 - [The framework's validation is limited: structure and parameterisation were tested only on a small dataset and only for predictive accuracy](causal-assessment-framework-validation-limitations.md) — a narrower finding that bears on this claim
+- [A gap exists between prescriptive readings on learner-generated drawing and research-based understandings](gap-prescriptive-versus-research-drawing-strategy.md) — related
+- [Existing approaches to evaluating higher education and school learning environments fall short when judged against contemporary approaches to teaching and learning](learning-space-evaluation-approaches-pedagogical-gaps.md) — related

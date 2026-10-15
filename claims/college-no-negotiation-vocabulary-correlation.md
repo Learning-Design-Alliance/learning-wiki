@@ -47,3 +47,4 @@ Pearson correlation analysis (Table 5) of the college experimental group (N=42):
 - [In high school groups, frequency of negotiation of meaning correlates positively with vocabulary score (r = 0.761) and with comprehensible input (r = 0.310)](negotiation-frequency-correlates-vocabulary-high-school.md) — reports the opposite
 - [In college groups, negotiation of meaning made no difference to comprehensible input obtained in the match task](college-no-comprehensible-input-difference.md) — related
 - [In both high school and college groups, learners with negotiation of meaning scored higher on the delayed post-vocabulary test than learners with pre-modified input only](negotiation-meaning-improves-vocabulary-scores-both-levels.md) — related
+- [Differences in moment-to-moment comprehension do not correlate with gains in vocabulary recognition or acquisition of Japanese locative structures](no-comprehension-acquisition-correlation.md) — related

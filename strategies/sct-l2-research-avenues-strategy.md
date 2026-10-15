@@ -37,7 +37,8 @@ Lantolf names four promising research avenues for sociocultural theory in second
 - advancing sociocultural theory research on L2 development, teaching-learning dialectics, and Dynamic Assessment
 
 ## Related Strategies
-- 
+
+- [Future research should pursue the directions the authors outline for L2 anxiety research](l2-anxiety-future-research-directions.md)
 
 ## Examples
 -

@@ -89,3 +89,4 @@ Multiple regression in the CoT condition (model F(2, 19) = 8.80, p = .002, R2 = 
 - [Peer Feedback Improves Writing](peer-feedback-improves-writing.md) — related
 - [Zero-shot GenAI feedback quality is statistically comparable to teacher feedback quality](zero-shot-feedback-quality-comparable-to-teacher.md) — related
 - [Revising the feedback prompt toward essay-grounded guidance increased feedback specificity odds](prompt-revision-increased-feedback-specificity.md) — related
+- [Revision conditions offering more reader insight produced contrasting benefits for young writers' descriptive revision](reader-insight-conditions-contrasting-benefits.md) — related

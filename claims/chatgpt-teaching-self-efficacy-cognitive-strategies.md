@@ -53,3 +53,4 @@ ANCOVA on an adapted MSLQ-based SRL questionnaire administered pre and post; the
 - [Teaching a ChatGPT agent does not significantly change students' test anxiety](chatgpt-teaching-test-anxiety-no-difference.md) — related
 - [A within-subjects pilot with 27 professional software engineers found statistically significant self-reported self-efficacy gains across all 10 assessed skill areas after completing the cc-self-train curriculum](cc-self-train-pilot-self-efficacy-gains.md) — related
 - [Students with moderate initial CT levels show substantially greater self-efficacy gains than high-CT and low-CT peers, an 'Optimal Development Zone' effect](optimal-development-zone-ct-gains.md) — related
+- [The article is situated within research on self-regulated learning strategies in educational contexts](self-regulated-learning-strategies-educational-contexts-veenman-2006.md) — related

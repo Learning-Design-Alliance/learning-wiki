@@ -44,3 +44,4 @@ Review's account (Section 3.5.3) of one quasi-experimental mixed-method interven
 
 ## Related Claims
 - [Extended chatbot use produced dose-dependent increases in loneliness and emotional dependence alongside lower socialisation (review attribution)](chatbot-use-dose-dependent-loneliness.md) — reports the opposite
+- [The effectiveness of home visiting and befriending schemes for social isolation and loneliness among older people remains unclear](home-visiting-befriending-effectiveness-unclear.md) — related

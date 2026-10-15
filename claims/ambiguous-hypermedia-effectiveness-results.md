@@ -46,3 +46,4 @@ Narrative review analyzing the literature on learner-controlled hypermedia. The 
 - [Lack of conceptual foundations and methodological shortcomings of many hypermedia studies contribute to ambiguous effectiveness findings](conceptual-methodological-shortcomings-hypermedia-research.md) — related
 - [Usability problems — disorientation, distraction, and cognitive overload — hinder demonstrating effectiveness of self-controlled hypermedia learning](hypermedia-usability-problems-hinder-effectiveness.md) — related
 - [Learner characteristics — prior knowledge, self-regulatory skills, cognitive styles, and attitudes towards learning — moderate hypermedia learning effectiveness](learner-characteristics-moderate-hypermedia-effectiveness.md) — related
+- [The article treats metacognition and learning as a topic requiring explicit conceptual and methodological considerations](metacognition-learning-conceptual-methodological-considerations-veenman-2006.md) — related

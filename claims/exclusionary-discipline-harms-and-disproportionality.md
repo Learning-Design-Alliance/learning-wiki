@@ -53,3 +53,4 @@ The report cites research indicating that subgroup tracking of discipline data h
 - [Frequent RJ use by teachers shows preliminary indications of reducing the racial discipline gap, though disparities persist](rj-reduces-racial-discipline-gap-preliminary.md) — related
 - [Exclusionary discipline disproportionately removes students of color and students with disabilities from school](exclusionary-discipline-disproportionate-students-of-color-disabilities.md) — related
 - [Los Padillas shifted away from exclusionary discipline, with no in- or out-of-school suspensions in 2023–24, and retained nearly all its teachers over 5 years](los-padillas-discipline-retention-outcomes.md) — related
+- [School exclusionary policies paradoxically worsen dropout, delinquency, and achievement](school-exclusion-paradox-worse-outcomes.md) — related

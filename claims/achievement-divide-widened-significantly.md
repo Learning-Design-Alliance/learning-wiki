@@ -47,3 +47,4 @@ Based on comparing spring 2022 MAP Growth results with a similar sized pre-pande
 - [Differences in engagement and achievement between high- and low-GPA students grew more sharply during the pandemic among Chicago Connected participants than among eligible non-participants](chicago-connected-participants-widening-gpa-disparities.md) — related
 - [The average student needs the equivalent of 4.8 additional months of schooling to catch up in reading and 4.3 months in math](months-of-schooling-needed-to-catch-up-2023-24.md) — related
 - [Significant achievement gaps between COVID-year students and pre-pandemic peers persisted at the end of 2022-23](persistent-achievement-gaps-2022-23.md) — related
+- [COVID-19 learning deficits arose early in the pandemic and have neither closed nor substantially widened since then](covid-learning-deficits-early-onset-persistence.md) — reports the opposite

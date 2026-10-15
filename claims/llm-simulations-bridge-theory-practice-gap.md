@@ -65,3 +65,4 @@ The review's RQ2 synthesis reports that when mistakes happen, models "can provid
 - [The article argues that memorization-centered management education faces three specific challenges: theory-practice disconnection, textbook lag, and simulation-reality divide](three-challenges-memorization-management-education.md) — related
 - [LLMs support the shift from memorization-focused to competency-based assessment by generating rubrics, varied assessment items and authentic scenario-based tasks](llms-support-competency-based-assessment-design.md) — related
 - [Theoretical quality of both theory-based and non-theory agents remains stable across Easy, Medium, and Hard scenario difficulty levels](theoretical-quality-stable-across-difficulty.md) — related
+- [The evidence supporting curricular interventions to promote reflection in health professional education remains largely theoretical](reflection-curricular-evidence-largely-theoretical.md) — related

@@ -61,3 +61,4 @@ Negative-perceptions sub-theme from thematic analysis of interviews with 10 trai
 - [Persistent technical limitations constitute an authenticity gap in AI-powered nursing simulations](ai-simulation-authenticity-gap.md) — related
 - [Educator open-ended responses yield four themes: ChatGPT dominance, need for methodological guidance, ethical concerns, and infrastructure barriers](educator-ai-barriers-four-themes.md) — related
 - [Pre-service teachers rate ChatGPT-generated texts higher on structure but often fail to identify AI authorship, indicating limited critical AI literacy](preservice-teachers-limited-critical-ai-literacy.md) — related
+- [Open issues for dynamic assessment include cost-effectiveness, training, reliability and validity, and generalization](da-open-issues-cost-training-reliability-validity.md) — related

@@ -52,3 +52,4 @@ ANN analysis of questionnaire data from 387 vocational school students (training
 - [Effort expectancy and facilitating conditions negatively predict behavioral intention, contradicting conventional UTAUT assumptions in studio-based creative education](ee-fc-negative-predict-bi-t2i.md) — related
 - [ARCS motivation showed the strongest correlations in the matrix with both behavioral intention and use behavior](arcs-strongest-correlations-intention-use.md) — related
 - [Performance expectancy, effort expectancy, and social influence positively predict behavioral intention to use ChatGPT among Lesotho higher education students](pe-ee-si-predict-chatgpt-intention-lesotho.md) — related
+- [Neural network models predicted students' writing performance groups with 94–100% accuracy from self-regulation characteristics](neural-networks-predict-writing-performance-groups.md) — related

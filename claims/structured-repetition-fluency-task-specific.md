@@ -66,3 +66,4 @@ The article reports, citing Taguchi et al. (2004), a study of Japanese universit
 - [Task rehearsal improves fluency and complexity on the repeated task but does not transfer to a new task of the same type](task-repetition-fluency-complexity-same-task-only.md) — related
 - [Gains from an intensive period of second-language study persist for weeks without rehearsal.](l2-fluency-gains-persist-weeks-without-practice.md) — reports the opposite
 - [Across repetition cycles, attention can shift from message meaning to linguistic form, enabling recycled language and self-correction](attention-shift-meaning-to-form-over-cycles.md) — related
+- [Task repetition can be used as a form of integrative planning in language learning and teaching](task-repetition-integrative-planning.md) — related

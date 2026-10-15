@@ -23,7 +23,7 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 56 claims (26 for, 28 mixed, 1 against, 1 unmarked) · 29 studies (9 quant-synthesis, 7 causal, 7 review, 2 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 10 of 29 report an effect size · 49 claims rest on one study
+> **Evidence** · 58 claims (28 for, 28 mixed, 1 against, 1 unmarked) · 30 studies (9 quant-synthesis, 8 causal, 7 review, 2 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 11 of 30 report an effect size · 51 claims rest on one study
 
 ## Conditional relationship
 
@@ -95,6 +95,8 @@ Each question below links a general claim that gathers the studies behind it int
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-10-01 rewrite. Reread 2026-10-15: all sixteen were read against the model and worked into the situation rows and the evidence-and-qualifications section above, with markers capped by each claim's recorded evidence. -->
 None at present: every claim listed here was read against the model on 2026-10-15 and now sits in the situation table or under Evidence and qualifications.
+- [Feedback on a multiple-choice test sharply reduces lure intrusions on a later cued recall test, with immediate and delayed schedules equally effective](../claims/feedback-reduces-lure-intrusions.md) [+W] — attached 2026-10-15 from Andrew C. Butler et al. (2008), which proposed "Provide feedback on multiple-choice tests to boost retention and prevent acquisition of misinformation"; tests this page's relationship.
+- [Taking a multiple-choice test produces a testing effect on later cued recall, but testing without study or feedback can be net harmful](../claims/mc-testing-effect-and-net-harm-boundary.md) [+W] — attached 2026-10-15 from Andrew C. Butler et al. (2008), which proposed "Provide feedback on multiple-choice tests to boost retention and prevent acquisition of misinformation"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -49,3 +49,4 @@ Narrative review attributing these findings to Guo, Kim, and Rubin (2014), descr
 - [Most remote courses used both synchronous and asynchronous delivery mechanisms](remote-courses-mixed-synchronous-asynchronous-delivery.md) — related
 - [MOOC video engagement declines with video length, with median engagement under half the duration for videos longer than nine minutes](mooc-engagement-declines-with-video-length.md) — related
 - [A review of music education asserts that MOOC completion is typically under 10% and that embodied musical learning resists short video lectures and self-graded quizzes](moocs-low-completion-embodied-music-learning.md) — related
+- [Median student engagement with MOOC videos falls sharply as video length increases beyond 6 minutes](video-length-mooc-engagement-declines.md) — related

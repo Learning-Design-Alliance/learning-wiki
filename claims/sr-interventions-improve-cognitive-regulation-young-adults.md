@@ -47,3 +47,4 @@ The brief summarizes its OPRE comprehensive review of self-regulation interventi
 - [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) — a broader claim this one bears on
 - [Effects on secondary behavioural outcomes (conduct problems, delinquency, substance use) are negligible or non-significant](secondary-behavioural-outcomes-negligible-nonsignificant.md) — reports the opposite
 - [Childhood poverty interferes with adult working memory, with chronic childhood stress a major contributor](childhood-poverty-impairs-adult-working-memory.md) — related
+- [Mindfulness interventions in schools show the largest between-group effects for cognitive performance (g = 0.80) and smaller significant effects for stress (g = 0.39) and resilience (g = 0.36)](mindfulness-domain-effects-cognitive-stress-resilience.md) — related

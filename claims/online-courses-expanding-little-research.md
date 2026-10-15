@@ -47,3 +47,4 @@ The abstract frames the study's motivation: online courses are "a rapidly expand
 - [Grades are lower both for courses taken online and in future courses](online-course-lower-grades-current-and-future.md) — a narrower finding that bears on this claim
 - [Taking a course online instead of in person reduces student success and progress in college](online-course-taking-reduces-college-success.md) — a narrower finding that bears on this claim
 - [Despite rapid expansion of alternative routes into teaching, little research exists to guide judgments about the effectiveness of different teacher training strategies](little-research-teacher-training-strategy-effectiveness.md) — related
+- [The Web-based learning literature supports the assumption that interaction is important for a successful online course, while questions remain about its nature, extent, and effects on performance.](interaction-assumed-important-online-course-questions-remain.md) — related

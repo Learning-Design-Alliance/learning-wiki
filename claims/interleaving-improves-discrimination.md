@@ -111,3 +111,4 @@ narrow claim may be better supported than a general "interleaving improves learn
 - [Interleaving is especially useful for inductive, subtle pattern learning without a clear verbal rule, but can equal or exceed blocking in rule-based domains too](interleaving-rule-based-learning-boundary.md) — related
 - [Interleaving benefits transfer to novel items from a learned category, with effect sizes of up to 0.66](interleaving-transfer-benefit-meta-analysis.md) — possibly the same claim (merge candidate)
 - [Evidence on working memory capacity as a moderator of the interleaving effect is mixed, but WM does not appear to be a major barrier to classroom use](working-memory-mixed-moderator-interleaving.md) — related
+- [Learners overwhelmingly judge blocking more effective than interleaving even when their test performance favors interleaving](metacognitive-illusion-blocking-interleaving.md) — possibly the same claim (merge candidate)

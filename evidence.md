@@ -8,32 +8,32 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | | |
 |---|---|
-| Claims | 17,857 |
-| Evidence entries | 21,158 |
-| Distinct studies | 5,110 |
-| Claims resting on one study | 17,400 (97%) |
+| Claims | 18,230 |
+| Evidence entries | 21,579 |
+| Distinct studies | 5,197 |
+| Claims resting on one study | 17,768 (97%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 982 of 5,110 (19%) |
+| Studies reporting an effect size | 1,004 of 5,197 (19%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 67 | 549 | 203 | 373 | 1,192 |
-| quant-synthesis | 43 | 92 | 38 | 117 | 290 |
-| review | 57 | 292 | 112 | 115 | 576 |
-| associational | 29 | 627 | 300 | 254 | 1,210 |
-| qualitative | 112 | 276 | 72 | 89 | 549 |
-| design | 62 | 547 | 165 | 37 | 811 |
-| theoretical | 75 | 283 | 71 | 53 | 482 |
+| causal | 68 | 555 | 207 | 384 | 1,214 |
+| quant-synthesis | 52 | 101 | 39 | 118 | 310 |
+| review | 59 | 306 | 113 | 123 | 601 |
+| associational | 30 | 628 | 304 | 258 | 1,220 |
+| qualitative | 112 | 277 | 72 | 91 | 552 |
+| design | 62 | 548 | 165 | 37 | 812 |
+| theoretical | 75 | 286 | 71 | 56 | 488 |
 
 **Studies by design tier `q`** (the causal-design ladder; where one study is coded differently on two claims, the tier most of its entries give):
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 772 (15%) | 3,256 (64%) | 970 (19%) | 112 (2%) |
+| 787 (15%) | 3,290 (63%) | 1,004 (19%) | 116 (2%) |
 
-**Studies per claim:** 0: 0, 1: 17,400, 2: 379, 3: 63, 4 or more: 15.
+**Studies per claim:** 0: 0, 1: 17,768, 2: 384, 3: 63, 4 or more: 15.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -102,7 +102,7 @@ Of the 37 claims cited from 50 or more pages, **6 rest on one study or none**: [
 
 Claims cited as support on some pages and as counter-evidence on others (`[+]` and `[-]` markers on the same claim). The disagreement is in how pages use the claim, which is often the point: a boundary condition cited against a strategy it limits. It is still where a reader should look twice.
 
-203 claims are cited both ways.
+206 claims are cited both ways.
 
 | Claim | For | Mixed | Against | Studies |
 |---|---|---|---|---|
@@ -118,7 +118,7 @@ Claims cited as support on some pages and as counter-evidence on others (`[+]` a
 | [Example-based sequences outperform problem-only practice for novices, and fading support …](claims/worked-examples-with-practice-improve-transfer.md) | 44 | 1 | 8 | 2 |
 | [Praise for intelligence, rather than for effort, after success undermines children's …](claims/feedback-praise-reduces-learning.md) | 3 | 7 | 7 | 3 |
 | [Worked examples reduce unnecessary search for novices.](claims/worked-examples-reduce-novice-search.md) | 61 | 10 | 6 | 1 |
-| [Fluent Illusions Mislead Self Assessment](claims/fluent-illusions-mislead-self-assessment.md) | 1 | 6 | 5 | 2 |
+| [Fluent Illusions Mislead Self Assessment](claims/fluent-illusions-mislead-self-assessment.md) | 2 | 6 | 5 | 2 |
 | [Feedback Most Effective At Task And Process Levels](claims/feedback-most-effective-at-task-and-process-levels.md) | 379 | 9 | 4 | 2 |
 | [Taking initial multiple-choice tests without feedback can lead students to later produce …](claims/multiple-choice-lures-can-be-learned-as-false-knowledge.md) | 2 | 0 | 4 | 1 |
 | [Redundant on-screen text impairs learning when it competes with a visualization, though …](claims/redundancy-principle.md) | 6 | 8 | 4 | 1 |
@@ -136,14 +136,14 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | [principles](principles/index.md) | 213 | 208 | 22 | 0 |
 | [elements](elements/index.md) | 1,080 | 841 | 2 | 0 |
 | [patterns](patterns/index.md) | 65 | 61 | 23 | 0 |
-| [strategies](strategies/index.md) | 5,599 | 2,540 | 6 | 0 |
+| [strategies](strategies/index.md) | 5,638 | 2,574 | 5 | 0 |
 | [processes](processes/index.md) | 18 | 17 | 6 | 0 |
 | [methods](methods/index.md) | 38 | 29 | 1 | 0 |
 | [theories](theories/index.md) | 1,372 | 1,156 | 1 | 0 |
-| [learner-variables](learner-variables/index.md) | 14 | 14 | 63 | 0 |
-| [designs](designs/index.md) | 719 | 472 | 1 | 0 |
-| [products](products/index.md) | 1,581 | 1,267 | 1 | 0 |
-| [research-methods](research-methods/index.md) | 429 | 375 | 1 | 0 |
+| [learner-variables](learner-variables/index.md) | 14 | 14 | 66 | 0 |
+| [designs](designs/index.md) | 729 | 480 | 1 | 0 |
+| [products](products/index.md) | 1,593 | 1,273 | 1 | 0 |
+| [research-methods](research-methods/index.md) | 436 | 378 | 1 | 0 |
 
 ## Toward pooled estimates
 

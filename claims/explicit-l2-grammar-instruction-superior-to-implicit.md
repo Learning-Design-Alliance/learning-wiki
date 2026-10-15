@@ -127,3 +127,6 @@ Meta-analysis of 41 studies of explicit and implicit instruction on the acquisit
 - [Explicit teaching is more effective for EFL copular be learning but its effect is not durable](explicit-teaching-effective-but-not-durable.md) — related
 - [A 1982 bilingual-education teacher-training packet asserts, citing Krashen, that repetitive drill and grammar-focused instruction are ineffective for second language acquisition](drill-and-grammar-focus-ineffective-for-l2-acquisition.md) — reports the opposite
 - [A 2017 cyberlearning community report states that students learn more from games when bridging activities connect game learning to classroom instruction, and that learning analytics can strengthen the connection](bridging-activities-connect-game-learning-to-instruction.md) — related
+- [Form-focused instruction can contribute to the acquisition of second language implicit knowledge, as shown in studies measuring learners' free production](ffi-contributes-to-implicit-l2-knowledge.md) — related
+- [Implicit learners do not outperform other learners on complex second language rules](implicit-not-superior-complex-rules.md) — reports the opposite
+- [Instructed learners outperform all other condition groups in learning simple second language rules](instructed-learners-outperform-others-simple-rules.md) — a narrower finding that bears on this claim

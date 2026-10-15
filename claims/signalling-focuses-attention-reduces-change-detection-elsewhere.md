@@ -51,3 +51,4 @@ Small-group case study of 21 undergraduates studying a multimedia animation on c
 - [Changes were detected more easily on screens presenting fewer objects (66.66%)](fewer-objects-easier-change-detection.md) — related
 - [The change on the object being verbally described was the most detected change, seen by 10 of 12 participants (83.33%)](signalled-and-cued-object-change-most-detected.md) — related
 - [Signaling (cueing) increases learning and reduces cognitive load in multimedia](signaling-improves-learning.md) — related
+- [Signaling with on-screen text, color, contrast, or symbols improves retention and transfer from animations and video](signaling-improves-retention-transfer-video.md) — related

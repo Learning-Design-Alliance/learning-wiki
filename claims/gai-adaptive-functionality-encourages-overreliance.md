@@ -49,3 +49,4 @@ Theoretical argument in the literature review about GAI architecture (Transforme
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
 - [Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs](teacher-big-picture-genai-concerns.md) — related
 - [Responsible AI use and student agency are mutually reinforcing capacities](responsible-ai-use-and-agency-mutually-reinforcing.md) — related
+- [Pedagogical challenges inherent in distance and online learning must be considered in instructional design and software development](pedagogical-challenges-distance-learning-design-software.md) — related

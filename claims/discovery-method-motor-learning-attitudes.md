@@ -45,3 +45,4 @@ Zaichkowsky's paper reports, citing Mancini's 1974 doctoral study at Boston Univ
 ## Related Claims
 - [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](minimal-guidance-less-effective-for-novices.md) — related
 - [Interactive LRE methods engage students, who value LRE classes as relevant and interesting](lre-interactive-methods-student-interest.md) — related
+- [PBL is superior to conventional instruction for skill development and for satisfaction of students and teachers](pbl-superior-skill-development-satisfaction.md) — related

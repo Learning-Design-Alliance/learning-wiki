@@ -26,7 +26,7 @@ sources:
 # Problem-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 28 claims (9 for, 17 mixed, 2 against) · 30 studies (8 causal, 7 review, 6 quant-synthesis, 5 theoretical, 3 qualitative, 1 design), `q1`–`q4` · 4 of 30 report an effect size · 23 claims rest on one study
+> **Evidence** · 29 claims (9 for, 17 mixed, 3 against) · 31 studies (8 causal, 7 review, 6 quant-synthesis, 5 theoretical, 4 qualitative, 1 design), `q1`–`q4` · 4 of 31 report an effect size · 24 claims rest on one study
 
 ## Conditional relationship
 
@@ -103,6 +103,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+M] — checked by the judge: all 1 entries pass (abstract)
 - [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [~M] — not settled: the text available could not confirm the entries (abstract)
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — not settled: the text available could not confirm the entries (abstract)
+- [Traditional instruction is more effective than PBL for short-term retention as measured by standardized board exams](../claims/traditional-instruction-short-term-retention-board-exams.md) [-W] — attached 2026-10-15 from Strobel et al. (2009), which proposed "Match the choice between PBL and conventional instruction to the targeted retention horizon and outcome"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

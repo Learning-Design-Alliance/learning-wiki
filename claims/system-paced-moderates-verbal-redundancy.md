@@ -50,3 +50,4 @@ Moderator analysis of presentational features: system-paced studies (k = 24) sho
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related
 - [Verbal redundancy (spoken–written presentation) yields a small overall learning benefit with large between-study heterogeneity](verbal-redundancy-small-overall-effect.md) — a broader claim this one bears on
 - [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](learner-paced-beats-system-paced-complex-material.md) — related
+- [The animation advantage is largest when instruction includes no accompanying text](animation-advantage-largest-without-accompanying-text.md) — related

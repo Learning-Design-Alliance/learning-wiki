@@ -76,3 +76,5 @@ Spada and Tomita (2010), a meta-analysis of 41 studies, found larger effects for
 - [Learners resolve grammar-related noticing with intuition, reasoning, rephrasing and explicit rules rather than external resources](grammar-lres-solved-with-own-resources-not-external.md) — related
 - [Explicit L2 grammar instruction leads to larger learning effects than implicit instruction, as reported in the reviewed synthesis literature](explicit-l2-grammar-instruction-superior-to-implicit.md) — related
 - [Explicit teaching of grammar rules enhances their learning, and rules are learned faster and better when repeated in communicative tasks](explicit-rules-learned-faster-in-communicative-tasks.md) — related
+- [Implicit learners do not outperform other learners on complex second language rules](implicit-not-superior-complex-rules.md) — reports the opposite
+- [Instructed learners outperform all other condition groups in learning simple second language rules](instructed-learners-outperform-others-simple-rules.md) — reports the opposite

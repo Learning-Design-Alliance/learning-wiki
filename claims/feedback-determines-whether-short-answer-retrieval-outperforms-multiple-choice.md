@@ -93,3 +93,4 @@ The chapter reports Little et al. (2012), who found multiple-choice better witho
 - [Multiple choice practice items produce significantly higher performance during retrieval practice than short answer items, with applied short answer the most difficult condition](multiple-choice-higher-practice-performance-than-short-answer.md) — related
 - [Subtle indirect cueing feedback tends to have higher impacts on learning outcomes than other forms of feedback, per research the review cites](subtle-cueing-feedback-higher-impact.md) — related
 - [Providing corrective feedback on practice tests does not significantly change the testing effect (g = 0.63 with feedback vs. g = 0.60 without)](feedback-no-significant-moderation.md) — related
+- [Taking a multiple-choice test produces a testing effect on later cued recall, but testing without study or feedback can be net harmful](mc-testing-effect-and-net-harm-boundary.md) — related

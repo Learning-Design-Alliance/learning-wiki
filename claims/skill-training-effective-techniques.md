@@ -50,3 +50,4 @@ The monograph reports an extensive review by Showers, Joyce, and Bennett (1987) 
 - [Learners receiving both form- and meaning-focused instruction improved more than a form-focused group (attributed to Park, 2000)](form-and-meaning-focus-beats-form-only.md) — related
 - [Coaching time focused on instructional delivery improves coached teachers' practices, while time focused on behavioral management is associated with a significant decrease in practice quality](coaching-focus-instructional-delivery-versus-behavior-management.md) — related
 - [Coaching can be effective in all delivery modes: face-to-face, distance, and a combination](coaching-effective-all-delivery-modes.md) — related
+- [More effective programs used brief 1–3 h laboratory sessions with skill-based activities and multiple media](brief-skill-based-multimedia-sessions-moderator.md) — related

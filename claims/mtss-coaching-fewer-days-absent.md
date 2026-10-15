@@ -46,3 +46,4 @@ Multilevel models of days absent for students present before the pandemic, using
 - [Students in MTSS-coached schools were significantly less likely to have at least one behavior incident](mtss-coaching-lower-likelihood-behavior-incident.md) — related
 - [Propensity score matching produced baseline-equivalent treatment and comparison groups on all measured variables](psm-baseline-equivalence-mtss-study.md) — related
 - [Schools implementing all three PBIS tiers with fidelity had significantly fewer students with OSS, fewer days missed from OSS, and fewer OSS incidents than matched non-PBIS schools during 2020–21](pbis-three-tiers-fidelity-fewer-oss-pandemic.md) — related
+- [Schools implementing MTSS with higher fidelity show less absenteeism](mtss-fidelity-lower-absenteeism.md) — related

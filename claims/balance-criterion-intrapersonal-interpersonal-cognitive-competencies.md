@@ -49,3 +49,4 @@ This is the brief's own conceptual argument for the Balance criterion, not a tes
 - [Measuring SEL involves a tradeoff between measuring narrower discrete skills and measuring broader competencies](sel-measurement-narrow-skills-versus-broad-competency-tradeoff.md) — related
 - [EdTech messaging about AI over-emphasizes individual, cognitive learning while curricular frameworks emphasize social, contextual learning](edtech-ai-messaging-individual-vs-social-curricula.md) — related
 - [The Business Case Discussion gives admissions readers evidence of applicants' business mindsets, defined as cognitive and intrapersonal skills rather than business expertise](business-case-discussion-reveals-business-mindsets.md) — related
+- [Game benefits are similar in magnitude for cognitive and intrapersonal outcomes, while the single interpersonal outcome was not significant](cognitive-intrapersonal-similar-interpersonal-null.md) — related

@@ -12,7 +12,7 @@ generated:
 # Foreign Language Anxiety
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (5 for, 1 against) · 3 studies (2 associational, 1 qualitative), `q1`–`q2` · 1 of 3 report an effect size · 6 claims rest on one study
+> **Evidence** · 8 claims (6 for, 1 mixed, 1 against) · 4 studies (2 associational, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 2 of 4 report an effect size · 8 claims rest on one study
 <!-- Hub page (2026-09-30). The Description is compiled from the fetched articles that discuss this
 theory: eric-ej1182973, eric-ed537603, eric-ej1117239. The primary works in Key Sources were verified against Crossref but not read. -->
 
@@ -46,6 +46,8 @@ Most researchers, as Zhao et al. (2016) put it, agree that FLA "negatively influ
 - [Sociocultural factors, learner motivation, self-efficacy and perceptions of the classroom environment influence FLCA learning outcomes and oral performance](../claims/flca-influences-outcomes-four-factors.md) [+W]
 - [Speaking practice opportunities and teacher support reduced classroom anxiety and increased self-efficacy for one learner](../claims/speaking-practice-reduced-flca-increased-self-efficacy.md) [+W]
 - [Incidental vocabulary learning anxiety positively predicts L2 incidental vocabulary acquisition through reading](../claims/incidental-vocabulary-anxiety-positive-predictor.md) [-M]
+- [L2 anxiety is negatively correlated with L2 achievement, with a mean correlation of r = −.36 across 216 effect sizes](../claims/l2-anxiety-negative-correlation-achievement-meta-analysis.md) [+M] — attached 2026-10-15 from Yasser Teimouri et al. (2019), which proposed "L2 anxiety as a negatively acting affective variable in L2 learning with (non)linguistic moderators"; tests this page's relationship.
+- [The anxiety–achievement correlation varies across educational levels, target languages, and anxiety types](../claims/anxiety-achievement-moderators-levels-languages-anxiety-types.md) [~M] — attached 2026-10-15 from Yasser Teimouri et al. (2019), which proposed "L2 anxiety as a negatively acting affective variable in L2 learning with (non)linguistic moderators".
 
 ## Related Theories
 

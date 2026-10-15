@@ -50,3 +50,4 @@ Case study data: a biology student described retaining little across 20-minute v
 - [Most remote courses used both synchronous and asynchronous delivery mechanisms](remote-courses-mixed-synchronous-asynchronous-delivery.md) — related
 - [Students in the focus group and interviews described home learning environments during the pandemic as, for some, more responsive to their needs than school environments](students-describe-home-environments-more-responsive-than-school.md) — related
 - [Overall quality was similar across durations and across the 21-lecture held-out set unused during system development](bespoke-quality-stable-across-durations-and-held-out-lectures.md) — related
+- [Segmenting video into short pieces or click-forward pauses supports student engagement and learning from video](segmenting-supports-video-engagement-learning.md) — related

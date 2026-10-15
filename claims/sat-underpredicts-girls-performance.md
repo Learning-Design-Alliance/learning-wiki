@@ -67,3 +67,6 @@ Testimony of Phyllis Rosser, a consultant on sex bias in testing, at the April 2
 - [Differences in grading practices across teachers and schools are small relative to students' actual academic preparation, and GPAs average out those differences](grading-differences-small-gpa-averages-teacher-differences.md) — related
 - [Ninth-grade GPAs varied substantially by gender, race/ethnicity, neighborhood SES, incoming test scores, course level, and school](ninth-grade-gpa-demographic-variation.md) — related
 - [Girls score lower than boys on timed standardized math and science tests at the same course level, and SAT math scores underpredict women's college math performance](timed-test-gender-gap-underpredicts-college-performance.md) — related
+- [Prospective regression analysis of the same data found somewhat larger sex differences in the same direction](prospective-regression-larger-sex-differences-sat-m.md) — related
+- [The score gaps constitute evidence of sex differences in the validity of the SAT-M as a predictor of college math performance, though not of their cause](sex-differences-sat-m-predictive-validity.md) — a narrower finding that bears on this claim
+- [Women scored about 33 SAT-M points lower than men who took the same math course and received the same grade](women-33-sat-points-lower-matched-course-grade.md) — related

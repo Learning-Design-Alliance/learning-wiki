@@ -109,3 +109,4 @@ A meta-analysis of 51 quantitative studies comparing students' self-assessed mar
 - [Learners who could decide after a trial whether to receive knowledge of results estimated their own movement outcomes more accurately in retention than Self-Before learners and their yoked counterparts.](self-controlled-kr-decided-after-trial-improves-error-estimation-accuracy.md) — related
 - [Sequencing worked examples with practice problems improves learning for novices](worked-example-problem-sequences.md) — related
 - [Novice clinical learners show pervasive metacognitive calibration deficits, with overestimated performance and confidence exceeding accuracy](novice-metacognitive-calibration-deficits.md) — a narrower finding that bears on this claim
+- [Students' expertise on the task may be an important prerequisite for accurate self-assessment](task-expertise-prerequisite-ssa-accuracy.md) — related

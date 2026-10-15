@@ -46,3 +46,4 @@ Interpretive statement in the article's section on Ikeda's philosophy, reporting
 - [The article argues education for global citizenship has the potential to improve quality of life and lessen inter- and intra-group violence toward a culture of peace](gced-potential-culture-of-peace.md) — related
 - [Fear of hope: an acquired aversion to feeling hopeful due to anticipated disappointment may block hopeful engagement](fear-of-hope-acquired-aversion.md) — related
 - [Naive hope is negatively related to civic engagement, while existential hope is proposed to be positively associated with it](naive-hope-negatively-related-civic-engagement.md) — related
+- [The effectiveness of different forms of citizenship education remains unclear, and the review evaluates effects in relation to the quality of the studies reviewed](citizenship-education-effectiveness-unclear-study-quality.md) — related

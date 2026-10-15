@@ -49,3 +49,4 @@ Qualitative synthesis of collaborative small focus groups with approximately 70 
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
 - [Guided Notes Improve Note Accuracy](guided-notes-improve-note-accuracy.md) — reports the opposite
 - [Students valued the independence, real-world relevance, hands-on work, and collaboration in challenge based lessons](students-valued-independence-and-real-world-relevance.md) — a narrower finding that bears on this claim
+- [Students rated real-world projects and discussions with structured or guiding questions as the most beneficial learner-to-content strategies](real-world-projects-structured-questions-top-content-strategies.md) — related

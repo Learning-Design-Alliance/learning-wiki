@@ -70,3 +70,5 @@ Multilevel meta-analysis of 223 studies published 1992–2018, modeling 747 corr
 - [Drop-out from adult language classes is slightly higher than from other courses, with anxiety and feelings of inadequacy a contributing reason](language-class-dropout-anxiety.md) — related
 - [Writing anxiety can constrain or paralyze adult writers, with recognizable signs](writing-anxiety-paralyzes-adult-writers.md) — related
 - [Guiding analytics for learners can improve mathematics achievement, retention, learning strategies, and reduce math anxiety](guiding-analytics-improves-achievement-and-strategies.md) — related
+- [The anxiety–achievement correlation varies across educational levels, target languages, and anxiety types](anxiety-achievement-moderators-levels-languages-anxiety-types.md) — related
+- [L2 anxiety is negatively correlated with L2 achievement, with a mean correlation of r = −.36 across 216 effect sizes](l2-anxiety-negative-correlation-achievement-meta-analysis.md) — a narrower finding that bears on this claim

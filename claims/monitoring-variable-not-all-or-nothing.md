@@ -47,3 +47,4 @@ The only test case of the pull-up hypothesis in Figure 4 is subject-verb agreeme
 - [Monitoring lowers accuracy for unlearnable rules: preposition usage was significantly less accurate in the more monitored style](monitoring-lowers-preposition-accuracy.md) — related
 - [Labov theorizes that communication can occur by simply saying the content words, especially in multilingual situations](content-words-suffice-for-communication.md) — related
 - [Social identity and power relations between speakers mediate when and whether older refugees communicate in English](social-identity-power-mediate-refugee-english-use.md) — related
+- [The three planning conditions produced different accuracy orders for regular and irregular past, questioning the stability of the natural order](condition-dependent-accuracy-orders-natural-order-unstable.md) — related

@@ -64,3 +64,4 @@ The review reports that Catrambone's series of studies 'consistently documented 
 
 - [Students who self-explain worked examples learn more effectively than those who do not, and the quality of self-explanations relates to explaining deep structure](self-explanation-effect-worked-examples.md) — the general claim this finding bears on, with the studies behind it
 -
+- [The cognitive architecture has been used to design a variety of novel instructional procedures](architecture-generated-novel-instructional-procedures.md) — a broader claim this one bears on

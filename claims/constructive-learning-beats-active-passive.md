@@ -114,3 +114,4 @@ Open questions include how much scaffolding converts a failing constructive atte
 - [Engagement mode is orthogonal to instructional task: any task can be engaged at any of the four modes](engagement-mode-orthogonal-to-instructional-task.md) — related
 - [The ICAP hypothesis predicts that learning increases as engagement moves from passive to active to constructive to interactive (I>C>A>P)](icap-hypothesis-learning-increases-i-cap.md) — possibly the same claim (merge candidate)
 - [Active participation in interaction matters for second language developmental outcomes](active-participation-in-interaction-drives-development.md) — a narrower finding that bears on this claim
+- [Adding prediction and discussion to lecture demonstrations significantly improves students' ability to explain the outcomes compared with merely observing](predict-discuss-demonstrations-improve-explanations.md) — a narrower finding that bears on this claim

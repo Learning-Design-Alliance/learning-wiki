@@ -49,3 +49,5 @@ Narrative synthesis of seven studies with longer retention intervals (24 hours t
 - [Interleaved practice provided near immunity against forgetting over a 30-fold increase in test delay](interleaved-practice-near-immunity-forgetting.md) — a narrower finding that bears on this claim
 - [Interleaving Improves Discrimination](interleaving-improves-discrimination.md) — related
 - [At a 1-day test delay, interleaved practice yields a moderate benefit over blocked practice (d = 0.42)](interleaved-benefit-one-day-delay-d042.md) — a narrower finding that bears on this claim
+- [Inserting trivia questions between interleaved exemplars impairs inductive learning when it disrupts juxtaposition of categories, with total spacing held constant](interrupting-juxtaposition-impairs-inductive-learning.md) — related
+- [Spacing and interleaving are subadditive: interleaving beats blocking only when presentation is contiguous, and spacing benefits blocked but not interleaved study](spacing-interleaving-subadditive-interaction.md) — related

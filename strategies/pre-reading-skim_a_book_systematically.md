@@ -58,9 +58,11 @@ Pre-reading works because it activates prior knowledge and establishes an advanc
 6. **If reading fully**: return to the book with the structural map in hand, using it as an [Advance Organizers](../elements/advance-organizers.md) scaffold for the detailed pass.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — pre-reading is a text-driven form of activation; the survey surfaces what the learner already knows about the topic
 - [SQ3R](sq3r.md) — the survey step of this classic study method is a systematic pre-read of a chapter or book
 - [Annotating](../principles/annotating.md) — recording skim findings on the contents page converts a transient survey into a persistent organizer
+- [Offer a structured advance organizer before the full article for readers who benefit from one](structured-advance-organizer-appendix-strategy.md)
 
 ## Related Elements
 - [Advance Organizers](../elements/advance-organizers.md) — the skim produces exactly the kind of introductory structure this element describes

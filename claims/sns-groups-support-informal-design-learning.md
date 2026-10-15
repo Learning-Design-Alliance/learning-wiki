@@ -49,3 +49,6 @@ Naturalistic observation of five student-created Facebook groups in an HCI desig
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related
 - [Social network site participation enables design learning that breaks the confines of space and time, including pre-enrollment learning and asynchronous ethical discussion](sns-learning-unbounded-space-time.md) — a narrower finding that bears on this claim
 - [Students transition between student and proto-professional roles in informal SNS discourse, bridging learning and design practice](student-proto-professional-role-transition.md) — related
+- [Facebook use in higher education is associated with increased teacher-student and student-student interaction](facebook-increases-teacher-student-student-student-interaction.md) — a broader claim this one bears on
+- [First-year students used Facebook mainly for social purposes and only secondarily for informal student-to-student academic purposes, rarely for formal teaching.](facebook-social-not-formal-teaching.md) — related
+- [Students were generally opposed to tutors contacting them via Facebook for formal teaching, though a majority saw some role for departmental and module-level administrative uses.](student-opposition-tutor-facebook-contact.md) — related

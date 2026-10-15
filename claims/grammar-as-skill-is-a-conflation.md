@@ -47,3 +47,4 @@ Theoretical argument in section III. The author critiques the declarative-to-pro
 - [All student groups preferred explicit over implicit grammar instruction](efl-students-prefer-explicit-over-implicit-grammar-instruction.md) — related
 - [Explicit grammar teaching outperforms implicit teaching; one review found the advantage only for complex rules, but a meta-analysis found it for simple rules too](explicit-teaching-complex-rules-only-advantage.md) — related
 - [Grammatical skill is not the focus of Second Language Acquisition, per the study's synthesis of SLA theories and methods](grammar-not-focus-of-sla-synthesis.md) — related
+- [Learners' sensitivity to frequency has implications for theories of implicit and explicit learning and their interactions](frequency-sensitivity-implications-implicit-explicit-learning.md) — related

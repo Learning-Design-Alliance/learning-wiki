@@ -70,3 +70,4 @@ A district-level example described in the report's restorative practices section
 - [Schools implementing restorative justice report decreases in exclusionary discipline such as suspensions and expulsions](rj-implementation-associated-with-lower-exclusionary-discipline.md) — possibly the same claim (merge candidate)
 - [Experts report reduced suspensions and expulsions and improved school climate as RJ implementation successes](rj-successes-reduced-suspensions-improved-climate.md) — related
 - [SEL programs cannot produce meaningful long-term growth in authoritarian, punitive, or exclusionary environments; restorative practices are needed](sel-requires-educative-inclusive-environments.md) — related
+- [School exclusionary policies paradoxically worsen dropout, delinquency, and achievement](school-exclusion-paradox-worse-outcomes.md) — related

@@ -57,9 +57,11 @@ Peer Instruction operationalizes the finding that interactive engagement outperf
 5. Repeat with 2–4 questions per class session, keeping each cycle under ten minutes.
 
 ## Related Strategies
+
 - [Think-Pair-Share](../patterns/think-pair-share.md) — the same individual-then-discuss structure without the voting and revote mechanism
 - [Just-in-Time Teaching](../strategies/just-in-time-teaching.md) — supplies the pre-class preparation and question targeting that Peer Instruction depends on
 - [Clicker Questions](../strategies/clicker-questions.md) — the polling infrastructure that enforces individual commitment before discussion
+- [Peer Instruction structured questioning sequence: individual answers, convince-your-neighbors discussion, revote, and instructor feedback](peer-instruction-questioning-sequence.md)
 
 ## Examples
 - **[Peer Instruction Network / Mazur Group resources](https://blog.peerinstruction.net)** — Eric Mazur's original implementation in Harvard Physics 1, replacing most lecture with ConcepTests; documented in *Peer Instruction: A User's Manual* (1997).

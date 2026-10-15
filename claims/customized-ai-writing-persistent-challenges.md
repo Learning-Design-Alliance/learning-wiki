@@ -54,3 +54,4 @@ Systematic review synthesis of challenges across the 23 studies (RQ4, Fig. 7), i
 - [The most frequent limitation of AI in instructional design is content reliability and transparency (16 of 28 studies, 57.14%)](ai-id-limitation-content-reliability-transparency.md) — related
 - [AI use in training carries risks of uncritical acceptance and overreliance, including undetected conceptual errors and increased delegation of problem solving](ai-training-risks-uncritical-acceptance-overreliance.md) — related
 - [Transparency about AI involvement appeared to function as an instructional intervention, shifting student reflection from feedback quality toward authority, trust, and assessment legitimacy](transparency-pedagogical-intervention-assessment-reflection.md) — related
+- [Open issues for dynamic assessment include cost-effectiveness, training, reliability and validity, and generalization](da-open-issues-cost-training-reliability-validity.md) — related

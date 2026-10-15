@@ -25,6 +25,7 @@ The report's methods theme identifies the most common or growing approaches: Des
 ## Accounts
 <!-- How each source describes or uses the method -->
 - **Three methodological approaches organize cyberlearning methods work: design-based research, learning analytics, and multimodal analytics**: The report's methods theme identifies the most common or growing approaches: Design-Based Research, 'a methodology that rigorously explores which design features have the most potential to improve learning'; learning analytics, providing insights into the learning process often linked to formative assessment and ITS feedback; and multimodal analytics, 'the integration and analysis of multiple data sources (e.g., visual, audio, gestural, movement, eye gaze, heart rate, and/or other types)' to measure learning in new ways. (Center for Innovative Research in Cyberlearning (2020))
+- **The article defines design-based research and identifies its characteristics**: The article undertakes to define design-based research and identify its characteristics as a methodology for technology-enhanced learning environments. According to the abstract, the authors "define and identify characteristics of design-based research", establishing what counts as DBR and how it differs from other educational research approaches. This definitional work organizes the paper's subsequent treatment of DBR's importance, implementation principles, and challenges for TELE development. (Wang et al. (2005))
 
 ### Claims
 - [Design-based research was part of 22 funded projects, learning analytics part of 34, and multimodal analytics in roughly a dozen](../claims/research-methods-theme-project-counts.md) [+W]
@@ -34,8 +35,8 @@ The report's methods theme identifies the most common or growing approaches: Des
 
 ## Key Sources
 - Center for Innovative Research in Cyberlearning (2020). Ambitious mashups: Reflections on a decade of cyberlearning research. [Report]. Digital Promise. https://circlcenter.org/resources/reflections-report/
-
 <!-- merged 2026-10-10 from theories/cyberlearning-research-methods-three-approaches ("Three methodological approaches organize cyberlearning methods work: design-based research, learning analytics, and multimodal analytics"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Wang, F., & Hannafin, M. J. (2005). Design-based research and technology-enhanced learning environments. ETR&D, 53, 5–23. https://doi.org/10.1007/BF02504682
 
 # Three methodological approaches organize cyberlearning methods work: design-based research, learning analytics, and multimodal analytics
 

@@ -107,3 +107,5 @@ Open questions for future enrichment: whether parent-delivered and professional-
 - [Parent-implemented dialogic reading showed no statistically significant differences from a group story-time comparison on any language measure (Crain-Thoreson & Dale, 1999)](crain-thoreson-dale-1999-parent-led-null-effects.md) — a narrower finding that bears on this claim
 - Calculating average effect sizes in meta-analyses involves methodological issues that warrant dedicated examination in research on children and families. — a broader claim this one bears on
 - [ParentCorps improves parent involvement in early learning by teacher report but shows a smaller, non-significant effect by parent report](parentcorps-parent-involvement-rater-mixed.md) — related
+- [Intervention dosage moderates child language outcomes: brief interventions under 60 minutes show no significant effect](book-sharing-dosage-moderates-language-outcomes.md) — related
+- [Group-based delivery is associated with more improvement in child language than individually delivered interventions](book-sharing-group-delivery-better-than-individual.md) — related

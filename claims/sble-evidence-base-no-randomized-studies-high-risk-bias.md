@@ -52,3 +52,4 @@ In the Results section on risk of bias, the review reports "The risk of bias in 
 - [Common non-curricular policing strategies show no overall effects on measures of school crime or discipline](non-curricular-policing-no-overall-effects-crime-discipline.md) — related
 - [School-based law enforcement is not associated with statistically significant changes in students' perceptions of safety at school](school-based-law-enforcement-no-significant-change-perceptions-of-safety.md) — related
 - The evidence base on SBLE lacks randomized trials, though recent strong quasi-experiments indicate increasing rigor — possibly the same claim (merge candidate)
+- [The evidence base on COVID-19 learning is geographically skewed toward high-income countries and about half of studies carry serious or critical risk of bias, with no evidence of publication bias](covid-learning-evidence-quality-and-reach.md) — related

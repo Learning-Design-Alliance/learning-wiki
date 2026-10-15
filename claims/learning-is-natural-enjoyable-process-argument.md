@@ -53,3 +53,5 @@ Theoretical argument in the essay's 'Learning Is Fun' section. The author contra
 - [Cognitive apprenticeship students became more anxious about mathematics but reported gains in self-confidence, rapport, and enjoyment](cognitive-apprenticeship-attitude-anxiety-confidence-effects.md) — related
 - [Autonomy, meaningful purpose, and interest improve intrinsic motivation and deeper processing](interest-autonomy-purpose-boost-motivation.md) — related
 - [Student motivation, enjoyment, and engagement are higher in natural learning settings, including spillover to subsequent indoor lessons](nature-settings-boost-motivation-engagement.md) — a narrower finding that bears on this claim
+- [The review's purpose is to stimulate research on learner-generated drawing, with the framework intended to guide and organize future research efforts](drawing-review-purpose-stimulate-future-research.md) — related
+- [Early studies of the relationship between anxiety and achievement produced mixed and confusing results](early-anxiety-achievement-studies-mixed-results.md) — related

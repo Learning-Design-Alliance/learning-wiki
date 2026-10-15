@@ -63,3 +63,4 @@ Nonequivalent-groups pretest-posttest experiment with two intact freshman calcul
 - [Senior high school majors' background affects calculus conceptual understanding and self-efficacy, with no method-by-major interaction](majors-background-affects-outcomes.md) — related
 - [In one flipped calculus study, teaching method (peer-teaching versus conventional flipped classroom) and prior achievement level interact on self-efficacy](method-achievement-interaction-self-efficacy.md) — related
 - [Students exposed to AI-generated responses achieved higher performance in solving quadratic equations than those taught through conventional teaching methods](ai-generated-responses-higher-quadratic-achievement.md) — related
+- [A clinical interviewing study investigated students' understanding of elementary calculus through tasks on integration and limits](orton-clinical-interviews-elementary-calculus.md) — related

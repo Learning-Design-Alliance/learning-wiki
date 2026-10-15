@@ -71,3 +71,4 @@ Non-parametric confirmation of the overall pre/post gain in the same pilot. The 
 - [Students’ prompt self-efficacy increased significantly after the scaffolded GenAI course (t = 3.729, p < .001)](prompt-self-efficacy-significant-increase.md) — related
 - [An online PD program using unplugged explainable machine-learning activities increased K–12 educators' AI self-efficacy from below-moderate to above-moderate levels](unplugged-ml-pd-raises-teacher-ai-self-efficacy.md) — related
 - [A professional development masterclass produces a 24% overall improvement in educators' AI utilization competence with large effect sizes](pd-masterclass-24-percent-ai-competence-gain.md) — related
+- [The article is situated within research on self-regulated learning strategies in educational contexts](self-regulated-learning-strategies-educational-contexts-veenman-2006.md) — related

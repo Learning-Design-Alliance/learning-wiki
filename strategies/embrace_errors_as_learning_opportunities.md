@@ -81,12 +81,14 @@ Errors generate learning when they are *explained*, not merely committed: the be
 - [A wrong response preceding a help request is associated with a higher predicted probability of a correct end-of-unit response than the request alone](../claims/wrong-then-request-joint-effect-higher.md) [+W]
 
 ## Related Strategies
+
 - [Productive Failure](productive-failure.md) — a structured sequence in which error-generating attempts precede instruction
 - [Growth Mindset Framing](growth-mindset-framing.md) — the belief system this strategy enacts in daily classroom moves
 - [Normalizing Struggle](normalizing-struggle.md) — sibling strategy focused on task difficulty rather than errors
 - [Formative Assessment](../patterns/formative-assessment.md) — error analysis is a formative use of student response data
 - [Case-Based Learning](../patterns/case-based-learning.md) — analyzing flawed reasoning in context parallels case discussion
 - [Misconception-aware contrastive remediation videos triggered by incorrect quiz answers](misconception-aware-contrastive-remediation-videos.md)
+- [Draw on diagnosed errors and misconceptions to inform the teaching of integration and limits](teach-integration-limits-from-diagnosed-misconceptions.md)
 
 ## Examples
 - **Youcubed (Stanford)** — Jo Boaler's [mathematical mindset lessons](https://www.youcubed.org) include activities built around discussing mistakes and the brain science of error-based learning.

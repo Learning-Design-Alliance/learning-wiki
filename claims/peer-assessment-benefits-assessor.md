@@ -91,3 +91,4 @@ The claim also sits within the wider evidence base on [collaborative learning im
 - [Review reports that collaborative feedback tasks promoted noticing and peer dialogs enhanced meta-cognitive processing in a university ESL writing class (Riddiford)](cfts-promoted-noticing-peer-dialogs-metacognition.md) — related
 - [Imbalanced challenge and support causes novice library learners to give up or remain dependent (authors' asserted relationship)](challenge-support-imbalance-effects-novice-learners.md) — related
 - [Students are typically passive users of assessment rubrics in authentic assessment designs](aa-students-passive-users-of-rubrics.md) — related
+- [Giving students feedback about their grading bias increased their subsequent grading accuracy](grading-bias-feedback-increases-accuracy.md) — related

@@ -47,3 +47,4 @@ This is the article's theoretical argument, made in the abstract: minimally guid
 - [Minimally guided instruction is less effective and less efficient than instruction that places a strong emphasis on guidance of the student learning process](minimally-guided-instruction-less-effective-than-strong-guidance.md) — possibly the same claim (merge candidate)
 - [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — related
 - [Guided play outperforms direct instruction or free play on a few early-childhood outcomes, with no reliable difference on most others, in one meta-analysis](play-based-learning-improves-outcomes.md) — related
+- [The cognitive architecture has been used to design a variety of novel instructional procedures](architecture-generated-novel-instructional-procedures.md) — related

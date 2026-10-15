@@ -111,3 +111,4 @@ An open question is how much of the benefit comes from the discussion itself ver
 - [Dialogue evidence shows coach feedback induces genuine conceptual change, shifting the agent from misconception to conceptually correct explanation rather than superficial answer alignment](dialogue-feedback-induces-conceptual-change.md) — related
 - [Large group size (4-5 members) limited individual participation and may have inflated self-assessed confidence](large-group-size-limited-participation-confidence.md) — related
 - [In individual dialogue patterns, the dominant speaker learns more than the listening partner, potentially explaining null collaboration findings](individual-dialogue-dominant-speaker-learns-more.md) — related
+- [Most instructors using Peer Instruction at other institutions report success, with student conceptual understanding at the level of interactive-engagement courses](pi-instructor-survey-success-other-institutions.md) — related

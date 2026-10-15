@@ -49,3 +49,4 @@ Rhetorical analysis of six papers with comments and replies in this context, inc
 - [Constructivist responses to Objectivist criticism have redirected rather than addressed the specific questions raised](constructivist-responses-redirect-objectivist-criticisms.md) — related
 - [Weinstein argues critical thinking needs a disciplinary perspective incorporating substantive methodological criteria from within disciplines](disciplinary-perspective-critical-thinking.md) — related
 - [In the constitutive knowledge/regulative community context, critique targets interpretive appropriateness rather than execution](interpretive-appropriateness-context-critique.md) — related
+- [Research on distance and online learning has methodological issues that need to be addressed](methodological-issues-distance-education-research.md) — related

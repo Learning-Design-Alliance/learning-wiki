@@ -46,3 +46,4 @@ Analysis of two targeted registration reminder campaigns sent during AY2018-19 t
 - [Chatbot campaigns shifted over time from targeted nudges toward general informational campaigns, driven by student needs and the burden of cross-office data sharing](chatbot-campaign-evolution-toward-general.md) — related
 - [Targeted Early Start campaign reminders increased Early Start program enrollment by 11 and 20 percentage points after successive texts](early-start-campaign-enrollment-effect.md) — related
 - [Academic chatbot outreach increased the likelihood students earned an A or B by four percentage points across two large online undergraduate courses](chatbot-outreach-increases-ab-grades.md) — related
+- [Educational outreach (for prescribing) and reminders are promising approaches to changing professional behavior](educational-outreach-and-reminders-promising.md) — related

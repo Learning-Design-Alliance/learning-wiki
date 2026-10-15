@@ -45,3 +45,4 @@ Pre-post student surveys in Vista (Figure 5) and a parallel significant decline 
 ## Related Claims
 - [Achieve3000 usage predicted about 3.5 percent of current Lexile scores after controlling for pre-test Lexile, motivation, and age](achieve3000-usage-predicts-lexile-regression.md) — related
 - [Under the life-science curriculum, MPEX attitudes showed no meaningful change in five of six clusters, avoiding the reality-link decline seen in previous semesters, while the effort cluster declined significantly](mpex-attitudes-stable-reality-link.md) — related
+- [Student attitudes showed little change over a Peer Instruction semester, and course satisfaction dropped in the algebra-based course despite high learning gains](pi-student-attitudes-little-change.md) — related

@@ -73,3 +73,4 @@ Webb et al. (2023) qualify this claim at the level of studies: across second-lan
 - [Reading and listening yield similar proportions of incidental vocabulary learning, with reading ahead only on some immediate posttests](reading-versus-listening-incidental-vocabulary-gains.md) — related
 - [Mastery of incidental vocabulary learning strategies positively predicts L2 incidental vocabulary acquisition through reading](strategy-mastery-predicts-incidental-vocabulary-acquisition.md) — related
 - [Teacher ratings predicted reading achievement better than common language proficiency tests (41% vs 0-4% additional variance)](teacher-ratings-outpredict-language-tests.md) — related
+- [Learners' vocabulary size is significantly and positively related to both L2 video comprehension and incidental vocabulary learning](vocabulary-size-predicts-comprehension-and-gains.md) — related

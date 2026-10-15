@@ -44,3 +44,4 @@ Theoretical argument in the introduction (type e): the authors list limitations 
 
 ## Related Claims
 - [Within prompt–response AI interfaces, students without guidance rarely move beyond prompt tuning, yielding interactions of limited educational value and increased reliance on outputs](prompt-response-interface-limits-learning-value.md) — related
+- [Pedagogical challenges inherent in distance and online learning must be considered in instructional design and software development](pedagogical-challenges-distance-learning-design-software.md) — related

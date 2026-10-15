@@ -51,3 +51,5 @@ The dissertation reports, citing a large-scale log analysis of 6.9 million MOOC 
 - [Guo et al. found engagement depends on video production style: short videos, talking heads on slides, Khan-style drawing more engaging than slides or coding, classroom recording weak online](guo-video-style-engagement-findings.md) — related
 - [A review of music education asserts that MOOC completion is typically under 10% and that embodied musical learning resists short video lectures and self-graded quizzes](moocs-low-completion-embodied-music-learning.md) — related
 - [Viewing of the personalized AI video library declined sharply across the quarter, with fewer than 10% of the course population watching voluntarily by week 9](video-views-declined-across-quarter.md) — related
+- [No dose-response effect: video benefits do not systematically increase with intervention length](no-dose-response-video-duration.md) — related
+- [Median student engagement with MOOC videos falls sharply as video length increases beyond 6 minutes](video-length-mooc-engagement-declines.md) — possibly the same claim (merge candidate)

@@ -68,3 +68,4 @@ An independent replication with three conditions (unguided problem solving, guid
 
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Providing both a simple and a complex example facilitates transfer better than a single example or an example plus procedures](multiple-examples-per-problem-type.md) — related
+- [Productive failure students significantly outperformed lecture-practice and facilitated complex problem solving students on well-structured and higher-order application post-test problems](pf-outperformed-lp-fcps-post-test-problems.md) — related

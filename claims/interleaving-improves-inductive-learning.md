@@ -150,3 +150,4 @@ Multilevel random-effects meta-analysis of 59 studies (238 effect sizes, 158 sam
 - [Structure-emphasizing example sets, using varied cover stories across problem types, lead students to categorize problems by structure rather than surface features](structure-emphasizing-cover-stories-categorization.md) — related
 - [Evidence on working memory capacity as a moderator of the interleaving effect is mixed, but WM does not appear to be a major barrier to classroom use](working-memory-mixed-moderator-interleaving.md) — related
 - [Learners Misjudge Spacing Benefits](learners-misjudge-spacing-benefits.md) — related
+- [Learners overwhelmingly judge blocking more effective than interleaving even when their test performance favors interleaving](metacognitive-illusion-blocking-interleaving.md) — related

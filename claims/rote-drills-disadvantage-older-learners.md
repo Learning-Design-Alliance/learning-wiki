@@ -47,3 +47,4 @@ In its classroom practices section, the digest states that oral drills and memor
 - [Redundant on-screen text impairs learning when it competes with a visualization, though written text duplicating narration alone can help](redundancy-principle.md) — related
 - [A disadvantaged-child program with heavy oral language emphasis led all compared programs in cognitive gains](oral-language-emphasis-program-led-cognitive-gains.md) — related
 - [No evidence found that particular student groups are disadvantaged in oral versus written assessments](no-group-disadvantage-oral-assessments.md) — related
+- [Older-arriving ESL learners transfer L1 knowledge efficiently, but learning slows once they outgrow their L1](l1-transfer-efficient-until-outgrown.md) — related

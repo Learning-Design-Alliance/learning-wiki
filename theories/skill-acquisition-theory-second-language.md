@@ -12,7 +12,7 @@ generated:
 # Skill acquisition theory in second language learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 16 claims (10 for, 4 mixed, 2 against) · 10 studies (4 review, 3 theoretical, 2 causal, 1 design), `q1`–`q3` · 1 of 10 report an effect size · 16 claims rest on one study
+> **Evidence** · 18 claims (12 for, 4 mixed, 2 against) · 11 studies (4 review, 3 causal, 3 theoretical, 1 design), `q1`–`q3` · 1 of 11 report an effect size · 18 claims rest on one study
 
 <!-- Hub page (2026-09-30). The Description is compiled from the fetched articles that discuss this theory: eric-ej912917, eric-ej1488626, eric-ej1344843, eric-ej1412014, eric-ej912912, eric-ej1066572, eric-ed604148, eric-ed296585. The primary works in Key Sources were verified against Crossref but not read. -->
 
@@ -59,6 +59,8 @@ The articles do not agree. VanPatten (eric-ej912912) argues that applying skill 
 - [Learners acquired untaught syntactic properties but failed to show sensitivity to agreement they had been explicitly taught and practiced](../claims/untaught-syntax-acquired-taught-agreement-not.md) [-M]
 - [AI-powered corrective feedback and repeated practice enhance oral language skills (Communicative Capacity Pathway)](../claims/ai-improves-speaking-proficiency-feedback-practice.md) [~W]
 - [High-explicitness rule-oriented instruction outperforms implicit instruction or no instruction](../claims/rule-oriented-explicit-outperforms-implicit.md) [+W]
+- [Automatized L2 morphosyntactic skills develop very gradually over time, following a power function learning curve like other cognitive skills](../claims/l2-skill-development-power-function-curve.md) [+W] — attached 2026-10-15 from Robert M. DeKeyser (1997), which proposed "Skill acquisition theory accounts for L2 morphosyntactic automatization"; tests this page's relationship.
+- [Learning of second language morphosyntactic rules is highly skill-specific: comprehension practice yields comprehension skill and production practice yields production skill](../claims/l2-morphosyntax-learning-highly-skill-specific.md) [+W] — attached 2026-10-15 from Robert M. DeKeyser (1997), which proposed "Skill acquisition theory accounts for L2 morphosyntactic automatization".
 
 ## Related Theories
 
@@ -76,8 +78,10 @@ The articles do not agree. VanPatten (eric-ej912912) argues that applying skill 
 - [Skill acquisition theory account of written CF effects: declarative knowledge proceduralized into implicit knowledge through repeated practice](skill-acquisition-theory-cf-account.md)
 
 ## Examples
+
 - [Spectrum of systematic practice types from communicative drills to role plays, task-based and content-based teaching](../elements/drill-practice.md)
 - [Supplement task-based language teaching with grammar instruction and use communicative drills for automatization](../strategies/supplement-tblt-with-grammar-instruction-communicative-drills.md)
+- [Teach rules to metalinguistic criterion first, then schedule systematic comprehension and production practice](../strategies/criterion-then-systematic-practice-strategy.md)
 
 ## Key Sources
 - Anderson, J. R. (1983). *The architecture of cognition*. Harvard University Press.

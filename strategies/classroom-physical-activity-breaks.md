@@ -79,9 +79,11 @@ Brief in-class movement is associated with small improvements in on-task behavio
 7. Monitor on-task behavior and focus after breaks and adjust frequency and type accordingly.
 
 ## Related Strategies
+
 - [Active Transitions](active-transitions.md) — embeds movement into the transition itself rather than pausing instruction for it
 - [Active Recess](active-recess.md) — the longer-form, outdoor counterpart; breaks fill the gaps recess cannot
 - [Check-Ins](../principles/check-ins.md) — pair with calming breaks to surface emotional state before demanding work
+- [Use a multiple-baseline across-classrooms observation routine to monitor on-task behavior around classroom activity breaks](multiple-baseline-ontask-observation-strategy.md)
 
 ## Examples
 - **GoNoodle** (https://www.gonoodle.com) — free video-led movement and mindfulness breaks widely used in K–5 classrooms; students follow short guided activities on a classroom display.

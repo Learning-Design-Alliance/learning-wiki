@@ -47,3 +47,4 @@ Evidence cited from Cummins (1981b) on immigrant students in Canada, used to arg
 - [Assuming conversational fluency indicates English proficiency has led to bilingual children being misdiagnosed as learning disabled or retarded and to premature exit from support programs](conversational-fluency-misleading-proficiency-indicator.md) — related
 - [The BICS-before-CALP sequence is typical for immigrant children but not universal: high L2 CALP can precede fluent L2 BICS in certain situations](calp-can-precede-bics-in-certain-situations.md) — related
 - [BICS and CALP intersect developmentally but are not identical or reducible one to the other](bics-calp-intersect-not-identical.md) — related
+- [Small-scale studies suggest age 15-16 with intermediate English proficiency (reading GE 5) is a good immigration age](arrival-age-15-16-ge5-good-immigration-age.md) — related

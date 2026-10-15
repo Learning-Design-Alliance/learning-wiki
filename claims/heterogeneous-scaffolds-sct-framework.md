@@ -47,3 +47,5 @@ The authors' sociocultural-theoretical interpretation of their quasi-experimenta
 - [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — related
 - [Scaffolding improves learning](scaffolding-improves-learning.md) — related
 - [Human tutoring has a medium effect over no tutoring, and in one small study students learned as well when tutors only prompted them as when tutors also explained and gave feedback](tutoring-effectiveness-comes-from-scaffolding-and-feedback.md) — related
+- [Substantial existing research addresses the effectiveness of many types and formats of peer tutoring in colleges and universities](peer-tutoring-effectiveness-research-base.md) — related
+- [Peer tutoring has theoretical advantages as a teaching and learning method in higher education](peer-tutoring-theoretical-advantages.md) — related

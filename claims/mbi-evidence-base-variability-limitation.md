@@ -58,3 +58,4 @@ Narrative review statement in the brief's universal supports section. It notes t
 - [Implementation of co-regulation strategies was shaped by classroom context, facilitator experience and mindset, and varied in ease across strategies](co-regulation-implementation-factors-context-experience-strategy-ease.md) — related
 - [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) — related
 - Drawing promising practices from program evaluations and extant character-development studies is challenging — a broader claim this one bears on
+- [Across all RCTs, mindfulness-based interventions significantly improve mindfulness, executive functioning, attention, depression, anxiety/stress and negative behaviours in youth, with small effect sizes](mbis-small-positive-effects-all-rcts-youth.md) — related

@@ -31,7 +31,7 @@ sources:
 # Active Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 34 claims (16 for, 17 mixed, 1 against) · 32 studies (8 causal, 6 associational, 5 quant-synthesis, 5 review, 4 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 5 of 32 report an effect size · 27 claims rest on one study
+> **Evidence** · 36 claims (17 for, 18 mixed, 1 against) · 34 studies (9 causal, 6 quant-synthesis, 6 associational, 5 review, 4 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 6 of 34 report an effect size · 29 claims rest on one study
 
 ## Conditional relationship
 
@@ -112,6 +112,8 @@ Claims this page cited before it was rewritten as a conditional model, and two n
 - [Mead holds that a method of thought cannot be transferred but must be gained through the learner's own abstractions](../claims/method-of-thought-cannot-be-transferred.md) [+W]
 - [Mead holds that the process of acquiring changes the thing acquired, making change of subject matter the rule](../claims/acquiring-changes-the-thing-acquired.md) [+W]
 - [Applications to the summer school increased up to double the available positions, which the authors attribute to its active and cooperative learning](../claims/pigelleto-applications-doubled-positions.md) [+W]
+- [Switching introductory physics lectures from traditional instruction to Peer Instruction dramatically increased average FCI posttest scores and normalized gain at Harvard](../claims/fci-gain-increased-peer-instruction-harvard.md) [+W] — attached 2026-10-15 from Crouch et al. (2003), which proposed "Align every course element with active engagement, since gains are greatest when the questioning strategy is accompanied by other engagement strategies"; tests this page's relationship.
+- [Video benefits learning only when its interactivity matches or exceeds the comparison condition](../claims/video-benefit-depends-on-relative-interactivity.md) [~W] — attached 2026-10-15 from Noetel et al. (2021), which proposed "Maintain or increase interactivity when moving teaching content to video".
 
 ## Objective and learner-valued goal
 

@@ -47,3 +47,4 @@ MPEX-II survey administered in Fall 2008 to about 600 students in two CLASP A co
 - [Enrollment in the reformed physics sequence rose 61% year-over-year, though the article treats alternative explanations as equally possible](enrollment-increase-after-reform.md) — related
 - [MPEX profiles were similar across both years, indicating the pedagogy and class structure remained consistent when technology was added](mpex-consistent-pedagogy-across-tech-years.md) — related
 - [Full structural similarity of motivational profiles across time was not supported, indicating profile indicator means changed over the curriculum year](structural-similarity-unsupported-ai-motivation-profiles.md) — related
+- [Student attitudes showed little change over a Peer Instruction semester, and course satisfaction dropped in the algebra-based course despite high learning gains](pi-student-attitudes-little-change.md) — related

@@ -50,3 +50,4 @@ The article reports, citing Doshi and Hauser, that generative AI assistance "sig
 - [Practitioners hold near-universal commitments to human oversight and critical evaluation of AI outputs](practitioner-oversight-governance-norms.md) — related
 - [LLM access boosts individual story creativity while significantly homogenising output across writers (review attribution)](llm-access-homogenises-creative-output.md) — possibly the same claim (merge candidate)
 - [AI assistance raises individual creative self-assessments but reduces collective diversity of novel content (reviewed finding)](ai-creativity-individual-gain-collective-diversity-loss.md) — possibly the same claim (merge candidate)
+- [GenAI-enabled stories are more similar to the GenAI ideas and to other stories in their condition, reducing collective diversity of novel content](genai-stories-more-similar-reduced-diversity.md) — a narrower finding that bears on this claim

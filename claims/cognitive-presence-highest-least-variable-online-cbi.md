@@ -52,3 +52,4 @@ Descriptive statistics (means and SDs) from the study's survey of 47 graduate st
 - [Self-regulation and co-regulation are significantly and highly correlated in an online case-based course](self-co-regulation-highly-correlated-online-cbi.md) — related
 - [Faculty members rate equality, inclusiveness, and justice highest and institutional support lowest, with adequacy of institutional guidelines the lowest-rated item](faculty-survey-ethical-ai-profile-institutional-support-lowest.md) — related
 - [GAI is rated highly effective for supporting cognitive presence by 85.71% of surveyed marketing educators](gai-rated-highly-effective-cognitive-presence.md) — related
+- [In an online course, student performance can be examined in relationship to measures of student interaction and sense of presence using multiple independent and dependent variables.](online-performance-related-to-interaction-and-presence.md) — related

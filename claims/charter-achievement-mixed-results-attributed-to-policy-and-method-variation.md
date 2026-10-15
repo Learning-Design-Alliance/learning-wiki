@@ -45,3 +45,4 @@ The publication's summary paragraph states, as background motivation, that "Prev
 ## Related Claims
 - The analysis estimates charter school achievement effects using a consistent methodology across seven locations — related
 - A methodological study tests whether four nonexperimental comparison group approaches can replicate experimental impact estimates from a random assignment evaluation of charter schools. — related
+- [Research on distance and online learning has methodological issues that need to be addressed](methodological-issues-distance-education-research.md) — related

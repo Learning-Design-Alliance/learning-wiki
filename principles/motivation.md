@@ -43,7 +43,7 @@ sources:
 # Motivation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 50 claims (29 for, 17 mixed, 4 against) · 56 studies (18 review, 12 causal, 7 quant-synthesis, 7 qualitative, 7 theoretical, 3 design, 2 associational), `q1`–`q4` · 6 of 56 report an effect size · 37 claims rest on one study
+> **Evidence** · 52 claims (31 for, 17 mixed, 4 against) · 57 studies (18 review, 13 causal, 7 quant-synthesis, 7 qualitative, 7 theoretical, 3 design, 2 associational), `q1`–`q4` · 6 of 57 report an effect size · 39 claims rest on one study
 
 ## Conditional relationship
 
@@ -170,6 +170,8 @@ None at present. Claims attached to this page after 2026-10-15 are listed here u
 - [Teachers treat resilience under challenge as a teachable skill that current routines and dashboards do little to support](../claims/resilience-teachable-skill-unsupported.md) [~W]
 - [A general chemistry utility-value and growth mindset intervention showed statistically significant positive outcomes overall but statistically nonsignificant outcomes for underrepresented students](../claims/usf-chemistry-mindset-utility-value-mixed-subgroup-effects.md) [~W]
 - [Turkish student teachers score higher on entity theory than incremental theory and on performance goal orientation than learning goal orientation](../claims/turkish-student-teachers-entity-performance-higher.md) [-W]
+- [First-year students' sense of belonging to their university predicts intentions to persist, controlling for background variables and other persistence predictors](../claims/sense-of-belonging-predicts-persistence-intentions.md) [+W] — attached 2026-10-15 from Hausmann et al. (2007), which proposed "College retention programs should address students' sense of belonging, since belonging predicts persistence intentions and can be bolstered by intervention".
+- [A belonging-enhancing intervention produced a smaller decline in sense of belonging over the first year than the control groups](../claims/belonging-intervention-smaller-decline.md) [+W] — attached 2026-10-15 from Hausmann et al. (2007), which proposed "College retention programs should address students' sense of belonging, since belonging predicts persistence intentions and can be bolstered by intervention"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

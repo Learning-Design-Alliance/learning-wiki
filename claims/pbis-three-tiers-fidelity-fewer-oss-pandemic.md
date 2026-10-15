@@ -64,3 +64,4 @@ Authors' interpretation in the Discussion, not a separately tested contrast: the
 - [Students in MTSS-coached schools had significantly fewer days absent in both implementation years](mtss-coaching-fewer-days-absent.md) — related
 - [Students in MTSS-coached schools were significantly less likely to have at least one behavior incident](mtss-coaching-lower-likelihood-behavior-incident.md) — related
 - [No significant differences in in-school suspensions or students with only one OSS emerged across the four PBIS fidelity conditions during 2020–21](pbis-tier1-fidelity-no-effect-pandemic-disciplinary-exclusions.md) — related
+- [Schools implementing MTSS with higher fidelity show less absenteeism](mtss-fidelity-lower-absenteeism.md) — related

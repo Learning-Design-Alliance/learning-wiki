@@ -53,3 +53,4 @@ Thematic analysis of student post-surveys (n=79) and focus groups (n=18) in a qu
 - [Student perceptions of GenAI feedback functionalities diverged, with some finding them redundant when feedback was perceived as clear](divergent-perceptions-genai-feedback-redundancy.md) — related
 - [GPT-4 generated detailed per-response feedback that was useful for identifying scoring errors and could support personalized student feedback](gpt4-feedback-useful-for-error-identification.md) — related
 - [Middle school students engaged directly and positively with AI-generated rubric feedback, including conversing with the AI](students-engage-positively-with-ai-feedback.md) — related
+- [Rubrics with parallel sentence structure, unambiguous wording and well-specified dimensions have lower grading variance, and revising rubrics decreased median grading error from 12.4% to 9.9%](rubric-wording-lower-grading-variance.md) — related

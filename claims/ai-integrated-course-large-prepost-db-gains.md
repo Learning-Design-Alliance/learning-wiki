@@ -64,3 +64,4 @@ Effect-size analysis of the same pre/post gains in the 13-student course, follow
 ## Related Claims
 - [Per-question pre/post analysis showed significant improvement on almost all questions, with Q1 (DBMS use) and Q4 (basic normalization) as exceptions due to high pre-test scores](per-question-prepost-gains-five-of-seven.md) — a narrower finding that bears on this claim
 - [Paired pre/post AI readiness scores rose descriptively from 82.5% to 89.9% (mean gain 7.4 percentage points) among seven co-creation clients, treated as descriptive context only](paired-readiness-gain-descriptive-n7.md) — related
+- [College students' scores on an online source credibility assessment improved significantly after four course-embedded modules in an asynchronous nutrition course](course-embedded-modules-improve-credibility-scores.md) — related

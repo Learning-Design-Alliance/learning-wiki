@@ -51,3 +51,4 @@ Moderator analysis of pictorial components: without images (g = 0.45) or animati
 - [Verbal redundancy (spoken–written presentation) yields a small overall learning benefit with large between-study heterogeneity](verbal-redundancy-small-overall-effect.md) — a broader claim this one bears on
 - [Abstract and concrete animation representations do not differ significantly in middle school students' electricity achievement under any of the five text-representation conditions](abstract-concrete-representation-no-difference.md) — related
 - [Spoken text modality does not significantly differ from signaled written text modality, or from signaled written plus spoken text, for either abstract or concrete animation](spoken-versus-signaled-written-null.md) — related
+- [The animation advantage is largest when instruction includes no accompanying text](animation-advantage-largest-without-accompanying-text.md) — related

@@ -48,3 +48,4 @@ Table 3 shows both college groups (n=38 control, n=42 experimental) scored a con
 - [Interactionally adjusted and premodified input yield statistically comparable comprehension overall, with negotiation benefiting lower-ability learners](negotiation-benefit-limited-lower-ability-learners.md) — related
 - [In college groups, no correlation was found between frequency of negotiation of meaning and vocabulary score](college-no-negotiation-vocabulary-correlation.md) — related
 - [In high school groups, frequency of negotiation of meaning correlates positively with vocabulary score (r = 0.761) and with comprehensible input (r = 0.310)](negotiation-frequency-correlates-vocabulary-high-school.md) — related
+- [Negotiated interaction yields higher moment-to-moment comprehension of L2 input than either noninteraction condition, which do not differ from each other](negotiated-interaction-highest-momentary-comprehension.md) — related

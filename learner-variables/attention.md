@@ -12,7 +12,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 43 claims (35 for, 5 mixed, 3 against) · 46 studies (15 causal, 8 quant-synthesis, 8 review, 6 design, 4 qualitative, 3 associational, 2 theoretical), `q1`–`q4` · 10 of 46 report an effect size · 39 claims rest on one study
+> **Evidence** · 50 claims (39 for, 6 mixed, 5 against) · 52 studies (15 causal, 11 review, 10 quant-synthesis, 6 design, 4 associational, 4 qualitative, 2 theoretical), `q1`–`q4` · 11 of 52 report an effect size · 45 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -76,6 +76,13 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [The agentic cursor evoked feelings of surveillance, judgment and eeriness, and its anticipation effects distracted writers](../claims/agentic-cursor-evokes-surveillance-and-eeriness.md) [+M] — instruction changes it
 - [Participant attention gravitated towards the agent embodying the intuitive-error hazard, exceeding the uniform baseline](../claims/attention-gravitates-to-legible-intuitive-error.md) [+M] — instruction changes it
 - [Providing elaborate explanations and summary interactives instead of just scores increases students' perceptions of engagement and understanding and reduces mind wandering](../claims/elaborate-feedback-raises-engagement-perceptions.md) [+M] — instruction changes it
+- [Across all RCTs, mindfulness-based interventions significantly improve mindfulness, executive functioning, attention, depression, anxiety/stress and negative behaviours in youth, with small effect sizes](../claims/mbis-small-positive-effects-all-rcts-youth.md) [+M] — instruction changes it
+- [Age significantly moderates MBI effects on executive functions across all RCTs (larger benefits with older age) and on negative behaviour in active-control RCTs (larger benefits with younger age)](../claims/age-moderates-mbi-outcomes.md) [~W] — an instructional effect differs with it
+- [CCT shows no significant effects on executive functions or attention in healthy older adults](../claims/cct-no-effect-executive-attention.md) [-M] — instruction changes it
+- [Children with language or attention disorders and second-language learners are more impaired by noise in speech perception than age-matched controls](../claims/vulnerable-children-more-noise-impaired-speech-perception.md) [+M] — learners who differ on it differ in outcomes
+- [Having older classmates boosts a child’s test scores but increases the probability of grade repetition and diagnoses of learning disabilities such as ADHD](../claims/older-classmates-boost-scores-increase-repetition-and-disability-diagnoses.md) [+M] — instruction changes it
+- [Questions interpolated between video lecture segments improve subsequent test performance and reduce mind wandering](../claims/interpolated-questions-improve-video-learning.md) [+W] — instruction changes it
+- [When only RCTs with active control groups are analysed, MBI benefits are restricted to Mindfulness (d = .42), Depression (d = .47) and Anxiety/Stress (d = .18)](../claims/active-control-rcts-benefits-restricted.md) [-M] — instruction changes it
 
 ## Related Learner Variables
 - Working memory — the adjacent bottleneck, and the one this is most often confused with.

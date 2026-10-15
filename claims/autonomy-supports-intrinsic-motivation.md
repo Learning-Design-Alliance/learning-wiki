@@ -160,3 +160,4 @@ There is also a cultural dimension: in high-power-distance educational contexts,
 - [The relationship between effort and meaning follows an inverted U-shape: moderate friction enhances meaning and motivation while excessive friction overwhelms](effort-meaning-inverted-u-shape.md) — related
 - [Concrete progress indicators and visible improvement in writing motivated students' revision engagement](ai-feedback-progress-motivates-revision.md) — a narrower finding that bears on this claim
 - [GenAI can support learner agency through self-regulated learning, self-efficacy, and feedback literacy under appropriate conditions](genai-agency-supportive-patterns.md) — a narrower finding that bears on this claim
+- [Student engagement in online courses is associated with satisfaction, motivation, reduced isolation, and improved performance](engagement-benefits-satisfaction-motivation-isolation-performance.md) — related

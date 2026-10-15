@@ -49,3 +49,4 @@ Mixed-methods analysis of coaches' retrospective TDF survey and teacher/coach fo
 - [Daily teaching demands competed with and distracted from a sustained developmental focus on instructional improvement](daily-demands-compete-with-developmental-focus.md) — possibly the same claim (merge candidate)
 - [Districts prioritize the Science of Reading but implementation varies due to competing initiatives and inconsistent EL support](sor-priority-uneven-implementation-genai-context.md) — related
 - [Teachers reported pacing demands, student struggles with rigor, and technology impediments as factors hindering ERWC implementation](erwc-implementation-hindering-factors-qualitative.md) — related
+- [Implementation of school mindfulness programs is facilitated by collegial teaching, administrative and parental support, and children's enthusiasm, and hindered by lack of time and disengaged students](mindfulness-implementation-facilitators-barriers.md) — related

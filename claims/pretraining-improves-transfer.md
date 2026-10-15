@@ -108,3 +108,4 @@ Second-hand attribution: the article reports that Gegner et al. (2009) found pre
 - [Transfer from instructional media is empirically possible but its probability under heavy real-world exposure remains unestablished](media-transfer-possible-but-probability-unestablished.md) — related
 - [CLT-aligned e-learning modules improved cognitive load profiles and OSCE performance in simulation-based medical training (review-attributed to Gutierrez et al., 2023)](clt-aligned-e-learning-modules-improve-osce-performance.md) — related
 - [In one qualitative interview study, science teachers report that AI tools let students experience risky or inaccessible phenomena and practise virtually before real lab work](ai-enables-authentic-contextualized-science-experiences.md) — related
+- [Four interrelated components are essential in blueprints for complex learning](four-components-essential-complex-learning-blueprints.md) — related

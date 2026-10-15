@@ -52,3 +52,5 @@ The digest reports, citing Little and Haley (1982), a study by the Social Scienc
 - [Effects on secondary behavioural outcomes (conduct problems, delinquency, substance use) are negligible or non-significant](secondary-behavioural-outcomes-negligible-nonsignificant.md) — reports the opposite
 - [Adolescent substance use is associated with low academic outcomes, delinquency, and risky sexual behaviors, per cited prior work](adolescent-substance-use-negative-consequences.md) — related
 - [Students reported improved school-work priorities, peer academic behavior, teacher connection and support, and school connectedness after two years](success-project-survey-climate-improvements.md) — related
+- [The effectiveness of different forms of citizenship education remains unclear, and the review evaluates effects in relation to the quality of the studies reviewed](citizenship-education-effectiveness-unclear-study-quality.md) — a broader claim this one bears on
+- [A formal curriculum that includes citizenship projects and courses also appears to be an effective type of citizenship education](formal-curriculum-citizenship-projects-courses-effective.md) — related
