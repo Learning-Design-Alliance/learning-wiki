@@ -14,7 +14,7 @@ sources:
     title: "Rohrer, D., Dedrick, R. F., & Stershic, S. (2015). Interleaved practice improves mathematics learning. Journal of Educational Psychology, 107(3), 900-908. https://doi.org/10.1037/edu0000001"
     author: "Rohrer, D., Dedrick, R. F., & Stershic, S."
     q: 3
-    i: 3
+    i: "?"
     kind: causal
     rigour: 2
 ---
@@ -22,10 +22,10 @@ sources:
 # Interleaved practice produces higher mathematics test scores than blocked practice in a classroom experiment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
-`q3 i3` Across both test delays, interleaved practice outperformed blocked practice on an unannounced test, with a statistically significant omnibus effect (η² = .165). [→ Rohrer 2015](#rohrer-2015)
+`q3 i?` Across both test delays, interleaved practice outperformed blocked practice on an unannounced test, with a statistically significant omnibus effect (η² = .165). [→ Rohrer 2015](#rohrer-2015)
 
 ## Evidence
 
@@ -33,7 +33,7 @@ sources:
 
 Rohrer, D., Dedrick, R. F., & Stershic, S. (2015). Interleaved practice improves mathematics learning. Journal of Educational Psychology, 107(3), 900-908. https://doi.org/10.1037/edu0000001
 
-`q3 · i3` · `causal · r2`
+`q3 · i? · only an omnibus partial eta squared (.165) is printed for this finding; no standardised mean difference` · `causal · r2`
 
 Classroom experiment with 126 seventh-graders practicing the same graph and slope problems for 3 months, arranged interleaved or blocked (counterbalanced within subject). The two-way ANOVA showed interleaving superior, with printed partial eta squared η² = .165 (large by the .14 threshold).
 

@@ -44,9 +44,9 @@ McKim, A. J., & Velez, J. J. (2016). An Evaluation of the Self-Efficacy Theory i
 
 `q2 · i?` · `review · r2`
 
-The review reports Wolf et al. (2010) found both written and verbal feedback from cooperating teachers positively correlated with student teachers' efficacy, and "verbal feedback, explained 10% of the variance in student teachers' general teachi ng efficacy." Being observed by another student teacher was not significant. No standardized effect size is printed.
+The review reports Wolf et al. (2010) found both written and verbal feedback from cooperating teachers positively correlated with student teachers' efficacy, and "verbal feedback, explained 10% of the variance in student teachers' general teaching efficacy." Being observed by another student teacher was not significant. No standardized effect size is printed.
 
-> "The strongest of these communicat ion types, verbal feedback, explained 10% of the variance in student teachers’ general teachi ng efficacy."
+> "The strongest of these communication types, verbal feedback, explained 10% of the variance in student teachers’ general teaching efficacy."
 
 ### McKim 2016 (2)
 

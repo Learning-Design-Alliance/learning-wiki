@@ -22,7 +22,7 @@ sources:
 # An adaptive mastery testing strategy reduces test length by 30% to 81% while reaching the same mastery decision as the conventional test for 96% of trainees
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · design `r?` · `q2` · `i2` medium
+> **Evidence** · 1 study · design `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Compared with a conventional mastery test in real-data simulation, the adaptive mastery testing strategy reduced average test length from 30% to 81% with modal reductions up to 92%, agreeing with the conventional decision for 96% of trainees. [→ Weiss 1980](#weiss-1980)

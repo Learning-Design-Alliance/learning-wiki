@@ -1,6 +1,6 @@
 ---
 type: claim
-title: World History Project students show comparable competency to comparison students in the other five historical thinking skills
+title: An evaluation of the World History Project detected no statistically significant difference from comparison students in the other five historical thinking skills
 description: World History Project students show comparable competency to comparison students in the other five historical thinking skills
 id: whp-comparable-other-five-skills
 status: draft
@@ -19,10 +19,11 @@ sources:
     rigour: 1
 ---
 
-# World History Project students show comparable competency to comparison students in the other five historical thinking skills
+# An evaluation of the World History Project detected no statistically significant difference from comparison students in the other five historical thinking skills
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+<!-- title before 2026-10-15: World History Project students show comparable competency to comparison students in the other five historical thinking skills -->
 
 ## Subclaims
 `q3 i?` No notable impacts were detected for historical argumentation, causation, comparison, contextualization, or sourcing outcomes; argumentation and overall summative differences were notable but not statistically significant. [→ Iwatani 2023](#iwatani-2023)

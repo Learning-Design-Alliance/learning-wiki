@@ -15,7 +15,7 @@ sources:
     title: "Benner, G. J., Beaudoin, K. M., Chen, P.-Y., Davis, C., & Ralston, N. (2008). The Impact of Intensive Positive Behavioral Supports on the Behavioral Functioning of Students with Emotional Disturbance: How Much Does Fidelity Matter? JBAIC, Volume 1, No. 1. https://eric.ed.gov/?q=Impact+of+Intensive+Positive+Behavioral+Supports"
     author: "Benner, G. J., Beaudoin, K. M., Chen, P.-Y., Davis, C., & Ralston, N."
     q: 2
-    i: 2
+    i: "?"
     kind: design
     rigour: 2
 ---
@@ -23,7 +23,7 @@ sources:
 # Teacher fidelity (TKSS total score) shows a statistically significant interaction effect on pre-to-post changes in student problem behavior (F = 10.43, p = .003)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · design `r2` · `q2` · `i2` medium
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 
@@ -37,7 +37,7 @@ sources:
 
 Benner, G. J., Beaudoin, K. M., Chen, P.-Y., Davis, C., & Ralston, N. (2008). The Impact of Intensive Positive Behavioral Supports on the Behavioral Functioning of Students with Emotional Disturbance: How Much Does Fidelity Matter? JBAIC, Volume 1, No. 1. https://eric.ed.gov/?q=Impact+of+Intensive+Positive+Behavioral+Supports
 
-`q2 · i2` · `design · r2`
+`q2 · i? · only F values are printed for this finding; no effect size` · `design · r2`
 
 ANCOVAs with TKSS scores as covariates on TRF Internalizing and Externalizing t-scores; the omnibus interaction was significant (F = 10.43, p = .003), and Table 3 shows all five domain interactions significant at p < .01 (F values 8.37 to 11.05).
 

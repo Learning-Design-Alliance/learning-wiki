@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Parent Involvement Improves Achievement
+title: Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies
 status: draft
 generated:
   by: claude/unspecified
@@ -38,10 +38,12 @@ sources:
     rigour: "?"
 ---
 
-# Parent Involvement Improves Achievement
+# Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 3 quant-synthesis `r?` · `q3` · `i1`–`i2`
+
+<!-- title before 2026-10-15: Parent Involvement Improves Achievement -->
 
 Parental engagement in children's learning — at home and at school — is associated with higher academic achievement, though the form and intensity of involvement condition the effect.
 

@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Empirical studies reviewed report that students in personalized learning environments outperform peers in standardized settings
+title: A narrative review of intelligent tutoring systems asserts, citing one source, that students in personalized learning environments outperform peers in standardized settings
 description: Empirical studies reviewed report that students in personalized learning environments outperform peers in standardized settings
 id: personalized-learning-outperforms-standardized-settings
 status: draft
@@ -19,10 +19,12 @@ sources:
     rigour: 2
 ---
 
-# Empirical studies reviewed report that students in personalized learning environments outperform peers in standardized settings
+# A narrative review of intelligent tutoring systems asserts, citing one source, that students in personalized learning environments outperform peers in standardized settings
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+
+<!-- title before 2026-10-15: Empirical studies reviewed report that students in personalized learning environments outperform peers in standardized settings -->
 
 ## Subclaims
 `q2 i?` The review reports, citing its sources, that empirical studies consistently show students in personalized learning environments outperform their peers in standardized settings, attributed to tailored support aligned with specific learning needs. [→ Meriem Zerkouk 2025](#meriem-zerkouk-2025)
