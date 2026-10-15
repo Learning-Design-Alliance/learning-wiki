@@ -18,8 +18,8 @@ sources:
     kind: qualitative
     rigour: 2
   - id: sherman-2020-2
-    resource: "https://eric.ed.gov/?id=EJ1272497"
-    title: "Sherman, P., & Boukydis, O. (2020). Framing Undergraduate Perspectives on Experiential Learning Within Soka Education Theory. IAFOR Journal of Education: Undergraduate Education, 8(3). https://eric.ed.gov/?id=EJ1272497"
+    resource: "https://doi.org/10.22492/ije.8.3.05"
+    title: "Sherman, P., & Boukydis, O. (2020). Framing Undergraduate Perspectives on Experiential Learning Within Soka Education Theory. IAFOR Journal of Education: Undergraduate Education, 8(3). https://eric.ed.gov/?id=EJ1272497. [doi:10.22492/ije.8.3.05](https://doi.org/10.22492/ije.8.3.05)"
     author: "Sherman, P., & Boukydis, O."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Instructors and students agree that personal gain is the primary value of experiential learning, with beauty and social good seen as important but of lesser significance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 qualitative `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Instructors' coded responses for gain (140 segments) outnumbered beauty (77) and good (76), suggesting teachers value skill and knowledge outcomes over aesthetic or societal value. [→ Sherman 2020](#sherman-2020)
@@ -50,7 +50,7 @@ Study 1 (2018) semi-structured interviews with ten undergraduate instructors, co
 
 ### Sherman 2020 (2)
 
-Sherman, P., & Boukydis, O. (2020). Framing Undergraduate Perspectives on Experiential Learning Within Soka Education Theory. IAFOR Journal of Education: Undergraduate Education, 8(3). https://eric.ed.gov/?id=EJ1272497
+Sherman, P., & Boukydis, O. (2020). Framing Undergraduate Perspectives on Experiential Learning Within Soka Education Theory. IAFOR Journal of Education: Undergraduate Education, 8(3). https://eric.ed.gov/?id=EJ1272497. [doi:10.22492/ije.8.3.05](https://doi.org/10.22492/ije.8.3.05)
 
 `q2 · i?` · `qualitative · r2`
 

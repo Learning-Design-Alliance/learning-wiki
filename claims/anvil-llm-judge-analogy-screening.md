@@ -18,8 +18,8 @@ sources:
     kind: design
     rigour: 2
   - id: noviello-2026-2
-    resource: "https://arxiv.org/abs/2605.16295"
-    title: "Noviello, Y., Birillo, A., Migut, G. (2026). ANVIL: Analogies and Videos for Lecturers. https://arxiv.org/abs/2605.16295"
+    resource: "https://doi.org/10.48550/arxiv.2605.16295"
+    title: "Noviello, Y., Birillo, A., Migut, G. (2026). ANVIL: Analogies and Videos for Lecturers. https://arxiv.org/abs/2605.16295. [doi:10.48550/arxiv.2605.16295](https://doi.org/10.48550/arxiv.2605.16295)"
     author: Noviello, Y., Birillo, A., Migut, G.
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # An LLM-based analogy judge validated against expert judgments shows moderate-to-strong agreement and screens most generated analogies as meeting baseline adequacy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Against expert judgments with controlled negative examples, the gpt-5.2-based judge reached alpha = 0.66 for TCC and 0.67 for MS on the 4-point scale, and perfect agreement for TCC (alpha = 1.00) and strong for MS (alpha = 0.81) on collapsed labels. [→ Noviello 2026](#noviello-2026)
@@ -50,7 +50,7 @@ Validation of an LLM-based judge (three independent gpt-5.2 runs averaged) again
 
 ### Noviello 2026 (2)
 
-Noviello, Y., Birillo, A., Migut, G. (2026). ANVIL: Analogies and Videos for Lecturers. https://arxiv.org/abs/2605.16295
+Noviello, Y., Birillo, A., Migut, G. (2026). ANVIL: Analogies and Videos for Lecturers. https://arxiv.org/abs/2605.16295. [doi:10.48550/arxiv.2605.16295](https://doi.org/10.48550/arxiv.2605.16295)
 
 `q2 · i?` · `design · r2`
 

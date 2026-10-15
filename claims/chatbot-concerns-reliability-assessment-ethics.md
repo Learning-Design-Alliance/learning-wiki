@@ -1,0 +1,53 @@
+---
+type: claim
+title: "Scholars raise three main concerns about AI chatbots in education: reliability and accuracy, fair assessment, and ethical issues"
+description: "Scholars raise three main concerns about AI chatbots in education: reliability and accuracy, fair assessment, and ethical issues"
+id: chatbot-concerns-reliability-assessment-ethics
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-15
+evidence_strength: moderate
+sources:
+  - id: lasha-labadze-2023
+    resource: "https://doi.org/10.1186/s41239-023-00426-1"
+    title: "Lasha Labadze, Maya Grigolia and Lela Machaidze. (2023). Role of AI chatbots in education: systematic literature review. International Journal of Educational Technology in Higher Education. https://doi.org/10.1186/s41239-023-00426-1"
+    author: Lasha Labadze, Maya Grigolia and Lela Machaidze
+    q: 2
+    i: "?"
+    kind: review
+    rigour: 3
+---
+
+# Scholars raise three main concerns about AI chatbots in education: reliability and accuracy, fair assessment, and ethical issues
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r3` · `q2`
+
+## Subclaims
+`q2 i?` The main skeptical arguments concern biased or inaccurate chatbot responses, difficulty assessing AI-generated student work, and ethical issues around data privacy and responsible AI use. [→ Lasha Labadze 2023](#lasha-labadze-2023)
+
+## Evidence
+
+### Lasha Labadze 2023
+
+Lasha Labadze, Maya Grigolia and Lela Machaidze. (2023). Role of AI chatbots in education: systematic literature review. International Journal of Educational Technology in Higher Education. https://doi.org/10.1186/s41239-023-00426-1
+
+`q2 · i?` · `review · r3`
+
+Narrative synthesis in the concerns section of the review. The review reports chatbots "may provide biased responses or non-accu- rate information", that AI-generated text detection is not yet foolproof and can produce false negatives or positives, and that ethical implications concern data privacy, security, and responsible AI use.
+
+> "AI chatbots may provide biased responses or non-accu- rate information (Kasneci et al., 2023; Sedaghat, 2023). If the chatbot provides incorrect information or guidance, it could mislead students and hinder their learning progress."
+
+## Discussion
+
+
+## Related Claims
+- [Students report negative experiences with ChatGPT including inaccurate outputs, lack of emotional connection, and risk of overreliance, which constrain competence](chatgpt-negative-experiences-inaccuracy-overreliance.md) — a narrower finding that bears on this claim
+- [Students perceive LLM chatbots as useful for learning but requiring critical use, reporting hallucinations, overconfidence, and dependency risks](students-view-llms-useful-but-requiring-critical-use.md) — a narrower finding that bears on this claim
+- [The review identifies data privacy, algorithmic fairness, academic integrity, and unequal access as interconnected ethical concerns in AI-supported mathematics education](ai-math-ethical-concerns-interconnected.md) — a narrower finding that bears on this claim
+- [The most frequently cited ethical concerns about GenAI in research were hallucinated facts, fabricated references, and misleading content](hallucinated-facts-fabricated-references-top-concerns.md) — a narrower finding that bears on this claim
+- [Teachers report concerns about infrastructure, reliability, age appropriateness, teacher competence, and student over-reliance on AI](teacher-constraints-responsible-ai-integration.md) — a narrower finding that bears on this claim
+- [The most reported risks of AI tools in science and chemistry education are ethical issues, including gender and racial bias, hallucinations, copyright infringement, and plagiarism](ethical-issues-most-reported-ai-risk.md) — a narrower finding that bears on this claim
+- [Limited output accuracy and over-reliance are the most pressing challenges Chinese HSS students report in GenAI use, alongside strong ethical concern](genai-accuracy-overreliance-challenges-hss.md) — a narrower finding that bears on this claim
+- [Community adults entering an AI education session held broad, generalized concerns about AI, including distrust of self-regulation and privacy worries](community-adults-broad-generalized-ai-concerns.md) — related

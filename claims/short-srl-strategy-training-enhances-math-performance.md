@@ -63,3 +63,4 @@ The review attributes to Perels, Dignath and Schmitz (2009) the finding that sel
 
 ## Related Claims
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — a broader claim this one bears on
+- [The SRL and SAL perspectives on student motivation and learning differ, and the article discusses those differences](srl-perspective-contrasts-with-sal-perspective.md) — related

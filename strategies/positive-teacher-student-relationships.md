@@ -70,7 +70,7 @@ Relationship quality is one of the most consistently documented classroom influe
 - [Daily personalization routines: greeting students, short conferences, open-door policies, office hours, active listening, and authentic affirmation](daily-personalization-routines-greetings-conferences-affirmation.md)
 
 ## Examples
-- **Responsive Classroom** (https://www.responsiveclassroom.org) — structures the school day around relationship-building routines such as morning meetings and teacher language practices.
+- **[Responsive Classroom](../products/responsive-classroom.md)** (https://www.responsiveclassroom.org) — structures the school day around relationship-building routines such as morning meetings and teacher language practices.
 - **Greeting at the door studies** — Cook et al. (2018) found teacher greetings at the door raised academic engaged time and reduced disruptive behavior in middle school classrooms.
 - **My Teaching Partner–Secondary** (https://ies.ed.gov) — a coaching intervention built on the CLASS framework that improved teacher–student interactions and raised student achievement.
 

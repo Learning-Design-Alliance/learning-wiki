@@ -64,7 +64,7 @@ Expectation communication works primarily through learner self-efficacy: express
 - Mastery-Oriented Feedback — feedback framing that supports rather than undermines expressed belief
 
 ## Examples
-- **Responsive Classroom** (https://www.responsiveclassroom.org) — teacher language practices, including "positive imagining," that make high expectations explicit in daily interaction routines.
+- **[Responsive Classroom](../products/responsive-classroom.md)** (https://www.responsiveclassroom.org) — teacher language practices, including "positive imagining," that make high expectations explicit in daily interaction routines.
 - **Zearn / Illustrative Mathematics classrooms** — all students work the same grade-level tasks with differentiated supports, enacting high expectations structurally rather than rhetorically.
 - **Rosenthal & Jacobson's Pygmalion study** — teachers told that randomly selected students were "bloomers" showed gains in those students' measured achievement, demonstrating the expectation mechanism (and its ethical stakes).
 

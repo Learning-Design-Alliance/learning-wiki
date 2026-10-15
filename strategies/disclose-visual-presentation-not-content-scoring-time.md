@@ -46,4 +46,4 @@ For behaviourally-adaptive security layers, the article recommends that institut
 -
 
 ## Key Sources
-- Gupta, L. R., Kaur, K., Ram, D. S., & Parani, P. (2026). Behaviorally Adaptive Visual Diversion for Inclusive and Resilient Digital Assessment Delivery. arXiv preprint, under review at IEEE Transactions on Learning Technologies. https://arxiv.org/abs/2608.03531
+- Gupta, L. R., Kaur, K., Ram, D. S., & Parani, P. (2026). Behaviorally Adaptive Visual Diversion for Inclusive and Resilient Digital Assessment Delivery. arXiv preprint, under review at IEEE Transactions on Learning Technologies. https://arxiv.org/abs/2608.03531. [doi:10.48550/arxiv.2608.03531](https://doi.org/10.48550/arxiv.2608.03531)

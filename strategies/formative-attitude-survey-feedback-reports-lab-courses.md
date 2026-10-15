@@ -43,4 +43,4 @@ The article recommends administering E-CLASS as a formative assessment tool: all
 -
 
 ## Key Sources
-- Zwickl, B. M., Hirokawa, T., Finkelstein, N., & Lewandowski, H. J. (2013). Development and results from a survey on students views of experiments in lab classes and research. https://arxiv.org/abs/1307.5760
+- Zwickl, B. M., Hirokawa, T., Finkelstein, N., & Lewandowski, H. J. (2013). Development and results from a survey on students views of experiments in lab classes and research. https://arxiv.org/abs/1307.5760. [doi:10.48550/arxiv.1307.5760](https://doi.org/10.48550/arxiv.1307.5760)

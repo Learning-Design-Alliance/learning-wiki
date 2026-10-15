@@ -62,8 +62,8 @@ Monitoring quality predicts learning outcomes largely because unmonitored learne
 
 ## Examples
 - **Calibrated quizzes in LMS courses**: learners predict their score before an ungraded quiz in Canvas, then compare prediction to actual results, building judgment accuracy across a semester.
-- **Reciprocal teaching (Palincsar & Brown)**: students rotate through the "summarizer" and "questioner" roles, making comprehension monitoring a visible, social routine in reading instruction.
-- **Exam wrappers**: after a graded exam, students complete a short worksheet analyzing where their preparation worked and where their monitoring failed, then set a specific adjustment for the next unit.
+- **[Reciprocal teaching](reciprocal_teaching.md) (Palincsar & Brown)**: students rotate through the "summarizer" and "questioner" roles, making comprehension monitoring a visible, social routine in reading instruction.
+- **[Exam wrappers](exam-wrappers.md)**: after a graded exam, students complete a short worksheet analyzing where their preparation worked and where their monitoring failed, then set a specific adjustment for the next unit.
 
 ## Key Sources
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70. [doi:10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

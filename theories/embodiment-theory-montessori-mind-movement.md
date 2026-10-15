@@ -54,4 +54,4 @@ The theory of embodiment sees meaning and cognition as deeply rooted in physical
 - [Organise Embodied Hands-on and Cognitive Hands-on deliberately according to different learning objectives](../strategies/organise-hands-on-forms-by-learning-objectives.md)
 
 ## Key Sources
-- Ahlquist, E.-M. T., & Gynther, P. (2020). Teaching in the Montessori Classroom: Investigating Variation Theory and Embodiment as a Foundation of Teachers' Development. Journal of Montessori Research, 6(1). https://journals.ku.dk/jmr
+- Ahlquist, E.-M. T., & Gynther, P. (2020). Teaching in the Montessori Classroom: Investigating Variation Theory and Embodiment as a Foundation of Teachers' Development. Journal of Montessori Research, 6(1). https://journals.ku.dk/jmr. [doi:10.17161/jomr.v6i1.12051](https://doi.org/10.17161/jomr.v6i1.12051)

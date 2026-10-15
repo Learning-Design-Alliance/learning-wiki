@@ -56,4 +56,4 @@ The article recommends combining validated self-report instruments with performa
 -
 
 ## Key Sources
-- Liu, J. P., & Levy, R. (2026). Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education. North Carolina State University. https://arxiv.org/abs/2606.00038
+- Liu, J. P., & Levy, R. (2026). Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education. North Carolina State University. https://arxiv.org/abs/2606.00038. [doi:10.48550/arxiv.2606.00038](https://doi.org/10.48550/arxiv.2606.00038)

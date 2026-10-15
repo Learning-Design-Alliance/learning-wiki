@@ -69,3 +69,4 @@ The review reports, citing Essel et al. (2022), that intelligent tutoring system
 - [Review-attributed evidence: ChatGPT use improved short-term essay scores but triggered metacognitive laziness with no significant knowledge-transfer gains](chatgpt-metacognitive-laziness-fan-2025.md) — related
 - [AI in online learning offers personalization, predictive analytics, and potential reduction of instructor time on tasks](ai-online-learning-benefits-personalization-prediction-time.md) — a broader claim this one bears on
 - [AI-driven personalized and adaptive learning pathways support learner engagement and satisfaction in online courses](ai-adaptive-pathways-support-engagement.md) — related
+- [ChatGPT-generated synthesis claims benefits for personalized tutoring, automated essay grading, language translation, interactive learning, and adaptive learning, citing supporting studies](chatgpt-education-benefits-taxonomy.md) — a narrower finding that bears on this claim

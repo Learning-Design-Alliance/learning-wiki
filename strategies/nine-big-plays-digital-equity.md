@@ -50,4 +50,4 @@ Digital Promise recommends that state and local teams planning IIJA broadband in
 -
 
 ## Key Sources
-- Weaver, D'Andre J., Ph.D. (2022). Delivering on the Promise of Digital Equity. Digital Promise. https://digitalpromise.dspacedirect.org/items/38939984-18ea-4af0-8081-c787ac30d48d
+- Weaver, D'Andre J., Ph.D. (2022). Delivering on the Promise of Digital Equity. Digital Promise. https://digitalpromise.dspacedirect.org/items/38939984-18ea-4af0-8081-c787ac30d48d. [doi:10.51388/20.500.12265/166](https://doi.org/10.51388/20.500.12265/166)

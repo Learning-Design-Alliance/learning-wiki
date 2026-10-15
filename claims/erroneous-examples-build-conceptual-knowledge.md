@@ -90,3 +90,4 @@ Fourth- and fifth-grade students (N=74) learned decimal magnitude in a brief tut
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](self-explanation-improves-conceptual-understanding.md)
 - [Studying worked examples improves novices' algebra performance on problems with the same structure as the examples](worked-examples-improve-math-performance.md) — related
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
+- [Providing worked examples of journal entries early (rather than delayed) yields better early journal quality and more conceptual knowledge](early-worked-examples-better-journal-quality.md) — related

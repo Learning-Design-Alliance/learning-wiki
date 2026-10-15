@@ -29,4 +29,4 @@ CURIOBOT is a Ganganath et al. research-developed inference-time prompting frame
 -
 
 ## Key Sources
-- Ganganath, G., Bolonghege, P., Lyu, Q., Varakantham, P., & Kandappu, T. (2026). Curiosity as Linguistic Intervention: Using LLM Tutoring Dialogues to Influence Exploratory Learning Behavior. https://arxiv.org/abs/2606.22349
+- Ganganath, G., Bolonghege, P., Lyu, Q., Varakantham, P., & Kandappu, T. (2026). Curiosity as Linguistic Intervention: Using LLM Tutoring Dialogues to Influence Exploratory Learning Behavior. https://arxiv.org/abs/2606.22349. [doi:10.48550/arxiv.2606.22349](https://doi.org/10.48550/arxiv.2606.22349)

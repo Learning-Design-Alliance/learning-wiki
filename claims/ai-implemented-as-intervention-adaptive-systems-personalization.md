@@ -50,3 +50,6 @@ Classification of the 84 studies using the Bond et al. (2024) typology found "AI
 - [Adult learners expect AI to enhance autonomy through choices, flexible learning spaces, metacognitive awareness, and structured self-assessment](ai-enhances-adult-learner-autonomy.md) — related
 - [Teachers most often perceived AI tutors and study buddies as academic support at a scale no single teacher can provide](ai-tutor-scale-benefit-teachers-perceive.md) — related
 - Terminology for personalized learning is used unevenly, with personalized learning, adaptive learning, and intelligent tutoring dominating the 2019–2025 corpus — related
+- [Adaptive systems and personalisation research in AIHEd spans five subcategories, with chatbots/virtual assistants the most reviewed (n = 20)](aihed-adaptive-systems-five-subcategories-chatbots.md) — related
+- [AIHEd reviews focus mostly on General AIEd (47.0%) and Profiling and Prediction (28.8%), while key findings predominantly concern adaptive systems and personalisation (54.5%)](aihed-thematic-focus-adaptive-personalisation-predominance.md) — related
+- [AI chatbots enable flexible personalized learning by adapting teaching strategies to individual student needs](chatbot-flexible-personalized-learning.md) — related

@@ -12,7 +12,7 @@ generated:
 # Dual Coding Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Dual Coding Theory proposes that verbal and nonverbal information can be processed in partly distinct but connected representational systems. Learning can improve when instruction coordinates language with meaningful imagery or other visual representation.
@@ -22,6 +22,11 @@ Dual Coding Theory proposes that verbal and nonverbal information can be process
 
 ## Implications
 - Supports diagrams, concept maps, visual examples, and multimedia design when the visual is instructionally meaningful.
+
+## Claims
+
+- [College students who study integrated annotated illustrations alongside science text generate approximately 50% more creative solutions on transfer problems than students who view the same illustrations separately after reading](../claims/integrated-illustrations-increase-creative-transfer-solutions.md) [+W] — attached 2026-10-15 from Mayer et al. (1995), which proposed "Generative theory of multimedia learning".
+- [The positive effect of integrated illustrations depends on incorporating annotations (captions and labels) into the illustrations rather than on placing illustrations close to corresponding paragraphs](../claims/annotations-not-proximity-drive-illustration-benefit.md) [+W] — attached 2026-10-15 from Mayer et al. (1995), which proposed "Generative theory of multimedia learning"; tests this page's relationship.
 
 ## Related Theories
 

@@ -63,7 +63,7 @@ Routines reduce the working-memory demands of recurring tasks by making the sequ
 - [Modeling](../strategies/think-aloud-modeling.md) — the narration method that makes routine steps learnable
 
 ## Examples
-- **Reading Mastery** (National Institute for Direct Instruction, https://www.nifdi.org) — fully scripted decoding and comprehension routines with prescribed teacher wording, choral response, and built-in review.
+- **[Reading Mastery](../products/reading-mastery.md)** (National Institute for Direct Instruction, https://www.nifdi.org) — fully scripted decoding and comprehension routines with prescribed teacher wording, choral response, and built-in review.
 - **Explicit phonics routines in the science of reading movement** — daily sound–spelling review, blending routines, and dictation sequences taught with identical language each session (see Archer & Hughes, 2011).
 - **SRSD writing instruction** (https://srsdresearch.org) — teaches genre-specific writing routines (PLAN, WRITE, REVISE) through modeling and guided practice before independent use.
 - **Number Talks routines** (Parrish, 2014) — a predictable daily sequence (problem posed, silent think time, sharing strategies) that becomes a self-running classroom structure.

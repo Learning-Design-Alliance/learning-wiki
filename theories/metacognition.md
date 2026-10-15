@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 45 claims (23 for, 19 mixed, 3 against) · 39 studies (16 causal, 7 review, 7 theoretical, 5 qualitative, 2 associational, 2 design), `q1`–`q4` · 5 of 39 report an effect size · 43 claims rest on one study
+> **Evidence** · 47 claims (25 for, 19 mixed, 3 against) · 40 studies (17 causal, 7 review, 7 theoretical, 5 qualitative, 2 associational, 2 design), `q1`–`q4` · 6 of 40 report an effect size · 45 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -87,6 +87,8 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Participants more averse to thinking are more susceptible to the speedup illusion; AI familiarity measures do not predict calibration error](../claims/thinking-aversion-predicts-speedup-illusion.md) [~W]
 - [How a user engages with AI matters more than whether: structured, deliberate engagement can mitigate or reverse offloading effects](../claims/engagement-style-matters-more-than-whether.md) [~W]
 - [Students hit a metacognitive ceiling, endorsing high-level creation more frequently than the hardest metacognitive and evaluative thresholds in their ordering](../claims/student-metacognitive-ceiling-genai.md) [~W]
+- [Sketching during reading yielded the most accurate comprehension monitoring, with significantly less absolute error than photograph, no-image, and animation conditions](../claims/sketching-most-accurate-monitoring-absolute-error.md) [+M] — attached 2026-10-15 from Wiley (2019), which proposed "Deception account of seduction effects on comprehension monitoring"; tests this page's relationship.
+- [Readers in all conditions except sketching were overconfident, with the most overconfidence in the photograph condition and the least in the sketching condition](../claims/overconfidence-all-conditions-except-sketching.md) [+M] — attached 2026-10-15 from Wiley (2019), which proposed "Deception account of seduction effects on comprehension monitoring"; tests this page's relationship.
 
 ## Related Theories
 
@@ -101,6 +103,7 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 ## Examples
 
 - [Use a three-stage model to help learners identify and apply their learning-style characteristics](../strategies/three-stage-learning-style-awareness-model.md)
+- [Use metacognitive interventions to promote adaptive use of cognitive tools](../strategies/metacognitive-interventions-adaptive-offloading.md)
 
 ## Key Sources
 - Bjorklund, D. F. (2005). *Children's thinking: Cognitive development and individual differences* (4th ed.). Wadsworth.

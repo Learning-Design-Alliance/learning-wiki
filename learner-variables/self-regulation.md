@@ -12,7 +12,7 @@ generated:
 # Self-Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 97 claims (67 for, 23 mixed, 7 against) · 73 studies (19 associational, 17 review, 16 causal, 9 quant-synthesis, 6 theoretical, 4 qualitative, 2 design), `q1`–`q4` · 15 of 73 report an effect size · 89 claims rest on one study
+> **Evidence** · 106 claims (75 for, 23 mixed, 8 against) · 81 studies (19 causal, 19 associational, 18 review, 10 quant-synthesis, 7 theoretical, 5 qualitative, 3 design), `q1`–`q4` · 15 of 81 report an effect size · 98 claims rest on one study
 
 ## Description
 Whether a learner can plan, monitor and adjust without the structure being supplied for them. It decides whether a multi-week deliverable survives without scaffolding and pacing support. The finding that matters most for design is that self-monitoring is unreliable by default: learners judge fluency rather than learning, and confident misjudgement is the normal case rather than the exception [-M]. So the design job is supplying the external signal, not exhorting reflection.
@@ -141,6 +141,15 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - Metacognitive strategic planning measured by think-aloud protocol showed a .94 correlation with science program placement in one study of 34 eleventh-graders [+W] — learners who differ on it differ in outcomes
 - Metacognitive strategy correlations with achievement vary widely across studies, from negative values near -.28 to values such as .66 and .94 [~W] — learners who differ on it differ in outcomes
 - Some strategy-achievement correlations are near zero or negative even within the same instrument family, including 3rd-graders' strategy use (-.05) and elaboration (.00) [-W] — learners who differ on it differ in outcomes
+- [Higher levels of student involvement in self-monitoring lead to stronger intervention effects (preliminary evidence)](../claims/student-involvement-stronger-effects.md) [+M] — an instructional effect differs with it
+- [Human–GenAI collaborative interactions show promise for supporting metacognition and sociometacognition, based on an exploratory expert case study](../claims/genai-collaboration-supports-metacognition-feasibility.md) [+W] — instruction changes it
+- [Keeping a structured learning diary without further intervention did not improve university students' self-regulation](../claims/learning-diary-alone-no-self-regulation-gain.md) [-M] — instruction changes it
+- [Self-regulated learning abilities improved significantly in the GPT-feedback VR group, supporting self-reflection, goal setting, and strategy adjustment](../claims/gpt-feedback-vr-improves-srl.md) [+M] — instruction changes it
+- [Self-regulated learning is associated with increased academic achievement and improved learning outcomes for students](../claims/srl-associated-with-achievement.md) [+W] — learners who differ on it differ in outcomes
+- [Strategy prompts strongly increase learners' use of the prompted strategies, and the effect on comprehension is mediated by strategy use](../claims/strategy-prompts-increase-strategy-use-mediated-outcomes.md) [+M] — instruction changes it
+- [Students can only improve if they develop the capacity to monitor the quality of their own work during actual production](../claims/self-monitoring-during-production-premise.md) [+W] — instruction changes it
+- [Without instructional support, learners show low cognitive strategy use and almost absent metacognitive strategies in journal writing, and realized strategy use correlates with learning outcomes](../claims/unsupported-journal-writing-low-strategy-use.md) [+M] — learners who differ on it differ in outcomes
+- [Young children ages 5-6 can set learning goals and use the Self-Determined Learning Model of Instruction to achieve them](../claims/young-children-set-goals-sdlmi-achieve.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 - Motivation — starts the effort that self-regulation then has to sustain.

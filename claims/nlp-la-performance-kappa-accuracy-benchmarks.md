@@ -74,3 +74,4 @@ Year-by-year analysis of the best-performing algorithm per study (Figure 8, RQ7)
 - An independent human second coder reached moderate agreement (kappa = 0.395) with the AI-assisted primary coding on the five-category outcome — a narrower finding that bears on this claim
 - [Transformer-based NLP models achieve automated essay scoring with correlations to human grading exceeding 0.85](bert-essay-scoring-correlation-085.md) — a narrower finding that bears on this claim
 - [Benchmarking shows NLP-based automated essay scoring achieves grading times up to 80% faster than human graders while maintaining comparable accuracy](nlp-grading-80-percent-faster-benchmark.md) — related
+- [NLP-based feedback generation for textual student answers in large courses reduced grading effort by up to 85% with high precision (reported from Bernius et al.)](nlp-feedback-reduced-grading-effort-85-percent.md) — related

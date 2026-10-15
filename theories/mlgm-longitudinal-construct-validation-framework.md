@@ -16,7 +16,7 @@ sources:
 # Multiple-indicator latent-growth modelling (MLGM) as a framework for validating longitudinal achievement constructs
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 2 studies (2 associational), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (2 for, 2 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 MLGM is a second-order latent growth model, a multivariate extension of the first-order latent growth curve model, in which observed indicators are item clusters (goal scores) rather than total scores. Its stated advantage is that "MLGM can test, instead of making assumptions, whether the same latent construct is measured at each point in time or grade level", and it "accounts for important information of the psychometric properties on the indicators". The article uses MLGM with configural, weak and strong invariance constraints to evaluate whether CAT-based achievement constructs shift across grades or time points.
@@ -52,4 +52,4 @@ MLGM is a second-order latent growth model, a multivariate extension of the firs
 - [Test publishers and users should routinely investigate longitudinal achievement construct invariance over time](../strategies/routinely-validate-longitudinal-construct-invariance.md)
 
 ## Key Sources
-- Wang, S., Jiao, H. and Zhang, L. (2013) 'Validation of longitudinal achievement constructs of vertically scaled computerised adaptive tests: a multiple-indicator, latent-growth modelling approach', Int. J. Quantitative Research in Education, Vol. 1, No. 4, pp.383–407. https://www.nwea.org/research/publication/validation-of-longitudinal-achievement-constructs-of-vertically-scaled-computerised-adaptive-tests-a-multiple-indicator-latent-growth-modelling-approach/
+- Wang, S., Jiao, H. and Zhang, L. (2013) 'Validation of longitudinal achievement constructs of vertically scaled computerised adaptive tests: a multiple-indicator, latent-growth modelling approach', Int. J. Quantitative Research in Education, Vol. 1, No. 4, pp.383–407. https://www.nwea.org/research/publication/validation-of-longitudinal-achievement-constructs-of-vertically-scaled-computerised-adaptive-tests-a-multiple-indicator-latent-growth-modelling-approach/. [doi:10.1504/ijqre.2013.058307](https://doi.org/10.1504/ijqre.2013.058307)

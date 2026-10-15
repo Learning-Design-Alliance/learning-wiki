@@ -54,3 +54,4 @@ The snapshot's key findings report impacts from the third year of a national, mu
 - [The TIF evaluation provides an in-depth analysis of implementation and pay-for-performance impacts for ten districts after three years, and program-wide implementation descriptions for all 2010 grantees](tif-evaluation-scope-ten-districts-three-years.md) — a broader claim this one bears on
 - [Increases in school funding can improve student outcomes when funds support the specific needs of students](school-funding-improves-outcomes-when-targeted.md) — related
 - [Small career-ladder bonuses can affect teacher behavior without necessarily producing large effects](small-bonuses-affect-behavior-not-large-effects.md) — related
+- [Paying students for performance on standardized tests or for course grades does not increase achievement test scores in urban public schools](output-incentives-no-achievement-gains.md) — related

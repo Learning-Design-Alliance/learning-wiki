@@ -50,3 +50,5 @@ Interview theme: participants said GenAI "is not there yet to basically develop 
 - [GenAI use involves substantial hidden labor of prompting, verification, and correction that remains invisible in productivity evaluation](genai-hidden-verification-labor-invisible.md) — related
 - Practitioners hold near-universal commitments to human oversight and critical evaluation of AI outputs — a broader claim this one bears on
 - [Student participation in validating and iteratively refining AI-generated simulations promotes physics understanding and problem-solving skills](student-validation-of-ai-simulations-promotes-understanding.md) — related
+- [AI solutions can automate routine tasks but cannot yet handle the complex tasks of higher learning](ai-limited-to-automatable-tasks-in-higher-learning.md) — possibly the same claim (merge candidate)
+- [Optimizing prompts can vastly improve the accuracy of LLM outputs, but critical evaluation of the resulting outputs still requires domain expertise.](prompt-optimization-improves-accuracy-expertise-still-needed.md) — related

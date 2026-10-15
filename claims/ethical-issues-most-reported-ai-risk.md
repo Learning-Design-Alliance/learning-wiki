@@ -77,3 +77,7 @@ Content analysis of risks/limitations across the 18 included studies, coded into
 - [Faculty opt-out of generative AI is more substantial than student non-use, with value-, identity- and risk-based reasons](faculty-ai-optout-shata-2025.md) — related
 - [LLMs in educational applications hallucinate in 15–25% of responses and can amplify bias against non-native language inputs](llm-hallucination-rate-education.md) — related
 - Awareness of Creative Commons licensing lags behind copyright and public domain awareness among both faculty and academic leaders — related
+- [Only a small fraction of AIEd research addresses ethical implications, challenges and risks](aied-little-ethical-reflection.md) — related
+- [Scholars raise three main concerns about AI chatbots in education: reliability and accuracy, fair assessment, and ethical issues](chatbot-concerns-reliability-assessment-ethics.md) — a broader claim this one bears on
+- [Ethical considerations are a sidelined research theme, addressed by only seven of 183 publications, mostly on stereotype perpetuation by generative AI](ethical-considerations-sidelined-seven-publications.md) — related
+- [Most reviews reporting neurophysiological AI use stressed the need for further ethical considerations, including participant consent and transparent development](neurophysiological-ai-ethics-consent-transparency.md) — related

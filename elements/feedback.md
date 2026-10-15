@@ -13,7 +13,7 @@ generated:
 # Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 124 claims (62 for, 53 mixed, 9 against) · 106 studies (39 causal, 19 quant-synthesis, 18 review, 10 associational, 9 design, 7 qualitative, 4 theoretical), `q1`–`q4` · 29 of 106 report an effect size · 103 claims rest on one study
+> **Evidence** · 128 claims (64 for, 55 mixed, 9 against) · 108 studies (41 causal, 19 quant-synthesis, 18 review, 10 associational, 9 design, 7 qualitative, 4 theoretical), `q1`–`q4` · 29 of 108 report an effect size · 107 claims rest on one study
 
 ## Description
 Feedback is information provided to learners about their performance or understanding, intended to close the gap between current and desired performance. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? (Hattie & Timperley, 2007). It functions as the corrective mechanism in any instructional cycle that includes [Practice](practice.md) or [Assessment](assessment.md).
@@ -173,6 +173,10 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Multi-agent tutoring architectures show superior behaviour modelling and feedback compared to single-agent or rule-based tutors](../claims/multi-agent-tutoring-superior-single-agent.md) [+W]
 - [LLM feedback for students marked by race, language, disability, gender, or motivation shows positive feedback bias and feedback withholding bias — more praise and less substantive critique than for unmarked counterparts](../claims/marked-students-praise-withholding-bias.md) [-M]
 - [Students report receiving scores with little individualized feedback and request more in-depth feedback that explains why and how they can improve](../claims/students-report-limited-feedback-on-assessments.md) [+W]
+- [All three groups benefited from the instructional intervention, with both experimental groups benefiting the most](../claims/all-groups-benefited-experimental-most.md) [+W] — attached 2026-10-15 from Ahlem Ammar et al. (2006), which proposed "Four-week form-focused intervention on third-person possessive determiners his and her"; tests this page's relationship.
+- [Prompts were overall more effective than recasts as corrective feedback for L2 grammar learning](../claims/prompts-more-effective-than-recasts-overall.md) [+W] — attached 2026-10-15 from Ahlem Ammar et al. (2006), which proposed "Four-week form-focused intervention on third-person possessive determiners his and her"; tests this page's relationship.
+- [Trained human evaluators provided higher-quality formative feedback than ChatGPT on four of five components, while ChatGPT outperformed humans on criteria-based feedback](../claims/chatgpt-feedback-quality-versus-human-raters.md) [~W] — attached 2026-10-15 from Steiss et al. (2023), which proposed "ChatGPT v.3.5 prompting protocol for generating formative writing feedback".
+- [ChatGPT feedback quality varied by essay quality: accuracy declined as essay quality rose, prioritization was best for average essays, and supportive tone was lowest for low-quality essays](../claims/ai-feedback-quality-varies-by-essay-quality.md) [~W] — attached 2026-10-15 from Steiss et al. (2023), which proposed "ChatGPT v.3.5 prompting protocol for generating formative writing feedback".
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice
@@ -246,6 +250,8 @@ Feedback is among the most powerful influences on learning, but its effects are 
 **[Khan Academy](https://www.khanacademy.org)** — Immediate item-level feedback on practice exercises with hints and linked explanations, allowing retry until mastery.
 
 **[Draftback / Google Docs commenting](https://www.google.com/docs/about)** — Inline, asynchronous teacher comments on drafts before final submission, preserving the revision cycle.
+- [Provide timely automated feedback through an AI chatbot during EFL writing practice](../strategies/ai-chatbot-feedback-writing-courses.md)
+- [Pair form-focused instruction with prompts that push learners to self-repair rather than recasts](../strategies/pair-ffi-with-prompts-not-recasts.md)
 
 ## Key Sources
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)

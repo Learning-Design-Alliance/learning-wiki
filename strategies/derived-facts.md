@@ -60,7 +60,7 @@ Derived facts leverage existing knowledge as a scaffold for new knowledge, reduc
 
 ## Examples
 - **Cognitively Guided Instruction (CGI)** — teachers use children's derived-fact strategies as the basis for instruction in number and operations; see [Cognitively Guided Instruction](../principles/responsive-teaching.md).
-- **Number Talks (Parrish, 2010)** — daily classroom routines in which students mentally compute a fact or problem and share their derivation strategies, making multiple derivation paths public.
+- **[Number Talks](number-talks.md) (Parrish, 2010)** — daily classroom routines in which students mentally compute a fact or problem and share their derivation strategies, making multiple derivation paths public.
 - **Math Recovery** — one-to-one intervention programs that assess whether a child derives or counts, and target instruction at moving them toward derived-fact strategies.
 
 ## Key Sources

@@ -83,7 +83,7 @@ Peer and self-assessment work because evaluating work against criteria requires 
 - [Two-stage exams](../strategies/two-stage-exams.md) — a peer-assessment variant applied to testing itself
 
 ## Examples
-- **Calibrated Peer Review (CPR)** (https://cpr.molsci.ucla.edu) — a tool in which students first calibrate their judgment against instructor-graded exemplars, then review peers' anonymous submissions; calibration accuracy gates whether a student's reviews count.
+- **[Calibrated Peer Review](calibrated_peer_review.md) (CPR)** (https://cpr.molsci.ucla.edu) — a tool in which students first calibrate their judgment against instructor-graded exemplars, then review peers' anonymous submissions; calibration accuracy gates whether a student's reviews count.
 - **Peergrade / PeerStudio-style platforms** — algorithmically distribute submissions so each student reviews several peers, aggregating reviews to moderate individual bias.
 - **Self-assessed draft submission** — students attach a completed rubric with their essay predicting their grade; the instructor's mark and the student's mark are compared, and prediction accuracy is discussed in conference ([Check-In](../elements/check-in.md)).
 

@@ -18,8 +18,8 @@ sources:
     kind: design
     rigour: 2
   - id: pittaway-2014-2
-    resource: "http://ro.ecu.edu.au/ajte/vol39/iss7/8"
-    title: "Pittaway, S. M., & Moss, T. (2014). “Initially, We Were Just Names on a Computer Screen”: Designing Engagement in Online Teacher Education. Australian Journal of Teacher Education, 39(7). http://ro.ecu.edu.au/ajte/vol39/iss7/8"
+    resource: "https://doi.org/10.14221/ajte.2014v39n7.10"
+    title: "Pittaway, S. M., & Moss, T. (2014). “Initially, We Were Just Names on a Computer Screen”: Designing Engagement in Online Teacher Education. Australian Journal of Teacher Education, 39(7). http://ro.ecu.edu.au/ajte/vol39/iss7/8. [doi:10.14221/ajte.2014v39n7.10](https://doi.org/10.14221/ajte.2014v39n7.10)"
     author: "Pittaway, S. M., & Moss, T."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # The redesigned unit promoted engagement across all five elements of the Engagement Framework, including professional relevance rated 4.86 on SETL
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students reported engagement across personal, academic, intellectual, social and professional elements, evidenced through posts, emails, web conference comments and assignments. [→ Pittaway 2014](#pittaway-2014)
@@ -50,7 +50,7 @@ Qualitative analysis of unobtrusive data (discussion posts, LMS tracking and int
 
 ### Pittaway 2014 (2)
 
-Pittaway, S. M., & Moss, T. (2014). “Initially, We Were Just Names on a Computer Screen”: Designing Engagement in Online Teacher Education. Australian Journal of Teacher Education, 39(7). http://ro.ecu.edu.au/ajte/vol39/iss7/8
+Pittaway, S. M., & Moss, T. (2014). “Initially, We Were Just Names on a Computer Screen”: Designing Engagement in Online Teacher Education. Australian Journal of Teacher Education, 39(7). http://ro.ecu.edu.au/ajte/vol39/iss7/8. [doi:10.14221/ajte.2014v39n7.10](https://doi.org/10.14221/ajte.2014v39n7.10)
 
 `q2 · i?` · `design · r2`
 

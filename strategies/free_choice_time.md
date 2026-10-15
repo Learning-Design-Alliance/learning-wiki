@@ -67,7 +67,7 @@ Choice reliably increases intrinsic motivation and engagement, consistent with s
 ## Examples
 - **Responsive Classroom's Academic Choice** ([https://www.responsiveclassroom.org](https://www.responsiveclassroom.org)) — elementary teachers offer a teacher-designed choice of tasks; students plan, work, and reflect, building autonomy within a predictable structure.
 - **Montessori classrooms** ([https://amshq.org](https://amshq.org)) — extended work periods in which children select from prepared materials; the "prepared environment" is the curated choice space.
-- **Genius Hour / 20% Time** — used in many K–12 and corporate settings (popularized by Google's 20% policy) to devote recurring time to self-chosen projects with a public product.
+- **[Genius Hour / 20% Time](genius_hour_20_time.md)** — used in many K–12 and corporate settings (popularized by Google's 20% policy) to devote recurring time to self-chosen projects with a public product.
 - A business ethics professor lets students select which published case to analyze ([Case Studies](../elements/case-studies.md)), then runs a shared debrief across cases so all learners still reach the common analytical goals.
 
 ## Key Sources

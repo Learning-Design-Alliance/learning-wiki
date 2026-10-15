@@ -45,4 +45,4 @@ In its scenario on developing professional practices, the article proposes coach
 -
 
 ## Key Sources
-- Finkelstein, N. (2026). A principled way to think about AI in education: guidance for educators and policy makers on action based on goals, models of human learning, and use of technologies. Draft manuscript, University of Colorado, Boulder. https://arxiv.org/abs/2510.01467
+- Finkelstein, N. (2026). A principled way to think about AI in education: guidance for educators and policy makers on action based on goals, models of human learning, and use of technologies. Draft manuscript, University of Colorado, Boulder. https://arxiv.org/abs/2510.01467. [doi:10.48550/arxiv.2510.01467](https://doi.org/10.48550/arxiv.2510.01467)

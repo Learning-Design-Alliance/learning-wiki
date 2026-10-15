@@ -18,8 +18,8 @@ sources:
     kind: causal
     rigour: 2
   - id: fernandes-2026-2
-    resource: "https://arxiv.org/abs/2605.25856"
-    title: "Fernandes, D., Buschek, D., Tankelevitch, L., Kosch, T., & Welsch, R. (2026). Explaining Too Much? Understanding How Large Language Model Reasoning Traces Influence Performance and Metacognition. https://arxiv.org/abs/2605.25856"
+    resource: "https://doi.org/10.48550/arxiv.2605.25856"
+    title: "Fernandes, D., Buschek, D., Tankelevitch, L., Kosch, T., & Welsch, R. (2026). Explaining Too Much? Understanding How Large Language Model Reasoning Traces Influence Performance and Metacognition. https://arxiv.org/abs/2605.25856. [doi:10.48550/arxiv.2605.25856](https://doi.org/10.48550/arxiv.2605.25856)"
     author: "Fernandes, D., Buschek, D., Tankelevitch, L., Kosch, T., & Welsch, R."
     q: 3
     i: 2
@@ -30,7 +30,7 @@ sources:
 # Full reasoning traces impaired task performance relative to both answer-only and summary-trace conditions in AI-assisted LSAT reasoning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2`–`r3` · `q3` · `i2` medium
+> **Evidence** · 1 study (2 entries) · causal `r2`–`r3` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Participants solving ten LSAT-style problems with an open-weight verbose-trace model scored significantly worse in the Full-trace condition than in the Answer-only condition (d = -0.54) and the Summary-trace condition (d = -0.48). [→ Fernandes 2026](#fernandes-2026)
@@ -49,7 +49,7 @@ Preregistered between-subjects experiment (N = 559) with three trace-format cond
 
 ### Fernandes 2026 (2)
 
-Fernandes, D., Buschek, D., Tankelevitch, L., Kosch, T., & Welsch, R. (2026). Explaining Too Much? Understanding How Large Language Model Reasoning Traces Influence Performance and Metacognition. https://arxiv.org/abs/2605.25856
+Fernandes, D., Buschek, D., Tankelevitch, L., Kosch, T., & Welsch, R. (2026). Explaining Too Much? Understanding How Large Language Model Reasoning Traces Influence Performance and Metacognition. https://arxiv.org/abs/2605.25856. [doi:10.48550/arxiv.2605.25856](https://doi.org/10.48550/arxiv.2605.25856)
 
 `q3 · i2` · `causal · r3`
 

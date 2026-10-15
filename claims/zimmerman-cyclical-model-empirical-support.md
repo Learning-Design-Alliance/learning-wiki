@@ -66,3 +66,4 @@ Comparative study of expert and non-expert college women in volleyball; the revi
 - [GPT-4o prompted only with SRL theory references generates a codebook accurately representing most key elements of both foundational SRL theories](gpt4o-theory-references-codebook-covers-srl-theories.md) — related
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — a broader claim this one bears on
 - [In a randomized trial of SRL interventions in an online mathematics preparation course, group and time interacted significantly on SRL knowledge, self-efficacy and the SRL overall score, with Group TDP (training + diary + peer feedback) showing the most prominent gains](srl-web-training-peer-feedback-group-by-time-interaction-online-math-prep.md) — related
+- [Empirical studies support Zimmerman's SRL models, including expert-novice differences and phase-training effects](empirical-support-zimmerman-srl-models.md) — related

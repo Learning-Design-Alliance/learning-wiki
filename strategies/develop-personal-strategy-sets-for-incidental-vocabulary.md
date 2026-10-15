@@ -43,4 +43,4 @@ Based on the finding that strategy mastery predicted incidental vocabulary acqui
 -
 
 ## Key Sources
-- Zhao, A., Guo, Y., Biales, C., & Olszewski, A. (2016). Exploring learner factors in second language (L2) incidental vocabulary acquisition through reading. Reading in a Foreign Language, 28(2). http://nflrc.hawaii.edu/rfl
+- Zhao, A., Guo, Y., Biales, C., & Olszewski, A. (2016). Exploring learner factors in second language (L2) incidental vocabulary acquisition through reading. Reading in a Foreign Language, 28(2). http://nflrc.hawaii.edu/rfl. [doi:10.64152/10125/66903](https://doi.org/10.64152/10125/66903)

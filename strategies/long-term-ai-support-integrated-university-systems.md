@@ -51,4 +51,4 @@ Based on survey and interview findings, the authors recommend moving AI support 
 -
 
 ## Key Sources
-- Nourian, L.; Callis, A.; Patterson, S.; Miao, J.; Heard, J.; Tigwell, G. W. (2026). Understanding How International Students in the U.S. Are Using Conversational AI to Support Cross-Cultural Adaptation. arXiv. https://arxiv.org/abs/2605.15127
+- Nourian, L.; Callis, A.; Patterson, S.; Miao, J.; Heard, J.; Tigwell, G. W. (2026). Understanding How International Students in the U.S. Are Using Conversational AI to Support Cross-Cultural Adaptation. arXiv. https://arxiv.org/abs/2605.15127. [doi:10.48550/arxiv.2605.15127](https://doi.org/10.48550/arxiv.2605.15127)

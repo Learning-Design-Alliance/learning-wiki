@@ -18,8 +18,8 @@ sources:
     kind: design
     rigour: 2
   - id: looney-2026-2
-    resource: "https://arxiv.org/abs/2608.20733"
-    title: "Looney, C. W., & Duston, C. L. (2026). Using Gemini and LuaLaTeX to transcribe physics videos into PDF/UA-2 and ISO 32005 math-accessible PDFs. https://arxiv.org/abs/2608.20733"
+    resource: "https://doi.org/10.48550/arxiv.2608.20733"
+    title: "Looney, C. W., & Duston, C. L. (2026). Using Gemini and LuaLaTeX to transcribe physics videos into PDF/UA-2 and ISO 32005 math-accessible PDFs. https://arxiv.org/abs/2608.20733. [doi:10.48550/arxiv.2608.20733](https://doi.org/10.48550/arxiv.2608.20733)"
     author: "Looney, C. W., & Duston, C. L."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # The v6m subscript framework robustly transcribed a wide range of board-written subscript configurations, with stacked-subscript unstacking less reliable
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The v6m subscript system enabled Gemini to robustly and accessibly transcribe a reasonably wide range of board-written subscript configurations, with only one observed deviation (a subscript-order reversal in video 3) across all 17 test PDFs. [→ Looney 2026](#looney-2026)
@@ -50,7 +50,7 @@ Qualitative inspection of all 17 v6m test PDFs and source files in Section 5.5: 
 
 ### Looney 2026 (2)
 
-Looney, C. W., & Duston, C. L. (2026). Using Gemini and LuaLaTeX to transcribe physics videos into PDF/UA-2 and ISO 32005 math-accessible PDFs. https://arxiv.org/abs/2608.20733
+Looney, C. W., & Duston, C. L. (2026). Using Gemini and LuaLaTeX to transcribe physics videos into PDF/UA-2 and ISO 32005 math-accessible PDFs. https://arxiv.org/abs/2608.20733. [doi:10.48550/arxiv.2608.20733](https://doi.org/10.48550/arxiv.2608.20733)
 
 `q2 · i?` · `design · r2`
 

@@ -47,3 +47,4 @@ Spearman correlation reported in Table 1 of the 468-student survey; the article 
 - [Perceived risk of using ChatGPT is negatively associated with both use frequency and intention to use among undergraduates](perceived-risk-negative-chatgpt-use-frequency-intention.md) — related
 - [Structural paths are stable when continued-use intention and current use are modeled as separate outcomes, and AI anxiety is not directly related to continued use](outcome-robustness-anxiety-null-direct.md) — related
 - [Attitude, facilitating conditions, and social influence correlate most strongly with behavioral intention, while perceived ease of use correlates weakest](at-fc-si-strongest-bi-correlates-peou-weakest.md) — related
+- [Familiarity with ChatGPT is positively correlated with frequency of academic use](chatgpt-familiarity-correlates-academic-use.md) — related

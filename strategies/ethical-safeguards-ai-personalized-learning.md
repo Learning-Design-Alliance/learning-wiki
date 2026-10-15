@@ -57,6 +57,7 @@ The review identifies three central ethical challenges for AI-driven personalize
 - [Deploy agentic AI in education with transparency about agentic decisions, human oversight and institutional responsibility](responsible-deployment-transparency-human-oversight-agentic-ai.md)
 - [Ethical governance safeguards for robot-supported mental health education with children](ethical-safeguards-child-robot-mental-health-education.md)
 - [Automated assessment outputs must retain human monitoring and never serve as official grades or sole decision bases](human-monitoring-automated-assessment.md)
+- [Teachers adopting EAI should address digital literacy and ethical design challenges identified for each AI dimension](teacher-challenges-eai-inclusion-digital-literacy-ethics.md)
 
 ## Examples
 -

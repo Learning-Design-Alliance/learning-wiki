@@ -18,8 +18,8 @@ sources:
     kind: design
     rigour: 3
   - id: tseng-2026-2
-    resource: "https://arxiv.org/abs/2607.06721"
-    title: "Tseng, T., Seoror, L.H., Adda, J., Factor, M., Darabi, R., Matschke, K.R., Fu, T., Lin, A., Maram, A., Sinha, A. (2026). Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing Education. https://arxiv.org/abs/2607.06721"
+    resource: "https://doi.org/10.48550/arxiv.2607.06721"
+    title: "Tseng, T., Seoror, L.H., Adda, J., Factor, M., Darabi, R., Matschke, K.R., Fu, T., Lin, A., Maram, A., Sinha, A. (2026). Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing Education. https://arxiv.org/abs/2607.06721. [doi:10.48550/arxiv.2607.06721](https://doi.org/10.48550/arxiv.2607.06721)"
     author: Tseng, T., Seoror, L.H., Adda, J., Factor, M., Darabi, R., Matschke, K.R., Fu, T., Lin, A., Maram, A., Sinha, A.
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Step-by-step explanations revealed one at a time, plus removed code auto-insertion and copy buttons, encouraged deeper engagement with generated explanations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2`–`r3` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` In the lab study, 8/9 users progressed through step-by-step explanations, clicking the 'next step' button between 3-12 times (M=6.4, SD=3.9), and four participants said they appreciated the breakdown compared to ChatGPT. [→ Tseng 2026](#tseng-2026)
@@ -50,7 +50,7 @@ Log analysis from the lab study (n=9) using the updated Flowcode. The article st
 
 ### Tseng 2026 (2)
 
-Tseng, T., Seoror, L.H., Adda, J., Factor, M., Darabi, R., Matschke, K.R., Fu, T., Lin, A., Maram, A., Sinha, A. (2026). Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing Education. https://arxiv.org/abs/2607.06721
+Tseng, T., Seoror, L.H., Adda, J., Factor, M., Darabi, R., Matschke, K.R., Fu, T., Lin, A., Maram, A., Sinha, A. (2026). Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing Education. https://arxiv.org/abs/2607.06721. [doi:10.48550/arxiv.2607.06721](https://doi.org/10.48550/arxiv.2607.06721)
 
 `q2 · i?` · `design · r2`
 

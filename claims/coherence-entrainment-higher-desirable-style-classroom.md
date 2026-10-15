@@ -18,8 +18,8 @@ sources:
     kind: associational
     rigour: 1
   - id: pennings-2017-2
-    resource: "https://complicityjournal.org"
-    title: "Pennings, H. J. M. (2017). Using a Complexity Approach to Study the Interpersonal Dynamics in Teacher-Student Interactions: A Case Study of Two Teachers. Complicity: An International Journal of Complexity and Education, 14(2). https://complicityjournal.org"
+    resource: "https://doi.org/10.29173/cmplct29338"
+    title: "Pennings, H. J. M. (2017). Using a Complexity Approach to Study the Interpersonal Dynamics in Teacher-Student Interactions: A Case Study of Two Teachers. Complicity: An International Journal of Complexity and Education, 14(2). https://complicityjournal.org. [doi:10.29173/cmplct29338](https://doi.org/10.29173/cmplct29338)"
     author: Pennings, H. J. M.
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Teacher-student cyclical entrainment was considerably higher in the desirable-style teacher's classroom than in the struggling-style teacher's classroom
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 associational `r1`, 1 qualitative `r3` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Average weighted coherence was .88 (Communion) and .85 (Agency) in Ethan's classroom versus .14 and .13 in Sam's classroom, indicating much smaller entrainment for Sam. [→ Pennings 2017](#pennings-2017)
@@ -49,7 +49,7 @@ Cross-spectral analysis (SPSS-SPECTRA) of trend-removed time-series; coherence i
 
 ### Pennings 2017 (2)
 
-Pennings, H. J. M. (2017). Using a Complexity Approach to Study the Interpersonal Dynamics in Teacher-Student Interactions: A Case Study of Two Teachers. Complicity: An International Journal of Complexity and Education, 14(2). https://complicityjournal.org
+Pennings, H. J. M. (2017). Using a Complexity Approach to Study the Interpersonal Dynamics in Teacher-Student Interactions: A Case Study of Two Teachers. Complicity: An International Journal of Complexity and Education, 14(2). https://complicityjournal.org. [doi:10.29173/cmplct29338](https://doi.org/10.29173/cmplct29338)
 
 `q2 · i?` · `qualitative · r3`
 

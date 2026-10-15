@@ -65,7 +65,7 @@ Novelty exploits the distinctiveness effect: stimuli that deviate from the surro
 
 ## Examples
 - **Whole Brain Teaching** (https://wholebrainteaching.com) — the "Class–Yes" call-and-response and "Scoreboard" routines embed novelty within a consistent management system
-- **Responsive Classroom** (https://www.responsiveclassroom.org) — uses interactive modeling to teach attention signals, emphasizing predictable routines over novelty for its own sake
+- **[Responsive Classroom](../products/responsive-classroom.md)** (https://www.responsiveclassroom.org) — uses interactive modeling to teach attention signals, emphasizing predictable routines over novelty for its own sake
 - A kindergarten teacher rotates a rain stick, a "marshmallow pop" pretend action, and a themed chime each month, refreshing the repertoire before any single signal loses its effect
 
 ## Key Sources

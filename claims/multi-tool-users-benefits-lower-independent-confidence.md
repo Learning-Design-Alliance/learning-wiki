@@ -18,8 +18,8 @@ sources:
     kind: associational
     rigour: 2
   - id: manikonda-2026-2
-    resource: "https://arxiv.org/abs/2609.18676"
-    title: "Manikonda, L.; Si, M.; Munira, S.; Seneviratne, O.; Bennett, K. (2026). The Uneven Impact of Generative AI on Student Learning: Examining the Roles of Reliance, Evaluation Literacy, and Course Policy in AI-related Courses. https://arxiv.org/abs/2609.18676"
+    resource: "https://doi.org/10.48550/arxiv.2609.18676"
+    title: "Manikonda, L.; Si, M.; Munira, S.; Seneviratne, O.; Bennett, K. (2026). The Uneven Impact of Generative AI on Student Learning: Examining the Roles of Reliance, Evaluation Literacy, and Course Policy in AI-related Courses. https://arxiv.org/abs/2609.18676. [doi:10.48550/arxiv.2609.18676](https://doi.org/10.48550/arxiv.2609.18676)"
     author: Manikonda, L.; Si, M.; Munira, S.; Seneviratne, O.; Bennett, K.
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Multi-tool GenAI users report higher support, reliance, and benefit than single-tool users, but lower confidence working without GenAI
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Multi-tool users reported higher responses than single-tool users on nearly all significant items, with the largest difference for improved academic-work quality (rrb = −0.53). [→ Manikonda 2026](#manikonda-2026)
@@ -50,7 +50,7 @@ Item-level group comparison using two-sided Mann–Whitney U tests with rank-bis
 
 ### Manikonda 2026 (2)
 
-Manikonda, L.; Si, M.; Munira, S.; Seneviratne, O.; Bennett, K. (2026). The Uneven Impact of Generative AI on Student Learning: Examining the Roles of Reliance, Evaluation Literacy, and Course Policy in AI-related Courses. https://arxiv.org/abs/2609.18676
+Manikonda, L.; Si, M.; Munira, S.; Seneviratne, O.; Bennett, K. (2026). The Uneven Impact of Generative AI on Student Learning: Examining the Roles of Reliance, Evaluation Literacy, and Course Policy in AI-related Courses. https://arxiv.org/abs/2609.18676. [doi:10.48550/arxiv.2609.18676](https://doi.org/10.48550/arxiv.2609.18676)
 
 `q2 · i?` · `associational · r2`
 

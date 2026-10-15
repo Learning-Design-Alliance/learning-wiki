@@ -75,7 +75,7 @@ Prediction functions as a form of pretesting: even when predictions are wrong, g
 - [Flipped Classroom](../principles/flipped-learning.md) — pre-class prediction prompts prepare learners to check their expectations against instruction
 
 ## Examples
-- **Reciprocal teaching (Palincsar & Brown)** — small reading groups predict upcoming content at designated points before summarizing, questioning, and clarifying; the routine raised sixth-graders' comprehension substantially in the original studies.
+- **[Reciprocal teaching](reciprocal_teaching.md) (Palincsar & Brown)** — small reading groups predict upcoming content at designated points before summarizing, questioning, and clarifying; the routine raised sixth-graders' comprehension substantially in the original studies.
 - **Physics "predict–observe–explain"** — students predict the outcome of a demonstration (e.g., which mass hits the ground first), observe it, and explain any discrepancy; widely used to confront misconceptions.
 - **Estimation in mathematics** — before computing 47 × 63, students predict whether the answer is closer to 300 or 3,000, building number sense and a plausibility check for their eventual answer.
 

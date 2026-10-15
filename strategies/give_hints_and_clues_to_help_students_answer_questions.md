@@ -65,8 +65,8 @@ Hinting is a form of [Scaffolding](../principles/scaffolding.md) delivered in th
 
 ## Examples
 - **Khan Academy** (https://www.khanacademy.org) — math exercises offer a sequence of hints, each revealing one step; the final hint is a fully worked step, and hint use is tracked as a signal of struggle.
-- **ASSISTments** (https://www.assistments.org) — delivers scaffolded hints and reports to teachers which hint level each student needed, treating hint level as a formative assessment measure.
-- **Reciprocal teaching** — students learn to give each other clarifying prompts ("What does this word mean here?") when a peer cannot answer, transferring the hinting role to learners.
+- **[ASSISTments](../products/assistments.md)** (https://www.assistments.org) — delivers scaffolded hints and reports to teachers which hint level each student needed, treating hint level as a formative assessment measure.
+- **[Reciprocal teaching](reciprocal_teaching.md)** — students learn to give each other clarifying prompts ("What does this word mean here?") when a peer cannot answer, transferring the hinting role to learners.
 
 ## Key Sources
 - Wood, D., Bruner, J. S., & Ross, G. (1976). The role of tutoring in problem solving. *Journal of Child Psychology and Psychiatry, 17*(2), 89–100. [doi:10.1111/j.1469-7610.1976.tb00381.x](https://doi.org/10.1111/j.1469-7610.1976.tb00381.x)

@@ -47,3 +47,4 @@ The review reports this implementation finding, citing Reddy et al. (2024), and 
 - [Poorly grounded GenAI self-study risks fabricated content and inferior learning relative to curated resources](genai-self-study-fabrication-curated-resources.md) — related
 - [The most frequently cited ethical concerns about GenAI in research were hallucinated facts, fabricated references, and misleading content](hallucinated-facts-fabricated-references-top-concerns.md) — related
 - [AI-generated ethics exercise materials carried external citations that did not survive checking, ranging from misattributed to apparently fabricated](ai-generated-ethics-materials-fabricated-citations.md) — possibly the same claim (merge candidate)
+- [ChatGPT fabricates references: the authors caught it inventing a non-existent 'Ribeiro and Vala, 2020' article with full bibliographic details](chatgpt-fabricates-references.md) — related

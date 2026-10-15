@@ -37,7 +37,7 @@ Digital Promise's portfolio of an evidence-gathering framework, a collaborative 
 -
 
 ## Key Sources
-- Angevine, C., Cator, K., Liberman, B., Smith, K., & Young, V. (2019). Designing a Process for Inclusive Innovation: A Radical Commitment to Equity. Digital Promise. https://digitalpromise.dspacedirect.org/items/d6db3e76-2dc9-4ea6-ae68-49814c88e6b6
+- Angevine, C., Cator, K., Liberman, B., Smith, K., & Young, V. (2019). Designing a Process for Inclusive Innovation: A Radical Commitment to Equity. Digital Promise. https://digitalpromise.dspacedirect.org/items/d6db3e76-2dc9-4ea6-ae68-49814c88e6b6. [doi:10.51388/20.500.12265/86](https://doi.org/10.51388/20.500.12265/86)
 - Sierra Noakes, M.Ed. (2018). Use Research Like a Champion. Digital Promise. https://digitalpromise.dspacedirect.org/items/b3640148-4ecf-43c9-bbb6-31da612bae78
 
 <!-- merged 2026-10-10 from elements/digital-promise-data-infrastructure-tools ("Data infrastructure tools supporting rapid-cycle testing: Edtech Pilot Framework, TeamSpace, and Dynamic Learning Project"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
@@ -76,7 +76,7 @@ The report describes three tools from Digital Promise's portfolio that provide i
 - [Provide professional learning opportunities and free tools to support educators in conducting edtech pilot studies](../strategies/professional-learning-and-free-tools-for-edtech-piloting.md)
 
 ## Key Sources
-- Angevine, C., Cator, K., Liberman, B., Smith, K., & Young, V. (2019). Designing a Process for Inclusive Innovation: A Radical Commitment to Equity. Digital Promise. https://digitalpromise.dspacedirect.org/items/d6db3e76-2dc9-4ea6-ae68-49814c88e6b6
+- Angevine, C., Cator, K., Liberman, B., Smith, K., & Young, V. (2019). Designing a Process for Inclusive Innovation: A Radical Commitment to Equity. Digital Promise. https://digitalpromise.dspacedirect.org/items/d6db3e76-2dc9-4ea6-ae68-49814c88e6b6. [doi:10.51388/20.500.12265/86](https://doi.org/10.51388/20.500.12265/86)
 -->
 
 <!-- merged 2026-10-10 from elements/edtech-pilot-framework-digital-promise ("Digital Promise Edtech Pilot Framework"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.

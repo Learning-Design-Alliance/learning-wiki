@@ -55,4 +55,4 @@ The Tutoring Center at Western Washington University uses a model in which "stud
 -
 
 ## Key Sources
-- Cooper, E. (2010). Tutoring Center Effectiveness: The Effect of Drop-In Tutoring. Journal of College Reading and Learning, 40(2). https://eric.ed.gov/?id=EJ887303
+- Cooper, E. (2010). Tutoring Center Effectiveness: The Effect of Drop-In Tutoring. Journal of College Reading and Learning, 40(2). https://eric.ed.gov/?id=EJ887303. [doi:10.1080/10790195.2010.10850328](https://doi.org/10.1080/10790195.2010.10850328)

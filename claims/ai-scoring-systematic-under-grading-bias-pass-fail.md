@@ -18,8 +18,8 @@ sources:
     kind: design
     rigour: 2
   - id: curi-2026-2
-    resource: "https://arxiv.org/abs/2609.05143"
-    title: "Curi, M. E., Capdehourat, G., Amigo, I., Romano, M., Serra, R., Silveira, A., Peri, A. (2026). A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment. arXiv. https://arxiv.org/abs/2609.05143"
+    resource: "https://doi.org/10.48550/arxiv.2609.05143"
+    title: "Curi, M. E., Capdehourat, G., Amigo, I., Romano, M., Serra, R., Silveira, A., Peri, A. (2026). A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment. arXiv. https://arxiv.org/abs/2609.05143. [doi:10.48550/arxiv.2609.05143](https://doi.org/10.48550/arxiv.2609.05143)"
     author: Curi, M. E., Capdehourat, G., Amigo, I., Romano, M., Serra, R., Silveira, A., Peri, A.
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # AI scoring shows a systematic conservative bias, under-grading writing so 15.3% (2024) and 16.5% (2025) of human-passing tests would fail under AI scoring
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The AI model penalizes responses more strictly than human raters; cases where human raters pass but AI fails are 15.3% in 2024 and 16.5% in 2025, while the reverse direction is rare. [→ Curi 2026](#curi-2026)
@@ -50,7 +50,7 @@ Pass/fail confusion matrices (Fig. 7) combining AI Writing results with human pr
 
 ### Curi 2026 (2)
 
-Curi, M. E., Capdehourat, G., Amigo, I., Romano, M., Serra, R., Silveira, A., Peri, A. (2026). A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment. arXiv. https://arxiv.org/abs/2609.05143
+Curi, M. E., Capdehourat, G., Amigo, I., Romano, M., Serra, R., Silveira, A., Peri, A. (2026). A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment. arXiv. https://arxiv.org/abs/2609.05143. [doi:10.48550/arxiv.2609.05143](https://doi.org/10.48550/arxiv.2609.05143)
 
 `q2 · i?` · `design · r2`
 

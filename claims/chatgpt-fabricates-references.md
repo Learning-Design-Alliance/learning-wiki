@@ -1,0 +1,51 @@
+---
+type: claim
+title: "ChatGPT fabricates references: the authors caught it inventing a non-existent 'Ribeiro and Vala, 2020' article with full bibliographic details"
+description: "ChatGPT fabricates references: the authors caught it inventing a non-existent 'Ribeiro and Vala, 2020' article with full bibliographic details"
+id: chatgpt-fabricates-references
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-15
+evidence_strength: weak
+sources:
+  - id: baidoo-anu-2023
+    resource: "https://doi.org/10.61969/jai.1337500"
+    title: "Baidoo-Anu, D., & Owusu Ansah, L. (2023). Education in the Era of Generative Artificial Intelligence (AI): Understanding the Potential Benefits of ChatGPT in Promoting Teaching and Learning. Journal of AI, 7(1), 52-62. https://doi.org/10.61969/jai.1337500"
+    author: "Baidoo-Anu, D., & Owusu Ansah, L."
+    q: 1
+    i: "?"
+    kind: review
+    rigour: 1
+---
+
+# ChatGPT fabricates references: the authors caught it inventing a non-existent 'Ribeiro and Vala, 2020' article with full bibliographic details
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r1` · `q1`
+
+## Subclaims
+`q1 i?` When asked for references on drawbacks, ChatGPT cited a 'Ribeiro and Vala, 2020' conference presentation that the authors' deep search found does not exist. [→ Baidoo-Anu 2023](#baidoo-anu-2023)
+
+## Evidence
+
+### Baidoo-Anu 2023
+
+Baidoo-Anu, D., & Owusu Ansah, L. (2023). Education in the Era of Generative Artificial Intelligence (AI): Understanding the Potential Benefits of ChatGPT in Promoting Teaching and Learning. Journal of AI, 7(1), 52-62. https://doi.org/10.61969/jai.1337500
+
+`q1 · i?` · `review · r1`
+
+The authors' own verification test: ChatGPT cited "Ribeiro and Vala, 2020" with full bibliographic details including a non-functional URL; the authors' search found no such presentation and concluded it was fabricated. Consistent with Qadir's (2022) report of a made-up article.
+
+> "Deep search for ‘Ribeiro and Vala, 2020’ work revealed that there is no conference presentation by Ribeiro and Vala, 2020 on generative artificial AI. Therefore, we have reasons to believe that this was fabricated article."
+
+## Discussion
+
+
+## Related Claims
+- [Of 178 reference sources produced by AI dialogue systems, 69 lacked a DOI and 28 could not be found via Google search and had no existing DOI](ai-confabulated-references-178-sample.md) — related
+- [ChatGPT-generated text shows inaccuracy, weak logical flow, lack of critical elaboration and non-originality in an author's first-hand test](chatgpt-output-inaccuracy-nonoriginality.md) — related
+- [Gen-AI hallucinates sources and values and produces convincing but incorrect explanations, risking student misinformation](genai-hallucination-convincing-incorrect-explanations.md) — related
+- [AI-assisted scientific writing assignments risk fabricated references and altered chemical meaning](genai-writing-fabricated-references.md) — related
+- [AI-generated ethics exercise materials carried external citations that did not survive checking, ranging from misattributed to apparently fabricated](ai-generated-ethics-materials-fabricated-citations.md) — related
+- [The most frequently cited ethical concerns about GenAI in research were hallucinated facts, fabricated references, and misleading content](hallucinated-facts-fabricated-references-top-concerns.md) — related

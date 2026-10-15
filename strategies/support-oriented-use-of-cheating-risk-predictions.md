@@ -9,8 +9,8 @@ generated:
   at: 2026-10-10
 sources:
   - id: akçapınar-2026
-    resource: "https://scholar.google.com/scholar?q=Early+Prediction+of+AI-Assisted+Cheating+Risk+in+Online+Exams+Through+Learning+Analytics"
-    title: "Akçapınar, G. (2026). Early Prediction of AI-Assisted Cheating Risk in Online Exams Through Learning Analytics. https://scholar.google.com/scholar?q=Early+Prediction+of+AI-Assisted+Cheating+Risk+in+Online+Exams+Through+Learning+Analytics"
+    resource: "https://doi.org/10.48550/arxiv.2609.37280"
+    title: "Akçapınar, G. (2026). Early Prediction of AI-Assisted Cheating Risk in Online Exams Through Learning Analytics. https://doi.org/10.48550/arxiv.2609.37280"
     author: Akçapınar, G
 ---
 
@@ -55,4 +55,4 @@ The article recommends treating model output as a trigger for timely academic gu
 -
 
 ## Key Sources
-- Akçapınar, G. (2026). Early Prediction of AI-Assisted Cheating Risk in Online Exams Through Learning Analytics. https://scholar.google.com/scholar?q=Early+Prediction+of+AI-Assisted+Cheating+Risk+in+Online+Exams+Through+Learning+Analytics
+- Akçapınar, G. (2026). Early Prediction of AI-Assisted Cheating Risk in Online Exams Through Learning Analytics. https://doi.org/10.48550/arxiv.2609.37280

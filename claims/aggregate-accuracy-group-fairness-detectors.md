@@ -52,3 +52,5 @@ The review reports Pratama's study of scholarly abstracts, in which "97.22% aggr
 - [Light AI-assisted edits to human-written abstracts are flagged by commercial detectors at 64–80% (Pangram) and 38–49% (GPTZero) rates](light-ai-edits-flagged-at-high-rates.md) — related
 - [Detector flag rates on 2023–2025 original abstracts vary sharply by domain, with non-STEM rates far above STEM](non-stem-abstracts-flagged-more-than-stem.md) — related
 - [AI-content detection tools achieve only marginally higher success than human reviewers, around 80% versus 78.4%](ai-detection-only-marginally-better-than-humans.md) — related
+- [AI-generated-text detectors are reported as ineffective against current sophisticated language models, and students can alter text to evade detection](ai-text-detectors-ineffective.md) — related
+- [Blinded review identified 68% of ChatGPT-generated abstracts as chatbot-produced while 14% of authentic abstracts were misclassified as chatbot-generated](chatgpt-abstract-detection-68-14-percent.md) — related

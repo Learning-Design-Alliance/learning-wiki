@@ -61,3 +61,6 @@ Moderator analysis of the 15 included studies under the random effects model, us
 - The pooled effect of self-regulated learning does not differ significantly between empirical and relational study designs — related
 - [Effect sizes across SRL intervention studies are highly heterogeneous, requiring a random effects model](srl-effect-sizes-heterogeneous-random-effects.md) — related
 - [Self-regulated learning interventions have a moderate effect (0.65) on learning outcomes in online and blended environments](srl-interventions-moderate-effect-online-blended.md) — related
+- The effect of ChatGPT on learning performance is moderated by type of course, learning model, and duration, with problem-based learning and 4–8-week interventions showing the largest effects — related
+- [Most study, measurement, and intervention moderators did not explain significant variance in SRL intervention effect sizes](srl-intervention-moderators-most-nonsignificant.md) — possibly the same claim (merge candidate)
+- [Task motivation and time on task are proposed as factors potentially influencing SRL intervention effectiveness](task-motivation-time-on-task-moderators-hypothesis.md) — related

@@ -53,3 +53,4 @@ The article reports, citing Wahle et al. (2022), that detection tools show "only
 - [AI-detection tools produce inequitable outcomes, disadvantaging non-native English speakers through false positives](ai-detection-tools-inequitable-false-positives.md) — related
 - [AI detectors are reported as linguistically biased, unreliable, and psychologically damaging in student discourse](ai-detectors-reported-unreliable-biased.md) — related
 - [Detection-centered academic integrity regimes are unreliable and potentially biased, making sole reliance on AI detectors unsuitable for high-stakes decisions](ai-detection-unreliable-biased-high-stakes.md) — related
+- [Blinded review identified 68% of ChatGPT-generated abstracts as chatbot-produced while 14% of authentic abstracts were misclassified as chatbot-generated](chatgpt-abstract-detection-68-14-percent.md) — a narrower finding that bears on this claim

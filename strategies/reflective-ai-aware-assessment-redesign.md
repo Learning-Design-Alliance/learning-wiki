@@ -52,4 +52,4 @@ The chapter recommends adapting or redesigning assessment to account for intenti
 -
 
 ## Key Sources
-- Kudina, O. (2025). Using AI in engineering education: a balancing act, driven by clear purpose. Draft version, to appear in The Routledge Handbook of the Philosophy of Engineering, 2nd ed. https://arxiv.org/abs/2606.16626
+- Kudina, O. (2025). Using AI in engineering education: a balancing act, driven by clear purpose. Draft version, to appear in The Routledge Handbook of the Philosophy of Engineering, 2nd ed. https://arxiv.org/abs/2606.16626. [doi:10.48550/arxiv.2606.16626](https://doi.org/10.48550/arxiv.2606.16626)

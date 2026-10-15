@@ -62,3 +62,4 @@ Sensitivity analysis re-estimating the interaction model after excluding flagged
 - [RT propensity shows no reliable main effect on learning rate, while prior proficiency is positively associated with learning rate](no-main-effect-rt-propensity-learning-rate.md) — related
 - [The RT propensity–learning relationship is strongest early in the class session and attenuates later](rt-learning-relationship-strongest-early-session.md) — related
 - [Response-time propensities show moderate to strong within-student stability across practice session slices](rt-propensities-moderate-strong-stability.md) — related
+- [Baseline interaction quality moderates component-outcome relations, with strongest relations for teachers with the lowest baseline quality](baseline-quality-moderates-component-relations.md) — related

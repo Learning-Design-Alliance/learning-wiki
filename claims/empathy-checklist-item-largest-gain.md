@@ -18,8 +18,8 @@ sources:
     kind: causal
     rigour: 2
   - id: yang-2026-2
-    resource: "https://arxiv.org/abs/2609.10939"
-    title: "Yang, L., Liu, H., Li, S., Jia, R., Xiao, Y., Chen, G., & Lu, L. (2026). Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training. https://arxiv.org/abs/2609.10939"
+    resource: "https://doi.org/10.48550/arxiv.2609.10939"
+    title: "Yang, L., Liu, H., Li, S., Jia, R., Xiao, Y., Chen, G., & Lu, L. (2026). Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training. https://arxiv.org/abs/2609.10939. [doi:10.48550/arxiv.2609.10939](https://doi.org/10.48550/arxiv.2609.10939)"
     author: "Yang, L., Liu, H., Li, S., Jia, R., Xiao, Y., Chen, G., & Lu, L."
     q: 3
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # The largest checklist-item gain from multi-agent scaffolding was in observable empathic expression, with additional gains in selected history-taking items
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q3`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Checklist coverage of expressing empathy was 31 percentage points higher in the multi-agent group, significant after Holm correction. [→ Yang 2026](#yang-2026)
@@ -50,7 +50,7 @@ Item-level checklist comparison in the randomized exam phase found the "item exp
 
 ### Yang 2026 (2)
 
-Yang, L., Liu, H., Li, S., Jia, R., Xiao, Y., Chen, G., & Lu, L. (2026). Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training. https://arxiv.org/abs/2609.10939
+Yang, L., Liu, H., Li, S., Jia, R., Xiao, Y., Chen, G., & Lu, L. (2026). Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training. https://arxiv.org/abs/2609.10939. [doi:10.48550/arxiv.2609.10939](https://doi.org/10.48550/arxiv.2609.10939)
 
 `q3 · i?` · `causal · r2`
 

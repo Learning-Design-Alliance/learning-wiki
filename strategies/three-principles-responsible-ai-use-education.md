@@ -51,4 +51,4 @@ The paper proposes that AI in education should follow three principles. First, e
 -
 
 ## Key Sources
-- Favero, L., Pérez-Ortiz, J. A., Käser, T., & Oliver, N. (2025). Do AI tutors empower or enslave learners? Toward a critical use of AI in education. Applications of Generative AI to support teaching and learning in Higher Education, co-located with AIED 2025, Palermo, Italy. https://arxiv.org/abs/2507.06878
+- Favero, L., Pérez-Ortiz, J. A., Käser, T., & Oliver, N. (2025). Do AI tutors empower or enslave learners? Toward a critical use of AI in education. Applications of Generative AI to support teaching and learning in Higher Education, co-located with AIED 2025, Palermo, Italy. https://arxiv.org/abs/2507.06878. [doi:10.48550/arxiv.2507.06878](https://doi.org/10.48550/arxiv.2507.06878)

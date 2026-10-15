@@ -97,3 +97,4 @@ This paper synthesizes meta-analytic evidence on learning strategies into a mode
 - [Error correction supports learning when it requires substantive cognitive work such as explanation and reconstruction](error-correction-effort-supports-learning.md) — related
 - [Existing theoretical accounts attributing the testing effect to enhanced semantic elaboration receive limited support](limited-support-semantic-elaboration-testing-accounts.md) — related
 - [Elaborative interrogation improved true/false test performance in an introductory biology course context](elaborative-interrogation-biology-course-context.md) — related
+- [Underlining and adjunct questions may hinder rather than help recall in young readers, reflecting a comprehension rather than a metacomprehension deficit](underlining-adjunct-questions-hinder-young-readers-comprehension-deficit.md) — reports the opposite

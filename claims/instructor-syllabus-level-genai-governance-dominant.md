@@ -47,3 +47,4 @@ Qualitative document analysis with inductive thematic analysis of official insti
 - [Universities pair academic-integrity guidance with AI literacy and student readiness supports, treating literacy as strategic rather than punitive](genai-integrity-paired-with-ai-literacy.md) — related
 - [Universities converge on disclosure and attribution expectations as the condition distinguishing legitimate AI assistance from misrepresentation](genai-disclosure-attribution-convergence.md) — related
 - [A scaffolded participatory exercise in which students wrote rules governing the instructor's own AI use produced an accountability framework the instructor found more usable than institutional guidance](student-authored-instructor-ai-rules-accountability.md) — related
+- [Nearly all top-50 universities provide faculty GenAI guidelines, with 94% emphasizing establishing and communicating course-specific GenAI policies](faculty-guidelines-course-specific-genai-policies.md) — related

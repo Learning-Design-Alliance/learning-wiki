@@ -69,7 +69,7 @@ The strongest finding in the management literature is that prevention outperform
 - **Positive Behavioral Interventions and Supports (PBIS)** ([https://www.pbis.org](https://www.pbis.org)) — school-wide framework teaching expectations explicitly and tiering support; associated with reductions in office discipline referrals [+M]
 - **CHAMPS (Sprick)** — proactive classroom-level system in which teachers define and rehearse expectations for each major activity type
 - **Restorative practices in Denver Public Schools** — district-wide shift from exclusionary discipline to repair-based conversations, associated with reduced suspensions [~M]
-- **Direct Instruction (Engelmann)** — management achieved through rapid choral response, tight scripting, and continuous engagement rather than separate discipline systems
+- **[Direct Instruction](../patterns/direct-instruction.md) (Engelmann)** — management achieved through rapid choral response, tight scripting, and continuous engagement rather than separate discipline systems
 
 ## Key Sources
 - Korpershoek, H., Harms, T., de Boer, H., van Kuijk, M., & Doolaard, S. (2016). A meta-analysis of the effects of classroom management strategies and classroom management programs on students' academic, behavioral, emotional, and motivational outcomes. *Review of Educational Research, 86*(3), 643–680. [doi:10.3102/0034654315626799](https://doi.org/10.3102/0034654315626799)

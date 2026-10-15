@@ -73,7 +73,7 @@ Relationship skills are teachable: meta-analytic evidence shows that sequenced, 
 - [Target school-climate improvement within individual schools and communities, using schoolwide behavior systems, social-emotional learning, and compensatory supports](school-climate-improvement-strategies-for-equity.md)
 
 ## Examples
-- **Responsive Classroom** (https://www.responsiveclassroom.org) — uses daily morning meetings and structured partner activities as the universal Tier 1 context in which teachers observe and coach relationship skills.
+- **[Responsive Classroom](../products/responsive-classroom.md)** (https://www.responsiveclassroom.org) — uses daily morning meetings and structured partner activities as the universal Tier 1 context in which teachers observe and coach relationship skills.
 - **PATHS curriculum** (https://www.pathseducation.com) — a published SEL program with explicit lessons on friendship and conflict resolution followed by in-context coaching.
 - **Cooperative learning with assigned roles** (e.g., Kagan structures, https://www.kaganonline.com) — assigning roles such as encourager or recorder gives a learner with weak initiation skills a defined, rehearsed entry point into interaction.
 - **Second Step** (https://www.secondstep.org) — includes scripted skill practice and take-home activities targeting specific interpersonal sub-skills.

@@ -81,7 +81,7 @@ Innovation in schools is fundamentally a team learning problem, and team learnin
 
 ## Examples
 - **Networked Improvement Communities (Carnegie Foundation)** — Bryk et al.'s model in which schools across a network run rapid PDSA cycles on shared problems, with failures documented as learning for the whole network ([Carnegie Foundation](https://www.carnegiefoundation.org))
-- **Lesson Study (Japan)** — collaborative planning, public teaching of a research lesson, and structured observation; the "lesson" is expected to be imperfect because its flaws are the object of study
+- **[Lesson Study](lesson-study.md) (Japan)** — collaborative planning, public teaching of a research lesson, and structured observation; the "lesson" is expected to be imperfect because its flaws are the object of study
 - **Google's 20% time adapted for schools** — some districts allocate regular staff time for teacher-initiated pilots, with a showcase for sharing results regardless of outcome
 
 ## Key Sources

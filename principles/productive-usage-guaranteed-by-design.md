@@ -155,7 +155,7 @@ Productive use in the tool, assisted performance, unaided immediate performance,
 - [Five design principles: one artifact, dependency sequencing, progressive sim-hardware integration, scaffolded bounded choice, and paired collaboration with individual evidence](../designs/five-principles-robotics-course-framework.md)
 
 ## Key Sources
-- Podolefsky, N. S., Moore, E. B., & Perkins, K. K. (2013). Implicit scaffolding in interactive simulations: Design strategies to support multiple educational goals. http://phet.colorado.edu/en/simulation/energy-skate-park-basics
+- Podolefsky, N. S., Moore, E. B., & Perkins, K. K. (2013). Implicit scaffolding in interactive simulations: Design strategies to support multiple educational goals. http://phet.colorado.edu/en/simulation/energy-skate-park-basics. [doi:10.48550/arxiv.1306.6544](https://doi.org/10.48550/arxiv.1306.6544)
 
 <!-- deprecated 2026-10-15: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -194,7 +194,7 @@ Drawing on Norman's tool-design model, the article argues that effective designs
 - [Five design principles: one artifact, dependency sequencing, progressive sim-hardware integration, scaffolded bounded choice, and paired collaboration with individual evidence](../designs/five-principles-robotics-course-framework.md)
 
 ## Key Sources
-- Podolefsky, N. S., Moore, E. B., & Perkins, K. K. (2013). Implicit scaffolding in interactive simulations: Design strategies to support multiple educational goals. http://phet.colorado.edu/en/simulation/energy-skate-park-basics
+- Podolefsky, N. S., Moore, E. B., & Perkins, K. K. (2013). Implicit scaffolding in interactive simulations: Design strategies to support multiple educational goals. http://phet.colorado.edu/en/simulation/energy-skate-park-basics. [doi:10.48550/arxiv.1306.6544](https://doi.org/10.48550/arxiv.1306.6544)
 -->
 
 <!-- merged 2026-10-15 from patterns/four-category-implicit-scaffolding-pattern ("Four-category design pattern for implicit scaffolding in simulations"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
@@ -237,5 +237,5 @@ The article organizes implicit scaffolding strategies into four categories that 
 -
 
 ## Key Sources
-- Podolefsky, N. S., Moore, E. B., & Perkins, K. K. (2013). Implicit scaffolding in interactive simulations: Design strategies to support multiple educational goals. http://phet.colorado.edu/en/simulation/energy-skate-park-basics
+- Podolefsky, N. S., Moore, E. B., & Perkins, K. K. (2013). Implicit scaffolding in interactive simulations: Design strategies to support multiple educational goals. http://phet.colorado.edu/en/simulation/energy-skate-park-basics. [doi:10.48550/arxiv.1306.6544](https://doi.org/10.48550/arxiv.1306.6544)
 -->

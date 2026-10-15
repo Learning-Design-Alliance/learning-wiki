@@ -18,16 +18,16 @@ sources:
     kind: review
     rigour: 2
   - id: chan-2026-2
-    resource: "https://arxiv.org/abs/2607.05412"
-    title: "Chan, J. Y. (Zexi Chen), Chen, M., Hong, Y., Song, Z., Wang, H., & Xu, X. (2026). Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda. https://arxiv.org/abs/2607.05412"
+    resource: "https://doi.org/10.48550/arxiv.2607.05412"
+    title: "Chan, J. Y. (Zexi Chen), Chen, M., Hong, Y., Song, Z., Wang, H., & Xu, X. (2026). Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda. https://arxiv.org/abs/2607.05412. [doi:10.48550/arxiv.2607.05412](https://doi.org/10.48550/arxiv.2607.05412)"
     author: "Chan, J. Y. (Zexi Chen), Chen, M., Hong, Y., Song, Z., Wang, H., & Xu, X."
     q: 2
     i: "?"
     kind: review
     rigour: 2
   - id: chan-2026-3
-    resource: "https://arxiv.org/abs/2607.05412"
-    title: "Chan, J. Y. (Zexi Chen), Chen, M., Hong, Y., Song, Z., Wang, H., & Xu, X. (2026). Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda. https://arxiv.org/abs/2607.05412"
+    resource: "https://doi.org/10.48550/arxiv.2607.05412"
+    title: "Chan, J. Y. (Zexi Chen), Chen, M., Hong, Y., Song, Z., Wang, H., & Xu, X. (2026). Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda. https://arxiv.org/abs/2607.05412. [doi:10.48550/arxiv.2607.05412](https://doi.org/10.48550/arxiv.2607.05412)"
     author: "Chan, J. Y. (Zexi Chen), Chen, M., Hong, Y., Song, Z., Wang, H., & Xu, X."
     q: 2
     i: "?"
@@ -38,7 +38,7 @@ sources:
 # The review identifies three pathways of AI-empowered STEM education: technological leap to generative AI, integration into instructional systems, and value shift toward competency cultivation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies (3 entries) · 2 review `r2` · `q2`
+> **Evidence** · 1 study (3 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Path 1: AI evolved from a basic tool linked to education and technology toward generative AI, becoming an intelligent partner embedded in instruction. [→ Chan 2026](#chan-2026)
@@ -59,7 +59,7 @@ Bibliometric keyword-evolution analysis (Path 1). The article reports that "AI" 
 
 ### Chan 2026 (2)
 
-Chan, J. Y. (Zexi Chen), Chen, M., Hong, Y., Song, Z., Wang, H., & Xu, X. (2026). Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda. https://arxiv.org/abs/2607.05412
+Chan, J. Y. (Zexi Chen), Chen, M., Hong, Y., Song, Z., Wang, H., & Xu, X. (2026). Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda. https://arxiv.org/abs/2607.05412. [doi:10.48550/arxiv.2607.05412](https://doi.org/10.48550/arxiv.2607.05412)
 
 `q2 · i?` · `review · r2`
 
@@ -69,7 +69,7 @@ Bibliometric keyword-evolution analysis (Path 2). Early-stage technologies forme
 
 ### Chan 2026 (3)
 
-Chan, J. Y. (Zexi Chen), Chen, M., Hong, Y., Song, Z., Wang, H., & Xu, X. (2026). Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda. https://arxiv.org/abs/2607.05412
+Chan, J. Y. (Zexi Chen), Chen, M., Hong, Y., Song, Z., Wang, H., & Xu, X. (2026). Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda. https://arxiv.org/abs/2607.05412. [doi:10.48550/arxiv.2607.05412](https://doi.org/10.48550/arxiv.2607.05412)
 
 `q2 · i?` · `review · r2`
 
@@ -89,3 +89,4 @@ Bibliometric keyword-evolution analysis (Path 3). Early research centered on kno
 - [Current AI deployments in higher education remain task-oriented rather than ecosystem-oriented despite advances in LLMs and multimodal AI](functional-fragmentation-persists-despite-llm-advances.md) — related
 - Keyword co-occurrence analysis identifies three thematic clusters: traditional AI/predictive modeling, medical education with generative AI, and ethics/knowledge/healthcare integration — related
 - [A datafication-to-commodification governance pathway can shift education from a value-based practice toward a commodified service](datafication-to-commodification-governance-pathway.md) — related
+- AI knowledge and education are increasingly emphasized in Federal STEM education programs and are a component of the Computer Science for All initiative — related

@@ -122,6 +122,7 @@ For novices, unguided problem solving forces working memory to be spent on searc
 5. As expertise grows, drop examples and shift to unsupported problem solving [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~S].
 
 ## Related Strategies
+
 - [Completion Problems First](completion-problems-first.md) — the intermediate rung between studying full examples and solving alone
 - [Self-Explanation Prompting](self-explanation-prompts.md) — the mechanism that converts example study into schema construction
 - [Contrasting Cases](contrasting-cases.md) — multiple examples that highlight when a method applies
@@ -130,6 +131,7 @@ For novices, unguided problem solving forces working memory to be spent on searc
 - [Erroneous Examples](../elements/erroneous-examples.md) — flawed worked examples that build error-detection skill
 - [Worked Example Routine](worked_example_routine.md) — a structured classroom routine that formalizes this cycle
 - [Comparing Multiple Solution Methods](comparing_multiple_solution_methods.md) — an extension that pairs two worked examples for comparison
+- [Consider alternatives to self-explanation — instructional explanations, sequenced problem solving, retrieval practice — given its time demands](weigh-alternatives-to-self-explanation-time-demands.md)
 
 ## Examples
 - **Sweller & Cooper's algebra sequence (1985)** — alternating worked-example/problem pairs replaced conventional problem solving in algebra instruction, halving time-to-criterion while improving test accuracy.

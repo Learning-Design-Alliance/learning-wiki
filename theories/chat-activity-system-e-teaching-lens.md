@@ -52,4 +52,4 @@ The article applies Engeström's CHAT, in which the activity system is "object-o
 - [Interpret CHAT study results by starting with simple start-to-finish change analysis, then working through relationships among activity elements](../strategies/chat-interpretation-simple-to-whole-activity.md)
 
 ## Key Sources
-- Murphy, E., & Rodriguez-Manzanares, M. A. (2009). Sage without a Stage: Expanding the Object of Teaching in a Web-Based, High-School Classroom. International Review of Research in Open and Distance Learning, 10(3). https://www.irrodl.org/index.php/irrodl
+- Murphy, E., & Rodriguez-Manzanares, M. A. (2009). Sage without a Stage: Expanding the Object of Teaching in a Web-Based, High-School Classroom. International Review of Research in Open and Distance Learning, 10(3). https://www.irrodl.org/index.php/irrodl. [doi:10.19173/irrodl.v10i3.579](https://doi.org/10.19173/irrodl.v10i3.579)

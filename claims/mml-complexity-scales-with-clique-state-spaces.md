@@ -18,8 +18,8 @@ sources:
     kind: theoretical
     rigour: 2
   - id: rijmen-2009-2
-    resource: "http://www.ets.org/research/contact.html"
-    title: "Rijmen, F. (2009). Efficient Full Information Maximum Likelihood Estimation for Multidimensional IRT Models. ETS Research Report RR-09-03. http://www.ets.org/research/contact.html"
+    resource: "https://doi.org/10.1002/j.2333-8504.2009.tb02160.x"
+    title: "Rijmen, F. (2009). Efficient Full Information Maximum Likelihood Estimation for Multidimensional IRT Models. ETS Research Report RR-09-03. http://www.ets.org/research/contact.html. [doi:10.1002/j.2333-8504.2009.tb02160.x](https://doi.org/10.1002/j.2333-8504.2009.tb02160.x)"
     author: Rijmen, F.
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Computational complexity of the graph-based MML procedure scales with the number of latent variables within a conditionally independent subset, and brute-force integration scales exponentially with dimensionality
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 theoretical `r2`–`r3` · `q2`
+> **Evidence** · 1 study (2 entries) · theoretical `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` The computational complexity of a full information MML procedure exploiting the model's conditional independence relations scales with the number of latent variables within a subset, which may be substantially lower than the total number of latent variables. [→ Rijmen 2009](#rijmen-2009)
@@ -50,7 +50,7 @@ Analytical statement from the introduction, elaborated in the junction tree algo
 
 ### Rijmen 2009 (2)
 
-Rijmen, F. (2009). Efficient Full Information Maximum Likelihood Estimation for Multidimensional IRT Models. ETS Research Report RR-09-03. http://www.ets.org/research/contact.html
+Rijmen, F. (2009). Efficient Full Information Maximum Likelihood Estimation for Multidimensional IRT Models. ETS Research Report RR-09-03. http://www.ets.org/research/contact.html. [doi:10.1002/j.2333-8504.2009.tb02160.x](https://doi.org/10.1002/j.2333-8504.2009.tb02160.x)
 
 `q2 · i?` · `theoretical · r3`
 

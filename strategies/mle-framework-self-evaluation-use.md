@@ -43,4 +43,4 @@ The article recommends using the indicator grid as a tool of self-evaluation for
 -
 
 ## Key Sources
-- Felini, D. (2014). Quality Media Literacy Education: A Tool for Teachers and Teacher Educators of Italian Elementary Schools. Journal of Media Literacy Education, 6(1), 28-43. https://www.jmle.org
+- Felini, D. (2014). Quality Media Literacy Education: A Tool for Teachers and Teacher Educators of Italian Elementary Schools. Journal of Media Literacy Education, 6(1), 28-43. https://www.jmle.org. [doi:10.23860/jmle-6-1-3](https://doi.org/10.23860/jmle-6-1-3)

@@ -49,4 +49,4 @@ The survey measured whether each student's post-COVID course used "eight instruc
 - [Use personal progress messages, real-world examples, and reflection assignments to support online course satisfaction](../strategies/personal-messages-real-world-examples-reflection-online.md)
 
 ## Key Sources
-- Means, B., and Neisler, J., with Langer Research Associates. (2020). Suddenly Online: A National Survey of Undergraduates During the COVID-19 Pandemic. San Mateo, CA: Digital Promise. https://digitalpromise.dspacedirect.org/items/32aee7c4-5363-4d50-bc9c-a338e7dfac7e
+- Means, B., and Neisler, J., with Langer Research Associates. (2020). Suddenly Online: A National Survey of Undergraduates During the COVID-19 Pandemic. San Mateo, CA: Digital Promise. https://digitalpromise.dspacedirect.org/items/32aee7c4-5363-4d50-bc9c-a338e7dfac7e. [doi:10.51388/20.500.12265/98](https://doi.org/10.51388/20.500.12265/98)

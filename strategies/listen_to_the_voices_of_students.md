@@ -72,7 +72,7 @@ Elevating student voice builds on self-determination research: experiences of au
 
 ## Examples
 - **Youth participatory action research** (e.g., the [Public Science Project](https://www.publicscienceproject.org) at CUNY Graduate Center) — students design and conduct research on problems in their own communities and present findings to authentic audiences.
-- **Student-led conferences** — replacing teacher-led parent conferences with students presenting their own learning narratives and goals.
+- **[Student-led conferences](student-led-conferences.md)** — replacing teacher-led parent conferences with students presenting their own learning narratives and goals.
 - **Story-centered projects** — learners designing projects that reflect their cultural backgrounds and experiences, then leading class discussion on topics of their choosing.
 
 ## Key Sources

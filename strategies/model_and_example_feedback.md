@@ -63,7 +63,7 @@ Exemplars work because they convert abstract rubric language into perceptual, co
 - [Action-Oriented Feedback](action-oriented-feedback.md) — exemplars show the target; actionable feedback tells learners how to close the gap
 
 ## Examples
-- **Calibrated Peer Review (https://calibratedpeerreview.org)** — students first rate sample essays and receive feedback on the accuracy of their judgments before reviewing peers, operationalizing exemplar-based calibration.
+- **[Calibrated Peer Review](calibrated_peer_review.md) (https://calibratedpeerreview.org)** — students first rate sample essays and receive feedback on the accuracy of their judgments before reviewing peers, operationalizing exemplar-based calibration.
 - **Writing-across-the-curriculum practice** — instructors distribute an annotated A paper and a C paper side by side; students list the differences before drafting, then self-assess their draft against the A model.
 - **Video-based coaching** — a coach shows footage of expert technique alongside a novice's attempt, pausing to contrast specific movement features before practice.
 

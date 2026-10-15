@@ -84,7 +84,7 @@ Pair games convert drill into a fast-paced social activity, increasing time-on-t
 - [NCTM Illuminations](https://www.nctm.org/classroom-resources/illuminations/) — searchable collection of classroom math games and interactives
 
 ## Examples
-- **Finger Speed-Sums** in a 2nd-grade classroom: pairs face each other, each flashes 1–5 fingers, first to call the sum scores a point; teacher rotates partners every three minutes.
+- **[Finger Speed-Sums](finger_speed-sums.md)** in a 2nd-grade classroom: pairs face each other, each flashes 1–5 fingers, first to call the sum scores a point; teacher rotates partners every three minutes.
 - **Math for Love** games used as a 10-minute warm-up before a lesson on place value, with operation and number range adjusted per table.
 
 ## Key Sources

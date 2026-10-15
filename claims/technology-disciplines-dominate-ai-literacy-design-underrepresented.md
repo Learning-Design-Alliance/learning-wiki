@@ -68,3 +68,6 @@ Same disciplinary mapping analysis (Fig. 7). The review reports the Design dimen
 - [AIL is delineated from related literacies: it extends Data, Media and Computational Literacy with human-AI interaction and ethical reasoning about autonomous systems](ail-delineation-from-related-literacies.md) — related
 - [Expert-led curriculum mapping of two programs shows discipline-specific AIL emphasis: technical programs stress TKS and AP, humanities-oriented programs stress EAR and SIU](curriculum-mapping-discipline-specific-ail-profiles.md) — related
 - Agentic AI in education research concentrates on higher education, computer science, and text-based tutoring-like contexts — related
+- [AIEd research is dominated by computer science and STEM disciplines, with minimal educator involvement](aied-research-dominated-by-cs-stem.md) — related
+- [K-12 AI learning experiences concentrate on technical, conceptual and applied skills in specific domains, while implementation schemes are led by the US and China](k12-ai-experiences-domain-limited-us-china-lead.md) — related
+- [Language learning was the most common subject domain for AIEd in higher education, at 17%](language-learning-top-subject-domain-ai-ed-he.md) — related

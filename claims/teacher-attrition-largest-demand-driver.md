@@ -18,8 +18,8 @@ sources:
     kind: associational
     rigour: 2
   - id: sutcher-2016-2
-    resource: "https://learningpolicyinstitute.org/product/coming-crisis-teaching"
-    title: "Sutcher, L., Darling-Hammond, L., & Carver-Thomas, D. (2016). A coming crisis in teaching? Teacher supply, demand, and shortages in the U.S. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/coming-crisis-teaching"
+    resource: "https://doi.org/10.54300/247.242"
+    title: "Sutcher, L., Darling-Hammond, L., & Carver-Thomas, D. (2016). A coming crisis in teaching? Teacher supply, demand, and shortages in the U.S. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/coming-crisis-teaching. [doi:10.54300/247.242](https://doi.org/10.54300/247.242)"
     author: "Sutcher, L., Darling-Hammond, L., & Carver-Thomas, D."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # High teacher attrition, near 8% annually, is the largest share of teacher demand, and halving it could virtually eliminate shortages
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Attrition of nearly 8% of the workforce annually accounts for the largest share of annual teacher demand, and reducing attrition by half could virtually eliminate shortages. [→ Sutcher 2016](#sutcher-2016)
@@ -50,7 +50,7 @@ The report's demand modeling, decomposing demand into enrollment growth, pupil-t
 
 ### Sutcher 2016 (2)
 
-Sutcher, L., Darling-Hammond, L., & Carver-Thomas, D. (2016). A coming crisis in teaching? Teacher supply, demand, and shortages in the U.S. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/coming-crisis-teaching
+Sutcher, L., Darling-Hammond, L., & Carver-Thomas, D. (2016). A coming crisis in teaching? Teacher supply, demand, and shortages in the U.S. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/coming-crisis-teaching. [doi:10.54300/247.242](https://doi.org/10.54300/247.242)
 
 `q2 · i?` · `associational · r2`
 

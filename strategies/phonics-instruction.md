@@ -54,7 +54,7 @@ Phonics works because it builds automatic word recognition, which frees limited 
 - Beginning readers in kindergarten through grade 1, where effects are largest [+S]
 - Struggling decoders and students with dyslexia, for whom explicit systematic phonics is a core evidence-based component of intervention [+S]
 - Less beneficial for readers who have already achieved automatic decoding; continued phonics drill for them is redundant and consumes instructional time [-M]
-- Beginning readers in kindergarten through grade 1, who show the largest gains [Ehri et al.'s meta-analysis of 38 studies.](https://doi.org/10.1598/RRQ.36.3.5) [+S]
+- Beginning readers in kindergarten through grade 1, who show the largest gains [Ehri et al.'s meta-analysis of 38 studies.](https://doi.org/10.3102/00346543071003393) [+S]
 - Struggling readers and students with dyslexia, who benefit from more explicit, more intensive, and longer-duration instruction [+S]
 - Older struggling readers and English learners, for whom effects are positive but smaller and must be paired with vocabulary and language development [~M]
 - Already-fluent readers, who gain little [~M]
@@ -114,7 +114,7 @@ Phonics instruction teaches learners the correspondences between letters (graphe
 
 ## Design Implications
 
-Systematic phonics instruction produces reliably stronger word-reading outcomes than non-systematic or incidental approaches, with the largest effects for children in kindergarten and first grade [Ehri et al.'s meta-analysis of 38 studies.](https://doi.org/10.1598/RRQ.36.3.5) [+S]. Its ultimate purpose is automatic word recognition: once decoding becomes effortless, limited working-memory resources are freed for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Instruction should therefore move deliberately from accurate decoding to [Automaticity](../elements/automaticity.md) through high-volume, successful reading of decodable text.
+Systematic phonics instruction produces reliably stronger word-reading outcomes than non-systematic or incidental approaches, with the largest effects for children in kindergarten and first grade [Ehri et al.'s meta-analysis of 38 studies.](https://doi.org/10.3102/00346543071003393) [+S]. Its ultimate purpose is automatic word recognition: once decoding becomes effortless, limited working-memory resources are freed for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Instruction should therefore move deliberately from accurate decoding to [Automaticity](../elements/automaticity.md) through high-volume, successful reading of decodable text.
 
 ### Context
 #### Requirements
@@ -135,7 +135,7 @@ Systematic phonics instruction produces reliably stronger word-reading outcomes 
 - Multisensory adaptations (e.g., Orton-Gillingham–derived programs) for learners with dyslexia [+W]
 
 ### Target Learners
-- Beginning readers in kindergarten through grade 1, who show the largest gains [Ehri et al.'s meta-analysis of 38 studies.](https://doi.org/10.1598/RRQ.36.3.5) [+S]
+- Beginning readers in kindergarten through grade 1, who show the largest gains [Ehri et al.'s meta-analysis of 38 studies.](https://doi.org/10.3102/00346543071003393) [+S]
 - Struggling readers and students with dyslexia, who benefit from more explicit, more intensive, and longer-duration instruction [+S]
 - Older struggling readers and English learners, for whom effects are positive but smaller and must be paired with vocabulary and language development [~M]
 - Already-fluent readers, who gain little [~M]

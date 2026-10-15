@@ -46,6 +46,7 @@ The paper outlines a design process expanding design thinking, value-sensitive d
 - [Inclusive Innovation Process](inclusive_innovation_process.md)
 - [Five-step iterative co-design process for developing edtech evaluation criteria with learners and vendors](five-step-codesign-badge-development-process.md)
 - [Seven IUX methodologies for centering learners in LER technology development](iux-methodologies-ler-learner-centered.md)
+- [Outline strategies and technological interventions to alleviate over-reliance and foster responsible use of AI dialogue systems](strategies-interventions-responsible-ai-use.md)
 
 ## Examples
 -

@@ -96,10 +96,10 @@ PBS reframes behavior management from reactive discipline to instructional desig
 
 ## Examples
 - **SWPBIS** (https://www.pbis.org) — the U.S. OSEP-funded national implementation framework; thousands of schools report reduced office discipline referrals under faithful Tier 1 implementation [~S]
-- **Check-In/Check-Out (CICO)** — a widely validated Tier 2 intervention in which a mentor greets the student each morning, reviews goals, and closes the day with feedback
+- **[Check-In/Check-Out](check-incheck-out.md) (CICO)** — a widely validated Tier 2 intervention in which a mentor greets the student each morning, reviews goals, and closes the day with feedback
 - **Praise-based acknowledgment systems** (e.g., "gotcha" tickets exchanged for privileges) — effective when paired with specific verbal feedback, not as stand-alone token economies
 - **[PBIS](https://www.pbis.org)** — the OSEP-funded national technical assistance center; provides the standard Tier 1–3 implementation guides used in over 25,000 U.S. schools.
-- **Check-In/Check-Out (CICO)** — a Tier 2 intervention in which a mentor greets the student each morning, sets daily point goals, and reviews progress each afternoon; meta-analytic evidence supports moderate reductions in problem behavior for escape- and attention-maintained behavior [~M].
+- **[Check-In/Check-Out](check-incheck-out.md) (CICO)** — a Tier 2 intervention in which a mentor greets the student each morning, sets daily point goals, and reviews progress each afternoon; meta-analytic evidence supports moderate reductions in problem behavior for escape- and attention-maintained behavior [~M].
 - **Functional communication training** — teaching a nonverbal student to request a break with a card instead of throwing materials, directly replacing escape-motivated aggression.
 
 ## Key Sources

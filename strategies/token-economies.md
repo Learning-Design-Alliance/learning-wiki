@@ -72,7 +72,7 @@ Token economies reliably increase targeted on-task and prosocial behaviors in cl
 
 ## Examples
 - **Class Dojo** (https://www.classdojo.com) — digital point awarding for named behaviors; most defensible when points are private and tied to specific, stated behaviors rather than public leaderboards.
-- **Check-In/Check-Out (CICO)** in School-Wide Positive Behavior Interventions and Supports (PBIS, https://www.pbis.org) — students receive daily point sheets scored by teachers, exchanged for brief adult mentoring sessions; a token economy embedded in a tier-2 support framework.
+- **[Check-In/Check-Out](check-incheck-out.md) (CICO)** in School-Wide Positive Behavior Interventions and Supports (PBIS, https://www.pbis.org) — students receive daily point sheets scored by teachers, exchanged for brief adult mentoring sessions; a token economy embedded in a tier-2 support framework.
 - **Level systems in specialized day-treatment classrooms** — students progress through privilege tiers (e.g., more unstructured time, peer-choice seating) as points accumulate, with privileges functioning as the backup reinforcer menu.
 
 ## Key Sources

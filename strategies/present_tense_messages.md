@@ -62,7 +62,7 @@ Anxious, future-oriented self-talk consumes working memory with off-task ruminat
 - [Action-Oriented Feedback](action-oriented-feedback.md) — external counterpart to the strategy: feedback phrased as next actions reinforces the same process focus
 
 ## Examples
-- **Writing conferences** — A teacher coaching a stuck essayist prompts: "Tell me what you're doing right now" — converting "this is too hard" into "I'm writing my topic sentence."
+- **[Writing conferences](writing-conferences.md)** — A teacher coaching a stuck essayist prompts: "Tell me what you're doing right now" — converting "this is too hard" into "I'm writing my topic sentence."
 - **Test-taking routines** — Students rehearse a present-tense script ("I am reading each choice and crossing out wrong ones") before beginning an exam, a common component of anxiety-reduction programs.
 - **Distanced self-talk in emotion regulation** — Kross and colleagues' studies had participants use second-person or their own name ("You can do this next step") to reduce rumination before stressful tasks.
 

@@ -1,0 +1,48 @@
+---
+type: claim
+title: "Coached peer review improves the specificity of reviewer comments and receivers' uptake of feedback"
+description: "Coached peer review improves the specificity of reviewer comments and receivers' uptake of feedback"
+id: coached-peer-review-improves-comment-quality-and-uptake
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-15
+evidence_strength: weak
+sources:
+  - id: david-carless-david-boud-2018
+    resource: "https://doi.org/10.1080/02602938.2018.1463354"
+    title: "David Carless & David Boud. (2018). The development of student feedback literacy: enabling uptake of feedback. Assessment & Evaluation in Higher Education, 43(8), 1315-1325. https://doi.org/10.1080/02602938.2018.1463354"
+    author: "David Carless & David Boud"
+    q: 2
+    i: "?"
+    kind: review
+    rigour: 2
+---
+
+# Coached peer review improves the specificity of reviewer comments and receivers' uptake of feedback
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r2` · `q2`
+
+## Subclaims
+`q2 i?` After modelling and coaching in peer feedback, reviewers improved in composing specific and relevant feedback and receivers evidenced uptake of peer feedback. [→ David Carless & David Boud 2018](#david-carless-david-boud-2018)
+
+## Evidence
+
+### David Carless & David Boud 2018
+
+David Carless & David Boud. (2018). The development of student feedback literacy: enabling uptake of feedback. Assessment & Evaluation in Higher Education, 43(8), 1315-1325. https://doi.org/10.1080/02602938.2018.1463354
+
+`q2 · i?` · `review · r2`
+
+Narrative review describing a teacher-researcher study (Min 2006) in which a sample essay was used to model feedback types, followed by two peer feedback cycles and coaching in improving commentaries. The review reports improvement in reviewer comments and receiver uptake.
+
+> "Reviewers demonstrated improvement in composing specific and relevant feedback, and receivers evidenced uptake of peer feedback (Min 2006)."
+
+## Discussion
+
+
+## Related Claims
+- [The Trainer is expected to make peer comments more specific, criterion-referenced, and evidence-based](trainer-expected-improve-comment-quality.md) — related
+- [Providing peer feedback can be more beneficial than receiving it because it is more cognitively engaging](providing-peer-feedback-more-cognitively-engaging.md) — related
+- [The Synthesizer is expected to support uptake and action planning compared with unsynthesized feedback](synthesizer-expected-support-uptake-action-planning.md) — related

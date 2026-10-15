@@ -18,8 +18,8 @@ sources:
     kind: associational
     rigour: 1
   - id: nourian-2026-2
-    resource: "https://arxiv.org/abs/2605.15127"
-    title: "Nourian, L.; Callis, A.; Patterson, S.; Miao, J.; Heard, J.; Tigwell, G. W. (2026). Understanding How International Students in the U.S. Are Using Conversational AI to Support Cross-Cultural Adaptation. arXiv. https://arxiv.org/abs/2605.15127"
+    resource: "https://doi.org/10.48550/arxiv.2605.15127"
+    title: "Nourian, L.; Callis, A.; Patterson, S.; Miao, J.; Heard, J.; Tigwell, G. W. (2026). Understanding How International Students in the U.S. Are Using Conversational AI to Support Cross-Cultural Adaptation. arXiv. https://arxiv.org/abs/2605.15127. [doi:10.48550/arxiv.2605.15127](https://doi.org/10.48550/arxiv.2605.15127)"
     author: Nourian, L.; Callis, A.; Patterson, S.; Miao, J.; Heard, J.; Tigwell, G. W.
     q: 1
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # International students use conversational AI predominantly for task-oriented academic and logistical support rather than for psychological or chronic emotional challenges
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 associational `r1`, 1 qualitative `r2` · `q1`–`q2`
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q1`–`q2`
 
 ## Subclaims
 `q2 i?` 86% of AI-using students reported using AI for academic and logistical tasks, while only 20% used it for psychological challenges. [→ Nourian 2026](#nourian-2026)
@@ -50,7 +50,7 @@ Online survey of 60 international students at US institutions (56 AI users), tes
 
 ### Nourian 2026 (2)
 
-Nourian, L.; Callis, A.; Patterson, S.; Miao, J.; Heard, J.; Tigwell, G. W. (2026). Understanding How International Students in the U.S. Are Using Conversational AI to Support Cross-Cultural Adaptation. arXiv. https://arxiv.org/abs/2605.15127
+Nourian, L.; Callis, A.; Patterson, S.; Miao, J.; Heard, J.; Tigwell, G. W. (2026). Understanding How International Students in the U.S. Are Using Conversational AI to Support Cross-Cultural Adaptation. arXiv. https://arxiv.org/abs/2605.15127. [doi:10.48550/arxiv.2605.15127](https://doi.org/10.48550/arxiv.2605.15127)
 
 `q1 · i?` · `qualitative · r2`
 

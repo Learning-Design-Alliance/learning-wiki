@@ -65,7 +65,7 @@ Explicit instruction is grounded in cognitive load theory: novices lack the sche
 
 ## Examples
 - **Engelmann's Direct Instruction (DI)** programs (e.g., *Reading Mastery*) — scripted, fast-paced lessons with choral responding and continuous assessment; strong effects in Project Follow Through.
-- **Reciprocal Teaching** (Palincsar & Brown) — the teacher explicitly models predicting, questioning, clarifying, and summarizing before students lead.
+- **[Reciprocal Teaching](reciprocal_teaching.md)** (Palincsar & Brown) — the teacher explicitly models predicting, questioning, clarifying, and summarizing before students lead.
 - **[Khan Academy](https://www.khanacademy.org)** — narrated video demonstrations followed by hint-supported practice, enacting the model–guide–release sequence asynchronously.
 - **Explicit phonics programs** such as [Sounds-Write](https://www.sounds-write.co.uk) — direct modeling of grapheme–phoneme correspondences with immediate guided blending practice.
 

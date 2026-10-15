@@ -52,6 +52,8 @@ The article recommends that universities "implement educational programs to esta
 - [Prepare teachers to use AI expeditiously and provide AI-text detectors for evaluation, alongside updated academic-integrity rules](teacher-ai-preparedness-and-detectors-strategy.md)
 - [Position AI detection tools as one component within a broader institutional decision-making process, with regularly updated benchmarks](detection-tools-within-broader-decision-process.md)
 - [Combine psychologically informed, ethically grounded, and institutionally supported interventions to reduce AI-assisted academic dishonesty](multilevel-interventions-ai-academic-dishonesty.md)
+- [Implement preventative measures: student awareness programs and regular professional development training for educators](chatbot-preventative-measures-strategy.md)
+- [Universities should provide vivid guidelines and education on how and where ChatGPT may be used for learning](university-guidelines-education-chatgpt-use.md)
 
 ## Examples
 -

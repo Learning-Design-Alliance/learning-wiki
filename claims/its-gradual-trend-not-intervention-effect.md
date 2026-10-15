@@ -18,8 +18,8 @@ sources:
     kind: causal
     rigour: 1
   - id: thomas-2026-2
-    resource: "https://arxiv.org/abs/2606.18617"
-    title: "Thomas, D. R., Kamikazi, M. C. A., Brandt, C., Borchers, C., & Koedinger, K. R. (2026). AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice. https://arxiv.org/abs/2606.18617"
+    resource: "https://doi.org/10.48550/arxiv.2606.18617"
+    title: "Thomas, D. R., Kamikazi, M. C. A., Brandt, C., Borchers, C., & Koedinger, K. R. (2026). AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice. https://arxiv.org/abs/2606.18617. [doi:10.48550/arxiv.2606.18617](https://doi.org/10.48550/arxiv.2606.18617)"
     author: "Thomas, D. R., Kamikazi, M. C. A., Brandt, C., Borchers, C., & Koedinger, K. R."
     q: 3
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Interrupted time series analysis found tutor quality improved gradually over time (β=0.01, p=.022) with no immediate level change or slope change at the training intervention
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r1` · `q3`
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` An interrupted time series analysis of average transcript score showed a small but significant linear trend over time (β=0.01, p=.022), with no immediate level change at the intervention point (post: p=.246) and no slope change (time×post: p=.479). [→ Thomas 2026](#thomas-2026)
@@ -50,7 +50,7 @@ Interrupted time series analysis of average transcript scores across the three-p
 
 ### Thomas 2026 (2)
 
-Thomas, D. R., Kamikazi, M. C. A., Brandt, C., Borchers, C., & Koedinger, K. R. (2026). AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice. https://arxiv.org/abs/2606.18617
+Thomas, D. R., Kamikazi, M. C. A., Brandt, C., Borchers, C., & Koedinger, K. R. (2026). AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice. https://arxiv.org/abs/2606.18617. [doi:10.48550/arxiv.2606.18617](https://doi.org/10.48550/arxiv.2606.18617)
 
 `q3 · i?` · `causal · r1`
 

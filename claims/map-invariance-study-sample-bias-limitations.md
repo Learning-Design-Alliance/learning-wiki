@@ -17,6 +17,7 @@ sources:
     kind: associational
     rigour: 2
   - id: wang-2013-2
+    resource: "https://doi.org/10.1504/ijqre.2013.058307"
     title: Wang 2013 (2)
     q: 1
     i: "?"
@@ -27,7 +28,7 @@ sources:
 # The study's invariance findings may be biased by excluding students who missed a test and by sample heterogeneity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q1`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Students who missed one test were excluded from the longitudinal sample, which the authors state might introduce sample bias. [→ Wang 2013](#wang-2013)
@@ -47,7 +48,7 @@ The authors' own stated limitation in the discussion: complete five-wave partici
 
 ### Wang 2013 (2)
 
-Wang, S., Jiao, H. and Zhang, L. (2013) 'Validation of longitudinal achievement constructs of vertically scaled computerised adaptive tests: a multiple-indicator, latent-growth modelling approach', Int. J. Quantitative Research in Education, Vol. 1, No. 4, pp.383–407. https://www.nwea.org/research/publication/validation-of-longitudinal-achievement-constructs-of-vertically-scaled-computerised-adaptive-tests-a-multiple-indicator-latent-growth-modelling-approach/
+Wang, S., Jiao, H. and Zhang, L. (2013) 'Validation of longitudinal achievement constructs of vertically scaled computerised adaptive tests: a multiple-indicator, latent-growth modelling approach', Int. J. Quantitative Research in Education, Vol. 1, No. 4, pp.383–407. https://www.nwea.org/research/publication/validation-of-longitudinal-achievement-constructs-of-vertically-scaled-computerised-adaptive-tests-a-multiple-indicator-latent-growth-modelling-approach/. [doi:10.1504/ijqre.2013.058307](https://doi.org/10.1504/ijqre.2013.058307)
 
 `q1 · i?` · `associational · r2`
 

@@ -67,8 +67,8 @@ Peer teaching benefits both parties, but the larger and more reliable gains ofte
 - [Cross-Age Tutoring](../strategies/cross-age-tutoring.md) — pairs learners across grade levels
 
 ## Examples
-- **Reciprocal Teaching (Palincsar & Brown)** — students alternate leading small-group discussions of a text using predicting, questioning, clarifying, and summarizing roles; a well-validated peer-teaching structure for reading.
-- **Jigsaw Classroom (Aronson)** — each student becomes an "expert" on one segment and teaches it to their home group; widely used in K–12 social studies and science.
+- **[Reciprocal Teaching](reciprocal_teaching.md) (Palincsar & Brown)** — students alternate leading small-group discussions of a text using predicting, questioning, clarifying, and summarizing roles; a well-validated peer-teaching structure for reading.
+- **[Jigsaw Classroom](jigsaw-classroom.md) (Aronson)** — each student becomes an "expert" on one segment and teaches it to their home group; widely used in K–12 social studies and science.
 - **Peer-Assisted Learning Strategies (PALS)** — a structured reciprocal tutoring program for reading and math used across elementary grades, with scripted pairing and role switching ([https://interventioncentral.org](https://www.interventioncentral.org)).
 - **Physics "teach your neighbor" prompts (e.g., Peer Instruction, Mazur)** — students explain their answers to a neighbor between clicker votes; the explanation phase is where conceptual change largely occurs.
 

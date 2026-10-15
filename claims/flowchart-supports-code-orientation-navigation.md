@@ -18,8 +18,8 @@ sources:
     kind: design
     rigour: 3
   - id: tseng-2026-2
-    resource: "https://arxiv.org/abs/2607.06721"
-    title: "Tseng, T., Seoror, L.H., Adda, J., Factor, M., Darabi, R., Matschke, K.R., Fu, T., Lin, A., Maram, A., Sinha, A. (2026). Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing Education. https://arxiv.org/abs/2607.06721"
+    resource: "https://doi.org/10.48550/arxiv.2607.06721"
+    title: "Tseng, T., Seoror, L.H., Adda, J., Factor, M., Darabi, R., Matschke, K.R., Fu, T., Lin, A., Maram, A., Sinha, A. (2026). Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing Education. https://arxiv.org/abs/2607.06721. [doi:10.48550/arxiv.2607.06721](https://doi.org/10.48550/arxiv.2607.06721)"
     author: Tseng, T., Seoror, L.H., Adda, J., Factor, M., Darabi, R., Matschke, K.R., Fu, T., Lin, A., Maram, A., Sinha, A.
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # An LLM-generated flowchart linking semantic feature descriptions to code across HTML, CSS, and JS files supports novice creative coders' orientation, navigation, and code understanding
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2`–`r3` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` In the lab study, 8/9 participants used the flowchart, 5/9 cited it for orientation, 5/9 cited its cross-file highlighting, and users clicked nodes an average of 10.8 times (SD=6.8). [→ Tseng 2026](#tseng-2026)
@@ -50,7 +50,7 @@ Lab study with 9 novice creative coders remixing CodePen Anime.js animations ove
 
 ### Tseng 2026 (2)
 
-Tseng, T., Seoror, L.H., Adda, J., Factor, M., Darabi, R., Matschke, K.R., Fu, T., Lin, A., Maram, A., Sinha, A. (2026). Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing Education. https://arxiv.org/abs/2607.06721
+Tseng, T., Seoror, L.H., Adda, J., Factor, M., Darabi, R., Matschke, K.R., Fu, T., Lin, A., Maram, A., Sinha, A. (2026). Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing Education. https://arxiv.org/abs/2607.06721. [doi:10.48550/arxiv.2607.06721](https://doi.org/10.48550/arxiv.2607.06721)
 
 `q2 · i?` · `design · r2`
 

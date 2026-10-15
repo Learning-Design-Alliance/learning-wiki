@@ -68,7 +68,7 @@ SRL instruction works because learners who monitor their understanding and adapt
 - **Zimmerman & Campillo's cycle** — classroom routines in which students plan before problem solving, self-record progress, and self-evaluate afterward, applied in math and writing.
 - **[Khan Academy](https://www.khanacademy.org)** — mastery dashboards make progress visible, supporting goal setting and self-monitoring; learners choose what to practice next.
 - **[Scratch](https://scratch.mit.edu)** — iterative project work with natural plan–build–test–revise cycles; teachers add reflection prompts to make regulation explicit.
-- **Reciprocal teaching (Palincsar & Brown)** — students alternate roles of questioning, clarifying, summarizing, and predicting, internalizing comprehension monitoring through social practice.
+- **[Reciprocal teaching](reciprocal_teaching.md) (Palincsar & Brown)** — students alternate roles of questioning, clarifying, summarizing, and predicting, internalizing comprehension monitoring through social practice.
 
 ## Key Sources
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70. [doi:10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

@@ -71,3 +71,4 @@ Testimony of Phyllis Rosser, a consultant on sex bias in testing, at the April 2
 - [Prospective regression analysis of the same data found somewhat larger sex differences in the same direction](prospective-regression-larger-sex-differences-sat-m.md) — related
 - [The score gaps constitute evidence of sex differences in the validity of the SAT-M as a predictor of college math performance, though not of their cause](sex-differences-sat-m-predictive-validity.md) — a narrower finding that bears on this claim
 - [Women scored about 33 SAT-M points lower than men who took the same math course and received the same grade](women-33-sat-points-lower-matched-course-grade.md) — related
+- [The fraction of women enrolling in mathematics degree programs in the UK and the Netherlands has remained constant despite rising female participation in higher education](female-mathematics-enrollment-fraction-constant-uk-netherlands.md) — related

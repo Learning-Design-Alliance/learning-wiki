@@ -9,8 +9,8 @@ generated:
   at: 2026-10-12
 sources:
   - id: voicu-2026
-    resource: "https://doi.org/10.61071/JDP"
-    title: "Voicu, C.-G. (2026). AI-Mediated Learning and the Restructuring of Interpretive Cognition: A Developmental-Critical Model for Social Sciences and Humanities Education. Journal of Digital Pedagogy, 5(1) 37-51. https://doi.org/10.61071/JDP .2665"
+    resource: "https://doi.org/10.61071/jdp.2665"
+    title: "Voicu, C.-G. (2026). AI-Mediated Learning and the Restructuring of Interpretive Cognition: A Developmental-Critical Model for Social Sciences and Humanities Education. Journal of Digital Pedagogy, 5(1), 37–51. https://doi.org/10.61071/jdp.2665"
     author: Voicu, C.-G
 ---
 
@@ -53,4 +53,4 @@ A three-stage pedagogical framework guiding learners from AI-dependent toward AI
 -
 
 ## Key Sources
-- Voicu, C.-G. (2026). AI-Mediated Learning and the Restructuring of Interpretive Cognition: A Developmental-Critical Model for Social Sciences and Humanities Education. Journal of Digital Pedagogy, 5(1) 37-51. https://doi.org/10.61071/JDP .2665
+- Voicu, C.-G. (2026). AI-Mediated Learning and the Restructuring of Interpretive Cognition: A Developmental-Critical Model for Social Sciences and Humanities Education. Journal of Digital Pedagogy, 5(1), 37–51. https://doi.org/10.61071/jdp.2665

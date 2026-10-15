@@ -41,7 +41,7 @@ A Verizon and Digital Promise programme that equips Title I middle and high scho
 -
 
 ## Key Sources
-- Weaver, D'Andre J., Ph.D. (2022). Delivering on the Promise of Digital Equity. Digital Promise. https://digitalpromise.dspacedirect.org/items/38939984-18ea-4af0-8081-c787ac30d48d
+- Weaver, D'Andre J., Ph.D. (2022). Delivering on the Promise of Digital Equity. Digital Promise. https://digitalpromise.dspacedirect.org/items/38939984-18ea-4af0-8081-c787ac30d48d. [doi:10.51388/20.500.12265/166](https://doi.org/10.51388/20.500.12265/166)
 - Chelimo, S., Cortez, C., Jackson, J., & Weaver, D. (2024, May). Unintended Impact: How the Verizon Innovative Learning Schools Program Affected Its Educators' Job Satisfaction and Career Trajectories. Digital Promise. https://doi.org/10.51388/20.500.12265/212
 
 <!-- merged 2026-10-10 from elements/verizon-innovative-learning-schools-program ("Verizon Innovative Learning Schools program"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
@@ -86,7 +86,7 @@ Verizon Innovative Learning Schools is a partnership between Verizon and Digital
 - [Multi-layer coach training and support system: coach camp, paired mentoring, ongoing webinars, and coach-the-coach sessions](../strategies/vils-coach-training-support-system.md)
 
 ## Key Sources
-- Weaver, D'Andre J., Ph.D. (2022). Delivering on the Promise of Digital Equity. Digital Promise. https://digitalpromise.dspacedirect.org/items/38939984-18ea-4af0-8081-c787ac30d48d
+- Weaver, D'Andre J., Ph.D. (2022). Delivering on the Promise of Digital Equity. Digital Promise. https://digitalpromise.dspacedirect.org/items/38939984-18ea-4af0-8081-c787ac30d48d. [doi:10.51388/20.500.12265/166](https://doi.org/10.51388/20.500.12265/166)
 -->
 
 <!-- merged 2026-10-10 from elements/vils-program-element ("Verizon Innovative Learning Schools program with Always Available Access and Powerful Professional Learning pillars"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.

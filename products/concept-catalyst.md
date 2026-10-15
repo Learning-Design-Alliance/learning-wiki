@@ -32,5 +32,5 @@ Concept Catalyst is an LLM-assisted web tool developed by Singh et al. that help
 -
 
 ## Key Sources
-- Singh, M., Mansi, G., & Riedl, M. O. (2025). Creating Learning Scaffolds for Engineering Design Using Concept Catalyst. Georgia Institute of Technology. https://www.gatech.edu/
+- Singh, M., Mansi, G., & Riedl, M. O. (2025). Creating Learning Scaffolds for Engineering Design Using Concept Catalyst. Georgia Institute of Technology. https://www.gatech.edu/. [doi:10.48550/arxiv.2605.20511](https://doi.org/10.48550/arxiv.2605.20511)
 - Gennie Mansi, Sunni Newton, Roxanne Moore, Meltem Alemdar, Mark Riedl. (2026). Concept Catalyst: Exploring Scrutable Interfaces to Structure K-12 Teacher Interactions with Generative AI. https://ceismc.gatech.edu

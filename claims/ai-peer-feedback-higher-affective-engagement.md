@@ -44,3 +44,4 @@ Quasi-experimental pretest-posttest study with 122 Chinese EFL students; three o
 - [AI-peer integrated feedback produces significantly higher posttest behavioral engagement than conventional peer feedback in EFL writing](ai-peer-feedback-higher-behavioral-engagement.md) — related
 - [In one quasi-experiment in EFL writing classes, students given AI-peer integrated feedback reported higher posttest cognitive engagement than students given conventional peer feedback](ai-peer-feedback-higher-cognitive-engagement.md) — related
 - [The CEA learning model has a significant simultaneous effect on EFL students' speaking performance and feedback literacy](cea-simultaneous-effect-speaking-feedback-literacy.md) — related
+- [ChatGPT-integrated instruction produced significantly higher post-test writing motivation scores than conventional instruction among EFL learners, with a medium effect size](chatgpt-instruction-enhanced-efl-writing-motivation.md) — related

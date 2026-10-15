@@ -54,3 +54,6 @@ Longitudinal multilevel analysis (HLM) of weekly self-reports from 194 universit
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — a broader claim this one bears on
 - [Positive academic mindsets increase perseverance and academic behaviors, yielding higher grades; negative mindsets produce a self-defeating cycle](mindsets-increase-perseverance-behaviors-grades.md) — related
 - [Intrinsically motivated students form reflective-iterative metacognitive co-occurrence networks, but overall ENA centroid positions do not differ significantly between motivational groups](ena-networks-motivational-groups.md) — related
+- Adaptive motivation predicts greater behavioral, cognitive and emotional engagement in master's thesis students — related
+- [Emotion affects motivation, which in turn affects mental effort investment during learning](emotion-affects-motivation-mental-effort.md) — related
+- [The SRL and SAL perspectives on student motivation and learning differ, and the article discusses those differences](srl-perspective-contrasts-with-sal-perspective.md) — related

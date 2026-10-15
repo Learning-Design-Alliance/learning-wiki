@@ -63,11 +63,13 @@ Self-advocacy skills respond to the same instructional conditions as academic sk
 6. **Reflect and generalize.** Debrief the application: what worked, what was hard, where else the skill applies. Plan the next setting or variation for practice.
 
 ## Related Strategies
+
 - [Self-Determined Learning Model of Instruction](self-determined-learning-model-of-instruction.md) — a structured teaching model that operationalizes this strategy through student-directed goal setting
 - [Student-Led IEPs](student-led-ieps.md) — the highest-stakes authentic application of self-advocacy instruction
 - [Self-Monitoring](self-monitoring-strategies.md) — a component skill that supports goal attainment and self-regulation
 - [Self-Regulated Learning](self-regulated-learning.md) — the broader academic skill set that overlaps with self-determination
 - [Goal Setting](../elements/goal-setting.md) — a core component skill taught within this strategy
+- [Guide young students through investigating interests, making choices, and setting and attaining learning goals](guide-interests-choices-goal-setting-young-children.md)
 
 ## Examples
 - **[Whose Future Is It Anyway?](https://www.ou.edu/education/zarrow/whose-future-is-it-anyway)** (University of Oklahoma Zarrow Center) — a free curriculum in which students explore their disability, rights, and goals, culminating in preparing for and leading their own IEP meeting
@@ -78,7 +80,7 @@ Self-advocacy skills respond to the same instructional conditions as academic sk
 ## Key Sources
 - Algozzine, B., Browder, D., Karvonen, M., Test, D. W., & Wood, W. M. (2001). Effects of interventions to promote self-determination for individuals with disabilities. *Review of Educational Research, 71*(2), 291–277. [doi:10.3102/00346543071002219](https://doi.org/10.3102/00346543071002219)
 - Shogren, K. A., Wehmeyer, M. L., Palmer, S. B., Rifenbark, G. G., & Little, T. D. (2015). Relationships between self-determination and postschool outcomes for youth with disabilities. *The Journal of Special Education, 48*(4), 256–269. [doi:10.1177/0022466913489733](https://doi.org/10.1177/0022466913489733)
-- Test, D. W., Fowler, C. H., Richter, S. M., White, J., Mazzotti, V., Walker, A. R., Kohler, A., & Kortering, L. (2009). Evidence-based practices in secondary transition. *Career Development for Exceptional Individuals, 32*(2), 115–128. [doi:10.1177/0885728809336859](https://doi.org/10.1177/0885728809336859)
+- Test, D. W., Fowler, C. H., Richter, S. M., White, J., Mazzotti, V., Walker, A. R., Kohler, P., & Kortering, L. (2009). Evidence-based practices in secondary transition. *Career Development for Exceptional Individuals, 32*(2), 115–128. [doi:10.1177/0885728809336859](https://doi.org/10.1177/0885728809336859)
 - Wehmeyer, M. L., Agran, M., & Hughes, C. (2000). A national survey of teachers' promotion of self-determination and student-directed learning. *The Journal of Special Education, 34*(2), 99–109. [doi:10.1177/002246690003400201](https://doi.org/10.1177/002246690003400201)
 - Wood, W. M., Fowler, C. H., & Test, D. W. (2005). Self-determination instruction: A review of the literature. *Career Development for Exceptional Individuals, 28*(2), 89–113.
 

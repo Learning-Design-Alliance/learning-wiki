@@ -58,3 +58,4 @@ This finding qualifies the whole-task approach, suggesting that [part-task pract
 - [Skill develops through engaging in the target activity itself, not through mechanistic drill of isolated components](skill-develops-through-engagement-not-drill.md) — reports the opposite
 - [Four interrelated components are essential in blueprints for complex learning](four-components-essential-complex-learning-blueprints.md) — a broader claim this one bears on
 - For novice learners of complex information, the isolated-interacting elements instructional method produces superior learning compared with conventional instruction presenting all interacting information throughout — a narrower finding that bears on this claim
+- [Real-life complex tasks carry high intrinsic cognitive load, requiring new load-management methods](real-life-tasks-high-intrinsic-load-need-management.md) — related

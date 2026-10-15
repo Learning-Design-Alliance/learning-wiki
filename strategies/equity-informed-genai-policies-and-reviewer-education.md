@@ -47,4 +47,4 @@ The dialogue's contributors converge on institutional actions: developing inclus
 -
 
 ## Key Sources
-- Ugwuanyi, K., Mair, C., Dovchin, S., Erdocia, I., Kuteeva, M., & Airemionkhale, E. (2025). Generative AI and linguistic diversity in academic writing and publishing: Perspectives from World Englishes. https://arxiv.org/abs/2607.28505
+- Ugwuanyi, K., Mair, C., Dovchin, S., Erdocia, I., Kuteeva, M., & Airemionkhale, E. (2025). Generative AI and linguistic diversity in academic writing and publishing: Perspectives from World Englishes. https://arxiv.org/abs/2607.28505. [doi:10.48550/arxiv.2607.28505](https://doi.org/10.48550/arxiv.2607.28505)

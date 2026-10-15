@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: tripathi-2026
-    resource: "https://arxiv.org/abs/2605.21962"
-    title: "Tripathi, P., & Kapralos, B. (2026). AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Training Systems. arXiv. https://arxiv.org/abs/2605.21962"
+    resource: "https://doi.org/10.48550/arxiv.2605.21962"
+    title: "Tripathi, P., & Kapralos, B. (2026). AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Training Systems. arXiv. https://arxiv.org/abs/2605.21962. [doi:10.48550/arxiv.2605.21962](https://doi.org/10.48550/arxiv.2605.21962)"
     author: "Tripathi, P., & Kapralos, B."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Tripathi 2026
 
-Tripathi, P., & Kapralos, B. (2026). AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Training Systems. arXiv. https://arxiv.org/abs/2605.21962
+Tripathi, P., & Kapralos, B. (2026). AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Training Systems. arXiv. https://arxiv.org/abs/2605.21962. [doi:10.48550/arxiv.2605.21962](https://doi.org/10.48550/arxiv.2605.21962)
 
 `q2 · i?` · `review · r2`
 
@@ -61,3 +61,4 @@ The chapter reports, citing prior systematic reviews, that the assumption that m
 - [Conventional training received significantly higher ratings for perceived realism and immersion than VR-based training (r=0.774)](conventional-training-higher-realism-immersion.md) — related
 - [Qualitative analysis found radiation became perceptible in VR for all participants, while all reported operability differences favoring conventional training](qualitative-themes-visualization-versus-operability.md) — related
 - [Immersive media environments enable higher visual and behavioral realism of pedagogical agents than non-immersive formats](xr-higher-agent-realism-than-non-immersive.md) — related
+- [Schematic visual realism is associated with significantly larger game learning effects than realistic visuals, which show no benefit](schematic-realism-larger-game-effects.md) — a narrower finding that bears on this claim

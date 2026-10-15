@@ -47,4 +47,4 @@ The article draws on multimedia learning research (Mayer, Sweller) to explain wh
 -
 
 ## Key Sources
-- Stelzer, Gladding, Mestre, and Brookes. (2008). Comparing the efficacy of multimedia modules with traditional textbooks for learning introductory physics content. https://arxiv.org/abs/0806.0405
+- Stelzer, Gladding, Mestre, and Brookes. (2008). Comparing the efficacy of multimedia modules with traditional textbooks for learning introductory physics content. https://arxiv.org/abs/0806.0405. [doi:10.48550/arxiv.0806.0405](https://doi.org/10.48550/arxiv.0806.0405)

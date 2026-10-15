@@ -53,3 +53,4 @@ The review categorized direct impacts of AI on SRL into cognition, metacognition
 - Underexplored PEA configurations center on participation support, AI literacy, and content generation, with two theme-level combinations absent from the corpus — related
 - Among 73 reviewed AIHE studies, 42 (57.5%) examined student engagement, with cognitive engagement the most frequently investigated dimension — related
 - [Evidence for agentic AI in education is strongest for formative tutoring and SRL coaching, while orchestration and assessment applications remain at mid technology-readiness stages](agentic-ai-evidence-strongest-tutoring-srl-coaching.md) — related
+- [GCLA does not bolster motivational aspects of SRL: traditional ChatGPT users showed higher intrinsic motivation and higher amotivation than GCLA users](gcla-no-motivation-advantage.md) — related

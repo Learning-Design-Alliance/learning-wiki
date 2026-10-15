@@ -48,6 +48,8 @@ To address the high uncertainty observed in the survey, the article recommends g
 - [Encourage students to use AI-generated responses while observing ethical guidelines](ethical-guidelines-for-student-ai-use.md)
 - [Build ethical AI integration on four coordinated levels: faculty professional development, ethics curricula, clear institutional guidelines, and interdisciplinary updating](four-level-ethical-ai-integration-strategy.md)
 - [Use metaphor workshops to surface stakeholder assumptions about GenAI in assessment redesign, policy development and professional development](metaphor-workshops-for-genai-policy-and-pd.md)
+- [Develop student AI literacy and institutional GenAI policies, guidelines and safeguards for responsible integration](genai-literacy-and-institutional-policy-strategy.md)
+- [Universities should provide vivid guidelines and education on how and where ChatGPT may be used for learning](university-guidelines-education-chatgpt-use.md)
 
 ## Examples
 -

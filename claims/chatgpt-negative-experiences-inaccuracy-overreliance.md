@@ -97,3 +97,5 @@ Participants also reported "the lack of emotional connection and dependence on t
 - [GenAI feedback limitations require students to exercise evaluative judgement](genai-limitations-require-evaluative-judgement.md) — related
 - [General-purpose LLMs show accuracy and reliability limits, including hallucinations and task-specific accuracy below perfect, making them risky as expert advice sources](llm-accuracy-hallucination-coaching-risk.md) — related
 - [Undergraduate students’ genAI knowledge contains specific confident misconceptions, most prevalently that AI chatbots perform web searches](genai-misconceptions-web-search-item.md) — related
+- [Scholars raise three main concerns about AI chatbots in education: reliability and accuracy, fair assessment, and ethical issues](chatbot-concerns-reliability-assessment-ethics.md) — a broader claim this one bears on
+- [ChatGPT-generated text shows inaccuracy, weak logical flow, lack of critical elaboration and non-originality in an author's first-hand test](chatgpt-output-inaccuracy-nonoriginality.md) — a narrower finding that bears on this claim

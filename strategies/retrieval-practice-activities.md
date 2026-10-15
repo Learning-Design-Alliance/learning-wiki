@@ -142,7 +142,7 @@ Retrieval practice produces substantially larger and more durable learning gains
 - **[Retrieval Practice.org](https://www.retrievalpractice.org)** — Agarwal and Bain's practitioner resource with classroom-ready techniques (brain dumps, two things, mini-quizzes).
 - **[Khan Academy](https://www.khanacademy.org)** — mastery-based practice questions require retrieval before progression, with hints and feedback on failure.
 - **[RetrievalPractice.org](https://www.retrievalpractice.org)** — Agarwal's translation site with classroom-ready "brain dump" and "two things" routines.
-- **Duolingo** — interleaved, spaced retrieval of vocabulary items with immediate feedback, scaled to millions of learners.
+- **[Duolingo](../products/duolingo.md)** — interleaved, spaced retrieval of vocabulary items with immediate feedback, scaled to millions of learners.
 - **[Retrieval Practice Guide](https://www.retrievalpractice.org)** (Agarwal & Bain) — classroom resources translating testing-effect research into routines like "brain dumps" and "two things" exit tickets.
 - **[Anki](https://apps.ankiweb.net)** — spaced-repetition flashcard software implementing expanding retrieval schedules; widely used in medical education.
 - **[Khan Academy](https://www.khanacademy.org)** — mastery quizzes after each video force retrieval before learners advance.

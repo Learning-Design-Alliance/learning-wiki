@@ -47,6 +47,7 @@ The article recommends that pedagogical perspectives promoting practical applica
 - [Engage youth as partners in stewardship rather than as subjects to be taught](youth-as-stewardship-partners.md)
 - [Youth Participatory Action Research (YPAR)](youth-participatory-action-research-ypar.md)
 - [Advance value-creating-modeled curriculum projects in Africana communities to foster ubuntu, happiness, and contributive lifestyles](value-creating-curriculum-africana-youth.md)
+- [Use ChatGPT as a tool for supporting students’ learning and promoting problem-solving skills](chatgpt-support-learning-problem-solving.md)
 
 ## Examples
 -

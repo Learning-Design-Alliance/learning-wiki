@@ -46,4 +46,4 @@ Use Rule Space diagnostic classifications to give examinees information beyond a
 -
 
 ## Key Sources
-- Katz, I. R., Martinez, M. E., Sheehan, K. M., & Tatsuoka, K. K. (1993). Extending the Rule Space Model to a Semantically-Rich Domain: Diagnostic Assessment in Architecture. Educational Testing Service. https://eric.ed.gov/?id=ED366652
+- Katz, I. R., Martinez, M. E., Sheehan, K. M., & Tatsuoka, K. K. (1993). Extending the Rule Space Model to a Semantically-Rich Domain: Diagnostic Assessment in Architecture. Educational Testing Service. https://eric.ed.gov/?id=ED366652. [doi:10.21236/ada273789](https://doi.org/10.21236/ada273789)

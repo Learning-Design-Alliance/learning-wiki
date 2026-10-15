@@ -47,3 +47,4 @@ Correlational study using four self-report questionnaires with a quantitative sa
 - [Motivational SRL factors correlate with but do not directly predict Japanese EFL learners' proficiency](motivational-factors-correlate-not-predict-efl-proficiency.md) — related
 - [Motivation correlates positively and significantly with L2 willingness to communicate among Turkish EFL preparatory students](motivation-correlates-with-l2-wtc-turkish-efl.md) — related
 - [Review reports naturalization catalyzes social and political integration (Swiss longitudinal study)](naturalization-catalyzes-integration-switzerland.md) — related
+- [The SRL and SAL perspectives on student motivation and learning differ, and the article discusses those differences](srl-perspective-contrasts-with-sal-perspective.md) — related

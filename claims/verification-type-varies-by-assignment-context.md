@@ -18,8 +18,8 @@ sources:
     kind: associational
     rigour: 1
   - id: nizamani-2026-2
-    resource: "https://arxiv.org/abs/2610.01158"
-    title: "Nizamani, S. B., Lee, Y., Donekal Chandrashekar, N., Ellis, M., & Ramakrishnan, N. (2026). Understanding Student Use of Large Language Models Across Computer Science Subfields. https://arxiv.org/abs/2610.01158"
+    resource: "https://doi.org/10.48550/arxiv.2610.01158"
+    title: "Nizamani, S. B., Lee, Y., Donekal Chandrashekar, N., Ellis, M., & Ramakrishnan, N. (2026). Understanding Student Use of Large Language Models Across Computer Science Subfields. https://arxiv.org/abs/2610.01158. [doi:10.48550/arxiv.2610.01158](https://doi.org/10.48550/arxiv.2610.01158)"
     author: "Nizamani, S. B., Lee, Y., Donekal Chandrashekar, N., Ellis, M., & Ramakrishnan, N."
     q: 3
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Verification strategy type varies by assignment context: testing is more common in structured tasks (Algorithms 87.8%) while web search is more common in open-ended tasks (HCI 56.0%)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r1` · `q3`
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Testing rates varied significantly across assignments (χ2 = 133.03, df = 6, p < 0.001), highest in Algorithms (87.8%) and lowest in HCI (27.5%). [→ Nizamani 2026](#nizamani-2026)
@@ -50,7 +50,7 @@ Descriptive analysis of testing as a verification strategy among LLM users acros
 
 ### Nizamani 2026 (2)
 
-Nizamani, S. B., Lee, Y., Donekal Chandrashekar, N., Ellis, M., & Ramakrishnan, N. (2026). Understanding Student Use of Large Language Models Across Computer Science Subfields. https://arxiv.org/abs/2610.01158
+Nizamani, S. B., Lee, Y., Donekal Chandrashekar, N., Ellis, M., & Ramakrishnan, N. (2026). Understanding Student Use of Large Language Models Across Computer Science Subfields. https://arxiv.org/abs/2610.01158. [doi:10.48550/arxiv.2610.01158](https://doi.org/10.48550/arxiv.2610.01158)
 
 `q3 · i?` · `associational · r1`
 

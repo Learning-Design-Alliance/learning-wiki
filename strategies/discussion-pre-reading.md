@@ -66,7 +66,7 @@ Pre-reading discussion works by activating relevant prior knowledge and creating
 ## Examples
 - **Reading Apprenticeship (WestEd)** — uses pre-reading "talk to the text" routines in which students discuss predictions and stances on a text's topic before reading, as part of its metacognitive conversation framework ([https://readingapprenticeship.org](https://readingapprenticeship.org))
 - **Four-corners debate before a civics unit** — students physically position themselves on "voting should be mandatory" before reading source documents on compulsory voting, then annotate the texts for arguments supporting or challenging their corner
-- **Structured Academic Controversy (Cooperative learning, Johnson & Johnson)** — students argue one side of an issue, switch sides, and then read to synthesize; the pre-reading debate phase is the commitment-and-argument component
+- **[Structured Academic Controversy](../patterns/structured-academic-controversy.md) (Cooperative learning, Johnson & Johnson)** — students argue one side of an issue, switch sides, and then read to synthesize; the pre-reading debate phase is the commitment-and-argument component
 
 ## Key Sources
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379. [doi:10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)

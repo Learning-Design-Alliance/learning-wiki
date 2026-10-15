@@ -81,3 +81,5 @@ Review synthesis on the digital access gap [S21, G26]: without measures to broad
 - [GenAI raises privacy, transparency, bias and accuracy concerns in group work, though empirical evidence remains limited](genai-privacy-bias-accuracy-concerns-limited-evidence.md) — related
 - [Common risks of AI integration in nursing education include technological inequities, faculty preparedness gaps, and ethical concerns around privacy and bias](ai-nursing-education-risks-inequity-ethics.md) — related
 - [Integrating AI in collaborative learning raises challenges including algorithmic bias, over-reliance on technology, and teacher training needs](ai-collaborative-learning-challenges-bias-overreliance.md) — related
+- [An AI-enabled world demands a data-literate citizenry able to read, use, interpret, and communicate about data and participate in AI-related policy debates](ai-enabled-world-demands-data-literate-citizenry.md) — related
+- [Scholars raise three main concerns about AI chatbots in education: reliability and accuracy, fair assessment, and ethical issues](chatbot-concerns-reliability-assessment-ethics.md) — a broader claim this one bears on

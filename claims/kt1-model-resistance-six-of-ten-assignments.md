@@ -45,3 +45,4 @@ Instructor observation reported without a systematic benchmark: "Codex 5.6-Sol c
 ## Related Claims
 - [Course design created frictions: undeclared programming prerequisites, copied AI-generated tutorial solutions, intimidating blackboard turns, and AI-guessing cycles for students lacking evaluation knowledge](kt1-design-frictions-programming-tutorials-ai-guessing.md) — related
 - [The workshop argues AI-resistant assignments are temporary at best, reframing design goals toward tasks whose difficulty survives AI completing part of the work](ai-resistance-shelf-life-reframing.md) — a broader claim this one bears on
+- [AI solutions can automate routine tasks but cannot yet handle the complex tasks of higher learning](ai-limited-to-automatable-tasks-in-higher-learning.md) — related

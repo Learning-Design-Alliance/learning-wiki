@@ -64,7 +64,7 @@ Modeling works because observation of a competent model provides a template for 
 - [Provide explicit prompting instruction and expert scaffolding before or during novice LLM activities](explicit-prompting-instruction-before-llm-tasks.md)
 
 ## Examples
-- **Reciprocal Teaching** (Palincsar & Brown) — teachers model predicting, questioning, clarifying, and summarizing while reading, then transfer each strategy to student-led groups; a canonical think-aloud intervention with strong comprehension effects.
+- **[Reciprocal Teaching](reciprocal_teaching.md)** (Palincsar & Brown) — teachers model predicting, questioning, clarifying, and summarizing while reading, then transfer each strategy to student-led groups; a canonical think-aloud intervention with strong comprehension effects.
 - **Writing conference modeling** — a teacher drafts a sentence revision aloud, weighing alternatives ("This verb is flat — 'trudged' shows the character's mood better because…") before students revise their own drafts.
 - **Clinical education** — attending physicians think aloud during differential diagnosis, making diagnostic reasoning visible to trainees before case-based work such as [Case-Based Learning](../patterns/case-based-learning.md).
 

@@ -15,8 +15,8 @@ sources:
     title: "Collins, Allan. (1988). Cognitive Apprenticeship and Instructional Technology. Technical Report. BBN Report No. 6899, BBN Labs, Inc. https://eric.ed.gov/?id=ED331465"
     author: Collins, Allan
   - id: brewe-2007
-    resource: "https://scholar.google.com/scholar?q=Impacts+of+real-time+data+collection+on+introductory+algebra-based+physics"
-    title: "Brewe, E., Sawtelle, V., and Pamela, P. (2007). Impacts of real-time data collection on introductory algebra-based physics. https://scholar.google.com/scholar?q=Impacts+of+real-time+data+collection+on+introductory+algebra-based+physics"
+    resource: "https://doi.org/10.48550/arxiv.0709.2738"
+    title: "Brewe, E., Sawtelle, V., and Pamela, P. (2007). Impacts of real-time data collection on introductory algebra-based physics. https://doi.org/10.48550/arxiv.0709.2738"
     author: Brewe, E., Sawtelle, V., and Pamela, P
 ---
 
@@ -171,7 +171,7 @@ Speed of the test cycle, number of cycles, guidance, immediate understanding, de
 
 ## Key Sources
 - Collins, Allan. (1988). Cognitive Apprenticeship and Instructional Technology. Technical Report. BBN Report No. 6899, BBN Labs, Inc. https://eric.ed.gov/?id=ED331465
-- Brewe, E., Sawtelle, V., and Pamela, P. (2007). Impacts of real-time data collection on introductory algebra-based physics. https://scholar.google.com/scholar?q=Impacts+of+real-time+data+collection+on+introductory+algebra-based+physics
+- Brewe, E., Sawtelle, V., and Pamela, P. (2007). Impacts of real-time data collection on introductory algebra-based physics. https://doi.org/10.48550/arxiv.0709.2738
 
 <!-- deprecated 2026-10-15: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -248,5 +248,5 @@ Because real-time data collection makes labs faster and represents data instantl
 - [Four recommendations for deepening mathematics integration in science investigations](../strategies/four-recommendations-math-in-science.md)
 
 ## Key Sources
-- Brewe, E., Sawtelle, V., and Pamela, P. (2007). Impacts of real-time data collection on introductory algebra-based physics. https://scholar.google.com/scholar?q=Impacts+of+real-time+data+collection+on+introductory+algebra-based+physics
+- Brewe, E., Sawtelle, V., and Pamela, P. (2007). Impacts of real-time data collection on introductory algebra-based physics. https://doi.org/10.48550/arxiv.0709.2738
 -->

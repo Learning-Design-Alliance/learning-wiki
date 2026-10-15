@@ -46,4 +46,4 @@ SPICE (Science Projects Integrating Computing and Engineering) is "a three-week 
 -
 
 ## Key Sources
-- Cohn, C., Ashwin T S, Mohammed, N., & Biswas, G. (2026). CoTAL: Human-in-the-Loop Prompt Engineering for Generalizable Formative Assessment Scoring and Feedback. arXiv preprint. https://arxiv.org/abs/2504.02323
+- Cohn, C., Ashwin T S, Mohammed, N., & Biswas, G. (2026). CoTAL: Human-in-the-Loop Prompt Engineering for Generalizable Formative Assessment Scoring and Feedback. arXiv preprint. https://arxiv.org/abs/2504.02323. [doi:10.48550/arxiv.2504.02323](https://doi.org/10.48550/arxiv.2504.02323)

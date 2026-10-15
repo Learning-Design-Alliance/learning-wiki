@@ -50,4 +50,4 @@ The author outlines an instructional strategy, developed directly out of Colling
 -
 
 ## Key Sources
-- Lemisko, L.S. (2004). The Historical Imagination: Collingwood in the Classroom. Canadian Social Studies. https://www.quasar.ualberta.ca/css
+- Lemisko, L.S. (2004). The Historical Imagination: Collingwood in the Classroom. Canadian Social Studies. https://www.quasar.ualberta.ca/css. [doi:10.29173/css130](https://doi.org/10.29173/css130)

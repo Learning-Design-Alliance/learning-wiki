@@ -47,4 +47,4 @@ The article adopts Littlewood's (1999) two-level account of learner autonomy for
 -
 
 ## Key Sources
-- Murray, G. L., & Bollinger, D. J. (2001). Developing Cross-Cultural Awareness: Learning Through the Experiences of Others. TESL Canada Journal, 19(1). https://teslcanadajournal.ca
+- Murray, G. L., & Bollinger, D. J. (2001). Developing Cross-Cultural Awareness: Learning Through the Experiences of Others. TESL Canada Journal, 19(1). https://teslcanadajournal.ca. [doi:10.18806/tesl.v19i1.920](https://doi.org/10.18806/tesl.v19i1.920)

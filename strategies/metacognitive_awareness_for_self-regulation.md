@@ -70,7 +70,7 @@ Metacognitive awareness — knowledge of one's own thinking — is trainable, an
 - [Check-ins](../principles/check-ins.md) — brief, frequent monitoring moments that complement longer reflective entries
 
 ## Examples
-- **Exam wrappers** (Carnegie Mellon Eberly Center, https://www.cmu.edu/teaching/designteach/teach/examwrappers.html) — post-exam forms asking what students predicted, how they studied, and what they will change next time
+- **[Exam wrappers](exam-wrappers.md)** (Carnegie Mellon Eberly Center, https://www.cmu.edu/teaching/designteach/teach/examwrappers.html) — post-exam forms asking what students predicted, how they studied, and what they will change next time
 - **Learning portfolios** (e.g., Digication, https://www.digication.com) — students maintain term-long reflective portfolios, reviewing entries to identify strategy patterns
 - Audio journals in which students record a two-minute reflection after each study session, useful for learners with writing difficulties
 

@@ -66,7 +66,7 @@ Routines function as a form of [Automaticity](../elements/automaticity.md) appli
 
 ## Examples
 - **Do-Now / Bell Work** — a fixed opening task visible as students enter; widely used in [Direct Instruction](../patterns/direct-instruction.md) and explicit-teaching traditions to reclaim the first minutes of class.
-- **Think-Pair-Share** — a discourse routine with fixed phases that makes peer discussion reliable enough to use daily.
+- **[Think-Pair-Share](../patterns/think-pair-share.md)** — a discourse routine with fixed phases that makes peer discussion reliable enough to use daily.
 - **KIPP and similar "warm/strict" school cultures** — codified SLANT-style attention and transition routines; effective for time reclamation but criticized when implemented without learner buy-in.
 - **Weekly LMS module structure** (e.g., consistent "read → practice → discuss → submit" arc in many online courses) — a digital routine that reduces navigation load and missed-work confusion.
 

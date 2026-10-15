@@ -47,3 +47,4 @@ These are supplemental findings from the DHHS ACF (2010) randomized controlled t
 - [Head Start shows no discernible effects on mathematics achievement for 4-year-old children](head-start-no-discernible-mathematics-effects.md) — related
 - [Head Start shows no discernible effects on social-emotional development for 3- and 4-year-old children](head-start-no-discernible-social-emotional-effects.md) — related
 - [Head Start has potentially positive effects on general reading achievement for 3- and 4-year-old children, based on parent-rated emergent literacy](head-start-potentially-positive-reading-achievement.md) — related
+- [Preschool PATHS increases emotion knowledge and parent- and teacher-rated social competence in Head Start children](paths-preschool-improves-emotion-knowledge-social-competence.md) — related

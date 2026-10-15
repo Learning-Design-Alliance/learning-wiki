@@ -120,7 +120,7 @@ Mindfulness training functions as a self-regulation support: by strengthening at
 - Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). The impact of enhancing students' social and emotional learning: A meta-analysis of school-based universal interventions. *Child Development, 82*(1), 405–432. [doi:10.1111/j.1467-8624.2010.01564.x](https://doi.org/10.1111/j.1467-8624.2010.01564.x)
 - Zoogman, S., Goldberg, S. B., Hoyt, W. T., & Miller, L. (2015). Mindfulness interventions with youth: A meta-analysis. *Mindfulness, 6*(2), 290–302. [doi:10.1007/s12671-013-0260-4](https://doi.org/10.1007/s12671-013-0260-4)
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70. [doi:10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)
-- Zenner, C., Herrnleben-Kurz, S., & Walach, H. (2014). Mindfulness-based interventions in schools — a systematic review and meta-analysis. *Teaching and Teacher Education, 39*, 100–113. [doi:10.3389/fpsyg.2014.00603](https://doi.org/10.3389/fpsyg.2014.00603)
+- Zenner, C., Herrnleben-Kurz, S., & Walach, H. (2014). Mindfulness-based interventions in schools — a systematic review and meta-analysis. *Frontiers in Psychology, 5*, 603. [doi:10.3389/fpsyg.2014.00603](https://doi.org/10.3389/fpsyg.2014.00603)
 - Tang, Y.-Y., Hölzel, B. K., & Posner, M. I. (2015). The neuroscience of mindfulness meditation. *Nature Reviews Neuroscience, 16*(4), 213–225. [doi:10.1038/nrn3916](https://doi.org/10.1038/nrn3916)
 - Zumbrunn, S., Tadlock, J., & Roberts, E. D. (2011). *Encouraging self-regulated learning in the classroom: A review of the literature.* Metropolitan Educational Research Consortium, Virginia Commonwealth University.
 
@@ -218,7 +218,7 @@ Mindfulness training functions as a support for the self-regulation cycle: it st
 - Mrazek, M. D., Franklin, M. S., Phillips, D. T., Baird, B., & Schooler, J. W. (2013). Mindfulness training improves working memory capacity and GRE performance while reducing mind wandering. *Psychological Science, 24*(5), 776–781. [doi:10.1177/0956797612459659](https://doi.org/10.1177/0956797612459659)
 - Zoogman, S., Goldberg, S. B., Hoyt, W. T., & Miller, L. (2015). Mindfulness interventions with youth: A meta-analysis. *Mindfulness, 6*(2), 290–302. [doi:10.1007/s12671-013-0260-4](https://doi.org/10.1007/s12671-013-0260-4)
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70. [doi:10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)
-- Zenner, C., Herrnleben-Kurz, S., & Walach, H. (2014). Mindfulness-based interventions in schools — a systematic review and meta-analysis. *Teaching and Teacher Education, 39*, 100–113. [doi:10.3389/fpsyg.2014.00603](https://doi.org/10.3389/fpsyg.2014.00603)
+- Zenner, C., Herrnleben-Kurz, S., & Walach, H. (2014). Mindfulness-based interventions in schools — a systematic review and meta-analysis. *Frontiers in Psychology, 5*, 603. [doi:10.3389/fpsyg.2014.00603](https://doi.org/10.3389/fpsyg.2014.00603)
 - Tang, Y.-Y., Hölzel, B. K., & Posner, M. I. (2015). The neuroscience of mindfulness meditation. *Nature Reviews Neuroscience, 16*(4), 213–225. [doi:10.1038/nrn3916](https://doi.org/10.1038/nrn3916)
 - Zumbrunn, S., Tadlock, J., & Roberts, E. D. (2011). *Encouraging self-regulated learning in the classroom: A review of the literature.* Metropolitan Educational Research Consortium, Virginia Commonwealth University.
 
@@ -291,7 +291,7 @@ Mindfulness training reliably improves attention and reduces mind-wandering, whi
 
 ## Key Sources
 - Mrazek, M. D., Franklin, M. S., Phillips, D. T., Baird, B., & Schooler, J. W. (2013). Mindfulness training improves working memory capacity and GRE performance while reducing mind wandering. *Psychological Science, 24*(5), 776–781. [doi:10.1177/0956797612459659](https://doi.org/10.1177/0956797612459659)
-- Zenner, C., Herrnleben-Kurz, S., & Walach, H. (2014). Mindfulness-based interventions in schools — a systematic review and meta-analysis. *Teaching and Teacher Education, 39*, 100–113. [doi:10.3389/fpsyg.2014.00603](https://doi.org/10.3389/fpsyg.2014.00603)
+- Zenner, C., Herrnleben-Kurz, S., & Walach, H. (2014). Mindfulness-based interventions in schools — a systematic review and meta-analysis. *Frontiers in Psychology, 5*, 603. [doi:10.3389/fpsyg.2014.00603](https://doi.org/10.3389/fpsyg.2014.00603)
 - Tang, Y.-Y., Hölzel, B. K., & Posner, M. I. (2015). The neuroscience of mindfulness meditation. *Nature Reviews Neuroscience, 16*(4), 213–225. [doi:10.1038/nrn3916](https://doi.org/10.1038/nrn3916)
 - Zumbrunn, S., Tadlock, J., & Roberts, E. D. (2011). *Encouraging self-regulated learning in the classroom: A review of the literature.* Metropolitan Educational Research Consortium, Virginia Commonwealth University.
 - ->

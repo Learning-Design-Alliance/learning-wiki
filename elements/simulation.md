@@ -163,6 +163,7 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [Embed the ReACT reasoning-acting-observing-reflecting cycle in tutoring systems to mirror inquiry-based learning](../strategies/react-cycle-inquiry-based-learning.md)
 - [Use fidelity-aware simulated patients as a low-risk complement to supervision for deliberate psychotherapy practice](../strategies/fidelity-aware-simulated-patients-deliberate-practice.md)
 - [Implement AI simulations as complements within a stepped simulation continuum, with layered interaction modes and blended feedback](../strategies/stepped-ai-simulation-integration-strategies.md)
+- [Vocational education programs should let trainees experience and reflect on authentic errors, e.g. via error management training and negative knowledge-diaries](../strategies/error-management-training-negative-knowledge-diaries.md)
 
 ## Key Sources
 - Garris, R., Ahlers, R., & Driskell, J. E. (2002). Games, motivation, and learning: A research and practice model. *Simulation & Gaming, 33*(4), 441–467. [doi:10.1177/1046878102238607](https://doi.org/10.1177/1046878102238607)

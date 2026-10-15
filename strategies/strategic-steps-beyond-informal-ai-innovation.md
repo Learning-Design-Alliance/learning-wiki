@@ -54,4 +54,4 @@ The article enumerates five implementable institutional actions: "Recognise AI-d
 -
 
 ## Key Sources
-- Binkowski, K. P., & Hopkins, A. (2026). The University AI Didn't Replace: Rethinking Universities in the AI Era. Macquarie University. https://arxiv.org/abs/2605.07056
+- Binkowski, K. P., & Hopkins, A. (2026). The University AI Didn't Replace: Rethinking Universities in the AI Era. Macquarie University. https://arxiv.org/abs/2605.07056. [doi:10.48550/arxiv.2605.07056](https://doi.org/10.48550/arxiv.2605.07056)

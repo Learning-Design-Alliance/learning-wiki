@@ -36,7 +36,7 @@ A set of three Zhao et al. Likert-scale instruments measuring motivation, anxiet
 -
 
 ## Key Sources
-- Zhao, A., Guo, Y., Biales, C., & Olszewski, A. (2016). Exploring learner factors in second language (L2) incidental vocabulary acquisition through reading. Reading in a Foreign Language, 28(2). http://nflrc.hawaii.edu/rfl
+- Zhao, A., Guo, Y., Biales, C., & Olszewski, A. (2016). Exploring learner factors in second language (L2) incidental vocabulary acquisition through reading. Reading in a Foreign Language, 28(2). http://nflrc.hawaii.edu/rfl. [doi:10.64152/10125/66903](https://doi.org/10.64152/10125/66903)
 
 <!-- merged 2026-10-10 from elements/mivls-ivlas-mivlss-instruments ("Three context-specific instruments for incidental vocabulary learning motivation, anxiety, and strategy mastery"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 
@@ -76,5 +76,5 @@ The authors developed three Likert-scale instruments specifically for the contex
 -
 
 ## Key Sources
-- Zhao, A., Guo, Y., Biales, C., & Olszewski, A. (2016). Exploring learner factors in second language (L2) incidental vocabulary acquisition through reading. Reading in a Foreign Language, 28(2). http://nflrc.hawaii.edu/rfl
+- Zhao, A., Guo, Y., Biales, C., & Olszewski, A. (2016). Exploring learner factors in second language (L2) incidental vocabulary acquisition through reading. Reading in a Foreign Language, 28(2). http://nflrc.hawaii.edu/rfl. [doi:10.64152/10125/66903](https://doi.org/10.64152/10125/66903)
 -->

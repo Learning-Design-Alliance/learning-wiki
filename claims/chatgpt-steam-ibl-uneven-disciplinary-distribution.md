@@ -49,3 +49,5 @@ Content analysis of 24 empirical articles in the review's RQ1 disciplinary distr
 - [Subject distribution is uneven, with E-commerce contributing five answers and Machine Learning 88 of 485](uneven-subject-distribution-485-answers.md) — related
 - [Technology disciplines, especially Computer Science and Data Science, lead contributions to AI literacy across TIECD dimensions, while Design (AILE 5.1) is underrepresented across all STEAM clusters](technology-disciplines-dominate-ai-literacy-design-underrepresented.md) — related
 - Agentic AI in education research concentrates on higher education, computer science, and text-based tutoring-like contexts — related
+- [Language learning was the most common subject domain for AIEd in higher education, at 17%](language-learning-top-subject-domain-ai-ed-he.md) — related
+- [Mathematics is the most frequently covered STEM discipline (39%) in research on generative AI in secondary STEM education, followed by physics (24%) and science (19%)](mathematics-most-covered-discipline-generative-ai.md) — related

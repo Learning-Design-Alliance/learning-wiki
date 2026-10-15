@@ -69,7 +69,7 @@ Clarifying functions as a comprehension-fostering, self-monitoring activity: it 
 - [Provide Feedback](../elements/provide-feedback.md) — corrective feedback on whether learners identified the *right* uncertainties and resolved them appropriately
 
 ## Examples
-- **Reciprocal Teaching** (Palincsar & Brown) — small reading groups rotate the "clarifier" role, with members raising and resolving confusing words, phrases, and ideas; one of the best-validated comprehension interventions [+S]
+- **[Reciprocal Teaching](reciprocal_teaching.md)** (Palincsar & Brown) — small reading groups rotate the "clarifier" role, with members raising and resolving confusing words, phrases, and ideas; one of the best-validated comprehension interventions [+S]
 - **WordSift** (https://wordsift.org) — a free tool that identifies key vocabulary in a text and links terms to visual and semantic resources, supporting teacher preparation of clarifying supports
 - **Math problem-clarification routine** — before solving, students complete a three-column chart (What do I know? / What am I asked to find? / What do I still need?), a structure used in cognitively guided instruction approaches
 - **Embedded glossaries in digital texts** — platforms such as Newsela (https://newsela.com) offer leveled versions of the same article, allowing teachers to adjust syntax complexity per learner

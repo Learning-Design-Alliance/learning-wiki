@@ -107,7 +107,7 @@ Spacing is one of the most robust findings in learning science: across hundreds 
 
 ## Examples
 - **Anki** (https://apps.ankiweb.net) — open-source flashcard system implementing expanding spaced repetition with per-item scheduling; widely used in medical education.
-- **Duolingo** (https://www.duolingo.com) — schedules review of previously learned vocabulary at expanding intervals interleaved with new material.
+- **[Duolingo](../products/duolingo.md)** (https://www.duolingo.com) — schedules review of previously learned vocabulary at expanding intervals interleaved with new material.
 - **Rohrer's shuffled homework studies** — reordering mathematics homework so problems of the same type are separated across assignments improved delayed test scores substantially over blocked, massed assignments.
 - **Cumulative weekly quizzes** in a course design where each quiz includes ~30% items from earlier units, converting assessment itself into a spaced schedule.
 - **Duolingo** — algorithmically schedules review of lapsed vocabulary items and prompts returning learners with "practice" sessions targeting weakened items ([duolingo.com](https://www.duolingo.com))
@@ -115,7 +115,7 @@ Spacing is one of the most robust findings in learning science: across hundreds 
 - A world-language course replaces end-of-unit tests with weekly cumulative quizzes covering all vocabulary to date, converting the assessment schedule itself into a spacing schedule
 - **Khan Academy** — mastery system re-assigns previously "mastered" skills for review after delays, requiring learners to demonstrate retention over time
 - **Anki** (https://apps.ankiweb.net) — open-source spaced-repetition flashcard software using an adaptive expanding-schedule algorithm; widely used in medical education for high-volume factual retention.
-- **Duolingo** (https://www.duolingo.com) — schedules review of previously learned vocabulary and grammar at expanding intervals interleaved with new material.
+- **[Duolingo](../products/duolingo.md)** (https://www.duolingo.com) — schedules review of previously learned vocabulary and grammar at expanding intervals interleaved with new material.
 - **Cumulative math homework** — curricula such as *Everyday Mathematics* build systematic distributed practice into homework and review cycles rather than teaching each topic in a single closed unit.
 
 ## Key Sources

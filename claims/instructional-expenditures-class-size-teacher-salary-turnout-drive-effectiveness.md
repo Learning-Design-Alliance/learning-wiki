@@ -44,3 +44,4 @@ Analysis of which uses of LCFF funding are most strongly associated with improve
 
 ## Related Claims
 - [After accounting for teacher and school characteristics, each $1,000 increase in cost-of-living-adjusted salary is associated with about a 0.34 percentage-point decrease in turnover probability](salary-associated-with-lower-turnover.md) — related
+- [Input-based incentives produce achievement gains at lower cost than major education reforms of recent decades](input-incentives-cost-effective-comparison.md) — related

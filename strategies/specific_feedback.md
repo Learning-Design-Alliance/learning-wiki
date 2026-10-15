@@ -67,7 +67,7 @@ Feedback improves learning when it answers "Where am I going, how am I doing, an
 - [Provide sentence evaluation criteria (clarity, intended audience) and model revision against them](sentence-evaluation-criteria-clarity-audience-revision.md)
 
 ## Examples
-- **Writing conferences** (Atwell's *In the Middle* workshop model): brief one-to-one conferences where the teacher names one specific strength and one specific next step, which the student applies immediately.
+- **[Writing conferences](writing-conferences.md)** (Atwell's *In the Middle* workshop model): brief one-to-one conferences where the teacher names one specific strength and one specific next step, which the student applies immediately.
 - **Kaizena** (https://www.kaizena.com): Google Docs add-on for attaching voice comments and reusable mini-lessons to specific highlighted passages.
 - **NoRedInk** (https://www.noredink.com): delivers immediate, item-specific feedback on grammar and mechanics errors within practice exercises.
 - **Turnitin Feedback Studio**: inline margin comments and voice comments anchored to exact sentences in submitted drafts.

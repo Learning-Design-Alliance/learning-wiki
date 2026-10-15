@@ -64,7 +64,7 @@ Counting On reduces working memory demand relative to counting all by shortening
 
 ## Examples
 - **Cognitively Guided Instruction (CGI)** classrooms treat Counting On as one of several observed strategies children invent; teachers elicit and build on it rather than imposing it, following research by Carpenter and colleagues on children's mathematics ([CGI for Math](../principles/responsive-teaching.md)).
-- **Number Talks** (Parrish, 2010) — teachers record Counting On alongside other student strategies on the board, making strategy choice itself an object of discussion.
+- **[Number Talks](number-talks.md)** (Parrish, 2010) — teachers record Counting On alongside other student strategies on the board, making strategy choice itself an object of discussion.
 - **First-grade addition units** in most core curricula (e.g., Investigations in Number, Data, and Space) sequence counting all → counting on → derived facts across the year.
 
 ## Key Sources

@@ -45,6 +45,7 @@ The article's discussion recommends that educational practice address both prote
 - [Reduce cheating holistically by enhancing perceived assessment purpose, fostering self-efficacy, and increasing perceived costs of cheating](three-pronged-holistic-cheating-prevention.md)
 - [Integrate AI literacy instruction into study programs alongside responsible tool design](integrate-ai-literacy-into-study-programs.md)
 - [Design AI literacy curricula that foster self-efficacy beliefs alongside technical skills to protect against overreliance](ai-literacy-curricula-foster-self-efficacy-not-only-technical-skills.md)
+- [Outline strategies and technological interventions to alleviate over-reliance and foster responsible use of AI dialogue systems](strategies-interventions-responsible-ai-use.md)
 
 ## Examples
 -

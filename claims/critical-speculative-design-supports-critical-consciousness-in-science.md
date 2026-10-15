@@ -56,3 +56,4 @@ This is a qualitative, ethnographic design study (q2), not an efficacy trial: th
 - [Justice-oriented youth maker programs support redefinition of entrepreneurialism and resistance to structural misrecognition](justice-oriented-youth-maker-programs-support-critical-identity-and-resistance.md) — related
 - [Agentic engagement with lively data supports epistemically just crisis sensemaking](lively-data-and-agentic-positions-support-epistemically-just-crisis-sensemaking.md) — related
 - [Emotional discomfort from viewing medical images was the dominant drawback of the annotation task, alongside repetitiveness](emotional-discomfort-medical-images-main-drawback.md) — related
+- [An AI-enabled world demands a data-literate citizenry able to read, use, interpret, and communicate about data and participate in AI-related policy debates](ai-enabled-world-demands-data-literate-citizenry.md) — related

@@ -70,7 +70,7 @@ Interaction quality matters more than quantity: contacts that convey personal in
 ## Examples
 - **First-year seminars** (e.g., the [AAC&U High-Impact Practices](https://www.aacu.org/trending-topics/high-impact) framework) — small classes with intensive faculty interaction are among the best-documented retention interventions.
 - **Online discussion facilitation** in Canvas or Moodle courses — instructors who post weekly synthesis messages and reply substantively to students sustain teaching presence at scale.
-- **Writing conferences** — brief one-on-one meetings on drafts, which convert grading into dialogue and model revision thinking.
+- **[Writing conferences](writing-conferences.md)** — brief one-on-one meetings on drafts, which convert grading into dialogue and model revision thinking.
 
 ## Key Sources
 - Chickering, A. W., & Gamson, Z. F. (1987). Seven principles for good practice in undergraduate education. *AAHE Bulletin, 39*(7), 3–7.

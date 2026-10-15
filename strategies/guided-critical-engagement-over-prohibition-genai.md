@@ -53,9 +53,10 @@ The authors argue that because public sentiment remains positive while structura
 - [Provide explicit pedagogical guidance on effective and ethical GenAI use within specific assessment contexts, beyond prohibitions](explicit-pedagogical-guidance-genai-assessment-contexts.md)
 - [Design authentic, scaffolded activities that convert students' intuitive GenAI concerns into explicit ethical competencies](scaffolded-activities-convert-genai-concerns-to-competencies.md)
 - [Build educator AI literacy and pedagogical competence alongside student critical engagement with AI-generated content](educator-ai-literacy-and-critical-engagement.md)
+- [Develop student AI literacy and institutional GenAI policies, guidelines and safeguards for responsible integration](genai-literacy-and-institutional-policy-strategy.md)
 
 ## Examples
 -
 
 ## Key Sources
-- Bagale, A.; Mehjabin, N.; Ünlü, A.; Johri, A. (2025). A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data. https://arxiv.org/abs/2607.12295
+- Bagale, A.; Mehjabin, N.; Ünlü, A.; Johri, A. (2025). A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data. https://arxiv.org/abs/2607.12295. [doi:10.48550/arxiv.2607.12295](https://doi.org/10.48550/arxiv.2607.12295)

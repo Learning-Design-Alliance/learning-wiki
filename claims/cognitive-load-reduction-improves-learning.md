@@ -132,3 +132,4 @@ Concrete load-reduction levers documented elsewhere in this wiki include [chunki
 - [Integrating spatially or temporally separated but related elements of instructional information produces a large average learning benefit for novices](integration-of-related-elements-large-mean-effect.md) — related
 - [Spatial and temporal contiguity effects do not differ significantly in mean magnitude](spatial-temporal-contiguity-equivalent-magnitudes.md) — related
 - [Contiguity effects show no statistically reliable difference between static and dynamic presentation of visual information](static-dynamic-presentation-no-moderation.md) — related
+- [Reduction of cognitive load can sometimes impair learning rather than enhance it](load-reduction-can-impair-learning.md) — reports the opposite

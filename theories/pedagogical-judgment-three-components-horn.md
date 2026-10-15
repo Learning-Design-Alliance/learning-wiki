@@ -51,4 +51,4 @@ Drawing on Horn (2020), the article treats teacher learning as the development o
 - [Video-based lesson-debrief cycles with teacher teams in schools](../elements/video-based-lesson-debrief-cycles-teams.md)
 
 ## Key Sources
-- Ehrenfeld, N., McGugan, K. S., Marshall, S. A., & Garner, B. (2020). Reconciling local contexts and external conceptual resources in mathematics teachers' collaborative sensemaking. In Mathematics Education Across Cultures: Proceedings of the 42nd Meeting of the North American Chapter of PME-NA.
+- Ehrenfeld, N., McGugan, K. S., Marshall, S. A., & Garner, B. (2020). Reconciling local contexts and external conceptual resources in mathematics teachers' collaborative sensemaking. In Mathematics Education Across Cultures: Proceedings of the 42nd Meeting of the North American Chapter of PME-NA. [doi:10.51272/pmena.42.2020-295](https://doi.org/10.51272/pmena.42.2020-295)

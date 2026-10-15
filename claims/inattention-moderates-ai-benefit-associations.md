@@ -86,3 +86,4 @@ Same latent interaction analysis reported null results for the remaining tested 
 - [Higher baseline autonomy and higher baseline competence frustration predict greater perceived relief from competence frustration after AI chatbot use, while higher baseline personal agency predicts less](baseline-needs-predict-competence-relief-ai.md) — related
 - [Students with higher baseline relatedness satisfaction perceive less additional relatedness support from AI chatbot use](baseline-relatedness-diminishes-perceived-ai-relatedness.md) — related
 - [AI Paradox: students report higher confidence in critical AI awareness than in operational AI usage (p = 0.015)](ai-paradox-critical-awareness-overestimation.md) — related
+- [Baseline interaction quality moderates component-outcome relations, with strongest relations for teachers with the lowest baseline quality](baseline-quality-moderates-component-relations.md) — related

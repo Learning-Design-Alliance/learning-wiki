@@ -18,16 +18,16 @@ sources:
     kind: design
     rigour: 2
   - id: liu-2026-2
-    resource: "https://arxiv.org/abs/2607.28890"
-    title: "Liu, A., Esbenshade, L., Xiao, M., Tian, V., Zhang, Z., He, K., & Sun, M. (2026). Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground Truth. Preprint, no identifier printed in text. https://arxiv.org/abs/2607.28890"
+    resource: "https://doi.org/10.48550/arxiv.2607.28890"
+    title: "Liu, A., Esbenshade, L., Xiao, M., Tian, V., Zhang, Z., He, K., & Sun, M. (2026). Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground Truth. Preprint, no identifier printed in text. https://arxiv.org/abs/2607.28890. [doi:10.48550/arxiv.2607.28890](https://doi.org/10.48550/arxiv.2607.28890)"
     author: "Liu, A., Esbenshade, L., Xiao, M., Tian, V., Zhang, Z., He, K., & Sun, M."
     q: 2
     i: "?"
     kind: design
     rigour: 2
   - id: liu-2026-3
-    resource: "https://arxiv.org/abs/2607.28890"
-    title: "Liu, A., Esbenshade, L., Xiao, M., Tian, V., Zhang, Z., He, K., & Sun, M. (2026). Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground Truth. Preprint, no identifier printed in text. https://arxiv.org/abs/2607.28890"
+    resource: "https://doi.org/10.48550/arxiv.2607.28890"
+    title: "Liu, A., Esbenshade, L., Xiao, M., Tian, V., Zhang, Z., He, K., & Sun, M. (2026). Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground Truth. Preprint, no identifier printed in text. https://arxiv.org/abs/2607.28890. [doi:10.48550/arxiv.2607.28890](https://doi.org/10.48550/arxiv.2607.28890)"
     author: "Liu, A., Esbenshade, L., Xiao, M., Tian, V., Zhang, Z., He, K., & Sun, M."
     q: 2
     i: 1
@@ -38,7 +38,7 @@ sources:
 # Human-LLM agreement is moderated by code properties, multi-model consensus, and model-reported confidence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies (3 entries) · 1 associational `r2`, 1 design `r2` · `q2` · `i1` small
+> **Evidence** · 1 study (3 entries) · design `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i?` The 72 codes stratify into three agreement tiers: surface-identifiable codes exceed 0.4 Jaccard, inference-dependent codes fall below 0.2, with high-frequency codes such as Non-Educational at 0.05. [→ Liu 2026](#liu-2026)
@@ -59,7 +59,7 @@ Code-level stratification of mean human-LLM Jaccard across the 72-code instrumen
 
 ### Liu 2026 (2)
 
-Liu, A., Esbenshade, L., Xiao, M., Tian, V., Zhang, Z., He, K., & Sun, M. (2026). Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground Truth. Preprint, no identifier printed in text. https://arxiv.org/abs/2607.28890
+Liu, A., Esbenshade, L., Xiao, M., Tian, V., Zhang, Z., He, K., & Sun, M. (2026). Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground Truth. Preprint, no identifier printed in text. https://arxiv.org/abs/2607.28890. [doi:10.48550/arxiv.2607.28890](https://doi.org/10.48550/arxiv.2607.28890)
 
 `q2 · i?` · `design · r2`
 
@@ -69,7 +69,7 @@ Multi-model consensus analysis relating the number of the five LLMs assigning a 
 
 ### Liu 2026 (3)
 
-Liu, A., Esbenshade, L., Xiao, M., Tian, V., Zhang, Z., He, K., & Sun, M. (2026). Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground Truth. Preprint, no identifier printed in text. https://arxiv.org/abs/2607.28890
+Liu, A., Esbenshade, L., Xiao, M., Tian, V., Zhang, Z., He, K., & Sun, M. (2026). Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground Truth. Preprint, no identifier printed in text. https://arxiv.org/abs/2607.28890. [doi:10.48550/arxiv.2607.28890](https://doi.org/10.48550/arxiv.2607.28890)
 
 `q2 · i1` · `associational · r2`
 

@@ -37,7 +37,7 @@ A PhET Interactive Simulations physics simulation that lets learners explore con
 -
 
 ## Key Sources
-- Podolefsky, N. S., Moore, E. B., & Perkins, K. K. (2013). Implicit scaffolding in interactive simulations: Design strategies to support multiple educational goals. http://phet.colorado.edu/en/simulation/energy-skate-park-basics
+- Podolefsky, N. S., Moore, E. B., & Perkins, K. K. (2013). Implicit scaffolding in interactive simulations: Design strategies to support multiple educational goals. http://phet.colorado.edu/en/simulation/energy-skate-park-basics. [doi:10.48550/arxiv.1306.6544](https://doi.org/10.48550/arxiv.1306.6544)
 
 <!-- merged 2026-10-10 from elements/energy-skate-park-basics-sim ("Energy Skate Park: Basics simulation"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 
@@ -82,5 +82,5 @@ Energy Skate Park: Basics (ESPB) is a PhET interactive simulation aimed at middl
 -
 
 ## Key Sources
-- Podolefsky, N. S., Moore, E. B., & Perkins, K. K. (2013). Implicit scaffolding in interactive simulations: Design strategies to support multiple educational goals. http://phet.colorado.edu/en/simulation/energy-skate-park-basics
+- Podolefsky, N. S., Moore, E. B., & Perkins, K. K. (2013). Implicit scaffolding in interactive simulations: Design strategies to support multiple educational goals. http://phet.colorado.edu/en/simulation/energy-skate-park-basics. [doi:10.48550/arxiv.1306.6544](https://doi.org/10.48550/arxiv.1306.6544)
 -->

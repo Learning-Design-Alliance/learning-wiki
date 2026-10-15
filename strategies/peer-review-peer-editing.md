@@ -63,7 +63,7 @@ Peer review operationalizes [Assessment for Learning](../principles/assessment-f
 - [Writing Conferences](../strategies/5-minute_writing_conferences.md) — one-to-one alternative when peer dynamics or skill levels make written exchange unreliable
 
 ## Examples
-- **Calibrated Peer Review (CPR)** (https://cpr.molsci.ucla.edu) — discipline-neutral web system in which students first calibrate against instructor-scored exemplars, then review three peer texts; widely used in chemistry and writing courses.
+- **[Calibrated Peer Review](calibrated_peer_review.md) (CPR)** (https://cpr.molsci.ucla.edu) — discipline-neutral web system in which students first calibrate against instructor-scored exemplars, then review three peer texts; widely used in chemistry and writing courses.
 - **Peergrade / PeerStudio-style platforms** — algorithmically distribute submissions so each student reviews several peers and receives aggregated feedback, reducing single-reviewer bias.
 - **Writing-across-the-curriculum workshops** — small-group read-aloud protocols in which each draft is heard and discussed against a shared rubric before revision.
 

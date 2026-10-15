@@ -65,7 +65,7 @@ Concise instructions reduce extraneous cognitive load, freeing limited working-m
 
 ## Examples
 - **Elementary science lab:** instead of reading all eight steps aloud, the teacher gives the instruction for setting up materials, waits, then gives the instruction for the first measurement — one phase at a time.
-- **Duolingo (https://www.duolingo.org):** exercise instructions are a single short line ("Tap the pairs"), with the interface itself carrying the rest of the guidance.
+- **[Duolingo](../products/duolingo.md) (https://www.duolingo.org):** exercise instructions are a single short line ("Tap the pairs"), with the interface itself carrying the rest of the guidance.
 - **Codecademy (https://www.codecademy.com):** each exercise presents one short instruction panel at a time alongside the editor, rather than a full assignment brief.
 - **WIDA-aligned classrooms (https://wida.wisc.edu):** teachers of multilingual learners use shortened, syntax-simplified directions with visual supports, per WIDA's language-demand guidance.
 

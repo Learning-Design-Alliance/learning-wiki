@@ -18,8 +18,8 @@ sources:
     kind: review
     rigour: 2
   - id: carver-thomas-2018-2
-    resource: "https://learningpolicyinstitute.org/product/diversifying-teaching-profession"
-    title: "Carver-Thomas, D. (2018). Diversifying the teaching profession: How to recruit and retain teachers of color. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/diversifying-teaching-profession"
+    resource: "https://doi.org/10.54300/559.310"
+    title: "Carver-Thomas, D. (2018). Diversifying the teaching profession: How to recruit and retain teachers of color. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/diversifying-teaching-profession. [doi:10.54300/559.310](https://doi.org/10.54300/559.310)"
     author: Carver-Thomas, D.
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Having a race-matched teacher is associated with higher test scores and long-term academic benefits for Black students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 review `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In a reanalysis of Tennessee STAR data, Black elementary students with Black teachers had reading and math test scores 3 to 6 percentile points higher than students without Black teachers, with gains accumulating each year with a race-matched teacher. [→ Carver-Thomas 2018](#carver-thomas-2018)
@@ -50,7 +50,7 @@ The review reports, citing a reanalysis of Tennessee STAR class size study test 
 
 ### Carver-Thomas 2018 (2)
 
-Carver-Thomas, D. (2018). Diversifying the teaching profession: How to recruit and retain teachers of color. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/diversifying-teaching-profession
+Carver-Thomas, D. (2018). Diversifying the teaching profession: How to recruit and retain teachers of color. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/diversifying-teaching-profession. [doi:10.54300/559.310](https://doi.org/10.54300/559.310)
 
 `q2 · i?` · `review · r2`
 

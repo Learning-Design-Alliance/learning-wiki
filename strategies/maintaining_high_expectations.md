@@ -88,9 +88,9 @@ High expectations function as a motivational signal: students infer their own ca
 ## Examples
 - **[Zearn](https://www.zearn.org)** — digital math curriculum that keeps grade-level content constant for all students while providing built-in remediation of prerequisite skills, embodying "high expectations with guided entry."
 - **[Expeditionary Learning (EL Education)](https://eleducation.org)** — school network whose design principles include "high expectations for all students," with revision and critique cycles that pair demanding work with structured support.
-- **Writing conferences** — a teacher works one-on-one, naming what the student's draft already does well (proportional praise), then sets one specific next challenge and models how to attempt it.
+- **[Writing conferences](writing-conferences.md)** — a teacher works one-on-one, naming what the student's draft already does well (proportional praise), then sets one specific next challenge and models how to attempt it.
 - **[Zearn](https://www.zearn.org)** — Digital math curriculum that requires students to reach lesson proficiency before advancing, with built-in remediation supporting the demand rather than replacing it.
-- **Expeditionary Learning (EL Education)** — School network built on "warm demander" pedagogy; students defend revised, high-quality work in public exhibitions, with revision cycles required until standards are met.
+- **[Expeditionary Learning](../products/expeditionary-learning.md) (EL Education)** — School network built on "warm demander" pedagogy; students defend revised, high-quality work in public exhibitions, with revision cycles required until standards are met.
 - **Writing conferences in workshop models** — Teacher holds every student to grade-level writing standards but tailors the conference focus to each writer's next step, praising specific growth rather than general effort.
 
 ## Key Sources

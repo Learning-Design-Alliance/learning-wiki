@@ -49,4 +49,4 @@ The chapter argues scale is not just a bigger n, drawing on Coburn (2003) and Cl
 - [Sustain inquiry innovations through partnerships with business, universities, thought leadership, or institutional policy adoption](../strategies/partnerships-sustain-inquiry-innovations.md)
 
 ## Key Sources
-- Roschelle, J., Mazziotti, C. & Means, B. (2021). Scaling Up Design of Inquiry Environments. In C. Chinn & R.G. Duncan et al (Eds.), International Handbook on Learning and Inquiry. Routledge. ISBN 9781138922600. https://isbnsearch.org/isbn/9781138922600
+- Roschelle, J., Mazziotti, C. & Means, B. (2021). Scaling Up Design of Inquiry Environments. In C. Chinn & R.G. Duncan et al (Eds.), International Handbook on Learning and Inquiry. Routledge. ISBN 9781138922600. https://isbnsearch.org/isbn/9781138922600. [doi:10.4324/9781315685779-7](https://doi.org/10.4324/9781315685779-7)

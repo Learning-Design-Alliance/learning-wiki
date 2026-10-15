@@ -18,8 +18,8 @@ sources:
     kind: design
     rigour: 3
   - id: johnson-2023-2
-    resource: "https://digitalpromise.org/inclusive-innovation"
-    title: "Johnson, A. M., & Lenderman, K. (2023). Socratic Circles: Building OER Tools for Racial Equity Classroom and Community Discourse. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.org/inclusive-innovation"
+    resource: "https://doi.org/10.51388/20.500.12265/200"
+    title: "Johnson, A. M., & Lenderman, K. (2023). Socratic Circles: Building OER Tools for Racial Equity Classroom and Community Discourse. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.org/inclusive-innovation. [doi:10.51388/20.500.12265/200](https://doi.org/10.51388/20.500.12265/200)"
     author: "Johnson, A. M., & Lenderman, K."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Post-implementation survey responses after each Socratic Circles implementation cycle trended affirmative toward the team-defined outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2`–`r3` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` Responses to survey items after each implementation cycle fell between agree and strongly agree toward the RCS Core Team's team-defined outcomes. [→ Johnson 2023 (2)](#johnson-2023-2)
@@ -49,7 +49,7 @@ Co-designed Teacher Post-Implementation Survey and Community Post-Implementation
 
 ### Johnson 2023 (2)
 
-Johnson, A. M., & Lenderman, K. (2023). Socratic Circles: Building OER Tools for Racial Equity Classroom and Community Discourse. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.org/inclusive-innovation
+Johnson, A. M., & Lenderman, K. (2023). Socratic Circles: Building OER Tools for Racial Equity Classroom and Community Discourse. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.org/inclusive-innovation. [doi:10.51388/20.500.12265/200](https://doi.org/10.51388/20.500.12265/200)
 
 `q2 · i?` · `design · r2`
 

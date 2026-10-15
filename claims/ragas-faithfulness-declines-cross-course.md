@@ -18,8 +18,8 @@ sources:
     kind: design
     rigour: 2
   - id: rumble-2026-2
-    resource: "https://arxiv.org/abs/2607.13370"
-    title: "Rumble, T., Zarrin, J., Lovell, P. G., Falconer, R. (2026). Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System. arXiv. https://arxiv.org/abs/2607.13370"
+    resource: "https://doi.org/10.48550/arxiv.2607.13370"
+    title: "Rumble, T., Zarrin, J., Lovell, P. G., Falconer, R. (2026). Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System. arXiv. https://arxiv.org/abs/2607.13370. [doi:10.48550/arxiv.2607.13370](https://doi.org/10.48550/arxiv.2607.13370)"
     author: Rumble, T., Zarrin, J., Lovell, P. G., Falconer, R.
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # RAGAS Faithfulness declines with curriculum distance from LEA's original course (0.685 to 0.499), while Answer Relevancy and Context Precision remain broadly stable across courses
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Faithfulness declined from 0.685 (CMP511) through 0.609 (CMP202) to 0.499 (PSY555), carried by the significant cross-domain drop at PSY555 rather than the non-significant cross-level step to CMP202. [→ Rumble 2026](#rumble-2026)
@@ -50,7 +50,7 @@ RAGAS evaluation of 660 questions across three courses using LEA's live Chat Mod
 
 ### Rumble 2026 (2)
 
-Rumble, T., Zarrin, J., Lovell, P. G., Falconer, R. (2026). Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System. arXiv. https://arxiv.org/abs/2607.13370
+Rumble, T., Zarrin, J., Lovell, P. G., Falconer, R. (2026). Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System. arXiv. https://arxiv.org/abs/2607.13370. [doi:10.48550/arxiv.2607.13370](https://doi.org/10.48550/arxiv.2607.13370)
 
 `q2 · i?` · `design · r2`
 

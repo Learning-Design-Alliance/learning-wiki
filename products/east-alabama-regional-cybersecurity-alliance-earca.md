@@ -35,7 +35,7 @@ A regional alliance run by partner school districts, industry, and postsecondary
 
 ## Key Sources
 - Babineau, K., Aso, C., Ganoo, K., Jacobs, B., Lenderman, K., Shah, Z., Smith, K., & Young, V. M. (2025). From Rural Districts to Statewide Pathways: A Blueprint for Scaling Cybersecurity Workforce Development Through Regional Collaboration. Digital Promise. https://doi.org/10.51388/20.500.12265/263
-- Smith, K., & Young, V. M. (2024). A New Narrative: How Unlocking the Power of R&D Through Inclusive Innovation Can Transform Education. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.dspacedirect.org/items/73f2e0fa-dca8-4cd0-a8da-eb18b59453c4
+- Smith, K., & Young, V. M. (2024). A New Narrative: How Unlocking the Power of R&D Through Inclusive Innovation Can Transform Education. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.dspacedirect.org/items/73f2e0fa-dca8-4cd0-a8da-eb18b59453c4. [doi:10.51388/20.500.12265/202](https://doi.org/10.51388/20.500.12265/202)
 
 <!-- merged 2026-10-10 from elements/inclusive-cybersecurity-pathways-credential ("Inclusive Cybersecurity Pathways with Workforce Credentials"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 
@@ -71,5 +71,5 @@ An inclusive cybersecurity pathways initiative offering workforce credentials, e
 -
 
 ## Key Sources
-- Smith, K., & Young, V. M. (2024). A New Narrative: How Unlocking the Power of R&D Through Inclusive Innovation Can Transform Education. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.dspacedirect.org/items/73f2e0fa-dca8-4cd0-a8da-eb18b59453c4
+- Smith, K., & Young, V. M. (2024). A New Narrative: How Unlocking the Power of R&D Through Inclusive Innovation Can Transform Education. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.dspacedirect.org/items/73f2e0fa-dca8-4cd0-a8da-eb18b59453c4. [doi:10.51388/20.500.12265/202](https://doi.org/10.51388/20.500.12265/202)
 -->

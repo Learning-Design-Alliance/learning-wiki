@@ -21,7 +21,7 @@ sources:
 # Within-study comparison (WSC) methodology
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 10 claims (10 for) · 5 studies (3 causal, 1 quant-synthesis, 1 review), `q2`–`q3` · 0 of 5 report an effect size · 10 claims rest on one study
+> **Evidence** · 11 claims (11 for) · 6 studies (4 causal, 1 quant-synthesis, 1 review), `q2`–`q3` · 1 of 6 report an effect size · 11 claims rest on one study
 
 ## Description
 A within-study comparison examines "whether and in what context nonexperimental methods can successfully replicate the results of randomized experiments." The article situates its contribution in this growing literature and applies a WSC to charter school effects on student achievement, using a randomized study with control-group crossover as the experimental benchmark.
@@ -31,6 +31,7 @@ A within-study comparison examines "whether and in what context nonexperimental 
 - **Within-study comparison (WSC) methodology**: A within-study comparison examines "whether and in what context nonexperimental methods can successfully replicate the results of randomized experiments." The article situates its contribution in this growing literature and applies a WSC to charter school effects on student achievement, using a randomized study with control-group crossover as the experimental benchmark. (Brian Gill et al. (2016))
 - **Within-study comparison of RD and RCT estimates at the shared cutoff as a test of RD validity**: The article's methodological framework is the within-study comparison: each of 15 studies assesses "the correspondence between causal estimates from an RD study and a randomized control trial (RCT) when the estimates are made at the same cutoff point where they should not differ asymptotically." Because statistical error, imperfect design implementation, and many analysis options could still produce differences, the framework tests whether they do, "assuming that the bias potential is greater with RDs than RCTs." It is used both to test internal validity and, by examining variation in bias across studies, external validity. (Duncan D. Chaplin et al. (2018))
 - **Match causal estimands when using within-study comparisons to validate nonexperimental methods**: The article states, citing Cook, Shadish, and Wong (2008), that "WSCs require that the experimental and nonexperimental methods assess the same causal estimand." This principle guides the design of replication studies: before judging whether a nonexperimental method replicates an experimental result, researchers must ensure both approaches target the same quantity. The article operationalizes this by comparing to ITT estimates under noncompliance. (Brian Gill et al. (2016))
+- **Matched randomized crossover design for within-student comparison of an instructional treatment**: A course-level experimental pattern in which each student serves as their own control across units of a course. Students are assigned to treatment and control in different orders over the units (e.g., TCTC, CTCT, TCCT, CTTC), which, as the authors note, "eliminates what is arguably the largest source of variability in educational studies: variation between students." Matching students on covariates before assigning complementary treatments further guards against baseline differences. (Sun DL et al. (2015))
 
 ### Claims
 - [Control-group noncompliance makes experimental and nonexperimental estimands diverge (CACE vs. all treated subjects)](../claims/noncompliance-estimand-divergence-cace-itt.md) [+W]
@@ -43,6 +44,7 @@ A within-study comparison examines "whether and in what context nonexperimental 
 - [The meta-analysis finds some evidence favoring non-parametric RD methods over parametric ones](../claims/rd-non-parametric-methods-favored.md) [+W]
 - [Regression discontinuity impact estimates for two education interventions were not significantly different from experimental impact estimates, though point-estimate differences were sometimes nontrivial](../claims/rd-replication-matches-experimental-estimates-two-interventions.md) [+W]
 - [When well implemented, RD and experimental estimators produce impact estimates that are not significantly different and similar in magnitude on average](../claims/rd-well-implemented-matches-experimental-estimates.md) [+W]
+- [Participating in peer assessment causes a small but significant improvement in short-term achievement on unit quizzes in a college statistics course](../claims/peer-assessment-improves-unit-quiz-achievement.md) [+M]
 
 ## Related Research Methods
 -
@@ -50,9 +52,9 @@ A within-study comparison examines "whether and in what context nonexperimental 
 ## Key Sources
 - Brian Gill, Joshua Furgeson, Hanley Chiang, Bing-Ru Teh, Joshua Haimson, Natalya Verbitsky-Savitz. (2016). Replicating Experimental Impact Estimates With Nonexperimental Methods in the Context of Control-Group Noncompliance. Statistics and Public Policy, vol. 3, issue 1. https://www.mathematica.org/publications/2015-replicating-experimental-impact-estimates-with-nonexperimental-methods-in-the-context
 - Duncan D. Chaplin, Thomas D. Cook, Jelena Zurovac, Jared S. Coopersmith, Mariel M. Finucane, Lauren N. Vollmer, Rebecca E. Morris. (2018). The Internal and External Validity of the Regression Discontinuity Design: A Meta-Analysis of 15 Within-Study Comparisons. Journal of Policy Analysis and Management, vol. 37, issue 2. https://www.mathematica.org/publications/the-internal-and-external-validity-of-the-regression-discontinuity-design-a-meta-analysis-of-15
-
 <!-- merged 2026-10-10 from elements/within-study-comparison-wsc-methodology ("Within-study comparison (WSC) methodology"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 - Duncan D. Chaplin, Thomas D. Cook, Jelena Zurovac, Jared S. Coopersmith, Mariel M. Finucane, Lauren N. Vollmer, Rebecca E. Morris. (2018). The Internal and External Validity of the Regression Discontinuity Design: A Meta-Analysis of 15 Within-Study Comparisons. Journal of Policy Analysis and Management, vol. 37, issue 2. https://www.mathematica.org/publications/the-internal-and-external-validity-of-the-regression-discontinuity-design-a-meta-analysis-of-15
+- Sun DL, Harris N, Walther G, Baiocchi M (2015) Peer Assessment Enhances Student Learning: The Results of a Matched Randomized Crossover Experiment in a College Statistics Class. PLoS ONE 10(12): e0143177. https://doi.org/10.1371/journal.pone.0143177
 
 # Within-study comparison (WSC) methodology
 

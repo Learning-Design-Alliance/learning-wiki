@@ -82,9 +82,9 @@ Retrieval and application during practice strengthen retention far more than rer
 - **Formative feedback loops** — practice time is the venue in which formative assessment actually happens
 
 ## Examples
-- **Writing conferences (elementary)**: after a mini-lesson on a craft move, students write for 10–15 minutes applying it while the teacher confers individually; nothing collected for a grade that day.
+- **[Writing conferences](writing-conferences.md) (elementary)**: after a mini-lesson on a craft move, students write for 10–15 minutes applying it while the teacher confers individually; nothing collected for a grade that day.
 - **Khan Academy (https://www.khanacademy.org)** — after each video demonstration, learners get unlimited ungraded practice exercises with hints and instant feedback, and mastery tracking only later.
-- **Duolingo (https://www.duolingo.com)** — short low-stakes practice sessions with immediate item-level feedback, algorithmically spaced and revisited.
+- **[Duolingo](../products/duolingo.md) (https://www.duolingo.com)** — short low-stakes practice sessions with immediate item-level feedback, algorithmically spaced and revisited.
 - **Codecademy (https://www.codecademy.com)** — annotated code examples followed immediately by an in-browser exercise where learners write and run their own version with instant feedback.
 
 ## Key Sources

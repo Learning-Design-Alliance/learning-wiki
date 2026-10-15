@@ -50,3 +50,4 @@ Perception studies 1-3, in which 315 distance students reacted to prototypes and
 - [First-year EAP students prefer a hybrid feedback model combining AI-generated comments with instructor feedback over either source alone](students-prefer-hybrid-ai-instructor-feedback.md) — related
 - EFL students perceive AI-generated writing feedback as a competent source that improves vocabulary, grammar, structure, coherence, and values its immediacy — related
 - [At pre-test most distance students were positive about an institutional AIDA, but a majority saw challenges, and prior GenAI experience correlated with more positive perceptions](aida-pretest-positivity-and-challenges.md) — related
+- [Students who preferred AI feedback cited clarity, understandability, consistency, specificity, and 24/7 availability](ai-feedback-preference-clarity-availability-reasons.md) — related

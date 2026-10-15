@@ -48,3 +48,4 @@ Narrative synthesis of educational-performance studies: nursing students with an
 - [One RCT found AI-assisted simulation inferior to standardized patient simulation for breast self-examination skills](ai-simulation-inferior-bse-skills.md) — related
 - [Poorly grounded GenAI self-study risks fabricated content and inferior learning relative to curated resources](genai-self-study-fabrication-curated-resources.md) — related
 - [LLM grading performance relative to human graders is mixed: comparable in 12 reviewed cases, worse in 11, with the strongest alignment on short, straightforward tasks](llm-grading-mixed-against-human-raters.md) — a narrower finding that bears on this claim
+- [Students primarily benefit from AI chatbots in three key areas: homework and study assistance, personalized learning, and skills development](ai-chatbots-three-student-benefit-areas.md) — reports the opposite

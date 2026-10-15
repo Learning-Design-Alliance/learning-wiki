@@ -65,7 +65,7 @@ Working memory can hold only a handful of meaningful units at once; chunking res
 
 ## Examples
 - **Khan Academy** (https://www.khanacademy.org) — math videos are segmented into short single-concept units, each followed by practice items keyed to that unit.
-- **Duolingo** (https://www.duolingo.com) — language content is broken into small lesson chunks (a handful of vocabulary items and one grammar pattern per lesson), sequenced so each chunk reuses prior ones.
+- **[Duolingo](../products/duolingo.md)** (https://www.duolingo.com) — language content is broken into small lesson chunks (a handful of vocabulary items and one grammar pattern per lesson), sequenced so each chunk reuses prior ones.
 - **Anatomy textbooks using regional hierarchy** — presenting the brachial plexus as roots → trunks → divisions → cords → branches, one level per figure, rather than as a single diagram.
 
 ## Key Sources

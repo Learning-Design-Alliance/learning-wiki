@@ -52,3 +52,4 @@ Reliability analysis of essay scoring by three high school physics teachers of 1
 - [LLM agreement with human examiners is limited in fast mode and improves in reasoning or thinking modes](llm-fast-mode-limited-thinking-mode-better-agreement.md) — related
 - [Systems Thinking Practices is the hardest CT construct to code reliably for both human raters and the LLM, requiring more explicitly operationalized rubrics](stp-low-reliability-complex-construct.md) — related
 - [Two human graders reached almost perfect agreement (QWK = 0.95), though one waterfall-model question showed only substantial agreement](human-graders-almost-perfect-agreement-qwk-095.md) — related
+- [Automated essay scoring can achieve high agreement with human raters but faces calibration constraints](aes-high-agreement-calibration-constraint.md) — related

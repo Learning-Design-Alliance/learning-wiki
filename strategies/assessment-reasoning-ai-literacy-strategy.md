@@ -51,4 +51,4 @@ The article's design implication is structural rather than tool-based: because g
 -
 
 ## Key Sources
-- Azimi, S. (2026). AI Literacy over Tool Design: A Mixed-Methods Study of Scaffolded versus Unrestricted Generative AI in Programming Education. Delft University of Technology. https://arxiv.org/abs/2609.16784
+- Azimi, S. (2026). AI Literacy over Tool Design: A Mixed-Methods Study of Scaffolded versus Unrestricted Generative AI in Programming Education. Delft University of Technology. https://arxiv.org/abs/2609.16784. [doi:10.48550/arxiv.2609.16784](https://doi.org/10.48550/arxiv.2609.16784)

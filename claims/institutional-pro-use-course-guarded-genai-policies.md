@@ -55,3 +55,5 @@ Document analysis of 98 computer science syllabi from 54 R1 universities, coded 
 - [Strict AI prohibitions can intensify students' moral conflict without preventing AI use](strict-ai-prohibition-intensifies-moral-conflict.md) — related
 - [Educators' interpretations of students' AI use evolved from perceived AI stigma toward emphasizing AI usage transparency and explicit AI guidance](ai-stigma-to-explicit-ai-guidance-evolution.md) — related
 - [A majority of faculty believe student evaluation methods require significant change, and preferences tilt toward disclosure-based permission regimes over bans](faculty-demand-assessment-transformation-permission-regimes.md) — related
+- [Nearly all top-50 universities provide faculty GenAI guidelines, with 94% emphasizing establishing and communicating course-specific GenAI policies](faculty-guidelines-course-specific-genai-policies.md) — related
+- [Most students favour allowing ChatGPT in assessments if tasks require original thinking or guidance is provided](students-favor-guided-chatgpt-allowed-assessments.md) — related

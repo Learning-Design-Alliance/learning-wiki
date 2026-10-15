@@ -18,8 +18,8 @@ sources:
     kind: associational
     rigour: 2
   - id: oliveira-2026-2
-    resource: "https://arxiv.org/abs/2607.05411"
-    title: "Oliveira, E., English, N., Ryan, T., Misiejuk, K., dal Ponte, C., López-Pernas, S., & Saqr, M. (2026). The GenAI Skill Bypass: Mapping Divergent Pathways of University Students and Staff AI Literacy. Preprint. https://arxiv.org/abs/2607.05411"
+    resource: "https://doi.org/10.48550/arxiv.2607.05411"
+    title: "Oliveira, E., English, N., Ryan, T., Misiejuk, K., dal Ponte, C., López-Pernas, S., & Saqr, M. (2026). The GenAI Skill Bypass: Mapping Divergent Pathways of University Students and Staff AI Literacy. Preprint. https://arxiv.org/abs/2607.05411. [doi:10.48550/arxiv.2607.05411](https://doi.org/10.48550/arxiv.2607.05411)"
     author: "Oliveira, E., English, N., Ryan, T., Misiejuk, K., dal Ponte, C., López-Pernas, S., & Saqr, M."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Students exhibit an inverted competence profile, endorsing creation-level GenAI tasks above several foundational items that would normally precede them
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r1`–`r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` Create-level items 7.1 and 7.2 reached 70% and 65% endorsement among students, above foundational item 1.3 at 52%, while the hardest Evaluate threshold (6.4) reached only 8%. [→ Oliveira 2026](#oliveira-2026)
@@ -50,7 +50,7 @@ Guttman chart and endorsement analysis of the student cohort (n=98). The study f
 
 ### Oliveira 2026 (2)
 
-Oliveira, E., English, N., Ryan, T., Misiejuk, K., dal Ponte, C., López-Pernas, S., & Saqr, M. (2026). The GenAI Skill Bypass: Mapping Divergent Pathways of University Students and Staff AI Literacy. Preprint. https://arxiv.org/abs/2607.05411
+Oliveira, E., English, N., Ryan, T., Misiejuk, K., dal Ponte, C., López-Pernas, S., & Saqr, M. (2026). The GenAI Skill Bypass: Mapping Divergent Pathways of University Students and Staff AI Literacy. Preprint. https://arxiv.org/abs/2607.05411. [doi:10.48550/arxiv.2607.05411](https://doi.org/10.48550/arxiv.2607.05411)
 
 `q2 · i?` · `associational · r1`
 

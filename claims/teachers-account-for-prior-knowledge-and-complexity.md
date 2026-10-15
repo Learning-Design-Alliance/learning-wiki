@@ -45,3 +45,4 @@ Results of the Complexity category in Table 3 (Likert-type questionnaire items).
 ## Related Claims
 - [Algerian university teachers of English lack sufficient knowledge of cognitive load theory](algerian-efl-teachers-lack-clt-knowledge.md) — related
 - Practitioners agree that the 11 listed tasks form the core of the ID process — related
+- [Complex learning is lengthy, requiring instruction to account for learners' motivational states and expertise development](complex-learning-lengthy-motivation-expertise.md) — related

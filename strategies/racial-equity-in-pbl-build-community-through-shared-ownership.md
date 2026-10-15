@@ -69,7 +69,7 @@ Shared ownership operationalizes culturally relevant pedagogy's "academic succes
 
 ## Examples
 - **EL Education (formerly Expeditionary Learning)** — network of schools using crew structures and long-term expeditions with authentic products for community audiences; student-led conferences and crew culture institutionalize shared ownership. [https://eleducation.org](https://eleducation.org)
-- **Complex Instruction (Cohen & Lotan, Stanford)** — role-structured group work with explicit status interventions designed to equalize participation across race, class, and language status in heterogeneous classrooms.
+- **[Complex Instruction](complex_instruction.md) (Cohen & Lotan, Stanford)** — role-structured group work with explicit status interventions designed to equalize participation across race, class, and language status in heterogeneous classrooms.
 - **PBLWorks (Buck Institute) Gold Standard PBL** — includes "student voice and choice" and "public product" as design elements; equity-focused districts adapt these to co-construct driving questions with students. [https://www.pblworks.org](https://www.pblworks.org)
 
 ## Key Sources

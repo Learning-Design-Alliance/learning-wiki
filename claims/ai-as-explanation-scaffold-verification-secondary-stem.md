@@ -47,3 +47,4 @@ Survey item B4 on task types in the n = 416 sample. Students reported a "strong 
 - [Student surveys show widespread AI use, desire for instructor guidance, and 'checking correctness' as a frequent use](student-surveys-ai-use-guidance-checking-correctness.md) — related
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
 - [Students used visualizations to verify their own reasoning rather than as primary explanation tools, valuing control over their cognitive effort (agency)](agency-control-over-cognitive-effort.md) — related
+- [EAI effectiveness was reported across all educational stages, with most studies in secondary education and university](eai-effective-all-educational-stages.md) — related

@@ -48,4 +48,4 @@ The article recommends that learning analytics systems track impasse depth and t
 -
 
 ## Key Sources
-- Ahtisham, B., Vanacore, K., Napoli, A., Arens, J., Ionova, K., Cohn, C., Salehi, S., & Kizilcec, R. (2026). Examining Variation in How Guided AI Tutors Resolve Student Impasses. arXiv. https://arxiv.org/abs/2609.38346
+- Ahtisham, B., Vanacore, K., Napoli, A., Arens, J., Ionova, K., Cohn, C., Salehi, S., & Kizilcec, R. (2026). Examining Variation in How Guided AI Tutors Resolve Student Impasses. arXiv. https://arxiv.org/abs/2609.38346. [doi:10.48550/arxiv.2609.38346](https://doi.org/10.48550/arxiv.2609.38346)

@@ -46,6 +46,7 @@ Under Scaffold Creativity, the framework recommends encouraging creativity throu
 - [Balance human and automated feedback to optimize writing skill development](balance-human-and-automated-feedback-writing.md)
 - [Design AI-supported programming courses with critique-the-AI phases, planned fading, and verification journals](critique-ai-phases-planned-fading-verification-journals.md)
 - [Tailor feedback strategies by question type: discourage MCQ trial-and-error and scaffold open-ended revision](tailor-feedback-strategy-by-question-type.md)
+- [Design AI feedback and task scope to leave room for open-ended creative exploration](open-ended-exploration-ai-feedback-design.md)
 
 ## Examples
 -

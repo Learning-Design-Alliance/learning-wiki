@@ -18,8 +18,8 @@ sources:
     kind: theoretical
     rigour: 2
   - id: tsim-2026-2
-    resource: "https://arxiv.org/abs/2608.28373"
-    title: "Tsim, F., Gutoreva, A., Weiss, A., & Dubosh, N. (2026). AI as Teammate: Rethinking Task Distribution in Medical Training. Correspondence: fenditsim@gmail.com. https://arxiv.org/abs/2608.28373"
+    resource: "https://doi.org/10.48550/arxiv.2608.28373"
+    title: "Tsim, F., Gutoreva, A., Weiss, A., & Dubosh, N. (2026). AI as Teammate: Rethinking Task Distribution in Medical Training. Correspondence: fenditsim@gmail.com. https://arxiv.org/abs/2608.28373. [doi:10.48550/arxiv.2608.28373](https://doi.org/10.48550/arxiv.2608.28373)"
     author: "Tsim, F., Gutoreva, A., Weiss, A., & Dubosh, N."
     q: 1
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Task-level account of upskilling and the Triad of Skill Failure (deskilling, never-skilling, mis-skilling) with differing empirical support
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 theoretical `r2` · `q1`
+> **Evidence** · 1 study (2 entries) · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Upskilling occurs when a learner engages tasks at the appropriate subzone, task-specific knowledge accumulates, and tasks migrate toward subzones of greater independence. [→ Tsim 2026](#tsim-2026)
@@ -50,7 +50,7 @@ Theoretical argument in Section 3.3 framing routine clinical tasks as subzone-mi
 
 ### Tsim 2026 (2)
 
-Tsim, F., Gutoreva, A., Weiss, A., & Dubosh, N. (2026). AI as Teammate: Rethinking Task Distribution in Medical Training. Correspondence: fenditsim@gmail.com. https://arxiv.org/abs/2608.28373
+Tsim, F., Gutoreva, A., Weiss, A., & Dubosh, N. (2026). AI as Teammate: Rethinking Task Distribution in Medical Training. Correspondence: fenditsim@gmail.com. https://arxiv.org/abs/2608.28373. [doi:10.48550/arxiv.2608.28373](https://doi.org/10.48550/arxiv.2608.28373)
 
 `q1 · i?` · `theoretical · r2`
 
@@ -64,3 +64,4 @@ Theoretical argument defining the three failure modes and mapping each onto dist
 ## Related Claims
 - [Learner AI over-reliance is reframed as misclassification: a failure of real-time metacognitive evaluation with two distinct pathways](misclassification-reframing-of-ai-misuse.md) — a narrower finding that bears on this claim
 - [Passive engagement within correctly classified Aid tasks is a detection-resistant mis-skilling pathway requiring expert epistemic auditing](passive-engagement-aid-subzone-mis-skilling.md) — a narrower finding that bears on this claim
+- [The convenience and low opportunity cost of LLMs poses a risk of over-reliance, deskilling, and reduced judgment competence when learners outsource tasks that are essential learning opportunities.](llm-over-reliance-deskilling-risk.md) — related

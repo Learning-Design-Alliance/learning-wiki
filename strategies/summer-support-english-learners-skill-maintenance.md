@@ -10,7 +10,7 @@ generated:
 sources:
   - id: johnson-2022
     resource: "https://doi.org/10.1177/08959048211049419"
-    title: "Johnson, A. (2022). Achievement and growth for English Learners. Educational Policy. https://doi.org/10.1177/08959048211049419"
+    title: "Johnson, A. (2022). Achievement and growth for English Learners. *Educational Policy, 37*(4), 1044–1069. https://doi.org/10.1177/08959048211049419"
     author: Johnson, A
 ---
 
@@ -52,4 +52,4 @@ The article's forward-looking recommendation drawn from its seasonal findings: b
 -
 
 ## Key Sources
-- Johnson, A. (2022). Achievement and growth for English Learners. Educational Policy. https://doi.org/10.1177/08959048211049419
+- Johnson, A. (2022). Achievement and growth for English Learners. *Educational Policy, 37*(4), 1044–1069. https://doi.org/10.1177/08959048211049419

@@ -85,7 +85,7 @@ Narrative provides low-stakes psychological distance: learners can analyze a fic
 - [Check-In Activities](../strategies/check-in-activities.md) — builds the introspective vocabulary this strategy depends on
 
 ## Examples
-- **Facing History and Ourselves** (https://www.facinghistory.org) — published curriculum using historical events and primary accounts to teach perspective-taking and ethical reasoning in secondary classrooms.
+- **[Facing History and Ourselves](../products/facing-history-and-ourselves.md)** (https://www.facinghistory.org) — published curriculum using historical events and primary accounts to teach perspective-taking and ethical reasoning in secondary classrooms.
 - **Second Step** (https://www.secondstep.org) — SEL curriculum using scripted scenarios and character vignettes for emotion recognition and perspective-taking practice in elementary grades.
 - **Newsela** (https://newsela.com) — leveled current-events articles at multiple reading levels, enabling the same event to be discussed by mixed-ability classes.
 - **[Facing History and Ourselves](https://www.facinghistory.org)** — pairs historical documents, survivor testimony, and current events with structured reflection to teach civic and social awareness in secondary classrooms.

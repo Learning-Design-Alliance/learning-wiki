@@ -105,7 +105,7 @@ Struggle supports learning only when it is *productive* — learners grapple wit
 - [Formative Assessment](formative-assessment-cycles.md) — low-stakes assessment structures that make error safe and informative
 
 ## Examples
-- **Productive Failure (Kapur)** — Singapore math classrooms present complex problems before formal instruction; students struggle in groups, then compare their solutions to canonical methods. Replicated improvements in conceptual understanding over teach-first controls.
+- **[Productive Failure](productive-failure.md) (Kapur)** — Singapore math classrooms present complex problems before formal instruction; students struggle in groups, then compare their solutions to canonical methods. Replicated improvements in conceptual understanding over teach-first controls.
 - **Broken escalator routine** — a teacher shows the well-known video of pedestrians failing to walk up a stationary escalator, then poses a math problem designed to make students feel "stuck," followed by reflection on how they got "unstuck."
 - **"My favorite no"** — a middle-school math routine where the teacher displays an anonymous incorrect solution, has students identify what is right about it, and normalizes error as a step toward correct reasoning.
 - **Productive Failure (Kapur, National University of Singapore)** — students attempt complex problems in groups before receiving canonical instruction; their failed solutions become the raw material for the subsequent lesson ([https://www.productivefailure.com](https://www.productivefailure.com)).

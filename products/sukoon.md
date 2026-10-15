@@ -30,4 +30,4 @@ A web application developed by Muhammad Fahad Bashir that combines Random Forest
 -
 
 ## Key Sources
-- Muhammad Fahad Bashir, Muhammad Afzal. (2026). An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning. https://scholar.google.com/scholar?q=An+AI-Powered+Culturally+Aware+Chatbot+for+Stress+Detection+and+Wellness+Support+among+Pakistani+University+Students
+- Muhammad Fahad Bashir, Muhammad Afzal. (2026). An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning. https://doi.org/10.48550/arxiv.2609.11199

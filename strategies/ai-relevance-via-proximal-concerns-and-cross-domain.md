@@ -44,4 +44,4 @@ Based on the finding that the individualized identity-based AI dialogue failed w
 -
 
 ## Key Sources
-- Guo, Z., Fryer, L. K., & Shum, A. (2025). Utilizing generative AI to promote high school students' personal relevance to math and interest in the math class: An intervention. https://www.google.com/search?q=%22Utilizing+generative+AI+to+promote+high+school+students%27+personal+relevance+to+math+and+interest+in+the+math+class%22
+- Guo, Z., Fryer, L. K., & Shum, A. (2025). Utilizing generative AI to promote high school students' personal relevance to math and interest in the math class: An intervention. https://www.google.com/search?q=%22Utilizing+generative+AI+to+promote+high+school+students%27+personal+relevance+to+math+and+interest+in+the+math+class%22. [doi:10.31234/osf.io/srxga_v1](https://doi.org/10.31234/osf.io/srxga_v1)

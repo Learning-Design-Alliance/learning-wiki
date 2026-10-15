@@ -44,4 +44,4 @@ A concrete implementation of the between-student method: different sections comp
 -
 
 ## Key Sources
-- Clark, J. W., Sayre, E. C., and Franklin, S. V. (2010). Fluctuations in Student Understanding of Newton's 3rd Law. arXiv preprint. https://arxiv.org/abs/1009.0260
+- Clark, J. W., Sayre, E. C., and Franklin, S. V. (2010). Fluctuations in Student Understanding of Newton's 3rd Law. arXiv preprint. https://arxiv.org/abs/1009.0260. [doi:10.48550/arxiv.1009.0260](https://doi.org/10.48550/arxiv.1009.0260)

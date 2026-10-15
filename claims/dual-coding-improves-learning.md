@@ -159,3 +159,6 @@ Open questions: how durable the recall advantage is over long retention interval
 - [Retrieval context has a sweet spot at Top-K = 10: raising it to 15 did not improve recall but significantly worsened context precision via the distraction issue](rag-top-k-10-sweet-spot-context-precision.md) — related
 - [Representation-alignment tension between expert externalization and novice comprehension](representation-alignment-tension-expert-novice.md) — related
 - [Working memory includes partially independent subcomponents for auditory/verbal and visual/2- or 3-dimensional information](working-memory-partially-independent-modality-subcomponents.md) — related
+- [Concreteness, imagery, and verbal associative processes play major roles across multiple educational domains](concreteness-imagery-associative-roles-educational-domains.md) — a broader claim this one bears on
+- [Basic DCT mechanisms can be used to model diverse educational phenomena](dct-mechanisms-model-educational-phenomena.md) — a broader claim this one bears on
+- [Learning from visual displays often yields disappointing outcomes because displays pose substantial demands on learners](visual-displays-pose-demands-disappointing-outcomes.md) — related

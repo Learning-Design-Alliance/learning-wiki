@@ -68,7 +68,7 @@ The rekenrek's 5-and-10 structure exploits subitizing and the fives-structure of
 
 ## Examples
 - **[The Math Learning Center — Number Rack](https://www.mathlearningcenter.org/apps/number-rack)** — the free app (iOS, web) with sharing and equation tools; part of the Bridges in Mathematics curriculum toolkit.
-- **Bridges in Mathematics (K–2)** — classroom lessons using physical and digital rekenreks for quick images, ten-frame equivalents, and story-problem modeling.
+- **[Bridges in Mathematics](../products/bridges-in-mathematics.md) (K–2)** — classroom lessons using physical and digital rekenreks for quick images, ten-frame equivalents, and story-problem modeling.
 
 ## Key Sources
 - Carbonneau, K. J., Marley, S. C., & Selig, J. P. (2013). A meta-analysis of the efficacy of teaching mathematics with concrete manipulatives. *Journal of Educational Psychology, 105*(2), 380-400. [doi:10.1037/a0031084](https://doi.org/10.1037/a0031084)

@@ -86,7 +86,7 @@ GRR operationalizes [Scaffolding](../principles/scaffolding.md) as a temporal se
 
 ## Examples
 - **Fisher & Frey's framework at Health Sciences High (San Diego)** — a four-phase GRR model (focused instruction, guided instruction, collaborative learning, independent learning) used school-wide across content areas; documented in *Better Learning Through Structured Teaching* (ASCD, 2021, 3rd ed.).
-- **Reading Recovery (Marie Clay)** — one-to-one literacy intervention in which the teacher models reading behaviors, then gradually withdraws prompting as the child takes over the reading of increasingly difficult texts.
+- **[Reading Recovery](../products/reading-recovery.md) (Marie Clay)** — one-to-one literacy intervention in which the teacher models reading behaviors, then gradually withdraws prompting as the child takes over the reading of increasingly difficult texts.
 - **[Khan Academy](https://www.khanacademy.org)** — narrated video demonstrations followed by hint-scaffolded practice exercises that fade support step by step, then independent mastery problems.
 - **Fisher & Frey's framework (ASCD)** — the widely adopted four-phase version used in K-12 literacy instruction; see [https://www.ascd.org](https://www.ascd.org) and Fisher, D., & Frey, N. (2013), *Better Learning Through Structured Teaching* (2nd ed.).
 - **Reading Recovery** — one-to-one early literacy intervention in which the teacher models reading behaviors, then reads *with* the child, then fades support as the child reads independently [https://readingrecovery.org](https://readingrecovery.org)

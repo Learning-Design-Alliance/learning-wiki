@@ -146,10 +146,12 @@ This pattern is scoped to problem-centred units in which an explicit consolidati
 - [Learning by Producing (multimedia production as learning)](learning-by-producing-pattern.md)
 
 ## Examples
+
 - A unit organized around diagnosing and responding to a realistic problem case.
 - Medical learners diagnosing and responding to a patient scenario.
 - Business learners working through a complex organizational case.
 - Engineering or civic learners designing responses to a local real-world problem.
+- [Teach AI through holistic, active, collaborative pedagogical strategies starting from real problem solving](../strategies/active-real-problem-solving-ai-teaching.md)
 
 ## Key Sources
 - Hmelo-Silver, C. E. (2004). Problem-based learning: What and how do students learn? *Educational Psychology Review, 16*(3), 235-266. [https://doi.org/10.1023/B:EDPR.0000034022.16470.f3](https://doi.org/10.1023/B:EDPR.0000034022.16470.f3)

@@ -66,7 +66,7 @@ Goal setting is one of the most robust findings in organizational and educationa
 ## Examples
 - **Writing portfolios (secondary English)**: students set a weekly revision goal (e.g., "strengthen one paragraph's evidence") tracked in a conference log with the teacher, then evaluate against a rubric.
 - **Khan Academy** (https://www.khanacademy.org): learners set weekly energy-point and mastery goals; dashboards display progress toward course mastery, making the proximal/distal structure visible.
-- **Duolingo** (https://www.duolingo.com): daily XP goals and streaks operationalize proximal goal setting with immediate feedback; the streak mechanic leverages goal-gradient effects on persistence.
+- **[Duolingo](../products/duolingo.md)** (https://www.duolingo.com): daily XP goals and streaks operationalize proximal goal setting with immediate feedback; the streak mechanic leverages goal-gradient effects on persistence.
 - **Morisano et al. (2010) goal-setting intervention**: struggling university students who completed a structured goal-setting program improved GPA relative to controls, with effects mediated by reduced negative affect.
 
 ## Key Sources

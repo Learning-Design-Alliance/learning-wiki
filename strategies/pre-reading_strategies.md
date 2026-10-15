@@ -68,7 +68,7 @@ Pre-reading activities work primarily by supplying or activating the schema that
 - [Offer a structured advance organizer before the full article for readers who benefit from one](structured-advance-organizer-appendix-strategy.md)
 
 ## Examples
-- **Anticipation guides** in science classes: students agree/disagree with claims like "heavier objects fall faster" before a physics text, then revise after reading — misconceptions are confronted rather than silently reinforced.
+- **[Anticipation guides](anticipation-guides.md)** in science classes: students agree/disagree with claims like "heavier objects fall faster" before a physics text, then revise after reading — misconceptions are confronted rather than silently reinforced.
 - **[Reading Rockets](https://www.readingrockets.org)** — publishes practitioner-tested pre-reading routines (previewing, KWL charts, vocabulary pre-teaching) grounded in comprehension research.
 - **KWL charts** — learners record what they *Know*, what they *Want* to know, and later what they *Learned*; the K and W columns are the pre-reading phase.
 - **Newsela** — leveled versions of the same article let teachers pre-teach core concepts once and have all students read at accessible levels.

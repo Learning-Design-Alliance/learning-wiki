@@ -37,7 +37,7 @@ A prediction-model approach that links scores across different K-2 literacy asse
 -
 
 ## Key Sources
-- Allensworth, E., Gordon, A. & Young, C. (2026). Combining early grade assessments to study literacy skills: Addressing the variability in tests taken across schools and students. Journal of Research on Educational Effectiveness, 19(1), 1-26. https://consortium.uchicago.edu/publications/combining-early-grade-assessments-to-study-literacy-skills
+- Allensworth, E., Gordon, A. & Young, C. (2026). Combining early grade assessments to study literacy skills: Addressing the variability in tests taken across schools and students. Journal of Research on Educational Effectiveness, 19(1), 1-26. https://consortium.uchicago.edu/publications/combining-early-grade-assessments-to-study-literacy-skills. [doi:10.1080/19345747.2026.2636957](https://doi.org/10.1080/19345747.2026.2636957)
 
 <!-- merged 2026-10-10 from elements/latent-score-linking-method-early-grade-assessments ("Latent-score linking method for combining multiple K-2 literacy assessments from administrative data"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 
@@ -80,5 +80,5 @@ A prediction-model approach that links scores across different K-2 literacy asse
 - [Combine MLL and non-MLL early-grade test scores into a common latent scale to obtain an unbiased view of literacy growth](../strategies/combine-mll-non-mll-early-grade-scores.md)
 
 ## Key Sources
-- Allensworth, E., Gordon, A. & Young, C. (2026). Combining early grade assessments to study literacy skills: Addressing the variability in tests taken across schools and students. Journal of Research on Educational Effectiveness, 19(1), 1-26. https://consortium.uchicago.edu/publications/combining-early-grade-assessments-to-study-literacy-skills
+- Allensworth, E., Gordon, A. & Young, C. (2026). Combining early grade assessments to study literacy skills: Addressing the variability in tests taken across schools and students. Journal of Research on Educational Effectiveness, 19(1), 1-26. https://consortium.uchicago.edu/publications/combining-early-grade-assessments-to-study-literacy-skills. [doi:10.1080/19345747.2026.2636957](https://doi.org/10.1080/19345747.2026.2636957)
 -->

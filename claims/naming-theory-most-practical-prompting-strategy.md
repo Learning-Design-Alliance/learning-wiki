@@ -18,8 +18,8 @@ sources:
     kind: design
     rigour: 2
   - id: zambrano-2026-2
-    resource: "https://osf.io/g3z4x"
-    title: "Zambrano, A.F., Wei, Z., Zhang, J., Baker, R.S., Ocumpaugh, J., Barany, A., Liu, X., Ginger, J., Paquette, L., Zhou, Y., & Borchers, C. (2026). Data Plus Theory Equals Codebook: Leveraging LLMs for Human-AI Codebook Development. Journal of Educational Data Mining, Volume 18, No 1. https://osf.io/g3z4x"
+    resource: "https://doi.org/10.35542/osf.io/4wyqc_v1"
+    title: "Zambrano, A.F., Wei, Z., Zhang, J., Baker, R.S., Ocumpaugh, J., Barany, A., Liu, X., Ginger, J., Paquette, L., Zhou, Y., & Borchers, C. (2026). Data Plus Theory Equals Codebook: Leveraging LLMs for Human-AI Codebook Development. Journal of Educational Data Mining, Volume 18, No 1. https://osf.io/g3z4x. [doi:10.35542/osf.io/4wyqc_v1](https://doi.org/10.35542/osf.io/4wyqc_v1)"
     author: "Zambrano, A.F., Wei, Z., Zhang, J., Baker, R.S., Ocumpaugh, J., Barany, A., Liu, X., Ginger, J., Paquette, L., Zhou, Y., & Borchers, C."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # In the interest-development context, naming the theory without full references produced the most practical and usable codebook, while supplying full papers enhanced theoretical alignment but reduced applicability
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 causal `r?`, 1 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Among four prompting strategies (no theory, theory named, references listed, full papers supplied), naming the framework without references yielded the most practical and usable codebook in human evaluations. [→ Zambrano 2026](#zambrano-2026)
@@ -50,7 +50,7 @@ Study 2 compared four prompt-engineering strategies for generating a codebook gu
 
 ### Zambrano 2026 (2)
 
-Zambrano, A.F., Wei, Z., Zhang, J., Baker, R.S., Ocumpaugh, J., Barany, A., Liu, X., Ginger, J., Paquette, L., Zhou, Y., & Borchers, C. (2026). Data Plus Theory Equals Codebook: Leveraging LLMs for Human-AI Codebook Development. Journal of Educational Data Mining, Volume 18, No 1. https://osf.io/g3z4x
+Zambrano, A.F., Wei, Z., Zhang, J., Baker, R.S., Ocumpaugh, J., Barany, A., Liu, X., Ginger, J., Paquette, L., Zhou, Y., & Borchers, C. (2026). Data Plus Theory Equals Codebook: Leveraging LLMs for Human-AI Codebook Development. Journal of Educational Data Mining, Volume 18, No 1. https://osf.io/g3z4x. [doi:10.35542/osf.io/4wyqc_v1](https://doi.org/10.35542/osf.io/4wyqc_v1)
 
 `q2 · i?` · `causal · r?`
 

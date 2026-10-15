@@ -89,3 +89,4 @@ This is sometimes called the "completion effect" in cognitive load literature. H
 - [Scaffolding improves learning](scaffolding-improves-learning.md) — a broader claim this one bears on
 - [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](manipulatives-require-connection-to-concept.md) — related
 - [Successively fading out worked solution steps is effective for facilitating the transition from learning from worked examples to problem solving, compared to example-problem pairs](fading-worked-steps-facilitates-example-to-problem-transition.md) — a narrower finding that bears on this claim
+- [Cognitive and metacognitive prompts in learning journals helped early in a term but became detrimental by its end; adaptive fading-out mitigated this](expertise-reversal-writing-journal-prompts-fading.md) — a narrower finding that bears on this claim

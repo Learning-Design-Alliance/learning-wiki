@@ -18,8 +18,8 @@ sources:
     kind: design
     rigour: 2
   - id: johnson-2023-2
-    resource: "https://digitalpromise.org/inclusive-innovation"
-    title: "Johnson, A. M., & Lenderman, K. (2023). Socratic Circles: Building OER Tools for Racial Equity Classroom and Community Discourse. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.org/inclusive-innovation"
+    resource: "https://doi.org/10.51388/20.500.12265/200"
+    title: "Johnson, A. M., & Lenderman, K. (2023). Socratic Circles: Building OER Tools for Racial Equity Classroom and Community Discourse. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.org/inclusive-innovation. [doi:10.51388/20.500.12265/200](https://doi.org/10.51388/20.500.12265/200)"
     author: "Johnson, A. M., & Lenderman, K."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Most RCS Core Team members who completed the Inclusive Innovation Survey showed positive beliefs and efficacy aligned with the Inclusive Innovation Core Tenets
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The majority of the 11 IIS respondents gave positive responses to items measuring beliefs and confidence about collective leadership, co-research and co-design, context expertise, and continuity of equity. [→ Johnson 2023 (2)](#johnson-2023-2)
@@ -49,7 +49,7 @@ Inclusive Innovation Survey (a 15-item measure) completed by 11 RCS Core Team me
 
 ### Johnson 2023 (2)
 
-Johnson, A. M., & Lenderman, K. (2023). Socratic Circles: Building OER Tools for Racial Equity Classroom and Community Discourse. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.org/inclusive-innovation
+Johnson, A. M., & Lenderman, K. (2023). Socratic Circles: Building OER Tools for Racial Equity Classroom and Community Discourse. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.org/inclusive-innovation. [doi:10.51388/20.500.12265/200](https://doi.org/10.51388/20.500.12265/200)
 
 `q2 · i?` · `design · r2`
 

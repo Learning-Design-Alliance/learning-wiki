@@ -46,4 +46,4 @@ Before the first assessed authoring task, the courses ran a 90-minute session of
 -
 
 ## Key Sources
-- Bates, S. P., Galloway, R. K., Riise, J., and Homer, D. (2013). Assessing the quality of a student-generated question repository. https://arxiv.org/abs/1308.2202
+- Bates, S. P., Galloway, R. K., Riise, J., and Homer, D. (2013). Assessing the quality of a student-generated question repository. https://arxiv.org/abs/1308.2202. [doi:10.48550/arxiv.1308.2202](https://doi.org/10.48550/arxiv.1308.2202)

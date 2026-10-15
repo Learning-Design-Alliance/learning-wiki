@@ -44,3 +44,4 @@ Editorial argument dismantling the US-dominance myth. The authors state the beli
 
 ## Related Claims
 - STEAM AI literacy research is geographically concentrated in North America, Europe and East Asia, led by the United States (23.5%) — related
+- [K-12 AI learning experiences concentrate on technical, conceptual and applied skills in specific domains, while implementation schemes are led by the US and China](k12-ai-experiences-domain-limited-us-china-lead.md) — related

@@ -67,3 +67,4 @@ Confirmatory test of H3b on unaided final-test performance in the same experimen
 - [Access to an LLM assistant during practice did not significantly lower subsequent unaided test performance](llm-access-no-significant-lower-unaided-performance.md) — related
 - [The effort-based reward reduced how often participants used the assistant, whereas metacognitive feedback changed how they used it](reward-reduced-assistant-use-feedback-changed-use-composition.md) — related
 - [Unstructured LLM use risks cognitive offloading that displaces effortful thought and weakens argument construction](unstructured-llm-use-cognitive-offloading.md) — related
+- [Higher-value intentions are more likely to be offloaded than lower-value ones](value-drives-offloading-selection.md) — related

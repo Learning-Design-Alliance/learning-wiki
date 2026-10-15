@@ -67,7 +67,7 @@ Labeling emotional states with words measurably reduces their intensity and impr
 ## Examples
 - **[RULER Feeling Words Curriculum](https://ei.yale.edu/ruler/ruler-approach)** (Yale Center for Emotional Intelligence) — a published K–12 curriculum with feeling-word lessons and the Mood Meter; classroom field trials showed gains in social and emotional competence and academic performance [Brackett et al. (2012) evaluation of the RULER feeling words curriculum.](https://doi.org/10.1016/j.lindif.2011.12.001) [+M]
 - **Zones of Regulation** (Kuypers, 2011) — a widely used framework that organizes emotion and state words into four color-coded zones, functioning as a chunked word wall with a daily check-in routine
-- **Responsive Classroom** morning meetings — daily greetings and sharing rounds that prompt students to name feelings aloud using posted vocabulary
+- **[Responsive Classroom](../products/responsive-classroom.md)** morning meetings — daily greetings and sharing rounds that prompt students to name feelings aloud using posted vocabulary
 
 ## Key Sources
 - Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). The impact of enhancing students' social and emotional learning: A meta-analysis of school-based universal interventions. *Child Development, 82*(1), 405–432. [doi:10.1111/j.1467-8624.2010.01564.x](https://doi.org/10.1111/j.1467-8624.2010.01564.x)

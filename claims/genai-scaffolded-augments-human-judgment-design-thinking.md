@@ -51,3 +51,4 @@ Mixed-methods analysis of 112 student reflections from a 12-week undergraduate d
 - A hybrid human-AI workflow using GPT-4o with retrieval-augmented generation supported efficient inductive thematic analysis while preserving researcher judgment — a broader claim this one bears on
 - [AI introduced without pedagogical scaffolding can replace rather than reinforce learners' self-regulatory processes](unscaffolded-ai-replaces-self-regulation.md) — related
 - [AI-augmented instructional design creates tensions between generative affordances and student agency, identity, and academic integrity](genai-instructional-design-tensions-agency-authorship.md) — related
+- [AI is not yet ready to replace teachers but presents a real possibility to augment them](ai-augments-not-replaces-teachers.md) — a broader claim this one bears on

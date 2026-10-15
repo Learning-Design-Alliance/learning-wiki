@@ -78,6 +78,7 @@ Application is where learning consolidates: retrieval and use of knowledge in co
 **[Case-based learning, Harvard Business School](https://www.hbs.edu/mba/academic-experience/coursework/Pages/the-case-method.aspx)** — Students apply management frameworks to real company cases under cold-calling questioning, forcing application rather than recitation.
 
 **[Project Lead The Way](https://www.pltw.org)** — K-12 engineering curriculum built around design challenges where students apply STEM concepts to build and test artifacts.
+- [Vocational education programs should let trainees experience and reflect on authentic errors, e.g. via error management training and negative knowledge-diaries](../strategies/error-management-training-negative-knowledge-diaries.md)
 
 ## Key Sources
 - Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development, 50*(3), 43–59. [doi:10.1007/BF02505024](https://doi.org/10.1007/BF02505024)

@@ -109,3 +109,4 @@ Four random-effects meta-analyses (Hedges & Olkin method) pooled 19 experimental
 - [A randomized controlled trial with 86 K-12 students found a significant gain in self-regulated-learning strategy use from agentic coaching systems](agentic-srl-coaching-rct-86-significant-strategy-gain.md) — related
 - [LLMs can deliver scalable, personalized, interactive feedback almost instantly, reducing dependency on teacher availability and supporting self-regulated learning in large courses](llms-scalable-personalized-feedback-large-courses.md) — related
 - Correlations with self-regulation tend to be larger for course grades than for standardized test scores in several coded studies — related
+- [Self-monitoring intervention effects rest on four key components: selecting a target behavior, defining it, self-assessment, and self-recording](self-monitoring-four-key-components.md) — related

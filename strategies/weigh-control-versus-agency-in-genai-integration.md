@@ -39,6 +39,7 @@ Drawing on the historical tension the article traces between Anderson's structur
 ## Related Strategies
 
 - [Classify and design AI teaching tools by governance mechanism, using transferable design questions rather than generic tool categories](classify-ai-tools-by-governance-mechanism.md)
+- [Learning by generating games with LLMs, supported by prompting pedagogy](learning-by-generating-games-with-llms.md)
 
 ## Examples
 -

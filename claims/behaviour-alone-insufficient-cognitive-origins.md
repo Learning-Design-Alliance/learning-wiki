@@ -46,3 +46,4 @@ This is a conceptual argument in the article's Section 3.1, not an empirical stu
 - [AI Tutors are positioned as cognition interpretation agents that read behavioural signals as indicators of underlying cognition structures over time](ai-tutor-cognition-interpretation-layer.md) — reports the opposite
 - [Causal knowledge cannot be derived from data analysis alone but requires outside information about the data-generation process](causal-knowledge-requires-outside-data-information.md) — a broader claim this one bears on
 - [Student errors on underestimated fraction items reflect systematic misconception patterns rather than random error](fraction-errors-systematic-misconception-patterns.md) — related
+- [Task performance and learning are related but fundamentally different processes](task-performance-and-learning-are-different-processes.md) — related

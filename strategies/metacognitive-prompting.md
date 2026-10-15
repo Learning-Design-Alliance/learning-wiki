@@ -66,7 +66,7 @@ Metacognitive prompting works by making self-regulatory processes explicit at th
 - [Train learners in sycophancy-specific critical prompting strategies that remove personal assumptions, request critical evaluation, and ask for supporting evidence](sycophancy-specific-critical-prompting-strategies.md)
 
 ## Examples
-- **Reciprocal Teaching** (Palincsar & Brown) — students take turns prompting each other to summarize, question, clarify, and predict while reading; the prompts are the intervention.
+- **[Reciprocal Teaching](reciprocal_teaching.md)** (Palincsar & Brown) — students take turns prompting each other to summarize, question, clarify, and predict while reading; the prompts are the intervention.
 - **Betty's Brain** (Vanderbilt) — a teachable-agent system in which the mentor agent issues planning and monitoring prompts as students build causal maps.
 - **Writing portfolios with reflection sheets** — students respond to evaluation prompts ("What did you change, and why?") when submitting revised drafts.
 

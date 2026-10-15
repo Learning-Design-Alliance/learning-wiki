@@ -68,7 +68,7 @@ Explicit perspective discussions work because they convert tacit social reasonin
 - [Building Empathy](../principles/building-empathy.md) — the broader principle this strategy operationalizes
 
 ## Examples
-- **Facing History and Ourselves** (https://www.facinghistory.org) — published curriculum using primary sources and structured discussions of historical injustices (e.g., the Holocaust, civil rights) to build civic empathy in secondary classrooms.
+- **[Facing History and Ourselves](../products/facing-history-and-ourselves.md)** (https://www.facinghistory.org) — published curriculum using primary sources and structured discussions of historical injustices (e.g., the Holocaust, civil rights) to build civic empathy in secondary classrooms.
 - **Teaching Tolerance / Learning for Justice** (https://www.learningforjustice.org) — anti-bias and social justice standards with discussion-based lesson plans organized by grade band.
 - **Literature circles in ELA** — small-group discussion of a novel in which each student analyzes a different character's motivations, then synthesizes how the same events look from each vantage point.
 - **Medical education ethics rounds** — structured case discussions in which students articulate patient, family, and clinician perspectives before resolving a care dilemma.

@@ -77,3 +77,5 @@ The review reports, citing Renkl, a study of qualitative differences in college 
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](self-explanation-improves-conceptual-understanding.md) — possibly the same claim (merge candidate)
 - [Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here](generative-processing-improves-learning.md) — a broader claim this one bears on
 - Students with more controlled interaction patterns in iSTART-2 generated higher-quality self-explanations than students with more random patterns — related
+- [The assisting self-explanation prompt effect: assisting prompts elicit high-quality self-explanations and deep understanding](assisting-self-explanation-prompt-effect.md) — related
+- [Explaining one's own potentially incorrect ideas can reduce learning, while explaining known-correct content supports it](explaining-own-incorrect-ideas-reduces-learning.md) — related

@@ -31,4 +31,4 @@ LEA is an adaptive AI study-aid platform that infers higher-education learners' 
 -
 
 ## Key Sources
-- Rumble, T., Zarrin, J., Lovell, P. G., Falconer, R. (2026). Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System. arXiv. https://arxiv.org/abs/2607.13370
+- Rumble, T., Zarrin, J., Lovell, P. G., Falconer, R. (2026). Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System. arXiv. https://arxiv.org/abs/2607.13370. [doi:10.48550/arxiv.2607.13370](https://doi.org/10.48550/arxiv.2607.13370)

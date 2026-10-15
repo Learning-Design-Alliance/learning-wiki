@@ -49,3 +49,4 @@ Categorical moderator analysis under the random effects model comparing subgroup
 - The pooled effect of self-regulated learning does not differ significantly between empirical and relational study designs — related
 - [Effect sizes across SRL intervention studies are highly heterogeneous, requiring a random effects model](srl-effect-sizes-heterogeneous-random-effects.md) — related
 - [Self-regulated learning strategies have a large pooled effect (d = 0.859) on academic achievement across 21 Turkish studies](srl-strategies-large-effect-academic-achievement.md) — related
+- [Evidence indicates socially shared regulation of learning occurs across SRL areas and may promote learning and performance](ssrl-empirical-evidence-occurrence-and-effects.md) — related

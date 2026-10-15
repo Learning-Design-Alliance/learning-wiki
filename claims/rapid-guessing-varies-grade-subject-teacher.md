@@ -9,10 +9,10 @@ generated:
   at: 2026-10-08
 evidence_strength: moderate
 sources:
-  - id: andrew-rice-2018
+  - id: jensen-2018
     resource: "https://doi.org/10.3102/0162373718759600"
-    title: "Andrew Rice. (2018). The influence of rapidly guessed item responses on teacher value-added estimates: Implications for policy and practice. Educational Evaluation and Policy Analysis, 40(2), 267-284. https://scholar.google.com/scholar?q=The+influence+of+rapidly+guessed+item+responses+on+teacher+value-added+estimates [doi:10.3102/0162373718759600](https://doi.org/10.3102/0162373718759600)"
-    author: Andrew Rice
+    title: "Jensen, N., Rice, A., & Soland, J. (2018). The influence of rapidly guessed item responses on teacher value-added estimates: Implications for policy and practice. Educational Evaluation and Policy Analysis, 40(2), 267-284. https://doi.org/10.3102/0162373718759600 [doi:10.3102/0162373718759600](https://doi.org/10.3102/0162373718759600)"
+    author: "Jensen, N., Rice, A., & Soland, J."
     q: 3
     i: "?"
     kind: associational
@@ -25,13 +25,13 @@ sources:
 > **Evidence** · 1 study · associational `r?` · `q3`
 
 ## Subclaims
-`q3 i?` The prevalence of rapid guessing differed across grades, subjects, and teachers. [→ Andrew Rice 2018](#andrew-rice-2018)
+`q3 i?` The prevalence of rapid guessing differed across grades, subjects, and teachers. [→ Jensen 2018](#jensen-2018)
 
 ## Evidence
 
-### Andrew Rice 2018
+### Jensen 2018
 
-Andrew Rice. (2018). The influence of rapidly guessed item responses on teacher value-added estimates: Implications for policy and practice. Educational Evaluation and Policy Analysis, 40(2), 267-284. https://scholar.google.com/scholar?q=The+influence+of+rapidly+guessed+item+responses+on+teacher+value-added+estimates [doi:10.3102/0162373718759600](https://doi.org/10.3102/0162373718759600)
+Jensen, N., Rice, A., & Soland, J. (2018). The influence of rapidly guessed item responses on teacher value-added estimates: Implications for policy and practice. Educational Evaluation and Policy Analysis, 40(2), 267-284. https://doi.org/10.3102/0162373718759600 [doi:10.3102/0162373718759600](https://doi.org/10.3102/0162373718759600)
 
 `q3 · i?` · `associational · r?`
 

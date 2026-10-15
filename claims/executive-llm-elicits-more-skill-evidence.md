@@ -18,8 +18,8 @@ sources:
     kind: causal
     rigour: 2
   - id: globerson-2026-2
-    resource: "https://arxiv.org/abs/2609.15864"
-    title: "Globerson, A., Keeling, A., Choudhury, A., et al. (2026). Towards Scalable Measurement of Durable Skills. https://arxiv.org/abs/2609.15864"
+    resource: "https://doi.org/10.48550/arxiv.2609.15864"
+    title: "Globerson, A., Keeling, A., Choudhury, A., et al. (2026). Towards Scalable Measurement of Durable Skills. https://arxiv.org/abs/2609.15864. [doi:10.48550/arxiv.2609.15864](https://doi.org/10.48550/arxiv.2609.15864)"
     author: Globerson, A., Keeling, A., Choudhury, A., et al
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # An Executive LLM focused on a skill elicits significantly more skill-related evidence than Independent Agents, with a crossover effect between skills
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` At turn and conversation levels, a skill-matched Executive LLM elicited significantly more evidence for that skill than Independent Agents (Fisher exact test, p≤0.05), with conversation-level evidence rates of 92.4% for PM and 85% for CR. [→ Globerson 2026](#globerson-2026)
@@ -50,7 +50,7 @@ Randomized comparison of three protocols (CR Executive LLM, PM Executive LLM, In
 
 ### Globerson 2026 (2)
 
-Globerson, A., Keeling, A., Choudhury, A., et al. (2026). Towards Scalable Measurement of Durable Skills. https://arxiv.org/abs/2609.15864
+Globerson, A., Keeling, A., Choudhury, A., et al. (2026). Towards Scalable Measurement of Durable Skills. https://arxiv.org/abs/2609.15864. [doi:10.48550/arxiv.2609.15864](https://doi.org/10.48550/arxiv.2609.15864)
 
 `q2 · i?` · `causal · r2`
 

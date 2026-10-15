@@ -18,8 +18,8 @@ sources:
     kind: causal
     rigour: 2
   - id: mcelhaney-2025-2
-    resource: "https://digitalpromise.dspacedirect.org/items/4ea4b3c5-c663-4484-8727-258bff346d2d"
-    title: "McElhaney, K. W., Hodkowski, N. M., McMahon, L. H., Jacobs, J., Penuel, W. R., Anton, G., Henson, K., Urban, R., & Parker, D. A. (2025). Promoting Mathematical Reasoning in OpenSciEd Middle School Curriculum Units. Digital Promise. https://digitalpromise.dspacedirect.org/items/4ea4b3c5-c663-4484-8727-258bff346d2d"
+    resource: "https://doi.org/10.51388/20.500.12265/281"
+    title: "McElhaney, K. W., Hodkowski, N. M., McMahon, L. H., Jacobs, J., Penuel, W. R., Anton, G., Henson, K., Urban, R., & Parker, D. A. (2025). Promoting Mathematical Reasoning in OpenSciEd Middle School Curriculum Units. Digital Promise. https://digitalpromise.dspacedirect.org/items/4ea4b3c5-c663-4484-8727-258bff346d2d. [doi:10.51388/20.500.12265/281](https://doi.org/10.51388/20.500.12265/281)"
     author: "McElhaney, K. W., Hodkowski, N. M., McMahon, L. H., Jacobs, J., Penuel, W. R., Anton, G., Henson, K., Urban, R., & Parker, D. A."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Teachers addressed graph comprehension consistently at high levels across observed lessons, while covariational reasoning enactment varied widely by lesson
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Teachers addressed GC in 91% of observed lessons, with 64% engaging students at the highest (Interpretive) level. [→ McElhaney 2025](#mcelhaney-2025)
@@ -50,7 +50,7 @@ Across 43 classroom observations of four focal lessons in the GC/CoV-rich units,
 
 ### McElhaney 2025 (2)
 
-McElhaney, K. W., Hodkowski, N. M., McMahon, L. H., Jacobs, J., Penuel, W. R., Anton, G., Henson, K., Urban, R., & Parker, D. A. (2025). Promoting Mathematical Reasoning in OpenSciEd Middle School Curriculum Units. Digital Promise. https://digitalpromise.dspacedirect.org/items/4ea4b3c5-c663-4484-8727-258bff346d2d
+McElhaney, K. W., Hodkowski, N. M., McMahon, L. H., Jacobs, J., Penuel, W. R., Anton, G., Henson, K., Urban, R., & Parker, D. A. (2025). Promoting Mathematical Reasoning in OpenSciEd Middle School Curriculum Units. Digital Promise. https://digitalpromise.dspacedirect.org/items/4ea4b3c5-c663-4484-8727-258bff346d2d. [doi:10.51388/20.500.12265/281](https://doi.org/10.51388/20.500.12265/281)
 
 `q2 · i?` · `causal · r2`
 

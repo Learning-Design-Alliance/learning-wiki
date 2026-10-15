@@ -41,6 +41,7 @@ The strategy pairs a non-generative AI that algorithmically matches incoming stu
 
 - [Implement educational chatbots with human-centred design, explicit AI policies, training, curated knowledge bases and continuous monitoring](chatbot-implementation-recommendations.md)
 - [Govern tutor knowledge through teacher-curated document corpora with RAG and document-driven adaptation](teacher-curated-knowledge-governance-rag.md)
+- [Deploy an educational chatbot to give students instant question-and-answer support outside class when teacher interaction time is limited](chatbot-out-of-class-instant-support.md)
 
 ## Examples
 -

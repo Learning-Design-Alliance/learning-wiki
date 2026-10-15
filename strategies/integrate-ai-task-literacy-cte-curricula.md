@@ -46,6 +46,7 @@ The brief recommends that CTE practitioners integrate AI task literacy into curr
 
 - [Integrate AI literacy into health sciences curricula and tailor career counselling to programme type](ai-literacy-curriculum-career-counselling-strategy.md)
 - [Combine accurate AI labor-market information, employability-building activities, and growth-oriented career support for students facing AI employment threat](ai-threat-career-education-support-strategy.md)
+- [Retrain workers for occupations complementary to, rather than competing with, automation](retrain-workers-automation-complementary-occupations.md)
 
 ## Examples
 -

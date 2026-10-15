@@ -69,7 +69,7 @@ Audio books exploit the modality effect: presenting verbal material through the 
 - A middle-school teacher assigns dyslexic students the grade-level novel in audio form while the class reads in print, then runs a shared discussion so all students participate from the same text.
 
 ## Key Sources
-- Rogowsky, B. A., Calhoun, B. M., & Tallal, P. (2016). Does modality matter? The effects of reading, listening, and dual modality on comprehension. *SAGE Open, 6*(1). [doi:10.1177/2158244016669550](https://doi.org/10.1177/2158244016669550)
+- Rogowsky, B. A., Calhoun, B. M., & Tallal, P. (2016). Does modality matter? The effects of reading, listening, and dual modality on comprehension. *Sage Open, 6*(3). [doi:10.1177/2158244016669550](https://doi.org/10.1177/2158244016669550)
 - Clark, R. C., & Mayer, R. E. (2016). *E-Learning and the Science of Instruction* (4th ed.). Wiley. [doi:10.1002/9781119239086](https://doi.org/10.1002/9781119239086)
 - Mayer, R. E. (2009). *Multimedia Learning* (2nd ed.). Cambridge University Press. [doi:10.1017/CBO9780511811678](https://doi.org/10.1017/CBO9780511811678)
 - National Reading Panel (2000). *Teaching children to read: An evidence-based assessment of the scientific research literature on reading and its implications for reading instruction.* National Institute of Child Health and Human Development.

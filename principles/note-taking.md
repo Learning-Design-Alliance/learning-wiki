@@ -164,7 +164,7 @@ Note completeness, note accuracy, immediate performance, delayed retention, tran
 
 - **Cornell-style notes**: Learners separate key ideas, details, and later summary or questions.
 - **Graphic note-taking**: Learners use spatial or visual structure to capture relationships.
-- **Guided notes**: Instructors provide partial outlines or cues so learners can focus on meaning rather than transcription.
+- **[Guided notes](../strategies/guided-notes.md)**: Instructors provide partial outlines or cues so learners can focus on meaning rather than transcription.
 - **Annotated reading notes**: Learners mark claims, evidence, questions, and unfamiliar vocabulary directly alongside a text.
 - [Note-taking (element)](../elements/note-taking.md) — the instructional element.
 - [Guided Notes](../strategies/guided-notes.md), [Interactive Note Taking](../strategies/interactive-note-taking.md), [Graphic Notes](../strategies/graphic_notes.md) and [Sketchnoting](../strategies/sketchnoting.md) — strategies applying this principle.

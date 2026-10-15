@@ -8,32 +8,32 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | | |
 |---|---|
-| Claims | 15,385 |
-| Evidence entries | 18,326 |
-| Distinct studies | 4,605 |
-| Claims resting on one study | 14,943 (97%) |
+| Claims | 15,860 |
+| Evidence entries | 18,840 |
+| Distinct studies | 4,714 |
+| Claims resting on one study | 15,416 (97%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 841 of 4,605 (18%) |
+| Studies reporting an effect size | 864 of 4,714 (18%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 67 | 482 | 176 | 324 | 1,049 |
-| quant-synthesis | 51 | 102 | 34 | 114 | 301 |
-| review | 57 | 283 | 87 | 118 | 545 |
-| associational | 30 | 555 | 259 | 245 | 1,089 |
-| qualitative | 96 | 252 | 66 | 81 | 495 |
-| design | 51 | 489 | 135 | 29 | 704 |
-| theoretical | 69 | 245 | 58 | 50 | 422 |
+| causal | 67 | 504 | 190 | 332 | 1,093 |
+| quant-synthesis | 53 | 106 | 35 | 118 | 312 |
+| review | 59 | 297 | 88 | 124 | 568 |
+| associational | 30 | 558 | 263 | 247 | 1,098 |
+| qualitative | 96 | 253 | 66 | 82 | 497 |
+| design | 51 | 491 | 135 | 30 | 707 |
+| theoretical | 73 | 256 | 58 | 52 | 439 |
 
 **Studies by design tier `q`** (the causal-design ladder; where one study is coded differently on two claims, the tier most of its entries give):
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 681 (15%) | 2,896 (63%) | 913 (20%) | 115 (2%) |
+| 697 (15%) | 2,939 (62%) | 961 (20%) | 117 (2%) |
 
-**Studies per claim:** 0: 0, 1: 14,943, 2: 364, 3: 63, 4 or more: 15.
+**Studies per claim:** 0: 0, 1: 15,416, 2: 366, 3: 63, 4 or more: 15.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -47,10 +47,10 @@ The studies the most claims rest on. A study that many claims *rest on alone* is
 | [ClassWide Peer Tutoring: WWC Intervention Report. (2007). What Works Clearinghouse, U.S. Department of …](claims/cwpt-ctbs-effect-significance-discrepancy.md) | q3 | 26 | 26 |
 | [John Q. Easton, Stephen Ponisciak, Stuart Luppescu. (2008). From High School to the Future: The Pathway to …](claims/academic-culture-raises-act-scores.md) | q2 | 20 | 20 |
 | [Financial Incentives for Teen Parents to Stay in School. (2006). What Works Clearinghouse Intervention …](claims/cal-learn-evidence-standards-reservations-attrition.md) | q3 | 18 | 17 |
+| [Clark Douglas B., Tanner-Smith Emily E., Killingsworth Stephen S. (2016). Digital Games, Design, and …](claims/camera-perspective-moderator-games.md) | q3 | 15 | 15 |
 | [Price, H., Burns, D., Loewe, S., Shields, P., Kaplan, J., & Lee, H. (2024). Long-term English learners in …](claims/boys-disproportionately-represented-ltel7-california.md) | q2 | 15 | 15 |
 | [WWC Intervention Report: ALAS. (2006). What Works Clearinghouse, U.S. Department of Education. …](claims/alas-progressing-completing-null-follow-up.md) | q3 | 14 | 14 |
 | [Dominguez, X., Rood, E., Kamdar, D., Leones, T., & Huynh, K. (2021). Splash and Bubbles for Parents App: …](claims/app-child-initiated-science-conversations-higher.md) | q2 | 14 | 14 |
-| [Allensworth, E., Nomi, T., Montgomery, N., & Lee, V. E. (2009). College Preparatory Curriculum for All: …](claims/algebra-enrollment-effect-increased-credit-raised-failure.md) | q2 | 13 | 13 |
 | [Philip M. Gleason. (2017). What's the Secret Ingredient? Searching for Policies and Practices That Make …](claims/achievement-focused-mission-charter-impacts.md) | q2 | 13 | 13 |
 | [Crompton, H., Burke, D., Nickel, C., Bozkurt, A., Miao, F., Sharples, M., Greene, J. A., Parsons, D., …](claims/academic-integrity-paramount-genai-policy-concern.md) | q2 | 13 | 13 |
 | [What Works Clearinghouse, U.S. Department of Education. (2006). WWC Intervention Report: Too Good for Drugs …](claims/tgfdv-intentions-null-results.md) | q3 | 12 | 12 |
@@ -83,7 +83,7 @@ The claims the rest of the wiki cites most, beside what they rest on. A claim ci
 | [Active Learning Improves Exam Performance](claims/active-learning-improves-exam-performance.md) | 219 pages | 3 | q2–q4 | 2 of 3 |
 | [Assessment for learning improves achievement](claims/assessment-for-learning-improves-achievement.md) | 211 pages | 3 | q2–q3 | 2 of 3 |
 | [Spaced Practice Improves Retention](claims/spaced-practice-improves-retention.md) | 188 pages | 5 | q3–q4 | 2 of 5 |
-| [Contingent scaffolding improves learning more than fixed or absent support.](claims/contingent-scaffolding-improves-learning.md) | 181 pages | 5 | q2–q4 | 0 of 5 |
+| [Contingent scaffolding improves learning more than fixed or absent support.](claims/contingent-scaffolding-improves-learning.md) | 182 pages | 5 | q2–q4 | 0 of 5 |
 | [Automatic word recognition frees resources for comprehension](claims/automatic-word-recognition-frees-resources-for-comprehension.md) | 169 pages | 2 | q1–q2 | 0 of 2 |
 | [Fading support promotes the transfer of responsibility from instructor to learner.](claims/fading-support-promotes-transfer-of-responsibility.md) | 169 pages | 2 | q3 | 0 of 2 |
 | [Advance organizers aided learning in a 1980 meta-analysis, but activating prior topic …](claims/activation-improves-learning.md) | 153 pages | 3 | q3 | 1 of 3 |
@@ -91,18 +91,18 @@ The claims the rest of the wiki cites most, beside what they rest on. A claim ci
 | [Process goals lead to better skill acquisition for novices than outcome goals.](claims/process-goals-outperform-outcome-goals-for-novices.md) | 105 pages | 2 | q3 | 0 of 2 |
 | [Worked-example guidance becomes less effective as learner expertise increases.](claims/worked-examples-less-effective-with-expertise.md) | 97 pages | 2 | q3 | 0 of 2 |
 | [In one 37-student classroom experiment, recall and retention differ across media …](claims/media-combinations-affect-recall-and-retention.md) | 89 pages | 1 | q3 | 0 of 1 |
-| [Adding relevant pictures or graphics to text improves learning from it, with a small …](claims/dual-coding-improves-learning.md) | 85 pages | 3 | q2–q4 | 1 of 3 |
+| [Adding relevant pictures or graphics to text improves learning from it, with a small …](claims/dual-coding-improves-learning.md) | 86 pages | 3 | q2–q4 | 1 of 3 |
 | [Interesting but irrelevant details can impair comprehension and transfer, with effects …](claims/seductive-details-effect.md) | 83 pages | 6 | q2–q3 | 1 of 6 |
 | [Erroneous examples improve conceptual understanding by forcing comparison with correct …](claims/erroneous-examples-build-conceptual-knowledge.md) | 81 pages | 2 | q3 | 0 of 2 |
 | [Example-first conditions outperformed problem-first conditions on an immediate circuit …](claims/worked-example-problem-sequences.md) | 81 pages | 1 | q3 | 0 of 1 |
 
-Of the 37 claims cited from 50 or more pages, **6 rest on one study or none**: [In one 37-student classroom experiment, recall and retention differ …](claims/media-combinations-affect-recall-and-retention.md), [Part-task practice reduces cognitive load for absolute novices during …](claims/part-task-practice-reduces-load-for-novices.md), [Relevancy of emphasized text directs attention and influences test …](claims/relevancy-of-emphasis-directs-attention.md), [A training-design argument, not tested by any study recorded here, …](claims/whole-task-performance-improves-transfer.md), [Example-first conditions outperformed problem-first conditions on an …](claims/worked-example-problem-sequences.md), [Worked examples reduce unnecessary search for novices.](claims/worked-examples-reduce-novice-search.md).
+Of the 38 claims cited from 50 or more pages, **6 rest on one study or none**: [In one 37-student classroom experiment, recall and retention differ …](claims/media-combinations-affect-recall-and-retention.md), [Part-task practice reduces cognitive load for absolute novices during …](claims/part-task-practice-reduces-load-for-novices.md), [Relevancy of emphasized text directs attention and influences test …](claims/relevancy-of-emphasis-directs-attention.md), [A training-design argument, not tested by any study recorded here, …](claims/whole-task-performance-improves-transfer.md), [Example-first conditions outperformed problem-first conditions on an …](claims/worked-example-problem-sequences.md), [Worked examples reduce unnecessary search for novices.](claims/worked-examples-reduce-novice-search.md).
 
 ## Contested claims
 
 Claims cited as support on some pages and as counter-evidence on others (`[+]` and `[-]` markers on the same claim). The disagreement is in how pages use the claim, which is often the point: a boundary condition cited against a strategy it limits. It is still where a reader should look twice.
 
-186 claims are cited both ways.
+188 claims are cited both ways.
 
 | Claim | For | Mixed | Against | Studies |
 |---|---|---|---|---|
@@ -136,14 +136,14 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | [principles](principles/index.md) | 213 | 208 | 22 | 0 |
 | [elements](elements/index.md) | 1,080 | 790 | 2 | 0 |
 | [patterns](patterns/index.md) | 65 | 61 | 23 | 0 |
-| [strategies](strategies/index.md) | 5,638 | 2,512 | 6 | 0 |
+| [strategies](strategies/index.md) | 5,704 | 2,568 | 5 | 0 |
 | [processes](processes/index.md) | 18 | 15 | 6 | 0 |
 | [methods](methods/index.md) | 38 | 22 | 1 | 0 |
-| [theories](theories/index.md) | 1,372 | 914 | 1 | 0 |
+| [theories](theories/index.md) | 1,372 | 915 | 1 | 0 |
 | [learner-variables](learner-variables/index.md) | 14 | 14 | 58.5 | 0 |
-| [designs](designs/index.md) | 729 | 424 | 1 | 0 |
-| [products](products/index.md) | 1,593 | 1,090 | 1 | 0 |
-| [research-methods](research-methods/index.md) | 436 | 348 | 1 | 0 |
+| [designs](designs/index.md) | 758 | 446 | 1 | 0 |
+| [products](products/index.md) | 1,603 | 1,095 | 1 | 0 |
+| [research-methods](research-methods/index.md) | 450 | 357 | 1 | 0 |
 
 ## Toward pooled estimates
 

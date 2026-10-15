@@ -36,7 +36,7 @@ E-CLASS is a pre/post survey assessment developed by physics education researche
 - [Colorado Learning Attitudes about Science Survey](colorado-learning-attitudes-about-science-survey.md)
 
 ## Key Sources
-- Zwickl, B. M., Hirokawa, T., Finkelstein, N., & Lewandowski, H. J. (2013). Development and results from a survey on students views of experiments in lab classes and research. https://arxiv.org/abs/1307.5760
+- Zwickl, B. M., Hirokawa, T., Finkelstein, N., & Lewandowski, H. J. (2013). Development and results from a survey on students views of experiments in lab classes and research. https://arxiv.org/abs/1307.5760. [doi:10.48550/arxiv.1307.5760](https://doi.org/10.48550/arxiv.1307.5760)
 
 <!-- merged 2026-10-10 from elements/eclass-experimental-physics-survey ("E-CLASS survey for assessing student views of experiments in physics lab courses"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 
@@ -74,5 +74,5 @@ E-CLASS is a pre/post epistemology and expectations survey for undergraduate phy
 - [Use pre/post attitude surveys with detailed instructor feedback reports as formative assessment for lab course transformation](../strategies/formative-attitude-survey-feedback-reports-lab-courses.md)
 
 ## Key Sources
-- Zwickl, B. M., Hirokawa, T., Finkelstein, N., & Lewandowski, H. J. (2013). Development and results from a survey on students views of experiments in lab classes and research. https://arxiv.org/abs/1307.5760
+- Zwickl, B. M., Hirokawa, T., Finkelstein, N., & Lewandowski, H. J. (2013). Development and results from a survey on students views of experiments in lab classes and research. https://arxiv.org/abs/1307.5760. [doi:10.48550/arxiv.1307.5760](https://doi.org/10.48550/arxiv.1307.5760)
 -->

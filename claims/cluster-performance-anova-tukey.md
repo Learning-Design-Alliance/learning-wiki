@@ -65,3 +65,4 @@ Post hoc Tukey HSD pairwise comparisons across the six clusters; C0 exceeded C1 
 - [K-means clustering of standardized prior knowledge and final grades yields four performance profiles: Consistent Achievers, Growing Achievers, Declining Performers, and Struggling Performers](four-kmeans-achievement-trajectory-profiles.md) — related
 - [Profiles differ in self-perceived academic skills: Engaged and Literate users report the highest problem-solving and cognitive endurance gains, while Uncritical Reliant users report the highest independent thinking](profile-differences-academic-skills.md) — related
 - [Growing Achievers used StatBot significantly more than Declining Performers, driven mainly by initiating new inquiries](growing-achievers-out-use-declining-performers.md) — related
+- [Student academic ability varied across quarters but not systematically with changes in course structure](student-ability-varied-not-with-structure.md) — related

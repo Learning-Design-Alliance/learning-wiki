@@ -58,3 +58,4 @@ Interview and think-aloud accounts in the ten-participant study. The article rep
 - [AI intuition emphasizes epistemic judgment rather than output optimization, distinguishing it from prompt engineering](ai-intuition-epistemic-judgment-not-prompt-engineering.md) — related
 - [Learners selectively filtered and adopted AI-generated feedback while maintaining pedagogical agency](learners-selectively-filter-ai-feedback-agency.md) — related
 - [A student maintained critical distance from GenAI outputs through a paradoxical trust in their untrustworthiness, deriving practical value while staying sceptical](paradoxical-trust-untrustworthy-genai.md)
+- [Non-expert students exhibit intuitive behaviors towards LLM-based AI systems when prompt engineering](student-intuitive-prompting-behaviors.md) — related

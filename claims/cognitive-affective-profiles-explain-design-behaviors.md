@@ -18,16 +18,16 @@ sources:
     kind: qualitative
     rigour: 3
   - id: sun-2025-2
-    resource: "https://arxiv.org/abs/2605.13906"
-    title: "Sun, Y., Xin, H., Li, S., Niu, Q., Chai, C. S., Huang, L., & Chen, G. (2025). Modeling AI-TPACK in Practice: Insights from Teachers' Multi-Agent Workflow Design. https://arxiv.org/abs/2605.13906"
+    resource: "https://doi.org/10.48550/arxiv.2605.13906"
+    title: "Sun, Y., Xin, H., Li, S., Niu, Q., Chai, C. S., Huang, L., & Chen, G. (2025). Modeling AI-TPACK in Practice: Insights from Teachers' Multi-Agent Workflow Design. https://arxiv.org/abs/2605.13906. [doi:10.48550/arxiv.2605.13906](https://doi.org/10.48550/arxiv.2605.13906)"
     author: "Sun, Y., Xin, H., Li, S., Niu, Q., Chai, C. S., Huang, L., & Chen, G."
     q: 2
     i: "?"
     kind: qualitative
     rigour: 2
   - id: sun-2025-3
-    resource: "https://arxiv.org/abs/2605.13906"
-    title: "Sun, Y., Xin, H., Li, S., Niu, Q., Chai, C. S., Huang, L., & Chen, G. (2025). Modeling AI-TPACK in Practice: Insights from Teachers' Multi-Agent Workflow Design. https://arxiv.org/abs/2605.13906"
+    resource: "https://doi.org/10.48550/arxiv.2605.13906"
+    title: "Sun, Y., Xin, H., Li, S., Niu, Q., Chai, C. S., Huang, L., & Chen, G. (2025). Modeling AI-TPACK in Practice: Insights from Teachers' Multi-Agent Workflow Design. https://arxiv.org/abs/2605.13906. [doi:10.48550/arxiv.2605.13906](https://doi.org/10.48550/arxiv.2605.13906)"
     author: "Sun, Y., Xin, H., Li, S., Niu, Q., Chai, C. S., Huang, L., & Chen, G."
     q: 2
     i: "?"
@@ -38,7 +38,7 @@ sources:
 # Interview data link cluster differences in AI-TPACK integration to distinct profiles of AI-TK, technical self-efficacy, pedagogical beliefs, and support-dependence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies (3 entries) · 1 associational `r1`, 1 qualitative `r3` · `q2`
+> **Evidence** · 1 study (3 entries) · qualitative `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` Systematic Optimizers showed systems-level thinking about multi-agent collaboration and high technical self-efficacy, explaining their iterative cycles and complex workflows. [→ Sun 2025](#sun-2025)
@@ -59,7 +59,7 @@ Semi-structured interviews with 12 teachers sampled across clusters (C1: n=4; C2
 
 ### Sun 2025 (2)
 
-Sun, Y., Xin, H., Li, S., Niu, Q., Chai, C. S., Huang, L., & Chen, G. (2025). Modeling AI-TPACK in Practice: Insights from Teachers' Multi-Agent Workflow Design. https://arxiv.org/abs/2605.13906
+Sun, Y., Xin, H., Li, S., Niu, Q., Chai, C. S., Huang, L., & Chen, G. (2025). Modeling AI-TPACK in Practice: Insights from Teachers' Multi-Agent Workflow Design. https://arxiv.org/abs/2605.13906. [doi:10.48550/arxiv.2605.13906](https://doi.org/10.48550/arxiv.2605.13906)
 
 `q2 · i?` · `qualitative · r2`
 
@@ -69,7 +69,7 @@ Interview analysis of Cluster 2: teachers described weak technology skills and "
 
 ### Sun 2025 (3)
 
-Sun, Y., Xin, H., Li, S., Niu, Q., Chai, C. S., Huang, L., & Chen, G. (2025). Modeling AI-TPACK in Practice: Insights from Teachers' Multi-Agent Workflow Design. https://arxiv.org/abs/2605.13906
+Sun, Y., Xin, H., Li, S., Niu, Q., Chai, C. S., Huang, L., & Chen, G. (2025). Modeling AI-TPACK in Practice: Insights from Teachers' Multi-Agent Workflow Design. https://arxiv.org/abs/2605.13906. [doi:10.48550/arxiv.2605.13906](https://doi.org/10.48550/arxiv.2605.13906)
 
 `q2 · i?` · `associational · r1`
 

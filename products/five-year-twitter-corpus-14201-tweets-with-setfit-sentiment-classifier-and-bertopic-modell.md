@@ -32,4 +32,4 @@ A researcher-created dataset and analysis pipeline comprising 14,201 English-lan
 -
 
 ## Key Sources
-- Bagale, A.; Mehjabin, N.; Ünlü, A.; Johri, A. (2025). A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data.
+- Bagale, A.; Mehjabin, N.; Ünlü, A.; Johri, A. (2025). A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data. [doi:10.48550/arxiv.2607.12295](https://doi.org/10.48550/arxiv.2607.12295)

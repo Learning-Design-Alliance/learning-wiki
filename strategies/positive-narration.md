@@ -87,7 +87,7 @@ Positive narration leverages social learning: peers who hear a described behavio
 
 ## Examples
 - **Teach Like a Champion (Lemov)** — the "Positive Framing" and "100%" techniques train teachers to narrate what students are doing right ("Your eyes should be on your copy of the text — I see almost all of them are") rather than what they are doing wrong. https://teachlikeachampion.com
-- **Responsive Classroom** — "Reinforcing language" teacher scripts describe student actions specifically to consolidate routines. https://www.responsiveclassroom.org
+- **[Responsive Classroom](../products/responsive-classroom.md)** — "Reinforcing language" teacher scripts describe student actions specifically to consolidate routines. https://www.responsiveclassroom.org
 - **KIPP charter network** — narration during transitions ("Scholars in row 2 are already in silent sync") as a standard whole-school culture practice.
 - **PBIS (Positive Behavioral Interventions & Supports)** — [pbis.org](https://www.pbis.org): school-wide frameworks train teachers in specific behavior-specific praise and narration of expectations; a large RCT of PBIS showed reduced office discipline referrals [Bradshaw, C. P., et al. (2010)](https://doi.org/10.1177/0022465709338878) [+M]
 - **Teach Like a Champion (Lemov, 2015)** — the "Positive Framing" and "Narrate the Positive" techniques codify narrate-to-the-room narration in scripted teacher practice

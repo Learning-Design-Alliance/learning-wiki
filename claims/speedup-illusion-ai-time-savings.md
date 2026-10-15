@@ -51,3 +51,4 @@ Pre-registered Study 2 (prediction sample N=600, completion sample N=1001 on Pro
 - [People expect AI assistance to save far more time than assistance from another highly intelligent human participant](ai-expected-faster-than-human-help.md) — related
 - [Participants more averse to thinking are more susceptible to the speedup illusion; AI familiarity measures do not predict calibration error](thinking-aversion-predicts-speedup-illusion.md) — related
 - [AI assistance sped up only difficult tasks and only a few individual tasks, not easy ones](ai-speedup-limited-to-difficult-tasks.md) — related
+- [Educators benefit from AI chatbots through time-saving administrative assistance and improved pedagogy](chatbot-educator-time-saving-pedagogy.md) — reports the opposite

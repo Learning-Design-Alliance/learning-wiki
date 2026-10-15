@@ -73,3 +73,4 @@ The current page supports a moderate claim about mathematics performance, not a 
 - [No significant interaction between prior knowledge and task difficulty was observed in a worked-example algebra study](no-prior-knowledge-by-task-difficulty-interaction-in-algebra-worked-examples.md) — related
 - [Studying solved problems improves algebra achievement compared to solving practice problems alone, though the evidence base is rated minimal and one study found negative effects](solved-problems-improve-algebra-achievement.md) — a narrower finding that bears on this claim
 - [Variability of practice interacts with problem format: high variability aids learning from worked examples but harms learning from conventional problems](variability-effect-format-interaction.md) — related
+- [Use of worked examples in the Cognitive Tutor Algebra course was discouraged by collaborating instructors](worked-examples-discouraged-cognitive-tutor-algebra.md) — related

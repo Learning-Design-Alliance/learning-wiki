@@ -64,7 +64,7 @@ Perceived teacher care and support are consistently associated with higher engag
 - [Community of Inquiry](../principles/community-of-inquiry.md) — extends relational trust to peer-to-peer dimensions of the learning environment
 
 ## Examples
-- **Responsive Classroom** (https://www.responsiveclassroom.org) — published K–8 program built around morning meetings and teacher language practices that operationalize care as daily structure.
+- **[Responsive Classroom](../products/responsive-classroom.md)** (https://www.responsiveclassroom.org) — published K–8 program built around morning meetings and teacher language practices that operationalize care as daily structure.
 - **"Wise feedback" interventions** — randomized studies in which teachers attach notes like "I'm giving you these comments because I have very high expectations and I know you can reach them," improving revision rates among Black and Latino students [+M].
 - **Online instructor presence** — courses where instructors send personalized welcome videos and individual check-in messages report higher perceived caring and lower attrition [+W].
 

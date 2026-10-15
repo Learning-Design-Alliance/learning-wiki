@@ -75,3 +75,5 @@ The same multiple regression on motivational factors found no significant predic
 - [A 15-week extensive reading course increased Japanese EFL learners' feelings of comfort with foreign-language reading (r = .54)](er-increased-comfort-efl-reading-attitude.md) — related
 - [Extensive reading increased the Intellectual Value Japanese EFL learners attached to foreign-language reading (r = .26)](er-increased-intellectual-value-reading-attitude.md) — related
 - [Extensive reading reduced Japanese EFL learners' anxiety about foreign-language reading (r = .34)](er-reduced-anxiety-efl-reading-attitude.md) — related
+- [At semester end, intrinsic motivation was positively correlated and programming anxiety negatively correlated with programming performance](motivation-anxiety-correlate-with-programming-performance.md) — a narrower finding that bears on this claim
+- [The SRL and SAL perspectives on student motivation and learning differ, and the article discusses those differences](srl-perspective-contrasts-with-sal-perspective.md) — related

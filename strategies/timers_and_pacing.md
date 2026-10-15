@@ -64,7 +64,7 @@ Time pressure focuses attention and prevents the diffusion that occurs when task
 - [Manage pacing within a 40-minute period so AI comparison immediately follows manual estimation](immediate-ai-comparison-after-manual-estimation-pacing.md)
 
 ## Examples
-- **Pomodoro Technique** (https://francescocirillo.com) — 25-minute focus intervals with 5-minute breaks, widely adapted for study skills instruction.
+- **[Pomodoro Technique](pomodoro-technique.md)** (https://francescocirillo.com) — 25-minute focus intervals with 5-minute breaks, widely adapted for study skills instruction.
 - **Classroom Dojo timer / onlinecountdown tools** (e.g., https://www.online-stopwatch.com) — visible countdowns projected in classrooms to bound transitions and group work.
 - **Khan Academy** mastery practice — per-question pacing is learner-controlled, illustrating the opposite pole: removing time pressure to support reasoning.
 

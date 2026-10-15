@@ -63,7 +63,7 @@ Chunking works because working memory can hold only a small number of meaningful
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — articles and transcripts are broken into short headed sections with inline practice between segments.
-- **Duolingo** — lessons present target language in small chunked units of 3–5 items, sequenced so each unit builds on the last.
+- **[Duolingo](../products/duolingo.md)** — lessons present target language in small chunked units of 3–5 items, sequenced so each unit builds on the last.
 - **OpenStax textbooks** (e.g., *Psychology 2e*, https://openstax.org) — chapters divided into short modules with learning objectives, headings, and end-of-section review questions that close each chunk.
 
 ## Key Sources

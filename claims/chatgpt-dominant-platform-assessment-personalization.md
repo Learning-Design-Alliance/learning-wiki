@@ -53,3 +53,4 @@ Narrative synthesis of the 22 included studies' use cases. The review identifies
 - [Current AI deployments in higher education remain task-oriented rather than ecosystem-oriented despite advances in LLMs and multimodal AI](functional-fragmentation-persists-despite-llm-advances.md) — related
 - [Higher education students' interactions with an AI automated feedback tool can support the development of their feedback literacy capabilities](ai-feedback-tool-supports-feedback-literacy-development.md) — related
 - [Only 11% of surveyed educators can recommend specialized AI services, with ChatGPT dominating recommendations at 44%](chatgpt-dominance-specialized-service-awareness-11-percent.md) — related
+- [ChatGPT-generated synthesis claims benefits for personalized tutoring, automated essay grading, language translation, interactive learning, and adaptive learning, citing supporting studies](chatgpt-education-benefits-taxonomy.md) — related

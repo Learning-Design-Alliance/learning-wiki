@@ -49,4 +49,4 @@ The article recommends concrete downstream uses of MEDS for safer AI mathematics
 -
 
 ## Key Sources
-- Esposito, N., Tricarico, A., Porzio, L., Aghazadeh Ardebili, A., & Stella, M. (2026). Math Education Digital Shadows for Investigating Learning with GenAI: Mathematics Performance, Anxiety, and Confidence in LLMs. arXiv preprint. https://arxiv.org/abs/2604.27618
+- Esposito, N., Tricarico, A., Porzio, L., Aghazadeh Ardebili, A., & Stella, M. (2026). Math Education Digital Shadows for Investigating Learning with GenAI: Mathematics Performance, Anxiety, and Confidence in LLMs. arXiv preprint. https://arxiv.org/abs/2604.27618. [doi:10.48550/arxiv.2604.27618](https://doi.org/10.48550/arxiv.2604.27618)

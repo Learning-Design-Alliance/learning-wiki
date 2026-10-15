@@ -60,6 +60,7 @@ The review recommends that Arab universities integrate AI tools into EL2 instruc
 - [Calibrate AI writing support by providing contextual feedback, dialogic scaffolding, and initiative matched to learner needs and task complexity](calibrate-agent-initiative-to-learner-needs.md)
 - [Instructors integrating generative AI into writing-intensive courses should have students critically understand, access, prompt, vet and integrate AI-produced content](critical-ai-use-writing-intensive-stem-strategy.md)
 - [Provide explicit instruction in AI prompting and information verification alongside AI integration in laboratory courses](explicit-ai-prompting-verification-instruction.md)
+- [Adopt a clear pedagogical approach focused on critical thinking and fact-checking strategies when integrating LLMs into curricula](critical-thinking-fact-checking-llm-integration.md)
 
 ## Examples
 -

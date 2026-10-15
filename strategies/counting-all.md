@@ -65,8 +65,8 @@ Counting All embodies the developmental progression documented in [Cognitively G
 
 ## Examples
 - **Cognitively Guided Instruction classrooms** — Teachers diagnose each child's strategy (counting all vs. counting on) from problem-solving interviews and sequence word problems to prompt strategy advancement (see [CGI for Math](../principles/responsive-teaching.md)).
-- **Number Talks (Parrish, 2010)** — Early-years number talks ask children to share *how* they found a total, making counting-all strategies public and comparable to more efficient peer strategies.
-- **DreamBox Learning** — Adaptive early-numeracy lessons use virtual counters and ten-frames, first accepting counting-all solutions then nudging toward counting on as efficiency grows.
+- **[Number Talks](number-talks.md) (Parrish, 2010)** — Early-years number talks ask children to share *how* they found a total, making counting-all strategies public and comparable to more efficient peer strategies.
+- **[DreamBox Learning](../products/dreambox-learning.md)** — Adaptive early-numeracy lessons use virtual counters and ten-frames, first accepting counting-all solutions then nudging toward counting on as efficiency grows.
 
 ## Key Sources
 - Carpenter, T. P., Fennema, E., Peterson, P. L., Chiang, C. P., & Loef, M. (1989). Using knowledge of children's mathematics thinking in classroom teaching: An experimental study. *American Educational Research Journal, 26*(4), 499–531. [doi:10.3102/00028312026004499](https://doi.org/10.3102/00028312026004499)

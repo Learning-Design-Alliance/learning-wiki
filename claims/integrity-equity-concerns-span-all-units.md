@@ -146,3 +146,4 @@ Cross-unit thematic findings from the seven-respondent survey case study; the ar
 - [Teacher educators show shallow understanding of GenAI tools and gaps in aligning AI use with pedagogical goals](teacher-educators-shallow-genai-understanding-gaps.md) — related
 - [Control-group students framed sustainability as an external obligation and held techno-optimistic views of AI centered on efficiency with little ethical reflection](control-external-obligation-techno-optimism.md) — related
 - [Culturally and religiously grounded educational contexts function as sensitivity amplifiers revealing conditional dynamics of AI integration](value-based-contexts-sensitivity-amplifiers.md) — related
+- [Concerns about accuracy, reliability, academic integrity, and potential negative effects on cognitive and social development were consistently highlighted across many included studies.](chatgpt-concerns-accuracy-integrity-development.md) — a broader claim this one bears on

@@ -31,5 +31,5 @@ Developed by Allen and Kendeou, the ED-AI Lit framework organizes AI literacy in
 -
 
 ## Key Sources
-- Hingle, A., & Johri, A. (2025). A Guided Inquiry Approach to Students Co-Designing Generative AI Course Policies. https://www.google.com/search?q=A+Guided+Inquiry+Approach+to+Students+Co-Designing+Generative+AI+Course+Policies
+- Hingle, A., & Johri, A. (2025). A Guided Inquiry Approach to Students Co-Designing Generative AI Course Policies. https://www.google.com/search?q=A+Guided+Inquiry+Approach+to+Students+Co-Designing+Generative+AI+Course+Policies. [doi:10.1108/aiie-05-2025-0123](https://doi.org/10.1108/aiie-05-2025-0123)
 - Salim Nabhan, Anita Habók. (2026). Language teachers' AI literacy: A psychometric study based on the ED-AI framework. Computers and Education: Artificial Intelligence 10 (2026) 100583. https://doi.org/10.1016/j.caeai.2026.100583

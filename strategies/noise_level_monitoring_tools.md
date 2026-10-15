@@ -94,7 +94,7 @@ The tools work primarily as an antecedent stimulus and feedback mechanism: a vis
 - Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227–268. [doi:10.1207/S15327965PLI1104_01](https://doi.org/10.1207/S15327965PLI1104_01)
 - Skinner, C. H., Skinner, C. F., & Burton, B. (2009). Tootling: A positive intervention. In A. Akin-Little et al. (Eds.), *Behavioral interventions in schools: Evidence-based positive strategies* (pp. 187–200). APA.
 - Shield, B. M., & Dockrell, J. E. (2004). External and internal noise surveys of London primary schools. *Journal of the Acoustical Society of America, 115*(2), 730–738. [doi:10.1121/1.1635837](https://doi.org/10.1121/1.1635837)
-- Shield, B. M., & Dockrell, J. E. (2008). The effects of environmental and classroom noise on the academic attainments of primary school children. *Journal of the Acoustical Society of America, 123*(1), 133–144. [doi:10.1121/1.2812596](https://doi.org/10.1121/1.2812596)
+- Shield, B. M., & Dockrell, J. E. (2008). The effects of environmental and classroom noise on the academic attainments of primary school children. *The Journal of the Acoustical Society of America, 123*(1), 133–144. [doi:10.1121/1.2812596](https://doi.org/10.1121/1.2812596)
 - Evans, G. W., & Maxwell, L. (1997). Chronic noise exposure and reading deficits: The mediating effects of language acquisition. *Environment and Behavior, 29*(5), 638–656. [doi:10.1177/0013916597295003](https://doi.org/10.1177/0013916597295003)
 - Stage, S. A., & Quiroz, D. R. (1997). A meta-analysis of interventions to decrease disruptive classroom behavior in public education settings. *School Psychology Review, 26*(3), 333–368.
 - Clark, R. C., & Mayer, R. E. (2016). *E-Learning and the Science of Instruction* (4th ed.). Wiley. [doi:10.1002/9781119239086](https://doi.org/10.1002/9781119239086)
@@ -159,7 +159,7 @@ Classroom noise and reverberation measurably impair children's speech perception
 - **Yacker Tracker** — a standalone traffic-light device that signals amber/red at set decibel levels, used in libraries and classrooms.
 
 ## Key Sources
-- Shield, B. M., & Dockrell, J. E. (2008). The effects of environmental and classroom noise on the academic attainments of primary school children. *Journal of the Acoustical Society of America, 123*(1), 133–144. [doi:10.1121/1.2812596](https://doi.org/10.1121/1.2812596)
+- Shield, B. M., & Dockrell, J. E. (2008). The effects of environmental and classroom noise on the academic attainments of primary school children. *The Journal of the Acoustical Society of America, 123*(1), 133–144. [doi:10.1121/1.2812596](https://doi.org/10.1121/1.2812596)
 - Evans, G. W., & Maxwell, L. (1997). Chronic noise exposure and reading deficits: The mediating effects of language acquisition. *Environment and Behavior, 29*(5), 638–656. [doi:10.1177/0013916597295003](https://doi.org/10.1177/0013916597295003)
 - Stage, S. A., & Quiroz, D. R. (1997). A meta-analysis of interventions to decrease disruptive classroom behavior in public education settings. *School Psychology Review, 26*(3), 333–368.
 - Clark, R. C., & Mayer, R. E. (2016). *E-Learning and the Science of Instruction* (4th ed.). Wiley. [doi:10.1002/9781119239086](https://doi.org/10.1002/9781119239086)

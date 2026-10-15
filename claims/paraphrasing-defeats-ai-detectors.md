@@ -66,3 +66,4 @@ The paper reports, citing Liang et al. (2023), two parallel experiments across s
 - [Light AI-assisted edits to human-written abstracts are flagged by commercial detectors at 64–80% (Pangram) and 38–49% (GPTZero) rates](light-ai-edits-flagged-at-high-rates.md) — related
 - [Evidence types differ systematically in probative value: detection outputs cluster at weak inferential force while admissions, observed exam behaviour and fabricated references carry the strongest profiles](evidence-types-differ-in-probative-value.md) — related
 - [AI-detection tool outputs as submitted evidence collapsed to 0.5% of items in 2025 after peaking at 8.8% in 2024](ai-detection-evidence-near-disappeared-2025.md) — related
+- [AI-generated-text detectors are reported as ineffective against current sophisticated language models, and students can alter text to evade detection](ai-text-detectors-ineffective.md) — a broader claim this one bears on

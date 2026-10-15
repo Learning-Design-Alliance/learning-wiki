@@ -40,7 +40,8 @@ The review recommends introducing metacognitive interventions into educational p
 - [Dynamic Metacognitive Model Cognitive Offloading](../theories/metacognition.md)
 
 ## Related Strategies
-- 
+
+- [Use metacognitive interventions to promote adaptive use of cognitive tools](metacognitive-interventions-adaptive-offloading.md)
 
 ## Examples
 -

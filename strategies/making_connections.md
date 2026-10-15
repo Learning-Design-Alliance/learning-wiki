@@ -66,7 +66,7 @@ Connection-making works because new information is encoded more durably and retr
 - [Directly teach students when, why, and how to elaborate on new information](directly-teach-elaborative-processing-strategies.md)
 
 ## Examples
-- **Reciprocal Teaching (Palincsar & Brown)** — small-group reading routine in which students take turns questioning, summarizing, clarifying, and predicting, with explicit "connect this to…" prompts during discussion
+- **[Reciprocal Teaching](reciprocal_teaching.md) (Palincsar & Brown)** — small-group reading routine in which students take turns questioning, summarizing, clarifying, and predicting, with explicit "connect this to…" prompts during discussion
 - **Elaborative interrogation in science** — students study a physics principle by answering "why does this make sense given what I know about X?" for each statement, linking new laws to previously mastered ones
 - **Text-connection journals in literature courses** — students annotate novels with text-to-self and text-to-world entries, then revise them after seminar discussion to distinguish personal resonance from textual evidence
 

@@ -89,3 +89,4 @@ Open questions include how durable the effects are beyond immediate performance,
 - [Five-year-olds struggle with memory-taxing serial motor tasks but perform nearly as well as nine-year-olds when the task is simple](serial-motor-task-complexity-age.md) — related
 - [Thought and language become increasingly interdependent in the first few years, with private speech evolving into inner speech as self-regulation](vygotsky-private-speech-inner-speech.md) — related
 - [Second language learners' private speech is associated with L2 development and motivation to learn the language](private-speech-associated-l2-development-motivation.md) — related
+- [Basic DCT mechanisms can be used to model diverse educational phenomena](dct-mechanisms-model-educational-phenomena.md) — related

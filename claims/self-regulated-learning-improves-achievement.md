@@ -266,3 +266,10 @@ Open questions that evidence entries should address include: which strategy fami
 - Student self-graphing of CBM scores is reported as motivating during secondary prevention — related
 - [Holding a strong goal intention alone does not guarantee goal achievement](goal-intention-alone-insufficient-for-achievement.md) — related
 - [Empirical studies support Zimmerman's cyclical and multi-level SRL models, including a linear trend favoring training more SRL phases](zimmerman-cyclical-model-empirical-support.md) — a narrower finding that bears on this claim
+- [Empirical studies support Zimmerman's SRL models, including expert-novice differences and phase-training effects](empirical-support-zimmerman-srl-models.md) — a narrower finding that bears on this claim
+- [Cognitive and metacognitive prompts in learning journals helped early in a term but became detrimental by its end; adaptive fading-out mitigated this](expertise-reversal-writing-journal-prompts-fading.md) — related
+- [Self-regulated learning is associated with increased academic achievement and improved learning outcomes for students](srl-associated-with-achievement.md) — a broader claim this one bears on
+- [SRL interventions are effective in improving both SRL activity and achievement in higher education](srl-interventions-improve-activity-achievement.md) — a narrower finding that bears on this claim
+- [Teachers can implement the Self-Determined Learning Model of Instruction across varied subjects and settings with students having diverse learning needs](teachers-implement-sdlmi-diverse-settings.md) — related
+- [Self-monitoring of work quality requires three student capacities: appreciation of high quality, evaluative skill, and a store of modification tactics](three-capacities-for-evaluative-self-monitoring.md) — related
+- [Without instructional support, learners show low cognitive strategy use and almost absent metacognitive strategies in journal writing, and realized strategy use correlates with learning outcomes](unsupported-journal-writing-low-strategy-use.md) — a narrower finding that bears on this claim

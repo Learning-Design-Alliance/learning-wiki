@@ -49,4 +49,4 @@ The report's central framing metaphor holds that technology amplifies whatever d
 - [Position AI as an instrumental adjunct that amplifies, rather than attenuates, students' direct experiential engagement](../strategies/ai-as-instrumental-adjunct-not-cognitive-surrogate.md)
 
 ## Key Sources
-- Roschelle, J., Lester, J. & Fusco, J. (Eds.) (2020). AI and the future of learning: Expert panel report [Report]. Digital Promise. https://circls.org/reports/ai-report
+- Roschelle, J., Lester, J. & Fusco, J. (Eds.) (2020). AI and the future of learning: Expert panel report [Report]. Digital Promise. https://circls.org/reports/ai-report. [doi:10.51388/20.500.12265/106](https://doi.org/10.51388/20.500.12265/106)

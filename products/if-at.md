@@ -38,7 +38,7 @@ A commercial scratch-and-reveal multiple-choice assessment form made by Epstein 
 -
 
 ## Key Sources
-- Slepkov, A. D. (2013). Integrated Testlets and the Immediate Feedback Assessment Technique. https://arxiv.org/abs/1308.4365
+- Slepkov, A. D. (2013). Integrated Testlets and the Immediate Feedback Assessment Technique. https://arxiv.org/abs/1308.4365. [doi:10.48550/arxiv.1308.4365](https://doi.org/10.48550/arxiv.1308.4365)
 
 <!-- merged 2026-10-10 from elements/if-at-scratch-reveal-form ("IF-AT (Immediate Feedback Assessment Technique) scratch-and-reveal answer-until-correct form"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 
@@ -83,5 +83,5 @@ The IF-AT is a commercially-available "scratch-and-reveal"-type MC answer form: 
 -
 
 ## Key Sources
-- Slepkov, A. D. (2013). Integrated Testlets and the Immediate Feedback Assessment Technique. https://arxiv.org/abs/1308.4365
+- Slepkov, A. D. (2013). Integrated Testlets and the Immediate Feedback Assessment Technique. https://arxiv.org/abs/1308.4365. [doi:10.48550/arxiv.1308.4365](https://doi.org/10.48550/arxiv.1308.4365)
 -->

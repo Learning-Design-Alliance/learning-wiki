@@ -35,7 +35,7 @@ sources:
 # Self-Regulated Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 56 claims (28 for, 25 mixed, 3 against) · 46 studies (15 causal, 8 quant-synthesis, 8 review, 6 associational, 6 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 15 of 46 report an effect size · 45 claims rest on one study
+> **Evidence** · 60 claims (30 for, 27 mixed, 3 against) · 48 studies (17 causal, 8 quant-synthesis, 8 review, 6 associational, 6 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 15 of 48 report an effect size · 49 claims rest on one study
 
 ## Conditional relationship
 
@@ -116,6 +116,10 @@ Claims read against the model above that do not bear on its relationship, steps 
 - [Learners allowed to make a knowledge-of-results decision before a trial and revise it after (Self-Both) mostly kept their original choice but sometimes changed it after seeing their own performance.](../claims/learners-given-two-kr-decisions-mostly-keep-their-first-choice.md) [~W]
 - [When restricted to three knowledge-of-results requests per 10-trial block, all three self-controlled groups requested KR mostly on early trials of a block, a massed schedule.](../claims/self-controlled-learners-request-kr-early-in-practice-blocks.md) [~W]
 - [Allowing learners to request knowledge of results before a trial and then revise the choice after it (Self-Both) did not produce learning beyond deciding only after the trial (Self-After), which the authors take as no support for an additive motivational-plus-informational effect.](../claims/self-both-kr-decision-shows-no-additive-motivational-informational-benefit.md) [~M]
+- [In a randomised control study, university students in the combined condition (online SRL training with mobile-app diaries) improved more than participants in the other conditions](../claims/combined-srl-training-with-app-diaries-improved-more.md) [+M] — attached 2026-10-15 from Broadbent et al. (2020), which proposed "Use discipline-independent online SRL training coupled with mobile-app diaries to reach more students than face-to-face or discipline-dependent formats"; tests this page's relationship.
+- [Students who only kept learning diaries showed a decrease in their motivation](../claims/diary-only-motivation-decrease.md) [~W] — attached 2026-10-15 from Fabriz et al. (2014), which proposed "Inform students on the benefits of self-monitoring when assigning structured learning diaries, to sustain their motivation".
+- [Combining a structured learning diary with instruction on self-regulated learning increased students' strategy use and self-efficacy](../claims/diary-plus-srl-instruction-raises-strategy-use-self-efficacy.md) [+W] — attached 2026-10-15 from Fabriz et al. (2014), which proposed "Inform students on the benefits of self-monitoring when assigning structured learning diaries, to sustain their motivation"; tests this page's relationship.
+- [Keeping a structured learning diary without further intervention did not improve university students' self-regulation](../claims/learning-diary-alone-no-self-regulation-gain.md) [~W] — attached 2026-10-15 from Fabriz et al. (2014), which proposed "Inform students on the benefits of self-monitoring when assigning structured learning diaries, to sustain their motivation".
 
 ## Objective and learner-valued goal
 
@@ -182,7 +186,7 @@ Gains in strategy knowledge, self-reported regulation, self-efficacy, study time
 - Dunlosky, J., & Metcalfe, J. (2008). *Metacognition*. Sage.
 - Bellhäuser, H., Liborius, P., & Schmitz, B. (2022). Fostering Self-Regulated Learning in Online Environments: Positive Effects of a Web-Based Training With Peer Feedback on Learning Behavior. Frontiers in Psychology, 13, 813381. https://doi.org/10.3389/fpsyg.2022.813381
 - Omarchevska, Y., Lachner, A., Richter, J., & Scheiter, K. (2022). It takes two to tango: How scientific reasoning and self-regulation processes impact argumentation quality. *Journal of the Learning Sciences, 31*(2), 237-277. [https://doi.org/10.1080/10508406.2021.1966633](https://doi.org/10.1080/10508406.2021.1966633)
-- Rafelski, M., Foley, M., Graves, G. J., Kretke, K. A., Mills, E., Nassir, M., & Patel, S. (2010). Teaching Astronomy with an Inquiry Activity on Stellar Populations. ASP Conference Series. https://arxiv.org/abs/1009.5404
+- Rafelski, M., Foley, M., Graves, G. J., Kretke, K. A., Mills, E., Nassir, M., & Patel, S. (2010). Teaching Astronomy with an Inquiry Activity on Stellar Populations. ASP Conference Series. https://arxiv.org/abs/1009.5404. [doi:10.48550/arxiv.1009.5404](https://doi.org/10.48550/arxiv.1009.5404)
 - Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M. (2014). Self-controlled feedback is effective if it is based on the learner’s performance: a replication and extension of Chiviacowsky and Wulf (2005). Frontiers in Psychology, 5, 1325. https://doi.org/10.3389/fpsyg.2014.01325
 
 <!-- deprecated 2026-10-01: superseded by the conditional model above. The original body follows verbatim.
@@ -437,7 +441,7 @@ During the inquiry introduction, facilitators should make students conscious of 
 - [Use a burning-fuel analogy thinking tool to bridge data trends to stellar lifetimes and mass-to-energy conversion](../strategies/burning-fuel-thinking-tool-stellar-lifetimes.md)
 
 ## Key Sources
-- Rafelski, M., Foley, M., Graves, G. J., Kretke, K. A., Mills, E., Nassir, M., & Patel, S. (2010). Teaching Astronomy with an Inquiry Activity on Stellar Populations. ASP Conference Series. https://arxiv.org/abs/1009.5404
+- Rafelski, M., Foley, M., Graves, G. J., Kretke, K. A., Mills, E., Nassir, M., & Patel, S. (2010). Teaching Astronomy with an Inquiry Activity on Stellar Populations. ASP Conference Series. https://arxiv.org/abs/1009.5404. [doi:10.48550/arxiv.1009.5404](https://doi.org/10.48550/arxiv.1009.5404)
 -->
 
 <!-- merged 2026-10-15 from principles/let-learners-request-feedback-after-performing ("Let learners decide on feedback after performing, not before"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.

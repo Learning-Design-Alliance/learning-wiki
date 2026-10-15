@@ -64,7 +64,7 @@ TST operationalizes the pretesting effect: unsuccessful retrieval attempts follo
 
 ## Examples
 - **Weekly spelling cycles in elementary classrooms**: the classic Monday pretest / midweek study / Friday test structure, with immediate self-correction after the pretest — the standard implementation described in spelling instructional literature since Fitzgerald (1953)
-- **Spelling Mastery (Direct Instruction programs, McGraw-Hill)** — incorporates test–study cycles with immediate teacher-led correction of misspellings within a scripted lesson sequence
+- **[Spelling Mastery](../products/spelling-mastery.md) (Direct Instruction programs, McGraw-Hill)** — incorporates test–study cycles with immediate teacher-led correction of misspellings within a scripted lesson sequence
 - **Read Naturally's spelling supplements and similar structured literacy programs** — embed pretest–correct–retest loops for high-frequency and morphologically patterned words
 
 ## Key Sources

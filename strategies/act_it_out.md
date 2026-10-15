@@ -67,7 +67,7 @@ Enactment converts abstract or social knowledge into concrete, embodied experien
 ## Examples
 - **Medical education**: standardized patient encounters, where students rehearse breaking difficult news and receive structured feedback — a core component of OSCE assessments worldwide.
 - **Second-language classrooms**: learners enact a restaurant or job-interview scenario in the target language, with the teacher freezing the scene to correct phrasing in context.
-- **Responsive Classroom (https://www.responsiveclassroom.org)**: teachers use role-play during interactive modeling so students rehearse and observe routines like entering a discussion or resolving a dispute before doing them for real.
+- **[Responsive Classroom](../products/responsive-classroom.md) (https://www.responsiveclassroom.org)**: teachers use role-play during interactive modeling so students rehearse and observe routines like entering a discussion or resolving a dispute before doing them for real.
 - **History teaching**: students enact a debate between stakeholders in a historical decision (e.g., delegates at a constitutional convention), then debrief which arguments proved decisive and why.
 
 ## Key Sources

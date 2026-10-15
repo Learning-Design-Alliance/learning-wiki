@@ -41,6 +41,7 @@ The brief calls for "carefully designed studies" to fill the gaps in the sparse 
 ## Related Strategies
 
 - [Prefer lockdown drills over highly realistic, unannounced active shooter exercises, embedding them in layered emergency preparedness](prefer-lockdown-drills-over-realistic-exercises.md)
+- [Research agenda for generative AI in teaching and learning: identify needed skills, resources and capabilities](generative-ai-skills-capabilities-research-agenda.md)
 
 ## Examples
 -

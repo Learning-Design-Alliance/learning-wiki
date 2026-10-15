@@ -66,7 +66,7 @@ High expectations only raise achievement when students believe the expectations 
 ## Examples
 - **Yeager et al. (2019) national study**: a short online growth-mindset module embedded in core curriculum raised GPA among lower-achieving high school students across the U.S.
 - **Cohen et al.'s wise-feedback experiments**: adding a single sentence expressing high standards and confidence to essay feedback increased revision rates among Black and Latino students.
-- **EL Education (https://eleducation.org)**: school network built around "high expectations with support for all," using crew structures, revision culture, and public exhibition of rigorous work.
+- **[EL Education](../products/el-education.md) (https://eleducation.org)**: school network built around "high expectations with support for all," using crew structures, revision culture, and public exhibition of rigorous work.
 
 ## Key Sources
 - Yeager, D. S., & Walton, G. M. (2011). Social-psychological interventions in education: They're not magic. *Review of Educational Research, 81*(2), 267–301. [doi:10.3102/0034654311405999](https://doi.org/10.3102/0034654311405999)

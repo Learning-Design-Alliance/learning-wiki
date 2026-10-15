@@ -66,7 +66,7 @@ Timed tests impose pressure that consumes working memory resources needed for re
 
 ## Examples
 - **"How Close to 100"** (youcubed, Stanford) — a dice-and-grid game in which learners repeatedly compute products in a purposeful context; the teacher observes fluency without any timed component. [https://www.youcubed.org](https://www.youcubed.org)
-- **Number Talks** (Parrish, 2010, *Number Talks: Helping Children Build Mental Math and Computation Strategies*) — daily mental-math discussions revealing the strategies every learner uses.
+- **[Number Talks](number-talks.md)** (Parrish, 2010, *Number Talks: Helping Children Build Mental Math and Computation Strategies*) — daily mental-math discussions revealing the strategies every learner uses.
 - **Math Recovery / Add+Vantage MR** — one-on-one interview-based assessment instruments that profile a child's number strategies and inform targeted teaching. [https://www.mathrecovery.org](https://www.mathrecovery.org)
 - **DreamBox Learning** — continuous, embedded game-based assessment that infers fluency and strategy from gameplay rather than discrete tests. [https://www.dreambox.com](https://www.dreambox.com)
 

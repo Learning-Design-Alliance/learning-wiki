@@ -47,3 +47,5 @@ The article attributes this finding to Cosentino et al.'s study of human teacher
 - [Students exercise ethical agency in GenAI use through human-AI collaboration strategies, personal ethical frameworks, strategic calibration of use, and resistance to over-reliance](student-ethical-agency-genai-use.md) — related
 - [First-year EAP students prefer a hybrid feedback model combining AI-generated comments with instructor feedback over either source alone](students-prefer-hybrid-ai-instructor-feedback.md) — related
 - [Excessive dependence on AI may reduce human interaction and dehumanize adult education](over-reliance-ai-reduces-human-interaction.md) — related
+- [Human–GenAI collaborative interactions show promise for supporting metacognition and sociometacognition, based on an exploratory expert case study](genai-collaboration-supports-metacognition-feasibility.md) — related
+- [Many current GenAI applications in STEM education conflate learning with performance and feedback, neglecting active, reflective, and embodied learning processes](genai-conflates-learning-with-performance-feedback.md) — a broader claim this one bears on

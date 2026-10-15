@@ -170,7 +170,7 @@ Placement, the instruction delivered in each setting, achievement, adjustment an
 - Arduini-Van Hoose, N. (2020). Teaching students with disabilities. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
 - West, J., et al. (1999). Transition planning under IDEA: Implications for practice. In *Special education law and practice*.
 - Special Education Facilities for Emotionally Disturbed Children. (1968). Ontario Department of Education. https://eric.ed.gov/?id=ED085907
-- Dowdy, E., & Kamphaus, R. W. (2007). A Comparison of Classification Methods for Use in Predicting School-Based Outcomes. The California School Psychologist, 12, 121-132. https://eric.ed.gov/?id=EJ896649
+- Dowdy, E., & Kamphaus, R. W. (2007). A Comparison of Classification Methods for Use in Predicting School-Based Outcomes. The California School Psychologist, 12, 121-132. https://eric.ed.gov/?id=EJ896649. [doi:10.1007/bf03340936](https://doi.org/10.1007/bf03340936)
 
 <!-- deprecated 2026-10-15: superseded by the conditional model above. The previous body, kept verbatim.
 ## Description
@@ -300,5 +300,5 @@ The article recommends that school psychologists gather comprehensive informatio
 -
 
 ## Key Sources
-- Dowdy, E., & Kamphaus, R. W. (2007). A Comparison of Classification Methods for Use in Predicting School-Based Outcomes. The California School Psychologist, 12, 121-132. https://eric.ed.gov/?id=EJ896649
+- Dowdy, E., & Kamphaus, R. W. (2007). A Comparison of Classification Methods for Use in Predicting School-Based Outcomes. The California School Psychologist, 12, 121-132. https://eric.ed.gov/?id=EJ896649. [doi:10.1007/bf03340936](https://doi.org/10.1007/bf03340936)
 -->

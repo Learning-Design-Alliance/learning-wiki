@@ -64,9 +64,9 @@ Sharing work with peers converts writing from a private performance into a socia
 - Writing-across-the-curriculum — sharing situates writing in authentic disciplinary audiences
 
 ## Examples
-- **Calibrated Peer Review (https://calibratedpeerreview.org)** — learners first calibrate their judgment on sample texts, then review peers' anonymous writing; the calibration step directly addresses the weak-feedback constraint.
+- **[Calibrated Peer Review](calibrated_peer_review.md) (https://calibratedpeerreview.org)** — learners first calibrate their judgment on sample texts, then review peers' anonymous writing; the calibration step directly addresses the weak-feedback constraint.
 - **KQED "Youth Voices" (https://youthvoices.net)** — a moderated online community where students publish writing and multimedia and comment on peers' work across schools.
-- **Writing workshop (Atwell/Calkins model)** — regular author's-chair sharing and peer conferencing embedded in the writing process, with the teacher conferencing alongside peers.
+- **[Writing workshop](writing_workshop.md) (Atwell/Calkins model)** — regular author's-chair sharing and peer conferencing embedded in the writing process, with the teacher conferencing alongside peers.
 
 ## Key Sources
 - Topping, K. (1998). Peer assessment between students in colleges and universities. *Review of Educational Research, 68*(3), 249–276. [doi:10.3102/00346543068003249](https://doi.org/10.3102/00346543068003249)

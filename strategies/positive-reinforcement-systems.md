@@ -66,7 +66,7 @@ Reinforcement works because contingent consequences increase the future frequenc
 ## Examples
 - **[PBIS](https://www.pbis.org)** — a widely implemented school-wide framework in which positive behavior expectations are taught and reinforced with consistent acknowledgment systems across settings.
 - **[ClassDojo](https://www.classdojo.com)** — digital point system for immediate reinforcement of named behaviors; best used privately rather than as a public leaderboard.
-- **Good Behavior Game** — a group-contingency classroom game in which teams earn privileges by keeping disruptive behavior below a criterion; strong evidence for improving on-task behavior in elementary classrooms.
+- **[Good Behavior Game](../products/good-behavior-game.md)** — a group-contingency classroom game in which teams earn privileges by keeping disruptive behavior below a criterion; strong evidence for improving on-task behavior in elementary classrooms.
 
 ## Key Sources
 - Skinner, B. F. (1953). *Science and human behavior*. Macmillan.

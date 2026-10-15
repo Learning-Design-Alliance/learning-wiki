@@ -31,7 +31,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 35 claims (17 for, 17 mixed, 1 against) · 29 studies (10 review, 6 causal, 5 quant-synthesis, 3 qualitative, 3 theoretical, 2 design), `q1`–`q4` · 5 of 29 report an effect size · 33 claims rest on one study
+> **Evidence** · 37 claims (18 for, 18 mixed, 1 against) · 30 studies (10 review, 7 causal, 5 quant-synthesis, 3 qualitative, 3 theoretical, 2 design), `q1`–`q4` · 5 of 30 report an effect size · 35 claims rest on one study
 
 ## Conditional relationship
 
@@ -137,6 +137,8 @@ Read against this model on 2026-10-15; the claims below do not bear on the relat
 - [Agent realism, particularly behavioral realism, should be a crucial predictor of social presence in immersive agent-centered learning environments](../claims/agent-realism-predicts-social-presence-xr.md) [~W] — a conceptual prediction about social presence, not learning; no test.
 - [Teachers judged LLM-simulated student ideas realistic and most useful when the ideas sparked sensemaking about student thinking and suggested scaffolds](../claims/teachers-perceive-llm-ideas-realistic-sensemaking-useful.md) [+W] — six teachers' judgements of simulated students; bears on simulations for teacher education, not on learner outcomes.
 - [Prior Knowledge Impacts Text Understanding](../claims/prior-knowledge-impacts-text-understanding.md) [+M]
+- [Undergraduates learning IoT tasks in VR with ChatGPT-integrated feedback reached significantly higher cognitive levels on memory, understanding, and application tasks than peers receiving traditional VR feedback](../claims/gpt-feedback-vr-higher-cognitive-levels.md) [+W] — attached 2026-10-15 from Wang et al. (2025), which proposed "Integrate generative AI feedback into VR learning environments to provide targeted, real-time feedback that addresses limitations of traditional VR feedback"; tests this page's relationship.
+- [GPT feedback in VR markedly improved problem-solving and critical thinking but had limited impact on creativity](../claims/gpt-feedback-hots-problem-solving-critical-thinking-limited-creativity.md) [~W] — attached 2026-10-15 from Wang et al. (2025), which proposed "Integrate generative AI feedback into VR learning environments to provide targeted, real-time feedback that addresses limitations of traditional VR feedback"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -170,6 +172,7 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [Simulation](../elements/simulation.md) and [Debrief](../elements/debrief.md) — the elements this principle is built from.
 - [Simulation Based Learning](../strategies/simulation-based-learning.md)
 - [Teachers and students create their own 360-degree VR content using free apps like Google Street View](../strategies/create-own-360-images-street-view.md)
+- [Vocational education programs should let trainees experience and reflect on authentic errors, e.g. via error management training and negative knowledge-diaries](../strategies/error-management-training-negative-knowledge-diaries.md)
 
 ## Key Sources
 - Akcayir, M., & Akcayir, G. (2017). Advantages and challenges associated with augmented reality for education: A systematic review of the literature. *Educational Research Review, 20*, 1-11. [https://doi.org/10.1016/j.edurev.2016.11.002](https://doi.org/10.1016/j.edurev.2016.11.002)

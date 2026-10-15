@@ -78,7 +78,7 @@ Assessment itself is a learning event: retrieving knowledge on an assessment str
 - [Competency-Based Learning](../patterns/competency-based-learning.md) — replaces fixed summative windows with assessment on mastery demonstration
 
 ## Examples
-- **NWEA MAP Growth** (https://www.nwea.org) — adaptive interim assessments administered 2–3 times per year, reporting individual growth trajectories toward standards between state summative tests.
+- **[NWEA MAP Growth](../products/nwea-map-growth.md)** (https://www.nwea.org) — adaptive interim assessments administered 2–3 times per year, reporting individual growth trajectories toward standards between state summative tests.
 - **Advanced Placement examinations** — summative performance assessments with published standards and released items, allowing instruction to align to the assessed constructs.
 - **Portfolio capstones in teacher education programs** (e.g., edTPA, https://www.edtpa.com) — a performance-based summative in which candidates demonstrate teaching skill against explicit rubric standards.
 

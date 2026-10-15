@@ -89,3 +89,4 @@ Nothing here says where retention falls off.
 - [Structured repetition gains in fluency depend on repeating the same task](structured-repetition-fluency-task-specific.md) — reports the opposite
 - [FRAC and combined intervention advantages transferred to a new writing task and were retained after AI support was withdrawn](frac-transfer-retention-after-ai-removal.md) — related
 - [Immediate task success does not establish learning that persists without AI support](immediate-performance-not-evidence-of-independent-learning.md) — related
+- [Vocabulary knowledge gained through extensive reading showed little decay on a three-month delayed posttest, with relative gains ranging from 21.05% (low-level) to 59.01% (high-level)](little-decay-three-month-delayed-posttest-extensive-reading.md) — a narrower finding that bears on this claim

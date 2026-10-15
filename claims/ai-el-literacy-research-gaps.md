@@ -18,8 +18,8 @@ sources:
     kind: qualitative
     rigour: 2
   - id: stephenson-2025-2
-    resource: "https://digitalpromise.dspacedirect.org/items/73c883c0-4652-499d-aeb2-74f773749c60"
-    title: "Stephenson, S. P., Leones, T., Kamdar, D., Prado, Y., & Ddamulira, J. (2025). A National Context of Generative AI for Reading to Support English Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/73c883c0-4652-499d-aeb2-74f773749c60"
+    resource: "https://doi.org/10.51388/20.500.12265/258"
+    title: "Stephenson, S. P., Leones, T., Kamdar, D., Prado, Y., & Ddamulira, J. (2025). A National Context of Generative AI for Reading to Support English Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/73c883c0-4652-499d-aeb2-74f773749c60. [doi:10.51388/20.500.12265/258](https://doi.org/10.51388/20.500.12265/258)"
     author: "Stephenson, S. P., Leones, T., Kamdar, D., Prado, Y., & Ddamulira, J."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Research on AI support for EL literacy remains limited, narrow in scope, and lacking for diverse EL subgroups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 qualitative `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Larger-scale research, including impact and longitudinal studies, on AI's effect on EL literacy development remains limited. [→ Stephenson 2025](#stephenson-2025)
@@ -50,7 +50,7 @@ The report's literature scan states that "larger-scale research, including impac
 
 ### Stephenson 2025 (2)
 
-Stephenson, S. P., Leones, T., Kamdar, D., Prado, Y., & Ddamulira, J. (2025). A National Context of Generative AI for Reading to Support English Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/73c883c0-4652-499d-aeb2-74f773749c60
+Stephenson, S. P., Leones, T., Kamdar, D., Prado, Y., & Ddamulira, J. (2025). A National Context of Generative AI for Reading to Support English Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/73c883c0-4652-499d-aeb2-74f773749c60. [doi:10.51388/20.500.12265/258](https://doi.org/10.51388/20.500.12265/258)
 
 `q2 · i?` · `qualitative · r2`
 

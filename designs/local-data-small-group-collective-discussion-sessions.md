@@ -47,4 +47,4 @@ Each of the six sessions followed a common three-part structure: facilitators pr
 -
 
 ## Key Sources
-- Perl-Nussbaum, D., & Finkelstein, N. D. (2026). A Workshop Series for Effective Use of AI in Uncertain Times: Building a Physics Faculty Learning Community.
+- Perl-Nussbaum, D., & Finkelstein, N. D. (2026). A Workshop Series for Effective Use of AI in Uncertain Times: Building a Physics Faculty Learning Community. [doi:10.48550/arxiv.2609.23887](https://doi.org/10.48550/arxiv.2609.23887)

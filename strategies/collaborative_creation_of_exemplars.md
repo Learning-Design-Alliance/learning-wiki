@@ -66,6 +66,7 @@ The strategy works because comparing multiple worked responses at different qual
 - [Two Stars and a Wish](two-stars-and-a-wish.md) — structured peer feedback that can use the co-constructed criteria as its vocabulary
 - [Rubric Co-Construction](rubric-co-construction.md) — the same criteria-building move applied to formal scoring tools
 - [Structure reflection after collaboration for both students and teachers using prompts, exit tickets, journals, rubrics, plus-and-delta, and gallery walks](structured-reflection-after-collaboration.md)
+- [Use multiple exemplars with scaffolded discussion rather than mere provision, balancing teacher guidance against student co-construction](multiple-exemplars-dialogic-discussion.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — exemplars function as demonstrations of quality at multiple levels

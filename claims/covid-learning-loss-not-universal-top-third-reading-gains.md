@@ -11,7 +11,7 @@ evidence_strength: weak
 sources:
   - id: megan-kuhfeld-2020
     resource: "https://doi.org/10.3102/0013189X20965918"
-    title: "Megan Kuhfeld, James Soland, Beth Tarasawa, Angela Johnson, Erik Ruzek, Jing Liu. (2020). Projecting the potential impact of COVID-19 school closures on academic achievement. Educational Researcher 49(8). https://doi.org/10.3102/0013189X20965918"
+    title: "Megan Kuhfeld, James Soland, Beth Tarasawa, Angela Johnson, Erik Ruzek, Jing Liu. (2020). Projecting the potential impact of COVID-19 school closures on academic achievement. Educational Researcher, 49(8), 549–565. https://doi.org/10.3102/0013189X20965918"
     author: Megan Kuhfeld, James Soland, Beth Tarasawa, Angela Johnson, Erik Ruzek, Jing Liu
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Megan Kuhfeld 2020
 
-Megan Kuhfeld, James Soland, Beth Tarasawa, Angela Johnson, Erik Ruzek, Jing Liu. (2020). Projecting the potential impact of COVID-19 school closures on academic achievement. Educational Researcher 49(8). https://doi.org/10.3102/0013189X20965918
+Megan Kuhfeld, James Soland, Beth Tarasawa, Angela Johnson, Erik Ruzek, Jing Liu. (2020). Projecting the potential impact of COVID-19 school closures on academic achievement. Educational Researcher, 49(8), 549–565. https://doi.org/10.3102/0013189X20965918
 
 `q2 · i?` · `associational · r?`
 

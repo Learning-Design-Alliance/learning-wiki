@@ -63,7 +63,7 @@ Accurate emotion labeling is a foundational component of social-emotional learni
 - [Active Listening](active-listening.md) — the facilitation stance needed when learners share feelings
 
 ## Examples
-- **RULER (Yale Center for Emotional Intelligence)** — the "Mood Meter" has learners locate their emotional state on axes of energy and pleasantness, then label it precisely; classroom-based RULER implementation improved social-emotional competence and climate (https://ei.yale.edu).
+- **[RULER](../products/ruler.md) (Yale Center for Emotional Intelligence)** — the "Mood Meter" has learners locate their emotional state on axes of energy and pleasantness, then label it precisely; classroom-based RULER implementation improved social-emotional competence and climate (https://ei.yale.edu).
 - **PATHS curriculum** — early elementary lessons use emotion-face cards and a puppet ("Turtle") to teach children to name feelings before problem-solving (https://www.pathseducation.com).
 - **Preschool read-alouds** — pausing during *The Rabbit Listened* to ask children what each character feels and which cues reveal it.
 

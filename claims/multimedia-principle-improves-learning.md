@@ -152,3 +152,6 @@ Open questions include how the effect scales across media formats (static illust
 - [Contiguity principles: near placement and simultaneous presentation of corresponding words and pictures improve transfer](contiguity-principles-mayer-2008.md) — related
 - [Modality effect: presenting explanatory text in spoken rather than written form with visual information increases effective working memory capacity and learning](modality-effect-narration-over-text.md) — related
 - [Dual-mode (auditory plus visual) presentation of worked examples enhances subsequent problem-solving efficiency, except under high visual-search conditions without attention cues](dual-mode-worked-example-presentation.md) — related
+- [Concreteness, imagery, and verbal associative processes play major roles across multiple educational domains](concreteness-imagery-associative-roles-educational-domains.md) — a broader claim this one bears on
+- [Basic DCT mechanisms can be used to model diverse educational phenomena](dct-mechanisms-model-educational-phenomena.md) — a broader claim this one bears on
+- [Sketching and viewing animations produced the best understanding of a geoscience text, while the photograph condition produced the worst](sketching-animation-best-understanding-photograph-worst.md) — related

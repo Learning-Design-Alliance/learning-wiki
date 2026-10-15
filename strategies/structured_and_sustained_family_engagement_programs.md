@@ -76,7 +76,7 @@ Engagement that is *structured* (planned, role-assigned, scheduled) and *sustain
 - **[National Network of Partnership Schools](https://nnps.jhucsos.com)** (Johns Hopkins University) — Epstein's framework in practice; member schools form action teams, write annual partnership plans, and evaluate six types of involvement.
 - **TIPS (Teachers Involve Parents in Schoolwork)** — interactive homework assignments requiring structured family–student conversation; field studies show higher family involvement and positive homework attitudes.
 - **[Communities In Schools](https://www.communitiesinschools.org)** — site-coordinated model embedding family and community supports within schools.
-- **TalkingPoints** — two-way translated family messaging used to sustain engagement between families and teachers.
+- **[TalkingPoints](../products/talkingpoints.md)** — two-way translated family messaging used to sustain engagement between families and teachers.
 
 ## Key Sources
 - Epstein, J. L., & Van Voorhis, F. L. (2001). More than minutes: Teachers' roles in designing homework. *Educational Psychologist, 36*(3), 181–193. [doi:10.1207/S15326985EP3603_4](https://doi.org/10.1207/S15326985EP3603_4)

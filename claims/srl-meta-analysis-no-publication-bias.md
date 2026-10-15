@@ -51,3 +51,6 @@ Publication-bias assessment of the 15 included studies using a funnel plot and E
 - [Trim-and-fill analysis shows no publication bias in the meta-analysis of innovative learning effects on mathematical problem-solving ability](trim-fill-no-publication-bias-innovative-learning.md) — related
 - Publication-bias diagnostics suggest minimal influence on the meta-analytic findings, with a borderline Begg's test — related
 - [Publication-bias assessments substantially reduce the intercept prediction, often indicating no positive transfer when the identified moderators are absent](publication-bias-reduces-intercept-no-transfer-without-moderators.md) — related
+- Funnel-plot and fail-safe N analyses indicate small publication bias, and one-study-removal analysis indicates stable pooled effects — related
+- [Funnel-plot asymmetry was significant in both meta-analyses, indicating possible publication or selection bias](funnel-plot-asymmetry-significant-eai.md) — related
+- [SRL interventions are effective in improving both SRL activity and achievement in higher education](srl-interventions-improve-activity-achievement.md) — related

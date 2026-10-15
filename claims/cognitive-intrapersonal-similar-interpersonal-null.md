@@ -11,7 +11,7 @@ evidence_strength: weak
 sources:
   - id: clark-2016
     resource: "https://doi.org/10.3102/0034654315582065"
-    title: "Clark, D. B., Tanner-Smith, E. E., & Killingsworth, S. S. (2016). Digital Games, Design, and Learning: A Systematic Review and Meta-Analysis. Review of Educational Research, 86(1). https://doi.org/10.3102/0034654315582065"
+    title: "Clark, D. B., Tanner-Smith, E. E., & Killingsworth, S. S. (2016). Digital Games, Design, and Learning: A Systematic Review and Meta-Analysis. Review of Educational Research, 86(1), 79–122. https://doi.org/10.3102/0034654315582065"
     author: "Clark, D. B., Tanner-Smith, E. E., & Killingsworth, S. S."
     q: 3
     i: 1
@@ -19,7 +19,7 @@ sources:
     rigour: 3
   - id: clark-2016-2
     resource: "https://doi.org/10.3102/0034654315582065"
-    title: "Clark, D. B., Tanner-Smith, E. E., & Killingsworth, S. S. (2016). Digital Games, Design, and Learning: A Systematic Review and Meta-Analysis. Review of Educational Research, 86(1). https://doi.org/10.3102/0034654315582065"
+    title: "Clark, D. B., Tanner-Smith, E. E., & Killingsworth, S. S. (2016). Digital Games, Design, and Learning: A Systematic Review and Meta-Analysis. Review of Educational Research, 86(1), 79–122. https://doi.org/10.3102/0034654315582065"
     author: "Clark, D. B., Tanner-Smith, E. E., & Killingsworth, S. S."
     q: 3
     i: "?"
@@ -40,7 +40,7 @@ sources:
 
 ### Clark 2016
 
-Clark, D. B., Tanner-Smith, E. E., & Killingsworth, S. S. (2016). Digital Games, Design, and Learning: A Systematic Review and Meta-Analysis. Review of Educational Research, 86(1). https://doi.org/10.3102/0034654315582065
+Clark, D. B., Tanner-Smith, E. E., & Killingsworth, S. S. (2016). Digital Games, Design, and Learning: A Systematic Review and Meta-Analysis. Review of Educational Research, 86(1), 79–122. https://doi.org/10.3102/0034654315582065
 
 `q3 · i1` · `quant-synthesis · r3`
 
@@ -50,7 +50,7 @@ Meta-regression across media-comparison effect sizes comparing outcome domains; 
 
 ### Clark 2016 (2)
 
-Clark, D. B., Tanner-Smith, E. E., & Killingsworth, S. S. (2016). Digital Games, Design, and Learning: A Systematic Review and Meta-Analysis. Review of Educational Research, 86(1). https://doi.org/10.3102/0034654315582065
+Clark, D. B., Tanner-Smith, E. E., & Killingsworth, S. S. (2016). Digital Games, Design, and Learning: A Systematic Review and Meta-Analysis. Review of Educational Research, 86(1), 79–122. https://doi.org/10.3102/0034654315582065
 
 `q3 · i?` · `quant-synthesis · r3`
 
@@ -66,3 +66,4 @@ Single-study interpersonal outcome from the media-comparison set; g = 0.25 with 
 - [Balanced SEL frameworks cover intrapersonal, interpersonal, and cognitive competencies and mix skills, knowledge, and attitudes](balance-criterion-intrapersonal-interpersonal-cognitive-competencies.md) — related
 - [Gamification has small positive effects on cognitive, motivational and behavioral learning outcomes](gamification-has-small-positive-effects-on-learning-outcomes.md) — related
 - [Digital game conditions produce significantly better learning outcomes than nongame conditions (g = 0.33) in media comparisons](digital-games-outperform-nongame-media-comparisons.md) — related
+- [Digital game conditions significantly enhance K–16 student learning relative to nongame comparison conditions (g = 0.33)](digital-games-beat-nongame-conditions-meta.md) — a broader claim this one bears on

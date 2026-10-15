@@ -50,4 +50,4 @@ The article develops a quantification of therapist complementarity: a 4x4 Intera
 -
 
 ## Key Sources
-- Dietzel, C. S.; Abeles, Norman. (1974). Client-Therapist Complementarity and Therapeutic Outcome. https://eric.ed.gov/?id=ED091646
+- Dietzel, C. S.; Abeles, Norman. (1974). Client-Therapist Complementarity and Therapeutic Outcome. https://eric.ed.gov/?id=ED091646. [doi:10.1037/h0076731](https://doi.org/10.1037/h0076731)

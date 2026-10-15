@@ -64,7 +64,7 @@ Feedback improves learning when learners actually act on it, and drafting cycles
 - [Portfolio Assessment](portfolio-assessment.md) — archives successive drafts as evidence of growth
 
 ## Examples
-- **Calibrated Peer Review (https://cpr.molsci.ucla.edu)** — Students train on calibrated exemplars before reviewing peers' drafts, improving the reliability of peer feedback in large courses.
+- **[Calibrated Peer Review](calibrated_peer_review.md) (https://cpr.molsci.ucla.edu)** — Students train on calibrated exemplars before reviewing peers' drafts, improving the reliability of peer feedback in large courses.
 - **Writing-across-the-curriculum programs** (e.g., Michigan State's [The Writing Center draft conferences](https://writing.msu.edu)) — structured draft–conference–revision sequences in disciplinary courses.
 - **Software engineering capstones** — sprint retrospectives function as feedback cycles on working code, with each sprint's review feeding the next sprint's plan.
 

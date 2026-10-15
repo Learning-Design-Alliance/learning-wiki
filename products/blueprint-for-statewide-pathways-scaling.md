@@ -46,7 +46,7 @@ A Babineau et al. framework for coordinating state and regional policy, labor-ma
 
 ## Key Sources
 - Babineau, K., Aso, C., Ganoo, K., Jacobs, B., Lenderman, K., Shah, Z., Smith, K., & Young, V. M. (2025). From Rural Districts to Statewide Pathways: A Blueprint for Scaling Cybersecurity Workforce Development Through Regional Collaboration. Digital Promise. https://doi.org/10.51388/20.500.12265/263
-- Angevine, C., Cator, K., Liberman, B., Smith, K., & Young, V. (2019). Designing a Process for Inclusive Innovation: A Radical Commitment to Equity. Digital Promise. https://digitalpromise.dspacedirect.org/items/d6db3e76-2dc9-4ea6-ae68-49814c88e6b6
+- Angevine, C., Cator, K., Liberman, B., Smith, K., & Young, V. (2019). Designing a Process for Inclusive Innovation: A Radical Commitment to Equity. Digital Promise. https://digitalpromise.dspacedirect.org/items/d6db3e76-2dc9-4ea6-ae68-49814c88e6b6. [doi:10.51388/20.500.12265/86](https://doi.org/10.51388/20.500.12265/86)
 - Scaling career pathways statewide: A blueprint for creating K-12 + postsecondary + industry pathways. (2026). Digital Promise. https://doi.org/10.51388/20.500.12265/287
 <!-- merged 2026-10-10 from elements/three-tiered-core-pilot-replication-implementation-model ("Three-tiered core-pilot-replication implementation model for scaling across contexts"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 - Scaling career pathways statewide: A blueprint for creating K-12 + postsecondary + industry pathways. (2026). Digital Promise. https://doi.org/10.51388/20.500.12265/287
@@ -85,7 +85,7 @@ To manage multiple contexts on a pathway to scale, the report proposes a three-t
 -
 
 ## Key Sources
-- Angevine, C., Cator, K., Liberman, B., Smith, K., & Young, V. (2019). Designing a Process for Inclusive Innovation: A Radical Commitment to Equity. Digital Promise. https://digitalpromise.dspacedirect.org/items/d6db3e76-2dc9-4ea6-ae68-49814c88e6b6
+- Angevine, C., Cator, K., Liberman, B., Smith, K., & Young, V. (2019). Designing a Process for Inclusive Innovation: A Radical Commitment to Equity. Digital Promise. https://digitalpromise.dspacedirect.org/items/d6db3e76-2dc9-4ea6-ae68-49814c88e6b6. [doi:10.51388/20.500.12265/86](https://doi.org/10.51388/20.500.12265/86)
 -->
 
 <!-- merged 2026-10-10 from theories/five-pillar-statewide-career-pathways-blueprint ("Five-pillar statewide blueprint: ACTIVATE, CONNECT, CREATE, ALIGN, ASSESS"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.

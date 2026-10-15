@@ -90,7 +90,7 @@ Explicit, systematic spelling instruction produces measurable gains in spelling 
 
 ## Examples
 - **Words Their Way** (Bear, Invernizzi, Templeton, & Johnston) — developmental word study built on sorting by spelling pattern; widely used in US elementary classrooms.
-- **Spelling Mastery** (Dixon & Engelmann, McGraw-Hill) — a Direct Instruction program combining phonetic, morphemic, and whole-word strategies with scripted, cumulative lessons.
+- **[Spelling Mastery](../products/spelling-mastery.md)** (Dixon & Engelmann, McGraw-Hill) — a Direct Instruction program combining phonetic, morphemic, and whole-word strategies with scripted, cumulative lessons.
 - **Read Write Inc. Spelling** (Oxford University Press, https://global.oup.com/education) — UK programme pairing systematic phonics with spelling rules and dictation for Years 2–6.
 - **Signs for Sounds** — a systematic program providing explicit, phonics-based spelling instruction with built-in review cycles.
 - **SpellingCity** ([spellingcity.com](https://www.spellingcity.com)) — app delivering word practice through games where learners see and hear words in context, supporting the test-study-test cycle.

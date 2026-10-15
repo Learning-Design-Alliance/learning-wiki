@@ -18,8 +18,8 @@ sources:
     kind: design
     rigour: 2
   - id: perl-nussbaum-2026-2
-    resource: "https://arxiv.org/abs/2609.23887"
-    title: "Perl-Nussbaum, D., & Finkelstein, N. D. (2026). A Workshop Series for Effective Use of AI in Uncertain Times: Building a Physics Faculty Learning Community. https://arxiv.org/abs/2609.23887"
+    resource: "https://doi.org/10.48550/arxiv.2609.23887"
+    title: "Perl-Nussbaum, D., & Finkelstein, N. D. (2026). A Workshop Series for Effective Use of AI in Uncertain Times: Building a Physics Faculty Learning Community. https://arxiv.org/abs/2609.23887. [doi:10.48550/arxiv.2609.23887](https://doi.org/10.48550/arxiv.2609.23887)"
     author: "Perl-Nussbaum, D., & Finkelstein, N. D."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Student surveys show widespread weekly AI use, requests for instructor guidance, and a substantial minority using AI to produce entire solutions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` An institutional survey found 80% of students using AI weekly and seeking instructor guidance. [→ Perl-Nussbaum 2026](#perl-nussbaum-2026)
@@ -50,7 +50,7 @@ Campus-wide survey at the authors' institution (Center for Teaching & Learning, 
 
 ### Perl-Nussbaum 2026 (2)
 
-Perl-Nussbaum, D., & Finkelstein, N. D. (2026). A Workshop Series for Effective Use of AI in Uncertain Times: Building a Physics Faculty Learning Community. https://arxiv.org/abs/2609.23887
+Perl-Nussbaum, D., & Finkelstein, N. D. (2026). A Workshop Series for Effective Use of AI in Uncertain Times: Building a Physics Faculty Learning Community. https://arxiv.org/abs/2609.23887. [doi:10.48550/arxiv.2609.23887](https://doi.org/10.48550/arxiv.2609.23887)
 
 `q2 · i?` · `design · r2`
 

@@ -63,7 +63,7 @@ Self evaluation improves achievement primarily when learners are trained to use 
 
 ## Examples
 - **Portfolio assessment with rubric self-scores** — students score their own drafts against a rubric and attach a revision plan before teacher review; the self-score is discussed, not graded
-- **Exam wrappers** — after a test is returned, students complete a short structured analysis of where they lost points and what study behavior caused it, feeding the next unit's preparation
+- **[Exam wrappers](exam-wrappers.md)** — after a test is returned, students complete a short structured analysis of where they lost points and what study behavior caused it, feeding the next unit's preparation
 - **[PALS](https://ies.ed.gov/ncee/wwc/PracticeGuide/1) (Peer-Assisted Learning Strategies)** — pairs alternate evaluation roles with scripted prompts, training criteria use through repeated low-stakes judgments
 
 ## Key Sources

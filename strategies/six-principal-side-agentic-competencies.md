@@ -47,4 +47,4 @@ The paper proposes that the transition from generative to agentic AI demands new
 -
 
 ## Key Sources
-- Nama, R. (2026). Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named. Author's accepted manuscript, AI and Ethics (Springer Nature). https://arxiv.org/abs/2605.27396
+- Nama, R. (2026). Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named. Author's accepted manuscript, AI and Ethics (Springer Nature). https://arxiv.org/abs/2605.27396. [doi:10.48550/arxiv.2605.27396](https://doi.org/10.48550/arxiv.2605.27396)

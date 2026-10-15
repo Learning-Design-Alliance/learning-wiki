@@ -43,4 +43,4 @@ The article recommends that educational research move beyond collecting personal
 -
 
 ## Key Sources
-- Goodson, Ivor F. (1994). 'The Story So Far': Personal Knowledge and the Political. https://eric.ed.gov/?id=ED376160
+- Goodson, Ivor F. (1994). 'The Story So Far': Personal Knowledge and the Political. https://eric.ed.gov/?id=ED376160. [doi:10.1080/0951839950080109](https://doi.org/10.1080/0951839950080109)

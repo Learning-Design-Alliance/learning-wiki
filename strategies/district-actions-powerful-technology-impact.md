@@ -45,6 +45,7 @@ The report closes with four recommended actions for districts investing in power
 - [Districts should build community-shared visions, evaluation infrastructure, and policies for procuring and using AI edtech](district-ai-policy-evaluation-infrastructure-strategy.md)
 - [Support deep CI implementation through capacity inventories, gradual-release coaching, structured collaboration opportunities, and student voice](nsi-implementation-support-strategies.md)
 - [Invest in sustained, role-specific, discipline-specific professional learning and structured student AI literacy pathways across PK16](role-specific-sustained-ai-professional-learning-pathways.md)
+- [AI researchers creating demos, resources, and activities for K-12 learners](ai-researchers-as-k12-educators-call-to-action.md)
 
 ## Examples
 -

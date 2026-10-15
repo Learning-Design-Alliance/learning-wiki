@@ -18,7 +18,7 @@ sources:
 # Peer Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (6 for, 1 mixed) · 10 studies (3 quant-synthesis, 3 associational, 2 causal, 1 review, 1 theoretical), `q1`–`q4` · 3 of 10 report an effect size · 4 claims rest on one study
+> **Evidence** · 8 claims (7 for, 1 mixed) · 11 studies (3 causal, 3 quant-synthesis, 3 associational, 1 review, 1 theoretical), `q1`–`q4` · 4 of 11 report an effect size · 5 claims rest on one study
 
 ## Description
 Peer assessment is the element in which learners evaluate the work or reasoning of peers against shared criteria. It is useful when the goal is both better feedback for the work and stronger learner judgment about quality.
@@ -48,6 +48,7 @@ Peer assessment is the element in which learners evaluate the work or reasoning 
 - [In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems](../claims/peer-feedback-accuracy-depends-on-expertise.md) [~M]
 - [Peer and self-assessment both show significant effects on academic performance with no significant difference between their impacts](../claims/peer-self-assessment-improve-performance-equally.md) [+W]
 - [Proposition 2: mutual evaluation emphasizing reasons and responsive comparison will improve evaluative judgment more than unexplained self-rating](../claims/proposition-2-mutual-evaluation-improves-judgment.md) [+W]
+- [Participating in peer assessment causes a small but significant improvement in short-term achievement on unit quizzes in a college statistics course](../claims/peer-assessment-improves-unit-quiz-achievement.md) [+W] — attached 2026-10-15 from Sun DL et al. (2015), which proposed "Online homework platform enabling anonymized peer assessment distribution and in-class randomized experiments".
 
 ## Related Elements
 - [Peer Review](peer-review.md)

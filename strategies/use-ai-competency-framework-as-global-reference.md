@@ -52,4 +52,4 @@ The publication positions itself as "a global reference" that "guides the develo
 -
 
 ## Key Sources
-- Miao, Fengchun; Cukurova, Mutlu. (2024). AI competency framework for teachers. UNESCO. https://www.unesco.org/en/articles/ai-competency-framework-teachers
+- Miao, Fengchun; Cukurova, Mutlu. (2024). AI competency framework for teachers. UNESCO. https://www.unesco.org/en/articles/ai-competency-framework-teachers. [doi:10.54675/zjte2084](https://doi.org/10.54675/zjte2084)

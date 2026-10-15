@@ -49,4 +49,4 @@ The report lists concrete changes to traditional roles and investments that enab
 -
 
 ## Key Sources
-- Angevine, C., Cator, K., Liberman, B., Smith, K., & Young, V. (2019). Designing a Process for Inclusive Innovation: A Radical Commitment to Equity. Digital Promise. https://digitalpromise.dspacedirect.org/items/d6db3e76-2dc9-4ea6-ae68-49814c88e6b6
+- Angevine, C., Cator, K., Liberman, B., Smith, K., & Young, V. (2019). Designing a Process for Inclusive Innovation: A Radical Commitment to Equity. Digital Promise. https://digitalpromise.dspacedirect.org/items/d6db3e76-2dc9-4ea6-ae68-49814c88e6b6. [doi:10.51388/20.500.12265/86](https://doi.org/10.51388/20.500.12265/86)

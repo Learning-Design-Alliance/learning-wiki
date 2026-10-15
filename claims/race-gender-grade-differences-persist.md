@@ -57,3 +57,4 @@ Coefficients from Model 5a on the CPS grade dataset show these differences exist
 - [ACT scores show significant subgroup misprediction by race, ethnicity, and gender that HSGPA models do not, and school-level variance is smaller among students with the same ACT score than the same HSGPA](act-subgroup-misprediction-and-school-variance.md) — related
 - [Prior gateway course success rates averaged 66 percent with a 14-point gap for students of color](gateway-success-rates-racial-gap-baseline.md) — related
 - [Teacher-perpetuated racial or ethnic discrimination in math classrooms is associated with worse engagement, grades, and test scores for all students](teacher-discrimination-harms-whole-classroom-math-outcomes.md) — related
+- [The peer assessment effect size is comparable in magnitude to a substantial fraction of measured achievement gaps in the course](peer-assessment-effect-size-versus-achievement-gaps.md) — related

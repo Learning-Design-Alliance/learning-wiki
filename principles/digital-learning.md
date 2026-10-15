@@ -27,7 +27,7 @@ sources:
 # Digital Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 55 claims (26 for, 26 mixed, 3 against) · 64 studies (15 causal, 15 review, 11 quant-synthesis, 9 theoretical, 6 associational, 5 qualitative, 3 design), `q1`–`q4` · 11 of 64 report an effect size · 46 claims rest on one study
+> **Evidence** · 56 claims (27 for, 26 mixed, 3 against) · 65 studies (16 causal, 15 review, 11 quant-synthesis, 9 theoretical, 6 associational, 5 qualitative, 3 design), `q1`–`q4` · 11 of 65 report an effect size · 47 claims rest on one study
 
 ## Conditional relationship
 
@@ -141,6 +141,7 @@ Claims read against this model that bear on it only at the edges. The other clai
 - [Tablet Demo Set Estimates Air Permeability](../claims/tablet-demo-set-estimates-air-permeability.md) [+M]
 - [The magnet data cannot determine air permeability; only the magnet's dipole moment can be estimated](../claims/magnet-case-cannot-determine-air-permeability.md) [+W]
 - [Magnetic field falls off as the inverse cube of axial distance for both a coil and a magnet](../claims/magnetic-field-inverse-cube-axial-distance-coil-magnet.md) [+W]
+- [Chatbot-based instruction enhanced secondary students' learning experience by enabling self-paced study with less stress, time savings, and maintained motivation](../claims/chatbot-enhances-learning-experience-self-paced.md) [+W] — attached 2026-10-15 from Ait Baha et al. (2024), which proposed "Integrate conversational agents into smart classrooms to create a supportive environment that encourages student interaction, engagement, and academic achievement"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

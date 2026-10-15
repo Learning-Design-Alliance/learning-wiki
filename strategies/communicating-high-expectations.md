@@ -61,8 +61,8 @@ Expectation communication works as a "wise intervention": it changes how learner
 - [Belonging Interventions](belonging-interventions.md) — expectation messages work through the same interpretive channel as belonging messages
 
 ## Examples
-- **Wise feedback (Cohen et al., 1999; Yeager et al., 2014):** teachers attach a note to graded work — "I'm giving you these comments because I have very high expectations and I know you can reach them" — reliably increasing revision and improvement among low-performing students.
-- **EL Education (https://eleducation.org)** — school network whose design principles include "high expectations for all students," operationalized through public presentation of rigorous work and revision cycles ("authentic work of exceptional quality").
+- **[Wise feedback](wise-feedback.md) (Cohen et al., 1999; Yeager et al., 2014):** teachers attach a note to graded work — "I'm giving you these comments because I have very high expectations and I know you can reach them" — reliably increasing revision and improvement among low-performing students.
+- **[EL Education](../products/el-education.md) (https://eleducation.org)** — school network whose design principles include "high expectations for all students," operationalized through public presentation of rigorous work and revision cycles ("authentic work of exceptional quality").
 - **AVID (Advancement Via Individual Determination, https://www.avid.org)** — college-readiness program that places underperforming students in rigorous coursework with explicit messaging that they are "college material," plus tutorials and organizational support.
 
 ## Key Sources

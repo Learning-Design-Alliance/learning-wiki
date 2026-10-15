@@ -81,7 +81,7 @@ Model revision supports conceptual change by forcing learners to compare their p
 ## Examples
 - **[WISE (Web-Based Inquiry Science Environment)](https://wise.berkeley.edu)** — NSF-funded inquiry projects in which students make predictions, run simulations, and revise their explanations after evaluating evidence.
 - **Model-Evidence Link (MEL) activities** (Lombardi et al.) — students diagram the strength of connections between alternative models and evidence lines, then re-rate model plausibility; used extensively in climate- and geoscience education.
-- **Predict–Observe–Explain (POE)** tasks — learners commit to a prediction, observe a discrepant event, and revise their explanation; a lightweight classroom version of model revision.
+- **[Predict–Observe–Explain](../strategies/predict-observe-explain.md) (POE)** tasks — learners commit to a prediction, observe a discrepant event, and revise their explanation; a lightweight classroom version of model revision.
 
 ## Key Sources
 - Lombardi, D., Sinatra, G. M., & Nussbaum, J. (2013). Plausibility reappraisals and shifts in middle school students' climate change conceptions. *Learning and Instruction, 25*, 50–61. [doi:10.1016/j.learninstruc.2013.03.001](https://doi.org/10.1016/j.learninstruc.2013.03.001)

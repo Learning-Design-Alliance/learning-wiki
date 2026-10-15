@@ -47,3 +47,4 @@ Pearson correlation analysis (Table 1) among the four core constructs in the 1,1
 - [Professional commitment positively moderates the effect of psychological capital on learning engagement](professional-commitment-moderates-psycap-engagement.md) — related
 - [Learning engagement, PsyCap, and commitment differ by gender, student-leader status, and grade level](demographic-differences-engagement-psycap-commitment.md) — related
 - [Learning gains were uncorrelated with prior self-reported AI literacy and database literacy, suggesting AI integration benefited students irrespective of prior perceptions](gains-uncorrelated-with-prior-literacy.md) — related
+- [Students' self-reported perception of peer assessment's benefit is virtually uncorrelated with their actual measured benefit](perception-of-peer-assessment-benefit-uncorrelated-with-actual-benefit.md) — related

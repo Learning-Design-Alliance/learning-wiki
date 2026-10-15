@@ -32570,5 +32570,733 @@
  "test-format\tno-feedback multiple-choice test\tno-test control": {
   "label": "multiple-choice test vs no test",
   "treatment_is_a": true
+ },
+ "active-learning\tgenerative-activity conditions\tnon-generative-activity conditions": {
+  "label": "generative learning activities vs non-generative learning activities",
+  "treatment_is_a": true
+ },
+ "active-learning\thigh-structure course with active-learning and practice assessments\tlow-structure lecture-based course with few high-risk assessments": {
+  "label": "high-structure active-learning and practice-based course vs low-structure lecture-based course",
+  "treatment_is_a": true
+ },
+ "active-learning\thigh-structure course with reading quizzes and intensive in-class group activities\tlow-structure lecture-based course with high-stakes assessments": {
+  "label": "high-structure active-learning and practice-based course vs low-structure lecture-based course",
+  "treatment_is_a": true
+ },
+ "active-learning\thighly structured course with graded and ungraded practice assessments\tlow-structure course with few high-risk assessments": {
+  "label": "high-structure active-learning and practice-based course vs low-structure lecture-based course",
+  "treatment_is_a": true
+ },
+ "active-learning\tmedium- to high-structure course designs\tlow-structure course design": {
+  "label": "high-structure course design vs low-structure course design",
+  "treatment_is_a": true
+ },
+ "active-learning\tmoderately or highly structured course design with frequent formative practice\tlow-structure course design based on lecturing and high-stakes assessments": {
+  "label": "high-structure active-learning and formative-practice course vs low-structure lecture-based course",
+  "treatment_is_a": true
+ },
+ "active-learning\tmoderately structured course with clickers and weekly practice exams\tlow-structure lecture-based course with high-stakes assessments": {
+  "label": "high-structure active-learning and practice-based course vs low-structure lecture-based course",
+  "treatment_is_a": true
+ },
+ "case-comparison\tExplain both correct and incorrect exemplars\tExplain correct exemplars only": {
+  "label": "Correct and incorrect exemplars vs correct exemplars only",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tInternet-delivered multimedia texts with embedded vocabulary instruction and reading-strategy support\tcontrol group": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tStrategic Reading Instruction program\tregular school reading curriculum": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit instruction\tabsence of explicit instruction": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tform-focused instruction on noun endings and grammatical gender\tsame subject matter without form-focused instruction": {
+  "label": "form-focused instruction vs no form-focused instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\thigh guidance followed by high guidance (HH)\tlow guidance followed by low guidance (LL)": {
+  "label": "high guidance followed by high guidance vs low guidance followed by low guidance",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\thigh guidance: direct instruction plus inquiry questions\tlow guidance: inquiry questions only": {
+  "label": "high guidance vs low guidance",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tlow guidance followed by high guidance (LH)\thigh guidance followed by low guidance (HL)": {
+  "label": "low guidance followed by high guidance vs high guidance followed by low guidance",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tstrategic reading instruction\tregular school reading curriculum": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tsustained strategic reading instruction\tregular school reading curriculum": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "fading\tadaptive fading of worked examples\tfixed fading": {
+  "label": "adaptive vs fixed fading",
+  "treatment_is_a": true
+ },
+ "fading\tadaptive fading of worked-out examples\tfixed fading": {
+  "label": "adaptive vs fixed fading",
+  "treatment_is_a": true
+ },
+ "fading\tprompts faded after satisfactory strategy application\tprompts presented permanently": {
+  "label": "faded vs permanent prompts",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tFFI with prompts\tFFI with no feedback": {
+  "label": "FFI with feedback prompts vs FFI without feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tcorrective feedback with prompts or recasts\tcontrol group": {
+  "label": "Corrective feedback vs no-feedback control",
+  "treatment_is_a": true
+ },
+ "feedback-presence\texplicit correction for erroneous responses\tno correction": {
+  "label": "Explicit correction vs no correction",
+  "treatment_is_a": true
+ },
+ "feedback-presence\texplicit correction for erroneous responses\tsame stimuli without correction": {
+  "label": "Explicit correction vs no correction",
+  "treatment_is_a": true
+ },
+ "feedback-presence\texplicit correction of erroneous responses\tsame stimuli with no correction": {
+  "label": "Explicit correction vs no correction",
+  "treatment_is_a": true
+ },
+ "feedback-timing\timmediate feedback\topportunity to learn from downstream consequences of errors": {
+  "label": "immediate vs delayed feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tAI-generated feedback\thuman tutor feedback": {
+  "label": "AI-generated feedback vs human feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tAI-generated feedback\thuman tutor-generated feedback": {
+  "label": "AI-generated feedback vs human feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tAI-generated feedback\tinstructor feedback": {
+  "label": "AI-generated feedback vs human feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tAsked whether they were sure about the response\tNo feedback": {
+  "label": "Prompts vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tChatGPT formative feedback\thuman evaluator formative feedback": {
+  "label": "ChatGPT feedback vs human evaluator feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tChatGPT-generated feedback\tpeer-generated feedback": {
+  "label": "ChatGPT-generated feedback vs peer-generated feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tCorrection with a desired-response model\tNo feedback": {
+  "label": "Correction with a desired-response model vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tCorrection with a model of the desired response\tNo feedback": {
+  "label": "Correction with a desired-response model vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tExplicit metalinguistic information about the target generalization\tNo feedback": {
+  "label": "Explicit metalinguistic feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tExplicit metalinguistic information after errors\tNo feedback": {
+  "label": "Explicit metalinguistic feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tFFI with prompts\tFFI with recasts": {
+  "label": "Prompts vs recasts",
+  "treatment_is_a": true
+ },
+ "feedback-type\tGPT-3.5/GPT-4-generated feedback\tinstructor-generated feedback": {
+  "label": "AI-generated feedback vs human feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tGPT-4 AI-generated feedback\thuman tutor feedback": {
+  "label": "AI-generated feedback vs human feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tGPT-4 feedback\tGPT-3.5 feedback": {
+  "label": "GPT-4 feedback vs GPT-3.5 feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tGPT-4 feedback\tinstructor feedback": {
+  "label": "GPT-4 feedback vs human feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tGPT-4-generated feedback\tGPT-3.5-generated feedback": {
+  "label": "GPT-4 feedback vs GPT-3.5 feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tGPT-4-generated writing feedback\thuman tutor feedback": {
+  "label": "GPT-4-generated writing feedback vs human tutor feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tGPT-4-generated writing feedback\thuman-tutor writing feedback": {
+  "label": "GPT-4-generated writing feedback vs human tutor feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tGPT-feedback-supported VR learning\ttraditional feedback-supported VR learning": {
+  "label": "AI feedback vs traditional feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tInformation that the response was wrong\tNo feedback": {
+  "label": "Information that the response was wrong vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tInstructor-generated feedback\tAI-generated feedback": {
+  "label": "AI-generated feedback vs human feedback",
+  "treatment_is_a": false
+ },
+ "feedback-type\tPrompt asking whether the learner was sure\tNo feedback": {
+  "label": "Prompts vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tTold that the response was wrong\tNo feedback": {
+  "label": "Information that the response was wrong vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tadaptive feedback\tstatic feedback": {
+  "label": "Adaptive feedback vs static feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\texplicit metalinguistic feedback\timplicit recasts": {
+  "label": "Explicit metalinguistic feedback vs implicit recasts",
+  "treatment_is_a": true
+ },
+ "feedback-type\thuman evaluator feedback\tChatGPT feedback": {
+  "label": "ChatGPT feedback vs human evaluator feedback",
+  "treatment_is_a": false
+ },
+ "feedback-type\thuman evaluator formative feedback\tChatGPT formative feedback": {
+  "label": "ChatGPT feedback vs human evaluator feedback",
+  "treatment_is_a": false
+ },
+ "feedback-type\thuman tutor feedback\tAI-generated feedback": {
+  "label": "AI-generated feedback vs human feedback",
+  "treatment_is_a": false
+ },
+ "feedback-type\tinstructor feedback\tAI-generated feedback": {
+  "label": "AI-generated feedback vs human feedback",
+  "treatment_is_a": false
+ },
+ "feedback-type\tmetalinguistic explanation\tno feedback control": {
+  "label": "Metalinguistic feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tmetalinguistic explanation\trecast": {
+  "label": "Metalinguistic feedback vs recasts",
+  "treatment_is_a": true
+ },
+ "feedback-type\tmetalinguistic explanation\trecasts": {
+  "label": "Metalinguistic feedback vs recasts",
+  "treatment_is_a": true
+ },
+ "feedback-type\tmetalinguistic feedback\tno-feedback control": {
+  "label": "Metalinguistic feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tmetalinguistic feedback\trecast feedback": {
+  "label": "Metalinguistic feedback vs recasts",
+  "treatment_is_a": true
+ },
+ "feedback-type\tpeer-generated feedback\tChatGPT-generated feedback": {
+  "label": "ChatGPT-generated feedback vs peer-generated feedback",
+  "treatment_is_a": false
+ },
+ "feedback-type\tpositive feedback\tnegative feedback": {
+  "label": "Positive feedback vs negative feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tprompts\tno feedback": {
+  "label": "Prompts vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tprompts\trecasts": {
+  "label": "Prompts vs recasts",
+  "treatment_is_a": true
+ },
+ "feedback-type\trecasts\tprompts": {
+  "label": "Prompts vs recasts",
+  "treatment_is_a": false
+ },
+ "feedback-type\trecasts\tprompts and explicit correction": {
+  "label": "Prompts and explicit correction vs recasts",
+  "treatment_is_a": false
+ },
+ "feedback-type\trecasts and prompts\tcontrol": {
+  "label": "Recasts and prompts vs no feedback",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tFAS support\tNo FAS support": {
+  "label": "formative-assessment support vs no formative-assessment support",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tFAS support\tno FAS support": {
+  "label": "formative-assessment support vs no formative-assessment support",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tFAS-supported internal feedback generation\tFAS-unsupported internal feedback generation": {
+  "label": "FAS-supported internal feedback generation vs FAS-unsupported internal feedback generation",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tVirtual course with formative-assessment tools\tTraditional virtual course": {
+  "label": "formative-assessment tools vs no formative-assessment tools",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tVirtual methodology with formative-assessment tools\tTraditional virtual methodology": {
+  "label": "formative-assessment tools vs no formative-assessment tools",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tdirect authentic evaluative experience\tinstructional systems without explicit provision for evaluative expertise": {
+  "label": "direct authentic evaluative experience vs no explicit provision for evaluative expertise",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tformative assessment model\tnot stated": {
+  "label": "formative-assessment model vs formative assessment not stated",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tpeer assessment-based game development\tconventional game development": {
+  "label": "peer-assessment-based game development vs conventional game development",
+  "treatment_is_a": true
+ },
+ "gamification\twell-designed game-based learning\toutsourcing cognitive efforts to an LLM": {
+  "label": "game-based learning vs LLM outsourcing",
+  "treatment_is_a": true
+ },
+ "gamification\twell-designed games\tlearning activities without game-based design": {
+  "label": "game-based learning vs non-game-based learning",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tGCLA requiring an initial solution and providing hints\tstandard ChatGPT providing direct responses": {
+  "label": "guided discovery vs direct instruction",
+  "treatment_is_a": true
+ },
+ "media-design\tannotated illustrations adjacent to corresponding text paragraphs\tunannotated illustrations on a separate page after reading": {
+  "label": "integrated annotated illustrations adjacent to text vs separated unannotated illustrations after reading",
+  "treatment_is_a": true
+ },
+ "media-design\taugmented game designs\tequivalent standard game designs": {
+  "label": "augmented game designs vs standard game designs",
+  "treatment_is_a": true
+ },
+ "media-design\tcartoon digital game\tnongame condition": {
+  "label": "cartoon digital game vs nongame condition",
+  "treatment_is_a": true
+ },
+ "media-design\tcueing/signaling\tnot stated": {
+  "label": "cueing/signaling vs no cueing/signaling",
+  "treatment_is_a": true
+ },
+ "media-design\tdigital game with irrelevant story\tnongame condition": {
+  "label": "digital game with irrelevant story vs nongame condition",
+  "treatment_is_a": true
+ },
+ "media-design\tdigital game with no story relevance\tnongame condition": {
+  "label": "digital game with no story relevance vs nongame condition",
+  "treatment_is_a": true
+ },
+ "media-design\tdigital game with relevant story\tnongame condition": {
+  "label": "digital game with relevant story vs nongame condition",
+  "treatment_is_a": true
+ },
+ "media-design\ticonic visual scaffolds\tpurely symbolic representations without icons": {
+  "label": "iconic visual scaffolds vs symbolic representations",
+  "treatment_is_a": true
+ },
+ "media-design\tillustrated text with a photograph\tillustrated text with a relevant animated diagram": {
+  "label": "relevant animated diagram vs photograph",
+  "treatment_is_a": false
+ },
+ "media-design\tillustrated text with a photograph\tplain text with a sketching prompt": {
+  "label": "sketching prompt vs photograph",
+  "treatment_is_a": false
+ },
+ "media-design\tillustrations containing annotations\tillustrations without annotations but placed close to corresponding paragraphs": {
+  "label": "annotated illustrations vs unannotated illustrations",
+  "treatment_is_a": true
+ },
+ "media-design\tillustrations containing annotations repeating verbal cause-and-effect information\tillustrations without annotations": {
+  "label": "annotated illustrations repeating verbal cause-and-effect information vs unannotated illustrations",
+  "treatment_is_a": true
+ },
+ "media-design\tillustrations incorporating annotations\tillustrations without annotations, with physical placement varied": {
+  "label": "annotated illustrations vs unannotated illustrations",
+  "treatment_is_a": true
+ },
+ "media-design\tinstructional support procedures for visual displays\tnot stated": {
+  "label": "instructional support for visual displays vs no instructional support",
+  "treatment_is_a": true
+ },
+ "media-design\tintegrated Modern-English explanatory notes\toriginal Shakespearean extract without explanatory notes": {
+  "label": "integrated explanatory notes vs no explanatory notes",
+  "treatment_is_a": true
+ },
+ "media-design\tintegrated annotated illustrations adjacent to corresponding text\tseparated unannotated illustrations shown after reading": {
+  "label": "integrated annotated illustrations adjacent to text vs separated unannotated illustrations after reading",
+  "treatment_is_a": true
+ },
+ "media-design\tintegrated annotated illustrations adjacent to corresponding text\tunannotated illustrations on a separate page after reading": {
+  "label": "integrated annotated illustrations adjacent to text vs separated unannotated illustrations after reading",
+  "treatment_is_a": true
+ },
+ "media-design\tlearning from visual displays\tnot stated": {
+  "label": "visual displays vs no visual displays",
+  "treatment_is_a": true
+ },
+ "media-design\tphotographic image condition\tsketching condition": {
+  "label": "sketching prompt vs photograph",
+  "treatment_is_a": false
+ },
+ "media-design\tphysically integrating text and pictures\tnot stated": {
+  "label": "physically integrated text and pictures vs nonintegrated or unspecified presentation",
+  "treatment_is_a": true
+ },
+ "media-design\trealistic digital game\tnongame condition": {
+  "label": "realistic digital game vs nongame condition",
+  "treatment_is_a": true
+ },
+ "media-design\treducing visual displays’ complexity\tnot stated": {
+  "label": "reduced visual-display complexity vs unspecified complexity",
+  "treatment_is_a": true
+ },
+ "media-design\tschematic digital game\tnongame condition": {
+  "label": "schematic digital game vs nongame condition",
+  "treatment_is_a": true
+ },
+ "media-design\tsix instructional conditions\tacross conditions": {
+  "label": "six instructional conditions vs across-condition comparison",
+  "treatment_is_a": true
+ },
+ "media-design\tsketching prompt\tphotograph and animation conditions": {
+  "label": "sketching prompt vs photograph or animation",
+  "treatment_is_a": true
+ },
+ "media-design\tspatial-thinking conditions\tnon-spatial-thinking conditions": {
+  "label": "spatial-thinking conditions vs non-spatial-thinking conditions",
+  "treatment_is_a": true
+ },
+ "media-design\tvisual scaffolds with iconic representations\tpurely symbolic text-based and numerical representations": {
+  "label": "iconic visual scaffolds vs symbolic text-based and numerical representations",
+  "treatment_is_a": true
+ },
+ "practice-amount\tfourth encounter with the target nonwords\tfirst encounter with the target nonwords": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore exposures to target words\tfewer exposures to target words": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tthird encounter with the target nonwords\tfirst encounter with the target nonwords": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "problem-first\tPF and VF-process combined\tVF-outcome": {
+  "label": "process-focused vs outcome-focused failure",
+  "treatment_is_a": true
+ },
+ "problem-first\tproblem solving before instruction (PF)\tobserving the complete failed problem-solving process before instruction (VF-process)": {
+  "label": "active problem solving vs observed problem-solving process",
+  "treatment_is_a": true
+ },
+ "prompts\tOptimized prompts using prompt-engineering techniques\tUnoptimized prompts": {
+  "label": "optimized prompts vs unoptimized prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tcognitive and metacognitive prompts\tno prompts": {
+  "label": "cognitive and metacognitive prompts vs no prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tcognitive prompts\tno prompts": {
+  "label": "cognitive prompts vs no prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tcombined cognitive and metacognitive prompts\tno prompts": {
+  "label": "cognitive and metacognitive prompts vs no prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tinstructionally supported journal writing with cognitive and metacognitive prompts\tunsupported journal writing": {
+  "label": "prompt-supported journal writing vs unsupported journal writing",
+  "treatment_is_a": true
+ },
+ "prompts\tinstructionally supported journal writing with prompts\tunsupported journal writing": {
+  "label": "prompt-supported journal writing vs unsupported journal writing",
+  "treatment_is_a": true
+ },
+ "prompts\tmetacognitive-first prompt sequence\tcognitive-first prompt sequence": {
+  "label": "metacognitive-first prompt sequence vs cognitive-first prompt sequence",
+  "treatment_is_a": true
+ },
+ "prompts\tmetacognitive-only prompts\tno prompts": {
+  "label": "metacognitive prompts vs no prompts",
+  "treatment_is_a": true
+ },
+ "prompts\toptimized prompts\tunoptimized prompts": {
+  "label": "optimized prompts vs unoptimized prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tpersonal utility prompt\tjournal writing without the prompt": {
+  "label": "personal utility prompt vs no prompt in journal writing",
+  "treatment_is_a": true
+ },
+ "prompts\tprompted journal writing\tunsupported journal writing": {
+  "label": "prompt-supported journal writing vs unsupported journal writing",
+  "treatment_is_a": true
+ },
+ "prompts\twriting tasks with metacognitive prompts\twriting tasks without metacognitive prompts": {
+  "label": "metacognitive prompts vs no prompts",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\trepeated testing\tprompted self-explanation": {
+  "label": "repeated testing vs prompted self-explanation",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\trepeated testing\tunsupported studying": {
+  "label": "repeated testing vs unsupported studying",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tMTurk participants\tCF participants": {
+  "label": "MTurk participants vs CF participants",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tMTurk participants\tProA participants": {
+  "label": "MTurk participants vs ProA participants",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tfinancial incentives for attendance, behavior, and other school inputs\tcontrol schools without the incentive program": {
+  "label": "Financial incentives for attendance, behavior, and other school inputs vs no such incentives",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tfinancial incentives for grades in five core courses\tno financial incentives": {
+  "label": "Financial incentives for course grades vs no financial incentives",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tfinancial incentives for student performance\tcontrol schools without incentives": {
+  "label": "Financial incentives for performance vs no financial incentives",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tfinancial reward for task performance\tno financial reward": {
+  "label": "Financial incentives for performance vs no financial incentives",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tfinancial rewards for reading books\tno financial rewards": {
+  "label": "Financial rewards for reading books vs no financial rewards",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\thigh-value intentions with larger financial rewards\tlow-value intentions with smaller financial rewards": {
+  "label": "Larger vs smaller financial rewards",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tpaid for reading books and passing comprehension quizzes\tcontrol schools without the book-reading incentive": {
+  "label": "Financial rewards for reading books and passing comprehension quizzes vs no such incentive",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tpayment for grades in five core courses\tcontrol schools without grade-performance payments": {
+  "label": "Financial incentives for course grades vs no financial incentives",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tpayment for performance on standardized tests\tcontrol schools without test-performance payments": {
+  "label": "Financial incentives for standardized-test performance vs no financial incentives",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tpayment for reading books and passing comprehension quizzes\trandomized control schools": {
+  "label": "Financial rewards for reading books and passing comprehension quizzes vs no such incentive",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tpayments for attendance, behavior, and other school inputs\trandomized control schools": {
+  "label": "Financial incentives for attendance, behavior, and other school inputs vs no such incentives",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tpayments for ninth-grade course grades\trandomized control schools": {
+  "label": "Financial incentives for course grades vs no financial incentives",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tpayments for performance on standardized assessments\trandomized control schools": {
+  "label": "Financial incentives for standardized-test performance vs no financial incentives",
+  "treatment_is_a": true
+ },
+ "scaffolding\tGenAI guidance that auto-escalates from hints to near-solutions\tproductive struggle": {
+  "label": "adaptive scaffolding vs productive struggle",
+  "treatment_is_a": true
+ },
+ "scaffolding\tandamiaje de autoeficacia\tsin andamiaje": {
+  "label": "motivational self-efficacy scaffolding vs no scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tandamiaje motivacional de autoeficacia\tsin andamiaje": {
+  "label": "motivational self-efficacy scaffolding vs no scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tcomputational motivational self-efficacy scaffold present\tscaffold absent": {
+  "label": "motivational self-efficacy scaffolding vs no scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tembedded explanatory text\toriginal Shakespeare extract without explanations": {
+  "label": "explanatory scaffolding vs no explanatory scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tenhanced scaffolding in games\tstandard game design": {
+  "label": "enhanced scaffolding vs standard game design",
+  "treatment_is_a": true
+ },
+ "scaffolding\tfailure-driven scaffolding\tsuccess-driven scaffolding": {
+  "label": "failure-driven scaffolding vs success-driven scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tfailure-driven scaffolding nudging students to generate suboptimal solutions\tsuccess-driven scaffolding nudging students to generate optimal solutions": {
+  "label": "failure-driven scaffolding vs success-driven scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tfailure-driven scaffolding nudging students to generate suboptimal solutions\tsuccess-driven scaffolding nudging students to generate optimal solutions with low-specificity heuristics": {
+  "label": "failure-driven scaffolding vs success-driven scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tformative assessment script support\tno formative assessment script support": {
+  "label": "formative assessment scripting vs no formative assessment scripting",
+  "treatment_is_a": true
+ },
+ "scaffolding\thypermedia environment with motivational self-efficacy scaffolding\tpre-scaffolding measurement": {
+  "label": "motivational self-efficacy scaffolding vs pre-scaffolding baseline",
+  "treatment_is_a": true
+ },
+ "self-explanation\tassisting self-explanation prompts\tno prompts": {
+  "label": "Assisting self-explanation prompts vs no prompts",
+  "treatment_is_a": true
+ },
+ "self-explanation\tassisting self-explanation prompts\topen self-explanation prompts": {
+  "label": "Assisting self-explanation prompts vs open self-explanation prompts",
+  "treatment_is_a": true
+ },
+ "self-explanation\texplain correct solutions after attempting problems\texplain own solutions before feedback": {
+  "label": "Explaining correct solutions after attempting vs explaining own solutions before feedback",
+  "treatment_is_a": true
+ },
+ "self-explanation\texplain correct solutions after attempting problems\tsolve problems with feedback without prompts to explain": {
+  "label": "Explaining correct solutions after attempting vs solving with feedback without explanation prompts",
+  "treatment_is_a": true
+ },
+ "self-explanation\texplain own causal predictions\tcomplete the prediction task without explaining": {
+  "label": "Explaining causal predictions vs completing the prediction task without explaining",
+  "treatment_is_a": true
+ },
+ "self-explanation\texplain own solutions before feedback\tsolve problems with feedback without prompts to explain": {
+  "label": "Explaining own solutions before feedback vs solving with feedback without explanation prompts",
+  "treatment_is_a": true
+ },
+ "self-explanation\thow-explanation prompts\twhy-explanation prompts": {
+  "label": "How-explanation prompts vs why-explanation prompts",
+  "treatment_is_a": true
+ },
+ "self-explanation\topen or assisting self-explanation prompts\tno prompts": {
+  "label": "Open or assisting self-explanation prompts vs no prompts",
+  "treatment_is_a": true
+ },
+ "self-explanation\topen self-explanation prompts\tno prompts": {
+  "label": "Open self-explanation prompts vs no prompts",
+  "treatment_is_a": true
+ },
+ "self-explanation\tprompted self-explanation\tthink aloud or prepare to explain later": {
+  "label": "Prompted self-explanation vs think-aloud or preparing to explain later",
+  "treatment_is_a": true
+ },
+ "self-explanation\tprompted self-explanation\tunguided studying for the same amount of time": {
+  "label": "Prompted self-explanation vs unguided studying for the same amount of time",
+  "treatment_is_a": true
+ },
+ "self-explanation\tprompted self-explanation\tunsupported studying": {
+  "label": "Prompted self-explanation vs unsupported studying",
+  "treatment_is_a": true
+ },
+ "self-explanation\tprompted to self-explain on a causal reasoning task\tobserved the task without prompting": {
+  "label": "Prompted self-explanation during causal reasoning vs observing without prompting",
+  "treatment_is_a": true
+ },
+ "self-explanation\tprompts focused on solution procedures\tstudying examples without generating explanations": {
+  "label": "Solution-procedure self-explanation prompts vs studying examples without generating explanations",
+  "treatment_is_a": true
+ },
+ "self-explanation\trepeated testing plus prompted self-explanation\trepeated testing alone": {
+  "label": "Repeated testing plus prompted self-explanation vs repeated testing alone",
+  "treatment_is_a": true
+ },
+ "self-explanation\tself-explained a well-written example journal entry with feedback\tdid not self-explain the example": {
+  "label": "Self-explaining a worked example with feedback vs not self-explaining it",
+  "treatment_is_a": true
+ },
+ "self-explanation\tself-explanation prompts (open or assisting)\tno prompts": {
+  "label": "Open or assisting self-explanation prompts vs no prompts",
+  "treatment_is_a": true
+ },
+ "self-explanation\twhy-explanation prompts\tnote taking": {
+  "label": "Why-explanation prompts vs note taking",
+  "treatment_is_a": true
+ },
+ "self-explanation\tworked examples with self-explanation prompts\tworked examples with instructional explanations": {
+  "label": "Worked examples with self-explanation prompts vs worked examples with instructional explanations",
+  "treatment_is_a": true
+ },
+ "simulation\thuman–GenAI collaborative interaction\tno comparison condition stated": {
+  "label": "simulation vs no simulation",
+  "treatment_is_a": true
+ },
+ "spacing\tdistributed presentation\tmassed presentation": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "spacing\tdistributed presentations\tmassed presentations": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "spacing\tdistributed repetitions\tcontiguous or massed repetitions": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "spacing\tlonger repetition lag\tshorter repetition lag": {
+  "label": "longer vs shorter gaps",
+  "treatment_is_a": true
+ },
+ "spacing\tmultiple study sessions separated in time\tmultiple study sessions massed in immediate succession": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "spacing\tmultiple study sessions spaced apart in time\tmultiple study sessions massed in immediate succession": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "spacing\tstudy sessions spaced apart in time\tstudy sessions massed in immediate succession": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "test-format\trecognition test\trecall test": {
+  "label": "recognition vs recall",
+  "treatment_is_a": true
+ },
+ "test-format\trecognition tests\trecall tests": {
+  "label": "recognition vs recall",
+  "treatment_is_a": true
+ },
+ "worked-examples\tAccessed exemplar examination answers posted on the LMS\tDid not access the posted exemplar examination answers": {
+  "label": "worked examples vs no worked examples",
+  "treatment_is_a": true
+ },
+ "worked-examples\tworked examples in text and tutor\tno worked examples": {
+  "label": "worked examples vs no worked examples",
+  "treatment_is_a": true
+ },
+ "worked-examples\tworked examples provided early\tworked examples provided after the first two lessons": {
+  "label": "early-provided vs later-provided worked examples",
+  "treatment_is_a": true
  }
 }

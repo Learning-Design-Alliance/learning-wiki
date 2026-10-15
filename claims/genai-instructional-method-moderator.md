@@ -48,3 +48,4 @@ Moderator analysis (Table 5) of instructional method: lecture-based N = 6, proje
 - [Instructional model shows a significant subgroup difference (traditional classroom g = 1.19 vs. AI teaching g = 0.69) that does not remain robust in multivariate meta-regression](instructional-model-subgroup-nonrobust.md) — related
 - [The pooled effect of self-regulated learning does not differ significantly by course type, though mathematics shows the largest descriptive effect](srl-effect-no-course-type-difference.md) — related
 - [Gen-AI has a moderate positive overall effect on students' higher-order thinking (g = 0.609) across 29 experimental and quasi-experimental studies](genai-moderate-positive-effect-hot.md) — related
+- ChatGPT's effect on higher-order thinking is moderated by course type and by ChatGPT's role, with the intelligent-tutor role showing the largest effect — related

@@ -49,3 +49,4 @@ This is the reviewer's own narrative synthesis of the four studies (Andrews 2007
 - [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — related
 - [Explicit L2 grammar instruction leads to larger learning effects than implicit instruction, as reported in the reviewed synthesis literature](explicit-l2-grammar-instruction-superior-to-implicit.md) — a narrower finding that bears on this claim
 - [Implicit learners do not outperform other learners on complex second language rules](implicit-not-superior-complex-rules.md) — related
+- [No differential effect of explicit instruction depending on the variable complexity](no-differential-explicit-instruction-effect-complexity.md) — reports the opposite

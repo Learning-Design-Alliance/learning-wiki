@@ -51,6 +51,7 @@ The article recommends that edtech teams evaluate their AI models and outputs be
 - [Benchmark AI assistants on specialized educational tasks before classroom deployment](benchmark-ai-assistants-before-classroom-deployment.md)
 - [Deploy a minimal baseline chatbot to bootstrap its own annotated evaluation corpus and improve incrementally](bootstrapping-baseline-annotated-corpus.md)
 - [Pre-deployment gate and per-epoch helpfulness rollback for vendors shipping LLM tutors to K-12 learners](educlaw-bench-deployment-gates-and-early-stopping.md)
+- [Deploy an educational chatbot to give students instant question-and-answer support outside class when teacher interaction time is limited](chatbot-out-of-class-instant-support.md)
 
 ## Examples
 -

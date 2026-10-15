@@ -65,7 +65,7 @@ Critique and revision operationalizes [Assessment for Learning](../principles/as
 
 ## Examples
 - **EL Education / Expeditionary Learning** (https://eleducation.org) — "kind, specific, helpful" critique protocols and multiple-draft "beautiful work" projects across its network schools.
-- **Calibrated Peer Review** (https://calibratedpeerreview.org) — students first critique calibration samples with known scores, then review peers, then revise their own work.
+- **[Calibrated Peer Review](calibrated_peer_review.md)** (https://calibratedpeerreview.org) — students first critique calibration samples with known scores, then review peers, then revise their own work.
 - **Studio-based art and architecture instruction** — the traditional "crit," where public critique of work-in-progress directly precedes revision.
 
 ## Key Sources

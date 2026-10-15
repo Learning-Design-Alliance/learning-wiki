@@ -18,8 +18,8 @@ sources:
     kind: review
     rigour: 2
   - id: kini-2016-2
-    resource: "https://learningpolicyinstitute.org/our-work/publications-resources/does-teaching-experience-increase-teacher-effectiveness-review-research"
-    title: "Kini, T., & Podolsky, A. (2016). Does Teaching Experience Increase Teacher Effectiveness? A Review of the Research. Learning Policy Institute. https://learningpolicyinstitute.org/our-work/publications-resources/does-teaching-experience-increase-teacher-effectiveness-review-research"
+    resource: "https://doi.org/10.54300/625.642"
+    title: "Kini, T., & Podolsky, A. (2016). Does Teaching Experience Increase Teacher Effectiveness? A Review of the Research. Learning Policy Institute. https://learningpolicyinstitute.org/our-work/publications-resources/does-teaching-experience-increase-teacher-effectiveness-review-research. [doi:10.54300/625.642](https://doi.org/10.54300/625.642)"
     author: "Kini, T., & Podolsky, A."
     q: 3
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Teaching experience is positively and significantly associated with student achievement gains throughout a teacher's career, per a review of 30 studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 review `r2` · `q3`
+> **Evidence** · 1 study (2 entries) · review `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Of 30 reviewed studies, 28 found teaching experience positively and significantly associated with teacher effectiveness. [→ Kini 2016](#kini-2016)
@@ -50,7 +50,7 @@ The review's synthesis of 30 studies since 2003 examining teaching experience an
 
 ### Kini 2016 (2)
 
-Kini, T., & Podolsky, A. (2016). Does Teaching Experience Increase Teacher Effectiveness? A Review of the Research. Learning Policy Institute. https://learningpolicyinstitute.org/our-work/publications-resources/does-teaching-experience-increase-teacher-effectiveness-review-research
+Kini, T., & Podolsky, A. (2016). Does Teaching Experience Increase Teacher Effectiveness? A Review of the Research. Learning Policy Institute. https://learningpolicyinstitute.org/our-work/publications-resources/does-teaching-experience-increase-teacher-effectiveness-review-research. [doi:10.54300/625.642](https://doi.org/10.54300/625.642)
 
 `q3 · i?` · `review · r2`
 

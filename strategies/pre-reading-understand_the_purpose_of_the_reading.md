@@ -60,7 +60,7 @@ Purpose-setting is a form of [Activation](../principles/activation.md): it prime
 - [KWL](../strategies/kwl.md) — a routinized format in which "What do I want to find out?" is the purpose step
 
 ## Examples
-- **Reciprocal Teaching (Palincsar & Brown)** — students set a purpose question before each passage segment, then summarize and clarify against it.
+- **[Reciprocal Teaching](reciprocal_teaching.md) (Palincsar & Brown)** — students set a purpose question before each passage segment, then summarize and clarify against it.
 - **[Reading Apprenticeship](https://readingapprenticeship.org/)** — disciplinary routines that open with "What is my purpose for reading this?" as part of metacognitive conversation.
 - **Case-method pre-reading (Harvard Business School)** — students receive discussion questions with a case so they read as decision-makers, not spectators.
 

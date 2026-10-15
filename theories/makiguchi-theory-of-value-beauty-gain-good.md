@@ -60,4 +60,4 @@ Soka education, formulated by Tsunesaburo Makiguchi and Josei Toda and advanced 
 - [Advance value-creating-modeled curriculum projects in Africana communities to foster ubuntu, happiness, and contributive lifestyles](../strategies/value-creating-curriculum-africana-youth.md)
 
 ## Key Sources
-- Sherman, P., & Boukydis, O. (2020). Framing Undergraduate Perspectives on Experiential Learning Within Soka Education Theory. IAFOR Journal of Education: Undergraduate Education, 8(3). https://eric.ed.gov/?id=EJ1272497
+- Sherman, P., & Boukydis, O. (2020). Framing Undergraduate Perspectives on Experiential Learning Within Soka Education Theory. IAFOR Journal of Education: Undergraduate Education, 8(3). https://eric.ed.gov/?id=EJ1272497. [doi:10.22492/ije.8.3.05](https://doi.org/10.22492/ije.8.3.05)

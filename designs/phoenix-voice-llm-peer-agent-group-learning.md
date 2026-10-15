@@ -52,4 +52,4 @@ Phoenix is a "voice-based, non-embodied conversational agent that joins real-tim
 -
 
 ## Key Sources
-- Ravi, P., Stevens, C., Hurt, B., Hanks, B., Lin, G., and Anderson, E. (2026). Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning. https://arxiv.org/abs/2606.12805
+- Ravi, P., Stevens, C., Hurt, B., Hanks, B., Lin, G., and Anderson, E. (2026). Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning. https://arxiv.org/abs/2606.12805. [doi:10.48550/arxiv.2606.12805](https://doi.org/10.48550/arxiv.2606.12805)

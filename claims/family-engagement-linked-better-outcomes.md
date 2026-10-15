@@ -51,3 +51,4 @@ The playbook asserts, citing background research, that family engagement is "con
 - [Meaningful family and community engagement is associated with reduced absenteeism, improved academic outcomes, and more positive school climates](family-community-engagement-positive-outcomes.md) — a narrower finding that bears on this claim
 - [Profiled New Mexico community schools showed improvement across attendance, graduation, achievement, climate, health access, and family engagement indicators](nm-community-schools-improved-outcomes-three-sites.md) — related
 - Redwood City family engagement participation linked to larger math gains, better attendance, and stronger sense of care — a narrower finding that bears on this claim
+- [The parental involvement–achievement relationship is stronger for global achievement indicators (e.g., GPA) than for subject-specific indicators (e.g., math grade)](involvement-stronger-with-global-achievement-indicators.md) — related

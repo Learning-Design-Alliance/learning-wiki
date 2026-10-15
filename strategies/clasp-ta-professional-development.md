@@ -46,4 +46,4 @@ Because graduate TAs lead over 90% of CLASP DL sections, the program runs a sign
 -
 
 ## Key Sources
-- Potter, W., Webb, D., West, E., Paul, C., Bowen, M., Weiss, B., Coleman, L., & De Leone, C. (2018). Sixteen years of Collaborative Learning through Active Sense-making in Physics (CLASP) at UC Davis. https://arxiv.org/abs/1205.6970
+- Potter, W., Webb, D., West, E., Paul, C., Bowen, M., Weiss, B., Coleman, L., & De Leone, C. (2018). Sixteen years of Collaborative Learning through Active Sense-making in Physics (CLASP) at UC Davis. https://arxiv.org/abs/1205.6970. [doi:10.48550/arxiv.1205.6970](https://doi.org/10.48550/arxiv.1205.6970)

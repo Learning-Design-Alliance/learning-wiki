@@ -18,8 +18,8 @@ sources:
     kind: causal
     rigour: 2
   - id: yang-2026-2
-    resource: "https://arxiv.org/abs/2609.10939"
-    title: "Yang, L., Liu, H., Li, S., Jia, R., Xiao, Y., Chen, G., & Lu, L. (2026). Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training. https://arxiv.org/abs/2609.10939"
+    resource: "https://doi.org/10.48550/arxiv.2609.10939"
+    title: "Yang, L., Liu, H., Li, S., Jia, R., Xiao, Y., Chen, G., & Lu, L. (2026). Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training. https://arxiv.org/abs/2609.10939. [doi:10.48550/arxiv.2609.10939](https://doi.org/10.48550/arxiv.2609.10939)"
     author: "Yang, L., Liu, H., Li, S., Jia, R., Xiao, Y., Chen, G., & Lu, L."
     q: 3
     i: 3
@@ -30,7 +30,7 @@ sources:
 # The largest OSCE-domain improvement from multi-agent scaffolding was in communication performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q3` · `i2`–`i3`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2`–`i3`
 
 ## Subclaims
 `q3 i2` The multi-agent group scored higher than the control group on the OSCE communication domain (3.53 vs 2.64 on a 1–5 scale), a large effect. [→ Yang 2026](#yang-2026)
@@ -50,7 +50,7 @@ OSCE domain-score analysis of the randomized exam comparison found the most pron
 
 ### Yang 2026 (2)
 
-Yang, L., Liu, H., Li, S., Jia, R., Xiao, Y., Chen, G., & Lu, L. (2026). Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training. https://arxiv.org/abs/2609.10939
+Yang, L., Liu, H., Li, S., Jia, R., Xiao, Y., Chen, G., & Lu, L. (2026). Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training. https://arxiv.org/abs/2609.10939. [doi:10.48550/arxiv.2609.10939](https://doi.org/10.48550/arxiv.2609.10939)
 
 `q3 · i3` · `causal · r2`
 

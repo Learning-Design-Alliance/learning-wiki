@@ -56,3 +56,4 @@ Study 2 thematic analysis of twelve student interviews produced Global Theme 1 f
 - [Virtual and in-person parent-to-parent forums deepened caregivers' sense of community and support](parent-to-parent-forums-community-support.md) — related
 - [Students at Oakland International High School report a strong sense of community, close relationships, and happiness at school](oakland-international-students-report-sense-of-community.md) — related
 - [Social engagement in gateway math courses builds confidence and deepens understanding, dependent on faculty fostering a supportive learning environment](social-engagement-builds-confidence-gateway-math.md) — related
+- [GAI-assisted DST creation significantly enhanced all five CPS sub-dimensions compared to traditional methods](gai-assisted-dst-improves-cps-subdimensions.md) — related

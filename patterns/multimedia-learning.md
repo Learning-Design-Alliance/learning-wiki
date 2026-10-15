@@ -24,7 +24,7 @@ sources:
 # Multimedia Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 38 claims (23 for, 15 mixed) · 32 studies (16 causal, 8 quant-synthesis, 5 review, 2 theoretical, 1 qualitative), `q1`–`q4` · 11 of 32 report an effect size · 30 claims rest on one study
+> **Evidence** · 40 claims (24 for, 16 mixed) · 33 studies (17 causal, 8 quant-synthesis, 5 review, 2 theoretical, 1 qualitative), `q1`–`q4` · 11 of 33 report an effect size · 32 claims rest on one study
 
 ## Description and scope
 
@@ -99,6 +99,8 @@ Ask for four facts when the brief omits them: **who controls the pace** (system-
 None at present. Claims linked to this page later go here until they are read against the model.
 - [Dual Language Programs Gap Closure Longitudinal](../claims/dual-language-programs-gap-closure-longitudinal.md) [+M]
 - [Pretraining before complex lessons is associated with increased learning outcomes, especially for learners with minimal prior knowledge](../claims/pretraining-improves-transfer.md) [+W]
+- [The positive effect of integrated illustrations depends on incorporating annotations (captions and labels) into the illustrations rather than on placing illustrations close to corresponding paragraphs](../claims/annotations-not-proximity-drive-illustration-benefit.md) [+W] — attached 2026-10-15 from Mayer et al. (1995), which proposed "Annotate illustrations with captions and labels that repeat the text's cause-and-effect information to foster meaningful learning from science text"; tests this page's relationship.
+- [The positive effect of integrated illustrations on transfer is stronger for students who lack experience in the text's domain (meteorology) than for high-experience students](../claims/illustration-integration-effect-stronger-for-low-experience-learners.md) [~W] — attached 2026-10-15 from Mayer et al. (1995), which proposed "Annotate illustrations with captions and labels that repeat the text's cause-and-effect information to foster meaningful learning from science text".
 
 ## Illustrative design instance and observation record
 

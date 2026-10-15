@@ -48,3 +48,6 @@ Moderator analysis (Table 5) of intervention duration across subgroups: 0–8 we
 - The review identifies a trend linking AI intervention duration to effect size: longer interventions spanning weeks or months yield larger effect sizes than shorter ones — reports the opposite
 - [Interventions lasting one to two months show the largest effect, and effects do not increase consistently with longer duration](ai-effect-duration-one-to-two-months-peak.md) — related
 - [Gen-AI has a moderate positive overall effect on students' higher-order thinking (g = 0.609) across 29 experimental and quasi-experimental studies](genai-moderate-positive-effect-hot.md) — related
+- Intervention duration is the only significant moderator of ChatGPT's effect on learning perception, with effects largest beyond 8 weeks — related
+- The effect of ChatGPT on learning performance is moderated by type of course, learning model, and duration, with problem-based learning and 4–8-week interventions showing the largest effects — related
+- [Interventions longer than one month showed the largest effect size for robot-assisted STEM learning, though duration was not a significant moderator overall](duration-over-one-month-largest-robotics-effect.md) — related

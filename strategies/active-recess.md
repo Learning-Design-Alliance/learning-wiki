@@ -65,7 +65,7 @@ Recess functions as an attention-restoration and arousal-regulation mechanism: s
 ## Examples
 - **LiiNK Project (Texas Christian University)** — implements multiple daily outdoor recesses alongside character education; published studies report improved attention and reduced disciplinary referrals (https://liinkproject.tcu.edu)
 - **Peaceful Playgrounds** — a structured recess program adding painted game markings and conflict-resolution routines to increase activity and reduce disputes (https://www.peacefulplaygrounds.com)
-- **Playworks** — a nonprofit providing trained recess coaches who facilitate inclusive games while preserving student choice (https://www.playworks.org)
+- **[Playworks](../products/playworks.md)** — a nonprofit providing trained recess coaches who facilitate inclusive games while preserving student choice (https://www.playworks.org)
 
 ## Key Sources
 - Pellegrini, A. D., & Bohn, C. M. (2005). The role of recess in children's cognitive performance and school adjustment. *Educational Researcher, 34*(1), 13-19. [doi:10.3102/0013189x034001013](https://doi.org/10.3102/0013189x034001013)

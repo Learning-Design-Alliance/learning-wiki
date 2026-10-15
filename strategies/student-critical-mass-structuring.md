@@ -49,4 +49,4 @@ A strategy for amplifying student voice in education R&D teams based on findings
 -
 
 ## Key Sources
-- Smith, K., & Young, V. M. (2024). A New Narrative: How Unlocking the Power of R&D Through Inclusive Innovation Can Transform Education. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.dspacedirect.org/items/73f2e0fa-dca8-4cd0-a8da-eb18b59453c4
+- Smith, K., & Young, V. M. (2024). A New Narrative: How Unlocking the Power of R&D Through Inclusive Innovation Can Transform Education. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.dspacedirect.org/items/73f2e0fa-dca8-4cd0-a8da-eb18b59453c4. [doi:10.51388/20.500.12265/202](https://doi.org/10.51388/20.500.12265/202)

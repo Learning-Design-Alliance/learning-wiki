@@ -49,4 +49,4 @@ A prioritization strategy in which a topic is considered persistently challengin
 -
 
 ## Key Sources
-- Parker, M. J., & Zavala-Cerna, M. G. (2025). What Don't You Understand? Using Large Language Models to Identify and Characterize Student Misconceptions About Challenging Topics. https://arxiv.org/abs/2605.00294
+- Parker, M. J., & Zavala-Cerna, M. G. (2025). What Don't You Understand? Using Large Language Models to Identify and Characterize Student Misconceptions About Challenging Topics. https://arxiv.org/abs/2605.00294. [doi:10.48550/arxiv.2605.00294](https://doi.org/10.48550/arxiv.2605.00294)

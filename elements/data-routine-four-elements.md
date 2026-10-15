@@ -56,4 +56,4 @@ The Data Routine (Penuel et al., 2023) "identifies four elements that help teach
 - [Four recommendations for deepening mathematics integration in science investigations](../strategies/four-recommendations-math-in-science.md)
 
 ## Key Sources
-- McElhaney, K. W., Hodkowski, N. M., McMahon, L. H., Jacobs, J., Penuel, W. R., Anton, G., Henson, K., Urban, R., & Parker, D. A. (2025). Promoting Mathematical Reasoning in OpenSciEd Middle School Curriculum Units. Digital Promise. https://digitalpromise.dspacedirect.org/items/4ea4b3c5-c663-4484-8727-258bff346d2d
+- McElhaney, K. W., Hodkowski, N. M., McMahon, L. H., Jacobs, J., Penuel, W. R., Anton, G., Henson, K., Urban, R., & Parker, D. A. (2025). Promoting Mathematical Reasoning in OpenSciEd Middle School Curriculum Units. Digital Promise. https://digitalpromise.dspacedirect.org/items/4ea4b3c5-c663-4484-8727-258bff346d2d. [doi:10.51388/20.500.12265/281](https://doi.org/10.51388/20.500.12265/281)

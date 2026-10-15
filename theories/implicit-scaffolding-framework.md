@@ -54,4 +54,4 @@ The implicit scaffolding framework holds that scaffolding need not be written or
 - [Energy Skate Park: Basics simulation](../products/energy-skate-park-basics-espb.md)
 
 ## Key Sources
-- Podolefsky, N. S., Moore, E. B., & Perkins, K. K. (2013). Implicit scaffolding in interactive simulations: Design strategies to support multiple educational goals. http://phet.colorado.edu/en/simulation/energy-skate-park-basics
+- Podolefsky, N. S., Moore, E. B., & Perkins, K. K. (2013). Implicit scaffolding in interactive simulations: Design strategies to support multiple educational goals. http://phet.colorado.edu/en/simulation/energy-skate-park-basics. [doi:10.48550/arxiv.1306.6544](https://doi.org/10.48550/arxiv.1306.6544)

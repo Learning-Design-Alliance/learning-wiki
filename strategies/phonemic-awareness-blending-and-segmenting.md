@@ -70,7 +70,7 @@ Blending and segmenting are the two phonemic awareness skills with the strongest
 - **Elkonin boxes** — a classic classroom routine in which learners move a counter into a box for each phoneme heard in a spoken word, making segmenting concrete.
 
 ## Key Sources
-- Ehri, L. C., Nunes, S. R., Willows, D. M., & Valeska Schuster, B. (2001). Phonemic awareness instruction helps children learn to read: Evidence from the National Reading Panel's meta-analysis. *Reading Research Quarterly, 36*(3), 250–287. [doi:10.1598/RRQ.36.3.2](https://doi.org/10.1598/RRQ.36.3.2)
+- Ehri, L. C., Nunes, S. R., Willows, D. M., Schuster, B. V., Yaghoub-Zadeh, Z., & Shanahan, T. (2001). Phonemic awareness instruction helps children learn to read: Evidence from the National Reading Panel's meta-analysis. *Reading Research Quarterly, 36*(3), 250–287. [doi:10.1598/RRQ.36.3.2](https://doi.org/10.1598/RRQ.36.3.2)
 - National Institute of Child Health and Human Development. (2000). *Report of the National Reading Panel: Teaching children to read* (NIH Publication No. 00-4769). U.S. Government Printing Office.
 - Castles, A., Rastle, K., & Nation, K. (2018). Ending the reading wars: Reading acquisition from novice to expert. *Psychological Science in the Public Interest, 19*(1), 5–51. [doi:10.1177/1529100618772271](https://doi.org/10.1177/1529100618772271)
 - Blachman, B. A. (2000). Phonological awareness. In M. L. Kamil, P. B. Mosenthal, P. D. Pearson, & R. Barr (Eds.), *Handbook of reading research* (Vol. 3, pp. 483–502). Erlbaum.

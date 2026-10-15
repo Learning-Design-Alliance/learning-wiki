@@ -56,4 +56,4 @@ Based on DLP evidence, the report recommends that school and district leaders wo
 -
 
 ## Key Sources
-- Bakhshaei, M., Hardy, A., Ravitz, J., & Seylar, J. (2019). Scaling Up Classroom Coaching for Impactful Technology Use: Results from Year 2 of the Dynamic Learning Project. Digital Promise. https://digitalpromise.dspacedirect.org/items/79337f05-0795-4bac-b1d7-f4758c23285c
+- Bakhshaei, M., Hardy, A., Ravitz, J., & Seylar, J. (2019). Scaling Up Classroom Coaching for Impactful Technology Use: Results from Year 2 of the Dynamic Learning Project. Digital Promise. https://digitalpromise.dspacedirect.org/items/79337f05-0795-4bac-b1d7-f4758c23285c. [doi:10.51388/20.500.12265/82](https://doi.org/10.51388/20.500.12265/82)

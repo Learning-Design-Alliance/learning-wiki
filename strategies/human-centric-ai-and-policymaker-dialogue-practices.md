@@ -45,6 +45,7 @@ This strategy distills the article's Notes for Practice into implementable pract
 - [Involve teachers as co-designers of AI-based intelligent systems, with agency to train, correct, interpret, and override system recommendations](teacher-co-design-human-centered-ai-systems.md)
 - [Ground AI integration in higher education on core principles of human agency, academic freedom, transparency, ethics, inclusivity, and critical thinking](core-principles-ai-integration-higher-education.md)
 - [Design AI-integrated, ethically grounded, and adaptable business education models guided by bibliometric evidence](design-ai-integrated-ethical-business-education-models.md)
+- [Integrate GPT models into LA-supported feedback systems with an iterative instructor-student validation loop to improve reliability](iterative-validation-loop-gpt-feedback-systems.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ The review reports, citing Lintner's 2024 systematic review, that no AI literacy
 - [The debt is incurred by deploying organizations but paid by users, patients, and citizens, making it an AI ethics problem](literacy-debt-incurred-deployers-paid-by-users.md) — related
 - [Algorithmic empathy is culturally fragile: emotional inference errors in socio-emotional AI can invalidate teachers' experiences, so systems require local validation and participatory design](cultural-fragility-algorithmic-empathy.md) — a narrower finding that bears on this claim
 - [Post-2024 instrument development expanded objective AI-literacy measurement, which had been dominated by self-report scales](objective-ai-literacy-measures-expanded-post-2024.md) — related
+- [Little attention has been paid to the undesirable consequences of indiscriminate AI application, including automation-driven socio-economic inequality](k12-ai-literacy-neglects-undesirable-consequences.md) — related

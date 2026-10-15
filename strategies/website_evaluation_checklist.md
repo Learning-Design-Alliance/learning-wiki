@@ -65,7 +65,7 @@ Checklists work by converting expert tacit knowledge into an external procedure,
 
 ## Examples
 - **Stanford History Education Group (SHEG) "Civic Online Reasoning" curriculum** ([https://cor.stanford.edu](https://cor.stanford.edu)) — free lessons and assessments in which students evaluate real websites, tweets, and search results; built on the lateral-reading research [Wineburg & McGrew (2019)](https://doi.org/10.1177/016146811912100103).
-- **CRAAP Test (Meriam Library, CSU Chico)** — a widely adopted checklist rubric used in library instruction sessions, typically paired with hands-on evaluation of student-selected sources.
+- **[CRAAP Test](craap-test.md) (Meriam Library, CSU Chico)** — a widely adopted checklist rubric used in library instruction sessions, typically paired with hands-on evaluation of student-selected sources.
 - **News Literacy Project — Checkology®** ([https://checkology.org](https://checkology.org)) — interactive lessons where students apply evaluation criteria to authentic social media posts and news sites.
 
 ## Key Sources

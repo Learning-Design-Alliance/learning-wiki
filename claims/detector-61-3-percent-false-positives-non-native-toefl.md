@@ -57,3 +57,5 @@ The review reports Liang et al.'s controlled benchmark of seven detectors on aut
 - [AI detectors using perplexity disproportionately misclassify non-native English writers, and the mechanism plausibly extends to other low-perplexity writers](perplexity-bias-non-native-english-writers.md) — possibly the same claim (merge candidate)
 - [Detection-centered academic integrity regimes are unreliable and potentially biased, making sole reliance on AI detectors unsuitable for high-stakes decisions](ai-detection-unreliable-biased-high-stakes.md) — a broader claim this one bears on
 - [Detection-led responses to AI in assessment face validity, fairness and trust limits](detection-limits-validity-fairness-trust.md) — a broader claim this one bears on
+- [AI-generated-text detectors are reported as ineffective against current sophisticated language models, and students can alter text to evade detection](ai-text-detectors-ineffective.md) — related
+- [Blinded review identified 68% of ChatGPT-generated abstracts as chatbot-produced while 14% of authentic abstracts were misclassified as chatbot-generated](chatgpt-abstract-detection-68-14-percent.md) — related

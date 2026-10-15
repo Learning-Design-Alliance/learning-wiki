@@ -45,3 +45,4 @@ RQ2 phase-distribution analysis of phase occurrences across the 24 articles (Fig
 ## Related Claims
 - [Research on ChatGPT-supported STEAM inquiry-based learning is unevenly distributed across disciplines, concentrated in science and mathematics](chatgpt-steam-ibl-uneven-disciplinary-distribution.md) — related
 - [ChatGPT-supported STEAM IBL research is split evenly between K-12 and higher education, but undergraduates dominate and no study examined elementary learners](chatgpt-steam-ibl-participant-gaps.md) — related
+- [Systematic review identifies five distinct general inquiry phases: Orientation, Conceptualization, Investigation, Conclusion, and Discussion](five-general-inquiry-phases-identified.md) — related

@@ -50,4 +50,4 @@ This framework characterizes student understanding and behavior as multiple loca
 -
 
 ## Key Sources
-- Frank, B. W., and Scherr, R. E. (2012). Interactional processes for stabilizing conceptual coherences in physics. Submitted to PRST-PER. https://journals.aps.org/prper/
+- Frank, B. W., and Scherr, R. E. (2012). Interactional processes for stabilizing conceptual coherences in physics. Submitted to PRST-PER. https://journals.aps.org/prper/. [doi:10.1103/physrevstper.8.020101](https://doi.org/10.1103/physrevstper.8.020101)

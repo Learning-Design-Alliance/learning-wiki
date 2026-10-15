@@ -44,9 +44,10 @@ The authors argue that fostering responsible AI usage extends beyond tool design
 - [Target calibrated trust and anxiety alongside AI literacy instruction when supporting existing generative AI users](calibrated-trust-and-anxiety-support-strategy.md)
 - [Build ethical AI integration on four coordinated levels: faculty professional development, ethics curricula, clear institutional guidelines, and interdisciplinary updating](four-level-ethical-ai-integration-strategy.md)
 - [Instructional designers use AI-ARC across analysis, design, development, and evaluation to align outcomes with responsible AI integration](ai-arc-design-heuristic-for-instructional-designers.md)
+- [Outline strategies and technological interventions to alleviate over-reliance and foster responsible use of AI dialogue systems](strategies-interventions-responsible-ai-use.md)
 
 ## Examples
 -
 
 ## Key Sources
-- Gabelmann, J., Jahn, F., Baum, K., van Rossum, S., Wuenscher, E., Gros, T. P., Wolf, V. (2026). Modularizing Educational LLM-Agency for Fostering Responsible Learning Assistance. https://arxiv.org/abs/2605.30187
+- Gabelmann, J., Jahn, F., Baum, K., van Rossum, S., Wuenscher, E., Gros, T. P., Wolf, V. (2026). Modularizing Educational LLM-Agency for Fostering Responsible Learning Assistance. https://arxiv.org/abs/2605.30187. [doi:10.48550/arxiv.2605.30187](https://doi.org/10.48550/arxiv.2605.30187)

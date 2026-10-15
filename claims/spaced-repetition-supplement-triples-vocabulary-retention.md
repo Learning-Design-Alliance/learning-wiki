@@ -50,3 +50,4 @@ A randomized controlled double-blind study in which 22 cadets were independently
 - [Lexical units brought to the 'fully learned' stage by the tutor scored significantly lower on the posttest than units students already knew before introduction](learned-units-below-previously-known-units.md) — related
 - [Posttest scores increase monotonically across the tutoring algorithm's acquisition stages, supporting its stage criteria, though control-group items did not differ from items still in active acquisition](tutoring-stage-thresholds-validated-by-posttest.md) — related
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — a broader claim this one bears on
+- [Learning benefits of Cognitive Tutor interactivity are supported to varying extents by a growing body of experimental studies](cognitive-tutor-interactivity-benefits-varying-extents.md) — related

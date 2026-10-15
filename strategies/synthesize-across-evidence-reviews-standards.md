@@ -44,4 +44,4 @@ Because reviews differ in how they assess elements such as attrition and in how 
 -
 
 ## Key Sources
-- Westbrook, T'Pring R.; Avellar, Sarah A.; Seftor, Neil. (2017). Reviewing the Reviews: Examining Similarities and Differences Between Federally Funded Evidence Reviews. Evaluation Review, vol. 41, no. 3. https://www.mathematica.org/publications/reviewing-the-reviews-examining-similarities-and-differences-between-federally-funded-evidence
+- Westbrook, T'Pring R.; Avellar, Sarah A.; Seftor, Neil. (2017). Reviewing the Reviews: Examining Similarities and Differences Between Federally Funded Evidence Reviews. Evaluation Review, vol. 41, no. 3. https://www.mathematica.org/publications/reviewing-the-reviews-examining-similarities-and-differences-between-federally-funded-evidence. [doi:10.1177/0193841x16666463](https://doi.org/10.1177/0193841x16666463)

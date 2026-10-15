@@ -50,3 +50,4 @@ Online experiment with 102 Mechanical Turk participants studying photos of eight
 - [Spacing and interleaving are subadditive: interleaving beats blocking only when presentation is contiguous, and spacing benefits blocked but not interleaved study](spacing-interleaving-subadditive-interaction.md) — related
 - [The interleaving benefit is not caused by spacing, and the benefit extends to delayed tests](interleaving-not-spacing-persists-over-delay.md) — related
 - [Learners overwhelmingly judge blocking more effective than interleaving even when their test performance favors interleaving](metacognitive-illusion-blocking-interleaving.md) — related
+- The most effective intervention types provided counterstereotypical exemplar experience, evaluative conditioning, or strategies to override biases — related

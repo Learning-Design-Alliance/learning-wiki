@@ -59,4 +59,4 @@ The report recommends service scholarships and loan forgiveness that "pay the co
 -
 
 ## Key Sources
-- Carver-Thomas, D. & Darling-Hammond, L. (2017). Teacher turnover: Why it matters and what we can do about it. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/teacher-turnover
+- Carver-Thomas, D. & Darling-Hammond, L. (2017). Teacher turnover: Why it matters and what we can do about it. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/teacher-turnover. [doi:10.54300/454.278](https://doi.org/10.54300/454.278)

@@ -33,5 +33,5 @@ A publicly released dataset and code package containing field-study student resp
 
 ## Key Sources
 - Calvin Isley, Joshua Gilbert, Evangelos Kassos, Michaela Kocher, Allen Nie, Emma Brunskill, Ben Domingue, Jake Hofman, Joscha Legewie, Teddy Svoronos, Charlotte Tuminelli, Sharad Goel. (2025). Assessing the Quality of AI-Generated Exams: A Large-Scale Field Study. https://arxiv.org/abs/2508.08314
-- Habibullah, A., Alshoibi, Y., Alshiekh, M., Khan, S., & Khan, N. (2026). Where LLM graders succeed and break: Evidence from two computer-science exams. arXiv. https://arxiv.org/abs/2609.29333
+- Habibullah, A., Alshoibi, Y., Alshiekh, M., Khan, S., & Khan, N. (2026). Where LLM graders succeed and break: Evidence from two computer-science exams. arXiv. https://arxiv.org/abs/2609.29333. [doi:10.48550/arxiv.2609.29333](https://doi.org/10.48550/arxiv.2609.29333)
 - Alona Strugatski and Giora Alexandron. (2025). Applying Item Response Theory to Distinguish Between Human and Generative AI Responses to Multiple-Choice Assessments. LAK'25 pre-print. https://arxiv.org/abs/2412.02713

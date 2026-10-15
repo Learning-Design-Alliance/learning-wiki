@@ -47,4 +47,4 @@ This strategy supplies the automated grader with the same structured guidance hu
 -
 
 ## Key Sources
-- Alonso-Carracedo, M., Fernandez-Boullon, R., Celard, P., Rodríguez-Martínez, F. J., Otero-Cerdeira, L. (2026). Automated grading of Linux/bash examinations using large language models: a four-level cognitive taxonomy approach. https://arxiv.org/abs/2607.02432
+- Alonso-Carracedo, M., Fernandez-Boullon, R., Celard, P., Rodríguez-Martínez, F. J., Otero-Cerdeira, L. (2026). Automated grading of Linux/bash examinations using large language models: a four-level cognitive taxonomy approach. https://arxiv.org/abs/2607.02432. [doi:10.48550/arxiv.2607.02432](https://doi.org/10.48550/arxiv.2607.02432)

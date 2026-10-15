@@ -66,3 +66,4 @@ Narrative summary of the Luo et al. meta-analysis of 33 preschool studies (ages 
 - [SEL programs improve social emotional skills](sel-programs-improve-social-emotional-skills.md) — related
 - [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) — related
 - The review identifies a trend linking AI intervention duration to effect size: longer interventions spanning weeks or months yield larger effect sizes than shorter ones — a narrower finding that bears on this claim
+- [Most reviewed SEL studies did not test diversity characteristics as moderators, and those that did found inconsistent moderation effects](sel-moderation-tests-rare-inconsistent.md) — related

@@ -33,4 +33,4 @@ A structural summary of how a cohort divides in each week: learners are represen
 -
 
 ## Key Sources
-- Inoue, H., & Yasutake, K. (2026). What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data. Proceedings of the 34th International Conference on Computers in Education. Asia-Pacific Society for Computers in Education. https://library.apsce.net
+- Inoue, H., & Yasutake, K. (2026). What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data. Proceedings of the 34th International Conference on Computers in Education. Asia-Pacific Society for Computers in Education. https://library.apsce.net. [doi:10.48550/arxiv.2609.27265](https://doi.org/10.48550/arxiv.2609.27265)

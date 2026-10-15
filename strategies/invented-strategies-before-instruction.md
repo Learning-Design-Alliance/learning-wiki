@@ -59,9 +59,11 @@ Struggling to generate solutions before instruction prepares learners to learn d
 5. Follow with [Practice](../elements/practice.md) on the canonical method, including problems that reward comparing it with invented alternatives.
 
 ## Related Strategies
+
 - [Productive Failure](productive-failure.md) — the most researched formalization of this strategy (Kapur)
 - [Contrasting Cases](contrasting-cases.md) — a variant where learners compare prepared cases rather than inventing solutions
 - [Worked Examples First](worked-examples-first.md) — the complementary approach; evidence suggests the two trade off depending on learner expertise and target outcome
+- [Use examples of another student's complete failed problem-solving process prior to instruction as an implementable alternative to productive failure](observe-complete-failure-process-before-instruction.md)
 
 ## Examples
 - **Productive Failure in Singapore mathematics classrooms** (Kapur's research program): students invent methods for statistics or average-speed problems before formal teaching; invention-phase performance is worse, but post-test conceptual understanding and transfer are better. See [https://www.nie.edu.sg](https://www.nie.edu.sg) for the research program.

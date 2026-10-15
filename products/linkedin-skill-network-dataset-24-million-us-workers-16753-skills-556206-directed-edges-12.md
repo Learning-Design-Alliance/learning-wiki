@@ -28,4 +28,4 @@ A Carpanelli et al. dataset linking self-reported LinkedIn skills for approximat
 -
 
 ## Key Sources
-- Carpanelli, M., Duszynski, J. & Stephany, F. (2026). Navigating the skill diversity frontier: How skill complexity explains worker resilience. Working paper, Oxford Internet Institute. https://oii.ox.ac.uk
+- Carpanelli, M., Duszynski, J. & Stephany, F. (2026). Navigating the skill diversity frontier: How skill complexity explains worker resilience. Working paper, Oxford Internet Institute. https://oii.ox.ac.uk. [doi:10.48550/arxiv.2608.02102](https://doi.org/10.48550/arxiv.2608.02102)

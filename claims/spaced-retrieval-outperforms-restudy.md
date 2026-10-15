@@ -63,3 +63,4 @@ Meta-analysis of 29 studies on spaced retrieval practice, split into two subsets
 - [Retrieval practice and spaced retrieval improve achievement and retention by medium amounts, while interleaving helps category learning only for some materials and blocking beats it for words](desirable-difficulties-enhance-learning.md) — related
 - [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — related
 - [Spacing content over time and interweaving different content strengthens learning and retention](spacing-interleaving-improve-retention.md) — related
+- [Performance on final tests of learning is improved when multiple study sessions are spaced apart in time rather than massed in immediate succession](spacing-improves-final-test-performance.md) — related

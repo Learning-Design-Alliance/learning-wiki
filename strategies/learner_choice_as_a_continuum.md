@@ -66,7 +66,7 @@ Choice supports motivation primarily by satisfying the basic psychological need 
 
 ## Examples
 - **Elementary literacy menus**: students choose from teacher-designed reading response options, then graduate to proposing their own response formats — a classic application of [Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md).
-- **Genius Hour / 20% Time** (e.g., Google's original model, adapted in schools worldwide): learners select a self-generated challenge and pursue it across a term with milestone conferences.
+- **[Genius Hour / 20% Time](genius_hour_20_time.md)** (e.g., Google's original model, adapted in schools worldwide): learners select a self-generated challenge and pursue it across a term with milestone conferences.
 - **Big Picture Learning** (https://www.bigpicture.org): students design personalized learning plans around their interests, including internship-based "Learning Through Interests" projects — the entrepreneurial end of the continuum.
 - **Higher education**: contract grading and student-selected assessment weightings (e.g., choosing among exam, portfolio, or project weightings within limits) as co-design of assessment.
 

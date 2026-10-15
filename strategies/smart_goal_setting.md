@@ -68,7 +68,7 @@ Goal-setting research shows that performance gains come primarily from **specifi
 - [Check-Ins](../principles/check-ins.md) — the monitoring routine that keeps measurable criteria alive
 
 ## Examples
-- **Writing workshop**: a student sets "revise my persuasive essay to score 4/5 on the evidence rubric by Friday," checks progress against the rubric in a mid-week conference, and adjusts the sub-goal after the first draft review.
+- **[Writing workshop](writing_workshop.md)**: a student sets "revise my persuasive essay to score 4/5 on the evidence rubric by Friday," checks progress against the rubric in a mid-week conference, and adjusts the sub-goal after the first draft review.
 - **Fitness/learning apps**: [Duolingo](https://www.duolingo.com) daily XP goals and streaks are system-generated SMART-style goals — specific, measurable, time-bound — though users can recalibrate difficulty.
 - **Project-based learning (e.g., [PBLWorks](https://www.pblworks.org) gold-standard PBL)**: teams set milestone goals with defined deliverables and dates at project launch, revisited at scrum-style checkpoints.
 

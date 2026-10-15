@@ -48,3 +48,4 @@ Consultation with 14 experienced online supervisors (from 23 invited across 16 P
 - [Implementation of the TPI procedure reached only one tutor-trainee pair out of nine potential tutors, though participants assessed it positively](tpi-implementation-low-participation-positive-assessment.md) — related
 - Staff qualifications, ideology, and self-sufficiency were the major determinants of success in surveyed youth-serving institutions — related
 - [The reviewed corpus mostly targets introductory learners in short-term studies, with supervision level structurally tied to deployment context](corpus-introductory-short-term-supervision-environment-association.md) — related
+- Institutional and supervisor support are associated with adaptive motivation among final-year master's thesis students — related

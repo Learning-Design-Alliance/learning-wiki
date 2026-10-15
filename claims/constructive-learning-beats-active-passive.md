@@ -114,3 +114,5 @@ Open questions include how much scaffolding converts a failing constructive atte
 - [The ICAP hypothesis predicts that learning increases as engagement moves from passive to active to constructive to interactive (I>C>A>P)](icap-hypothesis-learning-increases-i-cap.md) — possibly the same claim (merge candidate)
 - [Active participation in interaction matters for second language developmental outcomes](active-participation-in-interaction-drives-development.md) — a narrower finding that bears on this claim
 - Adding prediction and discussion to lecture demonstrations significantly improves students' ability to explain the outcomes compared with merely observing — a narrower finding that bears on this claim
+- [Self-explanation beats unguided studying for equal time, but instructional explanations, problem solving and retrieval practice can be equally or more effective](instructional-explanations-sometimes-equal-or-better-than-self-explanation.md) — related
+- [Passive instructional events such as texts do not explicitly prompt students to produce written or spoken output](passive-instruction-no-production-prompt.md) — a narrower finding that bears on this claim

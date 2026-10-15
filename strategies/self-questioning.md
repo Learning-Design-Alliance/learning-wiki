@@ -62,7 +62,7 @@ Self questioning works because answering a question requires retrieval and elabo
 - [Annotating](../principles/annotating.md) — questions written in margins are a common annotation form serving the same monitoring function
 
 ## Examples
-- **Reciprocal Teaching** (Palincsar & Brown) — small groups take turns generating questions about a passage, alongside summarizing, clarifying, and predicting; a validated routine for struggling readers.
+- **[Reciprocal Teaching](reciprocal_teaching.md)** (Palincsar & Brown) — small groups take turns generating questions about a passage, alongside summarizing, clarifying, and predicting; a validated routine for struggling readers.
 - **Peer question generation** — students write exam questions for classmates on a course forum (e.g., a Piazza thread per week); the instructor curates the best for review sessions.
 - **Embedded video questions** — platforms like [Edpuzzle](https://edpuzzle.com) insert instructor questions at timestamps in video, which learners can be asked to extend with their own questions before submission.
 

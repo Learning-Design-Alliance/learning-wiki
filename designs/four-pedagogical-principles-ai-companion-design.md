@@ -51,4 +51,4 @@ Building on the Higher Education Learning Framework, the paper derives four prin
 -
 
 ## Key Sources
-- Khosravi, H., Gašević, D., Sadiq, S., Yan, L., Lodge, J. M., Tangen, J. M., Denny, P., DiCerbo, K., Buckingham Shum, S., & Baker, R. S. (2026). Building AI Companions that Prioritise Learning over Performance. https://arxiv.org/abs/2605.04816
+- Khosravi, H., Gašević, D., Sadiq, S., Yan, L., Lodge, J. M., Tangen, J. M., Denny, P., DiCerbo, K., Buckingham Shum, S., & Baker, R. S. (2026). Building AI Companions that Prioritise Learning over Performance. https://arxiv.org/abs/2605.04816. [doi:10.48550/arxiv.2605.04816](https://doi.org/10.48550/arxiv.2605.04816)

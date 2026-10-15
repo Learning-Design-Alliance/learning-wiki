@@ -68,7 +68,7 @@ Reflection discussions work because verbalizing reasoning forces the reorganizat
 - [Require students to arrive with their own reasoning, expose it to AI challenge, and account for what changed](require-own-reasoning-expose-to-challenge-account-for-change.md)
 
 ## Examples
-- **Reciprocal Teaching (Palincsar & Brown)** — small groups take turns leading discussion of a text, articulating predicting, questioning, clarifying, and summarizing moves; the discussion makes comprehension strategies visible and reflective.
+- **[Reciprocal Teaching](reciprocal_teaching.md) (Palincsar & Brown)** — small groups take turns leading discussion of a text, articulating predicting, questioning, clarifying, and summarizing moves; the discussion makes comprehension strategies visible and reflective.
 - **Project-based science debriefs (e.g., [KIE/WISE](https://wise.berkeley.edu))** — after inquiry activities, structured prompts ask students to explain and critique their reasoning before revising their work.
 - **Clinical supervision conferences in teacher education** — post-lesson discussions between student teacher and mentor that follow a structured protocol (what did you intend, what happened, what will you change), a mature example of reflection-guiding discussion.
 

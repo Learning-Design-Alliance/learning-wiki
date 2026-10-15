@@ -95,11 +95,11 @@ SRL instruction works best when strategy teaching is embedded in authentic subje
 - [Formative Feedback](formative-feedback.md) — external feedback calibrates the internal monitoring SRL depends on
 
 ## Examples
-- **Reciprocal Teaching (Palincsar & Brown)** — small groups rotate the roles of summarizer, questioner, clarifier, and predictor while reading; the teacher models then fades, transferring regulation to students over ~20 sessions.
+- **[Reciprocal Teaching](reciprocal_teaching.md) (Palincsar & Brown)** — small groups rotate the roles of summarizer, questioner, clarifier, and predictor while reading; the teacher models then fades, transferring regulation to students over ~20 sessions.
 - **Zimmerman's cyclical self-regulation training in writing** — students set process goals, draft with strategy prompts, then self-record and evaluate performance against exemplars across successive essays.
 - **[Khan Academy](https://www.khanacademy.org)** — mastery dashboards make progress data visible, cueing learners to plan which skill to attempt next and self-evaluate before moving on; the platform externalizes the monitoring phase.
 - **First-year seminar programs** (e.g., many university learning-to-learn courses) that embed strategy instruction within actual course content rather than as standalone study-skills workshops — the embedded format is what distinguishes effective from ineffective versions.
-- **Reciprocal Teaching (Palincsar & Brown)** — small-group reading instruction modeling predicting, questioning, clarifying, and summarizing, with the teacher's role fading to student leaders; large comprehension gains in struggling readers.
+- **[Reciprocal Teaching](reciprocal_teaching.md) (Palincsar & Brown)** — small-group reading instruction modeling predicting, questioning, clarifying, and summarizing, with the teacher's role fading to student leaders; large comprehension gains in struggling readers.
 - **Zimmerman & Campillo's self-regulation cycle in math problem solving** — students taught to set subgoals, monitor progress against worked models, and attribute failure to strategy choice rather than ability.
 - **[Khan Academy](https://www.khanacademy.org)** — mastery dashboards prompt learners to set weekly goals and monitor their own progress, an embedded (if light-touch) SRL scaffold.
 - **AVID (Advancement Via Individual Determination)** — a college-readiness program embedding SRL strategy instruction (note-taking, goal setting, tutorial inquiry) across secondary coursework.

@@ -50,3 +50,4 @@ Thematic synthesis of the reviewed studies (Section 4.1). The review reports tha
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
 - [Adaptive learning systems report academic performance gains of 15–25% and engagement increases of up to 40%](adaptive-learning-gains-15-25-percent.md) — a narrower finding that bears on this claim
+- [AI chatbots enable flexible personalized learning by adapting teaching strategies to individual student needs](chatbot-flexible-personalized-learning.md) — related

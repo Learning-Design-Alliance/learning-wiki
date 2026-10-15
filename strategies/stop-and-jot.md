@@ -89,8 +89,8 @@ Stop and Jot converts passive listening into intermittent [Active Learning](../p
 ## Examples
 - **Elementary literacy blocks** — teachers place a stop box in guided-reading notes; students jot a prediction or inference at chapter breaks, then discuss with a partner (Jot-Pair-Share).
 - **Large lecture courses** — instructor pauses twice per lecture with a slide prompt; students respond in a shared Google Doc the instructor scans live to decide whether to reteach.
-- **Professional development** — facilitators use Quick Jots between segments so participants record one implication of each concept for their own context before moving on.
-- **Reading workshop (Fountas & Pinnell guided reading)** — students stop at sticky-note markers in a shared text to jot predictions and inferences before discussing.
+- **[Professional development](../patterns/professional-development.md)** — facilitators use Quick Jots between segments so participants record one implication of each concept for their own context before moving on.
+- **[Reading workshop](reading-workshop.md) (Fountas & Pinnell guided reading)** — students stop at sticky-note markers in a shared text to jot predictions and inferences before discussing.
 - **[Edpuzzle](https://edpuzzle.com)** — embeds open-ended questions at timestamps in video lessons, forcing a written response before playback continues.
 - **Lucy Calkins' Units of Study** — mid-lesson "jot" moments where students record a teaching point in their notebooks before independent writing.
 

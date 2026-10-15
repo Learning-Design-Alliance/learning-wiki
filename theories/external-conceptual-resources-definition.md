@@ -47,4 +47,4 @@ The article defines external conceptual resources as "frameworks, tools, and con
 - [Design professional development, curricular tools, and analytic frameworks to support productive recruitment of external conceptual resources](../strategies/design-for-productive-recruitment-of-external-resources.md)
 
 ## Key Sources
-- Ehrenfeld, N., McGugan, K. S., Marshall, S. A., & Garner, B. (2020). Reconciling local contexts and external conceptual resources in mathematics teachers' collaborative sensemaking. In Mathematics Education Across Cultures: Proceedings of the 42nd Meeting of the North American Chapter of PME-NA.
+- Ehrenfeld, N., McGugan, K. S., Marshall, S. A., & Garner, B. (2020). Reconciling local contexts and external conceptual resources in mathematics teachers' collaborative sensemaking. In Mathematics Education Across Cultures: Proceedings of the 42nd Meeting of the North American Chapter of PME-NA. [doi:10.51272/pmena.42.2020-295](https://doi.org/10.51272/pmena.42.2020-295)

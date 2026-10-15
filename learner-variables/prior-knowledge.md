@@ -12,7 +12,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 82 claims (48 for, 26 mixed, 8 against) · 73 studies (22 causal, 17 review, 9 associational, 9 theoretical, 6 quant-synthesis, 6 qualitative, 4 design), `q1`–`q4` · 9 of 73 report an effect size · 72 claims rest on one study
+> **Evidence** · 94 claims (54 for, 30 mixed, 10 against) · 82 studies (25 causal, 18 review, 13 theoretical, 9 associational, 7 qualitative, 6 quant-synthesis, 4 design), `q1`–`q4` · 10 of 82 report an effect size · 84 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -125,6 +125,18 @@ A learner's existing domain knowledge in the subject area before instruction beg
 - [Segmentation of dynamic visualizations shows an expertise reversal effect: students with lower prior knowledge benefit, while students with higher prior knowledge learn equally well with or without segmentation](../claims/segmentation-expertise-reversal-dynamic-visualizations.md) [~M] — an instructional effect differs with it
 - [Students' expertise on the task may be an important prerequisite for accurate self-assessment](../claims/task-expertise-prerequisite-ssa-accuracy.md) [+M] — learners who differ on it differ in outcomes
 - [The positive relationship between kindergarten entrance age and achievement primarily reflects skill accumulation prior to kindergarten rather than heightened in-school learning ability](../claims/entrance-age-advantage-reflects-prior-skill-accumulation.md) [+M] — learners who differ on it differ in outcomes
+- [Adaptive fading of worked examples based on current skill level produced better learning outcomes than fixed fading or tutored problem solving](../claims/adaptive-fading-worked-examples-benefits.md) [+M] — an instructional effect differs with it
+- [Embedded explanatory notes improved Shakespearean text comprehension for novice readers but reversed for experts](../claims/expertise-reversal-shakespearean-explanatory-notes.md) [~M] — an instructional effect differs with it
+- [Iconic visual scaffolds in chemistry visualizations helped low-prior-knowledge high-school students but not higher-prior-knowledge ones, with the effect eliminated for younger middle-school children](../claims/expertise-reversal-iconic-scaffolds-development.md) [~M] — an instructional effect differs with it
+- [Incidental vocabulary learning through viewing TV was affected by frequency of occurrence, prior vocabulary knowledge, and cognateness](../claims/viewing-vocabulary-learning-affected-by-frequency-prior-knowledge-cognateness.md) [+M] — learners who differ on it differ in outcomes
+- [Instructional systems that do not explicitly develop evaluative expertise set up artificial but potentially removable performance ceilings](../claims/missing-evaluative-expertise-creates-performance-ceilings.md) [-W] — instruction changes it
+- [Intervention effects of SRI did not differ by student background or ability variables](../claims/sri-no-differential-effects-background-ability.md) [-M] — an instructional effect differs with it
+- [Non-expert students exhibit intuitive behaviors towards LLM-based AI systems when prompt engineering](../claims/student-intuitive-prompting-behaviors.md) [+M] — learners who differ on it differ in outcomes
+- [Novices and experts committed similar total error numbers but different error types in computer work](../claims/novice-expert-error-type-differences.md) [~M] — learners who differ on it differ in outcomes
+- [Optimizing prompts can vastly improve the accuracy of LLM outputs, but critical evaluation of the resulting outputs still requires domain expertise.](../claims/prompt-optimization-improves-accuracy-expertise-still-needed.md) [+W] — learners who differ on it differ in outcomes
+- [Prior knowledge moderated the VF-process advantage over PF: the benefit of observing the process grew with prior knowledge, while prior knowledge did not affect post-test performance in the PF condition](../claims/prior-knowledge-moderates-vf-process-vs-pf.md) [~M] — an instructional effect differs with it
+- [The expertise reversal effect relies on changes in relative levels of element interactivity due to changes in relative levels of expertise](../claims/expertise-reversal-changes-from-expertise-levels.md) [+W] — an instructional effect differs with it
+- [The relative effectiveness of instructional methods reverses as levels of learner knowledge in a domain change (the expertise reversal effect)](../claims/expertise-reversal-effect-definition.md) [+M] — an instructional effect differs with it
 
 ## Related Learner Variables
 - Working memory capacity — interacts with prior knowledge: high prior knowledge compensates for limited working memory by enabling chunking.

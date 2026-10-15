@@ -11,8 +11,8 @@ generated:
   at: 2026-10-02
 sources:
   - id: sturgill-2014
-    resource: "https://scholar.google.com/scholar?q=Methods+of+Reflection+about+Service+Learning"
-    title: "Sturgill, A., & Motley, P. (2014). Methods of Reflection about Service Learning: Guided vs. Free, Dialogic vs. Expressive, and Public vs. Private. Teaching & Learning Inquiry, 2(1), 81-93. https://scholar.google.com/scholar?q=Methods+of+Reflection+about+Service+Learning"
+    resource: "https://doi.org/10.20343/teachlearninqu.2.1.81"
+    title: "Sturgill, A., & Motley, P. (2014). Methods of Reflection about Service Learning: Guided vs. Free, Dialogic vs. Expressive, and Public vs. Private. Teaching & Learning Inquiry, 2(1), 81-93. https://doi.org/10.20343/teachlearninqu.2.1.81"
     author: "Sturgill, A., & Motley, P"
   - id: barrett-2005
     resource: "http://google.electronicportfolios.com/reflect/whitepaper.pdf"
@@ -180,7 +180,7 @@ Better reflections, higher course exams, changed practice, and delayed or transf
 ## Key Sources
 - Schon, D. A. (1983). *The reflective practitioner*. Basic Books.
 - Boud, D., Keogh, R., & Walker, D. (Eds.). (1985). *Reflection: Turning experience into learning*. Kogan Page.
-- Sturgill, A., & Motley, P. (2014). Methods of Reflection about Service Learning: Guided vs. Free, Dialogic vs. Expressive, and Public vs. Private. Teaching & Learning Inquiry, 2(1), 81-93. https://scholar.google.com/scholar?q=Methods+of+Reflection+about+Service+Learning. [doi:10.20343/teachlearninqu.2.1.81](https://doi.org/10.20343/teachlearninqu.2.1.81)
+- Sturgill, A., & Motley, P. (2014). Methods of Reflection about Service Learning: Guided vs. Free, Dialogic vs. Expressive, and Public vs. Private. Teaching & Learning Inquiry, 2(1), 81-93. https://doi.org/10.20343/teachlearninqu.2.1.81. [doi:10.20343/teachlearninqu.2.1.81](https://doi.org/10.20343/teachlearninqu.2.1.81)
 - Barrett, H. (2005). Researching electronic portfolios and learner engagement. Retrieved from [http://google.electronicportfolios.com/reflect/whitepaper.pdf](http://google.electronicportfolios.com/reflect/whitepaper.pdf)
 - Brown, J. O. (2002). Know thyself: The impact of portfolio development on adult learning. *Adult Education Quarterly, 52*(3), 228-245. [https://doi.org/10.1177/0741713602052003005](https://doi.org/10.1177/0741713602052003005)
 - Sage, M., & Sele, P. (2015). Reflective journaling as a flipped classroom technique to increase reading and participation with social work students. *Journal of Social Work Education, 51*(4), 668-681. [https://doi.org/10.1080/10437797.2015.1076274](https://doi.org/10.1080/10437797.2015.1076274)
@@ -413,7 +413,7 @@ The article recommends structuring written reflection with instructor prompts ra
 - [Reflective Journaling](../strategies/reflective-journals.md)
 
 ## Key Sources
-- Sturgill, A., & Motley, P. (2014). Methods of Reflection about Service Learning: Guided vs. Free, Dialogic vs. Expressive, and Public vs. Private. Teaching & Learning Inquiry, 2(1), 81-93. https://scholar.google.com/scholar?q=Methods+of+Reflection+about+Service+Learning. [doi:10.20343/teachlearninqu.2.1.81](https://doi.org/10.20343/teachlearninqu.2.1.81)
+- Sturgill, A., & Motley, P. (2014). Methods of Reflection about Service Learning: Guided vs. Free, Dialogic vs. Expressive, and Public vs. Private. Teaching & Learning Inquiry, 2(1), 81-93. https://doi.org/10.20343/teachlearninqu.2.1.81. [doi:10.20343/teachlearninqu.2.1.81](https://doi.org/10.20343/teachlearninqu.2.1.81)
 -->
 
 <!-- merged 2026-10-15 from principles/purposeful-reflection ("Purposeful Reflection"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.

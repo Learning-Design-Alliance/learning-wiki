@@ -69,7 +69,7 @@ Prompts work by triggering self-explanation and strategy evaluation at moments w
 - [Train learners in sycophancy-specific critical prompting strategies that remove personal assumptions, request critical evaluation, and ask for supporting evidence](sycophancy-specific-critical-prompting-strategies.md)
 
 ## Examples
-- **Reciprocal Teaching (Palincsar & Brown)** — small-group reading sessions in which students rotate through structured roles (questioning, clarifying, summarizing, predicting), each functioning as a scripted metacognitive prompt that is gradually faded.
+- **[Reciprocal Teaching](reciprocal_teaching.md) (Palincsar & Brown)** — small-group reading sessions in which students rotate through structured roles (questioning, clarifying, summarizing, predicting), each functioning as a scripted metacognitive prompt that is gradually faded.
 - **Problem-solving rubrics with reflection rows (e.g., in [POGIL](https://pogil.org) process-oriented guided inquiry activities)** — worksheets end with questions such as "What was the key idea your group used?" that require strategy articulation, not just answers.
 - **Portfolio reflection in medical education** — clinical trainees write structured post-case reflections ("What did I miss? What will I look for next time?") reviewed by a preceptor, connecting self-monitoring to [Coaching](../elements/coaching.md).
 

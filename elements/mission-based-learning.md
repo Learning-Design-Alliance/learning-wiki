@@ -73,7 +73,7 @@ Mission-based learning drives engagement by giving learners a compelling goal wh
 
 - **[Goal-Based Scenarios](../patterns/goal-based-scenarios.md)** — Schank's design pattern: learners take on a role (e.g., journalist, diagnostician) and must accomplish a mission, with failure treated as diagnostic feedback rather than penalty.
 - **[Jasper Woodbury Problem Solving Project](https://peabody.vanderbilt.edu/departments/teachingandlearning/research/jasper_project.php)** — Vanderbilt's video-based adventure series in which students plan rescue missions requiring integrated mathematics and science reasoning.
-- **Duolingo** — gamified missions (daily goals, streaks, unit challenges) that structure language practice as bounded, goal-oriented challenges.
+- **[Duolingo](../products/duolingo.md)** — gamified missions (daily goals, streaks, unit challenges) that structure language practice as bounded, goal-oriented challenges.
 - **Sales/business simulations (e.g., [Capsim](https://www.capsim.com), Harvard Business Publishing simulations)** — learners run a company or negotiate a deal under constraints, with market outcomes serving as mission feedback.
 - [Cognitive performance training embedded in operational scenarios under fatigue](../strategies/cognitive-training-embedded-operational-scenarios.md)
 

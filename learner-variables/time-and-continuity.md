@@ -12,7 +12,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 85 claims (58 for, 21 mixed, 6 against) · 79 studies (27 causal, 17 associational, 15 review, 9 quant-synthesis, 5 design, 4 qualitative, 2 theoretical), `q1`–`q4` · 16 of 79 report an effect size · 82 claims rest on one study
+> **Evidence** · 88 claims (60 for, 22 mixed, 6 against) · 82 studies (30 causal, 17 associational, 15 review, 9 quant-synthesis, 5 design, 4 qualitative, 2 theoretical), `q1`–`q4` · 16 of 82 report an effect size · 85 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -142,6 +142,9 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Schools implementing MTSS with higher fidelity show less absenteeism](../claims/mtss-fidelity-lower-absenteeism.md) [+M] — instruction changes it
 - [Spacing and interleaving are subadditive: interleaving beats blocking only when presentation is contiguous, and spacing benefits blocked but not interleaved study](../claims/spacing-interleaving-subadditive-interaction.md) [~M] — an instructional effect differs with it
 - [When exemplars are already interleaved, larger temporal spacing between same-category exemplars yields better inductive learning than smaller spacing](../claims/larger-spacing-better-interleaved-induction.md) [+M] — an instructional effect differs with it
+- [Chatbot-based instruction enhanced secondary students' learning experience by enabling self-paced study with less stress, time savings, and maintained motivation](../claims/chatbot-enhances-learning-experience-self-paced.md) [+M] — instruction changes it
+- [In continuous recognition memory, the lag function is inverted U-shaped after a short retention interval and monotonically increasing after a long retention interval](../claims/spacing-lag-function-shape-depends-on-cue-bias-and-retention-interval.md) [~M] — learners who differ on it differ in outcomes
+- [Low-guidance set-ups took longer than high-guidance set-ups in the CVS instruction sessions](../claims/low-guidance-longer-time-on-task.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 - Self-regulation — a learner who cannot pace themselves needs the schedule imposed.

@@ -47,4 +47,4 @@ This strategy replaces conventional single-coder reliability checking with colla
 -
 
 ## Key Sources
-- Anderson, R., Guerreiro, M., & Smith, J. (2016). Are all biases bad? Collaborative grounded theory in developmental evaluation of education policy. Journal of Multidisciplinary Evaluation 12(27), 44-57. https://www.nwea.org/research/publication/are-all-biases-bad-collaborative-grounded-theory-in-developmental-evaluation-of-education-policy/
+- Anderson, R., Guerreiro, M., & Smith, J. (2016). Are all biases bad? Collaborative grounded theory in developmental evaluation of education policy. Journal of Multidisciplinary Evaluation 12(27), 44-57. https://www.nwea.org/research/publication/are-all-biases-bad-collaborative-grounded-theory-in-developmental-evaluation-of-education-policy/. [doi:10.56645/jmde.v12i27.449](https://doi.org/10.56645/jmde.v12i27.449)

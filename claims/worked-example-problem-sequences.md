@@ -123,3 +123,4 @@ Do not conflate example→problem pairs with completion problems: the latter omi
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — the underlying theory explaining when example-based sequencing loses its benefit.
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
 - [Alternating example-practice pairs produce faster and more accurate near-transfer solutions than blocked presentation of examples followed by practice](alternating-example-problem-pairs.md) — related
+- [The relative effectiveness of instructional methods reverses as levels of learner knowledge in a domain change (the expertise reversal effect)](expertise-reversal-effect-definition.md) — related

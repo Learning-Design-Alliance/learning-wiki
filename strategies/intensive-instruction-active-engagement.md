@@ -63,7 +63,7 @@ Time on task only pays off when it is *active* and *focused*: passive seat time 
 
 ## Examples
 - **National Institute for Direct Instruction (DI) programs** (e.g., *Reading Mastery*, https://www.nifdi.org) — rapid-paced choral and individual responding every few seconds, with in-program review distributed across lessons.
-- **Peer Instruction (Eric Mazur, Harvard)** — students answer concept questions, discuss with peers, and re-answer, converting lecture time into intensive engagement (https://www.per-central.org).
+- **[Peer Instruction](../patterns/peer-instruction.md) (Eric Mazur, Harvard)** — students answer concept questions, discuss with peers, and re-answer, converting lecture time into intensive engagement (https://www.per-central.org).
 - **Khan Academy** (https://www.khanacademy.org) — short video exposure followed immediately by high-volume practice exercises with hints and mastery tracking, operationalizing the exposure-then-respond cycle.
 
 ## Key Sources

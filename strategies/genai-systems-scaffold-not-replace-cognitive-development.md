@@ -50,4 +50,4 @@ The article's design implications section recommends that GenAI-assisted learnin
 -
 
 ## Key Sources
-- Bergh, C., Tag, B., Vassar, A., & Renzella, J. (2026). Your Programming Students'Cognition with ChatGPT: Higher Performance, Lower Retention, and Reduced Ownership. https://arxiv.org/abs/2609.21194
+- Bergh, C., Tag, B., Vassar, A., & Renzella, J. (2026). Your Programming Students'Cognition with ChatGPT: Higher Performance, Lower Retention, and Reduced Ownership. https://arxiv.org/abs/2609.21194. [doi:10.48550/arxiv.2609.21194](https://doi.org/10.48550/arxiv.2609.21194)

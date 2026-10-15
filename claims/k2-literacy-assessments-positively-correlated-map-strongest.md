@@ -18,8 +18,8 @@ sources:
     kind: associational
     rigour: 2
   - id: allensworth-2026-2
-    resource: "https://consortium.uchicago.edu/publications/combining-early-grade-assessments-to-study-literacy-skills"
-    title: "Allensworth, E., Gordon, A. & Young, C. (2026). Combining early grade assessments to study literacy skills: Addressing the variability in tests taken across schools and students. Journal of Research on Educational Effectiveness, 19(1), 1-26. https://consortium.uchicago.edu/publications/combining-early-grade-assessments-to-study-literacy-skills"
+    resource: "https://doi.org/10.1080/19345747.2026.2636957"
+    title: "Allensworth, E., Gordon, A. & Young, C. (2026). Combining early grade assessments to study literacy skills: Addressing the variability in tests taken across schools and students. Journal of Research on Educational Effectiveness, 19(1), 1-26. https://consortium.uchicago.edu/publications/combining-early-grade-assessments-to-study-literacy-skills. [doi:10.1080/19345747.2026.2636957](https://doi.org/10.1080/19345747.2026.2636957)"
     author: "Allensworth, E., Gordon, A. & Young, C."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # K-2 literacy assessments are positively correlated, with MAP showing the strongest correlations with the other assessments
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` All K-2 ELA assessments are positively correlated, surpassing 0.50, and many surpass 0.70. [→ Allensworth 2026](#allensworth-2026)
@@ -50,7 +50,7 @@ Correlational analysis of K-2 assessment records from Chicago Public Schools (20
 
 ### Allensworth 2026 (2)
 
-Allensworth, E., Gordon, A. & Young, C. (2026). Combining early grade assessments to study literacy skills: Addressing the variability in tests taken across schools and students. Journal of Research on Educational Effectiveness, 19(1), 1-26. https://consortium.uchicago.edu/publications/combining-early-grade-assessments-to-study-literacy-skills
+Allensworth, E., Gordon, A. & Young, C. (2026). Combining early grade assessments to study literacy skills: Addressing the variability in tests taken across schools and students. Journal of Research on Educational Effectiveness, 19(1), 1-26. https://consortium.uchicago.edu/publications/combining-early-grade-assessments-to-study-literacy-skills. [doi:10.1080/19345747.2026.2636957](https://doi.org/10.1080/19345747.2026.2636957)
 
 `q2 · i?` · `associational · r2`
 

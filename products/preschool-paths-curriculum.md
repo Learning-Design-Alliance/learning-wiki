@@ -18,7 +18,7 @@ sources:
 # Preschool PATHS® Curriculum
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 3 studies (1 causal, 1 quant-synthesis, 1 review), `q3`–`q4` · 2 of 3 report an effect size
+> **Evidence** · 3 claims (3 for) · 4 studies (2 causal, 1 quant-synthesis, 1 review), `q3`–`q4` · 2 of 4 report an effect size · 2 claims rest on one study
 
 ## Description
 A social-emotional learning curriculum used within the REDI programme to develop preschoolers’ self-regulation, self-awareness, social problem-solving, and emotional control.
@@ -29,14 +29,16 @@ A social-emotional learning curriculum used within the REDI programme to develop
 
 ### Claims
 - [Social-emotional learning benefits persist at follow-up](../claims/sel-benefits-persist-follow-up.md) [+M]
+- [Preschool PATHS increases emotion knowledge and parent- and teacher-rated social competence in Head Start children](../claims/paths-preschool-improves-emotion-knowledge-social-competence.md) [+M]
+- [Teachers rated PATHS intervention children as less socially withdrawn than controls at year end](../claims/paths-preschool-reduces-social-withdrawal-teacher-rated.md) [+M]
 
 ## Related Products and Programmes
 -
 
 ## Key Sources
 - REDI (Research Based, Developmentally Informed). (2024). Program description page, Evidence Rating: promising. https://evidenceforessa.org/program/redi-research-based-developmentally-informed/
-
 <!-- merged 2026-10-10 from elements/preschool-paths-curriculum-sel-self-regulation ("Preschool PATHS Curriculum promoting self-regulation and emotional control"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Domitrovich, C. E., Cortes, R. C., & Greenberg, M. T. (2007). Improving Young Children's Social and Emotional Competence: A Randomized Trial of the Preschool "PATHS" Curriculum. Journal of Primary Prevention, 28, 67–91. https://doi.org/10.1007/s10935-007-0081-0
 
 # Preschool PATHS Curriculum promoting self-regulation and emotional control
 

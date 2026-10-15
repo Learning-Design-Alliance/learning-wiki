@@ -49,4 +49,4 @@ The article closes with a four-part research agenda for the experiential dimensi
 -
 
 ## Key Sources
-- Beau, M., & Lazar, M. (2025). From AI Intuition to AI Literacy: A Dual Framework for K-12 Education. International School of Boston. https://resources.finalsite.net/images/v1760105856/isboston/njqucrdzeyxvmtjr4cla/WhitePaper_AI_October2025.pdf
+- Beau, M., & Lazar, M. (2025). From AI Intuition to AI Literacy: A Dual Framework for K-12 Education. International School of Boston. https://resources.finalsite.net/images/v1760105856/isboston/njqucrdzeyxvmtjr4cla/WhitePaper_AI_October2025.pdf. [doi:10.35542/osf.io/6uhj2_v1](https://doi.org/10.35542/osf.io/6uhj2_v1)

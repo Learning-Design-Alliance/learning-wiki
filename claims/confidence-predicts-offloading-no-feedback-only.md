@@ -49,3 +49,6 @@ Non-pre-registered linear regression analyses in Experiment 1 predicting actual 
 - [Individuals systematically overuse reminders relative to the optimal offloading level, and reminder bias correlates with confidence and metacognitive bias](reminder-bias-overuse-external-aids.md) — a broader claim this one bears on
 - [In Experiment 1, participants in both groups were significantly biased towards excessive reminder use relative to the optimal strategy](excessive-reminder-bias-both-groups-exp1.md) — related
 - [Metacognitive evaluations of effort and performance, rather than objective performance, drive spontaneous offloading](subjective-expectations-drive-offloading.md) — a broader claim this one bears on
+- [Older adults show reduced reminder bias relative to objective need despite setting more reminders](ageing-reminder-bias-reduced.md) — related
+- [Effort avoidance contributes to reminder overuse beyond metacognitive error](effort-avoidance-reminder-bias.md) — related
+- [Metacognitive confidence triggers intention offloading independently of objective memory need](metacognition-triggers-offloading.md) — a broader claim this one bears on

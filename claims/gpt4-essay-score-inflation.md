@@ -50,3 +50,4 @@ The review reports, citing Manning et al. (2025), automated essay scoring experi
 - [Automated judging aligns strongly with three domain experts (r = 0.82 for role fidelity) but exhibits a conservative bias, scoring ethical deviation 0.08 points lower than humans](automated-judge-human-alignment-conservative-bias.md) — related
 - [Transformer-based NLP models achieve automated essay scoring with correlations to human grading exceeding 0.85](bert-essay-scoring-correlation-085.md) — related
 - [Systematic underestimation of human scores is the dominant bias trend across LLM essay scoring, with some models also compressing scores into a narrow range](llm-essay-scoring-systematic-underestimation.md) — reports the opposite
+- [Automated essay scoring can achieve high agreement with human raters but faces calibration constraints](aes-high-agreement-calibration-constraint.md) — reports the opposite

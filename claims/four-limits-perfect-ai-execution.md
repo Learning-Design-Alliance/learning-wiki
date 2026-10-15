@@ -70,3 +70,4 @@ Theoretical argument on the safety/legitimacy distinction. The article holds tha
 - Transparency about AI involvement appeared to function as an instructional intervention, shifting student reflection from feedback quality toward authority, trust, and assessment legitimacy — a narrower finding that bears on this claim
 - [Source provenance labels functioned as a seal of authority: 11 of 12 participants failed to detect a planted source-card mismatch](provenance-paradox-uncritical-trust.md) — a narrower finding that bears on this claim
 - [Oral assessments are recommended as a strategy to maintain academic integrity against AI use](oral-assessments-academic-integrity-ai.md) — related
+- [Generative AI platforms cannot yet independently lead meaningful innovation; at best they augment human intelligence for innovation](generative-ai-augments-not-leads-innovation.md) — related

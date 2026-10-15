@@ -70,7 +70,7 @@ The technique draws on the broader finding that proactive, low-intensity behavio
 - [Check-In](../elements/check-in.md) — verifying attention was actually secured
 
 ## Examples
-- **Responsive Classroom** (https://www.responsiveclassroom.org) — teaches silent signals as part of proactive routine-setting in elementary classrooms; teachers co-create attention-getters with students during the first six weeks of school.
+- **[Responsive Classroom](../products/responsive-classroom.md)** (https://www.responsiveclassroom.org) — teaches silent signals as part of proactive routine-setting in elementary classrooms; teachers co-create attention-getters with students during the first six weeks of school.
 - **A raised-hand "signal and wait" routine**: teacher raises a hand and continues teaching; students seeing it raise their own hands and go silent, creating a visible wave of quiet across the room without a single spoken word.
 - **Co-created class signal**: a middle school science class votes on a "laser fingers" gesture during week one; because students chose it, they police each other's response to it, reducing teacher effort.
 

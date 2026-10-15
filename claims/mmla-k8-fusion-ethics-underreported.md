@@ -48,3 +48,4 @@ The review's synthesis of the 14 studies found that most did not explicitly addr
 - [Students raised four categories of concern about potential misuse of MMLA data: judgment, privacy, career impact, and academic integrity](mmla-data-misuse-concerns-four-themes.md) — related
 - [Most students preferred opt-out over opt-in consent for low-risk MMLA research, but many did not fully read the explanatory statement](opt-out-consent-preferred-mmla.md) — related
 - [Students held misconceptions about how MMLA data was collected and processed, and most relied on guesswork when explaining the analysis pipeline](mmla-transparency-misconceptions-guesswork.md) — related
+- [Most reviews reporting neurophysiological AI use stressed the need for further ethical considerations, including participant consent and transparent development](neurophysiological-ai-ethics-consent-transparency.md) — related

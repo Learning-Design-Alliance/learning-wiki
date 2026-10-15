@@ -66,7 +66,7 @@ Vocabulary knowledge is incremental and relational: learners acquire word meanin
 ## Examples
 - **Bringing Words to Life (Beck, McKeown, & Kucan)** — Tier Two vocabulary routines including word relationships and "word wizards" activities that gradients extend; gradients appear widely in the companion *Robust Vocabulary Instruction* materials.
 - **ReadWriteThink (NCTE/IRA)** — publishes a "Semantic Gradients" classroom lesson plan (https://www.readwritethink.org) using word continua with intermediate-grade readers.
-- **Text Talk (Beck & McKeown)** — read-aloud vocabulary program where teachers scaffold context-based inference of rich words during story discussion.
+- **[Text Talk](text-talk.md) (Beck & McKeown)** — read-aloud vocabulary program where teachers scaffold context-based inference of rich words during story discussion.
 
 ## Key Sources
 - Beck, I. L., McKeown, M. G., & Kucan, L. (2013). *Bringing Words to Life: Robust Vocabulary Instruction* (2nd ed.). Guilford Press.

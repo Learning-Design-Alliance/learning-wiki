@@ -65,7 +65,7 @@ Classroom PBIS treats behavior as a learnable skill set rather than a trait, app
 
 ## Examples
 - **[PBIS Technical Guide](https://www.pbis.org)** — the national PBIS implementation center; provides classroom matrix templates, CICO materials, and fidelity measures (Self-Assessment Survey, TFI).
-- **Check-In/Check-Out (CICO)** — a widely studied Tier 2 package: a morning check-in with a mentor, a daily point card rating expectations each period, and an end-of-day check-out with take-home feedback.
+- **[Check-In/Check-Out](check-incheck-out.md) (CICO)** — a widely studied Tier 2 package: a morning check-in with a mentor, a daily point card rating expectations each period, and an end-of-day check-out with take-home feedback.
 - **ClassDojo** — a digital points platform used in many PBIS classrooms; effective when points are private and paired with specific feedback, counterproductive as a public leaderboard.
 
 ## Key Sources

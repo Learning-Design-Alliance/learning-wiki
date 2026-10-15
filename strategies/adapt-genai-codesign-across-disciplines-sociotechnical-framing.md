@@ -50,4 +50,4 @@ The authors offer a forward-looking design recommendation for instructors adapti
 -
 
 ## Key Sources
-- Hingle, A., & Johri, A. (2025). A Guided Inquiry Approach to Students Co-Designing Generative AI Course Policies. https://www.google.com/search?q=A+Guided+Inquiry+Approach+to+Students+Co-Designing+Generative+AI+Course+Policies
+- Hingle, A., & Johri, A. (2025). A Guided Inquiry Approach to Students Co-Designing Generative AI Course Policies. https://www.google.com/search?q=A+Guided+Inquiry+Approach+to+Students+Co-Designing+Generative+AI+Course+Policies. [doi:10.1108/aiie-05-2025-0123](https://doi.org/10.1108/aiie-05-2025-0123)

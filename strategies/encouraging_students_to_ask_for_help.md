@@ -76,7 +76,7 @@ Help-seeking is a core self-regulatory behavior: students who seek help adaptive
 
 ## Examples
 - **Khan Academy (https://www.khanacademy.org)** — hint sequences in exercises are deliberately ordered from general to specific, an attempt to keep help instrumental; research on such systems shows learners often under-use or abuse hints, motivating explicit help-seeking training.
-- **ASSISTments (https://www.assistments.org)** — logs student help requests as data, allowing teachers to see who is struggling silently and who is over-requesting.
+- **[ASSISTments](../products/assistments.md) (https://www.assistments.org)** — logs student help requests as data, allowing teachers to see who is struggling silently and who is over-requesting.
 - **Elementary "ask three before me" routines** — peer-first protocols that distribute help-giving and lower the cost of approaching the teacher.
 - **College supplemental instruction (SI) sessions** — regularly scheduled peer-led help structures that normalize attendance rather than framing it as remediation.
 

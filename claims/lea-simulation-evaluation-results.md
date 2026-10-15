@@ -18,8 +18,8 @@ sources:
     kind: design
     rigour: 2
   - id: rumble-2026-2
-    resource: "https://arxiv.org/abs/2607.13370"
-    title: "Rumble, T., Zarrin, J., Lovell, P. G., Falconer, R. (2026). Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System. arXiv. https://arxiv.org/abs/2607.13370"
+    resource: "https://doi.org/10.48550/arxiv.2607.13370"
+    title: "Rumble, T., Zarrin, J., Lovell, P. G., Falconer, R. (2026). Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System. arXiv. https://arxiv.org/abs/2607.13370. [doi:10.48550/arxiv.2607.13370](https://doi.org/10.48550/arxiv.2607.13370)"
     author: Rumble, T., Zarrin, J., Lovell, P. G., Falconer, R.
     q: 1
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # In simulation, LEA met or exceeded targets in Chat and Tutor modes while Quiz Mode's KC Alignment Score fell below target
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q1`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Chat Mode achieved 100% retrieval success and M=0.880 generated answer quality, both exceeding target. [→ Rumble 2026](#rumble-2026)
@@ -50,7 +50,7 @@ Simulation-based testing with synthetic learner agents across 14,143 interaction
 
 ### Rumble 2026 (2)
 
-Rumble, T., Zarrin, J., Lovell, P. G., Falconer, R. (2026). Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System. arXiv. https://arxiv.org/abs/2607.13370
+Rumble, T., Zarrin, J., Lovell, P. G., Falconer, R. (2026). Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System. arXiv. https://arxiv.org/abs/2607.13370. [doi:10.48550/arxiv.2607.13370](https://doi.org/10.48550/arxiv.2607.13370)
 
 `q1 · i?` · `design · r2`
 

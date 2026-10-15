@@ -67,12 +67,12 @@ Spacing produces substantially better long-term retention than massed study of t
 
 ## Examples
 - **Anki** (https://apps.ankiweb.net) — open-source spaced-repetition system using the SM-2 expanding-interval algorithm; widely used in medical education for high-volume factual learning.
-- **Duolingo** (https://www.duolingo.com) — schedules review of previously learned vocabulary and grammar based on learner performance and predicted forgetting.
-- ***Everyday Mathematics*** (https://everydaymath.uchicago.edu) — elementary mathematics curriculum built on distributed practice and cumulative review across units.
+- **[Duolingo](../products/duolingo.md)** (https://www.duolingo.com) — schedules review of previously learned vocabulary and grammar based on learner performance and predicted forgetting.
+- ***[Everyday Mathematics](../products/everyday-mathematics.md)*** (https://everydaymath.uchicago.edu) — elementary mathematics curriculum built on distributed practice and cumulative review across units.
 - **Kang (2016)** — classroom study in which eighth-grade students' quiz questions were spaced across lessons, improving final-exam performance on spaced material.
 
 ## Key Sources
 - Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. *Psychological Bulletin, 132*(3), 354–380. [doi:10.1037/0033-2909.132.3.354](https://doi.org/10.1037/0033-2909.132.3.354)
 - Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques. *Psychological Science in the Public Interest, 14*(1), 4–58. [doi:10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266)
 - Kang, S. H. K. (2016). Spaced repetition promotes efficient and effective learning: Policy implications of innovations in teaching and learning. *Policy Insights from the Behavioral and Brain Sciences, 3*(1), 12-19. [doi:10.1177/2372732215624708](https://doi.org/10.1177/2372732215624708)
-- Rohrer, D., & Taylor, K. (2006). The effects of overlearning and distributed practice on the retention of mathematics knowledge. *Applied Cognitive Psychology, 20*(9), 1209–1224. [doi:10.1002/acp.1266](https://doi.org/10.1002/acp.1266)
+- Rohrer, D., & Taylor, K. (2006). The effects of overlearning and distributed practise on the retention of mathematics knowledge. *Applied Cognitive Psychology, 20*(9), 1209–1224. [doi:10.1002/acp.1266](https://doi.org/10.1002/acp.1266)

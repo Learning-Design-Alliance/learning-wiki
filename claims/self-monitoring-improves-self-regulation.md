@@ -79,3 +79,4 @@ Self-monitoring is not mere self-report. It is strongest when learners have expl
 - [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) — related
 - Strategy-control in interactive instruction divides into four tactic categories: survey, learning, evaluation, and review — related
 - [AI feedback supports or undermines self-regulated practice depending on whether it supports or substitutes for internal monitoring](ai-feedback-support-or-dependence-self-regulation.md) — related
+- [Self-monitoring of work quality requires three student capacities: appreciation of high quality, evaluative skill, and a store of modification tactics](three-capacities-for-evaluative-self-monitoring.md) — a narrower finding that bears on this claim

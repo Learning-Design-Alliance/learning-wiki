@@ -54,3 +54,5 @@ Descriptive temporal analysis of the 42 included studies (Results, RQ1). The rev
 - AI-WTC research in EFL contexts has expanded rapidly since 2021, concentrated in Asia and on generative AI chatbots — a narrower finding that bears on this claim
 - Research on generative AI-powered agentic AI in education expanded rapidly from 2025 onward, with 58.6% of the 474 reviewed studies published in 2025 — related
 - Publication output on metacognition in STEM education increased steadily since 2005, with notable growth after 2015 — related
+- [AIEd higher education publications rose nearly two to three times in 2021 and 2022 compared with previous years](ai-ed-he-publications-rose-2021-2022.md) — related
+- [The K-12 AI literacy literature grew slowly until 2016 and increased sharply in 2020, with most contributions published as conference papers](k12-ai-literacy-bibliometric-growth.md) — related

@@ -43,6 +43,7 @@ The article recommends that instead of offering direct answers or evaluation out
 - [Question-based eLearning Design](question-based_elearning_design.md)
 - [Questioning Techniques](questioning-techniques.md)
 - [Guided Inquiry](guided_inquiry.md)
+- [Combine GAI tools with traditional methods in a hybrid approach to balance efficient collaboration and critical evaluation](hybrid-gai-traditional-dst-approach.md)
 
 ## Examples
 -

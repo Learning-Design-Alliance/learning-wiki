@@ -66,7 +66,7 @@ Fishbowl makes discussion itself an object of study: observers learn discourse a
 - [Think-Pair-Share](../patterns/think-pair-share.md) — a lower-stakes precursor that builds the rehearsal fishbowl requires
 
 ## Examples
-- **Facing History and Ourselves** — publishes fishbowl protocols for discussing historical dilemmas and identity issues, with observer role sheets (https://www.facinghistory.org).
+- **[Facing History and Ourselves](../products/facing-history-and-ourselves.md)** — publishes fishbowl protocols for discussing historical dilemmas and identity issues, with observer role sheets (https://www.facinghistory.org).
 - **AP and IB literature classrooms** — fishbowl seminars on contested interpretations of a novel, with observers tracking which claims are textually grounded.
 - **Ethics and medical education** — inner group debates a clinical case while observers evaluate ethical reasoning moves, then rotate.
 

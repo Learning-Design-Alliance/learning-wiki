@@ -9,8 +9,8 @@ generated:
   at: 2026-10-08
 sources:
   - id: kuhfeld-2020
-    resource: "https://www.nwea.org/research/publication/projecting-the-potential-impacts-of-covid-19-school-closures-on-academic-achievement/"
-    title: "Kuhfeld, M., Soland, J., Tarasawa, B., Johnson, A., Ruzek, E., & Liu, J. (2020). Projecting the potential impacts of COVID-19 school closures on academic achievement. NWEA Research working paper. https://www.nwea.org/research/publication/projecting-the-potential-impacts-of-covid-19-school-closures-on-academic-achievement/"
+    resource: "https://doi.org/10.3102/0013189X20965918"
+    title: "Kuhfeld, M., Soland, J., Tarasawa, B., Johnson, A., Ruzek, E., & Liu, J. (2020). Projecting the potential impact of COVID-19 school closures on academic achievement. *Educational Researcher, 49*(8), 549–565. https://doi.org/10.3102/0013189X20965918"
     author: "Kuhfeld, M., Soland, J., Tarasawa, B., Johnson, A., Ruzek, E., & Liu, J"
 ---
 
@@ -48,4 +48,4 @@ The paper recommends that in preparing for fall 2020, "educators will likely nee
 -
 
 ## Key Sources
-- Kuhfeld, M., Soland, J., Tarasawa, B., Johnson, A., Ruzek, E., & Liu, J. (2020). Projecting the potential impacts of COVID-19 school closures on academic achievement. NWEA Research working paper. https://www.nwea.org/research/publication/projecting-the-potential-impacts-of-covid-19-school-closures-on-academic-achievement/
+- Kuhfeld, M., Soland, J., Tarasawa, B., Johnson, A., Ruzek, E., & Liu, J. (2020). Projecting the potential impact of COVID-19 school closures on academic achievement. *Educational Researcher, 49*(8), 549–565. https://doi.org/10.3102/0013189X20965918

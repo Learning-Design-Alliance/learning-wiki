@@ -1,0 +1,46 @@
+---
+type: claim
+title: ChatGPT produced more descriptive feedback than peers on argumentative essays
+description: ChatGPT produced more descriptive feedback than peers on argumentative essays
+id: chatgpt-more-descriptive-feedback-than-peers
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-15
+evidence_strength: moderate
+sources:
+  - id: banihashem-2024
+    resource: "https://doi.org/10.1186/s41239-024-00455-4"
+    title: "Banihashem, S. K., Taghizadeh Kerman, N., Noroozi, O., Moon, J., & Drachsler, H. (2024). Feedback sources in essay writing: peer-generated or AI-generated feedback? International Journal of Educational Technology in Higher Education. https://doi.org/10.1186/s41239-024-00455-4"
+    author: "Banihashem, S. K., Taghizadeh Kerman, N., Noroozi, O., Moon, J., & Drachsler, H."
+    q: 2
+    i: 1
+    kind: causal
+    rigour: 1
+---
+
+# ChatGPT produced more descriptive feedback than peers on argumentative essays
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q2` · `i1` small
+
+## Subclaims
+`q2 i1` ChatGPT feedback scored higher than peer feedback on the description component of feedback quality. [→ Banihashem 2024](#banihashem-2024)
+
+## Evidence
+
+### Banihashem 2024
+
+Banihashem, S. K., Taghizadeh Kerman, N., Noroozi, O., Moon, J., & Drachsler, H. (2024). Feedback sources in essay writing: peer-generated or AI-generated feedback? International Journal of Educational Technology in Higher Education. https://doi.org/10.1186/s41239-024-00455-4
+
+`q2 · i1` · `causal · r1`
+
+MANCOVA result for the description component of the feedback coding scheme (Table 1): peer mean 1.91 (SD 0.29) versus ChatGPT mean 2.00 (SD 0.00), F (1, 146) = 3.25, p < 0.05, η2 = 0.03, a small effect. The article notes ChatGPT "tended to produce more extensive descriptive feedback".
+
+> "Cognitive Description Peer feedback 1.91 0.29 F (1, 146) = 3.25, p < 0.05*, η2 = 0.03"
+
+## Discussion
+
+
+## Related Claims
+-

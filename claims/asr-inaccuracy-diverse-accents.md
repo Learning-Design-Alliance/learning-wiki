@@ -18,8 +18,8 @@ sources:
     kind: qualitative
     rigour: 2
   - id: stephenson-2025-2
-    resource: "https://digitalpromise.dspacedirect.org/items/73c883c0-4652-499d-aeb2-74f773749c60"
-    title: "Stephenson, S. P., Leones, T., Kamdar, D., Prado, Y., & Ddamulira, J. (2025). A National Context of Generative AI for Reading to Support English Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/73c883c0-4652-499d-aeb2-74f773749c60"
+    resource: "https://doi.org/10.51388/20.500.12265/258"
+    title: "Stephenson, S. P., Leones, T., Kamdar, D., Prado, Y., & Ddamulira, J. (2025). A National Context of Generative AI for Reading to Support English Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/73c883c0-4652-499d-aeb2-74f773749c60. [doi:10.51388/20.500.12265/258](https://doi.org/10.51388/20.500.12265/258)"
     author: "Stephenson, S. P., Leones, T., Kamdar, D., Prado, Y., & Ddamulira, J."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Educators report ASR features can be inaccurate for learners' diverse accents, dialects, and speech patterns
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 qualitative `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Educators noted that automatic speech recognition may misrecognize learners' accents, dialects, or speech patterns, reducing tool effectiveness. [→ Stephenson 2025](#stephenson-2025)
@@ -50,7 +50,7 @@ In the qualitative interviews, "a few educators also noted drawbacks" to ASR, re
 
 ### Stephenson 2025 (2)
 
-Stephenson, S. P., Leones, T., Kamdar, D., Prado, Y., & Ddamulira, J. (2025). A National Context of Generative AI for Reading to Support English Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/73c883c0-4652-499d-aeb2-74f773749c60
+Stephenson, S. P., Leones, T., Kamdar, D., Prado, Y., & Ddamulira, J. (2025). A National Context of Generative AI for Reading to Support English Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/73c883c0-4652-499d-aeb2-74f773749c60. [doi:10.51388/20.500.12265/258](https://doi.org/10.51388/20.500.12265/258)
 
 `q2 · i?` · `qualitative · r2`
 
@@ -68,3 +68,4 @@ Participants described ASR benefits, including "a safe space to practice speakin
 - [Educators identify real-time translation, dialect handling, and speech recognition as potentially transformative for multilingual learners and students with disabilities, but current speech tools fail on accents and dialects](ai-multilingual-disability-speech-tool-gaps.md) — possibly the same claim (merge candidate)
 - [Automated speech recognition tutoring supports early reading in three areas: word identification, attention to meaning, and motivation](asr-tutoring-supports-word-identification-attention-motivation.md) — related
 - [Measurable vocal outputs do not by themselves carry fixed pedagogical meaning; their significance depends on interpretation in context](vocal-metrics-lack-fixed-pedagogical-meaning.md) — related
+- [Students recommended ChatGPT to peers and suggested improvements to accent recognition, visual aids, and response time](students-recommend-chatgpt-suggest-improvements.md) — related

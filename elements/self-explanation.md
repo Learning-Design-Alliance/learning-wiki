@@ -18,7 +18,7 @@ sources:
 # Self-Explanation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 5 studies (2 causal, 2 quant-synthesis, 1 associational), `q2`–`q4` · 1 of 5 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 6 studies (3 causal, 2 quant-synthesis, 1 associational), `q2`–`q4` · 1 of 6 report an effect size · 3 claims rest on one study
 
 ## Description
 Self-explanation is the element in which learners explain to themselves why something is true, why a step works, or how a solution fits the problem. It is useful when the goal is to deepen understanding beyond surface completion.
@@ -44,6 +44,7 @@ Self-explanation is the element in which learners explain to themselves why some
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]
 - [Self-explanation prompting is potentially effective across a range of instructional conditions](../claims/self-explanation-effective-across-instructional-conditions.md) [+W]
 - [Faded steps were hypothesized to trigger specific self-explanation activities, tested via think-aloud protocols in Experiment 2](../claims/faded-steps-hypothesized-trigger-self-explanations.md) [~W]
+- [Both open and assisting self-explanation prompts foster procedural knowledge when learning with multiple representations, an effect mediated by self-explanations directed to domain principles](../claims/self-explanation-prompts-foster-procedural-knowledge.md) [+W] — attached 2026-10-15 from Berthold et al. (2009), which proposed "Multi-representational worked-out examples on probability theory with self-explanation prompts"; tests this page's relationship.
 
 ## Related Elements
 - [Articulation](articulation.md)

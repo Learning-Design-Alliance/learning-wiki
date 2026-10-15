@@ -51,4 +51,4 @@ The article organizes its learning goals into three interrelated categories. Pro
 - [Use backward design: define process, attitudinal, and content goals before designing the inquiry activity](../principles/backward-design-goals-first-inquiry.md)
 
 ## Key Sources
-- Rafelski, M., Foley, M., Graves, G. J., Kretke, K. A., Mills, E., Nassir, M., & Patel, S. (2010). Teaching Astronomy with an Inquiry Activity on Stellar Populations. ASP Conference Series. https://arxiv.org/abs/1009.5404
+- Rafelski, M., Foley, M., Graves, G. J., Kretke, K. A., Mills, E., Nassir, M., & Patel, S. (2010). Teaching Astronomy with an Inquiry Activity on Stellar Populations. ASP Conference Series. https://arxiv.org/abs/1009.5404. [doi:10.48550/arxiv.1009.5404](https://doi.org/10.48550/arxiv.1009.5404)

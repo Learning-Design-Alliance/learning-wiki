@@ -18,8 +18,8 @@ sources:
     kind: qualitative
     rigour: 3
   - id: ahlquist-2020-2
-    resource: "https://journals.ku.dk/jmr"
-    title: "Ahlquist, E.-M. T., & Gynther, P. (2020). Teaching in the Montessori Classroom: Investigating Variation Theory and Embodiment as a Foundation of Teachers' Development. Journal of Montessori Research, 6(1). https://journals.ku.dk/jmr"
+    resource: "https://doi.org/10.17161/jomr.v6i1.12051"
+    title: "Ahlquist, E.-M. T., & Gynther, P. (2020). Teaching in the Montessori Classroom: Investigating Variation Theory and Embodiment as a Foundation of Teachers' Development. Journal of Montessori Research, 6(1). https://journals.ku.dk/jmr. [doi:10.17161/jomr.v6i1.12051](https://doi.org/10.17161/jomr.v6i1.12051)"
     author: "Ahlquist, E.-M. T., & Gynther, P."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # After formative intervention, the teacher's presentations shifted from instruction-only moves to including generative, confirming, reconstructing, and reorienting moves
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 qualitative `r3` · `q2`
+> **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In the first observed presentation the teacher used only instructional moves, with no reconstructing, reorienting, or generative moves. [→ Ahlquist 2020](#ahlquist-2020)
@@ -50,7 +50,7 @@ Observation of the teacher's initial polygon presentation to 14 children, docume
 
 ### Ahlquist 2020 (2)
 
-Ahlquist, E.-M. T., & Gynther, P. (2020). Teaching in the Montessori Classroom: Investigating Variation Theory and Embodiment as a Foundation of Teachers' Development. Journal of Montessori Research, 6(1). https://journals.ku.dk/jmr
+Ahlquist, E.-M. T., & Gynther, P. (2020). Teaching in the Montessori Classroom: Investigating Variation Theory and Embodiment as a Foundation of Teachers' Development. Journal of Montessori Research, 6(1). https://journals.ku.dk/jmr. [doi:10.17161/jomr.v6i1.12051](https://doi.org/10.17161/jomr.v6i1.12051)
 
 `q2 · i?` · `qualitative · r3`
 

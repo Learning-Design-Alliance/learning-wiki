@@ -49,3 +49,4 @@ Trial-level logistic mixed-effects model with participant and task random interc
 - [Reflection improves correspondence between perceived and behavioral reliance on ChatGPT](reflection-improves-awareness-calibration.md) — related
 - [Reflection produced selective rather than blanket rejection of AI: alignment with correct advice stayed high while alignment with incorrect advice dropped](reflection-selective-not-blanket-ai-rejection.md) — related
 - [Students frequently accepted misleading AI recommendations (overreliance) while rarely rejecting correct ones (underreliance)](overreliance-frequent-underreliance-rare.md) — related
+- [Explaining one's own potentially incorrect ideas can reduce learning, while explaining known-correct content supports it](explaining-own-incorrect-ideas-reduces-learning.md) — related

@@ -118,12 +118,12 @@ Pre-teaching reduces the extraneous cognitive load of decoding unfamiliar words 
 
 ## Examples
 - **[Bringing Words to Life](https://www.guilford.com/books/Bringing-Words-to-Life/Beck-McKeown-Kucan/9781462508167)** — Beck, McKeown, and Kucan's robust-vocabulary instruction framework, the standard reference for selecting Tier Two words and designing engaging introductions.
-- **Text Talk (Beck & McKeown)** — a published read-aloud routine that introduces sophisticated vocabulary from children's literature with repeated, decontextualized word study after initial exposure.
+- **[Text Talk](text-talk.md) (Beck & McKeown)** — a published read-aloud routine that introduces sophisticated vocabulary from children's literature with repeated, decontextualized word study after initial exposure.
 - **[Reading Rockets](https://www.readingrockets.org)** — practitioner-facing guidance and video examples of pre-teaching vocabulary routines in elementary classrooms.
 - **Beck & McKeown's Text Talk** — a published instructional routine in which teachers pre-select Tier Two words from read-alouds and engage children in rich, interactive word discussion before and after reading.
 - **Word Generation** (https://wordgeneration.org) — a free middle-school curriculum that pre-teaches high-utility academic words weekly across subject areas with discussion and writing activities.
 - **Content-area pre-reading in science** — before a unit on photosynthesis, the teacher introduces *chlorophyll*, *glucose*, and *stomata* with diagrams and examples, so the subsequent reading supports concept integration rather than decoding unfamiliar terms.
-- **Text Talk (Beck & McKeown)** — kindergarten and primary teachers pre-teach Tier Two words from a read-aloud with rich definitional explanations and child-generated examples, then revisit the words across the week.
+- **[Text Talk](text-talk.md) (Beck & McKeown)** — kindergarten and primary teachers pre-teach Tier Two words from a read-aloud with rich definitional explanations and child-generated examples, then revisit the words across the week.
 - **Word Generation (SERP Institute)** — a middle-school academic vocabulary program that introduces a small set of high-utility words before discussion and reading across subject areas. [https://serpmedia.org/wg/](https://serpmedia.org/wg/)
 - **Newsela / Achieve3000** — digital reading platforms that surface pre-taught key vocabulary with definitions before the article text, then check word knowledge in follow-up quizzes.
 - **Beck & McKeown's Text Talk** — a published instructional routine in which teachers pre-teach a handful of Tier Two words from a read-aloud, then revisit them in rich discussion afterward.

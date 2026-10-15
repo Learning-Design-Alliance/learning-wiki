@@ -18,8 +18,8 @@ sources:
     kind: associational
     rigour: 1
   - id: nizamani-2026-2
-    resource: "https://arxiv.org/abs/2610.01158"
-    title: "Nizamani, S. B., Lee, Y., Donekal Chandrashekar, N., Ellis, M., & Ramakrishnan, N. (2026). Understanding Student Use of Large Language Models Across Computer Science Subfields. https://arxiv.org/abs/2610.01158"
+    resource: "https://doi.org/10.48550/arxiv.2610.01158"
+    title: "Nizamani, S. B., Lee, Y., Donekal Chandrashekar, N., Ellis, M., & Ramakrishnan, N. (2026). Understanding Student Use of Large Language Models Across Computer Science Subfields. https://arxiv.org/abs/2610.01158. [doi:10.48550/arxiv.2610.01158](https://doi.org/10.48550/arxiv.2610.01158)"
     author: "Nizamani, S. B., Lee, Y., Donekal Chandrashekar, N., Ellis, M., & Ramakrishnan, N."
     q: 3
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Students predominantly conceptualize the LLM as an Assistant rather than Peer or Expert, and role distributions differ significantly across assignments
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r1` · `q3`
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Assistant was the most common LLM role among users across all assignments, most visible in Algorithms (61.6%) and Web Development (63.0%). [→ Nizamani 2026](#nizamani-2026)
@@ -50,7 +50,7 @@ Descriptive analysis of role conceptualization (assistant, peer, expert, none) r
 
 ### Nizamani 2026 (2)
 
-Nizamani, S. B., Lee, Y., Donekal Chandrashekar, N., Ellis, M., & Ramakrishnan, N. (2026). Understanding Student Use of Large Language Models Across Computer Science Subfields. https://arxiv.org/abs/2610.01158
+Nizamani, S. B., Lee, Y., Donekal Chandrashekar, N., Ellis, M., & Ramakrishnan, N. (2026). Understanding Student Use of Large Language Models Across Computer Science Subfields. https://arxiv.org/abs/2610.01158. [doi:10.48550/arxiv.2610.01158](https://doi.org/10.48550/arxiv.2610.01158)
 
 `q3 · i?` · `associational · r1`
 

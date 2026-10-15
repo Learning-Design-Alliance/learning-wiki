@@ -49,3 +49,4 @@ The review reports Wang et al.'s experiment on JAAD International research lette
 - [AI-generated rewrites of cover letters were rated higher for writing quality and more likely to secure hypothetical interviews than rewrites by professional human editors](ai-edits-higher-quality-than-editor-edits.md) — related
 - [Editors observe GenAI has improved surface correctness of manuscripts and increased submissions, but this does not lead to better research quality](genai-surface-quality-submission-quantity-not-quality.md) — related
 - [All four detection tools classified 100% of fully human-written papers as true negatives, with false positives nearly absent](all-tools-accurate-on-human-written-papers.md) — reports the opposite
+- [AI-generated-text detectors are reported as ineffective against current sophisticated language models, and students can alter text to evade detection](ai-text-detectors-ineffective.md) — related

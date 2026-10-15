@@ -70,3 +70,4 @@ Charted educational levels of the 156 included studies. The review reports highe
 - Included AI-in-higher-education studies were geographically concentrated in North America and Asia, with medicine, computer science, and engineering as leading disciplines — related
 - General academic motivation, engagement, and self-efficacy are the most studied motivational factors in AI-supported learning research — related
 - [Most AI-motivation studies lasted less than 10 weeks, raising novelty-effect concerns and leaving long-term effects unexamined](ai-motivation-studies-short-duration-novelty-effect.md) — related
+- [Research on generative AI in secondary STEM education is concentrated in the Global North, with 73% of affiliations and the United States accounting for 30% of publications](global-north-concentration-generative-ai-stem-research.md) — related

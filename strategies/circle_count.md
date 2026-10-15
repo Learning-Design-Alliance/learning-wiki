@@ -67,7 +67,7 @@ Circle Count distributes brief, high-frequency retrieval opportunities across ev
 ## Examples
 - **Counting collections and count-around routines in CGI classrooms** — [Cognitively Guided Instruction](../principles/responsive-teaching.md) classrooms routinely use count-around-the-circle as a warm-up before problem solving
 - **Kazemi & Hintz's *Intentional Talk* (2014)** — describes structured discussion around counting routines, including "open strategy sharing" and targeted pattern-noticing prompts during choral and circle counts
-- **Everyday Mathematics (McGraw-Hill)** — includes "Counting Patterns" mental-math routines in its daily routine block, functionally equivalent to Circle Count with skip-count variations
+- **[Everyday Mathematics](../products/everyday-mathematics.md) (McGraw-Hill)** — includes "Counting Patterns" mental-math routines in its daily routine block, functionally equivalent to Circle Count with skip-count variations
 
 ## Key Sources
 - Kazemi, E., & Hintz, A. (2014). *Intentional talk: How to structure and lead productive mathematical discussions.* Stenhouse Publishers.

@@ -50,4 +50,4 @@ The article proposes a pedagogical framework for infusing a somatic, body-listen
 - [Moving toward the touch: partnered touch-guided improvisation for spatial-perceptual listening](../strategies/moving-toward-the-touch-improvisation.md)
 
 ## Key Sources
-- Enghauser, R. (2007). Developing Listening Bodies in the Dance Technique Class. JOPERD, 78(6). https://eric.ed.gov/?id=EJ795590
+- Enghauser, R. (2007). Developing Listening Bodies in the Dance Technique Class. JOPERD, 78(6). https://eric.ed.gov/?id=EJ795590. [doi:10.1080/07303084.2007.10598039](https://doi.org/10.1080/07303084.2007.10598039)

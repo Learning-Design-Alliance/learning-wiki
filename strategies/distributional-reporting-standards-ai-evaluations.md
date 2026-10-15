@@ -48,4 +48,4 @@ The article proposes that evaluations of AI learning resources report, alongside
 -
 
 ## Key Sources
-- Dang, C. T., & Nguyen, A. (2026). Verified, not generated: expert-verified AI study materials and the distribution of learning gains in a university course. https://arxiv.org/abs/2610.07097
+- Dang, C. T., & Nguyen, A. (2026). Verified, not generated: expert-verified AI study materials and the distribution of learning gains in a university course. https://arxiv.org/abs/2610.07097. [doi:10.48550/arxiv.2610.07097](https://doi.org/10.48550/arxiv.2610.07097)

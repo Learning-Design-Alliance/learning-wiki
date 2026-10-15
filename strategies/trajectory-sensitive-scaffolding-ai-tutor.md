@@ -47,4 +47,4 @@ The authors propose that an AI tutor consider recent interaction history when de
 -
 
 ## Key Sources
-- Abdelghani, R., Kaiser, P., Murayama, K. (2026). Changes in Help-Seeking Strategies Predict unaided Performance during AI-based Mathematical Learning. https://arxiv.org/abs/2606.28472
+- Abdelghani, R., Kaiser, P., Murayama, K. (2026). Changes in Help-Seeking Strategies Predict unaided Performance during AI-based Mathematical Learning. https://arxiv.org/abs/2606.28472. [doi:10.48550/arxiv.2606.28472](https://doi.org/10.48550/arxiv.2606.28472)

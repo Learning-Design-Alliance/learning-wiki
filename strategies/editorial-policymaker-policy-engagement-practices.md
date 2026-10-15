@@ -39,6 +39,7 @@ For editors and reviewers, the review recommends that journal editorial boards m
 ## Related Strategies
 
 - [Actionable writing practices for researchers to produce policy-ready implications](wh-framework-policy-writing-practices.md)
+- [AI researchers creating demos, resources, and activities for K-12 learners](ai-researchers-as-k12-educators-call-to-action.md)
 
 ## Examples
 -

@@ -63,7 +63,7 @@ Working memory can hold only a few novel elements at once; presenting more than 
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — lessons broken into short videos, each covering one step or concept, followed immediately by practice items; unit structure makes chunk relationships visible.
-- **Duolingo** — language content in 3–5 minute lessons, each introducing a small set of items with immediate retrieval practice; the mobile microlearning format is chunking plus spacing.
+- **[Duolingo](../products/duolingo.md)** — language content in 3–5 minute lessons, each introducing a small set of items with immediate retrieval practice; the mobile microlearning format is chunking plus spacing.
 - **[4C/ID](https://www.4cid.org)** — whole-task designs that order complex skills into task classes of increasing complexity, chunking at the level of task complexity rather than topic.
 
 ## Key Sources

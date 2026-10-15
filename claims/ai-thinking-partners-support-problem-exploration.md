@@ -48,3 +48,4 @@ Focus group interviews with 35 graduate students in seven cross-institutional te
 - [Adult learners expect AI to support transformative and experiential learning through assumption-challenging simulations, role play, and authentic virtual contexts](ai-supports-transformative-experiential-learning.md) — a broader claim this one bears on
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — related
 - [Adult learners perceive AI collaborative workspaces as fostering equitable participation and shared responsibility in group problem-solving](ai-workspaces-equitable-collaborative-problem-solving.md) — related
+- [AI chatbots support skills development in writing, problem-solving, and group discussion facilitation](chatbot-skills-development.md) — a broader claim this one bears on

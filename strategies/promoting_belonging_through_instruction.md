@@ -65,7 +65,7 @@ Belonging is a strong predictor of persistence, engagement, and achievement, and
 
 ## Examples
 - **Social-belonging intervention (Walton & Cohen)** — Students read survey results showing that worries about fitting in are common and diminish over time, then write about their own experience; a single session improved GPA and halved the racial-achievement gap among marginalized students years later.
-- **Wise feedback (Cohen, Steele & Ross)** — Teachers attach a note to assignment feedback stating high standards and confidence in the student; students revise more and trust the feedback more.
+- **[Wise feedback](wise-feedback.md) (Cohen, Steele & Ross)** — Teachers attach a note to assignment feedback stating high standards and confidence in the student; students revise more and trust the feedback more.
 - **Complex instruction in mathematics** — Status-based grouping is disrupted through assigned group roles and multiple-ability tasks (e.g., as implemented in [Youcubed](https://www.youcubed.org) curricula), so every student has a legitimate way to contribute.
 
 ## Key Sources

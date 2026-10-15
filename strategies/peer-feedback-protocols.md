@@ -87,12 +87,12 @@ Peer feedback works when it functions as formative assessment in the hands of le
 - [Peer feedback against success criteria: students locate where peers are in their learning and give actionable clues, hints, suggestions, or wonderings](peer-feedback-against-success-criteria.md)
 
 ## Examples
-- **Calibrated Peer Review (CPR)** (https://cpr.molsci.ucla.edu/) — web system where students first calibrate on instructor-scored exemplars, then review peers' writing in large STEM courses.
+- **[Calibrated Peer Review](calibrated_peer_review.md) (CPR)** (https://cpr.molsci.ucla.edu/) — web system where students first calibrate on instructor-scored exemplars, then review peers' writing in large STEM courses.
 - **Peergrade / PeerStudio-style platforms** — anonymous distribution of student work with rubric-driven comment fields and feedback-quality ratings by receivers.
-- **Two-stars-and-a-wish** in primary writing workshops — reviewers name two strengths and one wish, keeping feedback criterion-anchored and age-appropriate.
+- **[Two-stars-and-a-wish](two-stars-and-a-wish.md)** in primary writing workshops — reviewers name two strengths and one wish, keeping feedback criterion-anchored and age-appropriate.
 - **Writing workshop protocols** (e.g., National Writing Project response protocols) — author reads aloud, peers respond with "I noticed… I wondered…", author speaks last.
 - **Critical Friends Groups tuning protocols** ([National School Reform Faculty](https://www.nsrfharmony.org)) — staged presentation, clarifying questions, and warm/cool feedback on work in progress.
-- **Two Stars and a Wish** — primary-classroom protocol: two specific strengths plus one suggestion, constraining young reviewers to balanced, concrete comments.
+- **[Two Stars and a Wish](two-stars-and-a-wish.md)** — primary-classroom protocol: two specific strengths plus one suggestion, constraining young reviewers to balanced, concrete comments.
 - **Calibrated Peer Review (CPR)** ([https://calibratedpeerreview.org](https://calibratedpeerreview.org)) — learners calibrate against expert-scored samples before reviewing peers, addressing the novice-reviewer constraint.
 - **Peergrade / PeerStudio** — platforms that anonymize submissions, distribute reviews, and flag low-quality feedback for instructor moderation.
 

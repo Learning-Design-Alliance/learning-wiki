@@ -67,7 +67,7 @@ Character profile creation converts passive reading into generative processing: 
 ## Examples
 - **Readers' Workshop character study units** — students maintain ongoing character "files" in reading notebooks, adding trait entries with page citations as the novel progresses.
 - **[Storyline Online](https://storylineonline.net)** read-alouds followed by illustrated character profiles for K–2, pairing the read-aloud with a drawing-and-labeling template.
-- **Literature circles** — each member profiles a different character and presents the profile, giving the group a multi-perspective map of the text.
+- **[Literature circles](literature-circles.md)** — each member profiles a different character and presents the profile, giving the group a multi-perspective map of the text.
 
 ## Key Sources
 - Shanahan, T., & Shanahan, C. (2008). Teaching disciplinary literacy to adolescents: Rethinking content-area literacy. *Harvard Educational Review, 78*(1), 40–59. [doi:10.17763/haer.78.1.v62444321p602101](https://doi.org/10.17763/haer.78.1.v62444321p602101)

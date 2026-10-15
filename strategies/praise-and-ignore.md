@@ -65,8 +65,8 @@ The strategy rests on operant principles: teacher attention reliably functions a
 
 ## Examples
 - A first-grade teacher ignores a student's calling out but immediately names a nearby student who raised her hand: "Marcus waited with his hand up — that helps me hear everyone." The calling out typically extinguishes within days when the contingency is consistent.
-- **PAX Good Behavior Game** (https://www.paxis.org) — formalizes praise-and-ignore within a team-based contingency game; multiple randomized trials show reduced disruptive behavior and improved academic outcomes.
-- **Positive Phone Calls Home** — many MTSS/PBIS implementations (e.g., https://www.pbis.org) require a set ratio of positive contacts to corrective contacts with families, applying the same principle at the school level.
+- **[PAX Good Behavior Game](../products/pax-good-behavior-game.md)** (https://www.paxis.org) — formalizes praise-and-ignore within a team-based contingency game; multiple randomized trials show reduced disruptive behavior and improved academic outcomes.
+- **[Positive Phone Calls Home](positive-phone-calls-home.md)** — many MTSS/PBIS implementations (e.g., https://www.pbis.org) require a set ratio of positive contacts to corrective contacts with families, applying the same principle at the school level.
 
 ## Key Sources
 - Simonsen, B., Fairbanks, S., Briesch, A., Myers, D., & Sugai, G. (2008). Evidence-based practices in classroom management: Considerations for research to practice. *Education and Treatment of Children, 31*(1), 351-380. [doi:10.1353/etc.0.0007](https://doi.org/10.1353/etc.0.0007)

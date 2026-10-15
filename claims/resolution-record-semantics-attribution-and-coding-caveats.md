@@ -18,8 +18,8 @@ sources:
     kind: design
     rigour: 2
   - id: gupta-2026-2
-    resource: "https://arxiv.org/abs/2609.38967"
-    title: "Gupta, J., Ayinampudi, P., Aditya B.M.V., Hegade, P., Sharma, R., Sharma, S., Meenakshi, V., Iyengar, S.R.S. (2026). What Students Actually Ask: Demand Structure and Automation Potential in a Hybrid Support System. arXiv:2609.38967. https://arxiv.org/abs/2609.38967"
+    resource: "https://doi.org/10.48550/arxiv.2609.38967"
+    title: "Gupta, J., Ayinampudi, P., Aditya B.M.V., Hegade, P., Sharma, R., Sharma, S., Meenakshi, V., Iyengar, S.R.S. (2026). What Students Actually Ask: Demand Structure and Automation Potential in a Hybrid Support System. arXiv:2609.38967. https://arxiv.org/abs/2609.38967. [doi:10.48550/arxiv.2609.38967](https://doi.org/10.48550/arxiv.2609.38967)"
     author: Gupta, J., Ayinampudi, P., Aditya B.M.V., Hegade, P., Sharma, R., Sharma, S., Meenakshi, V., Iyengar, S.R.S.
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Operational resolution records require workflow-semantic checks before interpretation: one administrator accounts for 72.7% of attributed human resolutions, most administrative closures occur in synchronous bulk events, and the accepted_derived field encodes resolver identity rather than acceptance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Among 1,408 resolutions with an identifiable human responder, one administrator accounts for 1,024 (72.7%), with no other individual exceeding 4.5%; 99.7% of that administrator's records carry the direct-answer path. [→ Gupta 2026](#gupta-2026)
@@ -50,7 +50,7 @@ Attribution and outcome-coding analysis of the deployment record (RQ3). The admi
 
 ### Gupta 2026 (2)
 
-Gupta, J., Ayinampudi, P., Aditya B.M.V., Hegade, P., Sharma, R., Sharma, S., Meenakshi, V., Iyengar, S.R.S. (2026). What Students Actually Ask: Demand Structure and Automation Potential in a Hybrid Support System. arXiv:2609.38967. https://arxiv.org/abs/2609.38967
+Gupta, J., Ayinampudi, P., Aditya B.M.V., Hegade, P., Sharma, R., Sharma, S., Meenakshi, V., Iyengar, S.R.S. (2026). What Students Actually Ask: Demand Structure and Automation Potential in a Hybrid Support System. arXiv:2609.38967. https://arxiv.org/abs/2609.38967. [doi:10.48550/arxiv.2609.38967](https://doi.org/10.48550/arxiv.2609.38967)
 
 `q2 · i?` · `design · r2`
 

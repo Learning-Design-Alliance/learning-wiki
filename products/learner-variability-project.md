@@ -85,7 +85,7 @@ The Learner Variability Project, developed by Digital Promise, provides the Lear
 - Research and the Promise of Personalized Learning. (2015). Digital Promise Global, Making Learning Personal for All series. https://global.digitalpromise.org
 - Brizard, J.-C. (2023). Breaking with the past: Embracing digital transformation in education. Digital Promise. https://doi.org/10.51388/20.500.12265/176
 - Lb0
-- Tare, M. & Shell, A. R. (2019). Designing for learner variability: Examining the impact of research-based edtech in the classroom. Washington, DC: Digital Promise Global. https://digitalpromise.dspacedirect.org/items/82839c44-adb1-400c-b422-9bfbbca65985
+- Tare, M. & Shell, A. R. (2019). Designing for learner variability: Examining the impact of research-based edtech in the classroom. Washington, DC: Digital Promise Global. https://digitalpromise.dspacedirect.org/items/82839c44-adb1-400c-b422-9bfbbca65985. [doi:10.51388/20.500.12265/81](https://doi.org/10.51388/20.500.12265/81)
 
 <!-- merged 2026-10-10 from elements/learner-variability-navigator-web-app ("Learner Variability Navigator (LVN) web app"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 - Sheppard, S. M. (2015). Supporting Research-Based Personalization for Reading Success. Digital Promise Global. https://global.digitalpromise.org
@@ -93,7 +93,7 @@ The Learner Variability Project, developed by Digital Promise, provides the Lear
 - Research and the Promise of Personalized Learning. (2015). Digital Promise Global, Making Learning Personal for All series. https://global.digitalpromise.org
 - Brizard, J.-C. (2023). Breaking with the past: Embracing digital transformation in education. Digital Promise. https://doi.org/10.51388/20.500.12265/176
 - Lb0
-- Tare, M. & Shell, A. R. (2019). Designing for learner variability: Examining the impact of research-based edtech in the classroom. Washington, DC: Digital Promise Global. https://digitalpromise.dspacedirect.org/items/82839c44-adb1-400c-b422-9bfbbca65985
+- Tare, M. & Shell, A. R. (2019). Designing for learner variability: Examining the impact of research-based edtech in the classroom. Washington, DC: Digital Promise Global. https://digitalpromise.dspacedirect.org/items/82839c44-adb1-400c-b422-9bfbbca65985. [doi:10.51388/20.500.12265/81](https://doi.org/10.51388/20.500.12265/81)
 
 # Learner Variability Navigator (LVN) web app
 
@@ -493,7 +493,7 @@ The report proposes a theory-of-change model linking implementation of a suite o
 - [ReadWorks digital reading comprehension platform with LVP-informed learner-variability features](../products/readworks.md)
 
 ## Key Sources
-- Tare, M. & Shell, A. R. (2019). Designing for learner variability: Examining the impact of research-based edtech in the classroom. Washington, DC: Digital Promise Global. https://digitalpromise.dspacedirect.org/items/82839c44-adb1-400c-b422-9bfbbca65985
+- Tare, M. & Shell, A. R. (2019). Designing for learner variability: Examining the impact of research-based edtech in the classroom. Washington, DC: Digital Promise Global. https://digitalpromise.dspacedirect.org/items/82839c44-adb1-400c-b422-9bfbbca65985. [doi:10.51388/20.500.12265/81](https://doi.org/10.51388/20.500.12265/81)
 -->
 
 <!-- merged 2026-10-10 from theories/lvp-whole-child-theory-of-change ("Whole-child learner variability theory of change"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.

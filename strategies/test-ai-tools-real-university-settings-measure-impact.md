@@ -50,6 +50,7 @@ The review's forward-looking recommendation is that future research move beyond 
 - [Future improvements: real-world user studies, advanced student modeling, and spaced repetition](future-work-user-studies-student-modeling-spaced-repetition.md)
 - [Prioritize inclusive-by-design architectures, interoperable agent frameworks, human-AI collaboration models, and real-world implementation studies](future-directions-inclusive-by-design-agentic-ai.md)
 - [Prioritise equity-centred approaches, methodological diversity, contextual specificity, implementation science and interdisciplinary collaboration in GenAI research](equity-centred-genai-research-priorities.md)
+- [Future AIHEd research should give greater attention to ethics, methodological rigour, context, and interdisciplinary collaboration](aihed-future-research-ethics-rigour-interdisciplinarity.md)
 
 ## Examples
 -

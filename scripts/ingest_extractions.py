@@ -244,7 +244,7 @@ def _render_claim(contrib: dict, actor: str, slug: str) -> tuple[dict, str]:
         # 8-character hash was neither stable nor unique — six such ids were
         # already shared by two pages each. See scripts/page_identity.py.
         "id": slug,
-        "status": "draft",
+        "status": "review",
         "generated": {"by": actor, "at": TODAY},
         "evidence_strength": contrib.get("evidence_strength"),
         "sources": sources,
@@ -392,7 +392,7 @@ def _render_other(contrib: dict, ctype: str, actor: str, slug: str) -> tuple[dic
                                       "learner-variables", "strategies", "designs") else {}),
         "title": title,
         "description": _one_sentence(description, title or "Untitled"),
-        "status": "draft",
+        "status": "review",
         "generated": {"by": actor, "at": TODAY},
         "sources": sources,
     }
@@ -939,7 +939,7 @@ def main() -> None:
 
     print(f"\nDone. {len(all_written)} new page(s), indexes regenerated, log.md updated.")
     print("Review the diff before committing — this is draft-quality, machine-ingested content "
-          "(status: draft, no `verified` entry) per CLAUDE.md's trust-tier convention.")
+          "(status: review, no `verified` entry) per CLAUDE.md's trust-tier convention.")
 
 
 if __name__ == "__main__":

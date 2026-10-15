@@ -74,7 +74,7 @@ Sequencing examples from simple to complex manages intrinsic load during schema 
 ## Examples
 - **Radiology training**: trainees learn to identify bone fractures starting with obvious cases where fragments are fully separated, progressing to hairline fractures with partially joined fragments — the canonical under-generalization risk if training stops at easy films.
 - **Khan Academy** (https://www.khanacademy.org) — practice sets order problems from basic to multi-step, with mastery-based gating that holds learners at a level until they succeed.
-- **Duolingo** (https://www.duolingo.com) — introduces grammar with simple, high-frequency sentences before irregular and ambiguous constructions.
+- **[Duolingo](../products/duolingo.md)** (https://www.duolingo.com) — introduces grammar with simple, high-frequency sentences before irregular and ambiguous constructions.
 
 ## Key Sources
 - Elio, R., & Anderson, J. R. (1981). The effects of information order and learning mode on schema abstraction. *Memory & Cognition, 9*(6), 569–579. [doi:10.3758/bf03196994](https://doi.org/10.3758/bf03196994)

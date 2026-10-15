@@ -13,7 +13,7 @@ generated:
 # Technology Integration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 25 claims (8 for, 14 mixed, 3 against) · 26 studies (9 associational, 5 design, 4 review, 4 qualitative, 2 theoretical, 1 causal, 1 quant-synthesis), `q1`–`q3` · 2 of 26 report an effect size · 24 claims rest on one study
+> **Evidence** · 27 claims (10 for, 14 mixed, 3 against) · 28 studies (9 associational, 5 design, 4 review, 4 qualitative, 3 theoretical, 2 causal, 1 quant-synthesis), `q1`–`q3` · 3 of 28 report an effect size · 26 claims rest on one study
 
 ## Description
 Technology integration is the element in which digital tools are used in direct service of learning goals, feedback, access, or collaboration.
@@ -51,6 +51,8 @@ Technology integration is the element in which digital tools are used in direct 
 - [Positive LLM tutor perceptions do not necessarily translate to learning gains, creating an over-reliance risk](../claims/llm-scaffolding-over-reliance-paradox.md) [~W]
 - [University students' use of GenAI for learning task completion is negatively associated with GenAI-assisted learning procrastination](../claims/genai-use-negatively-associated-genai-learning-procrastination.md) [~W]
 - [Experts report that critical media literacy remains insufficiently integrated into curricula and that technology integration is often superficial, limited to devices and software without a critical approach](../claims/experts-superficial-technology-integration.md) [~W]
+- [The Jill Watson AI teaching assistant met student expectations in a Georgia Tech online course without being detected as non-human](../claims/jill-watson-ai-teaching-assistant-georgia-tech.md) [+W] — attached 2026-10-15 from Popenici et al. (2017), which proposed "Teacherbots: AI-based virtual teaching assistants for content delivery, feedback and supervision".
+- [ChatGPT-integrated instruction produced significantly higher post-test writing motivation scores than conventional instruction among EFL learners, with a medium effect size](../claims/chatgpt-instruction-enhanced-efl-writing-motivation.md) [+M] — attached 2026-10-15 from Song et al. (2023), which proposed "ChatGPT as an AI chatbot writing-assistance tool in EFL academic writing instruction"; tests this page's relationship.
 
 ## Related Elements
 - [Digital Tools](digital-tools.md)

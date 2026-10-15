@@ -118,7 +118,7 @@ Retrieval practice produces substantially more durable retention than restudying
 - **Anki** ([apps.ankiweb.net](https://apps.ankiweb.net)) — flashcard scheduling that operationalizes low-stakes retrieval with adaptive spacing
 - A psychology course administering five-minute multiple-choice quizzes at the start of each lecture, with the two lowest scores dropped and the most-missed question reviewed before new content
 - **[Retrieval practice guides](https://www.retrievalpractice.org)** (Agarwal & Bain) — classroom routines such as "brain dumps" and two-things exit tickets used in K–12 settings
-- **Team-Based Learning (Michaelsen)** — individual readiness assurance tests followed by the same test taken in teams, with immediate appeal-and-feedback
+- **[Team-Based Learning](../patterns/team-based-learning.md) (Michaelsen)** — individual readiness assurance tests followed by the same test taken in teams, with immediate appeal-and-feedback
 - **Anki / spaced-repetition flashcards** — algorithm-scheduled retrieval used in medical education; large cohorts of medical students use Anki decks aligned to curricula
 - **Clicker questions in large lectures** — peer discussion after individual voting combines retrieval with [active learning](../principles/active-learning.md)
 - **[Retrieval Practice](https://www.retrievalpractice.org)** (Agarwal & Bain) — classroom guides and research summaries for implementing low stakes quizzing across grade levels.

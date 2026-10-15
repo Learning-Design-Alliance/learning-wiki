@@ -45,7 +45,7 @@ ECD is a principled assessment design framework that structures the rationales, 
 - Iwatani, E., Means, B., Seylar, J., and Hardy, A. (2021). Rubrics on historical thinking skills for assignments and student work: Initial validity evidence. Digital Promise. https://doi.org/10.51388/20.500.12265/112
 <!-- merged 2026-10-10 from theories/ecd-framework-models-epistemic-games ("Evidence-Centered Design framework structures assessment design through student, task, evidence, assembly, and presentation models"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 - Iwatani, E., Means, B., Seylar, J., and Hardy, A. (2021). Rubrics on historical thinking skills for assignments and student work: Initial validity evidence. Digital Promise. https://doi.org/10.51388/20.500.12265/112
-- Gao, Y., Chen, Z., Li, M., & Zhai, X. (2026). Generative AI as a Design Variable: An Evidence-Centered Framework for Principled Governance in STEM Assessment.
+- Gao, Y., Chen, Z., Li, M., & Zhai, X. (2026). Generative AI as a Design Variable: An Evidence-Centered Framework for Principled Governance in STEM Assessment. [doi:10.48550/arxiv.2605.24837](https://doi.org/10.48550/arxiv.2605.24837)
 - Vy Le, Jayson M. Nissen, Jason W. Morphew, Hua Hua Chang, and Ben Van Dusen. (2026). Mechanics Cognitive Diagnostic: Testing Fine-Grained Learning Objectives in Introductory Physics. https://arxiv.org/abs/2609.09584
 
 # Evidence-Centered Design framework structures assessment design through student, task, evidence, assembly, and presentation models

@@ -34,5 +34,5 @@ An evaluation pipeline that scores both sides of student-chatbot interactions at
 - [Transcript-based interactional fluency and direction-sensitive uptake analysis](transcript-based-interactional-fluency-and-direction-sensitive-uptake-analysis.md)
 
 ## Key Sources
-- Neagu, A., Wong, J. T. H., Messer, M., Nelson, R., & Johnson, P. B. (2026). Rethinking Scaffolding in LLM Tutors: The Interactional Mismatch Between Benchmarks and Real-World Deployments. Pluralistic Alignment Workshop @ ICML 2026. https://arxiv.org/abs/2606.15766
+- Neagu, A., Wong, J. T. H., Messer, M., Nelson, R., & Johnson, P. B. (2026). Rethinking Scaffolding in LLM Tutors: The Interactional Mismatch Between Benchmarks and Real-World Deployments. Pluralistic Alignment Workshop @ ICML 2026. https://arxiv.org/abs/2606.15766. [doi:10.48550/arxiv.2606.15766](https://doi.org/10.48550/arxiv.2606.15766)
 - Xiaokun Wang, Siyu Song, Wentao Liu, Xiaodong Zou. (2026). Beyond Direct Answering: Aligning Educational LLMs as Socratic Guides via Heuristic Reinforcement Learning. arXiv preprint. https://arxiv.org/abs/2607.22996

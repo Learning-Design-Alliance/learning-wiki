@@ -49,4 +49,4 @@ Table 5 maps each activity of the 2-day hands-on AI/LLM training to the stage tr
 -
 
 ## Key Sources
-- Liu, J. P., & Levy, R. (2026). Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education. North Carolina State University.
+- Liu, J. P., & Levy, R. (2026). Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education. North Carolina State University. [doi:10.48550/arxiv.2606.00038](https://doi.org/10.48550/arxiv.2606.00038)

@@ -17,7 +17,7 @@ sources:
 # NWEA COVID-19 learning-loss research series on seasonal learning patterns and equity
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (5 for) · 4 studies (3 associational, 1 review), `q1`–`q2` · 0 of 4 report an effect size · 3 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 3 studies (2 associational, 1 review), `q1`–`q2` · 0 of 3 report an effect size · 5 claims rest on one study
 
 ## Description
 A series of related NWEA Research publications organized around COVID-19 and schools, equity, and seasonal learning patterns and summer loss, including a working paper on projecting the potential impacts of COVID-19 school closures, the COVID-19 slide research brief, and its technical appendix. The page presents these as "Associated Research" items, positioning the appendix within a broader program of research on pandemic-related learning loss.

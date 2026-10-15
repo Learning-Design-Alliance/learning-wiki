@@ -70,7 +70,7 @@ Grades function as feedback and as motivators, so their design has direct learni
 - [Formative Assessment](../patterns/formative-assessment.md) — equitable grading depends on a strong formative layer so that summative grades are not students' first exposure to criteria
 
 ## Examples
-- **Grading for Equity (Feldman, 2019)** — a widely adopted framework specifying practices such as minimum grading, retakes, and separating behavior from achievement; implemented district-wide in places like Oakdale Joint Unified School District (CA).
+- **[Grading for Equity](grading-for-equity.md) (Feldman, 2019)** — a widely adopted framework specifying practices such as minimum grading, retakes, and separating behavior from achievement; implemented district-wide in places like Oakdale Joint Unified School District (CA).
 - **Crestmont / El Monte Union standards-based report cards** — report achievement by standard with separate citizenship marks, replacing single letter grades.
 - **New Gradebook pilots using MasteryTrack or Empower Learning** — platforms that track evidence per competency and compute grades from most-recent or mode evidence rather than point averages.
 

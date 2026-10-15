@@ -62,6 +62,7 @@ PA instruction is one of the most consistently supported early-literacy interven
 - [Repeated Reading](../strategies/repeated-reading.md) — builds the fluency that PA-supported decoding feeds into
 - [Vocabulary Instruction](explicit-vocabulary-instruction.md) — ensures children are segmenting words they actually know
 - [Deliver PA Lessons in small groups of 4-5 students with one teacher, supported by 90-minute virtual training](pa-lessons-small-group-delivery-training.md)
+- [Include phoneme awareness instruction in kindergarten beginning reading programs to improve early literacy outcomes](phoneme-awareness-instruction-in-kindergarten-beginning-reading.md)
 
 ## Examples
 - **[Road to the Code](https://brookespublishing.com)** (Blachman et al.) — a published 11-week kindergarten program of daily 15–20 minute lessons in phoneme segmentation and letter-sound knowledge.
@@ -69,7 +70,7 @@ PA instruction is one of the most consistently supported early-literacy interven
 - **Elkonin sound boxes** — a classic classroom routine in which children move counters as they segment a word's phonemes, later replacing counters with letters.
 
 ## Key Sources
-- Ehri, L. C., Nunes, S. R., Willows, D. M., & Schuster, B. V. (2001). Phonemic awareness instruction helps children learn to read: Evidence from the National Reading Panel's meta-analysis. *Reading Research Quarterly, 36*(3), 250–287. [doi:10.1598/RRQ.36.3.2](https://doi.org/10.1598/RRQ.36.3.2)
+- Ehri, L. C., Nunes, S. R., Willows, D. M., Schuster, B. V., Yaghoub-Zadeh, Z., & Shanahan, T. (2001). Phonemic awareness instruction helps children learn to read: Evidence from the National Reading Panel's meta-analysis. *Reading Research Quarterly, 36*(3), 250–287. [doi:10.1598/RRQ.36.3.2](https://doi.org/10.1598/RRQ.36.3.2)
 - Bus, A. G., & van IJzendoorn, M. H. (1999). Phonological awareness and early reading: A meta-analysis of experimental training studies. *Journal of Educational Psychology, 91*(3), 403–414. [doi:10.1037/0022-0663.91.3.403](https://doi.org/10.1037/0022-0663.91.3.403)
 - National Reading Panel. (2000). *Teaching children to read: An evidence-based assessment of the scientific research literature on reading and its implications for reading instruction.* National Institute of Child Health and Human Development.
 - Blachman, B. A., Ball, E. W., Black, R. S., & Tangel, D. M. (2000). *Road to the Code: A phonological awareness program for young children.* Brookes Publishing.

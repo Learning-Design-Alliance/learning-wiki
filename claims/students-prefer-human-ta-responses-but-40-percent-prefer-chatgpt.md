@@ -65,3 +65,4 @@ Survey results on the sources of differing student preferences, reported in the 
 - [SMEs rated ChatGPT's content accuracy acceptable but inconsistent across questions and significantly below human TAs' accuracy](chatgpt-lab-accuracy-acceptable-inconsistent-below-human-tas.md) — related
 - [Human TAs demonstrated stronger instructor voice, understanding, and helpfulness than AI in responding to student laboratory questions](human-tas-stronger-teaching-effectiveness-than-chatgpt.md) — related
 - [Students found ChatGPT responses useful but insufficient in depth and detail compared with TA responses](students-find-chatgpt-useful-but-lacking-depth.md) — related
+- [ChatGPT sustains coherent, human-like multi-topic conversation and produces convincing creative content, as shown by the authors' own prompting test](chatgpt-interactive-conversational-capability.md) — related

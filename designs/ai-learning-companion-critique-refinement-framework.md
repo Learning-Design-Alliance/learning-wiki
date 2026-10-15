@@ -51,4 +51,4 @@ The paper's central framework reframes generative AI errors and hallucinations a
 -
 
 ## Key Sources
-- Hosseini, H. (2026). The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking. https://arxiv.org/abs/2605.05472
+- Hosseini, H. (2026). The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking. https://arxiv.org/abs/2605.05472. [doi:10.48550/arxiv.2605.05472](https://doi.org/10.48550/arxiv.2605.05472)

@@ -85,9 +85,9 @@ An equity-centered research-and-development framework created by Digital Promise
 - Iloh, C. (2024, February). Recruitment and Retention: Impact of Pilot Solutions Designed by Teachers of Color (Phase II). Digital Promise. https://doi.org/10.51388/20.500.12265/216
 - Inclusive Innovation: Increasing Recruitment and Retention of Teachers of Color — Summation of Digital Promise Design Studios with Teachers of Color. (2021). Digital Promise. https://digitalpromise.org/inclusive-innovation/
 - Latia P. White, Ed. D. (2026). Beyond Participation: The Capacities That Shape Engagement in Collaborative Innovation. Digital Promise, Center for Learner Pathway Innovations. https://digitalpromise.dspacedirect.org/items/e933ec0e-f153-4046-842b-61b696b00ba2
-- Smith, K., & Young, V. M. (2024). A New Narrative: How Unlocking the Power of R&D Through Inclusive Innovation Can Transform Education. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.dspacedirect.org/items/73f2e0fa-dca8-4cd0-a8da-eb18b59453c4
-- Johnson, A. M., & Lenderman, K. (2023). Socratic Circles: Building OER Tools for Racial Equity Classroom and Community Discourse. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.org/inclusive-innovation
-- Angevine, C., Cator, K., Liberman, B., Smith, K., & Young, V. (2019). Designing a Process for Inclusive Innovation: A Radical Commitment to Equity. Digital Promise. https://digitalpromise.dspacedirect.org/items/d6db3e76-2dc9-4ea6-ae68-49814c88e6b6
+- Smith, K., & Young, V. M. (2024). A New Narrative: How Unlocking the Power of R&D Through Inclusive Innovation Can Transform Education. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.dspacedirect.org/items/73f2e0fa-dca8-4cd0-a8da-eb18b59453c4. [doi:10.51388/20.500.12265/202](https://doi.org/10.51388/20.500.12265/202)
+- Johnson, A. M., & Lenderman, K. (2023). Socratic Circles: Building OER Tools for Racial Equity Classroom and Community Discourse. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.org/inclusive-innovation. [doi:10.51388/20.500.12265/200](https://doi.org/10.51388/20.500.12265/200)
+- Angevine, C., Cator, K., Liberman, B., Smith, K., & Young, V. (2019). Designing a Process for Inclusive Innovation: A Radical Commitment to Equity. Digital Promise. https://digitalpromise.dspacedirect.org/items/d6db3e76-2dc9-4ea6-ae68-49814c88e6b6. [doi:10.51388/20.500.12265/86](https://doi.org/10.51388/20.500.12265/86)
 - White, L. P. and Merritt Johnson, A. (2024, May). Realizing District-Community Driven Outcomes Through Inclusive Innovation. Digital Promise. https://doi.org/10.51388/20.500.12265/214
 - Viki M. Young, Ph.D. and Alexandra Merritt Johnson, Ph.D. (2024). Sustainability in Inclusive Innovation: District-Community Solutions, Mindsets, and Practices. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.dspacedirect.org/items/94695da1-ad96-49e5-b461-b759d617ae25
 
@@ -95,11 +95,11 @@ An equity-centered research-and-development framework created by Digital Promise
 - Babineau, K., Shah, Z., Jacobs, B., Miller, A., Alvarado, B., Aguirre, N., Fennelly-Atkinson, R., & Young, V. (2025). Building Bridges: Cultivating Interconnectedness for STEM Pathways in San Diego. Digital Promise. https://doi.org/10.51388/20.500.12265/254
 - Bland, J. & Smith, K. (2023, February). Recruitment and retention: Pilot solutions designed by teachers of color (Phase I). Digital Promise. https://doi.org/10.51388/20.500.12265/168
 - Babineau, K., Aso, C., Ganoo, K., Jacobs, B., Lenderman, K., Shah, Z., Smith, K., & Young, V. M. (2025). From Rural Districts to Statewide Pathways: A Blueprint for Scaling Cybersecurity Workforce Development Through Regional Collaboration. Digital Promise. https://doi.org/10.51388/20.500.12265/263
-- Angevine, C., Cator, K., Liberman, B., Smith, K., & Young, V. (2019). Designing a Process for Inclusive Innovation: A Radical Commitment to Equity. Digital Promise. https://digitalpromise.org
+- Angevine, C., Cator, K., Liberman, B., Smith, K., & Young, V. (2019). Designing a Process for Inclusive Innovation: A Radical Commitment to Equity. Digital Promise. https://digitalpromise.org. [doi:10.51388/20.500.12265/86](https://doi.org/10.51388/20.500.12265/86)
 - Latia P. White, Ed. D. (2026). Beyond Participation: The Capacities That Shape Engagement in Collaborative Innovation. Digital Promise, Center for Learner Pathway Innovations. https://digitalpromise.dspacedirect.org/items/e933ec0e-f153-4046-842b-61b696b00ba2
-- Smith, K., & Young, V. M. (2024). A New Narrative: How Unlocking the Power of R&D Through Inclusive Innovation Can Transform Education. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.dspacedirect.org/items/73f2e0fa-dca8-4cd0-a8da-eb18b59453c4
-- Johnson, A. M., & Lenderman, K. (2023). Socratic Circles: Building OER Tools for Racial Equity Classroom and Community Discourse. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.org/inclusive-innovation
-- Angevine, C., Cator, K., Liberman, B., Smith, K., & Young, V. (2019). Designing a Process for Inclusive Innovation: A Radical Commitment to Equity. Digital Promise. https://digitalpromise.dspacedirect.org/items/d6db3e76-2dc9-4ea6-ae68-49814c88e6b6
+- Smith, K., & Young, V. M. (2024). A New Narrative: How Unlocking the Power of R&D Through Inclusive Innovation Can Transform Education. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.dspacedirect.org/items/73f2e0fa-dca8-4cd0-a8da-eb18b59453c4. [doi:10.51388/20.500.12265/202](https://doi.org/10.51388/20.500.12265/202)
+- Johnson, A. M., & Lenderman, K. (2023). Socratic Circles: Building OER Tools for Racial Equity Classroom and Community Discourse. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.org/inclusive-innovation. [doi:10.51388/20.500.12265/200](https://doi.org/10.51388/20.500.12265/200)
+- Angevine, C., Cator, K., Liberman, B., Smith, K., & Young, V. (2019). Designing a Process for Inclusive Innovation: A Radical Commitment to Equity. Digital Promise. https://digitalpromise.dspacedirect.org/items/d6db3e76-2dc9-4ea6-ae68-49814c88e6b6. [doi:10.51388/20.500.12265/86](https://doi.org/10.51388/20.500.12265/86)
 - White, L. P. and Merritt Johnson, A. (2024, May). Realizing District-Community Driven Outcomes Through Inclusive Innovation. Digital Promise. https://doi.org/10.51388/20.500.12265/214
 - Viki M. Young, Ph.D. and Alexandra Merritt Johnson, Ph.D. (2024). Sustainability in Inclusive Innovation: District-Community Solutions, Mindsets, and Practices. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.dspacedirect.org/items/94695da1-ad96-49e5-b461-b759d617ae25
 
@@ -218,7 +218,7 @@ Drawing on the Tamarack Institute's work on context experts (Attygalle, 2017), t
 - [Digital Village Square: student-designed app for sharing writing ideas and feedback](../elements/digital-village-square-app.md)
 
 ## Key Sources
-- Smith, K., & Young, V. M. (2024). A New Narrative: How Unlocking the Power of R&D Through Inclusive Innovation Can Transform Education. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.dspacedirect.org/items/73f2e0fa-dca8-4cd0-a8da-eb18b59453c4
+- Smith, K., & Young, V. M. (2024). A New Narrative: How Unlocking the Power of R&D Through Inclusive Innovation Can Transform Education. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.dspacedirect.org/items/73f2e0fa-dca8-4cd0-a8da-eb18b59453c4. [doi:10.51388/20.500.12265/202](https://doi.org/10.51388/20.500.12265/202)
 -->
 
 <!-- merged 2026-10-10 from theories/inclusive-innovation-equity-centered-rd-process ("Inclusive Innovation: an equity-centered R&D process with five phases and six Core Tenets"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
@@ -272,7 +272,7 @@ Inclusive Innovation is an equity-centered research and development process in w
 - [Socratic Circles OER suite: professional development modules, classroom guidebook, and Community Socratic Circle materials](../products/socratic-circles.md)
 
 ## Key Sources
-- Johnson, A. M., & Lenderman, K. (2023). Socratic Circles: Building OER Tools for Racial Equity Classroom and Community Discourse. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.org/inclusive-innovation
+- Johnson, A. M., & Lenderman, K. (2023). Socratic Circles: Building OER Tools for Racial Equity Classroom and Community Discourse. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.org/inclusive-innovation. [doi:10.51388/20.500.12265/200](https://doi.org/10.51388/20.500.12265/200)
 -->
 
 <!-- merged 2026-10-10 from theories/inclusive-innovation-equity-first-rd-framework ("Inclusive Innovation: an equity-first education R&D framework that reimagines authority, decision-making, and risk"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
@@ -313,7 +313,7 @@ Inclusive Innovation is an overarching framework for education R&D grounded in w
 - [Three pivots for equity-centered solution sourcing: redefine readiness criteria, reconceptualize expertise, and reimagine procurement pathways](../strategies/three-pivots-equity-solution-sourcing.md)
 
 ## Key Sources
-- Angevine, C., Cator, K., Liberman, B., Smith, K., & Young, V. (2019). Designing a Process for Inclusive Innovation: A Radical Commitment to Equity. Digital Promise. https://digitalpromise.dspacedirect.org/items/d6db3e76-2dc9-4ea6-ae68-49814c88e6b6
+- Angevine, C., Cator, K., Liberman, B., Smith, K., & Young, V. (2019). Designing a Process for Inclusive Innovation: A Radical Commitment to Equity. Digital Promise. https://digitalpromise.dspacedirect.org/items/d6db3e76-2dc9-4ea6-ae68-49814c88e6b6. [doi:10.51388/20.500.12265/86](https://doi.org/10.51388/20.500.12265/86)
 -->
 
 <!-- merged 2026-10-10 from theories/inclusive-innovation-framework ("Inclusive Innovation: a co-research and co-design R&D framework enabling co-leadership among students, teachers, parents, community members, and district leaders"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
@@ -458,5 +458,5 @@ The Inclusive Innovation R&D model is an equity-centered education research and 
 - [Inclusive Innovation Process](../strategies/inclusive_innovation_process.md)
 
 ## Key Sources
-- Smith, K., & Young, V. M. (2024). A New Narrative: How Unlocking the Power of R&D Through Inclusive Innovation Can Transform Education. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.dspacedirect.org/items/73f2e0fa-dca8-4cd0-a8da-eb18b59453c4
+- Smith, K., & Young, V. M. (2024). A New Narrative: How Unlocking the Power of R&D Through Inclusive Innovation Can Transform Education. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.dspacedirect.org/items/73f2e0fa-dca8-4cd0-a8da-eb18b59453c4. [doi:10.51388/20.500.12265/202](https://doi.org/10.51388/20.500.12265/202)
 -->

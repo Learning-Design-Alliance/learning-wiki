@@ -18,8 +18,8 @@ sources:
     kind: associational
     rigour: 2
   - id: means-2020-2
-    resource: "https://digitalpromise.dspacedirect.org/items/32aee7c4-5363-4d50-bc9c-a338e7dfac7e"
-    title: "Means, B., and Neisler, J., with Langer Research Associates. (2020). Suddenly Online: A National Survey of Undergraduates During the COVID-19 Pandemic. San Mateo, CA: Digital Promise. https://digitalpromise.dspacedirect.org/items/32aee7c4-5363-4d50-bc9c-a338e7dfac7e"
+    resource: "https://doi.org/10.51388/20.500.12265/98"
+    title: "Means, B., and Neisler, J., with Langer Research Associates. (2020). Suddenly Online: A National Survey of Undergraduates During the COVID-19 Pandemic. San Mateo, CA: Digital Promise. https://digitalpromise.dspacedirect.org/items/32aee7c4-5363-4d50-bc9c-a338e7dfac7e. [doi:10.51388/20.500.12265/98](https://doi.org/10.51388/20.500.12265/98)"
     author: Means, B., and Neisler, J., with Langer Research Associates
     q: 3
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Staying motivated was the most pervasive challenge of learning remotely, and students missed instructor feedback, peer collaboration, and hands-on experiences
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q3`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Seventy-nine percent of students cited staying motivated as a problem (42 percent major, 37 percent minor); other common challenges were finding a quiet place (55 percent), home/family responsibilities (54 percent), and not knowing where to get help (54 percent). [→ Means 2020](#means-2020)
@@ -50,7 +50,7 @@ Structured-response items asked students to rate a set of specific problems with
 
 ### Means 2020 (2)
 
-Means, B., and Neisler, J., with Langer Research Associates. (2020). Suddenly Online: A National Survey of Undergraduates During the COVID-19 Pandemic. San Mateo, CA: Digital Promise. https://digitalpromise.dspacedirect.org/items/32aee7c4-5363-4d50-bc9c-a338e7dfac7e
+Means, B., and Neisler, J., with Langer Research Associates. (2020). Suddenly Online: A National Survey of Undergraduates During the COVID-19 Pandemic. San Mateo, CA: Digital Promise. https://digitalpromise.dspacedirect.org/items/32aee7c4-5363-4d50-bc9c-a338e7dfac7e. [doi:10.51388/20.500.12265/98](https://doi.org/10.51388/20.500.12265/98)
 
 `q3 · i?` · `associational · r2`
 

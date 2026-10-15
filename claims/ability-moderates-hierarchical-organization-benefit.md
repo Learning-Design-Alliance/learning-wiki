@@ -69,3 +69,4 @@ Experiment 3 correlational observation: the two subjects whose retrieval paths c
 - [Information at higher levels of an acquired hierarchical organization is recalled better than information at lower levels](higher-hierarchy-levels-recalled-better.md) — related
 - [A hierarchical organization facilitates tasks only when matched to the task domain: organization A aids deductive tasks and organization B aids historical tasks](organization-task-match-determines-benefit.md) — related
 - [Algebra ability level differences appear on both criteria with no treatment-by-ability interaction](ability-level-differences-verbal-problem-solving.md) — reports the opposite
+- [Prior knowledge moderated the VF-process advantage over PF: the benefit of observing the process grew with prior knowledge, while prior knowledge did not affect post-test performance in the PF condition](prior-knowledge-moderates-vf-process-vs-pf.md) — related

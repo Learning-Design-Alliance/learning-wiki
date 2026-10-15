@@ -91,13 +91,13 @@ Metacognitive strategy instruction reliably improves achievement, with the stron
 - [Provide opportunities for independent practice with repeated cycles of use and structured reflection to strengthen regulatory skills over time](independent-practice-cycles-for-ai-regulation.md)
 
 ## Examples
-- **Reciprocal Teaching** (Palincsar & Brown) — small groups rotate leading four comprehension strategies (predicting, questioning, clarifying, summarizing) with teacher modeling fading over ~20 sessions; large comprehension gains for struggling readers.
+- **[Reciprocal Teaching](reciprocal_teaching.md)** (Palincsar & Brown) — small groups rotate leading four comprehension strategies (predicting, questioning, clarifying, summarizing) with teacher modeling fading over ~20 sessions; large comprehension gains for struggling readers.
 - **[Khan Academy](https://www.khanacademy.org)** — mastery-tracking dashboards prompt learners to monitor progress and choose what to practice next, externalizing the planning and evaluation cycle.
 - **[Learning Scientists](https://www.learningscientists.org)** downloadable posters — classroom materials that teach six evidence-based study strategies with when-to-use guidance.
-- **Reciprocal Teaching (Palincsar & Brown)** — small-group reading instruction where students rotate through the roles of questioning, clarifying, summarizing, and predicting; large comprehension gains in classroom studies.
-- **Cognitive Apprenticeship (reading/writing workshops)** — instructors think aloud while composing or analyzing text, then coach students through the same strategies with fading support.
+- **[Reciprocal Teaching](reciprocal_teaching.md) (Palincsar & Brown)** — small-group reading instruction where students rotate through the roles of questioning, clarifying, summarizing, and predicting; large comprehension gains in classroom studies.
+- **[Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) (reading/writing workshops)** — instructors think aloud while composing or analyzing text, then coach students through the same strategies with fading support.
 - **[Khan Academy](https://www.khanacademy.org)** — mastery-tracking dashboards and hint structures prompt learners to monitor their own progress and choose when to seek help.
-- **Exam wrappers** (e.g., used in physics courses at the University of Michigan) — post-exam reflection forms asking students to analyze how they prepared and what to change, feeding directly into the next study cycle.
+- **[Exam wrappers](exam-wrappers.md)** (e.g., used in physics courses at the University of Michigan) — post-exam reflection forms asking students to analyze how they prepared and what to change, feeding directly into the next study cycle.
 
 ## Key Sources
 - Hattie, J., Biggs, J., & Purdie, N. (1996). Effects of learning skills interventions on student learning: A meta-analysis. *Review of Educational Research, 66*(2), 99–136. [doi:10.3102/00346543066002099](https://doi.org/10.3102/00346543066002099)

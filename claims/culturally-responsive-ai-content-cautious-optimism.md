@@ -18,8 +18,8 @@ sources:
     kind: qualitative
     rigour: 2
   - id: stephenson-2025-2
-    resource: "https://digitalpromise.dspacedirect.org/items/73c883c0-4652-499d-aeb2-74f773749c60"
-    title: "Stephenson, S. P., Leones, T., Kamdar, D., Prado, Y., & Ddamulira, J. (2025). A National Context of Generative AI for Reading to Support English Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/73c883c0-4652-499d-aeb2-74f773749c60"
+    resource: "https://doi.org/10.51388/20.500.12265/258"
+    title: "Stephenson, S. P., Leones, T., Kamdar, D., Prado, Y., & Ddamulira, J. (2025). A National Context of Generative AI for Reading to Support English Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/73c883c0-4652-499d-aeb2-74f773749c60. [doi:10.51388/20.500.12265/258](https://doi.org/10.51388/20.500.12265/258)"
     author: "Stephenson, S. P., Leones, T., Kamdar, D., Prado, Y., & Ddamulira, J."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Educators cautiously support AI for culturally responsive content generation while fearing cultural biases and stereotypes in AI output
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 qualitative `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Participants were cautiously optimistic about AI customizing content to cultural and community settings, viewing representation as helping students connect with texts. [→ Stephenson 2025](#stephenson-2025)
@@ -50,7 +50,7 @@ In reactions to Scenario 3, "Participants were cautiously optimistic about AI's 
 
 ### Stephenson 2025 (2)
 
-Stephenson, S. P., Leones, T., Kamdar, D., Prado, Y., & Ddamulira, J. (2025). A National Context of Generative AI for Reading to Support English Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/73c883c0-4652-499d-aeb2-74f773749c60
+Stephenson, S. P., Leones, T., Kamdar, D., Prado, Y., & Ddamulira, J. (2025). A National Context of Generative AI for Reading to Support English Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/73c883c0-4652-499d-aeb2-74f773749c60. [doi:10.51388/20.500.12265/258](https://doi.org/10.51388/20.500.12265/258)
 
 `q2 · i?` · `qualitative · r2`
 
@@ -67,3 +67,4 @@ Alongside optimism, "Participants shared a concern, even a 'fear,' of the biases
 - Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs — a broader claim this one bears on
 - GPT detectors frequently misclassify non-native English writing as AI-generated, raising fairness concerns for AI policy — related
 - [When AI/AN communities design their own place-, culture-, and language-based education programs, students' school engagement and learning flourish](culture-based-programs-flourish-engagement.md) — related
+- [Ethical considerations are a sidelined research theme, addressed by only seven of 183 publications, mostly on stereotype perpetuation by generative AI](ethical-considerations-sidelined-seven-publications.md) — related

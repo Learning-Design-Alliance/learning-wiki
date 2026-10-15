@@ -27,7 +27,7 @@ sources:
 # Scaffolding
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 29 claims (10 for, 16 mixed, 3 against) · 24 studies (11 causal, 3 quant-synthesis, 3 review, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 5 of 24 report an effect size · 23 claims rest on one study
+> **Evidence** · 34 claims (14 for, 17 mixed, 3 against) · 26 studies (13 causal, 3 quant-synthesis, 3 review, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 5 of 26 report an effect size · 28 claims rest on one study
 
 ## Conditional relationship
 
@@ -100,6 +100,11 @@ Each question below links a general claim that gathers the studies behind it int
 Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.
 
 - [Peerwise Student Questions 75 Percent High Quality](../claims/peerwise-student-questions-75-percent-high-quality.md) [~M] — does not test the relationship: it reports that 75% of sampled student-authored physics questions met quality criteria, in a course that gave scaffolding activities before authoring; the authors' link to the scaffolding is an untested hypothesis with no unscaffolded comparison.
+- Un andamiaje de autoeficacia en un ambiente computacional incrementa el logro de aprendizaje en matemáticas de estudiantes de quinto de primaria que aprenden de forma individual. [+W] — attached 2026-10-15 from Ramírez Ruiz (2018), which proposed "Incorporar andamiajes motivacionales de autoeficacia en ambientes computacionales para favorecer logro equitativo entre estilos cognitivos"; tests this page's relationship.
+- El andamiaje motivacional computacional disminuye las diferencias de logro asociadas al estilo cognitivo en la dimensión DIC, favoreciendo equivalentemente a dependientes e independientes de campo. [+W] — attached 2026-10-15 from Ramírez Ruiz (2018), which proposed "Incorporar andamiajes motivacionales de autoeficacia en ambientes computacionales para favorecer logro equitativo entre estilos cognitivos".
+- El andamiaje de autoeficacia aumenta la carga germánica y reduce las cargas cognitivas intrínseca y extrínseca en estudiantes que aprenden con un ambiente computacional. [+W] — attached 2026-10-15 from Ramírez Ruiz (2018), which proposed "Incorporar andamiajes motivacionales de autoeficacia en ambientes computacionales para favorecer logro equitativo entre estilos cognitivos"; tests this page's relationship.
+- [Failure-driven and success-driven scaffolding before instruction produce similar posttest conceptual understanding](../claims/failure-and-success-scaffolding-similar-posttest-conceptual-understanding.md) [~W] — attached 2026-10-15 from Sinha et al. (2021), which proposed "Design preparatory problem-solving scaffolds that explicitly engineer either success or failure before instruction".
+- [Students exposed to failure-driven scaffolding demonstrated higher quality of constructive reasoning](../claims/failure-driven-scaffolding-higher-quality-constructive-reasoning.md) [+W] — attached 2026-10-15 from Sinha et al. (2021), which proposed "Design preparatory problem-solving scaffolds that explicitly engineer either success or failure before instruction".
 
 ## Objective and learner-valued goal
 
@@ -134,7 +139,7 @@ Assisted performance, unassisted immediate performance, delayed retention, trans
 
 ## Key Sources
 - Wood, D., Bruner, J. S., & Ross, G. (1976). The role of tutoring in problem solving. *Journal of Child Psychology and Psychiatry, 17*(2), 89-100. [https://doi.org/10.1111/j.1469-7610.1976.tb00381.x](https://doi.org/10.1111/j.1469-7610.1976.tb00381.x)
-- Bates, S. P., Galloway, R. K., Riise, J., and Homer, D. (2013). Assessing the quality of a student-generated question repository. https://arxiv.org/abs/1308.2202
+- Bates, S. P., Galloway, R. K., Riise, J., and Homer, D. (2013). Assessing the quality of a student-generated question repository. https://arxiv.org/abs/1308.2202. [doi:10.48550/arxiv.1308.2202](https://doi.org/10.48550/arxiv.1308.2202)
 - Reisslein, J., Atkinson, R. K., & Reisslein, M. (2004). Exploring the Presentation and Format of Help in a Computer-Based Electrical Engineering Learning Environment. Arizona State University. https://eric.ed.gov/?id=ED484994
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above. The former body, kept verbatim:
@@ -205,7 +210,7 @@ The article proposes that the quality of student-authored questions depends subs
 -
 
 ## Key Sources
-- Bates, S. P., Galloway, R. K., Riise, J., and Homer, D. (2013). Assessing the quality of a student-generated question repository. https://arxiv.org/abs/1308.2202
+- Bates, S. P., Galloway, R. K., Riise, J., and Homer, D. (2013). Assessing the quality of a student-generated question repository. https://arxiv.org/abs/1308.2202. [doi:10.48550/arxiv.1308.2202](https://doi.org/10.48550/arxiv.1308.2202)
 -->
 
 <!-- merged 2026-10-07 from principles/text-system-controlled-prompts-for-novices ("For novice learners in highly structured domains, use text-based prompts delivered under the control of the instructional module"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.

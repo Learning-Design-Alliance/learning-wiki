@@ -63,7 +63,7 @@ Feedback is among the most powerful influences on learning, but its effect depen
 - [Self-Assessment](../elements/self-assessment.md) — the evaluative skills built by peer review transfer to judging one's own work
 
 ## Examples
-- **Calibrated Peer Review (CPR)** (https://calibratedpeerreview.org) — a web system in which students first review calibration documents with known instructor ratings, then review peers' work; used widely in undergraduate chemistry and writing courses.
+- **[Calibrated Peer Review](calibrated_peer_review.md) (CPR)** (https://calibratedpeerreview.org) — a web system in which students first review calibration documents with known instructor ratings, then review peers' work; used widely in undergraduate chemistry and writing courses.
 - **Peergrade / PeerStudio-style workflows in MOOCs** — platforms such as Coursera route assignments through structured peer review with rubrics when instructor grading is infeasible at scale.
 - **Writing-across-the-curriculum programs** (e.g., Michigan State's peer writing consultant model) pair instructor comments on drafts with trained peer consultant sessions before revision.
 

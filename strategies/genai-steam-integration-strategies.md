@@ -58,6 +58,7 @@ The review recommends a set of classroom strategies: AI-assisted lesson planning
 - [Embed GenAI into existing pedagogical strategies instead of undertaking full curriculum redesign](embed-genai-into-existing-pedagogical-strategies.md)
 - [Embed explicit AI-integrity practices such as ethics lessons, usage pledges, and AI-output marking into science instruction](ai-integrity-practices-science-classroom.md)
 - [Reaffirm learning-by-making through STEAM tinkering and critical AI literacy to cultivate epistemic resilience](steam-tinkering-critical-ai-literacy-strategy.md)
+- [Integrate AI-enabled personalized STEM education with teacher participation, project-based collaboration, and cross-disciplinary task design, matched to students' cognitive developmental level](evidence-based-pedagogically-aligned-ai-stem-integration.md)
 
 ## Examples
 -

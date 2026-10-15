@@ -152,7 +152,7 @@ Better entries, more entries, self-regulation questionnaire scores, course exams
 
 ## Examples
 - **Reflection journals**: Learners respond regularly to prompts about what they learned, where they struggled, and what they will try next.
-- **Dialogue journals**: Instructor and learner exchange short written responses over time.
+- **[Dialogue journals](../strategies/dialogue-journals.md)**: Instructor and learner exchange short written responses over time.
 - **Fieldwork journals**: Learners document observations, questions, and pattern recognition during practice-based experiences.
 - **Concept journals**: Learners explain an idea in their own words and connect it to examples or prior knowledge.
 

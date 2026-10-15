@@ -48,3 +48,4 @@ Parallel use of the similarity-based MOSS tool during the Spring 2026 offering; 
 - [Average H-scores rose from near-zero in pre-LLM offerings to 11.9 in Spring 2026, with maximum scores reaching 81](h-score-distributions-rose-over-time.md) — related
 - [In an unrestricted university course, only a minority of students (23 of 68, 34%) reported using LLMs, averaging 12% of discussion-point and 11% of critical-summary submissions](minority-students-report-llm-use-research-course.md) — related
 - [The visualizer's flagging mechanisms flagged all tested logs from cases already known to involve plagiarism while still requiring student-level review](plagiarism-cases-flagged-by-thonny-log-visualizer.md) — related
+- [Popular plagiarism detection tools detect plagiarism in AI-assisted essays in less than 15% of cases](plagiarism-detectors-below-15-percent-ai-essays.md) — related

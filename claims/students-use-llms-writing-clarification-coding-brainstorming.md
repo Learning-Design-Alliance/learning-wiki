@@ -49,3 +49,4 @@ Online questionnaire conducted 2023-24 with 100 respondents, 52% from AI, Roboti
 - [Students use the integrated AI assistant differently across writing stages: clarification early, verification late](assistant-use-varies-by-writing-stage.md) — related
 - [Design students' GenAI use concentrates on research, writing and brainstorming tasks, with low use for image, media and code generation](genai-use-concentrated-research-writing-brainstorming.md) — related
 - [Instant access to information and 24/7 availability are the most recognised benefits of LLMs for learning](instant-access-24-7-top-llm-benefits.md) — related
+- [Language learning was the most common subject domain for AIEd in higher education, at 17%](language-learning-top-subject-domain-ai-ed-he.md) — related

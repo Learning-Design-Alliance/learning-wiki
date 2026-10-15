@@ -48,3 +48,4 @@ Qualitative reflexive thematic analysis of eight group interviews with 48 studen
 - Keyword co-occurrence analysis identifies three thematic clusters: traditional AI/predictive modeling, medical education with generative AI, and ethics/knowledge/healthcare integration — related
 - Keyword co-occurrence analysis reveals an emerging practice-based ethical orientation, with reflective practice and reflexivity terms positioned close to core AI and ethics nodes — related
 - A three-phase human-LLM inductive pipeline produced a hierarchical codebook of 72 items within 19 categories and six domains from 45,000 educator-AI messages — related
+- [EAI effectiveness was reported across all educational stages, with most studies in secondary education and university](eai-effective-all-educational-stages.md) — related

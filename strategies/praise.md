@@ -66,7 +66,7 @@ Praise is a form of [Feedback](../elements/feedback.md) — plain text — and i
 - [Check-Ins](../principles/check-ins.md) — relationship-building that makes praise credible
 
 ## Examples
-- **Responsive Classroom** (https://www.responsiveschools.org) trains teachers in "reinforcing language" — specific, descriptive acknowledgment of student behavior rather than generic approval.
+- **[Responsive Classroom](../products/responsive-classroom.md)** (https://www.responsiveschools.org) trains teachers in "reinforcing language" — specific, descriptive acknowledgment of student behavior rather than generic approval.
 - **Teacher-student interaction coding (CLASS framework)** (https://teachstone.com) distinguishes quality of feedback from generic praise and shows the former predicts achievement gains.
 - A mathematics teacher replaces "Great job!" with "You checked your solution by substituting back — that's what mathematicians do," reinforcing the strategy rather than the person.
 

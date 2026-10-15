@@ -183,7 +183,7 @@ Changes in concerns, changes in use, fidelity of use and effects on students are
 ## Key Sources
 - Hall, Gene E.; Rutherford, William L. (1983). Client Concerns: A Guide to Facilitating Institutional Change. Research and Development Center for Teacher Education, The University of Texas at Austin. https://eric.ed.gov/?id=ED251728
 - Hall, Gene E. (1978). Implications for Planned Dissemination, Implementation, and Evaluation Revealed in the SRI/NDN Evaluation and Levels of Use of the Innovation Studies. Procedures for Adopting Educational Innovations Project. https://eric.ed.gov/?id=ED190626
-- Dietzel, C. S.; Abeles, Norman. (1974). Client-Therapist Complementarity and Therapeutic Outcome. https://eric.ed.gov/?id=ED091646
+- Dietzel, C. S.; Abeles, Norman. (1974). Client-Therapist Complementarity and Therapeutic Outcome. https://eric.ed.gov/?id=ED091646. [doi:10.1037/h0076731](https://doi.org/10.1037/h0076731)
 - Orr, D., & Mrazek, R. (2009). Developing the level of adoption survey to inform collaborative discussion regarding educational innovation. Canadian Journal of Learning and Technology, V35(2). https://www.cjlt.ca
 
 <!-- deprecated 2026-10-07: superseded by the conditional model above. The previous body, kept verbatim.
@@ -307,7 +307,7 @@ The article's central design recommendation is that the helpfulness of a confirm
 -
 
 ## Key Sources
-- Dietzel, C. S.; Abeles, Norman. (1974). Client-Therapist Complementarity and Therapeutic Outcome. https://eric.ed.gov/?id=ED091646
+- Dietzel, C. S.; Abeles, Norman. (1974). Client-Therapist Complementarity and Therapeutic Outcome. https://eric.ed.gov/?id=ED091646. [doi:10.1037/h0076731](https://doi.org/10.1037/h0076731)
 -->
 
 <!-- merged 2026-10-15 from principles/supportive-community-before-collaborative-self-report ("Establish a supportive, anonymous, non-evaluative professional community before using collaborative self-report adoption data"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.

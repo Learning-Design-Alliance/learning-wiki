@@ -76,7 +76,7 @@ Choice boards operationalize autonomy support: providing meaningful choices with
 - **Middle school English** — after a novel study, students choose to produce a movie trailer, diary entries from a character's perspective, or a podcast episode; all are scored with the same literary-analysis rubric.
 - **Elementary phonics** — a homework board offers finding syllable types in books, reading high-frequency words to a family member, or app-based practice, with "choose two" rules.
 - **[Choice boards in Canvas/Google Slides](https://www.controlaltachieve.com/2019/04/choice-activities.html)** — digital boards with hyperlinked cells that open task instructions or templates; completion tracked via linked submissions.
-- **Professional development** — teachers select from a board of micro-credentials or classroom-implementation tasks to demonstrate a shared instructional standard.
+- **[Professional development](../patterns/professional-development.md)** — teachers select from a board of micro-credentials or classroom-implementation tasks to demonstrate a shared instructional standard.
 
 ## Key Sources
 - Patall, E. A., Cooper, H., & Robinson, J. C. (2008). The effects of choice on intrinsic motivation and related outcomes: A meta-analysis of research findings. *Psychological Bulletin, 134*(2), 270–300. [doi:10.1037/0033-2909.134.2.270](https://doi.org/10.1037/0033-2909.134.2.270)

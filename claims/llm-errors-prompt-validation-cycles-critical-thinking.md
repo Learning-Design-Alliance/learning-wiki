@@ -47,3 +47,4 @@ The review's synthesis of included studies (RQ1 findings section) reports that i
 - [Students remained cautious about relying on GenAI throughout the creative process, citing imperfect outputs and perceived loss of ownership](student-cautions-genai-ownership-and-output-quality.md) — related
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — reports the opposite
 - [Gen-AI hallucinates sources and values and produces convincing but incorrect explanations, risking student misinformation](genai-hallucination-convincing-incorrect-explanations.md) — related
+- [Higher-quality prompt engineering skills predict the quality of LLM output in goal-directed use of generative AI tools](prompt-engineering-skill-predicts-llm-output-quality.md) — related

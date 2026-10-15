@@ -35,7 +35,7 @@ sources:
 # Peer Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 30 claims (15 for, 15 mixed) · 37 studies (12 quant-synthesis, 8 causal, 5 qualitative, 4 associational, 3 review, 3 design, 2 theoretical), `q1`–`q4` · 10 of 37 report an effect size · 22 claims rest on one study
+> **Evidence** · 32 claims (17 for, 15 mixed) · 38 studies (12 quant-synthesis, 9 causal, 5 qualitative, 4 associational, 3 review, 3 design, 2 theoretical), `q1`–`q4` · 11 of 38 report an effect size · 24 claims rest on one study
 
 ## Conditional relationship
 
@@ -153,6 +153,8 @@ Claims that bear on peer learning but are not part of the model above, each with
 - [Feedback source does not significantly affect revised essay quality once initial draft quality is controlled](../claims/feedback-source-no-effect-on-revision-outcomes.md) [~W]
 - [Collaborative writing methods such as peer criticism and group revision were in use before the collaborative learning movement](../claims/collaborative-writing-methods-predate-the-collaborative-learning-movement.md) [~W]
 - [In the first assessment stage, peer group and ChatGPT-4o feedback showed no significant difference in quality](../claims/stage1-no-significant-difference-peer-ai-feedback-quality.md) [~W]
+- [Participating in peer assessment causes a small but significant improvement in short-term achievement on unit quizzes in a college statistics course](../claims/peer-assessment-improves-unit-quiz-achievement.md) [+W] — attached 2026-10-15 from Sun DL et al. (2015), which proposed "Use peer assessment not only where it is the only option, but also in smaller settings where individualized instructor feedback is feasible"; tests this page's relationship.
+- [The achievement benefit of peer assessment persists to a later comprehensive final exam](../claims/peer-assessment-gains-persist-to-final-exam.md) [+W] — attached 2026-10-15 from Sun DL et al. (2015), which proposed "Use peer assessment not only where it is the only option, but also in smaller settings where individualized instructor feedback is feasible"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

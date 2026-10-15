@@ -84,7 +84,7 @@ Token economies reliably increase the frequency of targeted behaviors, especiall
 - [Classroom routines and procedures](establishing-routines.md) — the behaviors token economies most often target
 
 ## Examples
-- **Good Behavior Game** — a well-researched group contingency in which teams earn privileges by keeping disruptive behavior below a criterion; decades of classroom trials support it [~S]
+- **[Good Behavior Game](../products/good-behavior-game.md)** — a well-researched group contingency in which teams earn privileges by keeping disruptive behavior below a criterion; decades of classroom trials support it [~S]
 - **[ClassDojo](https://www.classdojo.com)** — digital points awarded for named positive behaviors, with parent visibility
 - **Special education IEP behavior plans** — individualized token boards exchanged for preferred activities, with scheduled fading
 - **ClassDojo** (https://www.classdojo.com) — digital points awarded for named positive behaviors, with class-wide display; teachers control criteria and visibility.

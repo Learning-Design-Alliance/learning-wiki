@@ -50,6 +50,7 @@ The report recommends that educators 'integrate AI literacy within the topics th
 - [Integrate computational thinking across K-12 subject areas rather than treating it as computer-science-only](integrate-computational-thinking-across-k12-subjects.md)
 - [Select familiar contextual topics and age-appropriate materials when integrating AI into subject courses](familiar-contexts-and-age-appropriate-materials-integrated-ai.md)
 - [Use a modular lesson structure to keep integrated AI curricula scalable under time constraints](modular-lesson-structure-scalable-integrated-ai-curriculum.md)
+- [Integrate AI literacy into disciplinary core subjects rather than adding a new AI subject](integrate-ai-literacy-into-core-subjects.md)
 
 ## Examples
 -

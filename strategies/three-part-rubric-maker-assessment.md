@@ -43,6 +43,7 @@ After a well-crafted prompt, the paper recommends a rubric or checklist as the s
 - [Use open-ended reflection questions as self-assessment in place of end-of-unit tests](open-ended-reflection-maker-self-assessment.md)
 - [Use component-level checklists for lesson planning and rubric design](checklists-for-lesson-planning-and-rubrics.md)
 - [Assess disruption and reclamation with rubric levels of adaptability and automated disruption-reclamation profiles](assess-disruption-reclamation-adaptability.md)
+- [Teachers can use ChatGPT to generate open-ended question prompts, quality rubrics, and formative assessment prompts aligned with learning goals](chatgpt-teacher-assessment-prompt-strategies.md)
 
 ## Examples
 -

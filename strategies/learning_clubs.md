@@ -69,7 +69,7 @@ Learning clubs combine two well-supported levers: autonomy through topic choice 
 
 ## Examples
 - Middle school students each chose a topic, investigated it using a teacher-curated set of websites, print, video, and music, and shared their learning on a class blog incorporating text, images, links, and other multimedia.
-- **Literature Circles (Daniels, 2002)** — book clubs with rotating discussion roles (discussion director, literary luminary, connector), the most widely documented club format in literacy instruction.
+- **[Literature Circles](literature-circles.md) (Daniels, 2002)** — book clubs with rotating discussion roles (discussion director, literary luminary, connector), the most widely documented club format in literacy instruction.
 - **Concept-Oriented Reading Instruction (CORI)** — Guthrie's research program embedding student choice and social collaboration in content-area reading instruction.
 
 ## Key Sources

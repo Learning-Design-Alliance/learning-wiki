@@ -47,3 +47,4 @@ Multi-institutional case study analysis conducted over several months during 202
 - [Unclear policy, workload pressure, and lack of mechanisms to monitor student AI use undermined staff confidence and perceived fairness during AIAS implementation](aias-implementation-facilitating-conditions.md) — related
 - [Governance model shaped AIAS adoption: rapid central rollout generated momentum but curtailed reflection, while department-led adoption built ownership but fragmented strategy](governance-models-shape-aias-adoption.md) — related
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
+- [Australian universities show an escalating trend toward contingent academic appointments and a declining trend in continuing teaching-and-research staff](contingent-academic-employment-trend-australia.md) — related

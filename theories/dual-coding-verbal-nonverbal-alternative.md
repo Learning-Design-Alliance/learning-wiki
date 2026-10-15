@@ -49,6 +49,7 @@ The essay presents dual coding (Sadoski, Paivio, & Goetz, 1991) as an alternativ
 ## Examples
 
 - [Dual Coding](../strategies/dual-coding.md)
+- [Apply DCT to educational research and teacher education in the science and practice of educational psychology](../strategies/dct-implications-research-teacher-education.md)
 
 ## Key Sources
 - Bigenho, Frederick W., Jr. (1992). Conceptual Developments in Schema Theory. https://eric.ed.gov/?id=ED351392

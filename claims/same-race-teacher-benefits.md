@@ -18,16 +18,16 @@ sources:
     kind: review
     rigour: 2
   - id: gold-2020-2
-    resource: "https://digitalpromise.org/2020/03/24/pipeline-and-retention-of-teachers-of-color-systems-and-structures-impeding-growth-and-sustainability-in-the-united-states/"
-    title: "Gold, T. (2020). Pipeline and Retention of Teachers of Color: Systems and Structures Impeding Growth and Sustainability in the United States. Digital Promise. https://digitalpromise.org/2020/03/24/pipeline-and-retention-of-teachers-of-color-systems-and-structures-impeding-growth-and-sustainability-in-the-united-states/"
+    resource: "https://doi.org/10.51388/20.500.12265/96"
+    title: "Gold, T. (2020). Pipeline and Retention of Teachers of Color: Systems and Structures Impeding Growth and Sustainability in the United States. Digital Promise. https://digitalpromise.org/2020/03/24/pipeline-and-retention-of-teachers-of-color-systems-and-structures-impeding-growth-and-sustainability-in-the-united-states/. [doi:10.51388/20.500.12265/96](https://doi.org/10.51388/20.500.12265/96)"
     author: Gold, T.
     q: 2
     i: "?"
     kind: review
     rigour: 1
   - id: gold-2020-3
-    resource: "https://digitalpromise.org/2020/03/24/pipeline-and-retention-of-teachers-of-color-systems-and-structures-impeding-growth-and-sustainability-in-the-united-states/"
-    title: "Gold, T. (2020). Pipeline and Retention of Teachers of Color: Systems and Structures Impeding Growth and Sustainability in the United States. Digital Promise. https://digitalpromise.org/2020/03/24/pipeline-and-retention-of-teachers-of-color-systems-and-structures-impeding-growth-and-sustainability-in-the-united-states/"
+    resource: "https://doi.org/10.51388/20.500.12265/96"
+    title: "Gold, T. (2020). Pipeline and Retention of Teachers of Color: Systems and Structures Impeding Growth and Sustainability in the United States. Digital Promise. https://digitalpromise.org/2020/03/24/pipeline-and-retention-of-teachers-of-color-systems-and-structures-impeding-growth-and-sustainability-in-the-united-states/. [doi:10.51388/20.500.12265/96](https://doi.org/10.51388/20.500.12265/96)"
     author: Gold, T.
     q: 2
     i: "?"
@@ -38,7 +38,7 @@ sources:
 # Students of color benefit academically and behaviorally from having teachers of the same race.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies (3 entries) · 2 review `r1`–`r2` · `q2`
+> **Evidence** · 1 study (3 entries) · review `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` Pairing African American students with a same-race teacher decreased suspension rates for African American males by as much as 15 to 18 percent. [→ Gold 2020](#gold-2020)
@@ -59,7 +59,7 @@ Secondhand report of Lindsay & Hart (2017): same-race teacher pairing reduced su
 
 ### Gold 2020 (2)
 
-Gold, T. (2020). Pipeline and Retention of Teachers of Color: Systems and Structures Impeding Growth and Sustainability in the United States. Digital Promise. https://digitalpromise.org/2020/03/24/pipeline-and-retention-of-teachers-of-color-systems-and-structures-impeding-growth-and-sustainability-in-the-united-states/
+Gold, T. (2020). Pipeline and Retention of Teachers of Color: Systems and Structures Impeding Growth and Sustainability in the United States. Digital Promise. https://digitalpromise.org/2020/03/24/pipeline-and-retention-of-teachers-of-color-systems-and-structures-impeding-growth-and-sustainability-in-the-united-states/. [doi:10.51388/20.500.12265/96](https://doi.org/10.51388/20.500.12265/96)
 
 `q2 · i?` · `review · r1`
 
@@ -69,7 +69,7 @@ Secondhand report of Gershenson et al. (2017) finding that exposure to one Afric
 
 ### Gold 2020 (3)
 
-Gold, T. (2020). Pipeline and Retention of Teachers of Color: Systems and Structures Impeding Growth and Sustainability in the United States. Digital Promise. https://digitalpromise.org/2020/03/24/pipeline-and-retention-of-teachers-of-color-systems-and-structures-impeding-growth-and-sustainability-in-the-united-states/
+Gold, T. (2020). Pipeline and Retention of Teachers of Color: Systems and Structures Impeding Growth and Sustainability in the United States. Digital Promise. https://digitalpromise.org/2020/03/24/pipeline-and-retention-of-teachers-of-color-systems-and-structures-impeding-growth-and-sustainability-in-the-united-states/. [doi:10.51388/20.500.12265/96](https://doi.org/10.51388/20.500.12265/96)
 
 `q2 · i?` · `review · r2`
 

@@ -54,4 +54,4 @@ The article recommends designing inquiry activities by specifying goals first an
 - [Integrate GenAI around a defined educational problem with explicit guardrails, not around the novelty of the tool](../strategies/integrate-genai-around-defined-educational-problem.md)
 
 ## Key Sources
-- Rafelski, M., Foley, M., Graves, G. J., Kretke, K. A., Mills, E., Nassir, M., & Patel, S. (2010). Teaching Astronomy with an Inquiry Activity on Stellar Populations. ASP Conference Series. https://arxiv.org/abs/1009.5404
+- Rafelski, M., Foley, M., Graves, G. J., Kretke, K. A., Mills, E., Nassir, M., & Patel, S. (2010). Teaching Astronomy with an Inquiry Activity on Stellar Populations. ASP Conference Series. https://arxiv.org/abs/1009.5404. [doi:10.48550/arxiv.1009.5404](https://doi.org/10.48550/arxiv.1009.5404)

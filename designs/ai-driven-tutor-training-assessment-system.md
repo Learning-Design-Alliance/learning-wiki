@@ -49,4 +49,4 @@ The article introduces a pipeline that trains tutors on research-supported "tuto
 -
 
 ## Key Sources
-- Thomas, D. R., Kamikazi, M. C. A., Brandt, C., Borchers, C., & Koedinger, K. R. (2026). AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice. https://arxiv.org/abs/2606.18617
+- Thomas, D. R., Kamikazi, M. C. A., Brandt, C., Borchers, C., & Koedinger, K. R. (2026). AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice. https://arxiv.org/abs/2606.18617. [doi:10.48550/arxiv.2606.18617](https://doi.org/10.48550/arxiv.2606.18617)

@@ -65,9 +65,9 @@ Discussion after reading works because verbalizing interpretations forces elabor
 - [Reciprocal teaching](../principles/cognitive-activation.md) — a discussion routine that rotates comprehension-strategy roles among learners
 
 ## Examples
-- **Literature circles** (e.g., as implemented in Fountas & Pinnell's *Guiding Readers and Writers*) — small groups discuss a shared novel using rotating roles such as discussion director and literary luminary.
-- **Questioning the Author** (Beck & McKeown) — during and after reading informational texts, the teacher poses "what is the author trying to tell us here?" queries and builds discussion on student responses.
-- **Reciprocal Teaching** (Palincsar & Brown) — post-reading segments of predicting, questioning, clarifying, and summarizing are led by students in turn.
+- **[Literature circles](literature-circles.md)** (e.g., as implemented in Fountas & Pinnell's *Guiding Readers and Writers*) — small groups discuss a shared novel using rotating roles such as discussion director and literary luminary.
+- **[Questioning the Author](questioning-the-author.md)** (Beck & McKeown) — during and after reading informational texts, the teacher poses "what is the author trying to tell us here?" queries and builds discussion on student responses.
+- **[Reciprocal Teaching](reciprocal_teaching.md)** (Palincsar & Brown) — post-reading segments of predicting, questioning, clarifying, and summarizing are led by students in turn.
 
 ## Key Sources
 - Murphy, P. K., Wilkinson, I. A. G., Soter, A. O., Hennessey, M. N., & Alexander, J. F. (2009). Examining the effects of classroom discussion on students' comprehension of text: A meta-analysis. *Journal of Educational Psychology, 101*(3), 740-764. [doi:10.1037/a0015576](https://doi.org/10.1037/a0015576)

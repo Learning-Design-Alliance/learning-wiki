@@ -39,7 +39,7 @@ sources:
 # Cognitive Load Management
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 32 claims (15 for, 16 mixed, 1 against) · 34 studies (13 causal, 8 quant-synthesis, 8 review, 4 theoretical, 1 design), `q1`–`q4` · 10 of 34 report an effect size · 24 claims rest on one study
+> **Evidence** · 33 claims (16 for, 16 mixed, 1 against) · 35 studies (14 causal, 8 quant-synthesis, 8 review, 4 theoretical, 1 design), `q1`–`q4` · 10 of 35 report an effect size · 25 claims rest on one study
 
 ## Conditional relationship
 
@@ -110,6 +110,7 @@ Keep learners, task, comparator, outcome and horizon with each result when trans
 Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked. The rest of that list was read against the model on 2026-10-15 and now sits in it.
 
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+M] — not settled: the text available could not confirm the entries (abstract). Bears on the explanatory hypothesis only (immediate-memory capacity and how grouping stretches it), not on any learning comparison the model makes; its discussion's point that a chunk must be meaningful to the learner is consistent with the expertise qualification.
+- [Germane cognitive load fully mediates the effect of information-search tool on justification quality (exploratory analysis)](../claims/germane-load-mediates-tool-effect-on-justification-quality.md) [+M] — attached 2026-10-15 from Matthias Stadler et al. (2024), which proposed "Design learning tasks that challenge learners to engage actively with complex material rather than merely providing information efficiently"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -157,10 +158,11 @@ A learning-phase efficiency gain, immediate performance, near transfer, delayed 
 - [Apply cognitive science design principles simultaneously and in combination when revising curriculum, with targeted rather than arbitrary development decisions](../strategies/apply-cognitive-principles-simultaneously-in-curriculum-revision.md)
 - A history text is reorganized into short sections with headings, key dates, and a timeline so learners can process causal relationships without hunting for structure.
 - A coding tutorial removes unnecessary UI options and provides starter files so novices can focus on the target concept before handling full project complexity.
+- [Present information in a manner that encourages learner activities that optimize intellectual performance](../strategies/present-information-to-optimize-intellectual-performance.md)
 
 ## Key Sources
 - Sweller, J., van Merriënboer, J. J. G., & Paas, F. (1998). Cognitive architecture and instructional design. *Educational Psychology Review, 10*(3), 251-296. [https://doi.org/10.1023/A:1022193728205](https://doi.org/10.1023/A:1022193728205)
-- Clinton, V., Cooper, J.L., Michaelis, J., Alibali, M.W., & Nathan, M.J. (2017). How Revisions to Mathematical Visuals Affect Cognition: Evidence from Eye Tracking. In Eye-tracking technology applications in educational research (pp. 195-218). IGI Global. https://eric.ed.gov/?id=ED574984
+- Clinton, V., Cooper, J.L., Michaelis, J., Alibali, M.W., & Nathan, M.J. (2017). How Revisions to Mathematical Visuals Affect Cognition: Evidence from Eye Tracking. In Eye-tracking technology applications in educational research (pp. 195-218). IGI Global. https://eric.ed.gov/?id=ED574984. [doi:10.4018/978-1-5225-1005-5.ch010](https://doi.org/10.4018/978-1-5225-1005-5.ch010)
 - Kala, N., & Ayas, A. (2023). Effect of instructional design based on cognitive load theory on students' performances and the indicators of element interactivity. Journal of Turkish Science Education, 20(3), 468-489. https://doi.org/10.36681/tused.2023.027
 - Lihui Lv & Chunyan Liu. (2022). Recast, Task Complexity and Child Learners' L2 Development. English Language Teaching, 15(9). https://doi.org/10.5539/elt.v15n9p95
 - Weintraub, L. (2025). Grandma Needs English, Too. Adult Literacy Education. http://doi.org/10.35847/LWeintraub.7.1.37
@@ -235,7 +237,7 @@ The article concludes that although many instructional design principles are fra
 - [Consider a focused more is more approach combining minimized extraneous processing with prompts for generative processing](../strategies/focused-more-is-more-generative-processing.md)
 
 ## Key Sources
-- Clinton, V., Cooper, J.L., Michaelis, J., Alibali, M.W., & Nathan, M.J. (2017). How Revisions to Mathematical Visuals Affect Cognition: Evidence from Eye Tracking. In Eye-tracking technology applications in educational research (pp. 195-218). IGI Global. https://eric.ed.gov/?id=ED574984
+- Clinton, V., Cooper, J.L., Michaelis, J., Alibali, M.W., & Nathan, M.J. (2017). How Revisions to Mathematical Visuals Affect Cognition: Evidence from Eye Tracking. In Eye-tracking technology applications in educational research (pp. 195-218). IGI Global. https://eric.ed.gov/?id=ED574984. [doi:10.4018/978-1-5225-1005-5.ch010](https://doi.org/10.4018/978-1-5225-1005-5.ch010)
 -->
 
 <!-- merged 2026-10-07 from principles/determine-element-interactivity-before-designing-instruction ("Teachers should determine a topic's element interactivity level and develop an instructional design appropriate to it"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.

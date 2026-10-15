@@ -49,4 +49,4 @@ The article turns its results into deployment guidance: a pre-deployment safety 
 -
 
 ## Key Sources
-- Lee, U.; Lee, S.; Jeong, Y.; Lee, E.; Shin, M.; Kwon, H. (2026). EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners. https://arxiv.org/abs/2608.03206
+- Lee, U.; Lee, S.; Jeong, Y.; Lee, E.; Shin, M.; Kwon, H. (2026). EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners. https://arxiv.org/abs/2608.03206. [doi:10.48550/arxiv.2608.03206](https://doi.org/10.48550/arxiv.2608.03206)

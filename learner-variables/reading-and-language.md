@@ -12,7 +12,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 103 claims (61 for, 16 mixed, 26 against) · 87 studies (25 causal, 18 quant-synthesis, 18 review, 13 associational, 7 theoretical, 4 design, 2 qualitative), `q1`–`q4` · 21 of 87 report an effect size · 95 claims rest on one study
+> **Evidence** · 113 claims (69 for, 16 mixed, 28 against) · 93 studies (30 causal, 18 quant-synthesis, 18 review, 14 associational, 7 theoretical, 4 design, 2 qualitative), `q1`–`q4` · 21 of 93 report an effect size · 105 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -150,6 +150,16 @@ What a learner can read without effort, and whether the language of instruction 
 - [The group taught by synthetic phonics showed better word reading, spelling, and reading comprehension overall than the analytic phonics group](../claims/synthetic-phonics-group-better-overall-outcomes.md) [+M] — instruction changes it
 - [Under analytic phonics teaching, boys matched girls in word reading but had inferior spelling and reading comprehension](../claims/analytic-phonics-boys-inferior-spelling-comprehension.md) [+M] — instruction changes it
 - [Verbal analytical ability is not a significant predictor of second language success for childhood arrivals](../claims/verbal-analytical-ability-not-predictor-childhood-arrivals.md) [-M] — learners who differ on it differ in outcomes
+- [A 16-week universally designed online depth-of-vocabulary intervention improved standardized vocabulary knowledge relative to a control group in fifth graders](../claims/online-depth-vocabulary-intervention-improved-standardized-vocabulary.md) [+M] — instruction changes it
+- [Extensive reading of graded readers produced substantial vocabulary learning gains for EFL learners across proficiency levels](../claims/extensive-reading-produces-vocabulary-gains-efl.md) [+M] — instruction changes it
+- [Incidental vocabulary learning through viewing TV was affected by frequency of occurrence, prior vocabulary knowledge, and cognateness](../claims/viewing-vocabulary-learning-affected-by-frequency-prior-knowledge-cognateness.md) [+M] — learners who differ on it differ in outcomes
+- [Intervention effects of SRI did not differ by student background or ability variables](../claims/sri-no-differential-effects-background-ability.md) [-M] — an instructional effect differs with it
+- [Paying second-grade students to read books increases reading comprehension by roughly 0.18–0.25 standard deviations in Dallas](../claims/dallas-reading-incentive-comprehension-gains.md) [+M] — instruction changes it
+- [Prior vocabulary knowledge moderates vocabulary learning gains in an extensive reading program, with high-level learners gaining more than intermediate and low-level learners](../claims/prior-vocabulary-knowledge-moderates-extensive-reading-gains.md) [+M] — an instructional effect differs with it
+- [The online vocabulary intervention did not significantly improve reading comprehension](../claims/online-vocabulary-intervention-no-comprehension-effect.md) [-M] — instruction changes it
+- [Vocabulary knowledge gained from eight encounters persisted over two weeks, with no significant immediate-to-delayed test differences](../claims/vocabulary-gains-persist-two-weeks.md) [+M] — instruction changes it
+- [Vocabulary knowledge gained through extensive reading showed little decay on a three-month delayed posttest, with relative gains ranging from 21.05% (low-level) to 59.01% (high-level)](../claims/little-decay-three-month-delayed-posttest-extensive-reading.md) [+M] — instruction changes it
+- [Vocabulary learning gains in Term 2 of the extensive reading program were consistent with those from Term 1](../claims/term2-gains-consistent-with-term1.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 - Working memory — effortful decoding consumes it before comprehension begins.

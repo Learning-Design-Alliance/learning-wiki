@@ -68,7 +68,7 @@ Open classroom climate is one of the most consistently documented school-level p
 ## Examples
 - **The Political Classroom (Hess & McAvoy, 2015)** — a multi-year study of social studies teachers who used "best practice" discussion of contested issues; classrooms where teachers maintained impartiality sustained the highest-quality deliberation.
 - **IEA Civic Education Study (Torney-Purta et al., 2001)** — cross-national survey of 90,000 14-year-olds in 28 countries; perceived open classroom climate was among the strongest school predictors of expected political participation.
-- **Facing History and Ourselves** (https://www.facinghistory.org) — published curriculum that sequences community-norm building before controversial historical discussions, operationalizing climate as a prerequisite rather than an assumption.
+- **[Facing History and Ourselves](../products/facing-history-and-ourselves.md)** (https://www.facinghistory.org) — published curriculum that sequences community-norm building before controversial historical discussions, operationalizing climate as a prerequisite rather than an assumption.
 
 ## Key Sources
 - Campbell, D. E. (2008). Voice in the classroom: How an open classroom climate fosters political discussion among adolescents. *Political Behavior, 30*(4), 437–454. [doi:10.1007/s11109-008-9063-z](https://doi.org/10.1007/s11109-008-9063-z)

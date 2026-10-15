@@ -45,3 +45,4 @@ Longitudinal case study with a pre-, post-, and post–post experimental design 
 ## Related Claims
 - [The study used a three-group longitudinal design with an experimental science group and two traditionally taught controls](three-group-hots-case-study-design.md) — related
 - [HOTS-oriented teaching improves disposition towards critical thinking subscales including truth-seeking, open-mindedness, self-confidence, and maturity](hots-teaching-improves-ct-dispositions.md) — a narrower finding that bears on this claim
+- [GCLA use enhances higher-order thinking skills—critical thinking, problem-solving, and creativity—compared with traditional ChatGPT use](gcla-improves-hots.md) — related

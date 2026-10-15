@@ -62,7 +62,7 @@ The physical visual environment measurably affects learning: classrooms with exc
 - [Clear Structure and Presentation](../principles/clear-structure.md) — displays are one channel for making structure visible
 
 ## Examples
-- **Responsive Classroom** (https://www.responsiveclassroom.org) — teacher-created environments with co-constructed rules and interactive modeling; signage frames expectations positively
+- **[Responsive Classroom](../products/responsive-classroom.md)** (https://www.responsiveclassroom.org) — teacher-created environments with co-constructed rules and interactive modeling; signage frames expectations positively
 - **Visible Thinking routines, Project Zero, Harvard GSE** (https://pz.harvard.edu/thinking-routines) — thinking-routine posters and documentation panels that make reasoning a persistent part of the room
 - **Reggio Emilia-inspired "documentation walls"** — displays of student work with photographs and transcripts of student dialogue, treating the environment as "the third teacher"
 

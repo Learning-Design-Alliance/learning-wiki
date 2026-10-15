@@ -69,3 +69,4 @@ In the same ZINB count model of StatBot use, prior knowledge carried a negative 
 - [Greater prior AI learning experience and female gender predicted upward motivational profile transitions](prior-ai-experience-gender-predict-profile-transitions.md) — related
 - [Chatbot design carries a documented female-by-default gender bias](chatbot-female-default-gender-bias.md) — related
 - [LLM learners are younger, more likely male, and score higher on technology affinity than non-learners](llm-learners-younger-male-higher-tech-affinity.md) — reports the opposite
+- [Male and female students used ChatGPT differently: females used it more frequently and for questions, males more sporadically and to check answers](gender-differences-chatgpt-use-patterns.md) — related

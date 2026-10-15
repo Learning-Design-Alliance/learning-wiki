@@ -49,3 +49,4 @@ RCT of 46 kindergarten children in Eugene, Oregon randomly assigned to intervent
 - [Early Risers shows no discernible effects on emotional/internal behavior for children at risk of emotional disturbance classification](early-risers-no-effect-internal-behavior.md) — related
 - [First Step to Success shows no discernible effects on reading achievement/literacy](first-step-success-no-reading-effects.md) — related
 - [Classroom management interventions in primary education show small but significant average effects (g = 0.22) on academic, behavioral, and social-emotional outcomes but not on motivational outcomes](classroom-management-small-significant-effects-g022.md) — related
+- [Teachers rated PATHS intervention children as less socially withdrawn than controls at year end](paths-preschool-reduces-social-withdrawal-teacher-rated.md) — related

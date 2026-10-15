@@ -18,8 +18,8 @@ sources:
     kind: review
     rigour: 2
   - id: kini-2016-2
-    resource: "https://learningpolicyinstitute.org/our-work/publications-resources/does-teaching-experience-increase-teacher-effectiveness-review-research"
-    title: "Kini, T., & Podolsky, A. (2016). Does Teaching Experience Increase Teacher Effectiveness? A Review of the Research. Learning Policy Institute. https://learningpolicyinstitute.org/our-work/publications-resources/does-teaching-experience-increase-teacher-effectiveness-review-research"
+    resource: "https://doi.org/10.54300/625.642"
+    title: "Kini, T., & Podolsky, A. (2016). Does Teaching Experience Increase Teacher Effectiveness? A Review of the Research. Learning Policy Institute. https://learningpolicyinstitute.org/our-work/publications-resources/does-teaching-experience-increase-teacher-effectiveness-review-research. [doi:10.54300/625.642](https://doi.org/10.54300/625.642)"
     author: "Kini, T., & Podolsky, A."
     q: 3
     i: 0
@@ -30,7 +30,7 @@ sources:
 # In a North Carolina middle school study, a teacher with 12 years of experience raised scores 0.08 SD in ELA and 0.18 SD in math versus a novice teacher, with returns persisting through 21–27 years
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 review `r2` · `q3` · `i0`–`i2`
+> **Evidence** · 1 study (2 entries) · review `r2` · `q3` · `i0`–`i2`
 
 ## Subclaims
 `q3 i2` A teacher with 12 years of experience raised test scores 0.08 SD in ELA and 0.18 SD in math compared to a teacher with no prior experience. [→ Kini 2016](#kini-2016)
@@ -50,7 +50,7 @@ A study of 250,000 North Carolina middle school students over five years using t
 
 ### Kini 2016 (2)
 
-Kini, T., & Podolsky, A. (2016). Does Teaching Experience Increase Teacher Effectiveness? A Review of the Research. Learning Policy Institute. https://learningpolicyinstitute.org/our-work/publications-resources/does-teaching-experience-increase-teacher-effectiveness-review-research
+Kini, T., & Podolsky, A. (2016). Does Teaching Experience Increase Teacher Effectiveness? A Review of the Research. Learning Policy Institute. https://learningpolicyinstitute.org/our-work/publications-resources/does-teaching-experience-increase-teacher-effectiveness-review-research. [doi:10.54300/625.642](https://doi.org/10.54300/625.642)
 
 `q3 · i0` · `review · r2`
 

@@ -68,3 +68,4 @@ RQ1 sample-size distribution across the 24 studies (Fig. 7), with most studies (
 - [ChatGPT use in STEAM IBL is reported to improve teaching efficiency, student engagement, and flexible instructional design](chatgpt-steam-ibl-teaching-process-advantages.md) — related
 - [Learner-level challenges of ChatGPT in STEAM IBL include over-reliance, inaccurate or irrelevant feedback, conceptual confusion, and diminished creativity](chatgpt-steam-ibl-learner-challenges.md) — related
 - [Educator- and institutional-level challenges include curricular misalignment, need for teacher mediation, unequal access, privacy concerns, academic integrity risks, and algorithmic bias](chatgpt-steam-ibl-educator-institutional-challenges.md) — related
+- [Undergraduate students were the most studied academic level in AIEd higher education research, at 72% of studies](undergraduates-most-studied-ai-ed-he.md) — related

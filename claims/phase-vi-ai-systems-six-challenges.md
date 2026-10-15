@@ -68,3 +68,4 @@ The chapter identifies six challenges for Phase VI systems, citing prior work. N
 - [LLMs in educational applications hallucinate in 15–25% of responses and can amplify bias against non-native language inputs](llm-hallucination-rate-education.md) — related
 - [Retrieval-augmented generation reduces but does not eliminate hallucinations in AI-assisted verification](rag-reduces-not-eliminates-hallucinations.md) — related
 - [Open issues for dynamic assessment include cost-effectiveness, training, reliability and validity, and generalization](da-open-issues-cost-training-reliability-validity.md) — related
+- [Large language models can support learning and teaching across education levels, from reading and writing support for elementary students to professional training](llm-support-learning-across-education-levels.md) — related

@@ -68,7 +68,7 @@ The routine operationalizes reflection as contrast: by forcing learners to juxta
 ## Examples
 - **[Project Zero's Visible Thinking](https://pz.harvard.edu/projects/visible-thinking)** — the originating source; the routine is documented among Project Zero's Thinking Routines toolbox with classroom video examples.
 - **Science misconception revision** — after a unit on seasons, students compare their pre-unit explanation ("Earth is closer to the sun in summer") with their post-unit model (axial tilt), making the conceptual displacement explicit.
-- **Professional development** — teachers complete the routine at the close of workshops on instructional practice, modeling the routine they will use with students.
+- **[Professional development](../patterns/professional-development.md)** — teachers complete the routine at the close of workshops on instructional practice, modeling the routine they will use with students.
 
 ## Key Sources
 - Ritchhart, R., Palmer, P., Church, M., & Tishman, S. (2011). *Making thinking visible: How to promote engagement, understanding, and independence for all learners*. Jossey-Bass.

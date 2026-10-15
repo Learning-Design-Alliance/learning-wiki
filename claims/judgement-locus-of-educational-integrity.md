@@ -46,3 +46,4 @@ Conceptual-theoretical argument, not an empirical result. The paper distinguishe
 - [Detection-oriented integrity approaches are increasingly misaligned with GenAI-augmented assessment (theoretical argument)](detection-approaches-misaligned-genai-assessment.md) — related
 - [Learner agency in GenAI-mediated learning is enacted through prompting, questioning, verification, comparison, revision, and disciplinary judgment](learner-agency-genai-verification-revision.md) — related
 - [The paper argues authenticity in AI-mediated assessment is achieved through design rather than detection](authenticity-through-design-not-detection.md) — related
+- [Very little empirical work exists on the effectiveness of strategies for developing students' evaluative judgement](little-empirical-work-evaluative-judgement-strategies.md) — related

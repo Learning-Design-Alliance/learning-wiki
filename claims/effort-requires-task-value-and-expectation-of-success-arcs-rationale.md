@@ -55,3 +55,4 @@ Theoretical argument in the digest, not a tested result. It states that in expec
 - Appropriately used technology can support practices that improve achievement, but inappropriate use can harm student performance — related
 - Preservice elementary teachers hold positive outcome expectancy beliefs that effective teaching improves student EE learning — a narrower finding that bears on this claim
 - [Developing a common understanding of expected learning helps all students succeed, not only those with school-aligned prior knowledge](shared-understanding-expected-learning-helps-all-students.md) — related
+- [Chatbot integration in a smart classroom is expected by the authors to increase learner engagement and academic achievement](chatbot-engagement-achievement-expectation.md) — a narrower finding that bears on this claim

@@ -75,7 +75,7 @@ Open-ended discussion supports learning by requiring learners to articulate, def
 - **[Perusall](https://www.perusall.com)** — social annotation platform where threaded comments on a shared text function as asynchronous open-ended discussion, with instructor-visible analytics on participation.
 - **[Harkness Method](https://www.exeter.edu/academics/harkness-philosophy)** (Phillips Exeter Academy) — seminar-style discussion around an oval table with no leading voice; learners are accountable for both content and conversational conduct.
 - **[Piazza](https://piazza.com)** — Q&A platform for courses where instructor-endorsed and student answers coexist, supporting open exploration in large-enrollment settings.
-- **Structured Academic Controversy** (Johnson & Johnson) — learners argue one side of an issue, switch sides, then drop positions to seek consensus; a published protocol for making open discussion equitable.
+- **[Structured Academic Controversy](../patterns/structured-academic-controversy.md)** (Johnson & Johnson) — learners argue one side of an issue, switch sides, then drop positions to seek consensus; a published protocol for making open discussion equitable.
 - [Facilitate sessions with a welcoming environment, probing questions, and structured pauses](../strategies/facilitation-protocol-probing-questions.md)
 - [Protect teachers from social and political backlash by communicating CRSE's value and providing norms and probing questions for sociopolitical discussions](../strategies/protect-teachers-sociopolitical-backlash-crse.md)
 

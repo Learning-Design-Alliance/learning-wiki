@@ -68,9 +68,9 @@ Fluency practice works because oral reading with feedback provides high-density 
 - [Reread the same passage 3–4 times, each time with a different purpose](purposeful-repeated-reading-three-four-times.md)
 
 ## Examples
-- **Read Naturally** (https://www.readnaturally.com) — combines audio modeling, repeated reading, and progress graphing; widely studied in Tier 2 interventions.
+- **[Read Naturally](../products/read-naturally.md)** (https://www.readnaturally.com) — combines audio modeling, repeated reading, and progress graphing; widely studied in Tier 2 interventions.
 - **Great Leaps** (https://www.greatleaps.com) — timed one-minute probes across phonics, phrases, and stories.
-- **Reader's Theater** in classrooms such as those described by Rasinski — script rehearsal builds prosody with an authentic performance purpose.
+- **[Reader's Theater](readers_theater.md)** in classrooms such as those described by Rasinski — script rehearsal builds prosody with an authentic performance purpose.
 
 ## Key Sources
 - National Reading Panel (2000). *Teaching children to read: An evidence-based assessment of the scientific research literature on reading and its implications for reading instruction.* National Institute of Child Health and Human Development.

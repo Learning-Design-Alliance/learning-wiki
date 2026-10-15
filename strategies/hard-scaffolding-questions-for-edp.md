@@ -44,4 +44,4 @@ K-12 engineering teachers use scaffolding questions to help students learn the E
 -
 
 ## Key Sources
-- Singh, M., Mansi, G., & Riedl, M. O. (2025). Creating Learning Scaffolds for Engineering Design Using Concept Catalyst. Georgia Institute of Technology. https://arxiv.org/abs/2605.20511
+- Singh, M., Mansi, G., & Riedl, M. O. (2025). Creating Learning Scaffolds for Engineering Design Using Concept Catalyst. Georgia Institute of Technology. https://arxiv.org/abs/2605.20511. [doi:10.48550/arxiv.2605.20511](https://doi.org/10.48550/arxiv.2605.20511)

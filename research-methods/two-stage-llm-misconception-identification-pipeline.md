@@ -30,4 +30,4 @@ A pipeline combining quantitative quiz analysis with two LLM stages: GPT-4 (gpt-
 -
 
 ## Key Sources
-- Parker, M. J., & Zavala-Cerna, M. G. (2025). What Don't You Understand? Using Large Language Models to Identify and Characterize Student Misconceptions About Challenging Topics. https://arxiv.org/abs/2507.09875
+- Parker, M. J., & Zavala-Cerna, M. G. (2025). What Don't You Understand? Using Large Language Models to Identify and Characterize Student Misconceptions About Challenging Topics. https://arxiv.org/abs/2507.09875. [doi:10.48550/arxiv.2605.00294](https://doi.org/10.48550/arxiv.2605.00294)

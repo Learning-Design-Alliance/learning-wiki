@@ -63,7 +63,7 @@ The defensible core of this strategy is dual-channel encoding: presenting verbal
 - [Brain Breaks](../strategies/brain-breaks.md) — the movement component isolated as its own routine
 
 ## Examples
-- **Gallery Walk** — learners post work on walls, circulate in small groups, and leave written feedback; combines movement, visual encoding, and peer critique
+- **[Gallery Walk](gallery-walk.md)** — learners post work on walls, circulate in small groups, and leave written feedback; combines movement, visual encoding, and peer critique
 - **Two Stay, One Stray** — after team work, one member visits another team to explain and gather ideas, then reports back
 - **GoNoodle** (https://www.gonoodle.com) — short guided movement videos used in K–5 classrooms as attention-reset breaks between instructional segments
 - **Total Physical Response (TPR)** — language instruction pairing vocabulary with coordinated physical actions; well established for early-stage second-language acquisition

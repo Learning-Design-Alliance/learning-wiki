@@ -118,7 +118,7 @@ sources:
 # MAP Growth
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 78 claims (75 for, 3 mixed) · 34 studies (25 associational, 4 theoretical, 3 design, 2 causal), `q1`–`q3` · 2 of 34 report an effect size · 74 claims rest on one study
+> **Evidence** · 78 claims (75 for, 3 mixed) · 33 studies (24 associational, 4 theoretical, 3 design, 2 causal), `q1`–`q3` · 2 of 33 report an effect size · 75 claims rest on one study
 
 ## Description
 MAP Growth is NWEA's computer-adaptive assessment system, with national achievement and growth norms and reporting tools such as the MAP Growth National Dashboard.
@@ -269,7 +269,7 @@ MAP Growth is NWEA's computer-adaptive assessment system, with national achievem
 - Andy Hegedus, Ed.D. (2018). Evaluating the Relationships between Poverty and School Performance. NWEA Research Report. https://www.nwea.org/research-data-galleries/poverty-and-school-performance
 - J. Patrick Meyer, Ann Hu, Sylvia Li. (2023). Content Proximity Spring 2022 Pilot Study Research Brief. Psychometric Solutions, NWEA. https://www.nwea.org/research/publication/content-proximity-spring-2022-pilot-study-research-report/
 - MAP Growth Technical Report for 2024–2025. (2026). HMH Education Company. https://www.nwea.org/research/publication/map-growth-technical-report/
-- Wang, S., Jiao, H. and Zhang, L. (2013) 'Validation of longitudinal achievement constructs of vertically scaled computerised adaptive tests: a multiple-indicator, latent-growth modelling approach', Int. J. Quantitative Research in Education, Vol. 1, No. 4, pp.383–407. https://www.nwea.org/research/publication/validation-of-longitudinal-achievement-constructs-of-vertically-scaled-computerised-adaptive-tests-a-multiple-indicator-latent-growth-modelling-approach/
+- Wang, S., Jiao, H. and Zhang, L. (2013) 'Validation of longitudinal achievement constructs of vertically scaled computerised adaptive tests: a multiple-indicator, latent-growth modelling approach', Int. J. Quantitative Research in Education, Vol. 1, No. 4, pp.383–407. https://www.nwea.org/research/publication/validation-of-longitudinal-achievement-constructs-of-vertically-scaled-computerised-adaptive-tests-a-multiple-indicator-latent-growth-modelling-approach/. [doi:10.1504/ijqre.2013.058307](https://doi.org/10.1504/ijqre.2013.058307)
 - Technical appendix for: Learning during COVID-19: Initial findings on students' reading and math achievement and growth. (2020). NWEA Research. https://www.nwea.org/research/publication/technical-appendix-for-learning-during-covid-19-initial-findings-on-students-reading-and-math-achievement-and-growth/
 - Karyn Lewis, Megan Kuhfeld. (2021). Learning during COVID-19: An update on student achievement and growth at the start of the 2021-22 school year. NWEA Research brief. https://www.nwea.org/research/publication/learning-during-covid-19-an-update-on-student-achievement-and-growth-at-the-start-of-the-2021-22-school-year/
 
@@ -298,7 +298,7 @@ MAP Growth is NWEA's computer-adaptive assessment system, with national achievem
 - Andy Hegedus, Ed.D. (2018). Evaluating the Relationships between Poverty and School Performance. NWEA Research Report. https://www.nwea.org/research-data-galleries/poverty-and-school-performance
 - J. Patrick Meyer, Ann Hu, Sylvia Li. (2023). Content Proximity Spring 2022 Pilot Study Research Brief. Psychometric Solutions, NWEA. https://www.nwea.org/research/publication/content-proximity-spring-2022-pilot-study-research-report/
 - MAP Growth Technical Report for 2024–2025. (2026). HMH Education Company. https://www.nwea.org/research/publication/map-growth-technical-report/
-- Wang, S., Jiao, H. and Zhang, L. (2013) 'Validation of longitudinal achievement constructs of vertically scaled computerised adaptive tests: a multiple-indicator, latent-growth modelling approach', Int. J. Quantitative Research in Education, Vol. 1, No. 4, pp.383–407. https://www.nwea.org/research/publication/validation-of-longitudinal-achievement-constructs-of-vertically-scaled-computerised-adaptive-tests-a-multiple-indicator-latent-growth-modelling-approach/
+- Wang, S., Jiao, H. and Zhang, L. (2013) 'Validation of longitudinal achievement constructs of vertically scaled computerised adaptive tests: a multiple-indicator, latent-growth modelling approach', Int. J. Quantitative Research in Education, Vol. 1, No. 4, pp.383–407. https://www.nwea.org/research/publication/validation-of-longitudinal-achievement-constructs-of-vertically-scaled-computerised-adaptive-tests-a-multiple-indicator-latent-growth-modelling-approach/. [doi:10.1504/ijqre.2013.058307](https://doi.org/10.1504/ijqre.2013.058307)
 - Technical appendix for: Learning during COVID-19: Initial findings on students' reading and math achievement and growth. (2020). NWEA Research. https://www.nwea.org/research/publication/technical-appendix-for-learning-during-covid-19-initial-findings-on-students-reading-and-math-achievement-and-growth/
 - Karyn Lewis, Megan Kuhfeld. (2021). Learning during COVID-19: An update on student achievement and growth at the start of the 2021-22 school year. NWEA Research brief. https://www.nwea.org/research/publication/learning-during-covid-19-an-update-on-student-achievement-and-growth-at-the-start-of-the-2021-22-school-year/
 
@@ -1680,7 +1680,7 @@ MAP is a computerised adaptive assessment system published by NWEA since 1976, c
 - [Adopt computerized adaptive testing to serve both low- and high-achieving students](../strategies/adopt-cat-for-low-and-high-achievers.md)
 
 ## Key Sources
-- Wang, S., Jiao, H. and Zhang, L. (2013) 'Validation of longitudinal achievement constructs of vertically scaled computerised adaptive tests: a multiple-indicator, latent-growth modelling approach', Int. J. Quantitative Research in Education, Vol. 1, No. 4, pp.383–407. https://www.nwea.org/research/publication/validation-of-longitudinal-achievement-constructs-of-vertically-scaled-computerised-adaptive-tests-a-multiple-indicator-latent-growth-modelling-approach/
+- Wang, S., Jiao, H. and Zhang, L. (2013) 'Validation of longitudinal achievement constructs of vertically scaled computerised adaptive tests: a multiple-indicator, latent-growth modelling approach', Int. J. Quantitative Research in Education, Vol. 1, No. 4, pp.383–407. https://www.nwea.org/research/publication/validation-of-longitudinal-achievement-constructs-of-vertically-scaled-computerised-adaptive-tests-a-multiple-indicator-latent-growth-modelling-approach/. [doi:10.1504/ijqre.2013.058307](https://doi.org/10.1504/ijqre.2013.058307)
 -->
 
 <!-- merged 2026-10-10 from elements/map-growth-assessment-element ("MAP Growth computer-adaptive assessment and its national norms and dashboard"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.

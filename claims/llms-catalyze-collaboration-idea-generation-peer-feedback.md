@@ -49,3 +49,4 @@ Synthesis in the RQ1 findings section of the review: LLMs can "simulate evaluati
 - [Open AI collaboration yielded the highest supported writing quality, while bounded AI support yielded the highest independent no-AI Week 8 performance](genai-supported-performance-independent-divergence.md) — related
 - Review reports that collaborative feedback tasks promoted noticing and peer dialogs enhanced meta-cognitive processing in a university ESL writing class (Riddiford) — related
 - [Students most often rated collaboration opportunities, content interest, and class belonging as worse online](collaboration-interest-belonging-worse-online.md) — related
+- [Large language models can support learning and teaching across education levels, from reading and writing support for elementary students to professional training](llm-support-learning-across-education-levels.md) — a broader claim this one bears on

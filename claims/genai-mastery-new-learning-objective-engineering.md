@@ -71,3 +71,5 @@ Second finding within the objectives-of-learning theme, reporting "widespread un
 - The GenAI session strengthened immediate AI-handling confidence and workflow literacy, but students remained hesitant about transferring these skills to employment — related
 - [Students express fear and apathy about AI's impact on their careers, shifting focus toward outcomes over process and questioning effort investment in learning computer science](career-fear-apathy-outcomes-over-process.md) — reports the opposite
 - [Reaching the qualitative SOLO phase in GenAI interaction required repeated meta-level learner interventions, demanding the very self-regulatory skills the tool was expected to support](genai-qualitative-shift-requires-meta-level-interventions.md) — related
+- [ChatGPT's biggest predicted disruption is its effect on knowledge work productivity, chiefly by providing a competent first draft](chatgpt-first-draft-productivity-prediction.md) — related
+- [Students express concerns about GenAI, with non-users (never/rarely) significantly more concerned than other users, and concerns uncorrelated with knowledge](genai-concerns-nonusers-differ.md) — related

@@ -92,3 +92,5 @@ The claim also sits within the wider evidence base on [collaborative learning im
 - [Imbalanced challenge and support causes novice library learners to give up or remain dependent (authors' asserted relationship)](challenge-support-imbalance-effects-novice-learners.md) — related
 - [Students are typically passive users of assessment rubrics in authentic assessment designs](aa-students-passive-users-of-rubrics.md) — related
 - [Giving students feedback about their grading bias increased their subsequent grading accuracy](grading-bias-feedback-increases-accuracy.md) — related
+- [The achievement benefit of peer assessment persists to a later comprehensive final exam](peer-assessment-gains-persist-to-final-exam.md) — related
+- [Generating peer feedback prior to internal feedback does not improve the quality of assessors' subsequent internal feedback](peer-feedback-first-no-effect-internal-feedback.md) — a narrower finding that bears on this claim

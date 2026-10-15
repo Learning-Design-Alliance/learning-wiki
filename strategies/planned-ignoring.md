@@ -67,7 +67,7 @@ Attention is one of the most powerful reinforcers in a classroom; planned ignori
 
 ## Examples
 - A first-grade teacher ignores a student's repeated calling out while narrating and calling on hand-raisers; calling out drops over two weeks as hand-raising is consistently reinforced.
-- **PAX Good Behavior Game** (https://www.paxis.org) — team-based classroom protocol that withholds reinforcement from off-task behavior while rewarding teams meeting behavioral standards; extensive RCT evidence for reduced disruption [+S].
+- **[PAX Good Behavior Game](../products/pax-good-behavior-game.md)** (https://www.paxis.org) — team-based classroom protocol that withholds reinforcement from off-task behavior while rewarding teams meeting behavioral standards; extensive RCT evidence for reduced disruption [+S].
 - A middle-school teacher privately agrees with a student on a silent cue, avoiding public ignoring that would invite peer audience.
 
 ## Key Sources

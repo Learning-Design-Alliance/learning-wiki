@@ -37,4 +37,4 @@ The article's central framework proposes four practical shifts for establishing 
 -
 
 ## Key Sources
-- Thomas, D.R., Borchers, C., Vanacore, K.P., Koedinger, K.R., & Kizilcec, R.F. (2026). Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity in AI in Education. https://arxiv.org/abs/2603.29141
+- Thomas, D.R., Borchers, C., Vanacore, K.P., Koedinger, K.R., & Kizilcec, R.F. (2026). Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity in AI in Education. https://arxiv.org/abs/2603.29141. [doi:10.48550/arxiv.2603.29141](https://doi.org/10.48550/arxiv.2603.29141)

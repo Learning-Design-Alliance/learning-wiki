@@ -66,3 +66,4 @@ Paired-samples t-tests within each condition in the RQ1.1 analysis of the random
 - [Learners receiving ChatGPT-generated hints showed statistically significant learning gains compared to a no-hint control in an online mathematics tutoring experiment](chatgpt-hints-significant-gains-versus-control.md) — related
 - [Non-layered AI feedback produced significantly higher post-test performance than layered AI feedback after controlling for pre-test](non-layered-ai-feedback-beats-layered-post-test.md) — related
 - [Project performance improved significantly from pre- to post-feedback across all three feedback conditions with no significant differences between feedback sources](ai-teacher-feedback-equal-project-performance-gains.md) — related
+- [No significant group differences in knowledge gain or knowledge transfer despite ChatGPT's task-performance advantage](no-knowledge-gain-transfer-difference-genai.md) — related

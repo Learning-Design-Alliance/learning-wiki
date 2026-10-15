@@ -49,3 +49,4 @@ Bibliometric trend analysis of annual publication counts (Figure 2) over the 201
 - GenAI implementation research with medical students expanded rapidly after 2024 and is dominated by OpenAI models across controlled and comparative designs — related
 - Publication of review-automation papers grew at an estimated 4.7% monthly rate from January 2020 through June 2025 — related
 - Publication output on metacognition in STEM education increased steadily since 2005, with notable growth after 2015 — related
+- [The K-12 AI literacy literature grew slowly until 2016 and increased sharply in 2020, with most contributions published as conference papers](k12-ai-literacy-bibliometric-growth.md) — related

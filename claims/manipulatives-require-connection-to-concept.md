@@ -126,3 +126,5 @@ Open questions: how much guidance is optimal (over-guidance may trigger its own 
 - [Concreteness fading guides learners to strip away extraneous concrete properties and distill generic, generalizable properties](fading-distills-generalizable-properties.md) — related
 - [Concreteness fading provides embodied perceptual and physical experiences that can ground abstract thinking](fading-provides-embodied-grounding.md) — related
 - [Concreteness fading helps learners interpret ambiguous or opaque abstract symbols in terms of well-understood concrete objects](fading-helps-interpret-abstract-symbols.md) — related
+- [Concreteness, imagery, and verbal associative processes play major roles across multiple educational domains](concreteness-imagery-associative-roles-educational-domains.md) — a broader claim this one bears on
+- [Iconic visual scaffolds in chemistry visualizations helped low-prior-knowledge high-school students but not higher-prior-knowledge ones, with the effect eliminated for younger middle-school children](expertise-reversal-iconic-scaffolds-development.md) — related

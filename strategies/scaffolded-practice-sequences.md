@@ -83,9 +83,9 @@ Sequenced practice with fading outperforms both unsupported practice and practic
 - **[Khan Academy](https://www.khanacademy.org)** — mastery-tracked exercise sets that gate harder problem variants on demonstrated success, with on-demand hints acting as within-task scaffolds.
 - **[ASSISTments](https://www.assistments.org)** — adaptive math practice that sequences assistance and problem difficulty based on student responses.
 - **[Khan Academy](https://www.khanacademy.org)** — each exercise set moves from video demonstration to problems with tiered hints; hints function as on-demand scaffolds that fade as learners succeed.
-- **Cognitive Tutor (Carnegie Learning)** — adaptive algebra practice that provides step-level hints and reduces them as student mastery estimates rise, a direct implementation of adaptive scaffolded practice.
+- **[Cognitive Tutor](../products/cognitive-tutor.md) (Carnegie Learning)** — adaptive algebra practice that provides step-level hints and reduces them as student mastery estimates rise, a direct implementation of adaptive scaffolded practice.
 - **[Codecademy](https://www.codecademy.com)** — lessons sequence annotated examples, fill-in-the-blank completion exercises, then free-form projects, enacting the example→completion→independent gradient.
-- **Reciprocal teaching (Palincsar & Brown)** — reading comprehension practice where teacher modeling of predicting, questioning, clarifying, and summarizing fades to student-led group practice.
+- **[Reciprocal teaching](reciprocal_teaching.md) (Palincsar & Brown)** — reading comprehension practice where teacher modeling of predicting, questioning, clarifying, and summarizing fades to student-led group practice.
 
 ## Key Sources
 - Sweller, J., & Cooper, G. A. (1985). The use of worked examples as a substitute for problem solving in learning algebra. *Cognition and Instruction, 2*(1), 59–89. [doi:10.1207/s1532690xci0201_3](https://doi.org/10.1207/s1532690xci0201_3)

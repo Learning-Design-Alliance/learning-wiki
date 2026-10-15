@@ -90,7 +90,7 @@ Decoding is a prerequisite skill: until word or symbol recognition is automatic,
 - **[Khan Academy](https://www.khanacademy.org)** math exercises include inline hints and notation tooltips that decode symbols at the point of need.
 - **Chemistry notation keys:** introductory courses (e.g., [ChemCollective](https://chemcollective.org) activities) provide symbol glossaries so students interpret equations rather than decode subscripts.
 - **[CAST UDL Guidelines](https://udlguidelines.cast.org)** — "Support decoding of text, mathematical notation, and symbols" is an explicit checkpoint under providing multiple means of representation, with examples including phoneme–grapheme supports, ASL, and digital text-to-speech.
-- **Number Talks (Parrish, 2010)** — mathematical ideas introduced through spoken and visual reasoning before formal notation, so symbols record thinking learners already understand.
+- **[Number Talks](number-talks.md) (Parrish, 2010)** — mathematical ideas introduced through spoken and visual reasoning before formal notation, so symbols record thinking learners already understand.
 - **[Khan Academy](https://www.khanacademy.org)** — math exercises pair symbolic expressions with narrated worked solutions and hoverable hints, letting learners check symbol meaning on demand.
 - **[Newsela](https://newsela.com)** — same article available at multiple reading levels, allowing content goals to be pursued while decoding load is matched to reader fluency.
 

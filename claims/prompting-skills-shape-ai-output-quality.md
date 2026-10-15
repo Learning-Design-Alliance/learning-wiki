@@ -50,3 +50,4 @@ Qualitative interview finding; a faculty participant stated "having the skill to
 - [Prompting is a form of writing: task definition is a constitutive element of knowledge production, not a neutral procedural step](prompting-as-writing-task-definition-constitutive.md) — related
 - [GenAI use involves substantial hidden labor of prompting, verification, and correction that remains invisible in productivity evaluation](genai-hidden-verification-labor-invisible.md) — related
 - [Prompt-writing ability is a new feedback-eliciting capacity that shapes GenAI feedback engagement](prompt-writing-new-feedback-literacy-capacity.md) — a narrower finding that bears on this claim
+- [Higher-quality prompt engineering skills predict the quality of LLM output in goal-directed use of generative AI tools](prompt-engineering-skill-predicts-llm-output-quality.md) — possibly the same claim (merge candidate)

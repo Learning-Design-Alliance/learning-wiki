@@ -46,3 +46,4 @@ Transfer check: three Llama3-8B mid-training runs on a 100B-token mixture with a
 - [Replacing natural books with synthetic textbooks improves the 28-benchmark mean by +1.09, with gains spanning all four categories](synthetic-textbooks-replace-natural-books-gain.md) — related
 - [Structured book synthesis outperforms matched independent document rephrasing (+1.17 mean), while rephrasing alone ties natural books](structured-synthesis-beats-rephrasing.md) — related
 - [Preserving book-level document structure during mid-training improves downstream performance beyond identical content split into sections (+1.02 mean)](book-structure-preservation-improves-mid-training.md) — related
+- Transfer benefits grow with the number of pre-trained layers transferred, up to 9% for full transfer on MultiNLI — related

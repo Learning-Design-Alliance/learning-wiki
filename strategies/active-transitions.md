@@ -63,10 +63,10 @@ Transitions are a recurring source of lost instructional time and off-task behav
 ## Examples
 - **TAKE 10! (https://www.take10.net)** — Classroom program embedding 10-minute activity breaks tied to academic content; teachers use them at natural transition points.
 - **Entry retrieval routine** — Students answer one question about yesterday's lesson on entry (whiteboard or index card) while the teacher takes attendance; the transition becomes a daily spaced-retrieval event.
-- **Responsive Classroom (https://www.responsiveclassroom.org)** — Trains teachers in routinized, time-boxed transitions and morning meetings that structure entry time actively.
+- **[Responsive Classroom](../products/responsive-classroom.md) (https://www.responsiveclassroom.org)** — Trains teachers in routinized, time-boxed transitions and morning meetings that structure entry time actively.
 
 ## Key Sources
-- Mahar, M. T., Murphy, S. K., Rowe, D. A., Golden, J., Shields, A. T., & Raedeke, T. D. (2006). Effects of a classroom-based program on physical activity and on-task behavior. *Medicine & Science in Sports & Exercise, 38*(12), 2086–2094. [doi:10.1249/tjx.0000000000000099](https://doi.org/10.1249/tjx.0000000000000099)
+- Mahar, M. T., Murphy, S. K., Rowe, D. A., Golden, J., Shields, A. T., & Raedeke, T. D. (2006). Effects of a classroom-based program on physical activity and on-task behavior. *Medicine & Science in Sports & Exercise, 38*(12), 2086–2094. [doi:10.1249/01.mss.0000235359.16685.a3](https://doi.org/10.1249/01.mss.0000235359.16685.a3)
 - Rosenshine, B. (2012). Principles of instruction: Research-based strategies that all teachers should know. *The Clearing House, 85*(6), 225–233.
 - Donnelly, J. E., Hillman, C. H., Castelli, D., Etnier, J. L., Lee, S., Tomporowski, P., Lambourne, K., & Szabo-Reed, A. N. (2016). Physical activity, fitness, cognitive function, and academic achievement in children: A systematic review. *Medicine & Science in Sports & Exercise, 48*(6), 1197–1222. [doi:10.1249/MSS.0000000000000901](https://doi.org/10.1249/MSS.0000000000000901)
 - Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science, 17*(3), 249–255. [doi:10.1111/j.1467-9280.2006.01693.x](https://doi.org/10.1111/j.1467-9280.2006.01693.x)

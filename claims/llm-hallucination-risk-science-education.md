@@ -45,3 +45,4 @@ Narrative review discussion of chatbots and LLMs in education, attributing the h
 ## Related Claims
 
 - [GenAI feedback limitations require students to exercise evaluative judgement](genai-limitations-require-evaluative-judgement.md)
+- [ChatGPT-generated text shows inaccuracy, weak logical flow, lack of critical elaboration and non-originality in an author's first-hand test](chatgpt-output-inaccuracy-nonoriginality.md) — a narrower finding that bears on this claim

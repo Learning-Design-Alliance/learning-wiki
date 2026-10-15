@@ -18,8 +18,8 @@ sources:
     kind: associational
     rigour: 1
   - id: bakhshaei-2019-2
-    resource: "https://digitalpromise.dspacedirect.org/items/79337f05-0795-4bac-b1d7-f4758c23285c"
-    title: "Bakhshaei, M., Hardy, A., Ravitz, J., & Seylar, J. (2019). Scaling Up Classroom Coaching for Impactful Technology Use: Results from Year 2 of the Dynamic Learning Project. Digital Promise. https://digitalpromise.dspacedirect.org/items/79337f05-0795-4bac-b1d7-f4758c23285c"
+    resource: "https://doi.org/10.51388/20.500.12265/82"
+    title: "Bakhshaei, M., Hardy, A., Ravitz, J., & Seylar, J. (2019). Scaling Up Classroom Coaching for Impactful Technology Use: Results from Year 2 of the Dynamic Learning Project. Digital Promise. https://digitalpromise.dspacedirect.org/items/79337f05-0795-4bac-b1d7-f4758c23285c. [doi:10.51388/20.500.12265/82](https://doi.org/10.51388/20.500.12265/82)"
     author: "Bakhshaei, M., Hardy, A., Ravitz, J., & Seylar, J."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # DLP participants reported more frequent meaningful coaching activities than other coaching programs, but fewer opportunities to observe other teachers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r1`–`r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` 61 percent of DLP teachers said a coach modeled an activity in their classroom at least a few times a year, compared with 42 percent of participants in other coaching programs. [→ Bakhshaei 2019](#bakhshaei-2019)
@@ -50,7 +50,7 @@ Survey comparing DLP participants with teachers in other coaching programs on ob
 
 ### Bakhshaei 2019 (2)
 
-Bakhshaei, M., Hardy, A., Ravitz, J., & Seylar, J. (2019). Scaling Up Classroom Coaching for Impactful Technology Use: Results from Year 2 of the Dynamic Learning Project. Digital Promise. https://digitalpromise.dspacedirect.org/items/79337f05-0795-4bac-b1d7-f4758c23285c
+Bakhshaei, M., Hardy, A., Ravitz, J., & Seylar, J. (2019). Scaling Up Classroom Coaching for Impactful Technology Use: Results from Year 2 of the Dynamic Learning Project. Digital Promise. https://digitalpromise.dspacedirect.org/items/79337f05-0795-4bac-b1d7-f4758c23285c. [doi:10.51388/20.500.12265/82](https://doi.org/10.51388/20.500.12265/82)
 
 `q2 · i?` · `associational · r2`
 

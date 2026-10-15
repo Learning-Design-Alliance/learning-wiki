@@ -27,4 +27,4 @@ PyNeuraLogic is an open-source framework developed by Hooshyar et al. for buildi
 -
 
 ## Key Sources
-- Hooshyar, D.; Šír, G.; Yang, Y.; Kärkkäinen, T.; Hämäläinen, R.; Krivich, E.; Cukurova, M.; Gašević, D.; Azevedo, R. (2026). Neural-Symbolic Knowledge Tracing: Injecting Educational Knowledge into Deep Learning for Responsible Learner Modelling. arXiv preprint. https://arxiv.org/abs/2604.08263
+- Hooshyar, D.; Šír, G.; Yang, Y.; Kärkkäinen, T.; Hämäläinen, R.; Krivich, E.; Cukurova, M.; Gašević, D.; Azevedo, R. (2026). Neural-Symbolic Knowledge Tracing: Injecting Educational Knowledge into Deep Learning for Responsible Learner Modelling. arXiv preprint. https://arxiv.org/abs/2604.08263. [doi:10.48550/arxiv.2604.08263](https://doi.org/10.48550/arxiv.2604.08263)

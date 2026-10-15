@@ -51,3 +51,4 @@ Subgroup analysis of the same QED using the partially nested model on the low-pe
 - [Rural students overall did not show a significant effect, but low-performing rural students did](vplc-assistments-rural-subgroup-effects.md) — related
 - [Early trends suggest students of teachers using ASSISTments as the sole math edtech tool may have benefited more than students where it was part of a suite of tools](assistments-sole-tool-early-trends.md) — related
 - [Tutor-based practice produced greater learning gains than paper-based practice on matched problem sets](tutor-practice-greater-learning-gains-than-paper.md) — related
+- Fourth-grade reading gains were concentrated among lower- and middle-performing students at the 10th, 25th, and 50th percentiles, whose 2007 scores exceeded all previous assessments — related

@@ -64,7 +64,7 @@ Young learners in particular allocate attention involuntarily; highly decorated 
 - [Address Biases in the Use of Language and Symbols](address_biases_in_the_use_of_language_and_symbols.md) — displays are a primary carrier of implicit messages about who belongs
 
 ## Examples
-- **Responsive Classroom** (https://www.responsiveclassroom.org) — classroom setup guidance emphasizing calm, purposeful environments with co-constructed norms and student work displays.
+- **[Responsive Classroom](../products/responsive-classroom.md)** (https://www.responsiveclassroom.org) — classroom setup guidance emphasizing calm, purposeful environments with co-constructed norms and student work displays.
 - **Anchor charts in workshop-model ELA classrooms** (e.g., Teachers College Reading & Writing Project, https://www.readingandwritingproject.org) — charts built during mini-lessons and referenced during independent work.
 - **Fisher, Godwin & Seltman (2014)** — a classroom-style experiment in which kindergarten children taught in a heavily decorated classroom spent more time off task and learned less than children in a sparse classroom.
 

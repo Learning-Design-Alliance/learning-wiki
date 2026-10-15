@@ -47,4 +47,4 @@ The article argues that humanizer services are a diagnostic signal of a feedback
 -
 
 ## Key Sources
-- Roe, J., Perkins, M., Bannister, P., Furze, L., & Wood, J. (2026). Dramaturgies of Deception: AI Humanizers and the Performance of Legitimacy in Higher Education Assessment. A preprint. https://arxiv.org/abs/2605.02649
+- Roe, J., Perkins, M., Bannister, P., Furze, L., & Wood, J. (2026). Dramaturgies of Deception: AI Humanizers and the Performance of Legitimacy in Higher Education Assessment. A preprint. https://arxiv.org/abs/2605.02649. [doi:10.48550/arxiv.2605.02649](https://doi.org/10.48550/arxiv.2605.02649)

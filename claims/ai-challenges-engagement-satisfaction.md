@@ -69,3 +69,4 @@ The review reports, citing Bagunaid et al. (2022), that AI prediction and recomm
 - [Students raised four categories of concern about potential misuse of MMLA data: judgment, privacy, career impact, and academic integrity](mmla-data-misuse-concerns-four-themes.md) — related
 - [Human-AI relationship concerns persist across all CAI generations while academic integrity and data privacy are emerging ethical concerns](cai-ethical-concerns-human-ai-relationship-persistent.md) — related
 - [Limited output accuracy and over-reliance are the most pressing challenges Chinese HSS students report in GenAI use, alongside strong ethical concern](genai-accuracy-overreliance-challenges-hss.md) — related
+- [Only a small fraction of AIEd research addresses ethical implications, challenges and risks](aied-little-ethical-reflection.md) — related

@@ -50,4 +50,4 @@ The report frames AI for educators through three layers: AI as computational int
 -
 
 ## Key Sources
-- Roschelle, J., Lester, J. & Fusco, J. (Eds.) (2020). AI and the future of learning: Expert panel report [Report]. Digital Promise. https://circls.org/reports/ai-report
+- Roschelle, J., Lester, J. & Fusco, J. (Eds.) (2020). AI and the future of learning: Expert panel report [Report]. Digital Promise. https://circls.org/reports/ai-report. [doi:10.51388/20.500.12265/106](https://doi.org/10.51388/20.500.12265/106)

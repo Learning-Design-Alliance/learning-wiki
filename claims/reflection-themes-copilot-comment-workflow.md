@@ -55,3 +55,4 @@ LLM-assisted four-round thematic analysis of end-of-activity reflections (Table 
 - [Pedagogically scaffolded generative AI in design thinking education augments rather than replaces human judgment](genai-scaffolded-augments-human-judgment-design-thinking.md) — related
 - [Students showed bounded trust and uneven verification behavior: 23 of 837 student turns (about 2.7%) contained explicit risk-aware moves](bounded-trust-uneven-verification-behaviors.md) — related
 - [An efficiency paradox: well-intentioned students default to passive GenAI processes and experience cognitive laziness and overreliance](genai-efficiency-paradox-passive-processes.md) — related
+- [Students report awareness of feedback-acting strategies but experience difficulty carrying them out](students-aware-of-strategies-but-fail-to-act.md) — related

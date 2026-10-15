@@ -47,4 +47,4 @@ The article describes Duolingo's design as scaffolding, in which learners progre
 -
 
 ## Key Sources
-- Neuschafer, T. (2022). Understanding Duolingo discussion boards as social-emotional support during the COVID-19 pandemic. Journal of Educators Online. https://eric.ed.gov/?id=EJ1393729
+- Neuschafer, T. (2022). Understanding Duolingo discussion boards as social-emotional support during the COVID-19 pandemic. Journal of Educators Online. https://eric.ed.gov/?id=EJ1393729. [doi:10.9743/jeo.2023.20.2.8](https://doi.org/10.9743/jeo.2023.20.2.8)

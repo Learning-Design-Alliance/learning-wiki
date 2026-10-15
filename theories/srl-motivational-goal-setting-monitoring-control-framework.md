@@ -45,7 +45,8 @@ The review frames self-regulated learning as a cognitive-motivational approach i
 - [Learning readiness as an operationalization of self-regulated learning (SRL)](learning-readiness-srl-operationalization.md)
 
 ## Examples
--
+
+- [Use the SRL conceptual framework to guide future research on college student motivation and learning](../strategies/srl-framework-guides-future-research.md)
 
 ## Key Sources
 - Abdul Gafoor. K., & Kurukkan, A. (2016). Self-Regulated Learning: A Motivational Approach for Learning Mathematics. International Journal of Education and Psychological Research, 5(3). https://ijepr.org/

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: pittaway-2014
-    resource: "http://ro.ecu.edu.au/ajte/vol39/iss7/8"
-    title: "Pittaway, S. M., & Moss, T. (2014). “Initially, We Were Just Names on a Computer Screen”: Designing Engagement in Online Teacher Education. Australian Journal of Teacher Education, 39(7). http://ro.ecu.edu.au/ajte/vol39/iss7/8"
+    resource: "https://doi.org/10.14221/ajte.2014v39n7.10"
+    title: "Pittaway, S. M., & Moss, T. (2014). “Initially, We Were Just Names on a Computer Screen”: Designing Engagement in Online Teacher Education. Australian Journal of Teacher Education, 39(7). http://ro.ecu.edu.au/ajte/vol39/iss7/8. [doi:10.14221/ajte.2014v39n7.10](https://doi.org/10.14221/ajte.2014v39n7.10)"
     author: "Pittaway, S. M., & Moss, T."
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Pittaway 2014
 
-Pittaway, S. M., & Moss, T. (2014). “Initially, We Were Just Names on a Computer Screen”: Designing Engagement in Online Teacher Education. Australian Journal of Teacher Education, 39(7). http://ro.ecu.edu.au/ajte/vol39/iss7/8
+Pittaway, S. M., & Moss, T. (2014). “Initially, We Were Just Names on a Computer Screen”: Designing Engagement in Online Teacher Education. Australian Journal of Teacher Education, 39(7). http://ro.ecu.edu.au/ajte/vol39/iss7/8. [doi:10.14221/ajte.2014v39n7.10](https://doi.org/10.14221/ajte.2014v39n7.10)
 
 `q1 · i?` · `design · r2`
 

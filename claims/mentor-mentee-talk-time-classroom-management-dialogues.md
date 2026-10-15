@@ -18,8 +18,8 @@ sources:
     kind: qualitative
     rigour: 3
   - id: sempowicz-2011-2
-    resource: "https://ro.ecu.edu.au/ajte/vol36/iss8/1"
-    title: "Sempowicz, T., & Hudson, P. (2011). Analysing mentoring dialogues for developing a preservice teacher's classroom management practices. Australian Journal of Teacher Education, 36(8). https://ro.ecu.edu.au/ajte/vol36/iss8/1"
+    resource: "https://doi.org/10.14221/ajte.2011v36n8.4"
+    title: "Sempowicz, T., & Hudson, P. (2011). Analysing mentoring dialogues for developing a preservice teacher's classroom management practices. Australian Journal of Teacher Education, 36(8). https://ro.ecu.edu.au/ajte/vol36/iss8/1. [doi:10.14221/ajte.2011v36n8.4](https://doi.org/10.14221/ajte.2011v36n8.4)"
     author: "Sempowicz, T., & Hudson, P."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Talk-time analysis showed the mentor spoke more than the mentee in video-recorded dialogues, with classroom management talk ranging from 3% to 39% of total talk time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 qualitative `r3` · `q2`
+> **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In video-recorded dialogue sessions the mentor's talking time ranged from 4 to 14:11 minutes while the mentee's ranged from 1:10 to 4:20 minutes. [→ Sempowicz 2011](#sempowicz-2011)
@@ -50,7 +50,7 @@ Talk-time analysis of five video-recorded dialogue sessions (Table 1) during the
 
 ### Sempowicz 2011 (2)
 
-Sempowicz, T., & Hudson, P. (2011). Analysing mentoring dialogues for developing a preservice teacher's classroom management practices. Australian Journal of Teacher Education, 36(8). https://ro.ecu.edu.au/ajte/vol36/iss8/1
+Sempowicz, T., & Hudson, P. (2011). Analysing mentoring dialogues for developing a preservice teacher's classroom management practices. Australian Journal of Teacher Education, 36(8). https://ro.ecu.edu.au/ajte/vol36/iss8/1. [doi:10.14221/ajte.2011v36n8.4](https://doi.org/10.14221/ajte.2011v36n8.4)
 
 `q2 · i?` · `qualitative · r3`
 

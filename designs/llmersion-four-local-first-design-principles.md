@@ -47,4 +47,4 @@ The article's scheme is organized as four design principles, each answering one 
 -
 
 ## Key Sources
-- Guo, Q., Tang, J., Huang, X., Lin, H.-Y., Zhong, Y., & Zhuang, X. (2026). LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity. https://arxiv.org/abs/2609.29672
+- Guo, Q., Tang, J., Huang, X., Lin, H.-Y., Zhong, Y., & Zhuang, X. (2026). LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity. https://arxiv.org/abs/2609.29672. [doi:10.48550/arxiv.2609.29672](https://doi.org/10.48550/arxiv.2609.29672)

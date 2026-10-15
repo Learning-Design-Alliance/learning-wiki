@@ -34,7 +34,7 @@ AMOVA (Accumulative Manifold Validation Analysis) is a specialized statistical m
 -
 
 ## Key Sources
-- Osler, J. E. (2015). AMOVA ["Accumulative Manifold Validation Analysis"]: An advanced statistical methodology designed to measure and test the validity, reliability, and overall efficacy of inquiry-based psychometric instruments. i-manager's Journal of Educational Technology, 12(3). https://eric.ed.gov/?id=EJ1098595
+- Osler, J. E. (2015). AMOVA ["Accumulative Manifold Validation Analysis"]: An advanced statistical methodology designed to measure and test the validity, reliability, and overall efficacy of inquiry-based psychometric instruments. i-manager's Journal of Educational Technology, 12(3). https://eric.ed.gov/?id=EJ1098595. [doi:10.26634/jet.12.3.3742](https://doi.org/10.26634/jet.12.3.3742)
 
 <!-- merged 2026-10-10 from theories/amova-accumulative-manifold-validation-analysis ("AMOVA is a post hoc linear stochastic modelling procedure for validating psychometric instruments"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 
@@ -75,5 +75,5 @@ AMOVA (Accumulative Manifold Validation Analysis) is a specialized statistical m
 - [Use AMOVA to add validity and reliability assessment value for researcher-designed instruments, with further substantiating research](../methods/use-amova-for-researcher-designed-instrument-validation.md)
 
 ## Key Sources
-- Osler, J. E. (2015). AMOVA ["Accumulative Manifold Validation Analysis"]: An advanced statistical methodology designed to measure and test the validity, reliability, and overall efficacy of inquiry-based psychometric instruments. i-manager's Journal of Educational Technology, 12(3). https://eric.ed.gov/?id=EJ1098595
+- Osler, J. E. (2015). AMOVA ["Accumulative Manifold Validation Analysis"]: An advanced statistical methodology designed to measure and test the validity, reliability, and overall efficacy of inquiry-based psychometric instruments. i-manager's Journal of Educational Technology, 12(3). https://eric.ed.gov/?id=EJ1098595. [doi:10.26634/jet.12.3.3742](https://doi.org/10.26634/jet.12.3.3742)
 -->

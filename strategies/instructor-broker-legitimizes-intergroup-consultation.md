@@ -47,4 +47,4 @@ The article describes the teacher taking on "the role of a broker, acting as a g
 -
 
 ## Key Sources
-- Irving, P. W., & Sayre, E. C. (2013). Conditions for building a community of practice in an advanced physics laboratory. https://arxiv.org/abs/1312.1953
+- Irving, P. W., & Sayre, E. C. (2013). Conditions for building a community of practice in an advanced physics laboratory. https://arxiv.org/abs/1312.1953. [doi:10.48550/arxiv.1312.1953](https://doi.org/10.48550/arxiv.1312.1953)

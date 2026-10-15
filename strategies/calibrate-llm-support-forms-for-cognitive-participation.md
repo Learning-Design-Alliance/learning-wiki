@@ -45,9 +45,10 @@ The article recommends that the educational value of future AI assistants lies i
 - [AI-assisted learning systems should scaffold cognitive development rather than replace it, and require active student contribution to preserve ownership](genai-systems-scaffold-not-replace-cognitive-development.md)
 - [Design AI coaching systems to preserve user agency, recognize vulnerability, and stop sycophantic encouragement during maladaptive thought processes](ai-coach-safeguard-design-recommendations.md)
 - [Design AI learning assistants to make the implications of AI use visible rather than restricting assistance](make-ai-use-implications-visible-design-strategy.md)
+- [Pursue research yielding conditions and parameters for when to use information giving versus information withholding interactions](research-conditions-parameters-information-giving-withholding.md)
 
 ## Examples
 -
 
 ## Key Sources
-- Chen, Z., Li, H., Xiao, Z., Qu, H., & Xie, X. (2026). Informal learning emerges in everyday human–LLM interaction. arXiv. https://arxiv.org/abs/2607.17643
+- Chen, Z., Li, H., Xiao, Z., Qu, H., & Xie, X. (2026). Informal learning emerges in everyday human–LLM interaction. arXiv. https://arxiv.org/abs/2607.17643. [doi:10.48550/arxiv.2607.17643](https://doi.org/10.48550/arxiv.2607.17643)

@@ -49,4 +49,4 @@ The article defines the AI Expert Feedback Ecology as "a closed-loop educational
 -
 
 ## Key Sources
-- Yuan, A. (2026). Expert Cognition Dashboard: From Learning Analytics to Cognition Intelligence in AI-Driven Education. https://arxiv.org/abs/2605.17263
+- Yuan, A. (2026). Expert Cognition Dashboard: From Learning Analytics to Cognition Intelligence in AI-Driven Education. https://arxiv.org/abs/2605.17263. [doi:10.48550/arxiv.2605.17263](https://doi.org/10.48550/arxiv.2605.17263)

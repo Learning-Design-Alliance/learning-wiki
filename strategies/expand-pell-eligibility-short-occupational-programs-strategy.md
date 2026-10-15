@@ -40,6 +40,7 @@ The report presents waiving Pell rules so funds can be used for short occupation
 ## Related Strategies
 
 - [Use updated occupational education and retraining programs, including cooperative on-the-job instruction, to re-employ workers displaced by technological change](cooperative-retraining-programs-displaced-workers.md)
+- [Retrain workers for occupations complementary to, rather than competing with, automation](retrain-workers-automation-complementary-occupations.md)
 
 ## Examples
 -

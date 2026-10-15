@@ -47,3 +47,6 @@ Small-group hands-on testing during Session 3, in which faculty tried prompts on
 - Empirical gains from AI tools in Arab EL2 classrooms are most consistent for surface-level outcomes, while higher-order writing quality and speaking proficiency show mixed results contingent on teacher mediation — a broader claim this one bears on
 - [Feedback prompted with ELL status narrows to surface-level grammar and mechanics corrections, assuming limited language competency rather than addressing argument and reasoning](ell-feedback-language-inadequacy-pedagogy.md) — a broader claim this one bears on
 - [A six-session faculty learning community on AI was implemented in a physics department, engaging nineteen faculty across biweekly meetings](physics-faculty-learning-community-ai-workshop-series.md) — related
+- [Students primarily benefit from AI chatbots in three key areas: homework and study assistance, personalized learning, and skills development](ai-chatbots-three-student-benefit-areas.md) — reports the opposite
+- [AI chatbots provide students detailed feedback, step-by-step homework solutions, and self-quizzing support](chatbot-homework-study-assistance.md) — reports the opposite
+- [AI chatbots support skills development in writing, problem-solving, and group discussion facilitation](chatbot-skills-development.md) — reports the opposite

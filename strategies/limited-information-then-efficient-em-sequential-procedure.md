@@ -43,4 +43,4 @@ For settings where researchers have not yet settled on a model structure, the ar
 -
 
 ## Key Sources
-- Rijmen, F. (2009). Efficient Full Information Maximum Likelihood Estimation for Multidimensional IRT Models. ETS Research Report RR-09-03. http://www.ets.org/research/contact.html
+- Rijmen, F. (2009). Efficient Full Information Maximum Likelihood Estimation for Multidimensional IRT Models. ETS Research Report RR-09-03. http://www.ets.org/research/contact.html. [doi:10.1002/j.2333-8504.2009.tb02160.x](https://doi.org/10.1002/j.2333-8504.2009.tb02160.x)

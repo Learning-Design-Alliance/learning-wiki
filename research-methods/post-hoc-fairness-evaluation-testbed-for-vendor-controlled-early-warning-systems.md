@@ -28,4 +28,4 @@ The article built a comparative evaluation testbed simulating an institution's p
 -
 
 ## Key Sources
-- McConvey, K., Zhai, A., Li, R., & Guha, S. (2026). Fairness Theatre: Evaluating Post-Hoc Fairness Interventions in Vendor-Controlled Early Warning Systems. arXiv. https://arxiv.org/abs/2609.38552
+- McConvey, K., Zhai, A., Li, R., & Guha, S. (2026). Fairness Theatre: Evaluating Post-Hoc Fairness Interventions in Vendor-Controlled Early Warning Systems. arXiv. https://arxiv.org/abs/2609.38552. [doi:10.48550/arxiv.2609.38552](https://doi.org/10.48550/arxiv.2609.38552)

@@ -50,4 +50,4 @@ The article recommends AMOVA as a post hoc addition to instrument validation pra
 -
 
 ## Key Sources
-- Osler, J. E. (2015). AMOVA ["Accumulative Manifold Validation Analysis"]: An advanced statistical methodology designed to measure and test the validity, reliability, and overall efficacy of inquiry-based psychometric instruments. i-manager's Journal of Educational Technology, 12(3). https://eric.ed.gov/?id=EJ1098595
+- Osler, J. E. (2015). AMOVA ["Accumulative Manifold Validation Analysis"]: An advanced statistical methodology designed to measure and test the validity, reliability, and overall efficacy of inquiry-based psychometric instruments. i-manager's Journal of Educational Technology, 12(3). https://eric.ed.gov/?id=EJ1098595. [doi:10.26634/jet.12.3.3742](https://doi.org/10.26634/jet.12.3.3742)

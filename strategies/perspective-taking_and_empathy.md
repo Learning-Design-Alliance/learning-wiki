@@ -65,7 +65,7 @@ Teacher–student relationship quality is consistently associated with engagemen
 ## Examples
 - **Gehlbach et al.'s "birds of similar feathers" intervention** — teachers completed a perspective-taking exercise emphasizing similarities with students, improving teacher–student relationships and achievement: [https://doi.org/10.1037/edu0000042](https://doi.org/10.1037/edu0000042)
 - **Restorative-practice check-ins** — opening class with a brief round in which students share how they are arriving, followed by non-judgmental teacher responses.
-- **Writing conferences** — a teacher asks "Walk me through what happened when you got stuck" before offering feedback, surfacing the student's process rather than judging the product.
+- **[Writing conferences](writing-conferences.md)** — a teacher asks "Walk me through what happened when you got stuck" before offering feedback, surfacing the student's process rather than judging the product.
 
 ## Key Sources
 - Cornelius-White, J. (2007). Learner-centered teacher-student relationships are effective: A meta-analysis. *Review of Educational Research, 77*(1), 113–143. [doi:10.3102/003465430298563](https://doi.org/10.3102/003465430298563)

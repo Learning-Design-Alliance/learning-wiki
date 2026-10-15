@@ -47,4 +47,4 @@ The review reports, citing Jin et al. (2023), that "learners perceived AI applic
 - [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
 
 ## Related Claims
--
+- [Evidence indicates socially shared regulation of learning occurs across SRL areas and may promote learning and performance](ssrl-empirical-evidence-occurrence-and-effects.md) — related

@@ -48,4 +48,4 @@ The article's third design guideline calls for clear visual aids such as familia
 -
 
 ## Key Sources
-- Rakib, M. A. N., Akter, S., Sridhar, E. P., Biswas, S., Raihan, M. R., & Rahman, M. (2025). Visualizing Engineering Fundamentals: Design of Mixed Reality and Physical Toolkits for Effective Learning. Manuscript under review at Ergonomics in Design: The Quarterly of Human Factors Applications. https://arxiv.org/abs/2607.00979
+- Rakib, M. A. N., Akter, S., Sridhar, E. P., Biswas, S., Raihan, M. R., & Rahman, M. (2025). Visualizing Engineering Fundamentals: Design of Mixed Reality and Physical Toolkits for Effective Learning. Manuscript under review at Ergonomics in Design: The Quarterly of Human Factors Applications. https://arxiv.org/abs/2607.00979. [doi:10.48550/arxiv.2607.00979](https://doi.org/10.48550/arxiv.2607.00979)

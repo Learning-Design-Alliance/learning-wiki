@@ -18,8 +18,8 @@ sources:
     kind: associational
     rigour: 2
   - id: neagu-2026-2
-    resource: "https://arxiv.org/abs/2606.15766"
-    title: "Neagu, A., Wong, J. T. H., Messer, M., Nelson, R., & Johnson, P. B. (2026). Rethinking Scaffolding in LLM Tutors: The Interactional Mismatch Between Benchmarks and Real-World Deployments. Pluralistic Alignment Workshop @ ICML 2026. https://arxiv.org/abs/2606.15766"
+    resource: "https://doi.org/10.48550/arxiv.2606.15766"
+    title: "Neagu, A., Wong, J. T. H., Messer, M., Nelson, R., & Johnson, P. B. (2026). Rethinking Scaffolding in LLM Tutors: The Interactional Mismatch Between Benchmarks and Real-World Deployments. Pluralistic Alignment Workshop @ ICML 2026. https://arxiv.org/abs/2606.15766. [doi:10.48550/arxiv.2606.15766](https://doi.org/10.48550/arxiv.2606.15766)"
     author: "Neagu, A., Wong, J. T. H., Messer, M., Nelson, R., & Johnson, P. B."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # The LLM-judge scoring pipeline for the two metrics aligns with human labels and human raters
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The GPT-5-mini judge distinguishes high and low scaffolding with 93.8% accuracy against MathTutorBench's human-labelled reward-model data. [→ Neagu 2026](#neagu-2026)
@@ -50,7 +50,7 @@ Validation of the Chatbot Scaffolding metric in Section 3.3 against a random 15%
 
 ### Neagu 2026 (2)
 
-Neagu, A., Wong, J. T. H., Messer, M., Nelson, R., & Johnson, P. B. (2026). Rethinking Scaffolding in LLM Tutors: The Interactional Mismatch Between Benchmarks and Real-World Deployments. Pluralistic Alignment Workshop @ ICML 2026. https://arxiv.org/abs/2606.15766
+Neagu, A., Wong, J. T. H., Messer, M., Nelson, R., & Johnson, P. B. (2026). Rethinking Scaffolding in LLM Tutors: The Interactional Mismatch Between Benchmarks and Real-World Deployments. Pluralistic Alignment Workshop @ ICML 2026. https://arxiv.org/abs/2606.15766. [doi:10.48550/arxiv.2606.15766](https://doi.org/10.48550/arxiv.2606.15766)
 
 `q2 · i?` · `associational · r2`
 

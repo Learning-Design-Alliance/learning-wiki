@@ -51,4 +51,4 @@ The chapter advances an account in which disengaged test taking is understood as
 -
 
 ## Key Sources
-- Wise, S., & Kuhfeld, M. (2020). A cessation of measurement: Identifying test taker disengagement using response time. In M. Margolis, & R. Feinberg (Eds.), Integrating Timing Considerations to Improve Testing Practices, Routledge. https://www.nwea.org/research/publication/a-cessation-of-measurement-identifying-test-taker-disengagement-using-response-time-book/
+- Wise, S., & Kuhfeld, M. (2020). A cessation of measurement: Identifying test taker disengagement using response time. In M. Margolis, & R. Feinberg (Eds.), Integrating Timing Considerations to Improve Testing Practices, Routledge. https://www.nwea.org/research/publication/a-cessation-of-measurement-identifying-test-taker-disengagement-using-response-time-book/. [doi:10.4324/9781351064781-11](https://doi.org/10.4324/9781351064781-11)

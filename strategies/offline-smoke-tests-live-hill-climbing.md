@@ -43,4 +43,4 @@ The article recommends a three-step strategy for any hill-climbing change: "(1) 
 -
 
 ## Key Sources
-- Udeshi, T., Khazenzon, A., Khan, K., Breen, N., Corwin, R., DiGiano, C., Weatherholtz, K., Zaluski, M. (2026). Methodologies for Improving the Quality of AI Tutoring in K-12 Education. https://sites.google.com/khanacademy.org/aied2026supplementalmaterial/home
+- Udeshi, T., Khazenzon, A., Khan, K., Breen, N., Corwin, R., DiGiano, C., Weatherholtz, K., Zaluski, M. (2026). Methodologies for Improving the Quality of AI Tutoring in K-12 Education. https://sites.google.com/khanacademy.org/aied2026supplementalmaterial/home. [doi:10.1007/978-3-032-29755-6_14](https://doi.org/10.1007/978-3-032-29755-6_14)

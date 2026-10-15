@@ -51,3 +51,4 @@ Comparison experiment on the same institutional dataset (Table 1: TRACE MSE 0.03
 - [The DMO-GRU model achieves the best classification results among the compared models, with 91.2% accuracy, 90.8% F1-score, 90.1% precision and 92.5% recall](dmo-gru-best-classification-results.md) — related
 - [DMO-GRU attains the lowest MAE and RMSE and the highest R2 score among the compared regression models for forecasting student success](dmo-gru-lowest-regression-error-highest-r2.md) — related
 - [On the ASSISTments real-world benchmark, the proposed method achieves the best performance across all metrics, significantly outperforming all baselines](assistments-real-world-best-all-metrics.md) — related
+- Replacing the transformer with a single-layer 2048-unit LSTM drops the average score by 5.6, with the LSTM winning only on MRPC — related

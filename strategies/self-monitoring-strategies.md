@@ -109,14 +109,14 @@ Self monitoring improves learning primarily when it is *accurate* and *criterion
 - **Calibration in introductory psychology**: students predict exam scores before each quiz and graph prediction vs. actual across the term, visibly improving judgment accuracy.
 - **Error logs in mathematics**: learners keep a running log of missed problems, categorized by error type (conceptual vs. careless), and review the log before assessments.
 - **[Khan Academy](https://www.khanacademy.org)** — mastery progress bars and skill-level dashboards make progress monitoring visible; learners see which skills are "attempted," "proficient," or "mastered" and choose what to revisit.
-- **Reciprocal teaching** — small groups take turns predicting, questioning, clarifying, and summarizing a text, making comprehension monitoring a shared, explicit activity.
+- **[Reciprocal teaching](reciprocal_teaching.md)** — small groups take turns predicting, questioning, clarifying, and summarizing a text, making comprehension monitoring a shared, explicit activity.
 - **Self-monitoring checklists in special education** — students with ADHD track on-task behavior with a MotivAider or paper tally and compare against a co-set goal; one of the most consistently supported classroom interventions in the behavior-management literature.
 - **Stop-and-jot comprehension checks** — during reading, students pause at paragraph ends to write a one-line summary and rate "I get it / I'm confused," triggering rereading decisions.
 - **[Khan Academy](https://www.khanacademy.org)** — mastery progress bars and skill dashboards externalize monitoring, showing learners exactly which skills are proficient versus struggling.
-- **Exam wrappers** — post-exam reflection forms (used widely in undergraduate STEM courses) prompting students to record how they studied and compare that with their results, feeding forward into next-exam planning.
+- **[Exam wrappers](exam-wrappers.md)** — post-exam reflection forms (used widely in undergraduate STEM courses) prompting students to record how they studied and compare that with their results, feeding forward into next-exam planning.
 - **Khan Academy mastery tracking** — learners see per-skill mastery bars and are prompted to continue or revisit skills, externalizing the monitoring judgment.
-- **Exam wrappers** — post-exam reflection forms (used widely in undergraduate STEM courses) ask students to compare predicted with actual scores and plan study changes for the next exam.
-- **Reciprocal teaching** — students take turns leading comprehension-monitoring questions ("What was confusing?"), making monitoring a visible, practiced routine.
+- **[Exam wrappers](exam-wrappers.md)** — post-exam reflection forms (used widely in undergraduate STEM courses) ask students to compare predicted with actual scores and plan study changes for the next exam.
+- **[Reciprocal teaching](reciprocal_teaching.md)** — students take turns leading comprehension-monitoring questions ("What was confusing?"), making monitoring a visible, practiced routine.
 
 ## Key Sources
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70. [doi:10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

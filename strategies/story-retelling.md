@@ -69,7 +69,7 @@ Retelling forces learners to construct a coherent representation of a text rathe
 - [Story retelling with familiar picture books to practice sequencing](story-retelling-sequencing-familiar-books.md)
 
 ## Examples
-- **Text Talk (Beck & McKeown)** — published K–1 program in which teachers read decontextualized storybook text, then lead discussion and retelling focused on story structure and vocabulary rather than pictures.
+- **[Text Talk](text-talk.md) (Beck & McKeown)** — published K–1 program in which teachers read decontextualized storybook text, then lead discussion and retelling focused on story structure and vocabulary rather than pictures.
 - **DIBELS Oral Retelling Fluency** — standardized curriculum-based measure in which students retell a passage after a timed read; retell quality is scored for words and story elements, used for progress monitoring.
 - **Story retell centers in balanced-literacy classrooms** — a familiar story is placed at a listening or reading center with story-map cards; pairs retell to each other while a third student checks the map for completeness.
 

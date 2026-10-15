@@ -68,7 +68,7 @@ Structured observation converts diffuse empathy into usable evidence: by constra
 ## Examples
 - **[Shadow a Student Challenge](https://www.shadowastudent.org)** (IDEO + Stanford d.school School Retool) — school leaders shadow a student for a full day using a structured template, then debrief and commit to a "hack" addressing what they observed.
 - **Racial Equity Leadership shadowing protocol** (racialquityleadership.com) — a template explicitly separating factual observation from interpretation, used to surface racialized patterns in student experience.
-- **Learning walks** in instructional coaching programs — brief structured classroom observations with a shared look-for template, debriefed descriptively before evaluation.
+- **[Learning walks](learning-walks.md)** in instructional coaching programs — brief structured classroom observations with a shared look-for template, debriefed descriptively before evaluation.
 
 ## Key Sources
 - Cook-Sather, A. (2009). *Learning from the student's perspective: A sourcebook for effective teaching*. Paradigm Publishers.

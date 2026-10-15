@@ -88,7 +88,7 @@ Proximity control works because it makes surveillance visible and immediate whil
 - **Secondary lab work**: during a chemistry practical, the teacher moves between benches rather than staying at the front desk, which keeps safety-critical behavior (goggles, procedure adherence) under visible monitoring.
 - **Responsive Classroom teacher language**: proximity is taught as one of several nonverbal redirect strategies alongside private cues and strategic pausing (https://www.responsiveclassroom.org).
 - During small-group work in a middle-school math class, the teacher notices two students drifting off-task, walks over and stands beside their table while continuing to explain a problem to the adjacent group; both students rejoin the work without any verbal exchange.
-- **Responsive Classroom** teacher language training (https://www.responsivelistrong.org) includes proximity among its recommended nonverbal redirection strategies for elementary classrooms.
+- **[Responsive Classroom](../products/responsive-classroom.md)** teacher language training (https://www.responsivelistrong.org) includes proximity among its recommended nonverbal redirection strategies for elementary classrooms.
 - In a writing workshop, the teacher conducts brief conferring sessions at individual students' desks, so routine proximity doubles as formative assessment and relationship-building.
 
 ## Key Sources

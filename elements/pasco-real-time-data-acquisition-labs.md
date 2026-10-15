@@ -9,8 +9,8 @@ generated:
   at: 2026-09-26
 sources:
   - id: brewe-2007
-    resource: "https://scholar.google.com/scholar?q=Impacts+of+real-time+data+collection+on+introductory+algebra-based+physics"
-    title: "Brewe, E., Sawtelle, V., and Pamela, P. (2007). Impacts of real-time data collection on introductory algebra-based physics. https://scholar.google.com/scholar?q=Impacts+of+real-time+data+collection+on+introductory+algebra-based+physics"
+    resource: "https://doi.org/10.48550/arxiv.0709.2738"
+    title: "Brewe, E., Sawtelle, V., and Pamela, P. (2007). Impacts of real-time data collection on introductory algebra-based physics. https://doi.org/10.48550/arxiv.0709.2738"
     author: Brewe, E., Sawtelle, V., and Pamela, P
 ---
 
@@ -48,4 +48,4 @@ The technology intervention consisted of Pasco data acquisition hardware and dat
 - [Measure and Graph Data](../strategies/measure_and_graph_data.md)
 
 ## Key Sources
-- Brewe, E., Sawtelle, V., and Pamela, P. (2007). Impacts of real-time data collection on introductory algebra-based physics. https://scholar.google.com/scholar?q=Impacts+of+real-time+data+collection+on+introductory+algebra-based+physics
+- Brewe, E., Sawtelle, V., and Pamela, P. (2007). Impacts of real-time data collection on introductory algebra-based physics. https://doi.org/10.48550/arxiv.0709.2738

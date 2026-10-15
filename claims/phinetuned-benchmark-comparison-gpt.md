@@ -45,3 +45,5 @@ Model evaluation reported in Table I: MMLU, Hellaswag, and GPT-4-turbo-judged st
 ## Related Claims
 - [A LoRA-adapted open-weight Gemma-3-27B model fine-tuned on 120 essays outperforms a fine-tuned GPT-3.5 baseline on TOEFL essay scoring across all reported metrics](gemma-27b-lora-beats-gpt35-essay-scoring.md) — related
 - [The OpenAI gpt-4o reference model outperformed all quantised models on human-rated coherence, fluency, relevance and cultural appropriateness, serving as an upper benchmark](gpt-4o-reference-outperformed-quantised-models-human-ratings.md) — related
+- On question answering and commonsense reasoning the model outperforms previous best results by up to 8.9% on Story Cloze and 5.7% overall on RACE — related
+- [No significant differences emerged between GPT-3.5 Turbo and Claude 3 Opus on affective, collaborative, or performance measures](no-difference-gpt35-turbo-claude3-opus.md) — related

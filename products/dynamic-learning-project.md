@@ -53,11 +53,11 @@ A school-based instructional technology coaching programme run by Digital Promis
 -
 
 ## Key Sources
-- Bakhshaei, M., Hardy, A., Francisco, A., Noakes, S., & Fusco, J. (2018). Fostering Powerful Use of Technology Through Instructional Coaching: Results from the Pilot Year of the Dynamic Learning Project. Digital Promise. https://digitalpromise.dspacedirect.org/items/540c3325-fd5f-408e-a347-2409f57848dd
-- Bakhshaei, M., Hardy, A., Ravitz, J., & Seylar, J. (2019). Scaling Up Classroom Coaching for Impactful Technology Use: Results from Year 2 of the Dynamic Learning Project. Digital Promise. https://digitalpromise.dspacedirect.org/items/79337f05-0795-4bac-b1d7-f4758c23285c
+- Bakhshaei, M., Hardy, A., Francisco, A., Noakes, S., & Fusco, J. (2018). Fostering Powerful Use of Technology Through Instructional Coaching: Results from the Pilot Year of the Dynamic Learning Project. Digital Promise. https://digitalpromise.dspacedirect.org/items/540c3325-fd5f-408e-a347-2409f57848dd. [doi:10.51388/20.500.12265/48](https://doi.org/10.51388/20.500.12265/48)
+- Bakhshaei, M., Hardy, A., Ravitz, J., & Seylar, J. (2019). Scaling Up Classroom Coaching for Impactful Technology Use: Results from Year 2 of the Dynamic Learning Project. Digital Promise. https://digitalpromise.dspacedirect.org/items/79337f05-0795-4bac-b1d7-f4758c23285c. [doi:10.51388/20.500.12265/82](https://doi.org/10.51388/20.500.12265/82)
 
 <!-- merged 2026-10-10 from elements/dlp-coaching-model-element ("Dynamic Learning Project (DLP) coaching model"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
-- Bakhshaei, M., Hardy, A., Ravitz, J., & Seylar, J. (2019). Scaling Up Classroom Coaching for Impactful Technology Use: Results from Year 2 of the Dynamic Learning Project. Digital Promise. https://digitalpromise.dspacedirect.org/items/79337f05-0795-4bac-b1d7-f4758c23285c
+- Bakhshaei, M., Hardy, A., Ravitz, J., & Seylar, J. (2019). Scaling Up Classroom Coaching for Impactful Technology Use: Results from Year 2 of the Dynamic Learning Project. Digital Promise. https://digitalpromise.dspacedirect.org/items/79337f05-0795-4bac-b1d7-f4758c23285c. [doi:10.51388/20.500.12265/82](https://doi.org/10.51388/20.500.12265/82)
 
 # Dynamic Learning Project (DLP) coaching model
 
@@ -104,7 +104,7 @@ The DLP is a school-based instructional technology coaching program that placed 
 - [School and district leaders' recommendations for implementing effective classroom coaching programs](../strategies/leader-recommendations-effective-coaching-programs.md)
 
 ## Key Sources
-- Bakhshaei, M., Hardy, A., Francisco, A., Noakes, S., & Fusco, J. (2018). Fostering Powerful Use of Technology Through Instructional Coaching: Results from the Pilot Year of the Dynamic Learning Project. Digital Promise. https://digitalpromise.dspacedirect.org/items/540c3325-fd5f-408e-a347-2409f57848dd
+- Bakhshaei, M., Hardy, A., Francisco, A., Noakes, S., & Fusco, J. (2018). Fostering Powerful Use of Technology Through Instructional Coaching: Results from the Pilot Year of the Dynamic Learning Project. Digital Promise. https://digitalpromise.dspacedirect.org/items/540c3325-fd5f-408e-a347-2409f57848dd. [doi:10.51388/20.500.12265/48](https://doi.org/10.51388/20.500.12265/48)
 -->
 
 <!-- merged 2026-10-10 from theories/five-cornerstones-effective-technology-coaching ("Five cornerstones of an effective classroom technology coaching program"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
@@ -156,5 +156,5 @@ The report proposes that five aspects of the DLP account for its success: partne
 - [School and district leaders' recommendations for implementing effective classroom coaching programs](../strategies/leader-recommendations-effective-coaching-programs.md)
 
 ## Key Sources
-- Bakhshaei, M., Hardy, A., Ravitz, J., & Seylar, J. (2019). Scaling Up Classroom Coaching for Impactful Technology Use: Results from Year 2 of the Dynamic Learning Project. Digital Promise. https://digitalpromise.dspacedirect.org/items/79337f05-0795-4bac-b1d7-f4758c23285c
+- Bakhshaei, M., Hardy, A., Ravitz, J., & Seylar, J. (2019). Scaling Up Classroom Coaching for Impactful Technology Use: Results from Year 2 of the Dynamic Learning Project. Digital Promise. https://digitalpromise.dspacedirect.org/items/79337f05-0795-4bac-b1d7-f4758c23285c. [doi:10.51388/20.500.12265/82](https://doi.org/10.51388/20.500.12265/82)
 -->

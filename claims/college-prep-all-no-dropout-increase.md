@@ -11,8 +11,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: allensworth-2008
-    resource: "https://doi.org/10.3102/0162373709343471"
-    title: "Allensworth, E., Nomi, T., Montgomery, N., & Lee, V. E. (2008). College Preparatory Curriculum for All: Consequences of Ninth-Grade Course Taking in Algebra and English on Academic Outcomes in Chicago. Consortium on Chicago School Research. https://consortium.uchicago.edu/publications/college-preparatory-curriculum-all-consequences-ninth-grade-coursetaking-algebra-and [doi:10.3102/0162373709343471](https://doi.org/10.3102/0162373709343471)"
+    resource: "https://consortium.uchicago.edu/publications/college-preparatory-curriculum-all-consequences-ninth-grade-coursetaking-algebra-and"
+    title: "Allensworth, E., Nomi, T., Montgomery, N., & Lee, V. E. (2008). College Preparatory Curriculum for All: Consequences of Ninth-Grade Course Taking in Algebra and English on Academic Outcomes in Chicago. Consortium on Chicago School Research. https://consortium.uchicago.edu/publications/college-preparatory-curriculum-all-consequences-ninth-grade-coursetaking-algebra-and"
     author: "Allensworth, E., Nomi, T., Montgomery, N., & Lee, V. E."
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 # Requiring all students to take college-prep ninth-grade courses did not increase dropout or reduce graduation, including for low-ability students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 causal `r2`, 1 associational `r?` · `q2`–`q3`
+> **Evidence** · 1 study (2 entries) · associational `r?` · `q2`–`q3`
 
 ## Subclaims
 
@@ -43,7 +43,7 @@ sources:
 
 ### Allensworth 2008
 
-Allensworth, E., Nomi, T., Montgomery, N., & Lee, V. E. (2008). College Preparatory Curriculum for All: Consequences of Ninth-Grade Course Taking in Algebra and English on Academic Outcomes in Chicago. Consortium on Chicago School Research. https://consortium.uchicago.edu/publications/college-preparatory-curriculum-all-consequences-ninth-grade-coursetaking-algebra-and [doi:10.3102/0162373709343471](https://doi.org/10.3102/0162373709343471)
+Allensworth, E., Nomi, T., Montgomery, N., & Lee, V. E. (2008). College Preparatory Curriculum for All: Consequences of Ninth-Grade Course Taking in Algebra and English on Academic Outcomes in Chicago. Consortium on Chicago School Research. https://consortium.uchicago.edu/publications/college-preparatory-curriculum-all-consequences-ninth-grade-coursetaking-algebra-and
 
 `q3 · i?` · `causal · r2`
 

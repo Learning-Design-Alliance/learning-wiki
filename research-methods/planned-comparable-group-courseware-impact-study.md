@@ -32,4 +32,4 @@ The article distills lessons from the NGCC evaluation about conducting impact st
 
 ## Key Sources
 - Barbara Means and Julie Neisler. (2004). Continuous Improvement for Student Success. Digital Promise Global. https://www.newyorker.com/magazine/2004/12/06/the-bell-curve
-- Luke, Christina C.; Gibson, Sierra; Francisco, Aubrey T. (2017). Rapid Cycle Pilots: Using Edtech to Support English Learners. Digital Promise. https://www.digitalpromise.org
+- Luke, Christina C.; Gibson, Sierra; Francisco, Aubrey T. (2017). Rapid Cycle Pilots: Using Edtech to Support English Learners. Digital Promise. https://www.digitalpromise.org. [doi:10.51388/20.500.12265/26](https://doi.org/10.51388/20.500.12265/26)

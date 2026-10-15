@@ -73,7 +73,7 @@ Role assignment converts unstructured "discussion" — which often devolves into
 - [Use group roles, rotating roles, shared rubrics, and product-and-process debriefs to foster belonging in group work](group-roles-rubrics-debriefs-belonging.md)
 
 ## Examples
-- **Reciprocal Teaching** (Palincsar & Brown, 1984) — students rotate through summarizer, questioner, clarifier, and predictor roles when reading expository text; one of the best-validated comprehension interventions.
+- **[Reciprocal Teaching](reciprocal_teaching.md)** (Palincsar & Brown, 1984) — students rotate through summarizer, questioner, clarifier, and predictor roles when reading expository text; one of the best-validated comprehension interventions.
 - **Literature Circles** — widely used K–12 protocol with role sheets (discussion director, literary luminary, connector); see [http://www.litcircles.org](http://www.litcircles.org).
 - **POGIL (Process Oriented Guided Inquiry Learning)** — chemistry and other STEM courses assign Manager, Recorder, and Presenter roles within teams working through guided-inquiry worksheets; see [https://pogil.org](https://pogil.org).
 

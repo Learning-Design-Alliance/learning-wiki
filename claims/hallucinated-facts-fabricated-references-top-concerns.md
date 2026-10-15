@@ -61,3 +61,5 @@ RQ3 thematic analysis of focus groups reports these output-quality concerns; par
 - [Interviewed teachers cite poor AI output quality and risks to students' cognitive engagement as main obstacles, and subject-specific use cases as their top professional-development need](teacher-interviews-obstacles-and-pd-needs.md) — related
 - [The paper argues authenticity in AI-mediated assessment is achieved through design rather than detection](authenticity-through-design-not-detection.md) — related
 - [ChatGPT feedback required doctoral students to validate the procedural accuracy of algorithm-generated outputs, with judgement shaped by prompt quality](chatgpt-feedback-requires-output-validation.md) — related
+- [Scholars raise three main concerns about AI chatbots in education: reliability and accuracy, fair assessment, and ethical issues](chatbot-concerns-reliability-assessment-ethics.md) — a broader claim this one bears on
+- [ChatGPT fabricates references: the authors caught it inventing a non-existent 'Ribeiro and Vala, 2020' article with full bibliographic details](chatgpt-fabricates-references.md) — related

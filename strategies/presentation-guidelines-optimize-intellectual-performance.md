@@ -47,7 +47,8 @@ Cognitive load theory is described as "designed to provide guidelines intended t
 - [Cognitive Load Management](../claims/cognitive-load-management.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Present information in a manner that encourages learner activities that optimize intellectual performance](present-information-to-optimize-intellectual-performance.md)
 
 ## Examples
 -

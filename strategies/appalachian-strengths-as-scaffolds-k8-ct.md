@@ -48,4 +48,4 @@ The panel poses a focal discussion question asking how Appalachian strengths lik
 -
 
 ## Key Sources
-- Iwatani, E., Tackett, T., Tackett, K., Arnett, N., & May, P. (2021). Leveraging Community Cultural Wealth to Support K-8 CT Education in Kentucky Appalachia. IEEE. https://digitalpromise.dspacedirect.org/items/327e7ce2-ba5e-4ea9-8847-aeda3b061c25
+- Iwatani, E., Tackett, T., Tackett, K., Arnett, N., & May, P. (2021). Leveraging Community Cultural Wealth to Support K-8 CT Education in Kentucky Appalachia. IEEE. https://digitalpromise.dspacedirect.org/items/327e7ce2-ba5e-4ea9-8847-aeda3b061c25. [doi:10.1109/respect51740.2021.9620610](https://doi.org/10.1109/respect51740.2021.9620610)

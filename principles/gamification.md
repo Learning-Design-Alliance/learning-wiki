@@ -205,7 +205,7 @@ The expectation should weaken if controlled comparisons of the same practice wit
 **[Zombies, Run!](https://zombiesrungame.com)** — Audio narrative gamification of exercise; a model of narrative framing that transforms a repetitive activity rather than bolting rewards onto it.
 
 ## Key Sources
-- Deterding, S., Dixon, D., Khaled, R., & Nacke, L. (2011). From game design elements to gamefulness: Defining "gamification." *Proceedings of the 15th International Academic MindTrek Conference*, 9–15. [doi:10.1145/2181037.2181040](https://doi.org/10.1145/2181037.2181040)
+- Deterding, S., Dixon, D., Khaled, R., & Nacke, L. (2011). From game design elements to gamefulness: Defining "gamification." *Proceedings of the 15th International Academic MindTrek Conference: Envisioning Future Media Environments*, 9–15. [doi:10.1145/2181037.2181040](https://doi.org/10.1145/2181037.2181040)
 - Hamari, J., Koivisto, J., & Sarsa, H. (2014). Does gamification work? A literature review of empirical studies on gamification. *Proceedings of the 47th Hawaii International Conference on System Sciences*, 3025–3034. [doi:10.1109/HICSS.2014.377](https://doi.org/10.1109/HICSS.2014.377)
 - Sailer, M., & Homner, L. (2020). The gamification of learning: A meta-analysis. *Educational Psychology Review, 32*(1), 77–112. [doi:10.1007/s10648-019-09498-w](https://doi.org/10.1007/s10648-019-09498-w)
 - Landers, R. N. (2014). Developing a theory of gamified learning: Linking serious games and gamification of learning. *Simulation & Gaming, 45*(6), 752–768. [doi:10.1177/1046878114563660](https://doi.org/10.1177/1046878114563660)
@@ -340,7 +340,7 @@ Gamification's effects on learning are real but conditional. Meta-analytic evide
 **[Zombies, Run!](https://zombiesrungame.com)** — Audio narrative gamification of exercise; a model of narrative framing that transforms a repetitive activity rather than bolting rewards onto it.
 
 ## Key Sources
-- Deterding, S., Dixon, D., Khaled, R., & Nacke, L. (2011). From game design elements to gamefulness: Defining "gamification." *Proceedings of the 15th International Academic MindTrek Conference*, 9–15. [doi:10.1145/2181037.2181040](https://doi.org/10.1145/2181037.2181040)
+- Deterding, S., Dixon, D., Khaled, R., & Nacke, L. (2011). From game design elements to gamefulness: Defining "gamification." *Proceedings of the 15th International Academic MindTrek Conference: Envisioning Future Media Environments*, 9–15. [doi:10.1145/2181037.2181040](https://doi.org/10.1145/2181037.2181040)
 - Hamari, J., Koivisto, J., & Sarsa, H. (2014). Does gamification work? A literature review of empirical studies on gamification. *Proceedings of the 47th Hawaii International Conference on System Sciences*, 3025–3034. [doi:10.1109/HICSS.2014.377](https://doi.org/10.1109/HICSS.2014.377)
 - Sailer, M., & Homner, L. (2020). The gamification of learning: A meta-analysis. *Educational Psychology Review, 32*(1), 77–112. [doi:10.1007/s10648-019-09498-w](https://doi.org/10.1007/s10648-019-09498-w)
 - Landers, R. N. (2014). Developing a theory of gamified learning: Linking serious games and gamification of learning. *Simulation & Gaming, 45*(6), 752–768. [doi:10.1177/1046878114563660](https://doi.org/10.1177/1046878114563660)

@@ -49,4 +49,4 @@ The essay argues that novice teachers of the gifted must be educated to recogniz
 -
 
 ## Key Sources
-- McGlonn-Nelson, K. (2005). Looking Outward: Exploring the Intersections of Sociocultural Theory and Gifted Education. The Journal of Secondary Gifted Education, 17(1), 48-55. https://eric.ed.gov/?id=EJ746045
+- McGlonn-Nelson, K. (2005). Looking Outward: Exploring the Intersections of Sociocultural Theory and Gifted Education. The Journal of Secondary Gifted Education, 17(1), 48-55. https://eric.ed.gov/?id=EJ746045. [doi:10.4219/jsge-2005-391](https://doi.org/10.4219/jsge-2005-391)

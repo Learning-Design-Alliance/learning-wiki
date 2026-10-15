@@ -69,8 +69,8 @@ Climate routines function as environmental scaffolding: by making social expecta
 - [Use RJ strategies such as proactive circles to manage classrooms and establish norms beyond discipline](proactive-circles-classroom-management-norms.md)
 
 ## Examples
-- **Responsive Classroom** (https://www.responsiveclassroom.org) — the Morning Meeting routine: greeting, sharing, group activity, and news-and-announcements, practiced daily in elementary classrooms.
-- **Positive greetings at the door** — teachers greet each student by name with a brief interaction at the threshold; studies report large gains in engaged time and reductions in disruptive behavior (Cook et al., 2018).
+- **[Responsive Classroom](../products/responsive-classroom.md)** (https://www.responsiveclassroom.org) — the Morning Meeting routine: greeting, sharing, group activity, and news-and-announcements, practiced daily in elementary classrooms.
+- **[Positive greetings at the door](positive-greetings-at-the-door.md)** — teachers greet each student by name with a brief interaction at the threshold; studies report large gains in engaged time and reductions in disruptive behavior (Cook et al., 2018).
 - **Restorative justice circles in Denver Public Schools** (https://www.dpsk12.org) — district-wide routine of community circles that contributed to reduced suspension rates.
 - **SEL check-ins in online courses** — a weekly emoji- or scale-based check-in poll at session start, with the instructor acknowledging results aloud.
 

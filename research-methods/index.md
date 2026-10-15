@@ -2,9 +2,26 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**436 entries** · 0 stable · 0 in review · 436 drafts
+**450 entries** · 0 stable · 14 in review · 436 drafts
 
 ---
+
+## In Review
+
+* [Adapted Personalized Learning Continuum Framework (PLCF)](adapted-personalized-learning-continuum-framework-plcf.md) - The article adapts the Personalized Learning Continuum Framework of Lokey-Vega and Stephens (2019) as an analytical lens for classifying AI-enabled personalized learning models along the proportion of Academic Learning Time spent on automated versus student-centered pedagogies and the distribution o
+* [Five usage codes for AI in higher education](five-usage-codes-for-ai-in-higher-education.md) - This systematic review used grounded coding of 138 articles to let uses of AI in higher education emerge from the data rather than fitting them to pre-existing frameworks.
+* [Five-characteristic framework of student diversity for evaluating universal SEL interventions](five-characteristic-framework-of-student-diversity-for-evaluating-universal-sel-interventi.md) - The review operationalizes student diversity for evaluating universal SEL interventions in terms of five demographic characteristics: \"gender, race/ethnicity, SES, disability status, and sexual orientation/gender identity.\" It uses this framework to assess how and when demographic characteristics we
+* [Five-component framework of quality formative feedback on writing](five-component-framework-of-quality-formative-feedback-on-writing.md) - The study operationalizes quality formative feedback on writing using five deductively coded components: the degree to which feedback \"was criteria-based, provided clear directions for improvement, was accurate, prioritized essential features, and used a supportive tone.\" Each component is scored 1-
+* [Four-dimension team creative performance framework for DST evaluation](four-dimension-team-creative-performance-framework-for-dst-evaluation.md) - The study adopted Liu et al.'s (2023) TCP assessment framework comprising four dimensions: \"novelty, relevance, user experience, and sustainability.\" Novelty assesses originality and innovation; relevance focuses on practical applicability; user experience evaluates engagement through authenticity, 
+* [Four-stage model of conducting a meta-analysis in SLA research](four-stage-model-of-conducting-a-meta-analysis-in-sla-research.md) - The review organizes the conduct of a meta-analysis in second language acquisition research into four typical stages: \"defining the research domain,\" \"developing a reliable coding scheme,\" \"analyzing data,\" and \"interpreting results.\" The model frames meta-analysis as a staged process in which each 
+* [Hattie and Timperley's feedback model](hattie-and-timperleys-feedback-model.md) - The article adopts this theoretical framework to analyse the effectiveness of textual feedback.
+* [P-curve analysis](p-curve-analysis.md) - P-curve analysis is a tool for assessing whether a set of statistically significant findings contains evidential value.
+* [Self-management intervention taxonomy for academic outcomes](self-management-intervention-taxonomy-for-academic-outcomes.md) - The review organizes academic self-management interventions for students with emotional and behavioral disorders into five technique types, reporting that \"Self-monitoring interventions were the predominant type of self-management technique used by researchers.\" The taxonomy distinguishes self-evalu
+* [Taxonomy of EAI modalities in education](taxonomy-of-eai-modalities-in-education.md) - The review organizes the educational AI literature by intervention type, finding that studies \"address the potential of EAI on student performance through applications (n = 8), simulations (n = 8), VR (n = 4) and AR (n = 2)\".
+* [Taxonomy of eight primary self-management intervention configurations](taxonomy-of-eight-primary-self-management-intervention-configurations.md) - The review organizes the school-based self-management literature by the specific intervention configuration employed, distinguishing approaches such as prompted self-monitoring, self-monitoring plus reinforcement based on both accuracy and performance, and prompted self-monitoring plus graphing.
+* [Theory-informed, statistically sound meta-analysis planning](theory-informed-statistically-sound-meta-analysis-planning.md) - This principle holds that a meta-analysis in applied linguistics delivers critical information only under three conditions: it must be \"well planned,\" \"employs sound statistical methods,\" and be \"based on a thorough understanding of relevant theory.\" When these hold, the review states the meta-analy
+* [Weighted Bloom's Index and Predicted Exam Score methods](weighted-blooms-index-and-predicted-exam-score-methods.md) - The study introduces two methods for controlling for exam difficulty in longitudinal course comparisons.
+* [Zawacki-Richter et al.'s four-area AIEd typology](zawacki-richter-et-als-four-area-aied-typology.md) - This typology classifies AI-in-education research into four broad areas: Profiling and prediction, Intelligent Tutoring Systems, Assessment and Evaluation, and Adaptive Systems and Personalisation.
 
 ## Draft
 

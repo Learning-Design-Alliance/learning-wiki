@@ -45,3 +45,4 @@ Cross-sectional rating study of 144 students across three educational levels who
 - [Perceived usefulness of response-level LLM feedback is most strongly associated with actionability and perceived accuracy](usefulness-associated-actionability-accuracy.md) — related
 - [Students in the generative AI-supported condition reported favorable perceptions of the instruction, with feedback for correcting mistakes rated highest](genai-geometry-favorable-perceptions.md) — related
 - [Under blind conditions, students rated GenAI feedback more positively than tutor-generated feedback, with a statistically significant difference only on Genuineness favouring GenAI](genai-feedback-rated-higher-genuineness-blind.md) — related
+- [Differences between human and ChatGPT feedback quality were small, with means within one point and partial eta-squared ranging from .01 to .12](small-effect-sizes-human-ai-feedback-differences.md) — related

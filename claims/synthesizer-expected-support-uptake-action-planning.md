@@ -44,3 +44,4 @@ Theoretical expectation (Expectation 5) built on cited feedback recipience resea
 
 ## Related Claims
 - [The Synthesizer is expected to reduce perceived overload and support affect relative to unstructured comment lists](synthesizer-expected-reduce-overload-support-affect.md) — related
+- [Coached peer review improves the specificity of reviewer comments and receivers' uptake of feedback](coached-peer-review-improves-comment-quality-and-uptake.md) — related

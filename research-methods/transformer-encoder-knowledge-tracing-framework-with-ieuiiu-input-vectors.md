@@ -38,7 +38,7 @@ A deep knowledge tracing framework for the ASSISTments dataset that predicts stu
 -
 
 ## Key Sources
-- Lu, Y., Tong, L., & Cheng, Y. (2024). Advanced Knowledge Tracing: Incorporating Process Data and Curricula Information via an Attention-Based Framework for Accuracy and Interpretability. Journal of Educational Data Mining, 16(2). https://osf.io/mdpzc/
+- Lu, Y., Tong, L., & Cheng, Y. (2024). Advanced Knowledge Tracing: Incorporating Process Data and Curricula Information via an Attention-Based Framework for Accuracy and Interpretability. Journal of Educational Data Mining, 16(2). https://osf.io/mdpzc/. [doi:10.31219/osf.io/3k7z2](https://doi.org/10.31219/osf.io/3k7z2)
 
 <!-- merged 2026-10-10 from elements/transformer-ieu-iiu-kt-framework ("Transformer-encoder knowledge tracing framework with IEU/IIU input vectors and released code, models, and predictions"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 
@@ -80,5 +80,5 @@ A deep knowledge tracing framework for the ASSISTments dataset that predicts stu
 -
 
 ## Key Sources
-- Lu, Y., Tong, L., & Cheng, Y. (2024). Advanced Knowledge Tracing: Incorporating Process Data and Curricula Information via an Attention-Based Framework for Accuracy and Interpretability. Journal of Educational Data Mining, 16(2). https://osf.io/mdpzc/
+- Lu, Y., Tong, L., & Cheng, Y. (2024). Advanced Knowledge Tracing: Incorporating Process Data and Curricula Information via an Attention-Based Framework for Accuracy and Interpretability. Journal of Educational Data Mining, 16(2). https://osf.io/mdpzc/. [doi:10.31219/osf.io/3k7z2](https://doi.org/10.31219/osf.io/3k7z2)
 -->

@@ -43,6 +43,7 @@ The paper states CRITO is compatible with most forms of collaborative or coopera
 ## Related Strategies
 
 - [Reciprocal Peer Feedback](reciprocal-peer-feedback.md)
+- [Use chat-based GenAI as a partner for students to practice argumentation and scientific claims, especially in larger courses](genai-partner-argumentation-practice-strategy.md)
 
 ## Examples
 -

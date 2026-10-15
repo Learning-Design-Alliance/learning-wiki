@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: brewe-2007
-    resource: "https://scholar.google.com/scholar?q=Impacts+of+real-time+data+collection+on+introductory+algebra-based+physics"
-    title: "Brewe, E., Sawtelle, V., and Pamela, P. (2007). Impacts of real-time data collection on introductory algebra-based physics. https://scholar.google.com/scholar?q=Impacts+of+real-time+data+collection+on+introductory+algebra-based+physics"
+    resource: "https://doi.org/10.48550/arxiv.0709.2738"
+    title: "Brewe, E., Sawtelle, V., and Pamela, P. (2007). Impacts of real-time data collection on introductory algebra-based physics. https://doi.org/10.48550/arxiv.0709.2738"
     author: Brewe, E., Sawtelle, V., and Pamela, P.
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Brewe 2007
 
-Brewe, E., Sawtelle, V., and Pamela, P. (2007). Impacts of real-time data collection on introductory algebra-based physics. https://scholar.google.com/scholar?q=Impacts+of+real-time+data+collection+on+introductory+algebra-based+physics
+Brewe, E., Sawtelle, V., and Pamela, P. (2007). Impacts of real-time data collection on introductory algebra-based physics. https://doi.org/10.48550/arxiv.0709.2738
 
 `q2 · i?` · `causal · r1`
 

@@ -28,4 +28,4 @@ A GPT-4o-based modular chatbot architecture developed by Gabelmann et al. that r
 -
 
 ## Key Sources
-- Gabelmann, J., Jahn, F., Baum, K., van Rossum, S., Wuenscher, E., Gros, T. P., Wolf, V. (2026). Modularizing Educational LLM-Agency for Fostering Responsible Learning Assistance. https://arxiv.org/abs/2605.30187
+- Gabelmann, J., Jahn, F., Baum, K., van Rossum, S., Wuenscher, E., Gros, T. P., Wolf, V. (2026). Modularizing Educational LLM-Agency for Fostering Responsible Learning Assistance. https://arxiv.org/abs/2605.30187. [doi:10.48550/arxiv.2605.30187](https://doi.org/10.48550/arxiv.2605.30187)

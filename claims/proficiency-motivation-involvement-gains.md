@@ -71,3 +71,4 @@ The review reports a meta-analysis of twelve studies (six published, six unpubli
 - [Reading and listening yield similar proportions of incidental vocabulary learning, with reading ahead only on some immediate posttests](reading-versus-listening-incidental-vocabulary-gains.md) — related
 - [Incidental vocabulary exposure produces reliable learning, but learners pick up only a small share of the unknown words they meet](incidental-vocabulary-exposure-limited.md) — related
 - [Reading proficiency level moderates incidental vocabulary gains: higher-proficiency readers gained more, consistent with i+1](proficiency-level-moderates-incidental-vocabulary-gains.md) — possibly the same claim (merge candidate)
+- [Meaning-focused exposure to spoken L2 input yields large vocabulary gains (g = 1.05) in incidental word learning](spoken-input-incidental-l2-word-learning-large-gains.md) — related

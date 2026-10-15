@@ -62,7 +62,7 @@ Group points operationalize [Behaviorism](../theories/behaviorism.md) at the gro
 - [Team-Based Learning](../strategies/team-based-learning.md) — a more structured pattern where team accountability extends to readiness assurance and application tasks
 
 ## Examples
-- **Student Teams-Achievement Divisions (STAD)** — Slavin's widely replicated cooperative structure: teams study material, members take individual quizzes, and team scores are computed from individual improvement, so every member's growth counts.
+- **[Student Teams-Achievement Divisions](student-teams-achievement-divisions.md) (STAD)** — Slavin's widely replicated cooperative structure: teams study material, members take individual quizzes, and team scores are computed from individual improvement, so every member's growth counts.
 - **[Classcraft](https://www.classcraft.com)** — team-based points, XP, and shared consequences layered over existing coursework; teams lose or gain points collectively based on member behavior and academic tasks.
 - **[Kahoot! team mode](https://kahoot.com)** — pooled team scores on quiz questions, converting individual answering into a shared contingency during review sessions.
 

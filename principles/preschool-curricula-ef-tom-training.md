@@ -50,4 +50,4 @@ The article recommends that preschool institutions modernize curricula to includ
 -
 
 ## Key Sources
-- Biscevic, I., Pasalic, A., & Memisevic, H. (2018). The effects of executive functions and theory of mind on semantic fluency in preschool children. Problems of Education in the 21st Century, 76(1). https://www.scientiasocialis.lt/pec/
+- Biscevic, I., Pasalic, A., & Memisevic, H. (2018). The effects of executive functions and theory of mind on semantic fluency in preschool children. Problems of Education in the 21st Century, 76(1). https://www.scientiasocialis.lt/pec/. [doi:10.33225/pec/18.76.21](https://doi.org/10.33225/pec/18.76.21)

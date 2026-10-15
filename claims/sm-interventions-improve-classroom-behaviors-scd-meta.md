@@ -47,3 +47,4 @@ Meta-analysis of 75 single-case design studies (236 participants, 456 effects) u
 - [Self Monitoring Improves On Task Behavior](self-monitoring-improves-on-task-behavior.md) — a narrower finding that bears on this claim
 - [Single-case effects of self-management interventions are moderated by student race and special education status, with more pronounced effects for African American students and students receiving special education services](sm-effects-moderated-race-special-education.md) — related
 - [Single-case effects of self-management interventions are not moderated by intervention characteristics (duration, fidelity assessment, fidelity method, or training)](sm-effects-not-moderated-intervention-characteristics.md) — related
+- [Prompted self-monitoring is the most frequently used self-management configuration in school-based single-case research](prompted-self-monitoring-most-frequent-configuration.md) — a narrower finding that bears on this claim

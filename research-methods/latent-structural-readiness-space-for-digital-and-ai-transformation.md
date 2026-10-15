@@ -28,4 +28,4 @@ The framework trains a variational autoencoder on standardized country-level ind
 -
 
 ## Key Sources
-- Popa, D. M., Oprea, S.-V., & Bâra, A. (2022). Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills? Department of Economic Informatics and Cybernetics, Bucharest University of Economic Studies. simona.oprea@csie.ase.ro
+- Popa, D. M., Oprea, S.-V., & Bâra, A. (2022). Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills? Department of Economic Informatics and Cybernetics, Bucharest University of Economic Studies. simona.oprea@csie.ase.ro. [doi:10.48550/arxiv.2605.27391](https://doi.org/10.48550/arxiv.2605.27391)

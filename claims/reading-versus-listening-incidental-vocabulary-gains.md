@@ -85,3 +85,4 @@ This meta-analysis (open-access full text read) pooled 24 studies of second-lang
 - [L2 proficiency positively predicts L2 incidental vocabulary acquisition through reading](l2-proficiency-predicts-incidental-vocabulary-acquisition.md) — related
 - [ESL students using a spaced L2 vocabulary acquisition strategy with monthly incidental listening outperformed comparison students on the End-of-Experiment test](svas-spaced-listening-outperforms-comparison-end-of-experiment.md) — related
 - [Incidental vocabulary acquisition through comprehensible input is more powerful than intentional vocabulary learning](incidental-vocabulary-acquisition-more-powerful-than-intentional.md) — related
+- [Meaning-focused exposure to spoken L2 input yields large vocabulary gains (g = 1.05) in incidental word learning](spoken-input-incidental-l2-word-learning-large-gains.md) — related

@@ -49,3 +49,4 @@ The article's framing states that "Most prior studies testing nonexperimental de
 - [Some bias may remain in nonexperimental estimates even when rich pre-intervention data are used](residual-bias-nonexperimental-estimators.md) — related
 - The article examines whether the type of charter-school authorizer relates to charter-school effectiveness as measured by student achievement trajectories in Ohio — related
 - [Most prior studies testing nonexperimental designs find they fail to produce unbiased estimates, but those studies examined weaker evaluation designs](prior-tests-nonexperimental-designs-weaker-designs.md) — possibly the same claim (merge candidate)
+- [Machine perception and learning depend on large, unbiased training data](ai-big-ideas-data-and-knowledge-dependence.md) — related

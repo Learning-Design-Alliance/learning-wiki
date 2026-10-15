@@ -28,4 +28,4 @@ EduZone is an automated adversarial evaluation framework released by Park et al.
 -
 
 ## Key Sources
-- Park, J., Han, J., Yoo, H., Ahn, S.-Y., Yoon, J., & Oh, A. (2026). EduZone: A Framework for Evaluating LLM Safety for K-12 Students and Teachers. arXiv preprint. https://arxiv.org/abs/2608.02024
+- Park, J., Han, J., Yoo, H., Ahn, S.-Y., Yoon, J., & Oh, A. (2026). EduZone: A Framework for Evaluating LLM Safety for K-12 Students and Teachers. arXiv preprint. https://arxiv.org/abs/2608.02024. [doi:10.48550/arxiv.2608.02024](https://doi.org/10.48550/arxiv.2608.02024)

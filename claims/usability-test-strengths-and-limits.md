@@ -48,3 +48,5 @@ Usability test with eight participants in two groups (chatbot designers and inst
 - [Gateway math students benefit from a balance of social, active learning and independent practice, but faculty constraints limit active learning](balance-active-learning-independent-practice-gateway-math.md) — related
 - [Users rate chatbots easy to use with clear, relevant, largely accurate responses, but the intrusive pop-up design is the largest annoyance](chatbot-ux-clear-relevant-popup-annoyance.md) — related
 - [Faculty testing of AI chatbots on real student homework found feedback quality uneven, prompting-dependent, and focused on surface features](ai-chatbot-homework-feedback-limits.md) — related
+- [AI chatbots provide students detailed feedback, step-by-step homework solutions, and self-quizzing support](chatbot-homework-study-assistance.md) — related
+- [AI chatbots support skills development in writing, problem-solving, and group discussion facilitation](chatbot-skills-development.md) — related

@@ -69,3 +69,4 @@ The review reports concerns from He et al. (2024) and Kiesler et al. (2025) that
 - Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs — related
 - [Over-reliance on GAI risks weakening teaching and social presence and depriving students of foundational skill development](gai-overreliance-risks-presence-and-skills.md) — related
 - [Excessive dependence on AI may reduce human interaction and dehumanize adult education](over-reliance-ai-reduces-human-interaction.md) — related
+- [Hybrid work must be reconceptualised to include the human/AI duality alongside the presence/virtual continuum](hybrid-work-human-ai-duality.md) — related

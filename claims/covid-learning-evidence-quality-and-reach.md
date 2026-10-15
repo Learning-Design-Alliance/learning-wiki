@@ -65,3 +65,4 @@ Publication-bias assessment of the 291 estimates via a z-curve (Fig. 2b), a P-cu
 - [Learning deficits are appreciably larger in middle-income countries than in high-income countries, with no evidence available from low-income countries](covid-deficits-larger-middle-income-countries.md) — related
 - [The evidence base on inclusion effects is methodologically weak: no randomised studies and nearly all synthesised studies at serious risk of bias](inclusion-evidence-low-quality-serious-risk-of-bias.md) — related
 - [The SBLE evidence base contains no randomized experiments and carries high risk of bias](sble-evidence-base-no-randomized-studies-high-risk-bias.md) — related
+- Funnel-plot and fail-safe N analyses indicate small publication bias, and one-study-removal analysis indicates stable pooled effects — related

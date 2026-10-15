@@ -44,4 +44,4 @@ The authors found that instructing LLMs with naive ethical frameworks (e.g., "ad
 -
 
 ## Key Sources
-- Seo, Y., Jang, S., Park, H., Gutierrez, R. S., Seering, J., & Lee, U. (2026). Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration. https://arxiv.org/abs/2609.11529
+- Seo, Y., Jang, S., Park, H., Gutierrez, R. S., Seering, J., & Lee, U. (2026). Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration. https://arxiv.org/abs/2609.11529. [doi:10.48550/arxiv.2609.11529](https://doi.org/10.48550/arxiv.2609.11529)

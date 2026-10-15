@@ -65,7 +65,7 @@ Small groups multiply opportunities for learners to respond, be observed, and re
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — coaching phase works best at small-group scale where the expert can observe and correct
 
 ## Examples
-- **Guided reading (Fountas & Pinnell)** — the teacher works with 4–6 readers at a similar text level, prompting strategic reading while others rotate through independent literacy stations.
+- **[Guided reading](guided-reading.md) (Fountas & Pinnell)** — the teacher works with 4–6 readers at a similar text level, prompting strategic reading while others rotate through independent literacy stations.
 - **Do the Math Now! (SCHOLASTIC)** — a small-group intervention program for arithmetic fluency built around 15-minute teacher-led small-group modules.
 - **Station-rotation blended classrooms** — e.g., implementations of the Khan Academy platform (https://www.khanacademy.org) as the independent station while the teacher pulls targeted small groups based on dashboard data.
 

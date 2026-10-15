@@ -51,3 +51,4 @@ Zero- and few-shot prompting evaluation of GPT-4.1 and Gemini Flash 3.1 on the O
 - [In-context examples improve LLM Bloom classification: three-shot and ten-shot prompting outperform zero-shot across datasets](in-context-examples-improve-bloom-classification.md) — related
 - [The selected-questions-verbs prompting strategy yields the strongest LLM Bloom classification, reaching weighted F1 up to 0.84](selected-questions-verbs-best-prompt.md) — related
 - [An LLM-based question-specificity classifier reached .830 knowledge and .829 scaffold accuracy without fine-tuning](question-specificity-classifier-accuracy.md) — related
+- Zero-shot heuristic use of the pre-trained generative model shows stable, steadily increasing performance across pre-training, suggesting generative pre-training learns task-relevant functionality without fine-tuning — related

@@ -129,19 +129,19 @@ Cooperative learning reliably improves achievement when both interdependence and
 - [Gallery Walk](gallery-walk.md) — movement-based critique and idea-sharing variant
 
 ## Examples
-- **Jigsaw Classroom** (Aronson, 1978) — students in desegregated Texas classrooms each mastered one segment of material and taught it to teammates, reducing intergroup hostility while raising achievement for minority students. See https://www.jigsaw.org
-- **Student Teams-Achievement Divisions (STAD)** — Slavin's widely replicated structure: team study followed by individual quizzes whose scores sum to team scores.
-- **Peer Instruction** (Mazur, Harvard) — students answer a conceptual question individually, discuss with neighbors, then re-answer; see https://blog.iclicker.com/peer-instruction/
-- **Jigsaw classroom** (Aronson) — students master one segment in "expert groups," then teach it in heterogeneous home groups; originally developed to reduce intergroup tension in desegregated schools.
+- **[Jigsaw Classroom](jigsaw-classroom.md)** (Aronson, 1978) — students in desegregated Texas classrooms each mastered one segment of material and taught it to teammates, reducing intergroup hostility while raising achievement for minority students. See https://www.jigsaw.org
+- **[Student Teams-Achievement Divisions](student-teams-achievement-divisions.md) (STAD)** — Slavin's widely replicated structure: team study followed by individual quizzes whose scores sum to team scores.
+- **[Peer Instruction](../patterns/peer-instruction.md)** (Mazur, Harvard) — students answer a conceptual question individually, discuss with neighbors, then re-answer; see https://blog.iclicker.com/peer-instruction/
+- **[Jigsaw classroom](jigsaw-classroom.md)** (Aronson) — students master one segment in "expert groups," then teach it in heterogeneous home groups; originally developed to reduce intergroup tension in desegregated schools.
 - **Team-Based Learning** (Michaelsen) — individual readiness tests followed by the same test taken as a team, then team application exercises; used widely in medical and business education ([teambasedlearning.org](https://www.teambasedlearning.org)).
-- **Complex Instruction** (Cohen & Lotan) — role structures and status treatments to equalize participation in heterogeneous math and science classrooms.
+- **[Complex Instruction](complex_instruction.md)** (Cohen & Lotan) — role structures and status treatments to equalize participation in heterogeneous math and science classrooms.
 - **PALS (Peer-Assisted Learning Strategies)** — structured reciprocal peer tutoring in reading and mathematics with assigned roles and point systems.
 - **Jigsaw Classroom** ([https://www.jigsaw.org](https://www.jigsaw.org)) — Aronson's original structure: "expert groups" master one segment, then teach it in mixed "jigsaw groups," making each member the sole source of critical information.
 - **PALS (Peer-Assisted Learning Strategies)** ([https://vkc.mc.vanderbilt.edu/pals/](https://vkc.mc.vanderbilt.edu/pals/)) — structured reciprocal peer tutoring in reading and math with role scripts and point systems; extensively validated in randomized trials.
-- **Complex Instruction** (Stanford) — status-treatment and role-assignment structures ensuring low-status students contribute to open-ended group tasks.
+- **[Complex Instruction](complex_instruction.md)** (Stanford) — status-treatment and role-assignment structures ensuring low-status students contribute to open-ended group tasks.
 - **Kagan Structures** ([https://www.kaganonline.com](https://www.kaganonline.com)) — a published set of cooperative structures (Round Robin, Simultaneous Round Table, Numbered Heads Together) with built-in role and participation rules.
 - **Jigsaw Classroom** ([https://www.jigsaw.org](https://www.jigsaw.org)) — Aronson's original interdependence design, in which each student masters one segment and teaches it to teammates.
-- **Peer Instruction** (Eric Mazur, Harvard) — think-pair-share built around conceptual clicker questions, forcing students to convince peers during discussion.
+- **[Peer Instruction](../patterns/peer-instruction.md)** (Eric Mazur, Harvard) — think-pair-share built around conceptual clicker questions, forcing students to convince peers during discussion.
 
 ## Key Sources
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379. [doi:10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)

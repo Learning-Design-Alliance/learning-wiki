@@ -62,7 +62,7 @@ Norms function as the social-infrastructure layer beneath nearly every interacti
 - [Check-Ins](../principles/check-ins.md) — routine practices that keep the normative climate visible and monitored
 
 ## Examples
-- **Responsive Classroom** (https://www.responsiveclassroom.org) — K–8 program in which teachers and students co-create "classroom agreements" and practice them through interactive modeling.
+- **[Responsive Classroom](../products/responsive-classroom.md)** (https://www.responsiveclassroom.org) — K–8 program in which teachers and students co-create "classroom agreements" and practice them through interactive modeling.
 - **Cohen & Lotan's Complex Instruction** (Stanford) — status-treatment norms ("no one is done until everyone can explain it") that redistribute participation in cooperative group work.
 - **University seminar charters** — many writing programs open courses by jointly drafting a participation and feedback agreement, then referencing it during peer review.
 

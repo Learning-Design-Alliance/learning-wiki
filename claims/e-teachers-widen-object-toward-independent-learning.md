@@ -46,7 +46,7 @@ Qualitative interview study of 13 e-teachers plus seven management/support perso
 <!-- merged 2026-10-14 from e-teacher-shift-to-facilitator-role: that page's entry for this study, which differed from the one above, kept verbatim.
 ### Murphy 2009
 
-Murphy, E., & Rodriguez-Manzanares, M. A. (2009). Sage without a Stage: Expanding the Object of Teaching in a Web-Based, High-School Classroom. International Review of Research in Open and Distance Learning, 10(3). https://www.irrodl.org/index.php/irrodl
+Murphy, E., & Rodriguez-Manzanares, M. A. (2009). Sage without a Stage: Expanding the Object of Teaching in a Web-Based, High-School Classroom. International Review of Research in Open and Distance Learning, 10(3). https://www.irrodl.org/index.php/irrodl. [doi:10.19173/irrodl.v10i3.579](https://doi.org/10.19173/irrodl.v10i3.579)
 
 `q2 · i?` · `qualitative · r2`
 

@@ -75,4 +75,4 @@ The report recommends that states and districts underwrite preparation costs thr
 -
 
 ## Key Sources
-- Carver-Thomas, D. (2018). Diversifying the teaching profession: How to recruit and retain teachers of color. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/diversifying-teaching-profession
+- Carver-Thomas, D. (2018). Diversifying the teaching profession: How to recruit and retain teachers of color. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/diversifying-teaching-profession. [doi:10.54300/559.310](https://doi.org/10.54300/559.310)

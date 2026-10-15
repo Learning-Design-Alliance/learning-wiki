@@ -89,7 +89,7 @@ This principle holds that educators and researchers should use longitudinal data
 - Thum, Y. M., & Kuhfeld, M. (2020). NWEA 2020 MAP Growth Achievement Status and Growth Norms for Students and Schools. NWEA Research Report. Portland, OR: NWEA. https://www.nwea.org/research/publication/nwea-2020-map-growth-achievement-status-and-growth-norms-for-students-and-schools/
 - The effective use of student and school descriptive indicators of learning progress: From the conditional growth index to the learning productivity measurement system. (2015). Value Added Modeling and Growth Modeling with Particular Application to Teacher and School Effectiveness, 237–269. https://www.nwea.org/research/publication/the-effective-use-of-student-and-school-descriptive-indicators-of-learning-progress-from-the-conditional-growth-index-to-the-learning-productivity-measurement-system/
 - Sebring, Penny Bender. (2003). Research Agenda 2004-2008. Consortium on Chicago School Research. https://www.consortium-chicago.org/publications
-- Novicoff, S., Reardon, S. F., & Johnson, R. C. (2024). California's English learners and their long-term learning outcomes. Learning Policy Institute. https://doi.org/10.54300/636.224
+- Novicoff, S., Reardon, S. F., & Johnson, R. C. (2024). California's English learners and their long-term learning outcomes. Learning Policy Institute.
 - Megan Kuhfeld, James Soland. (2020). The learning curve: Revisiting the assumption of linear growth across the school year. NWEA Research working paper. https://www.tandfonline.com/doi/full/10.1080/19345747.2020.1839990
 
 # Mathematica's value-added analysis approach for Oklahoma's Teacher and Leader Effectiveness Evaluation System

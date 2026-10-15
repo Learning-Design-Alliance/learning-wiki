@@ -54,4 +54,4 @@ The article argues that because faculty and administrative staff use AI while al
 -
 
 ## Key Sources
-- Braun, Y. S., & Khafizov, S. M. (2026). The AI Adaptation Gap in Higher Education: Students, Faculty, and Administrative Staff: AI Use, Trust, and Institutional Policy at a University Specializing in Teacher Education. https://arxiv.org/abs/2608.25063
+- Braun, Y. S., & Khafizov, S. M. (2026). The AI Adaptation Gap in Higher Education: Students, Faculty, and Administrative Staff: AI Use, Trust, and Institutional Policy at a University Specializing in Teacher Education. https://arxiv.org/abs/2608.25063. [doi:10.48550/arxiv.2608.25063](https://doi.org/10.48550/arxiv.2608.25063)

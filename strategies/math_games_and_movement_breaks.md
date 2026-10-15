@@ -71,7 +71,7 @@ Brief bouts of physical activity during academic time are associated with improv
 - [Whole-Class Sharing](../elements/whole-class-sharing.md) — brief public justification turns recall into reasoning
 
 ## Examples
-- **Stand up/sit down**: teacher displays an equation (e.g., 7 × 8 = 54); students stand if true, sit if false — whole-class, no materials, immediate feedback visible to the teacher.
+- **[Stand up/sit down](stand-up-sit-down.md)**: teacher displays an equation (e.g., 7 × 8 = 54); students stand if true, sit if false — whole-class, no materials, immediate feedback visible to the teacher.
 - **Finger speed-sums**: pairs flash fingers 1–5 each; first to call the sum wins the round — builds addition fluency with built-in [Peer Discussion](../elements/peer-discussion.md).
 - **Group formation**: teacher calls "groups of 4" or "groups with an even number of people"; students form groups — embodied practice with divisibility and number properties.
 - **GoNoodle** (https://www.gonoodle.com) — commercial movement-break videos; use the math-content channels or pair a generic break with a quick oral math game to retain the retrieval benefit.

@@ -46,3 +46,5 @@ The review reports a consensus that GenAI tailors responses to students' work an
 - [Reviewed literature identifies personalisation, adaptive support, rapid feedback, and teacher-facing automation as recurring pedagogical opportunities of AI in mathematics education](ai-math-pedagogical-opportunities-personalisation-feedback.md) — related
 - [GenAI offers transformative possibilities for personalised learning, research support and administrative efficiency in Global South higher education](genai-global-south-transformative-possibilities.md) — related
 - [In blind A/B comparison, raters prefer personalised (Adaptive) questions over non-personalised (Random-topic) questions about 68–69% of the time in Biology and Chemistry](collearn-ab-personalised-question-preference.md) — related
+- [AI chatbots enable flexible personalized learning by adapting teaching strategies to individual student needs](chatbot-flexible-personalized-learning.md) — related
+- [Providing all students with instant personalised guidance at the same time is a challenge for flipped learning that ChatGPT-FLGA was designed to address](flipped-learning-personalised-guidance-gap.md) — related

@@ -65,7 +65,7 @@ Counter-text production operationalizes critical literacy: texts are treated as 
 
 ## Examples
 - Rewriting *Little Red Riding Hood* from the wolf's perspective, then comparing versions to discuss villain-framing in narratives — a staple of critical literacy classrooms (Vasquez, 2004)
-- **Facing History and Ourselves** (https://www.facinghistory.org) — history curricula in which students examine primary sources from multiple perspectives and produce their own accounts
+- **[Facing History and Ourselves](../products/facing-history-and-ourselves.md)** (https://www.facinghistory.org) — history curricula in which students examine primary sources from multiple perspectives and produce their own accounts
 - **Newsela** (https://newsela.com) — same news story at multiple levels and angles, usable as source material for learners to identify framing and write a corrective piece
 - Solórzano and Yosso's counter-storytelling methodology, in which students of color narrate experiences that challenge majoritarian accounts in education research
 

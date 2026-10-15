@@ -49,3 +49,4 @@ Ensemble evaluation in Sec. 5.3 comparing pedagogy-expertise-weighted ensembles 
 - [Ensemble modeling of multiple LLM scorers yields performance gains in automated divergent thinking scoring](ensemble-models-performance-gains-llm-scoring.md) — reports the opposite
 - Majority-vote ensembling across three runs produced only modest accuracy gains (1% to 5%) with no model showing degradation — reports the opposite
 - [Ensembles of operational raters outperform the LLMs: two raters suffice on average across aspects, but larger ensembles are needed for individual aspects](rater-ensembles-outperform-llms-feedback.md) — related
+- [Current GenAI tools are not designed to support active learning and their apparent domain expertise is brittle](genai-tools-not-designed-for-active-learning.md) — related

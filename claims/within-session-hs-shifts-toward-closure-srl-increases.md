@@ -18,8 +18,8 @@ sources:
     kind: associational
     rigour: "?"
   - id: abdelghani-2026-2
-    resource: "https://arxiv.org/abs/2606.28472"
-    title: "Abdelghani, R., Kaiser, P., Murayama, K. (2026). Changes in Help-Seeking Strategies Predict unaided Performance during AI-based Mathematical Learning. https://arxiv.org/abs/2606.28472"
+    resource: "https://doi.org/10.48550/arxiv.2606.28472"
+    title: "Abdelghani, R., Kaiser, P., Murayama, K. (2026). Changes in Help-Seeking Strategies Predict unaided Performance during AI-based Mathematical Learning. https://arxiv.org/abs/2606.28472. [doi:10.48550/arxiv.2606.28472](https://doi.org/10.48550/arxiv.2606.28472)"
     author: Abdelghani, R., Kaiser, P., Murayama, K.
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Within a single LLM session, students' help-seeking shifts toward answer- and verification-seeking while explicit self-regulation modestly increases
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r?` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Help-seeking shifted away from conceptual and procedural assistance toward answer- and verification-seeking as the interaction progressed (population slope = -.40, p < .001). [→ Abdelghani 2026](#abdelghani-2026)
@@ -50,7 +50,7 @@ Turn-level mixed-effects models using normalized within-session position, estima
 
 ### Abdelghani 2026 (2)
 
-Abdelghani, R., Kaiser, P., Murayama, K. (2026). Changes in Help-Seeking Strategies Predict unaided Performance during AI-based Mathematical Learning. https://arxiv.org/abs/2606.28472
+Abdelghani, R., Kaiser, P., Murayama, K. (2026). Changes in Help-Seeking Strategies Predict unaided Performance during AI-based Mathematical Learning. https://arxiv.org/abs/2606.28472. [doi:10.48550/arxiv.2606.28472](https://doi.org/10.48550/arxiv.2606.28472)
 
 `q2 · i?` · `associational · r?`
 

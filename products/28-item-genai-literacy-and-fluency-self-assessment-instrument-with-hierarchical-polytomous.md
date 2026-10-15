@@ -28,4 +28,4 @@ An Oliveira et al. (2026) self-assessment instrument measuring university studen
 -
 
 ## Key Sources
-- Oliveira, E., English, N., Ryan, T., Misiejuk, K., dal Ponte, C., López-Pernas, S., & Saqr, M. (2026). The GenAI Skill Bypass: Mapping Divergent Pathways of University Students and Staff AI Literacy. Preprint. https://arxiv.org/abs/2607.05411
+- Oliveira, E., English, N., Ryan, T., Misiejuk, K., dal Ponte, C., López-Pernas, S., & Saqr, M. (2026). The GenAI Skill Bypass: Mapping Divergent Pathways of University Students and Staff AI Literacy. Preprint. https://arxiv.org/abs/2607.05411. [doi:10.48550/arxiv.2607.05411](https://doi.org/10.48550/arxiv.2607.05411)

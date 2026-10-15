@@ -50,4 +50,4 @@ The article proposes that AI and human educators need not perform identical inst
 -
 
 ## Key Sources
-- Yang, L., Liu, H., Li, S., Jia, R., Xiao, Y., Chen, G., & Lu, L. (2026). Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training. https://arxiv.org/abs/2609.10939
+- Yang, L., Liu, H., Li, S., Jia, R., Xiao, Y., Chen, G., & Lu, L. (2026). Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training. https://arxiv.org/abs/2609.10939. [doi:10.48550/arxiv.2609.10939](https://doi.org/10.48550/arxiv.2609.10939)

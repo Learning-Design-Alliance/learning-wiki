@@ -47,3 +47,4 @@ The NAEP 2019 results infographic reports grade 4 reading trends, printing "Decr
 - [NAEP scores in 2019 were higher for most racial/ethnic groups in both subjects and grades compared to the early 1990s, but grade 8 reading was lower for all groups except Asian/Pacific Islander students compared to 2017](naep-2019-race-ethnicity-trends.md) — related
 - [Grade 8 reading scores in 2019 decreased across the performance distribution, with greater decreases at the 10th and 25th percentiles](naep-2019-grade-8-reading-declines.md) — related
 - [Average reading scores in 2019 were lower in more than half of states at grade 8 and in approximately one-third of states at grade 4, while mathematics scores were mainly steady across states](naep-2019-state-reading-declines.md) — related
+- Fourth-grade reading gains were concentrated among lower- and middle-performing students at the 10th, 25th, and 50th percentiles, whose 2007 scores exceeded all previous assessments — related

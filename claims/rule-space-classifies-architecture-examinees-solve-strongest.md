@@ -18,8 +18,8 @@ sources:
     kind: design
     rigour: 2
   - id: katz-1993-2
-    resource: "https://eric.ed.gov/?id=ED366652"
-    title: "Katz, I. R., Martinez, M. E., Sheehan, K. M., & Tatsuoka, K. K. (1993). Extending the Rule Space Model to a Semantically-Rich Domain: Diagnostic Assessment in Architecture. Educational Testing Service. https://eric.ed.gov/?id=ED366652"
+    resource: "https://doi.org/10.21236/ada273789"
+    title: "Katz, I. R., Martinez, M. E., Sheehan, K. M., & Tatsuoka, K. K. (1993). Extending the Rule Space Model to a Semantically-Rich Domain: Diagnostic Assessment in Architecture. Educational Testing Service. https://eric.ed.gov/?id=ED366652. [doi:10.21236/ada273789](https://doi.org/10.21236/ada273789)"
     author: "Katz, I. R., Martinez, M. E., Sheehan, K. M., & Tatsuoka, K. K."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Rule Space successfully classified most examinees in architecture, with solve attributes the most powerful and check attributes the least powerful
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 associational `r1`, 1 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Solve attributes were the most powerful classifiers across proficiency and status groups, classifying all 41 low-proficiency examinees. [→ Katz 1993](#katz-1993)
@@ -50,7 +50,7 @@ Results section reporting classification outcomes by process type (Table 7). The
 
 ### Katz 1993 (2)
 
-Katz, I. R., Martinez, M. E., Sheehan, K. M., & Tatsuoka, K. K. (1993). Extending the Rule Space Model to a Semantically-Rich Domain: Diagnostic Assessment in Architecture. Educational Testing Service. https://eric.ed.gov/?id=ED366652
+Katz, I. R., Martinez, M. E., Sheehan, K. M., & Tatsuoka, K. K. (1993). Extending the Rule Space Model to a Semantically-Rich Domain: Diagnostic Assessment in Architecture. Educational Testing Service. https://eric.ed.gov/?id=ED366652. [doi:10.21236/ada273789](https://doi.org/10.21236/ada273789)
 
 `q2 · i?` · `associational · r1`
 

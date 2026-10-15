@@ -50,4 +50,4 @@ The article introduces the megastudy as a methodological innovation for applied 
 -
 
 ## Key Sources
-- Kautz, T., Milkman, K. L., Gromet, D., et al. as printed in full author line. (2021). Megastudies Improve the Impact of Applied Behavioural Science. Nature, vol. 600. https://www.mathematica.org/publications/megastudies-improve-the-impact-of-applied-behavioural-science
+- Kautz, T., Milkman, K. L., Gromet, D., et al. as printed in full author line. (2021). Megastudies Improve the Impact of Applied Behavioural Science. Nature, vol. 600. https://www.mathematica.org/publications/megastudies-improve-the-impact-of-applied-behavioural-science. [doi:10.1038/s41586-021-04128-4](https://doi.org/10.1038/s41586-021-04128-4)

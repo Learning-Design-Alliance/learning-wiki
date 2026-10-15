@@ -68,7 +68,7 @@ Brief aerobic activity acutely improves subsequent attention and executive funct
 ## Examples
 - **[Take 10!®](https://www.take10.net)** — Classroom-based physical activity program with 10-minute curriculum-linked activity routines for K–5; evaluated in multiple school studies.
 - **GoNoodle** (https://www.gonoodle.com) — Free video-led movement and mindfulness breaks widely used in elementary classrooms.
-- **Energizers (East Carolina University)** — Published classroom movement activities aligned to academic content, distributed free to teachers.
+- **[Energizers](../products/energizers.md) (East Carolina University)** — Published classroom movement activities aligned to academic content, distributed free to teachers.
 
 ## Key Sources
 - Howie, E. K., Schatz, J., & Pate, R. R. (2015). Acute effects of classroom exercise breaks on executive function and math performance: A dose–response study. *Research Quarterly for Exercise and Sport, 86*(3), 217–224. [doi:10.1080/02701367.2015.1039892](https://doi.org/10.1080/02701367.2015.1039892)

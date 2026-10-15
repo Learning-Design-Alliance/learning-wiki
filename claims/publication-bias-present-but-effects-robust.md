@@ -46,3 +46,4 @@ Publication-bias assessment via funnel plots and a three-parameter selection mod
 - [Replacing existing teaching with video produces small improvements in student learning in higher education (g = 0.28)](video-replacement-small-learning-benefit.md) — related
 - [GenAI effects on externally assessed learning are highly heterogeneous and conditional on prior knowledge, scaffolding, verification, and task design, with pooled effects unstable under publication-bias correction](genai-learning-effects-heterogeneous-conditional.md) — related
 - [Adding supplementary video to existing teaching produces strong learning benefits (g = 0.88)](supplementary-video-strong-benefit.md) — related
+- Funnel-plot and fail-safe N analyses indicate small publication bias, and one-study-removal analysis indicates stable pooled effects — related

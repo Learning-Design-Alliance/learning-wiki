@@ -67,7 +67,7 @@ Verbal repetition supports retention primarily through rehearsal and retrieval-l
 
 ## Examples
 - **Turn-and-talk in elementary math discourse routines** (e.g., Number Talks): students restate a peer's solution strategy in their own words before the class evaluates it, rehearsing both the mathematics and the academic language.
-- **Duolingo** (https://www.duolingo.com) — combines spoken repetition of target phrases with spaced re-encounters, illustrating the pairing of verbal rehearsal with distributed review.
+- **[Duolingo](../products/duolingo.md)** (https://www.duolingo.com) — combines spoken repetition of target phrases with spaced re-encounters, illustrating the pairing of verbal rehearsal with distributed review.
 - **Early literacy phonics programs** (e.g., Jolly Phonics, https://www.jollylearning.co.uk) — choral repetition of letter-sound correspondences to build automatic word recognition.
 
 ## Key Sources

@@ -35,7 +35,7 @@ Khanmigo is Khan Academy's GPT-4-powered educational tutoring app, offering guid
 ## Key Sources
 - Shetye, S. (2024). An Evaluation of Khanmigo, a Generative AI Tool, as a Computer-Assisted Language Learning App. Studies in Applied Linguistics & TESOL at Teachers College, Columbia University. https://journals.library.columbia.edu/index.php/SALT
 <!-- merged 2026-10-10 from elements/khanmigo-genai-tutoring-app ("Khanmigo: a GPT-4-based GenAI tutoring app with six activity formats, adaptable to French learning through text-based interaction"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
-- Udeshi, T., Khazenzon, A., Khan, K., Breen, N., Corwin, R., DiGiano, C., Weatherholtz, K., Zaluski, M. (2026). Methodologies for Improving the Quality of AI Tutoring in K-12 Education. https://sites.google.com/khanacademy.org/aied2026supplementalmaterial/home
+- Udeshi, T., Khazenzon, A., Khan, K., Breen, N., Corwin, R., DiGiano, C., Weatherholtz, K., Zaluski, M. (2026). Methodologies for Improving the Quality of AI Tutoring in K-12 Education. https://sites.google.com/khanacademy.org/aied2026supplementalmaterial/home. [doi:10.1007/978-3-032-29755-6_14](https://doi.org/10.1007/978-3-032-29755-6_14)
 
 # Khanmigo: a GPT-4-based GenAI tutoring app with six activity formats, adaptable to French learning through text-based interaction
 

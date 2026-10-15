@@ -28,4 +28,4 @@ ANVIL is an open-source generative software pipeline developed by Noviello et al
 -
 
 ## Key Sources
-- Noviello, Y., Birillo, A., Migut, G. (2026). ANVIL: Analogies and Videos for Lecturers. https://arxiv.org/abs/2605.16295
+- Noviello, Y., Birillo, A., Migut, G. (2026). ANVIL: Analogies and Videos for Lecturers. https://arxiv.org/abs/2605.16295. [doi:10.48550/arxiv.2605.16295](https://doi.org/10.48550/arxiv.2605.16295)

@@ -44,6 +44,7 @@ The report positions apprenticeship as a viable training pathway beyond its trad
 
 - [Use updated occupational education and retraining programs, including cooperative on-the-job instruction, to re-employ workers displaced by technological change](cooperative-retraining-programs-displaced-workers.md)
 - [Use virtual engagement and online training delivery to sustain and extend apprenticeship system operations during disruptions](virtual-engagement-sustain-apprenticeship-systems.md)
+- [Retrain workers for occupations complementary to, rather than competing with, automation](retrain-workers-automation-complementary-occupations.md)
 
 ## Examples
 -

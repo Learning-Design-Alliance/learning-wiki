@@ -2,9 +2,22 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1593 entries** · 0 stable · 0 in review · 1593 drafts
+**1603 entries** · 0 stable · 10 in review · 1593 drafts
 
 ---
+
+## In Review
+
+* [25-item electronic magnetism cognitive achievement test](25-item-electronic-magnetism-cognitive-achievement-test.md) - A 25-item multiple-choice test developed by Alneyadi et al.
+* [AI4K12 Five Big Ideas in Artificial Intelligence](ai4k12-five-big-ideas-in-artificial-intelligence.md) - A framework developed by the AI for K-12 working group that organizes K–12 artificial-intelligence education around five thematic strands and four grade bands.
+* [ChatGPT-FLGA learning system](chatgpt-flga-learning-system.md) - A ChatGPT-based learning system designed for flipped or online university courses to support learners' self-regulated learning, self-efficacy, motivation, and creative thinking.
+* [Corpus of 16 single-subject self-monitoring studies with 28 unique participants with ASD](corpus-of-16-single-subject-self-monitoring-studies-with-28-unique-participants-with-asd.md) - A research corpus assembled and synthesized by Davis et al.
+* [Dataset of 103 postgraduate data-science project proposals with instructor feedback used to evaluate GPT feedback generation](dataset-of-103-postgraduate-data-science-project-proposals-with-instructor-feedback-used-t.md) - A dataset created by Wei Dai et al.
+* [Guidance-based ChatGPT-assisted Learning Aid (GCLA)](guidance-based-chatgpt-assisted-learning-aid-gcla.md) - GCLA is a ChatGPT-assisted learning aid developed by Lee et al.
+* [Interactive evidence and gap maps and an open web database of AIHEd reviews built with EPPI Mapper and EPPI Visualiser](interactive-evidence-and-gap-maps-and-an-open-web-database-of-aihed-reviews-built-with-epp.md) - A public database and interactive evidence-gap-map resource created by Bond et al.
+* [Responsive Classroom](responsive-classroom.md) - Responsive Classroom is a school-based social and emotional learning programme that organizes classroom practice around components including Morning Meeting, Rule Creation, Interactive Modeling, and Academic Choice.
+* [Self-Determined Learning Model of Instruction](self-determined-learning-model-of-instruction.md) - A teacher-implemented instructional model developed by Palmer et al.
+* [The Opportunity Atlas](the-opportunity-atlas.md) - A publicly available tract-level dataset and interactive mapping tool created by Raj Chetty and collaborators at Opportunity Insights, providing estimates of children's long-term outcomes across U.S.
 
 ## Draft
 

@@ -48,4 +48,4 @@ The study's analytical dataset and pipeline: a Scopus search combining STEM term
 -
 
 ## Key Sources
-- Chan, J. Y. (Zexi Chen), Chen, M., Hong, Y., Song, Z., Wang, H., & Xu, X. (2026). Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda. https://arxiv.org/abs/2607.05412
+- Chan, J. Y. (Zexi Chen), Chen, M., Hong, Y., Song, Z., Wang, H., & Xu, X. (2026). Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda. https://arxiv.org/abs/2607.05412. [doi:10.48550/arxiv.2607.05412](https://doi.org/10.48550/arxiv.2607.05412)

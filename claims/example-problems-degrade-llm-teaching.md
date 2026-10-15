@@ -67,3 +67,4 @@ Qualitative case study of teaching dialogues (Appendix B) finding that with exam
 - [Decorative Illustrations Do Not Improve Learning](seductive-details-effect.md) — a broader claim this one bears on
 - [Multi-turn teaching by LLM teacher agents yields larger student gains than knowledge-point exposure alone](multi-turn-teaching-beats-knowledge-point-exposure.md) — related
 - [Pass@1 is not a sufficient success metric for soft barriers because it conflates successful barriers with model generation failures](pass1-false-narrative-soft-barriers.md) — related
+- [Large language models can support learning and teaching across education levels, from reading and writing support for elementary students to professional training](llm-support-learning-across-education-levels.md) — related

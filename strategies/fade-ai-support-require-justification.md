@@ -47,6 +47,7 @@ The article recommends designing AI-supported instruction that balances external
 - [Discourage mental offloading to AI by balancing guidance depth and frequency with application opportunities](discourage-mental-offloading-balance-guidance-application.md)
 - [Completion Problems First](completion-problems-first.md)
 - [Balance human and automated feedback to optimize writing skill development](balance-human-and-automated-feedback-writing.md)
+- [Use learner skill levels to determine when to transition from worked examples to problem solving in tutoring systems](skill-based-adaptive-fading-schedule.md)
 
 ## Examples
 -

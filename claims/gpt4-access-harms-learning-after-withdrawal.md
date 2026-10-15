@@ -35,8 +35,8 @@ sources:
     kind: review
     rigour: 2
   - id: khosravi-2026
-    resource: "https://arxiv.org/abs/2605.04816"
-    title: "Khosravi, H., Gašević, D., Sadiq, S., Yan, L., Lodge, J. M., Tangen, J. M., Denny, P., DiCerbo, K., Buckingham Shum, S., & Baker, R. S. (2026). Building AI Companions that Prioritise Learning over Performance. arXiv. https://arxiv.org/abs/2605.04816"
+    resource: "https://doi.org/10.48550/arxiv.2605.04816"
+    title: "Khosravi, H., Gašević, D., Sadiq, S., Yan, L., Lodge, J. M., Tangen, J. M., Denny, P., DiCerbo, K., Buckingham Shum, S., & Baker, R. S. (2026). Building AI Companions that Prioritise Learning over Performance. arXiv. https://arxiv.org/abs/2605.04816. [doi:10.48550/arxiv.2605.04816](https://doi.org/10.48550/arxiv.2605.04816)"
     author: "Khosravi, H., Gašević, D., Sadiq, S., Yan, L., Lodge, J. M., Tangen, J. M., Denny, P., DiCerbo, K., Buckingham Shum, S., & Baker, R. S."
     q: 2
     i: "?"
@@ -165,7 +165,7 @@ The review attributes this finding to Bastani et al. (2025) in its micro-level e
 
 ### Khosravi 2026
 
-Khosravi, H., Gašević, D., Sadiq, S., Yan, L., Lodge, J. M., Tangen, J. M., Denny, P., DiCerbo, K., Buckingham Shum, S., & Baker, R. S. (2026). Building AI Companions that Prioritise Learning over Performance. arXiv. https://arxiv.org/abs/2605.04816
+Khosravi, H., Gašević, D., Sadiq, S., Yan, L., Lodge, J. M., Tangen, J. M., Denny, P., DiCerbo, K., Buckingham Shum, S., & Baker, R. S. (2026). Building AI Companions that Prioritise Learning over Performance. arXiv. https://arxiv.org/abs/2605.04816. [doi:10.48550/arxiv.2605.04816](https://doi.org/10.48550/arxiv.2605.04816)
 
 `q2 · i?` · `theoretical · r3`
 
@@ -257,3 +257,4 @@ Every entry this page had was a second-hand report of one trial (Bastani et al.,
 - [GenAI literacy predicted immediate independent writing performance after AI removal for Visual Data Integration, Critical Thinking, and overall Composite Score](genai-literacy-predicts-independent-writing-performance.md) — related
 - [Staff observed increased student engagement, independence, and communication skills during the AI-supported project](staff-observed-increased-engagement-independence.md) — related
 - [Personalization reduced time spent on hard expression-writing steps, and students who had received it were still faster at writing expressions in a later non-personalized unit](personalization-reduces-solution-time-efficiency.md) — related
+- [Undergraduates learning IoT tasks in VR with ChatGPT-integrated feedback reached significantly higher cognitive levels on memory, understanding, and application tasks than peers receiving traditional VR feedback](gpt-feedback-vr-higher-cognitive-levels.md) — related

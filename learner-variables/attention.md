@@ -12,7 +12,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 46 claims (35 for, 6 mixed, 5 against) · 48 studies (14 causal, 10 quant-synthesis, 10 review, 4 associational, 4 qualitative, 4 design, 2 theoretical), `q1`–`q4` · 10 of 48 report an effect size · 41 claims rest on one study
+> **Evidence** · 47 claims (35 for, 7 mixed, 5 against) · 49 studies (14 causal, 11 review, 10 quant-synthesis, 4 associational, 4 qualitative, 4 design, 2 theoretical), `q1`–`q4` · 10 of 49 report an effect size · 42 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -83,6 +83,7 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [Having older classmates boosts a child’s test scores but increases the probability of grade repetition and diagnoses of learning disabilities such as ADHD](../claims/older-classmates-boost-scores-increase-repetition-and-disability-diagnoses.md) [+M] — instruction changes it
 - [Questions interpolated between video lecture segments improve subsequent test performance and reduce mind wandering](../claims/interpolated-questions-improve-video-learning.md) [+W] — instruction changes it
 - [When only RCTs with active control groups are analysed, MBI benefits are restricted to Mindfulness (d = .42), Depression (d = .47) and Anxiety/Stress (d = .18)](../claims/active-control-rcts-benefits-restricted.md) [-M] — instruction changes it
+- [Explanation prompts direct attention to targeted information and can reduce attention to other important information](../claims/explanation-prompts-redirect-attention-with-hidden-costs.md) [~M] — instruction changes it
 
 ## Related Learner Variables
 - Working memory — the adjacent bottleneck, and the one this is most often confused with.

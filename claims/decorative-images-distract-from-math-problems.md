@@ -57,3 +57,4 @@ The authors' interpretation of cognitive science research as applied in the bump
 - [Multiple representations and explanations of math concepts aid student understanding, but faculty lack time to source or develop them](multiple-representations-aid-understanding-faculty-time.md) — related
 - [Retrieval context has a sweet spot at Top-K = 10: raising it to 15 did not improve recall but significantly worsened context precision via the distraction issue](rag-top-k-10-sweet-spot-context-precision.md) — related
 - [Interactive visual grounding helped children interpret word problems by making hidden relational constraints manipulable and visible](interactive-visual-grounding-relational-interpretation.md) — related
+- [Sketching and viewing animations produced the best understanding of a geoscience text, while the photograph condition produced the worst](sketching-animation-best-understanding-photograph-worst.md) — related

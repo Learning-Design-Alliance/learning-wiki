@@ -76,11 +76,13 @@ Rubrics make evaluation criteria transparent, which supports learners' self-regu
 6. **Fade rubric dependence** over successive tasks, moving toward learner-generated criteria as evaluative judgment develops ([Fading](../elements/fading.md)).
 
 ## Related Strategies
+
 - [Action-Oriented Feedback](action-oriented-feedback.md) — the rubric supplies the criteria; action-oriented phrasing supplies the "what to do next"
 - [Exemplar-Based Feedback](exemplar-based-feedback.md) — annotated samples make rubric descriptors concrete
 - [Peer Assessment](../elements/peer-assessment.md) — rubrics give peer reviewers a shared, defensible standard
 - [Peer Feedback](../elements/peer-feedback.md) — rubrics structure and improve the quality of peer critique
 - [Self-Assessment](../elements/self-assessment.md) — rubrics are the primary tool for making self-assessment accurate
+- [Use a formative assessment script to structure students' generation of peer and internal feedback on performance products](fas-supported-feedback-generation-strategy.md)
 
 ## Examples
 - **[Exemplars / NZ Ministry of Education](https://nzcurriculum.tki.org.nz/Assessment/Exemplars)** — published annotated exemplars paired with rubric-style criteria that teachers use to frame feedback on student writing.

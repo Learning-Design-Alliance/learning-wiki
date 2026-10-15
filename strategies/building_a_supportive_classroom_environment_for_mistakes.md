@@ -69,7 +69,7 @@ Error is one of the most information-rich events in learning, but only when it i
 - **"Mistake of the Week" bulletin board** — an anonymized student error is posted; the class discusses what the reasoning reveals and how to fix it, positioning the error as instructive rather than shameful.
 - **"No-Shame Revision" policy** — any graded assignment may be revised after feedback for a new score, making improvement, not first-attempt accuracy, the evaluation target.
 - **My Favorite Mistake (mathematics classrooms)** — a routine in which a student presents their own error and the class analyzes it; popularized in discussion-based math instruction and aligned with [Formative Assessment](../patterns/formative-assessment.md) practice.
-- **Teacher modeling** — an instructor works a problem, makes a deliberate error, and thinks aloud about detecting and correcting it, modeling error-monitoring as an expert practice.
+- **[Teacher modeling](teacher_modeling.md)** — an instructor works a problem, makes a deliberate error, and thinks aloud about detecting and correcting it, modeling error-monitoring as an expert practice.
 
 ## Key Sources
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)

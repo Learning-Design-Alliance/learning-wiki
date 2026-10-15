@@ -66,7 +66,7 @@ Routines function as procedural scaffolds for behavior: once automated, they red
 - [Implement clear, consistently enforced rules and routines, including a uniform schoolwide discipline plan](posted-observable-rules-and-consistent-discipline-implementation.md)
 
 ## Examples
-- **Responsive Classroom** (https://www.responsiveclassroom.org) — teacher-created structures such as Interactive Modeling and Morning Meeting for teaching routines and norms in elementary settings.
+- **[Responsive Classroom](../products/responsive-classroom.md)** (https://www.responsiveclassroom.org) — teacher-created structures such as Interactive Modeling and Morning Meeting for teaching routines and norms in elementary settings.
 - **Positive Behavioral Interventions & Supports (PBIS)** (https://www.pbis.org) — a school-wide framework in which 3–5 positively stated expectations are taught, modeled, and reinforced across all settings; widely implemented in US schools.
 - **Teach Like a Champion (Lemov)** — published technique set including "Entry Routine" and "100%" for establishing procedural consistency in secondary classrooms.
 

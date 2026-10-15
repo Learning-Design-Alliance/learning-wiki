@@ -48,3 +48,4 @@ PFA-based logistic regression of practice data (5,696 observations, 178 particip
 - Successful retrieval practice of more difficult items (short answer, applied) yields greater future predicted success than successful retrieval of easier items (multiple choice, factual) — related
 - [Retrieval Failure Reduces Benefit](retrieval-failure-reduces-benefit.md) — a broader claim this one bears on
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — a broader claim this one bears on
+- [Differential scaffold benefits were more salient for the more difficult learning concept](scaffold-benefits-more-salient-for-difficult-concept.md) — related

@@ -51,3 +51,4 @@ The review's synthesis of predictive-analytics studies (narrative review attribu
 - [Students show signs of dropout risk early in high school, and schools that reach out in the ninth-grade year can keep them on track to graduate](ninth-grade-early-outreach-keeps-students-on-track.md) — related
 - [AI-supported adaptive systems are reported to enhance adult learner engagement, motivation, and outcomes when aligned with learner goals and prior knowledge](ai-adaptive-systems-enhance-adult-engagement.md) — related
 - [Balancing the dataset significantly improved model predictive performance but increased bias under demographic parity](data-balancing-improves-accuracy-increases-bias.md) — related
+- [Predicting student outcomes was a common AIEd use in higher education, with ten studies predicting academic performance](predicting-academic-performance-ai-ed-he.md) — related

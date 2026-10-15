@@ -35,7 +35,7 @@ The article introduces an approach for testing whether teacher value added depen
 -
 
 ## Key Sources
-- Soland, J. (2017). Is teacher value added a matter of scale? The practical consequences of treating an ordinal scale as interval for estimation of teacher effects. Applied Measurement in Education, 30(1), 52–70. https://www.nwea.org/research/publication/is-teacher-value-added-a-matter-of-scale-the-practical-consequences-of-treating-an-ordinal-scale-as-interval-for-estimation-of-teacher-effects/
+- Soland, J. (2017). Is teacher value added a matter of scale? The practical consequences of treating an ordinal scale as interval for estimation of teacher effects. Applied Measurement in Education, 30(1), 52–70. https://www.nwea.org/research/publication/is-teacher-value-added-a-matter-of-scale-the-practical-consequences-of-treating-an-ordinal-scale-as-interval-for-estimation-of-teacher-effects/. [doi:10.1080/08957347.2016.1247844](https://doi.org/10.1080/08957347.2016.1247844)
 
 <!-- merged 2026-10-10 from theories/transformation-re-estimation-scale-sensitivity-method ("Transformation-and-re-estimation method for probing scale sensitivity of teacher value added"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 
@@ -74,5 +74,5 @@ The article introduces an approach for testing whether teacher value added depen
 -
 
 ## Key Sources
-- Soland, J. (2017). Is teacher value added a matter of scale? The practical consequences of treating an ordinal scale as interval for estimation of teacher effects. Applied Measurement in Education, 30(1), 52–70. https://www.nwea.org/research/publication/is-teacher-value-added-a-matter-of-scale-the-practical-consequences-of-treating-an-ordinal-scale-as-interval-for-estimation-of-teacher-effects/
+- Soland, J. (2017). Is teacher value added a matter of scale? The practical consequences of treating an ordinal scale as interval for estimation of teacher effects. Applied Measurement in Education, 30(1), 52–70. https://www.nwea.org/research/publication/is-teacher-value-added-a-matter-of-scale-the-practical-consequences-of-treating-an-ordinal-scale-as-interval-for-estimation-of-teacher-effects/. [doi:10.1080/08957347.2016.1247844](https://doi.org/10.1080/08957347.2016.1247844)
 -->

@@ -38,7 +38,7 @@ PeerWise is a freely available online tool developed at the University of Auckla
 -
 
 ## Key Sources
-- Bates, S. P., Galloway, R. K., Riise, J., and Homer, D. (2013). Assessing the quality of a student-generated question repository. https://arxiv.org/abs/1308.2202
+- Bates, S. P., Galloway, R. K., Riise, J., and Homer, D. (2013). Assessing the quality of a student-generated question repository. https://arxiv.org/abs/1308.2202. [doi:10.48550/arxiv.1308.2202](https://doi.org/10.48550/arxiv.1308.2202)
 
 <!-- merged 2026-10-10 from elements/peerwise-online-mcq-authoring-tool ("PeerWise online tool for student-authored multiple-choice question repositories"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 
@@ -79,5 +79,5 @@ PeerWise is the technology platform used in this study's interventions. The arti
 -
 
 ## Key Sources
-- Bates, S. P., Galloway, R. K., Riise, J., and Homer, D. (2013). Assessing the quality of a student-generated question repository. https://arxiv.org/abs/1308.2202
+- Bates, S. P., Galloway, R. K., Riise, J., and Homer, D. (2013). Assessing the quality of a student-generated question repository. https://arxiv.org/abs/1308.2202. [doi:10.48550/arxiv.1308.2202](https://doi.org/10.48550/arxiv.1308.2202)
 -->

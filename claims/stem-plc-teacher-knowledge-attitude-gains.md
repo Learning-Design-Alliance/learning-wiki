@@ -68,3 +68,4 @@ The synthesis's own strength-of-knowledge judgment in the section on the source 
 - [STEM teachers participating in learning teams deepen their mathematics and science content knowledge and feel more prepared to teach it](stem-plcs-deepen-teacher-content-knowledge.md) — a narrower finding that bears on this claim
 - [Published policy statements and expert advice universally recommend STEM PLCs, with cautions against superficial definition and implementation](stem-plcs-universally-recommended.md) — related
 - Teachers and coaches in the qualitative study perceived that coaching increased teacher knowledge and practice, with sustainable practices and positive student learning outcomes — related
+- [EAI modalities were associated with higher student motivation and changes in attitudes toward STEM knowledge areas](eai-motivation-attitude-stem-effects.md) — related

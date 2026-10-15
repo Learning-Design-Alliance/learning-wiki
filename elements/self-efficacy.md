@@ -82,8 +82,8 @@ Instructional design shapes self efficacy primarily through the four sources Ban
 ## Examples
 - **[Achievable Micro-Goals](../strategies/achievable_micro-goals.md)** — breaking large tasks into short, winnable steps creates a rapid sequence of mastery experiences, the strongest efficacy source.
 - **Mastery-based platforms (e.g., [Khan Academy](https://www.khanacademy.org))** — learners advance only after demonstrating proficiency, so visible progress and success rate are structurally protected; hints and [worked examples](../principles/worked-examples.md) keep early tasks winnable.
-- **Writing conferences** — brief one-to-one feedback naming a specific strategy the writer used successfully, building efficacy through verbal persuasion anchored in real evidence.
-- **Reciprocal teaching** — students take turns leading comprehension strategies, giving each learner a public mastery experience and modeling for peers.
+- **[Writing conferences](../strategies/writing-conferences.md)** — brief one-to-one feedback naming a specific strategy the writer used successfully, building efficacy through verbal persuasion anchored in real evidence.
+- **[Reciprocal teaching](../strategies/reciprocal_teaching.md)** — students take turns leading comprehension strategies, giving each learner a public mastery experience and modeling for peers.
 
 ## Key Sources
 - Bandura, A. (1997). *Self-efficacy: The exercise of control*. W. H. Freeman.

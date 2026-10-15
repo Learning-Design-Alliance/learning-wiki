@@ -59,3 +59,4 @@ Narrative synthesis: the review attributes these failure modes to multiple cited
 - [Disciplinary expertise alone is insufficient for teachers to detect GenAI representational bias](discipline-expertise-insufficient-bias-detection.md) — a narrower finding that bears on this claim
 - [GenAI improves administrative coordination of group work but its analyses of team members can be inaccurate and hallucinated](genai-administrative-efficiency-with-accuracy-limits.md) — a narrower finding that bears on this claim
 - [LLMs in educational applications hallucinate in 15–25% of responses and can amplify bias against non-native language inputs](llm-hallucination-rate-education.md) — a narrower finding that bears on this claim
+- [Of 178 reference sources produced by AI dialogue systems, 69 lacked a DOI and 28 could not be found via Google search and had no existing DOI](ai-confabulated-references-178-sample.md) — a narrower finding that bears on this claim

@@ -11,7 +11,7 @@ evidence_strength: moderate
 sources:
   - id: clark-2016
     resource: "https://doi.org/10.3102/0034654315582065"
-    title: "Clark, D. B., Tanner-Smith, E. E., & Killingsworth, S. S. (2016). Digital Games, Design, and Learning: A Systematic Review and Meta-Analysis. Review of Educational Research, 86(1). https://doi.org/10.3102/0034654315582065"
+    title: "Clark, D. B., Tanner-Smith, E. E., & Killingsworth, S. S. (2016). Digital Games, Design, and Learning: A Systematic Review and Meta-Analysis. Review of Educational Research, 86(1), 79–122. https://doi.org/10.3102/0034654315582065"
     author: "Clark, D. B., Tanner-Smith, E. E., & Killingsworth, S. S."
     q: 3
     i: 2
@@ -19,7 +19,7 @@ sources:
     rigour: 3
   - id: clark-2016-2
     resource: "https://doi.org/10.3102/0034654315582065"
-    title: "Clark, D. B., Tanner-Smith, E. E., & Killingsworth, S. S. (2016). Digital Games, Design, and Learning: A Systematic Review and Meta-Analysis. Review of Educational Research, 86(1). https://doi.org/10.3102/0034654315582065"
+    title: "Clark, D. B., Tanner-Smith, E. E., & Killingsworth, S. S. (2016). Digital Games, Design, and Learning: A Systematic Review and Meta-Analysis. Review of Educational Research, 86(1), 79–122. https://doi.org/10.3102/0034654315582065"
     author: "Clark, D. B., Tanner-Smith, E. E., & Killingsworth, S. S."
     q: 3
     i: "?"
@@ -40,7 +40,7 @@ sources:
 
 ### Clark 2016
 
-Clark, D. B., Tanner-Smith, E. E., & Killingsworth, S. S. (2016). Digital Games, Design, and Learning: A Systematic Review and Meta-Analysis. Review of Educational Research, 86(1). https://doi.org/10.3102/0034654315582065
+Clark, D. B., Tanner-Smith, E. E., & Killingsworth, S. S. (2016). Digital Games, Design, and Learning: A Systematic Review and Meta-Analysis. Review of Educational Research, 86(1), 79–122. https://doi.org/10.3102/0034654315582065
 
 `q3 · i2` · `quant-synthesis · r3`
 
@@ -50,7 +50,7 @@ Meta-regression moderator analysis of media comparisons (Table 3: multiple sessi
 
 ### Clark 2016 (2)
 
-Clark, D. B., Tanner-Smith, E. E., & Killingsworth, S. S. (2016). Digital Games, Design, and Learning: A Systematic Review and Meta-Analysis. Review of Educational Research, 86(1). https://doi.org/10.3102/0034654315582065
+Clark, D. B., Tanner-Smith, E. E., & Killingsworth, S. S. (2016). Digital Games, Design, and Learning: A Systematic Review and Meta-Analysis. Review of Educational Research, 86(1), 79–122. https://doi.org/10.3102/0034654315582065
 
 `q3 · i?` · `quant-synthesis · r3`
 
@@ -68,3 +68,5 @@ Null moderator result from the same meta-regression models: no association betwe
 - [Schematic visual games show larger learning effects than realistic games, which show no significant benefit over nongame conditions](schematic-visuals-outperform-realistic.md) — related
 - [No evidence that learning effects differ by variety of player actions or by inclusion of additional nongame instruction](variety-actions-and-supplemental-instruction-null.md) — related
 - [Theoretically augmented game designs produce better learning outcomes than standard game versions (g = 0.34), with enhanced scaffolding designs showing g = 0.41](value-added-augmented-designs-benefit-learning.md) — related
+- [Digital game conditions significantly enhance K–16 student learning relative to nongame comparison conditions (g = 0.33)](digital-games-beat-nongame-conditions-meta.md) — a broader claim this one bears on
+- [Multi-session game interventions show significantly larger learning benefits than single-session interventions, while total play duration shows no association with effect size](multiple-sessions-moderator-games.md) — possibly the same claim (merge candidate)

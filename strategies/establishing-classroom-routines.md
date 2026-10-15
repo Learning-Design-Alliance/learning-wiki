@@ -85,10 +85,10 @@ Routines convert recurring management decisions into automatic behaviors, freein
 - Co-constructing success criteria — the same explicit-teaching logic applied to academic work rather than procedures
 
 ## Examples
-- **Responsive Classroom** (https://www.responsiveclassroom.org) — the "Interactive Modeling" routine teaches procedures through modeling, student observation, and rehearsal; widely implemented in US elementary schools.
+- **[Responsive Classroom](../products/responsive-classroom.md)** (https://www.responsiveclassroom.org) — the "Interactive Modeling" routine teaches procedures through modeling, student observation, and rehearsal; widely implemented in US elementary schools.
 - **KIPP schools' "SLANT" routine** — a taught attention posture routine (Sit up, Listen, Ask questions, Nod, Track the speaker) illustrating both the efficiency and the rigidity risks of routinized behavior.
 - **University course shells in Canvas** — consistent weekly module layout (overview → reading → activity → quiz) functions as a routine, reducing navigation load so effort goes to content.
-- **Responsive Classroom** (https://www.responsiveclassroom.org) — the "Interactive Modeling" routine teaches procedures through modeling, student observation, and immediate rehearsal; widely implemented in US elementary schools.
+- **[Responsive Classroom](../products/responsive-classroom.md)** (https://www.responsiveclassroom.org) — the "Interactive Modeling" routine teaches procedures through modeling, student observation, and immediate rehearsal; widely implemented in US elementary schools.
 - **CHAMPS** (Safe & Civil Schools, https://www.safeandcivilschools.com) — a framework in which teachers post explicit expectations for each activity type (Conversation, Help, Activity, Movement, Participation, Success) and teach them as routines.
 - **KIPP schools' "SLANT" routine** — a taught attention routine (Sit up, Listen, Ask and answer questions, Nod, Track the speaker) rehearsed to automaticity at school entry.
 

@@ -97,10 +97,10 @@ PBIS treats behavior as a learnable skill rather than an innate trait, applying 
 ## Examples
 - **[Center on PBIS](https://www.pbis.org)** — the national technical assistance center; hosts implementation guides, fidelity measures (Tiered Fidelity Inventory), and state implementation networks.
 - **Maryland Safe and Supportive Schools** — statewide PBIS scale-up evaluated in randomized trials by Bradshaw and colleagues, showing reduced suspensions and improved climate ratings.
-- **Check-In/Check-Out (CICO)** — the most widely adopted Tier 2 intervention: students receive a daily point card reviewed morning and afternoon with a mentor, aligning Tier 2 support with the universal acknowledgment system.
+- **[Check-In/Check-Out](check-incheck-out.md) (CICO)** — the most widely adopted Tier 2 intervention: students receive a daily point card reviewed morning and afternoon with a mentor, aligning Tier 2 support with the universal acknowledgment system.
 - **[Center on PBIS](https://www.pbis.org)** — the national technical assistance center providing implementation guides, fidelity measures (TFI, SAS), and state implementation networks across the U.S.
 - **Maryland PBIS Partnership** — a statewide implementation spanning 800+ schools; Bradshaw et al.'s randomized trials of Maryland PBIS showed reduced suspensions and improved school climate.
-- **Check-In/Check-Out (CICO)** — a Tier 2 intervention in which a mentor greets the student each morning, reviews goals, and provides point-based feedback each period, with a brief end-of-day check-out.
+- **[Check-In/Check-Out](check-incheck-out.md) (CICO)** — a Tier 2 intervention in which a mentor greets the student each morning, reviews goals, and provides point-based feedback each period, with a brief end-of-day check-out.
 
 ## Key Sources
 - Horner, R. H., Sugai, G., & Anderson, C. M. (2010). Examining the evidence base for school-wide positive behavior support. *Focus on Exceptional Children, 42*(8), 1–14. [doi:10.17161/foec.v42i8.6906](https://doi.org/10.17161/foec.v42i8.6906)

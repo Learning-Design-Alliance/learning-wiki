@@ -71,7 +71,7 @@ Video report cards apply multimedia and personalization principles to family com
 
 ## Examples
 - Elementary teachers using **Seesaw** (https://web.seesaw.me) to record and share individual video progress updates with families, with built-in translation into dozens of languages.
-- **TalkingPoints** (https://talkingpts.org) — a two-way translated messaging platform used for video and text family communication in multilingual districts.
+- **[TalkingPoints](../products/talkingpoints.md)** (https://talkingpts.org) — a two-way translated messaging platform used for video and text family communication in multilingual districts.
 - Schools adopting video report cards during COVID-19 remote learning, where teachers screen-recorded the digital gradebook while narrating each student's trends and next steps.
 
 ## Key Sources

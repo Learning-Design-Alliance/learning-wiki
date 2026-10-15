@@ -65,7 +65,7 @@ Steelmanning leverages the finding that argumentation improves reasoning and con
 - [Scenario B: constructing, critiquing, and reframing AI-mediated arguments](scenario-construct-critique-reframe-arguments.md)
 
 ## Examples
-- **Structured Academic Controversy** (Johnson & Johnson, University of Minnesota): students argue one side, switch sides and argue the other from assigned materials, then drop roles and synthesize — the side-switch is a formal steelman.
+- **[Structured Academic Controversy](../patterns/structured-academic-controversy.md)** (Johnson & Johnson, University of Minnesota): students argue one side, switch sides and argue the other from assigned materials, then drop roles and synthesize — the side-switch is a formal steelman.
 - **AP Seminar and AP Research (College Board)**: scoring rubrics explicitly require "the strongest counterargument" to be presented and refuted, rewarding steelmanning in assessed writing.
 - **Philosophy and ethics courses** using position-reconstruction assignments: students must restate Kant's or a critic's position in its best form before offering objections.
 

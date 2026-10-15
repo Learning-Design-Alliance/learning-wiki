@@ -64,8 +64,8 @@ Predictable structure reduces extraneous cognitive load: when learners do not ha
 
 ## Examples
 - **Khan Academy** — every exercise uses the same interface, hint ladder, and mastery progression, so learners spend effort on mathematics rather than mechanics (https://www.khanacademy.org)
-- **Responsive Classroom** — published K–8 routines (Morning Meeting, closing circles) that give the school day a predictable arc (https://www.responsiveclassroom.org)
-- **DuoLingo** — fixed lesson format, streak mechanics, and consistent exercise types make session structure fully predictable while item content varies (https://www.duolingo.com)
+- **[Responsive Classroom](../products/responsive-classroom.md)** — published K–8 routines (Morning Meeting, closing circles) that give the school day a predictable arc (https://www.responsiveclassroom.org)
+- **[DuoLingo](../products/duolingo.md)** — fixed lesson format, streak mechanics, and consistent exercise types make session structure fully predictable while item content varies (https://www.duolingo.com)
 
 ## Key Sources
 - Sweller, J., van Merriënboer, J. J. G., & Paas, F. (2019). Cognitive architecture and instructional design: 20 years later. *Educational Psychology Review, 31*(2), 261–292. [doi:10.1007/s10648-019-09465-5](https://doi.org/10.1007/s10648-019-09465-5)

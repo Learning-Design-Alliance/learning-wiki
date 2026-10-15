@@ -47,4 +47,4 @@ A partner improvisation exercise in which a blindfolded-eyed (eyes-closed) mover
 -
 
 ## Key Sources
-- Enghauser, R. (2007). Developing Listening Bodies in the Dance Technique Class. JOPERD, 78(6). https://eric.ed.gov/?id=EJ795590
+- Enghauser, R. (2007). Developing Listening Bodies in the Dance Technique Class. JOPERD, 78(6). https://eric.ed.gov/?id=EJ795590. [doi:10.1080/07303084.2007.10598039](https://doi.org/10.1080/07303084.2007.10598039)

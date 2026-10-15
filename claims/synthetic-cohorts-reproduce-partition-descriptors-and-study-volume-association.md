@@ -18,8 +18,8 @@ sources:
     kind: design
     rigour: 2
   - id: inoue-2026-2
-    resource: "https://arxiv.org/abs/2609.27265"
-    title: "Inoue, H., & Yasutake, K. (2026). What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data. Proceedings of the 34th International Conference on Computers in Education. Asia-Pacific Society for Computers in Education. https://arxiv.org/abs/2609.27265"
+    resource: "https://doi.org/10.48550/arxiv.2609.27265"
+    title: "Inoue, H., & Yasutake, K. (2026). What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data. Proceedings of the 34th International Conference on Computers in Education. Asia-Pacific Society for Computers in Education. https://arxiv.org/abs/2609.27265. [doi:10.48550/arxiv.2609.27265](https://doi.org/10.48550/arxiv.2609.27265)"
     author: "Inoue, H., & Yasutake, K."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Partition descriptors and the component-membership–study-volume association are reproduced by the synthetic cohorts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Two of four cohorts agree to within a few percent on every partition descriptor; 2023 and 2024 differ more, the synthetic version being the less fragmented by 55% and 24%. [→ Inoue 2026](#inoue-2026)
@@ -50,7 +50,7 @@ Table 1 reports mean weekly β0 relative to cohort size, isolated fraction, and 
 
 ### Inoue 2026 (2)
 
-Inoue, H., & Yasutake, K. (2026). What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data. Proceedings of the 34th International Conference on Computers in Education. Asia-Pacific Society for Computers in Education. https://arxiv.org/abs/2609.27265
+Inoue, H., & Yasutake, K. (2026). What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data. Proceedings of the 34th International Conference on Computers in Education. Asia-Pacific Society for Computers in Education. https://arxiv.org/abs/2609.27265. [doi:10.48550/arxiv.2609.27265](https://doi.org/10.48550/arxiv.2609.27265)
 
 `q2 · i?` · `design · r2`
 

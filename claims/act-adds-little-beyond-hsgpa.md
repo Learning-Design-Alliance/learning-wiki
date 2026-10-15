@@ -55,7 +55,7 @@ Joint hierarchical model entering standardized HSGPA and ACT with quadratic term
 <!-- merged 2026-10-13 from act-adds-little-beyond-hsgpa-graduation: that page's entry for this study, which differed from the one above, kept verbatim.
 ### Allensworth 2019
 
-Allensworth, E. M., & Clark, K. (2019). High School GPAs and ACT Scores as Predictors of College Completion: Examining Assumptions about Consistency across High Schools. University of Chicago. https://consortium.uchicago.edu/publications/high-school-gpas-and-act-scores-as-predictors-of-college-completion
+Allensworth, E. M., & Clark, K. (2019). High School GPAs and ACT Scores as Predictors of College Completion: Examining Assumptions about Consistency across High Schools. University of Chicago. https://consortium.uchicago.edu/publications/high-school-gpas-and-act-scores-as-predictors-of-college-completion. [doi:10.3102/0013189x20902110](https://doi.org/10.3102/0013189x20902110)
 
 `q3 · i?` · `associational · r3`
 

@@ -48,4 +48,4 @@ A decision-oriented operational framework integrating LLM-based scoring of the W
 -
 
 ## Key Sources
-- Curi, M. E., Capdehourat, G., Amigo, I., Romano, M., Serra, R., Silveira, A., Peri, A. (2026). A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment. arXiv. https://arxiv.org/abs/2609.05143
+- Curi, M. E., Capdehourat, G., Amigo, I., Romano, M., Serra, R., Silveira, A., Peri, A. (2026). A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment. arXiv. https://arxiv.org/abs/2609.05143. [doi:10.48550/arxiv.2609.05143](https://doi.org/10.48550/arxiv.2609.05143)

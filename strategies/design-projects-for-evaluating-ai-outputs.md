@@ -49,4 +49,4 @@ Based on feedback that students increasingly use tools such as ChatGPT during pr
 -
 
 ## Key Sources
-- Suleiman, A. D., DeWaters, J., Shepherd, D. C., Korkmaz, T., Hussain, F., Liu, Y., & Hou, D. (2026). Adoption-Ready Project-Based Learning for Computing Education: The FORAP Framework and a Multi-Scale Project Portfolio. https://arxiv.org/abs/2607.11129
+- Suleiman, A. D., DeWaters, J., Shepherd, D. C., Korkmaz, T., Hussain, F., Liu, Y., & Hou, D. (2026). Adoption-Ready Project-Based Learning for Computing Education: The FORAP Framework and a Multi-Scale Project Portfolio. https://arxiv.org/abs/2607.11129. [doi:10.48550/arxiv.2607.11129](https://doi.org/10.48550/arxiv.2607.11129)

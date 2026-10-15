@@ -68,7 +68,7 @@ Questioning converts passive reception into [Active Learning](../principles/acti
 ## Examples
 - **Peer Instruction (Eric Mazur, Harvard)** — ConcepTest questions in physics lectures: students vote individually, discuss with neighbors, revote; the instructor then explains based on the vote pattern. Materials at [https://peerinstruction4cs.org](https://peerinstruction4cs.org).
 - **Hake's interactive-engagement survey** — 6,542 students across introductory physics courses showed interactive-engagement courses roughly doubled normalized conceptual gains over traditional lecture courses ([https://doi.org/10.1119/1.19321](https://doi.org/10.1119/1.19321)).
-- **Reciprocal Questioning (ReQuest)** — students take turns posing questions to the teacher and each other during text discussion, training question generation as a comprehension strategy.
+- **[Reciprocal Questioning](reciprocal-questioning.md) (ReQuest)** — students take turns posing questions to the teacher and each other during text discussion, training question generation as a comprehension strategy.
 
 ## Key Sources
 - Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74. [doi:10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)

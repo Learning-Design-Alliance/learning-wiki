@@ -64,3 +64,5 @@ The review reports, citing Tian and Zhang (2025), that AI dependence was "negati
 ## Related Claims
 - [Reliance, trust, and dependency are distinct constructs requiring separate measurement from AI-literacy totals](reliance-trust-dependency-separate-constructs.md) — related
 - [Shame and guilt coexist with continued AI use, creating self-reinforcing cycles of reliance, concealment, and self-critique rather than behavior change](shame-guilt-cycles-continued-ai-use.md) — related
+- [Prior meta-analytic evidence indicates chatbot technology has a substantial positive effect on overall learning outcomes and knowledge retention, but not on critical thinking, engagement, or motivation](chatbot-meta-analysis-learning-outcomes-retention.md) — related
+- [Over-reliance on AI dialogue systems reduces students' critical and analytical thinking skills, especially when they become overly dependent on AI-generated content](overreliance-ai-dialogue-reduces-critical-analytical-thinking.md) — related

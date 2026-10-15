@@ -29,4 +29,4 @@ A discrete-time stochastic model with annual transitions representing both schoo
 -
 
 ## Key Sources
-- Jacobson, M. J.; Rodriguez-Rivera, G.; Drineas, P.; and Xue, Y. (2026). Teaching AI, Robotics, & Community: A Hubs-Based K–12 Education Framework for Reaching Rural Schools. https://arxiv.org/abs/2609.18072
+- Jacobson, M. J.; Rodriguez-Rivera, G.; Drineas, P.; and Xue, Y. (2026). Teaching AI, Robotics, & Community: A Hubs-Based K–12 Education Framework for Reaching Rural Schools. https://arxiv.org/abs/2609.18072. [doi:10.48550/arxiv.2609.18072](https://doi.org/10.48550/arxiv.2609.18072)

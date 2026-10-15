@@ -60,4 +60,4 @@ The article recommends tailoring support to teacher profiles: "Cluster 3 require
 -
 
 ## Key Sources
-- Sun, Y., Xin, H., Li, S., Niu, Q., Chai, C. S., Huang, L., & Chen, G. (2025). Modeling AI-TPACK in Practice: Insights from Teachers' Multi-Agent Workflow Design. https://arxiv.org/abs/2605.13906
+- Sun, Y., Xin, H., Li, S., Niu, Q., Chai, C. S., Huang, L., & Chen, G. (2025). Modeling AI-TPACK in Practice: Insights from Teachers' Multi-Agent Workflow Design. https://arxiv.org/abs/2605.13906. [doi:10.48550/arxiv.2605.13906](https://doi.org/10.48550/arxiv.2605.13906)

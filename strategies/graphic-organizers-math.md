@@ -86,8 +86,8 @@ Graphic organizers reduce extraneous cognitive load by offloading intermediate p
 - **Frayer model for math vocabulary** — a four-quadrant organizer (definition, characteristics, examples, non-examples) used to teach concepts like "prime number" or "slope."
 - **[IRIS Center math graphic organizer templates](https://iris.peabody.vanderbilt.edu)** — printable place-value mats, sorting mats, and problem-solving frames designed for students with disabilities.
 - **Ten-frames and rekenreks in early numeracy curricula** — structural organizers that make the base-ten structure of numbers visible before symbolic work.
-- **Schema-based instruction (Jitendra et al.)** — research-validated program using problem-type-specific graphic organizers for word-problem solving in grades 2–7; see overview at https://www.interventioncentral.org
-- **Frayer Model** — four-quadrant organizer (definition, characteristics, examples, non-examples) widely used for math vocabulary such as "polygon" or "function"; template at https://www.readingrockets.org
+- **[Schema-based instruction](schema-based-instruction.md) (Jitendra et al.)** — research-validated program using problem-type-specific graphic organizers for word-problem solving in grades 2–7; see overview at https://www.interventioncentral.org
+- **[Frayer Model](frayer-model.md)** — four-quadrant organizer (definition, characteristics, examples, non-examples) widely used for math vocabulary such as "polygon" or "function"; template at https://www.readingrockets.org
 - **IRIS Center math supports** — case-based modules demonstrating organizer use for students with math difficulties: https://iris.peabody.vanderbilt.edu
 
 ## Key Sources

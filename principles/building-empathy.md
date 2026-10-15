@@ -112,7 +112,7 @@ An immediate change in a rating, a delayed change in attitude, more accurate inf
 
 ## Examples
 
-- **Empathy interviews**: Learners interview a peer, client, or community member using prompts focused on needs, frustrations, and lived experience.
+- **[Empathy interviews](../methods/empathy-interviews.md)**: Learners interview a peer, client, or community member using prompts focused on needs, frustrations, and lived experience.
 - **Perspective journaling**: After discussion or field observation, learners write from another stakeholder's viewpoint and then reflect on what they still do not know.
 - **Narrative comparison**: Learners compare multiple first-person or community narratives about the same issue before discussion.
 - **Structured listening rounds**: Small groups take turns summarizing another person's view before offering their own response.

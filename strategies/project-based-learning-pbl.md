@@ -120,7 +120,7 @@ PBL situates learning in meaningful contexts, which supports motivation and know
 - **High Tech High (https://www.hightechhigh.org)** — San Diego charter network where all curriculum is project-based, with exhibitions as the primary assessment venue.
 - **Engineering is Elementary (https://www.eie.org)** — Museum of Science, Boston curriculum pairing children's literature with engineering design projects in elementary science.
 - **[PBLWorks (Buck Institute for Education)](https://www.pblworks.org)** — publishes the Gold Standard PBL model, project libraries, and rubrics used across K–12.
-- **Expeditionary Learning (EL Education)** — K–12 network schools built around long-form expeditions culminating in public products; studies report achievement gains in elementary science and social studies.
+- **[Expeditionary Learning](../products/expeditionary-learning.md) (EL Education)** — K–12 network schools built around long-form expeditions culminating in public products; studies report achievement gains in elementary science and social studies.
 - **Michigan State University's Multiple Literacies in Project-Based Learning** — NSF-funded elementary science curriculum using sustained design projects.
 - **Medical education PBL tracks** (e.g., McMaster University, pioneered 1969) — small-group case-driven projects; the original higher-education PBL implementation.
 - **[PBLWorks (Buck Institute for Education)](https://www.pblworks.org)** — Gold Standard PBL model, project library, and rubrics; the most widely adopted K–12 implementation framework.

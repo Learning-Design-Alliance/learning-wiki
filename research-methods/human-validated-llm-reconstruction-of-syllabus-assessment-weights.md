@@ -28,4 +28,4 @@ The pipeline converts syllabus PDFs to Markdown and uses an LLM through a univer
 -
 
 ## Key Sources
-- Dumlao, J. M. Z., Wang, M., Xie, Z., Hu, J., Bar, I., Chaney, G., III, Gold, H., & Teplitskiy, M. (2026). Generative AI Availability, Grades, and Student Satisfaction at a Large University. arXiv. https://arxiv.org/abs/2607.21534
+- Dumlao, J. M. Z., Wang, M., Xie, Z., Hu, J., Bar, I., Chaney, G., III, Gold, H., & Teplitskiy, M. (2026). Generative AI Availability, Grades, and Student Satisfaction at a Large University. arXiv. https://arxiv.org/abs/2607.21534. [doi:10.48550/arxiv.2607.21534](https://doi.org/10.48550/arxiv.2607.21534)

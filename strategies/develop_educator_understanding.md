@@ -60,7 +60,7 @@ Professional learning that changes practice is sustained, active, collaborative,
 
 ## Examples
 - **Digital Promise's [Learner Variability Navigator](https://lvp.digitalpromiseproject.org)** — educators explore research-backed factors (self-regulation, emotion identification, belonging) across whole-learner models and pull matched strategies for their students.
-- **Lesson study (jugyō kenkyū)** — Japanese-origin professional learning in which teachers jointly study research, plan a lesson, observe it, and revise; the observation cycle supplies the external feedback that self-study alone lacks.
+- **[Lesson study](lesson-study.md) (jugyō kenkyū)** — Japanese-origin professional learning in which teachers jointly study research, plan a lesson, observe it, and revise; the observation cycle supplies the external feedback that self-study alone lacks.
 - **CAST professional learning on [Universal Design for Learning](https://udlguidelines.cast.org)** — educators study the UDL Guidelines and learner variability research, then redesign a lesson and compare outcomes.
 
 ## Key Sources

@@ -12,7 +12,7 @@ generated:
 # Learning Disabilities and Developmental Differences
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 57 claims (43 for, 10 mixed, 4 against) · 38 studies (20 associational, 7 review, 5 causal, 3 theoretical, 2 quant-synthesis, 1 qualitative), `q1`–`q3` · 2 of 38 report an effect size · 55 claims rest on one study
+> **Evidence** · 58 claims (44 for, 10 mixed, 4 against) · 39 studies (20 associational, 7 review, 5 causal, 3 quant-synthesis, 3 theoretical, 1 qualitative), `q1`–`q3` · 2 of 39 report an effect size · 56 claims rest on one study
 
 ## Description
 Identified differences in how a learner learns: specific learning disabilities such as dyslexia and dyscalculia, autism, intellectual disability, and the special educational needs (an IEP in the United States, an EHC plan in England) that formally record them. In the research it appears as a population a design targets, as a moderator (an approach that works differently for these learners), and as a predictor of outcomes. It is distinct from [access](access.md), which is about perceiving and operating the material (sensory and motor impairments, devices); a learner can need both. Attention-related differences such as ADHD sit on [attention](attention.md).
@@ -90,6 +90,7 @@ Identified differences in how a learner learns: specific learning disabilities s
 - [Youth with an IEP became more engaged in school and extracurricular activities over the past decade, with little change in grade retention, suspensions, and expulsions](../claims/iep-youth-increased-school-engagement-2003-2012.md) [+M] — learners who differ on it differ in outcomes
 - [Youth with an IEP experience bullying and suspension at higher rates and are less engaged in school and social activities than peers, though most youth with and without an IEP feel positive about school](../claims/iep-youth-bullying-suspension-engagement.md) [+W] — learners who differ on it differ in outcomes
 - [Youth with an IEP lag their peers in planning and taking steps to obtain postsecondary education and jobs](../claims/iep-youth-lag-postsecondary-planning.md) [+W] — learners who differ on it differ in outcomes
+- [Self-monitoring interventions produce strong effects for students with ASD across behavioral targets and school settings (overall Tau-U = .83)](../claims/self-monitoring-strong-effects-asd-tau-u-083.md) [+M] — an instructional effect differs with it
 
 ## Related Learner Variables
 - [Access](access.md) — sensory and motor impairments, assistive technology

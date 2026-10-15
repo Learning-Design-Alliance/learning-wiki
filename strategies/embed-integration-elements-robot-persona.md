@@ -50,4 +50,4 @@ The authors intrinsically added integration elements to the robot's personality 
 -
 
 ## Key Sources
-- Tozadore, D., Ertug, N., Chaker, Y., & Abderrahim, M. (2025). RoboBuddy in the Classroom: Exploring LLM-Powered Social Robots for Storytelling in Learning and Integration Activities. https://arxiv.org/abs/2508.16706
+- Tozadore, D., Ertug, N., Chaker, Y., & Abderrahim, M. (2025). RoboBuddy in the Classroom: Exploring LLM-Powered Social Robots for Storytelling in Learning and Integration Activities. https://arxiv.org/abs/2508.16706. [doi:10.48550/arxiv.2508.16706](https://doi.org/10.48550/arxiv.2508.16706)

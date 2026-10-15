@@ -30,7 +30,7 @@ sources:
 # Learning by Producing (multimedia production as learning)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 18 claims (12 for, 6 mixed) · 29 studies (9 quant-synthesis, 8 causal, 4 design, 3 theoretical, 2 review, 2 qualitative, 1 associational), `q1`–`q4` · 9 of 29 report an effect size · 10 claims rest on one study
+> **Evidence** · 19 claims (12 for, 7 mixed) · 30 studies (9 causal, 9 quant-synthesis, 4 design, 3 theoretical, 2 review, 2 qualitative, 1 associational), `q1`–`q4` · 10 of 30 report an effect size · 11 claims rest on one study
 
 ## Description and scope
 
@@ -133,6 +133,7 @@ Do not rank these against one another: their comparators (traditional instructio
 - [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~M] — these projects are strongest when they resemble authentic communication or production tasks rather than isolated tool exercises
 - [Philanthropic Studies case: ePortfolio moved from a capstone-only final project to full curricular integration across four required courses over a decade](../claims/philanthropic-studies-epportfolio-curricular-integration.md) [+W] — attached 2026-10-08 from IUPUI's HIP Taxonomy for ePortfolio: A Tool for Development, Implementation, and Scaling. , which proposed "IUPUI ePortfolio HIP taxonomy: four attributes of high-impact ePortfolio practice at three ascending levels of impact".
 - [Public capstone ePortfolio showcases gave students an authentic audience and renewed energy and focus for integrative work](../claims/public-capstone-epportfolio-showcase-audience-effect.md) [+W] — attached 2026-10-08 from IUPUI's HIP Taxonomy for ePortfolio: A Tool for Development, Implementation, and Scaling. , which proposed "IUPUI ePortfolio HIP taxonomy: four attributes of high-impact ePortfolio practice at three ascending levels of impact".
+- [GAI-assisted DST creation produced significantly higher collaborative problem-solving skills than traditional methods among university students](../claims/gai-assisted-dst-improves-cps-skills.md) [~M] — attached 2026-10-15 from Wei et al. (2025), which proposed "GAI-assisted DST creation pattern integrating problem-based learning across four DST stages and six projects".
 
 ## Illustrative design instance and observation record
 
@@ -164,7 +165,7 @@ This pattern is scoped to units in which a team or individual makes a media prod
 - [Assign diverse production roles in multimedia teams](../strategies/role-assignment-production-teams.md)
 - [Act as a learning supporter during multimedia production](../strategies/teacher-learning-supporter-strategy.md)
 - [Learning by Producing (multimedia production as learning)](../patterns/learning-by-producing-pattern.md)
-- **Digital storytelling**: Learners combine narration, visuals, and sequencing to explain an experience or concept.
+- **[Digital storytelling](../strategies/digital_storytelling.md)**: Learners combine narration, visuals, and sequencing to explain an experience or concept.
 - **Audio plus visual explainer**: Learners create a narrated slide deck or short screencast teaching a concept.
 - **Advocacy video or campaign artifact**: Learners synthesize evidence into a public-facing multimedia message.
 - **Photo-essay or annotated image sequence**: Learners use curated visuals and captions to communicate analysis or reflection.

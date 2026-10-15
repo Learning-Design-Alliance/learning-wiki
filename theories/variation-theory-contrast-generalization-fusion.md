@@ -49,4 +49,4 @@ Variation theory holds that learning occurs when a learner discerns aspects of a
 - [Design children's independent follow-up tasks so they describe what distinguishes each shape, making their reasoning visible to the teacher](../strategies/independent-tasks-describe-distinguishing-features.md)
 
 ## Key Sources
-- Ahlquist, E.-M. T., & Gynther, P. (2020). Teaching in the Montessori Classroom: Investigating Variation Theory and Embodiment as a Foundation of Teachers' Development. Journal of Montessori Research, 6(1). https://journals.ku.dk/jmr
+- Ahlquist, E.-M. T., & Gynther, P. (2020). Teaching in the Montessori Classroom: Investigating Variation Theory and Embodiment as a Foundation of Teachers' Development. Journal of Montessori Research, 6(1). https://journals.ku.dk/jmr. [doi:10.17161/jomr.v6i1.12051](https://doi.org/10.17161/jomr.v6i1.12051)

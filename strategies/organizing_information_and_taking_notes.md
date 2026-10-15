@@ -67,7 +67,7 @@ Organizing information reduces extraneous cognitive load by offloading working m
 
 ## Examples
 - **Cornell Notes** (Pauk & Owens, *How to Study in College*) — the cue-question-summary format used across secondary and higher education; the summary step functions as built-in self-explanation.
-- **Reading Apprenticeship** (https://readingapprenticeship.org) — metacognitive routines in which students externalize and organize their thinking about disciplinary texts.
+- **[Reading Apprenticeship](../products/reading-apprenticeship.md)** (https://readingapprenticeship.org) — metacognitive routines in which students externalize and organize their thinking about disciplinary texts.
 - **Comparative matrices in history instruction** — students fill a matrix of causes, actors, and outcomes across cases, converting narrative lectures into a structure that supports comparison and essay planning.
 - **Concept mapping in science courses** — learners construct maps linking new concepts to prior ones after a unit, then compare maps to reveal misconceptions.
 

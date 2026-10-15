@@ -64,7 +64,7 @@ QtA shifts comprehension instruction from assessing what students extracted from
 
 ## Examples
 - Beck, McKeown, Hamilton, and Kucan's original work with elementary social studies and science textbooks, where students negotiated the compressed, idea-dense prose of standard texts.
-- **Text Talk** (Beck & McKeown) — read-aloud discussions with kindergarten and first-grade students using QtA queries before vocabulary instruction drawn from the text.
+- **[Text Talk](text-talk.md)** (Beck & McKeown) — read-aloud discussions with kindergarten and first-grade students using QtA queries before vocabulary instruction drawn from the text.
 - A middle-school history teacher pausing a textbook passage on the American Revolution to ask, "Why do you think the author lists these three causes and not others?"
 
 ## Key Sources

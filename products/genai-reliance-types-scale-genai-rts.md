@@ -38,5 +38,5 @@ A 20-item self-report scale developed by Hossain et al. to measure undergraduate
 - [Generative AI Student Feedback Literacy Scale (GenAI-SFLS)](generative-ai-student-feedback-literacy-scale-genai-sfls.md)
 
 ## Key Sources
-- Hossain, S., & Nawmi, T. A. (2026). Measuring How Students Rely on Generative AI in Academic Writing: Development and Multi-Source Validation of the Generative AI Reliance Types Scale (GenAI-RTS). https://arxiv.org/abs/2607.14301
+- Hossain, S., & Nawmi, T. A. (2026). Measuring How Students Rely on Generative AI in Academic Writing: Development and Multi-Source Validation of the Generative AI Reliance Types Scale (GenAI-RTS). https://arxiv.org/abs/2607.14301. [doi:10.48550/arxiv.2607.14301](https://doi.org/10.48550/arxiv.2607.14301)
 - Shahin Hossain. (2026). Four Types of LLM Reliance and Their Predictors Among Undergraduate Writers: A Mixed-Methods Study at a Minority-Serving R1 University. arXiv. https://arxiv.org/abs/2606.28749

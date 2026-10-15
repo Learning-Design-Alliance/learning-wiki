@@ -45,3 +45,4 @@ Descriptive survey analysis of former KIPP school leadership program participant
 ## Related Claims
 - [Former KIPP school leadership program participants reported satisfaction and application of program lessons in their own settings](kipp-leadership-participants-satisfied-and-applied-lessons.md) — related
 - [Frequent participation in governance is associated with more favorable perceptions of organizational culture](governance-participation-linked-culture-perceptions.md) — related
+- [Organizational error management culture relates positively to company performance](error-management-culture-company-performance.md) — related

@@ -129,8 +129,8 @@ Exit tickets enact [Assessment for Learning](../principles/assessment-for-learni
 - **Muddiest point in university lectures** (Mosteller, 1989, Harvard) — a one-sentence prompt collected weekly, with the instructor opening the next lecture by answering the muddiest points
 - **Elementary math**: students solve one word problem using the day's strategy on a sticky note posted to the door; the teacher sorts notes into mastery groups for tomorrow's centers
 - **University lecture (200+ students)**: a two-question Socrative quiz in the last five minutes; the histogram of responses determines whether the next lecture opens with reteaching or new material
-- **Professional development**: participants write one commitment and one lingering question on a card; facilitators use the questions to open day two
-- **Muddiest Point (Harvard, Mosteller 1989)** — students in a large statistics lecture name the least clear point on a card; the instructor opens the next lecture by addressing the top two confusions.
+- **[Professional development](../patterns/professional-development.md)**: participants write one commitment and one lingering question on a card; facilitators use the questions to open day two
+- **[Muddiest Point](muddiest-point.md) (Harvard, Mosteller 1989)** — students in a large statistics lecture name the least clear point on a card; the instructor opens the next lecture by addressing the top two confusions.
 - **3-2-1 in science classrooms** — after a lab on chemical reactions, students record three observations, two patterns, and one question; the teacher groups questions to launch the next investigation.
 - **Socrative / Google Forms in university courses** — a two-question digital ticket auto-plots the class distribution, letting the instructor decide within minutes whether to reteach or advance.
 - **Muddiest Point in college lectures** — Mosteller (1989) reported using a one-question end-of-class card in a Harvard statistics course, reviewing responses before the next session and opening class by addressing the confusion.

@@ -69,7 +69,7 @@ Self-reinforcement converts reinforcement contingencies from teacher-controlled 
 
 ## Examples
 - **Self-managed math fluency practice:** A student sets a criterion of 30 correct facts per two-minute [practice](../elements/practice.md) sprint, self-scores, and awards five minutes of free reading time upon meeting the criterion; the criterion rises weekly.
-- **Writing workshop:** A student selects from a reinforcement menu (choice of next writing topic, seat location) contingent on completing a draft meeting a co-set checklist, self-evaluating against the checklist before claiming the reward.
+- **[Writing workshop](writing_workshop.md):** A student selects from a reinforcement menu (choice of next writing topic, seat location) contingent on completing a draft meeting a co-set checklist, self-evaluating against the checklist before claiming the reward.
 - **Study skills intervention:** A college student in a self-regulated learning course logs study sessions, compares them to a weekly goal, and self-rewards with a chosen leisure activity — building the self-management habits emphasized in [Self-Regulated Learning](../theories/self-regulated-learning.md) curricula.
 
 ## Key Sources

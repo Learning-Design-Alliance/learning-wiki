@@ -18,8 +18,8 @@ sources:
     kind: causal
     rigour: 2
   - id: bergh-2026-2
-    resource: "https://arxiv.org/abs/2609.21194"
-    title: "Bergh, C., Tag, B., Vassar, A., & Renzella, J. (2026). Your Programming Students'Cognition with ChatGPT: Higher Performance, Lower Retention, and Reduced Ownership. https://arxiv.org/abs/2609.21194"
+    resource: "https://doi.org/10.48550/arxiv.2609.21194"
+    title: "Bergh, C., Tag, B., Vassar, A., & Renzella, J. (2026). Your Programming Students'Cognition with ChatGPT: Higher Performance, Lower Retention, and Reduced Ownership. https://arxiv.org/abs/2609.21194. [doi:10.48550/arxiv.2609.21194](https://doi.org/10.48550/arxiv.2609.21194)"
     author: "Bergh, C., Tag, B., Vassar, A., & Renzella, J."
     q: 3
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Self-reported mental effort increased less across tasks in the ChatGPT condition while perceived difficulty rose equally in both groups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q3`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` A significant tool×task interaction for self-reported mental effort (χ²(2)=8.88, pHolm=.047) showed mental effort rose further in the No AI group on Tasks 2 and 3. [→ Bergh 2026](#bergh-2026)
@@ -50,7 +50,7 @@ Confirmatory likelihood-ratio test within a linear mixed model of Paas mental-ef
 
 ### Bergh 2026 (2)
 
-Bergh, C., Tag, B., Vassar, A., & Renzella, J. (2026). Your Programming Students'Cognition with ChatGPT: Higher Performance, Lower Retention, and Reduced Ownership. https://arxiv.org/abs/2609.21194
+Bergh, C., Tag, B., Vassar, A., & Renzella, J. (2026). Your Programming Students'Cognition with ChatGPT: Higher Performance, Lower Retention, and Reduced Ownership. https://arxiv.org/abs/2609.21194. [doi:10.48550/arxiv.2609.21194](https://doi.org/10.48550/arxiv.2609.21194)
 
 `q3 · i?` · `causal · r2`
 

@@ -77,7 +77,7 @@ Speed chatting works as a [Activation](../elements/activation.md) activity: retr
 ## Examples
 - Before reading an article about climate change, learners rotate through prompts such as "What are the main causes of climate change?" and "How does climate change affect daily life where you live?", then read to check their predictions.
 - In an ESL reading course, an instructor embeds target vocabulary ("sustainable," "emissions") into speed-chat questions so learners rehearse pronunciation and meaning orally before meeting the terms in the text.
-- **Facing History and Ourselves** (https://www.facinghistory.org) uses structured pre-reading conversation protocols, including rapid pair exchanges, to activate learners' prior beliefs before engaging with primary-source texts.
+- **[Facing History and Ourselves](../products/facing-history-and-ourselves.md)** (https://www.facinghistory.org) uses structured pre-reading conversation protocols, including rapid pair exchanges, to activate learners' prior beliefs before engaging with primary-source texts.
 
 ## Key Sources
 - Anderson, R. C., & Pearson, P. D. (1984). A schema-theoretic view of basic processes in reading comprehension. In P. D. Pearson (Ed.), *Handbook of Reading Research* (pp. 255–291). Longman.

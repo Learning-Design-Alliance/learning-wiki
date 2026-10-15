@@ -49,3 +49,4 @@ The review's synthesis of 11 included studies (Section 3.3) characterizes the pe
 - [Pepper has been deployed in three predominant pedagogical roles: tutor/teaching assistant, learning partner or tutored agent, and social mediator in inclusive settings](pepper-three-pedagogical-roles.md) — related
 - [Within sociocultural theory, teacher feedback and AI-assisted peer feedback function as heterogeneous scaffolds with distinct natures and complementary advantages](heterogeneous-scaffolds-sct-framework.md) — related
 - [Many contemporary generative AI tools serve multiple educational purposes, with several tools appearing in multiple typology categories](genai-tools-multipurpose-multiple-categories.md) — related
+- [Intelligent tutoring systems have been shown to improve upon typical classroom instruction](its-improve-upon-typical-classroom-instruction.md) — related

@@ -53,4 +53,4 @@ Drawing on educator concerns about bias, inaccuracies, and data privacy, the rep
 -
 
 ## Key Sources
-- Stephenson, S. P., Leones, T., Kamdar, D., Prado, Y., & Ddamulira, J. (2025). A National Context of Generative AI for Reading to Support English Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/73c883c0-4652-499d-aeb2-74f773749c60
+- Stephenson, S. P., Leones, T., Kamdar, D., Prado, Y., & Ddamulira, J. (2025). A National Context of Generative AI for Reading to Support English Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/73c883c0-4652-499d-aeb2-74f773749c60. [doi:10.51388/20.500.12265/258](https://doi.org/10.51388/20.500.12265/258)

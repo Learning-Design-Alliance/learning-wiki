@@ -43,4 +43,4 @@ The review derives four research and design recommendations for advancing autono
 -
 
 ## Key Sources
-- Glawe, F., Schmeckel, T., Brauner, P., & Ziefle, M. (2025). Human Autonomy and Sense of Agency in Human-Robot Interaction: A Systematic Literature Review. arXiv. https://arxiv.org/abs/2509.22271
+- Glawe, F., Schmeckel, T., Brauner, P., & Ziefle, M. (2025). Human Autonomy and Sense of Agency in Human-Robot Interaction: A Systematic Literature Review. arXiv. https://arxiv.org/abs/2509.22271. [doi:10.48550/arxiv.2509.22271](https://doi.org/10.48550/arxiv.2509.22271)

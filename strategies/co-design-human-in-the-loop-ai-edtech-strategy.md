@@ -51,6 +51,7 @@ The report recommends that AI developers "embrace and center the expertise of te
 - [Involve domain experts throughout the AI safety evaluation pipeline, especially for defining unsafe content](domain-experts-throughout-child-safety-evaluation.md)
 - [Human-in-the-loop validation workflow: hold all AI-generated teaching content in unreviewed status until a teacher manually approves it](human-in-the-loop-teacher-validation-workflow.md)
 - [Human-in-the-loop generative pipeline for synthetic classroom training data with domain-expert validation](generative-synthetic-classroom-data-pipeline-strategy.md)
+- [Integrate GPT models into LA-supported feedback systems with an iterative instructor-student validation loop to improve reliability](iterative-validation-loop-gpt-feedback-systems.md)
 
 ## Examples
 -

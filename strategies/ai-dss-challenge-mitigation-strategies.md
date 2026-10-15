@@ -43,6 +43,7 @@ The review maps each identified challenge—model interpretability, algorithmic 
 - [Audit AI vocal-assessment systems for bias, transparency, privacy, and recording-context robustness before evaluative use](responsible-assessment-context-audit-ai-vocal.md)
 - [AI in Education Toolkit for Racial Equity](ai_in_education_toolkit_for_racial_equity.md)
 - [Use this Toolkit: Mitigating Racial Bias in Edtech](use_this_toolkit-mitigating_racial_bias_in_edtech.md)
+- [Teachers adopting EAI should address digital literacy and ethical design challenges identified for each AI dimension](teacher-challenges-eai-inclusion-digital-literacy-ethics.md)
 
 ## Examples
 -

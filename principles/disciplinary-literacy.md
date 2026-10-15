@@ -168,7 +168,7 @@ Comprehension of new texts, the practised disciplinary thinking skill, disciplin
 - Wineburg, S. S. (1991). Historical problem solving: A study of the cognitive processes used in the evaluation of documentary and pictorial evidence. *Journal of Educational Psychology, 83*(1), 73–87. [doi:10.1037/0022-0663.83.1.73](https://doi.org/10.1037/0022-0663.83.1.73)
 - Goldman, S. R. (2012). Adolescent literacy: Learning and understanding content. *The Future of Children, 22*(2), 89–108. [doi:10.1353/foc.2012.0011](https://doi.org/10.1353/foc.2012.0011)
 - Shanahan, C., Shanahan, T., & Misischia, C. (2011). Analysis of expert readers in three disciplines: History, mathematics, and chemistry. *Journal of Literacy Research, 43*(4), 393–429. [doi:10.1177/1086296X11424071](https://doi.org/10.1177/1086296X11424071)
-- Lemisko, L.S. (2004). The Historical Imagination: Collingwood in the Classroom. Canadian Social Studies. https://www.quasar.ualberta.ca/css
+- Lemisko, L.S. (2004). The Historical Imagination: Collingwood in the Classroom. Canadian Social Studies. https://www.quasar.ualberta.ca/css. [doi:10.29173/css130](https://doi.org/10.29173/css130)
 
 <!-- deprecated 2026-10-14: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -256,7 +256,7 @@ Disciplinary literacy reframes content-area literacy from a set of generic strat
 - Wineburg, S. S. (1991). Historical problem solving: A study of the cognitive processes used in the evaluation of documentary and pictorial evidence. *Journal of Educational Psychology, 83*(1), 73–87. [doi:10.1037/0022-0663.83.1.73](https://doi.org/10.1037/0022-0663.83.1.73)
 - Goldman, S. R. (2012). Adolescent literacy: Learning and understanding content. *The Future of Children, 22*(2), 89–108. [doi:10.1353/foc.2012.0011](https://doi.org/10.1353/foc.2012.0011)
 - Shanahan, C., Shanahan, T., & Misischia, C. (2011). Analysis of expert readers in three disciplines: History, mathematics, and chemistry. *Journal of Literacy Research, 43*(4), 393–429. [doi:10.1177/1086296X11424071](https://doi.org/10.1177/1086296X11424071)
-- Lemisko, L.S. (2004). The Historical Imagination: Collingwood in the Classroom. Canadian Social Studies. https://www.quasar.ualberta.ca/css
+- Lemisko, L.S. (2004). The Historical Imagination: Collingwood in the Classroom. Canadian Social Studies. https://www.quasar.ualberta.ca/css. [doi:10.29173/css130](https://doi.org/10.29173/css130)
 -->
 <!-- merged 2026-10-14 from principles/recognize-imagination-in-learning-and-knowing ("Recognize and acknowledge the profound importance of the human imagination in learning and knowing when designing history instruction"), folded in as a narrower page that rested on two studies or fewer after an evidence search (upgrade_worklist.py, 2026-10-14): its body as it stood. Its bullets this page lacked were added above.
 
@@ -296,5 +296,5 @@ The paper's concluding principle holds that history teaching should treat imagin
 -
 
 ## Key Sources
-- Lemisko, L.S. (2004). The Historical Imagination: Collingwood in the Classroom. Canadian Social Studies. https://www.quasar.ualberta.ca/css
+- Lemisko, L.S. (2004). The Historical Imagination: Collingwood in the Classroom. Canadian Social Studies. https://www.quasar.ualberta.ca/css. [doi:10.29173/css130](https://doi.org/10.29173/css130)
 -->

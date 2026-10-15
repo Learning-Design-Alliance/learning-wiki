@@ -50,3 +50,4 @@ Gender gap models estimated within each year and subject on the weighted MAP Gro
 - [Inequalities at kindergarten entry by race/ethnicity decreased between 2010 and 2017](kindergarten-entry-racial-ethnic-gaps-narrowed-2010-2017.md) — related
 - [Kindergarten-entry math and reading scores were mostly flat 2010-2014 then slightly declined by 2017, with median math down about 0.24 SD and reading down 0.14 SD](kindergarten-entry-scores-declined-2010-2017.md) — related
 - [Basic conclusions about male-female achievement gaps and changes in gaps as students progress through school may change when models account for test effort](male-female-gap-conclusions-sensitive-to-test-effort.md) — related
+- Female students outperformed male students in NAEP reading by 7 points at grade 4 and 10 points at grade 8 in 2007, with gaps not significantly different from 15 years earlier — related

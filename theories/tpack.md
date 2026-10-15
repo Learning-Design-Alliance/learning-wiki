@@ -82,6 +82,7 @@ TPACK is not additive — a teacher cannot be TPACK-competent by separately mast
 - A whiteboard used differently in a teacher-led lecture (front of room, teacher-controlled) versus a brainstorming session (open to all, focal point for negotiation) — same technology, different TPK depending on pedagogical intent
 - [Build educator AI literacy and pedagogical competence alongside student critical engagement with AI-generated content](../strategies/educator-ai-literacy-and-critical-engagement.md)
 - [AI Certificate Pedagogical Transformation Effectiveness Evaluation Indicator System (20 indicators, S1–S20)](../products/ai-certificate-pedagogical-transformation-effectiveness-evaluation-indicator-system-20-ind.md)
+- [Justify GenAI integration through a when-how-why framework: proven contexts, specific implementation methods, and pedagogical reasoning](../strategies/when-how-why-genai-integration-framework.md)
 
 ## Key Sources
 - Koehler, M. J., & Mishra, P. (2009). What is technological pedagogical content knowledge? *Contemporary Issues in Technology and Teacher Education, 9*(1), 60–70. [https://edtechbooks.org/lidtfoundations/tpack](https://edtechbooks.org/lidtfoundations/tpack)

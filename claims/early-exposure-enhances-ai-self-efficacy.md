@@ -53,3 +53,4 @@ The brief asserts in its learner section that "Evidence shows that learners can 
 - [Early exposure to career pathways in high school is reported to enhance students' self-efficacy and occupational awareness](early-career-pathway-exposure-enhances-self-efficacy.md) — related
 - [LLM assistance can enhance employees' creativity, especially for those with skills to reflect on AI use](llm-assistance-enhances-employee-creativity.md) — related
 - [Structured integration of AI can enhance students' digital literacy, content retention, and critical thinking skills in the academic context](structured-ai-integration-enhances-literacy-retention-critical-thinking.md) — related
+- [Learning with a ChatGPT-based flipped learning guiding approach significantly improves students’ performance, self-efficacy, learning attitudes, intrinsic motivation and creative thinking in a courseware project](chatgpt-flga-improves-performance-and-perceptions.md) — related

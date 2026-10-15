@@ -47,3 +47,4 @@ Open-Ended & Authentic Task Design room, second hour. One participant argued AI-
 - [At publication, a frontier coding model could produce solutions to six of the ten research-shaped assignments but struggled with four, which the authors treat as non-durable design experience](kt1-model-resistance-six-of-ten-assignments.md) — a narrower finding that bears on this claim
 - [The high/low-task divide in computational journalism is a relationship shaped by available technologies rather than a fixed property of tasks](high-low-task-divide-technology-dependent.md) — related
 - [Both workshops proposed a dual assessment approach combining controlled AI-free testing and open AI-allowed assignments](dual-assessment-ai-free-and-ai-allowed.md) — related
+- [AI solutions can automate routine tasks but cannot yet handle the complex tasks of higher learning](ai-limited-to-automatable-tasks-in-higher-learning.md) — related

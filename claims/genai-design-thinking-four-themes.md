@@ -58,3 +58,4 @@ Qualitative thematic analysis of 112 student reflections from the 12-week course
 - [Post-interaction reflections reveal four preference themes: AI as formative learning aid, preference for human authority, conditional acceptance, and skepticism about educational impact](four-themes-post-evaluation-ai-reflections.md) — related
 - [AI-augmented instructional design creates tensions between generative affordances and student agency, identity, and academic integrity](genai-instructional-design-tensions-agency-authorship.md) — related
 - [A student maintained critical distance from GenAI outputs through a paradoxical trust in their untrustworthiness, deriving practical value while staying sceptical](paradoxical-trust-untrustworthy-genai.md)
+- [Interviews revealed six themes: enhanced efficiency, improved quality, facilitated reflection, increased interaction, improved collaboration, and concerns about over-reliance](gai-dst-interview-six-themes.md) — related

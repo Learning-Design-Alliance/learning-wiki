@@ -31,7 +31,7 @@ sources:
 # Technology should augment, not supplant, learning processes in student-centered environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 136 claims (86 for, 41 mixed, 9 against) · 109 studies (26 qualitative, 24 theoretical, 22 review, 17 causal, 12 design, 8 associational), `q1`–`q4` · 7 of 109 report an effect size · 132 claims rest on one study
+> **Evidence** · 137 claims (87 for, 41 mixed, 9 against) · 110 studies (26 qualitative, 25 theoretical, 22 review, 17 causal, 12 design, 8 associational), `q1`–`q4` · 7 of 110 report an effect size · 133 claims rest on one study
 
 ## Conditional relationship
 
@@ -248,6 +248,7 @@ Claims this page cited that the model above does not use. Each keeps its old mar
 - [Students achieve reasonable agreement between their magnetopause-crossing findings and model predictions, gaining exposure to the tools and techniques of space physics](../claims/magnetopause-lab-reasonable-agreement-with-model-predictions.md) [+W]
 - [Students' empirical fits of simulated magnetopause locations show good internal agreement, though student estimates and simulation-calculated locations often disagree beyond uncertainties](../claims/magnetopause-lab-student-fits-agree-internally-but-differ-from-simulation-values.md) [~W]
 - [Using a stair-step pattern of solar wind input conditions in the simulation portion of the lab led to much better student results than linearly varying conditions](../claims/stair-step-solar-wind-inputs-improve-lab-results.md) [+W]
+- [The convenience and low opportunity cost of LLMs poses a risk of over-reliance, deskilling, and reduced judgment competence when learners outsource tasks that are essential learning opportunities.](../claims/llm-over-reliance-deskilling-risk.md) [+W] — attached 2026-10-15 from Huber et al. (2024), which proposed "Treat LLMs as tools for meaningful playful activity rather than as means to outsource task accomplishment".
 
 ## Objective and learner-valued goal
 
@@ -285,7 +286,7 @@ Assisted performance, unaided immediate performance, delayed retention, transfer
 - Land, Susan M.; Hannafin, Michael J. (1996). Student-Centered Learning Environments: Foundations, Assumptions, and Implications. https://eric.ed.gov/?id=ED397810
 - Loo Kang WEE. (2015). One-Dimensional Collision Carts Computer Model and its Design Ideas for Productive Experiential Learning. http://iwant2study.org/ospsg/index.php/interactive-resources/physics/02-newtonian-mechanics/02-dynamics/46-one-dimension-collision-js-model
 - Kakimoto Akihiro, Fujise Daisuke, Watanabe Shota, Otaka Yutaka, Minemoto Sakura, Yasumatsu Ayaka, Hasegawa Shin. (2026). Development and Educational Evaluation of a Radiation Visualization System in a Virtual Reality Training Module for Radiopharmaceutical Administration: Mixed Methods Study of Students’ Learning Experiences. JMIR Medical Education. https://doi.org/10.2196/104397
-- Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985
+- Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985. [doi:10.48550/arxiv.0706.1985](https://doi.org/10.48550/arxiv.0706.1985)
 
 <!-- deprecated 2026-10-14: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -591,5 +592,5 @@ The authors argue that in space physics simulation and observations build upon o
 - [Open-ended data-interpretation task in which students define their own standards for locating a boundary in simulation results](../designs/open-ended-standard-defining-magnetopause-lab.md)
 
 ## Key Sources
-- Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985
+- Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985. [doi:10.48550/arxiv.0706.1985](https://doi.org/10.48550/arxiv.0706.1985)
 -->

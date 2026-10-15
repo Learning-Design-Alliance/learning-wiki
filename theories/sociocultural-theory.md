@@ -115,6 +115,8 @@ A related developmental mechanism is **private speech**: children's habit of tal
 - [Use scaffolding techniques to help students complete tasks within their zones of proximal development](../strategies/scaffolding-within-zpd-classroom-strategy.md)
 - Peer discussion around a complex question.
 - Collaborative critique of alternative solutions.
+- [Teach AI through holistic, active, collaborative pedagogical strategies starting from real problem solving](../strategies/active-real-problem-solving-ai-teaching.md)
+- [Use learner skill levels to determine when to transition from worked examples to problem solving in tutoring systems](../strategies/skill-based-adaptive-fading-schedule.md)
 
 ## Key Sources
 - Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes*. Harvard University Press.

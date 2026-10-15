@@ -81,7 +81,7 @@ Cooperative structures work because articulating ideas to peers forces elaborati
 ## Examples
 - A learning center forms standing study groups; tutees work collaborative tutoring assignments and analyze cases together, then individually submit reflection notes to preserve accountability.
 - **PALS (Peer-Assisted Learning Strategies)** — a structured peer-tutoring program with role reversal and point systems, extensively validated in K–12 reading and math.
-- **Team-Based Learning (Michaelsen)** — individual readiness assurance tests followed by team tests, making preparation individually accountable while rewarding group deliberation.
+- **[Team-Based Learning](../patterns/team-based-learning.md) (Michaelsen)** — individual readiness assurance tests followed by team tests, making preparation individually accountable while rewarding group deliberation.
 
 ## Key Sources
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379. [doi:10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)

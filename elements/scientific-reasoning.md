@@ -60,7 +60,9 @@ Scientific reasoning is the element in which learners generate explanations, eva
 - [Guided Discovery Learning](../principles/inquiry-based-learning.md)
 
 ## Examples
+
 - Learners compare predictions to evidence and revise an explanatory model.
+- [Use chat-based GenAI as a partner for students to practice argumentation and scientific claims, especially in larger courses](../strategies/genai-partner-argumentation-practice-strategy.md)
 
 ## Key Sources
 - Zimmerman, C. (2000). The development of scientific reasoning skills. *Developmental Review, 20*(1), 99-149. [https://doi.org/10.1006/drev.1999.0497](https://doi.org/10.1006/drev.1999.0497)

@@ -51,3 +51,4 @@ Descriptive analysis of the pre-session survey completed by 37 of 54 attendees a
 - [Universities converge on privacy-oriented data guardrails, warning against entering sensitive data into consumer AI tools and encouraging institutionally approved services](genai-privacy-data-guardrails-convergence.md) — related
 - [Institutional approval processes, privacy regulations, technology access, and limited classroom time constrained chatbot adoption beyond instructional value](institutional-privacy-practical-barriers-chatbot-adoption.md) — related
 - [Adult learners raised data-practice concerns that did not map onto the Community of Inquiry framework, including not knowing what data is collected and where it goes](adult-learners-data-practice-concerns-g1.md) — related
+- [Scholars raise three main concerns about AI chatbots in education: reliability and accuracy, fair assessment, and ethical issues](chatbot-concerns-reliability-assessment-ethics.md) — related

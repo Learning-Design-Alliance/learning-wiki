@@ -50,3 +50,4 @@ ANOVA by level of governance participation (Table 5) in the 455-respondent surve
 - [Technology implementation in higher education depends on individual initiative rather than institutional systems, with governance structures rarely including those responsible for implementation](implementation-depends-on-individual-initiative-not-systems.md) — related
 - Teacher satisfaction is influenced more by school culture than by student demographics — related
 - [Personal experience influenced teachers' visions of AI futures more than organizational culture or societal factors](personal-experience-over-organizational-culture.md) — related
+- [Organizational error management culture relates positively to company performance](error-management-culture-company-performance.md) — related

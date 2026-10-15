@@ -69,7 +69,7 @@ Metacognitive journaling operationalizes the monitoring and evaluation phases of
 - [Build in stop-and-reflect moments asking students what thinking they are doing versus what thinking the AI is doing](stop-and-reflect-moments-ai-thinking.md)
 
 ## Examples
-- **Exam wrappers** (widely used in STEM gateway courses, e.g., at Carnegie Mellon's Eberly Center, https://www.cmu.edu/teaching/designteach/teach/examwrappers.html): students answer structured questions after each exam about where they lost points and what study strategies they used, then set a plan for the next assessment.
+- **[Exam wrappers](exam-wrappers.md)** (widely used in STEM gateway courses, e.g., at Carnegie Mellon's Eberly Center, https://www.cmu.edu/teaching/designteach/teach/examwrappers.html): students answer structured questions after each exam about where they lost points and what study strategies they used, then set a plan for the next assessment.
 - **Angelo & Cross's Muddiest Point** (https://cft.vanderbilt.edu/guides-sub-pages/cats/): an end-of-class one-minute paper asking "What was the muddiest point of today's session?", with the instructor opening the next class by addressing the most common confusions.
 - **Reflective journals in clinical education**: nursing and medical programs use structured reflective writing (e.g., guided by reflective cycle prompts) to surface reasoning errors in clinical decision-making.
 

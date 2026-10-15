@@ -35,7 +35,7 @@ The article presents a framework in which a multidimensional IRT model is repres
 -
 
 ## Key Sources
-- Rijmen, F. (2009). Efficient Full Information Maximum Likelihood Estimation for Multidimensional IRT Models. ETS Research Report RR-09-03. http://www.ets.org/research/contact.html
+- Rijmen, F. (2009). Efficient Full Information Maximum Likelihood Estimation for Multidimensional IRT Models. ETS Research Report RR-09-03. http://www.ets.org/research/contact.html. [doi:10.1002/j.2333-8504.2009.tb02160.x](https://doi.org/10.1002/j.2333-8504.2009.tb02160.x)
 
 <!-- merged 2026-10-10 from theories/graphical-model-framework-mml-irt-estimation ("Graphical model framework for deriving efficient MML estimation schemes for multidimensional IRT models"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 
@@ -82,5 +82,5 @@ The article presents a framework in which a multidimensional IRT model is repres
 - [Explore candidate models with limited-information estimation first, then estimate the structured model with the efficient EM algorithm](../strategies/limited-information-then-efficient-em-sequential-procedure.md)
 
 ## Key Sources
-- Rijmen, F. (2009). Efficient Full Information Maximum Likelihood Estimation for Multidimensional IRT Models. ETS Research Report RR-09-03. http://www.ets.org/research/contact.html
+- Rijmen, F. (2009). Efficient Full Information Maximum Likelihood Estimation for Multidimensional IRT Models. ETS Research Report RR-09-03. http://www.ets.org/research/contact.html. [doi:10.1002/j.2333-8504.2009.tb02160.x](https://doi.org/10.1002/j.2333-8504.2009.tb02160.x)
 -->

@@ -64,7 +64,7 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Establish site-based professional learning structured around the three inquiry questions](teacher-inquiry-where-going-now-next.md)
 
 ## Examples
-- **Writing conferences:** A teacher uses the model in a one-on-one conference — the student restates the learning intention (Feed Up), examines their draft against the success criteria (Feed Back), and selects a revision focus for the next draft (Feed Forward).
+- **[Writing conferences](writing-conferences.md):** A teacher uses the model in a one-on-one conference — the student restates the learning intention (Feed Up), examines their draft against the success criteria (Feed Back), and selects a revision focus for the next draft (Feed Forward).
 - **Whole-class feedback:** After marking a set of essays, a teacher delivers a feedback lesson addressing three common gaps, then gives revision time — Feed Forward built into class time rather than appended comments.
 - **[Hattie's Visible Learning](https://visible-learning.org) work** popularized the three questions as a diagnostic for auditing whether classroom feedback actually functions as information.
 

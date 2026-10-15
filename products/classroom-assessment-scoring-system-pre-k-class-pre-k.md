@@ -28,4 +28,4 @@ A standardized observational assessment developed by Teachstone that rates the q
 -
 
 ## Key Sources
-- Fong, Y., Xiang, J., Chan, T.-Y. D., Lee, K., & Lau, E. Y. H. (2026). I Code or AI Code: A Comparative Evaluation of AI-rated Scores in Classroom Observations. The Education University of Hong Kong. https://www.eduhk.hk
+- Fong, Y., Xiang, J., Chan, T.-Y. D., Lee, K., & Lau, E. Y. H. (2026). I Code or AI Code: A Comparative Evaluation of AI-rated Scores in Classroom Observations. The Education University of Hong Kong. https://www.eduhk.hk. [doi:10.48550/arxiv.2609.18274](https://doi.org/10.48550/arxiv.2609.18274)

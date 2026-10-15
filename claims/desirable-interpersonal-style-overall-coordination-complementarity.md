@@ -18,8 +18,8 @@ sources:
     kind: qualitative
     rigour: 2
   - id: pennings-2017-2
-    resource: "https://complicityjournal.org"
-    title: "Pennings, H. J. M. (2017). Using a Complexity Approach to Study the Interpersonal Dynamics in Teacher-Student Interactions: A Case Study of Two Teachers. Complicity: An International Journal of Complexity and Education, 14(2). https://complicityjournal.org"
+    resource: "https://doi.org/10.29173/cmplct29338"
+    title: "Pennings, H. J. M. (2017). Using a Complexity Approach to Study the Interpersonal Dynamics in Teacher-Student Interactions: A Case Study of Two Teachers. Complicity: An International Journal of Complexity and Education, 14(2). https://complicityjournal.org. [doi:10.29173/cmplct29338](https://doi.org/10.29173/cmplct29338)"
     author: Pennings, H. J. M.
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # The teacher with the more desirable interpersonal style showed overall coordination consistent with the complementarity principle, while the less desirable teacher's coordination did not
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 associational `r1`, 1 qualitative `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Ethan's classroom cross-correlations (.71 Communion, -.86 Agency) were consistent with the complementarity principle, whereas Sam's (-.39 Communion, -.06 Agency) were not consistent on Communion and only very weakly on Agency. [→ Pennings 2017](#pennings-2017)
@@ -49,7 +49,7 @@ Multiple case study of two teachers; overall coordination computed as cross-corr
 
 ### Pennings 2017 (2)
 
-Pennings, H. J. M. (2017). Using a Complexity Approach to Study the Interpersonal Dynamics in Teacher-Student Interactions: A Case Study of Two Teachers. Complicity: An International Journal of Complexity and Education, 14(2). https://complicityjournal.org
+Pennings, H. J. M. (2017). Using a Complexity Approach to Study the Interpersonal Dynamics in Teacher-Student Interactions: A Case Study of Two Teachers. Complicity: An International Journal of Complexity and Education, 14(2). https://complicityjournal.org. [doi:10.29173/cmplct29338](https://doi.org/10.29173/cmplct29338)
 
 `q2 · i?` · `associational · r1`
 

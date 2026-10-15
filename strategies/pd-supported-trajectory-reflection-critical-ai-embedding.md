@@ -52,6 +52,7 @@ The article recommends that professional development move beyond tool demonstrat
 - [Professional development for AI ethics should create spaces for contextualised critique and resistance](pd-contextualised-critique-ai-ethics.md)
 - [Focus staff development on the judgement work of AI integration rather than tool training](staff-development-judgement-work-of-ai-integration.md)
 - [Institutional AI initiatives should incorporate discussion, reflection, and distributed discipline-specific support networks rather than centralized information provision](distributed-disciplinary-support-networks-for-ai-initiatives.md)
+- [Direct further research toward new teacher roles, learning pathways and graduate attributes focused on imagination, creativity and innovation](research-priorities-graduate-attributes-creativity.md)
 
 ## Examples
 -

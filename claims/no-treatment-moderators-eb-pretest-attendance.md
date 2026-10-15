@@ -49,3 +49,4 @@ Two-way interactions between treatment condition and the three covariates were t
 - In real-world implementation, TSI students attended on average 25.5 of 50 scheduled tutoring sessions — related
 - [The size of tutoring programs' effects on student math knowledge aligned with the quality of their implementation](tutoring-effect-size-aligned-with-implementation-quality.md) — reports the opposite
 - [Interaction volume during AI-supported practice sessions did not differ significantly across conditions, supporting comparability of practice exposure](practice-exposure-comparable-across-conditions.md) — related
+- [Baseline interaction quality moderates component-outcome relations, with strongest relations for teachers with the lowest baseline quality](baseline-quality-moderates-component-relations.md) — related

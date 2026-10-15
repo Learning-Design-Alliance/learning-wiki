@@ -65,7 +65,7 @@ Structured perspective-taking discussion supports conceptual growth because lear
 - [Facilitate cognitive disequilibrium about ethnocentric views](facilitate-cognitive-disequilibrium.md)
 
 ## Examples
-- **Facing History and Ourselves** (https://www.facinghistory.org) — published curriculum in which students analyze primary sources from multiple stakeholder positions on historical events, followed by structured discussion and reflection.
+- **[Facing History and Ourselves](../products/facing-history-and-ourselves.md)** (https://www.facinghistory.org) — published curriculum in which students analyze primary sources from multiple stakeholder positions on historical events, followed by structured discussion and reflection.
 - **Structured academic controversy in a psychology course** — students assigned to argue for and against a theory (e.g., nature vs. nurture in language acquisition), then switch sides before writing a synthesis paper.
 - **Business school case discussion** — Harvard-style case teaching requires learners to analyze a decision from the perspectives of different executives, customers, and regulators before defending a recommendation.
 

@@ -88,6 +88,7 @@ Self-monitoring works primarily through reactivity: simply attending to and reco
 - **Check-Ins** — scheduled instructor–learner conversations that review self-monitoring records ([Check-In](../elements/check-in.md))
 - **Token Economies / Reinforcement Systems** — self-monitoring records can feed reinforcement contingencies, though rewards for accuracy must be handled carefully
 - [Teach students to monitor and reflect on their own behavior](teach-students-self-monitor-reflect-behavior.md)
+- [Implement school-based self-monitoring by selecting and defining a target behavior, then adding self-assessment and self-recording](implement-self-monitoring-four-components-strategy.md)
 
 ## Examples
 - **SMA with audio cueing**: a teacher gives a student who loses focus during whole-class instruction a tape or app that plays tones at random intervals; at each tone the student marks "Was I paying attention?" on a card. On-task behavior typically rises within the first weeks of implementation.

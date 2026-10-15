@@ -64,7 +64,7 @@ Peer feedback benefits learning on both sides of the exchange: giving feedback d
 
 ## Examples
 - **Writing workshops** — Students in a writing class exchange drafts and use a rubric-based protocol to comment on thesis clarity and evidence before revision.
-- **Calibrated Peer Review (CPR)** — An online tool (https://cpr.molsci.ucla.edu) in which students first calibrate their judgments on expert-graded exemplars, then review peers' assignments.
+- **[Calibrated Peer Review](calibrated_peer_review.md) (CPR)** — An online tool (https://cpr.molsci.ucla.edu) in which students first calibrate their judgments on expert-graded exemplars, then review peers' assignments.
 - **Peergrade / PeerStudio-style platforms** — Learning management integrations that distribute submissions, anonymize reviews, and aggregate feedback quality ratings.
 - **Lab report review** — Science students review each other's lab reports against a methods-and-reasoning checklist before submission.
 

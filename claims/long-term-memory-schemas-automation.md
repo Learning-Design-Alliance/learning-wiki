@@ -43,4 +43,4 @@ Theoretical assumption from the article's abstract describing the long-term memo
 
 
 ## Related Claims
--
+- [Long-term memory is effectively unlimited and holds schemas that vary in their degree of automation](long-term-memory-schemas-varying-automation.md) — possibly the same claim (merge candidate)

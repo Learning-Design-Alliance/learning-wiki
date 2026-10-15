@@ -64,7 +64,7 @@ Inference-making is a teachable skill, not merely a byproduct of reading volume:
 
 ## Examples
 - In a story where a character is repeatedly late and unprepared, learners infer disorganization from the accumulated details plus their own experience — then must cite which details warrant the conclusion.
-- **Reciprocal Teaching** (Palincsar & Brown) — small-group reading routine in which students take turns predicting, questioning, clarifying, and summarizing, generating bridging inferences with peer feedback.
+- **[Reciprocal Teaching](reciprocal_teaching.md)** (Palincsar & Brown) — small-group reading routine in which students take turns predicting, questioning, clarifying, and summarizing, generating bridging inferences with peer feedback.
 - **Elbro & Buch-Iversen's inference training** — Danish poor readers taught to activate background knowledge and verbalize inferences showed significant comprehension gains over controls.
 - [Case-based learning](../patterns/case-based-learning.md) in business or medicine — diagnosing the underlying problem from incomplete case facts is inference-making applied to professional reasoning.
 

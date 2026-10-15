@@ -63,7 +63,7 @@ Contextual introduction leverages the fact that word meanings are learned increm
 - [Read-Alouds with Dialogic Questioning](../elements/dialogic-reading.md) — the oral-language counterpart for younger learners
 
 ## Examples
-- **Text Talk** (Beck & McKeown) — teachers read a story aloud, then lead discussion of sophisticated story words in their narrative context rather than pausing mid-story for definitions.
+- **[Text Talk](text-talk.md)** (Beck & McKeown) — teachers read a story aloud, then lead discussion of sophisticated story words in their narrative context rather than pausing mid-story for definitions.
 - **Word Generation** (SERP Institute, https://www.wordgeneration.org) — a middle-school program introducing the same high-utility academic words across multiple subject-area passages and discussions over a week, ensuring varied contextual encounters.
 - **Bringing Words to Life routines** — robust-vocabulary instruction in which words introduced from a read-aloud text are then discussed, acted out, and applied in new contexts across several days.
 

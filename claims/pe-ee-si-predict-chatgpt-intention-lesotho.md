@@ -51,3 +51,4 @@ PLS-SEM structural analysis of survey data from 842 Lesotho students (bootstrapp
 - [Effort expectancy and facilitating conditions negatively predict behavioral intention, contradicting conventional UTAUT assumptions in studio-based creative education](ee-fc-negative-predict-bi-t2i.md) — related
 - Performance expectancy, effort expectancy, social influence and facilitating conditions predict vocational students' LMS acceptance, with performance expectancy the most influential — related
 - [Personal innovativeness did not significantly influence behavioral intention to use ChatGPT](personal-innovativeness-null-intention.md) — related
+- [Gen Z students report high agreement on AI adoption constructs, with performance expectancy highest and social influence lowest](high-means-pe-highest-si-lowest.md) — related

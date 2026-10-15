@@ -45,3 +45,4 @@ Perception-layer analysis joining post-task surveys from 58 of 73 builders (agen
 ## Related Claims
 - [Vibe-coded websites built for 73 distinct businesses converge into roughly a dozen recurring visual designs despite an explicit originality incentive](vibe-coding-cohort-visual-concentration.md) — related
 - [Chat-driven vibe-coding builders converge on a single generate-and-check script whose dominant time cost is dead waiting for the tool](shared-generate-and-check-loop-script.md) — related
+- [Students' self-reported perception of peer assessment's benefit is virtually uncorrelated with their actual measured benefit](perception-of-peer-assessment-benefit-uncorrelated-with-actual-benefit.md) — related

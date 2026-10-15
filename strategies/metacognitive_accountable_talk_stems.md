@@ -68,7 +68,7 @@ Structured talk prompts convert discussion from unguided conversation into elabo
 
 ## Examples
 - **Institute for Learning, University of Pittsburgh** — the source Accountable Talk sourcebook and talk-toolkit ([ifl.pitt.edu](https://ifl.pitt.edu)) used district-wide in the Pittsburgh Public Schools literacy reform.
-- **Number Talks (Parrish, 2010)** — elementary mathematics routine where stems like "I agree because…" and "I tried a different strategy…" structure whole-class discussion of mental computation.
+- **[Number Talks](number-talks.md) (Parrish, 2010)** — elementary mathematics routine where stems like "I agree because…" and "I tried a different strategy…" structure whole-class discussion of mental computation.
 - **Literature circles in middle-school ELA** — students use metacognitive stems ("I reread this part because I was confused…") to discuss a shared novel, then reflect on which moves deepened their comprehension.
 
 ## Key Sources

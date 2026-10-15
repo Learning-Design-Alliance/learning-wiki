@@ -70,7 +70,7 @@ Phonological awareness is one of the strongest predictors of early reading succe
 - **Elkonin boxes in Reading Recovery lessons** — students segment words by moving counters while the teacher links each sound to its letter.
 
 ## Key Sources
-- Ehri, L. C., Nunes, S. R., Willows, D. M., & Valeska Schuster, B. (2001). Systematic phonics instruction helps students learn to read: Evidence from the National Reading Panel's meta-analysis. *Review of Educational Research, 71*(3), 393–447. [doi:10.3102/00346543071003393](https://doi.org/10.3102/00346543071003393)
+- Ehri, L. C., Nunes, S. R., Stahl, S. A., & Willows, D. M. (2001). Systematic phonics instruction helps students learn to read: Evidence from the National Reading Panel's meta-analysis. *Review of Educational Research, 71*(3), 393–447. [doi:10.3102/00346543071003393](https://doi.org/10.3102/00346543071003393)
 - Melby-Lervåg, M., Lyster, S.-A. H., & Hulme, C. (2012). Phonological skills and their role in learning to read: A meta-analytic review. *Psychological Bulletin, 138*(2), 322–352. [doi:10.1037/a0026744](https://doi.org/10.1037/a0026744)
 - National Early Literacy Panel. (2008). *Developing early literacy: Report of the National Early Literacy Panel*. National Institute for Literacy.
 - Koda, K. (2008). Impacts of prior literacy experience on second language learning to read. In K. Koda & A. M. Zehler (Eds.), *Learning to read across languages* (pp. 68–96). Routledge.

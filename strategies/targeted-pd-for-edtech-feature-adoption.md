@@ -45,4 +45,4 @@ Because survey data showed many teachers believed features could support learnin
 -
 
 ## Key Sources
-- Tare, M. & Shell, A. R. (2019). Designing for learner variability: Examining the impact of research-based edtech in the classroom. Washington, DC: Digital Promise Global. https://digitalpromise.dspacedirect.org/items/82839c44-adb1-400c-b422-9bfbbca65985
+- Tare, M. & Shell, A. R. (2019). Designing for learner variability: Examining the impact of research-based edtech in the classroom. Washington, DC: Digital Promise Global. https://digitalpromise.dspacedirect.org/items/82839c44-adb1-400c-b422-9bfbbca65985. [doi:10.51388/20.500.12265/81](https://doi.org/10.51388/20.500.12265/81)

@@ -49,3 +49,4 @@ Findings from the educator interviews on workload. A district staff member said 
 - [Interest in AI for feedback in higher education is driven by workload reduction and feedback timeliness amid massification](ai-feedback-interest-workload-timeliness.md) — related
 - [How students and teachers want to interact with classroom AI largely depends on the teacher-student relationships that exist outside of AI use](teacher-student-relationships-shape-ai-views.md) — related
 - [Teachers envisioned chatbots as extending teacher capacity and availability by providing additional access to support and redistributing planning workload](teachers-envision-chatbots-extending-capacity-availability.md) — a narrower finding that bears on this claim
+- [Educators benefit from AI chatbots through time-saving administrative assistance and improved pedagogy](chatbot-educator-time-saving-pedagogy.md) — related

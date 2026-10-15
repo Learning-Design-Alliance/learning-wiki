@@ -18,8 +18,8 @@ sources:
     kind: design
     rigour: 2
   - id: tozadore-2025-2
-    resource: "https://arxiv.org/abs/2508.16706"
-    title: "Tozadore, D., Ertug, N., Chaker, Y., & Abderrahim, M. (2025). RoboBuddy in the Classroom: Exploring LLM-Powered Social Robots for Storytelling in Learning and Integration Activities. https://arxiv.org/abs/2508.16706"
+    resource: "https://doi.org/10.48550/arxiv.2508.16706"
+    title: "Tozadore, D., Ertug, N., Chaker, Y., & Abderrahim, M. (2025). RoboBuddy in the Classroom: Exploring LLM-Powered Social Robots for Storytelling in Learning and Integration Activities. https://arxiv.org/abs/2508.16706. [doi:10.48550/arxiv.2508.16706](https://doi.org/10.48550/arxiv.2508.16706)"
     author: "Tozadore, D., Ertug, N., Chaker, Y., & Abderrahim, M."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Teachers evaluated the LLM-robot system positively, citing ease of use for differentiated, multilingual lessons and no extra preparation time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The four teachers were enthusiastic about the tool's ease of use for generating differentiated lessons, especially for multilingual students. [→ Tozadore 2025](#tozadore-2025)
@@ -50,7 +50,7 @@ Separate post-study interviews with the four teachers in the exploratory 1-week 
 
 ### Tozadore 2025 (2)
 
-Tozadore, D., Ertug, N., Chaker, Y., & Abderrahim, M. (2025). RoboBuddy in the Classroom: Exploring LLM-Powered Social Robots for Storytelling in Learning and Integration Activities. https://arxiv.org/abs/2508.16706
+Tozadore, D., Ertug, N., Chaker, Y., & Abderrahim, M. (2025). RoboBuddy in the Classroom: Exploring LLM-Powered Social Robots for Storytelling in Learning and Integration Activities. https://arxiv.org/abs/2508.16706. [doi:10.48550/arxiv.2508.16706](https://doi.org/10.48550/arxiv.2508.16706)
 
 `q2 · i?` · `design · r2`
 

@@ -67,7 +67,7 @@ Expert groups promote deep processing because preparing to teach forces learners
 - [Collaborative Learning](../patterns/collaborative-learning.md) — expert groups as a structured variant with assigned expertise roles
 
 ## Examples
-- **Jigsaw Classroom** (https://www.jigsaw.org) — Elliot Aronson's original structure: material split into segments, expert groups master one segment, then teach their home group
+- **[Jigsaw Classroom](../strategies/jigsaw-classroom.md)** (https://www.jigsaw.org) — Elliot Aronson's original structure: material split into segments, expert groups master one segment, then teach their home group
 - **Reciprocal jigsaw in STEM courses** — students each master one problem-solving strategy in expert groups, then teach it to base groups before tackling integrated problems
 - **Fiorella & Mayer's learning-by-teaching studies** — students who studied material expecting to teach it, then actually taught, outperformed students who studied only for a test
 

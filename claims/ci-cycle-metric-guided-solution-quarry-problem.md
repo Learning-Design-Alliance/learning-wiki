@@ -18,8 +18,8 @@ sources:
     kind: design
     rigour: 2
   - id: kowalski-2013-2
-    resource: "https://arxiv.org/abs/1308.2434"
-    title: "Kowalski, F.V., Kowalski, S.E., Kohl, P.B., and Kuo, V.H. (2013). Technology-Enabled Nurturing of Creativity and Innovation: A Specific Illustration from an Undergraduate Engineering Physics Course. https://arxiv.org/abs/1308.2434"
+    resource: "https://doi.org/10.48550/arxiv.1308.2434"
+    title: "Kowalski, F.V., Kowalski, S.E., Kohl, P.B., and Kuo, V.H. (2013). Technology-Enabled Nurturing of Creativity and Innovation: A Specific Illustration from an Undergraduate Engineering Physics Course. https://arxiv.org/abs/1308.2434. [doi:10.48550/arxiv.1308.2434](https://doi.org/10.48550/arxiv.1308.2434)"
     author: Kowalski, F.V., Kowalski, S.E., Kohl, P.B., and Kuo, V.H.
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # A six-step C/I cycle administered in a sophomore engineering physics class and a graduate physics class guided a group to select a conveyor-belt power-calibration method via a co-constructed decision metric
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r1`–`r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` The process was administered separately to a sophomore class of 23 engineering physics students and a class of 7 graduate physics students. [→ Kowalski 2013](#kowalski-2013)
@@ -50,7 +50,7 @@ Case report of the process used in two classes meeting one hour a week in an int
 
 ### Kowalski 2013 (2)
 
-Kowalski, F.V., Kowalski, S.E., Kohl, P.B., and Kuo, V.H. (2013). Technology-Enabled Nurturing of Creativity and Innovation: A Specific Illustration from an Undergraduate Engineering Physics Course. https://arxiv.org/abs/1308.2434
+Kowalski, F.V., Kowalski, S.E., Kohl, P.B., and Kuo, V.H. (2013). Technology-Enabled Nurturing of Creativity and Innovation: A Specific Illustration from an Undergraduate Engineering Physics Course. https://arxiv.org/abs/1308.2434. [doi:10.48550/arxiv.1308.2434](https://doi.org/10.48550/arxiv.1308.2434)
 
 `q2 · i? · the article prints no effect size for this finding` · `design · r1`
 

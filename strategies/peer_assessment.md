@@ -71,7 +71,7 @@ Peer assessment operationalizes [Assessment for Learning](../principles/assessme
 - [Peer feedback against success criteria: students locate where peers are in their learning and give actionable clues, hints, suggestions, or wonderings](peer-feedback-against-success-criteria.md)
 
 ## Examples
-- **Calibrated Peer Review (CPR)** (https://cpr.molsci.ucla.edu) — a web system where students first evaluate calibration samples against expert judgments, then review peers' writing in STEM courses.
+- **[Calibrated Peer Review](calibrated_peer_review.md) (CPR)** (https://cpr.molsci.ucla.edu) — a web system where students first evaluate calibration samples against expert judgments, then review peers' writing in STEM courses.
 - **Peergrade / PeerStudio-style platforms** — algorithmically distribute submissions so each artifact receives multiple independent reviews, with reviewer fairness scored.
 - **Writing-across-the-curriculum courses** using structured peer response workshops (e.g., the method popularized by Gere and by Elbow's peer response groups), where reviewers describe their reading experience rather than assign grades.
 

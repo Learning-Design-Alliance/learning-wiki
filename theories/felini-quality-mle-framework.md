@@ -50,4 +50,4 @@ The article presents a systematic framework of "35 indicators for good MLE activ
 - [Use the quality-indicator framework as a self-evaluation instrument for teachers rather than an external ranking tool](../strategies/mle-framework-self-evaluation-use.md)
 
 ## Key Sources
-- Felini, D. (2014). Quality Media Literacy Education: A Tool for Teachers and Teacher Educators of Italian Elementary Schools. Journal of Media Literacy Education, 6(1), 28-43. https://www.jmle.org
+- Felini, D. (2014). Quality Media Literacy Education: A Tool for Teachers and Teacher Educators of Italian Elementary Schools. Journal of Media Literacy Education, 6(1), 28-43. https://www.jmle.org. [doi:10.23860/jmle-6-1-3](https://doi.org/10.23860/jmle-6-1-3)

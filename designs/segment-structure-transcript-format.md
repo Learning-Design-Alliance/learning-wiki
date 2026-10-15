@@ -46,4 +46,4 @@ The v6m system instructions organize transcripts into distinct verbal and descri
 -
 
 ## Key Sources
-- Looney, C. W., & Duston, C. L. (2026). Using Gemini and LuaLaTeX to transcribe physics videos into PDF/UA-2 and ISO 32005 math-accessible PDFs.
+- Looney, C. W., & Duston, C. L. (2026). Using Gemini and LuaLaTeX to transcribe physics videos into PDF/UA-2 and ISO 32005 math-accessible PDFs. [doi:10.48550/arxiv.2608.20733](https://doi.org/10.48550/arxiv.2608.20733)

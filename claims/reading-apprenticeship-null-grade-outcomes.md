@@ -45,3 +45,4 @@ Null findings from the randomized controlled trial's first cohort (686 intervent
 ## Related Claims
 - [Reading Apprenticeship® showed a statistically significant positive effect on the GRADE reading comprehension subtest for Cohort 2 ninth-grade students](reading-apprenticeship-cohort2-comprehension-significant.md) — related
 - [Reading Apprenticeship® shows no effect on vocabulary (effect size 0.00)](reading-apprenticeship-no-vocabulary-effect.md) — related
+- [The online vocabulary intervention did not significantly improve reading comprehension](online-vocabulary-intervention-no-comprehension-effect.md) — related

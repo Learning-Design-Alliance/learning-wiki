@@ -48,3 +48,4 @@ Observational time tracking over a one-year deployment at a single institution, 
 - [Instructors reported that FORAP packaging reduced the initial effort to adopt and adapt PjBL activities, based on anecdotal feedback](forap-packaging-reduced-instructor-adoption-effort.md) — related
 - [Interest in AI for feedback in higher education is driven by workload reduction and feedback timeliness amid massification](ai-feedback-interest-workload-timeliness.md) — related
 - [The pipeline reduces per-chart software labor from about two hours of manual Fusion 360 modeling to under 60 ms](tactile-pipeline-labor-reduction-four-orders.md) — a narrower finding that bears on this claim
+- [Early adopters report time savings from ChatGPT automation, including a Wharton professor's exam-writing productivity increase of 100%](chatgpt-automation-time-savings-educators.md) — related

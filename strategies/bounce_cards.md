@@ -77,7 +77,7 @@ Bounce cards are a form of "talk moves" scaffolding: they externalize the discou
 ## Examples
 - **Elementary science:** Students discuss types of energy using bounce cards; a "Sum it up" stem ("So what you're saying is…") requires rephrasing before adding a new idea.
 - **Middle school history:** Students debate causes of a historical event; "Inquire" stems push peers to ask for evidence rather than merely disagree.
-- **Facing History and Ourselves** classroom routines (https://www.facinghistory.org) use comparable structured dialogue protocols to scaffold respectful discussion of contested topics.
+- **[Facing History and Ourselves](../products/facing-history-and-ourselves.md)** classroom routines (https://www.facinghistory.org) use comparable structured dialogue protocols to scaffold respectful discussion of contested topics.
 
 ## Key Sources
 - Michaels, S., O'Connor, C., & Resnick, L. B. (2008). Deliberative discourse idealized and realized: Accountable talk in the classroom and in civic life. *Studies in Philosophy and Education, 27*(4), 283–297. [doi:10.1007/s11217-007-9071-1](https://doi.org/10.1007/s11217-007-9071-1)

@@ -67,9 +67,9 @@ Peer mediation works because explaining material to another person forces retrie
 - [Train students in tutor and group roles before routine use of peer tutoring or response groups](train-students-before-peer-tutoring-roles.md)
 
 ## Examples
-- **Reciprocal Teaching (Palincsar & Brown)** — students rotate through predictor, questioner, clarifier, and summarizer roles while reading expository text; documented large comprehension gains with struggling readers.
+- **[Reciprocal Teaching](reciprocal_teaching.md) (Palincsar & Brown)** — students rotate through predictor, questioner, clarifier, and summarizer roles while reading expository text; documented large comprehension gains with struggling readers.
 - **PALS (Peer-Assisted Learning Strategies)** — a widely implemented structured peer-tutoring program for reading and math in which pairs alternate tutor/tutee roles with scripted activities ([https://intensiveintervention.org](https://intensiveintervention.org)).
-- **Jigsaw Classroom (Aronson)** — originally developed to reduce intergroup tension in desegregated Texas classrooms; each student becomes an "expert" on one segment and teaches it to their home group.
+- **[Jigsaw Classroom](jigsaw-classroom.md) (Aronson)** — originally developed to reduce intergroup tension in desegregated Texas classrooms; each student becomes an "expert" on one segment and teaches it to their home group.
 
 ## Key Sources
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379. [doi:10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)

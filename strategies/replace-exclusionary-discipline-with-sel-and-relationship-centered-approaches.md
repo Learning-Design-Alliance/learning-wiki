@@ -58,4 +58,4 @@ The report recommends a package of evidence-based alternatives to zero-tolerance
 -
 
 ## Key Sources
-- Cardichon, J., & Darling-Hammond, L. (2019). Protecting students' civil rights: The federal role in school discipline. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/student-civil-rights-school-discipline
+- Cardichon, J., & Darling-Hammond, L. (2019). Protecting students' civil rights: The federal role in school discipline. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/student-civil-rights-school-discipline. [doi:10.33682/a3vc-nfcx](https://doi.org/10.33682/a3vc-nfcx)

@@ -18,8 +18,8 @@ sources:
     kind: causal
     rigour: 2
   - id: rief-2026-2
-    resource: "https://arxiv.org/abs/2609.02611"
-    title: "Rief, V., Hladký, M., Yoo, M., Heel, S., Sato, S., Nagashima, T. (2026). Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning. https://arxiv.org/abs/2609.02611"
+    resource: "https://doi.org/10.48550/arxiv.2609.02611"
+    title: "Rief, V., Hladký, M., Yoo, M., Heel, S., Sato, S., Nagashima, T. (2026). Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning. https://arxiv.org/abs/2609.02611. [doi:10.48550/arxiv.2609.02611](https://doi.org/10.48550/arxiv.2609.02611)"
     author: Rief, V., Hladký, M., Yoo, M., Heel, S., Sato, S., Nagashima, T.
     q: 3
     i: 3
@@ -30,7 +30,7 @@ sources:
 # Using the ITS reduced executive state-math anxiety and improved algebra learning across conditions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q3` · `i3` large
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
 
 In Rief et al. (2026), seventh graders practised algebra in the "Math with Matt" tutoring system. The Mindful version added an LLM-based mindful chat, in which the pedagogical agent Matt gave context-sensitive emotional support, and mindful (not only evaluative) feedback and hint messages; the Cognitive version gave cognitive support only.
 
@@ -52,7 +52,7 @@ Classroom experiment with 42 completing 7th graders (18 Mindful, 24 Cognitive) r
 
 ### Rief 2026 (2)
 
-Rief, V., Hladký, M., Yoo, M., Heel, S., Sato, S., Nagashima, T. (2026). Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning. https://arxiv.org/abs/2609.02611
+Rief, V., Hladký, M., Yoo, M., Heel, S., Sato, S., Nagashima, T. (2026). Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning. https://arxiv.org/abs/2609.02611. [doi:10.48550/arxiv.2609.02611](https://doi.org/10.48550/arxiv.2609.02611)
 
 `q3 · i3` · `causal · r2`
 

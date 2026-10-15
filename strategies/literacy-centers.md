@@ -88,10 +88,10 @@ Literacy centers operationalize differentiated instruction: the teacher works wi
 
 ## Examples
 - **The Daily 5 / CAFE (Boushey & Moser)** — a widely adopted center framework with five rotating tasks (Read to Self, Read to Someone, Listen to Reading, Work on Writing, Word Work) and explicit independence-building routines. https://www.thedailycafe.com
-- **Lexia Core5 Reading** — adaptive software used as a digital literacy center, freeing the teacher for small-group instruction. https://www.lexialearning.com
+- **[Lexia Core5 Reading](../products/lexia-core5-reading.md)** — adaptive software used as a digital literacy center, freeing the teacher for small-group instruction. https://www.lexialearning.com
 - **K–2 word-work stations** — magnetic letters, elkonin boxes, and sorting games practicing the week's phonics pattern while the teacher runs guided reading groups.
 - **The Daily 5 / CAFE (Boushey & Moser, Stenhouse)** — a widely used center rotation built on five authentic literacy tasks (read to self, read to someone, listen to reading, work on writing, word work), with routines taught through short, repeated practice sessions. https://www.thedailycafe.com
-- **Lexia Core5 Reading** — an adaptive digital literacy center that adjusts task difficulty to student performance, allowing independent practice while the teacher works with a group. https://www.lexialearning.com
+- **[Lexia Core5 Reading](../products/lexia-core5-reading.md)** — an adaptive digital literacy center that adjusts task difficulty to student performance, allowing independent practice while the teacher works with a group. https://www.lexialearning.com
 - **Reading workshop with choice boards** — upper-elementary classrooms where students select from tiered response tasks (character analysis, vocabulary in context, reader's-theater rehearsal) during the independent work block.
 
 ## Key Sources

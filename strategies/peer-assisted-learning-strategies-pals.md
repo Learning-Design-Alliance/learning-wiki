@@ -135,9 +135,9 @@ PALS converts [Practice](../elements/practice.md) into high-frequency, individua
 
 ## Examples
 - **[Vanderbilt Kennedy Center PALS](https://vkc.mc.vanderbilt.edu/vkc/pals/)** — the original Fuchs research program, with free teacher manuals for K-PALS, grades 2–6 reading, and high school versions
-- **Partner Reading with Retell** — learners alternate reading aloud and summarizing; the coach awards points for each error self-corrected
-- **Paragraph Shrinking** — partners identify the main idea of each paragraph in ten words or fewer, building summarizing skill
-- **Prediction Relay** — pairs predict, read to verify, and score their predictions, linking comprehension monitoring to engagement
+- **[Partner Reading with Retell](partner_reading_with_retell.md)** — learners alternate reading aloud and summarizing; the coach awards points for each error self-corrected
+- **[Paragraph Shrinking](paragraph_shrinking.md)** — partners identify the main idea of each paragraph in ten words or fewer, building summarizing skill
+- **[Prediction Relay](prediction_relay.md)** — pairs predict, read to verify, and score their predictions, linking comprehension monitoring to engagement
 - **Reading PALS (Grades 2–6)** — pairs alternate 10 minutes of partner reading with retell, 5 minutes of paragraph shrinking (summarize each paragraph in 10 words or fewer), and 10 minutes of prediction relay, earning points for accurate summaries and predictions. Materials and manuals are distributed by the [Vanderbilt IRCA PALS project](https://iris.peabody.vanderbilt.edu/).
 - **Math PALS (Grades 2–6)** — 30-minute sessions twice weekly in which players solve computation and concept problems while coaches award points for correct answers and for explaining why an answer is right.
 - **IRIS Center modules** — the [IRIS Peer-Assisted Learning Strategies module](https://iris.peabody.vanderbilt.edu/modules/) provides training on implementing PALS in inclusive classrooms.

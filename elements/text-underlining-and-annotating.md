@@ -26,7 +26,7 @@ sources:
 # Text underlining and annotating
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (1 mixed, 1 against) · 2 studies (1 causal, 1 quant-synthesis), `q3` · 1 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (2 mixed, 2 against) · 3 studies (2 causal, 1 quant-synthesis), `q3` · 1 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 A study aid involving marking text to indicate importance. Underlining (or highlighting) designates important information within the text; annotating adds marginal notes or written responses that go beyond selection to interpretation. The two differ in cognitive depth: underlining is a selection activity, while annotating is a generative one.
@@ -68,6 +68,8 @@ Underlining alone is one of the weakest studied techniques for durable learning;
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Across ten learning techniques, distributed practice and practice testing have the largest effects and underlining and summarization the smallest](../claims/ten-learning-techniques-ranked-distributed-practice-and-practice-testing-highest.md) [-M]
+- [Ten-year-old readers predominantly underline subordinate passage details rather than superordinate conceptual material, even when conceptual postquestions focus attention on topic sentences](../claims/children-underline-subordinate-details-not-superordinate-material.md) [~W] — attached 2026-10-15 from Rickards et al. (1979), which proposed "Underlining and conceptual postquestion manipulation for children's text study (Rickards & Denner 1979 experiment)".
+- [Recall of passage details is most depressed when children receive both underlining and conceptual postquestions](../claims/underlining-plus-postquestions-most-depress-detail-recall.md) [-W] — attached 2026-10-15 from Rickards et al. (1979), which proposed "Underlining and conceptual postquestion manipulation for children's text study (Rickards & Denner 1979 experiment)".
 
 ## Related Elements
 - [Advance Organizers](advance-organizers.md) — provide the relevance framework novices need before marking selectively
@@ -77,7 +79,7 @@ Underlining alone is one of the weakest studied techniques for durable learning;
 
 ## Examples
 - **[Headings and Highlight Strategy](../strategies/headings-and-highlight-strategy-variant.md)** — learners use headings to predict content, then highlight only text that answers their predictions, constraining over-marking
-- **SQ3R (Survey–Question–Read–Recite–Review)** — classic study system in which marking during reading feeds a recitation/review cycle rather than substituting for it
+- **[SQ3R](../strategies/sq3r.md) (Survey–Question–Read–Recite–Review)** — classic study system in which marking during reading feeds a recitation/review cycle rather than substituting for it
 - **Perusall (https://www.perusall.com)** — social annotation platform where students comment on shared readings; converts private marking into visible, discussable generative processing
 - **Hypothesis (https://web.hypothes.is)** — open web annotation tool used in college courses for collaborative marginal commentary
 

@@ -92,7 +92,7 @@ Requiring learners to explain and justify their steps triggers self-explanation,
 
 ## Examples
 - **Error-finding in algebra**: present a worked equation-solving sequence with a sign error; learners locate the step, explain why it is wrong, and correct it — a form of erroneous-example learning shown to build conceptual knowledge [Erroneous examples build conceptual knowledge.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M]
-- **Number talks (K–6 mathematics)**: a short daily routine in which learners solve a computation mentally and the teacher records and compares multiple strategies, with the class discussing why each works; the answer is noted but never the focus
+- **[Number talks](number-talks.md) (K–6 mathematics)**: a short daily routine in which learners solve a computation mentally and the teacher records and compares multiple strategies, with the class discussing why each works; the answer is noted but never the focus
 - **[Kapur's Productive Failure](https://doi.org/10.3102/0002831214533065)**: students attempt novel problems in groups, generating reasoning that is often wrong, before receiving canonical instruction — outperforming direct instruction followed by practice on conceptual and transfer measures [+S]
 - **[Illustrative Mathematics](https://illustrativemathematics.org)** curriculum: tasks are structured around comparing student solution strategies and explaining reasoning, with answers treated as claims to justify
 - **Erroneous-example routine**: a teacher projects a solved equation with a sign error and asks, "Find the step where this went wrong, and convince your neighbor." Students must locate and justify the error before any correct solution appears.

@@ -66,7 +66,7 @@ Home surveys operationalize family engagement as a two-way data flow rather than
 - [Use a family engagement survey within a data inquiry cycle to gather family feedback and drive changes to policies and practices](family-engagement-survey-data-inquiry-cycle.md)
 
 ## Examples
-- **TalkingPoints** (https://www.talkingpts.org) — two-way translated messaging used by schools to run recurring family pulse surveys in families' home languages without requiring smartphones or English proficiency.
+- **[TalkingPoints](../products/talkingpoints.md)** (https://www.talkingpts.org) — two-way translated messaging used by schools to run recurring family pulse surveys in families' home languages without requiring smartphones or English proficiency.
 - **Flipped-classroom implementations** — teachers of flipped courses (see [Flipped Classroom](../principles/flipped-learning.md)) use short weekly home surveys to verify video access and pre-class confusion points, adjusting the next day's in-class activities accordingly.
 - A middle-school advisory program sending a monthly 4-item survey ("How is homework going? What does your child talk about from school?") and reporting back a one-paragraph "you said / we did" summary in the school newsletter.
 

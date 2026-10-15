@@ -67,7 +67,7 @@ Positive contact with families raises student engagement and improves teacher–
 
 ## Examples
 - **Kraft & Dougherty (2013) field experiments** — high school teachers made positive calls home about 10 students per class; called students showed measurably higher engagement and positive behavior in class (https://doi.org/10.1080/19345747.2012.749649).
-- **Positive Greetings at the Door (Cook et al., 2018)** — teachers greeted each student by name with a brief positive interaction at entry, raising academic engaged time and cutting disruptive behavior (https://doi.org/10.1177/1098300717753831).
+- **[Positive Greetings at the Door](positive-greetings-at-the-door.md) (Cook et al., 2018)** — teachers greeted each student by name with a brief positive interaction at entry, raising academic engaged time and cutting disruptive behavior (https://doi.org/10.1177/1098300717753831).
 - **Cook et al. (2017) empathic discipline study** — a brief online module encouraging relationship-first responses to misbehavior halved suspension rates among middle school students, showing how relational framing changes disciplinary outcomes (https://doi.org/10.1177/0956797617704428).
 
 ## Key Sources

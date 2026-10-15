@@ -40,7 +40,8 @@ The article offers a roadmap in which prior exams are used to evaluate the relia
 - timely personalized feedback on exam performance
 
 ## Related Strategies
-- 
+
+- [Integrate GPT models into LA-supported feedback systems with an iterative instructor-student validation loop to improve reliability](iterative-validation-loop-gpt-feedback-systems.md)
 
 ## Examples
 -

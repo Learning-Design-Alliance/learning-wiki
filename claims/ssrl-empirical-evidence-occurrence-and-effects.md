@@ -1,0 +1,66 @@
+---
+type: claim
+title: Evidence indicates socially shared regulation of learning occurs across SRL areas and may promote learning and performance
+description: Evidence indicates socially shared regulation of learning occurs across SRL areas and may promote learning and performance
+id: ssrl-empirical-evidence-occurrence-and-effects
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-15
+evidence_strength: weak
+sources:
+  - id: panadero-2017
+    resource: "https://doi.org/10.3389/fpsyg.2017.00422"
+    title: "Panadero, E. (2017). A Review of Self-regulated Learning: Six Models and Four Directions for Research. Frontiers in Psychology, 8:422. https://doi.org/10.3389/fpsyg.2017.00422"
+    author: Panadero, E.
+    q: 2
+    i: "?"
+    kind: review
+    rigour: 2
+  - id: panadero-2017-2
+    resource: "https://doi.org/10.3389/fpsyg.2017.00422"
+    title: "Panadero, E. (2017). A Review of Self-regulated Learning: Six Models and Four Directions for Research. Frontiers in Psychology, 8:422. https://doi.org/10.3389/fpsyg.2017.00422"
+    author: Panadero, E.
+    q: 2
+    i: "?"
+    kind: review
+    rigour: 2
+---
+
+# Evidence indicates socially shared regulation of learning occurs across SRL areas and may promote learning and performance
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+
+## Subclaims
+`q2 i?` A review of co-regulated and socially shared regulation found empirical evidence of SSRL occurrence in cognitive, metacognitive, motivational, and emotional shared areas. [→ Panadero 2017](#panadero-2017)
+`q2 i?` The same review found evidence that SSRL might promote learning and performance. [→ Panadero 2017 (2)](#panadero-2017-2)
+
+## Evidence
+
+### Panadero 2017
+
+Panadero, E. (2017). A Review of Self-regulated Learning: Six Models and Four Directions for Research. Frontiers in Psychology, 8:422. https://doi.org/10.3389/fpsyg.2017.00422
+
+`q2 · i?` · `review · r2`
+
+The review reports, citing the Panadero and Järvelä review of CoRL and SSRL, that "empirical evidence of the occurrence of SSRL in cognitive, metacognitive, motivational, and emotional shared areas were found". No effect sizes are printed.
+
+> "Secondly, empirical evidence of the occurrence of SSRL in cognitive, metacognitive, motivational, and emotional shared areas were found. This ﬁnding is important, as it shows that shared regulation happens within all SRL areas."
+
+### Panadero 2017 (2)
+
+Panadero, E. (2017). A Review of Self-regulated Learning: Six Models and Four Directions for Research. Frontiers in Psychology, 8:422. https://doi.org/10.3389/fpsyg.2017.00422
+
+`q2 · i?` · `review · r2`
+
+The review attributes to the Panadero and Järvelä review the conclusion that "there was evidence that SSRL might promote learning and performance", a hedged statement with no effect size printed.
+
+> "And third, there was evidence that SSRL might promote learning and performance."
+
+## Discussion
+
+
+## Related Claims
+- [AI applications support self-regulated learning regulation but not motivational regulation](ai-supports-srl-not-motivation-regulation.md) — related
+- [The pooled effect of self-regulated learning does not differ significantly by strategy type (cognitive, metacognitive, resource management, motivational)](srl-effect-no-strategy-type-difference.md) — related

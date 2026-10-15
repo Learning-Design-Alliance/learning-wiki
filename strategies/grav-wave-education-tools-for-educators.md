@@ -44,4 +44,4 @@ The article points educators to a set of existing tools for teaching gravitation
 -
 
 ## Key Sources
-- Farr, Schelbert, & Trouille. (2012). Gravitational-wave science in the high school classroom. https://arxiv.org/abs/1109.3720
+- Farr, Schelbert, & Trouille. (2012). Gravitational-wave science in the high school classroom. https://arxiv.org/abs/1109.3720. [doi:10.48550/arxiv.1109.3720](https://doi.org/10.48550/arxiv.1109.3720)

@@ -44,3 +44,4 @@ Meta-analytic comparison collapsing massed-versus-spaced differences over seven 
 
 ## Related Claims
 - [Spaced presentations produce markedly better final recall than massed presentations across retention intervals](spaced-practice-improves-retention.md) — a broader claim this one bears on
+- [With incidental orienting tasks that eliminate structural encoding, distributed presentations produce better free recall than massed presentations](contextual-spacing-effect-survives-orienting-tasks.md) — a narrower finding that bears on this claim

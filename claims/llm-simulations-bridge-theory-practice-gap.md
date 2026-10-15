@@ -66,3 +66,4 @@ The review's RQ2 synthesis reports that when mistakes happen, models "can provid
 - [LLMs support the shift from memorization-focused to competency-based assessment by generating rubrics, varied assessment items and authentic scenario-based tasks](llms-support-competency-based-assessment-design.md) — related
 - [Theoretical quality of both theory-based and non-theory agents remains stable across Easy, Medium, and Hard scenario difficulty levels](theoretical-quality-stable-across-difficulty.md) — related
 - [The evidence supporting curricular interventions to promote reflection in health professional education remains largely theoretical](reflection-curricular-evidence-largely-theoretical.md) — related
+- [Large language models can support learning and teaching across education levels, from reading and writing support for elementary students to professional training](llm-support-learning-across-education-levels.md) — a broader claim this one bears on

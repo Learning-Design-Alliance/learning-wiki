@@ -76,7 +76,7 @@ Routines convert recurring procedural decisions into automatic behaviors, freein
 ## Examples
 - An elementary teacher uses the same entry routine daily: students collect materials from a fixed station, begin a posted warm-up task, and the teacher takes attendance — no verbal instructions needed, saving several minutes per session.
 - A secondary teacher delivers all assignment instructions as numbered steps on the same slide template, followed by a "what questions do you have about step X?" check rather than "any questions?".
-- **Responsive Classroom** (https://www.responsiveclassroom.org) — publishes structured routines (morning meeting, teacher language, logical consequences) with associated professional development and research on schoolwide implementation.
+- **[Responsive Classroom](../products/responsive-classroom.md)** (https://www.responsiveclassroom.org) — publishes structured routines (morning meeting, teacher language, logical consequences) with associated professional development and research on schoolwide implementation.
 - Online course design: every module in a course follows an identical structure (overview → reading → activity → discussion → quiz), so learners spend orientation effort once rather than per module.
 
 ## Key Sources

@@ -13,6 +13,7 @@ pass --refresh-cache to eval_harness.py) to force a re-fetch.
 """
 
 import io
+import re
 import sys
 import time
 from pathlib import Path
@@ -182,6 +183,24 @@ def _fetch_dspace_item(fetch_url: str) -> "str | None":
             if "pdf" in r.headers.get("Content-Type", "").lower() or r.content[:5] == b"%PDF-":
                 return _extract_pdf_text(r.content)
     return None
+
+
+_TITLE_STOP = {"with", "from", "that", "this", "their", "using", "into", "what", "when", "does", "between",
+               "through", "about", "effects", "effect", "study", "review"}
+
+
+def matches_title(text: str, title: str) -> bool:
+    """Whether a fetched document is the work it was queued as: most of the title's words appear in
+    its opening. An open-copy fallback can land on a repository file that is another document
+    entirely; on 2026-10-15 seven of 134 citation-chase fetches did (a GPT preprint for a game-based
+    learning study, 2007 NAEP results for a morphology meta-analysis, two Spanish theses), and their
+    claims were written up as though they were the queued work. 6 of the 7 fail this; none of the
+    other 127 does."""
+    words = {w for w in re.findall(r"[a-z]{4,}", (title or "").lower().replace("-", " ")) if w not in _TITLE_STOP}
+    if len(words) < 3:
+        return True
+    head = re.sub(r"\s+", " ", text[:15000].lower().replace("-", " "))
+    return sum(w in head for w in words) / len(words) >= 0.6
 
 
 def _fetch_web(fetch_url: str) -> str:
@@ -375,6 +394,9 @@ def fetch_article_text(entry: dict, refresh: bool = False) -> str:
     except requests.RequestException as e:
         raise FetchError(f"Network error fetching {fetch_url}: {e}") from e
 
+    if source in ("web", "oa") and entry.get("title") and not matches_title(text, entry["title"]):
+        raise FetchError(f"the fetched document does not look like {entry['title'][:80]!r} "
+                         f"(fewer than 60% of its title words in the opening); not ingesting another work under its name")
     cache_path.write_text(text, encoding="utf-8")
     return text
 

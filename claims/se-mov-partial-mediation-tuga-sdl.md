@@ -67,3 +67,4 @@ Same mediation analysis (Table 8, all paths labelled PM, partial mediation). Bec
 - [Self-efficacy has a significant positive effect on motivation among undergraduates using generative AI](se-positive-effect-mov.md) — related
 - [Self-efficacy and motivation positively predict self-directed learning, with motivation the strongest direct predictor](se-mov-positive-predict-sdl.md) — related
 - [Thoughtless use of generative AI is negatively associated with undergraduates' self-directed learning in a cross-sectional survey model (β = −0.42)](tuga-negative-direct-effect-sdl.md) — related
+- [Perceived usefulness of the AI assistant significantly and partially mediated the relationship between AI-assisted programming and collaborative outcomes and performance](perceived-usefulness-mediation-ai-programming-outcomes.md) — related

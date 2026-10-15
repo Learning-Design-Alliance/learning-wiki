@@ -13,7 +13,7 @@ generated:
 # Review
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 6 studies (2 quant-synthesis, 1 causal, 1 review, 1 associational, 1 theoretical), `q2`–`q4` · 1 of 6 report an effect size
+> **Evidence** · 5 claims (3 for, 2 mixed) · 7 studies (2 causal, 2 quant-synthesis, 1 review, 1 associational, 1 theoretical), `q2`–`q4` · 1 of 7 report an effect size · 3 claims rest on one study
 
 ## Description
 Review places learners in the role of evaluator: they examine their own or peers' work against criteria before a final version is produced. The act of judging work — identifying strengths, diagnosing weaknesses, and articulating improvements — converts evaluation from an instructor-only function into a learning activity in its own right.
@@ -53,7 +53,9 @@ Review supports learning because evaluating work requires comparing it against a
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [A formative assessment script increases the quantity and quality of peer feedback vocational students generate on a peer's draft](../claims/fas-improves-peer-feedback-generation.md) [+W] — attached 2026-10-15 from Peters et al. (2018), which proposed "Formative Assessment Script (FAS) for generating formative peer and internal feedback".
+- [FAS support partially improves internal feedback: more comments on and fewer ignored erroneous elements in students' own drafts](../claims/fas-partially-improves-internal-feedback.md) [~W] — attached 2026-10-15 from Peters et al. (2018), which proposed "Formative Assessment Script (FAS) for generating formative peer and internal feedback".
+- [FAS support does not increase detection of missing information or improvement suggestions in students' internal feedback on their own drafts](../claims/fas-no-gain-missing-info-suggestions-own-draft.md) [~W] — attached 2026-10-15 from Peters et al. (2018), which proposed "Formative Assessment Script (FAS) for generating formative peer and internal feedback".
 
 ## Related Elements
 - Peer Review — the social form of review; peers exchange work and apply criteria to each other's drafts

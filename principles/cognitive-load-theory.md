@@ -31,7 +31,7 @@ sources:
 # Cognitive Load Theory
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 33 claims (14 for, 19 mixed) · 37 studies (18 causal, 7 review, 6 quant-synthesis, 5 theoretical, 1 qualitative), `q1`–`q4` · 5 of 37 report an effect size · 24 claims rest on one study
+> **Evidence** · 36 claims (16 for, 20 mixed) · 40 studies (18 causal, 9 review, 6 quant-synthesis, 6 theoretical, 1 qualitative), `q1`–`q4` · 5 of 40 report an effect size · 27 claims rest on one study
 
 ## Conditional relationship
 
@@ -105,6 +105,9 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [AI raises the ceiling on problem complexity by reducing access complexity rather than cognitive demand](../claims/ai-raises-problem-complexity-ceiling.md) [~W]
 - [Students reported similar perceived information quantity across conditions, indicating diverse explanations did not produce perceived information overload](../claims/diverse-explanations-no-perceived-information-overload.md) [~W]
 - [Two-thirds of students reported limitations of data comics: information overload, limited generalisability, design-dependence, and oversimplification](../claims/data-comics-perceived-limitations-overload-design-dependence.md) [~W]
+- [The relative effectiveness of instructional methods reverses as levels of learner knowledge in a domain change (the expertise reversal effect)](../claims/expertise-reversal-effect-definition.md) [+W] — attached 2026-10-15 from Slava Kalyuga (2010), which proposed "Adjust instructional methods and guidance as learners acquire more experience in a specific domain"; tests this page's relationship.
+- [Working memory is limited in capacity and includes partially independent subcomponents for auditory/verbal and visual/2- or 3-dimensional information](../claims/working-memory-limited-with-partially-independent-subcomponents.md) [+W] — attached 2026-10-15 from Sweller et al. (1998), which proposed "Design instruction to reduce working memory load and encourage schema construction".
+- [Intrinsic and extraneous load are distinguished by whether element interactivity is essential to the task or a function of instructional procedures](../claims/intrinsic-extraneous-distinction-essential-vs-instructional.md) [~W] — attached 2026-10-15 from Sweller (2010), which proposed "Judge instructional procedures by whether the element interactivity they impose is essential to the task".
 
 ## Objective and learner-valued goal
 

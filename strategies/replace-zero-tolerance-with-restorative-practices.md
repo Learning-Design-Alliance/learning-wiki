@@ -57,4 +57,4 @@ The report recommends that states, districts, and schools replace zero tolerance
 -
 
 ## Key Sources
-- Darling-Hammond, L., & Cook-Harvey, C. M. (2018). Educating the whole child: Improving school climate to support student success. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/educating-whole-child
+- Darling-Hammond, L., & Cook-Harvey, C. M. (2018). Educating the whole child: Improving school climate to support student success. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/educating-whole-child. [doi:10.54300/145.655](https://doi.org/10.54300/145.655)

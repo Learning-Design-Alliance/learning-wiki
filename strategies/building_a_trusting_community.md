@@ -83,7 +83,7 @@ Trust is not a soft prerequisite; it changes what learners are willing to do cog
 - A high school math teacher has students write in journals so he can connect with them and how they're feeling about his class.
 - A literature teacher asks a different student each day to bring in lyrics to a favorite song. Each morning, she plays the selected song and devotes 10 minutes to discussing its lyrics — tying what students observe about the characters or mood into the class text.
 - Bringing people of color who are experts in their field (engineers, poets, biologists) to speak to the class, signaling whose knowledge belongs in the discipline.
-- **Facing History and Ourselves** (https://www.facinghistory.org) — published curriculum using journaling, identity-focused reflection, and structured discussion protocols to build classroom trust before engaging with difficult histories.
+- **[Facing History and Ourselves](../products/facing-history-and-ourselves.md)** (https://www.facinghistory.org) — published curriculum using journaling, identity-focused reflection, and structured discussion protocols to build classroom trust before engaging with difficult histories.
 
 ## Key Sources
 - Gay, G. (2002). Preparing for culturally responsive teaching. *Journal of Teacher Education, 53*(2), 106–116. [doi:10.1177/0022487102053002003](https://doi.org/10.1177/0022487102053002003)

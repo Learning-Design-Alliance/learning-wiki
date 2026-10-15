@@ -44,3 +44,4 @@ The author's survey of existing unplugged collections in the introduction, which
 
 ## Related Claims
 - [Instruction in STEAM AI literacy is predominantly technology-enhanced (82.1% of studies) rather than unplugged (17.9%)](steam-ai-literacy-instruction-technology-enhanced-dominant.md) — related
+- [Existing K-12 computing standards give AI minimal coverage](csta-standards-minimal-ai-coverage.md) — related
