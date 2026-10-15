@@ -42,7 +42,7 @@ MLGM goodness-of-fit analyses across ten states; the article reports fit was exc
 
 
 ## Related Claims
-- [The longitudinal achievement constructs of MAP reading and mathematics CATs remain invariant across five time points in ten states (except Indiana mathematics)](map-cat-longitudinal-construct-invariance-ten-states.md) — related
+- [The authors conclude that MAP reading and mathematics CAT constructs are invariant across five time points in ten states (except Indiana mathematics), though their mathematics tables show strong-invariance CFI drops above 0.01 in most states](map-cat-longitudinal-construct-invariance-ten-states.md) — related
 - [Quadratic latent growth fits MAP longitudinal achievement data better than linear growth across ten states](quadratic-growth-fits-map-better-than-linear.md) — related
 - [MAP tests show metric invariance across grades for all studied tests except Michigan Mathematics tests](map-cat-metric-invariance-across-grades.md) — related
 - [Goodness-of-fit results indicate Spanish MAP Growth Reading constructs are at least tau-equivalent across language background groups](spanish-map-reading-tau-equivalent-constructs.md) — related

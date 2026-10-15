@@ -43,7 +43,7 @@ First findings from a multi-year evaluation of the KIPP charter school network, 
 
 
 ## Related Claims
-- [A value-added-style method was used to identify effective schools for a consortium of 99 charter schools in 18 states and the District of Columbia in the project's first year.](charter-consortium-effective-school-identification-method.md) — related
+- [Mathematica designed a method to identify effective schools for a consortium of 99 charter schools in 18 states and the District of Columbia in the project's first year.](charter-consortium-effective-school-identification-method.md) — related
 - [A lottery-based randomized controlled trial of KIPP middle schools found statistically significant positive effects on state math and reading tests](kipp-rct-lottery-positive-effects.md) — related
 - [KIPP charter schools have positive effects on English language arts achievement for middle and high school students](kipp-positive-ela-achievement.md) — a broader claim this one bears on
 - [KIPP charter schools have positive effects on mathematics achievement for middle and high school students](kipp-positive-math-achievement.md) — a broader claim this one bears on

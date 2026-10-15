@@ -51,7 +51,7 @@ sources:
 # Inquiry-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 44 claims (26 for, 12 mixed, 5 against, 1 unmarked) · 57 studies (15 quant-synthesis, 14 causal, 7 review, 7 design, 6 qualitative, 6 theoretical, 2 associational), `q1`–`q4` · 15 of 57 report an effect size · 31 claims rest on one study
+> **Evidence** · 44 claims (26 for, 12 mixed, 5 against, 1 unmarked) · 57 studies (15 quant-synthesis, 14 causal, 7 review, 7 design, 6 qualitative, 6 theoretical, 2 associational), `q1`–`q4` · 14 of 57 report an effect size · 31 claims rest on one study
 
 ## Conditional relationship
 
@@ -130,7 +130,7 @@ Each question below links a general claim that gathers the studies behind it int
 - Does inquiry-based teaching raise science achievement over the usual instruction? [Inquiry Based Teaching Improves Science Achievement](../claims/inquiry-based-teaching-improves-science-achievement.md) [+S]: 8 distinct studies.
 - Does adding guidance to inquiry improve what learners learn, and does the kind of guidance matter? [Guidance during inquiry learning improves post-inquiry learning outcomes (d = 0.50)](../claims/guidance-improves-inquiry-learning-outcomes.md) [~M]: 4 distinct studies.
 - Should novices be left to discover the target content without support? [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](../claims/minimal-guidance-less-effective-for-novices.md) [~S]: 5 distinct studies.
-- For whom, in which domain and on which measure does the cost of unassisted discovery (and the benefit of enhanced discovery) change? [Age moderates discovery-learning effects: adolescents suffer most from unassisted discovery, adults benefit most from enhanced discovery](../claims/age-moderates-discovery-effects.md) [~M]: 1 distinct studies.
+- For whom, in which domain and on which measure does the cost of unassisted discovery (and the benefit of enhanced discovery) change? [Age moderates discovery-learning effects: the explicit-instruction advantage over unassisted discovery is larger for adolescents than adults, and the enhanced-discovery benefit larger for adults than children](../claims/age-moderates-discovery-effects.md) [~M]: 1 distinct studies.
 
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-02 (maintainer's decision): claims this page cited before the 2026-10-02 rewrite which are not used as core evidence above. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->

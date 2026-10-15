@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Preprocessing bias mitigation (DIR, RW, SUP) reduces subgroup disparities in TPR while maintaining acceptable balanced accuracy
-description: Preprocessing bias mitigation (DIR, RW, SUP) reduces subgroup disparities in TPR while maintaining acceptable balanced accuracy
+title: Preprocessing bias mitigation (DIR, RW, SUP) reduced subgroup disparities in TPR on OULAD, with effectiveness varying by demographic attribute
+description: Preprocessing bias mitigation (DIR, RW, SUP) reduced subgroup disparities in TPR on OULAD, with effectiveness varying by demographic attribute
 id: preprocessing-mitigation-reduces-disparities-oulad
 status: draft
 generated:
@@ -19,13 +19,14 @@ sources:
     rigour: 2
 ---
 
-# Preprocessing bias mitigation (DIR, RW, SUP) reduces subgroup disparities in TPR while maintaining acceptable balanced accuracy
+# Preprocessing bias mitigation (DIR, RW, SUP) reduced subgroup disparities in TPR on OULAD, with effectiveness varying by demographic attribute
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+<!-- title before 2026-10-15: Preprocessing bias mitigation (DIR, RW, SUP) reduces subgroup disparities in TPR while maintaining acceptable balanced accuracy -->
 
 ## Subclaims
-`q2 i?` Applying DIR, RW, and SUP decreased EOD values across demographic subgroups without significantly compromising balanced accuracy. [→ Raymond A. Opoku 2025](#raymond-a-opoku-2025)
+`q2 i?` Applying DIR, RW, and SUP reduced disparities in true positive rates (lower EOD), but effectiveness varied by attribute: DIR succeeded for gender, age and disability, SUP was particularly effective for IMD, and DIR and RW kept balanced accuracy relatively high; no statistical test of the accuracy change is reported. [→ Raymond A. Opoku 2025](#raymond-a-opoku-2025)
 
 ## Evidence
 
@@ -35,7 +36,7 @@ Raymond A. Opoku, Bo Pei and Wanli Xing. (2025). Unveiling Accuracy-Fairness Tra
 
 `q2 · i?` · `causal · r2`
 
-Comparative analysis of bias mitigation techniques applied to LR models on OULAD, comparing fairness metrics (EOD) and balanced accuracy before and after mitigation (Figures 6-7). The article reports "decreased EOD values" with accuracy around 0.78 for gender. No effect size is printed.
+Comparative analysis of bias mitigation techniques applied to LR models on OULAD, comparing fairness metrics (EOD) and balanced accuracy before and after mitigation (Figures 6-7). The article reports "decreased EOD values", with effectiveness varying by attribute: "DIR showed considerable success in mitigating biases related to gender, age, and disability, SUP was particularly effective in addressing socioeconomic disparities captured by the IMD." Balanced accuracy hovered around 0.78 for gender; for age and disability it varied widely across techniques, and DIR and RW maintained "relatively high balanced accuracy". Accuracy comparisons are read from figures, with no statistical test. No effect size is printed.
 
 > "The application of methods such as DIR, RW, and SUP effectively reduced disparities in TPRs across demographic subgroups, as evidenced by the decreased EOD values. The effectiveness of these techniques varied across key demographic attributes, highlighting the need for context-specific approaches to algorithmic fairness."
 

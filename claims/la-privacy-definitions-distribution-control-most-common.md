@@ -43,5 +43,5 @@ Categorization of the 59-article scoping review sample against the Smith et al. 
 
 
 ## Related Claims
-- [Most LA research articles (74%) address privacy without defining or conceptualizing it](74-percent-la-articles-no-privacy-definition.md) — related
+- [In a scoping review of 59 privacy-focused LA articles, 74% addressed privacy without defining or conceptualizing it](74-percent-la-articles-no-privacy-definition.md) — related
 - [Conceptual unclarity in LA: privacy is used interchangeably or in overlapping ways with ethics, security, and anonymity](la-privacy-conceptual-unclarity-ethics-conflation.md) — a broader claim this one bears on

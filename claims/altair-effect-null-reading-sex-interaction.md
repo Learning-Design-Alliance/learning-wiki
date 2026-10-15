@@ -54,7 +54,7 @@ Bo, E., & Meyer, P. (2020). Comparability of MAP Growth tests administered throu
 
 `q2 · i?` · `causal · r2`
 
-Likelihood-ratio test comparing Models 3 and 4 in the same nested mixed-effect analysis. The Altair-by-sex coefficient was significant in Reading per profile confidence intervals (0.14 to 1.02); no effect size was printed, so impact is null.
+Likelihood-ratio test comparing Models 3 and 4 in the same nested mixed-effect analysis. The Altair-by-sex coefficient was significant in Reading, with a 95% profile confidence interval of 0.14 to 1.02 (Altair:Male). No standardized effect size was printed, so impact is coded `i?`: the size of the effect is not reported, which is not the same as no effect.
 
 > "The chi-square test for deviance of Model 3 and Model 4 yields a significant chi-square in Reading (chi-squared = 6.75, p < 0.01) and a non-significant chi-square in Mathematics (chi-squared=0.31, p=0.57), indicating that the sex and Altair interaction variable should be included to predict the winter Reading RIT scores."
 

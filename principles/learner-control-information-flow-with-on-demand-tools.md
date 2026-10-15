@@ -18,7 +18,7 @@ sources:
 # Keep the learner in control of the information flow with on-demand tools and supports
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 20 claims (9 for, 10 mixed, 1 against) · 20 studies (8 causal, 3 quant-synthesis, 2 review, 2 associational, 2 design, 2 theoretical, 1 qualitative), `q1`–`q3` · 4 of 20 report an effect size · 18 claims rest on one study
+> **Evidence** · 20 claims (9 for, 10 mixed, 1 against) · 20 studies (8 causal, 3 quant-synthesis, 2 review, 2 associational, 2 design, 2 theoretical, 1 qualitative), `q1`–`q3` · 3 of 20 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 

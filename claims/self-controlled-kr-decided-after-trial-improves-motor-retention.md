@@ -14,7 +14,7 @@ sources:
     title: "Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M. (2014). Self-controlled feedback is effective if it is based on the learner’s performance: a replication and extension of Chiviacowsky and Wulf (2005). Frontiers in Psychology, 5, 1325. https://doi.org/10.3389/fpsyg.2014.01325"
     author: "Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M."
     q: 3
-    i: 3
+    i: "?"
     kind: causal
     rigour: 1
   - id: carter-2014-2
@@ -38,10 +38,10 @@ sources:
 # Learners who could decide after a trial whether to receive knowledge of results (Self-After, Self-Both) were more accurate on a 24-h motor retention test than learners who decided before the trial (Self-Before) and than their yoked counterparts.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · causal `r1` · `q3` · `i3` large
+> **Evidence** · 1 study (3 entries) · causal `r1` · `q3`
 
 ## Subclaims
-`q3 i3` A significant Choice × Decision interaction (F(2,42) = 7.13, p = 0.002, ηp2 = 0.25) was found on retention absolute error. [→ Carter 2014](#carter-2014)
+`q3 i?` A significant Choice × Decision interaction (F(2,42) = 7.13, p = 0.002, ηp2 = 0.25) was found on retention absolute error. [→ Carter 2014](#carter-2014)
 `q3 i?` Self-After (M = 10.04) and Self-Both (M = 12.45) did not differ significantly, but both were significantly more accurate in retention than Self-Before (M = 29.18). [→ Carter 2014 (2)](#carter-2014-2)
 `q3 i?` Self-After and Self-Both had significantly less retention AE than their Yoked counterparts (Yoked-After M = 24.87; Yoked-Both M = 35.66). [→ Carter 2014 (3)](#carter-2014-3)
 
@@ -51,9 +51,9 @@ sources:
 
 Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M. (2014). Self-controlled feedback is effective if it is based on the learner’s performance: a replication and extension of Chiviacowsky and Wulf (2005). Frontiers in Psychology, 5, 1325. https://doi.org/10.3389/fpsyg.2014.01325
 
-`q3 · i3` · `causal · r1`
+`q3 · i? · partial η² only, no standardised mean difference` · `causal · r1`
 
-Laboratory experiment in which university volunteers learned a slider-positioning task under six knowledge-of-results (KR) conditions; retention absolute error (AE) was analysed with a 2 (Choice) × 3 (Decision) ANOVA. The article reports "a significant Choice × Decision interaction, F(2,42) = 7.13, p = 0.002, ηp2 = 0.25".
+Laboratory experiment in which 48 volunteers (mean age 21.35, run at the University of Ottawa) learned to propel a slider to a target distance under six knowledge-of-results (KR) conditions (n = 8 each), with retention and transfer tests on the next day; retention absolute error (AE) was analysed with a 2 (Choice) × 3 (Decision) ANOVA. The article reports "a significant Choice × Decision interaction, F(2,42) = 7.13, p = 0.002, ηp2 = 0.25".
 
 > "In retention, the main effects for Choice and Decision were superseded by a significant Choice × Decision interaction, F(2,42) = 7.13, p = 0.002, ηp2 = 0.25."
 
@@ -80,11 +80,11 @@ Self versus yoked post hoc comparisons on retention AE: "both the Self-After and
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Who should decide when feedback arrives, and does the setting (in front of peers, mid-performance) matter?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **4 distinct studies** (2 qualitative, 1 causal, 1 design), `q2`–`q3`, 1 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Who should decide when feedback arrives, and does the setting (in front of peers, mid-performance) matter?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **4 distinct studies** (2 qualitative, 1 causal, 1 design), `q2`–`q3`, 0 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| [Carter 2014](https://doi.org/10.3389/fpsyg.2014.01325) | q3 · causal · r1 | i3; i? | this claim |
+| [Carter 2014](https://doi.org/10.3389/fpsyg.2014.01325) | q3 · causal · r1 | i? | this claim |
 | [Gómez Argüelles 2019](https://doi.org/10.15446/profile.v21n1.69508) | q2 · qualitative · r3 | i? | [Instructors favored delayed over immediate oral corrective feedback, believing immediate c](teachers-favor-delayed-ocf-over-immediate.md) (qualifies) |
 | [Zhiqi Gao 2026](https://doi.org/10.48550/arxiv.2606.17512) | q2 · qualitative · r3 | i? | [Formative participants preferred post-session debriefing over in-session interruption, wit](feedback-timing-post-session-debrief-preference.md) (qualifies) |
 | [Rienties 2026](https://doi.org/10.1016/j.caeai.2026.100607) | q2 · design · r3 | i? | [Distance students prefer an institution-embedded assistant offering 24/7 immediate, contex](aida-preferred-24-7-context-specific-feedback.md) (qualifies) |

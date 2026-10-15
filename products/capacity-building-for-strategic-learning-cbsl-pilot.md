@@ -33,7 +33,7 @@ A Mathematica and Catalyst:Ed programme, supported by the Bill & Melinda Gates F
 
 ### Claims
 - [A pilot initiative partnered Mathematica and Catalyst:Ed with the Gates Foundation and nine K-12 education grantees to build strategic learning capacity from May 2020 to September 2021](../claims/cbsl-pilot-nine-grantees-partnership.md) [+W]
-- [The CBSL pilot strengthened grantee capacity through scoping, provider matching, cohort learning, and thought partnership](../claims/cbsl-pilot-capacity-building-approach.md) [+W]
+- [The CBSL pilot aimed to strengthen grantee capacity through scoping, provider matching, cohort learning, and thought partnership](../claims/cbsl-pilot-capacity-building-approach.md) [+W]
 
 ## Related Products and Programmes
 -

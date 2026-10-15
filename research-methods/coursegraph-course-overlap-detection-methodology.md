@@ -24,7 +24,7 @@ CourseGraph is a four-step methodology for automatically assessing whether an ex
 ### Claims
 
 - [On the TU/e CS overlap dataset, supervised NLP classifiers (Random Forest, XGBoost) outperform thresholding and zero-shot LLM baselines at detecting course overlap](../claims/rf-xgboost-beat-thresholds-and-llms-on-course-overlap.md) [+W]
-- [CourseGraph's nearest-neighbor course mappings largely align with a program director's judgments on real Erasmus+ decisions, with errors traced to ignored pedagogical differences](../claims/coursegraph-mappings-align-with-program-director.md) [+W]
+- [In a worked example from real Erasmus+ decisions, some of CourseGraph's nearest-neighbor course mappings matched the program director's and others did not, one plausibly because it ignores differences in learning methods](../claims/coursegraph-mappings-align-with-program-director.md) [+W]
 - [Component-level embeddings make CourseGraph interpretable: learning outcomes contributed most to an example overlap decision](../claims/coursegraph-component-level-interpretability.md) [+W]
 
 ## Related Research Methods

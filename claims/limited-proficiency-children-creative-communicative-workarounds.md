@@ -45,5 +45,5 @@ Descriptive finding from the study's analysis of home interaction recordings and
 ## Related Claims
 - [Second-generation immigrant children aged 6-8 mainly used language at home to convey or seek factual information, except during imaginary play](bilingual-children-home-language-mainly-factual-functions.md) — related
 - [Mexican American children used more heritage language at home while Korean American children used more English](mexican-american-more-heritage-language-than-korean-american.md) — related
-- [Fluent bilingualism enhances metalinguistic awareness](bilingual-fluency-enhances-metalinguistic-awareness.md) — related
+- [Fluent bilingualism is linked to metalinguistic awareness of how the two languages relate](bilingual-fluency-enhances-metalinguistic-awareness.md) — related
 - [The bilingual children rarely engaged in intersentential code-switching during home interactions](rare-intersentential-code-switching-home.md) — related

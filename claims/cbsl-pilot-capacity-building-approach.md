@@ -1,7 +1,7 @@
 ---
 type: claim
-title: The CBSL pilot strengthened grantee capacity through scoping, provider matching, cohort learning, and thought partnership
-description: The CBSL pilot strengthened grantee capacity through scoping, provider matching, cohort learning, and thought partnership
+title: The CBSL pilot aimed to strengthen grantee capacity through scoping, provider matching, cohort learning, and thought partnership
+description: The CBSL pilot aimed to strengthen grantee capacity through scoping, provider matching, cohort learning, and thought partnership
 id: cbsl-pilot-capacity-building-approach
 status: draft
 generated:
@@ -19,13 +19,15 @@ sources:
     rigour: 1
 ---
 
-# The CBSL pilot strengthened grantee capacity through scoping, provider matching, cohort learning, and thought partnership
+# The CBSL pilot aimed to strengthen grantee capacity through scoping, provider matching, cohort learning, and thought partnership
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
 
+<!-- title before 2026-10-15: The CBSL pilot strengthened grantee capacity through scoping, provider matching, cohort learning, and thought partnership -->
+
 ## Subclaims
-`q1 i?` The CBSL initiative strengthened grantee capacity for equity-centered strategic learning by helping grantees scope projects, matching grantees with providers, delivering cohort learning activities, and offering thought partnership. [→ Rabb 2021](#rabb-2021)
+`q1 i?` The CBSL initiative's stated goal was to strengthen grantee capacity for equity-centered strategic learning by helping grantees scope projects, matching grantees with providers, delivering cohort learning activities, and offering thought partnership; no outcome evaluation is reported. [→ Rabb 2021](#rabb-2021)
 
 ## Evidence
 

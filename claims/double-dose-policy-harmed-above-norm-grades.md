@@ -35,7 +35,7 @@ Takako Nomi and Elaine M. Allensworth. (2008). “Double-dose” Algebra as an A
 
 `q3 · i?` · `causal · r2`
 
-Cohort comparison of post-policy versus pre-policy students by percentile rank group (equations 3 and 4); the article attributes the grade decline to harder assignments and teachers' perceptual changes relative to classroom peers, with no printed effect size.
+Cohort comparison of post-policy versus pre-policy students by percentile rank group (equations 3 and 4); no printed effect size. The article does not establish why grades fell: it offers possible explanations (in its conceptual framework, grades "may be lower" in higher-ability classrooms "due to harder assignments and teachers' perceptual changes"; in its discussion, perceptual changes and more difficult content "could explain" the decline) and says the authors "are investigating these explanations in further work".
 
 > "Among above-norm students, GPAs declined by .12 points, on average, while failure rates increased by four percentage points."
 

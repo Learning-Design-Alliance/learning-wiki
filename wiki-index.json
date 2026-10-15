@@ -465,12 +465,12 @@
 "type":"claim"
 },
 {
-"description":"Most LA research articles (74%) address privacy without defining or conceptualizing it",
+"description":"In a scoping review of 59 privacy-focused LA articles, 74% addressed privacy without defining or conceptualizing it",
 "evidence_strength":"moderate",
 "id":"74-percent-la-articles-no-privacy-definition",
 "path":"claims/74-percent-la-articles-no-privacy-definition.md",
 "status":"draft",
-"title":"Most LA research articles (74%) address privacy without defining or conceptualizing it",
+"title":"In a scoping review of 59 privacy-focused LA articles, 74% addressed privacy without defining or conceptualizing it",
 "type":"claim"
 },
 {
@@ -3331,12 +3331,12 @@
 "type":"claim"
 },
 {
-"description":"Age moderates discovery-learning effects: adolescents suffer most from unassisted discovery, adults benefit most from enhanced discovery",
+"description":"Age moderates discovery-learning effects: the explicit-instruction advantage over unassisted discovery is larger for adolescents than adults, and the enhanced-discovery benefit larger for adults than children",
 "evidence_strength":"moderate",
 "id":"age-moderates-discovery-effects",
 "path":"claims/age-moderates-discovery-effects.md",
 "status":"draft",
-"title":"Age moderates discovery-learning effects: adolescents suffer most from unassisted discovery, adults benefit most from enhanced discovery",
+"title":"Age moderates discovery-learning effects: the explicit-instruction advantage over unassisted discovery is larger for adolescents than adults, and the enhanced-discovery benefit larger for adults than children",
 "type":"claim"
 },
 {
@@ -10245,12 +10245,12 @@
 "type":"claim"
 },
 {
-"description":"Meta-analytic evidence indicates anthropomorphism benefits human-robot interaction with effects varying across task contexts and design implementations",
+"description":"A conceptual framework paper reports, citing a meta-analysis (Roesler et al., 2021), that anthropomorphism benefits human-robot interaction with effects varying across task contexts and design implementations",
 "evidence_strength":"weak",
 "id":"anthropomorphism-benefits-vary-by-context",
 "path":"claims/anthropomorphism-benefits-vary-by-context.md",
 "status":"draft",
-"title":"Meta-analytic evidence indicates anthropomorphism benefits human-robot interaction with effects varying across task contexts and design implementations",
+"title":"A conceptual framework paper reports, citing a meta-analysis (Roesler et al., 2021), that anthropomorphism benefits human-robot interaction with effects varying across task contexts and design implementations",
 "type":"claim"
 },
 {
@@ -14639,7 +14639,7 @@
 "id":"bilingual-fluency-enhances-metalinguistic-awareness",
 "path":"claims/bilingual-fluency-enhances-metalinguistic-awareness.md",
 "status":"draft",
-"title":"Fluent bilingualism enhances metalinguistic awareness",
+"title":"Fluent bilingualism is linked to metalinguistic awareness of how the two languages relate",
 "type":"claim"
 },
 {
@@ -17988,12 +17988,12 @@
 "type":"claim"
 },
 {
-"description":"The CBSL pilot strengthened grantee capacity through scoping, provider matching, cohort learning, and thought partnership",
+"description":"The CBSL pilot aimed to strengthen grantee capacity through scoping, provider matching, cohort learning, and thought partnership",
 "evidence_strength":"weak",
 "id":"cbsl-pilot-capacity-building-approach",
 "path":"claims/cbsl-pilot-capacity-building-approach.md",
 "status":"draft",
-"title":"The CBSL pilot strengthened grantee capacity through scoping, provider matching, cohort learning, and thought partnership",
+"title":"The CBSL pilot aimed to strengthen grantee capacity through scoping, provider matching, cohort learning, and thought partnership",
 "type":"claim"
 },
 {
@@ -19115,12 +19115,12 @@
 "type":"claim"
 },
 {
-"description":"A value-added-style method was used to identify effective schools for a consortium of 99 charter schools in 18 states and the District of Columbia in the project's first year.",
+"description":"Mathematica designed a method to identify effective schools for a consortium of 99 charter schools in 18 states and the District of Columbia in the project's first year.",
 "evidence_strength":"weak",
 "id":"charter-consortium-effective-school-identification-method",
 "path":"claims/charter-consortium-effective-school-identification-method.md",
 "status":"draft",
-"title":"A value-added-style method was used to identify effective schools for a consortium of 99 charter schools in 18 states and the District of Columbia in the project's first year.",
+"title":"Mathematica designed a method to identify effective schools for a consortium of 99 charter schools in 18 states and the District of Columbia in the project's first year.",
 "type":"claim"
 },
 {
@@ -19872,12 +19872,12 @@
 "type":"claim"
 },
 {
-"description":"ChatGPT feedback offered immediate assistance and alternative analytical perspectives, but hallucinated answers undermined students' trust for complex data analysis",
+"description":"In a small case study, students given ChatGPT feedback valued its immediacy and alternative analytical perspectives, but one distrusted its answers as 'often made up' for complex data analysis",
 "evidence_strength":"moderate",
 "id":"chatgpt-feedback-hallucination-undermines-trust",
 "path":"claims/chatgpt-feedback-hallucination-undermines-trust.md",
 "status":"draft",
-"title":"ChatGPT feedback offered immediate assistance and alternative analytical perspectives, but hallucinated answers undermined students' trust for complex data analysis",
+"title":"In a small case study, students given ChatGPT feedback valued its immediacy and alternative analytical perspectives, but one distrusted its answers as 'often made up' for complex data analysis",
 "type":"claim"
 },
 {
@@ -23215,12 +23215,12 @@
 "type":"claim"
 },
 {
-"description":"Pairing coaching with group trainings and instructional materials is associated with larger effects, while video libraries are associated with smaller effects",
+"description":"Pairing coaching with group trainings is associated with larger effects on instruction and achievement; instructional materials with larger, and video libraries with smaller, effects on instruction",
 "evidence_strength":"weak",
 "id":"coaching-complementary-elements-moderators",
 "path":"claims/coaching-complementary-elements-moderators.md",
 "status":"draft",
-"title":"Pairing coaching with group trainings and instructional materials is associated with larger effects, while video libraries are associated with smaller effects",
+"title":"Pairing coaching with group trainings is associated with larger effects on instruction and achievement; instructional materials with larger, and video libraries with smaller, effects on instruction",
 "type":"claim"
 },
 {
@@ -28299,12 +28299,12 @@
 "type":"claim"
 },
 {
-"description":"CourseGraph's nearest-neighbor course mappings largely align with a program director's judgments on real Erasmus+ decisions, with errors traced to ignored pedagogical differences",
+"description":"In a worked example from real Erasmus+ decisions, some of CourseGraph's nearest-neighbor course mappings matched the program director's and others did not, one plausibly because it ignores differences in learning methods",
 "evidence_strength":"weak",
 "id":"coursegraph-mappings-align-with-program-director",
 "path":"claims/coursegraph-mappings-align-with-program-director.md",
 "status":"draft",
-"title":"CourseGraph's nearest-neighbor course mappings largely align with a program director's judgments on real Erasmus+ decisions, with errors traced to ignored pedagogical differences",
+"title":"In a worked example from real Erasmus+ decisions, some of CourseGraph's nearest-neighbor course mappings matched the program director's and others did not, one plausibly because it ignores differences in learning methods",
 "type":"claim"
 },
 {
@@ -45230,12 +45230,12 @@
 },
 {
 "aliases":["expertise-reversal-limits-contiguity-benefits"],
-"description":"The review reports that the split-attention benefit for novices reverses into a redundancy effect for more experienced learners, as found in the Kalyuga et al.",
+"description":"Reviews report that the split-attention benefit for novices reverses into a redundancy effect for more experienced learners, citing Kalyuga et al. (1998) and Yeung et al. (1998)",
 "evidence_strength":"weak",
 "id":"expertise-reversal-split-attention-redundancy-review",
 "path":"claims/expertise-reversal-split-attention-redundancy-review.md",
 "status":"draft",
-"title":"The review reports that the split-attention benefit for novices reverses into a redundancy effect for more experienced learners, as found in the Kalyuga et al. (1998) and Yeung et al. (1998) studies it cites",
+"title":"Reviews report that the split-attention benefit for novices reverses into a redundancy effect for more experienced learners: Kalyuga et al. (2003) cite Kalyuga et al. (1998) and Yeung et al. (1998), and Ginns (2006) cites Kalyuga et al. (1998)",
 "type":"claim"
 },
 {
@@ -65807,12 +65807,12 @@
 "type":"claim"
 },
 {
-"description":"Irrational beliefs, obsessive attachment and anxiety are the strongest stepwise predictors of cognitive flexibility, together explaining 30% of variance",
+"description":"Irrational beliefs, obsessive attachment and anxiety are the strongest stepwise predictors of cognitive flexibility in one correlational study of university students",
 "evidence_strength":"moderate",
 "id":"irrational-beliefs-obsessive-attachment-anxiety-predict-flexibility",
 "path":"claims/irrational-beliefs-obsessive-attachment-anxiety-predict-flexibility.md",
 "status":"draft",
-"title":"Irrational beliefs, obsessive attachment and anxiety are the strongest stepwise predictors of cognitive flexibility, together explaining 30% of variance",
+"title":"Irrational beliefs, obsessive attachment and anxiety are the strongest stepwise predictors of cognitive flexibility in one correlational study of university students",
 "type":"claim"
 },
 {
@@ -74733,12 +74733,12 @@
 "type":"claim"
 },
 {
-"description":"Students reported that long recorded lectures impeded focus, while instructors who broke lectures into shorter segments were appreciated",
+"description":"Students reported that long recorded lectures impeded focus, and one student appreciated an instructor's choice to break lectures into shorter videos",
 "evidence_strength":"weak",
 "id":"long-recorded-lectures-impeded-focus",
 "path":"claims/long-recorded-lectures-impeded-focus.md",
 "status":"draft",
-"title":"Students reported that long recorded lectures impeded focus, while instructors who broke lectures into shorter segments were appreciated",
+"title":"Students reported that long recorded lectures impeded focus, and one student appreciated an instructor's choice to break lectures into shorter videos",
 "type":"claim"
 },
 {
@@ -76489,12 +76489,12 @@
 "type":"claim"
 },
 {
-"description":"Thai business undergraduates' vocabulary test scores rose from pre-test to post-test after four weeks of out-of-class role-playing gamification with Mangomon, in a single-group study with no control group",
+"description":"Thai undergraduates' business vocabulary test scores rose from pre-test to post-test after four weeks of out-of-class role-playing gamification with Mangomon, in a single-group study with no control group",
 "evidence_strength":"moderate",
 "id":"mangomon-rpg-gamification-improves-business-vocabulary",
 "path":"claims/mangomon-rpg-gamification-improves-business-vocabulary.md",
 "status":"draft",
-"title":"Thai business undergraduates' vocabulary test scores rose from pre-test to post-test after four weeks of out-of-class role-playing gamification with Mangomon, in a single-group study with no control group",
+"title":"Thai undergraduates' business vocabulary test scores rose from pre-test to post-test after four weeks of out-of-class role-playing gamification with Mangomon, in a single-group study with no control group",
 "type":"claim"
 },
 {
@@ -76597,12 +76597,12 @@
 "type":"claim"
 },
 {
-"description":"The longitudinal achievement constructs of MAP reading and mathematics CATs remain invariant across five time points in ten states (except Indiana mathematics)",
+"description":"The authors conclude that MAP reading and mathematics CAT constructs are invariant across five time points in ten states (except Indiana mathematics), though their mathematics tables show strong-invariance CFI drops above 0.01 in most states",
 "evidence_strength":"moderate",
 "id":"map-cat-longitudinal-construct-invariance-ten-states",
 "path":"claims/map-cat-longitudinal-construct-invariance-ten-states.md",
 "status":"draft",
-"title":"The longitudinal achievement constructs of MAP reading and mathematics CATs remain invariant across five time points in ten states (except Indiana mathematics)",
+"title":"The authors conclude that MAP reading and mathematics CAT constructs are invariant across five time points in ten states (except Indiana mathematics), though their mathematics tables show strong-invariance CFI drops above 0.01 in most states",
 "type":"claim"
 },
 {
@@ -76615,12 +76615,12 @@
 "type":"claim"
 },
 {
-"description":"A one-factor unidimensional model fits MAP computerized adaptive Reading and Mathematics tests across grades, terms, and ten states",
+"description":"A one-factor unidimensional model is the most reasonable fit for MAP computerized adaptive Reading and Mathematics tests across grades, terms, and ten states, though Michigan Mathematics misses the RMSEA criterion",
 "evidence_strength":"moderate",
 "id":"map-cat-unidimensional-factor-structure",
 "path":"claims/map-cat-unidimensional-factor-structure.md",
 "status":"draft",
-"title":"A one-factor unidimensional model fits MAP computerized adaptive Reading and Mathematics tests across grades, terms, and ten states",
+"title":"A one-factor unidimensional model is the most reasonable fit for MAP computerized adaptive Reading and Mathematics tests across grades, terms, and ten states, though Michigan Mathematics misses the RMSEA criterion",
 "type":"claim"
 },
 {
@@ -80759,12 +80759,12 @@
 "type":"claim"
 },
 {
-"description":"Presentation pacing moderates the modality effect: large under system-paced conditions and absent under self-paced conditions",
+"description":"Presentation pacing moderates the modality effect: large under system-paced conditions and not significant under self-paced conditions, where it may disappear or reverse",
 "evidence_strength":"moderate",
 "id":"modality-effect-moderated-by-pacing",
 "path":"claims/modality-effect-moderated-by-pacing.md",
 "status":"draft",
-"title":"Presentation pacing moderates the modality effect: large under system-paced conditions and absent under self-paced conditions",
+"title":"Presentation pacing moderates the modality effect: large under system-paced conditions and not significant under self-paced conditions, where it may disappear or reverse",
 "type":"claim"
 },
 {
@@ -96793,12 +96793,12 @@
 "type":"claim"
 },
 {
-"description":"Preprocessing bias mitigation (DIR, RW, SUP) reduces subgroup disparities in TPR while maintaining acceptable balanced accuracy",
+"description":"Preprocessing bias mitigation (DIR, RW, SUP) reduced subgroup disparities in TPR on OULAD, with effectiveness varying by demographic attribute",
 "evidence_strength":"moderate",
 "id":"preprocessing-mitigation-reduces-disparities-oulad",
 "path":"claims/preprocessing-mitigation-reduces-disparities-oulad.md",
 "status":"draft",
-"title":"Preprocessing bias mitigation (DIR, RW, SUP) reduces subgroup disparities in TPR while maintaining acceptable balanced accuracy",
+"title":"Preprocessing bias mitigation (DIR, RW, SUP) reduced subgroup disparities in TPR on OULAD, with effectiveness varying by demographic attribute",
 "type":"claim"
 },
 {
@@ -108253,7 +108253,7 @@
 "id":"rubrics-improve-peer-feedback-quality",
 "path":"claims/rubrics-improve-peer-feedback-quality.md",
 "status":"draft",
-"title":"Rubrics changed what online peer reviewers commented on and improved their rating of complex criteria in two quasi-experiments, though one found less reflective feedback",
+"title":"In two online comparisons, a rubric changed what peer reviewers commented on (one study) and helped peer raters place writing in quality tiers, most for complex criteria (the other); the first study says the rubric restrained reflective thinking",
 "type":"claim"
 },
 {
@@ -112909,12 +112909,12 @@
 "type":"claim"
 },
 {
-"description":"Sentence Reading Fluency performance routes students between oral reading and foundational skills tracks",
+"description":"In Spanish MAP Reading Fluency's Adaptive Oral Reading form, Sentence Reading Fluency performance routes students in grades K–3 between oral reading and foundational skills tracks",
 "evidence_strength":"moderate",
 "id":"sentence-reading-fluency-routing-threshold",
 "path":"claims/sentence-reading-fluency-routing-threshold.md",
 "status":"draft",
-"title":"Sentence Reading Fluency performance routes students between oral reading and foundational skills tracks",
+"title":"In Spanish MAP Reading Fluency's Adaptive Oral Reading form, Sentence Reading Fluency performance routes students in grades K–3 between oral reading and foundational skills tracks",
 "type":"claim"
 },
 {

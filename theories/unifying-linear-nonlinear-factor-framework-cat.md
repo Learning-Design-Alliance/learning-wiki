@@ -40,7 +40,7 @@ The study's theoretical framework treats IRT models as a special case of nonline
 - [Cat Item Level Construct Recovery Impossible](../claims/cat-item-level-construct-recovery-impossible.md) [+M]
 - [Parceling Testlet Level Recovers Cat Construct](../claims/parceling-testlet-level-recovers-cat-construct.md) [+M]
 - [Parceling over-fits models: at the testlet level, data from more complex models fit well with simpler models](../claims/parceling-overfits-factor-models.md) [+W]
-- [A one-factor unidimensional model fits MAP computerized adaptive Reading and Mathematics tests across grades, terms, and ten states](../claims/map-cat-unidimensional-factor-structure.md) [+W]
+- [A one-factor unidimensional model is the most reasonable fit for MAP computerized adaptive Reading and Mathematics tests across grades, terms, and ten states, though Michigan Mathematics misses the RMSEA criterion](../claims/map-cat-unidimensional-factor-structure.md) [+W]
 - [In an empirical comparison on a testlet-based English assessment test, the bifactor model is preferred over the second-order and unidimensional 2PL models by both AIC and BIC](../claims/bifactor-model-preferred-aic-bic-testlet-test.md) [+W]
 
 ## Related Theories

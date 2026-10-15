@@ -70,8 +70,8 @@ Two hundred and eighteen third-year pre-service teachers were assigned to design
 |---|---|---|---|
 | [Andrade et al. 2010](https://doi.org/10.1080/09695941003696172) | q2 · causal · r? | i? | this claim |
 | [Panadero & Romero 2014](https://doi.org/10.1080/0969594x.2013.877872) | q2 · causal · r? | i? | this claim |
-| [Li et al. 2022](https://doi.org/10.1145/3543321.3543344) | q2 · causal · r1 | i? | [Rubrics changed what online peer reviewers commented on and improved their rating of compl](rubrics-improve-peer-feedback-quality.md) (qualifies) |
-| [Ashton And Davies 2015](https://doi.org/10.1080/01587919.2015.1081733) | q2 · causal · r? | i? | [Rubrics changed what online peer reviewers commented on and improved their rating of compl](rubrics-improve-peer-feedback-quality.md) (qualifies) |
+| [Li et al. 2022](https://doi.org/10.1145/3543321.3543344) | q2 · causal · r1 | i? | [In two online comparisons, a rubric changed what peer reviewers commented on (one study) a](rubrics-improve-peer-feedback-quality.md) (qualifies) |
+| [Ashton And Davies 2015](https://doi.org/10.1080/01587919.2015.1081733) | q2 · causal · r? | i? | [In two online comparisons, a rubric changed what peer reviewers commented on (one study) a](rubrics-improve-peer-feedback-quality.md) (qualifies) |
 | [Double et al. 2020](https://doi.org/10.1007/s10648-019-09510-3) | q4 · quant-synthesis · r2 | i0 · moderator effect below d=0.2, non-significant | [Structured criteria in peer assessment are not shown to improve its effect on academic per](peer-assessment-structured-criteria-improve-learning.md) (qualifies) |
 <!-- synthesis:end -->
 
@@ -109,7 +109,7 @@ Two further open questions for the evidence base: (1) durability — most rubric
 - [Authentic audiences improve student work.](authentic-audiences-improve-student-work.md) — another expectancy-shaping intervention on work quality; rubrics may compound or substitute for it
 - [Feedback improves learning.](feedback-improves-learning.md) — rubrics frame the criteria that feedback addresses
 - [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](peer-assessment-improves-performance.md) — a broader claim this one bears on
-- [Rubrics changed what online peer reviewers commented on and improved their rating of complex criteria in two quasi-experiments, though one found less reflective feedback](rubrics-improve-peer-feedback-quality.md) — related
+- [In two online comparisons, a rubric changed what peer reviewers commented on (one study) and helped peer raters place writing in quality tiers, most for complex criteria (the other); the first study says the rubric restrained reflective thinking](rubrics-improve-peer-feedback-quality.md) — related
 - [Explicit contextualization instruction improves procedural aspects of historical writing without improving contextualization scores themselves](explicit-contextualization-instruction-improves-writing-procedure-not-scores.md) — related
 - [Developing a common understanding of expected learning helps all students succeed, not only those with school-aligned prior knowledge](shared-understanding-expected-learning-helps-all-students.md) — related
 - [Students are typically passive users of assessment rubrics in authentic assessment designs](aa-students-passive-users-of-rubrics.md) — related

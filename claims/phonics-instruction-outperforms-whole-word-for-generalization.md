@@ -104,7 +104,7 @@ This systematic review re-examines 12 meta-analyses of systematic phonics and th
 | [Ehri et al. 2001](https://doi.org/10.3102/00346543071003393) | q4 · quant-synthesis · r? | i2 · medium effect, d=0.41 | this claim |
 | [Taylor et al. 2017](https://doi.org/10.1037/xge0000301) | q3 · causal · r? | i? | this claim |
 | [Bowers 2020](https://doi.org/10.1007/s10648-019-09515-y) | q3 · review · r3 | i1 · small effect, d=0.31 (NRP phonics vs whole-language subanalysis) | this claim |
-| [Galuschka et al. 2014](https://doi.org/10.1371/journal.pone.0089900) | q4 · quant-synthesis · r2 | i0 · negligible effect, g'=0.198 (95% CI 0.039–0.357) | [Phonics instruction has a small but statistically confirmed effect for children with readi](structured-literacy-interventions-help-struggling-readers.md) (qualifies) |
+| [Galuschka et al. 2014](https://doi.org/10.1371/journal.pone.0089900) | q4 · quant-synthesis · r2 | i0 · publication-bias-adjusted g'=0.198 (95% CI 0.039–0.357), which the authors call small; unadjusted phonics effect on reading g'=0.322 | [Phonics instruction has a small but statistically confirmed effect for children with readi](structured-literacy-interventions-help-struggling-readers.md) (qualifies) |
 | [Stevens et al. 2021](https://doi.org/10.1177/0014402921993406) | q3 · quant-synthesis · r? | i1 · small, non-significant effects, ES=0.22 (foundational skills, 95% CI −0.33 to 0.77) and 0.14 (vocabulary/comprehension) | [Phonics instruction has a small but statistically confirmed effect for children with readi](structured-literacy-interventions-help-struggling-readers.md) (qualifies) |
 <!-- synthesis:end -->
 

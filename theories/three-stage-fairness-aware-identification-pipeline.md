@@ -46,7 +46,7 @@ The article proposes an analytical framework that identifies at-risk students at
 - [Incorporating more learning activity data reduced the potential bias caused by overreliance on demographic information](../claims/learning-activity-data-reduces-demographic-bias.md) [+W]
 - [Adding more learning activity data beyond Stage 1 did not significantly improve predictive performance of at-risk identification models](../claims/no-significant-performance-gain-later-stages.md) [+W]
 - [Removing the sensitive race feature caused little impact on predictive performance at Stage 1 and no significant fairness differences, with mixed fairness effects](../claims/removing-race-feature-little-performance-impact.md) [~W]
-- [Preprocessing bias mitigation (DIR, RW, SUP) reduces subgroup disparities in TPR while maintaining acceptable balanced accuracy](../claims/preprocessing-mitigation-reduces-disparities-oulad.md) [+W]
+- [Preprocessing bias mitigation (DIR, RW, SUP) reduced subgroup disparities in TPR on OULAD, with effectiveness varying by demographic attribute](../claims/preprocessing-mitigation-reduces-disparities-oulad.md) [+W]
 
 ## Related Theories
 

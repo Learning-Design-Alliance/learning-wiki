@@ -9,9 +9,9 @@ generated:
   at: 2026-09-27
 evidence_strength: weak
 sources:
-  - id: tangkiengsirisin-2025
+  - id: tangkiengsirisin-2026
     resource: "https://doi.org/10.70730/UFRC4620"
-    title: "Tangkiengsirisin, S., Taylor, P., & Thansirichaisree, P. (2025). The effects of role-playing gamification on business vocabulary learning and motivation: A study of language learning mobile application for Thai undergraduate students. LEARN Journal: Language Education and Acquisition Research Network, 19(1), 464-486. https://doi.org/10.70730/UFRC4620"
+    title: "Tangkiengsirisin, S., Taylor, P., & Thansirichaisree, P. (2026). The effects of role-playing gamification on business vocabulary learning and motivation: A study of CEFR-based language learning mobile application for Thai undergraduate students. LEARN Journal: Language Education and Acquisition Research Network, 19(1), 464-486. https://doi.org/10.70730/UFRC4620"
     author: "Tangkiengsirisin, S., Taylor, P., & Thansirichaisree, P."
     q: 1
     i: "?"
@@ -25,13 +25,13 @@ sources:
 > **Evidence** · 1 study · causal `r1` · `q1`
 
 ## Subclaims
-`q1 i?` Participants' lowest ratings fell in interest/enjoyment and perceived choice, and the authors interpret this as the RPG design not yet fully meeting the autonomy need of self-determination theory. [→ Tangkiengsirisin 2025](#tangkiengsirisin-2025)
+`q1 i?` Participants' lowest ratings fell in interest/enjoyment and perceived choice, and the authors interpret this as the RPG design not yet fully meeting the autonomy need of self-determination theory. [→ Tangkiengsirisin 2026](#tangkiengsirisin-2026)
 
 ## Evidence
 
-### Tangkiengsirisin 2025
+### Tangkiengsirisin 2026
 
-Tangkiengsirisin, S., Taylor, P., & Thansirichaisree, P. (2025). The effects of role-playing gamification on business vocabulary learning and motivation: A study of language learning mobile application for Thai undergraduate students. LEARN Journal: Language Education and Acquisition Research Network, 19(1), 464-486. https://doi.org/10.70730/UFRC4620
+Tangkiengsirisin, S., Taylor, P., & Thansirichaisree, P. (2026). The effects of role-playing gamification on business vocabulary learning and motivation: A study of CEFR-based language learning mobile application for Thai undergraduate students. LEARN Journal: Language Education and Acquisition Research Network, 19(1), 464-486. https://doi.org/10.70730/UFRC4620
 
 `q1 · i?` · `causal · r1`
 
@@ -45,7 +45,7 @@ Authors' interpretation of the questionnaire data: the lowest-ranked items were 
 ## Related Claims
 - [Vocabulary performance shifted from B1–B2 CEFR levels at pre-test to B2–C1 at post-test after four weeks of Mangomon play](cefr-band-shift-business-vocabulary-mangomon.md) — related
 - [In one mixed-methods study of university students, reported in a review, gamified vocabulary learning gave better test results, motivation and satisfaction than traditional instruction](gamification-raises-motivation-satisfaction.md) — related
-- [Thai business undergraduates' vocabulary test scores rose from pre-test to post-test after four weeks of out-of-class role-playing gamification with Mangomon, in a single-group study with no control group](mangomon-rpg-gamification-improves-business-vocabulary.md) — related
+- [Thai undergraduates' business vocabulary test scores rose from pre-test to post-test after four weeks of out-of-class role-playing gamification with Mangomon, in a single-group study with no control group](mangomon-rpg-gamification-improves-business-vocabulary.md) — related
 - [IMI motivation ratings after four weeks of Mangomon play were moderate (all sub-scale means below 4.00), highest for effort/importance and lowest for perceived choice](moderate-motivation-imi-mangomon.md) — related
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — a broader claim this one bears on
 - The article argues learning is a natural, enjoyable human process rather than one driven by pressure and anxiety — a broader claim this one bears on

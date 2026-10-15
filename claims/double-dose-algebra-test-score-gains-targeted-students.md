@@ -35,7 +35,7 @@ Takako Nomi and Elaine M. Allensworth. (2008). “Double-dose” Algebra as an A
 
 `q3 · i1` · `causal · r2`
 
-Regression discontinuity combined with interrupted time series on CPS cohorts; the discontinuity estimate for 10th-grade PLAN algebra test scores shows the below-cutoff gain exceeded the above-cutoff gain, with printed effect sizes of .26 versus .15 — "effect size=.26".
+Regression discontinuity combined with interrupted time series on CPS cohorts. For algebra test scores, the article reports separate post-policy (2003) versus 2002 gains for each side of the cutoff: .69 points for students just below it (effect size=.26) and .47 points for students just above it (effect size=.15); "the post-policy improvements were greater among students just below the cutoff, suggesting a double-dose benefit for those targeted by the policy". These are pre-post differences within each group, not the below-versus-above discontinuity estimate itself.
 
 > "Students just below the cutoff scored .69 points higher in 2003 than their counterparts in 2002 (effect size=.26) while the pre- and post-policy difference among students just above the cutoff was .47 (effect size =.15)."
 

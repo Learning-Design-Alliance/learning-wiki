@@ -118,7 +118,7 @@ sources:
 # MAP Growth
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 78 claims (75 for, 3 mixed) · 33 studies (24 associational, 4 theoretical, 3 design, 2 causal), `q1`–`q3` · 2 of 33 report an effect size · 74 claims rest on one study
+> **Evidence** · 78 claims (75 for, 3 mixed) · 34 studies (25 associational, 4 theoretical, 3 design, 2 causal), `q1`–`q3` · 2 of 34 report an effect size · 74 claims rest on one study
 
 ## Description
 MAP Growth is NWEA's computer-adaptive assessment system, with national achievement and growth norms and reporting tools such as the MAP Growth National Dashboard.
@@ -176,10 +176,10 @@ MAP Growth is NWEA's computer-adaptive assessment system, with national achievem
 - [Growth-norms predictions showed larger RMSDs for pilot math scores but similar predictions for reading](../claims/norms-prediction-rmsd-math-reading.md) [~W]
 - [The adaptive algorithm's item selection produces a significantly lower SEM than fixed-form tests](../claims/spanish-map-reading-adaptive-lower-sem.md) [+W]
 - [Pilot test events largely fulfilled updated blueprint requirements, including increased reading passages per test event](../claims/pilot-blueprint-fulfillment.md) [+M]
-- [A one-factor unidimensional model fits MAP computerized adaptive Reading and Mathematics tests across grades, terms, and ten states](../claims/map-cat-unidimensional-factor-structure.md) [+W]
+- [A one-factor unidimensional model is the most reasonable fit for MAP computerized adaptive Reading and Mathematics tests across grades, terms, and ten states, though Michigan Mathematics misses the RMSEA criterion](../claims/map-cat-unidimensional-factor-structure.md) [+W]
 - [MAP tests show metric invariance across grades for all studied tests except Michigan Mathematics tests](../claims/map-cat-metric-invariance-across-grades.md) [+W]
 - [Chi-square difference tests show significant loading invariance constraints for Kansas Reading but all constraints significant for Michigan Mathematics](../claims/mgcfa-chi-square-difference-patterns-kansas-michigan.md) [+W]
-- [The longitudinal achievement constructs of MAP reading and mathematics CATs remain invariant across five time points in ten states (except Indiana mathematics)](../claims/map-cat-longitudinal-construct-invariance-ten-states.md) [+M]
+- [The authors conclude that MAP reading and mathematics CAT constructs are invariant across five time points in ten states (except Indiana mathematics), though their mathematics tables show strong-invariance CFI drops above 0.01 in most states](../claims/map-cat-longitudinal-construct-invariance-ten-states.md) [+M]
 - [On average, students across most grades made reading and math gains during the 2020-21 pandemic-affected school year](../claims/covid-2020-21-average-gains-most-grades.md) [+W]
 - [Reading and math gains during 2020-21 were diminished compared to pre-pandemic trends, especially in the latter half of the school year](../claims/covid-2020-21-diminished-gains-latter-half-year.md) [+W]
 - [American Indian and Alaska Native, Black, and Latinx students and students in high-poverty schools were disproportionately impacted by pandemic-era achievement declines, particularly in elementary grades](../claims/covid-2020-21-disproportionate-impacts-racialized-high-poverty.md) [+W]

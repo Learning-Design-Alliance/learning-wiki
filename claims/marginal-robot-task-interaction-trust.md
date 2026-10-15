@@ -44,7 +44,7 @@ Repeated-measures ANOVA interaction term in the N = 81 video-based experiment; s
 
 ## Related Claims
 - [Robot appearance showed no meaningful effect on trust: pairwise robot differences did not reach significance after Bonferroni adjustment](robot-appearance-no-meaningful-trust-effect.md) — related
-- [Meta-analytic evidence indicates anthropomorphism benefits human-robot interaction with effects varying across task contexts and design implementations](anthropomorphism-benefits-vary-by-context.md) — a broader claim this one bears on
+- [A conceptual framework paper reports, citing a meta-analysis (Roesler et al., 2021), that anthropomorphism benefits human-robot interaction with effects varying across task contexts and design implementations](anthropomorphism-benefits-vary-by-context.md) — a broader claim this one bears on
 - [Hypotheses that specific robot appearances would be trusted more in matching tasks (humanoids for teaching, task-oriented robots for instructions, soft robots for personal disclosure) were not confirmed](appearance-task-matching-hypotheses-not-confirmed.md) — related
 - [Task type strongly determines trust in educational robots, with highest trust for procedural instruction, moderate trust for teaching, and lowest trust when robots request personal information](task-type-strong-determinant-robot-trust.md) — related
 - [Trust evaluations were strongly and positively correlated across all robot–task combinations, suggesting trust in social robots may be a stable, generalized attitude](trust-stable-generalized-attitude-robots.md) — related

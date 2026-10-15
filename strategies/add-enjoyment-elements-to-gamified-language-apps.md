@@ -10,7 +10,7 @@ generated:
 sources:
   - id: tangkiengsirisin-2025
     resource: "https://doi.org/10.70730/UFRC4620"
-    title: "Tangkiengsirisin, S., Taylor, P., & Thansirichaisree, P. (2025). The effects of role-playing gamification on business vocabulary learning and motivation: A study of language learning mobile application for Thai undergraduate students. LEARN Journal: Language Education and Acquisition Research Network, 19(1), 464-486. https://doi.org/10.70730/UFRC4620"
+    title: "Tangkiengsirisin, S., Taylor, P., & Thansirichaisree, P. (2026). The effects of role-playing gamification on business vocabulary learning and motivation: A study of CEFR-based language learning mobile application for Thai undergraduate students. LEARN Journal: Language Education and Acquisition Research Network, 19(1), 464-486. https://doi.org/10.70730/UFRC4620"
     author: "Tangkiengsirisin, S., Taylor, P., & Thansirichaisree, P"
 ---
 
@@ -46,4 +46,4 @@ Based on their findings, the authors recommend that future language learning app
 -
 
 ## Key Sources
-- Tangkiengsirisin, S., Taylor, P., & Thansirichaisree, P. (2025). The effects of role-playing gamification on business vocabulary learning and motivation: A study of language learning mobile application for Thai undergraduate students. LEARN Journal: Language Education and Acquisition Research Network, 19(1), 464-486. https://doi.org/10.70730/UFRC4620
+- Tangkiengsirisin, S., Taylor, P., & Thansirichaisree, P. (2026). The effects of role-playing gamification on business vocabulary learning and motivation: A study of CEFR-based language learning mobile application for Thai undergraduate students. LEARN Journal: Language Education and Acquisition Research Network, 19(1), 464-486. https://doi.org/10.70730/UFRC4620

@@ -111,7 +111,7 @@ Easier study, immediate performance on a unit, recombined whole-task performance
 ## Claims
 
 - [The highest decomposition level (five segments) performed slightly worse than the three-segment approach, suggesting non-monotonic benefits of decomposition](../claims/five-segment-decomposition-slightly-worse-than-three.md) [~W]
-- [Students reported that long recorded lectures impeded focus, while instructors who broke lectures into shorter segments were appreciated](../claims/long-recorded-lectures-impeded-focus.md) [+W]
+- [Students reported that long recorded lectures impeded focus, and one student appreciated an instructor's choice to break lectures into shorter videos](../claims/long-recorded-lectures-impeded-focus.md) [+W]
 - [High CPC students outperform low CPC students only on the delayed posttest under the chunking method](../claims/cpc-difference-delayed-posttest-only.md) [~W]
 
 ## Related Principles

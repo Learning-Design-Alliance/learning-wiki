@@ -38,7 +38,7 @@ The article frames privacy as a concept lacking universal definition, quoting So
 ### Claims
 
 - [Conceptual unclarity in LA: privacy is used interchangeably or in overlapping ways with ethics, security, and anonymity](../claims/la-privacy-conceptual-unclarity-ethics-conflation.md) [+W]
-- [Most LA research articles (74%) address privacy without defining or conceptualizing it](../claims/74-percent-la-articles-no-privacy-definition.md) [+W]
+- [In a scoping review of 59 privacy-focused LA articles, 74% addressed privacy without defining or conceptualizing it](../claims/74-percent-la-articles-no-privacy-definition.md) [+W]
 
 ## Related Theories
 

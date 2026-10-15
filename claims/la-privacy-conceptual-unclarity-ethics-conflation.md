@@ -43,5 +43,5 @@ A qualitative synthesis finding of the 59-article scoping review: "a conceptual 
 
 
 ## Related Claims
-- [Most LA research articles (74%) address privacy without defining or conceptualizing it](74-percent-la-articles-no-privacy-definition.md) — related
+- [In a scoping review of 59 privacy-focused LA articles, 74% addressed privacy without defining or conceptualizing it](74-percent-la-articles-no-privacy-definition.md) — related
 - [Among LA articles that define privacy, control (15%) is the most common established definition; none define privacy as a commodity](la-privacy-definitions-distribution-control-most-common.md) — a narrower finding that bears on this claim

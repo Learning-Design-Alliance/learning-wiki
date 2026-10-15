@@ -32,7 +32,7 @@ Rubrics are the element in which criteria and performance levels are made explic
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Self-assessing against a rubric improved the quality of student work in two non-randomised studies, one of which also found more stress and performance-avoidance](../claims/rubrics-improve-student-work.md) [+M]
-- [Rubrics changed what online peer reviewers commented on and improved their rating of complex criteria in two quasi-experiments, though one found less reflective feedback](../claims/rubrics-improve-peer-feedback-quality.md) [+M]
+- [In two online comparisons, a rubric changed what peer reviewers commented on (one study) and helped peer raters place writing in quality tiers, most for complex criteria (the other); the first study says the rubric restrained reflective thinking](../claims/rubrics-improve-peer-feedback-quality.md) [+M]
 - Rubrics used only post-hoc for grading have little instructional effect; the benefit comes from use during production [Rubrics support learning when used for self-assessment and feedback, not just grading.](../claims/assessment-for-learning-improves-achievement.md) [~M]
 - Simple checklists of surface criteria can substitute for genuine quality judgment; learners optimize for the checklist rather than the underlying quality [Checklist-style evaluation tools show weak effects in online contexts.](../claims/checklist-evaluation-ineffective-online.md) [-W]
 - [Students are typically passive users of assessment rubrics in authentic assessment designs](../claims/aa-students-passive-users-of-rubrics.md) [-W]

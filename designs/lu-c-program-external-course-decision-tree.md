@@ -38,7 +38,7 @@ Based on correspondence with the former program director, the authors constructe
 
 ### Claims
 
-- [CourseGraph's nearest-neighbor course mappings largely align with a program director's judgments on real Erasmus+ decisions, with errors traced to ignored pedagogical differences](../claims/coursegraph-mappings-align-with-program-director.md) [+W]
+- [In a worked example from real Erasmus+ decisions, some of CourseGraph's nearest-neighbor course mappings matched the program director's and others did not, one plausibly because it ignores differences in learning methods](../claims/coursegraph-mappings-align-with-program-director.md) [+W]
 
 ## Related Designs
 - 

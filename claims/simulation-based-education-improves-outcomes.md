@@ -28,7 +28,7 @@ Simulation-based education — structured practice in interactive representation
 
 ## Subclaims
 
-`q4 i3` Technology-enhanced simulation training for health professions learners produces large pooled effects on knowledge, skill and behavior outcomes, and a moderate effect on direct patient outcomes, relative to no intervention. [→ Cook et al. 2011](#cook-et-al-2011)
+`q4 i3` Compared with no intervention, technology-enhanced simulation training for health professions learners is "consistently associated with large effects" on knowledge and skill outcomes (pooled 1.09–1.20), with pooled effects of 0.79–0.81 on behaviors and a moderate effect (0.50) on direct patient outcomes; 405 of the 609 studies were single-group pretest-posttest designs, so the pooled estimates are associations rather than a demonstration that simulation itself caused the gains. [→ Cook et al. 2011](#cook-et-al-2011)
 
 ## Evidence
 
@@ -36,7 +36,7 @@ Simulation-based education — structured practice in interactive representation
 
 Cook, D. A., Hatala, R., Brydges, R., Zendejas, B., Szostek, J. H., Wang, A. T., Erwin, P. J., & Hamstra, S. J. (2011). Technology-Enhanced Simulation for Health Professions Education: A Systematic Review and Meta-analysis. *JAMA, 306*(9), 978–988. [doi:10.1001/jama.2011.1234](https://doi.org/10.1001/jama.2011.1234)
 
-`q4 · systematic review and meta-analysis` · `i3 · large effect, pooled effect sizes ~1.09–1.20 for knowledge/skills/behaviors` · `n=609 studies (35,226 trainees)` · `quant-synthesis · r3`
+`q4 · systematic review and meta-analysis` · `i3 · large effect, pooled effect sizes 1.09–1.20 for knowledge and skills; 0.79–0.81 for behaviors` · `n=609 studies (35,226 trainees)` · `quant-synthesis · r3`
 
 A systematic review and meta-analysis (search through May 2011 across MEDLINE, EMBASE, CINAHL, ERIC, PsycINFO, Scopus and other sources) identified 609 eligible studies of technology-enhanced simulation training (mannequins, virtual reality, part-task trainers, etc.) for physicians, nurses, dentists and other health professionals, compared against no intervention. Study designs included 137 randomized trials, 67 nonrandomized multi-group studies, and 405 single-group pretest-posttest studies. Pooled random-effects sizes versus no intervention were large for knowledge (g=1.20, 95% CI 1.04–1.35, k=118), time skills (g=1.14, k=210), process skills (g=1.09, k=426) and product skills (g=1.18, k=54), and moderate-to-large for behaviors (g≈0.79–0.81) and for direct effects on patients (g=0.50, 95% CI 0.34–0.66, k=32). Subgroup analyses found no consistent statistically significant interactions between simulation training and instructional-design features (curricular integration, distributed practice, feedback, mastery learning, repetitive practice) or study quality — heterogeneity was large (I²>50%) throughout, so this is a comparison against no intervention rather than against an equally-dosed non-simulation alternative, and it does not by itself establish which design features drive the effect.
 
@@ -47,7 +47,7 @@ A systematic review and meta-analysis (search through May 2011 across MEDLINE, E
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| [Cook et al. 2011](https://doi.org/10.1001/jama.2011.1234) | q4 · quant-synthesis · r3 | i3 · large effect, pooled effect sizes ~1.09–1.20 for knowledge/skills/behaviors | this claim |
+| [Cook et al. 2011](https://doi.org/10.1001/jama.2011.1234) | q4 · quant-synthesis · r3 | i3 · large effect, pooled effect sizes 1.09–1.20 for knowledge and skills; 0.79–0.81 for behaviors | this claim |
 | [McGaghie et al. 2011](https://doi.org/10.1097/acm.0b013e318217e119) | q3 · quant-synthesis · r? | i2 · medium effect, d=0.71 | [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) (supports) |
 | [Kelly McNeil 2026](https://doi.org/10.51388/20.500.12265/284) | q2 · review · r2 | i? | [The review reports that participants in simulation-game conditions had significantly highe](simulation-games-higher-skill-based-knowledge.md) (supports); [The review reports that simulation games support near transfer of knowledge but evidence f](simulation-near-transfer-robust-far-transfer-weak.md) (qualifies) |
 | [Deutscher 2026](https://doi.org/10.1016/j.caeai.2026.100628) | q2 · review · r2 | i? | [Intelligent Extended Reality interventions in VET show consistent positive effects on proc](ixr-vet-positive-effects-procedural-motivation.md) (supports) |

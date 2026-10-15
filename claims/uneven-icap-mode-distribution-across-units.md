@@ -11,8 +11,8 @@ evidence_strength: moderate
 sources:
   - id: pollard-2025
     resource: "https://doi.org/10.24059/olj.v29i3.4555"
-    title: "Pollard, V. & Armatas, C. (2025). Feedback is integral: Using a revised ICAP Framework to achieve active learning in an asynchronous online course. Online Learning, 29(3), 236-254. https://doi.org/10.24059/olj.v29i3.4555"
-    author: "Pollard, V. & Armatas, C."
+    title: "Pollard, V., Armatas, C., & Pepe, A. (2025). Feedback is integral: Using a revised ICAP Framework to achieve active learning in an asynchronous online course. Online Learning, 29(3), 236-253. https://doi.org/10.24059/olj.v29i3.4555"
+    author: "Pollard, V., Armatas, C., & Pepe, A."
     q: 2
     i: "?"
     kind: design
@@ -31,7 +31,7 @@ sources:
 
 ### Pollard 2025
 
-Pollard, V. & Armatas, C. (2025). Feedback is integral: Using a revised ICAP Framework to achieve active learning in an asynchronous online course. Online Learning, 29(3), 236-254. https://doi.org/10.24059/olj.v29i3.4555
+Pollard, V., Armatas, C., & Pepe, A. (2025). Feedback is integral: Using a revised ICAP Framework to achieve active learning in an asynchronous online course. Online Learning, 29(3), 236-253. https://doi.org/10.24059/olj.v29i3.4555
 
 `q2 · i?` · `design · r2`
 

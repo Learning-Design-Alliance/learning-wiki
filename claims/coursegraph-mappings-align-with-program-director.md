@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "CourseGraph's nearest-neighbor course mappings largely align with a program director's judgments on real Erasmus+ decisions, with errors traced to ignored pedagogical differences"
-description: "CourseGraph's nearest-neighbor course mappings largely align with a program director's judgments on real Erasmus+ decisions, with errors traced to ignored pedagogical differences"
+title: "In a worked example from real Erasmus+ decisions, some of CourseGraph's nearest-neighbor course mappings matched the program director's and others did not, one plausibly because it ignores differences in learning methods"
+description: "In a worked example from real Erasmus+ decisions, some of CourseGraph's nearest-neighbor course mappings matched the program director's and others did not, one plausibly because it ignores differences in learning methods"
 id: coursegraph-mappings-align-with-program-director
 status: draft
 generated:
@@ -27,13 +27,15 @@ sources:
     rigour: 2
 ---
 
-# CourseGraph's nearest-neighbor course mappings largely align with a program director's judgments on real Erasmus+ decisions, with errors traced to ignored pedagogical differences
+# In a worked example from real Erasmus+ decisions, some of CourseGraph's nearest-neighbor course mappings matched the program director's and others did not, one plausibly because it ignores differences in learning methods
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 design `r2` · `q2`
 
+<!-- title before 2026-10-15: CourseGraph's nearest-neighbor course mappings largely align with a program director's judgments on real Erasmus+ decisions, with errors traced to ignored pedagogical differences -->
+
 ## Subclaims
-`q2 i?` For validated exchange courses, CourseGraph's closest-match LU courses corresponded with the program director's annotations, e.g. Distributed Data Systems was assigned to Distributed Systems (EDAP25). [→ Arthur Nijdam 2026](#arthur-nijdam-2026)
+`q2 i?` In the worked example for one validation student, CourseGraph's closest-match LU course corresponded with the program director's annotation for Distributed Data Systems, assigned to Distributed Systems (EDAP25). [→ Arthur Nijdam 2026](#arthur-nijdam-2026)
 `q2 i?` CourseGraph is not fully correct: Error Correcting Codes was mapped to a basic first-year course instead of the advanced course the program director chose. [→ Arthur Nijdam 2026 (2)](#arthur-nijdam-2026-2)
 
 ## Evidence
@@ -54,7 +56,7 @@ Arthur Nijdam, Paul Stankovski Wagner, Sara Ramezanian. (2026). CourseGraph: Fin
 
 `q2 · i?` · `design · r2`
 
-In the same hold-out analysis, one mismatch occurred: the director mapped Error Correcting Codes to the advanced EITN70, while CourseGraph chose the basic first-year EITA55. The authors attribute errors partly to not factoring in learning-method differences.
+In the same worked example (test student 1, TU Delft), the authors give one instance of an incorrect matching: the director mapped Error Correcting Codes to the advanced EITN70, while CourseGraph chose the basic first-year EITA55. They also note that Research in Cyber Security - Hacking Lab and Systems Security were both assigned to Secure Systems Engineering (EITP20), "probably because for now, CourseGraph does not factor in differences in learning methods yet"; the Hacking Lab course is much more applied.
 
 > "Error Correcting Codes, mapped to Channel Coding for Reliable Communication (EITN70) by the program director, was mapped to Communication Systems (EITA55) by CourseGraph."
 

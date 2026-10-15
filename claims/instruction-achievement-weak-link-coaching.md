@@ -11,7 +11,7 @@ evidence_strength: weak
 sources:
   - id: kraft-2018
     resource: "https://doi.org/10.3102/0034654318759268"
-    title: "Kraft, M.A., Blazar, D., Hogan, D. (2018). The effect of teaching coaching on instruction and achievement: A meta-analysis of the causal evidence. Review of Educational Research, 88(4), 547-588. https://doi.org/10.3102/0034654318759268"
+    title: "Kraft, M.A., Blazar, D., Hogan, D. (2018). The effect of teacher coaching on instruction and achievement: A meta-analysis of the causal evidence. Review of Educational Research, 88(4), 547-588. https://doi.org/10.3102/0034654318759268"
     author: Kraft, M.A., Blazar, D., Hogan, D.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Kraft 2018
 
-Kraft, M.A., Blazar, D., Hogan, D. (2018). The effect of teaching coaching on instruction and achievement: A meta-analysis of the causal evidence. Review of Educational Research, 88(4), 547-588. https://doi.org/10.3102/0034654318759268
+Kraft, M.A., Blazar, D., Hogan, D. (2018). The effect of teacher coaching on instruction and achievement: A meta-analysis of the causal evidence. Review of Educational Research, 88(4), 547-588. https://doi.org/10.3102/0034654318759268
 
 `q2 · i? · the printed figure is a between-study correlation of effect sizes (r = 0.37, p = .16), not an effect size for a finding` · `quant-synthesis · r3`
 

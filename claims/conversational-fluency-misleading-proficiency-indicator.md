@@ -68,7 +68,7 @@ The author argues that ignoring acquisition-rate differences caused premature ex
 - [The BICS-before-CALP sequence is typical for immigrant children but not universal: high L2 CALP can precede fluent L2 BICS in certain situations](calp-can-precede-bics-in-certain-situations.md) — related
 - [Preserving a bilingual student's heritage language supports rather than hinders English acquisition](heritage-language-preservation-supports-english-acquisition.md) — related
 - [Early-exit transitional bilingual programs that provide minimal early-grade English literacy and then transition students to all-English classrooms with no support are inappropriate](early-exit-transitional-transition-unsupported-inappropriate.md) — related
-- [Fluent bilingualism enhances metalinguistic awareness](bilingual-fluency-enhances-metalinguistic-awareness.md) — related
+- [Fluent bilingualism is linked to metalinguistic awareness of how the two languages relate](bilingual-fluency-enhances-metalinguistic-awareness.md) — related
 - [Situated perspective explains Latino students' mathematical meaning-making in bilingual classrooms better than a discontinuity model (review reports Moschkovich, 1996)](situated-perspective-bilingual-math-meaning.md) — related
 - Surface conversational fluency develops within about two years, but academic proficiency in English takes 5-7 years for immigrant students — related
 - Critics argue Cummins' framework neglects the sociocultural context and CALP may index acculturation rather than cognitive ability — related

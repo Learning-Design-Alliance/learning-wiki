@@ -50,7 +50,7 @@ Teaching science through guided inquiry — where students investigate questions
 
 `q3 i?` A research synthesis of 138 studies (1984–2002) finds a consistent positive trend favoring inquiry-based science instruction over more passive/transmission instruction for K–12 conceptual understanding, though it reports no single pooled standardized effect size. [→ Minner et al. 2010](#minner-et-al-2010)
 
-`q3 i?` A meta-analysis identified 37 studies of inquiry-based instruction and found an overall positive effect, with effect size moderated by variables such as degree of focus on epistemic activities and whether instruction was teacher-led. [→ Roschelle 2021](#roschelle-2021)
+`q3 i?` A meta-analysis (Furtak et al., 2012, as the chapter reports it) identified 37 studies of inquiry-based instruction and found an overall positive effect; the chapter says variables such as the degree of focus on epistemic activities and whether instruction was led by a teacher "mediate the size of the effect". [→ Roschelle 2021](#roschelle-2021)
 
 ## Evidence
 
@@ -76,7 +76,7 @@ Roschelle, J., Mazziotti, C. & Means, B. (2021). Scaling Up Design of Inquiry En
 
 `q3 · i?` · `review · r2`
 
-The chapter reports, citing Furtak et al. (2012), a meta-analysis of 37 studies with an overall positive effect; the chapter adds that moderators included "the degree of focus on epistemic activities and whether instruction was led by a teacher." No effect size value is printed in the chapter.
+The chapter reports, citing Furtak et al. (2012), a meta-analysis of 37 studies with an overall positive effect; the chapter adds that the meta-analysis identified "some key variables that mediate the size of the effect, such as the degree of focus on epistemic activities and whether instruction was led by a teacher." The chapter does not say how those variables were tested. No effect size value is printed in the chapter.
 
 > "Furtak et al. (2012) identified 37 studies of inquiry-based instruction and found an overall positive effect."
 

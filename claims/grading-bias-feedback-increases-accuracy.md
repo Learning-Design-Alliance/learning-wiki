@@ -43,6 +43,6 @@ One of three experiments run in the online class to improve grading accuracy. Th
 
 
 ## Related Claims
-- [Rubrics changed what online peer reviewers commented on and improved their rating of complex criteria in two quasi-experiments, though one found less reflective feedback](rubrics-improve-peer-feedback-quality.md) — related
+- [In two online comparisons, a rubric changed what peer reviewers commented on (one study) and helped peer raters place writing in quality tiers, most for complex criteria (the other); the first study says the rubric restrained reflective thinking](rubrics-improve-peer-feedback-quality.md) — related
 - [The quality of feedback students give peers predicts gains in their own work, but no recorded study isolates a causal benefit of the assessor role](peer-assessment-benefits-assessor.md) — related
 - [In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems](peer-feedback-accuracy-depends-on-expertise.md) — related

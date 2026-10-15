@@ -58,8 +58,8 @@ This meta-analysis synthesized 24 quantitative studies of higher-education stude
 | [Yarrow and Topping 2001](https://doi.org/10.1348/000709901158514) | q3 · causal · r2 | i? | [Collaborative Writing Improves Text Quality](collaborative-writing-improves-text-quality.md) (supports) |
 | [Wu & Schunn 2023](https://doi.org/10.1037/edu0000768) | q2 · associational · r? | i? | [In two secondary-school writing studies, peer reviewers' own performance predicted how hel](peer-feedback-accuracy-depends-on-expertise.md) (qualifies) |
 | [Schunn et al. 2016](https://doi.org/10.1002/jaal.525) | q2 · associational · r2 | i? | [In two secondary-school writing studies, peer reviewers' own performance predicted how hel](peer-feedback-accuracy-depends-on-expertise.md) (qualifies) |
-| [Li et al. 2022](https://doi.org/10.1145/3543321.3543344) | q2 · causal · r1 | i? | [Rubrics changed what online peer reviewers commented on and improved their rating of compl](rubrics-improve-peer-feedback-quality.md) (qualifies) |
-| [Ashton And Davies 2015](https://doi.org/10.1080/01587919.2015.1081733) | q2 · causal · r? | i? | [Rubrics changed what online peer reviewers commented on and improved their rating of compl](rubrics-improve-peer-feedback-quality.md) (qualifies) |
+| [Li et al. 2022](https://doi.org/10.1145/3543321.3543344) | q2 · causal · r1 | i? | [In two online comparisons, a rubric changed what peer reviewers commented on (one study) a](rubrics-improve-peer-feedback-quality.md) (qualifies) |
+| [Ashton And Davies 2015](https://doi.org/10.1080/01587919.2015.1081733) | q2 · causal · r? | i? | [In two online comparisons, a rubric changed what peer reviewers commented on (one study) a](rubrics-improve-peer-feedback-quality.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

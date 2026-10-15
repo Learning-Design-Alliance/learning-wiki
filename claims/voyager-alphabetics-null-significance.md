@@ -14,7 +14,7 @@ sources:
     title: "Voyager Universal Literacy System® — WWC Intervention Report. (2007). What Works Clearinghouse, U.S. Department of Education. https://ies.ed.gov/ncee/wwc/InterventionReport/538"
     author: Voyager Universal Literacy System® — WWC Intervention Report
     q: 2
-    i: "?"
+    i: 1
     kind: quant-synthesis
     rigour: 1
 ---
@@ -22,10 +22,10 @@ sources:
 # No individual alphabetics outcome reached statistical significance in the WWC analysis
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · quant-synthesis `r1` · `q2`
+> **Evidence** · 1 study · quant-synthesis `r1` · `q2` · `i1` small
 
 ## Subclaims
-`q2 i?` Individual phonological awareness, letter knowledge, print awareness and phonics findings were not statistically significant after WWC corrections for clustering and multiple comparisons. [→ Voyager Universal Literacy System® — WWC Intervention Report 2007](#voyager-universal-literacy-system-wwc-intervention-report-2007)
+`q2 i1` Individual phonological awareness, letter knowledge, print awareness and phonics findings were not statistically significant after WWC corrections for clustering and multiple comparisons. [→ Voyager Universal Literacy System® — WWC Intervention Report 2007](#voyager-universal-literacy-system-wwc-intervention-report-2007)
 
 ## Evidence
 
@@ -33,9 +33,9 @@ sources:
 
 Voyager Universal Literacy System® — WWC Intervention Report. (2007). What Works Clearinghouse, U.S. Department of Education. https://ies.ed.gov/ncee/wwc/InterventionReport/538
 
-`q2 · i?` · `quant-synthesis · r1`
+`q2 · i1 · WWC domain average effect size 0.28, not statistically significant` · `quant-synthesis · r1`
 
-WWC re-analysis of findings from both studies; corrections for clustering and multiple comparisons were needed, "so the significance levels differ from those reported in the original studies." No effect size printed for this null finding.
+WWC re-analysis of findings from both studies; corrections for clustering and multiple comparisons were needed, "so the significance levels differ from those reported in the original studies." The WWC prints an effect size for each finding: across the two studies the individual alphabetics effect sizes range from −0.20 to 0.74 (for example 0.57 on CTOPP Segmenting Words in Hecht, 2003), none statistically significant; the study averages are 0.45 (Frechtling, Zhang, & Silverstein, 2006) and 0.10 (Hecht, 2003), and the domain average is 0.28 (+11 percentile points).
 
 > "Hecht (2003) examined effects for three phonological awareness measures (Blending, CTOPP Elision, and CTOPP Segmentation) and found a positive and statistically significant effect on the CTOPP Segmentation subtest. None of these effects were statistically significant according to the WWC analysis."
 

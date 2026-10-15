@@ -27,7 +27,7 @@ Because CAT administrations give different students different items, item-level 
 - **Testlet-level CFA as a method for assessing dimensionality of CAT data despite sparse item-level data**: Because CAT administrations give different students different items, item-level factor analysis is impractical: for MAP, "typical missing rates are around 98%". The study's method treats goal scores (item clusters/testlets) as observable variables in CFA and MGCFA, since "items in each CAT test event are balanced among goal areas based on content specifications". At the testlet level the local independence assumption still holds, though it might or might not hold at the item level. (Shudong Wang et al. (2013))
 
 ### Claims
-- [A one-factor unidimensional model fits MAP computerized adaptive Reading and Mathematics tests across grades, terms, and ten states](../claims/map-cat-unidimensional-factor-structure.md) [+M]
+- [A one-factor unidimensional model is the most reasonable fit for MAP computerized adaptive Reading and Mathematics tests across grades, terms, and ten states, though Michigan Mathematics misses the RMSEA criterion](../claims/map-cat-unidimensional-factor-structure.md) [+M]
 - [MAP tests show metric invariance across grades for all studied tests except Michigan Mathematics tests](../claims/map-cat-metric-invariance-across-grades.md) [+M]
 - [Item parceling at the testlet level substantially improves model fit, allowing partial (Rasch, 2PL) or full (bifactor) recovery of CAT constructs](../claims/parceling-testlet-level-recovers-cat-construct.md) [+W]
 - [CAT data cannot be fit into factor models at the item level, making item-level construct validity investigation meaningless for CAT](../claims/cat-item-level-construct-recovery-impossible.md) [+W]

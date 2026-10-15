@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Thai business undergraduates' vocabulary test scores rose from pre-test to post-test after four weeks of out-of-class role-playing gamification with Mangomon, in a single-group study with no control group"
-description: "Thai business undergraduates' vocabulary test scores rose from pre-test to post-test after four weeks of out-of-class role-playing gamification with Mangomon, in a single-group study with no control group"
+title: "Thai undergraduates' business vocabulary test scores rose from pre-test to post-test after four weeks of out-of-class role-playing gamification with Mangomon, in a single-group study with no control group"
+description: "Thai undergraduates' business vocabulary test scores rose from pre-test to post-test after four weeks of out-of-class role-playing gamification with Mangomon, in a single-group study with no control group"
 id: mangomon-rpg-gamification-improves-business-vocabulary
 status: draft
 generated:
@@ -11,7 +11,7 @@ evidence_strength: moderate
 sources:
   - id: tangkiengsirisin-2025
     resource: "https://doi.org/10.70730/UFRC4620"
-    title: "Tangkiengsirisin, S., Taylor, P., & Thansirichaisree, P. (2025). The effects of role-playing gamification on business vocabulary learning and motivation: A study of language learning mobile application for Thai undergraduate students. LEARN Journal: Language Education and Acquisition Research Network, 19(1), 464-486. https://doi.org/10.70730/UFRC4620"
+    title: "Tangkiengsirisin, S., Taylor, P., & Thansirichaisree, P. (2026). The effects of role-playing gamification on business vocabulary learning and motivation: A study of CEFR-based language learning mobile application for Thai undergraduate students. LEARN Journal: Language Education and Acquisition Research Network, 19(1), 464-486. https://doi.org/10.70730/UFRC4620"
     author: "Tangkiengsirisin, S., Taylor, P., & Thansirichaisree, P."
     q: 2
     i: 3
@@ -19,10 +19,11 @@ sources:
     rigour: 1
 ---
 
-# Thai business undergraduates' vocabulary test scores rose from pre-test to post-test after four weeks of out-of-class role-playing gamification with Mangomon, in a single-group study with no control group
+# Thai undergraduates' business vocabulary test scores rose from pre-test to post-test after four weeks of out-of-class role-playing gamification with Mangomon, in a single-group study with no control group
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
+<!-- title before 2026-10-15: Thai business undergraduates' vocabulary test scores rose from pre-test to post-test after four weeks of out-of-class role-playing gamification with Mangomon, in a single-group study with no control group -->
 <!-- deprecated title (2026-10-05, overstated its evidence): Four weeks of out-of-class role-playing gamification with Mangomon significantly improved Thai undergraduates' business vocabulary test scores -->
 
 ## Subclaims
@@ -32,11 +33,11 @@ sources:
 
 ### Tangkiengsirisin 2025
 
-Tangkiengsirisin, S., Taylor, P., & Thansirichaisree, P. (2025). The effects of role-playing gamification on business vocabulary learning and motivation: A study of language learning mobile application for Thai undergraduate students. LEARN Journal: Language Education and Acquisition Research Network, 19(1), 464-486. https://doi.org/10.70730/UFRC4620
+Tangkiengsirisin, S., Taylor, P., & Thansirichaisree, P. (2026). The effects of role-playing gamification on business vocabulary learning and motivation: A study of CEFR-based language learning mobile application for Thai undergraduate students. LEARN Journal: Language Education and Acquisition Research Network, 19(1), 464-486. https://doi.org/10.70730/UFRC4620
 
 `q2 · i3` · `causal · r1`
 
-Quasi-experimental pre-post study of 21 Thai business undergraduates who played Mangomon outside class for four weeks. Paired t-test on 30-item gap-filling vocabulary test showed the post-test mean exceeded the pre-test mean, "statistically significant, t(20) = 6.99, p < .0001"; the article reports Cohen's d = 1.80 as large.
+Quasi-experimental pre-post study of 21 Thai undergraduates practising business English who played Mangomon outside class for four weeks. Paired t-test on 30-item gap-filling vocabulary test showed the post-test mean exceeded the pre-test mean, "statistically significant, t(20) = 6.99, p < .0001"; the article reports Cohen's d = 1.80 as large.
 
 > "The pre -test mean score (M = 17.14, SD = 7.17) was lower than the post-test mean score (M = 26.18, SD = 2.50), and this difference was statistically significant, t(20) = 6.99, p < .0001"
 

@@ -44,7 +44,7 @@ The meta-analysis supports presenting textual information through an auditory mo
 
 ## Claims
 
-- [Presentation pacing moderates the modality effect: large under system-paced conditions and absent under self-paced conditions](../claims/modality-effect-moderated-by-pacing.md) [+M]
+- [Presentation pacing moderates the modality effect: large under system-paced conditions and not significant under self-paced conditions, where it may disappear or reverse](../claims/modality-effect-moderated-by-pacing.md) [+M]
 - [Graphics with spoken text outperform graphics with printed text for learning (overall modality effect, d = 0.72)](../claims/modality-effect-narration-over-text.md) [+M]
 - [Within-subjects designs also show a moderate-to-large modality effect (d = 0.73)](../claims/modality-effect-within-subjects-d073.md) [+M]
 - [Modality effect sizes differ across fields of study, with social science effects negative and science effects largest](../claims/modality-effect-field-of-study-moderator.md) [~M]

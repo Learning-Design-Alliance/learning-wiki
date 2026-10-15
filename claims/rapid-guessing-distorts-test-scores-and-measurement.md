@@ -18,6 +18,14 @@ sources:
     i: "?"
     kind: theoretical
     rigour: "?"
+  - id: wise-kuhfeld-2020
+    resource: "https://www.nwea.org/research/publication/a-cessation-of-measurement-identifying-test-taker-disengagement-using-response-time/"
+    title: "Steven Wise, Megan Kuhfeld. (2020). A cessation of measurement: Identifying test taker disengagement using response time. NWEA Research presentation, National Council on Measurement in Education 2020 virtual conference. https://www.nwea.org/research/publication/a-cessation-of-measurement-identifying-test-taker-disengagement-using-response-time/"
+    author: Steven Wise, Megan Kuhfeld
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: "?"
   - id: steven-wise-2017
     resource: "https://doi.org/10.1111/emip.12189"
     title: "Steven Wise. (2017). Rapid‐guessing behavior: Its identification, interpretation, and implications. Educational Measurement Issues and Practice 36 (4) 52-61. https://doi.org/10.1111/emip.12189"
@@ -31,7 +39,7 @@ sources:
 # Rapid-guessing behavior can distort test scores and adversely affect measurement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 theoretical `r?` · `q2`
+> **Evidence** · 3 studies · 2 theoretical `r?`, 1 associational `r?` · `q2`
 
 ## Subclaims
 
@@ -39,7 +47,7 @@ sources:
 
 `q2 i?` Because rapid guesses do not reflect what a test taker knows and can do, their inclusion tends to negatively distort scores and thereby diminish validity. [→ Steven Wise 2017](#steven-wise-2017)
 
-`q2 i?` If rapid guesses are included in scoring, they introduce systematic measurement errors that can seriously distort scores. [→ Steven Wise 2020](#steven-wise-2020)
+`q2 i?` If rapid guesses are included in scoring, they introduce systematic measurement errors that can seriously distort scores. [→ Wise & Kuhfeld 2020](#wise-kuhfeld-2020)
 
 ## Evidence
 
@@ -53,17 +61,16 @@ The brief states as background that "Rapid-guessing can distort test scores and 
 
 > "Rapid-guessing can distort test scores and adversely affect measurement. New research shows how disengaged responses can also distort content representation."
 
-<!-- merged 2026-10-13 from rapid-guesses-in-scoring-distort-scores: that page's entry for this study, which differed from the one above, kept verbatim.
-### Steven Wise 2020
+<!-- merged 2026-10-13 from rapid-guesses-in-scoring-distort-scores; restored as its own entry 2026-10-15, since it is a different work (Wise & Kuhfeld's NCME 2020 presentation), not another write-up of the brief above. -->
+### Wise & Kuhfeld 2020
 
 Steven Wise, Megan Kuhfeld. (2020). A cessation of measurement: Identifying test taker disengagement using response time. NWEA Research presentation, National Council on Measurement in Education 2020 virtual conference. https://www.nwea.org/research/publication/a-cessation-of-measurement-identifying-test-taker-disengagement-using-response-time/
 
 `q2 · i?` · `associational · r?`
 
-The presentation reports, based on its data analyses and previous research findings, that scoring rapid guesses produces "systematic measurement errors that can seriously distort scores".
+The presentation's description argues that rapid guesses reflect a construct-irrelevant response process and should be excluded from scoring, citing "both data analyses and previous research findings", and states that scoring rapid guesses produces "systematic measurement errors that can seriously distort scores". The description prints no statistics.
 
 > "Moreover, if rapid guesses are included in scoring, they introduce systematic measurement errors that can seriously distort scores."
--->
 
 ### Steven Wise 2017
 

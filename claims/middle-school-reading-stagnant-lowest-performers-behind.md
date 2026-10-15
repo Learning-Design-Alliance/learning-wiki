@@ -9,10 +9,10 @@ generated:
   at: 2026-10-08
 evidence_strength: weak
 sources:
-  - id: specialty-schools-national-dashboard-2025
-    resource: "https://www.nwea.org/research/publication/achievement-and-growth-tables-for-private-schools/"
-    title: "Specialty Schools National Dashboard. (2025). NWEA. https://www.nwea.org/research/publication/achievement-and-growth-tables-for-private-schools/"
-    author: Specialty Schools National Dashboard
+  - id: kuhfeld-et-al-2026
+    resource: "https://www.nwea.org/research/publication/struggling-adolescent-readers-left-behind-evidence-of-post-covid-19-declines-and-pathways-forward/"
+    title: "Kuhfeld, M., Duran, N., Lewis, K., Phillips, C., & Musacchia, S. (2026). Struggling adolescent readers left behind: Evidence of post-COVID-19 declines and pathways forward. NWEA research brief. https://www.nwea.org/research/publication/struggling-adolescent-readers-left-behind-evidence-of-post-covid-19-declines-and-pathways-forward/"
+    author: "Kuhfeld, M., Duran, N., Lewis, K., Phillips, C., & Musacchia, S."
     q: 2
     i: "?"
     kind: associational
@@ -25,18 +25,18 @@ sources:
 > **Evidence** · 1 study · associational `r?` · `q2`
 
 ## Subclaims
-`q2 i?` Reading achievement among grades 6-8 remained stagnant post-COVID while math and elementary reading showed progress. [→ Specialty Schools National Dashboard 2025](#specialty-schools-national-dashboard-2025)
-`q2 i?` The lowest-performing middle school readers fell even further behind. [→ Specialty Schools National Dashboard 2025](#specialty-schools-national-dashboard-2025)
+`q2 i?` Reading achievement among grades 6-8 remained stagnant post-COVID while math and elementary reading showed progress. [→ Kuhfeld et al. 2026](#kuhfeld-et-al-2026)
+`q2 i?` The lowest-performing middle school readers fell even further behind. [→ Kuhfeld et al. 2026](#kuhfeld-et-al-2026)
 
 ## Evidence
 
-### Specialty Schools National Dashboard 2025
+### Kuhfeld et al. 2026
 
-Specialty Schools National Dashboard. (2025). NWEA. https://www.nwea.org/research/publication/achievement-and-growth-tables-for-private-schools/
+Kuhfeld, M., Duran, N., Lewis, K., Phillips, C., & Musacchia, S. (2026). Struggling adolescent readers left behind: Evidence of post-COVID-19 declines and pathways forward. NWEA research brief. https://www.nwea.org/research/publication/struggling-adolescent-readers-left-behind-evidence-of-post-covid-19-declines-and-pathways-forward/
 
 `q2 · i?` · `associational · r?`
 
-Description of the NWEA research brief "Struggling adolescent readers left behind," which uses MAP Growth National Dashboard data on middle school reading recovery. The page reports stagnation in grades 6-8 reading and further decline for the lowest-performing students; no effect sizes are printed.
+The published description of this NWEA research brief (August 2026), which uses MAP Growth National Dashboard data on middle school reading recovery. The description reports stagnation in grades 6-8 reading and the lowest-performing students falling further behind; no effect sizes are printed. (This entry previously cited the Specialty Schools National Dashboard page, which only lists the brief as related research.)
 
 > "While students have shown encouraging progress in math and elementary reading since the pandemic, reading achievement among grades 6-8 remain stagnant, with the lowest-performing students falling even further behind."
 

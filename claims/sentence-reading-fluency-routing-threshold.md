@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Sentence Reading Fluency performance routes students between oral reading and foundational skills tracks
-description: Sentence Reading Fluency performance routes students between oral reading and foundational skills tracks
+title: In Spanish MAP Reading Fluency's Adaptive Oral Reading form, Sentence Reading Fluency performance routes students in grades K–3 between oral reading and foundational skills tracks
+description: In Spanish MAP Reading Fluency's Adaptive Oral Reading form, Sentence Reading Fluency performance routes students in grades K–3 between oral reading and foundational skills tracks
 id: sentence-reading-fluency-routing-threshold
 status: draft
 generated:
@@ -19,13 +19,14 @@ sources:
     rigour: 2
 ---
 
-# Sentence Reading Fluency performance routes students between oral reading and foundational skills tracks
+# In Spanish MAP Reading Fluency's Adaptive Oral Reading form, Sentence Reading Fluency performance routes students in grades K–3 between oral reading and foundational skills tracks
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+<!-- title before 2026-10-15: Sentence Reading Fluency performance routes students between oral reading and foundational skills tracks -->
 
 ## Subclaims
-`q2 i?` A threshold raw score of 11 or more and accuracy rate of 75% or more on Sentence Reading Fluency is required to route students to the Oral Reading track. [→ Spanish MAP Reading Fluency Technical Report 2026](#spanish-map-reading-fluency-technical-report-2026)
+`q2 i?` On the Adaptive Oral Reading form, students in grades K–3 must obtain a raw score of 11 or more and an accuracy rate of 75% or more on Sentence Reading Fluency to proceed to the Oral Reading track; students in grade 4 and above always route to Oral Reading Fluency. [→ Spanish MAP Reading Fluency Technical Report 2026](#spanish-map-reading-fluency-technical-report-2026)
 
 ## Evidence
 
@@ -35,7 +36,7 @@ Spanish MAP Reading Fluency Technical Report. (2026). NWEA. https://www.nwea.org
 
 `q2 · i?` · `design · r2`
 
-Design specification in the Test Forms section of the technical report describing the Adaptive Oral Reading form's routing logic. The threshold "helps ensure that students who route to Oral Reading will be able to read the passages presented well enough to provide valuable feedback/results."
+Design specification in the Test Forms section of the technical report describing the Adaptive Oral Reading form's routing logic, which applies to students in grades K–3: "students in grades 4+ will always route to Oral Reading Fluency." The threshold "helps ensure that students who route to Oral Reading will be able to read the passages presented well enough to provide valuable feedback/results."
 
 > "A threshold raw score (11 or more) and accuracy rate (75% or more) for Sentence Reading Fluency must be obtained to proceed to Oral Reading."
 

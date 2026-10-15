@@ -45,7 +45,7 @@ Theoretical expectation (Expectation 2) derived from cited L2 writing studies sh
 ## Related Claims
 - [Combined Trainer and Synthesizer use is expected to support speaking development and more equitable participation over time](combined-genai-expected-speaking-gains-equity.md) — related
 - [The Trainer is expected to develop feedback literacy capacities](trainer-expected-develop-feedback-literacy.md) — related
-- [Rubrics changed what online peer reviewers commented on and improved their rating of complex criteria in two quasi-experiments, though one found less reflective feedback](rubrics-improve-peer-feedback-quality.md) — related
+- [In two online comparisons, a rubric changed what peer reviewers commented on (one study) and helped peer raters place writing in quality tiers, most for complex criteria (the other); the first study says the rubric restrained reflective thinking](rubrics-improve-peer-feedback-quality.md) — related
 - [Exemplar-based calibration is expected to align student ratings with expert ratings at the criterion level](trainer-calibration-expected-align-rater-judgments.md) — related
 - [The Trainer is expected to improve attitudes toward peer feedback relative to rubric-only instruction](trainer-expected-improve-peer-feedback-attitudes.md) — related
 - [Structured criteria in peer assessment are not shown to improve its effect on academic performance over freeform review](peer-assessment-structured-criteria-improve-learning.md) — related

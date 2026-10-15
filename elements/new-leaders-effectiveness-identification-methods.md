@@ -38,7 +38,7 @@ A set of methods designed by Mathematica Policy Research under contract with New
 
 ## Claims
 
-- [A value-added-style method was used to identify effective schools for a consortium of 99 charter schools in 18 states and the District of Columbia in the project's first year.](../claims/charter-consortium-effective-school-identification-method.md) [+W]
+- [Mathematica designed a method to identify effective schools for a consortium of 99 charter schools in 18 states and the District of Columbia in the project's first year.](../claims/charter-consortium-effective-school-identification-method.md) [+W]
 
 ## Related Elements
 

@@ -140,7 +140,7 @@ Learners, tools and outcomes differ across these claims (undergraduate physics c
 ## Further evidence, not yet read against this model
 
 - [After a guided-inquiry lesson with the collision-carts simulation, students' self-reported knowledge of the physics increased and most rated the lesson enjoyable and valuable](../claims/collision-carts-simulation-lesson-positive-student-feedback.md) [+W]: a survey of 64 students after one simulation lesson, with self-reported knowledge before and after and no test of learning. It bears on learners' valuation of the tool, not on learning.
-- [Age moderates discovery-learning effects: adolescents suffer most from unassisted discovery, adults benefit most from enhanced discovery](../claims/age-moderates-discovery-effects.md) [~M]: a moderator analysis from the discovery meta-analysis. It bears on the age row (adolescents most harmed by unassisted discovery), but it is about discovery generally, not tool-based exploration; not yet worked into the rows.
+- [Age moderates discovery-learning effects: the explicit-instruction advantage over unassisted discovery is larger for adolescents than adults, and the enhanced-discovery benefit larger for adults than children](../claims/age-moderates-discovery-effects.md) [~M]: a moderator analysis from the discovery meta-analysis. It bears on the age row (adolescents most harmed by unassisted discovery), but it is about discovery generally, not tool-based exploration; not yet worked into the rows.
 
 ## Objective and learner-valued goal
 

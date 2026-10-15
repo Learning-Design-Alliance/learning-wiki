@@ -16,8 +16,8 @@ sources:
     author: Cheung, Yun Kul
   - id: burgos-2021
     resource: "https://doi.org/10.17583/redimat.2021.6778"
-    title: "Burgos, M., Bueno, S., Godino, J.D., & Pérez, O. (2021). Onto-semiotic complexity of the Definite Integral. Implications for teaching and learning Calculus. REDIMAT – Journal of Research in Mathematics Education, 10(1), 4-40. https://doi.org/10.17583/redimat.2021.6778"
-    author: "Burgos, M., Bueno, S., Godino, J.D., & Pérez, O"
+    title: "Burgos, M., Bueno, S., Pérez, O., & Godino, J. D. (2021). Onto-semiotic complexity of the Definite Integral. Implications for teaching and learning Calculus. REDIMAT – Journal of Research in Mathematics Education, 10(1), 4-40. https://doi.org/10.17583/redimat.2021.6778"
+    author: "Burgos, M., Bueno, S., Pérez, O., & Godino, J. D."
   - id: zambo-1994
     resource: "https://eric.ed.gov/?id=ED375005"
     title: "Zambo, Ron; Hess, Robert. (1994). The Gender Differential Effects of a Procedural Plan for Solving Mathematical Word Problems. ERIC. https://eric.ed.gov/?id=ED375005"
@@ -209,7 +209,7 @@ Performance during practice, unaided performance at the end of the unit, delayed
 ## Key Sources
 - Reigeluth, C. M. (1979). In search of a better way to organize instruction: The elaboration theory. *Journal of Instructional Development, 2*(3), 8-15. [doi:10.1007/bf02984374](https://doi.org/10.1007/bf02984374)
 - Cheung, Yun Kul. (2010). The Importance of Teaching Listening in the EFL Classroom. ERIC Classroom Teacher Guide. https://eric.ed.gov/?id=ED512082
-- Burgos, M., Bueno, S., Godino, J.D., & Pérez, O. (2021). Onto-semiotic complexity of the Definite Integral. Implications for teaching and learning Calculus. REDIMAT – Journal of Research in Mathematics Education, 10(1), 4-40. https://doi.org/10.17583/redimat.2021.6778
+- Burgos, M., Bueno, S., Pérez, O., & Godino, J. D. (2021). Onto-semiotic complexity of the Definite Integral. Implications for teaching and learning Calculus. REDIMAT – Journal of Research in Mathematics Education, 10(1), 4-40. https://doi.org/10.17583/redimat.2021.6778
 - Zambo, Ron; Hess, Robert. (1994). The Gender Differential Effects of a Procedural Plan for Solving Mathematical Word Problems. ERIC. https://eric.ed.gov/?id=ED375005
 - Risley, R., Hodkowski, N. M., & Tzur, R. (2016). Devin's construction of a multiplicative double counting scheme: Dual anticipation of start and stop. Proceedings of the 38th annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education. https://www.pmena.org/proceedings/
 - McKim, A. J., & Velez, J. J. (2016). An Evaluation of the Self-Efficacy Theory in Agricultural Education. Journal of Agricultural Education, 57(1), 73-90. https://doi.org/10.5032/jae.2016.01073
@@ -336,7 +336,7 @@ The article recommends that curricular planning treat the definite integral's pa
 - [Use sequences of problem-situations to progressively contextualize and develop mathematical comprehension of calculus concepts](../strategies/problem-situation-sequences-progressive-comprehension.md)
 
 ## Key Sources
-- Burgos, M., Bueno, S., Godino, J.D., & Pérez, O. (2021). Onto-semiotic complexity of the Definite Integral. Implications for teaching and learning Calculus. REDIMAT – Journal of Research in Mathematics Education, 10(1), 4-40. https://doi.org/10.17583/redimat.2021.6778
+- Burgos, M., Bueno, S., Pérez, O., & Godino, J. D. (2021). Onto-semiotic complexity of the Definite Integral. Implications for teaching and learning Calculus. REDIMAT – Journal of Research in Mathematics Education, 10(1), 4-40. https://doi.org/10.17583/redimat.2021.6778
 -->
 
 <!-- merged 2026-10-07 from principles/free-exploration-before-organized-plan-sequence ("Sequence free exploration of problem situations before organized plan-based analysis, especially for female learners"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.

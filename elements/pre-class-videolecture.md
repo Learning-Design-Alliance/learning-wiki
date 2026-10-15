@@ -56,7 +56,7 @@ Pre-class video works only when paired with accountability and application: stud
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [A review of music education asserts that MOOC completion is typically under 10% and that embodied musical learning resists short video lectures and self-graded quizzes](../claims/moocs-low-completion-embodied-music-learning.md) [-W]
-- [Students reported that long recorded lectures impeded focus, while instructors who broke lectures into shorter segments were appreciated](../claims/long-recorded-lectures-impeded-focus.md) [~W]
+- [Students reported that long recorded lectures impeded focus, and one student appreciated an instructor's choice to break lectures into shorter videos](../claims/long-recorded-lectures-impeded-focus.md) [~W]
 - [Video-watching sequences involving pausing and rewinding are negatively correlated with math task performance in a flipped precalculus lesson](../claims/video-pause-rewind-sequences-negative-performance.md) [~W]
 - [Recorded lectures are a controversial accessibility strategy: faculty cite decimated attendance and poorer grades, while acknowledging benefits for some student groups](../claims/recorded-lectures-controversial-accessibility-strategy.md) [~W]
 - [Students scored an average of 4.3 out of 5 on a Markdown quiz after watching the AI-generated videos, suggesting short-term learning](../claims/ai-video-viewing-yields-quiz-scores-4-3.md) [+W]

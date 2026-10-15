@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Presentation pacing moderates the modality effect: large under system-paced conditions and absent under self-paced conditions"
-description: "Presentation pacing moderates the modality effect: large under system-paced conditions and absent under self-paced conditions"
+title: "Presentation pacing moderates the modality effect: large under system-paced conditions and not significant under self-paced conditions, where it may disappear or reverse"
+description: "Presentation pacing moderates the modality effect: large under system-paced conditions and not significant under self-paced conditions, where it may disappear or reverse"
 id: modality-effect-moderated-by-pacing
 status: draft
 generated:
@@ -19,15 +19,16 @@ sources:
     rigour: 2
 ---
 
-# Presentation pacing moderates the modality effect: large under system-paced conditions and absent under self-paced conditions
+# Presentation pacing moderates the modality effect: large under system-paced conditions and not significant under self-paced conditions, where it may disappear or reverse
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i3` large
 
 <!-- title before 2026-10-14: Presentation pacing moderates the modality effect: strong under system-paced conditions, reversed under self-paced conditions -->
+<!-- title before 2026-10-15: Presentation pacing moderates the modality effect: large under system-paced conditions and absent under self-paced conditions -->
 
 ## Subclaims
-`q3 i3` System-paced studies showed substantially higher effect sizes (d = 0.93) than self-paced studies (d = -0.14, 95% CI -0.32 to 0.04), where the effect disappeared. [→ Ginns 2005](#ginns-2005)
+`q3 i3` System-paced studies showed substantially higher effect sizes (d = 0.93) than self-paced studies (d = -0.14, 95% CI -0.32 to 0.04), a nonsignificant estimate from few self-paced studies that Ginns reads as the modality effect "may disappear or reverse under self-paced conditions". [→ Ginns 2005](#ginns-2005)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ Ginns, P. (2005). Meta-analysis of the modality effect. Learning and Instruction
 
 `q3 · i3` · `quant-synthesis · r2`
 
-Random-effects moderator analysis of between-subjects effects comparing system-paced versus self-paced studies. The contrast was significant (zcontrast = 7.83, p < 0.001); system-paced "d = 0.93, 95% confidence interval 0.82 – 1.05" versus self-paced d = -0.14.
+Random-effects moderator analysis of between-subjects effects comparing system-paced versus self-paced studies. The contrast was significant (zcontrast = 7.83, p < 0.001); system-paced "d = 0.93, 95% confidence interval 0.82 – 1.05" versus self-paced d = -0.14 (95% CI -0.32 to 0.04), an interval that includes zero and small negative effects. Ginns concludes that "the modality effect may disappear or reverse under self-paced conditions", and notes the moderator rests on a "relatively small number of studies ... (n = 6 self-paced studies)".
 
 > "Pacing of presentation was also a significant moderator, z contrast = 7.83, p < 0.001, indicating studies using system -paced materials had substantially higher effect sizes ( d = 0.93, 95% confidence interval 0.82 – 1.05) than those using self -paced materials ( d = -0.14, 95% confidence interval –0.32– 0.04)."
 

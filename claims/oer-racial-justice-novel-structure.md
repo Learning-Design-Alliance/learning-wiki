@@ -29,7 +29,7 @@ sources:
 
 ### oer-case
 
-Baker, A., Weisgrau, J., & Bristal Philyaw, K. (2022, May). Feedback loops: Mapping transformative interactions in education innovation. Digital Promise. https://doi.org/10.51388/20.500.12265/155
+Baker, A., Weisgrau, J., & Brister Philyaw, K. (2022, May). Feedback loops: Mapping transformative interactions in education innovation. Digital Promise. https://doi.org/10.51388/20.500.12265/155
 
 `q1 · i? · the article prints no effect size for this finding` · `design · r2`
 

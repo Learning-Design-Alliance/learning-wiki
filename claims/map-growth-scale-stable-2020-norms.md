@@ -44,4 +44,4 @@ The report's foreword asserts scale stability and measurement validity across th
 
 ## Related Claims
 - [Both item-level and test-level analyses indicate the MAP Growth measurement scales are remaining stable](map-growth-scales-remaining-stable.md) — possibly the same claim (merge candidate)
-- [The longitudinal achievement constructs of MAP reading and mathematics CATs remain invariant across five time points in ten states (except Indiana mathematics)](map-cat-longitudinal-construct-invariance-ten-states.md) — related
+- [The authors conclude that MAP reading and mathematics CAT constructs are invariant across five time points in ten states (except Indiana mathematics), though their mathematics tables show strong-invariance CFI drops above 0.01 in most states](map-cat-longitudinal-construct-invariance-ten-states.md) — related

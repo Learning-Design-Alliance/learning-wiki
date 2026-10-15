@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
-`q2 i?` Examination of Q-Q plots, CDF curves, and residuals indicated the joint normality assumption seemed reasonable for the course-specific tests, with most data falling close to the 45-degree reference line except at the extremes. [→ Wei He 2022](#wei-he-2022)
+`q2 i?` Examination of Q-Q plots, CDF curves, and residuals indicated the normality assumptions of the model "seemed reasonable" for the course-specific tests; in the worked example shown (Integrated Math 2), most data fell close to the 45-degree reference line except at the very low and high ends. [→ Wei He 2022](#wei-he-2022)
 
 ## Evidence
 

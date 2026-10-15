@@ -33,7 +33,7 @@ sources:
 > **Evidence** · 1 study (2 entries) · design `r1` · `q2`
 
 ## Subclaims
-`q2 i?` Traditional short professional learning is ineffective in the long term, while a well-planned, systematic program enabled teachers to connect theory with practice and differentiate successfully. [→ Marks 2021](#marks-2021)
+`q2 i?` Citing earlier research, the article reports that conferences and short workshops can help teachers develop skills and knowledge, but that professional learning that is sporadic and disconnected is ineffective in the long term; it reports Valiandes and Neophytou (2018), not a study of its own, as finding that teachers in a well-planned and systematic program connected theory with practice and differentiated instruction successfully. [→ Marks 2021](#marks-2021)
 `q2 i?` Through a well-structured training program the skills and knowledge required to differentiate instruction could be learned, established and developed, with positive effects on student outcomes (Valiandes & Neophytou, 2018). [→ Marks 2021 (2)](#marks-2021-2)
 
 ## Evidence
@@ -44,7 +44,7 @@ Marks, A., Woolcott, G., & Markopoulos, C. (2021). Differentiating Instruction: 
 
 `q2 · i?` · `design · r1`
 
-Narrative review attribution: the article reports that professional learning that is "sporadic and disconnected is known to be ineffective in the long term", citing Boyle et al. (2005), Darling-Hammond et al. (2017) and Koellner & Jacobs (2015). No effect size printed.
+Narrative review attribution: the article, which develops a practice framework and evaluates no program itself, reports that traditional forms such as conferences and short workshops "can assist teachers in developing their PCK and efficacy", but that professional learning that is "sporadic and disconnected is known to be ineffective in the long term", citing Boyle et al. (2005), Darling-Hammond et al. (2017) and Koellner & Jacobs (2015). No effect size printed.
 
 > "professional learning that is sporadic and disconnected is known to be ineffective in the long term, resulting in little change in teachers' beliefs and practices or improvements in student achievement (Boyle et al., 2005; Darling-Hammond et al., 2017; Koellner & Jacobs, 2015)."
 

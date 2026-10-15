@@ -44,6 +44,6 @@ This is the article's own abstract statement (type e, authors' interpretation), 
 
 ## Related Claims
 - [Adaptive routing and comprehension-based passage leveling structure the MAP Reading Fluency assessment](map-rf-adaptive-routing-and-passage-leveling.md) — related
-- [Sentence Reading Fluency performance routes students between oral reading and foundational skills tracks](sentence-reading-fluency-routing-threshold.md) — related
+- [In Spanish MAP Reading Fluency's Adaptive Oral Reading form, Sentence Reading Fluency performance routes students in grades K–3 between oral reading and foundational skills tracks](sentence-reading-fluency-routing-threshold.md) — related
 - [MAP Reading Fluency administered at scale, with 407,964 students receiving Foundational Skills scores and 277,920 receiving Oral Reading Fluency scores in 2020–2021](map-rf-2020-21-operational-scale.md) — related
 - [Four oral reading scores together best predict passage comprehension and enable individualized instruction](four-scores-predict-passage-comprehension.md) — related

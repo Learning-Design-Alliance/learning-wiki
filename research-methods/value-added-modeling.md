@@ -68,7 +68,7 @@ Value-added measures quantify a teacher's contribution to students' learning gai
 - [Oklahoma's Pilot Teacher and Leader Evaluation System used a value-added model to estimate teacher and school effectiveness for 2012-2013 instruction](../claims/oklahoma-pilot-evaluation-value-added-model-2012-13.md) [+W]
 - [The report explicitly discusses limitations of the Oklahoma value-added model](../claims/oklahoma-value-added-model-limitations-discussed.md) [~W]
 - [The report documents a value-added method combining nontechnical description of main features with data sources and technical statistical detail](../claims/dc-value-added-report-design-features.md) [+W]
-- [A value-added-style method was used to identify effective schools for a consortium of 99 charter schools in 18 states and the District of Columbia in the project's first year.](../claims/charter-consortium-effective-school-identification-method.md) [+W]
+- [Mathematica designed a method to identify effective schools for a consortium of 99 charter schools in 18 states and the District of Columbia in the project's first year.](../claims/charter-consortium-effective-school-identification-method.md) [+W]
 - [Pittsburgh Public Schools used value-added models to assess educational quality as of the 2014-15 school year](../claims/pittsburgh-vam-report-2016-documents-district-use.md) [+W]
 - [The Teacher Team Method and Full Roster Method produce similar estimates of teacher value added](../claims/teacher-team-and-full-roster-methods-produce-similar-estimates.md) [+W]
 - [The Full Roster Method effectively counts co-taught students more than once in value-added calculations](../claims/frm-counts-cotaught-students-more-than-once.md) [+W]

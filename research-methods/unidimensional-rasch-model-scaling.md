@@ -28,7 +28,7 @@ All MAP tests assume a single latent achievement factor and are scaled on the un
 
 ### Claims
 
-- [A one-factor unidimensional model fits MAP computerized adaptive Reading and Mathematics tests across grades, terms, and ten states](../claims/map-cat-unidimensional-factor-structure.md) [+M]
+- [A one-factor unidimensional model is the most reasonable fit for MAP computerized adaptive Reading and Mathematics tests across grades, terms, and ten states, though Michigan Mathematics misses the RMSEA criterion](../claims/map-cat-unidimensional-factor-structure.md) [+M]
 - [Item calibration results from Pychometrik and the existing tool are mostly comparable across 1,180 AGC-calibrated MAP Growth items, with average RIT differences ranging from 0.33 (mathematics) to 0.91 (science)](../claims/pychometrik-existing-tool-comparable-calibration-real-data.md) [+W]
 - [Average on-grade and all-grade item difficulty estimates differ by less than 0.1 logit for MAP Growth items](../claims/map-growth-ongrade-allgrade-mean-difference-under-01-logit.md) [+W]
 - [Rescoring with new item parameters changed average ability estimates negligibly, with new and original scores correlated above 0.99](../claims/drift-impact-ability-estimates-negligible.md) [+W]

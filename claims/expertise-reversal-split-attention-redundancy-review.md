@@ -1,7 +1,7 @@
 ---
 type: claim
-title: The review reports that the split-attention benefit for novices reverses into a redundancy effect for more experienced learners, as found in the Kalyuga et al. (1998) and Yeung et al. (1998) studies it cites
-description: The review reports that the split-attention benefit for novices reverses into a redundancy effect for more experienced learners, as found in the Kalyuga et al.
+title: "Reviews report that the split-attention benefit for novices reverses into a redundancy effect for more experienced learners: Kalyuga et al. (2003) cite Kalyuga et al. (1998) and Yeung et al. (1998), and Ginns (2006) cites Kalyuga et al. (1998)"
+description: Reviews report that the split-attention benefit for novices reverses into a redundancy effect for more experienced learners, citing Kalyuga et al. (1998) and Yeung et al. (1998)
 id: expertise-reversal-split-attention-redundancy-review
 aliases: [expertise-reversal-limits-contiguity-benefits]
 status: draft
@@ -36,10 +36,11 @@ sources:
     rigour: 2
 ---
 
-# The review reports that the split-attention benefit for novices reverses into a redundancy effect for more experienced learners, as found in the Kalyuga et al. (1998) and Yeung et al. (1998) studies it cites
+# Reviews report that the split-attention benefit for novices reverses into a redundancy effect for more experienced learners: Kalyuga et al. (2003) cite Kalyuga et al. (1998) and Yeung et al. (1998), and Ginns (2006) cites Kalyuga et al. (1998)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies (3 entries) · 1 quant-synthesis `r2`, 1 review `r2` · `q2`
+<!-- title before 2026-10-15: The review reports that the split-attention benefit for novices reverses into a redundancy effect for more experienced learners, as found in the Kalyuga et al. (1998) and Yeung et al. (1998) studies it cites -->
 
 ## Subclaims
 

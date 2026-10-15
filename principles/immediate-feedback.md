@@ -26,7 +26,7 @@ sources:
 # Immediate Feedback
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 20 claims (8 for, 12 mixed) · 28 studies (9 review, 7 causal, 5 qualitative, 4 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 4 of 28 report an effect size · 14 claims rest on one study
+> **Evidence** · 20 claims (8 for, 12 mixed) · 28 studies (9 review, 7 causal, 5 qualitative, 4 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 3 of 28 report an effect size · 14 claims rest on one study
 
 ## Conditional relationship
 
@@ -125,7 +125,7 @@ Accuracy during practice, delayed retention, transfer and the learner's wish for
 
 ## Claims
 
-- [ChatGPT feedback offered immediate assistance and alternative analytical perspectives, but hallucinated answers undermined students' trust for complex data analysis](../claims/chatgpt-feedback-hallucination-undermines-trust.md) [~W]
+- [In a small case study, students given ChatGPT feedback valued its immediacy and alternative analytical perspectives, but one distrusted its answers as 'often made up' for complex data analysis](../claims/chatgpt-feedback-hallucination-undermines-trust.md) [~W]
 
 ## Related Principles
 - [Formative Assessment](formative-assessment.md) — immediate feedback is one of the most actionable forms of formative assessment.

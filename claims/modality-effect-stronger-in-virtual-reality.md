@@ -45,5 +45,5 @@ Pairwise moderator comparisons of presentation modality (audio-tape, computer sc
 
 ## Related Claims
 
-- [Presentation pacing moderates the modality effect: large under system-paced conditions and absent under self-paced conditions](modality-effect-moderated-by-pacing.md) — the general claim this finding bears on, with the studies behind it
+- [Presentation pacing moderates the modality effect: large under system-paced conditions and not significant under self-paced conditions, where it may disappear or reverse](modality-effect-moderated-by-pacing.md) — the general claim this finding bears on, with the studies behind it
 - [Modality effect: hearing text alongside visuals improves learning more than reading text alongside visuals](modality-effect-narration-over-text.md) — a broader claim this one bears on

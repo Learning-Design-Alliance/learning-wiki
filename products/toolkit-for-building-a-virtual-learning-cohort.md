@@ -28,7 +28,7 @@ A Mathematica toolkit that helps facilitators plan and evaluate virtual learning
 - **Toolkit for Building a Virtual Learning Cohort with ten transferable planning tools**: A toolkit published by Mathematica in October 2021 for learning cohort facilitators. It offers guiding values for planning activities for a cohort organized around a common theme and provides ten transferable tools, including a scheduling survey, activity-planning template, activity flyer template, meeting design template, tools for planning a virtual retreat, and an evaluation form. It emerged from the CBSL pilot initiative with the Gates Foundation and nine K–12 education grantees. (Rabb et al. (2021))
 
 ### Claims
-- [The CBSL pilot strengthened grantee capacity through scoping, provider matching, cohort learning, and thought partnership](../claims/cbsl-pilot-capacity-building-approach.md) [+W]
+- [The CBSL pilot aimed to strengthen grantee capacity through scoping, provider matching, cohort learning, and thought partnership](../claims/cbsl-pilot-capacity-building-approach.md) [+W]
 
 ## Related Products and Programmes
 

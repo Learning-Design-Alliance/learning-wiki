@@ -43,5 +43,5 @@ Case analysis of one CourseGraph mapping (Table II) shows cosine similarity of 0
 
 
 ## Related Claims
-- [CourseGraph's nearest-neighbor course mappings largely align with a program director's judgments on real Erasmus+ decisions, with errors traced to ignored pedagogical differences](coursegraph-mappings-align-with-program-director.md) — related
+- [In a worked example from real Erasmus+ decisions, some of CourseGraph's nearest-neighbor course mappings matched the program director's and others did not, one plausibly because it ignores differences in learning methods](coursegraph-mappings-align-with-program-director.md) — related
 - [NCA scores of IIU input vectors order action types identically to the main-effects ordering (Spearman's ρ = 1)](nca-scores-align-with-main-effects.md) — related

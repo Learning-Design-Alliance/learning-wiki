@@ -28,7 +28,7 @@ The MAP Reading Fluency Dyslexia Screener is an NWEA assessment that combines re
 - **MAP Reading Fluency Dyslexia Screener with multivariate predictive model and RAN**: The Dyslexia Screener form assesses key reading skills "including those most often associated with dyslexia, without the need for a separate assessment." "The Sentence Reading Fluency score and domain scores in Phonological Awareness, Phonics & Word Recognition, and Language Comprehension are included in a multivariate predictive model flagging students at risk of dyslexia," with Rapid Automatized Naming (RAN) scores supplementing the model. The screener became available to all users in Fall 2021 and is group-administered and automatically scored. (NWEA (2024))
 
 ### Claims
-- [Sentence Reading Fluency performance routes students between oral reading and foundational skills tracks](../claims/sentence-reading-fluency-routing-threshold.md) [+W]
+- [In Spanish MAP Reading Fluency's Adaptive Oral Reading form, Sentence Reading Fluency performance routes students in grades K–3 between oral reading and foundational skills tracks](../claims/sentence-reading-fluency-routing-threshold.md) [+W]
 
 ## Related Products and Programmes
 -

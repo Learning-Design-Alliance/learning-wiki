@@ -51,7 +51,7 @@ A district accountability assessment system prepared for and run by District of 
 - [Teachers of students with low prior achievement and who receive free lunch tend to have less precise value-added estimates](../claims/low-prior-achievement-free-lunch-teachers-less-precise-va.md) [+W]
 - [Shrinkage could differentially affect consequences for teachers of fewer students or students with hard-to-predict achievement](../claims/shrinkage-differential-impact-concern.md) [+W]
 - [Shrinkage had no statistically significant effect on the relative probability that teachers of hard-to-predict students received consequences](../claims/shrinkage-no-significant-effect-consequences-hard-to-predict.md) [+W]
-- [A value-added-style method was used to identify effective schools for a consortium of 99 charter schools in 18 states and the District of Columbia in the project's first year.](../claims/charter-consortium-effective-school-identification-method.md) [+W]
+- [Mathematica designed a method to identify effective schools for a consortium of 99 charter schools in 18 states and the District of Columbia in the project's first year.](../claims/charter-consortium-effective-school-identification-method.md) [+W]
 - [Rapid guessing did not appear to substantively affect teacher value-added estimates under the value-added specifications used](../claims/rapid-guessing-no-substantive-effect-value-added.md) [~W]
 - [Up to 26% of teachers in the bottom value-added quintile under one specification are ranked higher under another specification](../claims/vam-bottom-quintile-reclassification-26-percent.md) [-W]
 

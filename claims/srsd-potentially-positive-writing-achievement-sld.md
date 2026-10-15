@@ -35,7 +35,7 @@ Self-Regulated Strategy Development: WWC Intervention Report. (2017). What Works
 
 `q2 · i?` · `review · r3`
 
-The WWC's systematic review of single-case design studies of SRSD for students with specific learning disabilities. Nine studies met pilot single-case design standards with reservations; the review's visual analysis found "15 experiments (88%) documented a positive effect, and 0 experiments documented a negative effect." No effect size is printed.
+The WWC's systematic review of single-case design studies of SRSD for students with specific learning disabilities. Ten studies met pilot single-case design standards with reservations, nine of which have findings in the writing achievement domain; the review's visual analysis found "15 experiments (88%) documented a positive effect, and 0 experiments documented a negative effect." No effect size is printed.
 
 > "Across the 17 single-case design experiments for the writing achievement domain, 15 experiments (88%) documented a positive effect, and 0 experiments documented a negative effect."
 

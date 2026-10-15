@@ -5,6 +5,31 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-10-15 — load-bearing failures triaged: 92 open to 1
+
+The judge's report after the synthesis batch listed 92 failing entries on 84 load-bearing claims. Ten agents read
+each against the source text (full text where it existed; several fetched open copies from PMC, ERIC and
+publisher sites) and fixed the page or dismissed the finding (`eval/load-bearing/reviewed.ndjson`).
+
+- **What was wrong on the pages:** counts and figures not in the source (Kulik 1990's 72 PSI / 36 LFM; MAP Growth
+  CFI drops above 0.01 in 8 of 9 states that the prose called invariant; a blueprint figure reported only for
+  maths applied to reading), causal wording on associations (Zell & Krizan 2014, Yang 2021's moderator, Cook
+  2011's 405 single-group studies), "impact is null" where an effect size was printed (KIPP 0.29 and 0.19, now
+  `i1`/`i0`; Voyager 0.28) or where none was, quotes from one work attributed to another (Wise & Kuhfeld 2020
+  restored as its own entry), wrong author lists and years (Burgos 2021, Pollard 2025, Tangkiengsirisin 2026,
+  Kraft 2018 "teacher coaching"), and titles stretched past one case or one study (19 retitles, 172 link texts).
+- **What the judge got wrong:** OpenAlex truncating author lists, online-first years, abstracts with typos
+  (Carter 2014's "Self-Before" for Self-Both, confirmed in the PMC full text), and ingested sources that differ
+  from the version the judge was given (a working paper versus its journal article, a teacher edition versus the
+  student edition).
+- **Impact codes:** partial eta squared is not a d-family statistic, so the three Carter 2014 pages go to `i?`.
+- **Left for the maintainer:** `reach-fewer-top-two-ratings-than-checklist` (the memo's date cannot be confirmed);
+  the PAIR-C study (`pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction`) needs its full
+  text, which the publisher blocks, to settle whether "significantly improves" or the page's p = .059–.095
+  stands; `prior-knowledge-needed-for-accurate-self-assessment` asserts necessity on two associational studies;
+  kind doubts listed in the agents' reports (causal codes on one-group pre-post and interview studies, WWC
+  reports coded `quant-synthesis` on one page and `review` on another).
+
 ## 2026-10-15 — quality over quantity: DOIs recovered, unsourced claims removed
 
 The maintainer, seeing the state-of-the-evidence figures: "it's becoming clear how much chuff there is in Ed

@@ -108,7 +108,7 @@ Schunn, C., Godley, A., & DeMartino, S. (2016). The reliability and validity of 
 - [Structured criteria in peer assessment are not shown to improve its effect on academic performance over freeform review](peer-assessment-structured-criteria-improve-learning.md) — related
 - [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](peer-assessment-improves-performance.md) — related
 - [Prior knowledge is not significantly related to test performance in this sample](prior-knowledge-not-related-to-performance.md) — related
-- [Rubrics changed what online peer reviewers commented on and improved their rating of complex criteria in two quasi-experiments, though one found less reflective feedback](rubrics-improve-peer-feedback-quality.md) — related
+- [In two online comparisons, a rubric changed what peer reviewers commented on (one study) and helped peer raters place writing in quality tiers, most for complex criteria (the other); the first study says the rubric restrained reflective thinking](rubrics-improve-peer-feedback-quality.md) — related
 - [Students' application of teacher support predicts accurate answers in small-group work](student-uptake-of-support-predicts-small-group-answer-accuracy.md) — related
 - [The report measures how novice teachers' effectiveness changes with experience relative to veteran teachers' change in effectiveness](dcps-impact-novice-versus-veteran-effectiveness-growth.md) — related
 - [Students given AI assistance in peer feedback tended to rely on the AI-generated feedback and struggled to perform the task when the assistance was removed](ai-assistance-peer-feedback-overreliance.md) — related

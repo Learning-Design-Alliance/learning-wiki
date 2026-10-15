@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Fluent bilingualism enhances metalinguistic awareness
+title: Fluent bilingualism is linked to metalinguistic awareness of how the two languages relate
 id: bilingual-fluency-enhances-metalinguistic-awareness
 status: draft
 generated:
@@ -28,16 +28,18 @@ sources:
     rigour: "?"
 ---
 
-# Fluent bilingualism enhances metalinguistic awareness
+# Fluent bilingualism is linked to metalinguistic awareness of how the two languages relate
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 qualitative `r?`, 1 theoretical `r?` · `q2`
 
-Students who are genuinely fluent in two languages — able to express the same concept in either — show an advantage in **metalinguistic awareness**: the ability to treat language itself as an object of thought, reflecting on how words and meanings relate rather than only using language to communicate. This is a specific cognitive benefit of *balanced* bilingualism, distinct from the general communicative advantage of simply knowing two languages.
+<!-- title before 2026-10-15: Fluent bilingualism enhances metalinguistic awareness -->
+
+Students who are genuinely fluent in two languages — able to express the same concept in either — may show an advantage in **metalinguistic awareness**: the ability to treat language itself as an object of thought, reflecting on how words and meanings relate rather than only using language to communicate. This is a specific cognitive benefit of *balanced* bilingualism, distinct from the general communicative advantage of simply knowing two languages.
 
 ## Subclaims
 
-`q2 i?` Fully fluent bilingual students are better able than monolingual peers to express the same idea in more than one way and to reflect explicitly on having done so — a hypothetical-language-substitution question ("What if a dog were called a cat? Could the 'cat' meow?") is less likely to confuse them. [→ Jimenez et al. 1995](#jimenez-et-al-1995)
+`q2 i?` In a case study of three readers, one proficient Latina bilingual reader was distinguished from a marginally proficient bilingual reader and a proficient monolingual reader partly by how she took advantage of her bilingualism; the authors concluded that explicit knowledge of the relationship between Spanish and English can facilitate bilingual students' reading comprehension. Three cases cannot establish a general bilingual advantage. [→ Jimenez et al. 1995](#jimenez-et-al-1995)
 
 `q2 i?` This reflective capacity functions as a form of metacognition specifically applied to language, with plausible downstream benefits for tasks like writing and interpreting complex text. [→ Francis 2006](#francis-2006)
 
@@ -49,7 +51,7 @@ Jimenez, R. T., García, G. E., & Pearson, P. D. (1995). Three children, two lan
 
 `q2 · qualitative/case-study reading research · i? · no source text available to check; the entry prints no effect size · n=small (case-study design)` · `qualitative · r?`
 
-Working with bilingual and monolingual readers, this study found that fully fluent bilingual students showed a distinctive capacity to reflect on language as an object in its own right — comparing how the same idea is expressed across their two languages — a reflective habit that monolingual readers in the same study showed less consistently.
+Qualitative case studies of three children: a proficient bilingual (Latina) reader compared with a marginally proficient bilingual reader and a proficient monolingual reader, using think-alouds, interviews, retellings, a prior-knowledge measure and a questionnaire, on narrative and expository texts in English (and comparable Spanish texts for the two bilingual readers). Four dimensions distinguished the proficient bilingual reader from the other two, including how she took advantage of her bilingualism; the authors concluded that "explicit knowledge of the relationship between Spanish and English can facilitate bilingual students' reading comprehension." The abstract reports no comparison of metalinguistic reflection across bilingual and monolingual students in general.
 
 ### Francis 2006
 

@@ -31,7 +31,7 @@ OULAD is an open-source dataset maintained for learning-analytics research, cont
 - [Standard ML models predicting student pass/fail from VLE data exhibit biased true-positive rates across demographic subgroups](../claims/baseline-ml-models-biased-tpr-oulad.md) [+W]
 - [Baseline LR and XGBoost models achieve comparable predictive performance on OULAD, with XGBoost slightly higher AUC-ROC](../claims/baseline-model-performance-oulad-lr-xgboost.md) [+W]
 - [Calibrated Equalized Odds Post-processing shows significant accuracy drops and higher EOD compared to preprocessing techniques](../claims/cpp-postprocessing-accuracy-fairness-tradeoff.md) [+W]
-- [Preprocessing bias mitigation (DIR, RW, SUP) reduces subgroup disparities in TPR while maintaining acceptable balanced accuracy](../claims/preprocessing-mitigation-reduces-disparities-oulad.md) [+W]
+- [Preprocessing bias mitigation (DIR, RW, SUP) reduced subgroup disparities in TPR on OULAD, with effectiveness varying by demographic attribute](../claims/preprocessing-mitigation-reduces-disparities-oulad.md) [+W]
 - [Balancing the dataset significantly improved model predictive performance but increased bias under demographic parity](../claims/data-balancing-improves-accuracy-increases-bias.md) [+W]
 - [Stage 1 (after the first unit review assignment) is the optimal point for identifying at-risk students, balancing timeliness, accuracy, and fairness](../claims/stage1-optimal-early-at-risk-identification.md) [+W]
 - [Post-processing mitigation with ThresholdOptimizer reduced bias on most fairness metrics while maintaining accuracy reasonably well, with a slight performance drop](../claims/thresholdoptimizer-reduces-bias-accuracy-tradeoff.md) [+W]

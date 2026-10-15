@@ -11,16 +11,16 @@ evidence_strength: moderate
 sources:
   - id: gupta-2020
     resource: "https://doi.org/10.20897/ejsteme/9252"
-    title: "Gupta, U., & Zheng, R. Z. (2020). Cognitive Load in Solving Mathematics Problems: Validating the Role of Motivation and the Interaction Among Prior Knowledge, Worked Examples, and Task Difficulty. European Journal of STEM Education, 5(1), 05. https://doi.org/10.20897/ejsteme/9252"
-    author: "Gupta, U., & Zheng, R. Z."
+    title: "Zheng, R. Z., & Gupta, U. (2020). Cognitive Load in Solving Mathematics Problems: Validating the Role of Motivation and the Interaction Among Prior Knowledge, Worked Examples, and Task Difficulty. European Journal of STEM Education, 5(1), 05. https://doi.org/10.20897/ejsteme/9252"
+    author: "Zheng, R. Z., & Gupta, U."
     q: 3
     i: "?"
     kind: causal
     rigour: 2
   - id: gupta-2020-2
     resource: "https://doi.org/10.20897/ejsteme/9252"
-    title: "Gupta, U., & Zheng, R. Z. (2020). Cognitive Load in Solving Mathematics Problems: Validating the Role of Motivation and the Interaction Among Prior Knowledge, Worked Examples, and Task Difficulty. European Journal of STEM Education, 5(1), 05. https://doi.org/10.20897/ejsteme/9252"
-    author: "Gupta, U., & Zheng, R. Z."
+    title: "Zheng, R. Z., & Gupta, U. (2020). Cognitive Load in Solving Mathematics Problems: Validating the Role of Motivation and the Interaction Among Prior Knowledge, Worked Examples, and Task Difficulty. European Journal of STEM Education, 5(1), 05. https://doi.org/10.20897/ejsteme/9252"
+    author: "Zheng, R. Z., & Gupta, U."
     q: 3
     i: "?"
     kind: causal
@@ -40,7 +40,7 @@ sources:
 
 ### Gupta 2020
 
-Gupta, U., & Zheng, R. Z. (2020). Cognitive Load in Solving Mathematics Problems: Validating the Role of Motivation and the Interaction Among Prior Knowledge, Worked Examples, and Task Difficulty. European Journal of STEM Education, 5(1), 05. https://doi.org/10.20897/ejsteme/9252
+Zheng, R. Z., & Gupta, U. (2020). Cognitive Load in Solving Mathematics Problems: Validating the Role of Motivation and the Interaction Among Prior Knowledge, Worked Examples, and Task Difficulty. European Journal of STEM Education, 5(1), 05. https://doi.org/10.20897/ejsteme/9252
 
 `q3 · i? · only a partial eta squared (.04) for the interaction is printed; no standardised mean difference` · `causal · r2`
 
@@ -50,7 +50,7 @@ In a 2 x 2 x 2 factorial experiment with college students solving simultaneous e
 
 ### Gupta 2020 (2)
 
-Gupta, U., & Zheng, R. Z. (2020). Cognitive Load in Solving Mathematics Problems: Validating the Role of Motivation and the Interaction Among Prior Knowledge, Worked Examples, and Task Difficulty. European Journal of STEM Education, 5(1), 05. https://doi.org/10.20897/ejsteme/9252
+Zheng, R. Z., & Gupta, U. (2020). Cognitive Load in Solving Mathematics Problems: Validating the Role of Motivation and the Interaction Among Prior Knowledge, Worked Examples, and Task Difficulty. European Journal of STEM Education, 5(1), 05. https://doi.org/10.20897/ejsteme/9252
 
 `q3 · i?` · `causal · r2`
 

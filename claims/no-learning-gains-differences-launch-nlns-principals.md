@@ -35,7 +35,7 @@ Hart, H. M., Ponisciak, S. M., Sporte, S. E., & Stevens, W. D. (2006). Principal
 
 `q2 · i?` · `associational · r2`
 
-Analysis of ITBS reading learning gains from 1997 to 2005, comparing schools led by LAUNCH and NLNS principals against comparably experienced and veteran principals with controls for other factors. Additional analyses splitting LAUNCH principals by experience and examining staff reshapers also found no significant differences.
+Analysis of ITBS reading learning gains from 1997 to 2005, comparing schools led by LAUNCH and NLNS principals against comparably experienced and veteran principals with controls for other factors. The report's summary of the analysis states "no difference between NLNS or LAUNCH principals and principals with comparable experience or veteran principals." Splitting LAUNCH principals by experience (three or more years versus fewer) also found no differences from their comparison groups. A further analysis of staff "reshapers" (top quartile for staff hired in two years) found LAUNCH reshapers had "slightly better learning gains than other reshapers," a result that was "only marginally significant," and found that non-reshapers had greater learning gains.
 
 > "Neither LAUNCH nor NLNS principals were found to have significantly different learning gains from comparably experienced principals. However, it is probably unrealistic to expect that schools with NLNS principals would make higher-than-average gains at this point"
 

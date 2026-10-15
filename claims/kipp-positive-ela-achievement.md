@@ -14,7 +14,7 @@ sources:
     title: "Knowledge Is Power Program (KIPP). (2018). What Works Clearinghouse Intervention Report: Charter Schools. https://ies.ed.gov/ncee/wwc/InterventionReport/688"
     author: Knowledge Is Power Program (KIPP)
     q: 3
-    i: "?"
+    i: 0
     kind: quant-synthesis
     rigour: 2
 ---
@@ -22,10 +22,10 @@ sources:
 # KIPP charter schools have positive effects on English language arts achievement for middle and high school students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i0` negligible
 
 ## Subclaims
-`q3 i?` Across four studies including 20,804 students, KIPP had positive effects on English language arts achievement, with an average improvement index of +8 percentile points (range +6 to +13). [→ Knowledge Is Power Program (KIPP) 2018](#knowledge-is-power-program-kipp-2018)
+`q3 i0` Across four studies including 20,804 students, KIPP had positive effects on English language arts achievement, with an average improvement index of +8 percentile points (range +6 to +13). [→ Knowledge Is Power Program (KIPP) 2018](#knowledge-is-power-program-kipp-2018)
 
 ## Evidence
 
@@ -33,9 +33,9 @@ sources:
 
 Knowledge Is Power Program (KIPP). (2018). What Works Clearinghouse Intervention Report: Charter Schools. https://ies.ed.gov/ncee/wwc/InterventionReport/688
 
-`q3 · i?` · `quant-synthesis · r2`
+`q3 · i0 · negligible effect, average effect size 0.19` · `quant-synthesis · r2`
 
-WWC review of four studies; Table 4 rates ELA achievement "Positive effects" with average improvement index +8 (range +6 to +13) from "20,804" students. One study met standards without reservations. One TerraNova reading finding lost significance after multiple-comparison correction. No standardized effect size is printed, so impact is null.
+WWC review of four studies; Table 4 rates ELA achievement "Positive effects" with average improvement index +8 (range +6 to +13) from "20,804" students. One study met standards without reservations. One TerraNova reading finding lost significance after multiple-comparison correction. Appendix C.2 prints the WWC-computed effect sizes: domain averages of 0.14, 0.16 and 0.15 for the three Tuttle et al. (2015) analyses and 0.32 for Woodworth et al. (2008), and 0.19 across all studies (the +8 improvement index is computed from it). By this wiki's scale that average is below d 0.2, so impact is coded `i0`; the WWC still rates the domain "Positive effects" because the findings are statistically significant.
 
 > "In the four studies that reported findings, the estimated impact of the intervention on outcomes in the English language arts achievement domain was positive and statistically significant"
 

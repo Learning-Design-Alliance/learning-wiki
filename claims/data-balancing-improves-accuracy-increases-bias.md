@@ -22,7 +22,7 @@ sources:
     title: "Alison Cheng, Bo Pei and Cheng Liu. (2025). Balancing Act: Early, Fair, and Accurate Identification of At-Risk Students. Journal of Learning Analytics, 12(3), 47–65. https://doi.org/10.18608/jla.2025.8761"
     author: Alison Cheng, Bo Pei and Cheng Liu
     q: 2
-    i: "?"
+    i: 3
     kind: design
     rigour: 2
 ---
@@ -34,7 +34,7 @@ sources:
 
 ## Subclaims
 `q2 i3` Models trained on the balanced dataset showed significant performance improvements with large effect sizes (larger than 0.80) on each metric at each stage. [→ Alison Cheng 2025](#alison-cheng-2025)
-`q2 i?` Training on the balanced dataset produced a significant increase in bias under Demog_Parity_Diffs (p-value < 0.005) at all stages, showing balancing alone does not mitigate bias. [→ Alison Cheng 2025 (2)](#alison-cheng-2025-2)
+`q2 i3` Training on the balanced dataset produced a significant increase in bias under Demog_Parity_Diffs (p-value < 0.005) at all stages, showing balancing alone does not mitigate bias. [→ Alison Cheng 2025 (2)](#alison-cheng-2025-2)
 
 ## Evidence
 
@@ -52,9 +52,9 @@ Comparison of models trained on RandomOverSampler-balanced versus imbalanced dat
 
 Alison Cheng, Bo Pei and Cheng Liu. (2025). Balancing Act: Early, Fair, and Accurate Identification of At-Risk Students. Journal of Learning Analytics, 12(3), 47–65. https://doi.org/10.18608/jla.2025.8761
 
-`q2 · i?` · `design · r2`
+`q2 · i3` · `design · r2`
 
-Fairness comparison between models trained on balanced and imbalanced datasets showed "a significant increase in bias under the Demog_Parity_Diffs (p-value < 0.005) metric for all stages", with other metrics showing non-significant increases in bias.
+Fairness comparison between models trained on balanced and imbalanced datasets showed "a significant increase in bias under the Demog_Parity_Diffs (p-value < 0.005) metric for all stages" (Cohen's d = 5.208, 4.367 and 9.167 at the Demog Stage, Stage 1 and Stage 2). No other metric changed significantly: most showed non-significant increases in bias (with medium to large d on Avg_Odds_Diffs at the Demog Stage, 1.040, and Stage 1, 1.086, and on PPDs at Stage 2, 0.771), except Avg_Odds_Diffs at Stage 2, where "a slight decrease in bias was found (t-statistics = –0.043, Cohen's d = 0.030)".
 
 > "Table 3 shows a significant increase in bias under the Demog_Parity_Diffs (p-value < 0.005) metric for all stages."
 
@@ -63,7 +63,7 @@ Fairness comparison between models trained on balanced and imbalanced datasets s
 
 ## Related Claims
 - [Post-processing mitigation with ThresholdOptimizer reduced bias on most fairness metrics while maintaining accuracy reasonably well, with a slight performance drop](thresholdoptimizer-reduces-bias-accuracy-tradeoff.md) — related
-- [Preprocessing bias mitigation (DIR, RW, SUP) reduces subgroup disparities in TPR while maintaining acceptable balanced accuracy](preprocessing-mitigation-reduces-disparities-oulad.md) — related
+- [Preprocessing bias mitigation (DIR, RW, SUP) reduced subgroup disparities in TPR on OULAD, with effectiveness varying by demographic attribute](preprocessing-mitigation-reduces-disparities-oulad.md) — related
 - [Stage 1 (after the first unit review assignment) is the optimal point for identifying at-risk students, balancing timeliness, accuracy, and fairness](stage1-optimal-early-at-risk-identification.md) — related
 - [Adding more learning activity data beyond Stage 1 did not significantly improve predictive performance of at-risk identification models](no-significant-performance-gain-later-stages.md) — related
 - [Incorporating more learning activity data reduced the potential bias caused by overreliance on demographic information](learning-activity-data-reduces-demographic-bias.md) — related
