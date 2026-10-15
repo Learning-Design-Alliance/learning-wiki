@@ -14,7 +14,7 @@ sources:
     title: "Kala, N., & Ayas, A. (2023). Effect of instructional design based on cognitive load theory on students' performances and the indicators of element interactivity. Journal of Turkish Science Education, 20(3), 468-489. https://doi.org/10.36681/tused.2023.027"
     author: "Kala, N., & Ayas, A."
     q: 3
-    i: 3
+    i: "?"
     kind: causal
     rigour: 1
   - id: kala-2023-2
@@ -22,7 +22,7 @@ sources:
     title: "Kala, N., & Ayas, A. (2023). Effect of instructional design based on cognitive load theory on students' performances and the indicators of element interactivity. Journal of Turkish Science Education, 20(3), 468-489. https://doi.org/10.36681/tused.2023.027"
     author: "Kala, N., & Ayas, A."
     q: 3
-    i: 3
+    i: "?"
     kind: causal
     rigour: 1
 ---
@@ -30,12 +30,12 @@ sources:
 # In one study of 37 thermodynamics freshmen, a CLT-based instructional design yields higher retention and transfer scores than lecturer-designed instruction, controlling for prior knowledge and memory span
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r1` · `q3` · `i3` large
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q3`
 <!-- title before 2026-10-15: A CLT-based instructional design yields significantly higher retention and transfer scores than lecturer-designed instruction in thermodynamics, controlling for prior knowledge and memory span -->
 
 ## Subclaims
-`q3 i3` The instructional design variable had a significant multivariate effect on the dependent variables (Wilks' λ = .18, F(4-30) = 33.43, ηp2 = .82, p < .05). [→ Kala 2023](#kala-2023)
-`q3 i3` Experimental-group students scored significantly higher than control-group students on retention tests (ηp2 = .72) and transfer tests (ηp2 = .71). [→ Kala 2023 (2)](#kala-2023-2)
+`q3 i?` The instructional design variable had a significant multivariate effect on the dependent variables (Wilks' λ = .18, F(4-30) = 33.43, ηp2 = .82, p < .05). [→ Kala 2023](#kala-2023)
+`q3 i?` Experimental-group students scored significantly higher than control-group students on retention tests (ηp2 = .72) and transfer tests (ηp2 = .71). [→ Kala 2023 (2)](#kala-2023-2)
 
 ## Evidence
 
@@ -43,7 +43,7 @@ sources:
 
 Kala, N., & Ayas, A. (2023). Effect of instructional design based on cognitive load theory on students' performances and the indicators of element interactivity. Journal of Turkish Science Education, 20(3), 468-489. https://doi.org/10.36681/tused.2023.027
 
-`q3 · i3` · `causal · r1`
+`q3 · i?` · `causal · r1`
 
 MANOVA in the main experiment (37 freshmen randomly assigned to experimental n=18 and control n=19), with DSMT and TAT pre-test as covariates, showed the instructional design variable had "a significant effect on the dependent variables" with η p2= .82.
 
@@ -53,7 +53,7 @@ MANOVA in the main experiment (37 freshmen randomly assigned to experimental n=1
 
 Kala, N., & Ayas, A. (2023). Effect of instructional design based on cognitive load theory on students' performances and the indicators of element interactivity. Journal of Turkish Science Education, 20(3), 468-489. https://doi.org/10.36681/tused.2023.027
 
-`q3 · i3` · `causal · r1`
+`q3 · i?` · `causal · r1`
 
 Follow-up univariate tests after MANOVA on eight-session means: experimental RT mean 77.07 vs control 38.48; TT 62.96 vs 29.67. The authors report "a significant difference between the RT" and TT scores with η p2= .72 and η p2 = .71 respectively.
 

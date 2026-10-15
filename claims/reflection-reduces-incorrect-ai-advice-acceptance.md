@@ -12,7 +12,7 @@ sources:
   - id: ren-s-2026
     title: Ren S 2026
     q: 3
-    i: 3
+    i: "?"
     kind: causal
     rigour: 2
 ---
@@ -20,10 +20,10 @@ sources:
 # A brief metacognitive reflection prompt reduces acceptance of incorrect AI advice compared with open ChatGPT support alone
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
-`q3 i3` Acceptance of incorrect ChatGPT recommendations was 62.4% under open support versus 39.7% under reflection, with reflection substantially reducing the odds of accepting incorrect advice (OR = 0.40). [→ Ren S 2026](#ren-s-2026)
+`q3 i?` Acceptance of incorrect ChatGPT recommendations was 62.4% under open support versus 39.7% under reflection, with reflection substantially reducing the odds of accepting incorrect advice (OR = 0.40). [→ Ren S 2026](#ren-s-2026)
 
 ## Evidence
 
@@ -31,7 +31,7 @@ sources:
 
 Ren S (2026) College students’ metacognitive awareness of generative-AI reliance: an experimental study of decision confidence and attribution bias. Front. Psychol. 17:1926110. https://doi.org/10.3389/fpsyg.2026.1926110
 
-`q3 · i3` · `causal · r2`
+`q3 · i?` · `causal · r2`
 
 Trial-level logistic mixed-effects model with participant and task random intercepts compared the two AI-assisted conditions (114 participants each). "β =− 0.92" with "odds ratio = 0.40, 95% CI [0.28, 0.56]" for the reflection contrast; descriptively 62.4% vs. 39.7% incorrect-advice acceptance.
 
