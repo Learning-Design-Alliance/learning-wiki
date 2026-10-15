@@ -35,9 +35,9 @@ Zou, F., & Yan, X. (2019). Incidental English Vocabulary Acquisition Through Rea
 
 `q2 · i?` · `review · r2`
 
-The review reports Xu's (2010) study of "125 ESL freshm en" reading a passage with 10 target words from a CET-4 training book under four tasks: marginal glosses, glosses plus sentence-making, dictionary use, and no aid. No effect size is printed.
+The review reports Xu's (2010) study of "125 ESL freshmen" reading a passage with 10 target words from a CET-4 training book under four tasks: marginal glosses, glosses plus sentence-making, dictionary use, and no aid. No effect size is printed.
 
-> "The results sho wed that among four different tasks, no provision of external aid shows the least efficiency in learner s' IVA gains and the marginal glosses is the most beneficial."
+> "The results showed that among four different tasks, no provision of external aid shows the least efficiency in learners' IVA gains and the marginal glosses is the most beneficial."
 
 ## Discussion
 

@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
-`q2 i?` Xu found that reading tasks with higher involvement load (glosses plus dictionary use) produced better word retention, and marginal glosses were more efficient in fostering incidental learning. [→ Restrepo Ramos 2015](#restrepo-ramos-2015)
+`q2 i?` Xu found, as this review reports it, that reading tasks with higher involvement load (named in the review as glosses plus dictionary use) produced better word retention, and marginal glosses were more efficient in fostering incidental learning. [→ Restrepo Ramos 2015](#restrepo-ramos-2015)
 
 ## Evidence
 
@@ -41,6 +41,7 @@ Xu's (2010) study assigned 125 ESL freshmen from a Chinese university, divided i
 
 ## Discussion
 
+The review's list of Xu's four tasks does not match the original study. Xu (2010), "An Empirical Study on the Effect of Task on L2 Incidental Vocabulary Acquisition through Reading", *Asian Social Science, 6*(7), 126-131 ([doi:10.5539/ass.v6n7p126](https://doi.org/10.5539/ass.v6n7p126)), compared reading with marginal glosses, marginal glosses plus making sentences with the target words, a dictionary, and no external aid; its higher-involvement task is the glosses-plus-sentences one, and it concludes that marginal glosses were more efficient than dictionary use, which beat no aid. The task list on [Reading with marginal glosses is the most beneficial task condition for incidental vocabulary acquisition gains](marginal-glosses-most-beneficial-task.md), taken from another review, agrees with the original.
 
 ## Related Claims
 - [Meaningful L2 learning is achieved through a conducive environment and authentic tasks and materials](authentic-tasks-meaningful-l2-learning.md) — related
