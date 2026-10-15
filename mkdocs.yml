@@ -55,7 +55,8 @@ hooks:
   - docs_hooks/page_metadata.py
   - docs_hooks/two_tier.py
 
-# Search is Pagefind's, built over both tiers by scripts/build_site.sh; the
+# Search is Pagefind's, built over both tiers by scripts/build_site.sh, and reached from the
+# search box in every page's header (docs_hooks/two_tier.py), not from the nav; the
 # built-in lunr index had reached 20 MB at 18,800 pages.
 plugins: []
 
@@ -75,7 +76,6 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Search: search.md
   - Principles: principles/index.md
   - Elements: elements/index.md
   - Patterns: patterns/index.md
