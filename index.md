@@ -8,6 +8,15 @@ okf_version: "0.2"
 
 A persistent, LLM-maintained knowledge base for learning design. Read [CLAUDE.md](CLAUDE.md) for the schema, page templates, and agent operating instructions.
 
+## Read this first
+
+- **Models wrote this wiki, and no person has yet checked any page.** Every page's *Page metadata* panel shows its trust tier; today all of them read *unverified*. Treat a page as a well-sourced lead, and check the cited study before relying on a detail.
+- **Most claims rest on one study.** A claim page reports what one or a few studies found, in the conditions they ran. Where several studies bear on one question, a table on the claim page lists them one row each; nothing is averaged into a verdict.
+- **Every study carries codes.** `q1`–`q4` is the design tier (q4: a pre-registered trial or well-powered meta-analysis; q1: a case study or argument). `i1`–`i3` is the size of a printed effect (small, medium, large); `i?` means the source printed none, which is not the same as no effect. `causal · r2` names the kind of evidence and how well it was done for its kind (r1–r3). The [evidence report](evidence.md) shows the state of it all.
+- **Markers on design pages** say how a claim bears on the page: `+` supports, `~` depends on conditions, `-` counts against, and `S`/`M`/`W` how strong, capped by the claim's recorded evidence.
+- **Principle and pattern pages say what is tested and what is not.** A design marked *Default design, while the relationship is untested* is a labelled proposal, not a finding.
+- **Found an error?** Open an issue on [GitHub](https://github.com/Learning-Design-Alliance/learning-wiki/issues) with the page and the source.
+
 ---
 
 ## Knowledge Types
@@ -59,4 +68,4 @@ Empirical claims with evidence ratings, sources, and competing views.
 
 **As an agent**: read `CLAUDE.md` first. Use `index.md` as your entry point, follow the markdown links in each page to traverse the graph, and use `grep` for targeted search.
 
-**As a human**: browse the folder indexes above, or open the [docs site](https://learning-design-alliance.github.io/learning-wiki/). Evidence tags (**[+S]**, **[+M]**, **[~M]**, **[-W]**) indicate claim support strength. Pages marked `status: draft` are stubs; `review` pages need expert check; `stable` pages are reliable.
+**As a human**: browse the folder indexes above, or open the [docs site](https://learning-design-alliance.github.io/learning-wiki/). Evidence tags (**[+S]**, **[+M]**, **[~M]**, **[-W]**) indicate claim support strength. Pages marked `status: draft` are stubs or unreviewed; `review` pages have content that needs an expert's check.
