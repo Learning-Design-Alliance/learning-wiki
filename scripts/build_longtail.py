@@ -48,7 +48,6 @@ TEMPLATE = """<!doctype html>
 .lt-header a{{color:inherit;text-decoration:none;margin-right:.6rem}}
 .lt-header a:hover{{text-decoration:underline}}
 .lt-header form{{display:inline;float:right}}
-.lt-header input{{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}}
 .lt-main{{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}}
 </style>
 </head>
@@ -57,7 +56,7 @@ TEMPLATE = """<!doctype html>
 <header class="lt-header">
 <a href="{rel}"><strong>Learning Design Wiki</strong></a>
 <a href="{rel}{folder}/">{label}</a>
-<form action="{rel}search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+<form class="lt-header-search" action="{rel}search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
 </header>
 <main class="lt-main"><article class="md-typeset"{pagefind}>
 {body}
