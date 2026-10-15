@@ -29,12 +29,12 @@ sources:
 > **Evidence** · 2 studies · 2 review `r2` · `q2`
 
 ## Subclaims
-`q2 i?` More than 90% of students reported instruction to be relevant to them, across racial backgrounds, including during remote pandemic enactment. [→ seet-relevance](#seet-relevance)
-`q2 i?` 87% of students reported understanding how the day's lesson ties to the bigger picture, indicating perceived coherence. [→ seet-coherence](#seet-coherence)
+`q2 i?` More than 90% of students reported instruction to be relevant to them, across racial backgrounds, including during remote pandemic enactment. [→ McElhaney et al. 2023](#mcelhaney-et-al-2023)
+`q2 i?` 87% of students reported understanding how the day's lesson ties to the bigger picture, indicating perceived coherence. [→ McElhaney et al. 2023](#mcelhaney-et-al-2023)
 
 ## Evidence
 
-### seet-relevance
+### McElhaney et al. 2023
 
 McElhaney, K. W., Mills, K., Kamdar, D., Baker, A., & Roschelle, J. (2023, March). A summary and synthesis of initial OpenSciEd research: Updated version [White paper]. Digital Promise. https://doi.org/10.51388/20.500.12265/171
 
@@ -44,7 +44,9 @@ The review reports SEET survey analyses from OpenSciEd field tests; the printed 
 
 > "Based on analyses of the SEET administered during field tests, more than 90% of students reported instruction to be relevant to them in some way; this pattern was observed across students' racial backgrounds (Edelson et al., 2021; OpenSciEd, 2019)."
 
-### seet-coherence
+> "Analyses of the SEET also revealed that 87% of students reported understanding how that day's lesson "ties to the bigger picture" of what was being studied, indicating a high level of coherence as perceived by students (OpenSciEd, 2021)."
+
+<!-- merged duplicate entry 2026-10-15: ### seet-coherence
 
 McElhaney, K. W., Mills, K., Kamdar, D., Baker, A., & Roschelle, J. (2023, March). A summary and synthesis of initial OpenSciEd research: Updated version [White paper]. Digital Promise. https://doi.org/10.51388/20.500.12265/171
 
@@ -53,6 +55,7 @@ McElhaney, K. W., Mills, K., Kamdar, D., Baker, A., & Roschelle, J. (2023, March
 SEET analyses from the 2020-2021 field test year reported by the review; 87% is a descriptive percentage of student-perceived coherence, no inferential test is printed.
 
 > "Analyses of the SEET also revealed that 87% of students reported understanding how that day's lesson "ties to the bigger picture" of what was being studied, indicating a high level of coherence as perceived by students (OpenSciEd, 2021)."
+-->
 
 ## Discussion
 

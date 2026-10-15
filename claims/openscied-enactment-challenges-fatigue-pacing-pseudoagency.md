@@ -35,13 +35,13 @@ sources:
 > **Evidence** · 3 studies · 3 review `r2` · `q2`
 
 ## Subclaims
-`q2 i?` Some teachers reported students' interest in the anchoring phenomenon declines over time (project fatigue). [→ project-fatigue](#project-fatigue)
-`q2 i?` 20% of interviewed teachers reported struggling with unit length and pacing during the field test. [→ pacing-challenge](#pacing-challenge)
-`q1 i?` Pseudoagency arises when students see teachers' attempts to open sensemaking as disingenuous; nearly half of students had no ideas about what to investigate next. [→ pseudoagency-gaps](#pseudoagency-gaps)
+`q2 i?` Some teachers reported students' interest in the anchoring phenomenon declines over time (project fatigue). [→ McElhaney et al. 2023](#mcelhaney-et-al-2023)
+`q2 i?` 20% of interviewed teachers reported struggling with unit length and pacing during the field test. [→ McElhaney et al. 2023](#mcelhaney-et-al-2023)
+`q2 i?` Pseudoagency arises when students see teachers' attempts to open sensemaking as disingenuous; nearly half of students had no ideas about what to investigate next. [→ McElhaney et al. 2023](#mcelhaney-et-al-2023)
 
 ## Evidence
 
-### project-fatigue
+### McElhaney et al. 2023
 
 McElhaney, K. W., Mills, K., Kamdar, D., Baker, A., & Roschelle, J. (2023, March). A summary and synthesis of initial OpenSciEd research: Updated version [White paper]. Digital Promise. https://doi.org/10.51388/20.500.12265/171
 
@@ -51,7 +51,11 @@ The review synthesizes field-test summary reports (2019-2020 and 2020-2021 schoo
 
 > "While teachers generally reported students are engaged by the phenomena and actively participate in activities, some teachers also reported that students' interest in the anchoring phenomenon declines over time (OpenSciEd, 2020, 2021)."
 
-### pacing-challenge
+> "In interviews conducted with teachers who participated in OpenSciEd professional development, 20% reported struggling with the length and pacing of units during the field test (Deverel-Rico et al, 2022)."
+
+> "Based on an analysis of the SEET across three OpenSciEd units, nearly half of the students did not have ideas about questions they should investigate next (OpenSciEd, 2021)."
+
+<!-- merged duplicate entry 2026-10-15: ### pacing-challenge
 
 McElhaney, K. W., Mills, K., Kamdar, D., Baker, A., & Roschelle, J. (2023, March). A summary and synthesis of initial OpenSciEd research: Updated version [White paper]. Digital Promise. https://doi.org/10.51388/20.500.12265/171
 
@@ -60,8 +64,9 @@ McElhaney, K. W., Mills, K., Kamdar, D., Baker, A., & Roschelle, J. (2023, March
 Teacher interview study from the OpenSciEd field study, as summarized by the review; 20% is a descriptive percentage of interviewed teachers.
 
 > "In interviews conducted with teachers who participated in OpenSciEd professional development, 20% reported struggling with the length and pacing of units during the field test (Deverel-Rico et al, 2022)."
+-->
 
-### pseudoagency-gaps
+<!-- merged duplicate entry 2026-10-15: ### pseudoagency-gaps
 
 McElhaney, K. W., Mills, K., Kamdar, D., Baker, A., & Roschelle, J. (2023, March). A summary and synthesis of initial OpenSciEd research: Updated version [White paper]. Digital Promise. https://doi.org/10.51388/20.500.12265/171
 
@@ -70,6 +75,7 @@ McElhaney, K. W., Mills, K., Kamdar, D., Baker, A., & Roschelle, J. (2023, March
 SEET analysis across three units from the 2020-2021 field test, summarized by the review; the review also cites Reiser et al.'s pseudoagency definition and Krumm et al.'s finding that sensemaking practices were enacted less often than coherence-building practices.
 
 > "Based on an analysis of the SEET across three OpenSciEd units, nearly half of the students did not have ideas about questions they should investigate next (OpenSciEd, 2021)."
+-->
 
 ## Discussion
 
