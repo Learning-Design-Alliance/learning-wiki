@@ -14,7 +14,7 @@ sources:
     title: "Kraft, M.A., Blazar, D., Hogan, D. (2018). The effect of teaching coaching on instruction and achievement: A meta-analysis of the causal evidence. Review of Educational Research, 88(4), 547-588. https://doi.org/10.3102/0034654318759268"
     author: Kraft, M.A., Blazar, D., Hogan, D.
     q: 2
-    i: 3
+    i: "?"
     kind: quant-synthesis
     rigour: 3
 ---
@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · quant-synthesis `r3` · `q2` · `i3` large
 
 ## Subclaims
-`q2 i3` Across 20 studies reporting both outcomes, the weighted correlation between averaged instruction and achievement effect sizes is 0.37 (p = .16). [→ Kraft 2018](#kraft-2018)
+`q2 i?` Across 20 studies reporting both outcomes, the weighted correlation between averaged instruction and achievement effect sizes is 0.37 (p = .16). [→ Kraft 2018](#kraft-2018)
 
 ## Evidence
 
@@ -33,7 +33,7 @@ sources:
 
 Kraft, M.A., Blazar, D., Hogan, D. (2018). The effect of teaching coaching on instruction and achievement: A meta-analysis of the causal evidence. Review of Educational Research, 88(4), 547-588. https://doi.org/10.3102/0034654318759268
 
-`q2 · i3` · `quant-synthesis · r3`
+`q2 · i? · the printed figure is a between-study correlation of effect sizes (r = 0.37, p = .16), not an effect size for a finding` · `quant-synthesis · r3`
 
 Between-study weighted correlation using averaged effect sizes per research project; the printed correlation is r = 0.37 (p = .16). Exploratory because the instruction-achievement relationship itself cannot be interpreted causally within these data.
 

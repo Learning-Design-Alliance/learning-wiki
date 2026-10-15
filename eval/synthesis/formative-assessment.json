@@ -45,6 +45,26 @@
         [
           "group-cycle-interactions-formative-outcomes",
           "~"
+        ],
+        [
+          "tefa-formative-information-changed-lessons",
+          "+"
+        ],
+        [
+          "forms-realtime-formative-assessment-uses",
+          "+"
+        ],
+        [
+          "curricular-knowledge-enables-responsive-instructional-moves",
+          "~"
+        ],
+        [
+          "teacher-customizations-storyline-curriculum",
+          "~"
+        ],
+        [
+          "stem-more-amenable-difficulty-scaling",
+          "~"
         ]
       ]
     },

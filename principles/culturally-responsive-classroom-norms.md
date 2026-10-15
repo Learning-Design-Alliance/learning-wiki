@@ -106,6 +106,12 @@ No claim in the wiki tests whether widening classroom norms, or reading departur
 
 Learners, settings and outcomes differ across these claims (school and college students, US and Dutch, grades, suspensions, response quality), so do not rank them by effect size. None measures whether the gap between learners whose norms match the classroom's and those whose norms do not narrows when the norms are widened.
 
+## The evidence by question
+
+- *Does a longer pause after a question, before anyone answers, improve the responses that follow?* [Reviews of classroom studies, read from their abstracts, associate longer teacher wait time with longer, higher-cognitive-level student responses, with no effect size recorded](../claims/increasing-wait-time-improves-response-quality.md) [+M]
+- *Do some learners hold back from public question-and-answer because their community's norms differ, and what do teachers use instead?* [American Indian and Alaska Native students often do not willingly participate in the question-answer activity that constitutes most classroom discussions, because direct questioning in front of peers contradicts community norms](../claims/ai-an-students-question-answer-participation.md) [+W]
+- *When the learners are adults who act on others (teachers), does an empathy exercise change their conduct?* [Brief Intervention Empathic Discipline Cuts Suspensions](../claims/brief-intervention-empathic-discipline-cuts-suspensions.md) [+M]
+
 ## Further evidence, not yet read against this model
 
 The earlier page cited one claim, [Reviews of classroom studies, read from their abstracts, associate longer teacher wait time with longer, higher-cognitive-level student responses, with no effect size recorded](../claims/increasing-wait-time-improves-response-quality.md) [+M], which is now part of the model above. No other claim it cited is left to place. Its other support was the theory link to [Social Interdependence](social-interdependence.md) and the sources in Key Sources, none of which has a claim page here.

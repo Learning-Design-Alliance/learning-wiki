@@ -41,8 +41,11 @@ Thematic analysis of reflective essays found students experienced the scaffoldin
 
 ## Discussion
 
+The evidence is students' own account in reflective essays from one design study, analysed thematically; it records how students described the teacher's modelling with contrasting cases, not a measured change in how they checked AI output against a comparison group.
 
 ## Related Claims
+
+- [Erroneous examples improve conceptual understanding by forcing comparison with correct models.](erroneous-examples-build-conceptual-knowledge.md) — the general claim this finding bears on, with the studies behind it
 - [AI hallucination can be turned into a pedagogical resource by making verification and collaborative fact evaluation integral to AI-supported learning](hallucination-as-pedagogical-resource.md) — a broader claim this one bears on
 - [Students perceive LLM chatbots as useful for learning but requiring critical use, reporting hallucinations, overconfidence, and dependency risks](students-view-llms-useful-but-requiring-critical-use.md) — related
 - [Students' top two concerns about educational LLM use are output quality (fabricated or misleading content, 53 mentions) and the verification burden (34 mentions)](students-top-concerns-output-quality-verification-burden.md) — related

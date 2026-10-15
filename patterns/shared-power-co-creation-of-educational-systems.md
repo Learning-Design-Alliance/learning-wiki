@@ -104,6 +104,11 @@ Twelve of the sixteen rows cite a claim; each such claim is a single study, and 
 
 Do not read participants' satisfaction as evidence that power was shared or that outcomes changed: the perception claims are self-report from the people who ran the work. Do not rank this policy against consultation, advisory councils or interpretation-only inclusion on any learner outcome from these claims; none measures one. A precise abstention names the missing comparison (a redesigned body against interpretation into the existing body, or against own-language deliberation without separate standing, on sustained participation and decisions changed, across several sites) and the local observation that would stand in for it: attendance by group per meeting and the record of recommendations made and acted on.
 
+## The evidence by question
+
+- *Does giving an excluded group a body with decision standing and a process redesigned around it sustain its participation and change what is decided, where outreach and gathering its views do not?* [In one participatory budgeting case, Latino immigrant participation lapsed under outreach with interpretation and was sustained only after the activity structure was redesigned](../claims/resolving-participation-double-bind-requires-redesigned-activity-structures.md) [+M]
+- *What keeps a co-created arrangement going after the pilot: handing facilitation over, embedding it in standing structures, or the people who championed it?* [After the Inclusive Innovation pilots, district-community teams sustained solutions through multi-level buy-in, implementation iteration, embedding in existing systems, and demonstrating benefits](../claims/inclusive-innovation-sustainability-factors.md) [+M]
+
 ## Further evidence, not yet read against this model
 
 Claims the earlier page cited that are not core evidence above, each with what it is and how far it bears on this page.

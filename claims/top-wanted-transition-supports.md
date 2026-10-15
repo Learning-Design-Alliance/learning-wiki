@@ -39,8 +39,9 @@ In interviews and workshops, participant-advisors named over 70 desired supports
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Cohort membership and mentor-rich environments contribute to skill development and persistence for adult learners](cohort-support-improves-adult-persistence.md) — the general claim this finding bears on, with the studies behind it
 - [People and connections were the most-used learning transition supports among HSE participant-advisors](people-connections-top-transition-support.md) — related
 - [HSE learners and workers saw consolidated records, job matchmaking, convenience, auto-translation, and career search as top LER opportunities](top-perceived-ler-opportunities.md) — related
 - [HSE learners and workers perceived accuracy, security, usability, employer use, and access as the top challenges of LERs](retos-percibidos-lers-exactitud-seguridad-acceso.md) — related

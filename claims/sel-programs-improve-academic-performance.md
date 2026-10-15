@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "SEL programs improve students' engagement and academic performance, with an 11-percentage-point achievement gain in the Durlak meta-analysis"
-description: "SEL programs improve students' engagement and academic performance, with an 11-percentage-point achievement gain in the Durlak meta-analysis"
+title: "SEL programs improve students' engagement and academic performance, with an 11-percentile-point achievement gain in the Durlak meta-analysis"
+description: "SEL programs improve students' engagement and academic performance, with an 11-percentile-point achievement gain in the Durlak meta-analysis"
 id: sel-programs-improve-academic-performance
 status: draft
 generated:
@@ -27,14 +27,15 @@ sources:
     rigour: 2
 ---
 
-# SEL programs improve students' engagement and academic performance, with an 11-percentage-point achievement gain in the Durlak meta-analysis
+# SEL programs improve students' engagement and academic performance, with an 11-percentile-point achievement gain in the Durlak meta-analysis
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q3` · `i1` small
+<!-- title before 2026-10-15: SEL programs improve students' engagement and academic performance, with an 11-percentage-point achievement gain in the Durlak meta-analysis -->
 
 ## Subclaims
 `q3 i1` Fostering social-emotional competencies increases students' engagement in learning and improves cognitive and academic performance (effect sizes range from 0.18 to 0.28). [→ Greenberg 2023](#greenberg-2023)
-`q3 i?` The Durlak et al. meta-analysis of 213 programs with outcomes from over 270,000 K–12 students found an 11-percentage-point gain in achievement. [→ Greenberg 2023 (2)](#greenberg-2023-2)
+`q3 i?` The Durlak et al. meta-analysis of 213 programs with outcomes from over 270,000 K–12 students found an 11-percentile-point gain in achievement (the report says "percentage-point"; Durlak et al. report percentile points). [→ Greenberg 2023 (2)](#greenberg-2023-2)
 
 ## Evidence
 
@@ -54,7 +55,7 @@ Greenberg, M. T. (2023). Evidence for social and emotional learning in schools. 
 
 `q3 · i?` · `review · r2`
 
-Narrative summary of the Durlak et al. (2011) meta-analysis of 213 school-based universal SEL programs with outcomes data from over 270,000 K–12 students; the report notes "the 11-percentage-point gain in achievement".
+Narrative summary of the Durlak et al. (2011) meta-analysis of 213 school-based universal SEL programs with outcomes data from over 270,000 K–12 students; the report notes "the 11-percentage-point gain in achievement". Durlak et al. (2011) report this figure as an 11-percentile-point gain, not percentage points; the report's wording is kept in the quote.
 
 > "Of particular note was the 11-percentage-point gain in achievement, which suggested that SEL programs improved students' academic success."
 

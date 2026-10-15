@@ -1,0 +1,24 @@
+{
+  "principle": "principles/pairing-non-examples-with-examples",
+  "note": "Conversion wave 10 (2026-10-15). Grouping and directions by an agent from the claims' titles and evidence entries. One finding: the hub is the one claim testing correct-against-incorrect examples (Durkin & Rittle-Johnson 2012; Rittle-Johnson 2017). comparing-contrasting-cases-improves-learning is also a member of analogical-reasoning-improves-transfer in analogical-reasoning.json. About seven distinct studies across four claims. Review before applying.",
+  "findings": [
+    {
+      "hub": "erroneous-examples-build-conceptual-knowledge",
+      "question": "Does setting an incorrect or non-matching case beside a correct one help learners more than correct examples alone?",
+      "members": [
+        [
+          "comparing-contrasting-cases-improves-learning",
+          "~"
+        ],
+        [
+          "ps-i-fosters-learning-only-with-contrasting-cases-or-student-solutions",
+          "+"
+        ],
+        [
+          "contrasting-cases-gatekeeper-repositioning",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

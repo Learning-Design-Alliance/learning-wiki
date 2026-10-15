@@ -144,6 +144,12 @@ No claim tests the general rule that ordering by dependency and readiness beats 
 
 Taken together: order effects are real in several particular contrasts, they depend on expertise, age, material and outcome, and two of them (example first, problem first) favour opposite orders for different goals. None establishes that a whole unit or course ordered by dependency beats another order, and none measures retention of an order effect over weeks.
 
+## The evidence by question
+
+- *Should learners attempt a problem before the idea is taught, and what must the teaching afterwards do?* [Productive Failure Improves Conceptual Learning](../claims/productive-failure-improves-conceptual-learning.md) [~S]
+- *Should examples or problems of confusable categories be met in blocks or interleaved, and for which materials?* [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](../claims/interleaving-improves-inductive-learning.md) [~M]
+- *Should component knowledge come before the whole task?* [Pretraining learners on a system's key parts and terms before the main lesson improved knowledge and real-world transfer in one VR experiment, and is reported second-hand to improve learning in multimedia studies](../claims/pretraining-improves-transfer.md) [+M]
+
 ## Further evidence, not yet read against this model
 
 Claims this page cited before it was rewritten, and claims found while rewriting it that bear on order but have not been weighed in the model above.

@@ -34,7 +34,7 @@ sources:
 
 ## Subclaims
 `q2 i?` In the Oztoc exhibit at the New York Hall of Science, learning typically occurs when visitors explain to each other how to lure different categories of fish. [→ Roschelle 2017](#roschelle-2017)
-`q2 i?` A combination of physical blocks and screen-based representation is needed to lead visitors into deeper scientific and engineering practices. [→ Roschelle 2017 (2)](#roschelle-2017-2)
+`q2 i?` A combination of physical blocks and screen-based representation is needed to lead visitors into deeper scientific and engineering practices. [→ Roschelle 2017](#roschelle-2017)
 
 ## Evidence
 
@@ -48,6 +48,7 @@ The report describes the Makescape project's research on the Oztoc game-exhibit,
 
 > "Research is finding that learning typically occurs when visitors explain to each other how to lure different categories of fish."
 
+<!-- merged duplicate entry 2026-10-15: the same report was entered twice; the second entry, coded differently, follows verbatim.
 ### Roschelle 2017 (2)
 
 Roschelle, J., Martin, W., Ahn, J. & Schank, P. (Eds.). (2017). Cyberlearning Community Report: The State of Cyberlearning and the Future of Learning With Technology. Menlo Park CA: SRI International. https://digitalpromise.dspacedirect.org/items/dafbe585-c0f8-4693-bde8-a6d847a58aad
@@ -57,6 +58,7 @@ Roschelle, J., Martin, W., Ahn, J. & Schank, P. (Eds.). (2017). Cyberlearning Co
 The same Makescape research on the Oztoc exhibit found that "a combination of physical blocks and screen-based representation is needed" to lead visitors into deeper scientific and engineering practices. No effect sizes are printed.
 
 > "Further, the researchers have found that a combination of physical blocks and screen-based representation is needed to lead visitors into deeper scientific and engineering practices."
+-->
 
 ## Discussion
 

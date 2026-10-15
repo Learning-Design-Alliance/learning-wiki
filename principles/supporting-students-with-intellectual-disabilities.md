@@ -104,6 +104,11 @@ No claim in the wiki compares this combination of moves with lowered expectation
 
 Learners, settings, outcomes and comparisons differ across these claims (general classes, students with learning or behaviour difficulties, high-school students in special education, fifth graders, a national cohort), so do not rank them by effect label. None measures delayed retention of an academic skill taught this way against another way to students with intellectual disabilities.
 
+## The evidence by question
+
+- *Does teaching students with intellectual or other disabilities to set goals, make decisions and lead their own planning raise their self-determination and participation?* [Self-determination instruction improves outcomes](../claims/self-determination-instruction-improves-outcomes.md) [+M]
+- *Do cue-based (mnemonic) methods help students with mild disabilities recall academic facts and vocabulary?* [Mnemonic Instruction Improves Recall For Students With Disabilities](../claims/mnemonic-instruction-improves-recall-for-students-with-disabilities.md) [+M]
+
 ## Further evidence, not yet read against this model
 
 The earlier page cited no claim pages. These claims bear on single rows of the situation table and have not been read against the whole model.

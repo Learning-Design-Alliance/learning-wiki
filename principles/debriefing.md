@@ -121,6 +121,10 @@ What limits and qualifies the model:
 
 Learners, tasks, settings and outcomes differ across these claims (children with a tutor, engineering undergraduates, health-professions trainees, laboratory recall), so do not rank them by effect size. None measures delayed retention or workplace performance after a debrief.
 
+## The evidence by question
+
+- *Does a feedback and reflection step after a simulation or shared exercise add to what learners gain from the experience itself?* [The review reports that embedded analytics, timely feedback, and structured reflection strengthen conceptual consolidation and learning gains](../claims/analytics-feedback-reflection-strengthen-learning-gains.md) [+M]
+
 ## Further evidence, not yet read against this model
 
 Claims about debriefs or group reflection that the earlier page did not cite, and that this model does not rest on. Each says what it is and how far it bears on this page.

@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Worked examples improve mathematics performance, especially for novices.
+title: Studying worked examples improves novices' algebra performance on problems with the same structure as the examples
 status: review
 generated:
   by: codex/unspecified
@@ -28,10 +28,11 @@ id: worked-examples-improve-math-performance
 evidence_strength: moderate
 ---
 
-# Worked examples improve mathematics performance, especially for novices.
+# Studying worked examples improves novices' algebra performance on problems with the same structure as the examples
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r?` · `q2`–`q3`
+<!-- title before 2026-10-15: Worked examples improve mathematics performance, especially for novices. -->
 
 In mathematics learning, worked examples can improve performance by making solution structure visible before learners attempt similar problems on their own.
 

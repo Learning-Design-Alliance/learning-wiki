@@ -41,8 +41,9 @@ Conclusion drawn from the study's consultations and implementation case study; t
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Cohort membership and mentor-rich environments contribute to skill development and persistence for adult learners](cohort-support-improves-adult-persistence.md) — the general claim this finding bears on, with the studies behind it
 - [Active participation in a community has a more significant impact on learning than mere membership](active-participation-beats-mere-membership-for-learning.md) — related
 - [Tutors and trainee researchers most value supportive attitude, mastery of the research field, and accessibility in a research project supervisor](supervisor-desirable-characteristics-survey.md) — related
 - [Implementation of the TPI procedure reached only one tutor-trainee pair out of nine potential tutors, though participants assessed it positively](tpi-implementation-low-participation-positive-assessment.md) — related

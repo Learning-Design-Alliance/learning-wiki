@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Desirable Difficulties Enhance Learning
+title: Retrieval practice and spaced retrieval improve achievement and retention by medium amounts, while interleaving helps category learning only for some materials and blocking beats it for words
 id: desirable-difficulties-enhance-learning
 aliases: [desirable-difficulties-improve-retention]
 status: draft
@@ -38,10 +38,11 @@ sources:
     rigour: "?"
 ---
 
-# Desirable Difficulties Enhance Learning
+# Retrieval practice and spaced retrieval improve achievement and retention by medium amounts, while interleaving helps category learning only for some materials and blocking beats it for words
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 3 quant-synthesis `r?` · `q4` · `i2` medium
+<!-- title before 2026-10-15: Desirable Difficulties Enhance Learning -->
 
 Introducing certain effortful conditions during learning — such as retrieval practice, spacing, and interleaving — can slow visible performance during instruction while improving long-term retention and transfer. The claim is about *desirable* difficulties specifically: conditions that are effortful but surmountable, not obstacles that exceed the learner's capacity.
 

@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Writing Improves Mathematical Understanding
+title: "Writing-to-learn activities improve content learning in Grades 1–12, with effects in mathematics indistinguishable from those in science and social studies, in one meta-analysis"
 status: draft
 generated:
   by: claude/unspecified
@@ -19,10 +19,12 @@ sources:
     rigour: "?"
 ---
 
-# Writing Improves Mathematical Understanding
+# Writing-to-learn activities improve content learning in Grades 1–12, with effects in mathematics indistinguishable from those in science and social studies, in one meta-analysis
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i1` small · n=56 experiments
+
+<!-- title before 2026-10-15: Writing Improves Mathematical Understanding -->
 
 Writing about mathematical reasoning — explaining solutions, justifying steps, or keeping math journals — deepens conceptual understanding by forcing learners to articulate the *why* behind procedures, not just execute them.
 
@@ -48,9 +50,11 @@ Writing also imposes extraneous load; if the writing task itself (format, length
 
 Open questions include how much structure (sentence starters, rubrics) is optimal, whether benefits hold under standardized assessment conditions, and how effects differ for multilingual learners whose writing fluency may lag their mathematical reasoning.
 
-**Evidence status.** No studies are currently catalogued for this claim. The writing-to-learn literature in mathematics is sizable but heterogeneous — effects vary widely with prompt type, grade level, and outcome measure — so further evidence on this page should come from studies that directly test mathematical writing interventions against matched non-writing controls, with conceptual and procedural outcomes measured separately.
+**Evidence status.** One study is catalogued: a meta-analysis (Graham et al. 2020) whose abstract reports one pooled effect across science, social studies and mathematics, with no mathematics-specific estimate available here. The writing-to-learn literature in mathematics is sizable but heterogeneous — effects vary widely with prompt type, grade level, and outcome measure — so further evidence on this page should come from studies that directly test mathematical writing interventions against matched non-writing controls, with conceptual and procedural outcomes measured separately.
 
 ## Related Claims
+
+- [Writing To Learn Improves Understanding](writing-to-learn-improves-understanding.md) — the general claim this finding bears on, with the studies behind it
 
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — writing tasks must manage load to avoid crowding out reasoning
 - [Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here](annotating-improves-learning.md) — a lighter-weight form of generative written processing

@@ -107,6 +107,11 @@ No claim compares a whole-first with a parts-first order or tests a holistic cou
 
 Learners, comparisons and outcomes differ across these claims (college and high-school physics students, novices on complex tasks, older syntheses, a VR lesson), so do not combine them into a predicted effect for holistic design.
 
+## The evidence by question
+
+- *Does giving learners the content as an organised whole, general ideas above details, improve performance over the same details without that organisation, and on which tasks and for whom?* [A hierarchical internal knowledge organization facilitates performance on complex recall and problem-solving tasks more than a single-level organization of the same knowledge](../claims/hierarchical-organization-improves-complex-task-performance.md) [+M]
+- *Should component knowledge come before the whole task?* [Pretraining learners on a system's key parts and terms before the main lesson improved knowledge and real-world transfer in one VR experiment, and is reported second-hand to improve learning in multimedia studies](../claims/pretraining-improves-transfer.md) [+M]
+
 ## Further evidence, not yet read against this model
 
 - [Skill develops through engaging in the target activity itself, not through mechanistic drill of isolated components](../claims/skill-develops-through-engagement-not-drill.md) [+W]: a theoretical argument from second-language acquisition (VanPatten, 2010), coded `q1`; it agrees with the whole-task side and its claim page lists the part-task claim as reporting the opposite. Not part of the model, since it is one argument in one domain.

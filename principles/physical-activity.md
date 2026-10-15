@@ -26,7 +26,7 @@ sources:
 # Physical Activity
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 4 studies (2 review, 1 design, 1 theoretical), `q2`–`q3` · 0 of 4 report an effect size · 2 claims rest on one study
+> **Evidence** · 15 claims (9 for, 6 mixed) · 18 studies (8 causal, 4 review, 3 quant-synthesis, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 2 of 18 report an effect size · 9 claims rest on one study
 
 ## Conditional relationship
 

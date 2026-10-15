@@ -124,6 +124,11 @@ No claim in the wiki compares explicit strategy instruction with practice that l
 
 Learners, tasks and outcomes differ across these claims (seventh-grade algebra, ninth-grade word problems in 1972, fourth graders, circuit troubleshooting, writing revision), so do not rank them by effect label. None measures delayed transfer of a taught strategy against no strategy teaching.
 
+## The evidence by question
+
+- *Does teaching when and why to use a procedure, not only its steps, improve flexible use and understanding?* [Strategy Instruction Needs Conditional Knowledge](../claims/strategy-instruction-needs-conditional-knowledge.md) [+M]
+- *Does explicitly teaching a strategy or plan for word problems improve how learners set up and solve them?* [Three weeks of explicit language-focused strategy instruction produced no significant word-problem gain in this study](../claims/explicit-strategy-instruction-no-significant-gain.md) [~M]
+
 ## Further evidence, not yet read against this model
 
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S] — cited by the earlier page as a reason that strategy routines can organise problem solving and that too many strategies at once can overload; the claim is about working-memory limits in general (4 distinct studies in its table) and bears on this page only by inference, for example on limiting the number of methods per session.

@@ -1,6 +1,6 @@
 ---
 type: claim
-title: "Explicit CL-based instruction teaching prepositions' core senses plus diagrams significantly improved advanced learners' understanding of when to use to, for and at"
+title: "Advanced L2 learners taught the core senses of to, for and at with diagrams show pre- to post-test gains in knowing when to use them, in one uncontrolled study reported second-hand"
 description: "Explicit CL-based instruction teaching prepositions' core senses plus diagrams significantly improved advanced learners' understanding of when to use to, for and at"
 id: cl-core-sense-preposition-instruction-improves-use
 status: draft
@@ -19,10 +19,12 @@ sources:
     rigour: 2
 ---
 
-# Explicit CL-based instruction teaching prepositions' core senses plus diagrams significantly improved advanced learners' understanding of when to use to, for and at
+# Advanced L2 learners taught the core senses of to, for and at with diagrams show pre- to post-test gains in knowing when to use them, in one uncontrolled study reported second-hand
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+
+<!-- title before 2026-10-15: Explicit CL-based instruction teaching prepositions' core senses plus diagrams significantly improved advanced learners' understanding of when to use to, for and at -->
 
 ## Subclaims
 `q2 i?` Advanced L2 learners taught the core senses of to, for and at with diagrams showed significant pre- to post-test improvement in knowing when to use the prepositions. [→ Sáez 2014](#saez-2014)

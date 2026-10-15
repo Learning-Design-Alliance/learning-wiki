@@ -99,6 +99,11 @@ No claim in the wiki compares critique with and without a stated standard and as
 
 Learners, settings and outcomes differ across these claims (children on puzzles, ninth graders' GPA, college persistence, suspensions, correlations across many studies), so do not rank them. None measures revision uptake after wise-framed critique, the outcome the earlier page's sources are described as measuring.
 
+## The evidence by question
+
+- *Do a feedback giver's expectations of a learner, or of the learner's group, show in the feedback given and in the learner's later performance?* [Teacher expectation bias predicted Dutch secondary students' performance up to five years later, after controls for prior achievement, IQ and motivation, in one large correlational cohort study](../claims/teacher-expectation-effects-on-achievement.md) [+W]
+- *Should the positive comment and the assurance speak to the learner's ability, or to their work and effort?* [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](../claims/feedback-praise-reduces-learning.md) [-M]
+
 ## Further evidence, not yet read against this model
 
 The earlier page cited no claims. These were found while converting it and bear on it less directly; none has been read against the model above beyond its title, evidence line and entries.

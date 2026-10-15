@@ -109,6 +109,12 @@ No claim compares the six-part plan with another plan or with improvisation, or 
 
 Learners, settings and outcomes differ across these claims (whole K–12 classrooms, middle-school doorways, suspension records, students with disabilities in single-case designs, laboratory free-choice tasks), so do not rank them by effect label. None measures whether a gain in classroom behavior lasts after the plan's supports are withdrawn, or whether it raises achievement.
 
+## The evidence by question
+
+- *Does a planned, whole-class management approach reduce disruptive behavior and raise engaged time compared with usual practice?* [Teachers' universal classroom management practices significantly reduce problem classroom behavior (mean classroom ES = 0.80, ICC=.05)](../claims/universal-classroom-management-reduces-problem-behavior.md) [+M]
+- *Does a warm, personal contact with the teacher go with, or raise, students' engagement?* [Positive teacher–student relationships are associated with greater student engagement and, more weakly, with achievement](../claims/teacher-student-relationships-improve-engagement.md) [~M]
+- *Do SEL programmes also improve conduct, distress and academic achievement, and by how much?* [Universal school-based SEL programs improve students' behaviour, with a small and, in recent randomised trials, negligible effect on academic achievement](../claims/sel-programs-improve-behavior-and-achievement.md) [+M]
+
 ## Further evidence, not yet read against this model
 
 The earlier page cited one claim (rewards, now in the model above). These claims bear on parts of the relationship and were found while converting it; none has been read against the model beyond its own claim page.

@@ -111,6 +111,11 @@ These rows are proposals, untested with learners or adults. A probe (asking a yo
 
 Populations, comparisons and outcomes differ across these claims (parents of preschoolers, children with autism, middle-school teachers, K–12 programmes, facilitators' reports), so do not rank them by effect label, and do not read any as a forecast for 14–25-year-olds.
 
+## The evidence by question
+
+- *Does training the adults around a young person to deliver or support the practice improve the young person's outcomes?* [Parent Implemented Intervention Improves Outcomes](../claims/parent-implemented-intervention-improves-outcomes.md) [+M]
+- *Should the adults be coached through rehearsal and feedback, or is information enough?* [Parent Coaching Outperforms Information Only](../claims/parent-coaching-outperforms-information-only.md) [+M]
+
 ## Further evidence, not yet read against this model
 
 Claims bearing on this page that are not part of the model above; each says what it is and how far it bears.

@@ -41,8 +41,9 @@ Post-hoc pairwise comparisons with Holm's sequential Bonferroni following the si
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Increased perceptual fidelity fails to reliably improve serious game learning outcomes (the fidelity fallacy)](fidelity-fallacy-serious-games.md) — the general claim this finding bears on, with the studies behind it
 - [Accommodator learners gained significantly more in the VR (guided exploration) mode than in VR (non-guided exploration) or Non VR modes](accommodators-gain-most-vr-guided-exploration.md) — related
 - [Assimilator learners gained significantly more in the VR (guided exploration) mode than in VR (non-guided exploration) or Non VR modes](assimilators-gain-most-vr-guided-exploration.md) — related
 - [In the VR (guided exploration) mode, assimilator and accommodator learners did not differ significantly in gain score](guided-vr-no-learning-style-difference.md) — related

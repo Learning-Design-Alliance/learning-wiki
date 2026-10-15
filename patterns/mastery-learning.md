@@ -29,7 +29,7 @@ grain_size: unit
 # Mastery Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 26 claims (13 for, 12 mixed, 1 against) · 23 studies (7 quant-synthesis, 5 causal, 3 review, 2 associational, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 7 of 23 report an effect size · 22 claims rest on one study
+> **Evidence** · 27 claims (13 for, 13 mixed, 1 against) · 24 studies (7 quant-synthesis, 6 causal, 3 review, 2 associational, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 7 of 24 report an effect size · 23 claims rest on one study
 
 ## Description and scope
 
@@ -93,6 +93,12 @@ Ask for four facts when the brief omits them: **the unit criterion and how it is
 | Learners' attitudes or attrition are a concern | Mastery classes rated the instruction and the subject more favourably; tell learners what the criterion is and why | [Mastery learning improves attitudes](../claims/mastery-learning-improves-attitudes-toward-instruction.md) [+M]; [Positive affective effects](../claims/mastery-positive-affective-effects.md) [+M] |
 | The check will be a quiz written by the teacher | Write a parallel form for rechecks that changes surface details and at least one relevant condition | [Criterion-referenced tests need construct validation](../claims/criterion-referenced-tests-need-construct-validation.md) [~W] |
 | A district pacing calendar fixes when topics are taught | Agree in advance how far the loop may extend a unit, and what gap is carried forward when time runs out | [Pacing calendars seen as impediments to mastery](../claims/pacing-calendars-standardized-assessments-impediments.md) [~W] |
+
+## The evidence by question
+
+- *Does making progress depend on reaching a unit criterion, with correction and a recheck, raise examination performance over conventional pacing?* [Mastery Learning Improves Outcomes](../claims/mastery-learning-improves-outcomes.md) [+M]
+- *Which variant: how high a criterion, group-paced or self-paced, and measured how?* [Mastery learning effects are larger with a higher mastery standard, group-based pacing, local tests, and less feedback for the comparison group](../claims/mastery-learning-effects-vary-with-standard-pacing-and-test-type.md) [~M]
+- *What does it cost in time and coverage, and what happens when learners do not reach the criterion?* [Mastery learning implementation did not reduce material covered or instructional pace, contradicting the Robin Hood contention](../claims/mastery-learning-did-not-slow-pace-or-scope.md) [~M]
 
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-10-01 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->

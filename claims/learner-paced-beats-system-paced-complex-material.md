@@ -64,7 +64,7 @@ This meta-analysis updated earlier work (Niemiec, Sikorski, & Walberg) on giving
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Who should set the pauses, and do pause controls do the same job as designed segments?* This table gathers the studies behind this claim and the 10 narrower claims that bear on it: **8 distinct studies** (4 causal, 3 quant-synthesis, 1 design), `q2`–`q3`, 3 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does handing learners control over pace, path or tasks improve learning, and when?* This table gathers the studies behind this claim and the 13 narrower claims that bear on it: **11 distinct studies** (5 causal, 4 quant-synthesis, 1 design, 1 review), `q2`–`q4`, 3 of 11 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -76,6 +76,9 @@ This meta-analysis updated earlier work (Niemiec, Sikorski, & Walberg) on giving
 | Toma 2000 | q2 · design · r2 | i? | [Students pause the video after a few sequences to consult a segment menu and judge workloa](students-pause-video-to-view-segment-menu.md) (qualifies) |
 | Rouse 1980 | q2 · causal · r1 | i? | [Forced pacing eliminates positive transfer from computer aiding and leads subjects to use ](forced-pacing-eliminates-aiding-transfer.md) (qualifies) |
 | [Carter 2014](https://doi.org/10.3389/fpsyg.2014.01325) | q3 · causal · r1 | i3; i? | [Learners who could decide after a trial whether to receive knowledge of results (Self-Afte](self-controlled-kr-decided-after-trial-improves-motor-retention.md) (qualifies); [Learners who could decide after a trial whether to receive knowledge of results (Self-Afte](self-controlled-kr-decided-after-trial-improves-motor-transfer.md) (qualifies); [Having control over the knowledge-of-results decision only before a motor trial (Self-Befo](self-controlled-kr-decided-before-trial-shows-no-benefit-over-yoked.md) (qualifies); [Learners who could decide after a trial whether to receive knowledge of results estimated ](self-controlled-kr-decided-after-trial-improves-error-estimation-accuracy.md) (qualifies) |
+| [Kulik et al. 1990](https://doi.org/10.3102/00346543060002265) | q4 · quant-synthesis · r? | i? | [Self-paced mastery programs (PSI) reduce college course completion, though not by enough t](self-paced-mastery-programs-reduce-college-course-completion.md) (counts against) |
+| [Scheiter 2007](https://doi.org/10.1007/s10648-007-9046-3) | q2 · review · r? | i? | [Learner characteristics — prior knowledge, self-regulatory skills, cognitive styles, and a](learner-characteristics-moderate-hypermedia-effectiveness.md) (qualifies) |
+| Azimi 2026 | q2 · causal · r1 | i? | [The Coach's hint budget was managed poorly: students split into early-spenders and savers,](hint-budget-mismanaged-two-patterns.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

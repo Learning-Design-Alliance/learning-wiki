@@ -14,7 +14,7 @@ sources:
     title: "Kraft, M.A., Blazar, D., Hogan, D. (2018). The effect of teaching coaching on instruction and achievement: A meta-analysis of the causal evidence. Review of Educational Research, 88(4), 547-588. https://doi.org/10.3102/0034654318759268"
     author: Kraft, M.A., Blazar, D., Hogan, D.
     q: 4
-    i: "?"
+    i: 0
     kind: quant-synthesis
     rigour: 2
   - id: kraft-2018-2
@@ -22,7 +22,7 @@ sources:
     title: "Kraft, M.A., Blazar, D., Hogan, D. (2018). The effect of teaching coaching on instruction and achievement: A meta-analysis of the causal evidence. Review of Educational Research, 88(4), 547-588. https://doi.org/10.3102/0034654318759268"
     author: Kraft, M.A., Blazar, D., Hogan, D.
     q: 4
-    i: "?"
+    i: 0
     kind: quant-synthesis
     rigour: 3
 ---
@@ -33,8 +33,8 @@ sources:
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2`–`r3` · `q4`
 
 ## Subclaims
-`q4 i?` Across causal studies, coaching raised student performance on standardized tests by 0.18 SD, with substantial between-program variation (random-effect SD 0.18). [→ Kraft 2018](#kraft-2018)
-`q4 i?` On state standardized tests, which assess broad domains, the pooled effect is smaller at 0.12 SD (p=.04, k=31, n=10). [→ Kraft 2018 (2)](#kraft-2018-2)
+`q4 i0` Across causal studies, coaching raised student performance on standardized tests by 0.18 SD, with substantial between-program variation (random-effect SD 0.18). [→ Kraft 2018](#kraft-2018)
+`q4 i0` On state standardized tests, which assess broad domains, the pooled effect is smaller at 0.12 SD (p=.04, k=31, n=10). [→ Kraft 2018 (2)](#kraft-2018-2)
 
 ## Evidence
 
@@ -42,7 +42,7 @@ sources:
 
 Kraft, M.A., Blazar, D., Hogan, D. (2018). The effect of teaching coaching on instruction and achievement: A meta-analysis of the causal evidence. Review of Educational Research, 88(4), 547-588. https://doi.org/10.3102/0034654318759268
 
-`q4 · i?` · `quant-synthesis · r2`
+`q4 · i0 · d=0.18 (below 0.2)` · `quant-synthesis · r2`
 
 Random-effects meta-analysis of 113 achievement effect sizes from 60 causal studies; pooled effect 0.18 SD, random-effect SD 0.18 SD. Many achievement measures were aligned with the coaching programs.
 
@@ -52,7 +52,7 @@ Random-effects meta-analysis of 113 achievement effect sizes from 60 causal stud
 
 Kraft, M.A., Blazar, D., Hogan, D. (2018). The effect of teaching coaching on instruction and achievement: A meta-analysis of the causal evidence. Review of Educational Research, 88(4), 547-588. https://doi.org/10.3102/0034654318759268
 
-`q4 · i?` · `quant-synthesis · r3`
+`q4 · i0 · d=0.12 (below 0.2)` · `quant-synthesis · r3`
 
 Supplemental analysis restricted to the ten studies using state standardized tests, intended to assess broad knowledge domains; pooled effect 0.12 SD, significant at p=.04, with a confidence interval that includes 0.18 SD.
 

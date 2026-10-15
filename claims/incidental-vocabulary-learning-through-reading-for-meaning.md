@@ -1,6 +1,6 @@
 ---
 type: claim
-title: L2 learners develop much of their vocabulary incidentally through exposure to words in informative contexts, primarily via extensive reading for meaning
+title: L2 learners pick up vocabulary incidentally from meaning-focused input, with reading the most-studied mode and listening yielding similar proportions of words learned
 description: L2 learners develop much of their vocabulary incidentally through exposure to words in informative contexts, primarily via extensive reading for meaning
 id: incidental-vocabulary-learning-through-reading-for-meaning
 status: draft
@@ -28,10 +28,12 @@ sources:
     rigour: 2
 ---
 
-# L2 learners develop much of their vocabulary incidentally through exposure to words in informative contexts, primarily via extensive reading for meaning
+# L2 learners pick up vocabulary incidentally from meaning-focused input, with reading the most-studied mode and listening yielding similar proportions of words learned
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 quant-synthesis `r2`, 1 review `r2` · `q2`–`q3` · `i3` large · n=24 studies (29 effect sizes, N=2,771)
+
+<!-- title before 2026-10-15: L2 learners develop much of their vocabulary incidentally through exposure to words in informative contexts, primarily via extensive reading for meaning -->
 
 ## Subclaims
 `q2 i?` Extensive reading for meaning and form is the primary way incidental vocabulary learning occurs, though success depends on context quality, learner attention, and task demands. [→ Restrepo Ramos 2015](#restrepo-ramos-2015)

@@ -95,6 +95,8 @@ Participants used a web-based programme to learn GRE-type vocabulary word pairs,
 
 ## Related Claims
 
+- [Learners underuse effective learning strategies such as spacing and retrieval practice](learners-underuse-effective-learning-strategies.md) — the general claim this finding bears on, with the studies behind it
+
 - [Spaced practice improves long-term retention](spaced-practice-improves-retention.md) — the effectiveness claim that learners' scheduling misjudgments prevent them from exploiting
 - [Cognitive overload degrades learning.](cognitive-overload-degrades-learning.md) — shares the theme that subjective experience during study is an unreliable guide to learning outcomes
 - [Cognitive Load Theory](../theories/cognitive-load-theory.md) — the broader framework in which performance during instruction diverges from durable learning

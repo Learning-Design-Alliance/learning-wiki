@@ -110,6 +110,11 @@ No claim in the wiki compares a flipped course with the same course unflipped. T
 
 Learners, settings and outcomes differ across these claims (undergraduate STEM courses, one calculus class pair, laboratory passages, children with a tutor), so do not rank them by effect label. None measures delayed retention after a flipped course.
 
+## The evidence by question
+
+- *Does a flipped course raise academic performance over the same course taught by lecture?* [Flipped classroom learning improves academic performance of undergraduate health professional students compared with traditional class learning (SMD = 0.57), at low certainty of evidence](../claims/flipped-classroom-improves-academic-performance-hpe.md) [+M]
+- *Does what is done in the live session change what a flipped course achieves?* [Peer-teaching flipped classroom students show higher calculus conceptual understanding than conventional flipped classroom students after controlling for pretest](../claims/ptfc-beats-cfc-conceptual-understanding.md) [+M]
+
 ## Further evidence, not yet read against this model
 
 Claims found while writing this page, from the same study as a core claim or on its edges. None has been read into the model above.

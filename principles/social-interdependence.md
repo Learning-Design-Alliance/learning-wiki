@@ -98,6 +98,10 @@ Learners, settings and outcomes differ (school maths, early adolescents' general
 
 **A discrepancy to note.** Several claim pages from Brewer & Klein (2003) describe its participants as adult learners ([reward interdependence and benefit attitudes](../claims/reward-interdependence-benefit-attitudes.md) [+M], [high affiliation motive](../claims/high-affiliation-motive-favorable-group-attitudes.md) [~M]); the evidence entries describe 280 undergraduate business majors and do not say they were adult or reentry students. This page follows the entries.
 
+## The evidence by question
+
+- *Which structure matters: group rewards tied to each member's learning, assigned roles, or interdependence of any kind?* [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](../claims/cooperative-learning-group-rewards-and-individual-accountability.md) [+M]
+
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-05: claims this page cited before the 2026-10-05 rewrite, and neighbouring claims found while rewriting it. Each marker keeps its old direction where it had one, capped by the claim's recorded evidence (strength_cap). -->
 Claims this page cited before it was rewritten, and neighbours found while rewriting it. None is part of the model above.

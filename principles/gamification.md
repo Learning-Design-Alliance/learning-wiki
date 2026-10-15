@@ -103,6 +103,10 @@ These rows are proposals, untested as diagnostics. Removing or changing a mechan
 
 Learners, tasks, settings and outcomes differ across these claims (gamified courses pooled across settings, laboratory puzzles, school cooperative learning, reading texts), so do not rank them by effect label. None follows a gamified course after the layer is removed.
 
+## The evidence by question
+
+- *Does adding a game layer to instruction raise outcomes, and which outcomes?* [Gamification has small positive effects on cognitive, motivational and behavioral learning outcomes](../claims/gamification-has-small-positive-effects-on-learning-outcomes.md) [+M]
+
 ## Further evidence, not yet read against this model
 <!-- Claims this page cited before the 2026-10-05 rewrite, plus three claims found while converting it (marked Added 2026-10-05). Markers capped by each claim's recorded evidence (strength_cap). -->
 Claims this page cited before it was rewritten as a conditional model, and a few found while converting it. Each says what it is and how far it bears on this page.

@@ -29,7 +29,7 @@ A mediation analysis of 35 secondary lessons found that students who applied (ra
 ## Subclaims
 `q3 i?` Student uptake (applying rather than ignoring or copying teacher support) significantly predicted the accuracy of students' subsequent small-group answers (b=0.25, SE=0.11, p=.017, odds ratio=1.29), in a logistic multilevel mediation model. [→ van de Pol et al. 2019](#van-de-pol-et-al-2019)
 
-`~M i0` The contingency (calibration to student understanding) of teachers' support did not significantly predict student uptake (b=-2.97, SE=5.19, p=.567), and the hypothesized indirect path from contingency through uptake to accuracy was not significant (b=-0.75, SE=1.43, p=.599) — contingency alone, without accounting for how support ended, was not sufficient to produce uptake in this sample. [→ van de Pol et al. 2019](#van-de-pol-et-al-2019)
+`q3 i?` The contingency (calibration to student understanding) of teachers' support did not significantly predict student uptake (b=-2.97, SE=5.19, p=.567), and the hypothesized indirect path from contingency through uptake to accuracy was not significant (b=-0.75, SE=1.43, p=.599) — contingency alone, without accounting for how support ended, was not sufficient to produce uptake in this sample. [→ van de Pol et al. 2019](#van-de-pol-et-al-2019)
 
 `q3 i?` Qualitative analysis of cases where contingent support was ignored found that in 5 of 7 such cases, the teacher had withdrawn ("faded") without checking whether students understood, and students subsequently showed frustration or confusion; in all 7 cases where contingent support was applied, the teacher had checked understanding before withdrawing. [→ van de Pol et al. 2019](#van-de-pol-et-al-2019)
 

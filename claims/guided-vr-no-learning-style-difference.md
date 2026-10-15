@@ -39,10 +39,13 @@ One-way ANCOVA within the VR (guided exploration) mode comparing learning styles
 
 > "After adjusting for the pre-test scores, it was found that there was no signiﬁcant diﬀerence between the assimilator learners and the accommodator learners on the gain scores, F(1, 59) = 0.165, p = 0.165."
 
+<!-- 2026-10-15: the quote prints the same value (0.165) for F and p, which cannot both be right; not checked against the article, so the p value here is unverified. -->
+
 ## Discussion
 
-
 ## Related Claims
+
+- [Learning Styles Matching Does Not Improve Learning](learning-styles-matching-does-not-improve-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Accommodator learners gained significantly more in the VR (guided exploration) mode than in VR (non-guided exploration) or Non VR modes](accommodators-gain-most-vr-guided-exploration.md) — related
 - [Assimilator learners gained significantly more in the VR (guided exploration) mode than in VR (non-guided exploration) or Non VR modes](assimilators-gain-most-vr-guided-exploration.md) — related
 - [No significant interaction between learning mode and learning style on gain scores, while the learning-mode main effect was significant](no-mode-by-style-interaction-vr-gains.md) — related

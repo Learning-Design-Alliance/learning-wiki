@@ -122,6 +122,11 @@ Learners, tasks and outcomes differ across these claims (teacher candidates' ass
 - [Knowledge gained by self-analysis is more likely to produce constructive change in teaching than insights given by an observer](../claims/self-analysis-knowledge-drives-teacher-change.md) [~W]: an argument with no data (`q1`) in a 1970 programme overview. It qualifies peer observation in which the observer hands over conclusions.
 - [Research on clinical supervision's effectiveness is inconclusive, partly because practice is diluted and tied to evaluation](../claims/clinical-supervision-effectiveness-inconclusive.md) [~W]: a monograph's report that research has not reached clear conclusions, and of one sample in which an average of 28 minutes a year went to observation within 112 minutes of clinical supervision per teacher. It qualifies observation cycles run as evaluation, and thin ones.
 
+## The evidence by question
+
+- *Does structured observation of authentic practice build novices' ability to describe and analyse what they see, and what limits what a novice sees?* [In the initial skill acquisition phase, authentic video yielded higher overall observation assignment scores than virtual simulation](../claims/av-outperforms-vs-total-observation-score.md) [+M]
+- *Do observing others teach, and being observed, go with teachers' efficacy and change in practice?* [Vicarious experiences are positively related to agriculture teachers' general teaching efficacy, with observing a first year teacher explaining 11% of variance](../claims/vicarious-experiences-positive-teaching-efficacy.md) [~W]
+
 ## Further evidence, not yet read against this model
 
 Claims that mention observation but bear on this page little or not at all:

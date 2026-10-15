@@ -119,6 +119,12 @@ No claim compares a sequence that reactivates earlier material in later work wit
 
 Learners, tasks and horizons differ across these claims (young adults on word lists, healthy adults exercising, EFL learners, a psychology course), so do not rank them by effect label. None measures the effect of reusing earlier material inside later tasks.
 
+## The evidence by question
+
+- *Does an advantage measured at the end of instruction still hold on a delayed, unaided test?* [Immediate task success does not establish learning that persists without AI support](../claims/immediate-performance-not-evidence-of-independent-learning.md) [+W]
+- *Does what happens in the hours after learning, such as a bout of exercise, change how much is remembered later?* [The timing of acute exercise relative to learning modulates memory consolidation](../claims/acute-exercise-timing-memory.md) [~S]
+- *Is a learner's sense of having learned something a safe guide to whether it will last?* [Fluent Illusions Mislead Self Assessment](../claims/fluent-illusions-mislead-self-assessment.md) [+M]
+
 ## Further evidence, not yet read against this model
 
 Claims this page cited before it was rewritten. All three now appear in the model above, labelled with what they bear on; they are listed here so the earlier citations stay visible.

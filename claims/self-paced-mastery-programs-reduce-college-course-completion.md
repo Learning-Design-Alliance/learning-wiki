@@ -49,6 +49,8 @@ The cost belongs to self-pacing, not to mastery gating as such: group-based mast
 
 ## Related Claims
 
+- [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](learner-paced-beats-system-paced-complex-material.md) — the general claim this finding bears on, with the studies behind it
+
 - [Mastery learning effects are larger with a higher mastery standard, group-based pacing, local tests, and less feedback for the comparison group](mastery-learning-effects-vary-with-standard-pacing-and-test-type.md) — the general claim this finding bears on, with the studies behind it
 
 - [Mastery Learning Improves Outcomes](mastery-learning-improves-outcomes.md) — the same synthesis, overall effect

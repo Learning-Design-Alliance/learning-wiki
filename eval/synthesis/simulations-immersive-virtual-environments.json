@@ -1,0 +1,66 @@
+{
+  "principle": "principles/simulations-immersive-virtual-environments",
+  "note": "Wave 10 (2026-10-15). Groupings and directions by an agent from the claims' titles and evidence entries, each claim read in full. Directions are relative to each hub's statement.",
+  "findings": [
+    {
+      "hub": "simulation-based-education-improves-outcomes",
+      "question": "Does practising in a simulation improve knowledge and skill more than no simulation or conventional training, and for which skills and horizons?",
+      "members": [
+        [
+          "simulation-based-education-with-deliberate-practice-improves-clinical-outcomes",
+          "+"
+        ],
+        [
+          "simulation-games-higher-skill-based-knowledge",
+          "+"
+        ],
+        [
+          "ixr-vet-positive-effects-procedural-motivation",
+          "+"
+        ],
+        [
+          "ai-simulation-short-term-gains-nursing",
+          "~"
+        ],
+        [
+          "genai-virtual-patient-short-term-gains-mixed",
+          "~"
+        ],
+        [
+          "simulation-advantage-immediate-not-sustained",
+          "~"
+        ],
+        [
+          "simulation-near-transfer-robust-far-transfer-weak",
+          "~"
+        ],
+        [
+          "ai-simulation-inferior-bse-skills",
+          "-"
+        ]
+      ]
+    },
+    {
+      "hub": "fidelity-fallacy-serious-games",
+      "question": "Does more perceptual fidelity or immersion improve learning from a simulation?",
+      "members": [
+        [
+          "non-guided-vr-no-better-than-non-vr",
+          "+"
+        ],
+        [
+          "conventional-training-higher-realism-immersion",
+          "~"
+        ],
+        [
+          "xr-higher-agent-realism-than-non-immersive",
+          "~"
+        ],
+        [
+          "immersive-tech-underused-positive-outcomes-robotics",
+          "-"
+        ]
+      ]
+    }
+  ]
+}

@@ -108,6 +108,11 @@ Not yet read against this page: Rohrer, Dedrick & Stershic (2015), a classroom e
 
 Taken together: mixing kinds in practice reliably helps learners tell confusable kinds apart, most for visual categories and less for mathematics; it does nothing or harm for texts and word lists. No claim in the wiki tests a dose (how much mixing, after how many blocked items), and no claim separates interleaving from the spacing it usually brings with it.
 
+## The evidence by question
+
+- *Should examples or problems of confusable categories be met in blocks or interleaved, and for which materials?* [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](../claims/interleaving-improves-inductive-learning.md) [~M]
+- *How alike must the categories be for mixing to help, and when does blocking do better?* [Interleaving effects are stronger when material is more similar between categories, less similar within categories, and more complex](../claims/similarity-and-complexity-moderate-interleaving.md) [~M]
+
 ## Further evidence, not yet read against this model
 
 - [Learners prefer massed study despite its inferior outcomes](../claims/learners-misjudge-spacing-benefits.md) [~M]: the same misjudgement as Kornell & Bjork's learners, for spacing; it bears on why interleaving needs to be built into materials rather than left to learners.

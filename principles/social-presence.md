@@ -104,6 +104,11 @@ No claim in the wiki tests social-presence design: none assigns learners to cour
 
 Learners, settings and outcomes differ across these claims (graduate and MBA students' ratings, school pupils' relationships, college entrants' persistence, video viewers' judgements), so do not rank them. Taken together: social presence is perceived, goes with self-reported regulation and satisfaction, and probably needs deliberate design online; whether designing for it raises learning is not shown, and making presence felt can change ratings without changing performance.
 
+## The evidence by question
+
+- *In an online community of inquiry, which presences go with learners' regulation and learning?* [Social presence shows the strongest association with metacognition in an online case-based course, while teaching presence shows no significant relationship](../claims/social-presence-strongest-metacognition-association-cbi.md) [~M]
+- *Does community in an online course have to be designed for, and which moves are reported to build it?* [Online learning communities do not simply emerge; they must be designed for and scaffolded through teaching and assessment activities](../claims/online-communities-must-be-designed-and-scaffolded.md) [+W]
+
 ## Further evidence, not yet read against this model
 
 Claims and sources this page touches that have not been read against the model above, with what each is and how far it bears on the page.

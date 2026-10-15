@@ -83,6 +83,12 @@ Ask for three facts when the brief omits them: **whether a bank of conceptual qu
 | Nearly everyone answers correctly on the first vote | Explain briefly and move to a harder or changed question | untested proposal |
 | The class runs live online (`online-instructor-led`) | Use the poll for the votes and breakout rooms of two or three for discussion, with the isomorphic item answered alone in the poll | untested proposal |
 
+## The evidence by question
+
+- *Does discussing a committed answer with peers improve a later individual answer on a new question?* [Peer Discussion Improves Conceptual Understanding](../claims/peer-discussion-improves-conceptual-understanding.md) [+M]
+- *How much comes from answering the question at all, before any discussion?* [Classroom quizzing delivered by clickers, computer software, or paper improves student performance on classroom exams in middle school and college courses](../claims/classroom-quizzing-improves-exam-performance-across-grades-and-content.md) [+W]
+- *Which questions to discuss: recall-level or higher-order?* [HOCS clicker questions during learning improve performance on LOCS exam questions more than LOCS clicker questions do](../claims/hocs-clickers-improve-locs-exam-performance.md) [+M]
+
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-10-01 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
 Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.

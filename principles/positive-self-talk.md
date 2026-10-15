@@ -123,6 +123,10 @@ Limiting:
 
 The populations, tasks and outcomes differ widely (athletes, school writers, adults with spider fear, ninth-graders' GPA), so do not rank these by effect label. None measures delayed retention or academic learning from self-talk alone.
 
+## The evidence by question
+
+- *Does teaching learners short self-talk cues improve their performance on a task, and does it carry from motor tasks to academic work?* [Self Talk Improves Learning And Performance](../claims/self-talk-improves-learning-and-performance.md) [+S]
+
 ## Further evidence, not yet read against this model
 
 Claims bearing on self-talk that the earlier page did not cite and that are not part of the model above.

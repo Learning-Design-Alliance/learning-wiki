@@ -17,8 +17,8 @@ sources:
     rigour: 1
   - id: rittle-johnson-2017
     resource: "https://doi.org/10.1007/s11858-017-0834-z"
-    title: "Rittle-Johnson, B. (2017). Promoting self-explanation to improve mathematics learning: A meta-analysis and instructional design principles. *ZDM Mathematics Education, 49*(4), 599–611. [https://doi.org/10.1007/s11858-017-0834-z](https://doi.org/10.1007/s11858-017-0834-z)"
-    author: Rittle-Johnson, B.
+    title: "Rittle-Johnson, B., Loehr, A. M., & Durkin, K. (2017). Promoting self-explanation to improve mathematics learning: A meta-analysis and instructional design principles. *ZDM Mathematics Education, 49*(4), 599–611. [https://doi.org/10.1007/s11858-017-0834-z](https://doi.org/10.1007/s11858-017-0834-z)"
+    author: "Rittle-Johnson, B., Loehr, A. M., & Durkin, K."
     q: 3
     i: "?"
     n: N/A
@@ -80,7 +80,7 @@ The seminal study identifying the "self-explanation effect." High-achieving stud
 
 ### Rittle-Johnson 2017
 
-Rittle-Johnson, B. (2017). Promoting self-explanation to improve mathematics learning: A meta-analysis and instructional design principles. *ZDM Mathematics Education, 49*(4), 599–611. [https://doi.org/10.1007/s11858-017-0834-z](https://doi.org/10.1007/s11858-017-0834-z)
+Rittle-Johnson, B., Loehr, A. M., & Durkin, K. (2017). Promoting self-explanation to improve mathematics learning: A meta-analysis and instructional design principles. *ZDM Mathematics Education, 49*(4), 599–611. [https://doi.org/10.1007/s11858-017-0834-z](https://doi.org/10.1007/s11858-017-0834-z)
 
 `q3 · meta-analysis` · `i? · no source text available to check; the entry prints no effect size` · `n=N/A` · `quant-synthesis · r?`
 

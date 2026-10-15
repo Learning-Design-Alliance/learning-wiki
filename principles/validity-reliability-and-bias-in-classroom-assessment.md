@@ -118,6 +118,12 @@ No claim in the wiki tests whether classroom assessments built with these moves 
 
 The learners, instruments and settings differ (large-scale examinations, simulations, peer raters online, research questionnaires), so do not rank these by effect label. None measures the classroom decisions this page is about.
 
+## The evidence by question
+
+- *Do markers scoring the same responses agree, and do written criteria bring their judgements closer?* [Raters differed significantly in severity/leniency in the MFRM analysis](../claims/raters-differed-severity-mfrm.md) [~M]
+- *How far can a pass/fail or grade decision near a cut score be trusted, and how should its consistency be reported?* [DC estimates tend to be lowest when the cut score is set at the peak of the score distribution, where inconsistent decisions are most likely](../claims/dc-lowest-at-score-distribution-peak.md) [~M]
+- *Does disengaged test taking (rapid guessing, low effort) distort scores, and when does it matter for the decision?* [Test-taking motivation tends to induce a person-specific, systematic negative bias on achievement test scores](../claims/test-taking-motivation-negative-score-bias.md) [+W]
+
 ## Further evidence, not yet read against this model
 
 Claims this page cited before it was rewritten, and others found while rewriting it. None tests the relationship; each says what it is and how far it bears on the page.

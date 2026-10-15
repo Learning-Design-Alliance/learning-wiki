@@ -115,6 +115,12 @@ Of these sixteen rows, nine rest on a claim, each carried beyond the population 
 
 Do not promise a gain from "using the CoI framework" or "designing for three interactions": no claim here measures one. A precise abstention names the missing comparison (two versions of the same online course differing in one feature, such as a week-1 contact task or a small-group discussion product, compared on end-of-term performance and completion) and the local record that would stand in for it.
 
+## The evidence by question
+
+- *Do learners do as well, and stay as long, in a fully online course as in the same course face to face?* [Grades are lower both for courses taken online and in future courses](../claims/online-course-lower-grades-current-and-future.md) [~M]
+- *Does building self-regulation support (planning, if-then plans, self-checks) into an online course improve learning and completion?* [Self-regulated learning interventions have a moderate effect (0.65) on learning outcomes in online and blended environments](../claims/srl-interventions-moderate-effect-online-blended.md) [+M]
+- *Does structuring online group discussion (roles, group rewards, a student-led group task) raise achievement, or only participation and attitudes?* [Structuring positive interdependence (role, reward, or both) did not affect posttest achievement for undergraduate business majors in asynchronous online small group work](../claims/interdependence-type-no-achievement-effect-asynchronous.md) [-M]
+
 ## Further evidence, not yet read against this model
 <!-- Claims this page cited before the 2026-10-05 rewrite, and neighbouring claims found while converting it, which are not used as core evidence above. Each marker keeps its old direction, capped by the claim's recorded evidence. -->
 Claims the earlier page cited, and neighbouring claims, that are not core evidence above. Each says what it is and how far it bears on this page.

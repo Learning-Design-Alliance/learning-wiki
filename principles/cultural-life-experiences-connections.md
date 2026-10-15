@@ -39,7 +39,7 @@ sources:
 # Cultural & Life Experiences Connections
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 27 claims (18 for, 9 mixed) · 36 studies (10 qualitative, 9 causal, 6 review, 4 quant-synthesis, 4 design, 2 theoretical, 1 associational), `q1`–`q4` · 5 of 36 report an effect size · 21 claims rest on one study
+> **Evidence** · 28 claims (19 for, 9 mixed) · 37 studies (10 qualitative, 9 causal, 6 review, 4 quant-synthesis, 4 design, 3 theoretical, 1 associational), `q1`–`q4` · 5 of 37 report an effect size · 22 claims rest on one study
 
 ## Conditional relationship
 
@@ -126,6 +126,12 @@ Limiting and qualifying claims:
 - [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [~M] and [A brief values-affirmation writing exercise raised African American seventh-graders' grades in two small field experiments, but a large same-district replication found no effect](../claims/self-affirmation-improves-outcomes.md) [~M]: brief identity-related interventions. A belonging intervention raised first-year completion in 22 institutions only where students' groups had opportunities to belong; a values-affirmation exercise that cut a racial grade gap in two small field experiments showed no benefit in a close large-scale replication (d = -0.07). Neither tests cultural connection in instruction; both warn that a brief message about identity is fragile and depends on the setting.
 
 Learners, settings, goals and outcomes differ across these claims (K-2 children, high-school girls in dance centres, 12th graders, prospective teachers, college entrants), and most have no comparison condition. Do not rank them by effect label.
+
+## The evidence by question
+
+- *Does building tasks and formative checks from learners' own cultural and community practices raise their engagement and let them show competence?* [The paper reports that culturally responsive pedagogies are associated with more student engagement, agency, and responsibility for seeking information](../claims/crse-pedagogies-engagement-agency-claim.md) [+W]
+- *Does connecting problems and instruction to learners' own lives raise achievement compared with the same content without that connection?* [A 1993 case-study paper on culturally aware teachers asserts, without data of its own, that instruction incorporating students' life experiences, language and skills improves academic performance](../claims/incorporating-home-culture-improves-academic-performance.md) [+W]
+- *Does treating learners' own experience as evidence move them from personal concerns to systemic analysis, and what does that depend on?* [Positioning personal experience as an epistemic resource supports expansion from inward to outward critical orientations](../claims/positioning-personal-experience-as-epistemic-resource-supports-critical-orientation-expansion.md) [+W]
 
 ## Further evidence, not yet read against this model
 <!-- Claims this page cited before the 2026-10-05 rewrite and not used as core evidence above, plus neighbouring claims found while rewriting. Markers keep the old direction where there was one, capped by the claim's recorded evidence. -->

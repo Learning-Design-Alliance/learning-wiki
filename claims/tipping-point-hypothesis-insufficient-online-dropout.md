@@ -41,8 +41,9 @@ Observational analysis of two years of dropout data from 196 university-level on
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Online music learning shows democratized access but low MOOC completion and resistance of embodied musical learning to video formats](moocs-low-completion-embodied-music-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Student Momentum graph shapes differ markedly by subject area, with math courses predominantly convex slope and political science courses predominantly steep wall](momentum-graph-shapes-vary-by-subject.md) — related
 - [Graphing the Student Momentum Indicator across lessons yields nine dropout-behavior shape categories, with steep wall shapes the most common (25.5%) and flat slope shapes rare (2.6%)](nine-student-momentum-graph-shape-categories.md) — related
 - [Online continuing education courses show lower persistence than comparable onground courses (79% vs 84%) over eight quarters](online-continuing-education-persistence-lower-than-onground.md) — related

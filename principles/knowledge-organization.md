@@ -114,6 +114,10 @@ The direct evidence is one report, Eylon & Reif (1979), read through five claim 
 
 Do not rank these by effect label: physics students on hierarchies, pooled concept-map studies and retrieval experiments compare different things. None measures retention beyond a week or two, and none tests a course-long organization.
 
+## The evidence by question
+
+- *Does having learners build an organization of the content as a concept map help, and against what comparison?* [Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice](../claims/concept-mapping-improves-learning.md) [~S]
+
 ## Further evidence, not yet read against this model
 
 - [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [~M]: cited by the earlier page for explicit structure reducing unproductive search. It tests worked examples against problem solving in algebra (one study, q3), not organization of knowledge; it bears on this page only by analogy.

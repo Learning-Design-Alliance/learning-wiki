@@ -97,6 +97,11 @@ Four rows cite a claim in their basis (child, concept goal, synchronous online, 
 
 Do not rank SAC against debate, Socratic seminar or discussion from these claims: none compares them. Do not read consensus, a lively discussion or a fair-sounding reversal as a learning gain. Do not predict delayed attitude change from a single session. A precise abstention names the missing comparison: SAC against debate or plain discussion, on an individually measured argument or perspective-taking outcome, at a delayed horizon. It also says what local observation would stand in for it (each learner's starting and revised position, scored on one rubric).
 
+## The evidence by question
+
+- *Does structured argument with peers improve learners' individual argument and content learning?* [Argumentation Improves Reasoning](../claims/argumentation-improves-reasoning.md) [~M]
+- *Which structure matters: group rewards tied to each member's learning, assigned roles, or interdependence of any kind?* [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](../claims/cooperative-learning-group-rewards-and-individual-accountability.md) [~M]
+
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-02: claims this page cited before the 2026-10-02 rewrite. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
 Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.

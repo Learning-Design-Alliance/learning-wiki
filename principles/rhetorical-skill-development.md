@@ -27,7 +27,7 @@ sources:
 # Rhetorical Skill Development
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 13 claims (9 for, 4 mixed) · 19 studies (6 causal, 5 quant-synthesis, 4 theoretical, 2 review, 1 associational, 1 qualitative), `q1`–`q4` · 4 of 19 report an effect size · 8 claims rest on one study
+> **Evidence** · 14 claims (10 for, 4 mixed) · 20 studies (6 causal, 6 quant-synthesis, 4 theoretical, 2 review, 1 associational, 1 qualitative), `q1`–`q4` · 5 of 20 report an effect size · 9 claims rest on one study
 
 ## Conditional relationship
 
@@ -123,6 +123,12 @@ No claim in the wiki compares teaching rhetorical choices with teaching fixed fo
 - [Some students expanded and generalized class tools and rhetorical concepts into their own activities beyond the course](../claims/expansion-generalization-beyond-classroom.md) [+W]: two students in a participant-observer case analysis; "some students" is all it can say.
 
 Learners, tasks and outcomes differ across these claims, so do not rank them by effect label. Most outcomes are product quality or argument quality at the time of the study; none measures retention or use of rhetorical choices months later.
+
+## The evidence by question
+
+- *Does structured argument with peers improve learners' individual argument and content learning?* [Argumentation Improves Reasoning](../claims/argumentation-improves-reasoning.md) [+M]
+- *Does writing or presenting for a real reader beyond the teacher-as-grader improve the product?* [Authentic Audiences Improve Student Work](../claims/authentic-audiences-improve-student-work.md) [+M]
+- *Does teaching writing as a staged process with feedback on drafts raise writing quality, and what has to be inside it for the gain to appear?* [Process Writing Improves Writing Quality](../claims/process-writing-improves-writing-quality.md) [+M]
 
 ## Further evidence, not yet read against this model
 

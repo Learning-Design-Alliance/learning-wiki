@@ -14,7 +14,7 @@ sources:
     title: "Lallé, S., Mudrick, N., Conati, C., Taub, M., Azevedo, R. (2017). On the Influence on Learning of Student Compliance with Prompts Fostering Self-Regulated Learning. Proceedings of the 10th International Conference on Educational Data Mining. https://educationaldatamining.org/EDM2017/"
     author: Lallé, S., Mudrick, N., Conati, C., Taub, M., Azevedo, R.
     q: 3
-    i: 3
+    i: "?"
     kind: associational
     rigour: 1
 ---
@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · associational `r1` · `q3` · `i3` large
 
 ## Subclaims
-`q3 i3` Students learned more when they complied more with the revise summary prompt (F1,20 = 6.17, p=.02, ηp2 =.15). [→ Lallé 2017](#lalle-2017)
+`q3 i?` Students learned more when they complied more with the revise summary prompt (F1,20 = 6.17, p=.02, ηp2 =.15). [→ Lallé 2017](#lalle-2017)
 
 ## Evidence
 
@@ -33,9 +33,9 @@ sources:
 
 Lallé, S., Mudrick, N., Conati, C., Taub, M., Azevedo, R. (2017). On the Influence on Learning of Student Compliance with Prompts Fostering Self-Regulated Learning. Proceedings of the 10th International Conference on Educational Data Mining. https://educationaldatamining.org/EDM2017/
 
-`q3 · i3` · `associational · r1`
+`q3 · i? · printed effect is a partial η² (.15) from a seven-predictor regression on 28 students, not a d-family effect size; not converted` · `associational · r1`
 
-Multiple linear regression on data from a user study with 28 college students learning with MetaTutor, with proportional learning gain as the dependent variable and compliance rates for seven explicit prompts as factors. The revise summary effect was "F1,20 = 6.17, p=.02, ηp2 =.15", a large effect by the paper's own criteria (ηp2 ≥ 0.13 is medium; the paper reports this as a significant main effect).
+Multiple linear regression on data from a user study with 28 college students learning with MetaTutor, with proportional learning gain as the dependent variable and compliance rates for seven explicit prompts as factors. The revise summary effect was "F1,20 = 6.17, p=.02, ηp2 =.15", reported as a significant main effect. An earlier version of this entry called it both large and medium by the paper's criteria; which benchmark the paper applies is not established here.
 
 > "Revise summary (F1,20 = 6.17, p=.02, ηp2 =.15), shown Fig. 2a."
 

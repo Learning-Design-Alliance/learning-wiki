@@ -21,7 +21,7 @@ sources:
     title: "Levie, W. H., & Dickie, K. (1973). The analysis and application of media. In R. Travers (Ed.), *The Second Handbook of Research on Teaching* (pp. 858–882). Rand McNally."
     author: "Levie, W. H., & Dickie, K."
     q: 2
-    i: 0
+    i: "?"
     n: n/a
     kind: theoretical
     rigour: "?"
@@ -47,7 +47,7 @@ A "media comparison study" treats an entire delivery medium (e.g., distance vs. 
 
 `q3 i?` Media comparison studies are fundamentally confounded because they fail to isolate specific media attributes (type of information representation, sensory modality, level of realism, feedback timing) as separate variables, instead treating the whole delivery medium as one functional unit. [→ Clark 1983](#clark-1983)
 
-`q2 i0` Media attributes — not whole media categories — are the level at which a taxonomy of instructionally relevant properties can be meaningfully defined and tested. [→ Levie and Dickie 1973](#levie-and-dickie-1973)
+`q2 i?` Media attributes — not whole media categories — are the level at which a taxonomy of instructionally relevant properties can be meaningfully defined and tested. [→ Levie and Dickie 1973](#levie-and-dickie-1973)
 
 `q2 i?` A "no significant difference" result is an inconclusive null finding, not evidence of equivalence — much as a "not guilty" verdict does not mean "innocent" — yet researchers and administrators have repeatedly misinterpreted decades of such findings (collected in Russell's widely cited "No Significant Difference" compilation) as proof that delivery medium does not matter for learning. [→ Lockee, Moore, and Burton 2001](#lockee-moore-and-burton-2001)
 
@@ -65,7 +65,7 @@ Clark's widely-cited synthesis argues that media do not directly cause learning 
 
 Levie, W. H., & Dickie, K. (1973). The analysis and application of media. In R. Travers (Ed.), *The Second Handbook of Research on Teaching* (pp. 858–882). Rand McNally.
 
-`q2 · foundational taxonomic/theoretical chapter` · `i0 · not an effect-size claim` · `n=n/a` · `theoretical · r?`
+`q2 · foundational taxonomic/theoretical chapter` · `i? · not an effect-size claim; no effect size printed` · `n=n/a` · `theoretical · r?`
 
 Levie and Dickie define media attributes as "the properties of stimulus materials which are manifest in the physical parameters of media," and provide a taxonomy including type of information representation (text, image, sound), sensory modality addressed, level of realism (abstract to concrete), and capacity for feedback (overt, covert, immediate, delayed). They argue comparison studies should target these specific attributes rather than whole media categories, and concluded as early as 1973 that most learning content can be conveyed through a variety of different media — making whole-medium comparison studies "fruitless."
 

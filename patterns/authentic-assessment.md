@@ -20,7 +20,7 @@ sources:
 # Authentic Assessment
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 19 claims (10 for, 8 mixed, 1 against) · 26 studies (8 causal, 8 quant-synthesis, 5 review, 3 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 8 of 26 report an effect size · 12 claims rest on one study
+> **Evidence** · 20 claims (11 for, 8 mixed, 1 against) · 27 studies (9 quant-synthesis, 8 causal, 5 review, 3 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 9 of 27 report an effect size · 13 claims rest on one study
 
 ## Description and scope
 
@@ -100,6 +100,12 @@ Seven rows rest on a claim (novices, children, clinical and simulated settings, 
 - **Limits.** [Guided rather than unassisted discovery](../claims/guided-discovery-outperforms-pure-discovery.md) [~S]: explicit instruction beat unassisted discovery (580 comparisons, d = 0.38), and discovery with guidance beat other instruction (360 comparisons, d = 0.30); a review argues guidance matters less only once learners have enough prior knowledge. An open authentic task set early to novices is the unguided case. [Rubric scoring spread across six scorers](../claims/engineering-rubric-low-scoring-reliability.md) [~W]: one class, six teams, a mean standard deviation of 1.2 points on a 9-point rubric. [Simulated cases judged unrealistic](../claims/simucase-lacks-behavioral-authenticity.md) [~W] and [trainees' reports that realistic clinical training transferred more smoothly](../claims/contextualized-teaching-facilitates-transfer.md) [+W] are single qualitative studies of learners' perceptions of realism; neither measures learning.
 
 Do not rank authentic assessment against tests from these claims: none compares them, none measures the assessor time an authentic task costs, and none follows learners to the practice the task imitates. Do not read a strong final product as the capability attained without a check on a second task, or a single assessor's score as reliable without an agreement check. A precise abstention names the missing comparison (an authentic performance task with revision against a conventional test of the same outcome, on a transfer task at a stated horizon) and the local observation that would stand in for it (scores on a second, different task; agreement between two assessors).
+
+## The evidence by question
+
+- *Does making the assessed task closer to real practice help learners carry the capability into that practice?* [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](../claims/contextualized-teaching-facilitates-transfer.md) [+W]
+- *Should learners assess their own work, and can their self-ratings be trusted?* [Self Assessment Improves Self Regulated Learning](../claims/self-assessment-improves-self-regulated-learning.md) [+M]
+- *Does writing or presenting for a real reader beyond the teacher-as-grader improve the product?* [Authentic Audiences Improve Student Work](../claims/authentic-audiences-improve-student-work.md) [+M]
 
 ## Further evidence, not yet read against this model
 

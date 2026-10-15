@@ -116,6 +116,11 @@ Seven rows rest on a claim (novices, children, clinical procedures, science and 
 
 Do not rank this pattern against direct instruction, case-based learning or simulation alone from these claims: none compares a cycle with them, and none measures the time a loop costs. Do not read a fluent debrief, a completed journal or enthusiasm as the capability changed. A precise abstention names the missing comparison (repeated experience-debrief-principle-retry loops against matched-time instruction with the same practice, on a new unaided task at a stated horizon) and the local observation that would stand in for it: the changed attempt, scored, at the next loop.
 
+## The evidence by question
+
+- *Does reflection after the task improve learning, and does the way it is prompted and structured matter?* [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](../claims/reflective-practice-evidence-mixed-in-professional-education.md) [~M]
+- *Does learning from an experience the learner acts in (a simulation, a hands-on task, a practical activity) improve outcomes over being told the same content?* [Reviewed studies report experiential learning benefits for engagement, skills, confidence and outcomes in human services education](../claims/experiential-learning-engagement-skills-ethical-reasoning.md) [+W]
+
 ## Further evidence, not yet read against this model
 <!-- Claims this page cited before the 2026-10-05 rewrite which are not used as core evidence above, plus one found while converting. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap). None has been re-read for the sequence above, so treat them as candidates, not as part of it. -->
 Claims this page cited before the 2026-10-05 rewrite and not used as core evidence above. Each says what it is and how far it bears on the pattern.

@@ -177111,10 +177111,10 @@
 },
 {
 "canonical":true,
-"description":"A course-grain pattern combining open enrollment, video-based instruction, and light-touch automated or peer assessment at scale — whose original connectivist, networked-learning design was largely abandoned once commercial \"xMOOC\" platforms adopted a broadcast, video-lecture-plus-quiz model instead.",
+"description":"An open course at a scale where no teacher can answer each learner is expected to serve registrants who can direct their own study only if it replaces teacher time with short segments and self-checks, a planning activity and recurring prompts, calibrated peer review and audited automated scoring, and judges itself by each learner's purpose rather than completion over all registrants; no claim tests a MOOC against another course form, and the nearest tested components are an if-then planning activity that raised completion for some online learners and rubric guidance for peer raters.",
 "id":"massive-open-online-course",
 "path":"patterns/massive-open-online-course.md",
-"status":"draft",
+"status":"review",
 "title":"Massive Open Online Course (MOOC)",
 "type":"pattern"
 },
@@ -177335,11 +177335,11 @@
 },
 {
 "canonical":true,
-"description":"Programmed Instruction breaks content into small self-contained steps, each requiring an active response with immediate confirmation, so learners advance individually rather than at a group's pace.",
+"description":"A reusable sequence in which content is broken into small frames, each needing an active response that is confirmed or corrected at once, with progress at the learner's pace or by branching on the response, behind a unit check; expected to help with facts, rules and procedures that have checkable answers when steps fit prior knowledge and a dated schedule guards against non-completion. No claim in this wiki tests programmed instruction itself; the nearest evidence is from self-paced mastery programs (PSI), feedback after retrieval and intelligent tutoring.",
 "grain_size":"lesson",
 "id":"programmed-instruction",
 "path":"patterns/programmed-instruction.md",
-"status":"draft",
+"status":"review",
 "title":"Programmed Instruction",
 "type":"pattern"
 },
@@ -177390,7 +177390,7 @@
 },
 {
 "canonical":true,
-"description":"Self-Directed Learning is the pattern-level target for designs in which learners take substantial responsibility for setting goals, selecting resources, monitoring progress, and evaluating outcomes within a structured environment.",
+"description":"A staged policy for handing learners control over goals, resources, pace and evaluation within a structured course, with a written plan, taught self-direction moves, dated check-ins and calibrated self-evaluation; no claim in this wiki tests the hand-over as such, and learner control alone showed a near-zero effect while self-pacing cost completion.",
 "grain_size":"course",
 "id":"self-directed-learning",
 "path":"patterns/self-directed-learning.md",
@@ -177928,10 +177928,10 @@
 {
 "aliases":["teach-to-intellectual-styles-flexibly"],
 "canonical":true,
-"description":"Cognitive styles are relatively stable individual differences in how people typically perceive, remember, and solve problems — distinct from the broader, less reliable notion of \"learning styles\" — and knowledge of a student's style can be used either to play to their existing strengths or to deliberately build the balance they lack.",
+"description":"For a learner whose attempts stall in a way that looks like a habit of approach (holistic or analytic, quick or deliberate), teaching the approach the task requires to everyone who needs it, faded across sessions, is expected to help more than matching tasks or formats to a measured style; no claim in the wiki tests either use of cognitive styles, and the matching evidence, from learning styles, runs against it.",
 "id":"cognitive-styles",
 "path":"principles/cognitive-styles.md",
-"status":"draft",
+"status":"review",
 "title":"Cognitive Styles",
 "type":"principle"
 },
@@ -178062,7 +178062,7 @@
 },
 {
 "canonical":true,
-"description":"Learners deliberately generate and evaluate hypotheses that contradict their initial judgment, reducing overconfidence and anchoring biases in reasoning and decision-making.",
+"description":"For a learner who has committed to a judgment where the evidence could point either way, a prompt to generate specific reasons the opposite could be right, then to decide again, is expected to reduce confirmation, anchoring and overconfidence biases more than a general warning to be objective; no claim in this wiki tests it directly, and the one claim on it rests on a review that names the method without testing it.",
 "id":"considering-the-opposite",
 "path":"principles/considering-the-opposite.md",
 "status":"review",
@@ -178443,7 +178443,7 @@
 {
 "aliases":["age-friendly-classroom-remedy-social-isolation"],
 "canonical":true,
-"description":"Networking and supporting adult learners in expanding their social networks provide access to additional resources and Social Supports, which can impact their trajectory and Motivation.",
+"description":"For adults in transition who can name few people to ask about their goal, repeated structured contact with the same peers, outreach by staff or mentors, and brokered introductions with a follow-up step are expected to yield usable new ties, less isolation and, more slowly, persistence and access to opportunity, though no claim in the wiki tests this against leaving networking to the learner.",
 "id":"expanding-social-networks",
 "path":"principles/expanding-social-networks.md",
 "status":"review",
@@ -178647,10 +178647,10 @@
 },
 {
 "canonical":true,
-"description":"Free-choice learning environments (museums, hobbies, self-directed exploration) give visitors real control over what and how deeply they engage, with no externally imposed curriculum or sequence, so the design must be intrinsically compelling on its own terms rather than backed by grades or tests.",
+"description":"In settings where learners choose whether, what and how long to engage, several entry points, a start from their own interests, no grades or expected rewards for taking part, and an activity that responds to each attempt are expected to lengthen voluntary engagement and, with feedback on the target idea, to improve understanding; no claim tests a free-choice environment as a whole, and one randomised exhibit study tests the feedback part.",
 "id":"free-choice-learning-environment-design",
 "path":"principles/free-choice-learning-environment-design.md",
-"status":"draft",
+"status":"review",
 "title":"Free-Choice Learning Environment Design",
 "type":"principle"
 },
@@ -179011,10 +179011,10 @@
 },
 {
 "canonical":true,
-"description":"Students with disabilities should be educated alongside non-disabled peers in regular classrooms and school programs as much as the specific student and setting allow, with the precise combination of settings determined case by case rather than fixed by disability category alone.",
+"description":"For a student with a disability, bringing supports into the general class and school life and moving the student to a separate setting only for a documented need the supported class cannot meet, decided case by case by a team and reviewed against data, is expected to give learning no worse than separate placement and fuller participation; one review of non-randomised studies finds no average difference between inclusive and segregated placement, and no claim tests the case-by-case decision itself.",
 "id":"least-restrictive-environment",
 "path":"principles/least-restrictive-environment.md",
-"status":"draft",
+"status":"review",
 "title":"Least Restrictive Environment",
 "type":"principle"
 },
@@ -179309,7 +179309,7 @@
 },
 {
 "canonical":true,
-"description":"Pairing non-examples with examples helps learners understand a concept, procedure, or category by seeing both what fits and what does not.",
+"description":"For a learner who can already follow a correct example but makes a plausible boundary error, studying a matched non-example or incorrect case beside the correct one and explaining the difference is expected to improve conceptual understanding and correct procedures more than correct examples alone; one claim tests this for incorrect solutions in mathematics with children, and none tests category non-examples.",
 "id":"pairing-non-examples-with-examples",
 "path":"principles/pairing-non-examples-with-examples.md",
 "status":"review",
@@ -179438,7 +179438,7 @@
 },
 {
 "canonical":true,
-"description":"Physical activity in learning contexts means intentionally incorporating movement, exercise, or embodied breaks to support attention, energy, regulation, and readiness to learn.",
+"description":"For school-age learners whose on-task behavior drops during long seated stretches, a brief bout of movement between segments, followed by a named task, is expected to raise on-task behavior in the next segment but not test-measured attention or achievement; two classroom reviews test this for children, and nothing in the wiki tests it for adults.",
 "id":"physical-activity",
 "path":"principles/physical-activity.md",
 "status":"review",
@@ -179697,7 +179697,7 @@
 {
 "aliases":["curricular-knowledge-as-a-resource-for-responsiveness"],
 "canonical":true,
-"description":"Responsive teaching is the in-the-moment adaptation of instruction to learners' emerging ideas, using evidence from student thinking to decide what to do next.",
+"description":"For learners whose ideas on a concept or principle may diverge from the plan, a teacher who makes their thinking visible, reads it against a prepared model of likely ideas and chooses the next move from it is expected to improve conceptual understanding and near transfer over the same plan delivered unchanged; no claim in the wiki tests this directly.",
 "id":"responsive-teaching",
 "path":"principles/responsive-teaching.md",
 "status":"review",
@@ -179780,7 +179780,7 @@
 },
 {
 "canonical":true,
-"description":"Self-directed learning is the principle of helping learners plan, monitor, and manage important parts of their own learning process.",
+"description":"Handing a learner decisions about goals, resources, pace, strategy and evaluation is expected to sustain engagement and build independence without costing learning only when the learner knows enough about the content to choose well, has been taught to plan, monitor and evaluate in the subject, and is given control gradually with checked checkpoints; no claim in the wiki compares learner-directed with teacher-directed study directly.",
 "id":"self-directed-learning",
 "path":"principles/self-directed-learning.md",
 "status":"review",
@@ -179844,7 +179844,7 @@
 },
 {
 "canonical":true,
-"description":"Simulations and immersive virtual environments let learners practice decisions, procedures, and interpretations inside a designed representation of reality.",
+"description":"For a learner preparing for a risky, costly, rare or invisible performance, repeated runs in a simulation that keeps the task's decisions and cues, guided during exploration and followed by feedback or a debrief, are expected to improve performance on the represented task more than no simulated practice, with more immersion adding nothing by itself; claims test simulation against no intervention and guided against free VR exploration, but not the debrief, dose or fidelity.",
 "id":"simulations-immersive-virtual-environments",
 "path":"principles/simulations-immersive-virtual-environments.md",
 "status":"review",
@@ -180037,10 +180037,10 @@
 {
 "aliases":["reduce-teacher-talk-increase-student-talk","relaxed-atmosphere-communicative-activities"],
 "canonical":true,
-"description":"The article presents the Bullock Report's basic tenet, adopted by Cummins for minority students, that \\\"talking and writing are a means to learning\\\" (p.50).",
+"description":"For learners meeting content they must understand, especially through a second language, moving lesson time from teacher talk to learners' own purposeful talk and short writing about the content, in a class where mistakes are safe, is expected to deepen understanding and willingness to speak; no claim tests this whole relationship, writing-to-learn and discussion-versus-lecture claims test its halves, and more talk alone does not raise comprehension.",
 "id":"talking-and-writing-means-to-learning",
 "path":"principles/talking-and-writing-means-to-learning.md",
-"status":"draft",
+"status":"review",
 "title":"Treat talking and writing as means to learning through dialogue-based, student-centered instruction",
 "type":"principle"
 },
@@ -180062,10 +180062,10 @@
 },
 {
 "canonical":true,
-"description":"The article argues that learner difficulties such as avoidance and overgeneralization \\\"are consequences that are not successfully remedied by only placing attention to the structural aspects of forms in the L2 classro...",
+"description":"For an L2 learner who produces a form but distributes it unlike proficient users because the L1 divides the meaning differently, explaining the meaning that motivates the form's uses (its core sense, with diagrams) and then practising choices across contexts is expected to yield more appropriate use than structural or phrase-only teaching; no claim in the wiki tests this comparison.",
 "id":"teach-conceptual-underpinnings-of-l2-forms",
 "path":"principles/teach-conceptual-underpinnings-of-l2-forms.md",
-"status":"draft",
+"status":"review",
 "title":"Teach the conceptual underpinnings of L2 forms rather than only their structural aspects or formulaic units",
 "type":"principle"
 },

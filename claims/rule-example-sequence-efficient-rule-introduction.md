@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Rule-example expository sequences appeared highly efficient for introducing a new rule in early programmed-instruction work
+title: A 1966 conceptual paper reports, citing earlier programmed-instruction work, that a rule-example-incomplete-example sequence appeared efficient for introducing a new rule
 description: Rule-example expository sequences appeared highly efficient for introducing a new rule in early programmed-instruction work
 id: rule-example-sequence-efficient-rule-introduction
 status: draft
@@ -19,10 +19,11 @@ sources:
     rigour: 3
 ---
 
-# Rule-example expository sequences appeared highly efficient for introducing a new rule in early programmed-instruction work
+# A 1966 conceptual paper reports, citing earlier programmed-instruction work, that a rule-example-incomplete-example sequence appeared efficient for introducing a new rule
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+<!-- title before 2026-10-15: Rule-example expository sequences appeared highly efficient for introducing a new rule in early programmed-instruction work -->
 
 ## Subclaims
 `q2 i?` In early programmed-sequence work, presenting an explicitly stated rule with chosen examples before incomplete examples was an excellent method for efficient introduction of a new rule. [→ Glaser 1966](#glaser-1966)

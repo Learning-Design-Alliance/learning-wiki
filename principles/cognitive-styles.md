@@ -19,7 +19,7 @@ sources:
 # Cognitive Styles
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 5 claims (2 for, 3 mixed) · 3 studies (2 theoretical, 1 review), `q1`–`q2` · 0 of 3 report an effect size · 5 claims rest on one study
+> **Evidence** · 20 claims (2 for, 13 mixed, 5 against) · 13 studies (5 review, 4 causal, 3 theoretical, 1 associational), `q1`–`q3` · 4 of 13 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 

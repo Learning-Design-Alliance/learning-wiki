@@ -22,7 +22,7 @@ sources:
 # Flexible Grouping
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 15 claims (9 for, 6 mixed) · 29 studies (11 quant-synthesis, 6 causal, 6 review, 3 qualitative, 2 theoretical, 1 associational), `q1`–`q4` · 8 of 29 report an effect size · 6 claims rest on one study
+> **Evidence** · 16 claims (10 for, 6 mixed) · 30 studies (11 quant-synthesis, 7 review, 6 causal, 3 qualitative, 2 theoretical, 1 associational), `q1`–`q4` · 8 of 30 report an effect size · 7 claims rest on one study
 
 ## Conditional relationship
 
@@ -30,7 +30,7 @@ This page owns **who works with whom, for what purpose, for how long, and how th
 
 The relationship is conditional on four things: the grouping evidence is recent and specific to the task, not a general ranking; the groups actually change, so that membership does not become a status label (quiet tracking); each group has a purpose, a task that needs the group and explicit success criteria; and every grouping cycle ends with each learner's own unaided check, so that support does not become a fixed placement.
 
-**No claim in the wiki tests flexible grouping itself.** None compares flexible with fixed ability groups, or regrouped small-group teaching with whole-class teaching, and no ability-grouping or tracking study is recorded as a claim; the two studies in this page's Key Sources (Burris et al. 2006 on heterogeneous grouping in mathematics; Castle et al. 2005 on flexible grouping in a high-needs school) have no claim page yet. The claims below test neighbouring parts: support adjusted to each learner's responses (one-to-one), using formative evidence to adapt teaching, group rewards resting on each member's learning, learning by explaining and teaching, explicit goals, and fading support. The rest is a default design, labelled as proposals. The evidence on composition (similar-need versus mixed) recorded here is opinion and observation only.
+**No claim in the wiki tests flexible grouping itself.** None compares flexible with fixed ability groups, or regrouped small-group teaching with whole-class teaching. The one ability-grouping claim recorded, [Attainment (ability) grouping is generally reported to impact negatively on student learning outcomes](../claims/streaming-impacts-negatively-on-learning-outcomes.md) [+W], is a review's general statement about fixed attainment grouping, not a test of regrouping by need (see the evidence by question below); the two studies in this page's Key Sources (Burris et al. 2006 on heterogeneous grouping in mathematics; Castle et al. 2005 on flexible grouping in a high-needs school) have no claim page yet. The claims below test neighbouring parts: support adjusted to each learner's responses (one-to-one), using formative evidence to adapt teaching, group rewards resting on each member's learning, learning by explaining and teaching, explicit goals, and fading support. The rest is a default design, labelled as proposals. The evidence on composition (similar-need versus mixed) recorded here is opinion and observation only.
 
 How the converted siblings sit around this: [Cooperative Learning](cooperative-learning.md) and [Social Interdependence](social-interdependence.md) hold how a mixed group's work is structured (interdependence and individual accountability) and what that does; this page uses that structure for its mixed groups and does not repeat it. [Collaborative Learning](collaborative-learning.md) holds when joint work of any structure changes what each member can do. [Adaptive Learning](adaptive-learning.md) holds the general relationship of choosing each learner's next task from their responses; flexible grouping is a group-level form of it, run by a teacher, where the unit of adaptation is a small group rather than one learner. [Scaffolding and Fading](scaffolding-and-fading.md) holds how support inside a group is raised and withdrawn.
 
@@ -121,6 +121,10 @@ No claim in the wiki compares flexible grouping with fixed ability grouping or w
 - [Contrasting workshop practices (random vs. purposeful grouping) framed the problem of labeling students around local context and teacher agency](../claims/grouping-practices-framed-labeling-problem.md) [~W]: teachers' talk in one professional-development debrief, where one valued random grouping for disrupting the labelling of students amid unofficial tracking. It names the tracking risk; it measures no learner outcome.
 
 Learners, settings and outcomes differ across these (one-to-one tutoring of children, K-12 syntheses, undergraduates and adults in reviews), so do not rank them by effect size. None measures belonging, motivation or stigma under different grouping policies, which the earlier page named as goals.
+
+## The evidence by question
+
+- *Does grouping learners by attainment (streaming, tracking, homogeneous groups) help or harm their learning compared with mixed groups?* [Attainment (ability) grouping is generally reported to impact negatively on student learning outcomes](../claims/streaming-impacts-negatively-on-learning-outcomes.md) [+W]
 
 ## Further evidence, not yet read against this model
 

@@ -18,7 +18,7 @@ sources:
 # Free-Choice Learning Environment Design
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (2 for, 1 unmarked) · 8 studies (3 review, 2 quant-synthesis, 1 causal, 1 qualitative, 1 theoretical), `q1`–`q4` · 1 of 8 report an effect size · 1 claim rests on one study
+> **Evidence** · 16 claims (6 for, 9 mixed, 1 against) · 17 studies (5 review, 4 theoretical, 3 causal, 3 qualitative, 2 quant-synthesis), `q1`–`q4` · 2 of 17 report an effect size · 14 claims rest on one study
 
 ## Conditional relationship
 
@@ -76,7 +76,7 @@ The three facts that most change the decision:
 | The brief names its own categories, routine, rubric or criteria (its own check-in, challenge levels, evaluation form) | Keep them; change only what the evidence says matters here: no grade on taking part, a response to each attempt, a look back at the end | untested proposal (wave lessons) |
 | The brief wants a whole project or performance kept whole (a game, a build, a show) | Do not split it into worksheets or items; check progress by what the learner can show and explain at the project | untested proposal |
 
-Ten of the nineteen rows cite a claim; one (the exhibit and child rows' study) is a controlled comparison, one (field trips) a school-data study with fixed effects, and the rest are qualitative cases, second-hand reports or arguments carried to settings they did not study, as each row says. The remaining rows are untested proposals.
+Ten of the twenty rows cite a claim. Three of them (the museum exhibit, child and target-idea rows) rest on one randomised comparison at one exhibit, and the field-trip row on one school-data study with fixed effects; the others rest on qualitative cases, second-hand reports or arguments carried to settings they did not study, as each row says. The other ten rows are untested proposals.
 
 ## Observation, state and explanation
 
@@ -110,7 +110,7 @@ Learners, settings and outcomes differ across these claims (grade-2 children at 
 
 Each question below links a general claim that gathers the studies behind it into one table, one row per distinct study, with each study's design and effect as recorded and no averaged verdict. The count is of distinct studies across the claim and the narrower claims that bear on it.
 
-- *Do grades and rewards for taking part undermine later voluntary engagement?* [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](../claims/rewards-undermine-intrinsic-motivation.md) [~M]
+- *Do rewards and praise undermine voluntary engagement?* [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](../claims/rewards-undermine-intrinsic-motivation.md) [~M]
 - *How much choice, for whom: what happens when self-direction is wide open?* [Not all students in connectivist courses could autonomously direct their own learning, and some felt disconnected and demotivated](../claims/connectivist-courses-student-agency-problems.md) [~W]
 
 ## Further evidence, not yet read against this model

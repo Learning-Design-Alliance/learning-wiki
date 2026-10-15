@@ -109,6 +109,11 @@ These rows are proposals and have not been tested with learners as diagnostics. 
 
 Learners, settings and outcomes differ across these claims (schoolchildren, first-year engineers, graduate students in service learning, prospective university students online), and their outcomes range from course exams to self-report questionnaires to the coded quality of entries; do not rank them by effect label. None measures delayed retention, and none compares a journal with the same time spent on practice or feedback.
 
+## The evidence by question
+
+- *Does keeping a reflective journal or doing regular written reflection improve learning over instruction without it?* [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](../claims/reflective-practice-evidence-mixed-in-professional-education.md) [+M]
+- *Do task-specific reflection prompts produce better learning or reflection than an open invitation to write?* [Reflective Practice Improves Outcomes When Structured](../claims/reflective-practice-improves-outcomes-when-structured.md) [+M]
+
 ## Further evidence, not yet read against this model
 
 Claims this page cited before it was rewritten, and other claims bearing on journals, with what each is and how far it bears.

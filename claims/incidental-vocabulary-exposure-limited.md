@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Incidental Vocabulary Exposure Limited
+title: Incidental vocabulary exposure produces reliable learning, but learners pick up only a small share of the unknown words they meet
 status: draft
 generated:
   by: claude/unspecified
@@ -46,10 +46,12 @@ sources:
     rigour: 2
 ---
 
-# Incidental Vocabulary Exposure Limited
+# Incidental vocabulary exposure produces reliable learning, but learners pick up only a small share of the unknown words they meet
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 4 studies · 3 quant-synthesis `r2`, 1 review `r2` · `q2`–`q3` · `i2`–`i3`
+
+<!-- title before 2026-10-15: Incidental Vocabulary Exposure Limited -->
 
 Learners acquire very few word meanings from a single incidental exposure during reading or listening; substantial word learning from context requires multiple encounters over time.
 
@@ -111,7 +113,7 @@ The guide reports, citing the Swanborn and de Glopper meta-analysis, that "the p
 
 **Constraints on relying on incidental exposure.** Wide free reading alone is an inefficient route to vocabulary growth: acquisition rates per encounter are so low that learners would need to read vastly more text than curricula allow to close vocabulary gaps through exposure alone [-M]. Learners with weak [prior knowledge](activation-improves-learning.md) or limited comprehension skills make the poorest meaning inferences from context, so incidental exposure widens rather than narrows vocabulary differences between strong and weak readers [~M]. Highly predictable or narrative-embedded text can also let readers comprehend the passage without fully resolving the target word's meaning, producing illusory learning [~M].
 
-**Open questions.** Most evidence comes from L1 reading research with school-age learners; the number of encounters needed may differ for L2 learners, multimedia environments, and listening comprehension. The Evidence section currently has no verified entries; studies quantifying per-encounter acquisition rates and the effects of encounter frequency still need to be added.
+**Open questions.** Most evidence comes from L1 reading research with school-age learners; the number of encounters needed may differ for L2 learners, multimedia environments, and listening comprehension. The Evidence section records four syntheses (two of them second-language); studies of per-encounter acquisition rates in multimedia and listening input would extend it.
 
 *Merged from “Incidental Word Learning While Reading Occurs But At Low Rates Per Exposure” (incidental-word-learning-while-reading-occurs-but-at-low-rates-per-exposure):* **Low per-exposure rates compound over volume.** The practical significance of incidental word learning comes from accumulation: a per-exposure acquisition probability of even 5–10% can yield substantial vocabulary growth over months of wide reading, which is why extensive reading is often credited as a major driver of vocabulary development despite weak learning from any single text [+M]. The flip side is that incidental learning alone is slow and unreliable for specific target words — a learner who needs a word now cannot depend on stumbling into enough contextual encounters [-M].
 

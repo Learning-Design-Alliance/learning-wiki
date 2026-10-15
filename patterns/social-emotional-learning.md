@@ -99,6 +99,11 @@ Eleven of the fifteen rows rest on a claim, each carried beyond the population o
 
 Do not rank SEL against academic instruction from these claims: none compares the two for time spent, and the achievement effects are small and contested. Do not read rising self-report, or a calm SEL lesson, as the skill attained. A precise abstention names the missing comparison (this sequence, or one step of it, against the same programme without it, on an observed skill measure a term later) and the local observation that would stand in for it.
 
+## The evidence by question
+
+- *Do sustained, structured programmes produce social-emotional gains, and do they last?* [SEL programs improve social emotional skills](../claims/sel-programs-improve-social-emotional-skills.md) [+S]
+- *Do SEL programmes also improve conduct, distress and academic achievement, and by how much?* [Universal school-based SEL programs improve students' behaviour, with a small and, in recent randomised trials, negligible effect on academic achievement](../claims/sel-programs-improve-behavior-and-achievement.md) [~S]
+
 ## Further evidence, not yet read against this model
 
 Claims this page cited before the 2026-10-05 rewrite, or that bear on it, which are not core evidence above. Each marker is capped by the claim's recorded evidence.

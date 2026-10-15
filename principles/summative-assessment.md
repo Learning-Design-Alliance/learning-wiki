@@ -112,6 +112,11 @@ No claim compares summative designs built on the conditions above with designs t
 
 Learners, settings and outcomes differ across these (eighth-graders, university nonmajors, dental and medical students, exam papers rather than learners), so do not rank them by effect label. None measures what an end-point design does to learning beyond the end of the course.
 
+## The evidence by question
+
+- *At what cognitive level do end-point exam questions sit, and how do learners score across those levels?* [University examination questions concentrate at the lower cognitive levels of Bloom's Taxonomy, dominated by comprehension and knowledge](../claims/exam-questions-concentrate-lower-bloom-levels.md) [~M]
+- *Does anxiety about the end-point test lower the scores it records, and do the test's conditions change that?* [Test anxiety is negatively related to exam performance, and proctoring does not moderate this relation](../claims/test-anxiety-negative-exam-performance.md) [~M]
+
 ## Further evidence, not yet read against this model
 
 Claims that bear on end-point judgment and grading but have not been worked into the model above. Most are arguments with no data; each says what it is.

@@ -132,6 +132,10 @@ No claim in the wiki tests whether teachers or designers who decide this way pro
 
 Learners, settings and outcomes differ across these claims (whole schools, first graders, fifth graders, adults, district purchasers), and almost none prints an effect size, so do not rank them.
 
+## The evidence by question
+
+- *When a school or district chooses an ed-tech product, is there rigorous evidence to choose by, and do purchasers use it?* [No readily accessible sources of rigorous evidence exist for most ed-tech products](../claims/no-rigorous-evidence-ed-tech-products.md) [~W]
+
 ## Further evidence, not yet read against this model
 
 Claims the earlier page cited, or that bear on the decision, that are used above only for a single step or row, or not at all; none has been read as a test of the model. Each says what it is and how far it bears on this page.

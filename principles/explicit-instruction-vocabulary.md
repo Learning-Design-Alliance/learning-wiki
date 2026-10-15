@@ -120,6 +120,12 @@ These rows are proposals, untested with learners as diagnostics. A probe is itse
 
 Learners, settings and outcomes differ across these claims (school-age first-language readers, second-language university students, military cadets), so do not rank them by effect label. None tests a number of words per session, a number of encounters, or a criterion for a word being learned, and none follows adults in work settings.
 
+## The evidence by question
+
+- *Does teaching the essential terms improve comprehension, and of which texts?* [Vocabulary Instruction Improves Comprehension](../claims/vocabulary-instruction-improves-comprehension.md) [+S]
+- *Does combining explicit instruction with contextual or incidental learning outperform either alone?* [Pairing Contextual Encounters With Explicit Instruction Produces Stronger Vocabulary Outcomes Than Either Alone](../claims/pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone.md) [+M]
+- *Does a taught word need repeated, spaced encounters before it is known and kept?* [Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts](../claims/vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts.md) [+M]
+
 ## Further evidence, not yet read against this model
 <!-- Claims this page cited before the 2026-10-05 rewrite, and a few found while rewriting it. Each marker keeps its old direction where it had one, capped by the claim's recorded evidence (strength_cap). -->
 Claims this page cited before it was rewritten as a conditional model, and others found while rewriting it. They bear on parts of the design but have not been read against the model above; each says how far it bears on vocabulary.

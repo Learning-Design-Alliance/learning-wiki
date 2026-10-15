@@ -1,0 +1,36 @@
+{
+  "principle": "principles/cognitive-styles",
+  "note": "Wave 10 (2026-10-15). Grouping and directions by an agent from the claims' titles and evidence entries. The hub already carries a table from principles/adaptive-learning; these members join it. All members test learning styles (Kolb, visual-verbal), not field dependence or reflectivity. Distinct studies added: Chen et al. 2005, Lee 2017.",
+  "findings": [
+    {
+      "hub": "learning-styles-matching-does-not-improve-learning",
+      "question": "Does assigning tasks or formats to match a learner's measured style improve learning more than giving every learner the same well-chosen task?",
+      "members": [
+        [
+          "intuitive-learners-outperform-sensing-learners",
+          "~"
+        ],
+        [
+          "no-mode-by-style-interaction-vr-gains",
+          "+"
+        ],
+        [
+          "guided-vr-no-learning-style-difference",
+          "+"
+        ],
+        [
+          "assimilators-gain-most-vr-guided-exploration",
+          "+"
+        ],
+        [
+          "accommodators-gain-most-vr-guided-exploration",
+          "+"
+        ],
+        [
+          "learning-style-no-correlation-pictorial-elucidation-effect",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Expressive Writing Improves Exam Performance
+title: "Brief expressive writing before an exam can raise test-anxious students' scores, but across the wider literature its effect on test performance is negligible"
 status: draft
 generated:
   by: claude/unspecified
@@ -28,10 +28,12 @@ sources:
     rigour: 3
 ---
 
-# Expressive Writing Improves Exam Performance
+# Brief expressive writing before an exam can raise test-anxious students' scores, but across the wider literature its effect on test performance is negligible
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r2`, 1 quant-synthesis `r3` · `q3`–`q4` · `i0`–`i2`
+
+<!-- title before 2026-10-15: Expressive Writing Improves Exam Performance -->
 
 Brief expressive writing about exam-related worries, completed shortly before a high-stakes test, can offload anxious thoughts and free working-memory resources for the exam task itself. The claim concerns *performance* under pressure — helping students show what they already know — not the acquisition of new knowledge.
 

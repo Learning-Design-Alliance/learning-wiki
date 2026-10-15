@@ -1,0 +1,24 @@
+{
+  "principle": "patterns/massive-open-online-course",
+  "note": "Wave 10 (2026-10-15). One finding: completion and dropout in open, low-commitment online courses. All members are second-hand or observational reports; none tests a design choice.",
+  "findings": [
+    {
+      "hub": "moocs-low-completion-embodied-music-learning",
+      "question": "How many people who enrol in an open online course finish it, and where do they stop?",
+      "members": [
+        [
+          "mooc-completion-four-percent",
+          "+"
+        ],
+        [
+          "orientation-week-attrition-double-online",
+          "~"
+        ],
+        [
+          "tipping-point-hypothesis-insufficient-online-dropout",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

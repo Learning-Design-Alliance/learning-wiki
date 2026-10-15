@@ -42,8 +42,9 @@ A 3 by 2 two-way ANCOVA of gain score by learning mode and learning style with p
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Learning Styles Matching Does Not Improve Learning](learning-styles-matching-does-not-improve-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Accommodator learners gained significantly more in the VR (guided exploration) mode than in VR (non-guided exploration) or Non VR modes](accommodators-gain-most-vr-guided-exploration.md) — related
 - [Assimilator learners gained significantly more in the VR (guided exploration) mode than in VR (non-guided exploration) or Non VR modes](assimilators-gain-most-vr-guided-exploration.md) — related
 - [In the VR (guided exploration) mode, assimilator and accommodator learners did not differ significantly in gain score](guided-vr-no-learning-style-difference.md) — related

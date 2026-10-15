@@ -41,8 +41,9 @@ The review's analysis names learner characteristics as the second reason hyperme
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](learner-paced-beats-system-paced-complex-material.md) — the general claim this finding bears on, with the studies behind it
 - [Studies on the effectiveness of hypermedia learning have produced ambiguous results](ambiguous-hypermedia-effectiveness-results.md) — related
 - [Lack of conceptual foundations and methodological shortcomings of many hypermedia studies contribute to ambiguous effectiveness findings](conceptual-methodological-shortcomings-hypermedia-research.md) — related
 - [Usability problems — disorientation, distraction, and cognitive overload — hinder demonstrating effectiveness of self-controlled hypermedia learning](hypermedia-usability-problems-hinder-effectiveness.md) — related

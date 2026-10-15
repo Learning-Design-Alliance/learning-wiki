@@ -97,6 +97,10 @@ These rows are proposals, untested with learners as diagnostics. The averages in
 
 The learners, outcomes and comparisons differ across these claims (seventh-graders' grades, college completion, exam scores of anxious ninth-graders), so do not rank them by effect label. No claim in the wiki records values affirmation with adults outside school, with children under 12, before feedback rather than before a term, or with repeated administrations compared with one.
 
+## The evidence by question
+
+- *Does a brief values-affirmation writing exercise before a threatening evaluation protect threatened learners' grades, compared with writing about an unimportant value?* [A brief values-affirmation writing exercise raised African American seventh-graders' grades in two small field experiments, but a large same-district replication found no effect](../claims/self-affirmation-improves-outcomes.md) [~S]
+
 ## Further evidence, not yet read against this model
 
 Claims that bear on the page more distantly, each with what it is and how far it bears.

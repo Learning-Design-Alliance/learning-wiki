@@ -118,6 +118,11 @@ Six rows rest on a claim (novices, adults at work, content goals, interdisciplin
 
 Do not rank these against one another: their comparators (traditional instruction, unassisted discovery, provided organizers, teacher-as-audience, studying without teaching, self-assessment without a rubric, no group work) and outcomes differ, and none was measured in a media-production unit. A precise abstention names the missing comparison (a production unit against the same content taught with a simpler product or none, on individual content understanding at a delay, with the time cost recorded) and the local observation that stands in for it.
 
+## The evidence by question
+
+- *Does building a representation of the content teach more than studying one that is provided?* [Learner-constructed graphic organizers are not shown to outperform provided ones: the one direct test, with college readers, favoured provided organizers on transfer](../claims/learner-constructed-graphic-organizers-outperform-provided.md) [~M]
+- *Does writing or presenting for a real reader beyond the teacher-as-grader improve the product?* [Authentic Audiences Improve Student Work](../claims/authentic-audiences-improve-student-work.md) [+M]
+
 ## Further evidence, not yet read against this model
 
 - "Learning By Producing Multimedia" [+M] was listed as this page's claim before the rewrite, as plain text with no link. No claim page by that name exists; the source (Tanaka 1997) is a descriptive article with no comparison, so nothing stands behind the marker.

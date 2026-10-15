@@ -95,6 +95,10 @@ These rows are untested proposals. Each probe is itself practice in judging sour
 
 Populations differ (US high-school and university classes on the open web; first-year business and nursing students in one library session; one psychology course), so do not rank these by effect label. None reports an effect size for source-evaluation teaching, none follows learners beyond five weeks, and two of the core studies have no control group.
 
+## The evidence by question
+
+- *Does teaching fact-checkers' off-page moves over several lessons improve learners' judgments of unfamiliar online sources, and how far does it reach?* [Civic Online Reasoning Instruction Improves Evaluation](../claims/civic-online-reasoning-instruction-improves-evaluation.md) [+M]
+
 ## Further evidence, not yet read against this model
 
 Claims the earlier page cited that are not used in the model above, and neighbouring claims found while rewriting it. None has been re-read against the model.

@@ -14,7 +14,7 @@ sources:
     title: "Zingaretti, M., Spelorzi, R., Sohanpaul, T. K., & Sorace, A. (2026). The Linguistic and Cognitive Effects of a One-Week Online Italian Language Course: A Pilot Study. *Journal of the European Second Language Association, 10*(1), 32–47. [doi:10.22599/jesla.152](https://doi.org/10.22599/jesla.152)"
     author: "Zingaretti, M., Spelorzi, R., Sohanpaul, T. K., & Sorace, A."
     q: 2
-    i: 3
+    i: "?"
     n: 18
     kind: causal
     rigour: 1
@@ -23,16 +23,16 @@ sources:
 # Gains from an intensive period of second-language study persist for weeks without rehearsal.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r1` · `q2` · `i3` large · n=18
+> **Evidence** · 1 study · causal `r1` · `q2` · n=18
 
 A pilot study, and three weeks is not months — but the gain held almost exactly, which is a
 different result from decaying slowly.
 
 ## Subclaims
 
-`q2 i3` Verbal fluency in Italian improved by 17.17 words immediately after a one-week intensive course (p < .001) and stood 17.11 words above baseline at a three-week follow-up (p < .001), with no practice in the interval. [→ Zingaretti et al. 2026](#zingaretti-et-al-2026)
+`q2 i?` Verbal fluency in Italian improved by 17.17 words immediately after a one-week intensive course (p < .001) and stood 17.11 words above baseline at a three-week follow-up (p < .001), with no practice in the interval. [→ Zingaretti et al. 2026](#zingaretti-et-al-2026)
 
-`q2 i2` Selective attention also improved (+13.33 points, p = .005) and persisted, while first-language English fluency was unchanged throughout — so the gain was specific rather than a general test-taking effect. [→ Zingaretti et al. 2026](#zingaretti-et-al-2026)
+`q2 i?` Selective attention also improved (+13.33 points, p = .005) and persisted, while first-language English fluency was unchanged throughout — so the gain was specific rather than a general test-taking effect. [→ Zingaretti et al. 2026](#zingaretti-et-al-2026)
 
 `q2 i?` The cohort spread widely on proficiency despite a shared study history: LexITA 28–78, M = 47.33, SD = 12.98, across second- and third-year students. [→ Zingaretti et al. 2026](#zingaretti-et-al-2026)
 
@@ -42,7 +42,7 @@ different result from decaying slowly.
 
 Zingaretti, M., Spelorzi, R., Sohanpaul, T. K., & Sorace, A. (2026). The Linguistic and Cognitive Effects of a One-Week Online Italian Language Course: A Pilot Study. *Journal of the European Second Language Association, 10*(1), 32–47. [doi:10.22599/jesla.152](https://doi.org/10.22599/jesla.152)
 
-`q2 · single-group pre/post/follow-up pilot study, no control group` · `i3 · +17.17 words, p < .001, retained at three weeks` · `n=18` · `causal · r1`
+`q2 · single-group pre/post/follow-up pilot study, no control group` · `i? · +17.17 words, p < .001, retained at three weeks; no standardised effect size printed` · `n=18` · `causal · r1`
 
 18 UK undergraduates (L1 English, Italian their only L2, mean age 19.3) took a one-week intensive online Italian course of roughly 21 hours. Verbal fluency and selective attention were measured before, immediately after, and three weeks later. Both gains persisted; L1 fluency did not move. The authors describe the study as a pilot, and there is no control group, so the design supports "the gain persisted" more strongly than it supports "the course caused it".
 

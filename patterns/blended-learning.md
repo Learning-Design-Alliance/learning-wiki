@@ -89,6 +89,10 @@ Four rows rest on a claim (adult professionals, complex skill or procedure, self
 
 Do not combine these into one strength or rank them: their comparators (face-to-face, lecture, no intervention, onground courses) and outcomes (pooled learning outcomes, exams, persistence, stated priorities) differ. A precise abstention names the missing comparison, outcome or observation and how to obtain it.
 
+## The evidence by question
+
+- *Does a blended course produce better learning outcomes than the same course taught in one mode?* [Blended Learning Improves Outcomes](../claims/blended-learning-improves-outcomes.md) [~M]
+
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-02: claims this page cited before the 2026-10-02 rewrite and did not use in the model above. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
 Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.

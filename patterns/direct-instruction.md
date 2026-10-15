@@ -78,6 +78,12 @@ Ask for four facts when the brief omits them: **the learners' unaided attempt at
 | Many teachers will deliver the lesson from a script | Expect the responsive parts (prompting, adjusting support) to be delivered less faithfully than the scripted parts; train and observe those parts | [Lower adherence to scaffolding than to scripted components](../claims/scaffolding-lower-adherence-than-scripted-components.md) [~M] |
 | A school is adopting a scripted Direct Instruction programme | Budget for training and coaching; gains appeared only where the programme was fully supported | [Direct Instruction gains depend on implementation support](../claims/direct-instruction-gains-depend-on-implementation-support.md) [~M] |
 
+## The evidence by question
+
+- *Does explaining and modelling a new method beat leaving learners to discover it with little support?* [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [+S]
+- *Teach the method first, or let learners attempt problems before instruction?* [Productive Failure Improves Conceptual Learning](../claims/productive-failure-improves-conceptual-learning.md) [~S]
+- *How long should full explanation and guidance continue as learners gain expertise?* [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](../claims/expertise-reversal-effect.md) [~S]
+
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-10-01 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
 Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.

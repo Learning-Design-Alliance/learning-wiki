@@ -33,6 +33,18 @@
       "question": "Which outcomes move: information recall, concept understanding, general reasoning, or learners' sense of having learned?",
       "members": [
         [
+          "structured-discussion-methods-improve-comprehension",
+          "~"
+        ],
+        [
+          "discourse-practices-correlate-reasoning-tests",
+          "+"
+        ],
+        [
+          "chatgpt-teachable-agent-knowledge-gains",
+          "+"
+        ],
+        [
           "active-learning-gains-larger-concept-inventories",
           "~"
         ],

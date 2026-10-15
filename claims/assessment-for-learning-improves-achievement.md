@@ -83,7 +83,7 @@ A narrative review of the classroom formative assessment literature, the source 
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does using assessment evidence during instruction raise achievement compared with the usual teaching?* This table gathers the studies behind this claim and the 10 narrower claims that bear on it: **10 distinct studies** (3 quant-synthesis, 2 review, 2 design, 2 causal, 1 theoretical), `q1`–`q3`, 3 of 10 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does adjusting instruction to evidence of learners' thinking gathered during teaching raise achievement over teaching the plan unchanged?* This table gathers the studies behind this claim and the 15 narrower claims that bear on it: **15 distinct studies** (4 qualitative, 3 quant-synthesis, 3 review, 2 design, 2 causal, 1 theoretical), `q1`–`q3`, 3 of 15 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -97,6 +97,11 @@ A narrative review of the classroom formative assessment literature, the source 
 | [Mustafa Metin 2022](https://doi.org/10.17509/jsl.v5i1.33190) | q2 · causal · r1 | i? | [Formative assessment embedded with explicit-reflective instruction yields higher post-test](formative-assessment-embedded-explicit-reflective-higher-posttest-nos-sks.md) (supports); [The formative-assessment-embedded group retained higher NOS and SK scores than the control](formative-assessment-embedded-explicit-reflective-higher-retention-nos-sks.md) (supports) |
 | [Rebecka Rundquist 2024](https://doi.org/10.18608/jla.2024.8299) | q2 · quant-synthesis · r2 | i? | [Formative-assessment-based LA shows positive effects on achievement, motivation, and under](formative-assessment-la-positive-effects.md) (supports) |
 | [Yao X-C and Fan L 2026](https://doi.org/10.3389/fpsyg.2026.1905455) | q2 · causal · r2 | i3; i? | [The Diagnostic Review class gained more writing points across three cycles than the Contro](diagnostic-review-larger-writing-gains.md) (supports); [The Diagnostic Review class scored higher on diagnostic accuracy, actionability, comprehen](diagnostic-review-higher-process-indicators.md) (supports); [Group-by-cycle interactions were significant for diagnostic accuracy, comprehension, revis](group-cycle-interactions-formative-outcomes.md) (qualifies) |
+| Ian D. Beatty 2008 | q2 · qualitative · r2 | i? | [Teachers reported that CRS-and-TEFA use gave them more information about student thinking ](tefa-formative-information-changed-lessons.md) (supports) |
+| Digital Promise 2018 | q2 · qualitative · r2 | i? | [Teachers use Microsoft Forms for real-time formative assessment to make in-the-moment inst](forms-realtime-formative-assessment-uses.md) (supports) |
+| [Robertson et al. 2021](https://doi.org/10.1080/07370008.2020.1832096) | q2 · qualitative · r2 | i? | [Developing curricular design knowledge enables small-scale responsive adaptations within a](curricular-knowledge-enables-responsive-instructional-moves.md) (qualifies) |
+| [McElhaney 2024](https://doi.org/10.51388/20.500.12265/231) | q2 · review · r2 | i? | [Teachers make frequent small customizations to OpenSciEd materials, mainly for practical n](teacher-customizations-storyline-curriculum.md) (qualifies) |
+| Yanjie Zhang 2026 | q2 · qualitative · r2 | i? | [Teachers in the formative study agreed lesson plans need adjustment when student ability d](stem-more-amenable-difficulty-scaling.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

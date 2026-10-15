@@ -98,6 +98,12 @@ These rows are proposals and have not been tested with learners. A single contra
 
 Keep the task, learners, comparator (no goal, "do your best", outcome goal), outcome type and horizon when transporting these findings. Work-task, health-behaviour and course-completion effects are not learning effects, a review's summary is not a test, and a non-significant difference is not evidence of no effect.
 
+## The evidence by question
+
+- *Does a specific, challenging goal raise performance over no goal or a vague 'do your best'?* [Goal setting improves performance](../claims/goal-setting-improves-performance.md) [+M]
+- *For a learner new to the task, should the goal name the process or the result, and how near should it be?* [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M]
+- *Does an if-then plan for the expected obstacle add to the goal alone?* [Forming implementation intentions (if-then plans) improves goal attainment](../claims/implementation-intentions-improve-goal-attainment.md) [~M]
+
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-02 (maintainer's decision): claims this page cited before the 2026-10-02 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
 Claims this page cited before it was rewritten as a conditional model. Both claims it cited before the 2026-10-02 rewrite are now read above as core evidence, so none remains here; the old `[+S]` marker on the specific-goals claim is capped at `[+M]` by its recorded evidence.

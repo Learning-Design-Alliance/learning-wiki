@@ -104,6 +104,12 @@ Twelve of the fourteen rows cite a claim, and each such claim is carried to teac
 
 Do not rank coaching against workshops, or one PD model against another, from these claims: the coaching meta-analysis (Kraft et al. 2018, recorded above) compares coaching with no coaching, not with a workshop on the same content, and its moderator results are associations across studies. Do not read teachers' satisfaction or stated intentions as changed practice. A precise abstention names the missing comparison (coached, practice-embedded PD against the same content as a workshop, on observed practice and a student measure at a stated delay) and the local observation that would stand in for it: the same look-for list at baseline, at the end, and six weeks after support ends.
 
+## The evidence by question
+
+- *Does coaching teachers on their classroom practice change their observed instruction?* [Teacher coaching programs improve teachers' instructional practice by a pooled 0.49 SD across 43 causal studies](../claims/coaching-pooled-instruction-effect-0-49-sd.md) [+M]
+- *Does coaching or sustained professional development raise the achievement of the teachers' students?* [Teacher coaching raises student achievement on standardized tests by a pooled 0.18 SD across 31 causal studies](../claims/coaching-pooled-achievement-effect-0-18-sd.md) [+M]
+- *Which features of a coaching programme go with larger effects: what it is paired with, its dose, its scale, its target or its mode?* [Pairing coaching with group trainings and instructional materials is associated with larger effects, while video libraries are associated with smaller effects](../claims/coaching-complementary-elements-moderators.md) [~M]
+
 ## Further evidence, not yet read against this model
 
 Claims the earlier page cited, or that bear on teacher PD, which are not core evidence above.

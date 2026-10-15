@@ -103,6 +103,11 @@ Thirteen of the 22 rows rest on a claim, and most carry it beyond the learners o
 
 Do not rank lecture against named alternatives from these claims by their effect labels: the comparators, learners and outcomes differ, and none tests a segmented lecture against an unsegmented one. A precise abstention names the missing comparison (for example, a lecture with a check question every 10–15 minutes against the same lecture without, on the same course exam) and the local observation that would stand in for it (check-question accuracy and weekly quiz scores by section).
 
+## The evidence by question
+
+- *Does replacing part of lecture with active learning raise exam scores and pass rates?* [Active Learning Improves Exam Performance](../claims/active-learning-improves-exam-performance.md) [-S]
+- *Does class time spent with learners talking, explaining and discussing, rather than listening, change what they think about and understand, and does more talk alone do it?* [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](../claims/discussion-promotes-more-active-thought-than-lecture.md) [~M]
+
 ## Further evidence, not yet read against this model
 
 Claims this page cited before the 2026-10-14 rewrite that are not used as core evidence above. Each keeps its old direction, capped by its recorded evidence.

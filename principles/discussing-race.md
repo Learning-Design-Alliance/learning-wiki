@@ -120,6 +120,10 @@ The claims that limit or qualify the model:
 
 Learners, settings and outcomes differ across these claims (Chicago school staff, families in focus groups, education leaders, fourth graders, Israeli primary pupils, undergraduates, LLM output), so do not rank them by marker. None measures what learners can analyse, or how they act, after a facilitated discussion of race compared with an alternative.
 
+## The evidence by question
+
+- *Does naming race explicitly, rather than treating a subject or a school as race-neutral, open discussion and analysis of how race shapes outcomes?* [Payne argues that color-blind ideology in schools precludes discussion of how outcomes and privilege are distributed by race](../claims/colorblindness-blocks-distribution-discussion.md) [+W]
+
 ## Further evidence, not yet read against this model
 
 Claims bearing on the topic that are not part of the model above, with how far each bears on this page.

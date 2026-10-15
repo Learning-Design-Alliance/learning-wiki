@@ -14,7 +14,7 @@ sources:
     title: "Williams, A. M., Fawver, B., & Hodges, N. J. (2017). Using the 'expert performance approach' as a framework for examining and enhancing skill learning: Improving understanding of how experts learn. *Frontline Learning Research, 5*(3), 139–154. https://doi.org/10.14786/flr.v5i3.267"
     author: "Williams, A. M., Fawver, B., & Hodges, N. J."
     q: 2
-    i: 1
+    i: "?"
     kind: review
     rigour: 2
 ---
@@ -33,7 +33,7 @@ sources:
 
 Williams, A. M., Fawver, B., & Hodges, N. J. (2017). Using the 'expert performance approach' as a framework for examining and enhancing skill learning: Improving understanding of how experts learn. *Frontline Learning Research, 5*(3), 139–154. https://doi.org/10.14786/flr.v5i3.267
 
-`q2 · i1` · `review · r2`
+`q2 · i? · no effect size printed for this finding` · `review · r2`
 
 The review reports, citing Ford et al. (2012) and Hopwood et al. (2016), "extremely large standard deviations in the number of hours athletes accumulate" across practice types. It notes the deliberate practice literature's findings on variance explained remain controversial (citing Hambrick et al., 2014; McNamara et al., 2014) and that retrospective data may describe social and cultural background rather than causal factors.
 

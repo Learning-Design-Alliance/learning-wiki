@@ -13,7 +13,7 @@ generated:
 # Massive Open Online Course (MOOC)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 9 claims (4 for, 1 mixed, 4 against) · 7 studies (5 review, 1 associational, 1 theoretical), `q2` · 0 of 7 report an effect size · 9 claims rest on one study
+> **Evidence** · 28 claims (8 for, 16 mixed, 4 against) · 27 studies (7 associational, 6 review, 5 quant-synthesis, 3 causal, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 6 of 27 report an effect size · 24 claims rest on one study
 
 ## Description and scope
 

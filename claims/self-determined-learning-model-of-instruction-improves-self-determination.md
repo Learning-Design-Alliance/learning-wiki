@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Self Determined Learning Model Of Instruction Improves Self Determination
+title: Students taught with the Self-Determined Learning Model of Instruction gain in self-determination, but not significantly more than a delayed-treatment control group
 status: draft
 generated:
   by: claude/unspecified
@@ -19,10 +19,11 @@ sources:
     rigour: 2
 ---
 
-# Self Determined Learning Model Of Instruction Improves Self Determination
+# Students taught with the Self-Determined Learning Model of Instruction gain in self-determination, but not significantly more than a delayed-treatment control group
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small · n=312 high school students with intellectual or learning disabilities, 20 school districts
+<!-- title before 2026-10-15: Self Determined Learning Model Of Instruction Improves Self Determination -->
 
 The Self-Determined Learning Model of Instruction (SDLMI) is a teacher-implemented instructional model in which students set education or transition goals, construct action plans to attain them, and self-evaluate progress — with the intended outcome of enhanced self-determination.
 
@@ -42,7 +43,7 @@ A group-randomized (cluster), modified equivalent control-group study assigned 3
 
 ## Discussion
 
-**The recorded evidence qualifies the title.** In the one cluster-randomized trial above, SDLMI students gained in self-determination from pre to post, but the between-group differences against the control group were small (d = 0.23) and not significant, so the trial does not show that the model outperforms usual instruction.
+**What the recorded evidence shows.** In the one cluster-randomized trial above, SDLMI students gained in self-determination from pre to post, but the between-group differences against the control group were small (d = 0.23) and not significant, so the trial does not show that the model outperforms usual instruction.
 
 The SDLMI operationalizes principles from [Self-Determination Theory](../theories/self-determination-theory.md) — particularly [autonomy](../principles/autonomy.md) and self-regulation — into a three-phase instructional cycle: goal setting, action planning, and self-monitoring/adjustment. Because the model embeds student-directed goal setting within ordinary instruction rather than treating motivation as a separate intervention, it is plausibly linked to related findings that [autonomy supports intrinsic motivation](autonomy-supports-intrinsic-motivation.md) [+S] and that [self-regulated learning](../theories/self-regulated-learning.md) improves achievement.
 

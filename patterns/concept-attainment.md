@@ -89,6 +89,12 @@ Five rows rest on a claim (novice learners, children and procedures, visual agai
 
 Do not rank concept attainment against definition-first teaching from these claims: none compares them, and none measures the time induction costs. Do not read class agreement on a rule, or fluent classification of the items already shown, as the concept attained. A precise abstention names the missing comparison (concept attainment against definition plus examples and non-examples, on classification of new instances at a stated horizon) and the local observation that would stand in for it.
 
+## The evidence by question
+
+- *Does comparing analogous cases improve transfer more than studying cases one at a time?* [Analogical Reasoning Improves Transfer](../claims/analogical-reasoning-improves-transfer.md) [+M]
+- *Should labelled examples of confusable categories be mixed or presented one category at a time, and for which material?* [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](../claims/interleaving-improves-inductive-learning.md) [+M]
+- *Should novices be left to discover the target content without support?* [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](../claims/guided-discovery-outperforms-pure-discovery.md) [~S]
+
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-02: claims this page cited before the 2026-10-02 rewrite which are not used as core evidence above. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
 Claims this page cited before the 2026-10-02 rewrite. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.

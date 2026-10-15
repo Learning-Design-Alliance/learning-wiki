@@ -39,6 +39,20 @@ The chapter reports, citing prior systematic reviews, that the assumption that m
 
 > "However, empirical evidence contradicted this assumption and has shown that increased fidelity (sometimes called the fidelity fallacy) fails to reliably improve learning outcomes [42]."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does more perceptual fidelity or immersion improve learning from a simulation?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **5 distinct studies** (2 causal, 1 review, 1 theoretical, 1 quant-synthesis), `q1`–`q3`, 1 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Tripathi 2026 | q2 · review · r2 | i? | this claim |
+| Chwen Jen Chen 2005 | q3 · causal · r2 | i? | [VR (non-guided exploration) did not differ significantly from Non VR for either assimilato](non-guided-vr-no-better-than-non-vr.md) (supports) |
+| [Kakimoto Akihiro 2026](https://doi.org/10.2196/104397) | q2 · causal · r1 | i3 | [Conventional training received significantly higher ratings for perceived realism and imme](conventional-training-higher-realism-immersion.md) (qualifies) |
+| Ross 2025 | q1 · theoretical · r3 | i? | [Immersive media environments enable higher visual and behavioral realism of pedagogical ag](xr-higher-agent-realism-than-non-immersive.md) (qualifies) |
+| [Syed Tanzim Mubarrat 2026](https://doi.org/10.1145/3772318.3791338) | q2 · quant-synthesis · r2 | i? | [Immersive technologies are rarely adopted in robotics GBL/gamification but studies using t](immersive-tech-underused-positive-outcomes-robotics.md) (counts against) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

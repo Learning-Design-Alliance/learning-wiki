@@ -115,6 +115,12 @@ No claim compares the whole arc with explanation alone, varies the amount of pra
 
 Learners, tasks and outcomes differ across these claims (undergraduates on a computer lesson, children with a tutor, high-school writers, seventh graders in algebra, adults recalling words), so do not rank them by effect label. None measures the fluency (speed with accuracy) of a procedure, and none follows a procedure's retention beyond a month.
 
+## The evidence by question
+
+- *Should component knowledge come before the whole task?* [Pretraining learners on a system's key parts and terms before the main lesson improved knowledge and real-world transfer in one VR experiment, and is reported second-hand to improve learning in multimedia studies](../claims/pretraining-improves-transfer.md) [+M]
+- *After a model, does practice with support and feedback produce better unaided performance than no practice or unguided practice?* [In one experiment with 256 undergraduates, computer-based lesson versions that included practice produced significantly higher posttest scores than versions without practice](../claims/practice-presence-raises-cbi-posttest-achievement.md) [+M]
+- *Does teaching when and why to use a procedure, not only its steps, improve flexible use and understanding?* [Strategy Instruction Needs Conditional Knowledge](../claims/strategy-instruction-needs-conditional-knowledge.md) [~M]
+
 ## Further evidence, not yet read against this model
 
 Claims that bear on procedural learning but are not part of the model above, each with what it is and how far it bears.

@@ -117,6 +117,11 @@ These rows are proposals, untested as diagnostics. A probe (a recall question, a
 
 Learners, materials and outcomes differ across these claims (school-age and undergraduate lecture notes, college readers, community-college summarizers, laboratory recall), so do not rank them by effect label. None measures a whole note-taking routine (purpose, outline, pauses, restatement, review) against ordinary lecture attendance.
 
+## The evidence by question
+
+- *Does a teacher-supplied partial outline (guided notes) improve learners' notes and learning over their own or outline-only notes?* [Guided Notes Improve Note Accuracy](../claims/guided-notes-improve-note-accuracy.md) [+M]
+- *Does the medium of the notes (handwritten or typed) change what is learned?* [Laptop note-takers transcribed more verbatim and did worse on conceptual questions than longhand note-takers in one set of experiments, but a direct replication found no consistent difference in test performance](../claims/laptop-notes-verbatim-shallower.md) [~M]
+
 ## Further evidence, not yet read against this model
 
 Claims this page cited before it was rewritten, and others found while rewriting it. None has been read against the model above as closely as the claims in the previous section.
@@ -124,7 +129,6 @@ Claims this page cited before it was rewritten, and others found while rewriting
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S] — the earlier page's mechanism claim: grouping into meaningful units reduces the load of holding material in mind (two narrative reviews and one experiment, none about notes). It supports placing pauses at conceptual breaks; it does not test note-taking.
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — the earlier page's claim that notes help learners notice gaps; a synthesis and a theoretical review of self-regulated learning, no study of notes. Bears on the "one question" at each pause only by analogy.
 - [Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here](../claims/annotating-improves-learning.md) [~M] — about highlighting printed text (memory 0.36, comprehension 0.20); bears on "annotated reading notes" only as a warning that marking alone is weak. Its model is on [Annotating](annotating.md).
-- [Training in text structure improves college students' summaries, but summarizing has not been shown here to improve recall or writing more than rereading or other active reading](../claims/summarization-improves-learning.md) [~M] — the same two entries as the summarization claim above, under a title the evidence does not support; a merge candidate.
 - [Higher compliance with MetaTutor's revise-summary prompt is associated with larger proportional learning gains](../claims/revise-summary-compliance-predicts-learning-gains.md) [+W] — the same 28-student study as the review-notes claim; revising one's summary associated with larger gains. Associational.
 - [Notetaking as a feedback tool facilitates resolution of lexical problems but leaves grammatical problems unresolved, suggesting reformulation as an alternative](../claims/notetaking-feedback-limits-grammar-resolution.md) [~W] — a single-participant case study in second-language writing, where "notetaking" means a learner noting a model text as feedback on their own draft. A different practice from this page's; it bears only on note-taking used as feedback in L2 writing.
 

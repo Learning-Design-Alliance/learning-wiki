@@ -103,6 +103,11 @@ Nine of the sixteen rows cite a claim: six rest on one (younger and older studen
 
 Do not read a fall in suspensions in one school after adoption as an effect of PBIS: the [41% drop at one middle school](../claims/pbis-suspensions-decreased-41-percent.md) [+W] has no comparison. Do not read a null result as equivalence, and do not judge a tier that was not running with fidelity. A precise abstention names the missing comparison (the universal tier alone against usual practice, randomized, over two or more years, on referrals and suspensions) and the local observation that would stand in for it: the school's own disaggregated data before and after, read beside its fidelity scores.
 
+## The evidence by question
+
+- *Does school-wide PBIS reduce office discipline referrals and exclusions compared with schools not running it?* [SWPBIS reduces the odds of receiving an office discipline referral](../claims/swpbis-reduces-office-discipline-referrals.md) [+M]
+- *Does PBIS reduce students' problem behaviour and raise prosocial behaviour, as teachers rate it?* [SWPBIS produced a small reduction in teacher-rated aggressive and disruptive behavior among elementary school children over 4 years (ES = 0.12)](../claims/swpbis-reduces-disruptive-behavior.md) [+M]
+
 ## Further evidence, not yet read against this model
 
 Claims the earlier page cited that are not part of the model above, and claims found while converting it.

@@ -112,6 +112,11 @@ These rows are proposals, untested as diagnostics. A probe is also practice, so 
 
 Learners, comparisons and outcomes differ across these (kindergarten classes, struggling adolescents, adults learning an invented script), so do not rank them by effect size. None tests the pace, lesson length, move-on thresholds or year-long arc in the default design, and none tests phonics with adults learning to read their own language.
 
+## The evidence by question
+
+- *Does systematic phonics teaching improve reading more than unsystematic, no or other phonics-light teaching, and for which readers?* [Systematic Phonics Improves Word Reading](../claims/systematic-phonics-improves-word-reading.md) [+S]
+- *Does training learners to hear and work with the sounds in spoken words, with letters in view, help them learn to read?* [Phonemic Awareness Training Improves Reading](../claims/phonemic-awareness-training-improves-reading.md) [+M]
+
 ## Further evidence, not yet read against this model
 
 Claims found while converting this page that bear on it but are not part of the model above.

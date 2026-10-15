@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Minority students visited the tutoring center more often than Caucasian students, yet tutored minority and first-generation students had lower average GPAs
+title: "In one university's records, minority students visit a drop-in tutoring center more often than Caucasian students, while first-generation and other students do not differ in visits"
 description: Minority students visited the tutoring center more often than Caucasian students, yet tutored minority and first-generation students had lower average GPAs
 id: minority-students-more-tutoring-visits-lower-gpas
 status: draft
@@ -19,10 +19,12 @@ sources:
     rigour: 2
 ---
 
-# Minority students visited the tutoring center more often than Caucasian students, yet tutored minority and first-generation students had lower average GPAs
+# In one university's records, minority students visit a drop-in tutoring center more often than Caucasian students, while first-generation and other students do not differ in visits
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+
+<!-- title before 2026-10-15: Minority students visited the tutoring center more often than Caucasian students, yet tutored minority and first-generation students had lower average GPAs -->
 
 ## Subclaims
 `q2 i?` Minority students visited the TC more often than Caucasian students (F=9.472, p=.002); there was no significant difference in visits between first-generation and non-first-generation students. [→ Cooper 2010](#cooper-2010)

@@ -105,6 +105,11 @@ Six of the twelve rows rest on a claim (novice and advanced learners, misconcept
 
 Do not rank this pattern against explain-then-practise or discovery lessons from these claims: none compares the sequence, and none measures how long each step should take. Do not read fluent recall of the definition, or correct answers given with prompts, as understanding. A precise abstention names the missing comparison (this five-step lesson against explanation plus independent practice, on an unseen prediction-and-reason item at a stated delay) and the local observation that would stand in for it.
 
+## The evidence by question
+
+- *Does prompting learners to explain what they study or solve improve their understanding, and on which outcomes?* [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
+- *Does naming and refuting the misconception help?* [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](../claims/misconceptions-interfere-with-new-learning.md) [+M]
+
 ## Further evidence, not yet read against this model
 
 Claims this page cited before the 2026-10-05 rewrite and not used as core evidence above.

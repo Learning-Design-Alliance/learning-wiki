@@ -113,6 +113,12 @@ These rows are proposals, untested as diagnostics. Record each probe, because as
 
 Learners, settings and outcomes differ across these claims (pre-kindergarten to high school teachers, technology coaching, early literacy, charter schools), so do not rank them. None measures observed practice a year after support ends.
 
+## The evidence by question
+
+- *Does adding ongoing coaching or colleague collaboration to in-service professional development change teachers' classroom practice and their students' achievement?* [Teacher coaching programs improve teachers' instructional practice by a pooled 0.49 SD across 43 causal studies](../claims/coaching-pooled-instruction-effect-0-49-sd.md) [+M]
+- *Does more coaching time, or more frequent contact, go with larger effects?* [Coaching dosage shows precisely estimated null effects: more coaching hours are not associated with larger program effects](../claims/coaching-dosage-null-effect.md) [~M]
+- *Does participation that is voluntary and kept apart from evaluation go with more change in practice?* [Teachers who report coaching as a voluntary, non-evaluative partnership report more improvement in classroom challenges and higher technology-use confidence](../claims/coaching-partnership-voluntary-non-evaluative.md) [+M]
+
 ## Further evidence, not yet read against this model
 
 Claims this page cited before the rewrite, or found for it, that are not part of the model above. Each says what it is and how far it bears on the page.

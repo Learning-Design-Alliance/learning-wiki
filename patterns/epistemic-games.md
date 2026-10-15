@@ -101,6 +101,11 @@ Six of the fourteen rows cite a claim (novice learners, workplace training, onli
 
 Do not rank epistemic games against case-based learning, direct instruction or work placement from these claims: none compares them, and none measures the cost of building a world. Do not read enjoyment, time played or in-game success as the capability. A precise abstention names the missing comparison (an epistemic game against equally long case-based practice with the same feedback, on an outside-game decision task at a stated delay) and the local observation that would stand in for it.
 
+## The evidence by question
+
+- *Does practising in a simulation improve knowledge and skill more than no simulation or conventional training, and for which skills and horizons?* [Simulation Based Education Improves Outcomes](../claims/simulation-based-education-improves-outcomes.md) [+M]
+- *Can what a learner has learned in an epistemic game be measured reliably from the record of play?* [Defining and quantifying reliability and measurement error is particularly challenging in epistemic games for three principal reasons](../claims/reliability-challenges-epistemic-games.md) [~W]
+
 ## Further evidence, not yet read against this model
 
 The earlier page cited no claims. These claim pages concern how play in an epistemic game can be scored; they bear on assessment design, not on whether epistemic games produce learning, and none studied real learners.

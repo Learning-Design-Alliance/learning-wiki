@@ -117,6 +117,11 @@ No claim compares a sustained cultural-awareness cycle with no cycle on later de
 
 Educators, decisions, settings and outcomes differ across these (middle-school discipline, Dutch track recommendations, household visits, science teachers' reflections, simulation responses), so do not rank them. None measures whether a change in an educator's interpretation persists, or whether it reaches learners' achievement.
 
+## The evidence by question
+
+- *When the learners are adults who act on others (teachers), does an empathy exercise change their conduct?* [Brief Intervention Empathic Discipline Cuts Suspensions](../claims/brief-intervention-empathic-discipline-cuts-suspensions.md) [~S]
+- *Does learning about learners' homes change how educators read their students, and does it reach the students?* [Teachers who took part in funds of knowledge household research came to view their minority students as competent and raised their expectations of them.](../claims/funds-of-knowledge-research-raises-teacher-expectations.md) [+W]
+
 ## Further evidence, not yet read against this model
 
 Claims the earlier page cited for mechanisms the cycle relies on. They are about learners, not educators, and are carried here by analogy.

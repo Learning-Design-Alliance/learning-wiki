@@ -89,6 +89,11 @@ These rows are proposals and have not been tested with learners. A single contra
 
 Retain learners, setting, prompt type, whether feedback accompanied reflection, outcome type and horizon when transporting these findings. A pooled average over unlike reflective activities is not an estimate for any one of them; a moderator association is not a tested contrast; and a more analytic reflection is not a better next performance.
 
+## The evidence by question
+
+- *Does reflecting on a performance improve later learning over no reflection or ordinary instruction?* [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](../claims/reflective-practice-evidence-mixed-in-professional-education.md) [+M]
+- *Do specific, guided prompts produce better reflection and learning than generic or free reflection?* [Reflective Practice Improves Outcomes When Structured](../claims/reflective-practice-improves-outcomes-when-structured.md) [+M]
+
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-02 (maintainer's decision): claims this page cited before the 2026-10-02 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
 Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.

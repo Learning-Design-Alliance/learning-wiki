@@ -104,6 +104,13 @@ These rows are proposals, untested with learners. A probe can shift confidence a
 
 How far each may be carried: the source-evaluation studies are US high-school and university classes on the open web; the critique study is one university psychology course; the argumentation evidence is mostly science and social-issue argument with adolescents; the child study observed, it did not teach. None reports outcomes beyond five weeks for evaluation skill, none reports effect sizes for the evaluation studies, and two of the core claims rest on single-group designs. Keep the kind of evidence judged, the number of sessions, the comparator and the horizon when transporting these results.
 
+## The evidence by question
+
+Each question below links a general claim that gathers the studies behind it into one table, one row per distinct study, with each study's design and effect as recorded and no averaged verdict.
+
+- *Does teaching learners how to check a source improve their judgments of unfamiliar sources, and how much can one session do?* [Civic Online Reasoning Instruction Improves Evaluation](../claims/civic-online-reasoning-instruction-improves-evaluation.md) [+M]
+- *Does structured argument with peers improve learners' individual argument and content learning?* [Argumentation Improves Reasoning](../claims/argumentation-improves-reasoning.md) [+M]
+
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-02 (maintainer's decision): claims this page cited before the 2026-10-02 rewrite which are not used as core evidence above. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
 Claims this page cited before the 2026-10-02 rewrite. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.

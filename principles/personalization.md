@@ -120,6 +120,12 @@ None of the claims below tests personalization as a whole against uniform instru
 
 Keep each finding's comparator, population, outcome and horizon with it. Do not rank the undergraduate path experiment beside the school-level SD gains, or read engagement findings as achievement findings.
 
+## The evidence by question
+
+- *Does setting problems in contexts drawn from learners' interests raise engagement and performance?* [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](../claims/personalized-problem-contexts-boost-engagement-grades-4-8.md) [+W]
+- *Do learners in personalized learning settings achieve more than peers taught the same content uniformly?* [Empirical studies reviewed report that students in personalized learning environments outperform peers in standardized settings](../claims/personalized-learning-outperforms-standardized-settings.md) [+W]
+- *What should the adaptation be based on: responses, or learner styles and preferences?* [Learning Styles Matching Does Not Improve Learning](../claims/learning-styles-matching-does-not-improve-learning.md) [-S]
+
 ## Further evidence, not yet read against this model
 
 Claims this page cited before it was rewritten, with what each is and how far it bears on the model above. None has been re-read for the model, so treat them as candidates for it.

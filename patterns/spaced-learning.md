@@ -69,6 +69,12 @@ Ask for three facts when the brief omits them: **when the learners will need the
 | Second-language vocabulary in a course of a semester or longer | Space vocabulary reviews across the term; do not stretch the gaps across years | [Distributed practice benefits L2 learning, with limits on very long spreads](../claims/distributed-practice-limits-l2.md) [~W] |
 | The schedule is judged by practice accuracy | Report a delayed test as well; spaced reviews lower practice accuracy while raising delayed recall | [Spaced retrieval wins at the final test despite lower initial recall](../claims/spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall.md) [+M] |
 
+## The evidence by question
+
+- *Does spreading study or practice over sessions improve later retention more than massing the same amount of it?* [Spaced Practice Improves Retention](../claims/spaced-practice-improves-retention.md) [+S]
+- *How long should the gap between sessions be, given when the knowledge is needed?* [The optimal interstudy interval increases as the retention interval increases](../claims/optimal-isi-increases-with-retention-interval.md) [+M]
+- *Should the gaps expand, stay equal, or contract?* [Total retrieval spacing improved one-week vocabulary recall while relative schedules were not distinguished](../claims/total-retrieval-spacing-beats-massed-but-relative-schedule-not-distinguished.md) [~M]
+
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-09-30 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
 Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.

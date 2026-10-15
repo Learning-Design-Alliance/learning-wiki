@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Self-determination instruction improves outcomes
+title: Self-determination skills instruction for students with disabilities increases self-determination on some measures but not others
 status: draft
 generated:
   by: claude/unspecified
@@ -28,10 +28,11 @@ sources:
     rigour: 2
 ---
 
-# Self-determination instruction improves outcomes
+# Self-determination skills instruction for students with disabilities increases self-determination on some measures but not others
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r2`, 1 quant-synthesis `r?` · `q3`
+<!-- title before 2026-10-15: Self-determination instruction improves outcomes -->
 
 Teaching students with disabilities the component skills of self-determination — choice-making, decision-making, problem solving, goal setting, self-management and self-advocacy — increases their self-determination. The claim concerns special-education self-determination instruction, not instruction about self-determination theory's basic psychological needs.
 
@@ -87,6 +88,8 @@ Earlier Related Claims:
 -->
 
 ## Related Claims
+
+- [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — the general claim this finding bears on, with the studies behind it
 
 - [The Self-Determined Learning Model of Instruction improves self-determination.](self-determined-learning-model-of-instruction-improves-self-determination.md) — one specific self-determination instructional model
 - [The Self-Directed IEP increases student participation.](self-directed-iep-increases-student-participation.md) — one of the curricula used in the trial recorded above

@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Test-taking motivation tends to induce a person-specific, systematic negative bias on achievement test scores
+title: One measurement article argues that low test-taking motivation biases an individual student's achievement test score downward
 description: Test-taking motivation tends to induce a person-specific, systematic negative bias on achievement test scores
 id: test-taking-motivation-negative-score-bias
 status: draft
@@ -19,10 +19,11 @@ sources:
     rigour: "?"
 ---
 
-# Test-taking motivation tends to induce a person-specific, systematic negative bias on achievement test scores
+# One measurement article argues that low test-taking motivation biases an individual student's achievement test score downward
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q2`
+<!-- title before 2026-10-15: Test-taking motivation tends to induce a person-specific, systematic negative bias on achievement test scores -->
 
 ## Subclaims
 `q2 i?` Non-effortful test taking driven by low test-taking motivation produces a systematic negative bias in an individual student's achievement score. [→ Steven Wise 2015](#steven-wise-2015)

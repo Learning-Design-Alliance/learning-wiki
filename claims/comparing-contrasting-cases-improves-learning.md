@@ -145,6 +145,8 @@ Seventy seventh-grade students learning to solve algebra equations were randomly
 
 ## Related Claims
 
+- [Erroneous examples improve conceptual understanding by forcing comparison with correct models.](erroneous-examples-build-conceptual-knowledge.md) — the general claim this finding bears on, with the studies behind it
+
 - [Analogical reasoning improves transfer.](analogical-reasoning-improves-transfer.md) — comparison is the mechanism by which analogies transfer structure between cases
 - [Cognitive flexibility theory: multiple cases support transfer.](cognitive-flexibility-theory-multiple-cases.md) — multiple varied cases are the raw material for flexible knowledge
 - [Case-based learning improves exam performance.](case-based-learning-improves-exam-performance.md) — cases as instructional units, of which contrasting cases are a structured variant

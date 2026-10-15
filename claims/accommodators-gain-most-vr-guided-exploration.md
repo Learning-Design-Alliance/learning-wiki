@@ -41,8 +41,9 @@ One-way ANCOVA (pre-test covariate) on accommodator learners' gain scores across
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Learning Styles Matching Does Not Improve Learning](learning-styles-matching-does-not-improve-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Assimilator learners gained significantly more in the VR (guided exploration) mode than in VR (non-guided exploration) or Non VR modes](assimilators-gain-most-vr-guided-exploration.md) — related
 - [In the VR (guided exploration) mode, assimilator and accommodator learners did not differ significantly in gain score](guided-vr-no-learning-style-difference.md) — related
 - [VR (non-guided exploration) did not differ significantly from Non VR for either assimilator or accommodator learners](non-guided-vr-no-better-than-non-vr.md) — related

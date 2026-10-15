@@ -82,6 +82,8 @@ A key boundary condition is that the misjudgment is strongest for judgments made
 
 ## Related Claims
 
+- [Learners underuse effective learning strategies such as spacing and retrieval practice](learners-underuse-effective-learning-strategies.md) — the general claim this finding bears on, with the studies behind it
+
 - [Retrieval practice improves long-term retention.](retrieval-practice-improves-retention.md) — the generative strategy learners most often underestimate
 - [Spaced practice improves retention.](spaced-practice-improves-retention.md) — spacing feels harder than massing, so learners avoid it
 - [Interleaving improves discrimination and transfer.](interleaving-improves-inductive-learning.md) — blocked practice feels smoother but produces weaker learning

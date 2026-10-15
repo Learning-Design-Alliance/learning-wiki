@@ -39,7 +39,7 @@ sources:
 # Game-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 21 claims (11 for, 10 mixed) · 27 studies (10 quant-synthesis, 8 causal, 5 review, 3 theoretical, 1 associational), `q1`–`q4` · 10 of 27 report an effect size · 15 claims rest on one study
+> **Evidence** · 22 claims (12 for, 10 mixed) · 28 studies (10 quant-synthesis, 8 causal, 6 review, 3 theoretical, 1 associational), `q1`–`q4` · 10 of 28 report an effect size · 16 claims rest on one study
 
 ## Conditional relationship
 
@@ -112,6 +112,12 @@ No claim in the wiki tests game-based learning as a general approach against a m
 - [Gamification has small positive effects on cognitive, motivational and behavioral learning outcomes](../claims/gamification-has-small-positive-effects-on-learning-outcomes.md) [~M]: a meta-analysis of game elements added to non-game instruction (cognitive g = .49; only the cognitive effect held among the more rigorous designs). It is cited here to mark a boundary, not to support this page: it is about gamification, not learning through a full game, and its pooled effects should not be quoted for games.
 
 Taken together: a game helps when its move carries the content (one randomized child study); novices learn more from a game when shown worked examples, and still learn little from play alone (one adult study); enjoyment is not evidence of learning (one second-hand report); and the vocabulary-game evidence is confounded or second-hand. Learners, domains and outcomes differ across these claims; do not rank them by effect label.
+
+## The evidence by question
+
+- *Does learning through a full game raise capability on a measure outside the game more than non-game instruction?* [The review reports that students learning with serious games often perform better on content knowledge assessments than those in traditional settings](../claims/serious-games-better-content-knowledge-than-traditional.md) [+W]
+- *Does what the game's moves ask of the learner decide whether it teaches?* [Game design, not learner age or linguistic background, determines DGBL effectiveness; adventure games outperform non-adventure games](../claims/game-design-moderates-dgbl-effectiveness.md) [~W]
+- *Do modelling, tutoring or bridging instruction added around play raise what learners take from a game?* [Studying worked examples between two rounds of a computer puzzle game produced significantly greater knowledge map improvement than no worked examples for adult players](../claims/worked-examples-improve-knowledge-map-content-understanding-in-a-puzzle-game.md) [~M]
 
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-02: claims this page cited before the 2026-10-02 rewrite. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->

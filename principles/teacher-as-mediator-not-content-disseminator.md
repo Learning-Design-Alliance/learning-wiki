@@ -144,6 +144,11 @@ These rows are proposals, untested as diagnostics. A question that probes unders
 
 Learners, settings and outcomes differ across these claims (STEM undergraduates, school science, one-to-one tutoring, Taiwanese mathematics, adult L2), so do not rank them by effect.
 
+## The evidence by question
+
+- *If inquiry or discovery is chosen, how much should the teacher or system guide it?* [Teacher Guided Inquiry Outperforms Student Led](../claims/teacher-guided-inquiry-outperforms-student-led.md) [+S]
+- *Must support be contingent on the learner's last response, rather than fixed?* [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+S]
+
 ## Further evidence, not yet read against this model
 
 Claims and theory pages the earlier page and its folded pages cited that are not used above. Each says what it is and how far it bears on this page.

@@ -108,6 +108,11 @@ Seven rows rest on a claim (novice learners, grades 6–8, a conceptual course g
 
 Do not claim the four-question routine improves learning over reading or discussion of the same content: no claim compares them, and none measures the time it costs. Do not read a fluent personal response as understanding of the content. A precise abstention names the missing comparison (the routine against the same experiences followed by a content summary, or by unstructured discussion, on understanding of the named idea at a stated horizon) and the local observation that would stand in for it: the share of step 4 answers that reach the named idea, session by session.
 
+## The evidence by question
+
+- *Do task-specific reflection prompts produce better learning or reflection than an open invitation to write?* [Reflective Practice Improves Outcomes When Structured](../claims/reflective-practice-improves-outcomes-when-structured.md) [+S]
+- *Does writing about content during instruction improve learning of that content, compared with instruction without the writing?* [Writing To Learn Improves Understanding](../claims/writing-to-learn-improves-understanding.md) [+S]
+
 ## Further evidence, not yet read against this model
 
 The old page cited no claims. These were read for this rewrite and bear on parts of the routine, but are not used as core evidence above.

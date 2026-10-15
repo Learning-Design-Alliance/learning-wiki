@@ -109,6 +109,18 @@
         [
           "self-controlled-kr-decided-after-trial-improves-error-estimation-accuracy",
           "~"
+        ],
+        [
+          "self-paced-mastery-programs-reduce-college-course-completion",
+          "-"
+        ],
+        [
+          "learner-characteristics-moderate-hypermedia-effectiveness",
+          "~"
+        ],
+        [
+          "hint-budget-mismanaged-two-patterns",
+          "~"
         ]
       ]
     },
@@ -116,6 +128,26 @@
       "hub": "connectivist-courses-student-agency-problems",
       "question": "How much choice, for whom: what happens when self-direction is wide open?",
       "members": [
+        [
+          "ai-mediated-feedback-in-hands-on-exhibits-improves-learning-and-engagement",
+          "+"
+        ],
+        [
+          "moderate-agency-better-learning-outcomes",
+          "+"
+        ],
+        [
+          "minimal-persistence-everyday-problem-solving-youth",
+          "+"
+        ],
+        [
+          "youth-skip-assess-phase-free-choice-heuristics",
+          "+"
+        ],
+        [
+          "choice-rich-infrastructure-supports-productive-deviation-and-learning",
+          "~"
+        ],
         [
           "claim-shared-control-roles-and-content",
           "+"

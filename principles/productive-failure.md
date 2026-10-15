@@ -106,6 +106,11 @@ These rows are proposals, untested with learners as diagnostics.
 
 Taken together: for conceptual understanding and transfer in learners past the early primary years, attempting first and being taught second, with the teaching built on the attempts, beats teaching first by about a third of a standard deviation; for procedures, for young children and for domain-general skills it does not. No claim in the wiki tests a dose (how long the attempt, how many problems) or the design in a self-paced online course.
 
+## The evidence by question
+
+- *Should learners attempt a problem before the idea is taught, and what must the teaching afterwards do?* [Productive Failure Improves Conceptual Learning](../claims/productive-failure-improves-conceptual-learning.md) [+M]
+- *Which features of the attempt and of the instruction after it, and how much time, go with a larger advantage for attempting first?* [PF design fidelity predicts larger PS-I effects, with four fidelity criteria showing significant subgroup differences](../claims/pf-fidelity-predicts-psi-effect-size.md) [+M]
+
 ## Further evidence, not yet read against this model
 
 - [Pretesting enhances learning](../claims/pretesting-enhances-learning.md) [+M]: an attempt before study, without the generation of methods; a cousin of this design.

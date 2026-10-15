@@ -63,6 +63,11 @@ These rows are proposals. They have not been tested with learners, and a single 
 
 Keep the learners, setting, what was compared with what, the outcome and its horizon for each of these when transporting them, and do not rank them: they answer different questions. No entry here reports a standardized effect for anything resembling a check-in.
 
+## The evidence by question
+
+- *Can learners' own monitoring be trusted, and can it be trained?* [Self Assessment Accuracy Is Low Without Training](../claims/self-assessment-accuracy-is-low-without-training.md) [~M]
+- *Does adjusting instruction to each response help, and what do teachers do with the evidence?* [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
+
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-02: claims this page cited before the 2026-10-02 rewrite that are not part of the conditional model above. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
 Claims this page cited before the 2026-10-02 rewrite that are not used in the model above. They bear on the relationship, but none has yet been re-read against it; each says how far its own sources have been checked.

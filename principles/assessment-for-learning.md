@@ -79,6 +79,12 @@ A single contrast can shift confidence between explanations; it does not identif
 
 **No claim in the wiki tests the stakes and goal-structure part of this model as stated**: that grading pressure or competitive classroom norms make learners hide uncertainty or inflate self-assessments, or that a teacher's beliefs about ability change how assessment evidence is used. The previous body argued this from Dweck, Harlen and Patrick et al., which are listed under Key Sources but have no claim pages here. Treat that branch as a hypothesis.
 
+## The evidence by question
+
+- *Does using assessment evidence during instruction raise achievement compared with the usual teaching?* [Assessment for learning improves achievement](../claims/assessment-for-learning-improves-achievement.md) [+M]
+- *Should learners assess their own work, and can their self-ratings be trusted?* [Self Assessment Improves Self Regulated Learning](../claims/self-assessment-improves-self-regulated-learning.md) [+M]
+- *What stops formative assessment working in practice: stakes, grading, time and class size?* [Effective implementation of formative assessment is hindered by its complexity, summative-assessment pressure, and teachers' negative early experiences](../claims/formative-assessment-implementation-barriers.md) [~W]
+
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-10-02 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
 Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.

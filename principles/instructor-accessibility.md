@@ -108,6 +108,10 @@ No claim in the wiki compares more and less accessible instructors, or tests a r
 
 Learners, settings and outcomes differ across these (children in tutoring, a simulated computing queue, physics undergraduates, school-age correlational samples, college entrants), so do not rank them. None measures learning as a function of how reachable the instructor is.
 
+## The evidence by question
+
+- *Do learners who use optional one-to-one help do better, and do the learners who need help use it?* [Drop-in one-to-one tutorial attendees improved P1X-to-P1Y marks while the class average declined](../claims/drop-in-tutorials-improve-p1y-marks.md) [~W]
+
 ## Further evidence, not yet read against this model
 <!-- Added 2026-10-05: claims bearing on the route to the instructor that the model above uses only in the situation table, or not at all. Markers are capped by each claim's recorded evidence (strength_cap). -->
 Claims that bear on instructor accessibility but are not part of the model above, or appear only in a row of the situation table. Each says what it is and how far it bears on this page.

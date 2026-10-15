@@ -119,6 +119,11 @@ No claim here compares the same task with and without self-monitoring alone on a
 
 None of these measures whether a self-monitoring habit persists after prompts are withdrawn, or transfers to a new task, against a comparison.
 
+## The evidence by question
+
+- *Does teaching learners to check their own work during a task improve their performance on it?* [Self Monitoring Comprehension Improves Learning](../claims/self-monitoring-comprehension-improves-learning.md) [+M]
+- *Can learners' own monitoring be trusted, and can it be trained?* [Self Assessment Accuracy Is Low Without Training](../claims/self-assessment-accuracy-is-low-without-training.md) [~M]
+
 ## Further evidence, not yet read against this model
 
 - [Fluent Illusions Mislead Self Assessment](../claims/fluent-illusions-mislead-self-assessment.md) [-M]: carries the same two evidence entries (Carpenter et al. 2013; Rhodes & Castel 2008) as [Judgments of learning are often inaccurate](../claims/fluent-illusions-mislead-self-assessment.md) [-M], which is cited in the model above; a likely duplicate. Its own entries do not support the "misdirects further study" half of its title.

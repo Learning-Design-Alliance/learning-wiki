@@ -111,6 +111,12 @@ Seven rows rest on a claim (novice learners, advanced learners, subjective crite
 
 Do not rank collaborative evaluation against individual peer review, self-assessment or teacher-led marking from these claims: none compares them, and none measures the time a group discussion costs. Do not read a group's consensus, or its agreement with the reference, as each member's judgment. A precise abstention names the missing comparison (group judgment with a reference comparison against individual judgment with the same reference, on the accuracy of alone judgments of new work at a stated horizon) and the local observation that would stand in for it.
 
+## The evidence by question
+
+- *Should learners assess each other's work, and does it need a rubric or script?* [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](../claims/peer-assessment-improves-performance.md) [+M]
+- *How accurately do learners judge work, and what does the accuracy of their judgments depend on?* [In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems](../claims/peer-feedback-accuracy-depends-on-expertise.md) [~M]
+- *When the objects are online sources, which criteria should learners be taught to judge them by?* [Civic Online Reasoning Instruction Improves Evaluation](../claims/civic-online-reasoning-instruction-improves-evaluation.md) [+M]
+
 ## Further evidence, not yet read against this model
 
 Claims the earlier page cited. Each keeps its old direction, capped by the claim's recorded evidence. None has been re-read for the model above; treat them as candidates for it, not as part of it.

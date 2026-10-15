@@ -123,6 +123,11 @@ No claim in the wiki compares a strengths-based approach with deficit-organized 
 
 Learners, settings and outcomes differ across these claims (Dutch secondary students, K-2 children, fifth graders in the lab, US ninth graders, student teachers), so do not rank them by effect label. None measures achievement or delayed outcomes under a strengths-based design against a comparison.
 
+## The evidence by question
+
+- *Does how a teacher reads a learner, by deficits or by strengths, shape the teacher's expectations, and do those expectations bear on the learner's later performance?* [Teacher expectation bias predicted Dutch secondary students' performance up to five years later, after controls for prior achievement, IQ and motivation, in one large correlational cohort study](../claims/teacher-expectation-effects-on-achievement.md) [+M]
+- *Does crediting a learner's success to the person, rather than to what they did, change how they respond to later difficulty?* [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](../claims/feedback-praise-reduces-learning.md) [-S]
+
 ## Further evidence, not yet read against this model
 
 Claims in the wiki that bear on the page's premise, not used in the model above.

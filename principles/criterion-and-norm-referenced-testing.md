@@ -132,6 +132,12 @@ No claim in the wiki compares decisions made from criterion-referenced and norm-
 
 The claims differ in kind (definitional arguments, a simulation, a standard-setting report, testimony), in era (1970 to 2024) and in setting (clinical reading evaluation, university grading, alternate assessment for students with significant disabilities, college admission), so do not rank them. None measures whether a decision became more accurate.
 
+## The evidence by question
+
+- *What does a score read against a defined standard tell a teacher that a rank against other learners does not?* [Criterion-referenced tests indicate whether a particular skill or objective has been achieved rather than comparing performance to other test takers](../claims/criterion-referenced-tests-measure-mastery-not-relative-standing.md) [+W]
+- *Does a pass on the check mean what the criterion says: are the items, cut scores and raters dependable?* [Criterion-referenced tests require empirically-based construct validation studies](../claims/criterion-referenced-tests-need-construct-validation.md) [+W]
+- *Is a norm-referenced score on its own an accurate basis for selection or identification?* [Traditional gifted identification tests cannot fully determine learning potential and omit classroom-learning components](../claims/traditional-identification-tests-fail-learning-potential.md) [~W]
+
 ## Further evidence, not yet read against this model
 
 The earlier page cited no claim pages. These bear on neighbouring questions:

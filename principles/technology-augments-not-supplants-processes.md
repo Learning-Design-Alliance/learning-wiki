@@ -132,6 +132,11 @@ The claims below are the core of the model. They are mostly single studies, from
 
 Learners, tasks and outcomes differ across these claims (online adults on fractions, students writing essays, radiological technology students rating VR), so do not rank them by effect label. None follows learners beyond a term, and none compares a complementary simulation or VR design with a replacement design.
 
+## The evidence by question
+
+- *When the support can do the task for the learner (AI assistants), does it cost independent performance?* [How genAI is used, not who uses it, predicts whether independent performance declines or improves](../claims/genai-usage-mode-predicts-independent-performance.md) [+M]
+- *Should a simulation or virtual-reality module sit beside hands-on practice or replace it?* [Immersive technologies such as virtual reality should reinforce, not substitute, the original educational action](../claims/vr-reinforcement-not-substitute.md) [+W]
+
 ## Further evidence, not yet read against this model
 
 Claims this page cited before it was rewritten as a conditional model and that the model above does not use. Each keeps its old marker; the label gives its evidence as recorded on the claim page. None has been re-read against the model, so treat them as candidates for it, not as part of it.

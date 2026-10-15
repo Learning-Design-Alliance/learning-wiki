@@ -14,7 +14,7 @@ sources:
     title: "Farrokhnia, M., Latifi, S., Papadopoulos, P. M., Hogenkamp, L., Gijlers, H., Khosravi, H., & Noroozi, O. (2026). Generative AI offers more, but students revise less: comparing the effects of teacher and AI feedback on student essay revisions. International Journal of Educational Technology in Higher Education. https://doi.org/10.1186/s41239-026-00579-9"
     author: "Farrokhnia, M., Latifi, S., Papadopoulos, P. M., Hogenkamp, L., Gijlers, H., Khosravi, H., & Noroozi, O."
     q: 3
-    i: 3
+    i: "?"
     kind: causal
     rigour: 2
   - id: farrokhnia-2026-2
@@ -41,7 +41,7 @@ sources:
 > **Evidence** · 1 study (3 entries) · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
-`q3 i3` In the teacher condition, feedback quality significantly predicted revised draft quality (β = .53). [→ Farrokhnia 2026](#farrokhnia-2026)
+`q3 i?` In the teacher condition, feedback quality significantly predicted revised draft quality (β = .53). [→ Farrokhnia 2026](#farrokhnia-2026)
 `q3 i?` In the Zero-shot condition, feedback quality did not significantly predict revised draft quality. [→ Farrokhnia 2026 (2)](#farrokhnia-2026-2)
 `q3 i?` In the CoT condition, feedback quality showed a small non-significant negative coefficient for revised draft quality. [→ Farrokhnia 2026 (3)](#farrokhnia-2026-3)
 
@@ -51,7 +51,7 @@ sources:
 
 Farrokhnia, M., Latifi, S., Papadopoulos, P. M., Hogenkamp, L., Gijlers, H., Khosravi, H., & Noroozi, O. (2026). Generative AI offers more, but students revise less: comparing the effects of teacher and AI feedback on student essay revisions. International Journal of Educational Technology in Higher Education. https://doi.org/10.1186/s41239-026-00579-9
 
-`q3 · i3` · `causal · r2`
+`q3 · i? · printed figures are a regression coefficient (B = 0.57, β = .53) and model R², not a d-family effect size` · `causal · r2`
 
 Multiple regression in the teacher condition (model F(2, 21) = 9.53, p = .001, R2 = .47) found feedback quality significantly predicted revised draft quality, with "revised draft quality increased by 0.57 points" per feedback-quality point (β = .53).
 

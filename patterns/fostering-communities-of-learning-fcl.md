@@ -97,6 +97,12 @@ Nine rows cite a claim, each carried beyond the population or design its claim p
 
 Do not rank Fostering Communities of Learning against direct instruction, cooperative learning or ordinary inquiry from these claims: none compares them, none tests the components together, and none measures the time a research cycle costs. Do not read a confident class discussion, a good group product or learners' sense of belonging as each learner's understanding. A precise abstention names the missing comparison (the research-and-teach cycle against the same content taught directly with individual practice, on individual understanding of every part at a stated delay) and the local observation that would stand in for it: scores on parts learners did not research.
 
+## The evidence by question
+
+- *Does preparing to teach a part, and then teaching it, improve the teaching learner's own understanding?* [Learning By Teaching Improves Tutor Learning](../claims/learning-by-teaching-improves-tutor-learning.md) [+M]
+- *Which structure matters: group rewards tied to each member's learning, assigned roles, or interdependence of any kind?* [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](../claims/cooperative-learning-group-rewards-and-individual-accountability.md) [+M]
+- *Does modelling strategies and handing the lead to learners improve reading comprehension, and on which measures?* [Reciprocal Teaching Improves Reading Comprehension](../claims/reciprocal-teaching-improves-reading-comprehension.md) [+M]
+
 ## Further evidence, not yet read against this model
 Claims this page cited before the 2026-10-05 rewrite, and claims found while rewriting it, that are not used as core evidence above. Each marker keeps its old direction where it had one, capped by the claim's recorded evidence.
 

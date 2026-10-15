@@ -93,6 +93,12 @@ These rows are proposals, untested with learners. A probe can shift confidence a
 
 Keep learners, task, comparator, outcome and horizon with each result when transporting it. Effort ratings, efficiency, immediate performance, delayed retention and transfer are different outcomes; a non-significant difference is not equivalence; pooled effects do not forecast one learner's response, and these unlike comparisons are not ranked here. **No claim in the wiki tests the general relationship as stated**, a sequence-level policy of removing, deferring and restoring demand against a fixed design; the claims test one lever each.
 
+## The evidence by question
+
+- *Should component knowledge come before the whole task?* [Pretraining learners on a system's key parts and terms before the main lesson improved knowledge and real-world transfer in one VR experiment, and is reported second-hand to improve learning in multimedia studies](../claims/pretraining-improves-transfer.md) [+M]
+- *When should support be withdrawn as the learner improves?* [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](../claims/expertise-reversal-effect.md) [~M]
+- *When the outcome is retention at a delay, should effortful practice be reintroduced once the material is understood, and for which material?* [Desirable Difficulties Enhance Learning](../claims/desirable-difficulties-enhance-learning.md) [~M]
+
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-02 (maintainer's decision): claims this page cited before the 2026-10-02 rewrite which the rewrite did not use as core evidence. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
 Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.

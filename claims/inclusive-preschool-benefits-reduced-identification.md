@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Inclusive preschool special education benefits students with and without disabilities and reduces later special education identification
+title: "A state funding report's research review, citing earlier studies, states that inclusive preschool special education benefits students with and without disabilities and that effective early education reduces later special education identification"
 description: Inclusive preschool special education benefits students with and without disabilities and reduces later special education identification
 id: inclusive-preschool-benefits-reduced-identification
 status: draft
@@ -19,10 +19,12 @@ sources:
     rigour: 2
 ---
 
-# Inclusive preschool special education benefits students with and without disabilities and reduces later special education identification
+# A state funding report's research review, citing earlier studies, states that inclusive preschool special education benefits students with and without disabilities and that effective early education reduces later special education identification
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+
+<!-- title before 2026-10-15: Inclusive preschool special education benefits students with and without disabilities and reduces later special education identification -->
 
 ## Subclaims
 `q2 i?` Providing preschool special education in inclusive settings benefits students with and without disabilities, and effective early childhood education reduces the likelihood of later special education identification. [→ Doutre 2021](#doutre-2021)
@@ -42,11 +44,12 @@ The report's research review, citing Diamond (2001), Odom et al. (2004), Kwon et
 
 ## Discussion
 
-
 ## Learner Variables
 - [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Inclusion in general is very unlikely to increase or decrease learning and psychosocial adjustment of children with special needs](inclusion-general-no-increase-or-decrease-learning-psychosocial.md) — the general claim this finding bears on, with the studies behind it
 - [Formal early childhood experience reduces the likelihood of being identified as significantly below benchmark, most pronounced among English learner students and Black English learner students](formal-early-childhood-experience-reduces-risk.md) — related
 - [Multidistrict SELPAs without a large district received higher per pupil special education funding and had higher preK and K–12 inclusion rates than those with a large district](multidistrict-selpas-without-large-district-higher-funding-inclusion.md) — related
 - [Among small districts in multidistrict SELPAs, membership in a SELPA without a large district was associated with higher preK inclusion but lower K–12 inclusion](small-districts-mixed-inclusion-by-selpa-composition.md) — related

@@ -114,6 +114,11 @@ These rows are proposals, untested with learners as diagnostics. A probe (a conf
 
 Learners, genres and measures differ across these claims (school writers on researcher-rated essays, university students, online courses), so do not rank them by effect size. None tests the reader-response stance, the rule against appropriation, or a number of drafts, and none measures writing ability after a delay.
 
+## The evidence by question
+
+- *Does teaching writing as a staged process with feedback on drafts raise writing quality, and what has to be inside it for the gain to appear?* [Process Writing Improves Writing Quality](../claims/process-writing-improves-writing-quality.md) [+M]
+- *Does a responding audience of peers improve later drafts?* [Peer Feedback Improves Writing](../claims/peer-feedback-improves-writing.md) [+M]
+
 ## Further evidence, not yet read against this model
 
 Claims this page cited before it was rewritten, and claims found for it that bear on it more distantly. Each says what it is and how far it bears on process-based writing.

@@ -207,6 +207,26 @@
         [
           "intuitive-learners-outperform-sensing-learners",
           "~"
+        ],
+        [
+          "no-mode-by-style-interaction-vr-gains",
+          "+"
+        ],
+        [
+          "guided-vr-no-learning-style-difference",
+          "+"
+        ],
+        [
+          "assimilators-gain-most-vr-guided-exploration",
+          "+"
+        ],
+        [
+          "accommodators-gain-most-vr-guided-exploration",
+          "+"
+        ],
+        [
+          "learning-style-no-correlation-pictorial-elucidation-effect",
+          "+"
         ]
       ]
     },

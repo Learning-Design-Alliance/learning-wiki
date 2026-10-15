@@ -41,8 +41,9 @@ Pearson correlations using the validated Index of Learning Styles visual-verbal 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Learning Styles Matching Does Not Improve Learning](learning-styles-matching-does-not-improve-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Dual coding elucidation raises adolescent EFL learners' awareness of lexical errors and correct usage more than verbal-only elucidation](dual-coding-elucidation-improves-lexical-error-awareness.md) — related
 - [The advantage of dual coding elucidation for correct lexical usage persists over a four-week delay](dual-coding-lexical-effects-persist-four-weeks.md) — related
 - [The correlation between cognitive processing capacity and test performance is non-significant when using the chunking method](cpc-correlation-nonsignificant-chunking.md) — related

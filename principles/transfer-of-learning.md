@@ -95,6 +95,11 @@ No claim compares instruction across varied contexts with instruction in one con
 
 Taken together: comparing provided cases, mixing confusable types, retrieval on application questions, and principle prompts during example study each have experimental or meta-analytic support for near transfer at short horizons, mostly with undergraduates. Varying contexts as such is supported only second-hand and by argument. Far transfer is not moved in the two studies that measured it separately.
 
+## The evidence by question
+
+- *Does instruction that raises near transfer also raise far transfer to a different domain or form?* [Learning techniques have much smaller effects on deep learning and far transfer than on surface learning and near transfer](../claims/learning-techniques-smaller-effects-on-deep-learning-and-far-transfer.md) [~M]
+- *Does learning across varied contexts or varied tasks of a type, rather than repeating one, produce transfer to new cases?* [Encoding variability across varied example contexts produces decontextualization supporting transfer (review reports DiVesta and Peverly)](../claims/encoding-variability-decontextualization-transfer.md) [+W]
+
 ## Further evidence, not yet read against this model
 
 Claims bearing on transfer that the wiki holds and this model does not use. None was cited by the earlier page; each label says what it is.
