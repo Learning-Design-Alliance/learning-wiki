@@ -140,6 +140,8 @@ Learners' ratings of feedback, their uptake in the next draft, later writing qua
 
 - [Avoid appropriating student writing; distinguish appropriation from helpful intervention](process-based-writing.md)
 - [Provide positive comments alongside constructive criticism when responding to student writing](provide-positive-comments-on-student-writing.md)
+- [Feedback Loops](feedback-loops.md) — whether comments are used in a next attempt and re-checked
+- [Wise Feedback Across Difference](wise-feedback-across-difference.md) — framing critical comments across a racial or ethnic difference
 
 ## Examples
 

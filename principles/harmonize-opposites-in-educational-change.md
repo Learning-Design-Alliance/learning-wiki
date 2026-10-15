@@ -91,7 +91,7 @@ The three facts that most change the decision:
 | The brief wants a whole-task performance or product for a real audience kept whole | Keep the performance whole as the application half; put the knowledge-serving segment before it, not inside it as separate items | untested proposal |
 | Material is private or sensitive (journals, personal stories) | Let the learner choose individual or group work for that part, and who sees it | untested proposal |
 | High stakes, or the assessment covers only one component | Give that component's method enough time to meet the criterion first; keep the other method, but do not cut the tested component's time to fit it | untested proposal |
-| A proposed method is harmful (physical punishment, humiliation) | Leave it out; it is not one side of a balance | from the earlier page (Ediger excludes it) |
+| A proposed method is harmful (physical punishment, humiliation) | Leave it out; it is not one side of a balance | untested; from the earlier page (Ediger excludes it) |
 
 Ten of the eighteen rows cite a claim; four of those rest on q3 evidence (one trial, one synthesis of meta-analyses, one vocabulary meta-analysis, the phonics claim), and the rest on essays, a historical account, a qualitative report or a review summary. The trial's results are carried from middle-school information literacy to other subjects in the novice and application rows, and the cooperative-learning claim from achievement in structured school methods to the group-versus-individual balance; each row says so.
 
@@ -153,6 +153,12 @@ Combining two methods, the share of time each gets, the order of the two, and th
 
 - [Adopted instructional materials should reflect learning principles, pupil maturity, major cultures, varied teaching methods, and individual differences](../designs/materials-reflect-principles-of-learning.md)
 - [Educational Psychology as Both Art and Science](../theories/educational-psychology-as-art-and-science.md)
+- [Problem-Based Learning](problem-based-learning.md) — owns the problem-based versus direct-guidance comparison this page's trade-off draws on.
+- [Flexible Grouping](flexible-grouping.md) — owns when to group by similar need and when to mix.
+- [Phonics](phonics.md) — the case where one method's strong evidence is kept whole rather than balanced away.
+- [Explicit Vocabulary Instruction](explicit-instruction-vocabulary.md) — taught words plus encounters in context, the best-evidenced combination here.
+- [Cooperative Learning](cooperative-learning.md) — group work with individual accountability.
+- [Blended Learning](../patterns/blended-learning.md) — how to split a course between online and in-person work.
 
 ## Examples
 -

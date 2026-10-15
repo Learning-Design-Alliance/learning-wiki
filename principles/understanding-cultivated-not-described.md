@@ -116,7 +116,6 @@ Learners, domains and outcomes differ across these claims (children learning a s
 
 - *Should learners explore a new idea with guidance, rather than be told it or left to find it alone?* [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](../claims/guided-discovery-outperforms-pure-discovery.md) [~S]
 - *Should learners attempt a problem before the idea is taught, and what must the teaching afterwards do?* [Productive Failure Improves Conceptual Learning](../claims/productive-failure-improves-conceptual-learning.md) [~S]
-- *While learners work, does prompting them to construct the idea serve as well as explaining it to them?* [Human tutoring has a medium effect over no tutoring, and in one small study students learned as well when tutors only prompted them as when tutors also explained and gave feedback](../claims/tutoring-effectiveness-comes-from-scaffolding-and-feedback.md) [+M]
 
 ## Further evidence, not yet read against this model
 
