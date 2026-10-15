@@ -37,7 +37,6 @@ theme:
   features:
     - navigation.sections
     - navigation.top
-    - navigation.indexes
     - navigation.tracking
     - navigation.path
     - navigation.prune
@@ -76,17 +75,21 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Principles: principles/index.md
-  - Elements: elements/index.md
-  - Patterns: patterns/index.md
-  - Designs: designs/index.md
-  - Products & Programmes: products/index.md
-  - Strategies: strategies/index.md
-  - Design Processes: processes/index.md
-  - Design Methods: methods/index.md
-  - Research Methods: research-methods/index.md
-  - Theories: theories/index.md
-  - Learner Variables: learner-variables/index.md
-  - Claims: claims/index.md
-  - State of the Evidence: evidence.md
-  - Schema & Guide: CLAUDE.md
+  - Designing instruction:
+      - Principles: principles/index.md
+      - Patterns: patterns/index.md
+      - Elements: elements/index.md
+      - Strategies: strategies/index.md
+  - Designing courses:
+      - Design Processes: processes/index.md
+      - Design Methods: methods/index.md
+      - Designs: designs/index.md
+      - Products & Programmes: products/index.md
+  - Research and evidence:
+      - Claims: claims/index.md
+      - Theories: theories/index.md
+      - Learner Variables: learner-variables/index.md
+      - Research Methods: research-methods/index.md
+      - State of the Evidence: evidence.md
+  - About:
+      - Schema & Guide: CLAUDE.md
